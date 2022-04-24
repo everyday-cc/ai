@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brentdykes/2022/04/20/dont-let-a-misgui
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brentdykes/2022/04/20/dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1000
     height: 653
     isCached: true
-
-related:
-  - title: "Gallery exhibit explores artificial intelligence and the human experience"
-    excerpt: "A fascinating new exhibit at the Vancouver Art Gallery explores artificial intelligence and its ever-growing role in human life — from the clothes we wear to the immersive video games we play. Running until October 23,"
-    publishedDateTime: 2022-04-19T07:06:00Z
-    webUrl: "https://vancouversun.com/sponsored/news-sponsored/gallery-exhibit-explores-artificial-intelligence-and-the-human-experience"
-    type: article
-    provider:
-      name: The Vancouver Sun
-      domain: vancouversun.com
-    quality: 36
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2022/04/1.jpg"
-        width: 1000
-        height: 750
-        isCached: true
 
 secured: "XIEwMTZlBfty1oQ64REvbPOIW7ladQ4M1B/ks8C3Pzxg5ede25MSoT9i6UBQNVLdtvY71GOVgPGQaBPI2A/ccYRCIlyEGnicWHweCuhddpE/bROq33X61/8ifG+Pk3bNEQxmQ/0Huan6DNTI81GloZEtm4UdcnqD8ohbpQiC93NH9MSXB8X5Hyhrv+1vzLFoDkQrGbmJsD/Cy++NQQHhlLLwqizrn6IQWqO0lxDcr/GgDR8j2Niy7+2gMfpzpXBfRkv5wppesSZgfVYctXD+JFs4XAqO+UPHyMFMQxAS6lqLek0RmZLAwTVpZHLOb/CMN/sIv18HHYXz49HMOounA3murJ/mvB/itZJXeAJzxaK9Ur0N3r1edQK/DgPT4R6wLrWdLHmDMBxnpW67DUI7iI+IuH90u/yDSYWWdjkrweo13F3WGa8jd1IJOQoiSGP2CAbvpv8S4N1/pgoJ34WnwFRRFuWe5zeE7V870gN1+sRykpdzRWNKB6AO2OYulfvdestkpAhWfjOfYAE3FcvY8A==;6mQdslnsXqBbCWjbwj3MCA=="
 ---

@@ -42,14 +42,14 @@ related:
         height: 422
         isCached: true
   - title: "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market"
-    excerpt: "Arcanna.ai scales SOC teams' expertise to reduce risk, increase capacity and retain institutional knowledge NEW YORK, April 20, 2022 /PRNewswire/ -- Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific,"
-    publishedDateTime: 2022-04-20T12:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arcanna-ai-introduces-ai-assisted-cybersecurity-platform-for-the-global-market/article_f470e99d-8494-5fef-bcf2-407bb61896b9.html"
+    excerpt: "Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific, unique AI models to scale security operations."
+    publishedDateTime: 2022-04-20T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-arcannaai-introduces-ai-assisted-cybersecurity-platform-the-global-/2022/04/20/9585911.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "2qcM2y2AA2nEUuB9IWvo1O82D6gWGQTmsYmBAn0oRGYPqfcDJiRQplIq8e4lEA/nRRILD6U4YhB7mUx0H8AKHuzp+tTji8FLle92VbRexld7Nq87jodYtvI/q0Xl4qo3VU9Owv1J9G26hdxoYf2hrXs56z4/52+jQ27TJlt9L2lRyUACY3igjKP1phKmNJRremnmktVRJXSk6qc0M3u69+ru8YJpg23Cf5KevrmBYy029kBVUXNevsE3ImM7SYlkJhpTcA7JnVgChksR2yz+QuD4oq7JTGv++3F2WwjNPgFkjzI6C5jYZ+OUphVLTUpfjFgoF4MUeoTDcdMRJ7rncrEbk8j2Z7N7+UR9HlOJdp2pTp2Bh3BRQPm7feRcg1JZlYY0llaEwwDSX258gL/iBIo1UKQY5kDdFwwgKp0MRlap7JgblR8W7mNj0XYN0oDeAVw0TSuawxmmsRjg2RmXrtqxZ0LedaMZUu2nDvc3w0d7ZzKizaG2yz3kWehkkOld/4gLOfDxWjR/xZNCQ8na6Q==;VXRlBlckdfT0icfMJaao8A=="
 ---

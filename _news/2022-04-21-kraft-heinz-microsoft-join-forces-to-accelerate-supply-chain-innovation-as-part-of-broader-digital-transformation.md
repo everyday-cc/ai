@@ -25,36 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes"
-    excerpt: "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE Regions. These latest services mean that"
-    publishedDateTime: 2022-04-19T08:50:00Z
-    webUrl: "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
+  - title: "Kraft Heinz partnering with Microsoft on supply chain solutions"
+    excerpt: "It’s powered by Microsoft Azure’s AI, IoT and data analytics capabilities ... companies to co-engineer even more digital solutions utilizing Microsoft AI, machine learning and IoT. “The past two years have highlighted the urgent need for digital ..."
+    publishedDateTime: 2022-04-21T21:18:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/04/21/kraft-heinz-partners-with-microsoft.html"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 56
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/Microsoft%20Portraits%20Jan%202018%20-%20PR%20Size%20-%2066.jpg?itok=RhaGUWpG"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Stripe hires James Phillips from Microsoft to lead financial services biz"
-    excerpt: "Phillips joins Stripe after a decade at Microsoft where he helped scale the Digital Transformation Platform Group. The business intelligence product team employed over 15,000 staf"
-    publishedDateTime: 2022-04-19T09:39:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40085/stripe-hires-james-phillips-from-microsoft-to-lead-financial-services-biz"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 40
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/stripe-phillips.jpg"
-        width: 480
-        height: 270
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Kraft Heinz and Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
     excerpt: "Multiyear cloud and AI agreement will focus on joint innovations across Kraft Heinz operations and product portfolio, representing one of the company's largest technology investments to date"
     publishedDateTime: 2022-04-21T13:00:00Z
@@ -69,15 +48,6 @@ related:
         width: 1072
         height: 1072
         isCached: true
-  - title: "Flutura accelerates Lupin to digitally transform their operations using AI"
-    excerpt: "Flutura Business Solutions LLC, an Industrial IoT Intelligence provider, is collaborating with global pharma major Lupin Limited (Lupin) to accelerate its digital transformation and automation journey."
-    publishedDateTime: 2022-04-21T08:54:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220421/3933653.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 15
 
 secured: "HBdJF/zjr1vZ9kwNKFFmuLdL8o6L+Ls7R/yLMz22yTyB5gZ0JCnuKfeyfE5vcoqig+Euwyv5sCfsZ4QBwj9sDFZZRHQS6aXm8Ia0nY958N42Sn7DJEMP+VN7MkkZd5BfpQCCenG91XMtrGR1yyJHALkjsoKNxA8ih4JPeUy98KUWKNpsfv9qlKuARBXKfPuIvJI2+A+ccSoEkXkX65UwAtY0J7F2cG2ic9k/1lBXzv+zm5MMHgXRxmaMQu4BtaWaSmOWI5u9elYRCAhiL+ZKbiXFoNqi4ZqswHUQHoaj5IUMdz6E+SwOdHVcHzKt+8S0fkCu5ZL8miS33+dxzA7RAWgA39pnMr7ilq8LmDESleG6GunzCSSMYx3K7G6qUAJl6rv8OARtCYQtPpfD8Og42S0cc82Jzl0qAkqFzOKdnExJLVYkx05D8bUAlDjB2TYCvbeqdLU1y6Ss9tjrrxw8HjPlKxenDo+8f3bXMMJz6Dr5Msro59T85ujx6JwMbngqnwR3Myq4+2IRNsvlUPf+GQ==;gFfHCkd4irQkR6eDp5e1Zw=="
 ---

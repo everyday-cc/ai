@@ -41,6 +41,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "2021 a good year for facial recognition at US ports"
+    excerpt: "Forty-eight million people entering or leaving the country in fiscal 2021 were subject to face biometric comparisons in a program called Simplified Arrival."
+    publishedDateTime: 2022-04-19T14:45:00Z
+    webUrl: "https://www.biometricupdate.com/202204/2021-a-good-year-facial-recognition-at-us-ports"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/01170113/Simplified-Arrival-CBP-biometrics.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "sn7VZTNPEiyPLbqJiI19M4757j6nk+pNDt3kP1nP9YQKvD4oqM8F1NW6aeRZFtyvge3aCYJx3tRGvBLLKZ5phHiM/31iPkQa9VYuE4Vbwc9DP7/mtP6BpXA+L2I0xWcenFWROHrrdgeZD+PT8ZIn1mwncNWtA0uhSzHokDPaaHCMfCU/DXazdfmj0kHaXEAUndDpBZ1VhYbu2gFhxsvu939iVXxrOjr3ESVenhGfTdSd0VNamA05W/9k5uNeVFVsfMAIBKceF1VswWXk95Cu62+Vz8UYtxh0zQjltXnSFZ+60rR1lpMStvV8b9b3Vi+4+UOfuX55VrMrWSE121ZR2M+7gLTBKxJTE6Cc24QIQoCnOGipNvXh1NyKM9TLyWYQkfi4SzU0WxCRWowGNDPSY3hfUhA5NzOTyUagLLCkPAaDvK+Ljm820wriIFSrqcNpZVOtU4WitUIX4OCuYw1aiZ+Kyf31rg15i4jg+dHFr8QwGb0vOgZqTBlg8AOyw4b9vl4sI0Lxg+6IFEHNVQKJDA==;9Qgo/1vy/w5ZC5CAFlIYFQ=="
 ---

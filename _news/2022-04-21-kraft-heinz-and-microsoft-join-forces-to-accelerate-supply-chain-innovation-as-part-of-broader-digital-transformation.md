@@ -25,36 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes"
-    excerpt: "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE Regions. These latest services mean that"
-    publishedDateTime: 2022-04-19T08:50:00Z
-    webUrl: "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
+  - title: "Kraft Heinz partnering with Microsoft on supply chain solutions"
+    excerpt: "It’s powered by Microsoft Azure’s AI, IoT and data analytics capabilities ... companies to co-engineer even more digital solutions utilizing Microsoft AI, machine learning and IoT. “The past two years have highlighted the urgent need for digital ..."
+    publishedDateTime: 2022-04-21T21:18:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/04/21/kraft-heinz-partners-with-microsoft.html"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 56
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/Microsoft%20Portraits%20Jan%202018%20-%20PR%20Size%20-%2066.jpg?itok=RhaGUWpG"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Stripe hires James Phillips from Microsoft to lead financial services biz"
-    excerpt: "Phillips joins Stripe after a decade at Microsoft where he helped scale the Digital Transformation Platform Group. The business intelligence product team employed over 15,000 staf"
-    publishedDateTime: 2022-04-19T09:39:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40085/stripe-hires-james-phillips-from-microsoft-to-lead-financial-services-biz"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 40
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/stripe-phillips.jpg"
-        width: 480
-        height: 270
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Kraft Heinz, Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
     excerpt: "The Kraft Heinz Company and Microsoft Corp. are joining forces to develop solutions designed to accelerate the consumer goods giant’s transformation and enable a more resilient supply chain."
     publishedDateTime: 2022-04-21T16:21:00Z
@@ -69,15 +48,6 @@ related:
         width: 900
         height: 550
         isCached: true
-  - title: "Flutura accelerates Lupin to digitally transform their operations using AI"
-    excerpt: "Flutura Business Solutions LLC, an Industrial IoT Intelligence provider, is collaborating with global pharma major Lupin Limited (Lupin) to accelerate its digital transformation and automation journey."
-    publishedDateTime: 2022-04-21T08:54:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220421/3933653.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 15
 
 secured: "dDgRyxPWEmriYJ2YlbHFc8i5upCLHJI12RUX0fpm3bZT5KNAyysYlwAGWaZChniNXwncnMYCJVqMU73qpy7aLKsRhFCPfVbNm0GzjNU/QQUVOUnuZCAc1D3VDHfDTjWBMgJ+3Yrl4NAsJMjxgT9ZTJSYzsY+jKEIxLBrHmaswVcl5WI5qjnNzQc1CKeuKAYyPah8FVzmBmwqN7x2Z+so/jteIQVmkaCG3oBMj1UsJN1CO29RsuD2jiuRF80yu1v0KJdWwxOlYvz+TX+mZ/j2EqWhtG7zA1BqLjXujz4ieHN4nKUM0ogh4s/gQlorWbJe+2PxXwskzFQRWbmHgrHVvfMxAQpdYkTaSwg9OpIvGgtbhI6m3N2gH6NX9y/DFyvOQHSnLZjQem0RbCcAlSSZqV4lR/ANytwExUrCawZDuvuInnfbXdoC9HMyh6wuykP3hPzC+184jbXG3gwddY2hxaX8O8FYpoRHOoOCJdgzjQtcdRSD623LBJAWbREk0bMNhTaIOfNr6Y6i0RUO9l/VFg==;fJkjtmSZ8QqVBLT6beyGcA=="
 ---

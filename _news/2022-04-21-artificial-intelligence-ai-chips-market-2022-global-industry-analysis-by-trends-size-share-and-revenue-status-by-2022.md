@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-  - title: "Security Robots Market by Type, Industry Size, Top Companies Share, Growth Overview, Demands, Analysis Report 2022-2027"
-    excerpt: "According to the latest report by IMARC Group, titled “Security Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
-    publishedDateTime: 2022-04-19T07:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/security-robots-market-by-type-industry-size-top-companies-share-growth-overview-demands-analysis-report-2022-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6d6f51edcabbfd281e87b847372cfe5d2582154b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market Assessment 2021-2027: Industry Size, Share and Top Key Players"
     excerpt: "The market study on the global Artificial Intelligence Chipsets market will encompass the entire ecosystem of the industry, covering major regions namely"
     publishedDateTime: 2022-04-20T09:14:00Z

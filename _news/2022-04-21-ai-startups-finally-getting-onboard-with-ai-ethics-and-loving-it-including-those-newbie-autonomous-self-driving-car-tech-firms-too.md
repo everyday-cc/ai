@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-final
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
 type: article
 quality: 76
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -155,20 +155,6 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
         width: 615
         height: 409
-        isCached: true
-  - title: "WATCH: Video of cop stopping self-driving car is ridiculously funny"
-    excerpt: "A video of a police officer from San Francisco stopping a self-driving taxi has been doing the rounds on social media. WATCH: Man shows genius way to drink wine In the video, you see the cop pull the vehicle over because its headlights were not on,"
-    publishedDateTime: 2022-04-19T07:55:00Z
-    webUrl: "https://www.jacarandafm.com/shows/mornings-with-mack/watch-video-cop-stopping-self-driving-car-ridiculously-funny/"
-    type: article
-    provider:
-      name: Jacaranda FM
-      domain: jacarandafm.com
-    quality: 24
-    images:
-      - url: "https://turntable.kagiso.io/images/cops_stop_a_self_driving_car.width-800.png"
-        width: 800
-        height: 376
         isCached: true
   - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
     excerpt: "The Government will update the Highway Code to make clear clarify drivers’ responsibilities in self-driving vehicles."

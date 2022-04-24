@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Elloe, AI-powered Conversational Commerce Startup, Exceeds $1M Target and Closes 7-figure Pre-Seed Round."
-excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of financing. The round was led by Philippines Mad Ventures,"
-publishedDateTime: 2022-04-23T00:28:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-22-elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-22-elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
+excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of"
+publishedDateTime: 2022-04-22T22:35:00Z
+originalUrl: "https://www.digitaljournal.com/pr/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
+webUrl: "https://www.digitaljournal.com/pr/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
 type: article
-quality: 0
-heat: 0
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
-secured: "mBiSaQoahoOVud1k+00VOmoOlGyCAAnHDhFq9ihKz3HfJVz7u5hGu3bJRdEM9rqLX0LqSFF2h+LOjBl/E0tUbBHn1YA2aOUb5Jh1iD09LMOuglYlrVTSXKAWqcLr6c6X/jPlxpmHbl0E9UVlvg85KIePTjBVQxGgHgtWy/iablNcsHdbqmH2AyjBhXMZUJBqyZn2qVca9V8K1++2WyzMsdo504GVEHoF9Ee3vw3uK1UeiwLD92+oCvZyJCj587gXeQdGZLt5kpcehwRpbbwaf5tqiOFhTf5rzSHfIcp8OugHXHRG111LA0WGu7GlGgRIPp04kFJ8dhxWlr0D+ZXbJptkX68sSUkfZdsBojbWl+3u53imPvcS6ilxuY/VGHLOrX59qRhcQJsNz79ofY3ZH9oZfFjRYzH0j0/zlOD919sOFCq7SCiFr5JkAtKwx3cBA9Acct50S5ZBUxBuw4BrLyUo3dEyQQ14CxL3Ji8+UfsDaOFArz7+iiPXosDWFYv83lOXvdteo5zHBIaSKlvOzA==;CnnIbhyhauhnuRF9fgm/rQ=="
+images:
+  - url: "https://www.abnewswire.com/uploads/1650621633.png"
+    width: 725
+    height: 664
+    isCached: true
+
+secured: "dhNQCXD6XZj18ORKAK/+jGXKSYQzVS3K2ISUoX82uDEB33Wo59mfvtFpsbLGEZk3Ptqoor9hKYj7UzH0fbEN9jJjC/n6n8K7LXdEqxTctEiJHiDDEfzaHtAoNG7e/1YxYHGw3aKOtkOTPq0GOYUVf5XwjloHv0TMexBOPtmrs3bep3iDUcTopRtmHYtA6/ZCbpQ+xjwcPk97XVdxoYZnVXC41PdFNFDxzRdODVYUPzAf6uPWZhoKVfS0aR6F4VOAH4DYdSdoouoF+CSWlSfXvaMMX0kmgR8tYqBLLsuc7gP8Xvg6TTANOpfUYLjnTanYH2T+ie55WeEmJpl8kM0Kc4Si5+tzayk4OlAc2F+JthY=;fuTH52g1ZKKOcNFIGcixLg=="
 ---
 

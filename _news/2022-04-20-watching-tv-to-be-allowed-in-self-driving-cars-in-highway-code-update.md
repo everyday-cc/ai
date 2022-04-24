@@ -165,20 +165,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "WATCH: Video of cop stopping self-driving car is ridiculously funny"
-    excerpt: "A video of a police officer from San Francisco stopping a self-driving taxi has been doing the rounds on social media. WATCH: Man shows genius way to drink wine In the video, you see the cop pull the vehicle over because its headlights were not on,"
-    publishedDateTime: 2022-04-19T07:55:00Z
-    webUrl: "https://www.jacarandafm.com/shows/mornings-with-mack/watch-video-cop-stopping-self-driving-car-ridiculously-funny/"
-    type: article
-    provider:
-      name: Jacaranda FM
-      domain: jacarandafm.com
-    quality: 24
-    images:
-      - url: "https://turntable.kagiso.io/images/cops_stop_a_self_driving_car.width-800.png"
-        width: 800
-        height: 376
-        isCached: true
   - title: "GM patents self-driving car that replaces human driving instructors"
     excerpt: "Self-driving cars are often described as replacements for human drivers, but a General Motors patent filing shows how they could be used to train new ones. First spotted by Motor1, the filing with the United States Patent and Trademark Office (USPTO ..."
     publishedDateTime: 2022-04-22T11:00:00Z

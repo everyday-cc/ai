@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/40085/stripe-hires-james-phil
 webUrl: "https://www.finextra.com/newsarticle/40085/stripe-hires-james-phillips-from-microsoft-to-lead-financial-services-biz"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -24,61 +24,6 @@ images:
     width: 480
     height: 270
     isCached: true
-
-related:
-  - title: "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes"
-    excerpt: "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE Regions. These latest services mean that"
-    publishedDateTime: 2022-04-19T08:50:00Z
-    webUrl: "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 56
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/Microsoft%20Portraits%20Jan%202018%20-%20PR%20Size%20-%2066.jpg?itok=RhaGUWpG"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Kraft Heinz, Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
-    excerpt: "The Kraft Heinz Company and Microsoft Corp. are joining forces to develop solutions designed to accelerate the consumer goods giant’s transformation and enable a more resilient supply chain."
-    publishedDateTime: 2022-04-21T16:21:00Z
-    webUrl: "https://www.foodengineeringmag.com/articles/100231-kraft-heinz-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation"
-    type: article
-    provider:
-      name: Food Engineering
-      domain: foodengineeringmag.com
-    quality: 32
-    images:
-      - url: "https://www.foodengineeringmag.com/ext/resources/2022/04/21/KraftHeinz-Microsoft-logos.jpg?height=635&t=1650557798&width=1200"
-        width: 900
-        height: 550
-        isCached: true
-  - title: "Kraft Heinz and Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
-    excerpt: "Multiyear cloud and AI agreement will focus on joint innovations across Kraft Heinz operations and product portfolio, representing one of the company's largest technology investments to date"
-    publishedDateTime: 2022-04-21T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader/article_ae96bef3-472e-55be-b401-9f2d7740dfd5.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/7d/27da7c2d-dbb9-5236-bcc9-a55fc34f7427/626156208540d.image.jpg?resize=1072%2C1072"
-        width: 1072
-        height: 1072
-        isCached: true
-  - title: "Flutura accelerates Lupin to digitally transform their operations using AI"
-    excerpt: "Flutura Business Solutions LLC, an Industrial IoT Intelligence provider, is collaborating with global pharma major Lupin Limited (Lupin) to accelerate its digital transformation and automation journey."
-    publishedDateTime: 2022-04-21T08:54:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220421/3933653.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 15
 
 secured: "7TsMZMU6eRjdhOFuserOsooi2nfQIeh/l77/iducUnTwJLfue/Pvg7vNSf6cKOBOl4ihldEvB1QXAzl7e51gXCSIwnhHlLEhQdUnVoOxBbhRgoYAePbQBGXYYM5Ojxgf6HGX5Cu1lJXKKJgy7r/rZ7ttAl1NqFEHDpxPp6ARGq2RfJE4eXhg8OXEmwp+Ev8wL26CZ+dtat8xxYGvkWP0qot+8m+PlbfM95YHHcnR7xqA/KRtMHdjKxXr9C1O6RLzt+c5ZGqTOFaWNkrRLrye3W0zDFG+igjfpbp72a9mhmGOT1C92XE7lF1YdbilfWKUwDlxnMW+YYpXmuLx9rLBGl0FjJJC7OgWJl6RNY0gWWomI7DONyV35wcyfzRtfgv3ugqvKw+sm/sJseUPAs01jmJNsI1DFM02jPXuSg+vAFMCEPH7lotwYQOXUroOG9pfWrbQ9dL6SOb0m+OcY21yT+UnMSPfYbqjxAEGQluMW4xEp9N4znw1Q6RZitxgQQ/0Nd3HqX0bAlmW4QvbFayrig==;u5cypGgfJDk8NFMVHO7kbg=="
 ---
