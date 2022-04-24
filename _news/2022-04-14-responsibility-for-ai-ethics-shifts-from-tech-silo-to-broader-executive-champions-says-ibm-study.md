@@ -2,25 +2,19 @@
 category: news
 title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
 excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-publishedDateTime: 2022-04-14T04:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-responsibility-ai-ethics-shifts-from-tech-silo-broader-/2022/04/14/9582906.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-responsibility-ai-ethics-shifts-from-tech-silo-broader-/2022/04/14/9582906.htm"
+publishedDateTime: 2022-04-14T07:01:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg"
-    width: 2700
-    height: 1845
-    isCached: true
-
-secured: "wPxufrYPuA6AG3MP92DAhaGrNNAUaLKM5OiJ9newdoVJUEor0HhXygMWDHqyDob4sO6tPHSdtOrFc6BOQ8RaYg2/lYFP5fugUt8NE+D7FXcBezQ8EZWZdYOiDrjOF6TuDqwrYCDx/uMnTeMNlx4JJyPtkTcpDzCZQth3yGTQRUezeftHbhZvZxg2ZLD8/nMkpsi8QLkxCvdviW5HwZfsL0wwE9gZuz2aRiftCLa8DRGfnBMRF800oB795bJtFcdLqwh6Ii4LQyAgc0YZ4wf89nTPt+7UajCMDM1pKcaGAKF4X49RSaZMXfY7twQ5Pxl0ViiVKcDaFP8ke6M9QrLpYpk5M+9k9Bl839USOjm/Tik=;XNUtPO2KZclybhBfQjwbAw=="
+secured: "99Ra7zfQMp0+zmw4ePeZbDRLOn3X/TVDJ6FjGSt+w9TTRXLo1dNMdmynezTz8B6Rv/55l21iccRROaW3rKd9X882cQV035/XdELC+392HmU5QG9SDeTSW7BCxOXMBlwUrNhhNecKlohHGuLyLlkq0quKgKEloaiOY1kQuuCxn4rvxDijPcSRScWrbTq+CtcR2Dw/Y/sa4exOOvC4+HaZ46EidDIUnSiLOeOLXPDnsQ/sG4Nobfyyq+b5PkncAFlSJyvd5geZlD2EaAawLQ5XDx97Tv1uU5auhb3etaL63mV0U+NrQzfmaea+lvO4QYDXz8gbXcXOvKd638lYWXU/aZsNtqpk1JixLJZBLhfTbqK+GyhO/Wy//Pt7W94HC11N8DZ2zVzsQknN89udNHVbNiXPddEsDpx/aELigjOjf2k/TUhrfRz2nx5DA5l9sSjjntN7QXJgTG3+m9VjbSgPAL2vdyQxb/Gh3+TM2TRhY17r4uJjtbRax/mgV57XoY0drlssDJ3fK7KgASZfDOqsxA==;cP3JPuK7Hme9NDWiM++6Kg=="
 ---
 

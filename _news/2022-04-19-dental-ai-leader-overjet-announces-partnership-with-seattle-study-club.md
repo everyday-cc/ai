@@ -1,28 +1,19 @@
 ---
 category: news
 title: "Dental AI Leader Overjet Announces Partnership with Seattle Study Club"
-excerpt: "Innovations in advanced technologies such as AI are reshaping many aspects of dental practice, from clinical decision-making to doctor-patient communication. \"There are times in our practice life ..."
-publishedDateTime: 2022-04-19T13:28:00Z
-originalUrl: "https://fox40.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/"
-webUrl: "https://fox40.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/"
+excerpt: "The partnership comes at a key moment when dentistry is in the midst of a foundational transformation. Innovations in advanced technologies such as AI are reshaping many aspects of dental practice, from clinical decision-making to doctor-patient communication."
+publishedDateTime: 2022-04-19T13:38:00Z
+originalUrl: "https://wgnradio.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/"
+webUrl: "https://wgnradio.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: FOX40
-  domain: fox40.com
+  name: WGN Radio
+  domain: wgnradio.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1514996/overjet_Logo.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "wjFRbciimFy40kVsadeSB6pryqWnBCvtR40D3zWwSa5uCFh276o/3kvqRDbsZIGQgT1bnICcH/6jWTF2yKpTdWDxp9J2B/QSS0t+lTmS0jFpcq8wQ/DltgMsxj1rTBmVIKGYAdgNrO6IoWoWrvXOwEOSRPdHyMo1a/OennHOZf7+BZxrLJtemgIGTpK+myWJuFT4L/a3JAxgnWgeu7wF//Ap18e+8Nvg2CHgRBJshwtXomv/AVd+zGvRMCdaqI0hxgq3O8Bi4TYuP66jL4IK5PDU55Dn2pM+d2CusxRi2FH5dtyApYXuCXrRrdCGijmntgTziVt3BrRNO43bwE7GIEGuKKjdXN2QHwY1QHj4Ox0=;cfiPebkuBVKMY5o+WjN+NA=="
+secured: "oLIv/TbE5zo1kgI66eTQlro0qd6F9cwTsh4kgH2HHoY2F9XYBJ7km+v9/4+ch57CIv4mOJNwW/mUMs4CIp7i2Xb7dBKBb1nykNCzCmXrw/pDCUeXS1fLEpAoTafcSZAAHgIPpmkG5UBAnS4ubJ09f8LiTN44en0ZvZVwA6ddYGvAmrWlElDQu0qxy9dbjKwZCw+FOOuQtBDtEOOBbr4fxGh/34cyVOEGDM0QTBca280UhniySa1teWccKTudijEcX9FzdjBWFF04V0EQOq1o/lCxryMLjEveZZ73bIF/PG6XK5itOz59nuayoKVLvmMR0e38XcvM2fM1HmYqU8Nlpc6SmXOsXiz0LAjOLvrvd5s=;n3px779+mMc/PA99/FfM9w=="
 ---
 

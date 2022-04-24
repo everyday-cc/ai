@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg"
-    width: 718
-    height: 478
-    isCached: true
-
-secured: "WJpE7WQ7dR3fXgTXdup11CwhpMx6kgmkWxW4hoxZeKdir3aJMGLC3XmXpNAu8ksCHZOGpFNZrVRZdo4nIMxts3NmJ7jfm0WwCxw3I8xUCFd4458zmZyBfvRHhZXX5dijMR+BxuiNm18TpD6r6cG8UfCvaIYNFmhLLbib2I9YoitWOkaUhIJpYA9ruW6NaBlw/iOQE93BiXhz1QI6pBihUmlV1o04bosUe/oQ7D9/2KQ/xkDWl+IVOa8HUiE55wHizbWW0WG81WsWwM8Q/Fz5b3KCvhLECTMpgZnMI08uPUBh5oGpWTmbsLdypdjUsvWZJN280cwobQkKgBEqP7rHZVcitpj75D3YSH0iyrz+QPo=;3obXiG9Wpkqs9OUnwrU0+w=="
+secured: "eaVlCwZwsN3yYFOTX5CNVW67iyUgIHKtkEeg+4t5Ka2bfUm0XDHFQW9d2/ZzHgd9OzXZH1EBdlRVkj1qGETA0vydKpZelh7MiNWRTCFLYrVnmMPf0Xdn84YftkIngbnMTi7MVrgNEzmF9hq8zVkZy4sPzpKwJ+QCRNPd/SqUoGrjKDM4sn+68v+SKb+558fFLMOtuYi4qJ6u+NdgRgUgmXO6QtkD2tcG/aPg8oB4OlkhRnRO4e5bQGSoM22dWTHl2mqmag0Y7pEZMUXeBNgoZeYWjVOKMJwBAsSgPfiZUpUexjTeYcy5+lXKDy6xwga+29giwDARXZdXgVHZdSu6OXaZ5veqd0VQmvih87BKp2E=;CBtbRR9YHc4QpeE+RdiGeg=="
 ---
 
