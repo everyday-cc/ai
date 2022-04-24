@@ -77,15 +77,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Automotive Diagnostics Market Size Projected To Reach USD 58.36 Billion at a CAGR of 4.42%, By 2028"
-    excerpt: "Growing economy, rising disposable income, and increasing rate of urbanization and industrialization are the major factor influencing market growth."
-    publishedDateTime: 2022-04-19T12:27:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automotive-diagnostics-market-size-projected-to-reach-usd-58-36-billion-at-a-cagr-of-4-42-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
   - title: "Wireless Connectivity Market worth US$ 127.9 billion by 2027 – Exclusive Research by The Insight Partners"
     excerpt: "The applications of artificial intelligence in the automotive and transportation industry is driving the evolution of the next generation of intelligent automotive systems. With the current advancements in Google’s Driverless cars and Tesla’s Autopilot ..."
     publishedDateTime: 2022-04-22T12:09:00Z

@@ -2,18 +2,27 @@
 category: news
 title: "Intellihot's telliBot_ai Wins Best New Product Software Category at 2022 Edison Awards"
 excerpt: "The telliBot_ai software uses advanced intelligence and sensory technology to more accurately predict the remaining life of existing water heaters. This software provides customer"
-publishedDateTime: 2022-04-22T22:24:00Z
-originalUrl: "https://wgnradio.com/business/press-releases/cision/20220422DC33560/intellihots-tellibot_ai-wins-best-new-product-software-category-at-2022-edison-awards/"
-webUrl: "https://wgnradio.com/business/press-releases/cision/20220422DC33560/intellihots-tellibot_ai-wins-best-new-product-software-category-at-2022-edison-awards/"
+publishedDateTime: 2022-04-22T21:24:00Z
+originalUrl: "https://pix11.com/business/press-releases/cision/20220422DC33560/intellihots-tellibot_ai-wins-best-new-product-software-category-at-2022-edison-awards/"
+webUrl: "https://pix11.com/business/press-releases/cision/20220422DC33560/intellihots-tellibot_ai-wins-best-new-product-software-category-at-2022-edison-awards/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: WPIX
+  domain: pix11.com
 
 topics:
   - AI
 
-secured: "px+SwtZOmQRPMVL6UvrKRq+eyPRW3JFBBRIWU8mWHUQ6RKKWUjwwpG53xjC9NU314YAOqNY7qcpDZY3qFtkmOs5vtb1KmlnNCL46jtXso31VrXXUzmHhUL2Lg5kesuQ4P2EIjNMT/rw66aUoA7iCHiECdWjpGSRYTUK3bHmefsevEH6th/KWxWUMsYz1qAd+3ND6zPuyXIAojRNTfJ+0H2qzSlOm74gbHIfWFaYd3AD8FukGpL1IxGMWcBVOaBFN3HlLNMUP98V3siX56sK1iq3qyImNQ+dwgrc2iyLqiJjpiR1fFmBQELL1yf6GUz38MRQ7zYoJv2l1qH+GnXMhjMFP7HtVnIU36YWpFmjHys8N8a+it0AXxPQ+ycdy9kLPmuzB/8vB1L09huilL6pCUoSiyE3xffmwxcl93KcbIpitUM4p/EiFrDq6WKP+SCvfYRnyf8tCHd/jNgK6wfNq6JcRLWyhys907R0OjX2fQte+CNTO8hMKikbrnhx341E9OkCUhrAxvZ2zY10dSAIKsg==;bM489vmlrUt1ABl7R2RYYA=="
+images:
+  - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2022/04/mom-bath.jpg?w=2000&#038;ssl=1"
+    width: 466
+    height: 466
+    isCached: true
+
+secured: "fc+Iw17AHS7KwSwGqxyw2gtIyy0RYMcVtXS9fmDdaDa4dqcuZKKV4JkkQFecNnW0Db+BnPxrGuXgJQlu6C6grgTVLxe9xQHarLdkUSdoQejXshdv+9KAwAT68HMQqm3Gf96ErzsUwG7o053Wd35EneN2NJcPf4+1Tr0KQQVTJJJ4ePfi0TllFeN0Qdcj77VqwM5q4tfryXNlSyFFkpgrTS/nDCBKhy04otGWFWfmdOztu2vs06Yvfbqm8rMmITE2YisJGyGs07HPSefF4iEMJyPImC4AGMgdjKOu3ZpraVkGpiziXaU5QBJQBvYAi9jUuMQyqyLRgQ69XFDpglu0LHs42oNlEx4rYzZ32f7BhQs=;hnfwakpXsKrFlDUzRDyo2g=="
 ---
 

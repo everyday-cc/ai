@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Impacts
@@ -41,6 +41,15 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Smart Cities – Using AI for Smarter Roads"
+    excerpt: "Road safety measures need to take into account the fact that humans will make mistakes, but this should not lead to loss of life."
+    publishedDateTime: 2022-04-24T04:16:00Z
+    webUrl: "https://www.voicendata.com/smart-cities-using-ai-smarter-roads/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 17
 
 secured: "If/5oQ8yeJuq3LGZFk6HeqieWEbSxDskrIWM/E8lucTxuONuF1oRSw9L9zCEfkia1LCZnhyoHSEg2FrJ3LqfvxcSmLoEqlqiSSSSbv0dXvqjXG+XHZEdVB1cu4P3qziCoQvQM23fRBvY0K4gWtdguyV3TWbJxSEBzJXFM+VZZIt1mbs4C4T1tbPiB5p57T1wp8LnmvnTyUglkSGWophGTBKlYycJoZvRVDTpG6HGOwNqVIM7LDYFLaTby5/mZlVTbEAVLUWu/S9MMOtxeli8SUmJ9GTFSuUX8yHoqW6Fgw4KhxoaoYnTNz4ngRzPouIzC0g5dLpZyZfTqaA7R50Kk4RF3tYP4wIZnaCCa0KfkLHksOtQBGxZ2OsHgwd8yG0GasLonQvh4SFViw06q3FKpXsgvn1naZJVS/1j5sEEuzQxa0IpwIraWGGs+TiC/mHp8IiZoE3awJBrhllL0tPEZ3XOUVDuCH3bwnpY34tcSdsYGzS7ntHSdZJ2arXQyQz90TKziksUo9Ntr9QgGkcf7Q==;12pNPbk9R7mowaYQ6OK5NQ=="
 ---

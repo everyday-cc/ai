@@ -156,20 +156,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Stripe appoints Microsoft’s James Phillips as president of financial services"
-    excerpt: "Stripe said Philips experience building companies will be instrumental as the company works to expand its portfolio."
-    publishedDateTime: 2022-04-19T14:37:00Z
-    webUrl: "https://www.siliconrepublic.com/business/stripe-james-philips-president-financial-services-microsoft"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 38
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/04/33e7cac2475516a17f2414afe7a9e64312ceda757081c3517f82a84f8d27f1c6.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
     excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
     publishedDateTime: 2022-04-20T07:12:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/conversational-ai-market-is-predicted-to-rea
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/amp/"
 type: article
 quality: 57
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Automotive Diagnostics Market Size Projected To Reach USD 58.36 Billion at a CAGR of 4.42%, By 2028"
-    excerpt: "Growing economy, rising disposable income, and increasing rate of urbanization and industrialization are the major factor influencing market growth."
-    publishedDateTime: 2022-04-19T12:27:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automotive-diagnostics-market-size-projected-to-reach-usd-58-36-billion-at-a-cagr-of-4-42-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
   - title: "Computer Vision Market Size Is Projected To Reach USD 13380 Million By 2028 At A CAGR of 6.2% - Valuates Reports"
     excerpt: "Computer Vision market is segment by Type - PC Based, Smart Camera Based, Segment by Application, Quality Control and Inspection,"
     publishedDateTime: 2022-04-21T13:00:00Z

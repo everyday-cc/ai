@@ -148,7 +148,7 @@
       "originalUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -283,49 +283,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-how-enterprises-can-use-ai-to-reduce-data-storage-costs.md",
-      "title": "How Enterprises Can Use AI to Reduce Data Storage Costs",
-      "excerpt": "The volume of data maintained by the world's enterprises continues to expand. The increasing cost of storage has compelled",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/",
-      "originalUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/How-Enterprises-Can-Use-AI-to-Reduce-Data-Storage-Costs.png",
-          "width": 1945,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/",
-      "publishedDateTime": "2022-04-20T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1427,6 +1384,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-lanner-electronics-and-movai-to-speed-amr-development-with-an-integrated-computing-and-software-platform.md",
+      "title": "Lanner Electronics and MOV.AI to speed AMR development with an integrated computing and software platform",
+      "excerpt": "Lanner Electronics and MOV.AI are collaborating to provide autonomous mobile robot (AMR) manufacturers with an integrated computing and software platform for optimized performance and faster AMR development and deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/17967/lanner-electronics-and-mov-ai-to-speed-amr-development-with-an-integrated-computing-and-software-platform",
+      "originalUrl": "https://electronics360.globalspec.com/article/17967/lanner-electronics-and-mov-ai-to-speed-amr-development-with-an-integrated-computing-and-software-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/967/17967/Lanner_Electronics_and_MOV_AI.jpg",
+          "width": 700,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

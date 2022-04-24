@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/04/22/1050394/artificial-intel
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 768
         height: 600
         isCached: true
+  - title: "Accessing the AI Revolution"
+    excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
+    publishedDateTime: 2022-04-21T13:41:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/accessing-the-ai-revolution"
+    type: article
+    provider:
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 17
 
 secured: "3H6e+KPQQZApSDjFYrM47zwxUulW2O3fcccS2XXoNIsW3tV4zQUFJbHkVyBmQoQyswxMYv2r+H9+h+bdiqLbmuArrT76tGwY4pY41YywiyBIquldv6sysBPyAhMP2785slM3DXY23xzPD5sRgvrVQ7tz5MOYJyxqXbpCipZGraRaMtsBX+Dw17NwQvZIzxcolBj129C1Uo0Oo3xAYmzYUrvFe8kEkHGojT76CQ2vlxtqBuGu6pfz/qiX92W0wg51opBVtWn+t4hJD1cUbhAWan/FY+Pxb9YDe3rlzythbSHT3hHFduGCfBRAu4TEynE/RvH0wM2USAOwdTDdmLVIoC//Kz75CH3qJBSiXm68mmiw42OWho5Efr5HhQj2CDR4oiPuXCsNAjoo31revgjyneaDxjtSiDNC0O2SVA3lqeSr2J6T5YJBjAQC56dW6qF6FnEI6+e51A1tpUx58iq2NF0C3gTzEhL7pcuvF3evVY4nhpMSOooQGEG+27cxL1Ctbr6ypny9VGVqQk5dA3VA/w==;lk3yHSYeF0PS9NOheDnjww=="
 ---

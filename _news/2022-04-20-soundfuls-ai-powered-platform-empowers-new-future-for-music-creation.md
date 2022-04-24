@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Soundful's AI-Powered Platform Empowers New Future For Music Creation"
-    excerpt: "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022"
-    publishedDateTime: 2022-04-19T14:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1799706/Soundful_black__2_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "AI music startup Soundful raises $3.8m seed funding round"
     excerpt: "There’s another new artificial-intelligence music startup on the block: Los Angeles-based Soundful. It has just raised a $3.8m round of seed funding for its AI-powered music creation system, which it’s making available to human musicians and social media influencers alike."
     publishedDateTime: 2022-04-20T10:49:00Z
@@ -62,15 +48,6 @@ related:
         width: 1707
         height: 960
         isCached: true
-  - title: "First AI-Powered ALS Educational Platform Launches for the Public"
-    excerpt: "StoryFile, an AI startup redefining the media landscape through its proprietary storytelling technology, announced the launch of its first educational project dedicated to supporting people with ALS,"
-    publishedDateTime: 2022-04-20T15:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-first-ai-powered-als-educational-platform-launches-the-/2022/04/20/9586372.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "pTKyhWS1Ri7t0QAgYLsoKcoYuz2U9mzFV7Cc9DwoJKSnV9rZeg1WIPq+NpWxeNqeqsPEjZDKlLiQevomqqzD55IVVY8/4ROsNhA3BI0oTRvRQLej3LrqMJ2KVNkl3A+545i11Nrn71UE6n8aMr0xWE9/wJ+dFpOuqAQ+L3l6KAy+PLlPYemZkzEK9hYN4RQIpv1ihBiwPvNwX0XHcThLudb/DOU+sUwKV9Dm2s41l1WCe7UUwRGlLUwLpZolWnj7dfhzDwEULPcaECNcjWowGWgDeboOT9cr0UQqTbFIpUrhs9RROf6DEbPcAXhqzvc9vWU/mSKZWSGP4EjtFmUSKHejZCbz8aOOF8bLygXWZoA=;JNjQQXh9N5P/BRZQWxxRSw=="
 ---

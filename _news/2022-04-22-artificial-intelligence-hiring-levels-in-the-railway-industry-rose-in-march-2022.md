@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Three Ways AI Is Impacting The Automobile Industry"
-    excerpt: "As AI becomes increasingly accessible to car manufacturers, many vehicle companies have prioritized one central objective: safety."
-    publishedDateTime: 2022-04-19T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
+  - title: "AI Fuels Industry Momentum in Brain-Computer Interfaces"
+    excerpt: "Brain-computer interfaces (BCIs) have been advancing rapidly thanks to artificial intelligence (AI) in the past few years. Brain-computer interfaces enable two-way communications between the human brain and a machine. In the field of health care and life ..."
+    publishedDateTime: 2022-04-21T21:44:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/625d376a441cd32845a2adc7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 710
-        isCached: true
-  - title: "The Innovative Ways The United States Space Force Is Leveraging Data And AI"
-    excerpt: "Speaking at an upcoming AI in Government event on May 19, 2022, Dr. Lisa Costa, Chief Technology & Innovation Officer of the United States Space Force will be sharing insights in how the US Space Force is delivering the first fully digital service,"
-    publishedDateTime: 2022-04-23T16:14:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6264256f61e2dd81de312206/0x0.jpg?format=jpg&crop=2400,1350,x0,y240,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/pic77264.jpg?itok=m8Deopti"
+        width: 1528
+        height: 800
         isCached: true
   - title: "Artificial intelligence hiring levels in the retail industry rose in March 2022"
     excerpt: "The proportion of retail companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 46.5% of the companies included in our analysis recruiting for at least one such position."
@@ -69,34 +53,6 @@ related:
       - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/04/UK7It-1038x778.png"
         width: 1038
         height: 778
-        isCached: true
-  - title: "5 ways AI Will Change the World"
-    excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
-    publishedDateTime: 2022-04-19T17:51:00Z
-    webUrl: "https://www.psu.com/news/5-ways-ai-will-change-the-world/"
-    type: article
-    provider:
-      name: Play Station Universe
-      domain: psu.com
-    quality: 41
-    images:
-      - url: "https://www.psu.com/wp/wp-content/uploads/2022/04/robot-g2ba72723c_640.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "How AI has impacted the gambling industry"
-    excerpt: "Learn about the impact of AI on the gambling industry & the specifics of how AI has changed the sectors of online gambling & sports betting."
-    publishedDateTime: 2022-04-19T14:35:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2022/04/19/452118-how-ai-has-impacted-gambling-industry.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-apr/0390275816-AI3.jpg"
-        width: 436
-        height: 581
         isCached: true
   - title: "Artificial intelligence hiring levels in the drinks industry dropped in March 2022"
     excerpt: "The proportion of drinks manufacturing and supply companies hiring for artificial intelligence related positions dropped in March 2022 compared with the equivalent month last year, with 42.4% of the companies included in our analysis recruiting for at least one such position."
@@ -140,38 +96,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
-    excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
-    publishedDateTime: 2022-04-22T09:37:00Z
-    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-air-force-industry-rose-to-a-year-high-in-march-2022/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 19
-  - title: "Accessing the AI Revolution"
-    excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
-    publishedDateTime: 2022-04-21T13:41:00Z
-    webUrl: "https://www.pharmaceuticalcommerce.com/view/accessing-the-ai-revolution"
-    type: article
-    provider:
-      name: pharmaceuticalcommerce
-      domain: pharmaceuticalcommerce.com
-    quality: 17
-  - title: "MEDIA ALERT: Business Insurance to Host Webinar “How Artificial Intelligence is Transforming the Insurance Industry”"
-    excerpt: "WHAT: Business Insurance is hosting a webinar“ How Artificial Intelligence is Transforming the Insurance Industry.” Sponsored by Gradient AI, a leading provider of proven artificial intelligence solutions for the insurance industry,"
-    publishedDateTime: 2022-04-21T12:59:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/media-alert-business-insurance-to-host-webinar-how-artificial-intelligence-is-transforming-the-insurance-industry"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 14
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence hiring levels in the pharmaceutical industry rose in March 2022"
     excerpt: "The proportion of pharmaceutical companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.6% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-04-22T09:36:00Z
@@ -181,15 +105,6 @@ related:
       name: Pharmaceutical Technology
       domain: pharmaceutical-technology.com
     quality: 9
-  - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in March 2022"
-    excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 71% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-04-22T09:35:00Z
-    webUrl: "https://www.just-auto.com/features/artificial-intelligence-hiring-levels-in-the-automotive-industry-rose-to-a-year-high-in-march-2022/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 3
 
 secured: "Tls8g1QVJ60hBm3bk1erf2asVYTyaGhm6npakqn2cx6fYjoGuhLVGuXXrhft4/YAl5f356sUHzIa2akRIeQqbp82kHMf/en88iTCxqW4mAlUiutMdoic3RIBnqt8DGniWmOssJhA/4/BVkEpMSC90cBCjI0lGCrKCXPT36pDwd6IlqZ0T8tSQxoEmbN2ynKJCe46QO8S5diFJd4qHLA1tfB6QRCLRLLbmC9bqvjHWVZH2bqDWrvBFnAIL7V1PD9Oe6vy54agFoelnXjzvAqNEkIpam+U6Q7+ZA3rkqEW0smys4jdZZtuIreoBDk8Tvbj1lYkQ72ABT4zcr0lyq/Fvhd78f4BX+WAYqCS4+1h9Ox6IeJOIv1nHhhyYC0THGqoNeWq4onKnwaPKum38iaShOR0nAcbMUPvNNmy/b/KN49WqkcLlalUcxiBhKbRZjD0Qc1+rO0yEILpqxxTVE4XcnyYPgNy4MdgEx/UIKNhc0tfELze6d+0ytJ5fywmJGkls4OguUIKKH7hp8sBW//dtA==;nCh0Si3Z+kMZjP7PTHYVcw=="
 ---

@@ -18,58 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Soundful's AI-Powered Platform Empowers New Future For Music Creation"
-    excerpt: "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022"
-    publishedDateTime: 2022-04-19T14:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
+  - title: "Google Cloud launches exclusive AI management platform"
+    excerpt: "Google Cloud is offering users access to an AI platform that allows them to build, deploy, and manage AI projects in the cloud without needing extensive data science knowledge. Prevision.io has been built on Google Cloud itself and is now available in the Google Cloud Marketplace as the first pay-as-you-go AI management platform,"
+    publishedDateTime: 2022-04-19T16:00:00Z
+    webUrl: "https://www.theregister.com/2022/04/19/google_dedicated_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/19/google_dedicated_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/google_dedicated_ai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: theregister
+      domain: theregister.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1799706/Soundful_black__2_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "AI music startup Soundful raises $3.8m seed funding round"
-    excerpt: "There’s another new artificial-intelligence music startup on the block: Los Angeles-based Soundful. It has just raised a $3.8m round of seed funding for its AI-powered music creation system, which it’s making available to human musicians and social media influencers alike."
-    publishedDateTime: 2022-04-20T10:49:00Z
-    webUrl: "https://musically.com/2022/04/20/ai-music-startup-soundful-raises-3-8m-seed-funding-round/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 37
-    images:
-      - url: "https://musically.com/wp-content/uploads/2022/04/soundful.jpg"
-        width: 1500
-        height: 500
-        isCached: true
-  - title: "Soundful's AI-Powered Platform Empowers New Future For Music Creation"
-    excerpt: "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022"
-    publishedDateTime: 2022-04-20T07:44:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/soundfuls-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/soundfuls-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/soundfuls-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 37
-  - title: "AI-powered music creation platform Soundful raises $3.8m funding round"
-    excerpt: "Soundful claims to “democratize music production” by giving its users access to what it says is music theory-trained algorithms and one “of the biggest original sound librar"
-    publishedDateTime: 2022-04-22T16:09:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/ai-powered-music-platform-soundful-raises-3-8m-funding-round/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 37
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2022/01/giorgio-trovato-WyxqQpyFNk8-unsplash-1-scaled-e1642158808823.jpg"
-        width: 1707
-        height: 960
+      - url: "https://regmedia.co.uk/2020/06/05/googlecloudlogo2.jpg"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "HX8HXTXbS2kl5s1fGsj7XgmPAnfnjfZP4ZXmZoi3KKr5PmFlMjf3zjy2bwFufBWfBk7w7MCtEGTxVPVNwkuS+3+UhduS33/Xpr6EtPlFLvOfa0yrTYi5VERcS/XtPCJpDNA1oEp0tnz8ZZ6aJGAtcOp9qIUM92ld1JxqInEOjFz9b7oGOTW2CF9YwXpUvvBB+JWUO/pfZHSCSVFNJafD809t6YvUgHBJ2Zx6H8aMN0SntWlfBtAq51VH6wgqw/FHmnLFIuV0CM8cbiaRXPNswxZ86riqDTcqNv/L/+FAn+d7PnnAo9CTG9XSUh3Kailw/4iMTLwVTp85+Bq91eNX8guuextQC4R/2huZM4XT8a4=;vFp8GwSg+LyIQ83e4kb8RQ=="

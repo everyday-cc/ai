@@ -2,6 +2,151 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-14-machine-learning-for-biology-is-starting-to-move-towards-retail.md",
+      "title": "Machine Learning For Biology Is Starting To Move Towards Retail",
+      "excerpt": "It is clear that the growth of the skincare segment provides yet another opportunity for machine learning to be used as part of a market solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y24,safe&width=1200",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/amp/",
+      "publishedDateTime": "2022-04-14T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-acing-cx-with-smart-self-service-through-ai-automation-and-analytics.md",
+      "title": "Acing CX With Smart Self-Service Through AI, Automation And Analytics",
+      "excerpt": "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/",
+      "publishedDateTime": "2022-04-14T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment.md",
+      "title": "Israeli startup Ception unveils new AI-based system to improve safety, productivity, and profitability of heavy equipment",
+      "excerpt": "Israeli startup Ception has unveiled an AI-based system that reduces accidents and improves productivity and profitability of heavy equipment at construction sites, mines, quarries, and industrial plants.",
+      "sourceUrl": null,
+      "webUrl": "https://who13.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/",
+      "originalUrl": "https://who13.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2022/04/WALKER-WHALEN.jpg?w=2000&#038;ssl=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "who13",
+        "domain": "who13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.md",
       "title": "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'",
       "excerpt": "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks",
@@ -127,6 +272,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-why-big-tech-is-driving-the-fintech-digital-ecosystem.md",
+      "title": "Why Big Tech is Driving the Fintech Digital Ecosystem",
+      "excerpt": "The expert view on how Digital ecosystems and how Big Tech is redefining the financial services space by expanding the digital ecosystem",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-big-tech-is-driving-the-fintech-digital-ecosystem",
+      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-big-tech-is-driving-the-fintech-digital-ecosystem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/320/2a23807f82863b142512444f217db57a:c7a033226d6eec8650caeaa4d27857da/gettyimages-1202705835.jpg",
+          "width": 319,
+          "height": 241,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -264,9 +452,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -959,186 +1146,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform.md",
-      "title": "BlueOcean raises $30M for its AI-based brand intelligence platform",
-      "excerpt": "The medium is the message more than ever these days, and brands are faced with a challenge — but also opportunity — to capture what consumers think about them and their products if they can harness and better understand those messages,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
-      "originalUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/5220369850_6e9b1d1b4f_k.jpg?w=1024",
-          "width": 1024,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
-      "publishedDateTime": "2022-04-13T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements.md",
-      "title": "Salesforce Updates Service, Marketing Clouds With Conversational AI, CDP Enhancements",
-      "excerpt": "Salesforce has made a number of enhancements to its Salesforce Service and Marketing Clouds, including AI-powered conversational intelligence, mobile offline in",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/",
-      "originalUrl": "https://www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/6c65911fcdee4dbba8155925f0b0bd64.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/amp/",
-      "publishedDateTime": "2022-04-13T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs.md",
-      "title": "Intel agencies advance artificial intelligence in patches, struggle with big breakthroughs",
-      "excerpt": "Officials say a more “integrated” approach is needed to truly transform tradecraft using artificial intelligence technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://federalnewsnetwork.com/intelligence-community/2022/04/intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs/",
-      "originalUrl": "https://federalnewsnetwork.com/intelligence-community/2022/04/intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2021/06/GettyImages-1168105746.jpg",
-          "width": 2246,
-          "height": 1335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-aktify-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
-      "title": "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards",
-      "excerpt": "\"Using this data, we have optimized our AI to achieve 82% NLU intent classification accuracy in enterprise sales conversations. That's higher than IBM Watson, Dialogflow, and the average human.\" Businesses utilize Aktify's AI-powered virtual agents to hold ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0ea20623-dad8-5bb7-bfd3-c6b1be419ae5.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0ea20623-dad8-5bb7-bfd3-c6b1be419ae5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

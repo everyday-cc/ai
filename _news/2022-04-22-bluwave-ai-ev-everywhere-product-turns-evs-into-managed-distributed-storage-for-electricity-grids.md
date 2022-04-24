@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:16:00Z
 originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-canada-ontario-ottawa-331d57e8c0d755dfb3a3d61483f27a14"
 webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-canada-ontario-ottawa-331d57e8c0d755dfb3a3d61483f27a14"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -13,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "BluWave-ai EV Everywhere Product Turns EVs into Managed Distributed Storage for Electricity Grids'"
+    excerpt: "System operator, IESO co-funds $4.8M commercialization project with BluWave-ai and Hydro Ottawa to pioneer the product ahead of EV proliferation OTTAWA, ON, April 22, 2022 /PRNewswire/ - BluWave ..."
+    publishedDateTime: 2022-04-22T17:39:00Z
+    webUrl: "https://menafn.com/1104075465/BluWave-ai-EV-Everywhere-Product-Turns-EVs-into-Managed-Distributed-Storage-for-Electricity-Grids"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/22/PN_5206b6e4-b_Image_In_Body.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "j3QasQBR2mrhhp0V4AIS43AZDi5WCv4p6BZfKz6+RrhncN0zlfNQQ+9We+zMYrW8q3zkO96HYewNfKnhXLR2VITtXFzyjQxb1XdGGilM1eHO6/02/K4L8p53Zn/NuteJjF0OEHTVE3I2WwzbG4hg5QENg/EfNnoM2ceMQMCiiNXFUxrZkS2FVTVkCY4E1CFwG//ckTvo9W9FzW8giX11NE/Ut+VNPN6zxaYJ9qZQm12B9zfthJAyZ0lnXjyPXONVfl5WNui6YFjpCRYHxDBct7xMysVYYiH3Kajj8het0+6qCd3ef2nFMEyAKpUc3myzUmQlxgRbAzf+oChHsinWqzIzIWbhI87FEiOqPJHXl3M=;Dl2res60suJ87eLXmt9HEw=="
 ---

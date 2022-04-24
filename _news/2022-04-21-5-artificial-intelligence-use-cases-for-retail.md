@@ -40,15 +40,6 @@ related:
         width: 1945
         height: 1112
         isCached: true
-  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-19T14:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-vianai-systems-introduces-first-human-centered-ai-platform-/2022/04/19/9585279.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "ENGAoj7l6YCl8aDqLlYulXOvlzYc0+KfBYwNT0o37PzW5k01QnaGkJbt+AWEgTeq6Mv5UQE4Tvjbx44hxI1BhHnNOySsqyXvem3d1cX/j9sPu9RlK/VFb6WnlLKlZ2TD4McHqJBMOP1vmvg4o5FI2lFNzPo3C0FgiVSgftnq0VqHXCo4m8+VfJHsWsca8bRPhlOUumbuGFWD3ggP4tiKNhDFWcu27ofkS/AG2vT24xsr7LA/+3hF3wtWgQQapEMgktfDun+tCqP1W4k3uaJcYQWHKO9tnlsHeL6aErxU0TGBUfD+R2mMOD7z/6mmGjD9JXGKajOGEc16ERHPOo8ktXFra9OTefx9Zv3eihJDKDAYNQmdnaGRr5r1oavNTyHxpIYAjIcEecJLqTMMR7RP8M5do7DCwR1lPUthQLPFmqV7SLi+IzS6ezSMEfmyDkSrNten8GKtk1zkyeqMWNh20rtUUsD2C1Wj/Z29U4mruXo1FlpSAP7jEZuAbPw21kUfR3+bxE+qtOjyeZhVBBKiFA==;uJjNlqeJImxHKY25xlDeNA=="
 ---

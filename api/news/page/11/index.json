@@ -2,6 +2,228 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-11-artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks.md",
+      "title": "Artificial intelligence and cybersecurity among top priorities for Brazilian banks",
+      "excerpt": "Artificial intelligence (AI) and cybersecurity are among the top priorities when it comes to the technology strategy of banking institutions in Brazil, a new study has found. The annual research published by the Brazilian Banking Federation (Febraban ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "originalUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "publishedDateTime": "2022-04-11T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-technology-innovation-institute-announces-launch-of-noor-the-worlds-largest-arabic-nlp-model.md",
+      "title": "Technology Innovation Institute Announces Launch of NOOR, the World’s Largest Arabic NLP Model",
+      "excerpt": "Apr 11, 2022-- Technology Innovation Institute (TII), a global research center and applied research pillar of Abu Dhabi’s Advanced Technology Research Council, today announced the launch of NOOR, the world’s largest Arabic natural language processing (NLP) model to date.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-united-arab-emirates-middle-east-abu-dhabi-410cd804413342d6bf0c0428671e533e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-united-arab-emirates-middle-east-abu-dhabi-410cd804413342d6bf0c0428671e533e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-hopkins-researchers-develop-ai-technique-to-predict-cardiac-arrests.md",
+      "title": "Hopkins researchers develop AI technique to predict cardiac arrests",
+      "excerpt": "This deep-learning concept could potentially be developed for other fields of medicine that rely on visual diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
+      "originalUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/04/Johns-hopkins-cardiac-arrest-ai-detection.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
+      "publishedDateTime": "2022-04-11T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-how-are-indian-banks-adopting-digitisation-and-ai.md",
+      "title": "How are Indian banks adopting digitisation and AI?",
+      "excerpt": "An estimated 205 million Indian adults already have a digital-only bank account, and this number is predicted to increase to 397 million within the next five years.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
+      "originalUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Banking-banner.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-investing-in-eastern-europes-ai-future.md",
+      "title": "Investing in Eastern Europe’s AI future",
+      "excerpt": "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
+      "originalUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
+      "publishedDateTime": "2022-04-11T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup.md",
       "title": "Artificial Intelligence Is Changing Soccer, And Could Decide The 2022 World Cup",
       "excerpt": "Artificial intelligence and machine learning have improved so much that they can even be used to collect data on historical broadcasts and previous World Cup tournaments. At the same time, limb-tracking AI technology could change the upcoming 2022 Qatar World Cup.",
@@ -954,259 +1176,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market.md",
-      "title": "Inside Intel’s Strategy to Compete With Nvidia in the AI-Chip Market",
-      "excerpt": "Nvidia has dominated the growing artificial-intelligence business. Intel wants to change that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815",
-      "originalUrl": "https://www.wsj.com/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-519480/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815",
-      "publishedDateTime": "2022-04-09T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-the-truth-about-ai-in-healthcare.md",
-      "title": "The Truth About AI In Healthcare",
-      "excerpt": "In heavily regulated industries such as healthcare, digital innovation can be slow to progress, but when adopted correctly, can have tremendous value. What's the truth about AI adoption in healthcare and where are healthcare companies on their data and AI journey?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62509539b211e17f02642cfa/0x0.jpg?format=jpg&crop=5000,2813,x0,y416,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/",
-      "publishedDateTime": "2022-04-08T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-oracle-data-warehouse-vs-redshift-compare-data-warehouse-software.md",
-      "title": "Oracle Data Warehouse vs Redshift: Compare data warehouse software",
-      "excerpt": "Oracle Data Warehouse and Amazon Redshift are popular data warehousing solutions. Read this feature comparison.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/",
-      "originalUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/04/istock-1061299140.jpg?x27523",
-          "width": 1258,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/amp/",
-      "publishedDateTime": "2022-04-08T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-elon-musk-says-production-of-teslas-robot-could-start-next-year-but-ai-experts-have-their-doubts.md",
-      "title": "Elon Musk says production of Tesla's robot could start next year, but A.I. experts have their doubts",
-      "excerpt": "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "originalUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107043923-1649419793298-gettyimages-1239825668-AFP_327X2VH.jpeg?v=1649420032",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "publishedDateTime": "2022-04-08T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-best-smart-robot-vacuums.md",
-      "title": "Best smart robot vacuums",
-      "excerpt": "Shop our top robot vacuum picks, some of which include AI object recognition, Wi-Fi compatibility, mapping sensors and even the ability to avoid pet waste (a must in pet households), not to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-smart-robot-vacuums/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-smart-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/04/07/e3fee72c-dc32-49c4-8e79-fb673fd7499a/thumbnail/1200x630/543193c804ff31d26a1ca1be53622f97/robot-vacuum.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-smart-robot-vacuums/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-smart-robot-vacuums/",
-      "publishedDateTime": "2022-04-08T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

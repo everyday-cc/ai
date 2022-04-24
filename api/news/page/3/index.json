@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-20-dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience.md",
+      "title": "Don’t Let A Misguided AI Strategy Sabotage Your Brand Experience",
+      "excerpt": "Brands can take years to build and nurture. Misguided AI strategies in automating customer service can put brand experiences at risk. This article looks at how this can occur and shares tips on how to refocus AI efforts to enhance brand value,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brentdykes/2022/04/20/dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience/",
+      "originalUrl": "https://www.forbes.com/sites/brentdykes/2022/04/20/dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625dcf4902f21e159aa2adc7/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brentdykes/2022/04/20/dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brentdykes/2022/04/20/dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience/amp/",
+      "publishedDateTime": "2022-04-20T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-computers-could-revise-past-conclusions-with-ai.md",
+      "title": "Computers could revise past conclusions with AI",
+      "excerpt": "To better automate reasoning, machines should ideally be able to systematically revise the view they have obtained about the world. Timotheus Kampik's dissertation work presents mathematical reasoning approaches that strike a balance between retaining consistency with previously drawn conclusions and rejecting them in face of overwhelming new evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-04-conclusions-ai.html",
+      "originalUrl": "https://techxplore.com/news/2022-04-conclusions-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning.jpg",
+          "width": 1920,
+          "height": 1302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-04-conclusions-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-conclusions-ai.amp",
+      "publishedDateTime": "2022-04-20T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-pricey-ai-apps-drive-up-cloud-computing-spending.md",
+      "title": "Pricey AI Apps Drive Up Cloud-Computing Spending",
+      "excerpt": "Close behind, it said, is an expected 26% increase in spending on cloud-based platform services used to build, test, deploy and update business software applications, including sophisticated AI, business intelligence and Internet-of-Things capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645?tpl=vc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-527450/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-the-quantum-resilient-web-30.md",
       "title": "The Quantum-Resilient Web 3.0",
       "excerpt": "The new, quantum-resilient Web 3.0 is the latest phase of the internet's evolution. It is designed to be capable of delivering a more private, resilient, faster and more personalized user experience.",
@@ -102,49 +247,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-how-enterprises-can-use-ai-to-reduce-data-storage-costs.md",
-      "title": "How Enterprises Can Use AI to Reduce Data Storage Costs",
-      "excerpt": "The volume of data maintained by the world's enterprises continues to expand. The increasing cost of storage has compelled",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/",
-      "originalUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/How-Enterprises-Can-Use-AI-to-Reduce-Data-Storage-Costs.png",
-          "width": 1945,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/",
-      "publishedDateTime": "2022-04-20T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -260,7 +362,7 @@
       "originalUrl": "https://www.bbc.com/news/av/world-us-canada-61123510",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1100,100 +1202,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-unlearnai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m.md",
-      "title": "Unlearn.AI, a startup developing a ‘digital twin’ service for clinical trials, raises $50M",
-      "excerpt": "That’s perhaps why Unlearn.AI, a startup which today announced that it raised $50 million in a Series B funding round, started with clinical trials. Unlearn’s digital twin product replicates ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/",
-      "originalUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1266157000.webp?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/",
-      "publishedDateTime": "2022-04-19T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-jio-institute-invites-applications-for-pg-courses-in-ai-data-sciences-digital-marketing.md",
-      "title": "Jio Institute invites applications for PG courses in AI, data sciences, digital marketing",
-      "excerpt": "Jio Institute is a multi-disciplinary higher education institute set up as a philanthropic initiative by Mukesh Ambani's Reliance Industries Ltd. and Reliance Foundation",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses-11650367077771.html",
-      "originalUrl": "https://www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses-11650367077771.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/04/19/600x338/Screenshot_2022-04-19_at_4.56.31_PM_1650367603017_1650367620413.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses/amp-11650367077771.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses/amp-11650367077771.html",
-      "publishedDateTime": "2022-04-19T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

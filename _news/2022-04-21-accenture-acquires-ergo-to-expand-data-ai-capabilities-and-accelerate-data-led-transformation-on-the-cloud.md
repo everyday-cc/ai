@@ -18,35 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Uniphore Acquires Colabo for Knowledge AI and Automation"
-    excerpt: "With the addition of knowledge-based AI, Uniphore is broadening its AI capabilities beyond only speech and emotions. “The integration would enhance our existing self-service and agent-assist solutions with a dynamic knowledge AI solution that can extract knowledge entities and graphs from different enterprise applications,"
-    publishedDateTime: 2022-04-19T13:55:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/"
-    ampWebUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
+  - title: "Accenture acquired Ergo for expanding data & AI capabilities, sixth acquisition in a month"
+    excerpt: "Accenture (ACN) acquired Argentina-based Ergo, a data-centered business that helps companies create a culture of data-driven decision-making using big data, analytics"
+    publishedDateTime: 2022-04-21T14:04:00Z
+    webUrl: "https://seekingalpha.com/news/3825346-accenture-acquired-ergo-for-expanding-data-ai-capabilities-sixth-acquisition-in-a-month"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3825346-accenture-acquired-ergo-for-expanding-data-ai-capabilities-sixth-acquisition-in-a-month"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3825346-accenture-acquired-ergo-for-expanding-data-ai-capabilities-sixth-acquisition-in-a-month"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 57
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 47
     images:
-      - url: "https://www.cmswire.com/-/media/8a4551705f9c48b0ad228e0cf26c9e60.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Researchers predict increased use of AI, greater collaboration and more open knowledge"
-    excerpt: "Research launched today by Elsevier, a global leader in research publishing and information analytics, reveals the challenges and opportunities facing researchers in a post-COVID-19 world. The findings are published in Elsevier’s Research Futures 2."
-    publishedDateTime: 2022-04-21T01:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=650365"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 29
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/171053447/image_171053447.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "nPUMIS8Hznh+ALbfEWhsuty+z5hT+q+7Iv54g2nl6yO244aR5RgoXYSG0nAthcMNFU8thD9kqYBoupNszzTZ1XS9/GpGzWJSrCwsnXjflyP0GHQmzMDaaWROeVtokMf1Hbl4TidPdMAd2U0U3mv1UHLmQqInQQZRoJqAOsp4Y6KiOGElX3EGiTpG2/h6w/5cT9+ouQ9a1R/LyBf/WP9INsavDQCv3K+YZBr5/663YyzpCIOeZQf6ndUlyuDOzaooZQCgH1AjUiV2ADP/yhxNuuiyIcwfEips2HRLa8UErFhEAifNpSr+rXmc84/8nZ7UqBNE06ktFXAijpoYh4mvFWfXxd/ctBYhiWoYfx6RpJfjB3OspDoRoKFzHIBzxpNAzPsBcc/M0lHYLi4IWx28LHkHoYckC8FhHqdt1fRNqlMjkit8VIVNUQlCs4bjaDsN+q2QVOQUMdv5M6ksSvjx90g8Vqqc4+ehqeUWxtHhKjrWfhmKwrGkbgXaErXMvpjZxW8Sy9H4Ad1G0SZ3VBFUOg==;lAPXsjqATnRB0OWNlE+wLQ=="

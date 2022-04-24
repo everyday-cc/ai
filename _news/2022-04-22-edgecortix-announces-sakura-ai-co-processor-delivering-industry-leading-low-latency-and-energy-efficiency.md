@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T20:30:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-efficiency-1031373263"
 webUrl: "https://markets.businessinsider.com/news/stocks/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-efficiency-1031373263"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: Business Insider
@@ -18,6 +21,12 @@ provider:
 topics:
   - AI
 
-secured: "BiexfiSuY+I+cxAHDXEqoL/oGJcPBJE8tATz3Yoxh4ziJFxr/x3IdBRsLY42IdEhlA6cVP91SYyEbRqwE4LcA3Vpq75We7K0tzfcHI3ELzsMt0DHTrtWAntfQaDKhwlZ+E5i3sZ7oSrfmZS1rJxyHUWOQdRoFebrahb8Gzebl5BNkf3X5UzH9XqtEhq/DiusSMZi0ZSmVNpuNTUhYLqYcM7Mnd+cSHKa/Nd2hCNfWMSsjfLVvg2h/rbisyxLg7N9PUdER4DdbKJHvduvw9h3mU2atCDRiwh7q1WGy4zqcMEvUD/yksVRq8fXHZS2yFZ1QbARmr1EFhUg6K4HCWkwgguHsVUHL9MkBYgly3hEqDg=;LqPPXO6Tno9Ld3PesCqh8g=="
+images:
+  - url: "https://mma.prnewswire.com/media/1797952/SAKURA.jpg"
+    width: 400
+    height: 232
+    isCached: true
+
+secured: "x275gDD9nY86TueVKh/Ltw9zZHUnmQQbQ7dpaShqG6FN6j+0G+3IGDskTwpLw7Ch4lY+DwTfOyLlCZ5Q1Ugg2oCRBb86h8vPxOoK8JZcKCUvMFMY3byjlDSZfarg4QDHeUjTGK6yxCPTrD42B8OouEMWFBqudbXQ6aK1olkINpQeZWeovso7w9BMonrrsWfsz5fSNiU7hcYHG8I87vjudgHJEVYr/4is9QprStzif9GWBQuNq8ZNE7EmJWSj4SPYwyC7efo0bYm4Lt+WwwVflhza9zLMaiMXpdECvFo5rAd264vOp4iTKPhqm1R0v2lwPB6nA9DPCIZ9LKRpPV+8kJBK5VNKSiUmm4x0LcriGkQ=;BZ5CT+DAQxu8P4/r4vfyTA=="
 ---
 

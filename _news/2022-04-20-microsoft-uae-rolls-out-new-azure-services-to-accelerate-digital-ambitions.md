@@ -160,20 +160,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Stripe appoints Microsoft’s James Phillips as president of financial services"
-    excerpt: "Stripe said Philips experience building companies will be instrumental as the company works to expand its portfolio."
-    publishedDateTime: 2022-04-19T14:37:00Z
-    webUrl: "https://www.siliconrepublic.com/business/stripe-james-philips-president-financial-services-microsoft"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 38
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/04/33e7cac2475516a17f2414afe7a9e64312ceda757081c3517f82a84f8d27f1c6.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "YPaAqpioqnsyDi6lJkSUii5JTug09PCM9Es2dZ9mCeVcxoVVkY30pjj0GDrTxTkT9+Oe2st7uRizt4rEphcksCvSfAEvLe1VV/9h6+2L92hkHy+v+0K6zWWDDGQm/SVdPZug3rehCC4x0Pe4eziMcyGnHlpdWiEFJ+KmZCNp3wz6jtzqwl7Xbiq7tKzs8sWaeWm0/lbmQ4dySoWiLJcBTMcPrQ6Qt7DcILdFEGbePpphD+S41Su5okgetTATvClImWoq8Tvybgi7ROOwvFEFlVMa90KAlTJlUT3mysnhgQ6IX8wVlP9zfMBcMbk7UYbvnIq6B4muEShNa1u5p+bYAEpaWYhCijsGVzxFkGJtDsxnFGZCThOpuIqkCf0P7vVZsE0uSrNy2HybwaR62ECABDkE9ngKxcpf77W6O+I/sb2WhpehzS/R3nu6fa231ZLnvOrToj6MbXSSZobOqeblITnPzrrXADuirsJ6K1duSZAdYyfOIf/BcFnlXMZUe28JGfe8rIykPF93z91UVcvK/Q==;0Gaq503qLNvzBDwOfU5r+w=="
 ---

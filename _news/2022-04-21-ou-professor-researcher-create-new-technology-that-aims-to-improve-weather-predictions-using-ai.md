@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Prometheus AI Is Providing A Brand New Insight Into Automated Trading Technology This 2022"
-    excerpt: "Prometheus AI is an education program that shows everyday traders how to leverage the power of artificial intelligence to increase"
-    publishedDateTime: 2022-04-21T16:15:00Z
-    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8526540/prometheus-ai-is-providing-a-brand-new-insight-into-automated-trading-technology-this-2022/"
+  - title: "Researchers predict increased use of AI, greater collaboration and more open knowledge"
+    excerpt: "Research launched today by Elsevier, a global leader in research publishing and information analytics, reveals the challenges and opportunities facing researchers in a post-COVID-19 world. The findings are published in Elsevier’s Research Futures 2."
+    publishedDateTime: 2022-04-21T01:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=650365"
     type: article
     provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 27
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
     images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-        width: 800
-        height: 340
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "jdzIjqKF1ji/GKg0gBCYx/JKMTy0zespFpMpZJfDfVIivvEzApAEDT39VjdgYOz+EokJVbsjt6lNJWQPHa4OqiosTJC4XX6RV0xLfO/cjj2nAJ7kVuLZeKD0fBYk35Yytxk2b03AjFzzkVktYFghlCc3E1cexMQdwgz7gpIW9XIKDzB4CKVVDON0pVwPTd+lwlwcyYFrzEaqk/kE76pSOmRTFMm3tDVVjIZAv1MkypkomOHVdMb8g1gi6hu2w8gHKJeJ9F4TO8Jemxu7jgHeZoYRJ08Px4GdvrSqSXBSpQBFC/MfT9DVcJibbrHRhqb0FXP5JZZml/nTtrHQgLsyeqyH2CmEqfsVeR2nJQLsOus=;JFk6BF4i9QleqeiB+skB2A=="

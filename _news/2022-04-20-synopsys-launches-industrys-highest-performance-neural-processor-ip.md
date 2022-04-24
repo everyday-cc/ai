@@ -41,15 +41,6 @@ related:
         width: 1951
         height: 1013
         isCached: true
-  - title: "Synopsys Introduces Industry's Highest Performance Neural Processor IP"
-    excerpt: "New DesignWare ARC NPX6 NPU IP Delivers Up to 3,500 TOPS Performance for Automotive, Consumer and Data Center Chip Designs \"Based on our seamless experience integrating the Synopsys DesignWare ARC EV Processor IP into our successful NU4000 multi-core SoC,"
-    publishedDateTime: 2022-04-19T13:05:00Z
-    webUrl: "https://myfox8.com/business/press-releases/cision/20220419SF26494/synopsys-introduces-industrys-highest-performance-neural-processor-ip/"
-    type: article
-    provider:
-      name: WGHP
-      domain: myfox8.com
-    quality: 4
 
 secured: "5MCIhIVYXjvffmaNVFxN1roeXxLvg8bVZRMFdpBE0Mrf2gO9EZ3YFUMcIwGNeHn9J1ttmOO6mSfNHugtXH3VEYOJ8IvXEecB7LW0ShUPZKFBHoMNtgu3uBRPX0399NDFZ49NCp8EJo76bycIxaSu/1I8VVKUzAqjoID8GuCNQD2pFQRtuBReu4nKfZAuT6byZ0dy8LerAN9wM/rs72rtH10jTbPztA/XVWBtxTXD7vMwMOT1jCacYLZR3TTrrkSx9d8qfwmtR87H6JwjFpx9rVnILE8Z7pHR3TwcRG3+VaQG2dvF3SZAxgtw8myZGc4rFk1KXs14MpghXnNoupTF28WrpWrFcmalTDNLjarSQ5Y39qH1veiyOgtvBhLXrKg0wJ9Jy8ZORwLb3cWAGIDBfzILRPfK9VJHM94lVSwnjXFHu04NJqWryLz8JljwCMaxUo5rbHOz1tuTeq7zKyqrSs7DuRMJ3Ypyct5iTOvRMCOVZNZ3OdCrRgcj0C7g51xfPd6jZeEaxs48O+4BjAWfjw==;6x2H+odqiBZSALIXwkUABA=="
 ---

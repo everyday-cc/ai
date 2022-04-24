@@ -38,15 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ukraine Abuses US Facial Recognition Tech To Identify Dead Russians And Send The Images To The Families!"
-    excerpt: "Psychological warfare is a tactic in conflict, but the Ukrainians use the technology for different evil purposes with modern technology. The Liberal Washington Post reported that the Ukrainian government uses the US facial recognition technology to scan and identify the faces of dead Russian soldiers so they can send pictures to their families!"
-    publishedDateTime: 2022-04-19T12:33:00Z
-    webUrl: "https://ussanews.com/2022/04/19/ukraine-abuses-us-facial-recognition-tech-to-identify-dead-russians-and-send-the-images-to-the-families/"
-    type: article
-    provider:
-      name: ussanews
-      domain: ussanews.com
-    quality: 17
 
 secured: "0Aexp7llw/lZKgNKgNF0LDzemOhzm7Cp8DxUqXwb6hnvUf9615pCACM+28/Jiv5bN0z6yzfBAZcazMFg6w2J0x11AdcEppuHgEfUIu9XBUBoOXqthBkCiNneDa5yIBg6uT1h5RxgNU/FfXA4vYmhQrROctsya1tT/4wNptrBanQ5cauU1V8PKUdKh6YhXHIAvEZX46dyLs/I+s9eqXjOpRNvUZlDZczjc1kktpo9y8+ImZ2PD4tMA5IFJcU9iTAV1lAHEmO3W2i0xRCiDB40pUGgFREsWp0DTk7c1MtrlXrDGQ2onc6uSegChshqt5Dmz/1nSaRsajetGdVsCjl/VjxwR7VDPqkzFTmhIpiP7c/75qbEWuiwNZknB4oi4ABQp+bTtpOe65swMFCuEKNStxe/i4I9G4Mvaq04Z2JRZywD96pWA2/NAc5J+N/8AhMRdqf21Hivv4wh6MI7Oac/ibuIndlwoG+F3/KY3eSipqpeXzTml0yScGwiLIhfkl9+usywVn0/yVBER8N/bSK55w==;1xe451zOdg4RUJh1D28Omg=="
 ---

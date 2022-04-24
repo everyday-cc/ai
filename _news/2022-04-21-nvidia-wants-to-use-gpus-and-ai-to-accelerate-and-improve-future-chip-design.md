@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-acc
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
 type: article
 quality: 116
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/25/32/53/22391490/3/rawImage.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
-    excerpt: "The new solution provides customizable AI using Quantum CatDV software, which leverages NVIDIA DeepStream, NVIDIA Riva, and NVIDIA Maxine SDKs to enrich video content used in broadcast, post-production,"
-    publishedDateTime: 2022-04-19T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_fbaae364-b92a-5e7d-9716-a185c5048f89.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/cc/dcc3f818-5f9a-5151-b9d3-8c4b422ce53f/625ea4cfb483f.image.jpg?resize=744%2C500"
-        width: 744
-        height: 500
         isCached: true
 
 secured: "bJQhpkEqWzVvj01B8VmgqdVc6wVlToaKCcjel3yvy0BU4pozV1Fw5I0LLeU7KpqdIffO9ocXWPumSS4weHOJqY5hF/j5WcOLeZWUOmZ4kZR3OHdt1xC99v8qPtE7jsrnONENUhu/S3jfTwpjP09Xl5zByuyCqGQLeRBAKPN7JaBJXRI/rfgll4DfPLdpmtAjrODPsUQal2gOSQ9tYKkTQgnu6lBvwn/vhfAU8GI50Wmg2q5eZLT4vHrN/PHo00WVQMGsayyruQOLaKqqWt/gWwOf2JZtrMGl1m52S0a+8MMFdhxqFuvCSjDc5BkwkrpouBClr3Fzu1Qypk50hKVmoEqmVtT/mnawBJIXtE6W+HwcCyJqtMJn1xWJ6RstbE0WGYcWhQ7vSwE+jJs1uX1IH/WrZSBfQy9k6zJ0AISICc0CKiEnCyRE9uIBM3fCewYFFIukSb8jNW1/CoEiJ2bHCDqygO4cpKqqwS/LeYJZKzSEFfJgXFM8bM75Yk6NGzIJ+PbQX6SSkQTOVnOACUGDnQ==;o8cyBIpgf0DrivmOiMN+lA=="

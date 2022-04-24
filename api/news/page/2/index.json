@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-21-ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too.md",
+      "title": "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too",
+      "excerpt": "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/",
+      "publishedDateTime": "2022-04-21T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-design-is-merging-with-machine-learning-in-home-decor.md",
+      "title": "Design Is Merging With Machine Learning In Home Décor",
+      "excerpt": "The blend of human and machine knowledge to address the sales challenge of home design is an interesting application of AI and other tools, a blend that can help both the businesses and the end customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&width=1200",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
+      "publishedDateTime": "2022-04-21T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-developing-ethical-responsible-and-trustworthy-ai-approaches-for-environmental-science.md",
+      "title": "Developing ethical, responsible and trustworthy AI approaches for environmental science",
+      "excerpt": "There's no doubt that artificial intelligence is embedded in our everyday lives. From smartphones to ridesharing apps to mobile check deposits, AI is so pervasive that we rarely think about how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.html",
+      "originalUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/developing-ethical-res.jpg",
+          "width": 1691,
+          "height": 919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.amp",
+      "publishedDateTime": "2022-04-21T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-how-to-use-ai-to-create-more-human-service-not-less.md",
       "title": "How To Use AI To Create More Human Service, Not Less",
       "excerpt": "Instead of focusing on replacing humans with machines, we need to think about how AI makes humans better at their jobs.",
@@ -155,7 +303,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -309,7 +457,7 @@
       "originalUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -395,7 +543,7 @@
       "originalUrl": "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -481,7 +629,7 @@
       "originalUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -792,7 +940,7 @@
       "originalUrl": "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1049,151 +1197,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience.md",
-      "title": "Don’t Let A Misguided AI Strategy Sabotage Your Brand Experience",
-      "excerpt": "Brands can take years to build and nurture. Misguided AI strategies in automating customer service can put brand experiences at risk. This article looks at how this can occur and shares tips on how to refocus AI efforts to enhance brand value,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brentdykes/2022/04/20/dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience/",
-      "originalUrl": "https://www.forbes.com/sites/brentdykes/2022/04/20/dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625dcf4902f21e159aa2adc7/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brentdykes/2022/04/20/dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brentdykes/2022/04/20/dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience/amp/",
-      "publishedDateTime": "2022-04-20T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-computers-could-revise-past-conclusions-with-ai.md",
-      "title": "Computers could revise past conclusions with AI",
-      "excerpt": "To better automate reasoning, machines should ideally be able to systematically revise the view they have obtained about the world. Timotheus Kampik's dissertation work presents mathematical reasoning approaches that strike a balance between retaining consistency with previously drawn conclusions and rejecting them in face of overwhelming new evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-04-conclusions-ai.html",
-      "originalUrl": "https://techxplore.com/news/2022-04-conclusions-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning.jpg",
-          "width": 1920,
-          "height": 1302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-04-conclusions-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-conclusions-ai.amp",
-      "publishedDateTime": "2022-04-20T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-pricey-ai-apps-drive-up-cloud-computing-spending.md",
-      "title": "Pricey AI Apps Drive Up Cloud-Computing Spending",
-      "excerpt": "Close behind, it said, is an expected 26% increase in spending on cloud-based platform services used to build, test, deploy and update business software applications, including sophisticated AI, business intelligence and Internet-of-Things capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645?tpl=vc",
-      "originalUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645?tpl=vc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-527450/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -127,15 +127,6 @@ related:
         width: 1024
         height: 359
         isCached: true
-  - title: "Global Military Robots Market To Be Driven By The Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Military Robots Market Size, Share, Price, Trends, Growth, Report and Forecast 2022-2027’, gives"
-    publishedDateTime: 2022-04-19T12:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-military-robots-market-to-be-driven-by-the-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
   - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
     excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."
     publishedDateTime: 2022-04-21T15:24:00Z
@@ -150,15 +141,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new research report, the \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Industry, Application, Technology (Machine Learning, Natural Language Processing,"
-    publishedDateTime: 2022-04-19T11:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-manufacturing-market-worth-163-billion-2027-/2022/04/19/9584759.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "CHICAGO, April 19, 2022 /PRNewswire/ -- According to the new research report, the \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Industry, Application, Technology (Machine Learning, Natural Language ..."
     publishedDateTime: 2022-04-19T20:21:00Z

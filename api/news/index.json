@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-24-leave-space-exploration-to-the-robots-says-new-book.md",
+      "title": "Leave Space Exploration To The Robots, Says New Book",
+      "excerpt": "Compelling new book argues that we really need to forget about astronauts and instead renew our focus on robotics for the continued exploration of space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
+      "originalUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6264f17889d41edd0830febc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
+      "publishedDateTime": "2022-04-23T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-24-up-in-the-air-new-competition-brings-robotics-teams-to-the-skies.md",
       "title": "Up in the air: new competition brings robotics teams to the skies",
       "excerpt": "Between Saturday’s baseball and softball games at Saint Anselm College, high school teams faced off in a very different contest: the first-ever New England Aerospace Robotics Competition.",
@@ -93,6 +145,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai.md",
+      "title": "The Innovative Ways The United States Space Force Is Leveraging Data And AI",
+      "excerpt": "Speaking at an upcoming AI in Government event on May 19, 2022, Dr. Lisa Costa, Chief Technology & Innovation Officer of the United States Space Force will be sharing insights in how the US Space Force is delivering the first fully digital service,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6264256f61e2dd81de312206/0x0.jpg?format=jpg&crop=2400,1350,x0,y240,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
+      "publishedDateTime": "2022-04-23T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -244,49 +347,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-23-maxton-nc-pursues-funding-for-facial-recognition-tech.md",
-      "title": "Maxton, N.C., Pursues Funding for Facial Recognition Tech",
-      "excerpt": "For almost four years, the small town of Maxton, N.C., has tried to get funding for a surveillance system that uses facial recognition. Officials want to continue working with a software company to secure funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/maxton-n-c-pursues-funding-for-facial-recognition-tech",
-      "originalUrl": "https://www.govtech.com/products/maxton-n-c-pursues-funding-for-facial-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/188879c/2147483647/strip/true/crop/939x490+0+65/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fec%2F48%2F86a557d8bb434e14ade60dc4f00f%2Fshutterstock-124888153.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/maxton-n-c-pursues-funding-for-facial-recognition-tech?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/maxton-n-c-pursues-funding-for-facial-recognition-tech?_amp=true",
-      "publishedDateTime": "2022-04-22T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-23-conversational-ai-tools-should-unify-calling-messaging-analytics-and-more.md",
       "title": "Conversational AI tools should unify calling, messaging, analytics and more",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! LivePerson,",
@@ -377,6 +437,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-top-10-companies-using-ai-to-look-out-for-in-2022.md",
+      "title": "Top 10 Companies Using AI to Look Out for in 2022",
+      "excerpt": "At the close of 2021, McKinsey & Company published its ‘State of AI’ report. This report detailed many findings, but one that stood out was that of the respondents, 27% of them report, “at least 5% of EBIT attributable to AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/",
+      "originalUrl": "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/04/Brain-Computer-Interface.jpg",
+          "width": 620,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/",
+      "publishedDateTime": "2022-04-22T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -578,7 +681,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -845,6 +948,48 @@
       ]
     },
     {
+      "path": "_news/2022-04-22-ai-fuels-industry-momentum-in-brain-computer-interfaces.md",
+      "title": "AI Fuels Industry Momentum in Brain-Computer Interfaces",
+      "excerpt": "Brain-computer interfaces (BCIs) have been advancing rapidly thanks to artificial intelligence (AI) in the past few years. Brain-computer interfaces enable two-way communications between the human brain and a machine. In the field of health care and life ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/pic77264.jpg?itok=m8Deopti",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp",
+      "publishedDateTime": "2022-04-21T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum.md",
       "title": "ETHICAL AI GOVERNANCE GROUP (EAIGG) ANNOUNCES FORMAL LAUNCH; UNVEILS ETHICS MATURITY CONTINUUM",
       "excerpt": "The Ethical AI Governance Group (EAIGG) announced its formal launch yesterday with a mission to promote AI governance, data privacy, and climate technologies. A special event was held in partnership with founding member BGV to celebrate the formation of EAIGG and to formally unveil the Ethics Maturity Continuum,",
@@ -1043,154 +1188,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too.md",
-      "title": "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too",
-      "excerpt": "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/",
-      "publishedDateTime": "2022-04-21T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-design-is-merging-with-machine-learning-in-home-decor.md",
-      "title": "Design Is Merging With Machine Learning In Home Décor",
-      "excerpt": "The blend of human and machine knowledge to address the sales challenge of home design is an interesting application of AI and other tools, a blend that can help both the businesses and the end customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&width=1200",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
-      "publishedDateTime": "2022-04-21T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-developing-ethical-responsible-and-trustworthy-ai-approaches-for-environmental-science.md",
-      "title": "Developing ethical, responsible and trustworthy AI approaches for environmental science",
-      "excerpt": "There's no doubt that artificial intelligence is embedded in our everyday lives. From smartphones to ridesharing apps to mobile check deposits, AI is so pervasive that we rarely think about how it works.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.html",
-      "originalUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/developing-ethical-res.jpg",
-          "width": 1691,
-          "height": 919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.amp",
-      "publishedDateTime": "2022-04-21T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

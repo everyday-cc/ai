@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=650365"
 webUrl: "https://us.acrofan.com/detail.php?number=650365"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,31 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Uniphore Acquires Colabo for Knowledge AI and Automation"
-    excerpt: "With the addition of knowledge-based AI, Uniphore is broadening its AI capabilities beyond only speech and emotions. “The integration would enhance our existing self-service and agent-assist solutions with a dynamic knowledge AI solution that can extract knowledge entities and graphs from different enterprise applications,"
-    publishedDateTime: 2022-04-19T13:55:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/"
-    ampWebUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
+  - title: "OU Professor, Researcher Create New Technology That Aims To Improve Weather Predictions Using AI"
+    excerpt: "\"I think AI is going to really revolutionize our ability to predict a lot of these things, and we're not going to be able to stop the tornados and the hail, but we're going to really be able to improve the predictions overtime,\" McGovern said. \"I think ..."
+    publishedDateTime: 2022-04-21T14:29:00Z
+    webUrl: "https://www.news9.com/story/626144383d9b33071659e83a/ou-professor-researcher-create-new-technology-that-aims-to-improve-weather-predictions-using-ai"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 57
+      name: News9
+      domain: news9.com
+    quality: 24
     images:
-      - url: "https://www.cmswire.com/-/media/8a4551705f9c48b0ad228e0cf26c9e60.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://cdn.field59.com/KOTV/59dc37859a47e363107db7bebdfdb168c15976ea_SITM_Aircheck__Part_1_frame_128271_custom.jpeg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Accenture Acquires Ergo to Expand Data & AI Capabilities and Accelerate Data-Led Transformation on the Cloud"
-    excerpt: "The acquisition expands Accenture's Cloud First capabilities to drive data-led transformations for clients in the Hispanic South American market, spanning Argentina, Chile, and Co"
-    publishedDateTime: 2022-04-21T15:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/21/9587329.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "InwJGKOKdSUCOenSqAR+OG3W+D+NRrRvVKfgk2hAOb8QkE3TaiuXmfjEpTMOhpLg0KObwVLbquNSC+tVxNEzlSUI2l1OUvTG/U51KAN3idq3LQjevJJVh3x9iwJBE5yj7nPnb4OycdpvgxfdQUM7aJIbYVtiJGVa7ZcDezVIfT9IFmLQZbE918++Bo6EsJPGo+ERJzHX0rNsBcU2cN7fzPldA/5onkn4YEhIbaqRyuonefOHksJVZxCiUrlm06TqZXgInkZWNpYRdt5NEzystXd5Fza1ibet6KIoUd4iuEkY+smk9bi1GUK199g7jAaOzSKyqD/Sqisbr+kdza2aYUV9fqNcpHi5dHx+zy1kriw=;wZFrJZ09Fng5ZBI+InHbUg=="
 ---

@@ -81,6 +81,15 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
+    excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-air-force-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 19
   - title: "Machine learning hiring levels in the mining industry rose to a year-high in March 2022"
     excerpt: "The proportion of mining industry operations and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 25.8% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-04-20T13:47:00Z
@@ -90,6 +99,15 @@ related:
       name: Mining Technology
       domain: mining-technology.com
     quality: 11
+  - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in March 2022"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 71% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:35:00Z
+    webUrl: "https://www.just-auto.com/features/artificial-intelligence-hiring-levels-in-the-automotive-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 3
 
 secured: "ls4PTdJ05olK6p4fOfX8U1o8rmPxCEGaHtEn76TMvPpcJhixY4c6bMxmb526xt91aK7pEQyVUJNslHBbgT05J75E48Mj78dklMGkOqXyRDlVO+aewtpQ27BwxWWOUMyu0gtfRJ9fxSkxQtD0JUXEeuhempKLRR323dq+82QaQxXsye+G4UDZhSb40qzfJjw/1jrqaWG3lbQn080XSTLt/qZ0m4NWvbzPeCyJs4a/L381XCOuntDB0OmszmmJYmjPaZiKKVaiaUsCuv0y72aBuj4hhLKta+sxU8AGqTSTiaxJRlbVVCLocxlSoeilq8W2bn1C8JC3WyOpyM8FyofWAujlwmG32lolEHVSJpHdjXAwPhBTqVadISXNb8c4E18gcOFKSuixTPkGBcSVquKyhp5Nf0cZpVfdj6rSRB1vTvDTZTpRQVhiLsmYrxoqMin+am5UvUupXjHkfvt7CTm+zd5+2hoCdwfVZg/A5sQItqhxnytIkJ6XS7zu7KqYiHe1XACYVJc1f/lomx09mvnx6Q==;phvjEUE0BOu0VRMgCY5Flw=="
 ---

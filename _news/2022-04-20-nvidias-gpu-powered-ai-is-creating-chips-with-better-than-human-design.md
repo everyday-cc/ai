@@ -78,20 +78,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
-    excerpt: "The new solution provides customizable AI using Quantum CatDV software, which leverages NVIDIA DeepStream, NVIDIA Riva, and NVIDIA Maxine SDKs to enrich video content used in broadcast, post-production,"
-    publishedDateTime: 2022-04-19T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_fbaae364-b92a-5e7d-9716-a185c5048f89.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/cc/dcc3f818-5f9a-5151-b9d3-8c4b422ce53f/625ea4cfb483f.image.jpg?resize=744%2C500"
-        width: 744
-        height: 500
-        isCached: true
 
 secured: "9aUniVlR3Qu2JxL36G0P4BLGiZKNc4XLwRl2Ce1O/5dKpKbLofrlfnOdw5HXlm0dYClBnqGxMGhe7T1ysfkEIUPcI+VG2N//da/aEPbe/lVJRZ7s9CvaZjlxsp/tEwMeIP2UgUhD0XWk6G6nHLWIeH09epeARYSNKOJC0jHvu3wnTSCcMFbVgR+FKnWA3nYlPeHuvRhspjGMAI+SS/Chjic0B7E5KyrBbruxJy+J170A/EzQZL4Aq06jG4FH8bh8X8iBdzIcbdRi6tsluIFBmF9Ubj6pUPeYEJjPC+ujeMTL8ypvqCrndhpu2XFE3bJyuuqOmxmB4gH5ITl5RER8AYYjj5jUT9nHQA7NklHAu8eb3bhEEk0b7UEm4/9WEYOAPEyzmqeXmP66PeIYedKYz2YnyC1kJufQJ3lWz74a6bIgaW0GScYghdzb17OQgFSb11AJ1y8kTyxRDMYgQ8BT2/NQ3EoajdQoGEoSFtkG8KckouOtBPxl5DfAh5c1JEdAdzWA6DMPZH54syJX3RRWKw==;Z7t3UavSTADL5DrtmMxSmg=="
 ---

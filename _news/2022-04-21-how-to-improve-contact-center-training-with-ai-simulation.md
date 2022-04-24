@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI with an improvisational streak is under development"
-    excerpt: "A German doctoral student's research is moving us ever closer to an AI skill that, as of yet, has been unrealized: improvisation. According to Sweden's Chalmers University of Technology, robots don't work the same way."
-    publishedDateTime: 2022-04-19T14:30:00Z
-    webUrl: "https://www.theregister.com/2022/04/19/improvisational_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/19/improvisational_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/improvisational_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2020/11/20/ai.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Ultrasound AI Aims to Save Infants with AI-powered Detection Software"
     excerpt: "Ultrasound AI’s software, Preterm AI, can compare ultrasound images to find minute changes that could indicate an increased risk for preterm birth. The software platform is patented and is not, yet FDA cleared."
     publishedDateTime: 2022-04-20T15:04:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-re
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: enterprisetalk
@@ -41,15 +41,6 @@ related:
         width: 270
         height: 349
         isCached: true
-  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-19T14:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-vianai-systems-introduces-first-human-centered-ai-platform-/2022/04/19/9585279.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "klRHU/T3sVVTdcG1+QKAq/9+sYem3cZHRCgCzReZ3vdvBQ8i54sTnF+eTxGuJg6OtVXVVSHtReedAdvXwFYMOEgb5PrTWZmPDhUKT1InRMYbacwOfkFPSRY7/nQ/a4Lqo9yUlmosEONTPWCNMDQwPc0xMBpAkUgnEHzfex1gFgOo+tLsN9a3fs/m2OFJHm7TL8QG8JS9zfiwHAS4rOlEWEE92YhDb0wyMGAL0+bXwMFHPck8n5fYvOqYeeDmk+6jRx6+s37rFV2Fde89pT1HmVAKa7iZXajl6bE17gRyFD5vqtAp5N8W46z6rzB6synCnmr6jyHCMjeNugEb9qphnMCit6GBTuWr0YjPGtioVLU=;0Lzqzzb9CoMLr+HoF1lV5A=="
 ---

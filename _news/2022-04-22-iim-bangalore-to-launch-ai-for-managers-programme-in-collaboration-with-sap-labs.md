@@ -23,6 +23,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Jio Institute Launches Postgraduate Programmes In Artificial Intelligence And Data Science, Digital Media"
+    excerpt: "Jio Institute has invited applications for its one-year full-time postgraduate programmes (PGP) in artificial intelligence and data science, and digital media and marketing communications."
+    publishedDateTime: 2022-04-20T08:27:00Z
+    webUrl: "https://www.ndtv.com/education/jio-institute-launches-postgraduate-programmes-in-artificial-intelligence-and-data-science-digital-media"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 20
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/4/20/Jio_Institute_Ulwe_Navi_Mumbai_Campus_1.jpg"
+        width: 860
+        height: 430
+        isCached: true
+
 secured: "F3shvSQxyCJHKgr6zcpz/951Ex7JMKeX02e3h5mpn1F5C2KfEUU4Xz0l0kBL4R7ZJMAI3gBRG/ZyCNnyNVWn5aCnUlCfJPVk3ZUdQKak0Wz0OtbX2xoRl0suKqQB3FbPWqgOhgy92Vb0Qta3UQJgJcHjHKTolytzLM/6W6wP5PMINwRIr0C6GvWT/rtV+SlwvXPWNPupyQTLKpvr+eop+iog1YUUX+YWnXyrEFy1b8y9LKE8BLx8D7ZsPONjqbRWgjWVrF3/GKi+z403OL24Vgb2bUGFeG7VNbC4WjHC0KLTEGwwx+h//+jt3K8497qlq0UqyjCCcSziHl0NsLxKDJytDDNb6hd+Un62El42DCw=;YGEa3bJoT9UnzbWlbcs3Eg=="
 ---
 

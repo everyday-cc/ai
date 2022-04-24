@@ -375,6 +375,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-why-big-tech-is-driving-the-fintech-digital-ecosystem.md",
+      "title": "Why Big Tech is Driving the Fintech Digital Ecosystem",
+      "excerpt": "The expert view on how Digital ecosystems and how Big Tech is redefining the financial services space by expanding the digital ecosystem",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-big-tech-is-driving-the-fintech-digital-ecosystem",
+      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-big-tech-is-driving-the-fintech-digital-ecosystem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/320/2a23807f82863b142512444f217db57a:c7a033226d6eec8650caeaa4d27857da/gettyimages-1202705835.jpg",
+          "width": 319,
+          "height": 241,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-alpha-fintech-by-ppro-announces-launch-of-fi911s-intelligent-saas-dispute-processing-for-financial-institutions-in-asia-pacific.md",
       "title": "Alpha Fintech by PPRO Announces Launch of Fi911’s Intelligent SaaS Dispute Processing for Financial Institutions in Asia Pacific",
       "excerpt": "Fi911, the leading dispute specialists and sister brand of Chargebacks911, today announces its partnership with Alpha Fintech ( a fintech pioneer aiming to evolve and simplify payments. APAC regional acquirers and PSPs will be able to leverage the unrivaled Fi911 SaaS dispute management p.",
@@ -1289,52 +1332,6 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Next Big Thing : Major Giants IBM, AWS, Microsoft, HPE",
-      "excerpt": "This press release was orginally distributed by SBWireNew Jersey, NJ -- (SBWIRE) -- 04/01/2022 -- The Latest research study released by HTF MI",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe",
-      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/b6be821d016d05754280ca0ef93d4ae4874badff-e1648768638750-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
         "AI in Finance"
       ]
     }

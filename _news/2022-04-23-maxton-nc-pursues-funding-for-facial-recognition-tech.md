@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/products/maxton-n-c-pursues-funding-for-faci
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/maxton-n-c-pursues-funding-for-facial-recognition-tech?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2021 a good year for facial recognition at US ports"
-    excerpt: "Forty-eight million people entering or leaving the country in fiscal 2021 were subject to face biometric comparisons in a program called Simplified Arrival."
-    publishedDateTime: 2022-04-19T14:45:00Z
-    webUrl: "https://www.biometricupdate.com/202204/2021-a-good-year-facial-recognition-at-us-ports"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/01170113/Simplified-Arrival-CBP-biometrics.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Apple sued for patent infringement on facial expression recognition"
     excerpt: "Apple was served a lawsuit from FaceToFace Biometrics for allegedly infringing on a facial expression recognition patent for messaging systems."
     publishedDateTime: 2022-04-21T22:57:00Z

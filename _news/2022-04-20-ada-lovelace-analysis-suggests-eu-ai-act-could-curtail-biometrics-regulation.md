@@ -23,17 +23,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "The best way to regulate artificial intelligence? The EU’s AI Act"
-    excerpt: "Maintaining the right balance between freedom and supervision, the AI Act will enhance the spread of an important new technology while ensuring"
-    publishedDateTime: 2022-04-20T12:24:00Z
-    webUrl: "https://www.theparliamentmagazine.eu/news/article/the-best-way-to-regulate-artificial-intelligence-the-eus-ai-act"
-    type: article
-    provider:
-      name: The Parliament Magazine
-      domain: theparliamentmagazine.eu
-    quality: 34
-
 secured: "OyMib53g0wuUGQK+IsaDfsDg21LofvgH/YC0GECGivNjmu6D085LRFQ5exHXHExK2zIk+0TmhqfS+otpIzYhXthiDV1+bEPkr9Cd23Mhm/YFzgwa4EgMRhIprTP4biOxH1qKxaOdU5Sj7amWcN65TgWxX3e/Gr7eCjgKUI/jBWZktrCW40W7nAHD2im5R29dbNfJf+Mn8WwhWd59/dvZjOvV2vBefFWd9PFNmwYjs9fZgueOtMxxWPJM9LFsF+UhXtkFY1y2/R27F7M+YMeIQUCXc9zgWdPCv7oJ2rRb2vxRsXVSFlA7oglAk34bMPFdwDNEuv7U8fo/Ilhm6fmuQgBoCBk6yWPAeZnBwLRqpVk=;IJM/iKHV2TasOc6sRMR3gg=="
 ---
 
