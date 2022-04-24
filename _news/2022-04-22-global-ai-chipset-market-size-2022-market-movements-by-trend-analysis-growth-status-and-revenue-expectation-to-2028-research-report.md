@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) Chips Market 2022 Global Industry Analysis by Trends, Size, Share and Revenue status by 2022"
-excerpt: "Apr 21, 2022 (The Expresswire) -- “artificial intelligence (AI) chips market and it is poised to grow by USD 73.49 billion during 2021-2025, progressing at"
-publishedDateTime: 2022-04-21T08:25:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21"
+title: "Global AI Chipset Market Size 2022, Market Movements by Trend Analysis, Growth Status and Revenue Expectation to 2028 Research Report"
+excerpt: "Apr 22, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of Pre and Post COVID-19 on this AI Chipset industry/market.\" Global"
+publishedDateTime: 2022-04-22T06:33:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-ai-chipset-market-size-2022-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-to-2028-research-report-2022-04-22"
+webUrl: "https://www.marketwatch.com/press-release/global-ai-chipset-market-size-2022-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-to-2028-research-report-2022-04-22"
 type: article
-quality: 74
-heat: 134
-published: true
+quality: 36
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -29,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI Chipset Market Size 2022, Market Movements by Trend Analysis, Growth Status and Revenue Expectation to 2028 Research Report"
-    excerpt: "Apr 22, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of Pre and Post COVID-19 on this AI Chipset industry/market.\" Global"
-    publishedDateTime: 2022-04-22T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-chipset-market-size-2022-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-to-2028-research-report-2022-04-22"
+  - title: "Artificial Intelligence (AI) Chips Market 2022 Global Industry Analysis by Trends, Size, Share and Revenue status by 2022"
+    excerpt: "Apr 21, 2022 (The Expresswire) -- “artificial intelligence (AI) chips market and it is poised to grow by USD 73.49 billion during 2021-2025, progressing at"
+    publishedDateTime: 2022-04-21T08:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -104,6 +103,6 @@ related:
       domain: dailyherald.com
     quality: 11
 
-secured: "flhD2XD9MyNzHIUnYJOyVACHK8+MlhEtrbEe2vL5cP+5YW0Rfzvd++JCwS88u2x/HCsHi/8xJSdn1U2EOmNJVGIcjqRVolnSGeP82GlIxPS4B5RVxlkS6NGHpBhcLhiQq7W1Y496PwrULeN/f79+tQ8difutuhJDVk0wMItTsy8s2WAR7nea+dlsAwA8Wf4cafhFZiDw/XmaImciBFZwgloWq+DFsSmZTaBt3IXSr7OkemUJL1uFy8TyaA7MBsoebofJrgkT7O0rm+fqll8m7OO9PH/vDTtrBx1YUjyn4laV84X7cHdJ9wmoE6tdlNlZVN49Xc3e8okKzQ1yOVbBxMyxHtLYVAbgPWOE+ims3I4=;MTx0ac7jQPphnR3XAJSxGw=="
+secured: "LoCD5el0csY2bewsI4SSYOh32uoD6DqGOSmlH65/SY98eFHB/yZIGWuBH5PeWav161V3hVlhefFR8AcqbFgsexkatZZAGEhlVZIQhbi28oMJ2gXkc1QtI5JhrH1np+wWbG9S2/aB6g4cv3GkurjjEgUfsu1VKqmkxB3qz5uttEBGk3pgsfoGxFNLw7wB+C7oZILnpZGuc+d1LXoa5yZ9meCL+zWw0/GaqwZ2xEegWg2OQ1vJouhgUKSv5ID2eWaCzWmyb5iw0vbAVgHV2/xihyEydogcfpj8rzezfvQU8wIGgX/qt2M0u4EpYJ4nfgCi1fHCrDXQ2YJHdtApYxIHV1vAgOv1sLJFaVEhqG+yjMc=;kWB7bk2c+0MhdhfZKpO8Yg=="
 ---
 

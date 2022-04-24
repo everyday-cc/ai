@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Toyota backed Robotaxi Pony.ai obtains license to operate in China"
+    excerpt: "Backed by Toyota Motor Corp. the company can now deploy driverless vehicles and charge fares for the rides in China."
+    publishedDateTime: 2022-04-24T16:00:00Z
+    webUrl: "https://techstory.in/toyota-backed-robotaxi-pony-ai-obtains-license-to-operate-in-china/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/04/GettyImages_1367860597-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
 
 secured: "PSu10V+EZ2/1QSqxXolGQmpYzS5bvCZCdao3O807nQ3dHDCoxC5j2vAdfDAXzW2ZndU73pQNLe0DW9xVH/gLdcd5KuhJ792XzC/XSRoc+dvTseQBrS2s1BJc45EijSf1Z6KztF2bNOnOv4RN4vbFZ5gZjPjItHQglG3XmfewZXgSBkg431PiGAUjDuqyCpfstiibToWob/zj/q20uUIpDTPTwPd0nleOD25kF+CVTVDTRnW+yv/LNuVWEp3S18VTWdXwqlSzI89qKqY8MVITkZb93DncZvdddxoMQr5vFwAdjZQizYdIBhygXbBWv3Ey+xY1U64d/b0JC0TVGUdIy9F5ulhPamcLAjNFx8523+s=;qxQ1S9lAEneNsu7U0Yj7qA=="
 ---

@@ -155,20 +155,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Global Emotion Detection and Recognition Market (2022 to 2027) - Growing Partnerships and Widening Ecosystems Presents Opportunities - ResearchAndMark"
-    excerpt: "The \"Global Emotion Detection and Recognition Market with COVID-19 Analysis, by Component (Software [Facial Expression Recognition, Speech & Voice Recognition], Services), Application Area, End-user,"
-    publishedDateTime: 2022-04-19T23:05:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=649817"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Face Recognition Systems Trends Technology Innovation, Analysis Application, Demand Forecast, 2028 | Reports And Data"
     excerpt: "Increasing government expenditure on Face Recognition Systems for enhancing border security and adoption of live surveillance technology in various"
     publishedDateTime: 2022-04-21T12:12:00Z

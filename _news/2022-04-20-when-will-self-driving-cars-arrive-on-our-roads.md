@@ -235,36 +235,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Highway Code to be updated for self-driving cars"
-    excerpt: "The Government will update the Highway Code to make clear clarify drivers’ responsibilities in self-driving vehicles."
-    publishedDateTime: 2022-04-19T23:54:00Z
-    webUrl: "https://www.lancashiretelegraph.co.uk/news/20079187.highway-code-updated-self-driving-cars/"
-    type: article
-    provider:
-      name: Lancashire Telegraph
-      domain: lancashiretelegraph.co.uk
-    quality: 24
-    images:
-      - url: "https://www.lancashiretelegraph.co.uk/resources/images/12550035/"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Self-driving cars: Motorists will not be liable for crashes and can watch TV behind the wheel, government says"
-    excerpt: "Insurance companies rather than individuals will be liable for claims if vehicles are involved in collisions, the Department for Transport said."
-    publishedDateTime: 2022-04-20T00:12:00Z
-    webUrl: "https://news.sky.com/story/self-driving-cars-motorists-will-not-be-liable-for-crashes-and-can-watch-tv-behind-the-wheel-government-says-12593826"
-    ampWebUrl: "https://news.sky.com/story/amp/self-driving-cars-motorists-will-not-be-liable-for-crashes-and-can-watch-tv-behind-the-wheel-government-says-12593826"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/self-driving-cars-motorists-will-not-be-liable-for-crashes-and-can-watch-tv-behind-the-wheel-government-says-12593826"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 24
-    images:
-      - url: "https://e3.365dm.com/22/01/1600x900/skynews-self-driving-care-car_5652425.png?20220125185007"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "You’ll soon be able to watch movies in your self-driving car*"
     excerpt: "The UK government has today said you’ll soon be able to watch Die Hard when you’re in your self-driving car. Though we may have appended the whole ‘Die Hard’ bit. Followin"
     publishedDateTime: 2022-04-20T09:43:00Z
