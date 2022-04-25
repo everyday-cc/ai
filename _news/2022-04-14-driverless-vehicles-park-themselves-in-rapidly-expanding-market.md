@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg"
-    width: 718
-    height: 478
-    isCached: true
-
-secured: "Tc3ltAW5tUbHCYqPZgFA8Qxxi7hS7OkmQcWvqRZGIQwz8nwNg0ypg9Zba1tUSktaXR9WdpS74FgyUm40EqPrXTJ1xHkpEgtzu9jru7XgXumFXPDMUmSFePj3xoUCWNl76pkz8+i0t4XLTSQ7tAjXlMrVWdVwl9qrf/W9p9tgWCbOO8ajvDgMyb66kdDK+9cBc5Q81ABdZyjux97eBvFFWgMTwMyHoflV7VaEk2+4dhBTWI5iyRxaKlTyE3HKEu0pUD/Pl0BMaehBpa5at2BrlcQrI26r61pniaLOyfK4W7AoX7in6Vpl12+95G70UbW1svwYHTSTtkZVAcYBPtFCV02cp7WZcuRe5doZfi64YXw=;nsD5n88XGVem0WyXDI6imQ=="
+secured: "SpmYLvVnJYiOjw/Mkz0LTcXCaJuoCe1Zl2zmi486WkuyEyMI38NJ/pKnyJD5CtJpmSNppZgiMXnmnWYD5ncv+ug+9AR+aQVzGDZysnqjV0tCT5GX/k67Aa7/rNQ1mhHiVlXVLfKaRnJB9KdJ7tyWrDQSQcwmCcR6FrD/oTqENZfrct7cGie9hz7+Msb/EiFJWrs+8efUis2QewgEzElpoifHdY9+eXSO2iCKGKfEk2wkXxekk7u3c4qvTEUH3MAv0gggjThazJjRyeDEuuttgIgDbEP2alXvmQzUGxcvQdJ1F26GI3s8MqlhorHICJxzx2L/YDCldR+/kKnhuapfru9RwTzjdJvUPKT2zjGpGeI=;0xOvcpC3/vjMhOoOr7SDGw=="
 ---
 

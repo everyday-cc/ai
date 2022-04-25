@@ -2,21 +2,18 @@
 category: news
 title: "AI Therapeutics Announces the Acquisition of Novel Cancer Drug Candidate EC-8042 (AIT-102)"
 excerpt: "AI Therapeutics, Inc., an AI driven clinical-stage biopharmaceutical company developing novel therapeutics for rare diseases, today announced the acquisition of EntreChem, S.L.’s investigational drug candidate EC-8042 (redesignated AIT-102),"
-publishedDateTime: 2022-04-25T14:41:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588739.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588739.htm"
+publishedDateTime: 2022-04-25T14:32:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/science-technology-health-business-biology-a152fe18804c16b23cbe4cc35d8bc155"
+webUrl: "https://apnews.com/press-release/globe-newswire/science-technology-health-business-biology-a152fe18804c16b23cbe4cc35d8bc155"
 type: article
-quality: 7
-heat: 7
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "xl/qY+QObkWh6xMZpPSncVSPkzZzQoilrMsGj04tDDdvOrKU5BVGwa1FcbtvpIQV9fN4p59KTduzRttOKL+gXDZvsyjshbwCDYakm8bWWkAW0b4yys+ySHWSWVbWVDOym4hOnhRH+5NGhc3p06dS22i5L/nLmHL097DZSKQV0IOW+A+InKOHJM41KCHlUIAXnyOI//DQyJOJ8zPmRhruMqwuHlOHBoQyGG8KQa6rYEWe3nnNGZuOjNWKYg9bG9AZkdZW7Ku/tM3nSTBhZQNP3RIQPgDRJW/ZPnqEQw6vSgqa3bLJIn6L7FHDOL/Jfl9haqxfxV9J9dsHi2rRIsMh+uTkSMHv2X3nrwPHKHnfBdg=;8NcstlSGESHVGBYOTyG5sA=="
+secured: "KxxygQp/NtqGSQ9xtg/QKIn0lQ22SzUmUp0WPjPuW5KIrhnwmXAN+6p0Mt9/vfV978FIRA+OzKV1or8w2pVI3YoI+Mka/qV7q12KP1fYthSemRpq4arIP0OEQ7mweeRRuP7wCxQ6lyO6OVigUuCD4NFdxKvFnSvvLPbOAiKQdtk6jOZ90cWtyG697raft4RP8JTocVlSQpiWqZ3FiKgGulSZAxaTLhj3OLImJerz6VhqIZMCMKEjDa2qtJQKwsKdatUkfTNLcZ/BFhaDV3EWXQgLbK7im1gsB/TINMsHF4rM3XJQkqflExId70HY/+gOIaecXszvKDnl3KcEes5lNGgdkMw0jeLoXLYJu5J9K2o=;uBvl9aMC3XJyQHkkHH2T+A=="
 ---
 
