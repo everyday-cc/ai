@@ -1,22 +1,23 @@
 ---
 category: news
 title: "International AI Accelerator INTEMA Announces Its First Demo Day"
-excerpt: "INTEMA, an international AI accelerator, will present 12 startups from 10 countries on April 26 on INTEMA Demo Day Online. The startup"
-publishedDateTime: 2022-04-25T11:49:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/international-ai-accelerator-intema-announces-its-first-demo-day-845056218.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/international-ai-accelerator-intema-announces-its-first-demo-day-845056218.html"
+excerpt: "Join INTEMA on its first Demo Day and meet innovative deep tech startups based on AI algorithms that are already shaping our future. NEW YORK,"
+publishedDateTime: 2022-04-25T12:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/international-ai-accelerator-intema-announces-its-first-demo-day-1031379801"
+webUrl: "https://markets.businessinsider.com/news/stocks/international-ai-accelerator-intema-announces-its-first-demo-day-1031379801"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "MzM9q301KphWbiEshpYUin14kqDwH4t3GIGJe2HdqNFncVzv04jNl9OXYHZ8Trn/9OhZJxiWXQOTxJ/tudlqQMrr7/wLEnzVZHLnRJTxtFB2nA/SEkROai8p7N21cNPiS+MeQkRMIDlqCt4WYmHN9EaxepM58yZvO5os4Kr38HgoIiEzOmWps1VA0g9fMyuPXGhvWDkir4EzX76KfTcA4BTGbxPaRIbuUdW4t/zclon2K6ddiaQ8VM0c/cnXAZdVc3vB/rhp55uNwRbpTycciJ5MzMaWefdR7QWYLvzx3eQlJBomnMjM4ZdLilWYlmBrdgilzNYjZkQxsdckQYhWLu5thO2ClWPn8necv3NwyaY=;hU7sP4cqJqzqwIMTe4dwTw=="
+secured: "/9y2OUQPuRcf8QcdxE24LIMXqSBJr7TlD7Hvt0sOVpZmqkNBFoxtTraIQTcHov0dgUubSMa2q1fQmQ3FSkjdQKNS9ygtKYohCpW5D3Qhu3ki6nwWg1Szi4okY+mCunaZcRpJ1XJqjTGxwmAbZAqwe6D+F2l3tCKVBwrkQ2TKgJfVPpyvyGBsBsNjMLQVr4LlXMyG/f0yFS7BJc4qfebcFnpLqm5EzP5LH2yAYAUcFN+rGokPybmiMkOvMX7651DA40fn4kyM0dghuV0kjKgmAKnoO1mEOlYsmVkJitQVjHidBiPwULuiQc0LTZ12EmnUrbxkujBiNCGzX2MiZtxB9k5mioT7JJlXesDNxWBA2/Q=;BtR5e1r+fYl5ZLjyX0YKYQ=="
 ---
 

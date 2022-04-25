@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Enzolytics, Inc. Reports Progress and Future Plans"
-excerpt: "COLLEGE STATION, TX / ACCESSWIRE / April 25, 2022 / Enzolytics, Inc. (OTC PINK:ENZC) (  ). Enzolytics continues to make significant progress in its multiple"
-publishedDateTime: 2022-04-25T11:01:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-d4bde18f7f9ef6081beb09b33233e7bd"
-webUrl: "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-d4bde18f7f9ef6081beb09b33233e7bd"
+excerpt: "COLLEGE STATION, TX / ACCESSWIRE / April 25, 2022 / Enzolytics, Inc. (OTC PINK:ENZC) ( continues to make significant"
+publishedDateTime: 2022-04-25T11:04:00Z
+originalUrl: "https://www.digitaljournal.com/pr/enzolytics-inc-reports-progress-and-future-plans"
+webUrl: "https://www.digitaljournal.com/pr/enzolytics-inc-reports-progress-and-future-plans"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ghwb1xcy7lpw/hDi5p2C6x04cLGcMTpX0fUOf5OQSfpOcYfy50jo0e3dx0SraqkCAGklhrYWm57QbUPRV0HdUJKR0HqFhFiEmsS5ktr4kQipLtzHw5fBh2enYAQaqHoRAADnbv56OgyHtPcPDNLBFqpNSrchIY4nPRroPfGO88Ub36UxpZEh6+Ngp974QF3Vgwyj2WBqrkng1FzAp6g2/rHM77syGrOLZpfENCAfuYLwFAKYJzHyyC4wmY4VS2+sLHG3kHZ2/C7nF0a8MXa/Ubnin+1J6ozLzjPViKwda1oDd+B4Ak7TB5qlparDr5BIKBUiB6ccSNRzLooRuDdSP09W+90nu1FUZkeY9lsO3sQ=;d+B2qRLHodK5WAeCWz2+ng=="
+secured: "iO42mqFoHEJ3hj6w9lRsLP5CmSWPowpbB/gBpacbIYmq9gNNJFF21T8QaocP/jw9bYKXawcw9hhT3EdVcWMQ6sNvwb77qk7S55L674b12W0LQMRZrfdHar2lQEtJDK07ZnOob1Lr6s42AMDwnMaivNOYAfgCQI73Prq+LtB1JA3dzywtNpsWhVCu7ijArrCPBFSicgp8oUNJZydnahPKn6bMvMZh0uojn1zdmoPsbJiPf0Q5008Y8enhdhCUhH3TeXqAUguZ+99GTvpt00b4Mdj8HuGfYU5zmale9Iei2OQSGjIqO0dpeIKG9CbYGfGrMee+kwCRyUFd6Od/xFvT1trbAczz/iZLFqDWpe70Xvsi5ksij684d990NIWC1vcicWrTUWbNT/WXmOJHzmzH4oWLzY1W0Do2Yy+3iuXruU9KQbUqshNV5qhoZcAlURCJmLLpd+GpxX8s4Bf3LVmk3etpe7sX4A3aJP0+6erCnQvVWiXmVAoE+Jjz6G8ZKRJnQ1tTzJ2omtjCS2TXIUXanA==;QbJGKhhwGVoS8MWzUsQ5QQ=="
 ---
 
