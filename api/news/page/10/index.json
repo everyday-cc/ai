@@ -2,6 +2,253 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-13-alpha-fintech-by-ppro-announces-launch-of-fi911s-intelligent-saas-dispute-processing-for-financial-institutions-in-asia-pacific.md",
+      "title": "Alpha Fintech by PPRO Announces Launch of Fi911’s Intelligent SaaS Dispute Processing for Financial Institutions in Asia Pacific",
+      "excerpt": "Fi911, the leading dispute specialists and sister brand of Chargebacks911, today announces its partnership with Alpha Fintech ( a fintech pioneer aiming to evolve and simplify payments. APAC regional acquirers and PSPs will be able to leverage the unrivaled Fi911 SaaS dispute management p.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=646511",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=646511",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-cogniac-deploys-ai-based-machine-vision-at-melcos-city-of-dreams-manila-integrated-resort.md",
+      "title": "Cogniac Deploys AI-Based Machine Vision At Melco's City of Dreams Manila Integrated Resort",
+      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, today announced its partnership with Melco Resorts & Entertainment Limited (“Melco”),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-global-artificial-intelligence-in-digital-genome-market-to-2028-size-share-outlook-and-opportunity-analysis-researchandmarketscom.md",
+      "title": "Global Artificial Intelligence in Digital Genome Market to 2028 - Size, Share, Outlook, and Opportunity Analysis - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has been added to ResearchAndMarkets.com's offering. Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an organism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_ee263ed7-3f13-51c1-b1a9-af0d7e398c1e.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_ee263ed7-3f13-51c1-b1a9-af0d7e398c1e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-zapped-the-grid-is-on-life-support-can-ai-fix-it.md",
+      "title": "Zapped: The grid is on life support. Can AI fix it?",
+      "excerpt": "Everything you wanted to know about our fragile, ageing, and increasingly unreliable grid (and how AI may be our only hope).",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "originalUrl": "https://www.zdnet.com/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/043fc29998d4bc6f77b26f818bef94fceb617bc8/2022/04/05/36f83171-e88c-47a1-aca7-9a02c9748980/grid.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "publishedDateTime": "2022-04-13T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-intelligent-robotics-for-laundries-closes-automation-gap.md",
+      "title": "Intelligent robotics for laundries closes automation gap",
+      "excerpt": "From IDS Imaging Development Systems GmbH Apr 13 2022 The textile and garment industry is facing major challenges with current supply chain and energy issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
+      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_27558_16498459994081277.png",
+          "width": 1660,
+          "height": 1660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azooptics.com/amp/news.aspx?newsID=27558",
+      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=27558",
+      "publishedDateTime": "2022-04-13T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-bengaluru-airport-announces-winners-of-bial-genie-hackathon.md",
+      "title": "Bengaluru Airport announces winners of BIAL Genie Hackathon",
+      "excerpt": "The winners of the 'BIAL Genie Hackathon,' which was hosted in conjunction with Microsoft, were announced today at Bengaluru Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/04/13/1600x900/fahim-muntashir-F1PCLT669UU-unsplash_1649842544676_1649842564578.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html",
+      "publishedDateTime": "2022-04-13T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-whats-next-for-alphafold-and-the-ai-protein-folding-revolution.md",
       "title": "What's next for AlphaFold and the AI protein-folding revolution",
       "excerpt": "Then, last July, London-based firm DeepMind, part of Alphabet — Google’s parent company — made public an artificial intelligence (AI) tool called AlphaFold 2. The software could predict the 3D shape of proteins from their genetic sequence with,",
@@ -862,282 +1109,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-ai-recruitment-specialist-thisway-global-leverages-ibms-ai-powered-automation-software-to-deliver-powerful-diversity-hiring-technology.md",
-      "title": "AI Recruitment Specialist ThisWay Global Leverages IBM's AI-Powered Automation Software to Deliver Powerful Diversity Hiring Technology",
-      "excerpt": "ThisWay Global was one of 12 North American startups along with their founders selected for the Google Startup Accelerator Program. This group was chosen for their use of AI/ML to address ...",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/business/press-releases/cision/20220412DA18075/ai-recruitment-specialist-thisway-global-leverages-ibms-ai-powered-automation-software-to-deliver-powerful-diversity-hiring-technology/",
-      "originalUrl": "https://pix11.com/business/press-releases/cision/20220412DA18075/ai-recruitment-specialist-thisway-global-leverages-ibms-ai-powered-automation-software-to-deliver-powerful-diversity-hiring-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2022/04/mom-bath.jpg?w=2000&#038;ssl=1",
-          "width": 466,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPIX",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations.md",
-      "title": "Data quality can make or break efforts to bring artificial intelligence to IT operations",
-      "excerpt": "Artificial intelligence for IT operations, or AIOps, could help IT run in a more unattended fashion. But the necessary data may not be ready to sustain it. 'Data is either going to be an obstacle or a",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
-      "originalUrl": "https://www.zdnet.com/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6b9a2c88fd064a6003ab680c9c75eb23c06ec47e/2022/04/12/33673e3f-0e23-46f9-a7ff-c4960c95ca55/img-9670.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
-      "publishedDateTime": "2022-04-12T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-graph-data-science-what-you-need-to-know.md",
-      "title": "Graph data science: What you need to know",
-      "excerpt": "GDS 2.0 also brings more machine learning and AutoML capabilities. The ability to create ML pipelines for tasks like link predictions is introduced. This means being able to fill in missing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/",
-      "originalUrl": "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1267467975.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/",
-      "publishedDateTime": "2022-04-12T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-how-is-ai-helping-to-transform-the-finance-industry.md",
-      "title": "How is AI helping to transform the finance industry?",
-      "excerpt": "Companies in the financial sector are leveraging artificial intelligence to analyse and manage their data, here we look at how AI can transform FinTech",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/how-is-ai-helping-to-transform-the-finance-industry",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/how-is-ai-helping-to-transform-the-finance-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1800/639523f2fe059fecbaf19b19e4229d27:52c6854f2cf421a7f0acf4e0746803dd/gettyimages-1163919598.jpg.jpg",
-          "width": 1800,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-machine-learning-predicts-conduct-disorder-in-kids.md",
-      "title": "Machine learning predicts conduct disorder in kids",
-      "excerpt": "Now, a new study uses a machine-learning approach for the first time to assess risk factors across all three domains in combination and predict later development of CD with high accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-machine-disorder-kids.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-machine-disorder-kids.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/rowdy-children.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-machine-disorder-kids.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-disorder-kids.amp",
-      "publishedDateTime": "2022-04-12T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing.md",
-      "title": "Soft Robotics Names Paul Kling as Vice President of Global Sales and Marketing",
-      "excerpt": "... Inc.: Soft Robotics Inc. is an industry-leading and award-winning technology company that designs and builds automated picking solutions using proprietary soft robotic grippers, 3D machine perception, and artificial intelligence. The company's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing/article_e185b70c-dcea-5b8a-91e0-ec7b97251f19.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing/article_e185b70c-dcea-5b8a-91e0-ec7b97251f19.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/92/f92042fb-8930-5f12-91e8-4d00af8b26c4/6255868ec874a.image.jpg?crop=1362%2C715%2C0%2C402&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
       ]
     }
   ],

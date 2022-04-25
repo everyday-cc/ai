@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Adyen: A FinTech Stalwart Priced To Perfection"
-    excerpt: "Adyen is a leading payment platform. Click here to read about the core business, growth prospects and PT for ADYEY stock."
-    publishedDateTime: 2022-04-21T13:30:00Z
-    webUrl: "https://seekingalpha.com/article/4501844-adyen-fintech-stalwart-priced-to-perfection"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "6cUFk/yQ8xyzcWR1kfM0NZ5gMuvoGGHmakDinbW610KiCI4ITwgMM9DjGK6FBSABgg7NzVsoycEVVZRgnpr/BiX71ed+zx61ug6P33iF1rTW3Yvb0KMQweB1UPyAs3Ygz7qbjLRw1KPMT3R+xnrjoUCAxs68Hdhrvuc6Zc7TIjvToVATVjVMcWIwNjUbiajNsvM5guTj9f/5bqm/O6nBytBacREu3NMWPUBLT0BgaGIMzFLO21+nEEpGIFrRF14iwr85a/wvCKCLyvABaBfUNheIzIjf3rfebF+8BQAURjGb2+3A6fuGHDtAlWcAQ9vWSXCUAJYB3VGNIHnVbJOa9jcTfD9yYi/Dhlc6YgvyCVk=;GL/aegfsXMh5WgycRZiZRw=="
 ---

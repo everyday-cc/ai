@@ -47,6 +47,34 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Machine Condition Monitoring Market to Advance at CAGR of 6.3% During 2021-2031; Notes TMR Study"
+    excerpt: "Rise in demand for machine learning (ML) tools and Big Data analytics for machine condition monitoring propelling revenue generations; solutions integrated with IIoT opening new revenue streams Condition monitoring based on predictive & cognitive analytics growing for industrial machinery in multiple end-use industries;"
+    publishedDateTime: 2022-04-25T17:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-machine-condition-monitoring-market-advance-cagr-63-during-/2022/04/25/9588872.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Transparency Market Research: Machine Condition Monitoring Market to Advance at CAGR of 6.3% During 2021-2031; Notes TMR Study"
+    excerpt: "Rise in demand for machine learning (ML) tools and Big Data analytics for machine condition monitoring propelling revenue generations; solutions integrated with IIoT opening new revenue streams Condit"
+    publishedDateTime: 2022-04-25T17:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55861872-transparency-market-research-machine-condition-monitoring-market-to-advance-at-cagr-of-6-3-during-2021-2031-notes-tmr-study-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "AM0BtZRAdSaepe1uqddgVQbwUub3i2SR/PQnD58vSPHGnMUF6DRaP/S/VgC92aC1UF5KvjOr84bNvROtE/jPzxUtg1LUZyWZwueFHGEqtflqyHpbuqmnvk5h0+C9+UBSBvE3e4C/YauXPMw9LUI5PBtkMemGmlmLVi5fdBvE7S9MjuFU75GcM30cg5WHnmljItSM8EnCqQdLW6EiX3Wh9p1r1EXYwcZlfB5HF0AARQMQgAmanCojwf5v7NPOVCjnjsupy0fN54vlGcUfYhZzG/jH7MIiFjxffoFzDcYsQVTKsK6ZY67GwTz8W0BQi29JPXnYmIa4GJXZ2Bydtu9op5feIUgXhOknU4W6mjyr15P2dA2HtenEJ9U+X0ffE/9kAzKLz/Ab8OUilU81cn2phIOfdUcSGSky48SMdECLU/hZKSMUstPYKjbOHr8BbEa3/oPAkDME1Z8WbmwHi4QykxcgDDt5XmapuRBk7Is5mt3DgsqckuSBHUKTtziHx+w+xJYaTS8Jr11KVEyPZBntxg==;1rhGCxDX7Mhbo4N8tF+Izw=="
 ---

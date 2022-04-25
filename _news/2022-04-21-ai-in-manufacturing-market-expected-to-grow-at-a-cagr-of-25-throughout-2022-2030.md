@@ -47,6 +47,34 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 13
+  - title: "Machine Condition Monitoring Market to Advance at CAGR of 6.3% During 2021-2031; Notes TMR Study"
+    excerpt: "Rise in demand for machine learning (ML) tools and Big Data analytics for machine condition monitoring propelling revenue generations; solutions integrated with IIoT opening new revenue streams Condition monitoring based on predictive & cognitive analytics growing for industrial machinery in multiple end-use industries;"
+    publishedDateTime: 2022-04-25T17:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-machine-condition-monitoring-market-advance-cagr-63-during-/2022/04/25/9588872.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Transparency Market Research: Machine Condition Monitoring Market to Advance at CAGR of 6.3% During 2021-2031; Notes TMR Study"
+    excerpt: "Rise in demand for machine learning (ML) tools and Big Data analytics for machine condition monitoring propelling revenue generations; solutions integrated with IIoT opening new revenue streams Condit"
+    publishedDateTime: 2022-04-25T17:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55861872-transparency-market-research-machine-condition-monitoring-market-to-advance-at-cagr-of-6-3-during-2021-2031-notes-tmr-study-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "kLGfu4vgoU/wpw/LYYwo4OeODwgODZrj0E+PqmFbBQqEuA9DtxY8e5tt9KqXg4dXCLYZfaGM7tzuPj1yau2XziuyEy16sEXkRqw9eJll6zprUa0fTxShpjz910Kl3h/oZ3VqS0SITDXP2ouiKPZV4NP+/jMTDSDRlvr8VC67YaVxjzWJuwAXLlSjoWBV7pTCoK6IxpFWqvTHr/My4/2KUFhL7T6Ia8oEMpeUD4IsgBDbcnLdRt2QrnCel6NlZXgAmFHd8+JDrkG6e4i7bhWQquO2+2QcSxEe8MkiPJrYDDpid56aJsd/yhO3YYz1aWWXMMvpI2ol5OEOEYgtilNEOiRgE5wevBUZ5BqkUcVHADE=;SxpqMcqlPLfs9h2SyD+MNQ=="
 ---

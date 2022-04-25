@@ -85,29 +85,15 @@ related:
         width: 417
         height: 455
         isCached: true
-  - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
-    excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."
-    publishedDateTime: 2022-04-21T15:24:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-market-size-to-reach-usd-16652680-million-by-2028-at-a-cagr-of-13/article_a35fe3f5-ce70-54f2-b6ad-f0335fb7a9b7.html"
+  - title: "$36B+ AI in FinTech Industry Trends and Opportunities"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
+    publishedDateTime: 2022-04-25T17:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-36b-ai-fintech-industry-trends-opportunities-assessment-2027-/2022/04/25/9588806.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Face Recognition Systems Trends Technology Innovation, Analysis Application, Demand Forecast, 2028 | Reports And Data"
-    excerpt: "Increasing government expenditure on Face Recognition Systems for enhancing border security and adoption of live surveillance technology in various"
-    publishedDateTime: 2022-04-21T12:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/face-recognition-systems-trends-technology-innovation-analysis-application-demand-forecast-2028-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "rQrMYH0rWHaiKmVfpJIE6586300lKmy66WyXg7f1gVEKnNVtiWjcq9UO+X+PGzt64eaMZb41sLpGQaJSYiWh/YMthyYoKFMUPbMd9a0wIdRvKX6qCkZv4bgxF6sR2MNBvRgc+biKMi5S9ov5y0JXFObzQpK7QJbP8HcwnnAGDZLv2mZw2rD7wmbbiOaKzirNYnqjSFTTPMPC0s2Jw8zPGFVXKCKv19Ke6PSqywMLo8+YEpb03ozHUT6SxdcWR3Kik/ziCWX/DKgGAOe1ssa8Hr3Yiqq63RceoQoywmLbZBI5nnUaTzQhx+vowQ1hrAO9nGw91xe0niSQ/Z8H+jR0NxaBsc7AyFTAXokzlbHP8P8=;QVvSjcz9Q+URj6MnQzQLWA=="
 ---

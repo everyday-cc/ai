@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-25-how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually.md",
+      "title": "How Nordic Aviation Capital uses Amazon Rekognition to streamline operations and save up to EUR200,000 annually",
+      "excerpt": "Nordic Aviation Capital (NAC) is the industry’s leading regional aircraft lessor, serving almost 70 airlines in approximately 45 countries worldwide. In 2021, NAC turned to AWS to help it use artificial intelligence (AI) to further improve its leasing operations and reduce its reliance on manual labor.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/25/ML-8594-image003-2.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T10:47:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022.md",
       "title": "AWS CMO Rachel Thornton on the future of customer-obsessed marketing in 2022",
       "excerpt": "Customer obsession is core to AWS, and being data-driven in everything ... Experimenting with technology, such as machine learning (ML) or artificial intelligence (AI), in marketing can help ...",
@@ -1364,49 +1417,6 @@
       "provider": {
         "name": "SEAPOWER",
         "domain": "seapowermagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands.md",
-      "title": "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands",
-      "excerpt": "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22",
-      "originalUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-04/05/I_97f69image_story.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

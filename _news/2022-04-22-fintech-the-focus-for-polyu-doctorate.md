@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-s
 webUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-sets-polyu-apart/article/3174777/fintech-focus-polyu"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: South China Morning Post
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Climate Fintech Startup Is Paving The Way For Mass Market Adoption Of Land Regeneration"
+    excerpt: "It’s a little known fact that the hope of the future lies in land regeneration – avoiding meat, air travel, and the rise of electric vehicles have largely captured the headlines and our imagination."
+    publishedDateTime: 2022-04-25T16:40:00Z
+    webUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/"
+    ampWebUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6266c933d798f8767744041a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 991
+        isCached: true
   - title: "2 Fintech Stocks That Could Help Make You a Fortune"
     excerpt: "The fintech industry continues to bring change to an industry ripe ... In contrast, Lemonade has developed a model to evaluate prospective customers using AI and behavioral economics. When it collects revenue, the company takes a fee and allocates the ..."
     publishedDateTime: 2022-04-23T12:07:00Z
@@ -40,20 +56,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Biggest FinTech Trends of 2022"
-    excerpt: "Biggest FinTech Trends of 2022 . April 20, 2022 by David Edwards Leave a Comment . The pandemic and fast technology development made their imp"
-    publishedDateTime: 2022-04-20T23:10:00Z
-    webUrl: "https://menafn.com/1104061000/Biggest-FinTech-Trends-of-2022"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/20/R&AN_736ceimage_story.jpeg"
-        width: 800
-        height: 350
-        isCached: true
   - title: "Credit unions eagerly pursuing fintech partnerships"
     excerpt: "To appeal to a younger audience, credit unions are teaming up with third parties that can help them offer Bitcoin accounts, real-time payments and other cutting-edge services."
     publishedDateTime: 2022-04-21T16:10:00Z
@@ -68,33 +70,28 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Top 10 Master’s Degrees in Fintech in Europe"
-    excerpt: "We look at 10 of the most noteworthy master’s degrees in fintech in Europe, delving into how these programs and institutions are differentiating themselves from their counterparts and the opportunities each offers."
-    publishedDateTime: 2022-04-21T05:06:00Z
-    webUrl: "https://fintechnews.ch/fintech/top-10-masters-degrees-in-fintech-in-europe/52542/"
+  - title: "Adyen: A FinTech Stalwart Priced To Perfection"
+    excerpt: "Adyen is a leading payment platform. Click here to read about the core business, growth prospects and PT for ADYEY stock."
+    publishedDateTime: 2022-04-21T13:30:00Z
+    webUrl: "https://seekingalpha.com/article/4501844-adyen-fintech-stalwart-priced-to-perfection"
     type: article
     provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/04/OneSpan-.png?x30842"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Key Features To Consider Before Developing A FinTech App"
-    excerpt: "With AI-powered intelligent chatbots, there is a lot of space for considering and solving customer issues. And that’s a wrap! However, you will be spending a significant amount of money on your first fintech app development project so make sure you are ..."
-    publishedDateTime: 2022-04-25T05:52:00Z
-    webUrl: "https://techstory.in/key-features-to-consider-before-developing-a-fintech-app/"
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
+  - title: "$36B+ AI in FinTech Industry Trends and Opportunities Assessment, 2027 - The Increasing Utilization of Smart Contracts for Financial Processes is Driv"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
+    publishedDateTime: 2022-04-25T02:46:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=652294"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/04/pexels-christina-morillo-1181244-scaled.jpg"
-        width: 2560
-        height: 1709
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "BKYJZP/2+6jblbGV9P8TPSSTu8dlIJXNADsaACUXnoHq5AM6R1OA7LkpETOZY9H/D5DtYYS9c686PRTd6mDWBrFW5xu+8SsSHQaQw6BDzEevUnPACg246qSNm67KQ1wEUrZ7Ll00linckU4UYj5y5Sj77y6kgQjZMU9+SyaIau/4klZIt2V1w0cvHgnZRzAipXK+HI2LBVnN1pTCa2Dk9PYew712iot4zHwPtH8Ol6vJxbO2hmP5JtKqu6OWTOpVeHKnXxLcZ110sWMmEzR39K9N4UyZzebwWXno7Z65HWgBtW76Ih7H62tqQNztC6cgX5t4rL2onlnK3XLK5zoF9A48P/2HTwJTrRYtQjwcV2M=;tIyaJVVluJpJ1lSCEeokDw=="

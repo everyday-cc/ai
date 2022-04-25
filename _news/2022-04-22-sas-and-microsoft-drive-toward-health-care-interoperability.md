@@ -25,31 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Mastercard's Digital Transactions deploys Microsoft AI to improve fraud protection"
-    excerpt: "The two companies are combining their innovative technologies to better protect consumers from an increasingly prevalent form of digital fraud."
-    publishedDateTime: 2022-04-25T13:11:00Z
-    webUrl: "https://www.zdnet.com/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/"
+  - title: "Can Strength in Azure Cloud Aid Microsoft's (MSFT) Q3 Earnings?"
+    excerpt: "Azure’s revenue growth is likely to reflect continued strength ... Microsoft also completed the acquisition of Nuance Communications, a leader in conversational AI and ambient intelligence across industries like healthcare, financial services, retail ..."
+    publishedDateTime: 2022-04-25T17:27:00Z
+    webUrl: "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings"
+    ampWebUrl: "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
-  - title: "Kraft Heinz to work with Microsoft on digital twins and supply chain efficiencies"
-    excerpt: "Food manufacturing firm Kraft Heinz Co. said today it is partnering with Microsoft Corp. with an eye to improving its supply chain visibility and day-to-day operations. Under the alliance, Kraft Heinz will adopt various cloud,"
-    publishedDateTime: 2022-04-22T02:10:00Z
-    webUrl: "https://siliconangle.com/2022/04/21/kraft-heinz-work-microsoft-digital-twins-supply-chain-efficiencies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/48876996006_853180752b_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 99
   - title: "Kraft Heinz enlists Microsoft for cloud migration and digital twin development"
     excerpt: "Kraft Heinz has entered the next phase of its digital transformation strategy that aims to improve its supply chain operations."
     publishedDateTime: 2022-04-21T13:34:00Z
@@ -73,35 +59,7 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Kraft Heinz, Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
-    excerpt: "The Kraft Heinz Company and Microsoft Corp. are joining forces to develop solutions designed to accelerate the consumer goods giant’s transformation and enable a more resilient supply chain."
-    publishedDateTime: 2022-04-21T16:21:00Z
-    webUrl: "https://www.foodengineeringmag.com/articles/100231-kraft-heinz-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation"
-    type: article
-    provider:
-      name: Food Engineering
-      domain: foodengineeringmag.com
-    quality: 32
-    images:
-      - url: "https://www.foodengineeringmag.com/ext/resources/2022/04/21/KraftHeinz-Microsoft-logos.jpg?height=635&t=1650557798&width=1200"
-        width: 900
-        height: 550
-        isCached: true
-  - title: "Kraft Heinz and Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
-    excerpt: "Multiyear cloud and AI agreement will focus on joint innovations across Kraft Heinz operations and product portfolio, representing one of the company's largest technology investments to date"
-    publishedDateTime: 2022-04-21T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader/article_ae96bef3-472e-55be-b401-9f2d7740dfd5.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/7d/27da7c2d-dbb9-5236-bcc9-a55fc34f7427/626156208540d.image.jpg?resize=1072%2C1072"
-        width: 1072
-        height: 1072
-        isCached: true
 
-secured: "NyWlWzAKI7Zd3k2pPvpjlExRuFzs9yOZAoNb6Pwn9cZ/QsRWepHUipftndQYA6MKH6X0mjRZjVyF/pNdFg6x4F2ikPbjI9tzzTwje8UKQ3BG74tUZUuRATXVayPbojmM/FDqfwJU73u/k7yol2R/gIBZ7fKQHMgJ1Bul2FzdsVIsloF4omewo2F8DTs++K8N+/CEWlC74DdVCgw3EA12h+ic3+EziAXdA5W0K9TH2FbwlR5C/BXrVuJ6M0/VPZJaUlGzPBEgrqYUj3593/J5tegEkXcIOurzAsjOYV8pMa6KoQHmyDp/zJ8f89NhhyGw/TjoAYzJk7tZLG9GtqNNDf4GdVebwkOJSqVaNnhF7zc=;ytQfTzw0ExISyNkItgo0SA=="
+secured: "QMSJpcVCAYbwYjn2Ha+9GF+by3IBmWXDiDsJ7240zhGcfCh03b4AbJQHQQHW8j8qWcIAvz2QyQvyoD9B8YkjS6NM/uXM4ONyWvFYgVFjo/s6Q9pSpZqBGiXTj0CbxShA5Mq78yRxd/7EJhe+UNA3ffEw49VzfUJ/5KiV6QANe7rScuzV86m2NVSfpm4zEO2E19bt1HWH0I31g4QKQyZ84i8X0U/bYQIbFBbVvG7c7P+KowG4QIQvIZmmNRzNUmJkC9ZiYCFuElWwBqgo/2kqsE8TU8royI7hCCk67NXLkyDUxvAoRdx6uIXzxAjRMxF5y21vMSPp5T2XegYlAPEPyLiXybthwVaiD7QJWuktAXg26SWAQ5Lwk59NeOpLC2cP7qj7KT6tCb2/WF/airiVoHI6CrGCXZuNqhDC9Yu00iS4Au0jfzqjLGLCUUTUKibl/vnZC0YpaqcxhG3sHzDcE6B0z/LNS4aRvzgJUjEkLX4DxyVSt4aWuCTb9mNLIfQSFpwerLwRY5m2ODF4FvWMYg==;RXD3wLbU8E912TyOVnX4Vg=="
 ---
 

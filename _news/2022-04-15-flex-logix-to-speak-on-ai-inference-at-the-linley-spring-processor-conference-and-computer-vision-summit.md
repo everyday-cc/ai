@@ -1,20 +1,20 @@
 ---
 category: news
 title: "FLEX LOGIX TO SPEAK ON AI INFERENCE AT THE LINLEY SPRING PROCESSOR CONFERENCE AND COMPUTER VISION SUMMIT"
-excerpt: "Speaker: Sam Fuller, Head of AI Inference Product Management for Flex Logix"
-publishedDateTime: 2022-04-15T13:48:00Z
-originalUrl: "https://news.tmcnet.com/usubmit/2022/04/15/9583796.htm"
-webUrl: "https://news.tmcnet.com/usubmit/2022/04/15/9583796.htm"
+excerpt: "Flex Logix is a reconfigurable computing company providing AI inference and eFPGA solutions based on software, systems and silicon. Its InferX X1 is the industry's most-efficient AI edge ..."
+publishedDateTime: 2022-04-15T12:32:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220415sf26541/flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220415sf26541/flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "1Jy+Iek/xktPduuqamJsXVQlfR9P70myLjwSxooeAuczZQCWBgev9ylatWd70/ZaLGEXdCZwG4ZSJ7J+uM9rbduK8weSbEN/+eOIEKbPOjWXit1BUq/TI0p620foJTy0g6UcqnVRVfQxAxEujdyhdqACZyv0U+0rJMhtjuwqDsioH+N8nHv5USCOit2lGu8FIxvuFhANbiwi4WcMCaa2Ib10+TKahzL/fsfxFgmJ+yYV89C1HdI1KSCIDpkqZJWX52MSK/SNmMtTB9+6p+b1wp3JubjykeFiL7O1e15AZmmmBoDwJFrj1XrRjrc1uUlTs4djqEOp1oQ2YvB+gSL33Q907oqDr2lIqAVKuUMSoDI=;CpnTFXW6bx55k+qDUp33Fg=="
+secured: "6ADkZcwqKu2v9WXIBYIb7dxcV2IX/DtR4zWJIm6iiCP8aoFIY6znvcxBCGhXybifcMAjdFqaxR60iYB0QOeVVQQN8zPhccUtTqek+ex/Ct/07rsAEZlzX6O5/TuNdsHlk7l+6PV1zRy12Z8U/NJkoqBXEH6infQg5W2ETDhOTRf/qzIRbmGd0Wq2uXhCvXAsX3ICah+uGODCKgggH7CCnE3x1x+CJUpwNxL3bmqjOGPA/vPMUx8Kb8OukwECUZ5IbgOlztUSAaadNpKFWqVRXYCMAgxWM/Oo6IpwEF/nrr1clh+R5PsNXyTzQ8JXCqueIHCKt8qgcH0tksPR/eST06GW1p2pzlW3gIAkevZaM+E=;9EkZzlFsQ3enLAGina9W1w=="
 ---
 

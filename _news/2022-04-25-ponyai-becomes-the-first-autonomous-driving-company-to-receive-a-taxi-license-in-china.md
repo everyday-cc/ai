@@ -18,6 +18,38 @@ topics:
   - AI
 
 related:
+  - title: "Pony.ai becomes first autonomous driving company to receive a taxi license in China"
+    excerpt: "Autonomous driving developer Pony.ai announced it has received a license to operate taxis in China, the first company to achieve the permit."
+    publishedDateTime: 2022-04-25T16:39:00Z
+    webUrl: "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/"
+    ampWebUrl: "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/04/Pony.ai-China.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Pony.ai lassos China's first autonomous taxi license"
+    excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
+    publishedDateTime: 2022-04-25T17:00:00Z
+    webUrl: "https://www.theregister.com/2022/04/25/ponyai_lassos_first_autonomous_taxi/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/25/ponyai_lassos_first_autonomous_taxi/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/ponyai_lassos_first_autonomous_taxi/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 57
+    images:
+      - url: "https://regmedia.co.uk/2021/03/31/driving.jpg"
+        width: 1000
+        height: 475
+        isCached: true
   - title: "Self-driving car startup Pony.ai obtains taxi license in Guangzhou, China"
     excerpt: "Self-driving car technology startup Pony.ai Inc. has obtained a new taxi license in Guangzhou, China, the first robotaxi company to do so. Announced Saturday, the permit allows the company to operate 100 autonomous vehicles as traditional taxis in Nansha District of Guangzhou,"
     publishedDateTime: 2022-04-25T02:38:00Z
@@ -31,20 +63,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/BotRideReal.jpg"
         width: 975
         height: 650
-        isCached: true
-  - title: "Pony.ai to start charging money for its robotaxi services in Guangzhou"
-    excerpt: "Pony.ai said on Sunday that it has received permission to charge a fee for offering autonomous ride-hailing services to the public in parts of the southern city of Guangzhou. Starting May, a total of 100 of the firm’s self-driving vehicles will be allowed to operate commercially on public roads in Guangzhou’s Nansha district between 8:30 a."
-    publishedDateTime: 2022-04-24T08:53:00Z
-    webUrl: "https://technode.com/2022/04/24/pony-ai-to-start-charging-money-for-its-robotaxi-services-in-guangzhou/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
         isCached: true
   - title: "Pony.ai wins autonomous driving taxi license in China"
     excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"
@@ -116,6 +134,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Pony.ai Gets Licensed to Run Robotaxis in South China"
+    excerpt: "Chinese self-driving startup Pony.ai has obtained a business license ... The license marks a milestone in efforts to commercialize a technology on which tech giants like Baidu and Huawei have placed big bets. But when the company launches the service ..."
+    publishedDateTime: 2022-04-25T12:14:00Z
+    webUrl: "https://www.caixinglobal.com/2022-04-25/ponyai-gets-licensed-to-run-robotaxis-in-south-china-101876313.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 19
 
 secured: "h1UXYUjSzreoLo/6jyz9HLSUDtKKQD/jlL3g9jhmuJFq8gEDLStvJ/7IhQfc2A/OygpHO93qQHWBkA2zEPHgWuUj/jxDGCRsAICbXnoCqgxZM1LB9wdSI9BJp09AR4nwFdCK8A6NUzFSXr5o2sQCPUW8eGxldih8R9uSk+uI0LJ82WJXp5cUkhY35nzN5YN0n1AjRk5gI5Y1DTN7KiP05mstcfao649XNcf4+WxnSmat2d6N3cmdmupI5eEPJZLrtBy3jIe2dNXN+IWekCZrKyVCMwEqgAusfdltq4QuQLefO7TojRBgcYWM1gJW81zZdO0RIT+BtSEJ/ybjIZ6nHpvJYdmj285bx6X8KGmkzU6+yefo8caNf8VZtCD/mo/k4yvF/k4CXP+7j00rrgkQS/1LiRG3eMz2lxTQH5lFFX7JZThXyQycFoki3OclICSAJ1dOB8FveIvJwLuxzYd68gnnmU4FDT9rPDiOTuxmHvPaTn4bXbD46PLjAP+2OpC81Pr0y7PEs+9ZG9BUNRnruA==;uoaiqL3BY+cWPgSJKOMgDA=="
 ---

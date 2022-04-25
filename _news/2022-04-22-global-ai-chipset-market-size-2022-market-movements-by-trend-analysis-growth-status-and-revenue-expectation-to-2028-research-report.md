@@ -28,80 +28,87 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market 2022 Global Industry Analysis by Trends, Size, Share and Revenue status by 2022"
-    excerpt: "Apr 21, 2022 (The Expresswire) -- “artificial intelligence (AI) chips market and it is poised to grow by USD 73.49 billion during 2021-2025, progressing at"
-    publishedDateTime: 2022-04-21T08:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21"
+  - title: "Artificial Intelligence in Retail Market Size Worth USD 31.18 Billion by 2028"
+    excerpt: "The global “Artificial Intelligence in Retail Market Size” is expected to rise with an impressive CAGR and generate"
+    publishedDateTime: 2022-04-25T11:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028-2022-04-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Ai Platform Service Market Size, Share, Growth and Trends, Forecast to 2030"
-    excerpt: "Key Companies Covered in the Ai Platform Service Market Research are  Microsoft (US), Google (US), Salesforce (US), IBM (US), Intel (US),"
-    publishedDateTime: 2022-04-23T10:59:00Z
-    webUrl: "https://menafn.com/1104079272/Ai-Platform-Service-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
+  - title: "Conversational AI Market is Predicted to Reach US$ 40.5 billion by 2032"
+    excerpt: "According to a recent FMI report, the conversational AI market is predicted to reach US$ 40.5 billion by 2032, up from US$ 8.3 billion in 2022, with a CAGR of 17.2%. According to the research, significant factors such as the increase in demand for AI-based Gartner chatbots solutions are projected to boost market growth throughout"
+    publishedDateTime: 2022-04-21T05:44:00Z
+    webUrl: "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/"
+    ampWebUrl: "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/04/Conversational-AI-Market.jpeg"
+        width: 1125
+        height: 750
+        isCached: true
+  - title: "Face Recognition Systems Market Size Hit USD 13.09 Billion at CAGR of 16.8%, in 2028"
+    excerpt: "USD 3,766.4 Million in 2020, Market Growth – at a CAGR of 16.8%, Market Trend – Rise in defense budget NEW YORK, NY, UNITED STATES, April 25, 2022 /EINPresswire.com / -- Increasing government expenditure on face recognition systems for enhancing border security and adoption of live surveillance technology in various countries are driving market revenue growth The global face recognition systems market size is expected to reach USD 13."
+    publishedDateTime: 2022-04-25T11:08:00Z
+    webUrl: "https://menafn.com/1104087549/Face-Recognition-Systems-Market-Size-Hit-USD-1309-Billion-at-CAGR-of-168-in-2028"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 35
+    quality: 34
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
-        width: 268
-        height: 250
+      - url: "https://menafn.com/updates/pr/2022-04/25/EP_409a5image_story.jpeg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "AI Chipset Market 2022 Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2028"
-    excerpt: "AI Chipset Market” report delivers a complete overview of the industry with both qualitative and quantitative data."
-    publishedDateTime: 2022-04-21T10:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-chipset-market-2022-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2028-2022-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-  - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
-    excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"
-    publishedDateTime: 2022-04-22T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-smartphones-market-size-growth-share-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2026-2022-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market Trends, Growth Outlook, Size Estimation, Key Players and Industry Insights by 2027"
-    excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD reaching USD 12.22 Billion at 51.9% CAGR during the f"
-    publishedDateTime: 2022-04-21T01:56:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-20-healthcare-artificial-intelligence-market-trends-growth-outlook-size-estimation-key-players-and-industry-insights-by-2027"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 11
-  - title: "Cloud BackupMarket Size 2022 Trend and Opportunities, Market Share,Analysis, CAGR and Value Chain Study, Business Growth to 2025"
-    excerpt: "Cloud Backup Market“ study has 185 pages, 90 tables and figures.Worldwide markets are poised to achieve continuing growth as Cloud"
-    publishedDateTime: 2022-04-25T07:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cloud-backupmarket-size-2022-trend-and-opportunities-market-shareanalysis-cagr-and-value-chain-study-business-growth-to-2025"
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
+    excerpt: "[270 Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report “Artificial Intelligence in ..."
+    publishedDateTime: 2022-04-21T02:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 10
+    quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/be6b8aa06bcc409b6f0bbe2f497c25f1fb377222-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg"
+        width: 635
+        height: 347
         isCached: true
+  - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
+    excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."
+    publishedDateTime: 2022-04-21T15:24:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-market-size-to-reach-usd-16652680-million-by-2028-at-a-cagr-of-13/article_a35fe3f5-ce70-54f2-b6ad-f0335fb7a9b7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 12
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Computer Vision Market Size Is Projected To Reach USD 13380 Million By 2028 At A CAGR of 6.2% - Valuates Reports"
+    excerpt: "Computer Vision market is segment by Type - PC Based, Smart Camera Based, Segment by Application, Quality Control and Inspection,"
+    publishedDateTime: 2022-04-21T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-size-is-projected-to-reach-usd-13380-million-by-2028-at-a-cagr-of-6-2-valuates-reports-832179358.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 0
 
 secured: "LoCD5el0csY2bewsI4SSYOh32uoD6DqGOSmlH65/SY98eFHB/yZIGWuBH5PeWav161V3hVlhefFR8AcqbFgsexkatZZAGEhlVZIQhbi28oMJ2gXkc1QtI5JhrH1np+wWbG9S2/aB6g4cv3GkurjjEgUfsu1VKqmkxB3qz5uttEBGk3pgsfoGxFNLw7wB+C7oZILnpZGuc+d1LXoa5yZ9meCL+zWw0/GaqwZ2xEegWg2OQ1vJouhgUKSv5ID2eWaCzWmyb5iw0vbAVgHV2/xihyEydogcfpj8rzezfvQU8wIGgX/qt2M0u4EpYJ4nfgCi1fHCrDXQ2YJHdtApYxIHV1vAgOv1sLJFaVEhqG+yjMc=;kWB7bk2c+0MhdhfZKpO8Yg=="
 ---

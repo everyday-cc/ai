@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Chipset Market Size 2022, Market Movements by Trend Analysis, Growth Status and Revenue Expectation to 2028 Research Report"
-    excerpt: "Apr 22, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of Pre and Post COVID-19 on this AI Chipset industry/market.\" Global"
-    publishedDateTime: 2022-04-22T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-chipset-market-size-2022-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-to-2028-research-report-2022-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ai Platform Service Market Size, Share, Growth and Trends, Forecast to 2030"
     excerpt: "Key Companies Covered in the Ai Platform Service Market Research are  Microsoft (US), Google (US), Salesforce (US), IBM (US), Intel (US),"
     publishedDateTime: 2022-04-23T10:59:00Z

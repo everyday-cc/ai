@@ -41,6 +41,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Trial of UK's first self-driving bus begins in Scotland"
+    excerpt: "The buses are fitted with sensors which enable them to run on pre-selected roads without the safety driver having to intervene or take control, according to Scottish media reports."
+    publishedDateTime: 2022-04-25T17:23:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/trial-of-uks-first-self-driving-bus-begins-in-scotland-8409201.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/trial-of-uks-first-self-driving-bus-begins-in-scotland-8409201.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/trial-of-uks-first-self-driving-bus-begins-in-scotland-8409201.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/12/scotland-new-year-765x435.jpg"
+        width: 765
+        height: 435
+        isCached: true
 
 secured: "60FhkWhJxUlgUYc612vxBC2LI+7AjYdXM1WZTDC0V8h/uZlqznfiYQonPcQ64WMcl0/CutLmOEXKdI4NLg28HTlGM3F2K2KdN6mr8Plo4eyykcpI6cP8g0P/5dRv90+gj69yj8KpT3ZyB+t21L3TnBBtvvhMNA+WjUS/lrWm0+xRdqwapiR60rsCLnR518IVb7TFy08TJd9UCM8qLW3Aipl6NV7/E8+HBQP5V36qJNkmv3NnRAd1NkKduyFzMlZ7w+QOr4tC7UIB2NjfzdJesmfBQYszHDSi/6Lo8yApNoNvdARyuMK9Ibx2XW9UKbbRK9OguFiPNjPUhZ/fYsQaBHZiagsAAfTL8ksSpzUVhPd2cCbpo4Ny091bC4M7l3saX8cWkQIbWUD7+Ne2T3zXDrKZRZh7je92Lgc1DK4hmJfgYFFAmTHoyk6LGazyJtSZG9Mzdp1It2pCCf2D9yGJirraoKypSisqHGAR2uy7RpfGoHZQSQYwz8a9Fki1Qz9hPnBEL9gUCFuYgxE+tvD9TA==;SHQSWFzFso9yjg7vqkkbtA=="
 ---

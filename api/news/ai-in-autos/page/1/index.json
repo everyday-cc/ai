@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-25-ponyai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china.md",
+      "title": "Pony.ai becomes first autonomous driving company to receive a taxi license in China",
+      "excerpt": "Autonomous driving developer Pony.ai announced it has received a license to operate taxis in China, the first company to achieve the permit.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/",
+      "originalUrl": "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/04/Pony.ai-China.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/",
+      "publishedDateTime": "2022-04-25T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-commerces-bis-can-help-stop-chinas-quest-for-ai-dominance.md",
       "title": "Commerce’s BIS Can Help Stop China’s Quest For AI Dominance",
       "excerpt": "AI will transform militaries through innovations in intelligence, surveillance, reconnaissance, logistics, command and control capabilities, weapons systems, and so on. Last year a landmark U.S. National Security Commission on Artificial Intelligence (NSCAI) report found,",
@@ -1305,49 +1357,6 @@
       "provider": {
         "name": "NBC New York",
         "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-ai-strikes-again-self-driving-cars-are-already-here.md",
-      "title": "AI Strikes Again – Self Driving Cars Are Already Here",
-      "excerpt": "Artificial Intelligence (AI ... In forty years, it will be sixteen times faster. Self-driving cars are already on our roads. Transportation companies like Uber could increase their profits if the costs of drivers are reduced. Elon Musk has already ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here",
-      "originalUrl": "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/Self_Driving_Cars.jpeg",
-          "width": 877,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -47,6 +47,20 @@ related:
         width: 1080
         height: 629
         isCached: true
+  - title: "Top 10 Master’s Degrees in Fintech in Europe"
+    excerpt: "We look at 10 of the most noteworthy master’s degrees in fintech in Europe, delving into how these programs and institutions are differentiating themselves from their counterparts and the opportunities each offers."
+    publishedDateTime: 2022-04-21T05:06:00Z
+    webUrl: "https://fintechnews.ch/fintech/top-10-masters-degrees-in-fintech-in-europe/52542/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/04/OneSpan-.png?x30842"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "v9aXrbAoFlwPZTGEGGPD4gx/azlEU9yvEiZMqNGJsqh58aPhwACAPpetCX3JiyMvkrAYl0Ja8lSOw019gK2HCOaVjQuLskWAw966HRTGcExWQwacz5tFdebyQD0n1tCRcitVyPthZDbWQNQ1nESyHNCCNKOFcVRJwEsPvHwgi3c1bP3HycZEJxbsASYjLaGM+PURNFTCUoc0yLTriC2OMfpZwt+ineX+WkW1S1Hgnb2aZ5WBqZAt8dKN1mwtMDh/t9Y4Q/ksGhga/tQ1/XJsiQ91OXVbrSEOFe75rHKKn2cWAmRrtGPlMwiSU7J/0yhlqhMBmKqAZNTg10nb2jbIqZz3lzzE7MoomfvrfGHGXEA=;p4PIqxDFkvZSSopnlL0wQg=="
 ---

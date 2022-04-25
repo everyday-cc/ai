@@ -43,20 +43,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Facial recognition facility yet to become functional in Karnal"
-    excerpt: "Four months after its inauguration, the facial recognition facility is yet to become functional at the Integrated Command and Control Centre (ICCC), an ambitious project of the Smart City Mission. The command centre was inaugurated by Chief Minister Manohar Lal Khattar on December 5,"
-    publishedDateTime: 2022-04-21T00:59:00Z
-    webUrl: "https://www.tribuneindia.com/news/haryana/facial-recognition-facility-yet-to-become-functional-in-karnal-388052"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_1658541527.jpg"
-        width: 3849
-        height: 2256
-        isCached: true
   - title: "Facial recognition cameras to be installed at Hawaii airport to speed up travel at international gates"
     excerpt: "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening"
     publishedDateTime: 2022-04-22T06:32:00Z

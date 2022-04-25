@@ -71,6 +71,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "$36B+ AI in FinTech Industry Trends and Opportunities"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
+    publishedDateTime: 2022-04-25T17:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-36b-ai-fintech-industry-trends-opportunities-assessment-2027-/2022/04/25/9588806.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Global Behavioral Rehabilitation Market Forecast to 2028 - Advent of Online Counselling & Artificial Intelligence in Therapeutic Settings Gaining Mome"
     excerpt: "The \"Behavioral Rehabilitation Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Treatment, Application, Healthcare Setting\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2022-04-21T20:59:00Z
@@ -85,29 +94,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
-    excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."
-    publishedDateTime: 2022-04-21T15:24:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-market-size-to-reach-usd-16652680-million-by-2028-at-a-cagr-of-13/article_a35fe3f5-ce70-54f2-b6ad-f0335fb7a9b7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Face Recognition Systems Trends Technology Innovation, Analysis Application, Demand Forecast, 2028 | Reports And Data"
-    excerpt: "Increasing government expenditure on Face Recognition Systems for enhancing border security and adoption of live surveillance technology in various"
-    publishedDateTime: 2022-04-21T12:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/face-recognition-systems-trends-technology-innovation-analysis-application-demand-forecast-2028-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "JOoPpTlNyKUXG0pqfR51bjpv4BAGl+BB9blhntLU90eRsMmXnDUVDLxx3T1WAE7Nb1QE6SerJNdKvilFy/Sm6zmDWIx8SRY8af8TlQ2vLHQUeRaBYn6ydUO71eSFp0T8DdN9ESd9RzT1DbrWEbLu4lmaBVmEGMtcMHQAxJhiyR189au5cdUylPCtz9AcsROjELyFliKzeQW45Tdczww1gkJUXIhWsggcoO8KegLL9lDBAcAxNFnmHzxY6VR0GPs95hnIqr+4J9T6M4oOkPg+Qz/XMHXNKC1Q4YexlHdX3f06XN453DSb09fOAQzO/pLcMACI9QMAoYOSZkm7qhB6xA0ktavuvDQqSXjwjlwyBZA=;MRtCMlPDZ+isJiNNpLF6AQ=="
 ---

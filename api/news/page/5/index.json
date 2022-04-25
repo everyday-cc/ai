@@ -2,6 +2,281 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-19-unlearnai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m.md",
+      "title": "Unlearn.AI, a startup developing a ‘digital twin’ service for clinical trials, raises $50M",
+      "excerpt": "That’s perhaps why Unlearn.AI, a startup which today announced that it raised $50 million in a Series B funding round, started with clinical trials. Unlearn’s digital twin product replicates ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/",
+      "originalUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1266157000.webp?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/",
+      "publishedDateTime": "2022-04-19T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-jio-institute-invites-applications-for-pg-courses-in-ai-data-sciences-digital-marketing.md",
+      "title": "Jio Institute invites applications for PG courses in AI, data sciences, digital marketing",
+      "excerpt": "Jio Institute is a multi-disciplinary higher education institute set up as a philanthropic initiative by Mukesh Ambani's Reliance Industries Ltd. and Reliance Foundation",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses-11650367077771.html",
+      "originalUrl": "https://www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses-11650367077771.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/04/19/600x338/Screenshot_2022-04-19_at_4.56.31_PM_1650367603017_1650367620413.png",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses/amp-11650367077771.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses/amp-11650367077771.html",
+      "publishedDateTime": "2022-04-19T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-three-ways-ai-is-impacting-the-automobile-industry.md",
+      "title": "Three Ways AI Is Impacting The Automobile Industry",
+      "excerpt": "As AI becomes increasingly accessible to car manufacturers, many vehicle companies have prioritized one central objective: safety.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625d376a441cd32845a2adc7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/",
+      "publishedDateTime": "2022-04-19T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-bioxcel-therapeutics-announces-formation-of-onkosxcel-therapeutics-to-develop-medicines-focused-in-oncology.md",
+      "title": "BioXcel Therapeutics Announces Formation of OnkosXcel Therapeutics to Develop Medicines Focused in Oncology",
+      "excerpt": "Lead pipeline asset, BXCL701, has shown clinical proof-of-concept in aggressive forms of prostate cancer and is currently in Phase 2 clinical trials NEW HAVEN, Conn., April 19, 2022 (GLOBE NEWSWIRE) -- BioXcel Therapeutics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/04/19/9584732.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/04/19/9584732.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-hospital-robots-are-helping-combat-a-wave-of-nurse-burnout.md",
+      "title": "Hospital Robots Are Helping Combat a Wave of Nurse Burnout",
+      "excerpt": "Moxi and other delivery-focused assistants have become even more critical as the Covid-19 pandemic has pushed health care workers to their limits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/",
+      "originalUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6259fcdbe445956782d8b731/master/pass/Diligent-Moxi-Robot-Nurse-Burnout-Business.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/amp",
+      "publishedDateTime": "2022-04-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
+      "title": "Artificial intelligence is creating a new colonial world order",
+      "excerpt": "An MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/",
+      "originalUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-1-extend3-1.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/",
+      "publishedDateTime": "2022-04-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes.md",
       "title": "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes",
       "excerpt": "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE Regions. These latest services mean that",
@@ -886,284 +1161,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations.md",
-      "title": "Is AI Nothing More Than A Profit-Generating Tool For Mega Corporations?",
-      "excerpt": "Accountability and fairness are two of the most prominent ethics of AI. Therefore, while introducing machine intelligence into their daily functioning, organizations will do well to ask themselves, “Can we use this to improve the society as much as our annual balance sheets?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239ae6de16cc339ed2662a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/",
-      "publishedDateTime": "2022-04-18T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026.md",
-      "title": "AI for Drug Discovery Market poised to garner maximum revenues during 2018 – 2026",
-      "excerpt": "Overview Artificial intelligence for drug discovery is a technology that uses and different algorithms that value add",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Kharkiv-AFP-1K-05-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.md",
-      "title": "9 low-rent cloud providers to challenge AWS, Azure, and GCP",
-      "excerpt": "Major cloud providers do it all, and usually for a sizable price. If the high cost of cloud computing has you down, one of these smaller cloud services could be a way out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html",
-      "originalUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/clouds_binoculars_network-monitoring_future-it_looking_horizon_vision-100797672-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.amp.html",
-      "publishedDateTime": "2022-04-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-ai-models-to-detect-how-youre-feeling-in-sales-calls.md",
-      "title": "AI models to detect how you're feeling in sales calls",
-      "excerpt": "In brief AI software is being offered to sales teams to analyze whether potential customers appear interested during virtual meetings. Sentiment analysis is often used in machine-learning research to detect emotions in underlying text or video,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/18/ai_in_brief/?td=rt-3a",
-      "originalUrl": "https://www.theregister.com/2022/04/18/ai_in_brief/?td=rt-3a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/02/12/happy-sad.jpg",
-          "width": 648,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/18/ai_in_brief/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/18/ai_in_brief/",
-      "publishedDateTime": "2022-04-18T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-recruitment-platform-expertia-ai-raises-12-million-in-seed-funding.md",
-      "title": "Recruitment Platform Expertia AI Raises $1.2 Million In Seed Funding",
-      "excerpt": "Virtual recruitment platform Expertia AI has raised $1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini. The funds will be used for assembling a team ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919",
-      "originalUrl": "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ndtvimg.com/i/2018-04/dollars-generic-pixabay_650x400_81523929965.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1",
-      "publishedDateTime": "2022-04-18T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc.md",
-      "title": "Healthcare AI Market is set to experience a significant growth rate | IBM (Watson Health), Atomwise, Inc., Butterfly Network, Inc.",
-      "excerpt": "Global Healthcare AI Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery , Covid 19 Outbreak Impact research report added by Report Ocean ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/BBB-8-1-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-17T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

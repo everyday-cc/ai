@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-22-fintech-the-focus-for-polyu-doctorate.md",
-      "title": "Fintech the focus for PolyU doctorate",
-      "excerpt": "For that reason, The Hong Kong Polytechnic University (PolyU) introduced a pioneering Doctor of FinTech (DFinTech) programme in 2019, combining taught courses and a research thesis, to ensure students can keep pace with all the latest developments and apply key lessons to improve the operational efficiency and competitiveness of their respective organisations.",
+      "path": "_news/2022-04-25-this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration.md",
+      "title": "This Climate Fintech Startup Is Paving The Way For Mass Market Adoption Of Land Regeneration",
+      "excerpt": "It’s a little known fact that the hope of the future lies in land regeneration – avoiding meat, air travel, and the rise of electric vehicles have largely captured the headlines and our imagination.",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/business/topics/fintech-doctorate-sets-polyu-apart/article/3174777/fintech-focus-polyu",
-      "originalUrl": "https://www.scmp.com/presented/business/topics/fintech-doctorate-sets-polyu-apart/article/3174777/fintech-focus-polyu",
+      "webUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
+      "originalUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 113,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2022/04/19/hero_image_1200x800.jpg?itok=ZHNgcK8k",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266c933d798f8767744041a/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 630,
+          "height": 991,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T17:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/",
+      "publishedDateTime": "2022-04-25T09:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,334 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-25-how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually.md",
+      "title": "How Nordic Aviation Capital uses Amazon Rekognition to streamline operations and save up to EUR200,000 annually",
+      "excerpt": "Nordic Aviation Capital (NAC) is the industry’s leading regional aircraft lessor, serving almost 70 airlines in approximately 45 countries worldwide. In 2021, NAC turned to AWS to help it use artificial intelligence (AI) to further improve its leasing operations and reduce its reliance on manual labor.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/25/ML-8594-image003-2.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T10:47:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely.md",
+      "title": "Artificial Intelligence (AI) Helps Detect Cancer from Patient Data Securely",
+      "excerpt": "Researchers developed a novel way of using artificial intelligence (AI) to predict cancer from patient data without putting personal information at risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "publishedDateTime": "2022-04-25T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings.md",
+      "title": "Can Strength in Azure Cloud Aid Microsoft's (MSFT) Q3 Earnings?",
+      "excerpt": "Azure’s revenue growth is likely to reflect continued strength ... Microsoft also completed the acquisition of Nuance Communications, a leader in conversational AI and ambient intelligence across industries like healthcare, financial services, retail ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
+      "originalUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp",
+      "publishedDateTime": "2022-04-25T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration.md",
+      "title": "This Climate Fintech Startup Is Paving The Way For Mass Market Adoption Of Land Regeneration",
+      "excerpt": "It’s a little known fact that the hope of the future lies in land regeneration – avoiding meat, air travel, and the rise of electric vehicles have largely captured the headlines and our imagination.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
+      "originalUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266c933d798f8767744041a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 991,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/",
+      "publishedDateTime": "2022-04-25T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-ponyai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china.md",
+      "title": "Pony.ai becomes first autonomous driving company to receive a taxi license in China",
+      "excerpt": "Autonomous driving developer Pony.ai announced it has received a license to operate taxis in China, the first company to achieve the permit.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/",
+      "originalUrl": "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/04/Pony.ai-China.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/",
+      "publishedDateTime": "2022-04-25T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-six-robotics-pioneers-win-2022-engelberger-awards.md",
+      "title": "Six Robotics Pioneers Win 2022 Engelberger Awards",
+      "excerpt": "The event will bring more than 500 companies showcasing the latest in robotics, machine vision, artificial intelligence (AI), motion control, and smart automation—and an expected 20,000 attendees—to the city's Huntington Place center. The Association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26791476",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26791476",
+      "publishedDateTime": "2022-04-25T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand.md",
+      "title": "Why companies need to get a handle on ethical and responsible AI (VB On-Demand)",
+      "excerpt": "As AI is integrated into day-to-day lives, justifiable concerns over its fairness, power, and effects on privacy, speech, and autonomy grow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/",
+      "originalUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1135199002.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/amp/",
+      "publishedDateTime": "2022-04-25T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars.md",
       "title": "AI Ethics Fretting Over The Use Of AI To Goad Humans Into Unethical Behaviors, Possibly Even Via Those Autonomous Self-Driving Cars",
       "excerpt": "AI that provides unethical advice is going to be a vexing problem for humans, including as showcased via the advent of autonomous self-driving cars.",
@@ -157,7 +485,7 @@
       "originalUrl": "https://www.zdnet.com/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 108,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -189,6 +517,57 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028.md",
+      "title": "Artificial Intelligence in Retail Market Size Worth USD 31.18 Billion by 2028",
+      "excerpt": "The global “Artificial Intelligence in Retail Market Size” is expected to rise with an impressive CAGR and generate",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028-2022-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028-2022-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -808,375 +1187,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-conversational-ai-tools-should-unify-calling-messaging-analytics-and-more.md",
-      "title": "Conversational AI tools should unify calling, messaging, analytics and more",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! LivePerson,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/",
-      "originalUrl": "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/chatbots_phone.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/",
-      "publishedDateTime": "2022-04-22T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-samsung-others-test-drive-esperantos-1000-core-risc-v-ai-chip.md",
-      "title": "Samsung, others test drive Esperanto's 1,000-core RISC-V AI chip",
-      "excerpt": "Samsung's IT services arm and other companies are said to be testing out a processor that sports more than 1,000 general-purpose RISC-V cores to deliver what the chip's designer claims is faster and more energy-efficient AI inference performance than power-hungry specialty silicon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/22/samsung_esperanto_riscv/",
-      "originalUrl": "https://www.theregister.com/2022/04/22/samsung_esperanto_riscv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/04/22/esperanto_et_soc_1.jpg",
-          "width": 1032,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/",
-      "publishedDateTime": "2022-04-22T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-top-10-companies-using-ai-to-look-out-for-in-2022.md",
-      "title": "Top 10 Companies Using AI to Look Out for in 2022",
-      "excerpt": "At the close of 2021, McKinsey & Company published its ‘State of AI’ report. This report detailed many findings, but one that stood out was that of the respondents, 27% of them report, “at least 5% of EBIT attributable to AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/",
-      "originalUrl": "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/04/Brain-Computer-Interface.jpg",
-          "width": 620,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/",
-      "publishedDateTime": "2022-04-22T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-gist-researchers-teach-robots-to-identify-partially-hidden-objects.md",
-      "title": "GIST researchers teach robots to identify partially hidden objects",
-      "excerpt": "Typically, when AI is presented with a scene of cluttered objects, the system will try to identify each item based only on its visible parts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/",
-      "originalUrl": "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-GIST-research.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-22T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto.md",
-      "title": "Canadian government invests in woman-led, sustainable AI company in Toronto",
-      "excerpt": "The Federal Economic Development Agency for Southern Ontario (FedDev Ontario) today announced an investment of over C$5.7 million in Canvass Analytics Inc. (Canvass AI) a woman-led artificial intelligence (AI) company whose mission is to make AI easy-to-use so that the industrial sector can accelerate its transformation into a profitable and environmentally sustainable industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691",
-      "originalUrl": "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/04/canvass_logo_square.png",
-          "width": 520,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1",
-      "publishedDateTime": "2022-04-22T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-cool-or-creepy-video-shows-ai-robot-taught-how-to-open-doors.md",
-      "title": "Cool or Creepy? Video Shows AI Robot Taught How to Open Doors",
-      "excerpt": "Opening doors is a complex task for robots. Using a deep learning approach, researchers taught one to open a door with a 96.8% success rate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050",
-      "originalUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2024457/robot-opening-door.png",
-          "width": 1696,
-          "height": 1036,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050?amp=1",
-      "publishedDateTime": "2022-04-22T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-palantirs-poaching-of-former-nhsx-ai-chief-branded-scandalous.md",
-      "title": "Palantir's poaching of former NHSX AI chief branded “scandalous”",
-      "excerpt": "The controversial tech company is currently competing for a £240 million NHS federated data platform (FDP) contract",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/367470/palantirs-poaching-of-former-nhsx-ai-chief-branded-scandalous",
-      "originalUrl": "https://www.itpro.co.uk/data-insights/big-data-analytics/367470/palantirs-poaching-of-former-nhsx-ai-chief-branded-scandalous",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1650622800/itpro/GettyImages-1085828582-palantir.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-22T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-a-new-vision-of-artificial-intelligence-for-the-people.md",
-      "title": "A new vision of artificial intelligence for the people",
-      "excerpt": "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine th",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/",
-      "originalUrl": "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-5-3-1.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/",
-      "publishedDateTime": "2022-04-22T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -24,17 +24,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "Pony.ai Gets Licensed to Run Robotaxis in South China"
-    excerpt: "Chinese self-driving startup Pony.ai has obtained a business license ... The license marks a milestone in efforts to commercialize a technology on which tech giants like Baidu and Huawei have placed big bets. But when the company launches the service ..."
-    publishedDateTime: 2022-04-25T12:14:00Z
-    webUrl: "https://www.caixinglobal.com/2022-04-25/ponyai-gets-licensed-to-run-robotaxis-in-south-china-101876313.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 19
-
 secured: "buceus/wGvD3FkePPrcRAx5vmOLXNv0rXJlsaLSweY8h80XC5cs3yKmFfwhR0oH6433Sr3FMxicXcJ0UXqpnz1BNXQMW+VNP1GYUIOPO8eI7BgKTEdCnY+68HpyhE8+Vs+rUVwr6zvTr0Q3H6FNPfEBmzo5uHk5y4y3LnMgZsz8FhrH6VmCSeNVLaoqL5XnNOpKpInd9nO4sd9eTWHyPZlC+HFawvrbPTZcM3Jg6eqp6HllaYIHbXtRI4ixG6aQC8JaLNTlj7HnwW1ayCg17Ys5KYGVWbCfrShoyojyeKKqGGP1MV0jh51H6ZMGcY8drucqyOccrtqzJ7er4NY+of72OGC7TN+zSnn1oZnI9ZBN3YGsTuXzrCv0GGJjfy0yekOEgeobY/UbmH2dipRqQFH7vHZ/AnBnA7s/POrNAomSmbUE+CMl6U4G7P/DGJdXZSbl9n6HL50U80XJ9MOE+Is3q98me/rZZ7foiR0vCLYW2zSTbquuCgIl0Lr417mHpuxgvqZl9g6KFY5n4ScgCwA==;NJXGRKmSmB4emtDgeeZ5cg=="
 ---
 

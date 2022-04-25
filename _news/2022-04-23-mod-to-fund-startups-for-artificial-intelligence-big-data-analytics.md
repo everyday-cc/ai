@@ -58,20 +58,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Maxar invests in analytics provider, Blackshark.ai"
-    excerpt: "M axar Technologies has announced a strategic investment in Blackshark.ai, a provider of AI-powered geospatial analytics services. The investment will enable Maxar to bring additi"
-    publishedDateTime: 2022-04-21T00:46:00Z
-    webUrl: "https://www.spatialsource.com.au/maxar-invests-in-analytics-provider-blackshark-ai/"
-    type: article
-    provider:
-      name: Spatial Source
-      domain: spatialsource.com.au
-    quality: 37
-    images:
-      - url: "http://www.spatialsource.com.au/wp-content/uploads/2022/04/PR-Maxar-blackshark_web.jpg"
-        width: 619
-        height: 428
-        isCached: true
   - title: "Wearable AI Market Size, Share | Regional Analysis and Trends by 2026"
     excerpt: "The Wearable AI Market Records a significant CAGR by 2026, according to the latest report published by Allied Market Research Recently, Allied Market"
     publishedDateTime: 2022-04-25T03:31:00Z

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-25-how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually.md",
+      "title": "How Nordic Aviation Capital uses Amazon Rekognition to streamline operations and save up to EUR200,000 annually",
+      "excerpt": "Nordic Aviation Capital (NAC) is the industry’s leading regional aircraft lessor, serving almost 70 airlines in approximately 45 countries worldwide. In 2021, NAC turned to AWS to help it use artificial intelligence (AI) to further improve its leasing operations and reduce its reliance on manual labor.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/25/ML-8594-image003-2.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T10:47:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international-visitors.md",
       "title": "State to use facial recognition at Honolulu Airport to speed up travel time for international visitors",
       "excerpt": "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -332,40 +385,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-15-flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit.md",
-      "title": "FLEX LOGIX TO SPEAK ON AI INFERENCE AT THE LINLEY SPRING PROCESSOR CONFERENCE AND COMPUTER VISION SUMMIT",
-      "excerpt": "Speaker: Sam Fuller, Head of AI Inference Product Management for Flex Logix",
-      "sourceUrl": null,
-      "webUrl": "https://news.tmcnet.com/usubmit/2022/04/15/9583796.htm",
-      "originalUrl": "https://news.tmcnet.com/usubmit/2022/04/15/9583796.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-15-cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station.md",
       "title": "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station",
       "excerpt": "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial recognition security software, FaceMe® Security. FaceMe Security now integrates with AXIS Communications’ AXIS Camera Station VMS (video management software),",
@@ -398,6 +417,40 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit.md",
+      "title": "FLEX LOGIX TO SPEAK ON AI INFERENCE AT THE LINLEY SPRING PROCESSOR CONFERENCE AND COMPUTER VISION SUMMIT",
+      "excerpt": "Flex Logix is a reconfigurable computing company providing AI inference and eFPGA solutions based on software, systems and silicon. Its InferX X1 is the industry's most-efficient AI edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220415sf26541/flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220415sf26541/flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-15T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -501,22 +554,31 @@
       "title": "House panels probe government use of facial recognition software following security concerns",
       "excerpt": "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns.",
       "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "originalUrl": "https://www.wcvb.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "webUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "originalUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "cdnAmpWebUrl": "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
       "publishedDateTime": "2022-04-14T12:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
+        "name": "KCCI Des Moines",
+        "domain": "kcci.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1290,59 +1352,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028.md",
-      "title": "Computer Vision in Healthcare Market Segments, Growth, Share, Size, 2022 Major Companies Profile, Competitive Landscape and Key Regions 2028",
-      "excerpt": "Apr 04, 2022 (The Expresswire) -- Global “Computer Vision in Healthcare Market” (2022) Gives key measurements on the market status, market size, recent trends of the keyword manufacturers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-04-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-04-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

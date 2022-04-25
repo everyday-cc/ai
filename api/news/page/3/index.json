@@ -2,6 +2,271 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-21-qureai-gets-financial-support-to-develop-ai-based-lung-screening-software.md",
+      "title": "Qure.ai gets financial support to develop AI-based lung screening software",
+      "excerpt": "Artificial intelligence player, Qure.ai is set to scale Artificial Intelligence (AI)-enabled chest X-ray screening software, qXR, at 50 locations across more than 15 states in India, an official statement said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/incoming/qsjtz4/article65341311.ece/alternates/LANDSCAPE_615/Health.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/",
+      "publishedDateTime": "2022-04-21T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022.md",
+      "title": "Artificial Intelligence (AI) Chips Market 2022 Global Industry Analysis by Trends, Size, Share and Revenue status by 2022",
+      "excerpt": "Apr 21, 2022 (The Expresswire) -- “artificial intelligence (AI) chips market and it is poised to grow by USD 73.49 billion during 2021-2025, progressing at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022.md",
+      "title": "Machine learning hiring levels in the air force industry rose in March 2022",
+      "excerpt": "The proportion of air force equipment and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 48.5% of the companies included in our analysis recruiting for at least one such position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
+      "originalUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/04/IS9OI-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Airforce Technology",
+        "domain": "airforce-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-biotech-firm-graphcore-ipus-faster-for-ai-based-drug-discovery-than-gpus.md",
+      "title": "Biotech firm: Graphcore IPUs faster for AI-based drug discovery than GPUs",
+      "excerpt": "In the race to provide the best machine-learning accelerators, one of Nvidia's top challengers has claimed a victory in the biotech space, London firm LabGenius, which said Graphcore's intelligence processing units (IPUs) provide significantly faster performance for AI-based drug discovery than some unidentified traditional GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/21/biotech_fgraphcore_ipus/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/21/biotech_fgraphcore_ipus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/03/handout_graphcore_3d_chip.jpg",
+          "width": 1030,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/21/biotech_fgraphcore_ipus/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/biotech_fgraphcore_ipus/",
+      "publishedDateTime": "2022-04-21T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-why-c3ai-is-a-long-term-play-at-the-burgeoning-ai-space.md",
+      "title": "Why C3.ai Is a Long-Term Play At the Burgeoning AI Space",
+      "excerpt": "Enterprise AI software giant C3.ai (NYSE:AI) is part of The Americas’ Fastest Growing Companies 2022 list by the",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-c3.ai-is-a-long-term-play-at-the-burgeoning-ai-space",
+      "originalUrl": "https://www.nasdaq.com/articles/why-c3.ai-is-a-long-term-play-at-the-burgeoning-ai-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-c3.ai-is-a-long-term-play-at-the-burgeoning-ai-space?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-c3.ai-is-a-long-term-play-at-the-burgeoning-ai-space?amp",
+      "publishedDateTime": "2022-04-20T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-nvidia-wants-to-use-gpus-and-ai-to-accelerate-and-improve-future-chip-design.md",
+      "title": "Nvidia wants to use GPUs and AI to accelerate and improve future chip design",
+      "excerpt": "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "originalUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "publishedDateTime": "2022-04-20T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-ais-future-is-packed-with-promise-and-potential-pitfalls.md",
       "title": "AI’s future is packed with promise and potential pitfalls",
       "excerpt": "Foundation models are based on deep neural networks and self-supervised learning that accepts unlabeled or partially labeled raw data. Algorithms then use small amounts of identified data to determine correlations,",
@@ -921,281 +1186,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-aalto-university-artificial-intelligence-to-assist-the-brain.md",
-      "title": "Aalto University: Artificial intelligence to assist the brain",
-      "excerpt": "The human brain consists of some 86 billion neurons, nerve cells that process and convey information through electrical nerve impulses. That’s why measuring neural electrical activity is often the best way to study the brain,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "originalUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/Aalto-University-1024x853.png",
-          "width": 1024,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "publishedDateTime": "2022-04-19T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-futuretech-ii-acquisition-looks-for-ai-or-robotics-target.md",
-      "title": "FutureTech II Acquisition Looks For AI Or Robotics Target",
-      "excerpt": "FutureTech II intends to pursue a merger with a co. in the sectors of disruptive technologies. Check out why I'm on HOLD for FTII.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "originalUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1295900106/image_1295900106.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "publishedDateTime": "2022-04-19T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics.md",
-      "title": "2022 ACM Awardee Prof Abbeel For Top Work In AI And Robotics",
-      "excerpt": "ACM announced in April 2022, Pieter Abbeel awarded the 2021 ACM Prize in Computing for pioneering work in robot learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625efcae4bd40464b7f75a4b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/",
-      "publishedDateTime": "2022-04-19T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-how-to-defend-the-financial-sector-against-cybersecurity-threats.md",
-      "title": "How To Defend the Financial Sector Against Cybersecurity Threats",
-      "excerpt": "By Moshe Hayun, threat intelligence team leader at Deep Instinct The financial sector is going through a period of rapid innovation. Crypto, open banking and the digital payments revolution are reshaping the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
-      "originalUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/04/iStock-1346676529.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
-      "publishedDateTime": "2022-04-19T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-pricey-ai-apps-drive-up-cloud-computing-spending.md",
-      "title": "Pricey AI Apps Drive Up Cloud-Computing Spending",
-      "excerpt": "Companies world-wide this year are expected to spend nearly $500 billion on cloud computing, up 20% from last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
-      "originalUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-527450/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
-      "publishedDateTime": "2022-04-19T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-designing-a-soft-robot-to-improve-lung-examinations.md",
-      "title": "Designing a soft robot to improve lung examinations",
-      "excerpt": "Seniors in the Department of Mechanical Engineering at the University of Colorado Boulder are designing a new soft robot to improve physicians' ability to examine the deepest part of a patient's lung.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/mechanical-engineering-2.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-soft-robot-lung.amp",
-      "publishedDateTime": "2022-04-19T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

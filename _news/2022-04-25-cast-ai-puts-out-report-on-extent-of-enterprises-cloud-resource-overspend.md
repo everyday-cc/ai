@@ -3,13 +3,13 @@ category: news
 title: "CAST AI puts out report on extent of enterprises cloud resource overspend"
 excerpt: "A report from cloud startup CAST AI claims companies running cloud-native applications typically spend three times as much as they need on resources because of over-provisioning. The startup, which hopes to convince users to consider its platform as a way to control the problem,"
 publishedDateTime: 2022-04-25T14:30:00Z
-originalUrl: "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=keepreading-btm"
-webUrl: "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=keepreading-btm"
+originalUrl: "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=keepreading-top"
+webUrl: "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: theregister.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
@@ -25,6 +26,17 @@ images:
     height: 600
     isCached: true
 
-secured: "cpr+AaUG4hfwBRWhf6D6WAzQxNLaOHn8VL9O+zRgL2KEQPf4PtlvA8miOYnNuhWv7BeSmGAc22Nqk/9ZL2SKWSeXESr2bPNLCOLQKs4l7XT+tjupuVURnOYA2vcYDQsz/w4beP14a9+HLwslrfyxxgDXL0EYvUjnCKVLfD11UAeKOsyS8j6iTtUYk0VVK1FCBR5Euf+iMaOQYgSMv9LSeVS68VaCpiOiSYEWhG70xUjhPRq+nFrpMBiJZ8VSZU41X96gDBGAbxQEXT+BpSA5jibiHg72Wv0yX5snbxMd80zNUMjcLyuAH6LIczvKQ30NiFJVZ4z3gQ0VhjkncYdeGL5YA0fpa5p4JgmUc7Rz1zU=;XA3IRtmWj0KZjYwK0WvE4g=="
+related:
+  - title: "CAST AI Review Finds Companies Spend Three Times More Than They Should on Cloud Costs"
+    excerpt: "CAST AI, an AI-driven cloud optimization company, analyzed infrastructure utilization reports for more than 400 organizations to quantify how much they overspend on cloud costs. These organizations included large enterprises running applications across tens of thousands of CPUs down to small companies running their applications on just a few nodes."
+    publishedDateTime: 2022-04-25T17:56:00Z
+    webUrl: "https://tdwi.org/articles/2022/04/25/cast-ai-review-of-cloud-costs.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 10
+
+secured: "tUvpoYowcIlyHisYn37ODgOoaJgxMlaXKV4kHljN2v/M3qU+/DJz6FX88Zxovp8X5fJrhH9U4YKH+2ozNWqcmlV26NS/pywvRQ3IsLiDSPxmizmABVXXlY2X2raLBlvMWwG7FHYxmm+PAjpYxcw4ioATAX9odOrF63I9+7ja+LIqps71CBzYuP/BGtOkmosIWGDyTxGWV1DlHBorrDRybhAVJ6AbQLS8r7lGeyRvNNpGThRQcwiWuBxeyvFv2L/ftlEGF5EifuEsAcQspYBY0zZJ4fIgUAnPEmOLvlA0oNGC4rgJWYOwwkj7KduNCYKKgDacqXjtX6R4VFBtDqYNlugpnWQ748JixacehDz1ayo=;/tIFMAc/Vk98F/TNmgARkg=="
 ---
 

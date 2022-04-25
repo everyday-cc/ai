@@ -2,6 +2,281 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-20-aalto-university-artificial-intelligence-to-assist-the-brain.md",
+      "title": "Aalto University: Artificial intelligence to assist the brain",
+      "excerpt": "The human brain consists of some 86 billion neurons, nerve cells that process and convey information through electrical nerve impulses. That’s why measuring neural electrical activity is often the best way to study the brain,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "originalUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/Aalto-University-1024x853.png",
+          "width": 1024,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "publishedDateTime": "2022-04-19T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-futuretech-ii-acquisition-looks-for-ai-or-robotics-target.md",
+      "title": "FutureTech II Acquisition Looks For AI Or Robotics Target",
+      "excerpt": "FutureTech II intends to pursue a merger with a co. in the sectors of disruptive technologies. Check out why I'm on HOLD for FTII.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "originalUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1295900106/image_1295900106.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "publishedDateTime": "2022-04-19T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics.md",
+      "title": "2022 ACM Awardee Prof Abbeel For Top Work In AI And Robotics",
+      "excerpt": "ACM announced in April 2022, Pieter Abbeel awarded the 2021 ACM Prize in Computing for pioneering work in robot learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625efcae4bd40464b7f75a4b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/",
+      "publishedDateTime": "2022-04-19T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-how-to-defend-the-financial-sector-against-cybersecurity-threats.md",
+      "title": "How To Defend the Financial Sector Against Cybersecurity Threats",
+      "excerpt": "By Moshe Hayun, threat intelligence team leader at Deep Instinct The financial sector is going through a period of rapid innovation. Crypto, open banking and the digital payments revolution are reshaping the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/04/iStock-1346676529.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
+      "publishedDateTime": "2022-04-19T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-pricey-ai-apps-drive-up-cloud-computing-spending.md",
+      "title": "Pricey AI Apps Drive Up Cloud-Computing Spending",
+      "excerpt": "Companies world-wide this year are expected to spend nearly $500 billion on cloud computing, up 20% from last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
+      "originalUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-527450/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
+      "publishedDateTime": "2022-04-19T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-designing-a-soft-robot-to-improve-lung-examinations.md",
+      "title": "Designing a soft robot to improve lung examinations",
+      "excerpt": "Seniors in the Department of Mechanical Engineering at the University of Colorado Boulder are designing a new soft robot to improve physicians' ability to examine the deepest part of a patient's lung.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/mechanical-engineering-2.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-soft-robot-lung.amp",
+      "publishedDateTime": "2022-04-19T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-cathie-wood-on-twitter-europe-in-recession.md",
       "title": "Cathie Wood On Twitter Europe In Recession",
       "excerpt": "Magnifi is a fintech platform that uses artificial intelligence so individuals and advisors can instantly search stocks, ETFs, mutual funds and model portfolios and trade based on their preferences.",
@@ -573,40 +848,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
-      "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
-      "excerpt": "Varma will chair the session and discuss how artificial intelligence (AI ... IMPLICITY® develops AI and knowledge based algorithms to reduce healthcare professionals workload and allow to potentially predict patient health status. The IMPLICITY ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "originalUrl": "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS 42",
-        "domain": "cbs42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-19-the-great-recognition-achievers-report-reveals-recognition-reduces-turnover.md",
       "title": "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover",
       "excerpt": "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,",
@@ -697,6 +938,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
+      "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
+      "excerpt": "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research.",
+      "sourceUrl": null,
+      "webUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "originalUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/fox8.com/wp-content/uploads/sites/12/2022/04/GettyImages-1240191325.jpg?w=2000&#038;ssl=1",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -836,281 +1120,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-unlearnai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m.md",
-      "title": "Unlearn.AI, a startup developing a ‘digital twin’ service for clinical trials, raises $50M",
-      "excerpt": "That’s perhaps why Unlearn.AI, a startup which today announced that it raised $50 million in a Series B funding round, started with clinical trials. Unlearn’s digital twin product replicates ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/",
-      "originalUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1266157000.webp?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/",
-      "publishedDateTime": "2022-04-19T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-jio-institute-invites-applications-for-pg-courses-in-ai-data-sciences-digital-marketing.md",
-      "title": "Jio Institute invites applications for PG courses in AI, data sciences, digital marketing",
-      "excerpt": "Jio Institute is a multi-disciplinary higher education institute set up as a philanthropic initiative by Mukesh Ambani's Reliance Industries Ltd. and Reliance Foundation",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses-11650367077771.html",
-      "originalUrl": "https://www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses-11650367077771.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/04/19/600x338/Screenshot_2022-04-19_at_4.56.31_PM_1650367603017_1650367620413.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses/amp-11650367077771.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses/amp-11650367077771.html",
-      "publishedDateTime": "2022-04-19T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-three-ways-ai-is-impacting-the-automobile-industry.md",
-      "title": "Three Ways AI Is Impacting The Automobile Industry",
-      "excerpt": "As AI becomes increasingly accessible to car manufacturers, many vehicle companies have prioritized one central objective: safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625d376a441cd32845a2adc7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/",
-      "publishedDateTime": "2022-04-19T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-bioxcel-therapeutics-announces-formation-of-onkosxcel-therapeutics-to-develop-medicines-focused-in-oncology.md",
-      "title": "BioXcel Therapeutics Announces Formation of OnkosXcel Therapeutics to Develop Medicines Focused in Oncology",
-      "excerpt": "Lead pipeline asset, BXCL701, has shown clinical proof-of-concept in aggressive forms of prostate cancer and is currently in Phase 2 clinical trials NEW HAVEN, Conn., April 19, 2022 (GLOBE NEWSWIRE) -- BioXcel Therapeutics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/04/19/9584732.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/04/19/9584732.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-hospital-robots-are-helping-combat-a-wave-of-nurse-burnout.md",
-      "title": "Hospital Robots Are Helping Combat a Wave of Nurse Burnout",
-      "excerpt": "Moxi and other delivery-focused assistants have become even more critical as the Covid-19 pandemic has pushed health care workers to their limits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/",
-      "originalUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6259fcdbe445956782d8b731/master/pass/Diligent-Moxi-Robot-Nurse-Burnout-Business.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/amp",
-      "publishedDateTime": "2022-04-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
-      "title": "Artificial intelligence is creating a new colonial world order",
-      "excerpt": "An MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/",
-      "originalUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-1-extend3-1.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/",
-      "publishedDateTime": "2022-04-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

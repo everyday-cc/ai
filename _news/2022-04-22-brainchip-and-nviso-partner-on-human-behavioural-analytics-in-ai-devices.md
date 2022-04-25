@@ -52,20 +52,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Maxar invests in analytics provider, Blackshark.ai"
-    excerpt: "M axar Technologies has announced a strategic investment in Blackshark.ai, a provider of AI-powered geospatial analytics services. The investment will enable Maxar to bring additi"
-    publishedDateTime: 2022-04-21T00:46:00Z
-    webUrl: "https://www.spatialsource.com.au/maxar-invests-in-analytics-provider-blackshark-ai/"
-    type: article
-    provider:
-      name: Spatial Source
-      domain: spatialsource.com.au
-    quality: 37
-    images:
-      - url: "http://www.spatialsource.com.au/wp-content/uploads/2022/04/PR-Maxar-blackshark_web.jpg"
-        width: 619
-        height: 428
-        isCached: true
   - title: "MoD to fund startups for Artificial Intelligence, big data analytics"
     excerpt: "The Defence Ministry will fund startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
     publishedDateTime: 2022-04-23T00:32:00Z

@@ -2,45 +2,47 @@
 category: news
 title: "Using AI to detect cancer from patient data securely"
 excerpt: "A new way of using artificial intelligence to predict cancer from patient data without putting personal information at risk has been developed by a team including University of Leeds medical scientists."
-publishedDateTime: 2022-04-25T15:22:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/950689"
-webUrl: "https://www.eurekalert.org/news-releases/950689"
+publishedDateTime: 2022-04-25T16:36:00Z
+originalUrl: "https://medicalxpress.com/news/2022-04-ai-cancer-patient.html"
+webUrl: "https://medicalxpress.com/news/2022-04-ai-cancer-patient.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-cancer-patient.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-cancer-patient.amp"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7c558eac-8cf0-4e3f-b1b1-96da4110bef4/Rendition/low-res/Content/Public"
-    width: 466
-    height: 700
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-algorithm.jpg"
+    width: 1920
+    height: 1206
     isCached: true
 
 related:
-  - title: "Fujitsu and Southern Tohoku General Hospital start joint research on AI technology for detecting pancreatic cancer from non-contrast CT scans"
-    excerpt: "Contributing to the early detection of pancreatic cancer and a higher quality of life for affected patientsTOKYO, Apr 25, 2022 - (JCN Newswire) - Fujitsu and the Southern Tohoku General Hospital today"
-    publishedDateTime: 2022-04-25T07:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/a26779769/fujitsu-and-southern-tohoku-general-hospital-start-joint-research-on-ai-technology-for-detecting-p"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26779769"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26779769"
+  - title: "Artificial Intelligence (AI) Helps Detect Cancer from Patient Data Securely"
+    excerpt: "Researchers developed a novel way of using artificial intelligence (AI) to predict cancer from patient data without putting personal information at risk."
+    publishedDateTime: 2022-04-25T17:34:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
+      name: Medindia
+      domain: medindia.net
+    quality: 70
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg"
+        width: 300
+        height: 250
         isCached: true
 
-secured: "+7o7GVti4W6lxEDH7EPqvvs0cvRkFwJlfdDcaTbf7QF4omH0t+q7jT0xJe3bRVz9iNDHvK2hnCzI8HX0p+mtA+2AS4kO5Ap/HM9DUxJ5CuISDdPp5X5YDwkdwmD0fdwfN1mV1e0CaXyCDCCFec+g0HJCGB+qWaQGofTbfGbBNfD7H2tpFufDRj2dSp7LHxIcyRWDrXdeJZrg4bXCOwkd7V8C/VmaKNZ0HFr8vpcwBpKvJ/J7OPAOAVOOMn1hQOM0sCl+1U+4JzCs3JLiQRzmW3Rh2KfG2qIJZPna4rdGT1p5p0wLM8J6Bt34cAjxiB6WulCDPZ09IvCK3RzWBTWfHO91gVgVabqbl6wKl8oJWD0=;cIQ8QGpHYnZ8iYQ6akvPvA=="
+secured: "DpBCem3PmCG3lBy8vGfigwa+CznuG1vpapVOtRXE9zHFycatCKTbLQ0Cfzbq3SGQJe3plTnsEKyvaAxhLUrdwUvkRqQOauHdIKHJ9cnvjMUiiqh5FWy7qK+fqPNVBSH/BlhItc2QdNJ74v8+0qgwlWVXBM2jZtvy4Iaslr8yzhZAvH9Q/QCq+IUZ5GY3u0nUHxgD3DxfkDbPCETA0Gy+CBlQ5a1MODENJlPkAgc5ggO572P/zVI4mlSmLgsy10sfYxRoUHUnKZ3Ihujq0Mr4DDwpui4sWTWEm6y/NpWHEYppw3e/Svn65XeETjIXBvHVIqbcngg4WWmj8KDeTqA2Fi19AusCB5OHfTmiQnp9TzQ=;6CCWBvUadAbKKaQr6KwkPw=="
 ---
 

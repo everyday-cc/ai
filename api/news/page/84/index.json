@@ -2,6 +2,291 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-02-10-sonys-ai-drives-a-race-car-like-a-champ.md",
+      "title": "Sony's AI Drives a Race Car Like a Champ",
+      "excerpt": "For instance, Waymo, the self-driving car company owned by Alphabet, says its vehicles have traveled the equivalent of 20 million miles in simulations. Search our artificial intelligence database and discover stories by sector, tech, company, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
+      "originalUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6202f033c14aa6d334a5d859/master/pass/Business_Gran%20Turismo-1344602439.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp",
+      "publishedDateTime": "2022-02-09T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-irs-will-transition-away-from-facial-recognition-after-wave-of-criticism.md",
+      "title": "IRS will transition away from facial recognition after wave of criticism",
+      "excerpt": "A hot potato: Privacy advocates have managed to convince lawmakers that the IRS shouldn’t use a facial recognition system such as ID.me due to concerns about privacy, identity protections, and unequal access to reliable broadband in the US. Other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "originalUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-09-image-15.jpg",
+          "width": 3800,
+          "height": 2533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "publishedDateTime": "2022-02-09T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-ibm-launches-watson-backed-virtual-assistant-for-td-securities.md",
+      "title": "IBM launches Watson-backed virtual assistant for TD Securities",
+      "excerpt": "IBM unveiled a new AI-based virtual assistant powered by IBM Watson Assistant that is designed to help customers answer crucial questions. The first company to take advantage of the tool is TD Securities, which will use the virtual agent system for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
+      "publishedDateTime": "2022-02-09T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform.md",
+      "title": "Scopio secures $50M in series C funding to develop telehematology imaging and AI analysis platform",
+      "excerpt": "The very common Peripheral Blood Smear review, used time and again for diagnostics, is typically conducted by a human analyzing the sample on a glass slide under a microscope and checking cell ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/02/scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform/",
+      "originalUrl": "https://medcitynews.com/2022/02/scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2022/02/for-pbs-pr.png",
+          "width": 1366,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-the-bull-thesis-for-c3ai-is-more-artificial-than-intelligent.md",
+      "title": "The Bull Thesis for C3.ai Is More Artificial Than Intelligent",
+      "excerpt": "At least two big-bank analysts are not particularly optimistic. First, Bank of America Global Research analyst Brad Sills downgraded his rating on AI stock from “neutral” to “underperform,” which is similar to a “sell” rating. Sills also cut ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/417551",
+      "originalUrl": "https://www.entrepreneur.com/article/417551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms.md",
+      "title": "Palo Alto Networks Adds Deep Learning Algorithms to Security Platforms",
+      "excerpt": "Code-named Nebula, version 10.2 of PAN-OS added deep learning algorithms that Palo Alto Networks can apply to, for example, instantly identifying zero-day threats or malware that is using specific techniques to evade legacy cybersecurity platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/",
+      "originalUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securityboulevard.com/wp-content/uploads/2020/09/securitytraining.jpg",
+          "width": 768,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/amp/",
+      "publishedDateTime": "2022-02-09T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "securityboulevard.com",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-securethingsai-raises-35-million-in-pre-series-a.md",
       "title": "SecureThings.ai Raises $3.5 Million In Pre-Series A",
       "excerpt": "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team",
@@ -897,275 +1182,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-mphasis-launches-focused-cloud-ecosystem-channel-organization-to.md",
-      "title": "Mphasis launches focused cloud ecosystem channel organization to",
-      "excerpt": "NEW YORK, Feb. 9, 2022 /PRNewswire/ -- Mphasis (BSE: 526299; NSE: MPHASIS), an information technology (IT) solutions provider specializing in cloud and cognitive services ... four major cloud providers - AWS, Microsoft Azure, Google Cloud Platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mphasis-launches-focused-cloud-ecosystem-channel-organization-accelerate-/2022/02/09/9542326.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mphasis-launches-focused-cloud-ecosystem-channel-organization-accelerate-/2022/02/09/9542326.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
-      "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
-      "excerpt": "The Santa Monica, CA-based company said the Avenda Health Focal Therapy System, is an artificial intelligence (AI)-enabled focal therapy system being developed to treat localized prostate cancer in a urologist’s office under local anesthesia. In ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-an-update-on-the-mathematics-of-machine-learning-book.md",
-      "title": "An update on the Mathematics of Machine Learning book",
-      "excerpt": "It's been more than six months since I started to write my Mathematics of Machine Learning book. Recently, I was focusing 100% on writing. So, an update is long overdue. Here is the journey so far and the road ahead. 1. The past. I have always wanted to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/update-mathematics-machine-learning-book-tivadar-danka",
-      "originalUrl": "https://www.linkedin.com/pulse/update-mathematics-machine-learning-book-tivadar-danka",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH7cZahYvyE2Q/article-cover_image-shrink_600_2000/0/1644396933872?e=1649894400&v=beta&t=JO3_43E7bfMO3V0Pk5NwfA3A_q_UCH1de_oY_8fonUg",
-          "width": 955,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-microsoft-open-sources-graph-engine.md",
-      "title": "Microsoft open-sources Graph Engine",
-      "excerpt": "The LIKQ query language is also used by Microsoft inside of its Cognitive Services, specifically its Academic Graph API. Both the LIKQ language and the Graph Engine source codes are available ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/analytics/microsoft-open-sources-graph-engine/",
-      "originalUrl": "https://sdtimes.com/analytics/microsoft-open-sources-graph-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2014/12/HANDYALEX.jpg",
-          "width": 253,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-tesla-cut-a-steering-component-from-some-cars-to-deal-with-chip-shortage-sources-say.md",
-      "title": "Tesla cut a steering component from some cars to deal with chip shortage, sources say",
-      "excerpt": "Tesla omitted one of two electronic control units in the cars' electrical power assisted steering systems. Tens of thousands of cars are affected, sources say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html?utm_term=Autofeed&utm_medium=Social&utm_content=Tech&utm_source=Twitter",
-      "originalUrl": "https://www.cnbc.com/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106806379-1607090740945-gettyimages-1229775273-CHINA-SHANGHAI-TESLA-GIGAFACTORY_CN.jpeg?v=1607090829",
-          "width": 4000,
-          "height": 2672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/07/tesla-cut-a-steering-component-to-deal-with-chip-shortage.html",
-      "publishedDateTime": "2022-02-08T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review.md",
-      "title": "Impact of maternal obesity on the cognitive function and mental health of the offspring: a systematic review",
-      "excerpt": "Exposures considered were maternal BMI, height and weight, The outcome was any measure of cognitive function and mental health of the offspring. Quality assessment and risk of bias was assessed using a standardized form consisting of 22 criteria ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review/BCB9798A3BC71874AEE40024B57BC858",
-      "originalUrl": "https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review/BCB9798A3BC71874AEE40024B57BC858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T14:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-26-can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings.md",
+      "title": "Can Strength in Azure Cloud Aid Microsoft's (MSFT) Q3 Earnings?",
+      "excerpt": "Azure’s revenue growth is likely to reflect continued strength ... Microsoft also completed the acquisition of Nuance Communications, a leader in conversational AI and ambient intelligence across industries like healthcare, financial services, retail ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
+      "originalUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp",
+      "publishedDateTime": "2022-04-25T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-mastercards-digital-transactions-deploys-microsoft-ai-to-improve-fraud-protection.md",
       "title": "Mastercard's Digital Transactions deploys Microsoft AI to improve fraud protection",
       "excerpt": "The two companies are combining their innovative technologies to better protect consumers from an increasingly prevalent form of digital fraud.",
@@ -10,7 +44,7 @@
       "originalUrl": "https://www.zdnet.com/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 108,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1333,59 +1367,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-microsoft-taps-ai-to-make-you-look-your-best-in-video-meetings.md",
-      "title": "Microsoft taps AI to make you look your best in video meetings",
-      "excerpt": "Microsoft is applying artificial intelligence to meetings, with a host of new AI-driven technologies from Eye Contact, automatic framing, plus improved background blur and echo cancellation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
-      "originalUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/04/Intelligent-meeting-eye-contact-background-blur.png?w=1024",
-          "width": 1023,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp",
-      "publishedDateTime": "2022-04-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

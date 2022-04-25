@@ -7,7 +7,7 @@ originalUrl: "https://www.chattanoogan.com/2022/4/25/447899/Chattanooga-Mayor-Ti
 webUrl: "https://www.chattanoogan.com/2022/4/25/447899/Chattanooga-Mayor-Tim-Kelly-s-Opening.aspx"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Voice Tech convention opens in Chattanooga"
+    excerpt: "One of the marquee events for Voice tech and conversational A-I in America is in Chattanooga. For the next three days The Chattanooga convention center is playing host to several tech companies. Mayor Tim Kelly gave opening remarks and those works were transcribed in real-time by Deepgram,"
+    publishedDateTime: 2022-04-25T16:15:00Z
+    webUrl: "https://www.wdef.com/voice-tech-convention-opens-in-chattanooga/"
+    type: article
+    provider:
+      name: wdef.com
+      domain: wdef.com
+    quality: 24
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wdef.com/content/uploads/2022/04/p/v/project-voice.jpg"
+        width: 861
+        height: 647
+        isCached: true
 
 secured: "JJ5g3woGB5I8KmAPS5DEgLOiEj3ZR+0+gqXlDwmOuL3OOr7/2pVFJfC/DdnZOpRosno/cvUroREFriBX1rkPu9dPbXbVxMYO3GcLn0Hs/T+kBbOGHrNIb6ls5zkrKoH95IZGHILsUOdGwAbgdvUL5sV0Jt7OQkXzqXGycu4h/YjV1V7Olg/++0Sb7JV0N8Ls/Y1laIE5yZIHnDaNNuVYagamgJs0gj8LihDpJg1sf6UXVMOShftfnwWPsOuNMRBPpByGVNtmANYpIYNEdCeiBZnREAjeXgxBuck6TFkDTIxu4b4GLYUvrakzdWd/7rv3vgIa9B1m3bfX/RpV7UD94VaEIDwFKIXHjkd+HBpHyYo=;OM6FmQipCAEDx8/q/VY2Yw=="
 ---

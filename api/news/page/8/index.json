@@ -2,6 +2,292 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-15-house-lawmakers-investigating-govt-use-of-facial-recognition-software.md",
+      "title": "House lawmakers investigating gov't use of facial recognition software",
+      "excerpt": "The ID.me software was used most recently by the IRS, but stopped after complaints from lawmakers and privacy advocates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "originalUrl": "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.whas11.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "publishedDateTime": "2022-04-14T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHAS11 News",
+        "domain": "whas11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-dubai-plans-to-introduce-self-driving-and-flying-taxis-by-2030-official.md",
+      "title": "Dubai plans to introduce self-driving and flying taxis by 2030: official",
+      "excerpt": "The RTA’s goal is “to achieve 25% of trips by driverless modes in 2030 ... technologies such as the Internet of Things, artificial intelligence and big data to improve the experience ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.brecorder.com/news/40167388",
+      "originalUrl": "https://www.brecorder.com/news/40167388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DWIvH8Xf7pE/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brecorder.com/news/amp/40167388",
+      "cdnAmpWebUrl": "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40167388",
+      "publishedDateTime": "2022-04-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Recorder",
+        "domain": "brecorder.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-self-driving-lab-used-to-improve-nanocrystal-understanding.md",
+      "title": "Self-driving lab used to improve nanocrystal understanding",
+      "excerpt": "Control Engineering reports that UB researcher Kristofer Reyes and researchers from North Carolina State University have developed and demonstrated a “self-driving lab” that uses artificial intelligence and fluidic systems to advance understanding of metal halide perovskite nanocrystals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/ai-data-science/news-events.host.html/content/shared/engineering/home/articles/2022-media-coverage/self-driving-lab-used-to-improve-nanocrystal-understanding.detail.html",
+      "originalUrl": "https://www.buffalo.edu/ai-data-science/news-events.host.html/content/shared/engineering/home/articles/2022-media-coverage/self-driving-lab-used-to-improve-nanocrystal-understanding.detail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/content/shared/engineering/home/articles/2022-media-coverage/self-driving-lab-used-to-improve-nanocrystal-understanding/_jcr_content/teaser.img.512.auto.jpg/1650044413539.jpg",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-idme.md",
+      "title": "House lawmakers voice 'serious concerns' about facial recognition used by contractor ID.me",
+      "excerpt": "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy, privacy and security\" of its services and products. The move ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "originalUrl": "https://www.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210706084302-01-idme-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "publishedDateTime": "2022-04-14T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds.md",
+      "title": "Let’s (not) get physical: How satellite AI can improve human work speeds",
+      "excerpt": "Industries tend to rely on more traditional methods, but satellite AI can eliminate manual labor at a fraction of the cost.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/14/lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds/",
+      "originalUrl": "https://venturebeat.com/2022/04/14/lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1328338202.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/14/lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/14/lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds/amp/",
+      "publishedDateTime": "2022-04-14T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-the-worlds-largest-chip-just-received-a-major-machine-learning-flavored-upgrade.md",
+      "title": "The world's largest chip just received a major machine learning-flavored upgrade",
+      "excerpt": "By doing so, our customers gain access to the 850,000 AI optimized cores and 40 Gigabytes of on-chip memory in the Cerebras CS-2.” CSoft version 1.2 now enables developers to write their models in the open source frameworks of PyTorch or TensorFlow and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/the-worlds-largest-chip-just-received-a-major-machine-learning-flavored-upgrade",
+      "originalUrl": "https://www.techradar.com/uk/news/the-worlds-largest-chip-just-received-a-major-machine-learning-flavored-upgrade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/EGtFLUUn2rVjT37dgw5zHD-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability.md",
       "title": "What Stanford’s recent AI conference reveals about the state of AI accountability",
       "excerpt": "AI accountability is a concept not clearly defined by authoritative bodies. While many sets of suggested guidelines and tools exist, they are not cohesive and are very often vague and overly complex.",
@@ -168,22 +454,31 @@
       "title": "House panels probe government use of facial recognition software following security concerns",
       "excerpt": "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns.",
       "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "originalUrl": "https://www.wcvb.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "webUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "originalUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "cdnAmpWebUrl": "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
       "publishedDateTime": "2022-04-14T12:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
+        "name": "KCCI Des Moines",
+        "domain": "kcci.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -489,48 +784,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
-      "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
-      "excerpt": "My grandmother, Claire Hastings, was born in the 1920s on a farm in Armidale, northern New South Wales. That was a relatively common thing, with just 43% of the population living in cities, compared with more than 70% now.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html",
-      "originalUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-26.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp",
-      "publishedDateTime": "2022-04-14T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -891,230 +1144,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
-      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
-      "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-neural-network-market-growth-2022-2028-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
-      "title": "Neural Network Market Growth (2022-2028), Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions",
-      "excerpt": "Global “Neural Network Market” (2022-2028) research report gives an outline of the business with orders, applications",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-market-growth-2022-2028-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2022-04-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-market-growth-2022-2028-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2022-04-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-driverless-vehicles-park-themselves-in-rapidly-expanding-market.md",
-      "title": "Driverless vehicles park themselves in rapidly expanding market",
-      "excerpt": "A driverless bus makes a trial run in Nanjing ... smart infrastructure, artificial intelligence, 5G and cloud computing. In addition to congestion, Li said smart transportation can reduce road ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg",
-          "width": 718,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-self-driving-car-company-establishing-test-facility-in-sc.md",
-      "title": "Self-driving car company establishing test facility in SC",
-      "excerpt": "A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html",
-      "originalUrl": "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/aa/3aa16c2d-1403-57c3-8e8f-df9d49dd8747/5f4e9e69c476a.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Post and Courier",
-        "domain": "postandcourier.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-dall-e-2-the-future-of-ai-research-and-openais-business-model.md",
-      "title": "DALL-E 2, the future of AI research, and OpenAI’s business model",
-      "excerpt": "DALL-E 2 shows how far the AI research community has come toward harnessing the power of deep learning and addressing some of its limits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/",
-      "originalUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?fit=800%2C499&strip=all",
-          "width": 799,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/",
-      "publishedDateTime": "2022-04-13T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

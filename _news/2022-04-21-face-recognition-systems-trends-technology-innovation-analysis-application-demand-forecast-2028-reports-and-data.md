@@ -19,93 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Training Manikins Market Forecast Report 2021-2028 - Opportunities in the Application of Robotics, Artificial Intelligence, Augmented Reality, and 3D"
-    excerpt: "The \"Training Manikins Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Type, and Application\" report has been added to ResearchAndMarkets.com's offering. The Training Manikins market is projected to reach US$ 1,"
-    publishedDateTime: 2022-04-21T20:22:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=651287"
+  - title: "How Nordic Aviation Capital uses Amazon Rekognition to streamline operations and save up to EUR200,000 annually"
+    excerpt: "Nordic Aviation Capital (NAC) is the industry’s leading regional aircraft lessor, serving almost 70 airlines in approximately 45 countries worldwide. In 2021, NAC turned to AWS to help it use artificial intelligence (AI) to further improve its leasing operations and reduce its reliance on manual labor."
+    publishedDateTime: 2022-04-25T17:47:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 45
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Philippines Data Center Market Investment Report 2022-2027: Cloud Adoption Driving Demand, Increased Investments, Increased Adoption of AI"
-    excerpt: "The \"Philippines Data Center Market - Investment Analysis & Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The"
-    publishedDateTime: 2022-04-22T17:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26767382/philippines-data-center-market-investment-report-2022-2027-cloud-adoption-driving-demand-increased"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26767382"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26767382"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Global GNSS Chip Market Forecasts, 2021-2028: GNSS in UAVs/UGVs & Opportunities in IoT Technology in Autonomous Vehicles - ResearchAndMarkets.com"
-    excerpt: "The \"GNSS Chip Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Device; Application; Vertical\" report has been added to ResearchAndMarkets.com's offering. The GNSS Chip market is proje"
-    publishedDateTime: 2022-04-22T09:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26756282/global-gnss-chip-market-forecasts-2021-2028-gnss-in-uavsugvs-opportunities-in-iot-technology-in-au"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26756282"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26756282"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Iris Recognition Market Growth Opportunities, Key Players, and Threads Analysis"
-    excerpt: "Market Highlights. The global iris recognition market is growing at a rapid pace. Iris Recognition provides advanced analytics applications to enhance security, increase throughpu"
-    publishedDateTime: 2022-04-21T09:33:00Z
-    webUrl: "https://galleonnews.com/news/251019/iris-recognition-market-growth-opportunities-key-players-and-threads-analysis/"
-    type: article
-    provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 20
-    images:
-      - url: "https://galleonnews.com/wp-content/uploads/2022/04/mrfr-11-5.jpg"
-        width: 417
-        height: 455
-        isCached: true
-  - title: "Global Behavioral Rehabilitation Market Forecast to 2028 - Advent of Online Counselling & Artificial Intelligence in Therapeutic Settings Gaining Mome"
-    excerpt: "The \"Behavioral Rehabilitation Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Treatment, Application, Healthcare Setting\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-04-21T20:59:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=651300"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
-    excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."
-    publishedDateTime: 2022-04-21T15:24:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-market-size-to-reach-usd-16652680-million-by-2028-at-a-cagr-of-13/article_a35fe3f5-ce70-54f2-b6ad-f0335fb7a9b7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/25/ML-8594-image003-2.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "MHMOZR4fYrbYFd8Y33IYS9UHgdGG5Z4CZ5vbSOn23fDfqG8zTfzJaIUVR92CKUDrNO2vyeeIxOqIaPFGHpDn2U2ZVez27fxjYJj+p8ZIVreS15T2LWg69GMirD2XWzsv8vdesthPUP1UaO3cFkGeRfHMEWbksx+9DFmIdUR4sgHU2SqfhwfywFronGcokyeWBUiKhJrYOrTzZ/v+dQPh3SpfO0Xq29g6xHFt1YoskPMkU8JWptQXoQuD2YuZT90q5UvsaL0U1+l9VrfNHPe5TeYwF2tywuj95JsWGFAxMbDzL0t0syQw1t8Qxs8EJue4P+XH3NzNtGw2oA5/7qYAsHZ2D16QLv+O2Fu2zWwdh3Y=;D2MavR/bgUuAxXKJGpFvYg=="

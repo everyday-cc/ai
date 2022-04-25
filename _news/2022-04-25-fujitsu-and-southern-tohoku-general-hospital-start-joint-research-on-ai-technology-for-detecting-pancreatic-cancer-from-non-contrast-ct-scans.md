@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26779769"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26779769"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Using AI to detect cancer from patient data securely"
-    excerpt: "A new way of using artificial intelligence to predict cancer from patient data without putting personal information at risk has been developed by a team including University of Leeds medical scientists."
-    publishedDateTime: 2022-04-25T15:22:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/950689"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7c558eac-8cf0-4e3f-b1b1-96da4110bef4/Rendition/low-res/Content/Public"
-        width: 466
-        height: 700
-        isCached: true
 
 secured: "ZgB4HLx41LJBdpr94U/iKf0GJjdIvVq5HQnR2cUe2R1qoLsXW7k223hnuff8gdRdWkKgyygJXhcXvCvT03eDB4htZvPdwjfXoGoWWLGf6eg44L7xegPqlQs3xWP23HuwXZ8QecDwqXfKiVKIoLbn0w0eycE7fFju8qrcwdMp4cwSx98yzjJtNigcd+jp76LIOA4Zke0dQg4L/UHy5lM6OKLQ2uTjaMP2/QvXUHG/il4bFXSk3BktAMKGDjk9KPO02WJ/hHLiCBwyGVYw6+C3Lf2GwOYed0+5/LsX9zmDgZzCiTXv8eW5cCcuiOCXW4THWW5IE2ESTqdo8EGNje9vBOdJPWXuEzOlNQP3NRbJlD8q1cdaEch3m40bBQHL1iRFQthy0S9ym+hRPIyzsKqVY0hwp4UkgKhkcifMvAVjtiHkIaZtGE43E/OjPjpu/AO+81+pl4qtnrhds0DnW68qCt02JgxoDpMQPCY8LfVrucIGfyAgwHk5AFHSEiOtygTv3pmDkUqLlHqXh8tNjeMu3g==;udnVJJ2xcRp0oYEQz4cIqw=="
 ---

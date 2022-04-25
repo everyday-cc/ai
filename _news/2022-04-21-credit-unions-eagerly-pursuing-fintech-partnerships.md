@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Climate Fintech Startup Is Paving The Way For Mass Market Adoption Of Land Regeneration"
+    excerpt: "It’s a little known fact that the hope of the future lies in land regeneration – avoiding meat, air travel, and the rise of electric vehicles have largely captured the headlines and our imagination."
+    publishedDateTime: 2022-04-25T16:40:00Z
+    webUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/"
+    ampWebUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6266c933d798f8767744041a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 991
+        isCached: true
   - title: "Fintech the focus for PolyU doctorate"
     excerpt: "For that reason, The Hong Kong Polytechnic University (PolyU) introduced a pioneering Doctor of FinTech (DFinTech) programme in 2019, combining taught courses and a research thesis, to ensure students can keep pace with all the latest developments and apply key lessons to improve the operational efficiency and competitiveness of their respective organisations."
     publishedDateTime: 2022-04-22T00:00:00Z
@@ -50,47 +66,28 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Biggest FinTech Trends of 2022"
-    excerpt: "Biggest FinTech Trends of 2022 . April 20, 2022 by David Edwards Leave a Comment . The pandemic and fast technology development made their imp"
-    publishedDateTime: 2022-04-20T23:10:00Z
-    webUrl: "https://menafn.com/1104061000/Biggest-FinTech-Trends-of-2022"
+  - title: "Adyen: A FinTech Stalwart Priced To Perfection"
+    excerpt: "Adyen is a leading payment platform. Click here to read about the core business, growth prospects and PT for ADYEY stock."
+    publishedDateTime: 2022-04-21T13:30:00Z
+    webUrl: "https://seekingalpha.com/article/4501844-adyen-fintech-stalwart-priced-to-perfection"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/20/R&AN_736ceimage_story.jpeg"
-        width: 800
-        height: 350
-        isCached: true
-  - title: "Top 10 Master’s Degrees in Fintech in Europe"
-    excerpt: "We look at 10 of the most noteworthy master’s degrees in fintech in Europe, delving into how these programs and institutions are differentiating themselves from their counterparts and the opportunities each offers."
-    publishedDateTime: 2022-04-21T05:06:00Z
-    webUrl: "https://fintechnews.ch/fintech/top-10-masters-degrees-in-fintech-in-europe/52542/"
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
+  - title: "$36B+ AI in FinTech Industry Trends and Opportunities Assessment, 2027 - The Increasing Utilization of Smart Contracts for Financial Processes is Driv"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
+    publishedDateTime: 2022-04-25T02:46:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=652294"
     type: article
     provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
     images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/04/OneSpan-.png?x30842"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Key Features To Consider Before Developing A FinTech App"
-    excerpt: "With AI-powered intelligent chatbots, there is a lot of space for considering and solving customer issues. And that’s a wrap! However, you will be spending a significant amount of money on your first fintech app development project so make sure you are ..."
-    publishedDateTime: 2022-04-25T05:52:00Z
-    webUrl: "https://techstory.in/key-features-to-consider-before-developing-a-fintech-app/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/04/pexels-christina-morillo-1181244-scaled.jpg"
-        width: 2560
-        height: 1709
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "rFyl3YMnRtJaAnTCbnYpAO1zJumKMlBGLrLQxls6GE/iFfNRWc+BgKcFWbpWQU1j+Gl4EF/QeGJdZCcDU6BEaGjkjTck9WUC3fXPQUr2xHtoc0iupUmg5dSc3x/KzjTK8OoSy6TJysj4XFzi4yni2tZSB0AjvJvt1x9Uq0c+Szz9W97b583IKb4Y4QFJp61wpEuDu+B/eWoJpMcQ/2s0WhoPYAU7b3iGIa4fOQiOD4g3zLZLqEeSsslhw4vEhx/KcrFtGCZdMat+zquwUg5plHo35MwTZ7eQKq9KCyIV6MG2D6WV7Qi3pixfSwyRh6jAH1rEyg8DnwvyWvZKJDbggeryoKqSSv9OQUwdCiPDy4Zd2bW4JMc2XmK/YtSi69HEmZns3FClisXEsq1DshCKpzuDE8KRjLH/CIotXP91gMbpH1DiSyBIfaCpFu8+goKp9YcptUz/p7vTj4MouvXgCAC0zE9xj63p7nJReXkxmevPkSTe9tZ5idXIp6NPZCZIkR5w6MGo5XJDP+zdUcgxpA==;p020gf9v2pjKdgBou2AZBg=="
