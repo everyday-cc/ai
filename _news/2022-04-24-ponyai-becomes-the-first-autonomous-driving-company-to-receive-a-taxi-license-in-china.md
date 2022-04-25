@@ -144,6 +144,15 @@ related:
       name: United News of India
       domain: uniindia.com
     quality: 9
+  - title: "Company OK'd for self-driving taxis in Guangzhou"
+    excerpt: "Pony.ai, a leading Chinese autonomous driving technology company, has won a bid for a self-driving taxi project in the Nansha district of Guangzhou, Guangdong province, government sources said. After getting a permit to operate 100 driverless vehicles in Nansha,"
+    publishedDateTime: 2022-04-25T18:03:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202204/25/WS62668808a310fd2b29e59376.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 4
 
 secured: "gKcqMNwQzP6ljm2/ACLx1amLRjEs5/CpipNLR8VRF0dn6CXeuRkOMRnYickfHHZeGssM/7nNVuN2ip1MNOFgu1IRJiaq8OkncDc3MJUXP26K7yIJtxH/d7N1Zmid3RDz+ng8Tk3MyndE8QTLuy4SvRp6pKD81dToU1Go19jn2jL+32xwp4lpKljxMylsyNibOHrPdwpI5Dh4IOXM5Y/7WhI0vN7nzk7+VpWSJs/blCvWdT1xTaCh90c9rOK6d/hRRnH78MEN3g9I1iPIsWxsBlyCw8tv94SPiJgbMslEnQSm+HyJyI0WFCBSWUaOBlKD4NzdsjEqJgUyoF2BiD/cE/kEinR3WfHZJySgbhAsawM=;iF/1Sv2f7IpxH4nd3EGTOA=="
 ---

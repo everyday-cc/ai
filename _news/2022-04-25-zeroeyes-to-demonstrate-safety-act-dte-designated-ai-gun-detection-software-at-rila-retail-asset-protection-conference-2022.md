@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T12:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/zeroeyes-to-demonstrate-safety-act-dt-e-designated-ai-gun-detection-software-at-rila-retail-asset-protection-conference-2022-1031379813"
 webUrl: "https://markets.businessinsider.com/news/stocks/zeroeyes-to-demonstrate-safety-act-dt-e-designated-ai-gun-detection-software-at-rila-retail-asset-protection-conference-2022-1031379813"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Business Insider

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/finance/mastercard-launches-masterc
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 1072
         height: 1072
         isCached: true
+  - title: "CollabCare and Hucu.ai Partner to Improve Communication for Older Adults and Families"
+    excerpt: "With both increasing maturity and adoption across generations, the ability for these technologies to address the challenges faced by older adults and aging populations continues to be an area of interest."
+    publishedDateTime: 2022-04-25T21:35:00Z
+    webUrl: "https://www.medgadget.com/2022/04/collabcare-and-hucu-ai-form-partnership-to-improve-communication-for-older-adults-and-families.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 10
 
 secured: "3S86XdCWBwwLTZ1vSqrLufhqNs9qLAXURBP7s8mRhoMJ2bedGY5trjegFYyo+XaRAPuFYPPo/RCV+zO4IzO15r1ilT1jLP3VNJsRHSMKFjavg2ND2c46dn3B63nn7+oTIRou8tkkB8857tBha3Iu8Y+/FvCjYSvcW6iKLB+auyT0imUw7wDM/4y1BsSqKhiWpZ7AT9gZ0aF3O5lSFl9HutQZhCupP+aaH2ip+EviXPJAvLab/alZUGRXIXIUQHQaurm/XYdsz4OI+GSSxw97lYuK7+m7a2+7m0uXehoNaErTbf+xTQ+Ejr8HVgFol9DSzeW2OGV2QNkIoIxlb8L0f9kcXb4GFGDqYx6gNwv55ilD6VKw/22QxXnosjzF5iR/etZK1r01wczXnEIWkuyG2rInqkHz44IFeexR8SgYxwgMO+/7sGL0IDJValZtPIe+iFapYUSsM7e8XVQOWvbaLPyT6Wgo64sRKolTMH8ssP/LelIs0i2lOCBaxvisOrX+F7L/Y4nU6Jo7BNiE61EAdg==;z7ilcWAz5Q9fyk0673pWkQ=="
 ---

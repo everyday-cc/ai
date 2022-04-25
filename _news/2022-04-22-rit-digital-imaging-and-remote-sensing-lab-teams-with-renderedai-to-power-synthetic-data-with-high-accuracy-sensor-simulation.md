@@ -18,17 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "RIT Digital Imaging and Remote Sensing Lab teams with Rendered.ai to power synthetic data with high accuracy sensor simulation"
-    excerpt: "The effort will enable US customers to use the DIRSIG™ model with Rendered.ai's cloud capabilities to generate Earth Observation datasets for AI"
-    publishedDateTime: 2022-04-23T05:18:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/rit-digital-imaging-and-remote-sensing-lab-teams-with-rendered-ai-to-power-synthetic-data-with-high-accuracy-sensor-simulation-1031375393"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/rit-digital-imaging-and-remote-sensing-lab-teams-with-rendered-ai-to-power-synthetic-data-with-high-accuracy-sensor-simulation-1031375393"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/rit-digital-imaging-and-remote-sensing-lab-teams-with-rendered-ai-to-power-synthetic-data-with-high-accuracy-sensor-simulation-1031375393"
+  - title: "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content"
+    excerpt: "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rendered.ai ..."
+    publishedDateTime: 2022-04-25T18:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
     type: article
     provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 9
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "u90QJh6vBQSb9+nh2MpyaEI8Aq+mw+Owqydrq49q2s/B6lwSWgWrVbwyoDyXIH09GjGo+7yFb3Kc7kg9QvS/+1UC3dqBwbU4i+jGXMrdX254kKhzG9zHAOI4VYrQsn3mFHCkd5UGhO8Ewekc3ukXs6p4iNu/tR0uoRjxuWbPqnJOsDIAh8A2/+7ArTp2kgyxPloeF9IgePmm8g5K2KAuNl4io5BbgmZMekp5433nV2tvbdq3lw0p/CJngibJcyDBeZuiM2vvdS+KA3hzLpnbYmnD5G+YYOZKDsBbatJFZOIvEH6niIF5wfmEqBz4/0JTubYJKzrXdmk5eIlIyxvE7P+P7a+Gejd0loffGUczKP4=;qKeJdHEX8NcBG2riEnLDgw=="
 ---

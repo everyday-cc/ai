@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028-2022-04-25"
 type: article
 quality: 79
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-04/25/EP_409a5image_story.jpeg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
-    excerpt: "[270 Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report “Artificial Intelligence in ..."
-    publishedDateTime: 2022-04-21T02:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg"
-        width: 635
-        height: 347
         isCached: true
   - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
     excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."

@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-12-ai-our-world-what-is-artificial-intelligence.md",
+      "title": "AI & Our World: What is Artificial Intelligence?",
+      "excerpt": "Let’s talk about a question a lot of people ask themselves… What is AI? The thing about artificial intelligence is that most people don’t really know what it is. A lot of what most individuals think t",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-our-world-what-artificial-intelligence-beyond-ai",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-our-world-what-artificial-intelligence-beyond-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGpT_R1uwvZpg/article-cover_image-shrink_720_1280/0/1646766130678?e=1653523200&v=beta&t=Fa7CpGgBpV2n9QlAVmLJcLxShaojsSpPFSexhwlwuv0",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-ai-in-robotics-separating-fact-from-fiction.md",
       "title": "AI in robotics - separating fact from fiction",
       "excerpt": "There is considerable misunderstanding around the role of AI in robotics. Human-like robots with super intelligence are standard fare in entertainment, while terms such as ‘robotic process automation’ and ‘bots’ refer to software applications with no physical robot.",
@@ -1327,59 +1380,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school.md",
-      "title": "To Realize The Future Potential Of AI, It's Time To Make Math The Cool Kid At School",
-      "excerpt": "While English, math and science form the trilogy of staple sectors that children learn throughout school, only one is frequently looked back on as \"unnecessary,\" \"unusable\" or redundant to adult life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6217c1522b85afd1980dadb8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/28/to-realize-the-future-potential-of-ai-its-time-to-make-math-the-cool-kid-at-school/amp/",
-      "publishedDateTime": "2022-02-28T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI",
         "AI in Robotics"
       ]
     }

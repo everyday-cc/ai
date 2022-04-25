@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "This 1,000-core RISC-V processor is generating buzz in the AI space"
+    excerpt: "A new 1,000-core RISC-V processor from Esperanto Technologies is currently being evaluated by Samsung SDS and other ‘lead customers”. According to a press release from the computer software company, its new ET-SoC-1 AI Inference Accelerator is undergoing initial evaluations by a number of firms ahead of its release."
+    publishedDateTime: 2022-04-25T21:30:00Z
+    webUrl: "https://www.techradar.com/news/this-1000-core-risc-v-processor-is-generating-buzz-in-the-ai-space"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AMWZ5DoPX9H4f9kiRCgwRf-1200-80.jpg"
+        width: 1032
+        height: 580
+        isCached: true
   - title: "Esperanto Technologies' Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
     excerpt: "Esperanto Technologies™, the leading developer of high performance, energy-efficient artificial intelligence (AI) inference accelerators based on the RISC-V instruction set, today announced that initial evaluations for its ET-SoC-1 AI inference accelerator are underway with lead customers."
     publishedDateTime: 2022-04-21T09:35:00Z

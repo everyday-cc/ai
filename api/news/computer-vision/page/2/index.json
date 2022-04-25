@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-04-vanderbilt-researchers-using-artificial-intelligence-to-help-basketball-players-improve-their-shots.md",
+      "title": "Vanderbilt researchers using artificial intelligence to help basketball players improve their shots",
+      "excerpt": "Using facial recognition and computer vision, NOAH generates detailed statistics about how and where somebody is shooting, the trajectory of the ball, and where they missed shots from. NOAH ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
+      "originalUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/04/720/405/iStock-1342205557.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
+      "publishedDateTime": "2022-04-04T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028.md",
       "title": "Computer Vision in Healthcare Market Segments, Growth, Share, Size, 2022 Major Companies Profile, Competitive Landscape and Key Regions 2028",
       "excerpt": "Apr 04, 2022 (The Expresswire) -- Global “Computer Vision in Healthcare Market” (2022) Gives key measurements on the market status, market size, recent trends of the keyword manufacturers ...",
@@ -1278,59 +1330,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-ukraine-and-russia-have-both-weaponized-facial-recognition-in-very-different-ways.md",
-      "title": "Ukraine and Russia have both weaponized facial recognition — in very different ways",
-      "excerpt": "Ukraine is using the technology to ID the dead and find Russian infiltrators. Russia is using it to crush dissent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
-      "originalUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6238d63cd199330018a3626d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
-      "publishedDateTime": "2022-03-21T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

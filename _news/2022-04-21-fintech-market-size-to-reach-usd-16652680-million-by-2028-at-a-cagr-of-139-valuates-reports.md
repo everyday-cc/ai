@@ -83,20 +83,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
-    excerpt: "[270 Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report “Artificial Intelligence in ..."
-    publishedDateTime: 2022-04-21T02:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg"
-        width: 635
-        height: 347
-        isCached: true
   - title: "Computer Vision Market Size Is Projected To Reach USD 13380 Million By 2028 At A CAGR of 6.2% - Valuates Reports"
     excerpt: "Computer Vision market is segment by Type - PC Based, Smart Camera Based, Segment by Application, Quality Control and Inspection,"
     publishedDateTime: 2022-04-21T13:00:00Z

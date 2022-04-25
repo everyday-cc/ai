@@ -42,6 +42,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Using AI to detect cancer from patient data securely"
+    excerpt: "A new way of using artificial intelligence to predict cancer from patient data without putting personal information at risk has been developed. Swarm learning can be used to help computers predict cancer in medical images of patient tissue samples,"
+    publishedDateTime: 2022-04-25T17:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220425121049.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "DpBCem3PmCG3lBy8vGfigwa+CznuG1vpapVOtRXE9zHFycatCKTbLQ0Cfzbq3SGQJe3plTnsEKyvaAxhLUrdwUvkRqQOauHdIKHJ9cnvjMUiiqh5FWy7qK+fqPNVBSH/BlhItc2QdNJ74v8+0qgwlWVXBM2jZtvy4Iaslr8yzhZAvH9Q/QCq+IUZ5GY3u0nUHxgD3DxfkDbPCETA0Gy+CBlQ5a1MODENJlPkAgc5ggO572P/zVI4mlSmLgsy10sfYxRoUHUnKZ3Ihujq0Mr4DDwpui4sWTWEm6y/NpWHEYppw3e/Svn65XeETjIXBvHVIqbcngg4WWmj8KDeTqA2Fi19AusCB5OHfTmiQnp9TzQ=;6CCWBvUadAbKKaQr6KwkPw=="
 ---

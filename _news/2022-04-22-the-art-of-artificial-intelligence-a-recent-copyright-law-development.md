@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:59:00Z
 originalUrl: "https://www.reuters.com/legal/legalindustry/art-artificial-intelligence-recent-copyright-law-development-2022-04-22/"
 webUrl: "https://www.reuters.com/legal/legalindustry/art-artificial-intelligence-recent-copyright-law-development-2022-04-22/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Reuters

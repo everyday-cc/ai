@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-23-byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit.md",
+      "title": "BYD, Lucid are latest EV makers to adopt Nvidia’s self-driving toolkit",
+      "excerpt": "At Nvidia's GTC conference, BYD and Lucid Motors announced they have adopted Nvidia's Drive Hyperion architecture to aid automated driving and ADAS features.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/22/byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit/",
+      "originalUrl": "https://techcrunch.com/2022/03/22/byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/DRIVE-Hyperion-9.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/22/byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/22/byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit/amp/",
+      "publishedDateTime": "2022-03-22T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-global-automotive-artificial-intelligence-ai.md",
+      "title": "Global Automotive Artificial Intelligence (AI)...",
+      "excerpt": "The growing demand for self-driving cars, as well as a preference for enhanced user experience and convenience features, are propelling the Automotive Artificial Intelligence Market forward during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g26233656/global-automotive-artificial-intelligence-ai-market-is-forecast-to-grow-to-us-7-676-92-million-by-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g26233656/global-automotive-artificial-intelligence-ai-market-is-forecast-to-grow-to-us-7-676-92-million-by-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26233656",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26233656",
+      "publishedDateTime": "2022-03-22T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence.md",
       "title": "Perseverance Rover To Self On Drive On Mars Soon, Thanks To Artificial Intelligence",
       "excerpt": "Perseverance is collecting rock cores for return to Earth which makes for the first part of the Mars Sample Return campaign.",
@@ -1278,93 +1373,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-self-driving-vw-idbuzz-vans-to-start-testing-on-us-roads-in-2023.md",
-      "title": "Self-driving VW ID.Buzz vans to start testing on US roads in 2023",
-      "excerpt": "Volkswagen's new ID.Buzz is slated to reach U.S. showrooms in 2023, but versions of the electric van fitted with a self-driving system developed by Argo AI will also test on the nation's roads. Volkswagen Group,",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1135332_self-driving-vw-id-buzz-vans-to-start-testing-on-us-roads-in-2023",
-      "originalUrl": "https://www.motorauthority.com/news/1135332_self-driving-vw-id-buzz-vans-to-start-testing-on-us-roads-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/2024-volkswagen-id-buzz_100832793_h.jpg",
-          "width": 1920,
-          "height": 1205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-industrial-artificial-intelligence-market-to-see-booming-growth-alphabet-microsoft-ibm.md",
-      "title": "Industrial Artificial Intelligence Market to See Booming Growth | Alphabet, Microsoft, IBM",
-      "excerpt": "Advance Market Analytics published a new research publication on “Industrial Artificial Intelligence Market Insights, to 2027” with 232 pages",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/industrial-artificial-intelligence-market-to-see-booming-growth-alphabet-microsoft-ibm",
-      "originalUrl": "https://www.digitaljournal.com/pr/industrial-artificial-intelligence-market-to-see-booming-growth-alphabet-microsoft-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/345d9689605f742c2fe9066713d8618f6b2aad6d-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

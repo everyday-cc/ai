@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 17
+  - title: "Company using artificial intelligence grows as worker shortages in law enforcement continue"
+    excerpt: "A worldwide company with Iowa ties is growing as the need for workers in law enforcement and security agencies increases."
+    publishedDateTime: 2022-04-25T18:37:00Z
+    webUrl: "https://www.weareiowa.com/article/tech/scylla-artificial-intelligence-software-police-public-safety/524-44c80a53-b3a8-4df4-a521-78c76c2b9f24"
+    type: article
+    provider:
+      name: We Are Iowa
+      domain: weareiowa.com
+    quality: 7
 
 secured: "If/5oQ8yeJuq3LGZFk6HeqieWEbSxDskrIWM/E8lucTxuONuF1oRSw9L9zCEfkia1LCZnhyoHSEg2FrJ3LqfvxcSmLoEqlqiSSSSbv0dXvqjXG+XHZEdVB1cu4P3qziCoQvQM23fRBvY0K4gWtdguyV3TWbJxSEBzJXFM+VZZIt1mbs4C4T1tbPiB5p57T1wp8LnmvnTyUglkSGWophGTBKlYycJoZvRVDTpG6HGOwNqVIM7LDYFLaTby5/mZlVTbEAVLUWu/S9MMOtxeli8SUmJ9GTFSuUX8yHoqW6Fgw4KhxoaoYnTNz4ngRzPouIzC0g5dLpZyZfTqaA7R50Kk4RF3tYP4wIZnaCCa0KfkLHksOtQBGxZ2OsHgwd8yG0GasLonQvh4SFViw06q3FKpXsgvn1naZJVS/1j5sEEuzQxa0IpwIraWGGs+TiC/mHp8IiZoE3awJBrhllL0tPEZ3XOUVDuCH3bwnpY34tcSdsYGzS7ntHSdZJ2arXQyQz90TKziksUo9Ntr9QgGkcf7Q==;12pNPbk9R7mowaYQ6OK5NQ=="
 ---

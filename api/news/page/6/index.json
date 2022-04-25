@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-18-ai-startup-helps-tackle-logistics-nightmares.md",
+      "title": "AI startup helps tackle logistics nightmares",
+      "excerpt": "Optimal Dynamics, an AI-powered startup, is helping trucking companies solve their particular logistical nightmares by automating and optimizing their operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/",
+      "originalUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/bigstock-Richmond-County-Ga-Usa-427143116.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/amp/",
+      "publishedDateTime": "2022-04-18T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-us-and-india-launch-talks-about-military-ai.md",
+      "title": "US and India launch talks about military AI",
+      "excerpt": "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu.md",
+      "title": "Cognitive Services Market 2022 In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2030: IBM, Microsoft, Google, AWS, Baidu",
+      "excerpt": "New Jersey, USA Global Cognitive Services Market Overview: In its repository, Infinity Business Insights has added",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations.md",
       "title": "Is AI Nothing More Than A Profit-Generating Tool For Mega Corporations?",
       "excerpt": "Accountability and fairness are two of the most prominent ethics of AI. Therefore, while introducing machine intelligence into their daily functioning, organizations will do well to ask themselves, “Can we use this to improve the society as much as our annual balance sheets?",
@@ -1053,135 +1190,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-palestinians-clash-with-israeli-police-at-jerusalem-holy-site.md",
-      "title": "Palestinians clash with Israeli police at Jerusalem holy site",
-      "excerpt": "Israeli police confronted hundreds of Palestinians injuring many during the altercation outside one of the city’s holiest sites. The clashes erupting during the convergence of Ramadan, Easter and Passover are sparking fears the country will spiral into more violence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/palestinians-clash-with-israeli-police-at-jerusalem-holy-site-137843781578",
-      "originalUrl": "https://www.nbcnews.com/now/video/palestinians-clash-with-israeli-police-at-jerusalem-holy-site-137843781578",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_04/1650076264289_now_topstory_ath_palestinian_clash_220415_1920x1080-s9zxot.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo137843781578",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo137843781578",
-      "publishedDateTime": "2022-04-15T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-longmont-high-innovation-center-will-host-ai-competition.md",
-      "title": "Longmont High, Innovation Center will host AI competition",
-      "excerpt": "Grayson Hubbell was on the initial team three years ago that developed a three-year plan for St. Vrain Valley to start an artificial intelligence and cybersecurity program at the district’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition",
-      "originalUrl": "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timescall.com/wp-content/uploads/2022/04/DCC-L-AI_MJ27797.jpg?w=1024&h=672",
-          "width": 1024,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/amp/",
-      "cdnAmpWebUrl": "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/amp/",
-      "publishedDateTime": "2022-04-15T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longmont Times-Call",
-        "domain": "timescall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-comfort-evaluation-of-zno-coated-fabrics-by-artificial-neural-network-assisted-with-golden-eagle-optimizer-model.md",
-      "title": "Comfort evaluation of ZnO coated fabrics by artificial neural network assisted with golden eagle optimizer model",
-      "excerpt": "This paper introduces a novel technique to evaluate comfort properties of zinc oxide nanoparticles (ZnO NPs) coated woven fabrics. The proposed technique combines artificial neural network (ANN) and golden eagle optimizer (GEO) to ameliorate the training process of ANN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-022-10406-6",
-      "originalUrl": "https://www.nature.com/articles/s41598-022-10406-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-10406-6/MediaObjects/41598_2022_10406_Fig1_HTML.png",
-          "width": 685,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Project Voice 2022 in Chattanooga with Technology changing the world"
+    excerpt: "The Chattanooga convention center is playing host to numerous tech companies, for the next three days, for Project Voice 2022. “Chattanooga, like many other midsize cities, really has to battle for economic power and relevance relative to our bigger cities,"
+    publishedDateTime: 2022-04-25T20:24:00Z
+    webUrl: "https://www.wdef.com/project-voice-2022-in-chattanooga-with-technology-changing-the-world/"
+    type: article
+    provider:
+      name: wdef.com
+      domain: wdef.com
+    quality: 24
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wdef.com/content/uploads/2022/04/d/i/project-voice.png"
+        width: 987
+        height: 577
+        isCached: true
   - title: "Chattanooga Mayor Tim Kelly's Opening Remarks For Annual Project Voice Conference To Be Analyzed By AI"
     excerpt: "Chattanooga Mayor Tim Kelly will give the opening remarks for Project Voice 2022, an event for voice tech and conversational AI in America. These opening remarks are scheduled at the Chattanooga Convention Center."
     publishedDateTime: 2022-04-25T11:47:00Z

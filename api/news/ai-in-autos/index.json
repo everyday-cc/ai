@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -51,6 +51,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars.md",
+      "title": "AI Ethics Fretting Over The Use Of AI To Goad Humans Into Unethical Behaviors, Possibly Even Via Those Autonomous Self-Driving Cars",
+      "excerpt": "AI that provides unethical advice is going to be a vexing problem for humans, including as showcased via the advent of autonomous self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62467316d1ffaded5f503f2f/0x0.jpg?format=jpg&crop=1421,760,x243,y0,safe&width=1200",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-04-25T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -146,6 +199,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-musk-teslas-robot-will-be-worth-more-than-the-car-business.md",
+      "title": "Musk: Tesla’s robot will be ‘worth more than the car business’",
+      "excerpt": "Tesla CEO Elon Musk has made the bold statement that the company’s robot will be “worth more than the car business”.",
+      "sourceUrl": null,
+      "webUrl": "https://iottechnews.com/news/2022/apr/21/musk-tesla-robot-will-be-worth-more-car-business/",
+      "originalUrl": "https://iottechnews.com/news/2022/apr/21/musk-tesla-robot-will-be-worth-more-car-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iottechnews.com/wp-content/uploads/sites/5/2022/04/tesla-bot-optimus-elon-musk-robot-robotics-ai-artificial-intelligence-iot-internet-of-things-scaled.jpg",
+          "width": 2560,
+          "height": 1708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iottechnews.com",
+        "domain": "iottechnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1263,101 +1360,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-bosch-picks-up-fiveai-after-the-self-driving-startup-pivoted-to-b2b-and-then-put-itself-up-for-sale.md",
-      "title": "Bosch picks up Five.ai after the self-driving startup pivoted to B2B and then put itself up for sale",
-      "excerpt": "Bosch itself has been long on self-driving car technology, although like many, its stated ambitions — it is a major OEM and supplier to the automotive industry and forged a partnership with ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/",
-      "originalUrl": "https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/five-ai.jpg?w=1024",
-          "width": 1024,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/amp/",
-      "publishedDateTime": "2022-04-12T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-aint-nobody-in-it-watch-san-francisco-police-stop-of-self-driving-car.md",
-      "title": "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car",
-      "excerpt": "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
-      "originalUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp",
-      "publishedDateTime": "2022-04-11T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

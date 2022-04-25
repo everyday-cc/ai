@@ -19,22 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Tesla, Inc. (TSLA) CEO Elon Musk on Q1 2022 Results - Earnings Call Transcript"
-    excerpt: "Q1 2022 Results Conference Call April 20, 2022 05:30 PM ET Company Participants Martin Viecha - VP, IR Elon Musk - CEO Zachary Kirkhorn - CFO Andrew"
-    publishedDateTime: 2022-04-21T01:44:00Z
-    webUrl: "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript"
+  - title: "Musk: Tesla’s robot will be ‘worth more than the car business’"
+    excerpt: "Tesla CEO Elon Musk has made the bold statement that the company’s robot will be “worth more than the car business”."
+    publishedDateTime: 2022-04-21T15:56:00Z
+    webUrl: "https://iottechnews.com/news/2022/apr/21/musk-tesla-robot-will-be-worth-more-car-business/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 57
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 56
     images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2022/04/tesla-bot-optimus-elon-musk-robot-robotics-ai-artificial-intelligence-iot-internet-of-things-scaled.jpg"
+        width: 2560
+        height: 1708
         isCached: true
+  - title: "Elon Musk says his new Optimus robot coming in 2023 ‘will be worth MORE than Tesla’ – and it will do all your chores"
+    excerpt: "ELON Musk has revealed that his upcoming Optimus robot will eventually be worth more than the Tesla car business. The sci-fi droid was announced last year – and will look like a human. It’s"
+    publishedDateTime: 2022-04-21T13:44:00Z
+    webUrl: "https://www.thesun.co.uk/tech/18328031/elon-musk-optimus-robot-tesla/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 13
 
 secured: "Ur72P62A+VyLMkrALKuOOlnVtU8Nlh+no2+nytafu7un962esIKFOIrIJxNpZoPUWrTvbLDta/z4t0n70iHTSmTxEmuZTCmKslpI9e0xZjyC7bBohpwzgSLIvuZiERv478P3CpQqAaJ36zjOiYSMZpdHhswuJk2hnTQa08gBesMfh5iOvFZRQIA+t2OXGlhBH84OVY6k8LBL2YlhZfmNW/KFWT53NKiu308ZKfYtpE3YctATHEa1GkkWEfTw1P6WGIYxzoBP2G6vy9gYBfpypIfjU2F2sCwhfG8zcvIbUnsnQoEILz+uwEy+iQavpysbw0L5FXRUTw0Se17DB2uidEG2Dxb6wIh1S8U4NALnhKY=;D9RzwP99YUzHDTK2YiTxKw=="
 ---

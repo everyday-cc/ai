@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T14:32:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/science-technology-health-business-biology-a152fe18804c16b23cbe4cc35d8bc155"
 webUrl: "https://apnews.com/press-release/globe-newswire/science-technology-health-business-biology-a152fe18804c16b23cbe4cc35d8bc155"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Associated Press

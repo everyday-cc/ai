@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-d
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1206
         isCached: true
+  - title: "Using AI to detect cancer from patient data securely"
+    excerpt: "A new way of using artificial intelligence to predict cancer from patient data without putting personal information at risk has been developed. Swarm learning can be used to help computers predict cancer in medical images of patient tissue samples,"
+    publishedDateTime: 2022-04-25T17:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220425121049.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "rz2neqKdxO6DJVYJbUkg4j+a+fp6zpCYLSru5X7xTOMqDFkrsIZ5IOOD/M8IDC4Mw2LFwUXKPxaLXqrLanXnWh0tS0r9HI0ivgwDi7hf2hU86+lOGF6c7iEorUNEVThFoSpfopDPFiomZECDTRRe3Q7Tjtbk4pqfh9WwPatHtOZYEFi7wvPihSoXz6BJI8vYdc/+QwMvQN1Iaf4L1K9PLXAk+Md9f9mChv/KKYIKkyeEsZ/eGm/aqorD94uoyOaN2A1XxU7TYStghCCyULh3+jwRm+FCyYcHRVh11uvxxEkqyeS9itYng5H0FcfdOxQPl5E37CZNBqMvjmDKopM9IpZWC3Wabmo8pmjTv6zFQ7g=;kekDkntAlJrUEjExji7oYw=="
 ---

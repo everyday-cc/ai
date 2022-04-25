@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T18:33:00Z
 originalUrl: "https://seekingalpha.com/news/3826362-wisekey-sells-51-stake-in-arago-a-german-ai-platform-company"
 webUrl: "https://seekingalpha.com/news/3826362-wisekey-sells-51-stake-in-arago-a-german-ai-platform-company"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Seeking Alpha

@@ -76,15 +76,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market Trends, Growth Outlook, Size Estimation, Key Players and Industry Insights by 2027"
-    excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD reaching USD 12.22 Billion at 51.9% CAGR during the f"
-    publishedDateTime: 2022-04-21T01:56:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-20-healthcare-artificial-intelligence-market-trends-growth-outlook-size-estimation-key-players-and-industry-insights-by-2027"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 11
 
 secured: "ylbfOAoO6VePzi/8P/Qgd5y868pGn9MjJbMevpbXJgOtc5rA8ArxGzHPEY2lEpLSHp3/pgbx7qv34CdAghrUIk5uNabkpBss7XHyFk5Y2aS/kK4lsijjjKynYRvF2jkpelT3XyqdOV8JzpfdjZjoKTeZhhJiMlUyrjXg/iaK3QsOVyTcpo2gSrThqaT8bM+w7gIEG9dOI4+nxn3kzvlvScS+MGZFW7COfmGZavgqldHq3pYzgwIYMKJtIrIbJzT/eMZxhYdaPb75PqVgNEJn3hVUZvn1k9vTJLBB7OPRo72GIfzocYqRZVGK3ktLrS/smaDA433DDTTs16utLMbw5wQlXVhIR7ytCdqBzDhPmFs=;RRBzb+s2zaYJYh83pHzRWA=="
 ---

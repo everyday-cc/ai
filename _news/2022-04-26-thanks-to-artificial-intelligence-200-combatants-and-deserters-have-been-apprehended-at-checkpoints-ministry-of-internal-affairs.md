@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T17:20:00Z
 originalUrl: "https://www.pravda.com.ua/eng/news/2022/04/25/7342045/"
 webUrl: "https://www.pravda.com.ua/eng/news/2022/04/25/7342045/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: pravda.com.ua

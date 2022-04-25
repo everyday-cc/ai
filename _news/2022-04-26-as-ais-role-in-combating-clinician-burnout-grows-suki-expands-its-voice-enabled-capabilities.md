@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T19:00:00Z
 originalUrl: "https://medcitynews.com/2022/04/as-ais-role-in-combating-clinician-burnout-grows-suki-expands-its-voice-enabled-capabilities/"
 webUrl: "https://medcitynews.com/2022/04/as-ais-role-in-combating-clinician-burnout-grows-suki-expands-its-voice-enabled-capabilities/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: MedCity News

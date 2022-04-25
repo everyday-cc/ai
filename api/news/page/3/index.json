@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-04-21-qureai-gets-financial-support-to-develop-ai-based-lung-screening-software.md",
-      "title": "Qure.ai gets financial support to develop AI-based lung screening software",
-      "excerpt": "Artificial intelligence player, Qure.ai is set to scale Artificial Intelligence (AI)-enabled chest X-ray screening software, qXR, at 50 locations across more than 15 states in India, an official statement said.",
+      "path": "_news/2022-04-21-how-to-improve-contact-center-training-with-ai-simulation.md",
+      "title": "How To Improve Contact Center Training With AI Simulation",
+      "excerpt": "Salesforce \"State of Service\" report shows that almost 80% of contact center agents say their company views them as customer advocates or brand ambassadors, and 77% of ag",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thehindubusinessline.com/incoming/qsjtz4/article65341311.ece/alternates/LANDSCAPE_615/Health.jpg",
-          "width": 615,
-          "height": 383,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625eebe47a9fb17059edc980/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,74 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/",
-      "publishedDateTime": "2022-04-21T02:38:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/",
+      "publishedDateTime": "2022-04-21T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-the-metaverse-needs-conversational-aibut-its-no-easy-ride.md",
+      "title": "The Metaverse Needs Conversational AI—But It's No Easy Ride",
+      "excerpt": "There are a few reasons why consumers and brands have been slow to warm to metaverse technology, one of which is the inadequate quality of voice and chat assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/the-metaverse-needs-conversational-ai-but-its-no-easy-ride/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/the-metaverse-needs-conversational-ai-but-its-no-easy-ride/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62600e8acc116ce425fc46ac/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/the-metaverse-needs-conversational-ai-but-its-no-easy-ride/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/21/the-metaverse-needs-conversational-ai-but-its-no-easy-ride/amp/",
+      "publishedDateTime": "2022-04-21T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -52,7 +112,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -565,6 +625,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-ais-acquires-xgility-leading-microsoft-azure-cloud-focused-firm-buys-microsoft-gold-partner.md",
+      "title": "AIS Acquires Xgility: Leading Microsoft Azure Cloud Focused Firm Buys Microsoft Gold Partner",
+      "excerpt": "AIS (Applied Information Sciences), a leading Microsoft cloud services firm, announced today its acquisition of Xgility, a Microsoft Gold Partner with a mission to help clients rethink, reimagine, and transform their business with end-to-end Microsoft cloud solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=650120",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=650120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1100,92 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-people-will-be-able-to-watch-tv-and-check-emails-in-self-driving-cars-in-highway-code-law.md",
-      "title": "People will be able to watch TV and check emails in self-driving cars in Highway Code law",
-      "excerpt": "MOTORISTS will be allowed to watch television or check their emails on built-in screens under proposed updates to the Highway Code when in self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
-      "originalUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 290,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft-1598298.jpg?r=1650441690594",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
-      "publishedDateTime": "2022-04-20T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-how-medtech-companies-can-help-make-ai-assisted-surgery-possible.md",
-      "title": "How Medtech Companies Can Help Make AI-assisted Surgery Possible",
-      "excerpt": "Future AI solutions could expand to help surgeons make better operative decisions, reduce risk and improve patient safety, and enhance performance. There are, however, significant technical and other challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.meddeviceonline.com/doc/how-medtech-companies-can-help-make-ai-assisted-surgery-possible-0001",
-      "originalUrl": "https://www.meddeviceonline.com/doc/how-medtech-companies-can-help-make-ai-assisted-surgery-possible-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/image/fcb60b3d/fcb60b3d-6c64-4535-b5cd-c6989d50db2b/artificial_intelligence_gettyimages_1319573751.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T21:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Med Device Online",
-        "domain": "meddeviceonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

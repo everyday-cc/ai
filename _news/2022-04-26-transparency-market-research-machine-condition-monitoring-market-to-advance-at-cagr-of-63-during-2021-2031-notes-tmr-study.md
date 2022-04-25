@@ -63,19 +63,14 @@ related:
       domain: menafn.com
     quality: 13
   - title: "Machine Condition Monitoring Market to Advance at CAGR of 6.3% During 2021-2031; Notes TMR Study"
-    excerpt: "Rise in demand for machine learning (ML) tools and Big Data analytics for machine condition monitoring propelling revenue generations; solutions integrated with IIoT opening new revenue streams Condition monitoring based on predictive & cognitive analytics growing for industrial machinery in multiple end-use industries;"
-    publishedDateTime: 2022-04-25T17:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-machine-condition-monitoring-market-advance-cagr-63-during-/2022/04/25/9588872.htm"
+    excerpt: "Rise in demand for machine learning (ML) tools and Big Data analytics for machine condition monitoring propelling revenue generations; solutions integrated with IIoT opening new revenue streams Condit"
+    publishedDateTime: 2022-04-25T17:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26795158/machine-condition-monitoring-market-to-advance-at-cagr-of-6-3-during-2021-2031-notes-tmr-study"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "efPat+NLEv8I+cVo9s2xYGm55WwwWwbRoTzn6ETH3ne/k549YWlZCG9oBv8CcZzsuTjbzCHzAtiUumSjN3FJqkDpXoL0AOtquIV/pUm5y3ScXnVeAmMvMXCuN48GWXg0S6oAI3jJQSNAZSi5ugw1EjTumH9kDSioj372ITE9Ib0Kul95QUvDTfDuxT7BBrsVUE04Zkv5vCDpZ5JBFS3+7Yj0AbqN0WFUXV2gi/oDRjt8MclC+qd4gPH39DyH3aVJlcscL3Inp+DiG9ynT1+QazOl0YytG8dp27FM/PH2GSY1drfa6RJZeLIDhsIdM1FzB71J26uvXC+3DysuX1EPi4aOe9G0Xherwlv+z0uvMTc=;yJQ4oem/vYfGo0Ipot/kJQ=="
 ---

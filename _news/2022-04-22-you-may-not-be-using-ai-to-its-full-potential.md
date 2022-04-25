@@ -49,6 +49,15 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 17
+  - title: "Company using artificial intelligence grows as worker shortages in law enforcement continue"
+    excerpt: "A worldwide company with Iowa ties is growing as the need for workers in law enforcement and security agencies increases."
+    publishedDateTime: 2022-04-25T18:37:00Z
+    webUrl: "https://www.weareiowa.com/article/tech/scylla-artificial-intelligence-software-police-public-safety/524-44c80a53-b3a8-4df4-a521-78c76c2b9f24"
+    type: article
+    provider:
+      name: We Are Iowa
+      domain: weareiowa.com
+    quality: 7
 
 secured: "aAH55y4uoCDGM0h7hg4fx/840JQdjwqYPyf9Cu6DzmxfkAUeUJXJzQibMerg3K9Rv98uH+f7qAM8qPS0eNUXCz/5AxkBEz7Tepl9Mgyg71L5zrdAqvbRwltbTTTT29Tv2R/3UPY26J2Y5IpB49PLf/8YOY/lwQtdqdsUQJtC8aothKeI8Yf05B5h09FieElouI4th5GoPJrPQNQJdOpuJjE/Yzqemg/2jDWEft3Pn2UtGFbojb9oLiG7OvMXf2+BxaIpMecbyl6XsR7Mq/BSGueGZeac4WgzaG0AWFoUTvHiSzSaCbEDe4dpdkUjylt+smc2zJzlXrqJ+XPEZEUOrPBBaBDZXj/jjWwr5yzkRtzIqMbEk/hMWO/2XorFfO+yKPA3kxAIxA3M99X0hWSMwExAIQV0eB/aFsnU5+XOrSqPhw89WITVS5/8VypJYsmgkDSl3fZqoI+jVFm/6gmI30/Czx78pm48wGfXeoNNP8zDdLrLOTWmTHEEU91tusgKEN6KSOehrX7optadRDcTQQ==;6M27B+Lqm5hCQ72Wu4EEQw=="
 ---

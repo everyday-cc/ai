@@ -44,7 +44,7 @@
       "originalUrl": "https://www.zdnet.com/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -87,7 +87,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -215,6 +215,83 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-ais-acquires-xgility-leading-microsoft-azure-cloud-focused-firm-buys-microsoft-gold-partner.md",
+      "title": "AIS Acquires Xgility: Leading Microsoft Azure Cloud Focused Firm Buys Microsoft Gold Partner",
+      "excerpt": "AIS (Applied Information Sciences), a leading Microsoft cloud services firm, announced today its acquisition of Xgility, a Microsoft Gold Partner with a mission to help clients rethink, reimagine, and transform their business with end-to-end Microsoft cloud solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=650120",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=650120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services.md",
+      "title": "Microsoft Azure UAE Regions launches four new key services",
+      "excerpt": "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE regions. These latest services mean that regional Microsoft Cloud customers now have access to almost all of Azure’s tools,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-uae-regions-launches-four-new-key-services-b3b680ui",
+      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-uae-regions-launches-four-new-key-services-b3b680ui",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1271,92 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-microsoft-hpe-put-ai-to-work-checking-astronaut-gloves.md",
-      "title": "Microsoft, HPE put AI to work checking astronaut gloves",
-      "excerpt": "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top",
-      "originalUrl": "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2016/01/13/kopra_spacewalk.jpg",
-          "width": 700,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/",
-      "publishedDateTime": "2022-04-05T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better.md",
-      "title": "Virtual meetings are here to stay. Microsoft wants to make them better",
-      "excerpt": "By Samantha Murphy Kelly, CNN Business Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work.",
-      "sourceUrl": null,
-      "webUrl": "https://abc17news.com/money/cnn-social-media-technology/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better/",
-      "originalUrl": "https://abc17news.com/money/cnn-social-media-technology/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://abc17news.b-cdn.net/abc17news.com/2022/04/hypatia-h_be2f286910f2053119a13aa29ee4fc16-h_42ffc1a886f87011640e58491002a6c0-300.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 17 News",
-        "domain": "abc17news.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

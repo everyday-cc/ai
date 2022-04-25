@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-12-bosch-picks-up-fiveai-after-the-self-driving-startup-pivoted-to-b2b-and-then-put-itself-up-for-sale.md",
+      "title": "Bosch picks up Five.ai after the self-driving startup pivoted to B2B and then put itself up for sale",
+      "excerpt": "Bosch itself has been long on self-driving car technology, although like many, its stated ambitions — it is a major OEM and supplier to the automotive industry and forged a partnership with ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/",
+      "originalUrl": "https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/five-ai.jpg?w=1024",
+          "width": 1024,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/amp/",
+      "publishedDateTime": "2022-04-12T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-aint-nobody-in-it-watch-san-francisco-police-stop-of-self-driving-car.md",
+      "title": "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car",
+      "excerpt": "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp",
+      "publishedDateTime": "2022-04-11T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-ai-strikes-again-self-driving-cars-are-already-here.md",
       "title": "AI Strikes Again – Self Driving Cars Are Already Here",
       "excerpt": "Artificial Intelligence (AI ... In forty years, it will be sixteen times faster. Self-driving cars are already on our roads. Transportation companies like Uber could increase their profits if the costs of drivers are reduced. Elon Musk has already ...",
@@ -1278,103 +1373,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-why-is-baidu-bidu-stock-down-today.md",
-      "title": "Why Is Baidu (BIDU) Stock Down Today?",
-      "excerpt": "Baidu operates the largest internet search engine in China, and in recent years, has become heavily involved in other technologies, including self-driving vehicles and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "originalUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "publishedDateTime": "2022-03-31T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier.md",
-      "title": "Meta's AI luminary LeCun explores deep learning's energy frontier",
-      "excerpt": "Three decades ago, Yann LeCun, while at Bell Labs, formalized an approach to machine learning called convolutional neural networks that would prove to be profoundly productive in solving tasks such as image recognition. CNNs, as they're commonly known ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "originalUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d42df9d1daed1dad8a379ab0a69ec88a5d09e3a5/2022/03/31/602b7f95-1939-459f-b036-4776385ec5d2/lecun-splash-image.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "publishedDateTime": "2022-03-31T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI",
-        "AI in Autos"
       ]
     }
   ],

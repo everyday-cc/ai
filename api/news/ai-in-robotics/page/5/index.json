@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-18-handheld-surgical-robot-can-help-stem-fatal-blood-loss.md",
+      "title": "Handheld surgical robot can help stem fatal blood loss",
+      "excerpt": "After a traumatic accident, there is a small window of time when medical professionals can apply lifesaving treatment to victims with severe internal bleeding. Delivering this type of care is complex,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/handheld-surgical-robo.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.amp",
+      "publishedDateTime": "2022-03-17T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-your-chipotle-chips-may-soon-be-made-by-a-robot-named-chippy.md",
       "title": "Your Chipotle Chips May Soon Be Made By A Robot Named 'Chippy'",
       "excerpt": "Chipotle announced on Wednesday that it is testing out an alternative way to make its tortilla chips using an AI-powered robot named “Chippy.” The creation of the robot is intended to help businesses run more efficiently and to help employees not have to do mundane tasks.",
@@ -1255,59 +1298,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-ai-our-world-what-is-artificial-intelligence.md",
-      "title": "AI & Our World: What is Artificial Intelligence?",
-      "excerpt": "Let’s talk about a question a lot of people ask themselves… What is AI? The thing about artificial intelligence is that most people don’t really know what it is. A lot of what most individuals think t",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-our-world-what-artificial-intelligence-beyond-ai",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-our-world-what-artificial-intelligence-beyond-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGpT_R1uwvZpg/article-cover_image-shrink_720_1280/0/1646766130678?e=1653523200&v=beta&t=Fa7CpGgBpV2n9QlAVmLJcLxShaojsSpPFSexhwlwuv0",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

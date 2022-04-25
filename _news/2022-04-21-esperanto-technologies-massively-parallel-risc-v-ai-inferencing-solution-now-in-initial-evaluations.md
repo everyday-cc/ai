@@ -41,6 +41,20 @@ related:
         width: 1032
         height: 703
         isCached: true
+  - title: "This 1,000-core RISC-V processor is generating buzz in the AI space"
+    excerpt: "A new 1,000-core RISC-V processor from Esperanto Technologies is currently being evaluated by Samsung SDS and other ‘lead customers”. According to a press release from the computer software company, its new ET-SoC-1 AI Inference Accelerator is undergoing initial evaluations by a number of firms ahead of its release."
+    publishedDateTime: 2022-04-25T21:30:00Z
+    webUrl: "https://www.techradar.com/news/this-1000-core-risc-v-processor-is-generating-buzz-in-the-ai-space"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AMWZ5DoPX9H4f9kiRCgwRf-1200-80.jpg"
+        width: 1032
+        height: 580
+        isCached: true
 
 secured: "4t9WZoP/ksq/hIO1AYYWbXWssUs6eTlgxW3v9ETfZkqScZmGsXL9CSEhq8qMivpj0J5dVpLOu7diDGEnvYmX5roNnuPjrZu1NdywT07x7VRt9OF582UyWmGYt92f51EauWEUmFPRKc8wmWLqQOMsEPKXROnvVtok/PQo+xLY3RxoXCN6ik2wUc95wWRv3VbSukael+QT4Sxf85THhKYP9vAtHqys/qULCysIpjRDp1RKL1FE6NA0D919xiTpgPgA2iVxRb/6a09GnpABnSgVrvbd/ripjaDoaWhW0We2j3+5QLEeU7htoAoQJufAumquAy1EFAID0bMj6yGJbKPrw3K6Fiff4YO8DINkdmhs4iFGbdoeqX4DNj/9aVsSupuUQ3Ud8W0AUKtpPZbQ+nFS0YocUC4QEu/VPofYZacXkS8Q+KHCJCx2beC5t2BqUz32NFoQDSFOdMYmgcpATiYzkPeDnyUF3ms0YXOq0nao+FE4GMPQwIjPdrM3mNiky52j2n1WoAsfoDJgMES5Pw8owQ==;W429/TNExZnbmTmdct1XHg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T19:01:00Z
 originalUrl: "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-7ba55e738ac3da7ad07b5070c5704c53"
 webUrl: "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-7ba55e738ac3da7ad07b5070c5704c53"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Enzolytics, Inc. Reports Progress and Future Plans"
+    excerpt: "COLLEGE STATION, TX / ACCESSWIRE / April 25, 2022 / Enzolytics, Inc. (OTC PINK:ENZC) ( continues to make significant"
+    publishedDateTime: 2022-04-25T11:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/enzolytics-inc-reports-progress-and-future-plans"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
 
 secured: "8iv6cA235zPwct0BpTswoWw1Z8Ozm1lE1S+tb6wpR+7zOcm8oQKjkK7n6euv53fUM7PdfAtA8ma/DpPoTQOCacUXmOSaXB3xvia6DHyqBCIXUt+mpclxGMNLJ1wPniiaz+ERTMERoPbAcHL2o2D9oiWwlQTSTcqMTHR6YBCNmzjnZO985Ih3ciJDmF3ilYszJQL63zeFAzSXjNLu2c77TcQ2hHCmBCRjrprGG9McgUYZZQ4Z5H9VTiMOYembsVfOZqasmKKbsaNCBwYMBAcz15ovq8DToTtgzOQzRApadpP0oFS4xPFN+Zg3Uy+/Em/3Ink80tXqVP8M53MNfXgd1oVohMkp7BrvGRaDig5jBuc=;952USrpgIDfRmUg9/dpJ2g=="
 ---

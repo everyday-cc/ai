@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
+    excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"
+    publishedDateTime: 2022-04-25T21:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-2022-vision-tank-start-up-competition-finalists-announced-/2022/04/25/9589016.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+
 secured: "Mp/nmgTZyYL5QccdESolEZxuAG9+RNu8zGNOfFsGDLt2OgLUVD6jz1fsBkf+fQYm81TeXLvkITWmQgqdnqOdDkwG4d3rWf3k70deP3KVEgLUV5rEgMrBPsp8zVmV7bjELs6fagJ07xv45bPFMNAYyTXhhTK7Uw9Mv9IQm3F7RjdhCW0F00iVvQkKETIIiZmV+bFjkKYqRoMI0clrFHjjiQSo/C/J+O01Bn4DDy/yUOcW2HVuUabZD/zwdYrLF3BKHtsVx6rwX6FjnGgsYZghzMNfJvL1tM/jrSzKkrK+UagO0SQIAx05BU8dWpjmIaBZQpvLX5WHae7BM8Re2KunOUv13wJ7xlYTKYOqQ9ek474=;dlNt82Cs9fhkLRwJz61kGA=="
 ---
 

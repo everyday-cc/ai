@@ -64,6 +64,15 @@ related:
         width: 1072
         height: 1072
         isCached: true
+  - title: "CollabCare and Hucu.ai Partner to Improve Communication for Older Adults and Families"
+    excerpt: "With both increasing maturity and adoption across generations, the ability for these technologies to address the challenges faced by older adults and aging populations continues to be an area of interest."
+    publishedDateTime: 2022-04-25T21:35:00Z
+    webUrl: "https://www.medgadget.com/2022/04/collabcare-and-hucu-ai-form-partnership-to-improve-communication-for-older-adults-and-families.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 10
 
 secured: "Pm4MRmaYQE2wuXElos8/VEIPlKviK6w7mZRZKiIJ7+mDR8x4hKOab4OE5Lp4D6uTXD3fQGrEqSIBtSvlDlP6v+iUfs6q2l5i3Q3Vbp7/R1wCCjkxTNNSDUBywQeXQopftO3hQsJw5ZC7ZbNRuT1Qv+aUBrirCW2hlHLjVOhS1UqmnwN5IP/OqsqapOBGsvrQXNhS2i4vdmqLIexun/6Y/HBZ6j19CrayX4fRDiIJDY7PkOQ6G4IjXocyNc1Bb7mCUpdSDFYLqsI4A2tnMemQ27hBd5dnRcF+Azm6ATIPs5ErqIk7SOVDy/Q1GBicDuwAE2H6D/MvHH6o/I+0nfybNCGiRI5xLNI6qZqkk3PTl8aE7AaYoeDs6LJKIigjv5xnykvpbkeFj9C/BkjDOlbskkVpLUbJ7gj5nPoo+Ka+xK5AfalPYIYANdJ6yGYRXiYoQRrxb84llakbCIxJS7orPX9QvOTl2jyxV7W2tDNupMzeELZmQ3r7ge28t2ERBeUjugsSU1Kjb9jdo0f3I9mrPg==;q+Q8IsxDjGWpjfFYhoFAkA=="
 ---

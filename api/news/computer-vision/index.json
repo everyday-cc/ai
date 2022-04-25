@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-26-computer-system-scrutinizes-video-footage-to-analyze-animal-behavior.md",
+      "title": "Computer system scrutinizes video footage to analyze animal behavior",
+      "excerpt": "Ordinarily, when studying the behavior of animals, scientists have to watch many hours of video footage of the creatures going about their daily lives. That may soon no longer be necessary, however, thanks to a new critter-watching computer system.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
+      "originalUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/255cb2c/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2F09%2F6583f3c14d67a0279df513621626%2Fdepositphotos-1169283-l.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true",
+      "publishedDateTime": "2022-04-25T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually.md",
       "title": "How Nordic Aviation Capital uses Amazon Rekognition to streamline operations and save up to EUR200,000 annually",
       "excerpt": "Nordic Aviation Capital (NAC) is the industry’s leading regional aircraft lessor, serving almost 70 airlines in approximately 45 countries worldwide. In 2021, NAC turned to AWS to help it use artificial intelligence (AI) to further improve its leasing operations and reduce its reliance on manual labor.",
@@ -632,22 +684,13 @@
       "title": "Computer Vision Development Market SWOT Analysis – Face++, SenseTime, YITU",
       "excerpt": "Apr 12, 2022 (Heraldkeepers) -- New Jersey, N.J., April 11, 2022 – The Computer Vision Development Market research report provides all the information related to the industry. It gives the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12?mod=search_headline",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1290,58 +1333,6 @@
         "name": "Hindustan Times",
         "domain": "hindustantimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-vanderbilt-researchers-using-artificial-intelligence-to-help-basketball-players-improve-their-shots.md",
-      "title": "Vanderbilt researchers using artificial intelligence to help basketball players improve their shots",
-      "excerpt": "Using facial recognition and computer vision, NOAH generates detailed statistics about how and where somebody is shooting, the trajectory of the ball, and where they missed shots from. NOAH ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
-      "originalUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/04/720/405/iStock-1342205557.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
-      "publishedDateTime": "2022-04-04T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T09:30:00Z
 originalUrl: "https://www.wesa.fm/politics-government/2022-04-25/cmu-dean-to-help-launch-new-federal-artificial-intelligence-initiative"
 webUrl: "https://www.wesa.fm/politics-government/2022-04-25/cmu-dean-to-help-launch-new-federal-artificial-intelligence-initiative"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: WESA

@@ -37,7 +37,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/62467316d1ffaded5f503f2f/0x0.jpg?format=jpg&crop=1421,760,x243,y0,safe&width=1200"
         width: 1200
@@ -138,6 +138,22 @@ related:
       - url: "https://i2-prod.dailyrecord.co.uk/incoming/article26788641.ece/ALTERNATES/s615/0_JS264415635.jpg"
         width: 615
         height: 409
+        isCached: true
+  - title: "It's Totally Fine To Watch TV In Self-Driving Cars, Says UK Highway Code"
+    excerpt: "The vision of a totally self-driving car where you can nap in the back seat or relax with friends while being whisked along is something that we’ve been promised for years. Sci-fi shows predicted that this was exactly what the future might hold,"
+    publishedDateTime: 2022-04-25T20:30:00Z
+    webUrl: "https://jalopnik.com/its-totally-fine-to-watch-tv-in-self-driving-cars-says-1848838442"
+    ampWebUrl: "https://jalopnik.com/its-totally-fine-to-watch-tv-in-self-driving-cars-says-1848838442/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/its-totally-fine-to-watch-tv-in-self-driving-cars-says-1848838442/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 43
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0cb7eb3aebdf366567d4c690d778bd0e.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Self-Driving Startup Pony.ai Wins China’s First License to Charge for Robotaxi Services"
     excerpt: "Pony.ai will launch a fare-charging driverless taxi service in the southern city of Guangzhou after becoming the first Chinese autonomous driving firm to be granted a taxi license, a huge milestone in the commercialization of self-driving technologies."

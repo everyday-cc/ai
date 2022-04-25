@@ -71,6 +71,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Host Hugging Face transformer models using Amazon SageMaker Serverless Inference"
+    excerpt: "The last few years have seen rapid growth in the field of natural language processing (NLP) using transformer deep learning architectures. With its Transformers open-source library and machine learning (ML) platform, Hugging Face makes transfer learning and the latest transformer models accessible to"
+    publishedDateTime: 2022-04-25T21:12:39Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-hugging-face-transformer-models-using-amazon-sagemaker-serverless-inference/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/21/ML-8598-image001-1019x630.png"
+        width: 1019
+        height: 630
+        isCached: true
   - title: "Aurora Serverless V2, SageMaker Serverless Inference, AWS IoT TwinMaker & AWS Amplify Studio are now generally available"
     excerpt: "Amazon Textract is an ML service that automatically extracts text, handwriting, and data from scanned documents"
     publishedDateTime: 2022-04-22T09:21:00Z

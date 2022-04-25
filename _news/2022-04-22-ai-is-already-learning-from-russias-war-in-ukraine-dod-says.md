@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseone.com/technology/2022/04/ai-already-learning-
 webUrl: "https://www.defenseone.com/technology/2022/04/ai-already-learning-russias-war-ukraine-dod-says/365978/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Ukraine uses US facial recognition technology to terrorize families of dead Russian soldiers"
-    excerpt: "The practice, which is a clear violation of international conventions on the treatment of dead soldiers, was reported on by the Washington Post as if it is a legitimate, if potentially problematic, military tactic."
-    publishedDateTime: 2022-04-21T02:02:00Z
-    webUrl: "https://www.wsws.org/en/articles/2022/04/21/wpvy-a21.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 43
-    images:
-      - url: "https://www.wsws.org/asset/f74d0ce1-7e47-4ef6-aad6-1bcc582f94d8?rendition=image1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "0Aexp7llw/lZKgNKgNF0LDzemOhzm7Cp8DxUqXwb6hnvUf9615pCACM+28/Jiv5bN0z6yzfBAZcazMFg6w2J0x11AdcEppuHgEfUIu9XBUBoOXqthBkCiNneDa5yIBg6uT1h5RxgNU/FfXA4vYmhQrROctsya1tT/4wNptrBanQ5cauU1V8PKUdKh6YhXHIAvEZX46dyLs/I+s9eqXjOpRNvUZlDZczjc1kktpo9y8+ImZ2PD4tMA5IFJcU9iTAV1lAHEmO3W2i0xRCiDB40pUGgFREsWp0DTk7c1MtrlXrDGQ2onc6uSegChshqt5Dmz/1nSaRsajetGdVsCjl/VjxwR7VDPqkzFTmhIpiP7c/75qbEWuiwNZknB4oi4ABQp+bTtpOe65swMFCuEKNStxe/i4I9G4Mvaq04Z2JRZywD96pWA2/NAc5J+N/8AhMRdqf21Hivv4wh6MI7Oac/ibuIndlwoG+F3/KY3eSipqpeXzTml0yScGwiLIhfkl9+usywVn0/yVBER8N/bSK55w==;1xe451zOdg4RUJh1D28Omg=="
 ---

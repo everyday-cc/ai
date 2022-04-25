@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T19:41:00Z
 originalUrl: "https://www.fedscoop.com/pentagon-hires-first-chief-digital-and-ai-officer-from-lyft/"
 webUrl: "https://www.fedscoop.com/pentagon-hires-first-chief-digital-and-ai-officer-from-lyft/"
 type: article
+quality: 37
+heat: -1
+published: false
 
 provider:
   name: FedScoop
@@ -14,6 +17,42 @@ provider:
 topics:
   - AI
 
-secured: "3k1ls1XjYRZwR6vfFXck182D9pmfD/Yx0Fglj5QEs/F8n5h0oICvs3ciasWoONZCUFTK181Yo63ODPJXcDR5dDIBE1uW4Vg9qXjB2dOIYymnOVBgVOGBrQGgQxGMX6PFXQIgcONq0i2b7O9ADWgHFt85NYPzLTBqLfVwJUU5hRPkd8dtTjVOdiTEHHuSSQYm9/+cfTuiQH+lQeXPyhETjPy863bcM0ur67ws0vdeqcbAzJDA7u4HPzgi3lSVazvpZaHygJiEqbFlOEyYT19bgtqpEZGNxtPGQwo3p9A6Abhc7a0ASTFERr8EY7SIU0dAeNiUQXnXg7y856438qCEYJ8l5f7m5gcMlGyqw2mVGPc=;2BLLnOCdoVh0woKaBxKhwA=="
+images:
+  - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2020/06/6192861.jpg?w=1200&h=500&crop=1"
+    width: 1200
+    height: 500
+    isCached: true
+
+related:
+  - title: "Pentagon hails Lyft exec Martell for AI post"
+    excerpt: "He brings cutting-edge industry experience to apply to our unique mission set,” Deputy Secretary of Defense Kathleen Hicks said April 25."
+    publishedDateTime: 2022-04-25T21:39:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/ek5qZ1EaFDEZYs7eGOy8MAum8ws=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/VL5HV7EVG5BMBONBWAL5NJDKTU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Pentagon Taps Former Lyft Executive for New Data and AI Post"
+    excerpt: "The head of machine learning for the ride-sharing service Lyft Inc. is joining the Pentagon to head up its new data and artificial intelligence office. Craig Martell, a former professor of computer science at the Naval Postgraduate School who has also worked for Dropbox and LinkedIn,"
+    publishedDateTime: 2022-04-25T17:46:00Z
+    webUrl: "https://www.bloombergquint.com/business/pentagon-taps-former-lyft-executive-for-new-data-and-ai-post"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "fRxxyOasoA1rDeHaS/Vx4iD4/uCQWDfqHFPBg90/DI1Gx/HFhRaKGhZI/05XK0R9ex0sKkwfLfN8lFAJyQHMf56ns8kSKoTBaR76Sahw7w5jWRsvB+eQi+QtBAbZUYcEg8tt7LC+9h9ndI6DRJuJZP0B9OfzdtqkT5QWS3x0D2QWRHZN9p1TLdYoLIFi5KfaG/DGL/FnIRShNgEq396YnF7h3/QdHU6MzsNectey889FPkUf0bum6GZHMQ8t5/PEk535CepTzm5awx52u2sqmuPAkNzZK7iRolrl55fcQPivG8Wgmf0WWftUCRgETSTEEodDFg0kUz1bFqV6Ydin0Ew1VT02tSxDJ4GbI7PtQiM=;rUdYTIBFCrd5KMEtbERWsw=="
 ---
 

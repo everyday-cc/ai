@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-04-easier-robots-skills.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-easier-robots-skills.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 900
     height: 600
     isCached: true
+
+related:
+  - title: "An easier way to teach robots new skills"
+    excerpt: "Researchers have developed a technique that enables a robot to learn a new pick-and-place task with only a handful of human demonstrations. This could allow a human to reprogram a robot to grasp never-before-seen objects,"
+    publishedDateTime: 2022-04-25T20:05:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220425154318.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "qFS6tg2SWPEafsf0zYPcNalNatVwXF71ZqFNvQ5YLIZiYnjIJG38bI66lakXcCAwQRGHw/L0WX+MlE/e7ELu3FubPC7oTB6bfnMKsRlxNsX2ve+3+AxsrwuQHiAbZ86jt7CKw9TUhsEYFHobkSxqbKfTGKaZEztAds7/VBdnX9quvvut7YSJjoa2B65W1X4PI/tKjVGO1K4bcLygjI5KfQBcShFy/zUaoPoPugoT5lYm2xQrfWnC9q8sDDLgZd/nl6ZKc/P17vAZBXeZWRSmqJYvBF8o8o9+KGiwV4BKVhewUnMm3gsg9wlPd8Q5Xw4cs1+wIsmsvEKke6zU04CZrUfdCe+tksfzxXwa04UOM4hcGvViUhdfLh2Quf858K62jDS/riV3Z2pzWe1JHXTUaasGBy3uIXojTFkfeI23WBU2qqqN390xrmT5NLN/db+pWQkZf6N1kzEl0mgO/xGQE3uZgre5e0eMJa3HKT3xlUqOHfby8Sb5MaLJp+WcLWVBOMLQj+pfJXi34qc4FupXMQ==;gC/Yk0lVUVH99TlPMstlNw=="
 ---

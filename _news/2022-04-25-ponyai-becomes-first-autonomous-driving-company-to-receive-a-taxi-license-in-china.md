@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/"
 type: article
 quality: 83
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -149,6 +149,15 @@ related:
       name: United News of India
       domain: uniindia.com
     quality: 9
+  - title: "Company OK'd for self-driving taxis in Guangzhou"
+    excerpt: "Pony.ai, a leading Chinese autonomous driving technology company, has won a bid for a self-driving taxi project in the Nansha district of Guangzhou, Guangdong province, government sources said. After getting a permit to operate 100 driverless vehicles in Nansha,"
+    publishedDateTime: 2022-04-25T18:03:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202204/25/WS62668808a310fd2b29e59376.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 4
 
 secured: "7B0eNvZmuxr94/0/A8uYh9ij/cHZ14x+Irnt9uGmiFXC/bYgS/SmCwCvaf3kSKqppaO5v7RCGQQhqGJDUefXQ8xDb/s1woHP7wZp+lBwB2go3VAHohzqbLzY4D9w5R4TE8dOd0NIgEdF7i6Lx0ApqiimmycfE/sjFGB1zzk1hw3Q+JIt5AlSlJKzx44bgVyx1g+Bor02Ew2fSp1+XfDeEOvKHCPlY36kYtlHwUsaqG/L73T2q5C3vXpr13qdBNt7oKkG3t6eDdoko3l5cKFWmrRszDA4VDo/wFSnqi7zIOhx31qqpps3hlfmm75u7N3SchwZTzFCA7M96/UlYrn1FmCqAhX89dUMyfxOHKJXDdM=;x4s+482fXID5dMZuBGFa+Q=="
 ---

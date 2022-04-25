@@ -43,22 +43,6 @@ related:
         width: 1000
         height: 585
         isCached: true
-  - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
-    excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph."
-    publishedDateTime: 2022-04-21T04:00:00Z
-    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924"
-    ampWebUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
-    cdnAmpWebUrl: "https://www-coventrytelegraph-net.cdn.ampproject.org/c/s/www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
-    type: article
-    provider:
-      name: Coventry Telegraph
-      domain: coventrytelegraph.net
-    quality: 38
-    images:
-      - url: "https://i2-prod.birminghammail.co.uk/incoming/article23728182.ece/ALTERNATES/s615/0_Driverless-cars.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "Highway Code's bizarre rules for self-driving cars - can I watch TV behind the wheel?"
     excerpt: "New Highway Code rules proposed by the government's Department for Transport are likely to be in place later this year. They include allowing people to watch TV in self-driving cars"
     publishedDateTime: 2022-04-23T06:00:00Z

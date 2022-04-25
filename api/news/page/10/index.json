@@ -2,6 +2,126 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-13-dell-nvidia-amd-to-power-new-ohio-ai-compute-cluster.md",
+      "title": "Dell, Nvidia, AMD to power new Ohio AI compute cluster",
+      "excerpt": "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "publishedDateTime": "2022-04-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-aktify-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
+      "title": "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards",
+      "excerpt": "LEHI, Utah, April 13, 2022 /PRNewswire/ -- Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes Aktify's achievements in collective intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-self-driving-car-pulled-over-in-san-francisco-confounding-police-aint-nobody-in-it.md",
+      "title": "Self-driving car pulled over in San Francisco, confounding police. 'Ain't nobody in it.'",
+      "excerpt": "License and registration? The first words police officers use weren't applicable when San Francisco police pulled over a car without a person inside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/tech/2022/04/13/self-driving-car-california-police/7302081001/",
+      "originalUrl": "https://www.freep.com/story/tech/2022/04/13/self-driving-car-california-police/7302081001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2017/10/12/USATODAY/usatsports/bolt-cruise-3rd-gen-design-dome-sept-2017_large.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/7302081001",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7302081001",
+      "publishedDateTime": "2022-04-13T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-alpha-fintech-by-ppro-announces-launch-of-fi911s-intelligent-saas-dispute-processing-for-financial-institutions-in-asia-pacific.md",
       "title": "Alpha Fintech by PPRO Announces Launch of Fi911’s Intelligent SaaS Dispute Processing for Financial Institutions in Asia Pacific",
       "excerpt": "Fi911, the leading dispute specialists and sister brand of Chargebacks911, today announces its partnership with Alpha Fintech ( a fintech pioneer aiming to evolve and simplify payments. APAC regional acquirers and PSPs will be able to leverage the unrivaled Fi911 SaaS dispute management p.",
@@ -253,22 +373,13 @@
       "title": "What's next for AlphaFold and the AI protein-folding revolution",
       "excerpt": "Then, last July, London-based firm DeepMind, part of Alphabet — Google’s parent company — made public an artificial intelligence (AI) tool called AlphaFold 2. The software could predict the 3D shape of proteins from their genetic sequence with,",
       "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd",
+      "webUrl": "https://www.nature.com/articles/d41586-022-00997-5",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-00997-5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-00997-5/d41586-022-00997-5_20300294.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -969,146 +1080,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-unionai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology.md",
-      "title": "Union.ai Raises $10M in Seed Funding for AI and ML Orchestration Technology",
-      "excerpt": "Union.ai offers new services on top of Flyte so that ... here to help them every step of the way through a cloud offering that allows them to start building production-grade ML pipelines in ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgno.com/business/press-releases/cision/20220412SF22410/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/",
-      "originalUrl": "https://wgno.com/business/press-releases/cision/20220412SF22410/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1795027/Union_AI.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGNO",
-        "domain": "wgno.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-ai-hardware-pc-gaming-rig-maker-partner-on-powerful-aiml-laptop.md",
-      "title": "AI hardware, PC gaming rig maker partner on powerful AI/ML laptop",
-      "excerpt": "AI hardware company Lambda and PC gaming rig maker Razer are hoping to steal some thunder from Apple's M1 Max-powered MacBook Pro with a new laptop designed explicitly for machine learning engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/12/lambda_to_ml_engineers_dont/",
-      "originalUrl": "https://www.theregister.com/2022/04/12/lambda_to_ml_engineers_dont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/04/12/lambda.jpg",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/12/lambda_to_ml_engineers_dont/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/12/lambda_to_ml_engineers_dont/",
-      "publishedDateTime": "2022-04-12T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-unionai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration.md",
-      "title": "Union.ai raises $10M to simplify AI and ML workflow orchestration",
-      "excerpt": "Union.ai, a startup emerging from stealth with a commercial version of the open source AI orchestration platform Flyte, today announced that it raised $10 million in a round contributed by NEA and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/",
-      "originalUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1254825733-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/",
-      "publishedDateTime": "2022-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],
