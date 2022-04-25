@@ -41,6 +41,20 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Video AI Tech Firm Focused on Sports Broadcasting VideoVerse Secures $46.8M"
+    excerpt: "The capital raised will be used to strengthen its teams in India and internationally, enhance VideoVerse technology, build newer products and expand its global market share. In October 2021, the company had raised Series A funding from Moneta Ventures,"
+    publishedDateTime: 2022-04-25T01:46:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/24373-video-ai-tech-firm-focused-on-sports-broadcasting-videoverse-secures-46-8m"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 35
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/4addc39d860682428eda9e8d96723e1e.jpg?t=20220425_013528"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "/YP3BjHvVJz/beg7zt1pvMZmzcEneY+GR1Qil7YvUkswIUjVWXqfeTwKjxCnrcDk5qm15aPI2DRkTd9j1UuQczR8wMs96A90OmwSSmOaGQR3Qw5tuNJLjiv6HkeYVSFo08+bce6fi7g+LnJ+7gN9cR6VY4JEFTlAwTONTsy3ftWChfmuvyRCrPaB5/z/xAfvnmsDPZXrTAavSXueXn5xUo8hJHiGu4QWg5YN1xnSO/apD/q46x/9pL+ryZeqWqBijKO0lYlq9RPQb+9ldSmQUYDknyoI+zVMDxasC0Oz3UH+vkUG1vHgn4d33wmD+yj+fns+v8MTXvUCQgGD1u97tJuj7XV/6Ua3r+7iebxHiCY=;kN3QITENTCFmFz2r4IWnqA=="
 ---

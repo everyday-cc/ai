@@ -1,14 +1,13 @@
 ---
 category: news
 title: "Pricey AI Apps Drive Up Cloud-Computing Spending"
-excerpt: "Close behind, it said, is an expected 26% increase in spending on cloud-based platform services used to build, test, deploy and update business software applications, including sophisticated AI, business intelligence and Internet-of-Things capabilities."
-publishedDateTime: 2022-04-20T12:20:00Z
-originalUrl: "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645?tpl=vc"
-webUrl: "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645?tpl=vc"
+excerpt: "Companies world-wide this year are expected to spend nearly $500 billion on cloud computing, up 20% from last year."
+publishedDateTime: 2022-04-19T20:10:00Z
+originalUrl: "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645"
+webUrl: "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645"
+ampWebUrl: "https://www.wsj.com/amp/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645"
 type: article
-quality: 67
-heat: 77
-published: true
 
 provider:
   name: Wall Street Journal
@@ -27,22 +26,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "Artificial Intelligence as a Service Market Emerging Trends and Competitive Analysis During Forecast 2031"
-    excerpt: "Some of the key technologies used by the players in the global artificial intelligence as a service market include deep learning, natural language processing or NLP, and machine learning or ML. Request Brochure-https://www.transparencymarketresearch.com ..."
-    publishedDateTime: 2022-04-22T07:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-emerging-trends-and-competitive-analysis-during-forecast-2031-2"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/Washington-January-6-2021-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
-secured: "d2CDnwvCO7kMRZRNy2+0xv5VNMhfiC4KTU2XS11TLrUux7zF3goBcoAKVTHm1s5L1DYvKxMnXCx4eD6bCirDEwvnc5G247d5KdYPqkXiH/0WbMCC98l42aq2b2LF0b9H5EdprwqkVu4/d0dBmEyGS28GAdjRftXlgdedV03ylFB5ozSs/8t05xxozmKitmKLOj712wmxHkSZO2TGJ/mFa023rbOK6TKMUX8pa5nZnP9XRgmDQ9C1ABiKNWqeU2S5j7bc+T0JUwa9//5w/1B84Yzjvd8XN8dtqpuWGIFUTdTpVEgfMO3TnGa25T41Gjtj3Uojjnmn5L1oqkGpC8jMWqT3sedkffmzKsu5iSfD0Zg=;MY/lUldW+rP41ui50909+g=="
+secured: "2bMtBNl0CxLTfkOettTvt5RLIdHneb73TbbPkc50JQvb5wnClyCFcgocyhLP/mLhhBHp3XJ3knThHSbrcvYdXJA9yTNpPXTeOtVqOiENPadlQgJnhpjxfNqlOXpP6ypKpT2Bz8TsnX/kNkdeTm8uvGpcqKr3A9T5o0wHBVjdfkF2meQzyFgRsjmQ2BsF8dKpkY3ZSBDS3RQ4k/dOsw2MO/+Mu6FDriqs45G3xDux51fzOGzK50iPOUDvQvvKTC1caO+75t1eGEMNz+DdHKvQBN8wHwZXm4p7O9qGpd4nia9akvrgGMILCNa/u2MU1WUl+kwBRPI4TBLgGpD+H3+byZf2ycDpOqP+zemOQfCxfsc=;qCVsG9Uq/3swFLsEn4bKeA=="
 ---
 

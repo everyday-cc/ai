@@ -73,20 +73,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Microsoft Azure launches new services in UAE"
-    excerpt: "and Azure Machine Learning, according to a press release on Tuesday. Necip Ozyucel, Director of Azure business group, Microsoft UAE, said: “When we launched Microsoft Cloud Regions in 2019, we saw an immediate acceleration in digital transformation ..."
-    publishedDateTime: 2022-04-20T07:34:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-launches-new-services-in-uae-vjm61h79"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-    images:
-      - url: "https://static.zawya.com/version/c:NTg1MjU1ZDQtNzk1Yy00:M2ZlYThm/170516064636xgeo-jpg.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Microsoft at NAB: Showcasing the future of media and entertainment"
     excerpt: "So much has happened to the world at large over the past two and a half years and that is reflected heavily in our media and entertainment industry. The response to the pandemic, dramatic changes to global weather,"
     publishedDateTime: 2022-04-22T15:00:00Z
@@ -138,15 +124,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
-    excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
-    publishedDateTime: 2022-04-20T07:12:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-uae-rolls-out-new-azure-services-to-accelerate-digital-ambitions"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 32
 
 secured: "3OIIJ8sQSCTatSvg9xpn1yT1ygbocVRyo9kFDSWvztu+cHDIJwsZ3eymZf+Qyw7+Mv6yoZ5JwEQhNXJt3e95fep4Y9PNpZhbxar3DfCQcm0eaDEf17jUutDTAt9ib93KCeL6keuYraV29KlXb1JYuhuz5aGHsbSuPo4WFb0l49PcOpKoSs1DoP8YcgOzKXoNoKm43fsgESZlFA40xWSYFQNjRNfZxG97uRnAe56+9Y3w/T7C+Wz6LPFyv23jdb3pXEolFUvcWfNKzxGQK/Txs6igVVjKDGxkP4YyixuT8hcoP7tKqYfNQPzGuC0KCSFBen8NYMoLWXz4jn/HqSYXYPz2wo37RQ+BuWndWLnUmbdIvk0a8WzrjbBhKHD1iEIWrAmft40RoqdBnQiBTW8g8ytz5PUF2Zv3+aB4+lsS0SQV6jSR62I6/b1CSb/1gt1evDWq+ELtHL0lBC1oLSILLsat5EdK6cLwEkN4+iAi5kBk56b3UWc/+IESw+rMPi/1znEp64R5RSAqHNi+eOQM0g==;d/D351pbcBeHN+cMgFwwQA=="
 ---

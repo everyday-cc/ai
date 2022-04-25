@@ -38,17 +38,6 @@ related:
         width: 1500
         height: 500
         isCached: true
-  - title: "Soundful's AI-Powered Platform Empowers New Future For Music Creation"
-    excerpt: "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022"
-    publishedDateTime: 2022-04-20T07:44:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/soundfuls-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/soundfuls-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/soundfuls-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 37
 
 secured: "TYswy/SuhywII9csEC/jho6l41MJ7oKQnyCQ/XafQOTT4dXNysQujn4LwBLL35FcAyuYf0PrP8s9sB6Q878szbqALnncSYLq4Umss6+5AHeiZmZzipiEuYE+bxWJD3vjGRvK5EVH8L+0e5b8H3mD9YzCyFYoQFE8XQxo6c52Dx3U5Q70bKqrlvxdWQdlNXyxIcB0lRnRMBly+AEvj7Km2T7nH0Aq9EHW720kVE/jPXvQ9Opl+d9/3f+aZD6LBYI+uLwpnYu9sKuAB7Dr6HYIGMIQF5AWLEczFnEUyWfQT5PU9JO89h1Wrn0SAYI+aSlmF9VWZEyrxS9EXiHHC9hUetx5YrcD6FY+EjC3542g61M=;EAdy4qIuRxXPIcUUHy5BWA=="
 ---

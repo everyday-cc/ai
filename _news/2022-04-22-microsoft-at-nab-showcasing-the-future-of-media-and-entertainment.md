@@ -91,20 +91,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Microsoft Azure launches new services in UAE"
-    excerpt: "and Azure Machine Learning, according to a press release on Tuesday. Necip Ozyucel, Director of Azure business group, Microsoft UAE, said: “When we launched Microsoft Cloud Regions in 2019, we saw an immediate acceleration in digital transformation ..."
-    publishedDateTime: 2022-04-20T07:34:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-launches-new-services-in-uae-vjm61h79"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-    images:
-      - url: "https://static.zawya.com/version/c:NTg1MjU1ZDQtNzk1Yy00:M2ZlYThm/170516064636xgeo-jpg.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Kraft Heinz to work with Microsoft on digital twins and supply chain efficiencies"
     excerpt: "Food manufacturing firm Kraft Heinz Co. said today it is partnering with Microsoft Corp. with an eye to improving its supply chain visibility and day-to-day operations. Under the alliance, Kraft Heinz will adopt various cloud,"
     publishedDateTime: 2022-04-22T02:10:00Z
@@ -142,15 +128,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
-    excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
-    publishedDateTime: 2022-04-20T07:12:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-uae-rolls-out-new-azure-services-to-accelerate-digital-ambitions"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 32
 
 secured: "nwjAP4/DgU3U2o114r1zdCXDq0iJDnaPOHmEe80gDT0W/6F8Ql+UjPiXt7CYxWXqgN9x0T9yT1JKfDAz2jwiluBTF7LHaYE3PEIEjpjL3dET/ClQEHzBZG9ZILshiSo/w6ajwSoeRQCI6evH4vp6MCV6pA9y/qcA2OwYcVymMLzSj7B8EpIUHZ9YbG5BaGnqZl9Ebti56PBJMqYJPys7n1VNzhOJU8OKDu0Knw7EuRN1qk4AUt+wof34QR1AysAzwAeC72e4/FKeoinOktDkc8bCUq6R5PT0gfT0QTUx750TGnVY3ttH1WYy07RuQwI6Hi2pyZV3VHOxW4P/9z3J2McSRabPVL6y57nl0zuprsQ=;wjBEuK35+rfe+Nuzm9hZxQ=="
 ---

@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "The Next Cybersecurity Crisis: Poisoned AI"
+    excerpt: "The combination of AI and cybersecurity was inevitable as both fields sought better tools and new uses for their technology. But there’s a massive problem that threatens to undermine these efforts and could allow adversaries to bypass digital defenses undetected."
+    publishedDateTime: 2022-04-24T23:30:00Z
+    webUrl: "https://www.bloombergquint.com/gadfly/ai-poisoning-is-the-next-big-risk-in-cybersecurity"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "All You Need to Know about the Growing Role of Machine Learning in Cybersecurity"
     excerpt: "ML can help security teams perform better, smarter, and faster by providing advanced analytics to solve real-world problems, such as using ML UEBA to"
     publishedDateTime: 2022-04-22T15:39:00Z

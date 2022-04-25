@@ -7,7 +7,7 @@ originalUrl: "https://www.wyomingnews.com/rawlinstimes/news/former-wyoming-artis
 webUrl: "https://www.wyomingnews.com/rawlinstimes/news/former-wyoming-artist-merges-art-ai/article_71fd95e2-55c4-5397-a237-f119f45d0a50.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Talking Ethical AI with Artivatic’s Layak Singh"
-    excerpt: "To reduce the chances of biases creeping into our AI, we first define and buttonhole the business problem we mean to solve, keeping our end-users in mind, and then configure our data collection methods to make room for diverse,"
-    publishedDateTime: 2022-04-20T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/talking-ethical-ai-with-artivatics-layak-singh/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Artivatic_.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "W/VL4a62DChWyp45GmpkaaGayCKAH1eA5bSBBq3v2Vef135W1FPZai0ZJ/0XJf3gsfst8WkZUFOAorc4Ta7lktlsfFZvdrTgQD/d1p2dxHQFYi+AQFnhEqqswOzUO7xM8yJhFzJMR5IGJAgx9W+gONwAycF+Gq6PoSImTnmO8Hod6472OaTswqRupdRJ9g9fv8ajeUfSAlaR+g25b5LXUaVl4qo/xKxK8nAULbcQlxwq+cSDXOPykfv1bYpcqxCtHJDVIqm46IOH2UoVy3zYwFhe3tvNTWtBBahkuiE1xjvo0Lg1WoLzmseo4rGUIi89aF0vMsuF7r0IAGzBXtFmkZ5vyjIgo+t12Z9wUnpmPm4=;kZjH5SE0JrhX3kheqvY09Q=="
 ---

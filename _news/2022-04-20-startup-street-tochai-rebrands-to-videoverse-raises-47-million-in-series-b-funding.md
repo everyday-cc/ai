@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Video AI Tech Firm Focused on Sports Broadcasting VideoVerse Secures $46.8M"
+    excerpt: "The capital raised will be used to strengthen its teams in India and internationally, enhance VideoVerse technology, build newer products and expand its global market share. In October 2021, the company had raised Series A funding from Moneta Ventures,"
+    publishedDateTime: 2022-04-25T01:46:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/24373-video-ai-tech-firm-focused-on-sports-broadcasting-videoverse-secures-46-8m"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 35
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/4addc39d860682428eda9e8d96723e1e.jpg?t=20220425_013528"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Mendel Raises $40 Million Series B Round to Expand its Team and Grow Product Offering"
     excerpt: "Mendel, the leading clinical artificial intelligence and natural language processing platform, today announced it has raised $40 million in Series B funding round led by Oak HC/FT. The round includes participation from existing investor DCM,"
     publishedDateTime: 2022-04-21T15:30:00Z

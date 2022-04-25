@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-sc
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
 type: article
 quality: 89
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Microsoft Azure launches new services in UAE"
-    excerpt: "and Azure Machine Learning, according to a press release on Tuesday. Necip Ozyucel, Director of Azure business group, Microsoft UAE, said: “When we launched Microsoft Cloud Regions in 2019, we saw an immediate acceleration in digital transformation ..."
-    publishedDateTime: 2022-04-20T07:34:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-launches-new-services-in-uae-vjm61h79"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-    images:
-      - url: "https://static.zawya.com/version/c:NTg1MjU1ZDQtNzk1Yy00:M2ZlYThm/170516064636xgeo-jpg.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Microsoft at NAB: Showcasing the future of media and entertainment"
     excerpt: "So much has happened to the world at large over the past two and a half years and that is reflected heavily in our media and entertainment industry. The response to the pandemic, dramatic changes to global weather,"
     publishedDateTime: 2022-04-22T15:00:00Z
@@ -142,15 +128,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
-    excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
-    publishedDateTime: 2022-04-20T07:12:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-uae-rolls-out-new-azure-services-to-accelerate-digital-ambitions"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 32
 
 secured: "xnJ38MHh/qgfUNIFVoUv21FynicVkbU5hHt2Irqdw4Ou523Jll8hxYUKYVFpfL9GbxHDJCPcqpDcRj2Y0bKIB1Vmml9NcE+gjHVLsx2hTilN03w/nNM2ajBja2EWwMKywkKi8RN+aNlRSqgXSLi6sr2E+nMJ5x79yPBZD/v0aVd0nRSr1KHr14eNOLo0SrDFg0L8aG7Lqa4/wUay7rmXyBu+DOlBBE1+CZ1YV/IFETrbYoyNAN4InA5ZH1b0W32VWCk5q3lYp7nBYW2F4fiLCbEYQlbx9bXbLLMlaOA48WeuCMTlYxWkYNM7sMLg5uBU6x0PNofwqlQfz2PEP+hXSPf6DPbRaumI1CF+6sRMoAo=;QfeV0x9C2iCk3tpgq1ErgQ=="
 ---

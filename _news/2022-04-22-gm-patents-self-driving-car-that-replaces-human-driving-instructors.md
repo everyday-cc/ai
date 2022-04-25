@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "People will be allowed to watch TV and check emails in self-driving cars"
-    excerpt: "But under proposed updates to the Highway Code, people will be able to catch up on their favourite shows or check their emails while using self-driving cars. This will only apply when drivers hand ..."
-    publishedDateTime: 2022-04-20T07:39:00Z
-    webUrl: "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/"
-    ampWebUrl: "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 58
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/04/SEC_99710045.jpg?quality=90&strip=all&zoom=1&resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Will Watching TV In Self-Driving Cars Actually Be Legal In The UK?"
     excerpt: "A new U.K. government rule suggests that self-driving car owners will be able to watch movies on their in-car dash screen while the car is on autopilot."
     publishedDateTime: 2022-04-20T13:42:00Z
@@ -148,20 +132,6 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-14/6d179573-5120-4012-9311-617643a5f225.jpeg"
         width: 500
         height: 300
-        isCached: true
-  - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
-    excerpt: "The Government will update the Highway Code to make clear clarify drivers’ responsibilities in self-driving vehicles."
-    publishedDateTime: 2022-04-20T07:36:00Z
-    webUrl: "https://www.stirlingnews.co.uk/news/national/20079187.watching-tv-allowed-self-driving-cars-highway-code-update/"
-    type: article
-    provider:
-      name: Stirling News
-      domain: stirlingnews.co.uk
-    quality: 24
-    images:
-      - url: "https://www.stirlingnews.co.uk/resources/images/12550035/"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
     excerpt: "Users of self-driving cars will not be responsible for crashes under proposed changes to the Highway Code. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department for Transport said (DfT). The update to ..."
