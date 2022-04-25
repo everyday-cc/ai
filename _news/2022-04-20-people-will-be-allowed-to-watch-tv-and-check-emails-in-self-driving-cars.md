@@ -191,6 +191,15 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "Self driving along the trip - Washington Forum"
+    excerpt: "Are you really driving all over the US, or are you sticking to the East Coast. This is the forum for the real Washington ~ the state!"
+    publishedDateTime: 2022-04-24T22:45:00Z
+    webUrl: "https://www.tripadvisor.com.au/ShowTopic-g28968-i73-k10368836-Self_driving_along_the_trip-Washington.html"
+    type: article
+    provider:
+      name: TripAdvisor
+      domain: tripadvisor.com.au
+    quality: 19
 
 secured: "K6STQj761uQtW/kuCEvd/sGP9IheCGAYknidNLas9rlfjyeueohKUXh449UShPBm2R9YvEilborcmc4Nv0KXpmlytviF7GTTQUGifCS4DjNd0UmbH0wmFIJ9lfCTP5nr0pu4zVO1qd83V/4kZb3UpV0zdgLlGuUhp0S+0TcAJIlFkOlcKWYH1o0RZc3B2u3EqHT8o/L9cUEU/fVQB4tFLMCklgtF8dzw3xBO8+NkLouIodbwXqbF6/AotqYzIi0HPBo8B2N25XKBT0gFOt1YzqUu3KdNGXuDeAE8IFz8pQftWT84Zr/ciYuN36gy0mftWFU9m949NxvQGxWoCxz3HnrHYNmwqXvvfe7an4Yeo94=;ze8/1XhQoqbPhJv/GPUn3g=="
 ---

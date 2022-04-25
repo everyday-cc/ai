@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-18-healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc.md",
+      "title": "Healthcare AI Market is set to experience a significant growth rate | IBM (Watson Health), Atomwise, Inc., Butterfly Network, Inc.",
+      "excerpt": "Global Healthcare AI Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery , Covid 19 Outbreak Impact research report added by Report Ocean ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/BBB-8-1-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-17T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-liveperson-upgrades-conversation-assist.md",
       "title": "LivePerson Upgrades Conversation Assist",
       "excerpt": "LivePerson, a provider of conversational artificial intelligence technology ... and bots from third-party platforms like Google DialogFlow and IBM Watson. An intuitive interface presenting multiple recommendations inline in the conversation, allowing ...",
@@ -1329,49 +1373,6 @@
       "provider": {
         "name": "WRAL TechWire",
         "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-5-high-profile-health-it-acquisitions-in-2022.md",
-      "title": "5 high-profile health IT acquisitions in 2022",
-      "excerpt": "Microsoft completed its $19.7 billion acquisition of AI speech recognition ... its data and assets from Watson Health, which might be an effort to streamline IBM's operations and focus the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/5-high-profile-health-it-acquisitions-in-2022.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/5-high-profile-health-it-acquisitions-in-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
         "images": null,
         "publishers": null,
         "authors": null

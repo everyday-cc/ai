@@ -2,6 +2,385 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-04-05-outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat.md",
+      "title": "Outdoor and Dock Exhibitors Offer Whatever Floats Your Boat",
+      "excerpt": "From a Stiletto to a Rekognition Video Analyzer, outdoor and dock exhibitors are giving Sea-Air-Space attendees the opportunity to check out cutting-edge defense technology. The carbon-fiber, 88-foot M-80 Stiletto is a floating platform devoted to",
+      "sourceUrl": null,
+      "webUrl": "https://seapowermagazine.org/outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat/",
+      "originalUrl": "https://seapowermagazine.org/outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SEAPOWER",
+        "domain": "seapowermagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions.md",
+      "title": "Guardforce AI shoots up 16% on expanding applications of robotics solutions",
+      "excerpt": "Guardforce AI (GFAI) shoots up 16% PM as the company began to roll out additional features for its Intelligent Cloud Platform (\"ICP\") powered robots in Macau",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "originalUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "publishedDateTime": "2022-04-05T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-from-autonomous-cars-to-autonomous-weapons-the-ai-ethics-issues-cant-be-ignored.md",
+      "title": "From autonomous cars to autonomous weapons, the AI ethics issues can't be ignored",
+      "excerpt": "Autonomous technology is racing towards us. But whether its autonomous cars or autonomous weapons, there are serious questions. This is where AI ethics comes to a head.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
+      "originalUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2017-05/ScreenHunter_1725-May.-22-15.19.jpg",
+          "width": 1279,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
+      "publishedDateTime": "2022-04-05T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-three-former-deepminders-are-developing-ai-to-pick-stocks-and-crypto.md",
+      "title": "Three former DeepMinders are developing A.I. to pick stocks and crypto",
+      "excerpt": "Martin Schmid, Rudolf Kadlec and Matej Moravcik left DeepMind in January to set up EquiLibre Technologies, relocating to Prague in the Czech Republic. The trio used to work at IBM and developed an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "originalUrl": "https://www.cnbc.com/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102035717-72012198.jpg?v=1532564415",
+          "width": 5400,
+          "height": 3300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "publishedDateTime": "2022-04-05T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks-fintech-companies.md",
+      "title": "Gupshup acquires Active.Ai, a leading conversational AI platform for banks & fintech companies",
+      "excerpt": "Active.Ai serves BFSI customers across 43 countries with a Conversational Banking as a Service (CBaaS) platform that helps clients engage with millions of consumers every month. The acquisition strengthens Gupshup's customer experience (CX) solutions for banking,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm",
+      "originalUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2021/03/mergernacquisition2-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp",
+      "publishedDateTime": "2022-04-05T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson.md",
+      "title": "What’s in a name? Buffalo’s link to IBM Supercomputer, Watson",
+      "excerpt": "Most folk are aware of IBM’s Watson, the deep-thinking supercomputer that won jeopardy and launched an artificial intelligence bonanza. Watson is not the fastest supercomputer in the world ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/",
+      "originalUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalorising.com/wp-content/uploads/2018/03/Idea-1024x614.jpeg",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/amp/",
+      "cdnAmpWebUrl": "https://www-buffalorising-com.cdn.ampproject.org/c/s/www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/amp/",
+      "publishedDateTime": "2022-04-05T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo Rising",
+        "domain": "buffalorising.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-facial-recognition-system-to-be-launched-at-pune-airport-in-2023.md",
+      "title": "Facial recognition system to be launched at Pune airport in 2023",
+      "excerpt": "A facial recognition system will be launched at Pune's Lohegaon Airport by March 2023, Minister of State for Civil Aviation VK Singh said in Parliament. The system will be launched as part of the Centre's Digi Yatra initiative to provide passengers \"seamless and hassle-free experience at airports\".",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
+      "originalUrl": "https://inshorts.com/en/news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/5_tue/img_1649144346258_275.jpg?",
+          "width": 537,
+          "height": 356,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
+      "publishedDateTime": "2022-04-05T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-uks-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright.md",
+      "title": "UK’s mental health crisis alleviated by online therapy services from Onebright",
+      "excerpt": "Around 1.6 million Britons are waiting for specialised treatment, and another 8 million cannot get on the waiting list but would benefit from support. Could online therapy be the key to unlocking the mental health crisis?",
+      "sourceUrl": null,
+      "webUrl": "https://www.journalism.co.uk/press-releases/uk-s-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright/s66/a917259/",
+      "originalUrl": "https://www.journalism.co.uk/press-releases/uk-s-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright/s66/a917259/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journalism.co.uk",
+        "domain": "journalism.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands.md",
+      "title": "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands",
+      "excerpt": "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22",
+      "originalUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-04/05/I_97f69image_story.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-mirae-asset-partners-with-ai-based-fintech-qraft-technologies.md",
       "title": "Mirae Asset partners with AI-based fintech Qraft Technologies",
       "excerpt": "Mirae Asset Securities formed a strategic partnership with fintech firm Qraft Technologies earlier this week, planning joint research on AI-based financial models and cooperation in bringing about ...",
@@ -363,6 +742,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-05-alphabets-other-bet-a-deep-dive-into-deepmind.md",
+      "title": "Alphabet's Other Bet: A Deep Dive Into DeepMind",
+      "excerpt": "DeepMind has evolved from a small startup into a promising part of Alphabet. In 2020, cash flow was positive for the first time, and revenue tripled compared to the previous year. DeepMind's ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
+      "originalUrl": "https://seekingalpha.com/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1299482930/image_1299482930.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
+      "publishedDateTime": "2022-04-04T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-tech-roundup-pizza-chains-put-robots-on-the-phone.md",
       "title": "Tech roundup: Pizza chains put robots on the phone",
       "excerpt": "Marco’s and Jet’s are testing artificial intelligence to take calls and texts. Also, Brinker expands its use of drone delivery and",
@@ -688,465 +1110,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-ai-in-genomics-start-up-mnm-bioscience-gets-nearly-1m-eureka-eurostars-funding-for-ai-based-cancer-patient-stratification-tool.md",
-      "title": "AI in Genomics Start-Up MNM Bioscience Gets nearly $1M Eureka Eurostars Funding for AI-Based Cancer Patient Stratification Tool",
-      "excerpt": "MNM Bioscience, a technological start-up using genomic data and artificial intelligence algorithms to develop solutions for personalized medicine, received an $800 000 grant from the Eureka’s Eurostars Programme.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-cancer-artificial-intelligence-e7b29399075b4238b4d443c4c7dcd638",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-cancer-artificial-intelligence-e7b29399075b4238b4d443c4c7dcd638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-facial-recognition-system-at-pune-airport-by-march-2023.md",
-      "title": "Facial recognition system at Pune airport by March 2023",
-      "excerpt": "The facial recognition system is part of the Digi Yatra initiative of the Government of India. It is to be implemented in a phased manner",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
-      "originalUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/04/04/1600x900/8e4dd890-b431-11ec-a307-d7d8f6d974aa_1649088681499.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html",
-      "publishedDateTime": "2022-04-04T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-machine-learning-as-a-service-market-size-worth-3881-billion-globally-by-2028-at-412-cagr-verified-market-research.md",
-      "title": "Machine Learning As A Service Market size worth $ 38.81 Billion, Globally, by 2028 at 41.2% CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \"Machine Learning As A Service Market\" By Component (Services, Software Tools),",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at-41-2-cagr-verified-market-research-r--882059394.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at-41-2-cagr-verified-market-research-r--882059394.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-how-reverie-is-serving-bharat-with-multilingual-bots.md",
-      "title": "How Reverie is serving Bharat with multilingual Bots",
-      "excerpt": "Through its robust partner ecosystem Reverie empowers multilingual chatbots to enable language interface through voice and conversational AI be it ... include machine translation, speech-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots-11649076963373.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots-11649076963373.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/04/04/600x338/02_(30)_1649077118917_1649077124184.jpg",
-          "width": 599,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots/amp-11649076963373.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots/amp-11649076963373.html",
-      "publishedDateTime": "2022-04-04T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-massaging-ai-language-models-for-fun-profit-and-ethics.md",
-      "title": "Massaging AI language models for fun, profit and ethics",
-      "excerpt": "For applications where there is lots of data, such as natural language processing (NLP), the amount of domain knowledge injected into the system has gone down over time. In the early days of deep learning, people would routinely train a small deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
-      "originalUrl": "https://www.zdnet.com/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
-      "publishedDateTime": "2022-04-04T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-vanderbilt-researchers-using-artificial-intelligence-to-help-basketball-players-improve-their-shots.md",
-      "title": "Vanderbilt researchers using artificial intelligence to help basketball players improve their shots",
-      "excerpt": "Using facial recognition and computer vision, NOAH generates detailed statistics about how and where somebody is shooting, the trajectory of the ball, and where they missed shots from. NOAH ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
-      "originalUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/04/720/405/iStock-1342205557.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
-      "publishedDateTime": "2022-04-04T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-empowering-space-development-off-the-planet-with-azure.md",
-      "title": "Empowering space development off the planet with Azure",
-      "excerpt": "Any developer can be a space developer with Azure. Microsoft has a long history of empowering the software development community. We have the world’s most comprehensive developer tools and platforms from Github to Visual Studio, and we support a wide range of industries and use cases from healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/empowering-space-development-off-the-planet-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/empowering-space-development-off-the-planet-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/601d514e-5106-4fa8-b701-d8c20dae5f0e.png",
-          "width": 1024,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T04:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-as-russia-plots-its-next-move-an-ai-listens-to-the-chatter.md",
-      "title": "As Russia Plots Its Next Move, an AI Listens to the Chatter",
-      "excerpt": "With vast amounts of data becoming available to intelligence analysts, new tools will help them sift and interpret it all—but they will introduce new risks, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/",
-      "originalUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62478eb5eced5c4c5a96ba55/master/pass/Russian-Radio-Interference-AI-Ukraine-Business-1239672875.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-war-ai-surveillance/amp",
-      "publishedDateTime": "2022-04-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations.md",
-      "title": "Here's How AI Optimizes Executive-Level Decision-Making In Mega-Corporations",
-      "excerpt": "Artificial intelligence's application is altering business and at the same time, it is evolving as significant gains in computing capability allow for more complicated programs than ever before. Enterprise AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239aa5f2d68c629702662a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
-      "publishedDateTime": "2022-04-04T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-the-intel-arc-gpu-lineup-may-be-a-serious-competitor.md",
-      "title": "The Intel Arc GPU Lineup May Be A Serious Competitor",
-      "excerpt": "The Intel Arc GPU series is coming out soon to laptops and desktops. What do they have to offer compared to the current competition?",
-      "sourceUrl": null,
-      "webUrl": "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/",
-      "originalUrl": "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://unbox.ph/wp-content/uploads/2022/04/arc-gpu.jpeg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/",
-      "cdnAmpWebUrl": "https://unbox-ph.cdn.ampproject.org/c/s/unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/",
-      "publishedDateTime": "2022-04-04T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Unbox",
-        "domain": "unbox.ph",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

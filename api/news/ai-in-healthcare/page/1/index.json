@@ -79,6 +79,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-18-healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc.md",
+      "title": "Healthcare AI Market is set to experience a significant growth rate | IBM (Watson Health), Atomwise, Inc., Butterfly Network, Inc.",
+      "excerpt": "Global Healthcare AI Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery , Covid 19 Outbreak Impact research report added by Report Ocean ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/BBB-8-1-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-17T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-17-ibm-amd-embrace-israeli-artificial-intelligence-technology.md",
       "title": "IBM, AMD embrace Israeli artificial intelligence technology",
       "excerpt": "The artificial intelligence that powers Amazon’s virtual assistant ... The game-changing platform, which will be launched in 2023, targets public safety, e-commerce, healthcare, retail and other high-volume uses of AI. With its next-generation hardware ...",
@@ -531,6 +575,49 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-aacr22-artificial-intelligence-predicts-side-effects-of-combination-therapies.md",
+      "title": "AACR22: Artificial intelligence predicts side effects of combination therapies",
+      "excerpt": "Researchers at the Cancer Center Amsterdam (Netherlands) report their preliminary findings using artificial intelligence to predict the adverse ... making it difficult to decide whether a new combination therapy would risk their health,” explains Bart ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.biotechniques.com/cancer-research/artificial-intelligence-predicts-side-effects-of-combination-therapies/",
+      "originalUrl": "https://www.biotechniques.com/cancer-research/artificial-intelligence-predicts-side-effects-of-combination-therapies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.biotechniques.com/wp-content/uploads/2022/04/Drug-combination-therapeis.png",
+          "width": 802,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioTechniques",
+        "domain": "biotechniques.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1182,94 +1269,6 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-the-dangers-of-not-aligning-artificial-intelligence-with-human-values.md",
-      "title": "The Dangers Of Not Aligning Artificial Intelligence With Human Values",
-      "excerpt": "I speak to Brian Christian, author of 'The Alignment Problem – How AI Learns Human Values' about how we still face some significant hurdles when it comes to building machines that are truly capable of thinking and acting like humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62468a610c6dc8f419eac76b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
-      "publishedDateTime": "2022-03-31T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-why-and-where-should-healthcare-companies-increase-ai-investments.md",
-      "title": "Why and Where Should Healthcare Companies Increase AI Investments",
-      "excerpt": "Although democratizing healthcare is no small task, the industry is ripe for big change and artificial intelligence and machine learning will be huge players in that transformation. In fact, the AI healthcare market is projected to hit a value of $39.5 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments",
-      "originalUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp",
-      "publishedDateTime": "2022-03-31T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

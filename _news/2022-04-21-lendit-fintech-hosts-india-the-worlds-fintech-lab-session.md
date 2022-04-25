@@ -100,17 +100,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "The Nation's #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
-    excerpt: "Loan Factory, the nation's #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
-    publishedDateTime: 2022-04-20T05:16:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 0
 
 secured: "bApMah0ppQ7Ctuo6+627SPBUvQHlR1iqAjeQ9Z28QpCEVfIUQWKOZL9KK39WOCY94N91LO+K3rztr9u5pjgaPNiLuBUAjVTyuAVbzgWeQnYA/uLYiuArQhKQe3EY7/Eu9GkeYu9sfap5WkatXn2Q14MrO9FtLhvfmFbKC4Sz3qiAt5uHf90BzNAQhXCfUBRozjlarqnFcz1Tg0j3S3D2rG9ClXWM8r+WJGiUFQJoQGisreIJ8VY8NVbNlo6ftKTTW+JVrw1MSuvsGgH4WejygKhpHFeu29W16raT70pq93lD1BpsG2hBcpAVjZMIx5jdz3qOB6yGPXRFEYOGA/31sA5B3wNm4EX0O/zcsSy4Po8=;SdpTIArjzExSFsXMaRPj/A=="
 ---

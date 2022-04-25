@@ -2,6 +2,314 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-12-future-proof-your-business-with-ai-in-products-and-services.md",
+      "title": "Future Proof Your Business With AI In Products And Services",
+      "excerpt": "Artificial Intelligence (AI) is one of the most potent technologies businesses have ever had access to. In order to thrive and meet the customer expectations of the future, businesses must consider integrating AI into their products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6255147e2792781e826c01b6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/",
+      "publishedDateTime": "2022-04-11T22:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-india-us-to-hold-dialogue-on-artificial-intelligence.md",
+      "title": "India, US to hold dialogue on artificial intelligence",
+      "excerpt": "Secretary of State Tony Blinken and Defence Secretary Lloyd Austin hosted the fourth 2+2 ministerial dialogue with Defence Minister Rajnath Singh and External Affairs Minister S Jaishankar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/04/FQHBJ4raAAEsnoy.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp",
+      "publishedDateTime": "2022-04-11T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-machine-learning-models-leak-personal-info-if-training-data-is-compromised.md",
+      "title": "Machine learning models leak personal info if training data is compromised",
+      "excerpt": "Machine learning models can be forced into leaking private data if miscreants sneak poisoned samples into training datasets, according to new research. A team from Google, the National University of Singapore, Yale-NUS College, and Oregon State University ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/12/machine_learning_poisoning/?td=keepreading-btm",
+      "originalUrl": "https://www.theregister.com/2022/04/12/machine_learning_poisoning/?td=keepreading-btm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/12/shutterstock_personal_information.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/12/machine_learning_poisoning/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/12/machine_learning_poisoning/",
+      "publishedDateTime": "2022-04-11T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-aint-nobody-in-it-watch-san-francisco-police-stop-of-self-driving-car.md",
+      "title": "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car",
+      "excerpt": "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp",
+      "publishedDateTime": "2022-04-11T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space.md",
+      "title": "Microsoft And NASA Leverage AI To Streamline Safety In Space",
+      "excerpt": "The star-filled expanse of space seems calm and peaceful from a distance—but the reality is that outer space is a harsh and unforgiving environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6254c097b92e79c735ba25fa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
+      "publishedDateTime": "2022-04-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-certain-personality-traits-may-play-a-role-in-cognitive-functioning-later-in-life.md",
+      "title": "Certain personality traits may play a role in cognitive functioning later in life",
+      "excerpt": "People who are organized, with high levels of self-discipline, may be less likely to develop mild cognitive impairment as they age, while people who are moody or emotionally unstable are more likely to experience cognitive decline late in life,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220411/Certain-personality-traits-may-play-a-role-in-cognitive-functioning-later-in-life.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220411/Certain-personality-traits-may-play-a-role-in-cognitive-functioning-later-in-life.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-feature-as-malaysia-tests-ai-court-sentencing-some-lawyers-fear-for-justice.md",
+      "title": "FEATURE-As Malaysia tests AI court sentencing, some lawyers fear for justice",
+      "excerpt": "Few cases ruffle Hamid Ismail after nearly two decades as a lawyer, but he was taken aback when a man he defended was sentenced with the help of an artificial intelligence tool in the Malaysian state of Sabah.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
+      "originalUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2HD3V7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2HD3V7",
+      "publishedDateTime": "2022-04-11T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum.md",
       "title": "Government Deep Tech 2022 Top Funding Focus Explainable AI, Photonics, Quantum",
       "excerpt": "An example is from 2015, where I was invited to help the top 100 CEOs, representing nearly $100 Trillion in assets under management, to look ten years into the future for their investments.",
@@ -773,330 +1081,6 @@
         "name": "WBTW",
         "domain": "wbtw.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks.md",
-      "title": "Artificial intelligence and cybersecurity among top priorities for Brazilian banks",
-      "excerpt": "Artificial intelligence (AI) and cybersecurity are among the top priorities when it comes to the technology strategy of banking institutions in Brazil, a new study has found. The annual research published by the Brazilian Banking Federation (Febraban ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "originalUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "publishedDateTime": "2022-04-11T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-technology-innovation-institute-announces-launch-of-noor-the-worlds-largest-arabic-nlp-model.md",
-      "title": "Technology Innovation Institute Announces Launch of NOOR, the World’s Largest Arabic NLP Model",
-      "excerpt": "Apr 11, 2022-- Technology Innovation Institute (TII), a global research center and applied research pillar of Abu Dhabi’s Advanced Technology Research Council, today announced the launch of NOOR, the world’s largest Arabic natural language processing (NLP) model to date.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-united-arab-emirates-middle-east-abu-dhabi-410cd804413342d6bf0c0428671e533e",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-united-arab-emirates-middle-east-abu-dhabi-410cd804413342d6bf0c0428671e533e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-hopkins-researchers-develop-ai-technique-to-predict-cardiac-arrests.md",
-      "title": "Hopkins researchers develop AI technique to predict cardiac arrests",
-      "excerpt": "This deep-learning concept could potentially be developed for other fields of medicine that rely on visual diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
-      "originalUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/04/Johns-hopkins-cardiac-arrest-ai-detection.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
-      "publishedDateTime": "2022-04-11T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-how-are-indian-banks-adopting-digitisation-and-ai.md",
-      "title": "How are Indian banks adopting digitisation and AI?",
-      "excerpt": "An estimated 205 million Indian adults already have a digital-only bank account, and this number is predicted to increase to 397 million within the next five years.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
-      "originalUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Banking-banner.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-investing-in-eastern-europes-ai-future.md",
-      "title": "Investing in Eastern Europe’s AI future",
-      "excerpt": "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
-      "originalUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
-      "publishedDateTime": "2022-04-11T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup.md",
-      "title": "Artificial Intelligence Is Changing Soccer, And Could Decide The 2022 World Cup",
-      "excerpt": "Artificial intelligence and machine learning have improved so much that they can even be used to collect data on historical broadcasts and previous World Cup tournaments. At the same time, limb-tracking AI technology could change the upcoming 2022 Qatar World Cup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/",
-      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6253f9796eb6ee328d44c77e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/amp/",
-      "publishedDateTime": "2022-04-11T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-startups-join-ai-acquisition-rush.md",
-      "title": "Startups Join AI Acquisition Rush",
-      "excerpt": "startup founders and investors say. Venture-backed startups spent roughly $8 billion acquiring an estimated 72 AI startups last year, compared with 49 in 2020, according to 451 Research, a unit of analytics provider S&P Global Market Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401",
-      "originalUrl": "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-520831/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

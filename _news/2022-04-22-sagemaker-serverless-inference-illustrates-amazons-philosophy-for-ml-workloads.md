@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-il
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/amp/"
 type: article
 quality: 104
-heat: 169
+heat: 164
 published: true
 
 provider:

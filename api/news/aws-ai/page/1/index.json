@@ -159,7 +159,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1058,6 +1058,59 @@
       ]
     },
     {
+      "path": "_news/2022-04-06-artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028.md",
+      "title": "Artificial Intelligence in the Education Sector Market Growth, Share, Size, Forecast by 2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 06, 2022 (Market Insight Reports) -- According to the business intelligence report titled \"Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028-2022-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028-2022-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-bangalore-international-airport-aws-to-open-joint-innovation-center.md",
       "title": "Bangalore International Airport, AWS to open joint innovation center",
       "excerpt": "The centre, expected to open this year at the city airport, will focus on driving digital innovation for the airport and enhancing passenger experience, according to a statement.",
@@ -1347,58 +1400,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-interpret-caller-input-using-grammar-slot-types-in-amazon-lex.md",
-      "title": "Interpret caller input using grammar slot types in Amazon Lex",
-      "excerpt": "Customer service calls require customer agents to have the customer’s account information to process the caller’s request. For example, to provide a status on an insurance claim, the support agent needs policy holder information such as the policy ID and claim number. Such information is often collected",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interpret-caller-input-using-grammar-slot-types-in-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/interpret-caller-input-using-grammar-slot-types-in-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T09:45:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

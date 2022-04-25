@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Elloe, AI-powered Conversational Commerce Startup, Exceeds $1M Target and Closes 7-figure Pre-Seed Round."
-excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of"
-publishedDateTime: 2022-04-22T22:35:00Z
-originalUrl: "https://www.digitaljournal.com/pr/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
-webUrl: "https://www.digitaljournal.com/pr/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
+excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of financing. The round was led by Philippines Mad Ventures,"
+publishedDateTime: 2022-04-23T00:28:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-22-elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-22-elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
 type: article
-quality: 20
-heat: 20
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.abnewswire.com/uploads/1650621633.png"
-    width: 725
-    height: 664
-    isCached: true
-
-secured: "olF3qsLzmTRPpqBpYTofh1MIRf5qG0TqWMw5nOOAuuGcHXsqbn9AtUUfp8mNam2pJdpSd7QML6EbFRyZ1zB6R+sbjrZmuoDpOUQmYcr1prHNpA0myRUfKtqcVN0wIPbA2NY/sFQTV0gPWGZDbLTtOlJnpjol0Vs5WmZCgcDdgjrkA2PV6kU3TZ6UbRCprbx7ns9hrRKQshhL4+aGhYi7ys9+P1EA9ZAgysPTnUMaiTQeDcjADlzW2eZgKEiH6qJKwQ/uEgk1TXBFO+1T+lUwBtLKPR6xY4zjo3iDgSsgSa29xz4c1WFBdxHFAdWKcOh32NT6y6fbU5JIJiXG2B8xtRQJKbb/b7z9AqZB5Lj4Cxw=;NsaYLgL+z3R85wkWL3StUA=="
+secured: "vuXtswOr/jbFCtjtrYeTjAGD2lGnCYuP4SzCBh/w5Ji+bYq6s3xc9ucgEUg40l5/VqMH/ModTwqDiv7BvXrE92Tnhq+JV6E2ER+7oR6I3GTkb8fAQusdjlA1d6e6uSk/yZm3A3e4utYCVGoOJSC49Dg7FcfinwEmzHg/6YZpU+H8Ue16qjo60mDnJLzWnzuJTsRRidVis2lnmkjaVYQCK5k9apduXFVXac7uB0uYT9MO872xeDbAKnv2RRTVg0IK3e2b46PDITkbc9P/LYlmSl1dH0PpYpxubHuruIOXyqynjHq3WTsWVrJrjfyYpKlpULIX+6Nz58O8IzG8FPH0dzz4hy/OKx6Bkpi3yTUMTzzuUJ3yrf6uI5Z4hhgc+qXFhNFVDNaJHbvSgV/XIVZeC1LX7ajgoIHCcDT2wd3LQyU01pwWIePani7BMdZmzzJshtfUDAkJCZmE3swFBbC2MpXy1KIdXeCKgLqbJNLQ3g5l3riRdnM8D3V42p1UxzVVmfht4N0asnbuhxCKXy14Sg==;UCRZKAtEHd4aY7mMqAIHyQ=="
 ---
 

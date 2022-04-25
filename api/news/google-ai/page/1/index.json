@@ -55,6 +55,112 @@
       ]
     },
     {
+      "path": "_news/2022-04-16-build-tensorflow-lite-for-android.md",
+      "title": "Build TensorFlow Lite for Android",
+      "excerpt": "This document describes how to build TensorFlow Lite Android library on your own. Normally, you do not need to locally build TensorFlow Lite Android library. If you just want to use it, the easiest way is using the TensorFlow Lite AAR hosted at MavenCentral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/lite_build",
+      "originalUrl": "https://www.tensorflow.org/lite/android/lite_build",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-04-16-tensorflow-lite-hexagon-delegate.md",
+      "title": "TensorFlow Lite Hexagon delegate",
+      "excerpt": "This document explains how to use the TensorFlow Lite Hexagon Delegate in your application using the Java and/or C API. The delegate leverages the Qualcomm Hexagon library to execute quantized kernels on the DSP. Note that the delegate is intended to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/delegates/hexagon",
+      "originalUrl": "https://www.tensorflow.org/lite/android/delegates/hexagon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-04-16-tensorflow-lite-nnapi-delegate.md",
       "title": "TensorFlow Lite NNAPI delegate",
       "excerpt": "The Android Neural Networks API (NNAPI) is available on all Android devices running Android 8.1 (API level 27) or higher. It provides acceleration for TensorFlow Lite models on Android devices with supported hardware accelerators including: Graphics ...",
@@ -481,6 +587,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-alphabets-other-bet-a-deep-dive-into-deepmind.md",
+      "title": "Alphabet's Other Bet: A Deep Dive Into DeepMind",
+      "excerpt": "DeepMind has evolved from a small startup into a promising part of Alphabet. In 2020, cash flow was positive for the first time, and revenue tripled compared to the previous year. DeepMind's ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
+      "originalUrl": "https://seekingalpha.com/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1299482930/image_1299482930.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
+      "publishedDateTime": "2022-04-04T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1346,165 +1495,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-contribute-to-tensorflow-special-interest-groups-sigs.md",
-      "title": "Contribute to TensorFlow Special Interest Groups (SIGs)",
-      "excerpt": "The TensorFlow Special Interest Groups (TF SIGs) organize community contributions to key parts of the TensorFlow ecosystem. SIG leads and members work together to build and support important TensorFlow use cases. SIGs are led by members of the open source ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/community/contribute/sigs",
-      "originalUrl": "https://www.tensorflow.org/community/contribute/sigs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-linkedin-and-deepmind-co-founders-form-ai-startup-to-help-humans-talk-to-computers.md",
-      "title": "LinkedIn and DeepMind co-founders form AI startup to help humans talk to computers",
-      "excerpt": "CNBC reports LinkedIn co-founder Reid Hoffman and DeepMind co-founder Mustafa Suleyman (pictured above) have formed Inflection AI, a company that will use artificial intelligence software to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/linkedin-deepmind-co-founders-inflection-startup-171543930.html",
-      "originalUrl": "https://www.engadget.com/linkedin-deepmind-co-founders-inflection-startup-171543930.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/42fa7ef0-9efd-11ec-aff2-3c1d5945b1a7",
-          "width": 5496,
-          "height": 3664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/linkedin-deepmind-co-founders-inflection-startup-171543930.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/linkedin-deepmind-co-founders-inflection-startup-171543930.html",
-      "publishedDateTime": "2022-03-15T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-tensorflowjs-is-a-library-for-machine-learning-in-javascript.md",
-      "title": "TensorFlow.js is a library for machine learning in JavaScript",
-      "excerpt": "Tutorials show you how to use TensorFlow.js with complete, end-to-end examples.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/js/?hl=fi-fi",
-      "originalUrl": "https://www.tensorflow.org/js/?hl=fi-fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png?hl=fi-fi",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

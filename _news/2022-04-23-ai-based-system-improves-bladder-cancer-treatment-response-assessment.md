@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220422/AI-based-system-impro
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:

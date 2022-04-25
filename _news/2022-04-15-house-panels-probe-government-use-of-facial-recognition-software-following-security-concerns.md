@@ -3,15 +3,15 @@ category: news
 title: "House panels probe government use of facial recognition software following security concerns"
 excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
 publishedDateTime: 2022-04-14T19:47:00Z
-originalUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-webUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-ampWebUrl: "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+originalUrl: "https://www.wcvb.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+webUrl: "https://www.wcvb.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+ampWebUrl: "https://www.wcvb.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
 type: article
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - Computer Vision
@@ -24,6 +24,6 @@ images:
     height: 677
     isCached: true
 
-secured: "er6qz3IM+S0IjzVTNTuXzEo+0WTVneIOLkk7kO6VI9BhTMclZkLmpJ948qL4s0s8DXIzxwdiCQoyMUqzlFdnrpVKCMUVT/rqrn6xdBjRIZX7A3rI8tuaGZDPPHbBxBMMWGYo9R3/uL2mT1CAQW+bQLqJ4XS67dtJoh3g68rtN3Kwv2BnObThme53W48yjSAVPwUdQ5cgM1KYonH0DTlsnP8eI6hvFNpCTa4nlRzJBe/tAr3XCb01qQxVZJ7Z8N1dlOdJgopivkUtEaB6uDsCLgS+Cd+o3k7OJv3BwZXW67dBk9jX0G+vQxjlmpflbMplLdrziy0M8Y5c1/KLVn+Ifvvga+VNQuknOk6MqUkbWM8=;bSOJcI11UHEZAguNN9wEcg=="
+secured: "zaospj+uneiRg500ezZM1vyd7DBW3SbiaDpNGgVvEVZ2VW0FvYEiPX6iDvIbenW0oSipQoCBhy0DipwIr2g/CBC6zDQORF3MXLwefImgGkE9mr2q9zmu8MAi5TOzFtES38kQSodInhEGeRK5nvZIHNhFUMSxqsjxbvAa5rg29eiNw/wvAuh/CzVh2/aE/W7BOPaJ87IPAJx6KZ9zaxz4wd363HhQIQOtUuCn6S7mSlHwb+pWI+/murX86KcgWdHIUIwTwRLikrNHF9g4SrhWO8KGixHY+j5qgxEfC2N9yENngdvX51tDoXIKN0GJLYKjTSDhGapjDCfqTHCWHMo9UId8EaYJq39RUvoELQUJWl4=;W105B+azt26lOtVodpFv2g=="
 ---
 

@@ -1045,6 +1045,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-04-best-robot-mops-in-2022.md",
+      "title": "Best robot mops in 2022",
+      "excerpt": "Instead of an app, the W400 is controlled via remote control ... However, it’s worth bearing in mind that the majority of robot mops will only work with water, with the exception of iRobot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/best-picks/best-robot-mops",
+      "originalUrl": "https://www.tomsguide.com/best-picks/best-robot-mops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/noMRtpNidEfZTENqsVYkdC-1200-80.jpg",
+          "width": 998,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-others.md",
       "title": "Insights on the Entertainment Robot Global Market to 2026 - Featuring Lego, Sony and Hasbro Among Others",
       "excerpt": "The \"Entertainment Robot Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The entertainment robot market is",
@@ -1368,59 +1411,6 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-boston-dynamics-spot-is-being-tested-as-a-robotic-security-guard-protecting-the-remains-of-pompeii.md",
-      "title": "Boston Dynamics' Spot Is Being Tested as a Robotic Security Guard Protecting the Remains of Pompeii",
-      "excerpt": "Serving as a robotic security guard might feel like a dystopic use of the amazing technology powering Boston Dynamics’ Spot, but the robotic dog is actually well suited to protecting a historically significant area like Pompeii,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539",
-      "originalUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/f6a978c9f31ae8972ef8b84f56b07f90.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539/amp",
-      "publishedDateTime": "2022-03-31T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -101,17 +101,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
-  - title: "The Nation's #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
-    excerpt: "Loan Factory, the nation's #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
-    publishedDateTime: 2022-04-20T05:16:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 0
 
 secured: "FwFRGE3RVYTe7X9LW8hkIivorYwYQnyYcpu7WTNKGdipjiVSi6xi+2Sa4LZWPyY/kBLVFydxavw0BBvp7VT7hcOj7rDvf17tS1YmnU3jDMgomkdLhdXLEreIIjQRl7pqt/gLA1Os4GM4tW4di8621LEt/KUdDESs3kqA8Q0MdwHQ4qSdslVEbDlDUWGygqqYS5tmCdn4NGenpSNlLsPKzo3VD0/5no+8nO4X7C/eL4XxrA0LyO0nr1/tcrpAVc9clYx0tWl7Q/8eg6lIfpE0A1k7zfBDU71JPjRncRPVJmIcz/vYt/dK09utDMi5nHVEhRq9A+lOPVOow6GVGHzLCV6XWpiAzIDNjlX+N+zVWN0=;wfQnJ7bSTNjY5ilmNYu9Rg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-final
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
 type: article
 quality: 76
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -196,6 +196,15 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "Self driving along the trip - Washington Forum"
+    excerpt: "Are you really driving all over the US, or are you sticking to the East Coast. This is the forum for the real Washington ~ the state!"
+    publishedDateTime: 2022-04-24T22:45:00Z
+    webUrl: "https://www.tripadvisor.com.au/ShowTopic-g28968-i73-k10368836-Self_driving_along_the_trip-Washington.html"
+    type: article
+    provider:
+      name: TripAdvisor
+      domain: tripadvisor.com.au
+    quality: 19
 
 secured: "Uzt8cyBC4yCJmvm4Qi87dw8+es2anjpetAFyWGgrVvstzIuivncXsqEf3SWwYqJn3Mjgn3yxMRlKiKcNmXwCfbb2n09lTxFx86THmU4ERe+LBCZZ2FMJEIf5l5yCqoIEifAAYEgmiaiKG5jPcu1VRFEJKibMhRNU/mcjFB3silaIXuLxlPWbNB/7hysDYf4c5U7eT6dV4zGoQpriHUvxKI11zjQY2hb/WfGa2FCSd3Jid3+qBELeXp3R/bqgB+v2xxbYiU1EJQCG7PatYXyJ+2m0045J0fbCBqkJi0TiZ4Q/PK3sSDKqlF8kDsXfnotPMhO04v0+SHLAPW3oonfmPRDX0FN2LCxGsJ5HyB6r02ZKGt/UKyrAiapPI9E32xHHXbPaAmBes9JslJhNNwMF5oGkRtLmnW7bg33ZDq3+y5w8Xyrr0t+oE5tM1fJmrcq0HUlzLfH0acpeL9mp5tcIABMOzyzG/detSClmD7wROLaKVkXUdgST0ZC8VfVyZcuKP2g8ftMfNuf+BkHuL9I2dw==;gBXrcs89q+5R/lIIYUb/GQ=="
 ---

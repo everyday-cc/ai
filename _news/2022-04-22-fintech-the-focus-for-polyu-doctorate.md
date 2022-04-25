@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-s
 webUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-sets-polyu-apart/article/3174777/fintech-focus-polyu"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -105,17 +105,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
-  - title: "The Nation's #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
-    excerpt: "Loan Factory, the nation's #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
-    publishedDateTime: 2022-04-20T05:16:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 0
 
 secured: "BKYJZP/2+6jblbGV9P8TPSSTu8dlIJXNADsaACUXnoHq5AM6R1OA7LkpETOZY9H/D5DtYYS9c686PRTd6mDWBrFW5xu+8SsSHQaQw6BDzEevUnPACg246qSNm67KQ1wEUrZ7Ll00linckU4UYj5y5Sj77y6kgQjZMU9+SyaIau/4klZIt2V1w0cvHgnZRzAipXK+HI2LBVnN1pTCa2Dk9PYew712iot4zHwPtH8Ol6vJxbO2hmP5JtKqu6OWTOpVeHKnXxLcZ110sWMmEzR39K9N4UyZzebwWXno7Z65HWgBtW76Ih7H62tqQNztC6cgX5t4rL2onlnK3XLK5zoF9A48P/2HTwJTrRYtQjwcV2M=;tIyaJVVluJpJ1lSCEeokDw=="
 ---

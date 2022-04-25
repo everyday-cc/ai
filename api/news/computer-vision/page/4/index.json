@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-11-tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders.md",
+      "title": "tinyML’s Role in Enabling Computer Vision at the Edge – Thought Leaders",
+      "excerpt": "Founder & Chief Product Officer, Deeplite Computer vision has great potential to improve our everyday lives – and there are many applications and uses for it. A few examples include: Smart doorbells for home security help prevent “porch pirates” and break-ins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders/",
+      "originalUrl": "https://www.unite.ai/tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:595/q:auto/https://www.unite.ai/wp-content/uploads/2019/12/computer-vision1-e1575654264450.png",
+          "width": 1000,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-online-sleuths-are-using-face-recognition-to-id-russian-soldiers.md",
+      "title": "Online Sleuths Are Using Face Recognition to ID Russian Soldiers",
+      "excerpt": "Within about an hour, using face recognition services available to anyone online, he identified that the soldier was likely Hussein Mezhidov, a Chechen commander close to Kadyrov involved in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/facial-recognition-identify-russian-soldiers/",
+      "originalUrl": "https://www.wired.com/story/facial-recognition-identify-russian-soldiers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62290fb9e9f8d17d4c9f8153/master/pass/Business_Russian%20Soldier-1238022567.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/facial-recognition-identify-russian-soldiers/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-identify-russian-soldiers/amp",
+      "publishedDateTime": "2022-03-10T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-this-app-can-diagnose-rare-diseases-from-a-childs-face.md",
+      "title": "This App Can Diagnose Rare Diseases From a Child's Face",
+      "excerpt": "In 2012, Moti Shniberg sold his face recognition startup to Facebook and started looking for a new challenge. “We wanted to take our expertise and do something good,” he says. Then he met the head of a medical genetics center, who explained the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/",
+      "originalUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62211b214c3ecf8a19eb6d10/master/pass/Business_Glass%20DNA%20Structure-1133773271.jpg",
+          "width": 2400,
+          "height": 1595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/app-diagnose-rare-diseases-childs-face/amp",
+      "publishedDateTime": "2022-03-08T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.md",
       "title": "Clearview AI commercialization of facial recognition raises concerns, risks",
       "excerpt": "Facial recognition as a service has caught the attention of regulators and litigators. CISOs at companies considering the technology need strong privacy protections in place.",
@@ -1195,136 +1342,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-irs-doesnt-completely-scrap-facial-recognition-just-makes-it-optional.md",
-      "title": "IRS doesn't completely scrap facial recognition, just makes it optional",
-      "excerpt": "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/02/23/irs_facial_deletion/",
-      "originalUrl": "https://www.theregister.com/2022/02/23/irs_facial_deletion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg",
-          "width": 1000,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/",
-      "publishedDateTime": "2022-02-22T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-irs-offers-alternative-to-facial-recognition.md",
-      "title": "IRS offers alternative to facial recognition",
-      "excerpt": "A short-term option involves a virtual interview with IRS personnel to authenticate taxpayers’ and practitioners’ identities for online services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html",
-      "originalUrl": "https://www.thetaxadviser.com/news/2022/feb/irs-offers-alternative-to-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetaxadviser.com/content/dam/tta/tta-default-cover-image.jpg",
-          "width": 255,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tax Adviser",
-        "domain": "thetaxadviser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-facial-recognition-technology-faces-mounting-legal-ethical-questions.md",
-      "title": "Facial recognition technology faces mounting legal, ethical questions",
-      "excerpt": "Facebook's parent company, Meta, is under scrutiny for its use of facial recognition technology from 2009 until late 2021. The Texas Attorney General, Ken Paxton, filed a lawsuit in mid-February, seeking damages related to Facebook's photo services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
-      "originalUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cc0c13f/2147483647/strip/true/crop/702x395+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff4%2F94%2Fd4d0abae4343a0b874f0fcaff0a7%2Fscreen-shot-2022-02-22-at-3.01.08%20PM.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
-      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/facial-recognition-technology-faces-mounting-legal-ethical-questions?_amp=true",
-      "publishedDateTime": "2022-02-22T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,490 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-03-16-ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai.md",
+      "title": "AI Startup Modern Intelligence Raises $5M to Launch Innovative Maritime Surveillance AI",
+      "excerpt": "AI startup Modern Intelligence has secured a $5 million seed round, the company announced today. Led by Bedrock founder and managing partner Geoff Lewis, with participation of Vine Ventures, Air Street Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://fox2now.com/business/press-releases/cision/20220316DA93531/ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai/",
+      "originalUrl": "https://fox2now.com/business/press-releases/cision/20220316DA93531/ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/03/400x225-Kenny-Chesney.jpg?w=2000&#038;ssl=1",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox2Now St. Louis",
+        "domain": "fox2now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere.md",
+      "title": "London School of Business & Finance’s Digital Academy Set to Further Develop Student Skills in the Digital and Tech Sphere",
+      "excerpt": "London School of Business & Finance’s Digital Academy Set to Further Develop Student Skills in the Digital and Tech Sphere",
+      "sourceUrl": null,
+      "webUrl": "https://www.fenews.co.uk/education/london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere/",
+      "originalUrl": "https://www.fenews.co.uk/education/london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fenews.co.uk/wp-content/uploads/2022/03/Shane-De-Fonseka.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fenews.co.uk",
+        "domain": "fenews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-gene-therapy-global-market-report-2022.md",
+      "title": "Gene Therapy Global Market Report 2022",
+      "excerpt": "IS YOUR LUCKY DAY] For only $7, get 2 bear market beating options trade straight to your inbox and SMS every month! Click Here Now to Get Started! New York, March 16, 2022 (GLOBE NEWSWIRE) -- Reportlinker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g26165499/gene-therapy-global-market-report-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26165499",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26165499",
+      "publishedDateTime": "2022-03-16T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-self-driving-lab-speeds-up-research-synthesis-of-energy-materials.md",
+      "title": "'Self-driving' lab speeds up research, synthesis of energy materials",
+      "excerpt": "Researchers from North Carolina State University and the University at Buffalo have developed and demonstrated a \"self-driving lab\" that uses artificial intelligence (AI) and fluidic systems to advance our understanding of metal halide perovskite (MHP) nanocrystals.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.html",
+      "originalUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-lab-speed.jpg",
+          "width": 1776,
+          "height": 1775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-03-self-driving-lab-synthesis-energy-materials.amp",
+      "publishedDateTime": "2022-03-16T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-34m.md",
+      "title": "Seattle computer vision startup led by former HoloLens scientist lands $3.4M",
+      "excerpt": "The tech: The Seattle startup’s computer vision technology can analyze complex manual steps, offer alerts when mistakes happen, and measure the amount of time spent on each step in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/",
+      "originalUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Fy3z8ATGwck/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/amp/",
+      "publishedDateTime": "2022-03-16T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-anyline-visibility-and-control-are-consumers-priorities-for-last-mile-delivery-with-96-indicating-a-desire-for-gps-delivery-tracking.md",
+      "title": "Anyline: Visibility and Control Are Consumers' Priorities for Last-Mile Delivery, With 96% Indicating a Desire for GPS Delivery Tracking",
+      "excerpt": "Additionally, 88% of respondents to Anyline's 2022 consumer survey said the ability to redirect deliveries would be useful Anyline, a market leader in mobile data capture, today announced findings",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-03/55517829-anyline-visibility-and-control-are-consumers-priorities-for-last-mile-delivery-with-96-indicating-a-desire-for-gps-delivery-tracking-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-03/55517829-anyline-visibility-and-control-are-consumers-priorities-for-last-mile-delivery-with-96-indicating-a-desire-for-gps-delivery-tracking-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-visionifyais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line.md",
+      "title": "Visionify.ai's Computer Vision Technology to Propel General Shale's Brick Inspection Process on Manufacturing Line",
+      "excerpt": "Visionify.ai, a computer vision technology company that provides turnkey solutions to its customers, today announced it is now a solutions provider for one of General Shale's brick plants. General Shale's family of brands manufacture and supplies high-quality thin bricks for residential and commercial construction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/visionify-ais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line/article_2ccc5b44-9144-527d-95f9-dd8f6189de16.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/visionify-ais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line/article_2ccc5b44-9144-527d-95f9-dd8f6189de16.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine.md",
+      "title": "The Vulnerability of Artificial Intelligence Systems May Explain Why They Haven’t Been Used Extensively in Ukraine",
+      "excerpt": "The news that Ukraine is using facial recognition software is noteworthy largely because it’s one of few documented uses of artificial intelligence in the conflict. A Georgetown University thinktank is trying to figure out why while advising U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/erictegler/2022/03/16/the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine/",
+      "originalUrl": "https://www.forbes.com/sites/erictegler/2022/03/16/the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622fffc7ffe970bf655a46d1/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2022/03/16/the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2022/03/16/the-vulnerability-of-artificial-intelligence-systems-may-explain-why-they-havent-been-used-extensively-in-ukraine/amp/",
+      "publishedDateTime": "2022-03-16T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-artificial-intelligence-is-taking-on-parkinsons-disease.md",
+      "title": "Artificial Intelligence is Taking on Parkinson's Disease",
+      "excerpt": "A Machine Learning Study AiSupremacy is all about covering the biggest stories I can find in artificial intelligence. You can also find me on iOS via a notification, if you prefer that to checking your Email.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-taking-parkinsons-disease-michael-spencer-",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-taking-parkinsons-disease-michael-spencer-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQERc29_oRwm3w/article-cover_image-shrink_720_1280/0/1647433140959?e=1654128000&v=beta&t=HL-KT3nKrl-3Q1xwc0e3BB9yxXvRt527mquXg38wa3E",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-natural-language-processing-for-finance-market-see-huge-growth-for-new-normal-bloomberg-yahoo-google-finance.md",
+      "title": "Natural Language Processing for Finance Market See Huge Growth for New Normal | Bloomberg, Yahoo, Google Finance",
+      "excerpt": "Mar 16, 2022 (Heraldkeepers) -- Natural Language Processing for Finance Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-finance-market-see-huge-growth-for-new-normal-bloomberg-yahoo-google-finance-2022-03-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-finance-market-see-huge-growth-for-new-normal-bloomberg-yahoo-google-finance-2022-03-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-israeli-neuroscientists-use-artificial-intelligence-to-reassess-studies-on-consciousness.md",
+      "title": "Israeli neuroscientists use artificial intelligence to reassess studies on consciousness",
+      "excerpt": "Israeli neuroscientists reexamine hundreds of contradictory experiments on the connection between neural activity and consciousness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.israelnationalnews.com/news/324067",
+      "originalUrl": "https://www.israelnationalnews.com/news/324067",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arutz Sheva",
+        "domain": "israelnationalnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-andrej-karpathy-recreates-a-33-year-old-deep-learning-paper.md",
       "title": "Andrej Karpathy recreates a 33-year-old deep learning paper",
       "excerpt": "It has been 33 years since the paper was first published. But according to a fun experiment conducted by Tesla’s director of AI, Andrej Karpathy, the paper holds good even now.",
@@ -602,498 +1086,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform.md",
-      "title": "SXSW: Facebook whistleblower Frances Haugen on social media reform",
-      "excerpt": "“Facebook has claimed third party fact checking will save us; AI will save us ... to click on an article before sharing it — saying research shows that “tiny bit of friction” lowers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/news/sxsw/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/",
-      "originalUrl": "https://www.kxan.com/news/sxsw/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2021/12/378636513c1849f7b81694294344adc7.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/news/sxsw/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/sxsw/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/amp/",
-      "publishedDateTime": "2022-03-15T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-solving-big-problems-with-computer-vision-deep-learning.md",
-      "title": "Solving big problems with computer vision & deep learning",
-      "excerpt": "And the winners were both startups from India. Deep learning solution for hearing impaired Jayasudan Munsamy Jayasudan Munsamy and Arul Praveen T’s DeepVisionTech won two of the three awards ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/articleshow/90250024.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/articleshow/90250024.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-90250298,width-1070,height-580,imgsize-8098,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/amp_articleshow/90250024.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/startups/trend-tracking/solving-big-problems-with-computer-vision-deep-learning/amp_articleshow/90250024.cms",
-      "publishedDateTime": "2022-03-15T20:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-crisis-data-an-ethics-case-study.md",
-      "title": "Crisis Data: An Ethics Case Study",
-      "excerpt": "Politico published an article about a nonprofit called Crisis Text Line, which offers support via text messages for people who are going through mental health crises. For years, the nonprofit had been collecting a database of messages exchanged,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
-      "originalUrl": "https://www.scu.edu/ethics/focus-areas/internet-ethics/resources/crisis-data-an-ethics-case-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scu.edu/media/ethics-center/internet-ethics/8265910706_0851f637c0_z-360x225.jpg",
-          "width": 360,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Santa Clara University",
-        "domain": "scu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training.md",
-      "title": "Run:AI lands $75M to dynamically allocate hardware resources for AI training",
-      "excerpt": "This in turn enables models that would otherwise be constrained by hardware, chiefly GPU memory, to run ostensibly unimpeded on-premises, on public clouds, or at the edge. Exactly how Run ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/",
-      "originalUrl": "https://venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-582649612.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/15/runai-lands-75m-to-dynamically-allocate-hardware-resources-for-ai-training/amp/",
-      "publishedDateTime": "2022-03-15T19:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-amazon-launches-free-online-game-to-boost-aws-cloud-skills.md",
-      "title": "Amazon Launches Free Online Game To Boost AWS Cloud Skills",
-      "excerpt": "Amazon creates metaverse game AWS Cloud Quest to boost cloud computing skills for AWS certified cloud practitioners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/amazon-launches-metaverse-type-game-for-aws-cloud-training",
-      "originalUrl": "https://www.crn.com/news/cloud/amazon-launches-metaverse-type-game-for-aws-cloud-training",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0273-14ae73d3debe-a89ed4d9b3e1-1000/cloudquest-resized.jpg.jpeg",
-          "width": 599,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-can-robots-understand-welfare-exploring-machine-bureaucracies-in-welfare-to-work.md",
-      "title": "Can Robots Understand Welfare? Exploring Machine Bureaucracies in Welfare-to-Work",
-      "excerpt": "In several countries, these forms of market governance are now being eclipsed by new modes of digital governance that seek to reshape the delivery of services using algorithms and machine learning. Australia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/journal-of-social-policy/article/can-robots-understand-welfare-exploring-machine-bureaucracies-in-welfaretowork/488DC4BF167D98C5A3F92F4ABC69D68C",
-      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-social-policy/article/can-robots-understand-welfare-exploring-machine-bureaucracies-in-welfaretowork/488DC4BF167D98C5A3F92F4ABC69D68C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-the-downfall-of-one-of-the-worlds-biggest-brains.md",
-      "title": "The Downfall of One of the World’s Biggest Brains",
-      "excerpt": "In 2011, when Watson, IBM’s computer system played against champions ... What does this say about the promise of AI for medicine? I’m Lizzie O’Leary and you’re listening to what next ...",
-      "sourceUrl": null,
-      "webUrl": "https://slate.com/transcripts/MFJZV1plN0RuMmJZWTNvRGZNak9ZbnRHYTBxa1A0c2gyZTNaUS91djBHOD0=",
-      "originalUrl": "https://slate.com/transcripts/MFJZV1plN0RuMmJZWTNvRGZNak9ZbnRHYTBxa1A0c2gyZTNaUS91djBHOD0=",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slate.com/media/sites/slate-com/icon.400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slate",
-        "domain": "slate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-inside-the-terrifying-future-of-shapeshifting-robots-that-will-manipulate-your-emotions.md",
-      "title": "Inside the terrifying future of shapeshifting robots that will manipulate your emotions",
-      "excerpt": "As humans work to become less socially robotic these days, robots are becoming more human-like. With recent advancements, robots could be shifting shapes, helping manage your emotions and much more. Have a look.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/03/15/robots-will-soon-be-able-to-shift-shapes-and-control-your-emotions/",
-      "originalUrl": "https://nypost.com/2022/03/15/robots-will-soon-be-able-to-shift-shapes-and-control-your-emotions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/03/emotion-robot.gif?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/03/15/robots-will-soon-be-able-to-shift-shapes-and-control-your-emotions/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/03/15/robots-will-soon-be-able-to-shift-shapes-and-control-your-emotions/amp/",
-      "publishedDateTime": "2022-03-15T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-gpt-3-the-breakthrough-on-ai-and-natural-language.md",
-      "title": "GPT-3 the breakthrough on AI and natural language.",
-      "excerpt": "In the artificial intelligence (AI) world, there has been a lot of hype around a newly developed technology known as GPT-3. GPT-3 was created by OpenAI, a research firm co-founded by Elon Musk, and has been considered the most important and rewarding advance in AI for many years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
-      "originalUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGStm_X3mjjoQ/article-cover_image-shrink_720_1280/0/1647375616110?e=1654128000&v=beta&t=OnmHorNprG3Z4N9d5vXP10zrNcLAkzDdRECOwGSU3Y4",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-runai-raises-75m-for-its-ai-platform.md",
-      "title": "Run:ai raises $75M for its AI platform",
-      "excerpt": "Tel Aviv-based Run:ai, a startup that makes it easier for developers and operations teams to manage and optimize their AI infrastructure, today announced that it has raised a $75 million Series C ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/",
-      "originalUrl": "https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-578633163.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/amp/",
-      "publishedDateTime": "2022-03-15T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-on1-announces-resize-ai-machine-learning-makes-it-on1s-most-advanced-enlargement-app.md",
-      "title": "ON1 announces Resize AI: Machine learning makes it ON1's most advanced enlargement app",
-      "excerpt": "Have you ever wanted to make a large print from a small file? If so, you've likely used some form of photo enlargement. While traditional technology uses interpolation, ON1's new Resize AI app uses machine learning to recreate detail as you increase the pixels in your photos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app",
-      "originalUrl": "https://www.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2.img-dpreview.com/files/p/E~TS590x0~articles/6778688427/CleanShot_2022-03-15_at_14.02.51.jpeg",
-          "width": 590,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app.amp",
-      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/6778688427/on1-announces-resize-ai-machine-learning-makes-it-on1-s-most-advanced-enlargement-app.amp",
-      "publishedDateTime": "2022-03-15T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Photography Review",
-        "domain": "dpreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
