@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-03-18-how-ai-is-a-great-tool-to-improve-your-business-search-results.md",
+      "title": "How AI is a Great Tool to Improve Your Business Search Results",
+      "excerpt": "AI can also assist with search engine ranking page analysis, keyword research, and much more. According to statistics, 30 % of businesses that used AI in SEO reported a 6-10% revenue increase after implementing the technology. Notably, AI has significantly ...",
+      "sourceUrl": null,
+      "webUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/",
+      "originalUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gisuser.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-17-at-10.04.35-AM-1024x678.png",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/amp/",
+      "cdnAmpWebUrl": "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/amp/",
+      "publishedDateTime": "2022-03-17T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gisuser.com",
+        "domain": "gisuser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-microsoft-edge-can-now-generate-image-descriptions-for-screen-readers.md",
       "title": "Microsoft Edge Can Now Generate Image Descriptions for Screen Readers",
       "excerpt": "Microsoft Edge is now capable of generating automatic images descriptions for users browsing the web with screen readers. The accessibility feature uses Azure Cognitive Services intelligence to generate alt text for web images that do not include it.",
@@ -1050,49 +1093,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-face-recognitions-staying-power.md",
-      "title": "Face recognition's staying power",
-      "excerpt": "Facial recognition's deployment in everyday consumer devices, like iPhone's Face ID, has accustomed much of the public to its use. A Pew survey from 2019 showed that a majority of U.S. respondents trusted law enforcement to use facial recognition responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/facial-recognition-staying-power-government-irs-10701d9f-3553-43c2-a55e-d064625c1970.html",
-      "originalUrl": "https://www.axios.com/facial-recognition-staying-power-government-irs-10701d9f-3553-43c2-a55e-d064625c1970.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/Fh1y13RZxNbIVY2Ec-cVVh3P8AM=/0x0:1920x1080/1366x768/2022/03/16/1647467072256.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

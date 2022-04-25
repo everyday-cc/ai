@@ -48,15 +48,6 @@ related:
         width: 300
         height: 257
         isCached: true
-  - title: "PreciseDx's AI-Enabled Digital Pathology Is the First Proven to Detect Early-Stage Parkinson's Disease"
-    excerpt: "In a collaboration with The Michael J. Fox Foundation, de novo study finds PreciseDx's technology can accurately diagnose Parkinson's disease in living patients prior to severe onset of symptoms"
-    publishedDateTime: 2022-04-20T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/precisedxs-ai-enabled-digital-pathology-is-the-first-proven-to-detect-early-stage-parkinsons-disease/article_f3a87842-f2c4-5f57-bed7-20d97d8d1e15.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 1
 
 secured: "5oJkZrmeSWWeCIFMIZipSLt6brqkPaGKrFdtkPtBvrzyzn0TRI514HT4LltteVSdpGuNBKeGEHTnE949pScVDMlYoZS+TY43ECKXVIeKYdeXFfcm+BYLf0Crtv7K8Cot0ITfJFZFhAVbEPDc8iAzW5nbc4KGDcc9fUYdtvqYrBnm2CCCdYxEZt9c3i7ksOjl8AWXMOMhSiDKlTJK6G+TtIA/7pS8Qo5azqylDXH+6JTBF25QAral6yo8ER4SXsFuts5rGCpK2sKM4TYPmd+UZDXmFetug4kvPcaYrLtXoOg/SpvsXGYSvORRVO9pRCBLQmP68DoDVrDUDtrGskML4j9ymvg3rVXbrDsS/u09U5jz+HDArFNzhOZ+KqAG9loyb/5irI9e1KfSnkHDgVhDScpwdDpvdUGe6ARRGGqbdQfE4wIpzIzD/zOd/ub7m0QPNjykQdbKVDBKAYg4btUI07D8F0hX7KU111a+v32jRc69rSCN/seK4NBIYESp5bSbjJPpo11Bp8/XnvU1shmcig==;sBgbEXlpHGdzpbchynxtyw=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Has this startup cracked the code on AI-powered design?"
 excerpt: "AI is coming to the design industry. Actually, it’s already here. The past few years have seen a range of players, from small startups to big institutions,"
-publishedDateTime: 2022-04-14T21:00:00Z
-originalUrl: "https://businessofhome.com/articles/has-this-startup-cracked-the-code-on-ai-powered-design.html"
-webUrl: "https://businessofhome.com/articles/has-this-startup-cracked-the-code-on-ai-powered-design.html"
+publishedDateTime: 2022-04-14T20:00:00Z
+originalUrl: "https://businessofhome.com/articles/has-this-startup-cracked-the-code-on-ai-powered-design"
+webUrl: "https://businessofhome.com/articles/has-this-startup-cracked-the-code-on-ai-powered-design"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 687
     isCached: true
 
-secured: "HMpx6ocrh23uCKPSiGlosU3/vXDqa8hORT47r8Zp79E6CyrgTQZnvIJ1Z6LP8I5MkyLE46jv+0WWmchu0ibCHp2PcCjP79nyKqL3oway66Dp7Cd+Jvi2FjIVJ3ED78TO9X+zZRmvgaqiYGypRNy9RS6GCmRGVPlM+tY//bmWFUdpjTGlxfbgJ2SNdI91ZD88QcIzmcziVdG6NBOiyrCCvTySTxW9TO+pFme1W3lh7YbSgOH/KiFwy7PvUS8q2349yfqxEfpXESAJpaK9sVe9b2ArIAMgksuKOlMfFkZ1xj00zoGlbnqB4Vqukgu2Drd/0Dj86KpvLCffJR7RThLZ6Vo00AD8b2s0gmKZCF31P2WxvM/+mMoTccoUfCqA3xEggColxoAEqKCRlgm+j3ZyE+1fRblqELaQEvjWDla945/2STNBBHbD/g0ovv/12vcBgOc1ywyNoFOeg+jfQM/uLA6We3cYjqUibu/T1em3T/h+jSJ2wcLGoiDA0Q8OpNmb+FUdu6uQTduVZeF8TMM40A==;IWZKaphY3q2uHtM2uLolwQ=="
+secured: "I9Owlg8TbX+YJnBGMyKxsPPg6JbkwPd/CIxgFpBRV/fc/BSM1VR9hfCu+8VPPeHdv9SR++mFB3pSxVkAM3aX+/1ZKJxi8F3lwIDZR5tA9UABPLKBY+0keeea28nAH7W0lxVcK2S8wA9QO3JRsLJHPZWtx59gVelHv0d6xFC7CD6PVfuw23bbbO8LINhB2qGRIJ1Qjd5VgV0T55FM/c1Z2xgjyk+aPIOkbgxPa8YLRPxdBpU2MOMqY4LkcAjxKuTDXxVDSUxL0YFOX5ukK2Ozrr6sTwwXBnLK6Ze9aXdrtI8Zq/QwU1O0EEPceymSLLPQsjzCZ3wEnk/ewr5dGqPFp7HhqpJUxG6IkQ4g5wEf3vQ=;Re/m2q6vSh++eR778zrArQ=="
 ---
 

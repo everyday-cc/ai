@@ -42,20 +42,6 @@ related:
         height: 740
         isCached: true
   - title: "Trust Stamp CEO to Speak at Rutgers Law Fintech and Blockchain Collaboratory"
-    excerpt: "Trust Stamp (Nasdaq: IDAI, Euronext Growth: AIID ID), the Privacy-First Identity CompanyTM providing AI-powered trust and identity services used globally across multiple sectors, today announces that Gareth Genner,"
-    publishedDateTime: 2022-04-20T12:32:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-blockchain-data-privacy-70febdd8e66cf2dc1c4bcce94691d990"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Trust Stamp CEO to Speak at Rutgers Law Fintech and Blockchain Collaboratory"
     excerpt: "ATLANTA, April 20, 2022 (GLOBE NEWSWIRE) -- Trust Stamp (Nasdaq: IDAI, Euronext Growth: AIID ID), the Privacy-First Identity CompanyTM providing AI-powered trust and identity ... hosted by the Rutgers Law School FinTech and Blockchain Collaboratory ..."
     publishedDateTime: 2022-04-23T11:59:00Z
     webUrl: "https://stockhouse.com/news/press-releases/2022/04/20/trust-stamp-ceo-to-speak-at-rutgers-law-fintech-and-blockchain-collaboratory"

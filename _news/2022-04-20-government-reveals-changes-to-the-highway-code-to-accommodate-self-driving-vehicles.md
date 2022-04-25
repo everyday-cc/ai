@@ -25,31 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla has now over 100,000 people in its Full Self-Driving Beta program – is an accelerated rate of improvement coming?"
-    excerpt: "Tesla CEO Elon Musk revealed that the automaker has now over 100,000 people in its Full Self-Driving (FSD) Beta program. Does it mean that we are going to start seeing an accelerated rate of ..."
-    publishedDateTime: 2022-04-20T11:09:00Z
-    webUrl: "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/"
-    ampWebUrl: "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/"
+  - title: "UK government says motorists will be allowed to watch TV in self-driving vehicles"
+    excerpt: "The UK government has confirmed planned revisions to the Highway Code to accommodate self-driving vehicles, including allowing drivers to watch TV while an AI takes the wheel. In a moment history may judge as legislative hubris,"
+    publishedDateTime: 2022-04-21T08:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/21/uk_self_driving_highway_code/?td=amp-keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 65
+      name: theregister
+      domain: theregister.com
+    quality: 39
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://regmedia.co.uk/2020/10/28/autonomous_car.jpg"
+        width: 1000
+        height: 585
         isCached: true
-  - title: "Highway Code to see major change to accommodate self-driving cars"
-    excerpt: "A proposed change to the Highway Code will see users of self-driving cars not being held responsible for crashes its vehicle might find itself in. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department ..."
-    publishedDateTime: 2022-04-20T13:27:00Z
-    webUrl: "https://www.newsshopper.co.uk/news/20080833.highway-code-see-major-change-accommodate-self-driving-cars/"
+  - title: "Highway Code's bizarre rules for self-driving cars - can I watch TV behind the wheel?"
+    excerpt: "New Highway Code rules proposed by the government's Department for Transport are likely to be in place later this year. They include allowing people to watch TV in self-driving cars"
+    publishedDateTime: 2022-04-23T06:00:00Z
+    webUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945"
+    ampWebUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
     type: article
     provider:
-      name: News Shopper
-      domain: newsshopper.co.uk
-    quality: 4
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 37
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Self-driving cars on UK roads – key questions answered"
     excerpt: "People travelling in self-driving cars will be allowed to watch television programmes and films behind the wheel under new changes to the Highway Code. The UK government is updating the rulebook in advance of the technology becoming legal across the four nations."
     publishedDateTime: 2022-04-20T13:10:00Z
@@ -59,6 +66,15 @@ related:
       name: Coventry Telegraph
       domain: coventrytelegraph.net
     quality: 4
+  - title: "Changes to The Highway Code will allow drivers to watch TV on in-built screens but not use mobile phones in self-driving cars"
+    excerpt: "Just months after some of the biggest changes in its history, The Highway Code is changing again and here's why."
+    publishedDateTime: 2022-04-20T13:52:00Z
+    webUrl: "https://www.lynnnews.co.uk/news/the-new-highway-code-rule-that-lets-you-watch-tv-but-says-ph-9250431/"
+    type: article
+    provider:
+      name: Lynn News
+      domain: lynnnews.co.uk
+    quality: 0
 
 secured: "lMDCLzeBuPrdAA1ARu6u6+5B2vezrASG6qR8uR7PZSMvSg7Z5jCI29m9Ey0gaAQpve79MHDfoogtIdAAaHQJrE4LaOfgX1Cs3kNLd7dPtAMtWx2fo1JfLTa+4E2uF5B0XgMOnGBNGxUYR6gKm0yy+fNShYDmLUP5ar6/87/160MznxUXYM/kPZz5V6i9oyFqFSFaNEEs9ABnfhDF+SCNl3jGqivIL1HPLUNhf+uYeQIZv5PHRtO9gkgu839c3ZJko9k0dwCjMXfYU4eVxmTGjsiIdF4qzG6CPNLa1856M2Fu2cojKwNJuUSFsWrMYo5EVdMif+oAMlzbH4rF1R+4Ztu8EECTl4aWbB/MsgJACCA=;hfNH/X6pz16bydqK4MPibw=="
 ---

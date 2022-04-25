@@ -1,29 +1,26 @@
 ---
 category: news
-title: "How medtech companies can help make AI-assisted surgery possible"
-excerpt: "PA Consulting medtech expert Dean Gray explains how medtech companies will play an important role in making AI-assisted surgery possible."
-publishedDateTime: 2022-04-20T14:07:00Z
-originalUrl: "https://www.paconsulting.com/newsroom/expert-opinion/med-device-online-how-medtech-companies-can-help-make-ai-assisted-surgery-possible-20-april-2022/"
-webUrl: "https://www.paconsulting.com/newsroom/expert-opinion/med-device-online-how-medtech-companies-can-help-make-ai-assisted-surgery-possible-20-april-2022/"
+title: "How Medtech Companies Can Help Make AI-assisted Surgery Possible"
+excerpt: "Future AI solutions could expand to help surgeons make better operative decisions, reduce risk and improve patient safety, and enhance performance. There are, however, significant technical and other challenges."
+publishedDateTime: 2022-04-20T04:18:00Z
+originalUrl: "https://www.meddeviceonline.com/doc/how-medtech-companies-can-help-make-ai-assisted-surgery-possible-0001"
+webUrl: "https://www.meddeviceonline.com/doc/how-medtech-companies-can-help-make-ai-assisted-surgery-possible-0001"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: PA Consulting Group
-  domain: paconsulting.com
+  name: Med Device Online
+  domain: meddeviceonline.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.paconsulting.com/globalassets/images/importedimage/115865-healthcare-avatar-image-hospital-900-x-450"
-    width: 900
-    height: 450
+  - url: "https://vertassets.blob.core.windows.net/image/fcb60b3d/fcb60b3d-6c64-4535-b5cd-c6989d50db2b/artificial_intelligence_gettyimages_1319573751.jpg"
+    width: 450
+    height: 300
     isCached: true
 
-secured: "PZHQIIqFtiOHnimEULvR9I4u+niIXSQ10qLBhl3qSr6ws+ZS6mRWuj45/kGB71ARob1k6ElYozTy8cgt4MeHxMtuAR/ySUMRjTzgtL0VvQGsHLYmDFECuPsrudS5ea20NenhHyFgMOvctyKZj0abdVfFivCjVb3fFpNDEfjSK1KKk+C8MJIXotFjTlqZge5YO02Gci6a61QXBPS/e5+L9vdQUXBmg4eNSAa3/5QOrZWwNg1Qd7+VTgFRsPUJk0cbuH5wHn3lgwFfsxE3g9cAzF1x6wxzkBfDBKdCV1RNYV+AkuH+U2V7VpId6bXnn545vh9FKNvBIdbZKbot22jKBvC+cYnPy3iEpfNru/TMWSMs+ijdGP1Qe04rrSGmsF5+YqOHbyqijZLshba/tY///JhwTETgIBfwa7xk6VkL6d28GIIA3zLUgWmBGPixFmb+W3NdfOIZhxjtVyo6pTO518L6ck4p+c/9AmdGo3Z3bVc/EMgrR67ikp+alFJ5nKjKAB1IrwiwJom/6L5Rk7KSpQ==;MDf2+O2zhKXBzbZvxdFxpg=="
+secured: "ntUGemQXmonmm7OeP+h9qSyOAtWDSvnTUKDcwgUtyrnYztAMaaApecWOWMS9Ktywl/ElkmgbhE6wLH6yz8mMCuB2kag0ZUrSnyIqVeMkgFbi0YvH2kV3xBdHXso3PCK+8ptG976DL441O/ir7Btn+tFJw1OudhZFW2pKMvS4UUYMnWzcjGkZXzeWQhuBjMKTdRtg8UhRqIHbnnwbpcsz3fDUaYCFu0TFAdc+DZDJf3huFuCTBPNWglJebakdt/d8AgKVZM7OWmyPWNvwhlx3t7kRNWyv4UTLVe1203DBzdjSsgkwafbFXR85UGu7Ji+XHaa/+ltFaxKJ4Uta/Whwkbryu/rv+QAUmU0JGHhYhOI=;Avm+sxFDnzBiiaJyObqM2g=="
 ---
 

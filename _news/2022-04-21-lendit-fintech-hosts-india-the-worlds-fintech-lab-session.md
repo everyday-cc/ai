@@ -86,6 +86,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Key Features To Consider Before Developing A FinTech App"
+    excerpt: "With AI-powered intelligent chatbots, there is a lot of space for considering and solving customer issues. And that’s a wrap! However, you will be spending a significant amount of money on your first fintech app development project so make sure you are ..."
+    publishedDateTime: 2022-04-25T05:52:00Z
+    webUrl: "https://techstory.in/key-features-to-consider-before-developing-a-fintech-app/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/04/pexels-christina-morillo-1181244-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
 
 secured: "bApMah0ppQ7Ctuo6+627SPBUvQHlR1iqAjeQ9Z28QpCEVfIUQWKOZL9KK39WOCY94N91LO+K3rztr9u5pjgaPNiLuBUAjVTyuAVbzgWeQnYA/uLYiuArQhKQe3EY7/Eu9GkeYu9sfap5WkatXn2Q14MrO9FtLhvfmFbKC4Sz3qiAt5uHf90BzNAQhXCfUBRozjlarqnFcz1Tg0j3S3D2rG9ClXWM8r+WJGiUFQJoQGisreIJ8VY8NVbNlo6ftKTTW+JVrw1MSuvsGgH4WejygKhpHFeu29W16raT70pq93lD1BpsG2hBcpAVjZMIx5jdz3qOB6yGPXRFEYOGA/31sA5B3wNm4EX0O/zcsSy4Po8=;SdpTIArjzExSFsXMaRPj/A=="
 ---

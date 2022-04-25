@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-final
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
 type: article
 quality: 76
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.slashgear.com/img/gallery/will-watching-tv-in-self-driving-cars-actually-be-legal-in-the-uk/l-intro-1650476409.jpg"
         width: 1600
         height: 898
-        isCached: true
-  - title: "Watching TV at the wheel to be allowed in 'self-driving' cars"
-    excerpt: "Changes to the Highway Code are set to make watching television at the wheel permissible for motorists travelling in a “self-driving” car."
-    publishedDateTime: 2022-04-20T11:50:00Z
-    webUrl: "https://www.am-online.com/news/latest-news/2022/04/20/watching-tv-at-the-wheel-to-be-allowed-in-self-driving-cars"
-    ampWebUrl: "https://www.am-online.com/amp/news/latest-news/2022/04/20/watching-tv-at-the-wheel-to-be-allowed-in-self-driving-cars"
-    cdnAmpWebUrl: "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/latest-news/2022/04/20/watching-tv-at-the-wheel-to-be-allowed-in-self-driving-cars"
-    type: article
-    provider:
-      name: AM-online
-      domain: am-online.com
-    quality: 44
-    images:
-      - url: "https://cdn.am-online.com/media/1/news-galleries/news/2014/1/8/what-does-the-driverless-car-mean-for-car-dealers-and-drivers-/34154/23957.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "UK to allow watching TV from behind the wheel of a self-driving car"
     excerpt: "This new policy will only be applicable for the people who own cars that are registered as “self-driving” under the British law."

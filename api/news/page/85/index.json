@@ -2,6 +2,57 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-02-08-cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home.md",
+      "title": "Cutting OPEX With Five New AI Workforce Optimizations To Place Broadband In Every Home",
+      "excerpt": "Bottom Line: For a viable telco business model, service providers need more operational efficiency. Five Ways To Empower Your Teams With AI Analytics For Better Service By empowering customer service professionals with the right AI analytics, telco staff ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62011fae3902ba8469b672f0/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/08/cutting-opex-with-five-new-ai-workforce-optimizations-to-place-broadband-in-every-home/amp/",
+      "publishedDateTime": "2022-02-08T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-data-society-joins-nvidia-partner-network-deep-learning-institute.md",
       "title": "Data Society Joins NVIDIA Partner Network, Deep Learning Institute",
       "excerpt": "Deep learning is at the core of the fastest-growing machine learning and AI fields. As an NPN member, Data Society will deliver instructor-led DLI courses to its clients’ teams to help them develop skills in advanced computing and quickly utilize their ...",
@@ -1103,40 +1154,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-raised-by-wolves-creator-on-fears-and-hopes-for-future-of-robots-and-artificial-intelligence.md",
-      "title": "Raised By Wolves creator on fears and hopes for future of robots and artificial intelligence",
-      "excerpt": "From the Terminator to 2001 and Blade Runner to the Matrix, artificial intelligence has been a science fiction staple for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ntnews.com.au/lifestyle/smart/raised-by-wolves-creator-on-fears-and-hopes-for-future-of-robots-and-artificial-intelligence/news-story/b300afbff28711329ae1d96194ef354e",
-      "originalUrl": "https://www.ntnews.com.au/lifestyle/smart/raised-by-wolves-creator-on-fears-and-hopes-for-future-of-robots-and-artificial-intelligence/news-story/b300afbff28711329ae1d96194ef354e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Northern Territory News",
-        "domain": "ntnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

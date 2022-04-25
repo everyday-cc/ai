@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Key Features To Consider Before Developing A FinTech App"
+    excerpt: "With AI-powered intelligent chatbots, there is a lot of space for considering and solving customer issues. And that’s a wrap! However, you will be spending a significant amount of money on your first fintech app development project so make sure you are ..."
+    publishedDateTime: 2022-04-25T05:52:00Z
+    webUrl: "https://techstory.in/key-features-to-consider-before-developing-a-fintech-app/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/04/pexels-christina-morillo-1181244-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
     publishedDateTime: 2022-04-20T18:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.finanzen.at/nachrichten/amp/nuclia-announces-$5-4m-seed-
 cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/nuclia-announces-$5-4m-seed-funding-to-advance-ai-powered-search-releases-open-source-nucliadb-1031368143"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -20,20 +20,15 @@ topics:
   - AI
 
 related:
-  - title: "Glacier Raises $4.5M to Combat Climate Change with AI-Powered Recycling Robots"
-    excerpt: "SAN FRANCISCO- Glacier, an innovation leader in AI-powered robotic waste technology, announced today that it has launched out of stealth and raised $4.5M in seed funding. The round was led by New Enterprise Associates (NEA),"
-    publishedDateTime: 2022-04-20T11:39:00Z
-    webUrl: "https://www.waste360.com/recycling/glacier-raises-45m-combat-climate-change-ai-powered-recycling-robots"
+  - title: "Nuclia raises $5.4 million to advance AI data search capabilities"
+    excerpt: "Nuclia, a startup offering AI-powered data search, raised $5.4 million in seed funding from Ealai and Crane Venture Partners. This seed funding round will"
+    publishedDateTime: 2022-04-21T16:23:00Z
+    webUrl: "https://www.techzine.eu/news/data-management/77518/nuclia-raises-5-4-million-to-advance-ai-data-search-capabilities/"
     type: article
     provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 33
-    images:
-      - url: "https://www.waste360.com/sites/waste360.com/files/uploads/2012/03/recycling.jpg"
-        width: 847
-        height: 567
-        isCached: true
+      name: techzine
+      domain: techzine.eu
+    quality: 17
   - title: "Nuclia Announces $5.4m Seed Funding to Advance AI-powered Search, Releases Open Source NucliaDB"
     excerpt: "Nuclia transforms access to unstructured data with AI-powered search that anyone can integrate in minutes, tapping into all their video, audio, and text . BARCELONA, Spain, April"
     publishedDateTime: 2022-04-20T13:20:00Z

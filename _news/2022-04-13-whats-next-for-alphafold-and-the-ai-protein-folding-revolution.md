@@ -3,8 +3,8 @@ category: news
 title: "What's next for AlphaFold and the AI protein-folding revolution"
 excerpt: "Then, last July, London-based firm DeepMind, part of Alphabet — Google’s parent company — made public an artificial intelligence (AI) tool called AlphaFold 2. The software could predict the 3D shape of proteins from their genetic sequence with,"
 publishedDateTime: 2022-04-13T09:26:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00997-5"
-webUrl: "https://www.nature.com/articles/d41586-022-00997-5"
+originalUrl: "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd"
+webUrl: "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Google AI
   - AI
 
-secured: "bvk/p4rkSntz378VRKK5qX2QxeWNZ6Pdq4qiQD2/5n+xeY0IElB1A4qJ9Rz5ZGs7o9O/kQgOj13NfVl0QsoVoCWHsNXHvON8Li/MWXpjvWpw33+oyOiPn5qtDaNNlfjYjNQ5jWRab0USCqEbS/dcC09xABOZaS7HAZAK9zJtlj6GX4pVGDX8zGpWO5ZEjkPq1Y0R6E9fqf0k6p0HnNb++XeAqWklBNk1bFJCssT7+RRl2z5mHw238bnDNo1grEiCkgbZiZxVyBxpY5TYdapqS+jm6ewNovNrMnqJCaXehcAxcLV1c4bVnxlHg2ZGMMGhf9foSJR67UGgWrIq1BQ+8D7jfJiN8zB5lcYiBs8teG/nhXCgcW7b/KE8/7F+IVuRxIzS4dbKDk9p/LAoe43b7ZkrdjCBDsCYAIWQIsjcV1TlTc0jS+0rOyuQIbOVOar45hjiFuVwQ+KeGgdv5plCfQ6eS2LhkMGbQy6czsiX0oyFdhc15QfGR2dnXNGZrQOT1qHsITXyN+6Nqk24pJu98w==;JhHBxhzK1l91PTAoeKDfSA=="
+images:
+  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-00997-5/d41586-022-00997-5_20300294.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "HTygUkJA3MiWMxCXcgO6vb3/JfLtgkyJfeEae1O6MIQAuI8Terd1KVQynyvIuEhe5Qzsxr+JhNIb5/IUs7j+0hazA/zrX8U9zG2mg9nXXcFwW1EY/EVjsi9/cbEQkEfFBX4LXN3OKWDJbm+xLvPwJmt/CyopYaG1WyKfB5BFl9uJUqG/kcc1Lqn3hi4fi+6jfVemY89ykeJZsOkwV0JJ5nKrNpfykBgHHS334JLQi2Y9zSJpJcM8eKxhpsIkAT2LuC79BOfBwGXPFjviakQaTpWZvYXH0Gmw/DSSMouubkcJ9I8ZLzk9bcvrJm6OiASvIo9+IXvKlQkK+KxF7ib4RS82HG+4ecGx0c6LM48SVMY=;xQOvew01vXaIaSnNcWRG/Q=="
 ---
 

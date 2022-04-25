@@ -1,20 +1,26 @@
 ---
 category: news
 title: "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022"
-excerpt: "Varma will chair the session and discuss how artificial intelligence (AI ... IMPLICITY® develops AI and knowledge based algorithms to reduce healthcare professionals workload and allow to potentially predict patient health status. The IMPLICITY ..."
+excerpt: "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research."
 publishedDateTime: 2022-04-19T13:30:00Z
-originalUrl: "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
-webUrl: "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+originalUrl: "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+webUrl: "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
 type: article
 
 provider:
-  name: CBS 42
-  domain: cbs42.com
+  name: WTVO
+  domain: mystateline.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "yIMaUwKXkJU7Q9jrCc4Y3O4uPA8UgcpYYm+7l/wZf4drO/FcRNTQKBGyxpsexCZ8vciDNx2nhH4ASEaqz++9skYcRvXyhOVKaUDOFNrlKdystHxx1txWF4FbnAv9eTu/RmPzA69cB+8wKPfjQJ0rYw3Q59Wr2SO+cyx+V8mrsRIIpIm1lGR39loEqQXf9mFxWVmV6sMXb9KpXNktcwoI+k3vTOYEWYqY8bRs3aEihxFjKlYx9gn/VVVPk8M7cWO8AWTFgd/I5hbzCEF8Tphzjmdp7xVeeAWl8Am0yEgfePJgsmWmfqieYHpc3gvopl6Ec/bE2S8XtBsDA+n8KRIS4rABEaSkkhvX3VlXD0v0DbA=;B9RYwbIBpferw9QV0/iyfg=="
+images:
+  - url: "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2022/04/Road-Work-Sign.jpg?w=2000&#038;ssl=1"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "NwUnT6z+azbzmyTrZF9AjSGg07dIYfo+WSJusTdc8SfCG4WOLX6FQxpZ5jE6mPMJ6dE3vB3D098xHINcPbC53VYbzmiC8YgRtrXXuomK852gnv9PfbuWrBLXjRgvzdIp1GjAwyfK2cENDT2o82ltshy8ZwmMoAz7yXBSli1NRYJoZimpa08BtbhSuL3X3+DRtpY9ggE58Co+ZUYO9LJnrvicy4xVV1BFST5Ar7/0PU6XHkHBSaKQQS54Dt13Jd17TACq8xmbED/tHKgXvU4PhGkNAebbm/ltbwgYFYh5idmVtlibvpnn0OjyFf0SpARErKe/zAcIdHAafaQBA7RleJGLz2XyZeNWme8Rme4Bd0E=;odutbQYOj0OwTgf2WbHvpA=="
 ---
 

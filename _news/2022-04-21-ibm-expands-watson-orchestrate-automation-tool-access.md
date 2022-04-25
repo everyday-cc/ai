@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/ibm-expands-watson-orchestrate-automat
 webUrl: "https://www.crn.com.au/news/ibm-expands-watson-orchestrate-automation-tool-access-579006"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM to make Watson Orchestrate generally available"
-    excerpt: "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv"
-    publishedDateTime: 2022-04-20T11:29:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available"
+  - title: "IBM Exec: Partners ‘Play A Huge Role’ In Expanding Automation Access"
+    excerpt: "IBM is eyeing June for an expansion to its Watson Orchestrate automation tool, which carries opportunity for partners, according to Dinesh Nirmal."
+    publishedDateTime: 2022-04-22T15:23:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/ibm-exec-partners-play-a-huge-role-in-expanding-automation-access"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 84
+      name: CRN
+      domain: crn.com
+    quality: 24
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815037/itpro/watson.jpg"
-        width: 1260
-        height: 710
+      - url: "https://www.crn.com/resources/0274-14f863f1b907-0e4d99b86e55-1000/ibm_s_watson_orchestrate_automation_tool_aims_to_empower_workforce.jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "RyE18doNvy6HCC8s+dJyIxtci5d76rf5RqXFKlSuXR5vBS7rc2uLE+VgLsPAIJ190z/qeGhpYOdLJ8wxIL9UWYrS7sykN630674rCJu650u9gsekSjQVcNAODUYaPbd77NCAt0mtSmjfzXLv1alkO7CqU3NYCG4CnKEB1YnxEXUtZCbeWAMIvlgIIitsmDBcaJe0APKg+h4tt4scTP1m4flLsjmoqugkff2uwZzb8pt1TNQuj7Kg3O6fiUvA2iZIIMMsxMLGN9hTb6cNJLLU/hrdlUsx8z02yBPbr18I5/ijOnsjeZHvniTlkvsBpODYOT0dHGs1tbNjLm8uU7XjyUs0LU727pXk6byfDz12q0RoJ7u8xOyhQI3876iqrq+ZWSI2NXn3VSQzQpS7g1Md5v4muUWGCoXq8OQWyJFcumh9zDY+JKDP85PhKbu55URKSFl1KGQxpuIA0MBr5eNxrM61HVKA3aK0YNCgUSZGRc2zBVjbp1QrjgKafXbtHEsuSTCD9MC3OgdnIejMVa5hbw==;E0RoaVRth7D72prUHR/ZxA=="

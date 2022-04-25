@@ -7,7 +7,7 @@ originalUrl: "https://www3.technologyevaluation.com/publications/5-artificial-in
 webUrl: "https://www3.technologyevaluation.com/publications/5-artificial-intelligence-retail-uses-58767"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Enterprises Can Use AI to Reduce Data Storage Costs"
-    excerpt: "The volume of data maintained by the world's enterprises continues to expand. The increasing cost of storage has compelled"
-    publishedDateTime: 2022-04-20T11:23:00Z
-    webUrl: "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/"
-    ampWebUrl: "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/"
+  - title: "How SASE vendors are using AI"
+    excerpt: "SASE vendors are applying AI and machine learning to the network- and security-related data they collect to sharpen analytics, tighten security and boost performance."
+    publishedDateTime: 2022-04-21T07:42:00Z
+    webUrl: "https://www.reseller.co.nz/article/697279/how-sase-vendors-using-ai/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 37
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/How-Enterprises-Can-Use-AI-to-Reduce-Data-Storage-Costs.png"
-        width: 1945
-        height: 1112
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/sase_dreamstime.jpg"
+        width: 504
+        height: 315
         isCached: true
 
 secured: "ENGAoj7l6YCl8aDqLlYulXOvlzYc0+KfBYwNT0o37PzW5k01QnaGkJbt+AWEgTeq6Mv5UQE4Tvjbx44hxI1BhHnNOySsqyXvem3d1cX/j9sPu9RlK/VFb6WnlLKlZ2TD4McHqJBMOP1vmvg4o5FI2lFNzPo3C0FgiVSgftnq0VqHXCo4m8+VfJHsWsca8bRPhlOUumbuGFWD3ggP4tiKNhDFWcu27ofkS/AG2vT24xsr7LA/+3hF3wtWgQQapEMgktfDun+tCqP1W4k3uaJcYQWHKO9tnlsHeL6aErxU0TGBUfD+R2mMOD7z/6mmGjD9JXGKajOGEc16ERHPOo8ktXFra9OTefx9Zv3eihJDKDAYNQmdnaGRr5r1oavNTyHxpIYAjIcEecJLqTMMR7RP8M5do7DCwR1lPUthQLPFmqV7SLi+IzS6ezSMEfmyDkSrNten8GKtk1zkyeqMWNh20rtUUsD2C1Wj/Z29U4mruXo1FlpSAP7jEZuAbPw21kUfR3+bxE+qtOjyeZhVBBKiFA==;uJjNlqeJImxHKY25xlDeNA=="

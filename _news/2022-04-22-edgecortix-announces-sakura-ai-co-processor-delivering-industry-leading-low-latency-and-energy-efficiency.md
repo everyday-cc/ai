@@ -1,23 +1,28 @@
 ---
 category: news
 title: "EDGECORTIX ANNOUNCES SAKURA AI CO-PROCESSOR DELIVERING INDUSTRY LEADING LOW-LATENCY AND ENERGY-EFFICIENCY"
-excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge"
-publishedDateTime: 2022-04-21T20:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
+excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge artificial intelligence (AI) inference;"
+publishedDateTime: 2022-04-21T20:19:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-software-artificial-intelligence-1d167f0bb5e20be68a86e61fafbc5eeb"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-software-artificial-intelligence-1d167f0bb5e20be68a86e61fafbc5eeb"
 type: article
-quality: 2
-heat: 2
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
   - AI
 
-secured: "FIaNqEafHhkgBbfF24kX9niSgFcIzKe0ygc1w9ETE1NUew4RQSWnGU20cAgK4ualrJLzmO/qYjVZXubBtI/nfQzToTws+G4ftPr4r3ySYZYHqVqjDR0Vlzt2eC0r0K4wXXccJm9d3uxnFFfKfXzeq0sEbk9V2Il3OmcGmR8h9blj9urk6lKrYLWY9RDhPNHNWiXVlCrvhb0hAn7JhxqAbfW6zdHAvcQApJgRwgpvtpybjfN8On3u0mNKtya6X3/sooZd5qVHv6/+mXeUMfMYz3zcqCp91yJYGFdo9H90U9MeTXgtLZSSkgYyuFccEN/bRa0i/wZpuKLUqF2TIfiBlXbyZ5gGIl16z+FdJIt4ZK2j/LCLfT4B26GW/+AZVOdZ1IZX7aK9/189MVhvsQeOxnc2l3fR/F4clpQzVBqz8n/gvIqc7AkfWYG4gMHbTKFhOHsQDDTQB6ITOYF3bv6xNXm1dOTj/RWjXId09kLn7WQ9RsuGyFzCpWppYhz5Ox7o9F3rWDCTVMTPav/Hlu08/Q==;+GMTiqXCEGrWMltqDH3tkg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "7uR+r3iVdB2mYsjo+9K2Tw7P0F91IY+8UnvwBUF3VIrR+6nh4tVV8Z1BmC6lKxcs1HR20CHklFuum85KZKuhtsYz8ZejClLuv9bipb7KMolNU9DImQm9iWXiwT4Xee8jvYa6EpRh4K2WXZUaVD5DNocSShT/EQiZii9j0ErNYvZrJ4UaZ5mILbhuifVb2YrP9QCtaCmYsvlSG09eV4ba9TN2WxFNkS/CuZ9MlpfccTSCCxf3Lk2EzF06VepLYXuwdZ3czuKsfDKoh7bG0fGIRCULitV+ZYVOw8+1kv539wbp4dwBt5LUXHcCTGjr5T1c7IgmJEpiLhxRmteOalbhEO05v4bXQ8mk230g91Iq13k=;bMH9eqoz9gk83LrE0mmTmQ=="
 ---
 

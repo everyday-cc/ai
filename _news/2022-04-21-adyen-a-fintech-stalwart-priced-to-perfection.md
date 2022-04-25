@@ -19,15 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "Banks globally need to compete with fintech players to keep pace: Report"
-    excerpt: "Nearly half of respondents said their current banking relationships were neither rewarding (49 per cent) nor emotionally connected (48 per cent), while 52 per cent said banking was not 'fun'"
-    publishedDateTime: 2022-04-21T18:24:00Z
-    webUrl: "https://www.business-standard.com/article/finance/banks-globally-need-to-compete-with-fintech-players-to-keep-pace-report-122042101278_1.html"
+  - title: "VC investment into European fintech set to enjoy stellar 2022"
+    excerpt: "The data from PitchBook shows that VC investment in the UK and Ireland continues to enjoy a purple patch, outpacing other European countries this year and that VC investment into European fintechs has enjoyed a strong start to 2022."
+    publishedDateTime: 2022-04-25T04:52:00Z
+    webUrl: "https://www.altfi.com/article/9144_vc-investment-into-fintech-set-to-enjoy-stellar-2022"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 18
+      name: altfi
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/vc-investment-into-fintech-set-to-enjoy-stellar-2022.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Fintech elevate wealth management, AMCAP expands intelligent developments"
+    excerpt: "This is not an investment advice. Please conduct your own research when investing in any project. AMCAP, a well-known wealth management institution, has"
+    publishedDateTime: 2022-04-23T15:38:00Z
+    webUrl: "https://www.digitaljournal.com/pr/fintech-elevate-wealth-management-amcap-expands-intelligent-developments"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/89a9a03e9025c39404bd40fdd97db6ea5cd221c8-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "fTo1f7ciM8TBGqaFrTfCkQlz8NhUTxNVgQjqDY1mSt9WCT0bJPFAsozGsgiV3QhltnvqMkbet9usNh6ZK4nYJ3hhpwztA5UOXB/uLpLLe7P33/H+xKGzYvyEZZ5Qn7KhzpjwVgVL8WpX2hYSh0HNJicgV+3hyD2z6EQ6w5zoKjSEs2PVQq2sLTUjWfRd7lWqQiU/S6Z2G4Ka/od2FeBvxziLPd2POA7gZ+fjCaIqn/MatNC+9iNvc6uQXEvjpM6w2UFrf4P8hecHFonZoS++QoDE+/jMQb/bJ/qSfOeQa69MkS4KxQRulUHPT6OOQdwA8fbT1Bj1lyutafaidxThbnNd2XrsR8ewMphE4PrmVyQDYQIxRhjlOxSE2JlgBbtIhBnxGcacBZ2GnyZK+M622Y5LuDvC2lndcAqG58S+DybtmDSyNe0JbTlyrlIgIHGx3jik2Q0VSpFYL7rxxxslCBl0n6f/sCuqlhx8t+sv2bhCgsHSo6SMlJPSSUFn8S1Pcq8olhlMeZ9U3fIa9yiAIw==;GDd60gb/PpKhPHf8nnEuCA=="
 ---

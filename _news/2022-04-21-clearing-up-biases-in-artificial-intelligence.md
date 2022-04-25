@@ -39,20 +39,6 @@ related:
         width: 800
         height: 422
         isCached: true
-  - title: "alphaMountain.ai Raises $2.7M Seed Round for Threat Intelligence for Cyber Protection and Investigation Platforms"
-    excerpt: "Co-Founders John Ahlander and Matthew Wood Draw Upon Decades of Artificial Intelligence, Security Experience to Raise Seed Fund Led By Mercato Partners' Prelude Fund"
-    publishedDateTime: 2022-04-20T12:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_57632ddd-01d9-532d-aa86-0001294cf829.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 18
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e0/4e0879f3-175e-52af-aed5-a6e071288a84/625ffd533e304.image.jpg?crop=941%2C494%2C879%2C0&resize=941%2C494&order=crop%2Cresize"
-        width: 941
-        height: 494
-        isCached: true
 
 secured: "iW4aXbFlGVkjaseBefqglUmea+PySJ1aW51LJZd/uiGHB4/sxOlbDYsvbATYyjFNc582FHx8bmaH5vwVhYj7ky9e4K4xzmjAuqR+8dpwTL8Znbi8piSw2QwiWt+g7ccESKKdAEjLmrurA9SslNrlWa9u84kEu7dO0t7wd33vuqCXLy6wuTwSjztblBrlmT3m9YElYFP+G+GAetX6KwWNT5l6O0HQhYRard9ENepIMgpKLS20WLlXvmdRy5Kr976VhnyXeo/0RniC70m2dK+8zAjFE5Uivg+zOAYCAdIOHTWLhL1ft1pZ5hBvJ/eA6sTk5efPX2I6fvsTh5qoz8AoEafXzL1nLpmwMoTY+OsOWCw=;heQRJ3eX+XalsvfcZ7jXsA=="
 ---

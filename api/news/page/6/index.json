@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-16-tensorflow-lite-nnapi-delegate.md",
+      "title": "TensorFlow Lite NNAPI delegate",
+      "excerpt": "The Android Neural Networks API (NNAPI) is available on all Android devices running Android 8.1 (API level 27) or higher. It provides acceleration for TensorFlow Lite models on Android devices with supported hardware accelerators including: Graphics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/delegates/nnapi",
+      "originalUrl": "https://www.tensorflow.org/lite/android/delegates/nnapi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-16-dall-e-2-shows-the-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices.md",
       "title": "DALL-E 2 shows the power of generative deep learning, but raises dispute over AI practices",
       "excerpt": "DALL-E 2, OpenAI's new text-to-image generator, is better than its predecessor, but comes with a debatable business model.",
@@ -1105,58 +1158,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-global-gpu-database-market-report-by-types-applications-players-and-regions-2022.md",
-      "title": "Global GPU Database Market Report By Types, Applications, Players And Regions 2022",
-      "excerpt": "ZION Research delivers well-researched industry-wide information on the GPU Database Market. It provides information on the market's essential aspects such as top participants, factors driving GPU Database market growth,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-gpu-database-market-report-by-types-applications-players-and-regions-2022-2022-04-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-gpu-database-market-report-by-types-applications-players-and-regions-2022-2022-04-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

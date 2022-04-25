@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-s
 webUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-sets-polyu-apart/article/3174777/fintech-focus-polyu"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/04/OneSpan-.png?x30842"
         width: 300
         height: 250
+        isCached: true
+  - title: "Key Features To Consider Before Developing A FinTech App"
+    excerpt: "With AI-powered intelligent chatbots, there is a lot of space for considering and solving customer issues. And that’s a wrap! However, you will be spending a significant amount of money on your first fintech app development project so make sure you are ..."
+    publishedDateTime: 2022-04-25T05:52:00Z
+    webUrl: "https://techstory.in/key-features-to-consider-before-developing-a-fintech-app/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/04/pexels-christina-morillo-1181244-scaled.jpg"
+        width: 2560
+        height: 1709
         isCached: true
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."

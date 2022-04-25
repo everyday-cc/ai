@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220421/New-deep-learning-met
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: MD&M East
       domain: mddionline.com
     quality: 17
-  - title: "PreciseDx's AI-Enabled Digital Pathology Is the First Proven to Detect Early-Stage Parkinson's Disease"
-    excerpt: "In a collaboration with The Michael J. Fox Foundation, de novo study finds PreciseDx's technology can accurately diagnose Parkinson's disease in living patients prior to severe onset of symptoms"
-    publishedDateTime: 2022-04-20T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/precisedxs-ai-enabled-digital-pathology-is-the-first-proven-to-detect-early-stage-parkinsons-disease/article_f3a87842-f2c4-5f57-bed7-20d97d8d1e15.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 1
 
 secured: "LEY5tGq5oQ/BEFm5/wHyGVWK7eMUm11rLF0JpxfB47jLpzT1+uWJXW/Hhs4PXs9Sx12mqDxC8h751PW2NpzURPgdy5Gt+xudO8YpTxt5XeIIqbu8UrAQOtNwzdULFaYfJeHcoQgtayIWlKYwyHIj2JROTBKTXPyRLD6LX6pJNGqGN4nN3MLwW/m6yoXgXI5JprWxjNomQgOUmgeyZ+BPijGvrlSi8nCix1myUAbR9iZDBw5/nIIyr7i2YWeoTm0ow8rYKX17heRPkmhBl/mMkAU7Ni/nwScI9ZOfJ4HYpc0mobPyVeUHlHU0UsKtzH25VaiREvNgiT7JEgYxOjmfokC0+HcENq3CVJgjhf/gCmE=;v8TmtkCvf0x+epxqatkbUQ=="
 ---
