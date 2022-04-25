@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 1264
         height: 554
         isCached: true
-  - title: "Esperanto Technologies’ Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
-    excerpt: "Esperanto Technologies™, the leading developer of high performance, energy-efficient artificial intelligence (AI) inference accelerators based on the RISC-V instruction set, today announced that initial evaluations for its ET-SoC-1 AI inference accelerator are underway with lead customers."
-    publishedDateTime: 2022-04-20T15:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-artificial-intelligence-ea33e32164d34c07b2913f939ba89d92"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
 
 secured: "B2ogb80UkYdiz2v6QLuwOM0wP4KjMKX6rAZULj0//DCRoV7ED9EJC+R43mlGZ6XDbk8umS1i1Q8+Z313vZ9fHUxTLNJWzvqUiXX4ctZsdrSKiODpljQo0OP3Khsb2eZ8LXhGuveJ+/0DSXwckoGUP0CtM2Y0rc/NhkgxQoIg6VhIVK9pzwat7wKexXzymg1ca3ey5APF6x8Ko8otbP9mMrcbmu7r/2SZBWQQG18LfzNrvr6btx0S+h/kSB4ivsN4xfgQ/UroHRwCQ1aicZuy5qWlkB9KbU2drWn1dEgtFZuYQd5ziLrbBbYdQHR9cf3AyM16REPMvoSD+eqAhV+4tfiTi3WKPuUrk7ahb/lnNjnj+djhl5VyKIc1Ox2Ay8srUUaV0u26ofF9UE046RHSh2cKRIjNIAY+EPJBiVp3hQBfxQNy79hy9ITohPGjkQ6CbpP0nIIjP81FfmqCx72DLbozEQPFWtGFMnlKVNaILIDPqepTNWD2GmgTu6pHe9VlHxxbfciFxXKcTkOvcmOWDg==;wAdjlFGd5xT4/orFtmWiQA=="
 ---

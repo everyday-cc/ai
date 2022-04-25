@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Speechmatics tackles one of machine learning’s biggest challenges"
-    excerpt: "Speechmatics tackles one of machine learning’s biggest challenges, adding formatting of numbers, dates, addresses and more to its Autonomous Speech Recognition.  Speechmatics, the leading speech recognition technology scaleup,"
-    publishedDateTime: 2022-04-22T13:16:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/speechmatics-tackles-one-machine-learning’s-biggest-challenges"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 21
   - title: "EU law targets Big Tech over hate speech, disinformation"
     excerpt: "The European Union has reached a landmark deal to take aim at hate speech, disinformation and other harmful content online. The new law would force big tech companies to police"
     publishedDateTime: 2022-04-23T08:28:00Z

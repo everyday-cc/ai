@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Index Exchange becomes the first exchange house to use MOI’s facial recognition system to verify customers"
-excerpt: "The deployment of the electronic facial recognition system automatically carries out hassle-free instant eKYC and facilitates quicker and more compliant payment"
-publishedDateTime: 2022-04-25T06:42:00Z
-originalUrl: "https://www.khaleejtimes.com/kt-network/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-cus"
-webUrl: "https://www.khaleejtimes.com/kt-network/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-cus"
-ampWebUrl: "https://www.khaleejtimes.com/kt-network/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-cus?amp=1"
-cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-cus?amp=1"
+excerpt: "In line with the directives of the UAE government seeking to implement the best services for customers and its orientation in achieving leadership and excellence in the fields of"
+publishedDateTime: 2022-04-25T08:12:00Z
+originalUrl: "https://gulfnews.com/business/corporate-news/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-customers-1.1650874025359"
+webUrl: "https://gulfnews.com/business/corporate-news/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-customers-1.1650874025359"
+ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-customers-1.1650874025359"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-customers-1.1650874025359"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: Gulf News
+  domain: gulfnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://image.khaleejtimes.com?uuid=b923fa41-0ff8-52e6-a780-6ac5d4732493&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99956&x=0&y=0&width=1200&height=675"
-    width: 1200
-    height: 675
+  - url: "https://imagevars.gulfnews.com/2022/04/25/Index_1805fc547ce_medium.jpeg"
+    width: 540
+    height: 405
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 641
         isCached: true
 
-secured: "8a4gmoXb29OIBaYB7AvPLl1MWJgxT22t7fYcytVRubNHLhfTzLxYJDxhoqhIzPZLWTF0jJEzVvzvoh8YSD5ecw0zLTvvhTBjb1mtgM+WhMlulwdv/WDhKGErUgWujTTrKmJMkqiSNmYt43ClXwTrwgciJQiGrukMKyuaG9XvMz5c7QgadtZUvY+ZEK7RyIKWdeWlVvpWHiEimIvGxoqQc6FDY8GMOxlfevWtI1pnV9ELzLf0ny8c8D1j+jhZ+t91Cf9XpAGM9YMY6QxtjzW9/kUlSENkMu85sgtv4+zc821H/hHYETsPyNTeU6WtLm8oks/zVcwJu0ChAxb0wSWJQ5J1YDOFekWcI9YoUusBbq4=;kRV9SXMfsArsJIu3JEydUQ=="
+secured: "8jSa5187RTI5rtxxBElGWQRCg1GbEG78t8Ejf5pkIs7/t1SoN9TkDQbkiNsM2I3x3tvz7jQ0V4nj0UjFcaaTk+kq/5La4eRuhQEXqiHMOEjdRh+j+L7SEupWmZi7JGTf5pNq5JSzrvJdhSu1pJGf4N7q66Z6hJjJqCsp7fvdog1ZI3BPUCGSVkxLDPdTHZcVgz9/+Xt+h4iqu9eHzR2uiL7XYy2TYVy5MKS6NrSyfX8KDXScbo+VZZjZM2TZ0W/lmeujVYruh/5m/Uwl6Ln85ciUJ26TQOdL+cG5TPp+b8akup4p0/LTXGqhWk7XnjqKcMVwHGV9oDNNIohdKKtqLSnDoORb/8NDgWUQYoeo2GQ=;Zytvot/pyIw9L115P10n0Q=="
 ---
 

@@ -102,6 +102,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "China licences first self-driving taxi"
+    excerpt: "Pony.ai has been awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha, Guangzhou, making it the first autonomous driving (AD) company to obtain a taxi licence in China. In May,"
+    publishedDateTime: 2022-04-25T09:00:00Z
+    webUrl: "https://gadget.co.za/china-licences-first-self-driving-taxi/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/04/pony-ai-car-self-driving-scaled.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "h1UXYUjSzreoLo/6jyz9HLSUDtKKQD/jlL3g9jhmuJFq8gEDLStvJ/7IhQfc2A/OygpHO93qQHWBkA2zEPHgWuUj/jxDGCRsAICbXnoCqgxZM1LB9wdSI9BJp09AR4nwFdCK8A6NUzFSXr5o2sQCPUW8eGxldih8R9uSk+uI0LJ82WJXp5cUkhY35nzN5YN0n1AjRk5gI5Y1DTN7KiP05mstcfao649XNcf4+WxnSmat2d6N3cmdmupI5eEPJZLrtBy3jIe2dNXN+IWekCZrKyVCMwEqgAusfdltq4QuQLefO7TojRBgcYWM1gJW81zZdO0RIT+BtSEJ/ybjIZ6nHpvJYdmj285bx6X8KGmkzU6+yefo8caNf8VZtCD/mo/k4yvF/k4CXP+7j00rrgkQS/1LiRG3eMz2lxTQH5lFFX7JZThXyQycFoki3OclICSAJ1dOB8FveIvJwLuxzYd68gnnmU4FDT9rPDiOTuxmHvPaTn4bXbD46PLjAP+2OpC81Pr0y7PEs+9ZG9BUNRnruA==;uoaiqL3BY+cWPgSJKOMgDA=="
 ---

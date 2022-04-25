@@ -75,6 +75,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Stagecoach begins live-testing of self-driving buses on Scottish roads"
+    excerpt: "Stagecoach has announced it will be testing the UK’s first self-driving bus on Scottish roads this week, with plans to recruit 20 drivers when the scheme goes live. In partnership with Fusion Processing,"
+    publishedDateTime: 2022-04-25T08:07:00Z
+    webUrl: "https://www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103"
+    ampWebUrl: "https://www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103.amp"
+    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103.amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.dailyrecord.co.uk/incoming/article26788641.ece/ALTERNATES/s615/0_JS264415635.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Driven to distraction: how close are we to watching films in self-driving cars?"
     excerpt: "DfT has proposed some measures to smooth way for adoption of autonomous vehicles on British roads Self-driving cars could lead to drivers being allowed to watch films on the motorway, under changes to the Highway Code proposed by the Department for ..."
     publishedDateTime: 2022-04-20T17:12:00Z
@@ -157,6 +173,6 @@ related:
       domain: tripadvisor.com.au
     quality: 19
 
-secured: "qKKIgofWipeA5YKhLMZl0UuotsbtO/25UayZ6b1V8F726qXy+A+K+eDrFAoUgTEeW4uOPpYOeFMUs4RHqKVTPXUwdS6olNwnhJlw9B1iWFQNuNH87pt4UlPPlYkBuSv/XImtRyI7VYFmhDivt3gganb8fwXiv1wkjeAFSWATRSII4r8fZ79VJmkL5MwexZ8Bek+SeC+QsZEba9lrd9ivgoDiR0YBrtUI4ejDfnudango37b07Oo9sSLNkGpw/TON1lwdhkxL1hKhgRpw28xBGQimdgmjTU4YH1gI8AiLQEeB1fi88rPHkckTUGnhZOpBoTRkrPeBizK+g6plS7m1S0NDTfgjQB4GY7mptX8SDpU=;fPS6HZCDkBucIn0WxtlTyA=="
+secured: "LBlIn+8ZW0EY3a6Gp+etH3R3BgCxZV/mN5RxSw1/VuAdGTKFgG2/awMZN40SkEadp81gyUU/uOxU0TVfDV85daXaL4WQaOKXYUgdppVZkervpsOHVfGram3ZGVrpw9VvKhUzzLj8ADZdaUMqsWXcEOQ2xCCfalvp8LM0cWSikOjg9RA3TLyutgahYH6LWcXiHp1/1doond6p+6XrCpSvpkqo1XVYiUfM7SEpFL1eHg1ucDeWRnTsYjiqsL8fYH4uLi9ft3Y7D49FjfuvvnAmF2xKqvyQH/qUvawlvn6JPaEiig/svgJ6udKat/FcNmhvVn/jSSWEmsK/B/SjlCN/9WqtvnyRL7nh9+d9I5lwVrg8RzDJizwyED2Ed2EHYNJjOckW8ZHXJe4LLav6Z0djIKkhA5ceINh3X2+P0hRJ5tOf+shoKf4sd3+qHl4JxoOOYvzBMve1JbufKbUm/tqBIHDXphLddeDZQXekIEEpeBzbkichO3TFf9+EFo+QxxWVqq8fpeITI1GVZcBL0wyI8A==;zBmjYzcCgMP2iyW8GvP2hg=="
 ---
 

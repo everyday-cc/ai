@@ -24,117 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Training Manikins Market Forecast Report 2021-2028 - Opportunities in the Application of Robotics, Artificial Intelligence, Augmented Reality, and 3D"
-    excerpt: "The \"Training Manikins Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Type, and Application\" report has been added to ResearchAndMarkets.com's offering. The Training Manikins market is projected to reach US$ 1,"
-    publishedDateTime: 2022-04-21T20:22:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=651287"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 45
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Philippines Data Center Market Investment Report 2022-2027: Cloud Adoption Driving Demand, Increased Investments, Increased Adoption of AI"
-    excerpt: "The \"Philippines Data Center Market - Investment Analysis & Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The"
-    publishedDateTime: 2022-04-22T17:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26767382/philippines-data-center-market-investment-report-2022-2027-cloud-adoption-driving-demand-increased"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26767382"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26767382"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Neuromorphic Chip Market Size A Latest Research Report to Share Insights and Dynamics Forecast 2022-2031"
-    excerpt: "The Neuromorphic Chip Market was valued at USD 111.04 million in 2019 and is expected to reach USD 366.14 million by 2025, at a CAGR of 22% over the forecast period. Keeping the pace of advancement of disruptive technologies such as Artificial Intelligence (AI) and Machine Learning (ML),"
-    publishedDateTime: 2022-04-20T22:58:00Z
-    webUrl: "https://menafn.com/1104059326/Neuromorphic-Chip-Market-Size-A-Latest-Research-Report-to-Share-Insights-and-Dynamics-Forecast-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?742141"
-        width: 443
-        height: 250
-        isCached: true
-  - title: "Global GNSS Chip Market Forecasts, 2021-2028: GNSS in UAVs/UGVs & Opportunities in IoT Technology in Autonomous Vehicles - ResearchAndMarkets.com"
-    excerpt: "The \"GNSS Chip Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Device; Application; Vertical\" report has been added to ResearchAndMarkets.com's offering. The GNSS Chip market is proje"
-    publishedDateTime: 2022-04-22T09:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26756282/global-gnss-chip-market-forecasts-2021-2028-gnss-in-uavsugvs-opportunities-in-iot-technology-in-au"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26756282"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26756282"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Iris Recognition Market Growth Opportunities, Key Players, and Threads Analysis"
-    excerpt: "Market Highlights. The global iris recognition market is growing at a rapid pace. Iris Recognition provides advanced analytics applications to enhance security, increase throughpu"
-    publishedDateTime: 2022-04-21T09:33:00Z
-    webUrl: "https://galleonnews.com/news/251019/iris-recognition-market-growth-opportunities-key-players-and-threads-analysis/"
-    type: article
-    provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 20
-    images:
-      - url: "https://galleonnews.com/wp-content/uploads/2022/04/mrfr-11-5.jpg"
-        width: 417
-        height: 455
-        isCached: true
-  - title: "Global Behavioral Rehabilitation Market Forecast to 2028 - Advent of Online Counselling & Artificial Intelligence in Therapeutic Settings Gaining Mome"
-    excerpt: "The \"Behavioral Rehabilitation Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Treatment, Application, Healthcare Setting\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-04-21T20:59:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=651300"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
-    excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."
-    publishedDateTime: 2022-04-21T15:24:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-market-size-to-reach-usd-16652680-million-by-2028-at-a-cagr-of-13/article_a35fe3f5-ce70-54f2-b6ad-f0335fb7a9b7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Face Recognition Systems Trends Technology Innovation, Analysis Application, Demand Forecast, 2028 | Reports And Data"
-    excerpt: "Increasing government expenditure on Face Recognition Systems for enhancing border security and adoption of live surveillance technology in various"
-    publishedDateTime: 2022-04-21T12:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/face-recognition-systems-trends-technology-innovation-analysis-application-demand-forecast-2028-reports-and-data"
+  - title: "Aerospace Robotics Market Exhibiting at a CAGR of 11.82% During 2022-2027 | IMARC Group"
+    excerpt: "According to the latest report by IMARC Group, titled “Aerospace Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
+    publishedDateTime: 2022-04-25T09:22:00Z
+    webUrl: "https://www.digitaljournal.com/pr/aerospace-robotics-market-exhibiting-at-a-cagr-of-11-82-during-2022-2027-imarc-group"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 0
+    quality: 46
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2W8nsKMLMpNTdkH8o3kdp7y6mtKk0SmbuIBxG793u6OiCLfakh9GAc4kUjxYkIcufHUc-_zNlmXs7cW0IJ1hgh3ThCIXhSM-K9FYrqdixnQ6EuJOD_piY8iu0bHmgRVac2GMaetojKuMYeKNKED5SXKBtcysflKM5Fk2k-gzoMEIPLBGT8etDFo4/s320/Aerospace%20Robotics%20Market.jpg"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market Size to Reach US$ 61.03 Billion by 2027 and CAGR of 26.60% | IMARC Group"
+    excerpt: "Looking forward, IMARC Group expects the market to reach a value of US$ 61.03 Billion by 2027 exhibiting a CAGR of 26.60% during 2022-2027. Natural language processing (NLP) represents a branch of artificial intelligence (AI) that allows computers to understand,"
+    publishedDateTime: 2022-04-23T13:07:00Z
+    webUrl: "https://menafn.com/1104080660/Natural-Language-Processing-NLP-Market-Size-to-Reach-US-6103-Billion-by-2027-and-CAGR-of-2660-IMARC-Group?source=318"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
 
 secured: "kLGfu4vgoU/wpw/LYYwo4OeODwgODZrj0E+PqmFbBQqEuA9DtxY8e5tt9KqXg4dXCLYZfaGM7tzuPj1yau2XziuyEy16sEXkRqw9eJll6zprUa0fTxShpjz910Kl3h/oZ3VqS0SITDXP2ouiKPZV4NP+/jMTDSDRlvr8VC67YaVxjzWJuwAXLlSjoWBV7pTCoK6IxpFWqvTHr/My4/2KUFhL7T6Ia8oEMpeUD4IsgBDbcnLdRt2QrnCel6NlZXgAmFHd8+JDrkG6e4i7bhWQquO2+2QcSxEe8MkiPJrYDDpid56aJsd/yhO3YYz1aWWXMMvpI2ol5OEOEYgtilNEOiRgE5wevBUZ5BqkUcVHADE=;SxpqMcqlPLfs9h2SyD+MNQ=="
 ---

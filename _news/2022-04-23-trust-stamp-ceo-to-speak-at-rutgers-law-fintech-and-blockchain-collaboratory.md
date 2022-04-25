@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Trust Stamp CEO to speak at Rutgers Law School FinTech and Blockchain Collaboratory"
-    excerpt: "The global provider of AI-powered identity services said Gareth Genner will be speaking on the use of identity tokenization for"
-    publishedDateTime: 2022-04-20T15:28:00Z
-    webUrl: "https://www.proactiveinvestors.com.au/companies/news/980121/trust-stamp-ceo-to-speak-at-rutgers-law-school-fintech-and-blockchain-collaboratory-980121.html"
-    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/980121"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/980121"
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 53
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC9ibG9ja2NoYWluLTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19"
-        width: 1200
-        height: 740
-        isCached: true
   - title: "Trust Stamp CEO to Speak at Rutgers Law Fintech and Blockchain Collaboratory"
     excerpt: "Trust Stamp (Nasdaq: IDAI, Euronext Growth: AIID ID), the Privacy-First Identity CompanyTM providing AI-powered trust and identity services used globally across multiple sectors, today announces that Gareth Genner,"
     publishedDateTime: 2022-04-21T09:37:00Z

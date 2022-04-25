@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 723
         isCached: true
-  - title: "When will self-driving cars arrive on our roads?"
-    excerpt: "The Highway Code is being updated ahead of the first self-driving cars being allowed on Britain’s roads. Here the PA news agency answers eight key questions about the technology: – Can I already use a self-driving car in Britain? Not yet. Existing ..."
-    publishedDateTime: 2022-04-20T17:22:00Z
-    webUrl: "https://www.aol.co.uk/motoring/self-driving-cars-arrive-roads-075906262.html"
-    type: article
-    provider:
-      name: AOL.co.uk
-      domain: aol.co.uk
-    quality: 4
 
 secured: "XqZBBsh1wQNonWmNPX0Vb2XD18sNVA7Qcmkdagcx4cNuTQolE2/9fGc4a6rzUc4MzntewGXNFq59YgIF4HfMmcnLamP0j1EMoAf6Jqh29GKsjRaAnptoqV37RN8sWjSXbjB6emPQP57Ybtg1mWyRtYcBPBW06q7LxoVYb0U2QUJlO7snqFtkmo19cJKvcnwjt43z3GxeMbFvoF6/PrxVW6RUBYp8SRlrLYTXCi6pbxabNw9prgFIqCl32jNFfNxPJjXPifW1rvkYMeOWXVLvczoquna+hyksu5n2RRrYNzjWnoc0uWRoAO2yOLD4MQrklcvFC45JrLJI9k3wElSlc/CBr7ra3nuENdsZqs2vHpBV/5gmwBTKYWumER70STGxCGxv4YKrV2VMUGwxhGrQ1h521SewltxmnFw/tXAPt4s1Dov/88z/LJ2+ha1QzoB5LOqVYa6JTUzgl6yibPABhs3Wc3Yf2AxaOtfaEZZ92LVDMOcg3z4XFIRB59voWhO2zDkCRYd3ROOoDyD/Z4XQ1g==;kC9yO4I82Zoj23YxxE/JEw=="
 ---

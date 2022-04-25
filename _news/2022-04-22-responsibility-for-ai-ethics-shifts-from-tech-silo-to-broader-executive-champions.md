@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2022/04/22/responsibility-for-ai-ethics-
 webUrl: "https://insidebigdata.com/2022/04/22/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Executives start to shoulder responsibility for AI ethics"
+    excerpt: "There has been a radical shift in the roles responsible for leading and upholding AI ethics at organisations. A new IBM Institute for Business Value (IBV) study asked which function is primarily accountable for AI ethics,"
+    publishedDateTime: 2022-04-25T09:39:00Z
+    webUrl: "https://it-online.co.za/2022/04/25/executives-start-to-shoulder-responsibility-for-ai-ethics/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 54
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2022/04/ethics.jpg"
+        width: 1075
+        height: 550
+        isCached: true
   - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
     excerpt: "80% of respondents in this year's survey pointed to a non-technical executive as the primary advocates for AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ..."
     publishedDateTime: 2022-04-21T19:00:00Z

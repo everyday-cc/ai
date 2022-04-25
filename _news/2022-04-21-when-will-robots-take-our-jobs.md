@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-21T09:00:00Z
 originalUrl: "https://www.fastcompany.com/90742061/when-will-robots-take-our-jobs"
 webUrl: "https://www.fastcompany.com/90742061/when-will-robots-take-our-jobs"
 type: article
-quality: 24
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/p-1-when-will-robots-take-our-jobs.jpg"

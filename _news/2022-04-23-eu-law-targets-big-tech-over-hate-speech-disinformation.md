@@ -33,15 +33,6 @@ related:
         width: 851
         height: 315
         isCached: true
-  - title: "Speechmatics tackles one of machine learning’s biggest challenges"
-    excerpt: "Speechmatics tackles one of machine learning’s biggest challenges, adding formatting of numbers, dates, addresses and more to its Autonomous Speech Recognition.  Speechmatics, the leading speech recognition technology scaleup,"
-    publishedDateTime: 2022-04-22T13:16:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/speechmatics-tackles-one-machine-learning’s-biggest-challenges"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 21
 
 secured: "xDSsehMYBYX2EEFeTX+Toc1dRBsq/V4oFNIBBInoQDJSUOU97HWGJE36++9AH2FEzSSDUDIOx7GXAhtTpmaHKcUR1lU9wWJE38VTpyJjYgVYJS/eM4N2VXfBtqU5KSPLP3M/825SY46R9efF8y1KGLRRvxJ4KVXqqnBi123FrpZNPzPHIM9GecMBmpyqAX6O7q3D0XO+86OKsJ8AxzvdaWBul8laSgAlvaUbGjaWMMa4ujO47ZKQkMJZBn+ianSNt2yUuzhxdT/XV3ypjkSwfYmwwzxE+I8cAx07UCm0uYQOF1FOvV1SYNvRMi1S/LSfxuCVI8p2tkdKeHX/g07s2ctPVNtNPe/eADxa35vufj/W3XsH+2w64aQObAp/5fF+2Wz/As5ExEucSfPN7mcRoKKt1KXFqQ1wGu1TmeMdx2e9jmK3Fw0VHmxlFaTnermFhcqgTA2U5M4L52wbXucEbD5k6MT7qLCm074Xl+uOEGgBIa4Vc7nCcUxsOPr6FN7fjkbx6cX6FO3QQYp24OlGew==;84bJKoUOGkn6+mPLukTCKg=="
 ---

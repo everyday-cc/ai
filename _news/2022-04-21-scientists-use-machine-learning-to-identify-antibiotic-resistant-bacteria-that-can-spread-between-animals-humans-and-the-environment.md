@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning identifies antibiotic resistant bacteria that can spread between animals, humans and environment"
-    excerpt: "Experts from the University of Nottingham have developed new software which combines DNA sequencing and machine learning to help them find where, and to what extent, antibiotic resistant bacteria is being transmitted between humans,"
-    publishedDateTime: 2022-04-20T16:40:00Z
-    webUrl: "https://phys.org/news/2022-04-machine-antibiotic-resistant-bacteria-animals.html"
-    ampWebUrl: "https://phys.org/news/2022-04-machine-antibiotic-resistant-bacteria-animals.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-machine-antibiotic-resistant-bacteria-animals.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 38
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/bacteria-1.jpg"
-        width: 1920
-        height: 1056
-        isCached: true
   - title: "Scientists use machine learning to identify antibiotic resistant bacteria that can spread between animals, humans and the environment"
     excerpt: "Experts have developed a ground-breaking software, which combines DNA sequencing and machine learning to help them find where, and to what extent, antibiotic resistant bacteria is being transmitted between humans,"
     publishedDateTime: 2022-04-21T18:00:00Z

@@ -40,20 +40,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "AI in Manufacturing Market Expected to Grow at a CAGR of ~25% throughout 2022 2030"
-    excerpt: "Research Nester published a report titled “ AI in Manufacturing Market : Global Demand Analysis & Opportunity Outlook 2030 ” which delivers detailed overview of theglobalAI in manufacturing market in terms of market segmentation by component,"
-    publishedDateTime: 2022-04-21T11:11:00Z
-    webUrl: "https://menafn.com/1104065505/AI-in-Manufacturing-Market-Expected-to-Grow-at-a-CAGR-of-25-throughout-2022-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?540820"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Neuromorphic Chip Market Size A Latest Research Report to Share Insights and Dynamics Forecast 2022-2031"
     excerpt: "The Neuromorphic Chip Market was valued at USD 111.04 million in 2019 and is expected to reach USD 366.14 million by 2025, at a CAGR of 22% over the forecast period. Keeping the pace of advancement of disruptive technologies such as Artificial Intelligence (AI) and Machine Learning (ML),"
     publishedDateTime: 2022-04-20T22:58:00Z

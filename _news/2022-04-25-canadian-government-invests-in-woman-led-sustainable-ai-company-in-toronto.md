@@ -65,15 +65,6 @@ related:
       name: KNWA News
       domain: nwahomepage.com
     quality: 17
-  - title: "Tech update: Using artificial intelligence to solve supply chain snarls, and consolidation in Canadian crypto"
-    excerpt: "The war is also driving up the prices of energy and other commodities, further disrupting global supply chains, with freighters full of commercial goods stuck at overwhelmed ports. Canada’s top artificial intelligence companies believe they can develop strategies and programs to get products to market faster and that makes the timing ripe for a new Canadian A."
-    publishedDateTime: 2022-04-22T18:21:00Z
-    webUrl: "https://www.thestar.com/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 17
 
 secured: "orbxKYcXjQtFKZ/lLRkyErRYOP67zYTH611/SmVJIPaWeRJs4gOH6e6O9rIi4qs7Z5Ggj4aQSkCFopOQZwRgRM+D1MBjzF3dZ9Za5GaXgs3kaUliz4fGL7UA7bcB4K4wCMYt7h1Qn3ABJVg0Cmv2BfsdX827AAU4mqTbJkivRfCg4sqYY3RfgIUoVMny5sociPy0Cw4QCbSYP0ik52lyl2sADLJsVU9Jo6AvOrIzq+Qq3QDoeNF3R6HXCTomucykyFSAV5J72ZZwMgCPd+e0lQXLU3BkcL8/NIchGGY+gS1Z+0cs2iAm9OZU+VjxZqvcL56IKiNI8WQeXVY874g4+30wppmYBKGhGCTTdZLb8YQ=;vvzLLQk21h6AMq1ZJxyM0Q=="
 ---

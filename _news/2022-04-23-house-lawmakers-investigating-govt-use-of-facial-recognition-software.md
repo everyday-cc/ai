@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Index Exchange becomes the first exchange house to use MOI’s facial recognition system to verify customers"
-    excerpt: "The deployment of the electronic facial recognition system automatically carries out hassle-free instant eKYC and facilitates quicker and more compliant payment"
-    publishedDateTime: 2022-04-25T06:42:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-cus"
-    ampWebUrl: "https://www.khaleejtimes.com/kt-network/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-cus?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-cus?amp=1"
+    excerpt: "In line with the directives of the UAE government seeking to implement the best services for customers and its orientation in achieving leadership and excellence in the fields of"
+    publishedDateTime: 2022-04-25T08:12:00Z
+    webUrl: "https://gulfnews.com/business/corporate-news/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-customers-1.1650874025359"
+    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-customers-1.1650874025359"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/index-exchange-becomes-the-first-exchange-house-to-use-mois-facial-recognition-system-to-verify-customers-1.1650874025359"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
+      name: Gulf News
+      domain: gulfnews.com
     quality: 41
     images:
-      - url: "https://image.khaleejtimes.com?uuid=b923fa41-0ff8-52e6-a780-6ac5d4732493&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99956&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
+      - url: "https://imagevars.gulfnews.com/2022/04/25/Index_1805fc547ce_medium.jpeg"
+        width: 540
+        height: 405
         isCached: true
 
 secured: "b7HRNbziITYWJO7WLVm6BxEFxHqQW7fEAFdJ8D1mKom1L/89G8VU4S9EyV05BdircURdoR0+x2cYL87gS/UNAMrf990CTq8W6i0J7n5m+7lbpDyF50Uqeka2pus0qm4tHHnokV9yanD4LT+OerXtxB0cUx9nT63cWdl0lHaTdoqsBs7AyIF4rI+ymOs6sq2Vv0i88bqh9E9bjUb/rTrDIn1OlUPVfnRF2plZBEPwt+csijbziLE8PKfyzlM9RoBSBDbd7zCgbPuzsOstuROHqih9fRKxTvYUohUZQnN86mQ1yQ0G9735vY+kp8gEbwslVpRHrh/BAXfV+C/KgpLOLqmaMDP9DBUGhQ4vSbxPOBg=;pV4rmBBaeMnTAxJY8jEKRw=="

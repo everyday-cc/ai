@@ -95,6 +95,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "China licences first self-driving taxi"
+    excerpt: "Pony.ai has been awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha, Guangzhou, making it the first autonomous driving (AD) company to obtain a taxi licence in China. In May,"
+    publishedDateTime: 2022-04-25T09:00:00Z
+    webUrl: "https://gadget.co.za/china-licences-first-self-driving-taxi/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/04/pony-ai-car-self-driving-scaled.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Pony.ai Becomes the First Autonomous Driving Company to Receive a Taxi License in China"
     excerpt: "Pony.ai, the leading global autonomous driving technology company, announced it is the first and only autonomous driving (AD) company to obtain a taxi license in China. Pony.ai was awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha,"
     publishedDateTime: 2022-04-25T05:52:00Z
@@ -105,6 +119,6 @@ related:
       domain: uniindia.com
     quality: 9
 
-secured: "skwmnbXv4rpQn2EySub9J0VV6ILv0Fc5f7oweXa4V3zZgOXr1rqO+0cHNpy0ZxJzt/3UROuESz37m8W/R5SNQjV5tN8YboaABwxMQDkj7roaHZecKBYujeZcOBs52VR3uotS4wfKuGtbUYyoSYiFysxKgt61YQFnct/u+UXrTaHhqid9Q80YWtSMxzXqWO+EFuDenVSaqcY21fxz2vJrqVADMnyVAiIgjrkwCkiCB2FQN9Z9+O4qLXiV0Yol2g49uFAmuLV458ZjazUMKnCFEFJJMvSD6m/QyWCyXRD48PpQ63vxYx6HUQ2xkvmt+tpiKf7YWvz4eDX+x8xqEuJ+Qr3i9chQbBs3JnXtIcW6QSM=;no43QC07Avbi+mi3Vh9D1w=="
+secured: "nsStwZ44IiD/IkAdziQl2AfkmXC3+dNzjAzdOGCALbg9AA+6pk9ZxsgCYj4qW99lcwnSN7s+FuwprPsdPTupxzzWyVMg0Krubj+Ewu9th3FSW4UQShXpiCovJveIqyIyOeheYb7Qade6AB7BGBo/DbhBKv6o9lYdFHfqLgUOUsSH6gJ2xcLkSp7zzklEt6uHas/honqdbvFa+UYfE5N15pBg3QaLCKPDmKyo7TOjxcdNrEqfvFlBDPMPRXTAlAVccCCKZGSMLhgXhN4eoIMN6KltQeTyo5Sxkhb/HYuX4WlHX7Vb74OoGho22cAYJcGSteGJYtHOajiTgonTG78JF1pWopsodVGQBe4ahWevRdrfrVrGBTf4oYlYgAd2AgZGSwNHpAxr5ui5SNEwjZ50vox1HjtZ8Mcui9Kyo/CkF4nJj64xrBRGubIMvj/5dwPst5PfhOFb+G053vOkOCWLCxcV9V7hmOOirPf2nYBV3GS/vXvgBd8wqT12I2YcYVJXN2M3Pu3TwyzQPEaIZpZr4Q==;zohmKA5gVrGmtePD8d3SeQ=="
 ---
 

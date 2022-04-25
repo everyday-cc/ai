@@ -35,7 +35,7 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
-    quality: 24
+    quality: 41
     images:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/p-1-when-will-robots-take-our-jobs.jpg"
         width: 1280

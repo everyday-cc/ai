@@ -19,21 +19,32 @@ topics:
   - AI
 
 related:
-  - title: "GM Just Patented a Self-Driving Car That Teaches People to Drive"
-    excerpt: "For more than a decade, people have been trying to teach cars how to drive. In the not-too-distant future, this effort may come full circle, with cars teaching people how to drive; last week, General Motors applied for a patent on an autonomous vehicle equipped to “train drivers."
-    publishedDateTime: 2022-04-20T16:58:00Z
-    webUrl: "https://singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive/"
-    ampWebUrl: "https://singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive/?amp=1"
+  - title: "Britain Gears Up To Watch TV In Self-driving Cars"
+    excerpt: "Motorists can sit back and watch TV once self-driving cars are approved on British roads but will be banned from using handheld mobile phones, government plans revealed Wednesday."
+    publishedDateTime: 2022-04-20T19:45:00Z
+    webUrl: "https://www.barrons.com/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
+    ampWebUrl: "https://www.barrons.com/amp/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 44
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+  - title: "UK government says motorists will be allowed to watch TV in self-driving vehicles"
+    excerpt: "The UK government has confirmed planned revisions to the Highway Code to accommodate self-driving vehicles, including allowing drivers to watch TV while an AI takes the wheel. In a moment history may judge as legislative hubris,"
+    publishedDateTime: 2022-04-21T08:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/21/uk_self_driving_highway_code/?td=amp-keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 39
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/04/GM-Cruise-self-driving-car-2.jpg"
-        width: 1068
-        height: 601
+      - url: "https://regmedia.co.uk/2020/10/28/autonomous_car.jpg"
+        width: 1000
+        height: 585
         isCached: true
   - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
     excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph."
@@ -48,6 +59,38 @@ related:
     quality: 38
     images:
       - url: "https://i2-prod.birminghammail.co.uk/incoming/article23728182.ece/ALTERNATES/s615/0_Driverless-cars.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
+    excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph. The updated Highway Code rules ..."
+    publishedDateTime: 2022-04-22T08:34:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924?int_source=nba"
+    ampWebUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
+    cdnAmpWebUrl: "https://www-coventrytelegraph-net.cdn.ampproject.org/c/s/www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
+    type: article
+    provider:
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 38
+    images:
+      - url: "https://i2-prod.birminghammail.co.uk/incoming/article23728182.ece/ALTERNATES/s615/0_Driverless-cars.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Highway Code's bizarre rules for self-driving cars - can I watch TV behind the wheel?"
+    excerpt: "New Highway Code rules proposed by the government's Department for Transport are likely to be in place later this year. They include allowing people to watch TV in self-driving cars"
+    publishedDateTime: 2022-04-23T06:00:00Z
+    webUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945"
+    ampWebUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 37
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
         width: 615
         height: 409
         isCached: true
@@ -79,6 +122,24 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "When will self-driving cars arrive on our roads?"
+    excerpt: "The Highway Code is being updated ahead of the first self-driving cars being allowed on Britain’s roads. Here the PA news agency answers eight key questions about the technology: – Can I already use a self-driving car in Britain? Not yet. Existing ..."
+    publishedDateTime: 2022-04-20T17:22:00Z
+    webUrl: "https://www.aol.co.uk/motoring/self-driving-cars-arrive-roads-075906262.html"
+    type: article
+    provider:
+      name: AOL.co.uk
+      domain: aol.co.uk
+    quality: 4
+  - title: "Controversial UK Law Will Allow Watching TV Behind The Wheel Of A Self-Driving Car"
+    excerpt: "New proposed updates to the Highway Code concerning self-driving cars in the UK will allow a human driver to watch television or other video media on a built-in screen while the car is in charge ..."
+    publishedDateTime: 2022-04-22T16:48:00Z
+    webUrl: "https://hothardware.com/news/uk-law-will-allow-watching-tv-behind-wheel-of-self-driving-car"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 0
 
 secured: "w87GrgTKBPV/in33R8HFad5N4R0D+rgJ1iH0HistB9yCgtSca3cTsfEfwdMBBR+IwMENAzX6C7Q/tqMM9ilqB7uFWPcg1WOBOpVT3zsTBK88edXObNA8fdX9zY47Zl4SrKEDJfWqS9pbmr6SuR4+rx9x5bAyyxLgNc2RDBV3hCn2MNo6jkdCykf8IhSDoikmkqwX1L5KB5yosFuKfzmfl3YgcO4Nrtq8TGODFHbujPieK2/SvfQWoeM5HBjxM7uXqbZOxRwduisYX9TJMUMEA4o/QdxELHLzDGlKYcAX/ccDy0Q8qr1ZE4FcBKzRmmRNpDD8OzMfQDAH/TYNBG1pH5hwbMadu9ul5sB7k/pZSDzT9UKhMcMS2uoUS7ZDowhnnbRVlO9LozwrCYnSjUJ7XUZ0xEYXIRiYFpTNYgxSzSflF9UaQ2TcDDuWzbz8ooGe2b0I2MSbNXV11zoIMNW8ptCArLJbXVVxZFpodZfMbibDa4Ivxr0NHHZ0lDSCBl0G8rqYHKTe6e6EYi4RUd762w==;z/p81gLyK8XhBT44ALRoYg=="
 ---

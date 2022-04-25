@@ -39,20 +39,6 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Nvidia's GPU-powered AI is creating chips with 'better than human design'"
-    excerpt: "However, it has also found many uses for AI in its silicon development process and, as Nvidia's chief scientist Bill Dally said in a GTC conference, even designing new hardware. Dally outlines a few use cases for AI in its own development process of the latest and greatest graphic cards (among other things),"
-    publishedDateTime: 2022-04-20T16:36:00Z
-    webUrl: "https://www.pcgamer.com/au/nvidias-gpu-powered-ai-is-creating-chips-with-better-than-human-design/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 68
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/bBRYUinrgcCUgH3RN4UXaR-1200-80.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia turns to AI for design process improvements"
     excerpt: "Better than humans Nvidia expects the complexity of integrated circuit design to increase exponentially in the coming years, and is looking to AI to help out. During a talk at this year's GPU Technology Conference,"
     publishedDateTime: 2022-04-21T10:43:00Z

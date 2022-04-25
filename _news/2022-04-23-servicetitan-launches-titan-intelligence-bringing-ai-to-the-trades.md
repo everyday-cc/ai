@@ -64,15 +64,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Tech update: Using artificial intelligence to solve supply chain snarls, and consolidation in Canadian crypto"
-    excerpt: "The war is also driving up the prices of energy and other commodities, further disrupting global supply chains, with freighters full of commercial goods stuck at overwhelmed ports. Canada’s top artificial intelligence companies believe they can develop strategies and programs to get products to market faster and that makes the timing ripe for a new Canadian A."
-    publishedDateTime: 2022-04-22T18:21:00Z
-    webUrl: "https://www.thestar.com/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 17
 
 secured: "MJxjzpOTJ32iMYmtd+N/HySoxf57jy2xh6GzsR+/zkXS281FIKeUrZZjT1b+7M1Te6a7dIN7WeVsIau4Ur9muTvNczrDJchRLPG+22NwCxSeFXvJCcSskgBCJic9to+omSaAUcoMgqrKnTxUeTP3mrCFOvgtRajGZY4XFEBkrAAhVzeqa0vYSipFwwurJjOqKfw0zyRXWBO0sOLmbCoKvPCilu7JqrAuaGNUYnuCkBXo7fHSHtyST/VNvCiJKZe5oiKxOTVGATHJ4IfVp9hz/yvlGlfIEcmvuGTB/ZIbdtnaejGjZ7nH9L+4xXdWtafH80ChnR6gvDQ7E3VOV9HR1H8uDinSDL9RL8k2Z5t1Tv4=;Spe1v2ERfGpWJFvCWJX3XA=="
 ---

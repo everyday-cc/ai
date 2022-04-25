@@ -52,15 +52,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 69
-  - title: "Esperanto Technologies’ Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
-    excerpt: "Esperanto Technologies™, the leading developer of high performance, energy-efficient artificial intelligence (AI) inference accelerators based on the RISC-V instruction set, today announced that initial evaluations for its ET-SoC-1 AI inference accelerator are underway with lead customers."
-    publishedDateTime: 2022-04-20T15:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-artificial-intelligence-ea33e32164d34c07b2913f939ba89d92"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
 
 secured: "4t9WZoP/ksq/hIO1AYYWbXWssUs6eTlgxW3v9ETfZkqScZmGsXL9CSEhq8qMivpj0J5dVpLOu7diDGEnvYmX5roNnuPjrZu1NdywT07x7VRt9OF582UyWmGYt92f51EauWEUmFPRKc8wmWLqQOMsEPKXROnvVtok/PQo+xLY3RxoXCN6ik2wUc95wWRv3VbSukael+QT4Sxf85THhKYP9vAtHqys/qULCysIpjRDp1RKL1FE6NA0D919xiTpgPgA2iVxRb/6a09GnpABnSgVrvbd/ripjaDoaWhW0We2j3+5QLEeU7htoAoQJufAumquAy1EFAID0bMj6yGJbKPrw3K6Fiff4YO8DINkdmhs4iFGbdoeqX4DNj/9aVsSupuUQ3Ud8W0AUKtpPZbQ+nFS0YocUC4QEu/VPofYZacXkS8Q+KHCJCx2beC5t2BqUz32NFoQDSFOdMYmgcpATiYzkPeDnyUF3ms0YXOq0nao+FE4GMPQwIjPdrM3mNiky52j2n1WoAsfoDJgMES5Pw8owQ==;W429/TNExZnbmTmdct1XHg=="
 ---

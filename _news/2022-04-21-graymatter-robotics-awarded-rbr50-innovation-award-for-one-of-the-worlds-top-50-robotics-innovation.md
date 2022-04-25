@@ -9,7 +9,7 @@ ampWebUrl: "https://www.finanzen.at/nachrichten/amp/graymatter-robotics-awarded-
 cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "GrayMatter Robotics Earns RBR50 Innovation Award"
-    excerpt: "GrayMatter Robotics announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world."
-    publishedDateTime: 2022-04-20T15:19:00Z
-    webUrl: "https://www.automation.com/en-us/articles/april-2022/graymatter-robotics-awarded-rbr50-innovation"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 54
-    images:
-      - url: "https://www.automation.com/getmedia/36ccf36b-766b-4539-8640-f929de8e451d/Graymatter-news-April-20-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "b5rGaOMWpUrSZTotf1RSiWLaK7TcpLEKucRkfQ84uQlKWg0IosqTc9xFLqgdEz7NUrSIt3Yau4LQBmril/iPyrn9JRZaeZgTGYOXbcdEBGm8OgMDqmZKs77ihPfI+fNQNgC38wmxxEwZkflQl0+HCYHxqJ/jaQcSwKk3YLHHxDhnjaD7TBMBWIYOxUy8vumKk7jplzPpHkYdGwsdWEoddBqN7U3qGpLqkGSvUJLpjo8pVEPTQZ1UXEPZv7KhnFYNKcZs+cWUivcl+HktGtrJsZJmqux095ZJEoyORaSksAgh1b3HdnXUur0f/EVX61mgyJbu/HNprlD7uLzY16oAd7KOc5VPNLTF5fZOIYWm16s=;SXZrMmXeHzP6IceYGkw95w=="
 ---

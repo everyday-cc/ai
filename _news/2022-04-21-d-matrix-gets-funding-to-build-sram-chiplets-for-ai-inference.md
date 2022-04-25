@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/04/20/d-matrix-gets-funding-to-build
 webUrl: "https://www.datanami.com/2022/04/20/d-matrix-gets-funding-to-build-sram-chiplets-for-ai-inference/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1000
     height: 563
     isCached: true
-
-related:
-  - title: "D-Matrix lands $44M to build AI-specific chipsets"
-    excerpt: "The chiplet architecture employs multiple small chips to make up a larger integrated ... 3 is a language model created by the Open AI LLC lab that has applications in a variety of language ..."
-    publishedDateTime: 2022-04-20T15:18:00Z
-    webUrl: "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/chip-6517875_960_720.jpg"
-        width: 960
-        height: 629
-        isCached: true
 
 secured: "nxtD7/q5sZwaY5d1mOqHqHP1884WbneMq4yudhI2jqDZhaZmOqrDeuqJfN+Yp5dG1fDJ/zI9Lvp33GJxe9sbyeaxnxNBkgdk/0ynKGCZ/7V6JKvvx8b/iojpXk2w0nhQwnv2twOqOwgnelVN49rQJ+J48MpTDKnui27yhGe2qwbRGFcMadExnJ5UUpHwu+eji6Wd1lmdqGTp9IY+ov/X2z4UO54c9o9iumq3TubBJnGn6ijIEVzS26vf8eWHl+m/AjMXdY5/at1MoUBfLp1QwNJ+ahwGucuZIfHbUaMULgB7iwgEVrUkI96zeu0nmYtymobs23B1iI+hKf4DG244QaIBJ23ouHa41NmRGrlffXVZGjsOkJ6hAe8ad8xiWNLsBXaiir3zqRbbktBEHjzAIPgp3TArM1j+fLRLYrlhF0r2gY7bRwLysKcNwkxINZt3+egqLrw1ewVuwcN5OsI4C+iu2gZxAcIzETJefcJko/CEAlgTD7hImKocYZxjlxjleyljBxSThtorP9kTlJvkuA==;vLsOY0FimnhJ8SyHtOuSxw=="
 ---

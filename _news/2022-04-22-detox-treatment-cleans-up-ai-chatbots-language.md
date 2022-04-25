@@ -34,20 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Don’t Ban the Bots: How to Make AI and Live Commerce Work Together"
-    excerpt: "AI vs. live commerce is also not an either-or proposition. Rather, they can and should be complementary. Every interaction can be converted into text and image data that can aid in understanding the most common queries and sticking points for customers."
-    publishedDateTime: 2022-04-20T15:38:00Z
-    webUrl: "https://www.mytotalretail.com/article/dont-ban-the-bots-how-to-make-ai-and-live-commerce-work-together/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 37
-    images:
-      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2022/04/GettyImages-1364050120.jpg&w=750&h=340"
-        width: 750
-        height: 340
-        isCached: true
 
 secured: "qjkPZ8b0gm/irTPIJc0/ekOYEtd9JekTm6emOrQ8dehAs0olP4jB9C1OWSwy8JsLoc23c5Dsl9cGafoMhV104dvPRqLog442pWrruZRZBbgq2ZakfAVmbsvfCVtKESKq8YRC/EP0/UXYO5IqCL4izoPKBIVaNcyVWwJDtsWeUzAzDLyYFmX+IAxYiqIizFSL3pw2+wMh03WRrl6dOrJLA4hOmmGQtn589f+56F51l7hXssgw0Wzuo3tQoQzCXIUgDQKUDuRtkzkhcTNM1/KUGzWmdO6SvvMIHufOWE5YuHZab5Ap+uu5XA1d9+fIpyGY0wwlQ3/OY2BfeAi53RWynVHuOabaUjcuF2iUidgzTRE3w5Es/PS/F0/6xc14+UXNERxyF+XijH7SgsWeF2ggg8qYsW18d+nX3mQAmaiEMPyadKUzx5jb+W9CZ4M9dtKlNCJOiKcpEukI3f2WvdYBZndaqWeZrs43hp6dAZlxhPQ6wGqgvF/VaUTOmERpwpWca+2JPYEJEJpch1UxCO5f3w==;potICmczll8YgdE+7LDJOg=="
 ---

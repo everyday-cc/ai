@@ -20,61 +20,36 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Canadian government invests in woman-led, sustainable AI company in Toronto"
-    excerpt: "The Federal Economic Development Agency for Southern Ontario (FedDev Ontario) today announced an investment of over C$5.7 million in Canvass Analytics Inc. (Canvass AI) a woman-led artificial intelligence (AI) company whose mission is to make AI easy-to-use so that the industrial sector can accelerate its transformation into a profitable and environmentally sustainable industry."
-    publishedDateTime: 2022-04-22T15:20:00Z
-    webUrl: "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691"
-    ampWebUrl: "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1"
+  - title: "4 Ways AI Can Help You In Crypto Investing"
+    excerpt: "Since cryptocurrencies are highly volatile, they increase the risks of crypto trading but also make them significantly more profitable than conventional investments.  The market’s price fluctuates throughout the day,"
+    publishedDateTime: 2022-04-25T08:06:00Z
+    webUrl: "https://techbullion.com/4-ways-ai-can-help-you-in-crypto-investing/"
+    ampWebUrl: "https://techbullion.com/4-ways-ai-can-help-you-in-crypto-investing/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/4-ways-ai-can-help-you-in-crypto-investing/amp/"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 55
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/04/canvass_logo_square.png"
-        width: 520
-        height: 520
+      - url: "https://techbullion.com/wp-content/uploads/2022/04/AI-In-Crypto-Investing.jpg"
+        width: 700
+        height: 400
         isCached: true
-  - title: "Canadian government invests in woman-led, sustainable AI company in Toronto"
-    excerpt: "The Federal Economic Development Agency for Southern Ontario (FedDev Ontario) today announced an investment of over C$5.7 million in Canvass Analytics Inc. (Canvass AI) a woman-led artificial intelligence (AI) company whose mission is to make AI easy-to-use so that the industrial sector can accelerate its transformation into a profitable and environmentally sustainable industry."
-    publishedDateTime: 2022-04-24T20:03:00Z
-    webUrl: "https://www.itbusiness.ca/news/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/121403"
-    ampWebUrl: "https://www.itbusiness.ca/news/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/121403?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/121403?amp=1"
+  - title: "Currency.com expands into the US with new crypto exchange services"
+    excerpt: "JERSEY CITY, NJ / ACCESSWIRE / April 21, 2022 / Currency.com, the high-growth global crypto exchange helping everyone connect with the booming world of cryptocurrencies, has today announced it has expanded into the US."
+    publishedDateTime: 2022-04-21T12:26:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/cryptocurrency-technology-business-d625ee6da58a8de60252c36fe88f07aa"
     type: article
     provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 55
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/04/canvass_logo_square.png"
-        width: 520
-        height: 520
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "German Decision Could Provide an Answer to AI Inventorship"
-    excerpt: "Germany’s Federal Patent Court has set aside a decision by the country’s Patent and Trademark Office (DPMA) that refused a patent application naming an artificial intelligence (AI) as the inventor."
-    publishedDateTime: 2022-04-20T17:15:00Z
-    webUrl: "https://www.ipwatchdog.com/2022/04/20/german-decision-provide-answer-ai-inventorship/id=148555/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 37
-    images:
-      - url: "https://www.ipwatchdog.com/wp-content/uploads/2021/07/Depositphotos_168275348_xl-2015-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
-  - title: "ServiceTitan Launches Titan Intelligence, Bringing AI To The Trades"
-    excerpt: "The Next Generation of ServiceTitan's Operating System for the Trades Helps Contractors Harness the Power of their Data to Predict Outcomes, Automate Tasks, and Embrace Digital Transformation The trades industry is at an inflection point as trends in data analytics,"
-    publishedDateTime: 2022-04-22T17:30:00Z
-    webUrl: "https://www.nwahomepage.com/business/press-releases/cision/20220422LA32804/servicetitan-launches-titan-intelligence-bringing-ai-to-the-trades/"
-    type: article
-    provider:
-      name: KNWA News
-      domain: nwahomepage.com
-    quality: 17
 
 secured: "xEG2F0cdl0AMzgRRN8WxUdDxohGsntk0fM0vrDhPQOWIXyiSoLHzK7WW4fm427dynX1UJHqRY+FkPtZsyraJmCr/8iQ/u7WAdlw0Id52OCLskXl5t1GSHzITG2WvS/n+EtXfBZua+v1sKyG8u5WCliwvMIDBLQ9dtUAOqPwpvLFk6fkSpWoNinfIW816Tqd7MsSSHw7aSuMLUe2YzG+FKMQcGwWjXN/LhqxzwxGscu13LOy2ToNi7AIp/yEHQ7HtNDtzoUvDAGz3FICOEttiF1dBzIVG39Uz9cj08LrFZ1qzIiIGqfR2BNN7EXqhBpgKPo4g9YTjImwA0gqOkMDTitaIVdKngBDdTBHwQWj6Z44UozJBs2VOIfY8r5oHqLx7PXRvMH7aJdbXD/MRotsMLOluD2FoOD6henhbaastkw8lQKx6lgAR6TxIYJwtZJXgl50LYfyLVfTMhKrMgRwQTHie6xaSknSGiDDSdywY605uIqqC2Y5Oq1z/UI213dfSSFEuYCOFXlpPOPRSRCG3Lg==;xmJE1EEN32VT/NYtSvBmYQ=="
 ---

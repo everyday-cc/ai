@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Ultrasound AI Aims to Save Infants with AI-powered Detection Software"
-    excerpt: "Ultrasound AI’s software, Preterm AI, can compare ultrasound images to find minute changes that could indicate an increased risk for preterm birth. The software platform is patented and is not, yet FDA cleared."
-    publishedDateTime: 2022-04-20T15:04:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/ultrasound-ai-aims-save-infants-ai-powered-detection-software"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 37
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/preterm%20labor.png"
-        width: 770
-        height: 400
-        isCached: true
   - title: "Cedars-Sinai's new division is trailblazing AI to improve patient care"
     excerpt: "The Department of Medicine at Cedars-Sinai created a division to explore AI's applications in healthcare. The division, called Artificial Intelligence in Medicine, was launched March 1 and is led by Sumeet Chugh,"
     publishedDateTime: 2022-04-22T20:34:00Z

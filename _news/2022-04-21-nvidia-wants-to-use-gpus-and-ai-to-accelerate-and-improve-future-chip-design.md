@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-acc
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
 type: article
 quality: 116
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia's GPU-powered AI is creating chips with 'better than human design'"
-    excerpt: "However, it has also found many uses for AI in its silicon development process and, as Nvidia's chief scientist Bill Dally said in a GTC conference, even designing new hardware. Dally outlines a few use cases for AI in its own development process of the latest and greatest graphic cards (among other things),"
-    publishedDateTime: 2022-04-20T16:36:00Z
-    webUrl: "https://www.pcgamer.com/au/nvidias-gpu-powered-ai-is-creating-chips-with-better-than-human-design/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 68
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/bBRYUinrgcCUgH3RN4UXaR-1200-80.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia’s next GPUs will be designed partially by AI"
     excerpt: "Nvidia has talked about the use of machine learning and AI in upcoming graphics cards. It plans to use AI to increase the efficiency of next-gen GPUs."
     publishedDateTime: 2022-04-21T19:16:00Z
