@@ -3,7 +3,7 @@ name: "Madeline Gannon"
 bio: "Inventing better ways to communicate with machines."
 location: Pittsburgh, PA
 type: "profile"
-heat: 71
+heat: 58
 
 website: https://t.co/It4puKUIPF
 
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Madeline Gannon"
 
-secured: "Lhvn23vWpqwkIhoilAxetNKLY3MfnXV9bH+99ad6KpupyoqOrz4cmkKqaID+SfzykRgFLyXuBPJ4xEJ6ghv29sIpJGmRfCfKZJLld4eDRWUjEXfaVPmeyrao66BKCs2kUAP7UQI3MnyibyPN1WK/YHt8SHwFd0n8jzlw1E54LNDN4agsDKICTbFJ0HLdeHY+bqzFqcoka+wYpG+6Wm2V9xkFXyTWRGXvi3YdFgBSmxI5EemsjOTAF6vzdqDuG7VcaHQ+MOdxA8+iE5xkK+4uVfjshOYmjjDwb77GRDY0KRj6dtjnHhzwbMZ9aeKR9NLhzY4PUcyfpOXY2FaZ3fxR0mfvw83GKt5ozJhaBQQsmrkVXULQBRIuy2fDBMrPmm/9lrvCaBs5G4bNfrATP08Lq6CxkYGlaQu8pVbs5MVKeKM=;7bn+AE8KEfGgHW/ZK8ktBQ=="
+secured: "Uj3tnvcsE8WyOL+vwlCP3Asm/ct1apDCzZzf1HW7BaBtOyncsA0rwDULExjITB25KnBvWyE1NCg/+gm28/DEY/d8ehcXUxgZlL5v8zXi5V1Qlu6sYyKgn3JxInAiancUVR0helagIqOmayYHI0FKhWvVHbiaDpNbfPCwGEnvIt+d2p6WNeP+1VwPnXcuFFTy6xdRKBgb5IHdA4LXJHc6MkLZNy5ApOu/7dDhOaoxfkHVV1DXCTLp36Z0j+Tfz5upoI4IAI7T2UzKaWHwP0vK9Or47Zo3avXUIUfnnnTusEQLEeb6o2zNKLSV73LYLt6IWoCc9X1Cmlpp+fyr47RmcNNNH6tMVaIBav5rq1+zMzB2QxvLWQlMZpGSTeIAXsK10ErrOdjhaOzQxqtd8aNxlvKu1WuiLyv8G6UhAZXM2Mg=;83gQ2cre8ONSz6NewBcw/w=="
 ---
 
