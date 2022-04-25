@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-15-constellation-on-the-future-of-credit-unions-fintech.md",
+      "title": "Constellation on the Future of Credit Unions & Fintech",
+      "excerpt": "Dawn Sirras, SVP-Fintech Partnerships at Constellation Digital Partners discusses challenges in the Credit Unions space and how they are being addressed",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/digital-payments/constellation-on-the-future-of-credit-unions-fintech",
+      "originalUrl": "https://fintechmagazine.com/digital-payments/constellation-on-the-future-of-credit-unions-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1800/36f7fb61a154937806c4d15ff3681407:625cd43699536af6f76edd33418026e4/gettyimages-1352377833.jpg.jpg",
+          "width": 1800,
+          "height": 1011,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-15T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study.md",
       "title": "Responsibility for AI Ethics is Shifting from Tech Roles to the Business Executives, says IBM Study",
       "excerpt": "A new IBM (IBV) study has revealed a fundamental global shift in the roles responsible for managing and maintaining AI ethics",
@@ -527,48 +570,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-15-has-this-startup-cracked-the-code-on-ai-powered-design.md",
-      "title": "Has this startup cracked the code on AI-powered design?",
-      "excerpt": "AI is coming to the design industry. Actually, it’s already here. The past few years have seen a range of players, from small startups to big institutions,",
-      "sourceUrl": null,
-      "webUrl": "https://businessofhome.com/articles/has-this-startup-cracked-the-code-on-ai-powered-design.html",
-      "originalUrl": "https://businessofhome.com/articles/has-this-startup-cracked-the-code-on-ai-powered-design.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/editoratlarge-production/images/11413/large169/Screen_Shot_2022-04-14_at_5.46.45_PM.png?1649973138",
-          "width": 1220,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business of Home",
-        "domain": "businessofhome.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-15-the-worlds-largest-chip-just-received-a-major-machine-learning-flavored-upgrade.md",
       "title": "The world's largest chip just received a major machine learning-flavored upgrade",
       "excerpt": "By doing so, our customers gain access to the 850,000 AI optimized cores and 40 Gigabytes of on-chip memory in the Cerebras CS-2.” CSoft version 1.2 now enables developers to write their models in the open source frameworks of PyTorch or TensorFlow and ...",
@@ -704,6 +705,48 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-has-this-startup-cracked-the-code-on-ai-powered-design.md",
+      "title": "Has this startup cracked the code on AI-powered design?",
+      "excerpt": "AI is coming to the design industry. Actually, it’s already here. The past few years have seen a range of players, from small startups to big institutions,",
+      "sourceUrl": null,
+      "webUrl": "https://businessofhome.com/articles/has-this-startup-cracked-the-code-on-ai-powered-design",
+      "originalUrl": "https://businessofhome.com/articles/has-this-startup-cracked-the-code-on-ai-powered-design",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/editoratlarge-production/images/11413/large169/Screen_Shot_2022-04-14_at_5.46.45_PM.png?1649973138",
+          "width": 1220,
+          "height": 687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business of Home",
+        "domain": "businessofhome.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1080,72 +1123,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-14-acing-cx-with-smart-self-service-through-ai-automation-and-analytics.md",
-      "title": "Acing CX With Smart Self-Service Through AI, Automation And Analytics",
-      "excerpt": "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ...",
+      "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
+      "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
+      "excerpt": "My grandmother, Claire Hastings, was born in the 1920s on a farm in Armidale, northern New South Wales. That was a relatively common thing, with just 43% of the population living in cities, compared with more than 70% now.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/",
-      "publishedDateTime": "2022-04-14T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment.md",
-      "title": "Israeli startup Ception unveils new AI-based system to improve safety, productivity, and profitability of heavy equipment",
-      "excerpt": "Israeli startup Ception has unveiled an AI-based system that reduces accidents and improves productivity and profitability of heavy equipment at construction sites, mines, quarries, and industrial plants.",
-      "sourceUrl": null,
-      "webUrl": "https://who13.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/",
-      "originalUrl": "https://who13.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/",
+      "webUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html",
+      "originalUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2022/04/WALKER-WHALEN.jpg?w=2000&#038;ssl=1",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-26.jpg",
+          "width": 1356,
+          "height": 668,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1153,13 +1145,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T04:28:00-07:00",
+      "ampWebUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp",
+      "publishedDateTime": "2022-04-14T06:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "who13",
-        "domain": "who13.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/canadian-government-invests-in
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2022/04/canvass_logo_square.png"
         width: 520
         height: 520
-        isCached: true
-  - title: "German Decision Could Provide an Answer to AI Inventorship"
-    excerpt: "Germany’s Federal Patent Court has set aside a decision by the country’s Patent and Trademark Office (DPMA) that refused a patent application naming an artificial intelligence (AI) as the inventor."
-    publishedDateTime: 2022-04-20T17:15:00Z
-    webUrl: "https://www.ipwatchdog.com/2022/04/20/german-decision-provide-answer-ai-inventorship/id=148555/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 37
-    images:
-      - url: "https://www.ipwatchdog.com/wp-content/uploads/2021/07/Depositphotos_168275348_xl-2015-scaled.jpg"
-        width: 2560
-        height: 1706
         isCached: true
   - title: "ServiceTitan Launches Titan Intelligence, Bringing AI To The Trades"
     excerpt: "The Next Generation of ServiceTitan's Operating System for the Trades Helps Contractors Harness the Power of their Data to Predict Outcomes, Automate Tasks, and Embrace Digital Transformation The trades industry is at an inflection point as trends in data analytics,"

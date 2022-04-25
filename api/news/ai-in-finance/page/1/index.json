@@ -10,7 +10,7 @@
       "originalUrl": "https://www.scmp.com/presented/business/topics/fintech-doctorate-sets-polyu-apart/article/3174777/fintech-focus-polyu",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -362,6 +362,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-constellation-on-the-future-of-credit-unions-fintech.md",
+      "title": "Constellation on the Future of Credit Unions & Fintech",
+      "excerpt": "Dawn Sirras, SVP-Fintech Partnerships at Constellation Digital Partners discusses challenges in the Credit Unions space and how they are being addressed",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/digital-payments/constellation-on-the-future-of-credit-unions-fintech",
+      "originalUrl": "https://fintechmagazine.com/digital-payments/constellation-on-the-future-of-credit-unions-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1800/36f7fb61a154937806c4d15ff3681407:625cd43699536af6f76edd33418026e4/gettyimages-1352377833.jpg.jpg",
+          "width": 1800,
+          "height": 1011,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-15T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -842,6 +885,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-11-fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera.md",
+      "title": "Fluence Announces Agreement to Acquire AI-Enabled Software-as-a-Service Company Nispera",
+      "excerpt": "In increasingly sophisticated energy markets, forecast of granular asset availability, production profile, and management becomes imperative for value capture Enhances Fluence’s digital leadership position with a combined digital portfolio of 15 GW contracted or under management Accelerates development and roll-out of new applications on Fluence IQ Digital Platform Strengthens foundation for recurring revenue and expected to be EBITDA accretive by 2024 ARLINGTON,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/",
+      "originalUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/CabreraAP22113633967552.jpg?w=2000&#038;ssl=1",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN",
+        "domain": "wkrn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-how-are-indian-banks-adopting-digitisation-and-ai.md",
       "title": "How are Indian banks adopting digitisation and AI?",
       "excerpt": "An estimated 205 million Indian adults already have a digital-only bank account, and this number is predicted to increase to 397 million within the next five years.",
@@ -1227,102 +1313,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-career-roadmap-machine-learning-engineer.md",
-      "title": "Career roadmap: Machine learning engineer",
-      "excerpt": "As organizations worldwide adopt machine learning across virtually every industry, the demand for machine learning engineers is on the rise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
-      "originalUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/03/nkridler-career-roadmaps-100923109-medium.jpg?auto=webp&quality=85,70",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html",
-      "publishedDateTime": "2022-04-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-gupshup-acquires-activeai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies.md",
-      "title": "Gupshup acquires Active.Ai, the Leading Conversational AI Platform for Banks and Fintech Companies",
-      "excerpt": "Acquisition Brings Advanced, AI powered Omnichannel Conversational Engagement Solutions to BFSI Organizations Gupshup, a global leader in conversational engagement, announced today the acquisition",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2022/04/04/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2022/04/04/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/82a342fb-gupshup.jpg",
-          "width": 898,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-03T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

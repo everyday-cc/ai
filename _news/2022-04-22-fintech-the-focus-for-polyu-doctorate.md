@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-s
 webUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-sets-polyu-apart/article/3174777/fintech-focus-polyu"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
         width: 2560
         height: 1709
         isCached: true
-  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
-    excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
-    publishedDateTime: 2022-04-20T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1247847&cat=PRN"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "BKYJZP/2+6jblbGV9P8TPSSTu8dlIJXNADsaACUXnoHq5AM6R1OA7LkpETOZY9H/D5DtYYS9c686PRTd6mDWBrFW5xu+8SsSHQaQw6BDzEevUnPACg246qSNm67KQ1wEUrZ7Ll00linckU4UYj5y5Sj77y6kgQjZMU9+SyaIau/4klZIt2V1w0cvHgnZRzAipXK+HI2LBVnN1pTCa2Dk9PYew712iot4zHwPtH8Ol6vJxbO2hmP5JtKqu6OWTOpVeHKnXxLcZ110sWMmEzR39K9N4UyZzebwWXno7Z65HWgBtW76Ih7H62tqQNztC6cgX5t4rL2onlnK3XLK5zoF9A48P/2HTwJTrRYtQjwcV2M=;tIyaJVVluJpJ1lSCEeokDw=="
 ---

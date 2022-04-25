@@ -728,6 +728,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-11-artificial-intelligence-ai-in-medical-market-2022-research-with-revenue-share-analysis-to-2027-by-nvidia-intel-ibm.md",
+      "title": "Artificial Intelligence (AI) in Medical Market 2022 Research with Revenue, Share Analysis to 2027 | By -NVIDIA, Intel, IBM",
+      "excerpt": "AWS, GE Healthcare, Siemens Healthineers, Medtronic, & Others The Global Artificial Intelligence (AI) in Medical Market Research Report contains a point by point investigation of the significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2022-research-with-revenue-share-analysis-to-2027-by--nvidia-intel-ibm-2022-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2022-research-with-revenue-share-analysis-to-2027-by--nvidia-intel-ibm-2022-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-oracle-data-warehouse-vs-redshift-compare-data-warehouse-software.md",
       "title": "Oracle Data Warehouse vs Redshift: Compare data warehouse software",
       "excerpt": "Oracle Data Warehouse and Amazon Redshift are popular data warehousing solutions. Read this feature comparison.",
@@ -1355,40 +1407,6 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-3-reasons-why-you-should-buy-amazon-pre-split.md",
-      "title": "3 Reasons Why You Should Buy Amazon Pre-Split",
-      "excerpt": "Additionally, AWS has the deepest functionality within ... a device that uses artificial intelligence technology to monitor glass windows or doors, alerting customers whenever glass is broken.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-reasons-why-you-should-buy-amazon-pre-split",
-      "originalUrl": "https://www.nasdaq.com/articles/3-reasons-why-you-should-buy-amazon-pre-split",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-reasons-why-you-should-buy-amazon-pre-split?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-reasons-why-you-should-buy-amazon-pre-split?amp",
-      "publishedDateTime": "2022-04-04T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

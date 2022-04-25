@@ -131,15 +131,6 @@ related:
       name: Evans Halshaw
       domain: evanshalshaw.com
     quality: 4
-  - title: "When will self-driving cars arrive on our roads?"
-    excerpt: "The Highway Code is being updated ahead of the first self-driving cars being allowed on Britain’s roads. Here the PA news agency answers eight key questions about the technology: – Can I already use a self-driving car in Britain? Not yet. Existing ..."
-    publishedDateTime: 2022-04-20T17:22:00Z
-    webUrl: "https://www.aol.co.uk/motoring/self-driving-cars-arrive-roads-075906262.html"
-    type: article
-    provider:
-      name: AOL.co.uk
-      domain: aol.co.uk
-    quality: 4
 
 secured: "6umh3bvmRuISwI9RYV0S6vjquBkzJEgcmi+jY8Mz3mt1wEVsjtfSD63ErYJw7CWW27zZRkDqkD7WHoovqeBK42FuGaOKE/pKobAqahihfroRilnkKLFhpXG/oqm6ukNkhQrLe0bW0PyJkvp7gvXVhalpx7U+pjKz2ekH5CqZcA5TCi8qEMpcciuLWA5t/cEsYJPV43eS19/uk+xpmhcKP86R+mYUiJHTT/d3/WOlt0l2S/zW5C3ZRa1SsCSVlysSM3cfdNwIdugZ4hWBECbdqJm7NCPs8NZXLp/UVcT2B0tGySND031g/lI4mkrUp6svr9fdieaE6d19VO5S/rcA24GkaZljllgqrLLOGX5PAyA=;gEg5mtCyhk1F8mgHXLZwxA=="
 ---

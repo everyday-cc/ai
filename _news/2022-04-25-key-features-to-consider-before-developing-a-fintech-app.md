@@ -92,15 +92,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
-    excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
-    publishedDateTime: 2022-04-20T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1247847&cat=PRN"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "9uZQB7L2oOPJSCXlgHpBaoBgoJEdZJYcEneF+soKQhqrdXkpmLHSa3JfOaI4GmVuuJUMQXrUKAOK+JGXjfJtRUoQRxTgKY1EUbaZM4pO2HwAy212dWpBgxRvQ+bazpNv4lrB49JvBSm4YpC/D36gas5QZSZu2d7HKq/RyacQkHsKQszbfu4aaFDjD+Qy3YE1YYeOFbL71kXsGWxAmh3GpUHGTVc8gUYvJO/E3u3u1QM8yl9xEG3QmXr2L9rosTd2eRnQq2uTEcg9eycWjbgm6Ht8Im/djlSJlb4fgS9U034LaROz1Turl1wWlbrEPhYce+aoCDM/o1g+V9N6czbMzJ2t+OmavRMziL+pPDv8T8Efbgapec6qFlqf7cKKuJxl0Nc9xmtw4N4trhVTM9bfZVxG8/nQRqsH670ikcXdMYWZBmbtBUv443VqP+ck1/LmA96eh+FkJlCu5gLwrCcrMpD4uEllyAnD6+hn+XUwP1uo3VNYhsi7RcetTAxtwmgesKWNz3U5R+54Y1tGWhy3/A==;54/sjBFlafZ3dqYRmF5G3g=="
 ---

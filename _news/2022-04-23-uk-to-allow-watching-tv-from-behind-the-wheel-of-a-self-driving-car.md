@@ -91,22 +91,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Driven to distraction: how close are we to watching films in self-driving cars?"
-    excerpt: "DfT has proposed some measures to smooth way for adoption of autonomous vehicles on British roads Self-driving cars could lead to drivers being allowed to watch films on the motorway, under changes to the Highway Code proposed by the Department for ..."
-    publishedDateTime: 2022-04-20T17:12:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/apr/20/driven-to-distraction-how-close-are-we-to-watching-films-in-self-driving-cars"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/20/driven-to-distraction-how-close-are-we-to-watching-films-in-self-driving-cars"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/20/driven-to-distraction-how-close-are-we-to-watching-films-in-self-driving-cars"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 40
-    images:
-      - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_76_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=08ca4535493b4135d951bd1f818477af"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Pony.ai wins autonomous driving taxi license in China"
     excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"
     publishedDateTime: 2022-04-24T08:41:00Z

@@ -62,20 +62,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "DEADLINE ALERT for AFRM, ERIC, AI, and RIVN: The Law Offices of Frank R. Cruz Reminds Investors of Class Actions on Behalf of Shareholders"
-    excerpt: "The Law Offices of Frank R. Cruz reminds investors that class action lawsuits have been filed on behalf of shareholders of the following publicly-traded companies. Investors have until the deadlines listed below to file a lead plaintiff motion."
-    publishedDateTime: 2022-04-20T17:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-middle-east-lawsuits-los-angeles-a9dbe1f7ecde9b4b61f258bd1e5a0ad2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "SHAREHOLDER ALERT: ERIC AI ABBV: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
     excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / The Law Offices of Vincent Wong announce that class actions have commenced on behalf of certain shareholders in the following companies. If you suffered a"
     publishedDateTime: 2022-04-21T19:15:00Z

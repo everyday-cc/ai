@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-03-17-the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage.md",
-      "title": "The Internet of Beer: Robotics startup taps Bitcoin to deliver automated beverage",
-      "excerpt": "The Smart Tap system was created in 2016 and employs blockchain technology to link the future of draft beer with the future of transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage",
-      "originalUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDMvNGE5ODEwM2ItOTQxYS00NTEzLWI0YTktNjQyODY2YTUyMDhkLmpwZw==.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage/amp",
-      "publishedDateTime": "2022-03-17T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-17-irobot-releases-genius-40-home-intelligence-doubles-the-intelligence-for-roomba-i3-and-i3-robot-vacuums-and-more.md",
       "title": "iRobot Releases Genius 4.0 Home Intelligence: Doubles the Intelligence for Roomba® i3 and i3+ Robot Vacuums and More",
       "excerpt": "Updates Include Imprint® Smart Mapping for Roomba i3 Series, Siri Commands, Clothing & Towel Detection for Roomba j7 Series. BEDFORD, Mass., March 17, 2022 /PRNewswire/ -- iRobot",
@@ -1295,6 +1252,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-ambi-robotics-and-pitney-bowes-sign-23-million-expansion.md",
+      "title": "Ambi Robotics and Pitney Bowes sign $23 million expansion",
+      "excerpt": "Ambi Robotics, the creator of the AmbiSort robotic sorting solution, and Pitney Bowes, a global shipping and mailing company, signed a $23 million expansion deal. Pitney Bowes will make the investment over the next four years in Robot as a Service (RaaS) fees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
+      "originalUrl": "https://www.therobotreport.com/ambi-robotics-and-pitney-bowes-sign-23-million-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/03/featured-web-ambisort.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

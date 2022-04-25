@@ -50,20 +50,6 @@ related:
         width: 520
         height: 520
         isCached: true
-  - title: "German Decision Could Provide an Answer to AI Inventorship"
-    excerpt: "Germany’s Federal Patent Court has set aside a decision by the country’s Patent and Trademark Office (DPMA) that refused a patent application naming an artificial intelligence (AI) as the inventor."
-    publishedDateTime: 2022-04-20T17:15:00Z
-    webUrl: "https://www.ipwatchdog.com/2022/04/20/german-decision-provide-answer-ai-inventorship/id=148555/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 37
-    images:
-      - url: "https://www.ipwatchdog.com/wp-content/uploads/2021/07/Depositphotos_168275348_xl-2015-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
 
 secured: "MJxjzpOTJ32iMYmtd+N/HySoxf57jy2xh6GzsR+/zkXS281FIKeUrZZjT1b+7M1Te6a7dIN7WeVsIau4Ur9muTvNczrDJchRLPG+22NwCxSeFXvJCcSskgBCJic9to+omSaAUcoMgqrKnTxUeTP3mrCFOvgtRajGZY4XFEBkrAAhVzeqa0vYSipFwwurJjOqKfw0zyRXWBO0sOLmbCoKvPCilu7JqrAuaGNUYnuCkBXo7fHSHtyST/VNvCiJKZe5oiKxOTVGATHJ4IfVp9hz/yvlGlfIEcmvuGTB/ZIbdtnaejGjZ7nH9L+4xXdWtafH80ChnR6gvDQ7E3VOV9HR1H8uDinSDL9RL8k2Z5t1Tv4=;Spe1v2ERfGpWJFvCWJX3XA=="
 ---
