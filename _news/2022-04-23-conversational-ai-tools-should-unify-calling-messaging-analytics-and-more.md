@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-un
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$thumbimg_2144424520.jpg"
         width: 415
         height: 253
+        isCached: true
+  - title: "Wearable AI Market Size, Share | Regional Analysis and Trends by 2026"
+    excerpt: "The Wearable AI Market Records a significant CAGR by 2026, according to the latest report published by Allied Market Research Recently, Allied Market"
+    publishedDateTime: 2022-04-25T03:31:00Z
+    webUrl: "https://www.digitaljournal.com/pr/wearable-ai-market-size-share-regional-analysis-and-trends-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/CCC-2-600x337.png"
+        width: 600
+        height: 337
         isCached: true
   - title: "Maxar Invests in Geospatial Analytics Services Provider Blackshark.ai; Dan Nord Quoted"
     excerpt: "Maxar Technologies (NYSE: MAXR) has made a strategic investment in Blackshark.ai, a provider of geospatial analytics services powered by artificial intelligence, as part of efforts to bring additional 3D geospatial products to more markets and customers."

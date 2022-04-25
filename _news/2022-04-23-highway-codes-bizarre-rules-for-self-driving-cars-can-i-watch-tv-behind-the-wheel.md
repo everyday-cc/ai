@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 585
         isCached: true
-  - title: "You’ll soon be able to watch movies in your self-driving car*"
-    excerpt: "The UK government has today said you’ll soon be able to watch Die Hard when you’re in your self-driving car. Though we may have appended the whole ‘Die Hard’ bit. Followin"
-    publishedDateTime: 2022-04-20T09:43:00Z
-    webUrl: "https://www.topgear.com/car-news/future-tech/youll-soon-be-able-watch-movies-your-self-driving-car"
-    type: article
-    provider:
-      name: Top Gear
-      domain: topgear.com
-    quality: 24
-    images:
-      - url: "https://www.topgear.com/sites/default/files/images/news-article/2022/04/0154031df6789fe9534ec6caafbf95b7/selfdriving1.jpg?w=1280&h=720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Changes to The Highway Code will allow drivers to watch TV on in-built screens but not use mobile phones in self-driving cars"
     excerpt: "Just months after some of the biggest changes in its history, The Highway Code is changing again and here's why."
     publishedDateTime: 2022-04-20T13:52:00Z

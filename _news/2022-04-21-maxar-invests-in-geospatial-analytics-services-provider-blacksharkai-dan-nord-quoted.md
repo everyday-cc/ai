@@ -69,6 +69,20 @@ related:
         width: 415
         height: 253
         isCached: true
+  - title: "Wearable AI Market Size, Share | Regional Analysis and Trends by 2026"
+    excerpt: "The Wearable AI Market Records a significant CAGR by 2026, according to the latest report published by Allied Market Research Recently, Allied Market"
+    publishedDateTime: 2022-04-25T03:31:00Z
+    webUrl: "https://www.digitaljournal.com/pr/wearable-ai-market-size-share-regional-analysis-and-trends-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/CCC-2-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "BrainChip and NVISO partner on human behavioural analytics in AI devices"
     excerpt: "BrainChip and nViso, a specialist in human behavioural analytics, have announced a collaboration targeting battery-powered applications in robotics and mobility/automotive to address the need for high levels of AI performance with ultra-low power technologies."
     publishedDateTime: 2022-04-22T08:37:00Z

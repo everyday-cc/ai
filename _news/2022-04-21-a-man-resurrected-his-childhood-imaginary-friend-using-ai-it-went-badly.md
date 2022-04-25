@@ -34,22 +34,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "This Guy Brought His Imaginary Friend To Life With AI And This Happened"
-    excerpt: "Lucas Rizzotto brought his imaginary friend to life using artificial intelligence, but this AI imaginary friend tried to kill him."
-    publishedDateTime: 2022-04-20T09:38:00Z
-    webUrl: "https://fossbytes.com/ai-imaginary-friend-tries-to-kill-creator/"
-    ampWebUrl: "https://fossbytes.com/ai-imaginary-friend-tries-to-kill-creator/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/ai-imaginary-friend-tries-to-kill-creator/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/04/AI-imaginary-friend-tries-to-kill-creator.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "COGCFyv1Itag4CFRaLYX9G086Q5fPGR2OWYVFSY9nEn/J28ku0b09oC8o4Rcq6QzcGWUkY6skt4K/rXKwiyA7gONWeOY+yMzUt1Ar3TL4UvoO3sY2C47L0KcYRDiCuBSizsZWSahDMWlMVcumGqDbSb6816/J1N4Y4wcpK2faZorydbcY7/ivoYOUOwcsyjdPVxqXXE2J1d4WExOAmGK0BCZdeEtiNPpcekSiFWGDKFtMrHF+w0jv5f2ww0EvULJmz/RBQzbqDxlSEZ137rUL33OjAVDpFsMeZV1bgVeAKKcqlg3UL3JdiBr8+1fGIFbWGhSmNuIhwF3FlHbKcPLFWk/A8jkYRAtn625MH3aIVSmVrwwHZ2qFE9ioeT7FCw8vkc99GklGhSJaW66Ps+RuvzQkd1XGEbY7DBDvVKzDxQY6M+zfIk6C2xbWQqBs2IhO3zE2mx7iRWyDjSOHqVMrM81MtukJ8k3KYK+NpVUYBd7rs9BS+0HSClVdOKHWpIZK/6J00Lrrotsq4GL9BdN9Q==;GZSZxh0tw+8KCO5iB5LEfQ=="
 ---

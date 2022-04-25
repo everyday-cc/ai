@@ -43,17 +43,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Drivers allowed to watch TV in self-driving cars"
-    excerpt: "The Government has set out changes to The Highway Code before the first self-driving vehicles are introduced on to UK roads. The plans, in response to a public consultation, will allow drivers to watch television while the vehicle is in self-driving mode."
-    publishedDateTime: 2022-04-20T09:03:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2022/04/20/drivers-allowed-to-watch-tv-in-self-driving-cars"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2022/04/20/drivers-allowed-to-watch-tv-in-self-driving-cars"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2022/04/20/drivers-allowed-to-watch-tv-in-self-driving-cars"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
   - title: "Drivers will be able to watch TV in self-driving cars"
     excerpt: "Planned changes to the Highway Code will allow motorists to watch TV in a self-driving car; It will still be illegal to use mobile phones in self-driving cars; Full regulatory fra"
     publishedDateTime: 2022-04-20T11:23:00Z
@@ -81,22 +70,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2019/12/stardew-valley-on-tesla-screen-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Highway Code rule changes will let drivers watch TV at the wheel in self-driving cars - but not use their phones"
-    excerpt: "People could be able to watch TV behind the wheel should self-driving cars debut in the UK later this year. Vehicles with automated lane-keeping system technology to monitor speed and distance from other motorists could soon be ready for use, according to ..."
-    publishedDateTime: 2022-04-20T09:40:00Z
-    webUrl: "https://www.manchestereveningnews.co.uk/news/uk-news/highway-code-rule-changes-drivers-23731434"
-    ampWebUrl: "https://www.manchestereveningnews.co.uk/news/uk-news/highway-code-rule-changes-drivers-23731434.amp"
-    cdnAmpWebUrl: "https://www-manchestereveningnews-co-uk.cdn.ampproject.org/c/s/www.manchestereveningnews.co.uk/news/uk-news/highway-code-rule-changes-drivers-23731434.amp"
-    type: article
-    provider:
-      name: Manchester Evening News
-      domain: manchestereveningnews.co.uk
-    quality: 23
-    images:
-      - url: "https://i2-prod.walesonline.co.uk/incoming/article23731796.ece/ALTERNATES/s615/0_VOLVO-concept-car.jpg"
-        width: 615
-        height: 409
         isCached: true
   - title: "Britain moves closer to a self-driving revolution"
     excerpt: "Drivers will be able to experience the full benefits of the first self-driving vehicles when they arrive, as government sets out how they should be driven"

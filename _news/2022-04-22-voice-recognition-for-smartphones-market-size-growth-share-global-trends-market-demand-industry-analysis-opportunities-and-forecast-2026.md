@@ -80,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-  - title: "Artificial Intelligence Chipsets Market Assessment 2021-2027: Industry Size, Share and Top Key Players"
-    excerpt: "The market study on the global Artificial Intelligence Chipsets market will encompass the entire ecosystem of the industry, covering major regions namely"
-    publishedDateTime: 2022-04-20T09:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chipsets-market-assessment-2021-2027-industry-size-share-and-top-key-players"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/a5d668e8601b59d3152546afd627047994b585c0-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Healthcare Artificial Intelligence Market Trends, Growth Outlook, Size Estimation, Key Players and Industry Insights by 2027"
     excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD reaching USD 12.22 Billion at 51.9% CAGR during the f"
     publishedDateTime: 2022-04-21T01:56:00Z

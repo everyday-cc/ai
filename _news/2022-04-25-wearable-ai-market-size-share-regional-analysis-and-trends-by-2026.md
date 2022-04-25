@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Maxar invests in analytics provider, Blackshark.ai"
-excerpt: "M axar Technologies has announced a strategic investment in Blackshark.ai, a provider of AI-powered geospatial analytics services. The investment will enable Maxar to bring additi"
-publishedDateTime: 2022-04-21T00:46:00Z
-originalUrl: "https://www.spatialsource.com.au/maxar-invests-in-analytics-provider-blackshark-ai/"
-webUrl: "https://www.spatialsource.com.au/maxar-invests-in-analytics-provider-blackshark-ai/"
+title: "Wearable AI Market Size, Share | Regional Analysis and Trends by 2026"
+excerpt: "The Wearable AI Market Records a significant CAGR by 2026, according to the latest report published by Allied Market Research Recently, Allied Market"
+publishedDateTime: 2022-04-25T03:31:00Z
+originalUrl: "https://www.digitaljournal.com/pr/wearable-ai-market-size-share-regional-analysis-and-trends-by-2026"
+webUrl: "https://www.digitaljournal.com/pr/wearable-ai-market-size-share-regional-analysis-and-trends-by-2026"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Spatial Source
-  domain: spatialsource.com.au
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
 images:
-  - url: "http://www.spatialsource.com.au/wp-content/uploads/2022/04/PR-Maxar-blackshark_web.jpg"
-    width: 619
-    height: 428
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/CCC-2-600x337.png"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 761
         isCached: true
+  - title: "Maxar invests in analytics provider, Blackshark.ai"
+    excerpt: "M axar Technologies has announced a strategic investment in Blackshark.ai, a provider of AI-powered geospatial analytics services. The investment will enable Maxar to bring additi"
+    publishedDateTime: 2022-04-21T00:46:00Z
+    webUrl: "https://www.spatialsource.com.au/maxar-invests-in-analytics-provider-blackshark-ai/"
+    type: article
+    provider:
+      name: Spatial Source
+      domain: spatialsource.com.au
+    quality: 37
+    images:
+      - url: "http://www.spatialsource.com.au/wp-content/uploads/2022/04/PR-Maxar-blackshark_web.jpg"
+        width: 619
+        height: 428
+        isCached: true
   - title: "MoD to fund startups for Artificial Intelligence, big data analytics"
     excerpt: "The Defence Ministry will fund startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
     publishedDateTime: 2022-04-23T00:32:00Z
@@ -53,20 +67,6 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$thumbimg_2144424520.jpg"
         width: 415
         height: 253
-        isCached: true
-  - title: "Wearable AI Market Size, Share | Regional Analysis and Trends by 2026"
-    excerpt: "The Wearable AI Market Records a significant CAGR by 2026, according to the latest report published by Allied Market Research Recently, Allied Market"
-    publishedDateTime: 2022-04-25T03:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/wearable-ai-market-size-share-regional-analysis-and-trends-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/CCC-2-600x337.png"
-        width: 600
-        height: 337
         isCached: true
   - title: "Maxar Invests in Geospatial Analytics Services Provider Blackshark.ai; Dan Nord Quoted"
     excerpt: "Maxar Technologies (NYSE: MAXR) has made a strategic investment in Blackshark.ai, a provider of geospatial analytics services powered by artificial intelligence, as part of efforts to bring additional 3D geospatial products to more markets and customers."
@@ -92,6 +92,6 @@ related:
       domain: newelectronics.co.uk
     quality: 16
 
-secured: "7Rcwih66DjcZON2zKExpbog3G0vTY5tjk2Gqm5gbC1KvJ1/f3n7kzzREFl0cmsfD27iMjewHTsM7BhTLqEpM0eTNRBLE+D/Yq5oSf77Ir3ILSoZAmRilaXWKP5UgIQ7RSzj+tTgKRCbrK6sBNgDyHlfLz2rJMi9R4CucQjAql+v6IS/RCT2IqQS06HuGDUTz0kURjpLa+6OsClQDoQoQFiFmwZUJQ5g69KAgqGfgb9Sy+Nh/+rA0dhz51knJWBCtVsgAjgphpUnsTCvUMLgqunVYf7TGFfnppGtzX2e6URbOAT/Qs3V7oupNsUkIQVvePsOMioGfkGs/EFgy8Qm9B2s7vFdFEvpgOkE7THcc+qE=;Dnrr89XNqeNtdX3lP15/6Q=="
+secured: "paLkDtR/T/bWnabTdYjOKlqjPdzW/4j2mTnFH4PUwrN4Fqt8tWiulHqKh/v0IOeolCu06yTknWW/tQgoDT5sPoNXKfhHXRedZRgLwBOBQmbkUAu/fMtaQIWpCmfRnUMIs8l1WcIIP2K95AculriGh1YPQsxS2qBboDp17tCLX3IKrZZ0lX6W4aXB59Lc41vDJ4vOHkUBTX72XhQqqSPzPznQmHmpsXP7yJdAgJfwq4WZEJm4lXq2RsSEafQVkXLnMwPA2FzZ5WFzgaUQKhQV0mqUCkjKP7zyWjZ9nZ8SKP2GmxlJsDCqpET6bE39ALOgVUJ2yCNi9fv7f8uS4321kVlY13lRro+yr6mqdrnC2Ac=;VFmILOgQrwt7hiKnXaHcBQ=="
 ---
 

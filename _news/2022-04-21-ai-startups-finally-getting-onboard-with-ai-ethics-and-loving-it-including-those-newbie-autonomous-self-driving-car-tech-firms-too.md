@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-final
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
 type: article
 quality: 76
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -93,22 +93,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_76_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=08ca4535493b4135d951bd1f818477af"
         width: 620
         height: 372
-        isCached: true
-  - title: "Everything you can and can't do in self-driving cars - from drinking to using phone"
-    excerpt: "Motorists were told this morning that when driverless cars come in they will be able to watch films behind the wheel, but there is a list of other rules they will have to stick to"
-    publishedDateTime: 2022-04-20T10:25:00Z
-    webUrl: "https://www.mirror.co.uk/money/everything-you-can-cant-self-26751719"
-    ampWebUrl: "https://www.mirror.co.uk/money/everything-you-can-cant-self-26751719.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/everything-you-can-cant-self-26751719.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 38
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
-        width: 615
-        height: 409
         isCached: true
   - title: "Pony.ai wins autonomous driving taxi license in China"
     excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"

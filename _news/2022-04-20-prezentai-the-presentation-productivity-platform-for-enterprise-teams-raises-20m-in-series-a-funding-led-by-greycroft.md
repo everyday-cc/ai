@@ -24,42 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Prezent.ai secures $20M to gamify deck presentations"
-    excerpt: "Prezent.ai, which is developing a suite of tools to help employees present ostensibly better decks, has raised $20 million in venture funding."
-    publishedDateTime: 2022-04-20T11:00:00Z
-    webUrl: "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/"
-    ampWebUrl: "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/"
+  - title: "Mutiny, which personalizes website copy and headlines using AI, raises $50M"
+    excerpt: "Mutiny, which leverages an AI platform and OpenAI's GPT-3 to personalize website content, has raised $50 million at a $600 million valuation."
+    publishedDateTime: 2022-04-20T15:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/"
+    ampWebUrl: "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 85
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1139933142.jpg?w=724"
-        width: 724
-        height: 483
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1255917500.jpg?w=1024"
+        width: 1024
+        height: 544
         isCached: true
-  - title: "Greycroft Leads $20M Funding For prezent.ai"
-    excerpt: "Los Angeles-based venture capital investor Greycroft Partners is the lead investor in a Silicon Valley startup's Series A funding. According to prezent.ai, it raised $20M in a Series A funding round,"
-    publishedDateTime: 2022-04-20T13:15:00Z
-    webUrl: "https://socaltech.com/greycroft_leads___m_funding_for_prezent_ai/s-0082409.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 17
-  - title: "prezent.ai, the Presentation Productivity Platform for Enterprise Teams, Raises $20M in Series A Funding Led by Greycroft"
-    excerpt: "The funds will enable prezent.ai to increase investment in the core artificial intelligence that drives the platform and add new features to"
-    publishedDateTime: 2022-04-21T08:18:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/prezent-ai-the-presentation-productivity-platform-for-enterprise-teams-raises-$20m-in-series-a-funding-led-by-greycroft-1031367518"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/prezent-ai-the-presentation-productivity-platform-for-enterprise-teams-raises-$20m-in-series-a-funding-led-by-greycroft-1031367518"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/prezent-ai-the-presentation-productivity-platform-for-enterprise-teams-raises-$20m-in-series-a-funding-led-by-greycroft-1031367518"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 12
 
 secured: "5Ezbe2lkRaHNbxFx2WR7XEYTdFNxcgGM2vEJMKYR8dCUxHdDK/GDHq/cb4Uw/HBeTRsHWm0foG/ewMQ/MV9N8WnnCclzOQtQVWYO/zvmMiQ6Y996jW9w6WkXXH+3vV1egDxT85bjQWIV2DRHtDBT0YWhEkofZ+SUNTFBS70j3VUrDtKlYX5XyaV8O8ZTzHj04oX+vXf90rLmByt6KTK4u/sPgzpkyeG2RXIDSuFWWCC56r4sWm2a5tUkEvLh9IkP51kq1g8TF2lq/JD5mD8h58lEmcTiPPMVofq53m/DeDb/XV1UVTWBKiWLO09FwIDdDdNK+uTmEnsU5X+eiKwAKKMPAj8VFtBaB/iZ3YOegE4=;kLPQp4uFp8D8ZFZsFLQsXA=="
 ---

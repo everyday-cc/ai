@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Medical AI Startup Lunit gets Preliminary Approval to go Public on KOSDAQ"
-excerpt: "Lunit gets greenlight to accelerate listing on the KOSDAQ marketFirst Korean healthcare company to receive \"AA-AA\" ratings in technology"
-publishedDateTime: 2022-04-22T08:43:00Z
-originalUrl: "https://www.finanzen.at/nachrichten/aktien/medical-ai-startup-lunit-gets-preliminary-approval-to-go-public-on-kosdaq-1031372387"
-webUrl: "https://www.finanzen.at/nachrichten/aktien/medical-ai-startup-lunit-gets-preliminary-approval-to-go-public-on-kosdaq-1031372387"
-ampWebUrl: "https://www.finanzen.at/nachrichten/amp/medical-ai-startup-lunit-gets-preliminary-approval-to-go-public-on-kosdaq-1031372387"
-cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/medical-ai-startup-lunit-gets-preliminary-approval-to-go-public-on-kosdaq-1031372387"
+excerpt: "Lunit gets greenlight to accelerate listing on the KOSDAQ market; First Korean healthcare company to receive \"AA-AA\" ratings in technology assessment; SEOUL, South Korea, April 21"
+publishedDateTime: 2022-04-21T17:12:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220421CN32224/medical-ai-startup-lunit-gets-preliminary-approval-to-go-public-on-kosdaq/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220421CN32224/medical-ai-startup-lunit-gets-preliminary-approval-to-go-public-on-kosdaq/"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: finanzen
-  domain: finanzen.at
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
+
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
 
 related:
   - title: "Medical AI Startup Lunit gets Preliminary Approval to go Public on KOSDAQ"
@@ -30,6 +34,6 @@ related:
       domain: businessinsider.com
     quality: 46
 
-secured: "Piuw3XPlwylPdFjUErn5/f8wNRWvBhd4hrxqn4s4c62Al5uI8ZEMui2P9BZLe0DwkPGjQXzrnImreF1wMEaNYKIBCvV0n5CtAaSPN60hzbgHxXiN2tDuGOUqX+Le8DhvfcwFxMxQRdshoMLu8Ju7++5mTPLLsoWH1TxP901kT0DheQDN8WB59AClJBlrP914MVFHNIhMqHYSggAXAh0ByiSbLm7gI8b1CbUwZzOgVFZjqId3xC7yb1BCa8XP3xJDeQ+hVMxDLYeoDPqth64UKdH/k8k1FUQRo1a5oQN8EQSG68XPmAxJKGevyscS4HSNRXTf4pX13rM1AJghcK7dTFx19kZaQ1+O4ISW4wPUJtA=;9EqTpUmiQP3dR9vHLR6PWA=="
+secured: "wRBy4LYpciggVxT15mHkxIWYQQ1vHgOC7kO/Egll1P4yjz5f101gq7Q/7AJ7Q3meCvV5f4NkGkswuyiEKm148pZaQYK76VW6zDVusGLSyuVpFBmIW8YqFprAxkgKzrEaoxPLWYPpYvoaucx7JPRH+F46iIfBSmPlW1/WAmMyHQZlFeMTz/lFKMMVrH46WXxDQ4nNmdVSIZJTxKlxKhlPJIcQQgWtguu/JLqSycz/hdeavwCl2f5ySrdxOcnt0W7drYLBatcsdpAy9zK7rsSCedIZOm4SfsCbCZh+Wm7tzZwAAWoC4YI5dUXeQyX/e3a4DwU+uLBrMdFZ/nfH7vm58e299eaNqeuqVwcCtD1WXIA=;koTQlE9A8TYnOl5RU2xxZw=="
 ---
 

@@ -50,20 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "5 key tech priorities for fintech leaders in 2022"
-    excerpt: "This is what business leaders should focus on to build a winning tech strategy. Issues caused by sub-optimal tech choices are commonplace in the industry, leading to companies failing under unexpected stress or being unable to adapt in time when their business requirements change."
-    publishedDateTime: 2022-04-20T09:44:00Z
-    webUrl: "https://www.finextra.com/the-long-read/388/5-key-tech-priorities-for-fintech-leaders-in-2022"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/388.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Credit unions eagerly pursuing fintech partnerships"
     excerpt: "To appeal to a younger audience, credit unions are teaming up with third parties that can help them offer Bitcoin accounts, real-time payments and other cutting-edge services."
     publishedDateTime: 2022-04-21T16:10:00Z

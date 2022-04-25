@@ -62,20 +62,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Users of self-driving cars in the UK will not be held responsible for crashes"
-    excerpt: "UK authorities are making changes to the Highway Code to prepare for the arrival of the first self-driving cars on Britain's roads. Under the proposed changes, drivers will be allowed to watch television programmes and films on built-in screens while using driverless cars,"
-    publishedDateTime: 2022-04-20T10:44:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/04/uk-users-of-self-driving-cars-will-not-be-held-responsible-for-crashes/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 21
-    images:
-      - url: "https://eandt.theiet.org/media/14055/dreamstime_l_133926443.jpg?crop=0,0.38791666666666669,0,0.11989583333333327&cropmode=percentage&width=1200&height=450&rnd=132949259330000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "6umh3bvmRuISwI9RYV0S6vjquBkzJEgcmi+jY8Mz3mt1wEVsjtfSD63ErYJw7CWW27zZRkDqkD7WHoovqeBK42FuGaOKE/pKobAqahihfroRilnkKLFhpXG/oqm6ukNkhQrLe0bW0PyJkvp7gvXVhalpx7U+pjKz2ekH5CqZcA5TCi8qEMpcciuLWA5t/cEsYJPV43eS19/uk+xpmhcKP86R+mYUiJHTT/d3/WOlt0l2S/zW5C3ZRa1SsCSVlysSM3cfdNwIdugZ4hWBECbdqJm7NCPs8NZXLp/UVcT2B0tGySND031g/lI4mkrUp6svr9fdieaE6d19VO5S/rcA24GkaZljllgqrLLOGX5PAyA=;gEg5mtCyhk1F8mgHXLZwxA=="
 ---

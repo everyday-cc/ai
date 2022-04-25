@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-23T11:53:00Z
 originalUrl: "https://www.hstoday.us/industry/industry-news/major-general-martin-f-klein-to-lead-defense-and-intelligence-operations-for-c3-ai/"
 webUrl: "https://www.hstoday.us/industry/industry-news/major-general-martin-f-klein-to-lead-defense-and-intelligence-operations-for-c3-ai/"
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI
 
-secured: "kP/Reb4nb7zNCMLFLIXfhujOLvqM/NYaplODPXMXAqzalkbOvxEmvJLa7fYH5W/UlI5Mk294rTsNpoR933cu1yKzRHLRRvfm3PBu+m/DQKc+YxXurKtQk6OckzVeNk5llV6+Y8lLqE1ma9wy+6/2fK0zln8mI1fehBirOuGHeeL8w3yXPBQMuRvcMc38jtoG9F6cRs342ZMq2CBP4oJ1ZloJplymfdFRmtgM+Iy3c0iYTClGVRXydv6KfPXD9ZVDRa2WOJhZDEFQomxiMlJStEP1plvVrPdkx2WtX1scUCKsJWQAWU395QGI8D4xvzBtXywQhmC/71YJ9bM23pKXsuJZdYsvUrs3XHsovsqb7OQ=;8UYKogcoavb+SiEDWhZanw=="
+images:
+  - url: "https://www.hstoday.us/wp-content/uploads/2022/04/210809-A-BN725-1001-US.jpeg"
+    width: 482
+    height: 436
+    isCached: true
+
+secured: "Jcj+Nf+Ha+piYHXY79hlm5cBx+C+gYx9XKvbYt2MMqgNtfaiCaPkEpw670nk3/mO5dtx1pYt2zgTbeneh/vGGAYJn7Jyw0deD7+Uv3PhhkOKNJGQLcz50lWQ3eY/ykvLCdjzKSFd5Ipnp2vAXLiA8YjSIIMzfRQYhZQc0+DSTOR6CIzBgHIJOngcmoXmmabsSHIkVIRzhmSsS1WzQDdcwVh3Llb74219UPNDU10tG3ohauNHis2io1qJXUXtCmfs6R2zHWiPS40yXDdXqQuMG8TcT8uVcXs9IMGvh8X53q0E1D+9TcYfOdPO0g1iVMjzigvseyb+/V7PtroMr8pPMK2/odAaNw5q+fmS3x9K7E8=;HuowecBPEAyFD95lvixxug=="
 ---
 

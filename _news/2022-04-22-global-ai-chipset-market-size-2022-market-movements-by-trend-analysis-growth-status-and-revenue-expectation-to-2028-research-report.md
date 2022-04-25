@@ -65,20 +65,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-  - title: "Artificial Intelligence Chipsets Market Assessment 2021-2027: Industry Size, Share and Top Key Players"
-    excerpt: "The market study on the global Artificial Intelligence Chipsets market will encompass the entire ecosystem of the industry, covering major regions namely"
-    publishedDateTime: 2022-04-20T09:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chipsets-market-assessment-2021-2027-industry-size-share-and-top-key-players"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/a5d668e8601b59d3152546afd627047994b585c0-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
     excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"
     publishedDateTime: 2022-04-22T08:08:00Z

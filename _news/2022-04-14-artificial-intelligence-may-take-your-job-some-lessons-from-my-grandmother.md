@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence may take your job. Some lessons from my grandmother"
-excerpt: "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope."
-publishedDateTime: 2022-04-14T05:23:00Z
-originalUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
-webUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
-ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
+excerpt: "My grandmother, Claire Hastings, was born in the 1920s on a farm in Armidale, northern New South Wales. That was a relatively common thing, with just 43% of the population living in cities, compared with more than 70% now."
+publishedDateTime: 2022-04-14T13:28:00Z
+originalUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
+webUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
+ampWebUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp"
 type: article
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Robotics
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://images.theconversation.com/files/457825/original/file-20220413-17-8go2vm.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-26.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "O37wBPtAz+NoXqrdRCIMPWhIaBzlbfMYiltOFHr6xZFzUgS2BHOWEL0/7EgtSum8FRPvRDwwCQYul0qaUaD6Yc+sBl1k2whyQVSHaoe2zK9hmfUb43/F8DhTJJx6mpXtWAK7OkTNT2nw3Bkrx6EyCYDPT7taDxkMCwQ56KjoqqoislriJ4xQGoZY5nUQomkdWDWORQurWBmfi+Swq6UyS1hbuVc8YRybD9PMuzZQSZp1VmoWaRAI1QeuBC7tI4ww9Tj+xtJ9JzKGV53/906OEOoj9BQvr4vn4KUy2opeKUndkUBv54B1AKTWaVSEttsVTUXq74yDTSfCQMyYA/vEOR038unwx9xCRGLQtyVnh6JSm9UvPNrRJ+4hSEvadaNAuzr93MhHW8oJ2nSrRJRwq+wHKDobYneAe4syqsabCKEOyn8JRqvHgFjglF7I+ghlVX8tyzKOdHJhs8iGXG3ibJ4m/LOaKuIzygHB5D8ag9RvOY6Qa8cCP5Kct5qJC+BBuUb/5yfYVzPAmQPKMmCcfA==;5aIZCgfSlIDIMaBU/a4ZEw=="
+secured: "29yB8VZCRZS6A2MPFUNznIeb5aqJjdyRH/+inwLTJqSBIJpHVgqPI/S7rOrZsqv85yTzibS3FTn3iPReOkR+UzU3tBGgJgnkqYEnVXnn4/Oqq1dPNxKDJj1nSC/dP9tcgHyHc5mGdo3OMM7NXWgYOBcJk//KdvwZXrw3w/nkEgofg+4E/rY6/XDNrVGO0gb0y869r6j9C48V579n6elBQ3r7RDSvYrYJgtL0cUnf8lEoM2RpBxSOP3/WHe8oDBUzFzMl2OjO5OC7IeusAyCdRjBYZWHIqObRXYAISiSj4FEd5ymcXWDOag9Jo7fnN2feNSh7woYdc8oUMQ+PzzYsOYaEUO9hQFVG4DC3gEPQ7s8=;IcO73wcGONXKADywufknnA=="
 ---
 

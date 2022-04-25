@@ -89,22 +89,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Everything you can and can't do in self-driving cars - from drinking to using phone"
-    excerpt: "Motorists were told this morning that when driverless cars come in they will be able to watch films behind the wheel, but there is a list of other rules they will have to stick to"
-    publishedDateTime: 2022-04-20T10:25:00Z
-    webUrl: "https://www.mirror.co.uk/money/everything-you-can-cant-self-26751719"
-    ampWebUrl: "https://www.mirror.co.uk/money/everything-you-can-cant-self-26751719.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/everything-you-can-cant-self-26751719.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 38
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "Pony.ai wins autonomous driving taxi license in China"
     excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"
     publishedDateTime: 2022-04-24T08:41:00Z

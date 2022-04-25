@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-mons
 webUrl: "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Guy Brought His Imaginary Friend To Life With AI And This Happened"
-    excerpt: "Lucas Rizzotto brought his imaginary friend to life using artificial intelligence, but this AI imaginary friend tried to kill him."
-    publishedDateTime: 2022-04-20T09:38:00Z
-    webUrl: "https://fossbytes.com/ai-imaginary-friend-tries-to-kill-creator/"
-    ampWebUrl: "https://fossbytes.com/ai-imaginary-friend-tries-to-kill-creator/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/ai-imaginary-friend-tries-to-kill-creator/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/04/AI-imaginary-friend-tries-to-kill-creator.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "A man resurrected his childhood imaginary friend using AI. It went badly"
     excerpt: "A YouTuber had an imaginary friend: a talking microwave called Magnetron. He resurrected it with AI, and then it tried to murder him."
     publishedDateTime: 2022-04-21T15:29:00Z

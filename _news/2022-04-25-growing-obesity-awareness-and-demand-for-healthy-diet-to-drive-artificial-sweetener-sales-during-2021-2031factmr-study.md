@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-25T01:12:00Z
 originalUrl: "https://www.digitaljournal.com/pr/growing-obesity-awareness-and-demand-for-healthy-diet-to-drive-artificial-sweetener-sales-during-2021-2031fact-mr-study-2"
 webUrl: "https://www.digitaljournal.com/pr/growing-obesity-awareness-and-demand-for-healthy-diet-to-drive-artificial-sweetener-sales-during-2021-2031fact-mr-study-2"
 type: article
-quality: 14
-heat: 14
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Sales
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/615b417236548ff32aede440d5604752be906541-600x337.jpg"

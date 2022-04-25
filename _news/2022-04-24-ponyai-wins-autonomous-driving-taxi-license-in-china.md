@@ -102,22 +102,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Everything you can and can't do in self-driving cars - from drinking to using phone"
-    excerpt: "Motorists were told this morning that when driverless cars come in they will be able to watch films behind the wheel, but there is a list of other rules they will have to stick to"
-    publishedDateTime: 2022-04-20T10:25:00Z
-    webUrl: "https://www.mirror.co.uk/money/everything-you-can-cant-self-26751719"
-    ampWebUrl: "https://www.mirror.co.uk/money/everything-you-can-cant-self-26751719.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/everything-you-can-cant-self-26751719.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 38
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "GM patents self-driving car that replaces human driving instructors"
     excerpt: "Self-driving cars are often described as replacements for human drivers, but a General Motors patent filing shows how they could be used to train new ones. First spotted by Motor1, the filing with the United States Patent and Trademark Office (USPTO ..."
     publishedDateTime: 2022-04-22T11:00:00Z
