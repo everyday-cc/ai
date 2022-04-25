@@ -25,58 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "Billionaire CEO’s US Senate run focuses on one issue: Banning ‘self-driving’ Teslas"
-    excerpt: "Dan O’Dowd, the billionaire founder of The Dawn Project and Green Hills Software, is running for U.S. Senate on a single issue. It’s not unemployment or inflation or even education. It’s about making computers safer for humans,"
-    publishedDateTime: 2022-04-20T20:05:00Z
-    webUrl: "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/"
-    ampWebUrl: "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/"
+  - title: "UK government says motorists will be allowed to watch TV in self-driving vehicles"
+    excerpt: "The UK government has confirmed planned revisions to the Highway Code to accommodate self-driving vehicles, including allowing drivers to watch TV while an AI takes the wheel. In a moment history may judge as legislative hubris,"
+    publishedDateTime: 2022-04-21T08:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/21/uk_self_driving_highway_code/?td=amp-keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 98
+      name: theregister
+      domain: theregister.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://regmedia.co.uk/2020/10/28/autonomous_car.jpg"
+        width: 1000
+        height: 585
         isCached: true
-  - title: "Video Shows Tesla Self Driving Into A $3.5 Million Private Jet"
-    excerpt: "Tesla vehicle using Smart Summon feature has crashed into a $3.5 million private jet. Here is why the incident took place."
-    publishedDateTime: 2022-04-23T07:22:00Z
-    webUrl: "https://fossbytes.com/tesla-self-driving-into-private-jet/"
-    ampWebUrl: "https://fossbytes.com/tesla-self-driving-into-private-jet/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-self-driving-into-private-jet/amp/"
+  - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
+    excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph."
+    publishedDateTime: 2022-04-21T04:00:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924"
+    ampWebUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
+    cdnAmpWebUrl: "https://www-coventrytelegraph-net.cdn.ampproject.org/c/s/www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
     type: article
     provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 74
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 38
     images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/04/Tesla-Crashed-Into-Jet.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i2-prod.birminghammail.co.uk/incoming/article23728182.ece/ALTERNATES/s615/0_Driverless-cars.jpg"
+        width: 615
+        height: 409
         isCached: true
-  - title: "U.S. Senate campaign ad takes aim at Tesla's self-driving technology"
-    excerpt: "There's a new political ad taking aim at Tesla's self-driving technology.The ad is from Dan O'Dowd -- the billionaire founder of a Santa Barbara tech company who is running against U.S. Sen. Alex Padilla."
-    publishedDateTime: 2022-04-22T16:54:00Z
-    webUrl: "https://www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology"
-    ampWebUrl: "https://www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology.amp"
+  - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
+    excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph. The updated Highway Code rules ..."
+    publishedDateTime: 2022-04-22T08:34:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924?int_source=nba"
+    ampWebUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
+    cdnAmpWebUrl: "https://www-coventrytelegraph-net.cdn.ampproject.org/c/s/www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
     type: article
     provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 54
-  - title: "California tech CEO running for U.S. Senate wants to ban Tesla's Full-Self Driving"
-    excerpt: "Dan O'Dowd, CEO of Green Hills Software, said he's campaigning to \"make computers safe for humanity\" and ban Tesla's FSD, referring to the beta software as \"the most unreliable safety-critical computer system."
-    publishedDateTime: 2022-04-21T10:43:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/dan-odowd-california-tech-ceo-running-us-senate-wants-ban-teslas-full-self"
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 38
+    images:
+      - url: "https://i2-prod.birminghammail.co.uk/incoming/article23728182.ece/ALTERNATES/s615/0_Driverless-cars.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Highway Code's bizarre rules for self-driving cars - can I watch TV behind the wheel?"
+    excerpt: "New Highway Code rules proposed by the government's Department for Transport are likely to be in place later this year. They include allowing people to watch TV in self-driving cars"
+    publishedDateTime: 2022-04-23T06:00:00Z
+    webUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945"
+    ampWebUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 28
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 37
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Tech: Watch TV in self-driving cars, unions coming for Apple"
+    excerpt: "Sit back, relax, and watch TV while your car drives you  New rules for fully self driving cars in the UK will let the driver watch something other than the"
+    publishedDateTime: 2022-04-22T23:15:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/paul-stenhouse-watch-tv-in-self-driving-cars-unions-coming-for-apple/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 24
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/5693/people-take-photos-of-an-apple-store-with-their-iphones-logo-generic-getty-imagesjpg.jpg?mode=crop&width=635&height=395&rnd=132951850615530000"
+        width: 635
+        height: 395
+        isCached: true
+  - title: "Controversial UK Law Will Allow Watching TV Behind The Wheel Of A Self-Driving Car"
+    excerpt: "New proposed updates to the Highway Code concerning self-driving cars in the UK will allow a human driver to watch television or other video media on a built-in screen while the car is in charge ..."
+    publishedDateTime: 2022-04-22T16:48:00Z
+    webUrl: "https://hothardware.com/news/uk-law-will-allow-watching-tv-behind-wheel-of-self-driving-car"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 0
 
 secured: "41rVvcu/zBlPW3CcwAJE+UD3IMpPU34hen6udTA6dg6aGcqjDXRhBcAvnHhgMo961mM5XpcDDu80Xk8KW+fIbb0IYDnUXYQe2r3DPsSJZpIqjrBQyj1//bW29XBKHT5YQ1Fnlz15GwWSvF0SmbcvuzIiqeivfHQn6u/KZrK4F0r5XXd6nevMa4J5Q4RTT6RF+tTSaZulyw0OuYMo+BftoVLJ7nF6xzfUVMjZXb2sKToEssyYVrOGFmwCxo4weUWVc4bECLCZE52aBWhdbQWMkazGeZZ4WwfYJfqYgcS4sFzz8zr7c4IGSxdRQ4zOxTlP/+rSbsizP7KJ68F0ZlfEfPVdwYMl/0dpn0X067+drgo=;EI+ekK9K7pogbXU5fAekWA=="
 ---

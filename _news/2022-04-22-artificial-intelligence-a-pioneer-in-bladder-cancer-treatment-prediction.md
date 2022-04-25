@@ -36,6 +36,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI study 'exciting first step' toward improving post-treatment surveillance of lung cancer patients"
+    excerpt: "Artificial intelligence (AI) could help guide the post-treatment surveillance of non-small cell lung cancer (NSCLC) patients and improve outcomes as a result, according to a study led by researchers from The Royal Marsden NHS Foundation Trust in collaboration with The Institute of Cancer Research,"
+    publishedDateTime: 2022-04-25T14:16:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-ai-post-treatment-surveillance-lung-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-post-treatment-surveillance-lung-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-post-treatment-surveillance-lung-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 43
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-study-exciting-firs.jpg"
+        width: 945
+        height: 532
+        isCached: true
   - title: "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment"
     excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
     publishedDateTime: 2022-04-22T14:40:00Z

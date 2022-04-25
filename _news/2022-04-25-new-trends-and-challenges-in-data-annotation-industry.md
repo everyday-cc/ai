@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T09:42:00Z
 originalUrl: "https://www.wicz.com/story/46358845/new-trends-and-challenges-in-data-annotation-industry"
 webUrl: "https://www.wicz.com/story/46358845/new-trends-and-challenges-in-data-annotation-industry"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: FOX 40 WICZ TV

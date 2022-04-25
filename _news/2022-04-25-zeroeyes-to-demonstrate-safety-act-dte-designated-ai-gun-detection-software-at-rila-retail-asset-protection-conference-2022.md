@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T12:23:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-software-orlando-697583bdf303247248deb219d9046937"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-software-orlando-697583bdf303247248deb219d9046937"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

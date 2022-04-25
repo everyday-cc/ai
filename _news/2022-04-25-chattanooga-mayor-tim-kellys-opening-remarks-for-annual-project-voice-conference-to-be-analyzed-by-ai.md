@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T11:47:00Z
 originalUrl: "https://www.chattanoogan.com/2022/4/25/447899/Chattanooga-Mayor-Tim-Kelly-s-Opening.aspx"
 webUrl: "https://www.chattanoogan.com/2022/4/25/447899/Chattanooga-Mayor-Tim-Kelly-s-Opening.aspx"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Chattanoogan.com

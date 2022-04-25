@@ -25,99 +25,208 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car startup Pony.ai obtains taxi license in Guangzhou, China"
-    excerpt: "Self-driving car technology startup Pony.ai Inc. has obtained a new taxi license in Guangzhou, China, the first robotaxi company to do so. Announced Saturday, the permit allows the company to operate 100 autonomous vehicles as traditional taxis in Nansha District of Guangzhou,"
-    publishedDateTime: 2022-04-25T02:38:00Z
-    webUrl: "https://siliconangle.com/2022/04/24/self-driving-car-startup-pony-ai-obtains-taxi-license-guangzhou-china/"
+  - title: "AI Ethics Fretting Over The Use Of AI To Goad Humans Into Unethical Behaviors, Possibly Even Via Those Autonomous Self-Driving Cars"
+    excerpt: "AI that provides unethical advice is going to be a vexing problem for humans, including as showcased via the advent of autonomous self-driving cars."
+    publishedDateTime: 2022-04-25T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/BotRideReal.jpg"
-        width: 975
-        height: 650
-        isCached: true
-  - title: "Pony.ai to start charging money for its robotaxi services in Guangzhou"
-    excerpt: "Pony.ai said on Sunday that it has received permission to charge a fee for offering autonomous ride-hailing services to the public in parts of the southern city of Guangzhou. Starting May, a total of 100 of the firm’s self-driving vehicles will be allowed to operate commercially on public roads in Guangzhou’s Nansha district between 8:30 a."
-    publishedDateTime: 2022-04-24T08:53:00Z
-    webUrl: "https://technode.com/2022/04/24/pony-ai-to-start-charging-money-for-its-robotaxi-services-in-guangzhou/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
-  - title: "Robotaxi startup Pony.ai gains taxi licence in China city"
-    excerpt: "BEIJING: Self-driving tech company Pony.ai, backed by Toyota Motor Corp, said on Sunday (Apr 24) it has obtained a taxi licence in China, which will allow some of its driverless vehicles to start charging fares. The company said it was the first autonomous ..."
-    publishedDateTime: 2022-04-24T06:37:00Z
-    webUrl: "https://www.channelnewsasia.com/business/robotaxi-startup-ponyai-gains-taxi-licence-china-city-2644141"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--ksXqjchz--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-04-24t052949z_1_lynxmpei3n021_rtroptp_3_pony-ai-autonomous.jpg?itok=E1_fzSZq"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62467316d1ffaded5f503f2f/0x0.jpg?format=jpg&crop=1421,760,x243,y0,safe&width=1200"
         width: 1200
-        height: 676
+        height: 642
         isCached: true
-  - title: "Toyota backed Robotaxi Pony.ai obtains license to operate in China"
-    excerpt: "Backed by Toyota Motor Corp. the company can now deploy driverless vehicles and charge fares for the rides in China."
-    publishedDateTime: 2022-04-24T16:00:00Z
-    webUrl: "https://techstory.in/toyota-backed-robotaxi-pony-ai-obtains-license-to-operate-in-china/"
+  - title: "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too"
+    excerpt: "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm."
+    publishedDateTime: 2022-04-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/04/GettyImages_1367860597-360x240.jpg"
-        width: 360
-        height: 240
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Pony.ai Becomes the First Autonomous Driving Company to Receive a Taxi License in China"
-    excerpt: "Pony.ai, the leading global autonomous driving technology company, announced it is the first and only autonomous driving (AD) company to obtain a taxi license in China. Pony.ai was awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha,"
-    publishedDateTime: 2022-04-24T02:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-china-guangzhou-ab2ad9a5aa0947c4bf384dd148cb8b76"
+  - title: "Enhancing Autonomous Vehicles with Machine Learning"
+    excerpt: "A team of MIT researchers has developed a solution to one of the things really holding scientists back from fully autonomous driving - a vehicle’s ability to accurately predict human behavior."
+    publishedDateTime: 2022-04-25T15:01:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12913"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12913"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12913"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 61
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12913_16508986184318444.jpg"
+        width: 900
+        height: 599
         isCached: true
-  - title: "China licences first self-driving taxi"
-    excerpt: "Pony.ai has been awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha, Guangzhou, making it the first autonomous driving (AD) company to obtain a taxi licence in China. In May,"
-    publishedDateTime: 2022-04-25T09:00:00Z
-    webUrl: "https://gadget.co.za/china-licences-first-self-driving-taxi/"
+  - title: "UK's first self-driving bus to hit the road in next two weeks in major trials of AI tech"
+    excerpt: "Stagecoach will perform live road testing on AI-powered self-driving buses in Scotland over the next two weeks - luckily there'll be regular bus drivers keeping an eye on things"
+    publishedDateTime: 2022-04-25T14:30:00Z
+    webUrl: "https://www.dailystar.co.uk/tech/news/uks-first-self-driving-bus-26793571"
+    ampWebUrl: "https://www.dailystar.co.uk/tech/news/uks-first-self-driving-bus-26793571.amp"
+    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/uks-first-self-driving-bus-26793571.amp"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
+      name: Daily Star
+      domain: dailystar.co.uk
+    quality: 50
+    images:
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article26793841.ece/ALTERNATES/s615/0_Stagecoach-autonomous-bus.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "UK to allow watching TV from behind the wheel of a self-driving car"
+    excerpt: "This new policy will only be applicable for the people who own cars that are registered as “self-driving” under the British law."
+    publishedDateTime: 2022-04-23T08:42:00Z
+    webUrl: "https://www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm"
+    ampWebUrl: "https://www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 44
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/07/AP18129645375784-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
+  - title: "Self-driving bus begins testing in Scotland"
+    excerpt: "An autonomous bus has begun testing on routes around Edinburgh this week ahead of the introduction of a pilot self-driving bus service in the city’s suburbs later in the summer."
+    publishedDateTime: 2022-04-25T14:46:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/self-driving-bus-begins-testing-in-scotland/"
+    ampWebUrl: "https://www.driving.co.uk/news/technology/self-driving-bus-begins-testing-in-scotland/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/self-driving-bus-begins-testing-in-scotland/amp/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 44
+    images:
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2022/04/bus-02.jpg?w=1024"
+        width: 1024
+        height: 637
+        isCached: true
+  - title: "Stagecoach begins live-testing of self-driving buses on Scottish roads"
+    excerpt: "Stagecoach has announced it will be testing the UK’s first self-driving bus on Scottish roads this week, with plans to recruit 20 drivers when the scheme goes live. In partnership with Fusion Processing,"
+    publishedDateTime: 2022-04-25T08:07:00Z
+    webUrl: "https://www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103"
+    ampWebUrl: "https://www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103.amp"
+    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103.amp"
+    type: article
+    provider:
+      name: insider
+      domain: insider.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.dailyrecord.co.uk/incoming/article26788641.ece/ALTERNATES/s615/0_JS264415635.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "UK's first self-driving bus takes to the road for tests in Scotland"
+    excerpt: "Passengers are expected to start using the self-driving bus this summer as Scotland begins testing the \"hugely exciting project\"."
+    publishedDateTime: 2022-04-25T06:27:00Z
+    webUrl: "https://news.sky.com/story/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505?fr=operanews"
+    ampWebUrl: "https://news.sky.com/story/amp/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 44
+    images:
+      - url: "https://e3.365dm.com/22/04/1600x900/skynews-scotland-transport_5750689.png?20220425070751"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "GM patents self-driving car that replaces human driving instructors"
+    excerpt: "Self-driving cars are often described as replacements for human drivers, but a General Motors patent filing shows how they could be used to train new ones. First spotted by Motor1, the filing with the United States Patent and Trademark Office (USPTO ..."
+    publishedDateTime: 2022-04-22T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135620_gm-patents-self-driving-car-that-replaces-human-driving-instructors"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 24
     images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/04/pony-ai-car-self-driving-scaled.jpg?resize=1000%2C600&#038;ssl=1"
+      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100773492_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "New UK law will let drivers watch TV in their self-driving cars"
+    excerpt: "The United Kingdom Highway Code is being updated and will allow UK drivers in self-driving vehicles to watch TV while their car drives them down the road. What could possibly go wrong? The new UK rule was reported earlier this week by BBC News."
+    publishedDateTime: 2022-04-22T16:40:00Z
+    webUrl: "https://knowtechie.com/new-uk-law-will-let-drivers-watch-tv-in-their-self-driving-cars/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 24
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2019/12/stardew-valley-on-tesla-screen-1000x600.jpg"
         width: 1000
         height: 600
         isCached: true
-  - title: "Pony.ai Becomes the First Autonomous Driving Company to Receive a Taxi License in China"
-    excerpt: "Pony.ai, the leading global autonomous driving technology company, announced it is the first and only autonomous driving (AD) company to obtain a taxi license in China. Pony.ai was awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha,"
-    publishedDateTime: 2022-04-25T05:52:00Z
-    webUrl: "https://www.uniindia.com/pressrelease/pony-ai-becomes-the-first-autonomous-driving-company-to-receive-a-taxi-license-in-china"
+  - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
+    excerpt: "Users of self-driving cars will not be responsible for crashes under proposed changes to the Highway Code. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department for Transport said (DfT). The update to ..."
+    publishedDateTime: 2022-04-21T17:13:00Z
+    webUrl: "https://www.worcesternews.co.uk/news/national/uk-today/20079575.watching-tv-allowed-self-driving-cars-highway-code-update/"
     type: article
     provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 9
+      name: Worcester News
+      domain: worcesternews.co.uk
+    quality: 24
+    images:
+      - url: "https://www.worcesternews.co.uk/resources/images/13694720/"
+        width: 2400
+        height: 1691
+        isCached: true
+  - title: "UK Law Could Make It Legal For Drivers to Watch TV From Behind the Wheel of a Self-Driving Car"
+    excerpt: "Drivers in the UK could be allowed to watch TV from behind the wheel of a self-driving car if proposed updates to the law go through."
+    publishedDateTime: 2022-04-22T12:57:00Z
+    webUrl: "https://www.ign.com/articles/uk-law-drivers-watch-tv-self-driving-car"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 12
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/04/22/untitled-1-1650639414826.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Green Light for Self-Driving Cars"
+    excerpt: "Self-driving technology has been given the green light by the Government after it approved changes to the Highway Code."
+    publishedDateTime: 2022-04-21T12:01:00Z
+    webUrl: "https://www.evanshalshaw.com/news/green-light-for-self-driving-cars/"
+    type: article
+    provider:
+      name: Evans Halshaw
+      domain: evanshalshaw.com
+    quality: 4
+  - title: "What happened when police pulled over a self-driving car"
+    excerpt: "A viral video on Instagram shows San Francisco police officers confused after pulling over a self-driving or autonomous car."
+    publishedDateTime: 2022-04-25T10:00:00Z
+    webUrl: "https://www.cbc.ca/kidsnews/post/what-happened-when-police-pulled-over-this-self-driving-car"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 4
 
 secured: "nsStwZ44IiD/IkAdziQl2AfkmXC3+dNzjAzdOGCALbg9AA+6pk9ZxsgCYj4qW99lcwnSN7s+FuwprPsdPTupxzzWyVMg0Krubj+Ewu9th3FSW4UQShXpiCovJveIqyIyOeheYb7Qade6AB7BGBo/DbhBKv6o9lYdFHfqLgUOUsSH6gJ2xcLkSp7zzklEt6uHas/honqdbvFa+UYfE5N15pBg3QaLCKPDmKyo7TOjxcdNrEqfvFlBDPMPRXTAlAVccCCKZGSMLhgXhN4eoIMN6KltQeTyo5Sxkhb/HYuX4WlHX7Vb74OoGho22cAYJcGSteGJYtHOajiTgonTG78JF1pWopsodVGQBe4ahWevRdrfrVrGBTf4oYlYgAd2AgZGSwNHpAxr5ui5SNEwjZ50vox1HjtZ8Mcui9Kyo/CkF4nJj64xrBRGubIMvj/5dwPst5PfhOFb+G053vOkOCWLCxcV9V7hmOOirPf2nYBV3GS/vXvgBd8wqT12I2YcYVJXN2M3Pu3TwyzQPEaIZpZr4Q==;zohmKA5gVrGmtePD8d3SeQ=="
 ---

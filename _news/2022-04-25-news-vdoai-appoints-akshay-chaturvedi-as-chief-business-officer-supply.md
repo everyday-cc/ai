@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T13:04:00Z
 originalUrl: "https://www.peoplematters.in/news/appointments/vdoai-appoints-akshay-chaturvedi-as-chief-business-officer-supply-33729"
 webUrl: "https://www.peoplematters.in/news/appointments/vdoai-appoints-akshay-chaturvedi-as-chief-business-officer-supply-33729"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: People Matters

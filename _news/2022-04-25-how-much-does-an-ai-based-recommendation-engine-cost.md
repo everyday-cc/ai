@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Replacing the cookie jar with an AI-based audience engine and first-party data"
+    excerpt: "As the digital marketing world continues to look for alternatives to third-party cookies, an ‘audience engine’ driven by artificial intelligence (AI) and robust first-party data could provide a route to deeper customer insight and accurate targeting."
+    publishedDateTime: 2022-04-25T14:42:00Z
+    webUrl: "https://www.thedrum.com/opinion/2022/04/25/replacing-the-cookie-jar-with-ai-based-audience-engine-and-first-party-data"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 35
+    images:
+      - url: "https://media-assets-05.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-247257-javier-allegue-barros-c7b-exxpoie-unsplash--default--1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "eiWf6BCk0jhDdHUvewYGoKtBPYVVZt8TZh6+h/vMP2luwa8SpZvCZp6AU/h2Kr3sn29LaWSo4PqEv2Ub6rMp5DMcLt7dwBECJq5tn5jqOo80jHzY1Xo7Qph41/4GBMwEJdx3tj27ex8SGrkP2bl6zmYQXmgApyvM7D8/efPe169YAPcTS+nc6M5H+oJ5DH152tlByGz8t7uGyif7TqCPGzDrnuuO07vO9xrSpAh1IaBHfIR1DmZwo4OZarV1VUNXGzCBs0GynzXiqtFJSe/tKsfJx+4v+hhLuiPJYaYXpVCOpIzb8PcCYJN1mZObRfFlyABmpOq9KP7KqstgMssV81/3xp+qunzPqAt5iuphI3Q=;HOCdFldo6NiMmzeYMjzmCQ=="
 ---

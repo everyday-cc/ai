@@ -26,6 +26,17 @@ images:
     height: 1404
     isCached: true
 
+related:
+  - title: "The risks of attacks that involve poisoning training data for machine learning models"
+    excerpt: "A growing number of studies suggest that machine learning algorithms can leak a considerable amount of information included in the data used to train them through their model parameters and predictions."
+    publishedDateTime: 2022-04-25T13:30:00Z
+    webUrl: "https://techxplore.com/news/2022-04-involve-poisoning-machine.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 27
+
 secured: "eNL56qURODIFq4v9H/nLE45cfE1dSfSUdzHqAAOmaThR7l7qZnczNECN92gXcVT3I1VKTvoQk0dR4dn6t7493clChHsnD9dDduLm1TKNwj+6TdFKwVvOqZ2ViY32pYRQCdVOTNjgW1gMSv+BoNkmHduOZW5OHdAHsTupKQ6+rqJsXfIMHaXMlJef1ZXGm9RyGl7u8rz5AoiDrsJbZ3YOFMPeDJ393LFlqTjljE9RhpjA4jTwpjMo/HBoHF6rizJoZQ5k12e9Twr4KF4cgFLK2Oi/h+3KIFHPI8/uLm5dwyhjZq7PfMwVLRUxYR+LetByNod566NpEDuvFu8K6HasiyX5hrjV81ZgDqwH4kRayDon57P+nDVyzlNmoWIN0ga4xxyGvB5UHy4Fqi0Vb99i8o1ywHVyoUUVo25u83baeWtzoc+VSzpq3EWq6Jui383NfeZoN7h+GH8t035Rbo2IPDwcfB44IubrBOtORp0XX9qAsivMg6EKXgIMA8CHpjxZG3o0badiC3npqaa0FRoaUA==;2q6grXCTUYYTLUjMA/g3aw=="
 ---
 

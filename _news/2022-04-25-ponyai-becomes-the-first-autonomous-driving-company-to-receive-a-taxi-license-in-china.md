@@ -46,6 +46,20 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Pony.ai wins autonomous driving taxi license in China"
+    excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"
+    publishedDateTime: 2022-04-24T08:41:00Z
+    webUrl: "https://www.globaltimes.cn/page/202204/1260153.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 37
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-14/6d179573-5120-4012-9311-617643a5f225.jpeg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Robotaxi startup Pony.ai gains taxi licence in China city"
     excerpt: "BEIJING: Self-driving tech company Pony.ai, backed by Toyota Motor Corp, said on Sunday (Apr 24) it has obtained a taxi licence in China, which will allow some of its driverless vehicles to start charging fares. The company said it was the first autonomous ..."
     publishedDateTime: 2022-04-24T06:37:00Z
@@ -73,20 +87,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/04/GettyImages_1367860597-360x240.jpg"
         width: 360
         height: 240
-        isCached: true
-  - title: "Self-Driving Startup Pony.ai Wins China’s First License to Charge for Robotaxi Services"
-    excerpt: "Pony.ai will launch a fare-charging driverless taxi service in the southern city of Guangzhou after becoming the first Chinese autonomous driving firm to be granted a taxi license, a huge milestone in the commercialization of self-driving technologies."
-    publishedDateTime: 2022-04-25T07:09:00Z
-    webUrl: "https://www.yicaiglobal.com/news/self-driving-startup-ponyai-wins-china-first-license-to-charge-for-robotaxi-services"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 31
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-startup-ponyai-wins-china-first-license-to-charge-for-robotaxi-services/10111682507461.jpg"
-        width: 720
-        height: 480
         isCached: true
   - title: "Pony.ai Becomes the First Autonomous Driving Company to Receive a Taxi License in China"
     excerpt: "Pony.ai, the leading global autonomous driving technology company, announced it is the first and only autonomous driving (AD) company to obtain a taxi license in China. Pony.ai was awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha,"

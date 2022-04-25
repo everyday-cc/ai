@@ -7,8 +7,8 @@ originalUrl: "https://www.digitaltrends.com/computing/nvidia-lovelace-gpus-are-d
 webUrl: "https://www.digitaltrends.com/computing/nvidia-lovelace-gpus-are-designed-partially-by-ai/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Digital Trends
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia wants to use GPUs and AI to accelerate and improve future chip design"
-    excerpt: "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using"
-    publishedDateTime: 2022-04-20T22:37:00Z
-    webUrl: "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 116
-    images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg"
-        width: 800
-        height: 560
-        isCached: true
   - title: "Nvidia turns to AI for design process improvements"
     excerpt: "Better than humans Nvidia expects the complexity of integrated circuit design to increase exponentially in the coming years, and is looking to AI to help out. During a talk at this year's GPU Technology Conference,"
     publishedDateTime: 2022-04-21T10:43:00Z
@@ -52,20 +36,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/05ffc05d3104a90a87bfa4f3347badda_L.jpg"
         width: 620
         height: 388
-        isCached: true
-  - title: "How to Improve Corporate Culture with Artificial Intelligence"
-    excerpt: "Contrary to press-propagated blames on rapid industry changes, unforeseen circumstances and uncontrollable crises, most business failures boil down to poor corporate culture. Interestingly, how corporate culture is perceived has changed just as rapidly as industries have evolved in recent times."
-    publishedDateTime: 2022-04-21T21:00:00Z
-    webUrl: "https://www.chron.com/business/article/How-to-Improve-Corporate-Culture-with-Artificial-17117085.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/32/53/22391490/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "GQylSYgRsL9IaEV6HHUtj1CbMs4qwIe+v4MTJnwGWluBW3KlfoaTjH4hlEt3pCjhwrP2/HV6Rve5EJBp7rDbbStBlRlrhHC9vy/TqCRCSY7tVXp2qMt66zjF4zwt/4DiaECi52cowYBpK5F/4euqx+XlNAdvYSQy5PWc6ImTewle7gQudRbc6INFCxRdSyC4IQ7J1EFMKONHd722VkrXWWFh5tYY/TT/KBwUYWO3P2HoslEFrqN9NBDCbkNlaH9LiLmXVEQtg2KQvG5jehZJtszflnCcyRCU0EnWgHbkOyY8kesxfGdwSG85M/HNusF/p8eQ3uDj2i0P9vNEN24nEkgi/Y07N+SPTjZANe2HQeZNb64bPVw6EnrnU2SF/Vx3ACQMcj7CX4UfgauZfhDUJmeQBGm/C5wWlsbAg01dlOW6kmn1eJWwPKHOg74Vr/JVXNxsqYT4oLL1Vzjrk7GZlReN+3AireBJPSzne/rZ8rJRNvok7yZwdnEFLL2V7I+3MZPs7IGK1L6W41/qMJRcIQ==;PuLcNkUy2fFHuwF+zVYEXw=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T11:04:00Z
 originalUrl: "https://www.digitaljournal.com/pr/enzolytics-inc-reports-progress-and-future-plans"
 webUrl: "https://www.digitaljournal.com/pr/enzolytics-inc-reports-progress-and-future-plans"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Digital Journal

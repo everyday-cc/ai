@@ -38,6 +38,15 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Clearing up biases in artificial intelligence"
+    excerpt: "Scientists have noticed grave disparities in artificial intelligence, noting that the methods are not objective, especially when it comes to geodiversity. AI tools, whether forecasting hail, wind or tornadoes,"
+    publishedDateTime: 2022-04-21T01:46:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220420133607.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "Pk0JaagV0W/tocdOe5y+n5UpTV5Tn18qe6pbdoMQcPOrT65noVb6IAdboc7yg7twDCIqF4QmST+NRX3rlbSCGdMnhZPOtbU7svuFNrW5XVEClt+yT6NzudsZqP8tUzGkxtigmoV7oymXmTupcIq3RaUMNEkMEaCmjUMVqj/rbgMw7vrCniXKIE5waZHWZu7rZhrRy/RP/qntJz2Q6wT2BEg9s3230XemoH8Kyv635jqBlupzykombfsXpu+rlBjXzfGlqj6AB+aZA52XsGTWJnBiFnw/53oGK9weemSFKfLoLRinzZ8OA9f0LktXNhGHJoF5wUi8jvqQAfL2SHV//weXCh4FrM3adx9eaTNFENs=;Lg9haP3Yct2OpbE7t9Qi0g=="
 ---

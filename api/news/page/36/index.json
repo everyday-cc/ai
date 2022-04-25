@@ -2,6 +2,569 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-03-22-nvidia-unveils-latest-chips-technology-to-speed-up-ai-computing.md",
+      "title": "Nvidia unveils latest chips, technology to speed up AI computing",
+      "excerpt": "Nvidia Corp NVDA.O on Tuesday announced several new chips and technologies that it said will boost the computing speed of",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia-unveils-latest-chips-technology-to-speed-up-ai-computing",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia-unveils-latest-chips-technology-to-speed-up-ai-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/nvidia-unveils-latest-chips-technology-to-speed-up-ai-computing",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-unveils-latest-chips-technology-to-speed-up-ai-computing",
+      "publishedDateTime": "2022-03-22T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-live-at-pack-expo-east-tutor-intelligence-rewrites-the-rules-of-collaborative-robots.md",
+      "title": "Live at PACK EXPO East: Tutor Intelligence Rewrites the Rules of Collaborative Robots",
+      "excerpt": "Tutor Intelligence's vision system with hybrid human and artificial intelligence learns tasks without custom programming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/factory/robotics/article/22131529/collaborative-robots-adapt-to-complex-environments-in-kitting-feeding-packing-applications",
+      "originalUrl": "https://www.automationworld.com/factory/robotics/article/22131529/collaborative-robots-adapt-to-complex-environments-in-kitting-feeding-packing-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2022/03/Tutor_March2022.6239274e9d9fa.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-york-ie-auditoriaai-extends-finance-cognitive-automation-market-leadership-in-2022.md",
+      "title": "York IE: Auditoria.AI Extends Finance Cognitive Automation Market Leadership in 2022",
+      "excerpt": "today announced significant company growth at Shared Services and Outsourcing Week. This achievement includes greater than 200 percent customer growth, three new products for finance leaders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-03/55569312-york-ie-auditoria-ai-extends-finance-cognitive-automation-market-leadership-in-2022-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-03/55569312-york-ie-auditoria-ai-extends-finance-cognitive-automation-market-leadership-in-2022-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-dow-wins-2022-artificial-intelligence-excellence-award.md",
+      "title": "Dow Wins 2022 Artificial Intelligence Excellence Award",
+      "excerpt": "Dow Polyurethanes’ Predictive Intelligence recognized for scaling AI into operations, driving business and customer value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/march-2022/dow-wins-2022-ai-excellence-award",
+      "originalUrl": "https://www.automation.com/en-us/articles/march-2022/dow-wins-2022-ai-excellence-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-nvidia-unveils-latest-chip-to-speed-up-ai-computing.md",
+      "title": "Nvidia unveils latest chip to speed up AI computing",
+      "excerpt": "Nvidia Corp on Tuesday unveiled its latest new graphic chip (GPU), dubbed the H100, saying it will increase the computing speed of artificial intelligence algorithms that increasingly require more power to execute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/03/22/nvidia-unveils-latest-chip-to-speed-up-ai-computing",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/03/22/nvidia-unveils-latest-chip-to-speed-up-ai-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/03/22/1524082.jpg",
+          "width": 800,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical.md",
+      "title": "BYJU’S Appoints Former Facebook Tech Lead Majid Yazdani as VP, BYJU’S Lab to Scale Research and Innovation Vertical",
+      "excerpt": "BYJU’S, the world’s leading edtech company, today announced the appointment of Majid Yazdani as Vice President at BYJU’S Lab to propel and further shape the future of education. Working on personalisation and other AI applications to the education sector,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-united-kingdom-4ae59948ea474eba9dada964129826d0",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-united-kingdom-4ae59948ea474eba9dada964129826d0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-adt-commercial-to-showcase-humanoid-robotics-indoor-drones-at-isc-west-2022.md",
+      "title": "ADT Commercial to showcase humanoid robotics, indoor drones at ISC West 2022",
+      "excerpt": "Over the last several years, the world and overall commercial security landscape transform rapidly in response to various threats. As the industry has looked for a path forward, it’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "publishedDateTime": "2022-03-22T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-gigantor-technologies-provides-an-unbounded-future-for-ai.md",
+      "title": "Gigantor Technologies’ Provides an Unbounded Future for AI",
+      "excerpt": "Gigantor's newest innovation enhances Artificial Intelligence (AI) neural networks by enabling higher frame rates at the highest resolution (HD, 4K, and 8K). In the Patent Title, 'Unbounded ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-icertis-launches-industry-first-contract-intelligence-solution-for-healthcare-providers.md",
+      "title": "Icertis Launches Industry-First Contract Intelligence Solution for Healthcare Providers",
+      "excerpt": "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced the launch of  (ICI) for Healthcare Providers. The industry-first CLM solution helps healthcare providers accelerate digital transformation by modernizing complex agreements such as payer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
+      "originalUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1765967/Patient_Centered_Care_and_Contracts.jpg?w=500",
+          "width": 500,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-breyer-capital-backs-quantum-ai-startup-sandbox-aq.md",
+      "title": "Breyer Capital Backs Quantum AI Startup, Sandbox AQ",
+      "excerpt": "Hidary, the inspiration for Sandbox AQ and some of its team began at Alphabet Inc. (NASDAQ: GOOG) in 2016. In 202",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-texas-4e7e00b9602e4a67a7a1fbc16b682bb0",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-texas-4e7e00b9602e4a67a7a1fbc16b682bb0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-how-this-ai-predicts-extreme-local-weather-events.md",
+      "title": "How this AI predicts extreme local weather events",
+      "excerpt": "As climate change increases the intensity and frequency of extreme weather events, prediction has never been more important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-ai-predicts-extreme-local-weather-events/",
+      "originalUrl": "https://www.zdnet.com/article/how-ai-predicts-extreme-local-weather-events/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a52a9e865fc6c94a81086164d6118ca459e60169/2022/03/21/9eb7fcc9-a38f-4eae-89db-07887cd97eb6/gettyimages-182689622.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/",
+      "publishedDateTime": "2022-03-22T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-tifin-announces-the-expansion-of-its-fintech-platform-for-personalized-charitable-giving-to-democratize-access-to-donor-advised-funds.md",
+      "title": "TIFIN Announces the Expansion of its Fintech Platform for Personalized Charitable Giving to Democratize Access to Donor Advised Funds",
+      "excerpt": "TIFIN's Louise Platform that allows advisors to enable personalized giving for their client families acquires Amicus.io to broaden access and meet clients' giving needs without minimums BOULDER, Colo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/03/22/9568051.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/03/22/9568051.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-evisort-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
+      "title": "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards",
+      "excerpt": "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_5d8d9a85-9a49-5348-b76f-5902c734ec82.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_5d8d9a85-9a49-5348-b76f-5902c734ec82.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/ff/fff7e599-6920-5698-af49-458060661e82/6239ccec33715.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-pros-honored-in-2022-artificial-intelligence-excellence-awards.md",
+      "title": "PROS Honored in 2022 Artificial Intelligence Excellence Awards",
+      "excerpt": "PROS® (NYSE: PRO), a market-leading provider of SaaS solutions optimizing shopping and selling experiences, today announced it has been named a winner for automated reasoning in the 2022 Artificial Intelligence Excellence Awards. Created by the Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a147706bea5e41fc88945fdd31bcca07",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a147706bea5e41fc88945fdd31bcca07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program.md",
       "title": "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program",
       "excerpt": "FMG Suite, a SaaS company specializing in marketing software and services for financial advisors and insurance agents, today announced that it has been named \"Best Overall FinTech Mobile App\" in the sixth annual FinTech Breakthrough Awards program conducted by FinTech Breakthrough,",
@@ -481,664 +1044,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-a-long-road-still-ahead-for-autonomous-trucking-technologies.md",
-      "title": "A long road still ahead for autonomous trucking technologies",
-      "excerpt": "The artificial intelligence and machine learning kicks in and can learn from all these scenarios and just get better and better,” he said. Jatt added Waymo studied several decades of traffic accidents in the Phoenix, Ariz., area where its autonomous cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.trucknews.com/technology/a-long-road-still-ahead-for-autonomous-trucking-technologies/1003157934/",
-      "originalUrl": "https://www.trucknews.com/technology/a-long-road-still-ahead-for-autonomous-trucking-technologies/1003157934/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Truck News",
-        "domain": "trucknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-workplace-digital-skills-training-in-a-bad-place.md",
-      "title": "Workplace digital skills training in a bad place",
-      "excerpt": "Workers aren’t getting enough training in much needed digital skills with two in three workers saying they’re not confident existing workplace training programs will meet their future career needs, a new survey has found.",
-      "sourceUrl": null,
-      "webUrl": "https://ia.acs.org.au/article/2022/workplace-digital-skills-training-in-a-bad-place.html",
-      "originalUrl": "https://ia.acs.org.au/article/2022/workplace-digital-skills-training-in-a-bad-place.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ia.acs.org.au/content/dam/ia/article/images/2022/training%20computer%20skills.jpg",
-          "width": 939,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T18:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ia.acs",
-        "domain": "acs.org.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup.md",
-      "title": "Microsoft adds Pasqal’s neutral-atom processors to its Azure Quantum cloud computing lineup",
-      "excerpt": "Microsoft’s Azure Quantum cloud computing service will be adding a brand-new tool to its toolbox: Pasqal’s neutral-atom quantum processing system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/",
-      "originalUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RGqhsC6rUxQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/amp/",
-      "publishedDateTime": "2022-03-21T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award.md",
-      "title": "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award",
-      "excerpt": "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award",
-      "originalUrl": "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-Protests-AFP-1K-03-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-meet-the-deepmind-mafia-these-18-alumni-from-googles-ai-research-lab-are-raising-millions-for-their-own-startups-from-climate-to-crypto.md",
-      "title": "Meet the DeepMind mafia: These 18 alumni from Google's AI research lab are raising millions for their own startups, from climate to crypto",
-      "excerpt": "Over the past decade, Google-owned artificial intelligence research lab DeepMind has become a repository for top AI talent. Since Google bought the London-based startup for an estimated $500 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/former-deepmind-employees-who-founded-own-AI-startups-2022-3",
-      "originalUrl": "https://www.businessinsider.com/former-deepmind-employees-who-founded-own-AI-startups-2022-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62349c08c5cf2000184dc442?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-robots-step-into-the-covid-19-danger-zone.md",
-      "title": "Robots Step into the COVID-19 Danger Zone",
-      "excerpt": "mind-numbing and boring jobs. Now they can do jobs in plants while humans are sheltering.” Bogart began by creating robots for movie sets. “We started in the 80s designing robots for motion pictures, mostly motion control. We moved movie cameras and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/OB7%20opening%20machine%20door%20%28002%29.jpg",
-          "width": 3264,
-          "height": 1836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-ukraine-and-russia-have-both-weaponized-facial-recognition-in-very-different-ways.md",
-      "title": "Ukraine and Russia have both weaponized facial recognition — in very different ways",
-      "excerpt": "Ukraine is using the technology to ID the dead and find Russian infiltrators. Russia is using it to crush dissent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
-      "originalUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6238d63cd199330018a3626d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
-      "publishedDateTime": "2022-03-21T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-ai-voice-driven-speech-recognition-suite-augnito-enhances-radiology-and-clinical-reporting-for-wellbeing-software.md",
-      "title": "AI voice-driven speech recognition suite, Augnito, enhances radiology and clinical reporting for Wellbeing Software",
-      "excerpt": "Bespoke speech recognition technology, Augnito, aids Wellbeing Software with highly accurate Radiology Information System workflows. Scribetech has announced the integration of its disruptive ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103887121/AI-voice-driven-speech-recognition-suite-Augnito-enhances-radiology-and-clinical-reporting-for-Wellbeing-Software&source=139",
-      "originalUrl": "https://menafn.com/1103887121/AI-voice-driven-speech-recognition-suite-Augnito-enhances-radiology-and-clinical-reporting-for-Wellbeing-Software&source=139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment.md",
-      "title": "Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment",
-      "excerpt": "Over the past five years, there has been an increase in research and development related to the use of artificial intelligence ... nursing and occupational therapy. AI-enhanced technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.canadianmanufacturing.com/features/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment/",
-      "originalUrl": "https://www.canadianmanufacturing.com/features/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.canadianmanufacturing.com/wp-content/uploads/2022/03/Artificial-Intelligence.jpeg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canadian Manufacturing",
-        "domain": "canadianmanufacturing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-explainable-ai-from-black-box-to-transparency.md",
-      "title": "Explainable AI: from black box to transparency",
-      "excerpt": "Financial organizations and their customers need to learn more about how AI works, citing the “black box” of AI as a complete mystery. They don’t understand how decisions are reached or for what reasons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/explainable-ai-from-black-box-transparency-brighterion",
-      "originalUrl": "https://www.linkedin.com/pulse/explainable-ai-from-black-box-transparency-brighterion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFABoDNNLZUBw/article-cover_image-shrink_720_1280/0/1647885679200?e=1654128000&v=beta&t=3yKZb43IR3X4ScbjkyXlkwr2jZuCfpDJZEm5byAbZyo",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity.md",
-      "title": "Dennis Fong’s GGWP raises $12M for AI to combat game toxicity",
-      "excerpt": "GGWP has raised $12 million in seed funding to use AI and content moderation to reduce toxicity in online games.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/",
-      "originalUrl": "https://venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ggwp_logo_vertical.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/amp/",
-      "publishedDateTime": "2022-03-21T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-why-ai-is-harder-than-we-think-human-intelligence-vs-machine-intelligence.md",
-      "title": "Why AI is Harder Than We Think - Human Intelligence vs Machine Intelligence",
-      "excerpt": "Melanie Mitchell wrote a paper titled \"Why AI is Harder Than We Think\" almost a year back. My observation is very similar, it is hard problem to crack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/why-ai-harder-than-we-think-human-intelligence-vs-machine-m-a",
-      "originalUrl": "https://www.linkedin.com/pulse/why-ai-harder-than-we-think-human-intelligence-vs-machine-m-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHR-AdLzu4Uaw/article-cover_image-shrink_600_2000/0/1647870433150?e=1653523200&v=beta&t=0mBOXeajSXYBsfM6FkX8ZnFr_MTHX0fMT-BD51c6_r4",
-          "width": 877,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-are-there-any-risks-in-using-artificial-intelligence-to-grow-food.md",
-      "title": "Are there any risks in Using Artificial Intelligence to Grow Food?",
-      "excerpt": "It's no longer news that the world is changing rapidly and technology is the major driving force, causing major disruptions and changing what value means across different sectors and the food agricultural sector is not left out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/any-risks-using-artificial-intelligence-grow-food-nicholas-alifa",
-      "originalUrl": "https://www.linkedin.com/pulse/any-risks-using-artificial-intelligence-grow-food-nicholas-alifa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGoJvDx1Y6bWQ/article-cover_image-shrink_720_1280/0/1639399952851?e=1654128000&v=beta&t=Rb1ZJp2nNA_HtB4nbyknNjmLyMLmLlCjhlYec0_SLps",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-metas-yann-lecun-strives-for-human-level-ai.md",
-      "title": "Meta’s Yann LeCun strives for human-level AI",
-      "excerpt": "LeCun believes that deep learning and artificial neural networks will play a big role in the future of AI. More specifically, he advocates for self-supervised learning, a branch of ML that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/",
-      "originalUrl": "https://venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1284279630-e1647617169803.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/21/metas-yann-lecun-strives-for-human-level-ai/amp/",
-      "publishedDateTime": "2022-03-21T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

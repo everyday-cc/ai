@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T01:09:00Z
 originalUrl: "https://indiaeducationdiary.in/ural-federal-university-course-on-machine-learning-in-biomedical-engineering-to-be-introduced-at-the-university/"
 webUrl: "https://indiaeducationdiary.in/ural-federal-university-course-on-machine-learning-in-biomedical-engineering-to-be-introduced-at-the-university/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: India Education Diary

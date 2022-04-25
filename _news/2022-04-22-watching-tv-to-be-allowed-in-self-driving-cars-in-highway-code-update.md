@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Ethics Fretting Over The Use Of AI To Goad Humans Into Unethical Behaviors, Possibly Even Via Those Autonomous Self-Driving Cars"
+    excerpt: "AI that provides unethical advice is going to be a vexing problem for humans, including as showcased via the advent of autonomous self-driving cars."
+    publishedDateTime: 2022-04-25T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62467316d1ffaded5f503f2f/0x0.jpg?format=jpg&crop=1421,760,x243,y0,safe&width=1200"
+        width: 1200
+        height: 642
+        isCached: true
   - title: "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too"
     excerpt: "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm."
     publishedDateTime: 2022-04-21T15:30:00Z
@@ -40,6 +56,38 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Enhancing Autonomous Vehicles with Machine Learning"
+    excerpt: "A team of MIT researchers has developed a solution to one of the things really holding scientists back from fully autonomous driving - a vehicle’s ability to accurately predict human behavior."
+    publishedDateTime: 2022-04-25T15:01:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12913"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12913"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12913"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 61
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12913_16508986184318444.jpg"
+        width: 900
+        height: 599
+        isCached: true
+  - title: "UK's first self-driving bus to hit the road in next two weeks in major trials of AI tech"
+    excerpt: "Stagecoach will perform live road testing on AI-powered self-driving buses in Scotland over the next two weeks - luckily there'll be regular bus drivers keeping an eye on things"
+    publishedDateTime: 2022-04-25T14:30:00Z
+    webUrl: "https://www.dailystar.co.uk/tech/news/uks-first-self-driving-bus-26793571"
+    ampWebUrl: "https://www.dailystar.co.uk/tech/news/uks-first-self-driving-bus-26793571.amp"
+    cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/uks-first-self-driving-bus-26793571.amp"
+    type: article
+    provider:
+      name: Daily Star
+      domain: dailystar.co.uk
+    quality: 50
+    images:
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article26793841.ece/ALTERNATES/s615/0_Stagecoach-autonomous-bus.jpg"
+        width: 615
+        height: 409
         isCached: true
   - title: "UK to allow watching TV from behind the wheel of a self-driving car"
     excerpt: "This new policy will only be applicable for the people who own cars that are registered as “self-driving” under the British law."
@@ -57,21 +105,21 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "A self-driving bus in Scotland is ready for passengers"
-    excerpt: "The UK's first self-driving bus project is taking to a route in Edinburgh in preparation for welcoming passengers this summer!"
-    publishedDateTime: 2022-04-25T07:15:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/61213591"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/61213591.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/61213591.amp"
+  - title: "Self-driving bus begins testing in Scotland"
+    excerpt: "An autonomous bus has begun testing on routes around Edinburgh this week ahead of the introduction of a pilot self-driving bus service in the city’s suburbs later in the summer."
+    publishedDateTime: 2022-04-25T14:46:00Z
+    webUrl: "https://www.driving.co.uk/news/technology/self-driving-bus-begins-testing-in-scotland/"
+    ampWebUrl: "https://www.driving.co.uk/news/technology/self-driving-bus-begins-testing-in-scotland/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/news/technology/self-driving-bus-begins-testing-in-scotland/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: Sunday Times Driving
+      domain: driving.co.uk
     quality: 44
     images:
-      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/12617/production/_124278257_hi075549846.jpg"
-        width: 640
-        height: 360
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2022/04/bus-02.jpg?w=1024"
+        width: 1024
+        height: 637
         isCached: true
   - title: "Stagecoach begins live-testing of self-driving buses on Scottish roads"
     excerpt: "Stagecoach has announced it will be testing the UK’s first self-driving bus on Scottish roads this week, with plans to recruit 20 drivers when the scheme goes live. In partnership with Fusion Processing,"
@@ -105,19 +153,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Pony.ai wins autonomous driving taxi license in China"
-    excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"
-    publishedDateTime: 2022-04-24T08:41:00Z
-    webUrl: "https://www.globaltimes.cn/page/202204/1260153.shtml"
+  - title: "Self-Driving Startup Pony.ai Wins China’s First License to Charge for Robotaxi Services"
+    excerpt: "Pony.ai will launch a fare-charging driverless taxi service in the southern city of Guangzhou after becoming the first Chinese autonomous driving firm to be granted a taxi license, a huge milestone in the commercialization of self-driving technologies."
+    publishedDateTime: 2022-04-25T07:09:00Z
+    webUrl: "https://www.yicaiglobal.com/news/self-driving-startup-ponyai-wins-china-first-license-to-charge-for-robotaxi-services"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 31
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-14/6d179573-5120-4012-9311-617643a5f225.jpeg"
-        width: 500
-        height: 300
+      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-startup-ponyai-wins-china-first-license-to-charge-for-robotaxi-services/10111682507461.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "GM patents self-driving car that replaces human driving instructors"
     excerpt: "Self-driving cars are often described as replacements for human drivers, but a General Motors patent filing shows how they could be used to train new ones. First spotted by Motor1, the filing with the United States Patent and Trademark Office (USPTO ..."
@@ -133,29 +181,52 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tech: Watch TV in self-driving cars, unions coming for Apple"
-    excerpt: "Sit back, relax, and watch TV while your car drives you  New rules for fully self driving cars in the UK will let the driver watch something other than the"
-    publishedDateTime: 2022-04-22T23:15:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/paul-stenhouse-watch-tv-in-self-driving-cars-unions-coming-for-apple/"
+  - title: "New UK law will let drivers watch TV in their self-driving cars"
+    excerpt: "The United Kingdom Highway Code is being updated and will allow UK drivers in self-driving vehicles to watch TV while their car drives them down the road. What could possibly go wrong? The new UK rule was reported earlier this week by BBC News."
+    publishedDateTime: 2022-04-22T16:40:00Z
+    webUrl: "https://knowtechie.com/new-uk-law-will-let-drivers-watch-tv-in-their-self-driving-cars/"
     type: article
     provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
+      name: KnowTechie
+      domain: knowtechie.com
     quality: 24
     images:
-      - url: "https://www.newstalkzb.co.nz/media/5693/people-take-photos-of-an-apple-store-with-their-iphones-logo-generic-getty-imagesjpg.jpg?mode=crop&width=635&height=395&rnd=132951850615530000"
-        width: 635
-        height: 395
+      - url: "https://knowtechie.com/wp-content/uploads/2019/12/stardew-valley-on-tesla-screen-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Self driving along the trip - Washington Forum"
-    excerpt: "Are you really driving all over the US, or are you sticking to the East Coast. This is the forum for the real Washington ~ the state!"
-    publishedDateTime: 2022-04-24T22:45:00Z
-    webUrl: "https://www.tripadvisor.com.au/ShowTopic-g28968-i73-k10368836-Self_driving_along_the_trip-Washington.html"
+  - title: "UK Law Could Make It Legal For Drivers to Watch TV From Behind the Wheel of a Self-Driving Car"
+    excerpt: "Drivers in the UK could be allowed to watch TV from behind the wheel of a self-driving car if proposed updates to the law go through."
+    publishedDateTime: 2022-04-22T12:57:00Z
+    webUrl: "https://www.ign.com/articles/uk-law-drivers-watch-tv-self-driving-car"
     type: article
     provider:
-      name: TripAdvisor
-      domain: tripadvisor.com.au
-    quality: 19
+      name: IGN
+      domain: ign.com
+    quality: 12
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/04/22/untitled-1-1650639414826.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Green Light for Self-Driving Cars"
+    excerpt: "Self-driving technology has been given the green light by the Government after it approved changes to the Highway Code."
+    publishedDateTime: 2022-04-21T12:01:00Z
+    webUrl: "https://www.evanshalshaw.com/news/green-light-for-self-driving-cars/"
+    type: article
+    provider:
+      name: Evans Halshaw
+      domain: evanshalshaw.com
+    quality: 4
+  - title: "What happened when police pulled over a self-driving car"
+    excerpt: "A viral video on Instagram shows San Francisco police officers confused after pulling over a self-driving or autonomous car."
+    publishedDateTime: 2022-04-25T10:00:00Z
+    webUrl: "https://www.cbc.ca/kidsnews/post/what-happened-when-police-pulled-over-this-self-driving-car"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 4
 
 secured: "UEdVCmR0uxAF8hR5P4XqXWUmO33yy9ig/Q5oYDo6Pj8yhf1euLeBde61eTv/dTsnbia+Ke5SH5B4K+RS2zRuMSllKLokBuV8SjyF8rKXuJ2ZkNVX0QCnLitq6SxndekM0g6yyClnv2LQ5Pj7f20v0ixA/jBQ8T8JYEvgPDjtnq/Tp9nYCR6HuGHr+OAeqSS1GRi6GIxADWIACAPSQyymvaJlFxqDKVutDvwFk4krmoZoRy4bTBe94WThCdgL/U6l4qwCs1SSiAqN2ZboeJD74rHfi8UKyJFEr6uHDrxcoCjAVDMjW5PfZJv5xeZ3xMFvHeWOxCQAJiEapy7TBjTd6kUlgV/9Zp2reuqqj2noJys=;5X8n8Bls5VUq7yYfXtV6eg=="
 ---

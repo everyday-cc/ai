@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "RISC-V Startup Esperanto Technologies Samples First AI Silicon"
-    excerpt: "Esperanto has been talking about their edge AI chips for several years, and now the company can demonstrate working AI acceleration for image, language, and recommendation processing. I had the chance to watch a demo of the platform and came away quite ..."
-    publishedDateTime: 2022-04-20T21:29:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
   - title: "Esperanto Technologies' Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
     excerpt: "Esperanto Technologies™, the leading developer of high performance, energy-efficient artificial intelligence (AI) inference accelerators based on the RISC-V instruction set, today announced that initial evaluations for its ET-SoC-1 AI inference accelerator are underway with lead customers."
     publishedDateTime: 2022-04-21T09:35:00Z

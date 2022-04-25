@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft unifies large-scale data management under Purview framework"
-    excerpt: "The new “Microsoft Purview” brings company’s large organization-focused data management tools under one roof, and includes a host of new features."
-    publishedDateTime: 2022-04-20T19:59:00Z
-    webUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html"
-    ampWebUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/05/software_development_lifecycle_developers_programmers_coding_code_by_roman_samborskyi_shutterstock_1536573386_royalty-free_digital-only_2400x1600-100890352-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Braincube Now Available in the Microsoft Azure Marketplace"
     excerpt: "With the move to Azure Cloud, the infrastructure is easy to maintain and we can roll out new plants rapidly. Braincube is driving innovation in the data analytics and AI space and we are delighted ..."
     publishedDateTime: 2022-04-21T15:46:00Z
@@ -59,43 +43,15 @@ related:
         width: 427
         height: 250
         isCached: true
-  - title: "Kraft Heinz to work with Microsoft on digital twins and supply chain efficiencies"
-    excerpt: "Food manufacturing firm Kraft Heinz Co. said today it is partnering with Microsoft Corp. with an eye to improving its supply chain visibility and day-to-day operations. Under the alliance, Kraft Heinz will adopt various cloud,"
-    publishedDateTime: 2022-04-22T02:10:00Z
-    webUrl: "https://siliconangle.com/2022/04/21/kraft-heinz-work-microsoft-digital-twins-supply-chain-efficiencies/"
+  - title: "Kraft Heinz partnering with Microsoft on supply chain solutions"
+    excerpt: "It’s powered by Microsoft Azure’s AI, IoT and data analytics capabilities ... companies to co-engineer even more digital solutions utilizing Microsoft AI, machine learning and IoT. “The past two years have highlighted the urgent need for digital ..."
+    publishedDateTime: 2022-04-21T21:18:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/04/21/kraft-heinz-partners-with-microsoft.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/48876996006_853180752b_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Kraft Heinz enlists Microsoft for cloud migration and digital twin development"
-    excerpt: "Kraft Heinz has entered the next phase of its digital transformation strategy that aims to improve its supply chain operations."
-    publishedDateTime: 2022-04-21T13:34:00Z
-    webUrl: "https://www.zdnet.com/article/kraft-heinz-enlists-microsoft-for-cloud-migration-and-digital-twin-development/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
-  - title: "Microsoft to Initiate Two Schemes to Promote Start-ups"
-    excerpt: "Microsoft announces two initiatives to help grow start-ups and foster entrepreneurship in the country. Read all about it here!"
-    publishedDateTime: 2022-04-21T08:40:00Z
-    webUrl: "https://techstory.in/microsoft-to-initiate-two-schemes-to-promote-start-ups/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/04/Microsoft-Logo-2012-present-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "nwjAP4/DgU3U2o114r1zdCXDq0iJDnaPOHmEe80gDT0W/6F8Ql+UjPiXt7CYxWXqgN9x0T9yT1JKfDAz2jwiluBTF7LHaYE3PEIEjpjL3dET/ClQEHzBZG9ZILshiSo/w6ajwSoeRQCI6evH4vp6MCV6pA9y/qcA2OwYcVymMLzSj7B8EpIUHZ9YbG5BaGnqZl9Ebti56PBJMqYJPys7n1VNzhOJU8OKDu0Knw7EuRN1qk4AUt+wof34QR1AysAzwAeC72e4/FKeoinOktDkc8bCUq6R5PT0gfT0QTUx750TGnVY3ttH1WYy07RuQwI6Hi2pyZV3VHOxW4P/9z3J2McSRabPVL6y57nl0zuprsQ=;wjBEuK35+rfe+Nuzm9hZxQ=="
 ---

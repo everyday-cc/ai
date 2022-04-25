@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T12:15:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/international-ai-accelerator-intema-announces-its-first-demo-day-1031379801"
 webUrl: "https://markets.businessinsider.com/news/stocks/international-ai-accelerator-intema-announces-its-first-demo-day-1031379801"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Business Insider
@@ -17,6 +20,23 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+
+related:
+  - title: "Showa Denko Introduces Machine Learning Operations into AI-based Prediction Systems for Accelerating Materials Development"
+    excerpt: "Showa Denko K.K. (SDK; TSE:4004) has introduced MLOps* (Machine Learning Operations) for efficient management of machine learning models deployed into Artificial Intelligence (AI) systems for materials"
+    publishedDateTime: 2022-04-21T03:30:00Z
+    webUrl: "https://www.asiaone.com/business/showa-denko-introduces-machine-learning-operations-ai-based-prediction-systems"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 28
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/asiaone_default.jpg?h=ec041e41&itok=CTqGNnDp"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "/9y2OUQPuRcf8QcdxE24LIMXqSBJr7TlD7Hvt0sOVpZmqkNBFoxtTraIQTcHov0dgUubSMa2q1fQmQ3FSkjdQKNS9ygtKYohCpW5D3Qhu3ki6nwWg1Szi4okY+mCunaZcRpJ1XJqjTGxwmAbZAqwe6D+F2l3tCKVBwrkQ2TKgJfVPpyvyGBsBsNjMLQVr4LlXMyG/f0yFS7BJc4qfebcFnpLqm5EzP5LH2yAYAUcFN+rGokPybmiMkOvMX7651DA40fn4kyM0dghuV0kjKgmAKnoO1mEOlYsmVkJitQVjHidBiPwULuiQc0LTZ12EmnUrbxkujBiNCGzX2MiZtxB9k5mioT7JJlXesDNxWBA2/Q=;BtR5e1r+fYl5ZLjyX0YKYQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_c
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Britain Gears Up To Watch TV In Self-driving Cars"
-    excerpt: "Motorists can sit back and watch TV once self-driving cars are approved on British roads but will be banned from using handheld mobile phones, government plans revealed Wednesday."
-    publishedDateTime: 2022-04-20T19:45:00Z
-    webUrl: "https://www.barrons.com/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
-    ampWebUrl: "https://www.barrons.com/amp/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
   - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
     excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph."
     publishedDateTime: 2022-04-21T04:00:00Z
@@ -86,43 +75,34 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "New UK law will let drivers watch TV in their self-driving cars"
-    excerpt: "The United Kingdom Highway Code is being updated and will allow UK drivers in self-driving vehicles to watch TV while their car drives them down the road. What could possibly go wrong? The new UK rule was reported earlier this week by BBC News."
-    publishedDateTime: 2022-04-22T16:40:00Z
-    webUrl: "https://knowtechie.com/new-uk-law-will-let-drivers-watch-tv-in-their-self-driving-cars/"
+  - title: "Tech: Watch TV in self-driving cars, unions coming for Apple"
+    excerpt: "Sit back, relax, and watch TV while your car drives you  New rules for fully self driving cars in the UK will let the driver watch something other than the"
+    publishedDateTime: 2022-04-22T23:15:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/paul-stenhouse-watch-tv-in-self-driving-cars-unions-coming-for-apple/"
     type: article
     provider:
-      name: KnowTechie
-      domain: knowtechie.com
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
     quality: 24
     images:
-      - url: "https://knowtechie.com/wp-content/uploads/2019/12/stardew-valley-on-tesla-screen-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.newstalkzb.co.nz/media/5693/people-take-photos-of-an-apple-store-with-their-iphones-logo-generic-getty-imagesjpg.jpg?mode=crop&width=635&height=395&rnd=132951850615530000"
+        width: 635
+        height: 395
         isCached: true
-  - title: "UK Law Could Make It Legal For Drivers to Watch TV From Behind the Wheel of a Self-Driving Car"
-    excerpt: "Drivers in the UK could be allowed to watch TV from behind the wheel of a self-driving car if proposed updates to the law go through."
-    publishedDateTime: 2022-04-22T12:57:00Z
-    webUrl: "https://www.ign.com/articles/uk-law-drivers-watch-tv-self-driving-car"
+  - title: "Highway Code changes to allow watching TV at wheel of ‘self-driving’ cars"
+    excerpt: "The Highway Code is to be updated this year with rules for “self-driving” cars that will allow drivers to watch TV and check emails on the move. The changes to the code will set out where and when “self-driving” can be used as well as drivers ..."
+    publishedDateTime: 2022-04-22T01:41:00Z
+    webUrl: "https://www.thestar.co.uk/lifestyle/cars/highway-code-changes-to-allow-watching-tv-at-wheel-of-self-driving-cars-3660350?itm_source=parsely-api"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 12
+      name: The Star
+      domain: thestar.co.uk
+    quality: 23
     images:
-      - url: "https://assets-prd.ignimgs.com/2022/04/22/untitled-1-1650639414826.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://www.thestar.co.uk/jpim-static/image/2022/04/20/09/AdobeStock_289255656_edited.jpeg?width=2048&enable=upscale"
+        width: 2048
+        height: 1079
         isCached: true
-  - title: "Green Light for Self-Driving Cars"
-    excerpt: "Self-driving technology has been given the green light by the Government after it approved changes to the Highway Code."
-    publishedDateTime: 2022-04-21T12:01:00Z
-    webUrl: "https://www.evanshalshaw.com/news/green-light-for-self-driving-cars/"
-    type: article
-    provider:
-      name: Evans Halshaw
-      domain: evanshalshaw.com
-    quality: 4
   - title: "Controversial UK Law Will Allow Watching TV Behind The Wheel Of A Self-Driving Car"
     excerpt: "New proposed updates to the Highway Code concerning self-driving cars in the UK will allow a human driver to watch television or other video media on a built-in screen while the car is in charge ..."
     publishedDateTime: 2022-04-22T16:48:00Z

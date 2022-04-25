@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/companies/qureai-gets-financial
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Business Line
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Clearing up biases in artificial intelligence"
+    excerpt: "Scientists have noticed grave disparities in artificial intelligence, noting that the methods are not objective, especially when it comes to geodiversity. AI tools, whether forecasting hail, wind or tornadoes,"
+    publishedDateTime: 2022-04-21T01:46:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220420133607.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "IoT Artificial Intelligence (AI) Softwares Market Research Report Current Developments, Future Scope and Future Outlook 2028"
     excerpt: "Global IoT Artificial Intelligence (AI) Softwares Market research report examines the regional and Global market's"
     publishedDateTime: 2022-04-21T06:50:00Z

@@ -25,137 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too"
-    excerpt: "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm."
-    publishedDateTime: 2022-04-21T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
+  - title: "UK government says motorists will be allowed to watch TV in self-driving vehicles"
+    excerpt: "The UK government has confirmed planned revisions to the Highway Code to accommodate self-driving vehicles, including allowing drivers to watch TV while an AI takes the wheel. In a moment history may judge as legislative hubris,"
+    publishedDateTime: 2022-04-21T08:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/21/uk_self_driving_highway_code/?td=amp-keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: theregister
+      domain: theregister.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://regmedia.co.uk/2020/10/28/autonomous_car.jpg"
+        width: 1000
+        height: 585
         isCached: true
-  - title: "UK to allow watching TV from behind the wheel of a self-driving car"
-    excerpt: "This new policy will only be applicable for the people who own cars that are registered as “self-driving” under the British law."
-    publishedDateTime: 2022-04-23T08:42:00Z
-    webUrl: "https://www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm"
-    ampWebUrl: "https://www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm/amp"
+  - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
+    excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph."
+    publishedDateTime: 2022-04-21T04:00:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924"
+    ampWebUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
+    cdnAmpWebUrl: "https://www-coventrytelegraph-net.cdn.ampproject.org/c/s/www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 44
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 38
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/07/AP18129645375784-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "A self-driving bus in Scotland is ready for passengers"
-    excerpt: "The UK's first self-driving bus project is taking to a route in Edinburgh in preparation for welcoming passengers this summer!"
-    publishedDateTime: 2022-04-25T07:15:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/61213591"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/61213591.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/61213591.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 44
-    images:
-      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/12617/production/_124278257_hi075549846.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Stagecoach begins live-testing of self-driving buses on Scottish roads"
-    excerpt: "Stagecoach has announced it will be testing the UK’s first self-driving bus on Scottish roads this week, with plans to recruit 20 drivers when the scheme goes live. In partnership with Fusion Processing,"
-    publishedDateTime: 2022-04-25T08:07:00Z
-    webUrl: "https://www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103"
-    ampWebUrl: "https://www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103.amp"
-    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103.amp"
-    type: article
-    provider:
-      name: insider
-      domain: insider.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.dailyrecord.co.uk/incoming/article26788641.ece/ALTERNATES/s615/0_JS264415635.jpg"
+      - url: "https://i2-prod.birminghammail.co.uk/incoming/article23728182.ece/ALTERNATES/s615/0_Driverless-cars.jpg"
         width: 615
         height: 409
         isCached: true
-  - title: "UK's first self-driving bus takes to the road for tests in Scotland"
-    excerpt: "Passengers are expected to start using the self-driving bus this summer as Scotland begins testing the \"hugely exciting project\"."
-    publishedDateTime: 2022-04-25T06:27:00Z
-    webUrl: "https://news.sky.com/story/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505?fr=operanews"
-    ampWebUrl: "https://news.sky.com/story/amp/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505"
+  - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
+    excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph. The updated Highway Code rules ..."
+    publishedDateTime: 2022-04-22T08:34:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924?int_source=nba"
+    ampWebUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
+    cdnAmpWebUrl: "https://www-coventrytelegraph-net.cdn.ampproject.org/c/s/www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 44
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 38
     images:
-      - url: "https://e3.365dm.com/22/04/1600x900/skynews-scotland-transport_5750689.png?20220425070751"
-        width: 1600
-        height: 900
+      - url: "https://i2-prod.birminghammail.co.uk/incoming/article23728182.ece/ALTERNATES/s615/0_Driverless-cars.jpg"
+        width: 615
+        height: 409
         isCached: true
-  - title: "Pony.ai wins autonomous driving taxi license in China"
-    excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"
-    publishedDateTime: 2022-04-24T08:41:00Z
-    webUrl: "https://www.globaltimes.cn/page/202204/1260153.shtml"
+  - title: "Highway Code's bizarre rules for self-driving cars - can I watch TV behind the wheel?"
+    excerpt: "New Highway Code rules proposed by the government's Department for Transport are likely to be in place later this year. They include allowing people to watch TV in self-driving cars"
+    publishedDateTime: 2022-04-23T06:00:00Z
+    webUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945"
+    ampWebUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
+      name: The Mirror
+      domain: mirror.co.uk
     quality: 37
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-14/6d179573-5120-4012-9311-617643a5f225.jpeg"
-        width: 500
-        height: 300
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
+        width: 615
+        height: 409
         isCached: true
-  - title: "GM patents self-driving car that replaces human driving instructors"
-    excerpt: "Self-driving cars are often described as replacements for human drivers, but a General Motors patent filing shows how they could be used to train new ones. First spotted by Motor1, the filing with the United States Patent and Trademark Office (USPTO ..."
-    publishedDateTime: 2022-04-22T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1135620_gm-patents-self-driving-car-that-replaces-human-driving-instructors"
+  - title: "Highway Code changes to allow watching TV at wheel of ‘self-driving’ cars"
+    excerpt: "The Highway Code is to be updated this year with rules for “self-driving” cars that will allow drivers to watch TV and check emails on the move. The changes to the code will set out where and when “self-driving” can be used as well as drivers ..."
+    publishedDateTime: 2022-04-22T01:41:00Z
+    webUrl: "https://www.thestar.co.uk/lifestyle/cars/highway-code-changes-to-allow-watching-tv-at-wheel-of-self-driving-cars-3660350?itm_source=parsely-api"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
+      name: The Star
+      domain: thestar.co.uk
+    quality: 23
     images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100773492_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.thestar.co.uk/jpim-static/image/2022/04/20/09/AdobeStock_289255656_edited.jpeg?width=2048&enable=upscale"
+        width: 2048
+        height: 1079
         isCached: true
-  - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
-    excerpt: "Users of self-driving cars will not be responsible for crashes under proposed changes to the Highway Code. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department for Transport said (DfT). The update to ..."
-    publishedDateTime: 2022-04-21T17:13:00Z
-    webUrl: "https://www.worcesternews.co.uk/news/national/uk-today/20079575.watching-tv-allowed-self-driving-cars-highway-code-update/"
+  - title: "Controversial UK Law Will Allow Watching TV Behind The Wheel Of A Self-Driving Car"
+    excerpt: "New proposed updates to the Highway Code concerning self-driving cars in the UK will allow a human driver to watch television or other video media on a built-in screen while the car is in charge ..."
+    publishedDateTime: 2022-04-22T16:48:00Z
+    webUrl: "https://hothardware.com/news/uk-law-will-allow-watching-tv-behind-wheel-of-self-driving-car"
     type: article
     provider:
-      name: Worcester News
-      domain: worcesternews.co.uk
-    quality: 24
-    images:
-      - url: "https://www.worcesternews.co.uk/resources/images/13694720/"
-        width: 2400
-        height: 1691
-        isCached: true
-  - title: "Self driving along the trip - Washington Forum"
-    excerpt: "Are you really driving all over the US, or are you sticking to the East Coast. This is the forum for the real Washington ~ the state!"
-    publishedDateTime: 2022-04-24T22:45:00Z
-    webUrl: "https://www.tripadvisor.com.au/ShowTopic-g28968-i73-k10368836-Self_driving_along_the_trip-Washington.html"
-    type: article
-    provider:
-      name: TripAdvisor
-      domain: tripadvisor.com.au
-    quality: 19
+      name: HotHardware
+      domain: hothardware.com
+    quality: 0
 
 secured: "1zhsCsQSBT2iZYWiudpWjKsuOzKMmIb3FdLvwF/M2dnSW3WdepY/kYTloYWipEdlImcPx/K4EWCb/am7Z20RAvDh+JMa9pRAWjbeJzyam2pdObXMC79/YpysFutUG/5W7dhKKXNfbQ9uMb9dFbTpl2nFExXRabDIjU0L84S1vlgmc53rcOP4hzd5hpaJ2OJjRLUSFSlNaKPNDwJql5g81lE28/VDSyx7R3Tk7Hhqsi7cLcVeIvx+LtgmjwWeyc9sqQdWtcCMGl2iC6BjqO3nBH3q857wap8NVhHGSLAlg6ys2TO6UAX79ijYC9h6ZX0um/I2D6gHxhAzE/0nPSGJdn2z/19Jg3ofw2iYTWUFl/c=;4gPyCIOnfE55va1eazUjLg=="
 ---

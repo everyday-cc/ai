@@ -3,8 +3,8 @@ category: news
 title: "Cognitive Computing Market Trends 2021 | Industry Growth, Size, Share, Demand and Forecast to 2027"
 excerpt: "Some of the leading players profiled in the report include Google LLC, HP, IBM, Microsoft Corporation, Nuance Communications, Inc., Oracle Corporation, SAP SE, among others. The cognitive ..."
 publishedDateTime: 2022-04-11T14:11:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027-2022-04-11?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027-2022-04-11?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027-2022-04-11"
+webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027-2022-04-11"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "e5IXQgM0CssLGyT3vJvtGuJ0flSNtCR27i5MOi1GhnzG27qBglmslaCa9wo1eCVUCaqIwtLcQytYHvMLrixIHRo1UWKT0519gT5bsEPaRcsZf5Xw+1e2eSNMLGjMkzFSDBLRoYsEEOFV6Vw91p0F9hAf2vh43Ec0OAVKUbgiGMCB+XATDvOlwE+VSo4efqRu9kkcvsevMn688404UxwEVjBk9g1VeYPZOwNWNrlJheRYcXxYkHh1j/o/heDb7v9UUhM1PUyinZ4quthWrGKzsO5mqXSKZCsDc+qOVws1vAA1VEfxMDdPWZo+5N1gQ+twc0XcNr+Wv4S3QD/G/dp3schvTy2Sg3kJI2l9BEac4pc=;hpi8ubfHHd2p8BRdAKesGA=="
+secured: "PJXNFlwaah1PWCVtyXnBWcCDMCGqyMvtdEyw10XOe8/RYYT/J6xbDpErBTLSmw5kID0DoVE9uI6islQrZCxy5IXQjYAyrHjNOKsd8hvTnR1pzfcwNoXbEMROFC71wbMQAyJXj387B4/SXr/zV2hM60dmRYTFJUqundC8poloIDIPG2y9IdOTUhl9VcDB2Wap279fXDq+Ij1+8m/y33bYZwAMjSRGQhzIQLltsLokAopA66UaalmXlObWFwHKApn/y6HZu+8M5lptDYs1b8tZCdYK6ttZSkK3QvRCNZ5IeW5BafgYEU1WEChVhu82w0BzEhC57ogCo4nfGrC3JYdh9bDW5MSkxhNGlH8DJCDF9B8=;Ns+SJSnkI0kmwgzYARJUNQ=="
 ---
 

@@ -41,17 +41,6 @@ related:
         width: 1032
         height: 703
         isCached: true
-  - title: "RISC-V Startup Esperanto Technologies Samples First AI Silicon"
-    excerpt: "Esperanto has been talking about their edge AI chips for several years, and now the company can demonstrate working AI acceleration for image, language, and recommendation processing. I had the chance to watch a demo of the platform and came away quite ..."
-    publishedDateTime: 2022-04-20T21:29:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
 
 secured: "4t9WZoP/ksq/hIO1AYYWbXWssUs6eTlgxW3v9ETfZkqScZmGsXL9CSEhq8qMivpj0J5dVpLOu7diDGEnvYmX5roNnuPjrZu1NdywT07x7VRt9OF582UyWmGYt92f51EauWEUmFPRKc8wmWLqQOMsEPKXROnvVtok/PQo+xLY3RxoXCN6ik2wUc95wWRv3VbSukael+QT4Sxf85THhKYP9vAtHqys/qULCysIpjRDp1RKL1FE6NA0D919xiTpgPgA2iVxRb/6a09GnpABnSgVrvbd/ripjaDoaWhW0We2j3+5QLEeU7htoAoQJufAumquAy1EFAID0bMj6yGJbKPrw3K6Fiff4YO8DINkdmhs4iFGbdoeqX4DNj/9aVsSupuUQ3Ud8W0AUKtpPZbQ+nFS0YocUC4QEu/VPofYZacXkS8Q+KHCJCx2beC5t2BqUz32NFoQDSFOdMYmgcpATiYzkPeDnyUF3ms0YXOq0nao+FE4GMPQwIjPdrM3mNiky52j2n1WoAsfoDJgMES5Pw8owQ==;W429/TNExZnbmTmdct1XHg=="
 ---

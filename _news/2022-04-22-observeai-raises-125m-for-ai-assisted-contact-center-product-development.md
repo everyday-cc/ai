@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "How to Improve Corporate Culture with Artificial Intelligence"
+    excerpt: "Contrary to press-propagated blames on rapid industry changes, unforeseen circumstances and uncontrollable crises, most business failures boil down to poor corporate culture. Interestingly, how corporate culture is perceived has changed just as rapidly as industries have evolved in recent times."
+    publishedDateTime: 2022-04-21T21:00:00Z
+    webUrl: "https://www.chron.com/business/article/How-to-Improve-Corporate-Culture-with-Artificial-17117085.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/32/53/22391490/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Cedars-Sinai's new division is trailblazing AI to improve patient care"
     excerpt: "The Department of Medicine at Cedars-Sinai created a division to explore AI's applications in healthcare. The division, called Artificial Intelligence in Medicine, was launched March 1 and is led by Sumeet Chugh,"
     publishedDateTime: 2022-04-22T20:34:00Z

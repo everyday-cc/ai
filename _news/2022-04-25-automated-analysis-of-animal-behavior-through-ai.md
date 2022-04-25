@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T13:14:00Z
 originalUrl: "https://techxplore.com/news/2022-04-automated-analysis-animal-behavior-ai.html"
 webUrl: "https://techxplore.com/news/2022-04-automated-analysis-animal-behavior-ai.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: techxplore

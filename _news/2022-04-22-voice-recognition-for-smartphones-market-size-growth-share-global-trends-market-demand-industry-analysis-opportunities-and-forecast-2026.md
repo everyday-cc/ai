@@ -89,6 +89,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 11
+  - title: "Cloud BackupMarket Size 2022 Trend and Opportunities, Market Share,Analysis, CAGR and Value Chain Study, Business Growth to 2025"
+    excerpt: "Cloud Backup Market“ study has 185 pages, 90 tables and figures.Worldwide markets are poised to achieve continuing growth as Cloud"
+    publishedDateTime: 2022-04-25T07:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cloud-backupmarket-size-2022-trend-and-opportunities-market-shareanalysis-cagr-and-value-chain-study-business-growth-to-2025"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 10
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/be6b8aa06bcc409b6f0bbe2f497c25f1fb377222-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "uapMO9Z4JxOvw+1N7wD6kFGGoR9bfPiqbPEG2fwcOeHfd0mSiVmEdy2+tEifAJOD+oeNCZSbMmX5XI3nhwR8FnaFR7wQYeC5DqsOZqbLyYfOQ0+bozztHhwdJdsao2e+YeFzRLMeRl0Ula15FgInhLVBIhLG+CSzT1CF+cMhjATC4r1CIFPEuJIgPHIWmmbrX+7GrcClq/WzZVNqfyjVK0sMwmArOglf7fC0HWpoP3os5Vx6E5OKlay9PXqUqYSI4SLqJgAjIOMyzElERgk3ftL92L6AOmT0wwRDg0WkTzaB5oyosFgHb5DJFJBMwg/mRXP5zvChGPFCL8Ggv/rYGM8Hm1IVPg/5PYT/Z/mt2lg=;+KtC1tNhWoP0G3kYtIijGg=="
 ---

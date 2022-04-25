@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Europe tech sector struggles to find employees with AI skills"
+    excerpt: "Europe’s tech sector is struggling to find employees with adequate AI knowledge or experience, according to a new report. An IBM study was conducted between 23 March and 4 April among a sample of 500 tech job seekers,"
+    publishedDateTime: 2022-04-25T11:58:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/careers-training/367484/europe-tech-sector-struggles-to-find-employees-with-ai"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 47
   - title: "A large AI skills gap in Europe"
     excerpt: "Also, nearly seven in 10 tech job seekers and tech employees believe that potential recruits lack the skills necessary for a career in AI. Soft skills. As AI moves into the mainst"
     publishedDateTime: 2022-04-25T08:57:00Z

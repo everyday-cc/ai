@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://eturbonews.com/wp-content/uploads/2022/04/A-HOLD-FreeRelease-3.jpg"

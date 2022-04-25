@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-25-healthcare-natural-language-processing-market-is.md",
+      "title": "Healthcare Natural Language Processing Market Is...",
+      "excerpt": "Companies Profiled in Healthcare Natural Language Processing Market are Apple Inc, NLP Technologies, NEC Corporation, Microsoft Corporation, IBM Corporation NEWARK, N.J., April 25, 2022 (GLOBE NEWSWIR",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/g26788209/healthcare-natural-language-processing-market-is-set-to-expand-at-a-cagr-of-16-7-to-reach-us-14-6-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/g26788209/healthcare-natural-language-processing-market-is-set-to-expand-at-a-cagr-of-16-7-to-reach-us-14-6-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26788209",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26788209",
+      "publishedDateTime": "2022-04-25T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-charting-a-new-frontier-in-the-customer-experience-with-voice-ai.md",
       "title": "Charting a New Frontier in the Customer Experience with Voice AI",
       "excerpt": "Founder & Managing Director, AI Rudder “Sorry, all our customer service agents are busy at the moment. Please hold and we will be with",
@@ -138,6 +182,41 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows.md",
+      "title": "Koïos Intelligence and Applied to Further Digitize Sales and Service Workflows",
+      "excerpt": "Applied Systems today announced a new collaboration with Koïos Intelligence to optimize and simplify insurance sales and service processes with artificial intelligence and natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8525727/koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows/",
+      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8525727/koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -1268,92 +1347,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-eleutherai-open-sources-20-billion-parameter-ai-language-model-gpt-neox-20b.md",
-      "title": "EleutherAI Open-Sources 20 Billion Parameter AI Language Model GPT-NeoX-20B",
-      "excerpt": "Researchers from EleutherAI have open-sourced GPT-NeoX-20B, a 20-billion parameter natural language processing (NLP) AI model similar to GPT-3. The model was trained on 825GB of publicly available text data and has performance comparable to similarly-sized ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/04/eleutherai-gpt-neox/",
-      "originalUrl": "https://www.infoq.com/news/2022/04/eleutherai-gpt-neox/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/04/eleutherai-gpt-neox/en/headerimage/generatedHeaderImage-1647708360533.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-how-reverie-is-serving-bharat-with-multilingual-bots.md",
-      "title": "How Reverie is serving Bharat with multilingual Bots",
-      "excerpt": "Through its robust partner ecosystem Reverie empowers multilingual chatbots to enable language interface through voice and conversational AI be it ... include machine translation, speech-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots-11649076963373.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots-11649076963373.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/04/04/600x338/02_(30)_1649077118917_1649077124184.jpg",
-          "width": 599,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots/amp-11649076963373.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots/amp-11649076963373.html",
-      "publishedDateTime": "2022-04-04T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null

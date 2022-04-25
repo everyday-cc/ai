@@ -3,8 +3,8 @@ category: news
 title: "Google Docs' AI-powered inclusive writing auto-correct now under fire"
 excerpt: "In brief The AI algorithms used by Google Docs to suggest edits to make writing more inclusive have been blasted for being annoying. Language models are used in Google Docs for features like Smart Compose;"
 publishedDateTime: 2022-04-25T07:27:00Z
-originalUrl: "https://www.theregister.com/2022/04/25/the_latest_automated_ai_writing/?td=amp-keepreading-top"
-webUrl: "https://www.theregister.com/2022/04/25/the_latest_automated_ai_writing/?td=amp-keepreading-top"
+originalUrl: "https://www.theregister.com/2022/04/25/the_latest_automated_ai_writing/?td=amp-keepreading-btm"
+webUrl: "https://www.theregister.com/2022/04/25/the_latest_automated_ai_writing/?td=amp-keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/25/the_latest_automated_ai_writing/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/the_latest_automated_ai_writing/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 627
     isCached: true
 
-secured: "v2I2yXv9/Q6DWHncfJY8/ZZAzhggvVcN0YFGolcfx+lbMuaze77XxN1GLPqAyTjDoCZHz+ONjHt8l5Aj+OTXZWpSD4oA3z2FavbliaaezYXxCLt4lkKwwUUF8rhi+4tyAflzsIAiemeUTyRwrsQsvDiAG4LK76UVlBCPRYgN50uiKIL225YOM9b1b3gkY9PtqtNR7T0Ight4/15ORKHIBXSKjWi5Cg5pgo1GC+cABc3QrQFB9n+P7X0G5fRuoXS2zaaZQdd5cHLw14Oyvyss56oCmgm3qiqkbjEEcB+/OZNuakIWyyG5lVy8UtRSGSUN78mX76k5GJniCmxXZPEyb4Lhg0kZeUbHOZu5XTCtrve5e1OVjnBDj17qlCiS0EIPDkRaL+b1uad2hekF561GzXKj7pIouFabOLVAbeFvArAyi5ikhwE292hmq5rNVRK5zuL/8KoTcxlZ0MODyoPiqaGtTMmHRphmGHpSHokRHMBl3uGUXMH13U9NghBryCHv4e0eMgo4wFD4GbUKkon2BA==;bWoe8+rv4nLTV1myhyCl2Q=="
+secured: "PkPEPdw37tC6AHSzfhfOxLyb56JSuu1L4inki0qDPMydggQH4apl5X4Vc/lNz2L4xLdas9HZEsHV2igAISBYtQ9nTdYU2w4AlMUvvrZGh3/riB6Vvi2IABNgBFSIDlXbe2RoLdtUAqiWWJfyb4XjJKtO10eZzrd9QNLmzKY3JSirdB2aNWZwu8meuyRkFaVxT9ZxgPhhlw7Qm80yPENv73TQKUOz45Bzn6PypRtSZ6/cQL35/au+4a59I6GUd4+5hqgqKzQO6nN+/p9B/yefSlWhm4Arvnla6sD1euNIC5eDSud2xIpRFPxKCfccejnu8Ax//A6tPRpzVyizXzTfMTrp6Hgi7wq73AMBcYDoi3k=;bmiB8v6ZNKc+8IQ7so6+FQ=="
 ---
 

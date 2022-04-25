@@ -24,45 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia wants to use GPUs and AI to accelerate and improve future chip design"
-    excerpt: "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using"
-    publishedDateTime: 2022-04-20T22:37:00Z
-    webUrl: "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
+  - title: "How To Improve Contact Center Training With AI Simulation"
+    excerpt: "Salesforce \"State of Service\" report shows that almost 80% of contact center agents say their company views them as customer advocates or brand ambassadors, and 77% of ag"
+    publishedDateTime: 2022-04-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 116
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625eebe47a9fb17059edc980/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Cedars-Sinai's new division is trailblazing AI to improve patient care"
+    excerpt: "The Department of Medicine at Cedars-Sinai created a division to explore AI's applications in healthcare. The division, called Artificial Intelligence in Medicine, was launched March 1 and is led by Sumeet Chugh,"
+    publishedDateTime: 2022-04-22T20:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-s-new-division-is-trailblazing-ai-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
         width: 800
-        height: 560
+        height: 600
         isCached: true
-  - title: "Nvidia’s next GPUs will be designed partially by AI"
-    excerpt: "Nvidia has talked about the use of machine learning and AI in upcoming graphics cards. It plans to use AI to increase the efficiency of next-gen GPUs."
-    publishedDateTime: 2022-04-21T19:16:00Z
-    webUrl: "https://www.digitaltrends.com/computing/nvidia-lovelace-gpus-are-designed-partially-by-ai/"
+  - title: "Observe.AI Raises $125M for AI-Assisted Contact Center Product Development"
+    excerpt: "Observe.AI has secured $125 million in a Series C investment led by SoftBank Vision Fund 2 with participation from Zoom Video Communications, Inc. Observe.AI now has $213 million in investment under its belt."
+    publishedDateTime: 2022-04-22T13:29:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/observeai-raises-125m-for-ai-assisted-contact-center-product-development/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 64
-  - title: "Nvidia turns to AI for design process improvements"
-    excerpt: "Better than humans Nvidia expects the complexity of integrated circuit design to increase exponentially in the coming years, and is looking to AI to help out. During a talk at this year's GPU Technology Conference,"
-    publishedDateTime: 2022-04-21T10:43:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/54732-nvidia-turns-to-ai-for-design-process-improvements"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/05ffc05d3104a90a87bfa4f3347badda_L.jpg"
-        width: 620
-        height: 388
-        isCached: true
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 15
 
 secured: "WsjxWOjMWJgdu4Hq3UWbPlNXh4aXZ1XoN1exLvAT7t8Ze9Mwa7PCCfaD8llZ4ZGckttI3Y9eCzpvWWP/ngunurhZwadDaa967CKMPYpAozb5DWFfbH80xu5YKdjKPOyb+mFT5suTRtBhRA+0jJ0HHUyJxjYFAVq7Du9XyPmxaDH58jQ4Yjb45XORpljUs4iugULTE0g+4veHsjvZt+5moL5nStkNjLJ67NXqlWPL92y7TZICTLe7XvRO2rnWYcY48yxK4s7oUWnHAGz8jfaEEIuPWi1B31oLVBy3JLmiGvCod02cB9Pe5uuqYSbXvG0MiJwIrFqlo4rcA0VaHH+dwE9oqzUblUVu7qm/7mGuozS0GkHXI3t/TN9HOqdAjb1h9c1d/hji1T2Q1HW/KexdqYIrx7Y8XqA+1qYJcQBG8PgHpRy9YTkCoQ5Fu+DlkWb9mwCZn8OxSWLY0AqikxryJ/awa4euKrj5dDOdfTSqdZbEjCPVbhbCcuc0e8SnzV86KghHNMejXRtXrMbyF2r/0g==;7eT+iUT/U4Fi28ciRAZbpA=="
 ---

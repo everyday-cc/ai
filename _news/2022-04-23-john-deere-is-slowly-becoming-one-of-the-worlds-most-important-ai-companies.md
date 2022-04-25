@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-22T18:33:00Z
 originalUrl: "https://thenextweb.com/news/john-deere-slowly-becoming-one-worlds-most-important-ai-companies"
 webUrl: "https://thenextweb.com/news/john-deere-slowly-becoming-one-worlds-most-important-ai-companies"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:

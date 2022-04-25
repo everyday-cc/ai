@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T11:28:00Z
 originalUrl: "https://techbullion.com/how-technology-is-changing-the-future-of-trucking-and-logistics/"
 webUrl: "https://techbullion.com/how-technology-is-changing-the-future-of-trucking-and-logistics/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Impacts

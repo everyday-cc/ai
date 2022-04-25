@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T13:22:00Z
 originalUrl: "https://venturebeat.com/2022/04/25/salesloft-unveils-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
 webUrl: "https://venturebeat.com/2022/04/25/salesloft-unveils-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: VentureBeat

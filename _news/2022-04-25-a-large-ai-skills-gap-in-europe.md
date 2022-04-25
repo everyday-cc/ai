@@ -7,7 +7,7 @@ originalUrl: "https://www.hrreview.co.uk/hr-news/a-large-ai-skills-gap-in-europe
 webUrl: "https://www.hrreview.co.uk/hr-news/a-large-ai-skills-gap-in-europe/141927"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Europe tech sector struggles to find employees with AI skills"
+    excerpt: "Europe’s tech sector is struggling to find employees with adequate AI knowledge or experience, according to a new report. An IBM study was conducted between 23 March and 4 April among a sample of 500 tech job seekers,"
+    publishedDateTime: 2022-04-25T11:58:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/careers-training/367484/europe-tech-sector-struggles-to-find-employees-with-ai"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 47
   - title: "IBM research details AI skills gap across Europe"
     excerpt: "IBM research reveals that the tech sector across the UK, Germany and Spain struggles to close the AI skills gap"
     publishedDateTime: 2022-04-25T09:18:00Z

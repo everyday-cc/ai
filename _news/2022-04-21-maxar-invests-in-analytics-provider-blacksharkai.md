@@ -40,6 +40,24 @@ related:
         width: 1200
         height: 761
         isCached: true
+  - title: "Why conversational AI is an effective listening tool"
+    excerpt: "Conversational AI, often referred to  as natural language processing (NLP) or natural language understanding (NLU), helps computers listen to, understand and extract meaning from human language."
+    publishedDateTime: 2022-04-25T13:36:00Z
+    webUrl: "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Pushing Forward The Value Of Analytics, AI And Automation In Telcos"
+    excerpt: "A complex company like a telco will continue to build out skill sets in analytics, AI and automation (A3) for the foreseeable future. The main areas of this development are described in this article."
+    publishedDateTime: 2022-04-25T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/25/pushing-forward-the-value-of-analytics-ai-and-automation-in-telcos/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "MoD to fund startups for Artificial Intelligence, big data analytics"
     excerpt: "The Defence Ministry will fund startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
     publishedDateTime: 2022-04-23T00:32:00Z

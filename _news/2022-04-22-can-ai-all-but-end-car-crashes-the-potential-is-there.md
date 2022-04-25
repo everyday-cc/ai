@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-22T13:00:00Z
 originalUrl: "https://www.seattletimes.com/business/can-ai-all-but-end-car-crashes-the-potential-is-there/"
 webUrl: "https://www.seattletimes.com/business/can-ai-all-but-end-car-crashes-the-potential-is-there/"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-un
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     isCached: true
 
 related:
+  - title: "Why conversational AI is an effective listening tool"
+    excerpt: "Conversational AI, often referred to  as natural language processing (NLP) or natural language understanding (NLU), helps computers listen to, understand and extract meaning from human language."
+    publishedDateTime: 2022-04-25T13:36:00Z
+    webUrl: "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Pushing Forward The Value Of Analytics, AI And Automation In Telcos"
+    excerpt: "A complex company like a telco will continue to build out skill sets in analytics, AI and automation (A3) for the foreseeable future. The main areas of this development are described in this article."
+    publishedDateTime: 2022-04-25T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/25/pushing-forward-the-value-of-analytics-ai-and-automation-in-telcos/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Maxar invests in analytics provider, Blackshark.ai"
     excerpt: "M axar Technologies has announced a strategic investment in Blackshark.ai, a provider of AI-powered geospatial analytics services. The investment will enable Maxar to bring additi"
     publishedDateTime: 2022-04-21T00:46:00Z

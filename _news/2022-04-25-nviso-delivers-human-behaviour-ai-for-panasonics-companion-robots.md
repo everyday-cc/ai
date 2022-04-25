@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T12:20:00Z
 originalUrl: "https://www.startupticker.ch/index.php/en/news/nviso-delivers-human-behaviour-ai-panasonic-s-companion-robots"
 webUrl: "https://www.startupticker.ch/index.php/en/news/nviso-delivers-human-behaviour-ai-panasonic-s-companion-robots"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: startupticker.ch

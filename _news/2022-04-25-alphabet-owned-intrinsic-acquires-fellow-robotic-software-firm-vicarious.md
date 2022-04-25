@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T12:27:00Z
 originalUrl: "https://enterprisetalk.com/quick-bytes/alphabet-owned-intrinsic-acquires-fellow-robotic-software-firm-vicarious/"
 webUrl: "https://enterprisetalk.com/quick-bytes/alphabet-owned-intrinsic-acquires-fellow-robotic-software-firm-vicarious/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: enterprisetalk

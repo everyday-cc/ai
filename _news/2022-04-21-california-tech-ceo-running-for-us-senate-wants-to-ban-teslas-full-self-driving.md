@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Billionaire CEO’s US Senate run focuses on one issue: Banning ‘self-driving’ Teslas"
-    excerpt: "Dan O’Dowd, the billionaire founder of The Dawn Project and Green Hills Software, is running for U.S. Senate on a single issue. It’s not unemployment or inflation or even education. It’s about making computers safer for humans,"
-    publishedDateTime: 2022-04-20T20:05:00Z
-    webUrl: "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/"
-    ampWebUrl: "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 98
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Video Shows Tesla Self Driving Into A $3.5 Million Private Jet"
     excerpt: "Tesla vehicle using Smart Summon feature has crashed into a $3.5 million private jet. Here is why the incident took place."
     publishedDateTime: 2022-04-23T07:22:00Z
@@ -62,19 +46,19 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 54
-  - title: "Highway Code changes to allow watching TV at wheel of ‘self-driving’ cars"
-    excerpt: "The Highway Code is to be updated this year with rules for “self-driving” cars that will allow drivers to watch TV and check emails on the move. The changes to the code will set out where and when “self-driving” can be used as well as drivers ..."
-    publishedDateTime: 2022-04-22T01:41:00Z
-    webUrl: "https://www.thestar.co.uk/lifestyle/cars/highway-code-changes-to-allow-watching-tv-at-wheel-of-self-driving-cars-3660350?itm_source=parsely-api"
+  - title: "Self-driving Tesla crashes into $3.5 million private jet using 'smart summon' feature"
+    excerpt: "The car was in \"Smart Summon\" mode when it ran into the jet. The feature was introduced by Tesla in 2019 and is still a beta feature."
+    publishedDateTime: 2022-04-25T15:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/have-you-seen/2022/04/25/tesla-collides-private-jet-while-owner-using-smart-summon-mode/7439216001/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.co.uk
-    quality: 23
+      name: USA Today
+      domain: usatoday.com
+    quality: 32
     images:
-      - url: "https://www.thestar.co.uk/jpim-static/image/2022/04/20/09/AdobeStock_289255656_edited.jpeg?width=2048&enable=upscale"
-        width: 2048
-        height: 1079
+      - url: "https://www.gannett-cdn.com/presto/2022/04/25/USAT/5edde865-af70-4d58-bf7c-b6bcda945917-Presto_VPC_TESLA_AUTOPILOT_CRASHES_W_AIRPLANE.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "zo7sUlrUzRqzq/du/HYfobWRQ/gqC5oztNTMbne8CDfDmb9Gm4/sau+3QVFzDE+DBfU75exyrAiWfE8HnF5adn00/6GtLMU18MWzW8/8T79A0HkpuSW4ECFlMoBH/qeEiABAWAFTqEqZGOplS1mNRX1mmMMG5I9kv6Q4zwopfCyRx03rebxum7yLObS4weWYJ7UjyDU/iUMIS1knRk+CQArMwr/qNgcvjYp+rI3B9KK3E23tNo9ps6sHqROO6OZUaFBPAe0ZaXc4sXcS85wG3Lh3Uh4anFtJ7HCk7N10GtlwuSJmtQCGpR/COOelU2MqHbWOsVf3LgExhUBl6A4SqRgNKouSPxd1jPc3U3oLqys=;YOQ6GlBDwBQoK8nrutuDCA=="

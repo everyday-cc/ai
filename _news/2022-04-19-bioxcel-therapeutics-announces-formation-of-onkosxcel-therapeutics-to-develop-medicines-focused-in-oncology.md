@@ -1,34 +1,20 @@
 ---
 category: news
 title: "BioXcel Therapeutics Announces Formation of OnkosXcel Therapeutics to Develop Medicines Focused in Oncology"
-excerpt: "OnkosXcel, a Company subsidiary, to utilize proprietary AI-powered platform to progress therapies to address difficult-to-treat cancers with high unmet need New structure to unlock growth opportunities and maximize value of neuroscience and immuno-oncology franchises Lead pipeline asset,"
-publishedDateTime: 2022-04-19T11:07:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-health-business-prostate-cancer-294d1a6f52446dd5a66692042cb834e3"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-business-prostate-cancer-294d1a6f52446dd5a66692042cb834e3"
+excerpt: "Lead pipeline asset, BXCL701, has shown clinical proof-of-concept in aggressive forms of prostate cancer and is currently in Phase 2 clinical trials NEW HAVEN, Conn., April 19, 2022 (GLOBE NEWSWIRE) -- BioXcel Therapeutics,"
+publishedDateTime: 2022-04-19T11:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/04/19/9584732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/04/19/9584732.htm"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "BioXcel Therapeutics Announces $260 Million Strategic Financing with Oaktree and Qatar Investment Authority"
-    excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI) (the “Company” or “BioXcel Therapeutics”), a commercial-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
-    publishedDateTime: 2022-04-19T11:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/19/9584691.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
-secured: "0Cyxo/J3fzh0nE0GndM21hel4ahTmWIutZX+CkMM5esHnmQWvKw0N04UJgPuvOkZNpV0w00+AsKsErhDV59TfVmBKBtuKfjPJvBsizQi1P6AXR5Eece4TfZOmH6abS0UeH3ldb5JZIZ7O+rJm6HL/aDJcfmbdPY+yULBoLhC5mevGyadZckr3aEVPPFlMTfv/0U1+n1z1D80ctA/4Ze2tZEvQiCWUrsNBZ0QIvP9khmqLv7fbTUl35PWy2k5S9dEnNufi6A7eOughOYk9Ww9Bg/3vElTRd+rWx3SGWA2+emuxt7bU5cdw7tL7EJVVqd87uTJAag6CeKSfvJk21LISSXzBVjYmYxyNWUV3CpOgcM=;Yo8d5eFVF4ZN5rOz0WANSw=="
+secured: "0bK/zK+4VvLg6dSdQIhP55OcAfjJFpCW4VJTI7XZxGWkgNAWp0LHjWshTCyamPmh+RxI92qLsbxT5rST1fppVPpJCSrolEvEsXXkNZug9rAWWbpTJKO6iPsEKp2oAJTh7hjhIczXAAwkT82U/CnMkWgJl8LG0rAvceNQQZ4jSs7HsWBRa08uKJ1tsyiOqMr9n8mB2JemURnfR9JY4HdTxfNkmOsYNCghbd4EAJBB8L9OgeItn7p6NxeuxXDT2RDDUFZ6L8I+c+Tg85KjLerIzWCQy+ICQVnE9JvcR5nM7/CQhiohb10r5wftjn1IP5sLl2sdUjb9QSW7DOL9m8U8A6W0P0jpN32NhbD4ml5KEVs=;AnDhsb+AEsZYPeejW5quDA=="
 ---
 
