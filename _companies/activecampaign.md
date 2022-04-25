@@ -2,7 +2,7 @@
 name: "ActiveCampaign"
 overview: "ActiveCampaign is the Customer Experience Automation (CXA) category leader."
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://www.activecampaign.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "ActiveCampaign"
 
-secured: "ZfSnQOSZ4eefI8oD7aLm2+hYCpxGuAYwlyTFwz7+jXTq3+0ilXfhGjyNqtIKfyfyitfXz6DpJkw0EFAUx7xvsIfrdicMkNYhe1KQjSK7X1KyAlOFehX8esYqkTLucXscwN55Y5bNKCHIdUTszsTCVYpe8530FkPY8AG1JExDyW60bMWC6s6lDn0GIqKV9msE63A12oNuhXbeUcP9YyopZPuxyxyJzdKBxM/n0NF7ZBdNrTsIb0S6b9Sifypc+vEDnB8AoUfAnDwIA25paD7pb3555uvBwGO4SHw734toV3W1mN5XgItuFFPgnAqpWZtVCFBRh2dnhQFNLKaFd/Cb4W68MvSlnxtdR/rZ+glkJfH4sDazJrUtvnLpDgjtfrqFU61lCMhjb85RL83AcRhwoqNYsfKGOf+CFIXZfzxFfW4=;v/dyvqkvLsCbW2WQ3QkoZg=="
+secured: "W2K15w7BpGWH+nn+HzWkyTKVUX7wExfwWeTw7hwZLeZ2COS5LoJdDpuh5tvVy8TkeFFFuqecQC6h6GDHm0l+lYDHrdXefWRd1ZyN0hueghrREiZmCcCp7VNpCP2ONlKMMOkhuwTIPSIHTRj1yU9Q+sA4gtUTujRNIq4I7lcOWB1fR72kpJ6/JnJztofHiYFmX2GS27iOBuCueOpG9E4qvzAZgBEKpdDqtzrsCF15xQ0yg+tVVeE48e6V+cvz4Nuuszt5XtiFvOzH+s9niQCTPH9UgxqIsFb9fen/RlFd2q09sv/fRQQXSdQQV9UGG3QIVmYJyDxRuEH9vYbhjrFkkCSyUn+Xi66fqWvmQo/wsUP+N+CvKnzvZKWztJqfILsep5AhibELIngjweTe+qVxBu3MBo69u5d5F7/l6k+wqm8=;BzgbFE53HvZI+LX91rajIA=="
 ---
 
