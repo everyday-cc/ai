@@ -76,15 +76,6 @@ related:
         width: 2048
         height: 1079
         isCached: true
-  - title: "Highway Code changes to allow watching TV at wheel of ‘self-driving’ cars"
-    excerpt: "The Highway Code is to be updated this year with rules for “self-driving” cars that will allow drivers to watch TV and check emails on the move. The changes to the code will set out where and when “self-driving” can be used as well as drivers ..."
-    publishedDateTime: 2022-04-20T13:21:00Z
-    webUrl: "https://www.peterboroughtoday.co.uk/lifestyle/cars/highway-code-changes-to-allow-watching-tv-at-wheel-of-self-driving-cars-3660350?itm_source=parsely-api"
-    type: article
-    provider:
-      name: Peterborough Evening Telegraph
-      domain: peterboroughtoday.co.uk
-    quality: 3
 
 secured: "aQG4sRynmWPCAmEWx5RwwQwE9IyAPMjV4w7EZE+BhERNxG+xN8K9/GogPeqYvnyWV+vNMgSBiH8Zso++bTIBEPX2MRuzLXWElr45eLsD+v0CcBa9l2xtdm9KPAhSOL/Zgj534UdLN6cwBVEyNjxIuvSSAn0UhIBDmtM4YUy1fJnlNGhA/wiSXKSIOUOGcUeXOeHm3BpW/MWS/Bj38Zk8vVDblWh8arSMue3n3VPrN2FnNeKFwbtlFnSqvXSWHksDm/6qHPOZS8ElRW9ya8sxc/qPw3LYZW/s1C7nsGKvCTci8CHoWJuUiV3zHYwq4NkOOzEYz8/DaG6hX0c8kASOtJFZ+LIDhWY95qju+qumlPamImN9G0+SJBNHBCB6BhLGdpMTrqSy46fgB9gcdvXQ4HqIenGz6ITAyWfNj80GzFgesS//k6RAQNO8QhJRgqliDudFpzAumB6lDhAt1BfmwE/ccrhJjx8Awrq0CiicDZDjWb7EEqNA2JcgUBtu+ZgrGK3x46v0/yCyZLf1y177Bw==;PV//HBTdIRKm/M1ZnPLj5g=="
 ---

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving car startup Pony.ai obtains taxi license in Guangzhou, China"
+    excerpt: "Self-driving car technology startup Pony.ai Inc. has obtained a new taxi license in Guangzhou, China, the first robotaxi company to do so. Announced Saturday, the permit allows the company to operate 100 autonomous vehicles as traditional taxis in Nansha District of Guangzhou,"
+    publishedDateTime: 2022-04-25T02:38:00Z
+    webUrl: "https://siliconangle.com/2022/04/24/self-driving-car-startup-pony-ai-obtains-taxi-license-guangzhou-china/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/BotRideReal.jpg"
+        width: 975
+        height: 650
+        isCached: true
   - title: "Pony.ai to start charging money for its robotaxi services in Guangzhou"
     excerpt: "Pony.ai said on Sunday that it has received permission to charge a fee for offering autonomous ride-hailing services to the public in parts of the southern city of Guangzhou. Starting May, a total of 100 of the firm’s self-driving vehicles will be allowed to operate commercially on public roads in Guangzhou’s Nansha district between 8:30 a."
     publishedDateTime: 2022-04-24T08:53:00Z
@@ -52,6 +66,43 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Self-Driving Startup Pony.ai Wins China’s First License to Charge for Robotaxi Services"
+    excerpt: "Pony.ai will launch a fare-charging driverless taxi service in the southern city of Guangzhou after becoming the first Chinese autonomous driving firm to be granted a taxi license, a huge milestone in the commercialization of self-driving technologies."
+    publishedDateTime: 2022-04-25T07:09:00Z
+    webUrl: "https://www.yicaiglobal.com/news/self-driving-startup-ponyai-wins-china-first-license-to-charge-for-robotaxi-services"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 31
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-startup-ponyai-wins-china-first-license-to-charge-for-robotaxi-services/10111682507461.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Pony.ai Becomes the First Autonomous Driving Company to Receive a Taxi License in China"
+    excerpt: "Pony.ai, the leading global autonomous driving technology company, announced it is the first and only autonomous driving (AD) company to obtain a taxi license in China. Pony.ai was awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha,"
+    publishedDateTime: 2022-04-24T02:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-china-guangzhou-ab2ad9a5aa0947c4bf384dd148cb8b76"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Pony.ai Becomes the First Autonomous Driving Company to Receive a Taxi License in China"
+    excerpt: "Pony.ai, the leading global autonomous driving technology company, announced it is the first and only autonomous driving (AD) company to obtain a taxi license in China. Pony.ai was awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha,"
+    publishedDateTime: 2022-04-25T05:52:00Z
+    webUrl: "https://www.uniindia.com/pressrelease/pony-ai-becomes-the-first-autonomous-driving-company-to-receive-a-taxi-license-in-china"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 9
 
 secured: "wY8Y3SbPAaAgRmvaqdCI6C88P6XgoMLtZjRJZP+uUOfbiMAT7scBG0Hx4dqSE4S/avQ9Ght/F88MGFX2oZKVM+xJfP0yM/jlMBAdoeE7twJmQoRRMmqZJEGPEcG3u50OLBbcyPWzM3xqf1roLRxLk9ed0eEzXxMI985PKjD/bb/vrkxbzvW/1EgjRhAWc4apwRoBZosPwxSEGrRtWeSUOz3mYqPL0vX2gxEnCjoDhZuDopyaTFIhOTOA7kaQUkQnqwXD/h3YwL5wi/mDph2Sg/vA27mGjMMc6t72TBTcA6L0k5TROwf+wtLO8mkfoK29R2z3NYJ91VUk0ui6TtpGm82PaR0upEgXXDo9YvZhj6k=;xus/cGrklw9nQaIaqA4PaQ=="
 ---

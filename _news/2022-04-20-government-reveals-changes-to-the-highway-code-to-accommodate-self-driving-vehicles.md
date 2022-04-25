@@ -57,24 +57,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Self-driving cars on UK roads – key questions answered"
-    excerpt: "People travelling in self-driving cars will be allowed to watch television programmes and films behind the wheel under new changes to the Highway Code. The UK government is updating the rulebook in advance of the technology becoming legal across the four nations."
-    publishedDateTime: 2022-04-20T13:10:00Z
-    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/self-driving-cars-uk-roads-23734482"
-    type: article
-    provider:
-      name: Coventry Telegraph
-      domain: coventrytelegraph.net
-    quality: 4
-  - title: "Changes to The Highway Code will allow drivers to watch TV on in-built screens but not use mobile phones in self-driving cars"
-    excerpt: "Just months after some of the biggest changes in its history, The Highway Code is changing again and here's why."
-    publishedDateTime: 2022-04-20T13:52:00Z
-    webUrl: "https://www.lynnnews.co.uk/news/the-new-highway-code-rule-that-lets-you-watch-tv-but-says-ph-9250431/"
-    type: article
-    provider:
-      name: Lynn News
-      domain: lynnnews.co.uk
-    quality: 0
 
 secured: "lMDCLzeBuPrdAA1ARu6u6+5B2vezrASG6qR8uR7PZSMvSg7Z5jCI29m9Ey0gaAQpve79MHDfoogtIdAAaHQJrE4LaOfgX1Cs3kNLd7dPtAMtWx2fo1JfLTa+4E2uF5B0XgMOnGBNGxUYR6gKm0yy+fNShYDmLUP5ar6/87/160MznxUXYM/kPZz5V6i9oyFqFSFaNEEs9ABnfhDF+SCNl3jGqivIL1HPLUNhf+uYeQIZv5PHRtO9gkgu839c3ZJko9k0dwCjMXfYU4eVxmTGjsiIdF4qzG6CPNLa1856M2Fu2cojKwNJuUSFsWrMYo5EVdMif+oAMlzbH4rF1R+4Ztu8EECTl4aWbB/MsgJACCA=;hfNH/X6pz16bydqK4MPibw=="
 ---

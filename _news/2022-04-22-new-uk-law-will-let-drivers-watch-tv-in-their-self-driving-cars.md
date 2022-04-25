@@ -71,24 +71,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Highway Code to see major change to accommodate self-driving cars"
-    excerpt: "A proposed change to the Highway Code will see users of self-driving cars not being held responsible for crashes its vehicle might find itself in. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department ..."
-    publishedDateTime: 2022-04-20T13:27:00Z
-    webUrl: "https://www.newsshopper.co.uk/news/20080833.highway-code-see-major-change-accommodate-self-driving-cars/"
-    type: article
-    provider:
-      name: News Shopper
-      domain: newsshopper.co.uk
-    quality: 4
-  - title: "Watching TV while in driving seat moves closer in UK"
-    excerpt: "Changes to the UK Highway Code will help ensure the first wave of self-driving vehicles are used safely on local roads, the Department of Transport said. Changes clarify drivers r"
-    publishedDateTime: 2022-04-20T13:23:00Z
-    webUrl: "https://www.just-auto.com/news/watching-tv-while-in-driving-seat-moves-closer-in-uk/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 4
   - title: "Green Light for Self-Driving Cars"
     excerpt: "Self-driving technology has been given the green light by the Government after it approved changes to the Highway Code."
     publishedDateTime: 2022-04-21T12:01:00Z

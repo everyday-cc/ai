@@ -397,7 +397,7 @@
       "originalUrl": "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -637,7 +637,7 @@
       "originalUrl": "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1095,10 +1095,10 @@
     {
       "path": "_news/2022-04-22-ai-fuels-industry-momentum-in-brain-computer-interfaces.md",
       "title": "AI Fuels Industry Momentum in Brain-Computer Interfaces",
-      "excerpt": "Brain-computer interfaces (BCIs) have been advancing rapidly thanks to artificial intelligence (AI) in the past few years. Brain-computer interfaces enable two-way communications between the human brain and a machine. In the field of health care and life ...",
+      "excerpt": "Brain-computer interfaces enable two-way communications between the human brain and a machine. In the field of health care and life sciences, the hope is that brain-computer inter",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces",
       "featuredContent": null,
       "highlight": null,
       "heat": 117,
@@ -1115,9 +1115,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp",
-      "publishedDateTime": "2022-04-21T14:44:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp",
+      "publishedDateTime": "2022-04-21T13:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",

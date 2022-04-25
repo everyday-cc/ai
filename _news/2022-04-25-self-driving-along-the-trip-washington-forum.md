@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Will Watching TV In Self-Driving Cars Actually Be Legal In The UK?"
-    excerpt: "A new U.K. government rule suggests that self-driving car owners will be able to watch movies on their in-car dash screen while the car is on autopilot."
-    publishedDateTime: 2022-04-20T13:42:00Z
-    webUrl: "https://www.slashgear.com/838317/will-watching-tv-in-self-driving-cars-actually-be-legal-in-the-uk/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 54
-    images:
-      - url: "https://www.slashgear.com/img/gallery/will-watching-tv-in-self-driving-cars-actually-be-legal-in-the-uk/l-intro-1650476409.jpg"
-        width: 1600
-        height: 898
-        isCached: true
   - title: "UK to allow watching TV from behind the wheel of a self-driving car"
     excerpt: "This new policy will only be applicable for the people who own cars that are registered as “self-driving” under the British law."
     publishedDateTime: 2022-04-23T08:42:00Z
@@ -64,6 +50,38 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2018/07/AP18129645375784-1019x573.jpg"
         width: 1019
         height: 573
+        isCached: true
+  - title: "A self-driving bus in Scotland is ready for passengers"
+    excerpt: "The UK's first self-driving bus project is taking to a route in Edinburgh in preparation for welcoming passengers this summer!"
+    publishedDateTime: 2022-04-25T07:15:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/61213591"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/61213591.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/61213591.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/12617/production/_124278257_hi075549846.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "UK's first self-driving bus takes to the road for tests in Scotland"
+    excerpt: "Passengers are expected to start using the self-driving bus this summer as Scotland begins testing the \"hugely exciting project\"."
+    publishedDateTime: 2022-04-25T06:27:00Z
+    webUrl: "https://news.sky.com/story/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505?fr=operanews"
+    ampWebUrl: "https://news.sky.com/story/amp/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 44
+    images:
+      - url: "https://e3.365dm.com/22/04/1600x900/skynews-scotland-transport_5750689.png?20220425070751"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Driven to distraction: how close are we to watching films in self-driving cars?"
     excerpt: "DfT has proposed some measures to smooth way for adoption of autonomous vehicles on British roads Self-driving cars could lead to drivers being allowed to watch films on the motorway, under changes to the Highway Code proposed by the Department for ..."

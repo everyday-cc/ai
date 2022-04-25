@@ -9,7 +9,7 @@ ampWebUrl: "https://www.finanzen.at/nachrichten/amp/prezent-ai-the-presentation-
 cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/prezent-ai-the-presentation-productivity-platform-for-enterprise-teams-raises-$20m-in-series-a-funding-led-by-greycroft-1031367518"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -18,17 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Greycroft Leads $20M Funding For prezent.ai"
-    excerpt: "Los Angeles-based venture capital investor Greycroft Partners is the lead investor in a Silicon Valley startup's Series A funding. According to prezent.ai, it raised $20M in a Series A funding round,"
-    publishedDateTime: 2022-04-20T13:15:00Z
-    webUrl: "https://socaltech.com/greycroft_leads___m_funding_for_prezent_ai/s-0082409.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 17
 
 secured: "n3+ZZCPkOVKlhAMVnwZ4+WTKq7TVuXlV1W49q32Rtlmchw3AeJQ0Q6sWvpij9bN4D1j/8A60H2NlBOzbIMYgyqh2YiPqhrNNebvlJUjUobeFZHET8Tyk1EmEhTkTJRNRjM58/YNmxq23H2IA4rwv4ci39ELPHuQbW7eSorb3FBtBVrQGml9byjGNR5+8mpOgeMtxm/izLPOLeX7P2WJ4MPGrXxspqApa6JGtjLako/UU4k/SmC2qgFJmqTrllwwCgRdHTaB5XXqeNn6pglX7hB2NS1G1a3c9l2iqTMtHul/kQE3EMcYb3PrJFfl2LVOavFISBLiQ/yL6zVtVhzrdWGtQYZz1ZitoSrTJiPEkA7I=;5TYQijJqCd7/0iOBkj8Log=="
 ---

@@ -54,15 +54,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "How to deploy AI to improve customer engagement and retention"
-    excerpt: "Initially many people expected AI to be a job-killing technology, however, that hasn’t happened. Instead, it has become a vital component for employees across the workforce, enabling them to do more qualitative tasks and remove the remedial,"
-    publishedDateTime: 2022-04-20T14:35:00Z
-    webUrl: "https://www.finextra.com/blogposting/22169/how-to-deploy-ai-to-improve-customer-engagement-and-retention"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "Observe.AI Raises $125M for AI-Assisted Contact Center Product Development"
     excerpt: "Observe.AI has secured $125 million in a Series C investment led by SoftBank Vision Fund 2 with participation from Zoom Video Communications, Inc. Observe.AI now has $213 million in investment under its belt."
     publishedDateTime: 2022-04-22T13:29:00Z

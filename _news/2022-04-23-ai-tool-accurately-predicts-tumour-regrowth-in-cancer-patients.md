@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unionesarda.it/en/will-robots-take-our-place-bveu9jkz?am
 cdnAmpWebUrl: "https://www-unionesarda-it.cdn.ampproject.org/c/s/www.unionesarda.it/en/will-robots-take-our-place-bveu9jkz?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 900
     height: 506
     isCached: true
+
+related:
+  - title: "When will robots take our jobs?"
+    excerpt: "An artificial intelligence explosion is allowing machines to take over more tasks. But will robots put people out of a job, or just fill ones that humans can’t, or won’t?"
+    publishedDateTime: 2022-04-21T09:00:00Z
+    webUrl: "https://www.fastcompany.com/90742061/when-will-robots-take-our-jobs"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 24
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/p-1-when-will-robots-take-our-jobs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "sn6J7yXR+IQF6oPr8lwKm2YRytJO+z6T4jY1wh9UMeSBgFHS1mC7VRxZWAI9HwtAWi2Wp+FtHhp0ygu9yWupSMg5zZkbHZJp1etZPd+zLf77T5YTXO0DT30/6KTFvAhkpxFV0LgAOQ8OtdXl3OLYa1YJ7Yz53H2lBhu1Snc5wWsFLVD1uqOM9Ak46uMmYFwBrPqOZw9YxX+txvWiZHim6ET8aByHRWZtYEihGhswP7yuhTevYsg4wfQv1dA36gE2O9xSOQc6k9GDHrHarrMtui15Yjk9iGKfYR7JarKP4sy06tdfiUIL5PO3dnP9XrLYPZ4OVNDXo3bUpK/m866uK9Y+LbEMxUBUjrCXitXaBFrOWAvCV3tr+jGtKiFOWaCZp3LOeEeQ7G9rTexKA4LbPSzzgXCarKP8XAsHKaapBajtYEC/Z3CZM+RW9BeQbZPyhyU4y1ENIbRZp3N1bvNItVuPRfO9iSHt5UaY7A69oyzxHJ7gZ4EUNg8LuLWsBFvboUZqw1ByCIjzmM6JohOLIw==;IVDrNQn3WW+a0w7+rWt/hw=="
 ---

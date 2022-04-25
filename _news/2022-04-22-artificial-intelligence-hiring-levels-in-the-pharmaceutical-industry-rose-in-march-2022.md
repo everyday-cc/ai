@@ -19,11 +19,11 @@ topics:
 
 related:
   - title: "AI Fuels Industry Momentum in Brain-Computer Interfaces"
-    excerpt: "Brain-computer interfaces (BCIs) have been advancing rapidly thanks to artificial intelligence (AI) in the past few years. Brain-computer interfaces enable two-way communications between the human brain and a machine. In the field of health care and life ..."
-    publishedDateTime: 2022-04-21T21:44:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp"
+    excerpt: "Brain-computer interfaces enable two-way communications between the human brain and a machine. In the field of health care and life sciences, the hope is that brain-computer inter"
+    publishedDateTime: 2022-04-21T20:39:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp"
     type: article
     provider:
       name: Psychology Today

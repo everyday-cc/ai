@@ -7,7 +7,7 @@ originalUrl: "https://www.timesunion.com/business/article/Why-You-Should-Persona
 webUrl: "https://www.timesunion.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computers could revise past conclusions with AI"
-    excerpt: "To better automate reasoning, machines should ideally be able to systematically revise the view they have obtained about the world. Timotheus Kampik's dissertation work presents mathematical reasoning approaches that strike a balance between retaining consistency with previously drawn conclusions and rejecting them in face of overwhelming new evidence."
-    publishedDateTime: 2022-04-20T13:31:00Z
-    webUrl: "https://techxplore.com/news/2022-04-conclusions-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-conclusions-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-conclusions-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning.jpg"
-        width: 1920
-        height: 1302
-        isCached: true
   - title: "Why You Should Personalize Corporate Learning With AI"
     excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
     publishedDateTime: 2022-04-22T18:49:00Z

@@ -160,7 +160,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -410,7 +410,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -564,7 +564,7 @@
       "originalUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -900,7 +900,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1186,21 +1186,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-20-graymatter-robotics-earns-rbr50-innovation-award.md",
-      "title": "GrayMatter Robotics Earns RBR50 Innovation Award",
-      "excerpt": "GrayMatter Robotics announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world.",
+      "path": "_news/2022-04-20-mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m.md",
+      "title": "Mutiny, which personalizes website copy and headlines using AI, raises $50M",
+      "excerpt": "Mutiny, which leverages an AI platform and OpenAI's GPT-3 to personalize website content, has raised $50 million at a $600 million valuation.",
       "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/april-2022/graymatter-robotics-awarded-rbr50-innovation",
-      "originalUrl": "https://www.automation.com/en-us/articles/april-2022/graymatter-robotics-awarded-rbr50-innovation",
+      "webUrl": "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/",
+      "originalUrl": "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://www.automation.com/getmedia/36ccf36b-766b-4539-8640-f929de8e451d/Graymatter-news-April-20-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1255917500.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1208,14 +1208,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:19:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/amp/",
+      "publishedDateTime": "2022-04-20T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1224,7 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

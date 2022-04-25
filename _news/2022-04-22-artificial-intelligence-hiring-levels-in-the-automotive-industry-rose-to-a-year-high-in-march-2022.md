@@ -32,20 +32,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Machine learning hiring levels in the power industry rose in March 2022"
-    excerpt: "The proportion of power industry operations and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 33% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-04-20T14:19:00Z
-    webUrl: "https://www.power-technology.com/analysis/machine-learning-hiring-levels-in-the-power-industry-rose-in-march-2022/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 39
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/04/kocje-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "Machine learning hiring levels in the military industry rose to a year-high in March 2022"
     excerpt: "The proportion of military equipment and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 50% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-04-21T08:00:00Z
@@ -97,15 +83,6 @@ related:
       name: Airforce Technology
       domain: airforce-technology.com
     quality: 19
-  - title: "Machine learning hiring levels in the mining industry rose to a year-high in March 2022"
-    excerpt: "The proportion of mining industry operations and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 25.8% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-04-20T13:47:00Z
-    webUrl: "https://www.mining-technology.com/analysis/machine-learning-hiring-levels-in-the-mining-industry-rose-to-a-year-high-in-march-2022/"
-    type: article
-    provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 11
 
 secured: "Lxks9YBTC5li45FfsQG/6/EbXku0nKbpnhULB8ZdpCgcjNBXx7Kvk6uZl+ghq52EtWZy3DuFzParuiku0W8SuplE89uMjkAeDPvIRmZ/d+D9i/spUNWOOKM2zEh2zDVrp8E5zm8l2QhJkqHhTo53jDMv3l3hDxgIjga5BhFkvlV+2XKHZQgZVfTYvcqWR59eVaD7WAH1hfLMjLwdfNp1/XXVqrfpMIyFwse6upnuR0JDf6d04EVH34xlTXZWQno5Zmm/jIp9yZc+UzqiIwaJIBR66YqOEV2VHF0zvt6qxS1goCKJ4N7QNRHgeIp+YYvrBAI0LeIqkOt88w1rLnaSXLh+DzC930tJfELTO1SiexapbUias17POGNIFY53PQPEmGo6bh7Szvees9ZGFUM3mKEM9p+xmN9zE/cd4zbttN1PtyhtmT4GVMyCpDyiow/edoipnljDFvQki9GlHsMMDmsJ7damBhbfySX4Oxafz8U1KfPU+TaG6nZp3v6+M/y8DmWEMc+GvIEUZdAbXEc5RA==;lIjj1Z9sSoaaAD/VY6rH3g=="
 ---

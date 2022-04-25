@@ -29,15 +29,6 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 17
-  - title: "Nuclia Announces $5.4m Seed Funding to Advance AI-powered Search, Releases Open Source NucliaDB"
-    excerpt: "Nuclia transforms access to unstructured data with AI-powered search that anyone can integrate in minutes, tapping into all their video, audio, and text . BARCELONA, Spain, April"
-    publishedDateTime: 2022-04-20T13:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nuclia-announces-54m-seed-funding-advance-ai-powered-/2022/04/20/9586085.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "GAVs4m1vw9uqJWkwNZDus+hU2+xJQXqSm80TsI81bL9Ebres1Ambj+536HIr8DzdahhDG3cgZ/fB4RpRaMsiS/ShUop+m3GKzir2Zn4y1BGQ4BHwf1iGENLMUHYVVJwW3i98uJ0eO6GViSGMneVgiN/WjQzcF3ndddKq7peDpVeIFfwtYNJb4R1xgpBQZ2enAEiY5cNQlA+I1RnD2cSssj6cnkdd+uVJbYQGIhCQU43TZm9p6hzdod/5t2Afggdbo2qMvuH/GIsWpnk27cv7LNX610lzJVDz0yNPgX7oB3Jw729htUVXErj9dERtl4+xlfEwuVX3UwiCGAjHu6IC00me7s8JMPPxgeE2JhLZoS4=;pFLVVsrY29RSLMVHct7c3Q=="
 ---

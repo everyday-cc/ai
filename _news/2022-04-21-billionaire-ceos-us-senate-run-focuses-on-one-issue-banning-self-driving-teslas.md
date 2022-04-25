@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-foc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/"
 type: article
 quality: 98
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
         width: 2048
         height: 1079
         isCached: true
-  - title: "Highway Code changes to allow watching TV at wheel of ‘self-driving’ cars"
-    excerpt: "The Highway Code is to be updated this year with rules for “self-driving” cars that will allow drivers to watch TV and check emails on the move. The changes to the code will set out where and when “self-driving” can be used as well as drivers ..."
-    publishedDateTime: 2022-04-20T13:21:00Z
-    webUrl: "https://www.peterboroughtoday.co.uk/lifestyle/cars/highway-code-changes-to-allow-watching-tv-at-wheel-of-self-driving-cars-3660350?itm_source=parsely-api"
-    type: article
-    provider:
-      name: Peterborough Evening Telegraph
-      domain: peterboroughtoday.co.uk
-    quality: 3
 
 secured: "M7SWP34ab9lMlniwTVLPgd9sqst8DQyaAgwF1DInWTWKrOQARYxDiRIrAJU1PaaFVqdg7De9vo8FYcVxWIQqRs7t4bLxIT+ZGZK6LzQpb6YFZQDIFnY7AcVWCEfB50bzKd23ccOXFCuFy6aD32xE2hZIUbfiDiyEzJUWfCmZfLvAgSKva19AB/CsGVtBTst0iscDS0CDi9H5IVjqTrvnnQyPTACaXZd6HCv38xEzp/VUNTOR9Q1rR/dNjzZ+VGPBgk5G4cUhJINUwmT9vp6DU5l8V4mxq4ooNd/5bO1dzY/j3xaMQGzVbotoqS+l+mmYa220xP/1Ry8zfO8EH6STqAcLgyPlar/KhRX4mvcV/SDc0Mccizp2HeM86kraIsCJ+WnaHExlq8/JGXJYvtfCLq0H62zL22JDTB4i5Ph21KouUqLVMJzvu1b36t5Ymp3NfNt82e6s6EQvx0HozMGKden+jxZ9s0YtzPgVOw0Pr9eWvo9fdjL0d8KtoWA7UKQ9O046MWqdoyBjBXDs2mq/vQ==;qeap9ifRODQuEmBAcRrYLA=="
 ---

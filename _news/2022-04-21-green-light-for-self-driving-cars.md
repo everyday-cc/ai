@@ -79,24 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Highway Code to see major change to accommodate self-driving cars"
-    excerpt: "A proposed change to the Highway Code will see users of self-driving cars not being held responsible for crashes its vehicle might find itself in. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department ..."
-    publishedDateTime: 2022-04-20T13:27:00Z
-    webUrl: "https://www.newsshopper.co.uk/news/20080833.highway-code-see-major-change-accommodate-self-driving-cars/"
-    type: article
-    provider:
-      name: News Shopper
-      domain: newsshopper.co.uk
-    quality: 4
-  - title: "Watching TV while in driving seat moves closer in UK"
-    excerpt: "Changes to the UK Highway Code will help ensure the first wave of self-driving vehicles are used safely on local roads, the Department of Transport said. Changes clarify drivers r"
-    publishedDateTime: 2022-04-20T13:23:00Z
-    webUrl: "https://www.just-auto.com/news/watching-tv-while-in-driving-seat-moves-closer-in-uk/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 4
 
 secured: "w87GrgTKBPV/in33R8HFad5N4R0D+rgJ1iH0HistB9yCgtSca3cTsfEfwdMBBR+IwMENAzX6C7Q/tqMM9ilqB7uFWPcg1WOBOpVT3zsTBK88edXObNA8fdX9zY47Zl4SrKEDJfWqS9pbmr6SuR4+rx9x5bAyyxLgNc2RDBV3hCn2MNo6jkdCykf8IhSDoikmkqwX1L5KB5yosFuKfzmfl3YgcO4Nrtq8TGODFHbujPieK2/SvfQWoeM5HBjxM7uXqbZOxRwduisYX9TJMUMEA4o/QdxELHLzDGlKYcAX/ccDy0Q8qr1ZE4FcBKzRmmRNpDD8OzMfQDAH/TYNBG1pH5hwbMadu9ul5sB7k/pZSDzT9UKhMcMS2uoUS7ZDowhnnbRVlO9LozwrCYnSjUJ7XUZ0xEYXIRiYFpTNYgxSzSflF9UaQ2TcDDuWzbz8ooGe2b0I2MSbNXV11zoIMNW8ptCArLJbXVVxZFpodZfMbibDa4Ivxr0NHHZ0lDSCBl0G8rqYHKTe6e6EYi4RUd762w==;z/p81gLyK8XhBT44ALRoYg=="
 ---
