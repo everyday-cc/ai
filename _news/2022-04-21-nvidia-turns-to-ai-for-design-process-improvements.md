@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia’s Push for AI Innovation Could Propel This ETF Higher"
+    excerpt: "In particular, artificial intelligence (AI) investment is driving innovation for the next wave of disruptive technology. Chip maker Nvidia is doing just that. It's evolving from its identification as a semiconductor producer and focusing on growing its AI technology to remain competitive in its respective marketplace."
+    publishedDateTime: 2022-04-25T18:08:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Nvidia’s next GPUs will be designed partially by AI"
     excerpt: "Nvidia has talked about the use of machine learning and AI in upcoming graphics cards. It plans to use AI to increase the efficiency of next-gen GPUs."
     publishedDateTime: 2022-04-21T19:16:00Z
@@ -34,6 +45,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 64
+  - title: "Elemeno AI Joins NVIDIA Inception to Advance Its MLOps Solution"
+    excerpt: "Elemeno AI, an end-to-end Machine Learning Operations (MLOps) platform that optimizes workflows, today announces it has joined NVID"
+    publishedDateTime: 2022-04-21T12:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-4-21-elemeno-ai-joins-nvidia-inception-to-advance-its-mlops-solution"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 17
 
 secured: "0v2sX1R6m5snM92rVTlgYnp67gTiAKk14Q7dHJU1u025BP9gO6ZRHzKard5OXRcHlscgXNl9V+gAfArN6xR8mYbvLd4bGYQn0M/CrioL6g6HWdyM3tIVj6A0DKOYN+FWmP7oIfBRUZmyNOTgeda+3B8PlmL0YksfZgidvrTlvoX7oswivm0PdozITOWpwUkjmDHpFVLj2zVeJH8q5nK6qXZVYF81UGT20uR+El4CTJR3MpNWU1okKNmrtT+a4foOAbdTKkwCeOo/to8P5Dy/OJN6pYjlaS6k1YX51c/rj1F2rUfUZmeK+4rEeHnWC3DYtnEdGyo8TAuGrzfLv7z3LCZl6vnKEG+iuk47xicpHkoCAxIcSWdTLJH/bqgCYha+iVgGYjRd7/dXkepRF6LkG5e9PHyvmWQ1fUhlxgsLEKk6WvCvbBo37NnS00QMv+HUPBMRWQjXzXonvWysbikkhzHmGPmqbWDFJW7fUTEfzX5aKZNFpU+w5r599lxLJNuj7xb1S1/bUXp1OtkPYbEjzw==;oMI4h8uZq0uTGBO4DmDuRQ=="
 ---

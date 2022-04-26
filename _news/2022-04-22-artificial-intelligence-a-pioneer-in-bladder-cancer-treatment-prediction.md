@@ -54,13 +54,20 @@ related:
         isCached: true
   - title: "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment"
     excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
-    publishedDateTime: 2022-04-22T14:40:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220422094310.htm"
+    publishedDateTime: 2022-04-22T09:18:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 32
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 42
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-29.jpg"
+        width: 850
+        height: 478
+        isCached: true
 
 secured: "Xn2xlTUlu+a468KKr9YDEfhV5RLU+6sESzG3OzFOX+1yA03FdHhjZc4NZfw5LqTnzjjoNqZ4c6DGPR/0Ft0kM8siy/+OvGjFsaTwablOgR0pzxODwuB8iwT74YFCoKGY8OiM1PyQ0DCQUzGG9+hNEhR7T9mu09AdkUtclI13xqHVFVQ4mrWQFLUJrP0vPlw2h1t8POgB8SmOad3tJXa6sXbZhxxUMImFeTvQOlkNO1Kr1eWeH8xg4/Sal3Fju89MG6Xay4etzNE4wQ/KcsZ/7BFCLNbqLDKQhM2WlF2zbDBOffPzQBRMxOseyaKTLPJ+J1u/mGYnJq2+KDRcvWVCiltfiUvkaTM6AVnGwlT1D7k/SACNWXPN0/1SMPzquoCRol0xySexPUwPyDSV+duvmdn2t2OnL5+nUF9jWA38hKLrGRYF3rLi4iVWZ8OBDqWTVSc8FAY3YLAJM7mTqqI/LiaRq1o1PGa1E0Y492MDjDd/V711Qzh9WdlwAFsvkDZYmdOFChQKuZIu/vWEihdPCA==;v8zXA1LTIANfuFjLBIs1Ww=="
 ---

@@ -34,7 +34,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 25
+    quality: 27
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/be6b8aa06bcc409b6f0bbe2f497c25f1fb377222-600x337.jpg"
         width: 600

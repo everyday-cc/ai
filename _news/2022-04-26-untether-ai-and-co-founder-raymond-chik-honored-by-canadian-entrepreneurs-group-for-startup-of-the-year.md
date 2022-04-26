@@ -2,27 +2,22 @@
 category: news
 title: "Untether AI and Co-Founder Raymond Chik Honored by Canadian Entrepreneurs Group for Startup of the Year"
 excerpt: "Untether AI co-founder Raymond Chik was honored by the Association of Chinese Canadian Entrepreneurs (ACCE) during a gala dinner hosted by the ACCE in Toronto on April 23, 2022. In 2018, Dr. Chik, Dr."
-publishedDateTime: 2022-04-25T18:41:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9"
+publishedDateTime: 2022-04-25T20:41:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-25-untether-ai-and-co-founder-raymond-chik-honored-by-canadian-entrepreneurs-group-for-startup-of-the-year"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-25-untether-ai-and-co-founder-raymond-chik-honored-by-canadian-entrepreneurs-group-for-startup-of-the-year"
 type: article
-quality: 21
-heat: 21
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "KqFBdbuXIlkg+NsL6GFPKSH4LLcaWodjq/scomAoGWiD9LhBUzEsfDw6gCKR4f5kV7MXpHQXQ1wmU5fCGRRVW5YHEmxBgwWKXQEOrrsbydBVCiQbZORClzYVEYPc0AAbFgsvQ7N9NCf37lW+a4GN9Ri+sNF6nYpfj4cSTxKw1Wa58CjpQRRFvNjMvSQIb3z7YDBNM9ahmgXNVMLMrmAEZwuf576ZXwYWPh/suG3yLy5Gbug1Mlut77J9x1af5Z9uTorhIYUwKGbn5XPfMo5ay1Cnki8Hn91QaPywNuwAnNfhIOjUJRi6uBKfGWKdmmtqyCqOvh653+d4zAoIp3T3oiBcprJDzR75nQFsNH6Wi7A=;09mlyFsq9tzGXEcXzFD9AQ=="
+secured: "kNnW64yjVk1MRBT5tZBWCl1vibCjG65KaCG9CU8/vMWqQlVqpixYziNepzrEPQN2TWi8UtB/xjwV0F0ui2jLVTkRAfnGxufwlSwEAPtwRu4H8o99o5Sx1KX2JGEldL9TQQ5j97osF+1d27b8nqjoHdIHEJRSpngeueE1zYiGBX8BVZJiJenxlUwHouoNlgerGf4seDvBBiTZKyryRQYhJ/NmsryeBm03+sLHDvutKovBS8jxSIQwRJasEdt2qI675WVoqM3gjynE9Gzq401O/k+SDz5R638HVDZd7LB2bPmceB3j5CSj7X4+RYUiPtduCviQkB7jTnZeVAcVy+16EFHggMHrV3TrqbGbFqrm2p8=;t+p3e0jtzqyaGZAWax3bng=="
 ---
 

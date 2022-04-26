@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-25T15:51:00Z
 originalUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-market-top-companies-business-growth-investment-opportunities-2023"
 webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-market-top-companies-business-growth-investment-opportunities-2023"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/be6b8aa06bcc409b6f0bbe2f497c25f1fb377222-600x337.jpg"

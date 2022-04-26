@@ -2,27 +2,27 @@
 category: news
 title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
 excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"
-publishedDateTime: 2022-04-25T23:49:00Z
-originalUrl: "https://www.fox21news.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/"
-webUrl: "https://www.fox21news.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/"
+publishedDateTime: 2022-04-26T00:49:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: FOX21 News
-  domain: fox21news.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
+  - Computer Vision
   - AI
   - AI Hardware
-  - Computer Vision
 
 images:
-  - url: "https://i0.wp.com/www.fox21news.com/wp-content/uploads/sites/37/2022/04/rainbow-falls.jpg?w=2000&#038;ssl=1"
-    width: 647
-    height: 768
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: ktla.com
     quality: 17
 
-secured: "UpNZFuu1od9x7YcFLAQxQw3mCkOFe2jkCiHMBijtZoOd30enldD7McFZ4qSMLZWSbVaoV7oWbXawXXhwP71SsyH9wbp+SXAA7VCnuFSbJXwPNmH00Z5lRCwvAeJvU7nzt8MdnJ7BnfQ4uI1sYi/VHdxGBZdyvu00i0mOAO6FtCy1cVQMHUlFRCzAg0PKwQcmpsLZDmc7LBJJStF0DUd0LdIE/JuOkhtYVteK4w6+OYe6dlyLKHc5kiK+TT7fl5Ey9P//tR1b2mZLoXUqL82XCXFR5vncdMYIkfsj4MAf4r94UTmIqBN0rhTVzKVi2mH6fCb8Edhaa6JGMbGaWKXu+oJo368Uc+CMr3bNvEhB0Iw=;RC8ati0uTANs3nZBIZ+YEg=="
+secured: "LNr3aUpSoF/mLByRWEi2jnTcFkm5U0XAW+UHw3Z2dyJFAbWOxx0KXayMc/Iajy5kBumJIjV8eGZ+bqcj+aJVkvp6io87dh6m2FkXdEwJ1rp0bLenONGGUerLHF+0c59iNLcipexudMVtP4ZBWiRi9XNV0bB/BBK0NrheJKn6LApzVpvMbc6x3saVbYIRbnHglQB5q4I/9THg7PidMbkPI6VxgBVN+0qNUHTSZi4ttABqzh+qVsYReCytzAFzEViCR8ZkLajhfmu6Wklq5POuGuXmCwXFMJ0wB66P6nkcOxzrvKRzFezG3L+l3m3uErMrWXJdDjR+qkprL6xDIV5t8FtL6WhNYeqycgotogXTCmk=;Co2FxPwEZIMEW+hxHR5YaQ=="
 ---
 

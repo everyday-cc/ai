@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-micr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -30,20 +30,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
-  - title: "Microsoft to Initiate Two Schemes to Promote Start-ups"
-    excerpt: "Microsoft announces two initiatives to help grow start-ups and foster entrepreneurship in the country. Read all about it here!"
-    publishedDateTime: 2022-04-21T08:40:00Z
-    webUrl: "https://techstory.in/microsoft-to-initiate-two-schemes-to-promote-start-ups/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/04/Microsoft-Logo-2012-present-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "SAS and Microsoft Drive Toward Health Care Interoperability"
     excerpt: "Global analytics leader SAS and Microsoft are working together to build deep technology integrations, making advanced health analytics more accessible to health care and life science organizations. The collaboration boosts health care interoperability by enabling the use of Fast Healthcare Interoperability Resources (FHIR®) standards and through integration from Azure Health Data Services to SAS® Health on Azure."
     publishedDateTime: 2022-04-21T17:20:00Z

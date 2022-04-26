@@ -23,17 +23,6 @@ images:
     height: 591
     isCached: true
 
-related:
-  - title: "Data Center Market to Surpass $343.6 Billion Revenue by 2030, says P&S Intelligence"
-    excerpt: "The data center market size is expected to increase at a CAGR of 5.1%, to $343.6 billion by 2030 from an estimated $220.0 billion in 2021, according to the market research report published by P&S Intelligence."
-    publishedDateTime: 2022-04-21T08:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-data-center-market-surpass-3436-billion-revenue-2030-/2022/04/21/9586718.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "gp9CmumANOcSGRYqYqVJKARplste74vpefSCEEXIgpn5CAjWy/XuqKIPZbez/urzuAhrcULUwtX5vkJrskL3ro7N6UOFghJ2/AzIVrTpQe6RXL7xDjAOGGMoAe7faLO+s6Qpew79Q3DpOwRF1LiqUFrTFiKY1ZRd/4rOEtZVuDKskjxWL8AR/QTs9fEIRfj/XRaWTNIGGheg7AmiCIGsAOUQFVMq03AUCCUa3A5pkAQ3ncdemv7oF4uW3qCrchhIzSPPjJ5F5MlnoJyaxHZapLv2y+5Ef3xDrLULPLEdz6dHofwNBJzKOamwogOWe1AoZeQVwAVO4tTtv9Gghq1hzsqZn2AzoHnUzbnB5vAu+QI=;Bhgbo6jMtgzOxitrQlUPYw=="
 ---
 

@@ -42,6 +42,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment"
+    excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
+    publishedDateTime: 2022-04-22T09:18:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 42
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-29.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "Artificial Intelligence – A Pioneer in Bladder Cancer Treatment Prediction"
     excerpt: "Artificial intelligence learning tools can be useful as a second opinion to assist physicians in decision making of bladder cancer treatment but they can also make mistakes."
     publishedDateTime: 2022-04-22T16:28:00Z
@@ -53,15 +69,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 35
-  - title: "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment"
-    excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
-    publishedDateTime: 2022-04-22T14:40:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220422094310.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 32
 
 secured: "3+9Y9sw5ZsVSflPtISv3jJEzEseVQ6F9pfpPDYN5qfNaRsswpxRMT2HfIA/bynC89t3X8yEXEdxjzgiOIaT7b4+Goirho4isrITW0fMLo3Qe5gTWj5R4kOaZbLN2c6bZAvR3thdiaR56PRbaGqnrfOw2yp+bwEUHDnioQTxXwBjS/7j+UFd4yKWRpHEOgk+FiLMzQz7Ytk6rbjDUEfXGuLW/FGbz/Opg3TmPwWXxbGE08UdzDrN7cZPKjicveX61EUJeBmD0TWyi9HTTS1WddTtahJOPD7jlhJH5BCYIX1fZhE5GObzYn8kmXhlRqZtsS3VeMrzXXulNj0F0DXjHEZcO5kR8TvIxFZP1rYilFmA=;xozYiJHcRHYhrDdo8OyTfA=="
 ---

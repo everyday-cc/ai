@@ -7,7 +7,7 @@ originalUrl: "https://ktla.com/business/press-releases/cision/20220425NY34570/sy
 webUrl: "https://ktla.com/business/press-releases/cision/20220425NY34570/synamedia-brings-intelligence-to-the-cdns-edge-for-unprecedented-efficiency-agility-and-scalability/"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Synamedia Unveils AI-based Traffic Management Features for its Edge CDN Solution"
+    excerpt: "Synamedia unveiled a new set of Artificial Intelligence-based (AI) traffic management features for its Edge CDN solution."
+    publishedDateTime: 2022-04-26T00:32:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24461-synamedia-unveils-ai-based-traffic-management-features-for-its-edge-cdn-solution"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 32
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/fc10bf695a28b86775e831e3c618972e.jpg?t=20220426_003003"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Synamedia brings intelligence to the CDN’s edge"
     excerpt: "Synamedia, the independent video software provider, has unveiled a new set of Artificial Intelligence-based (AI) traffic management features for its Edge CDN so"
     publishedDateTime: 2022-04-25T11:51:00Z

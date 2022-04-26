@@ -45,20 +45,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
-  - title: "Microsoft to Initiate Two Schemes to Promote Start-ups"
-    excerpt: "Microsoft announces two initiatives to help grow start-ups and foster entrepreneurship in the country. Read all about it here!"
-    publishedDateTime: 2022-04-21T08:40:00Z
-    webUrl: "https://techstory.in/microsoft-to-initiate-two-schemes-to-promote-start-ups/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/04/Microsoft-Logo-2012-present-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "QMSJpcVCAYbwYjn2Ha+9GF+by3IBmWXDiDsJ7240zhGcfCh03b4AbJQHQQHW8j8qWcIAvz2QyQvyoD9B8YkjS6NM/uXM4ONyWvFYgVFjo/s6Q9pSpZqBGiXTj0CbxShA5Mq78yRxd/7EJhe+UNA3ffEw49VzfUJ/5KiV6QANe7rScuzV86m2NVSfpm4zEO2E19bt1HWH0I31g4QKQyZ84i8X0U/bYQIbFBbVvG7c7P+KowG4QIQvIZmmNRzNUmJkC9ZiYCFuElWwBqgo/2kqsE8TU8royI7hCCk67NXLkyDUxvAoRdx6uIXzxAjRMxF5y21vMSPp5T2XegYlAPEPyLiXybthwVaiD7QJWuktAXg26SWAQ5Lwk59NeOpLC2cP7qj7KT6tCb2/WF/airiVoHI6CrGCXZuNqhDC9Yu00iS4Au0jfzqjLGLCUUTUKibl/vnZC0YpaqcxhG3sHzDcE6B0z/LNS4aRvzgJUjEkLX4DxyVSt4aWuCTb9mNLIfQSFpwerLwRY5m2ODF4FvWMYg==;RXD3wLbU8E912TyOVnX4Vg=="
 ---

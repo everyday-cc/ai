@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI"
-excerpt: "Grid Dynamics' new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ..."
-publishedDateTime: 2022-04-06T22:19:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55715798-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55715798-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai-200.htm"
+excerpt: "Grid Dynamics’ new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ..."
+publishedDateTime: 2022-04-06T20:23:00Z
+originalUrl: "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai"
+webUrl: "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "DRdvDfLIjRM4AXkUX34oageaqr17URsFOejck7iMvzdG/hp2SzNnTllYq0b/w/2kikz6rmieOam5j8gbVuGKNLUSizKF5LINf6Q7OIvdEE7k14FujWTAc/3cvLge5xbMwn7QZtuTR6F3FvZ48R5nDlSOZZhcX8CTpCIRp/i/eT7T3sB8hRPuX+Joznz7E0vPmZlAyKmlOfXn0bKush+R0lYPgsiZYSu3OmszB482bltFGTabGQdcdai9D1qLsBrQSsBwoud71BpA0siA1CCkRg+KWHr3418JJdLpB4upOjU2ihdNe0HJj6QldsWStuuWCsS7/3gSrc2LMHWZFgoitc+EVK1zEjmm2Uotj7iqCjw=;1U6xO/6FoADJdzO6oHlrTA=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/29c1054a6cf588e36169f95b90f75465d7960b5f-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "EsAhLEqPv7CSVcsECsOYpOIC5EaIwzVCKE9kNosi32dTDkMQZB2Cm2YY+MDVJpwzmu723r2X3tlhetTadht7rG8WEIW5CkohnE0i6ky1w9oEyjgoQRLlPPKEhSp4BN5m096gztQxwT9lbX0PheNGinbiVWXCH1J1qQzqPNmxhGxuwSwHPk5EERH3G/Q1YhMFhIbI4jVMBcagrUmyjeAehbU70KlTwAxghyP3bCjG8dJ/IgivLd9wfRdyupipVxwuaOYm0E0xJpRWk5tISuLbZ2zQ220RdkjAimo9H9X6OwcajbY5GyfCMvEehz2opN9T++O9ZBrx3eiy4AghlY8inQ2fwUX0oeZu8nKb5c7v1/A=;/310kVBQsTADTEvcFkp3nA=="
 ---
 

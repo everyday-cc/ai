@@ -18,19 +18,39 @@ topics:
   - AI
 
 related:
-  - title: "India funds startups providing solutions to needs of Artificial Intelligence"
-    excerpt: "Indian Defense Ministry will provide financing for startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
-    publishedDateTime: 2022-04-23T10:55:00Z
-    webUrl: "https://en.trend.az/world/other/3586349.html"
+  - title: "Nvidia’s Push for AI Innovation Could Propel This ETF Higher"
+    excerpt: "In particular, artificial intelligence (AI) investment is driving innovation for the next wave of disruptive technology. Chip maker Nvidia is doing just that. It's evolving from its identification as a semiconductor producer and focusing on growing its AI technology to remain competitive in its respective marketplace."
+    publishedDateTime: 2022-04-25T18:08:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp"
     type: article
     provider:
-      name: Trend News Agency
-      domain: trend.az
-    quality: 34
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Nvidia’s next GPUs will be designed partially by AI"
+    excerpt: "Nvidia has talked about the use of machine learning and AI in upcoming graphics cards. It plans to use AI to increase the efficiency of next-gen GPUs."
+    publishedDateTime: 2022-04-21T19:16:00Z
+    webUrl: "https://www.digitaltrends.com/computing/nvidia-lovelace-gpus-are-designed-partially-by-ai/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 64
+  - title: "Nvidia turns to AI for design process improvements"
+    excerpt: "Better than humans Nvidia expects the complexity of integrated circuit design to increase exponentially in the coming years, and is looking to AI to help out. During a talk at this year's GPU Technology Conference,"
+    publishedDateTime: 2022-04-21T10:43:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/54732-nvidia-turns-to-ai-for-design-process-improvements"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
     images:
-      - url: "https://cdn.trend.az/2022/04/23/artificial_intelligence_ai_230422.jpg"
-        width: 941
-        height: 647
+      - url: "https://www.fudzilla.com/media/k2/items/cache/05ffc05d3104a90a87bfa4f3347badda_L.jpg"
+        width: 620
+        height: 388
         isCached: true
 
 secured: "XOPqYozlZEVwIHq4XR7k9u1s2QWC4LEHlCb3FOzj5b6lVl9yg89A8OHxm+/EAHuHDHwrYN5ORzU2GmCBXdG3N7UW0jhYbDwgxyGLGzPvZ24efC0GjMN92OicsmgZxLLV+lanx9iikzeGb8gWrZMBwQFAUqz/xaQBX8Lay3qV0FExuNGCLNm6oUIDRRThJDas+pJk9CwR2W+HpESC6S+Keek7rv0mV4VLypBJNJM9VBsjfG0e2+q1kBh5gpSmegr9dHTyU44AuHEV+2HGJtS7XAD5FATnLAy3NsbWpWeOVqpbXeI09VmC4DcArJzkr6zIwcXDYOsY9l1quZaKvfFtcfC5Ou4ZzMhDrhwkzNr5Tpk=;ujkLjOU0s0uBv6ZxDk0dig=="

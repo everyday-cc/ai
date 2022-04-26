@@ -24,6 +24,38 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon taps former Lyft executive to be artificial intelligence chief"
+    excerpt: "The Department of Defense has tapped Craig Martell, formerly the head of machine learning for Lyft, to be the chief digital and artificial intelligence officer."
+    publishedDateTime: 2022-04-26T01:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/pentagon-taps-former-lyft-executive-craig-martell-to-be-artificial-intelligence-chief"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/pentagon-taps-former-lyft-executive-craig-martell-to-be-artificial-intelligence-chief?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/defense-national-security/pentagon-taps-former-lyft-executive-craig-martell-to-be-artificial-intelligence-chief?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 57
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/f0c7c26/2147483647/strip/true/crop/2290x1296+0+13/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F5f%2F25%2F8fc0483b4d3b88ab8d38d47be91b%2Fpjimage-26.jpg"
+        width: 530
+        height: 300
+        isCached: true
+  - title: "Lyft exec Craig Martell tapped as Pentagon’s AI chief: Exclusive Interview"
+    excerpt: "\"I'm convinced we're going to be able to do some great things,\" Craig Martel told Breaking Defense in an exclusive interview. \"But they're going to be hard things. It's going to be a challenge.\""
+    publishedDateTime: 2022-04-25T17:59:00Z
+    webUrl: "https://breakingdefense.com/2022/04/exclusive-lyft-exec-craig-martell-tapped-as-pentagons-ai-chief/"
+    ampWebUrl: "https://breakingdefense.com/2022/04/exclusive-lyft-exec-craig-martell-tapped-as-pentagons-ai-chief/amp/"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/04/exclusive-lyft-exec-craig-martell-tapped-as-pentagons-ai-chief/amp/"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 55
+    images:
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2022/04/lyft-scaled.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
   - title: "Lyft’s Craig Martell Named DoD Chief Digital and Artificial Intelligence Officer"
     excerpt: "The establishment of the CDAO is an important step forward in the department's effort to become more innovative."
     publishedDateTime: 2022-04-25T22:25:00Z
@@ -65,6 +97,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/cd/2022/04/25/042522pentagonNG/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Pentagon Taps Former Lyft Executive for New Data and AI Post"
+    excerpt: "The head of machine learning for the ride-sharing service Lyft Inc. is joining the Pentagon to head up its new data and artificial intelligence office. Craig Martell, a former professor of computer science at the Naval Postgraduate School who has also worked for Dropbox and LinkedIn,"
+    publishedDateTime: 2022-04-25T17:46:00Z
+    webUrl: "https://www.bloombergquint.com/business/pentagon-taps-former-lyft-executive-for-new-data-and-ai-post"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "fRxxyOasoA1rDeHaS/Vx4iD4/uCQWDfqHFPBg90/DI1Gx/HFhRaKGhZI/05XK0R9ex0sKkwfLfN8lFAJyQHMf56ns8kSKoTBaR76Sahw7w5jWRsvB+eQi+QtBAbZUYcEg8tt7LC+9h9ndI6DRJuJZP0B9OfzdtqkT5QWS3x0D2QWRHZN9p1TLdYoLIFi5KfaG/DGL/FnIRShNgEq396YnF7h3/QdHU6MzsNectey889FPkUf0bum6GZHMQ8t5/PEk535CepTzm5awx52u2sqmuPAkNzZK7iRolrl55fcQPivG8Wgmf0WWftUCRgETSTEEodDFg0kUz1bFqV6Ydin0Ew1VT02tSxDJ4GbI7PtQiM=;rUdYTIBFCrd5KMEtbERWsw=="

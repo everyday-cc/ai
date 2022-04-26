@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robotaxi firm Pony.ai granted first taxi licence in China"
+    excerpt: "Pony.ai has announced it has been granted a taxi licence in China, a first for an autonomous driving company in the Middle Kingdom. The permit will allow Pony.ai to operate 100 autonomous vehicles as traditional taxis in Nansha,"
+    publishedDateTime: 2022-04-26T01:23:00Z
+    webUrl: "https://www.zdnet.com/article/robotaxi-firm-pony-ai-granted-first-taxi-licence-in-china/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/robotaxi-firm-pony-ai-granted-first-taxi-licence-in-china/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robotaxi-firm-pony-ai-granted-first-taxi-licence-in-china/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4fd6f50fac610d3c30415ed5a61b236969770239/2022/04/25/eee3bfaa-c52f-4a5c-a3df-6239564d74ed/pony-ai.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pony.ai becomes first autonomous driving company to receive a taxi license in China"
     excerpt: "Autonomous driving developer Pony.ai announced it has received a license to operate taxis in China, the first company to achieve the permit."
     publishedDateTime: 2022-04-25T16:39:00Z
@@ -69,6 +85,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/BotRideReal.jpg"
         width: 975
         height: 650
+        isCached: true
+  - title: "Pony.ai to start charging money for its robotaxi services in Guangzhou"
+    excerpt: "Pony.ai said on Sunday that it has received permission to charge a fee for offering autonomous ride-hailing services to the public in parts of the southern city of Guangzhou. Starting May, a total of 100 of the firm’s self-driving vehicles will be allowed to operate commercially on public roads in Guangzhou’s Nansha district between 8:30 a."
+    publishedDateTime: 2022-04-24T08:53:00Z
+    webUrl: "https://technode.com/2022/04/24/pony-ai-to-start-charging-money-for-its-robotaxi-services-in-guangzhou/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
   - title: "Robotaxi startup Pony.ai gains taxi licence in China city"
     excerpt: "BEIJING: Self-driving tech company Pony.ai, backed by Toyota Motor Corp, said on Sunday (Apr 24) it has obtained a taxi licence in China, which will allow some of its driverless vehicles to start charging fares. The company said it was the first autonomous ..."
@@ -144,15 +174,6 @@ related:
       name: United News of India
       domain: uniindia.com
     quality: 9
-  - title: "Company OK'd for self-driving taxis in Guangzhou"
-    excerpt: "Pony.ai, a leading Chinese autonomous driving technology company, has won a bid for a self-driving taxi project in the Nansha district of Guangzhou, Guangdong province, government sources said. After getting a permit to operate 100 driverless vehicles in Nansha,"
-    publishedDateTime: 2022-04-25T18:03:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202204/25/WS62668808a310fd2b29e59376.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 4
 
 secured: "sBvUzG+o75STjR1dhpiR2qax2TD/AMJdZsThprZl74ziIQ6LLpnft6+jHNT2m0Shsz7syBxt1Q9/ArPTdIgMhUODc0RBYYE7jjDh5dKX0Pv35LctgLAlClXhoLQeD9XcUSFwxmLZx4v2LzNBOydQRO7rZF9sPvm54UjCtjf0e96aYXTecLOGD8wOR9rsC9L+JAu16UlPeyjKsMfCMtfu59XStBdvu2xN41qT5WWBQRPsvu2CjSwuWhWj0jT+wF2cp2PLw6PYb/4MnZNUwWBPKNA7RO6FPbq4USNrRAe8Vj3+gLhR59uqpkhaP4Mu6pqLwDd1rV6FJxbGDjBckn9aFWn6M6qmtaCs2vQvhZfGlv0=;/NYgR9A72oM2kzDM5YV0eA=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Orbbec Announces Persee+ 3D Camera With Built-In Neural Network Processing"
-excerpt: "World’s First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning. TRO"
-publishedDateTime: 2022-04-25T13:14:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-40ccfbb4ae2b6864e7b327d36ba0ed72"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-40ccfbb4ae2b6864e7b327d36ba0ed72"
+excerpt: "World's First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning. TROY,"
+publishedDateTime: 2022-04-25T13:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588595.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588595.htm"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1802685/Orbbec_Logo_Logo.jpg"
+    width: 400
+    height: 218
+    isCached: true
 
 related:
   - title: "Orbbec upgrades 3D camera with built-in AI for advanced applications, facial recognition"
@@ -34,6 +40,6 @@ related:
         height: 887
         isCached: true
 
-secured: "PGh+dVbLUv3dg7Kv58Z6SxfbV1GEFpkOR4dZfCtZKon7G+yFAnMPw2SpI9cbu9Z68DEeKqvN1RNWm4tUwuw9FHVk/vDhkfw0927e+a0YdLDHtHBBGLbvpU0iMo7rtHR2+nQIEDUz2E76UVwKufR4Afnetnj+FB0WtsJrwDwl/LGEyrJSlsIZ7CgMhDtSTzVHQA1j0tdwzh7OeYPGKpABpJC0kNaf7vBGSMaziNixk3D+M2CJP9ZS4VwsS4J31EYYsK4k1UPy+/6Ci+Cs5/yN1Zz7wCwNMUNmyllORC1XevjFRt/8D59HL1J5lVirVvyfIpK8QJztmuQvwvoJ2QU9bLrdpAgREptDXkmnP/6R3FQ=;cmFKYnINHCfH19jkF/o7Kg=="
+secured: "SDrQYMPpiJ2DflG1lej6KkyNTlAZxlTK9wld/pF/+MX8sSfr4ONzIo+O3IaXEJ203jcM6bJJqADFiT4M6oti0dz8k3s2FBVwajeWP3URyZPIfTUkzvBeR34Fxu1u+nHuVaaP5QhwfK6ml0Cz48mvnsYLKFLLog2fFfZ7f9xasRqJZMaIHgUth0M9SU8u3VgeeQl5ioWuN1d+McdZvF5yYxfzrMdPpom4Mg4YSBDvB+kEDbQ5GazUySvYNViPvlbvZJiHs+vCo6sZ70p514kMjfR+VrvpkfxvwGLehh0fja6npD9zo0jajAOy/iRzzRM0Z0bUg7IlUDSK7oFOPJbuvKuc64bHWA43G5ifFdHJzv0=;jhyEnOdnOEK/egG/DTqluA=="
 ---
 

@@ -2,24 +2,28 @@
 category: news
 title: "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment"
 excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
-publishedDateTime: 2022-04-22T14:40:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/04/220422094310.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/04/220422094310.htm"
+publishedDateTime: 2022-04-22T09:18:00Z
+originalUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html"
+webUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp"
 type: article
-quality: 32
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-29.jpg"
+    width: 850
+    height: 478
+    isCached: true
 
 related:
   - title: "AI-based system improves bladder cancer treatment response assessment"
@@ -66,6 +70,6 @@ related:
       domain: medindia.net
     quality: 35
 
-secured: "zAMFBIA025aQXhZzyU/dlpKNVZz7nmRrR4TgZhDUFHk09iDRAhHv4mt4JFNwPnrY4vcr1cZLwGSKiuz0goONCBPn6MYvLOg8u5LG7p6/DIIy0Al8pZV/r5yE33ocymwrVcpZ3wQkYt6CSp1K96Q0mssPQSteNc/0Cq1MO+86BR1LkW1JBdgakSE9oARo5PYUqfta/fo7NHW+/0y8LQvWKkE/lHpGHUMxy2dI/U7RAcD5CuR4BZN1On+aCAOB1Pge6Q9VZS3HeblAPxDhoXIK2iU9xvjRE90f7HcUYO3D/aMiNWVGVuEVNcVzmVL7Bx9JJKuxJzNc4Uh4RaPAxsXiGoPOiYsXLeX6SxRN9Tlp1k8=;iBx+kMwd5jV1Y9JfpzbAxg=="
+secured: "9lWopJOkUFRqhC0s8iq7h6EFflp7zajALgaOH4lcM8cVq9VijOc9TJ3e428O7wWFw50cBTn8wWZ0TJQx2+XetgPrLirwZinx/6QKEv5bAnfuySise4alXnyj2r9C+ELuD7quHvOr3Sql/eaaAr0NXk4yLTjJoIoQm5UvH94L7erwD/O8VF6nK+Wx1TN4VZ8KhSenE/bLRASasmo9XVdIchPnNrb9ude3Kv1/Eggm0Jhjp9JF/cyV9jqsguLs2WlBr7UmGc9oxmxoLjz3+eHgcAfgti0W1tbOKQo2IffznFTtgT4U2oidVYJAFULAZeso7dkvV/srUCGOdI083axXr66oY0gSNIxHrPv+x7SMBaI=;qrMXuFMzqSV1MdijOdnn9A=="
 ---
 

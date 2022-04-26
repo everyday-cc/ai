@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-cod
 cdnAmpWebUrl: "https://www-coventrytelegraph-net.cdn.ampproject.org/c/s/www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK government says motorists will be allowed to watch TV in self-driving vehicles"
-    excerpt: "The UK government has confirmed planned revisions to the Highway Code to accommodate self-driving vehicles, including allowing drivers to watch TV while an AI takes the wheel. In a moment history may judge as legislative hubris,"
-    publishedDateTime: 2022-04-21T08:30:00Z
-    webUrl: "https://www.theregister.com/2022/04/21/uk_self_driving_highway_code/?td=amp-keepreading-top"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 39
-    images:
-      - url: "https://regmedia.co.uk/2020/10/28/autonomous_car.jpg"
-        width: 1000
-        height: 585
-        isCached: true
   - title: "Highway Code's bizarre rules for self-driving cars - can I watch TV behind the wheel?"
     excerpt: "New Highway Code rules proposed by the government's Department for Transport are likely to be in place later this year. They include allowing people to watch TV in self-driving cars"
     publishedDateTime: 2022-04-23T06:00:00Z

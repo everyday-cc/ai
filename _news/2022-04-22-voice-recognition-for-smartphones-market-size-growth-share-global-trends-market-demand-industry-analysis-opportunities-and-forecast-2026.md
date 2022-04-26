@@ -29,33 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market 2022 Global Industry Analysis by Trends, Size, Share and Revenue status by 2022"
-    excerpt: "Apr 21, 2022 (The Expresswire) -- “artificial intelligence (AI) chips market and it is poised to grow by USD 73.49 billion during 2021-2025, progressing at"
-    publishedDateTime: 2022-04-21T08:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21"
+  - title: "Deep Learning in Manufacturing Market 2022, Overview, Size, Share, Demand, Segment, Applications, sales Market, Forecast 2028"
+    excerpt: "Apr 21, 2022 (The Expresswire) -- Global“Deep Learning in Manufacturing”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various ..."
+    publishedDateTime: 2022-04-21T15:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Ai Platform Service Market Size, Share, Growth and Trends, Forecast to 2030"
-    excerpt: "Key Companies Covered in the Ai Platform Service Market Research are  Microsoft (US), Google (US), Salesforce (US), IBM (US), Intel (US),"
-    publishedDateTime: 2022-04-23T10:59:00Z
-    webUrl: "https://menafn.com/1104079272/Ai-Platform-Service-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
+  - title: "Training Manikins Market Forecast Report 2021-2028 - Opportunities in the Application of Robotics, Artificial Intelligence, Augmented Reality, and 3D"
+    excerpt: "The \"Training Manikins Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Type, and Application\" report has been added to ResearchAndMarkets.com's offering. The Training Manikins market is projected to reach US$ 1,"
+    publishedDateTime: 2022-04-21T20:22:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=651287"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 45
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
-        width: 268
-        height: 250
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "AI Chipset Market 2022 Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2028"
     excerpt: "AI Chipset Market” report delivers a complete overview of the industry with both qualitative and quantitative data."
@@ -66,19 +66,33 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-  - title: "Cloud BackupMarket Size 2022 Trend and Opportunities, Market Share,Analysis, CAGR and Value Chain Study, Business Growth to 2025"
-    excerpt: "Cloud Backup Market“ study has 185 pages, 90 tables and figures.Worldwide markets are poised to achieve continuing growth as Cloud"
-    publishedDateTime: 2022-04-25T07:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cloud-backupmarket-size-2022-trend-and-opportunities-market-shareanalysis-cagr-and-value-chain-study-business-growth-to-2025"
+  - title: "AI in Manufacturing Market Expected to Grow at a CAGR of ~25% throughout 2022 2030"
+    excerpt: "Research Nester published a report titled “ AI in Manufacturing Market : Global Demand Analysis & Opportunity Outlook 2030 ” which delivers detailed overview of theglobalAI in manufacturing market in terms of market segmentation by component,"
+    publishedDateTime: 2022-04-21T11:11:00Z
+    webUrl: "https://menafn.com/1104065505/AI-in-Manufacturing-Market-Expected-to-Grow-at-a-CAGR-of-25-throughout-2022-2030"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/be6b8aa06bcc409b6f0bbe2f497c25f1fb377222-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?540820"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Global Behavioral Rehabilitation Market Forecast to 2028 - Advent of Online Counselling & Artificial Intelligence in Therapeutic Settings Gaining Mome"
+    excerpt: "The \"Behavioral Rehabilitation Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Treatment, Application, Healthcare Setting\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-04-21T20:59:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=651300"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "uapMO9Z4JxOvw+1N7wD6kFGGoR9bfPiqbPEG2fwcOeHfd0mSiVmEdy2+tEifAJOD+oeNCZSbMmX5XI3nhwR8FnaFR7wQYeC5DqsOZqbLyYfOQ0+bozztHhwdJdsao2e+YeFzRLMeRl0Ula15FgInhLVBIhLG+CSzT1CF+cMhjATC4r1CIFPEuJIgPHIWmmbrX+7GrcClq/WzZVNqfyjVK0sMwmArOglf7fC0HWpoP3os5Vx6E5OKlay9PXqUqYSI4SLqJgAjIOMyzElERgk3ftL92L6AOmT0wwRDg0WkTzaB5oyosFgHb5DJFJBMwg/mRXP5zvChGPFCL8Ggv/rYGM8Hm1IVPg/5PYT/Z/mt2lg=;+KtC1tNhWoP0G3kYtIijGg=="
