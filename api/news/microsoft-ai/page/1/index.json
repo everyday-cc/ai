@@ -194,7 +194,7 @@
       "originalUrl": "https://www.zdnet.com/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -880,6 +880,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-13-cognitive-computing-market-projected-to-775-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
+      "title": "Cognitive Computing Market projected to $77.5 billion by 2025 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The report includes the study of the key players offering cognitive computing solutions and services. The major vendors Microsoft (US), Google (US), IBM (US), Numenta (US), SAS Institute (US), AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104000062/Cognitive-Computing-Market-projected-to-775-billion-by-2025-Exclusive-Report-by-MarketsandMarkets™",
+      "originalUrl": "https://menafn.com/1104000062/Cognitive-Computing-Market-projected-to-775-billion-by-2025-Exclusive-Report-by-MarketsandMarkets™",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-04/12/EP_2d3d0image_story.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-eckohs-new-cloud-security-offering-in-microsoft-azure-attracts-a-fortune-100-retailer.md",
       "title": "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer",
       "excerpt": "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients.",
@@ -1300,58 +1343,6 @@
         "name": "Advanced Television",
         "domain": "advanced-television.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-how-ai-could-help-enterprises-to-reduce-data-storage-costs.md",
-      "title": "How AI could help enterprises to reduce data storage costs",
-      "excerpt": "AI is emerging as a tool to help enterprises reduce their data storage needs, whether in the cloud or a private data center.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
-      "originalUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
-      "publishedDateTime": "2022-04-07T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

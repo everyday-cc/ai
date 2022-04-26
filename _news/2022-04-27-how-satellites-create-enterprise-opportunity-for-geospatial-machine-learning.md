@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T19:01:00Z
 originalUrl: "https://venturebeat.com/2022/04/26/how-satellites-create-enterprise-opportunity-for-geospatial-machine-learning/"
 webUrl: "https://venturebeat.com/2022/04/26/how-satellites-create-enterprise-opportunity-for-geospatial-machine-learning/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat
@@ -18,6 +21,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content"
+    excerpt: "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rendered.ai ..."
+    publishedDateTime: 2022-04-25T18:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "Ahy2oPzphrYW/9u6rSsie4dXhHkoL87wJ9mqNaK8Q1i3CLQ1+0Nx3uVlfsfFDEoPXsdEaYQk2XzHopznb38qAloqOfsA+OzpGs3tSCsyZprWFM2N6EVIGe2xTRqU+guh+GNRPQGSeqeTpszTYJA2tPqMxQeyxo9cEa0dX4Z2+CsUer9cPT3/TVdS8BI+r+iqylrMggoXAOyewfY+jKtIMguI8r41WZTtZ5frtRxXWeu//Ip+VDztJCa1Fc65mM9wV99O5kkyPaYtWMyVyZ/Uiwf5JPnNqjWzJDjpwKyooXUll4xU29H62mK94MZFBXRU4ZQ2DT/C84Mtaf9nVPRpJU4K4UQAw7pcj6QJOMZ3uFRlnON21sd5v/oqNb66UsTxPAgOlNxFzMXj0FHuhQgbywWzG0c9RDyaAl0MTZOMTgaYVdquIeZ/1feZaDkQbx+7Byn8wyRDu7z5tVVXezecvzwVMpcnFO3fYAtofF3l8qJa1+itszNPe9exs3FeEmlg6gQYq70rdkDPERzTdBAyMw==;ZKFXRMP9Unu7fUt/pmnIVA=="
 ---

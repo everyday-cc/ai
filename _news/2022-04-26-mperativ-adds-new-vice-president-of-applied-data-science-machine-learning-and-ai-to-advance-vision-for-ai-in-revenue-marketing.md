@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mperativ Adds New Vice President of Applied Data Science, Machine Learning and AI to Advance Vision for AI in Revenue Marketing"
+    excerpt: "Mperativ, the Revenue Marketing Platform that aligns marketing with sales, customer success, and finance on the cause and effect relationships between marketing activities and revenue outcomes, today announced the appointment of Nohyun Myung as Vice President of Applied Data Science,"
+    publishedDateTime: 2022-04-26T17:16:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-1e7dccca11e1478eb551fc53c848d017"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "IC design houses keen on incorporating AI into edge computing solutions"
     excerpt: "With edge computing gaining importance in the proliferating of 5G and AIoT applications, IC design houses in Taiwan are incorporating AI algorithms into chip solutions for all edge computing devices to boost their product performance and keep up with the market trend,"
     publishedDateTime: 2022-04-26T07:09:00Z

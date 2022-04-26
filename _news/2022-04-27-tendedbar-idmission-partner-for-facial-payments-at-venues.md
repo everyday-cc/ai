@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T19:23:00Z
 originalUrl: "https://www.sporttechie.com/tendedbar-idmission-partner-facial-payments-venues"
 webUrl: "https://www.sporttechie.com/tendedbar-idmission-partner-facial-payments-venues"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: SportTechie

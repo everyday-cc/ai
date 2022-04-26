@@ -26,6 +26,24 @@ images:
     height: 581
     isCached: true
 
+related:
+  - title: "Kin + Carta attracts top Google talent to head up product team"
+    excerpt: "Global digital transformation consultancy Kin + Carta has appointed former Google heavyweight Andrew Clark as director of product."
+    publishedDateTime: 2022-04-26T21:23:00Z
+    webUrl: "https://www.research-live.com/article/news/kin_+_carta_attracts_top_google_talent_to_head_up_product_team_/id/5098092"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5098092&name=kin--carta-attracts-top-google-talent-to-head-up-product-team-"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5098092&name=kin--carta-attracts-top-google-talent-to-head-up-product-team-"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 44
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
+
 secured: "dDVSaDE/20av2nDqLm4vTC0ZGDdskyYxEFBcd8vjFCbEC1SxxjYOLd/GKBvt/x913HysVH0Gbpe3wL6JSy2AFv9Gh9m/1xNwhf7GGxGJkfv0iFWVx9sWrrvJ4P6pAJK13RSpaTJ9WhPh5hcop2VIM4mmeaxBbbUWaVy4ctaCyWY5sxqKJ+L7XtrD5bb9KIKdN75YK1O0yhKMAFA/LfSFRzg+JKBGkysK9D+AUCi2mvc6swlTFzIV4lDFmk65Gr3RXfRtMAYV4g2xRjEB4SFjY3C1XcGuEBKDo7/6jEBL5D/FQPtdzxZx/tKLBVYsyymKg6URVnAMD83RUsEwRTaG3Vz3SDqXNesvpltKR+ukqow=;6OiPiMSwoWTEOwm/RAQL2A=="
 ---
 

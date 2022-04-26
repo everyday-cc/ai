@@ -34,6 +34,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Credo AI Announces World’s First Responsible AI Platform"
+    excerpt: "Credo AI has announced the availability of its Responsible AI platform, which is the first of its kind. The SaaS-product helps organizations leverage tools to standardize and scale their approach to Responsible AI."
+    publishedDateTime: 2022-04-26T18:31:00Z
+    webUrl: "https://www.unite.ai/credo-ai-announces-worlds-first-responsible-ai-platform/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 17
 
 secured: "snOYc56FhLR4qKN2fqcJyQwzUPzIHUGr1s60jItDCB96dU+aFRtlQskLvGWueLSGXlmCP2Ly/Inwdvjs9ez5GQCezUPFWiFdkAXBblV87K5eA0u3TRuzIEQE0YsCqQ7kNT0ld2msn2sscCxTuvj86iNlf7xue1JqcsoOoFdqA5odZjrBwG6CohYklnY+VnuQcdelXnzGi4/T6P/tijVNWzD3UB2zI4Cy5Ryo8kli7eF+sZOJyYJAPYt6cERKcNvqWOwUEdRN7l6OjZ2u0l0qRBjKngFuazOMEiAHsBNTSzBRoUzQjHqFDwopHGlLIeeaSf/GQyrTU/eHdQvS5OQe7/W3tggACBpmwBw2C1dFs2Clz5N3si+vvIGwSN4iFXU6mKGHbXRaAlYmjUyjhnx0xMe256gvyYMwRfFBMDQbSaqgtWTeUJTUzQGW0qwo/JI0E8L3/ZQlh5JcWoAvn9Vgp72v1609kLbtyZ4Sv3wLfxK+1MGSGoqmQjtD7C3R3QW+mCfEAKjlq6Og1bmL6tDrpQ==;Sy0Rg5XnbjW8gZSHuD13Lg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T16:09:00Z
 originalUrl: "https://www.pharmiweb.com/article/what-can-robotics-provide-to-give-better-aide-to-hospitals"
 webUrl: "https://www.pharmiweb.com/article/what-can-robotics-provide-to-give-better-aide-to-hospitals"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: PharmiWeb

@@ -40,6 +40,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
+    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
+    publishedDateTime: 2022-04-26T21:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=652614"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 33
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "TD chief AI officer, CDL-Toronto lead team up with health expert for new healthtech startup, Signal 1"
     excerpt: "Three Canadian technology leaders are coming together to launch a healthtech startup with $12.7 million CAD ($10 million USD) in all-equity seed funding. Signal 1, which was co-founded by TD chief AI officer Tomi Poutanen, raised the Inovia Capital-led ..."
     publishedDateTime: 2022-04-25T17:41:00Z

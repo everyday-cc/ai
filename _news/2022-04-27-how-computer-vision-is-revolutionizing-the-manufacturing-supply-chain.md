@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T18:12:00Z
 originalUrl: "https://www.cio.com/article/309291/how-computer-vision-is-revolutionizing-the-manufacturing-supply-chain.html"
 webUrl: "https://www.cio.com/article/309291/how-computer-vision-is-revolutionizing-the-manufacturing-supply-chain.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: CIO

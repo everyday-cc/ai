@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alkaline Fuel Completes Acquisition of AI Renewable’s CHP Business"
-    excerpt: "Alkaline Fuel Cell Power Corp. (NEO: PWWR) (Frankfurt: 77R, WKN: A3CTYF) (“AFCP” or the “Company”), a company engaged in the development and production of alkaline fuel cell heat and power systems for residential,"
-    publishedDateTime: 2022-04-22T04:07:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-europe-frankfurt-7dbcd43a309886f327e2dfb6def764f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "REPEAT – Alkaline Fuel Completes Acquisition of AI Renewable's CHP Business"
     excerpt: "AI uses a clean and renewable single fuel source energy technology that generates both electricity and heat. The stable and efficient energy production results in cost savings to the customer and a reduction in greenhouse gas emissions. Upon closing of the ..."
     publishedDateTime: 2022-04-22T11:16:00Z

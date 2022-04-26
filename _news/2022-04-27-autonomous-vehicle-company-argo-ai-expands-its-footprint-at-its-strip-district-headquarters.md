@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T18:49:00Z
 originalUrl: "https://www.bizjournals.com/pittsburgh/news/2022/04/26/argo-ai-expands-pittsburgh-hq-footprint.html"
 webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/04/26/argo-ai-expands-pittsburgh-hq-footprint.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: The Business Journals

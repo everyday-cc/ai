@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/finance/mastercard-launches-masterc
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Kraft Heinz to work with Microsoft on digital twins and supply chain efficiencies"
-    excerpt: "Food manufacturing firm Kraft Heinz Co. said today it is partnering with Microsoft Corp. with an eye to improving its supply chain visibility and day-to-day operations. Under the alliance, Kraft Heinz will adopt various cloud,"
-    publishedDateTime: 2022-04-22T02:10:00Z
-    webUrl: "https://siliconangle.com/2022/04/21/kraft-heinz-work-microsoft-digital-twins-supply-chain-efficiencies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/48876996006_853180752b_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "CollabCare and Hucu.ai Partner to Improve Communication for Older Adults and Families"
     excerpt: "With both increasing maturity and adoption across generations, the ability for these technologies to address the challenges faced by older adults and aging populations continues to be an area of interest."
     publishedDateTime: 2022-04-25T21:35:00Z

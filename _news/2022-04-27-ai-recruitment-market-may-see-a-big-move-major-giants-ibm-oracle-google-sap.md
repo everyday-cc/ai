@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T18:24:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-recruitment-market-may-see-a-big-move-major-giants-ibm-oracle-google-sap"
 webUrl: "https://www.digitaljournal.com/pr/ai-recruitment-market-may-see-a-big-move-major-giants-ibm-oracle-google-sap"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Digital Journal

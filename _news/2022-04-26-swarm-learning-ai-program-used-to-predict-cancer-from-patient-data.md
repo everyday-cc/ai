@@ -75,6 +75,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "AI may detect earliest signs of pancreatic cancer"
+    excerpt: "An artificial intelligence (AI) tool can accurately predicted who would develop pancreatic cancer based on what their CT scan images looked like years prior to being diagnosed with the disease. The findings may help prevent death through early detection of one of the most challenging cancers to treat."
+    publishedDateTime: 2022-04-26T20:34:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220426153718.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "Jeq3wI6kWmi7WANrV/y2bV+SPVqT92HnTY3L2M5VM+KfFCgfdS0Qsm9S9e6r1j35SXrIcJu9x8O3pyFFE2yfN/UmINkt58xIn5ZbeREp3Ysx/TpVmIbfL/+lpYfBNE7KseO+MZOTmXWsApcBUctXasED+UBhfgOBYU3ugYs1VIF9yFY2/fO0FaFgghFMuwTgVtWlTAOxwzUkELXeanbIRZ2+EGMTjazg6zoksTod0SMQmYpTg5Ptq/1TJUM61G/+To47Pi1xBZ2cshFhx8vzcrhNUOIUzzz/8/kiB/kVy+6PvVVHf+FBbPaTkz9Q+mYSfV1vDR6zV3tGjQwdtbFc1cFE5M2TUea8QpIk3ohwg5z5D0F6IbqlIsQfAcs5qYD1Nm54qKLPZDJSo3YkEvbux/U9dLvhlMopC8QU/+jHfIESwlz4J97S8FdYETvPfHeSQ4WUEROFM+Fs/dS50ALrvEMySaR81yPw+fAY0ihnBNbOdUWQ6cNxzuew0ITq62I62Gu43PB2TWBc7qKNhg8hpQ==;VfsRkt3E97ypz1CUpIsBDQ=="
 ---

@@ -25,6 +25,17 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Retail Market to See Booming Growth : Google, Oracle, Apple"
+    excerpt: "This press release was orginally distributed by SBWireNew Jersey, USA -- (SBWIRE) -- 04/26/2022 -- The latest study released on the Global Artificial"
+    publishedDateTime: 2022-04-26T18:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-retail-market-to-see-booming-growth-google-oracle-apple"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+
 secured: "uBSt+9Gxztozawd7T0P4wmU9Gt5R9z8iYKYy2JopMyqWoe/Pv1IZAZUCqmixEENnpicFPAVVZqCk9UWzsvZ/rRvz417Wa02F5QB5DGW11fg+pMvysmxsTO38uwXnCw4Ib/cn7wR2BD3ou1beBm9F7uqARMV5tFMohdBr34d56/UILZX+jkFx0jOiHwVEQIWAkBsS7Re+YSoG4vT/Fg2nYNEldajf18JGQWUfjH+RekKgC8wlBgkdIRwfJtdFK57Ih2Rk4TJ4X37WOdaZZ5CKJYlpQ3SCEYYxoPMZPyshWRN+1uBSwyMNLWqHfVYlHN2V2Yt0HFsRZQ/CkNqrE1Buwogu87AsGMhojcrh0gJKOVw=;s+Bqon13gM5c9MXPqTtzcQ=="
 ---
 

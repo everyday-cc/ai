@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/customer-experience/observeai-raises-125m-
 webUrl: "https://www.cmswire.com/customer-experience/observeai-raises-125m-for-ai-assisted-contact-center-product-development/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Loris announces $12m Series A to transform AI for customer service"
+    excerpt: "Bow Capital and ServiceNow Ventures invest in Loris to bring no-code AI solutions that assist human agents and conversational insights tools to the mass market. NEW YORK, April 26, 2022 /PRNewswire/ -- Loris,"
+    publishedDateTime: 2022-04-26T16:30:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-3a5c73574e59c8e3c4d86d8c0bac2508"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Z3C47/OC1abhrmotPPy6/phJWlGaeHtAEa2KH6jk+6zw6E8xLwoXhuffZS4jX1p83qNUj1/fe2bTr+GvMU2EX+xaSBdHdtW/WZYnxcM/lp2U20Q2lxg8DxWpKskXZhG64PtRpOe6nVeS1PBcdi32B8nu5UHn46DMNHw1rOj2MuuaW9hMZAQ2ykGX51s/s4HA5DCl68eOnQdX6+BYeFyD//t7Dn7Ga4a1CkUr5f52Quc+/LHPFyH3YhdllCP84mRKbooSxfeY2pNV2H1w4Lq54bk2Uq49nEC3sip6i190m5Qk/oCdV3qqeTx194frcZZHzH+JEvw8NdnT8w444n6HNYOzXCFx4ytdivUmBX2gGPemATNeHbp+7tVS1+nXRZvLOVg1dvHWqbOPcxiyz673KlaUdhQ5+ze0o7Wau7RXtyJEPXygzyJbzb4B17flt7Vk10++qP7gDzU7jRx6KXkiWLl4edwDDRpqCDjkF089fhV0mDNzmgR0sckph/uygaE7QyPxnUnSSmrjFGuudzzZhQ==;4+ruJQpqSHvAG/IEfyOLBg=="
 ---

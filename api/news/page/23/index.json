@@ -2,6 +2,369 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-04-04-as-russia-plots-its-next-move-an-ai-listens-to-the-chatter.md",
+      "title": "As Russia Plots Its Next Move, an AI Listens to the Chatter",
+      "excerpt": "With vast amounts of data becoming available to intelligence analysts, new tools will help them sift and interpret it all—but they will introduce new risks, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/",
+      "originalUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62478eb5eced5c4c5a96ba55/master/pass/Russian-Radio-Interference-AI-Ukraine-Business-1239672875.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-war-ai-surveillance/amp",
+      "publishedDateTime": "2022-04-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations.md",
+      "title": "Here's How AI Optimizes Executive-Level Decision-Making In Mega-Corporations",
+      "excerpt": "Artificial intelligence's application is altering business and at the same time, it is evolving as significant gains in computing capability allow for more complicated programs than ever before. Enterprise AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6239aa5f2d68c629702662a8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
+      "publishedDateTime": "2022-04-04T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-best-robot-mops-in-2022.md",
+      "title": "Best robot mops in 2022",
+      "excerpt": "Instead of an app, the W400 is controlled via remote control ... However, it’s worth bearing in mind that the majority of robot mops will only work with water, with the exception of iRobot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/best-picks/best-robot-mops",
+      "originalUrl": "https://www.tomsguide.com/best-picks/best-robot-mops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/noMRtpNidEfZTENqsVYkdC-1200-80.jpg",
+          "width": 998,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-the-intel-arc-gpu-lineup-may-be-a-serious-competitor.md",
+      "title": "The Intel Arc GPU Lineup May Be A Serious Competitor",
+      "excerpt": "The Intel Arc GPU series is coming out soon to laptops and desktops. What do they have to offer compared to the current competition?",
+      "sourceUrl": null,
+      "webUrl": "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/",
+      "originalUrl": "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://unbox.ph/wp-content/uploads/2022/04/arc-gpu.jpeg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/",
+      "cdnAmpWebUrl": "https://unbox-ph.cdn.ampproject.org/c/s/unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/",
+      "publishedDateTime": "2022-04-04T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Unbox",
+        "domain": "unbox.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-australian-football-uses-machine-learning-to-block-abusive-social-media-posts.md",
+      "title": "Australian Football Uses Machine Learning To Block Abusive Social Media Posts",
+      "excerpt": "Australia's A-Leagues and players’ union Professional Footballers Australia (PFA) are taking their own steps against online abuse by filtering player's social media proactively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ac2971a063eb15f547a08/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/amp/",
+      "publishedDateTime": "2022-04-04T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-career-roadmap-machine-learning-engineer.md",
+      "title": "Career roadmap: Machine learning engineer",
+      "excerpt": "As organizations worldwide adopt machine learning across virtually every industry, the demand for machine learning engineers is on the rise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
+      "originalUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/03/nkridler-career-roadmaps-100923109-medium.jpg?auto=webp&quality=85,70",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html",
+      "publishedDateTime": "2022-04-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-focus-logistics-giants-hedge-their-bets-in-uncertain-us-self-driving-truck-race.md",
+      "title": "FOCUS-Logistics giants hedge their bets in uncertain U.S. self-driving truck race",
+      "excerpt": "U.S. self-driving truck companies have a golden opportunity in the form of a nationwide driver shortage, but their robot drivers still are not ready and neither are their biggest potential customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race",
+      "originalUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race?amp",
+      "publishedDateTime": "2022-04-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-cardiac-resynchronization-therapy-market-is-growing-at-a-cagr-of-79-during-2022-2032.md",
+      "title": "Cardiac Resynchronization Therapy Market Is Growing At A CAGR Of 7.9% During 2022-2032",
+      "excerpt": "Various regulations imposed by the governments on the consumption of Cardiac Resynchronization Therapy in detail. Impact of modern technologies, such as big data & analytics, artificial intelligence, and social media platforms on the global Cardiac ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2022-04-04/cardiac-resynchronization-therapy-market-is-growing-at-a-cagr-of-79-during-2022-2032",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2022-04-04/cardiac-resynchronization-therapy-market-is-growing-at-a-cagr-of-79-during-2022-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-others.md",
       "title": "Insights on the Entertainment Robot Global Market to 2026 - Featuring Lego, Sony and Hasbro Among Others",
       "excerpt": "The \"Entertainment Robot Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The entertainment robot market is",
@@ -780,378 +1143,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy.md",
-      "title": "Xinhua Headlines: Gen Z's love of Guochao bodes well for Chinese economy",
-      "excerpt": "Wang Junwen thought he could easily snap up a fuzzy Winter Olympics mascot toy at a recent online pre-sale but all the products were",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272446689/xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272446689/xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-02T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-researchers-scold-amazon-for-selling-flawed-face-recognition-tech-to-the-police.md",
-      "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
-      "excerpt": "Amazon has come under fire before for Rekognition, the facial recognition technology that the company has allowed police to use and which has led to concerns the company is essentially supporting ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/amazon-facial-recognition-open-letter/",
-      "originalUrl": "https://bgr.com/tech/amazon-facial-recognition-open-letter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2019/04/face-recognition.jpg?quality=82&strip=all",
-          "width": 1600,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/tech/amazon-facial-recognition-open-letter/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/amazon-facial-recognition-open-letter/amp/",
-      "publishedDateTime": "2022-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-amazons-deepracer-league-drives-chicago-students-into-world-of-ai-machine-learning.md",
-      "title": "Amazon's DeepRacer League drives Chicago students into world of AI, machine learning",
-      "excerpt": "Students on Chicago's South Side got a deep dive into the world of artificial intelligence and machine learning on Saturday. \"We're using machines and learning to code a car then racing it,\" said student Trevaughn Scott.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "originalUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11703938_40222-maher-amazon-deepracer-students-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "publishedDateTime": "2022-04-02T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-azure-percept-a-machine-learning-quick-starter.md",
-      "title": "Azure Percept: A machine learning quick starter",
-      "excerpt": "Microsoft’s commitment to low-code and no-code application development goes a lot further than its Power Platform. The same connector and pipeline model powers its Azure Logic Apps platform and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.html",
-      "originalUrl": "https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.amp.html",
-      "publishedDateTime": "2022-04-02T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai.md",
-      "title": "Centaur rising: How a decades-old paradigm is changing the way that top institutions look at AI",
-      "excerpt": "The theory that advanced AI will eliminate the need for humans seems false. Enter the centaur: a mutualistic bond between users and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/",
-      "originalUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-758285645.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/amp/",
-      "publishedDateTime": "2022-04-02T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-lisk-machine-learning-lml-price-reaches-00235-on-top-exchanges.md",
-      "title": "Lisk Machine Learning (LML) Price Reaches $0.0235 on Top Exchanges",
-      "excerpt": "Lisk Machine Learning (LML) traded flat against the U.S. dollar during the twenty-four hour period ending at 13:00 PM Eastern on April 2nd. During the last seven days, Lisk Machine Learning has traded flat against the U.S. dollar. One Lisk Machine Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/",
-      "originalUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/",
-      "publishedDateTime": "2022-04-02T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-the-importance-of-data-audits-when-building-ai.md",
-      "title": "The importance of data audits when building AI",
-      "excerpt": "As Zillow recently found out the hard way, if you don't conduct proper data audits, you can run into costly data mismatch problems",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/",
-      "originalUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1152951178.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/amp/",
-      "publishedDateTime": "2022-04-02T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-elevating-human-machine-relationships-with-no-code-reusable-ai.md",
-      "title": "Elevating human-machine relationships with no-code, reusable AI",
-      "excerpt": "As shown in Figure 2, the bottom layer is a set of general-purpose machine learning models that any AI system relies on. For example, data-driven neural (deep) learning models, such as BERT and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/",
-      "originalUrl": "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/",
-      "publishedDateTime": "2022-04-02T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

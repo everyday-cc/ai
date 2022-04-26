@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T18:51:00Z
 originalUrl: "https://www.gamespot.com/articles/halo-infinite-wont-add-cortana-ai-for-multiplayer-or-playable-elites-anytime-soon/1100-6502822/"
 webUrl: "https://www.gamespot.com/articles/halo-infinite-wont-add-cortana-ai-for-multiplayer-or-playable-elites-anytime-soon/1100-6502822/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: GameSpot

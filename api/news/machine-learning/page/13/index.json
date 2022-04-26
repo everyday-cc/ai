@@ -2,6 +2,190 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-17-hands-on-machine-learning-with-aws-and-nvidia.md",
+      "title": "Hands-on Machine Learning with AWS and NVIDIA",
+      "excerpt": "In this course, you will gain hands-on experience on building, training, and deploying scalable machine learning models with Amazon SageMaker and Amazon EC2 instances powered by NVIDIA GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-16T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-flipping-the-lens-on-fear-loathing-of-aiml-in-asian-robotics-review.md",
+      "title": "Flipping The Lens On Fear & Loathing of AI/ML - In Asian Robotics Review",
+      "excerpt": "Asian Robotics Review published an article about my annual Highlights and Milestones in AI in Healthcare report. I'm sharing the article here with permission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
+      "originalUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEF4M4Cxd7VHA/article-cover_image-shrink_600_2000/0/1642107776452?e=1647475200&v=beta&t=PvX-aOxcIBd3ow0QxB7pKK1SgAWqiMeWN7sQ0se_RxA",
+          "width": 1162,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-deep-learning-has-deep-problems.md",
+      "title": "Deep learning has deep problems",
+      "excerpt": "Can’t multi-task Deep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
+      "originalUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/f97416722213d9fce2e04a73b9cf58df_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-the-neuropathic-pain-market-to-get-driven-by-machine-learning.md",
+      "title": "The Neuropathic Pain Market to get driven by Machine Learning",
+      "excerpt": "The Neuropathic Pain Market is ascertained to make greater strides in the future The present day and futuristic cutting edge technology namely IoT AI and Big Data operate better in a lightning fast and reliable internet connection The benefits of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning",
+      "originalUrl": "https://www.openpr.com/news/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/V/1/V114949127_g.jpg",
+          "width": 620,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning",
+      "publishedDateTime": "2022-01-13T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers.md",
       "title": "NVIDIA released Deep-Learning Dynamic Super Resolution in its latest Game Ready drivers",
       "excerpt": "NVIDIA releases Deep-Learning Dynamic Super Resolution, a technology that uses artificial intelligence to improve the performance of games.",
@@ -1218,207 +1402,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
-      "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
-      "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/22/01/24947489/why-nvidia-is-needhams-top-aiml-stock-pick-for-2022",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/22/01/24947489/why-nvidia-is-needhams-top-aiml-stock-pick-for-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-gc3f7ba6fb_1920.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24947489",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24947489",
-      "publishedDateTime": "2022-01-07T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-absci-and-deep-learnings-quest-for-the-perfect-protein.md",
-      "title": "Absci and deep learning's quest for the perfect protein",
-      "excerpt": "The company has used one giant A.I. representation of proteins to broaden the search for novel biologics, and hopes to do everything in silico someday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "originalUrl": "https://www.zdnet.com/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2f9500d3248e27e084c1639b553b1684c9998a30/2022/01/07/d62778de-642e-4ac1-91fb-7c07b0416f00/mathew-4039.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "publishedDateTime": "2022-01-07T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
-      "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
-      "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the adoption of artificial intelligence and machine learning, next-gen automotive and mobility,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/why-nvidia-is-needham-s-top-ai-ml-stock-pick-for-2022-1031087901",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/why-nvidia-is-needham-s-top-ai-ml-stock-pick-for-2022-1031087901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-gc3f7ba6fb_1920.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-farmsense-uses-sensors-and-machine-learning-to-bug-proof-crops.md",
-      "title": "FarmSense uses sensors and machine learning to bug-proof crops",
-      "excerpt": "The damages caused to agriculture by insect pests like the Japanese beetle (pictured above) exceed $100 billion every year, according to the Agricultural Research Service of the USDA. And along with plant diseases,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/",
-      "originalUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Copy-of-Shail-and-Eamonn.jpg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/",
-      "publishedDateTime": "2022-01-07T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

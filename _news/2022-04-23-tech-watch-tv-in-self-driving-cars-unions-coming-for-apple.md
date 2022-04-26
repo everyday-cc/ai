@@ -57,20 +57,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Highway Code changes to allow watching TV at wheel of ‘self-driving’ cars"
-    excerpt: "The Highway Code is to be updated this year with rules for “self-driving” cars that will allow drivers to watch TV and check emails on the move. The changes to the code will set out where and when “self-driving” can be used as well as drivers ..."
-    publishedDateTime: 2022-04-22T01:41:00Z
-    webUrl: "https://www.thestar.co.uk/lifestyle/cars/highway-code-changes-to-allow-watching-tv-at-wheel-of-self-driving-cars-3660350?itm_source=parsely-api"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.co.uk
-    quality: 23
-    images:
-      - url: "https://www.thestar.co.uk/jpim-static/image/2022/04/20/09/AdobeStock_289255656_edited.jpeg?width=2048&enable=upscale"
-        width: 2048
-        height: 1079
-        isCached: true
   - title: "Controversial UK Law Will Allow Watching TV Behind The Wheel Of A Self-Driving Car"
     excerpt: "New proposed updates to the Highway Code concerning self-driving cars in the UK will allow a human driver to watch television or other video media on a built-in screen while the car is in charge ..."
     publishedDateTime: 2022-04-22T16:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificia
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

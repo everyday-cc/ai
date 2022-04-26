@@ -52,6 +52,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program"
+    excerpt: "NEC Corporation, a leader in IT and network technologies, and NEC X, the innovation accelerator for NEC&CloseCurlyQuote;s emerging technologies, announced today that Beagle Technology is the fifth startup to graduate from the NEC X Corporate Accelerator Program (CAP)."
+    publishedDateTime: 2022-04-26T19:19:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/26/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 12
 
 secured: "JYir0A79uVNA3/Yq1IaIbVr32R/F4cYdo783U25ob3C3UeoMmLb31EwIsYECZN98V7pcofa1/KH15/xPJe7e2pEyYzWmLqYlULzUUdw8+5l3XvAHJqaBAjOVyyXn+dVD1Wxf+X96YenkS0bDHWngksPTGnoyGPDqUPnBRXAELXCGmrIkwysXICuE9BbVoJ2gu0pliyjPLQcHGeU/bqOifrIXC1y94K7M5X0gL1gJGoCLZ4/3u37szajb5DrK9jC743SfUQnfu7vdKSgxXcnBBIt0tpr03NXftReDZ3ZAh0P9woRBONmXhn0i0mnvLNJgb9GaUjMsFpCMoQEjShTRAveZl36HfqA7cD04UffXhu/c5FH9OJ+rzamyIbCmpPNH6O0UBJTbaSbwY2WVqE91t/F79Pd43fvXekjn2DhEytL8CNW5DEC8R0SXM1fUPJlIR8M1qtsKinOwY3X7bsgPmTBbN7OifbSOyFnDhSxVwOhSB9jxne+jSy694KeCYZc6AGBBCyaYzgMTTAoGX/qerg==;F4lYCgZyxXXrxWT7I2+NOg=="
 ---

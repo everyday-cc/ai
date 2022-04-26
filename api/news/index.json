@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-26-build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws.md",
+      "title": "Build and deploy a scalable machine learning system on Kubernetes with Kubeflow on AWS",
+      "excerpt": "In this post, we demonstrate Kubeflow on AWS (an AWS-specific distribution of Kubeflow) and the value it adds over open-source Kubeflow through the integration of highly optimized, cloud-native, enterprise-ready AWS services. Kubeflow is the open-source machine learning (ML) platform dedicated to making",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-8280-image003.jpg",
+          "width": 1289,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T14:30:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-bell-and-amazon-web-services-bring-5g-edge-compute-to-canada.md",
+      "title": "Bell and Amazon Web Services bring 5G Edge Compute to Canada",
+      "excerpt": "CNW Telbec/ - Bell today announced the launch of the first public multi-access edge computing (MEC) with AWS Wavelength in Canada. Building on Bell's agreement with AWS, announced last year, together the two companies are deploying AWS Wavelength Zones throughout the country at the edge of Bell's 5G network starting in Toronto.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/",
+      "originalUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/",
+      "publishedDateTime": "2022-04-26T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-pentagon-taps-lyfts-machine-learning-chief.md",
+      "title": "Pentagon Taps Lyft’s Machine-Learning Chief",
+      "excerpt": "Craig Martell was named as the Defense Department’s first chief digital and artificial intelligence officer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
+      "originalUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-532029/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
+      "publishedDateTime": "2022-04-26T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment.md",
       "title": "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment",
       "excerpt": "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,",
@@ -54,7 +203,7 @@
       "originalUrl": "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -141,6 +290,48 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-credo-ai-announces-the-worlds-first-responsible-ai-governance-platform.md",
+      "title": "Credo AI Announces the World's First Responsible AI Governance Platform",
+      "excerpt": "A new wave of upcoming global, federal and state AI regulations requires that organizations must prepare and build out a robust approach to Responsible AI governanceCredo AI's Responsible AI Platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26819089/credo-ai-announces-the-worlds-first-responsible-ai-governance-platform",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26819089/credo-ai-announces-the-worlds-first-responsible-ai-governance-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26819089",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26819089",
+      "publishedDateTime": "2022-04-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications.md",
       "title": "Baseten nabs $20M to make it easier to build machine learning-based applications",
       "excerpt": "As the tech world inches a closer to the idea of artificial general intelligence, we’re seeing another interesting theme emerging in the ongoing democratization of AI: a wave of startups building tech to make AI technologies more accessible overall by a wider range of users and organizations.",
@@ -180,6 +371,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-machine-learning-model-can-steer-traumatic-brain-injury-patients-to-life-saving-care.md",
+      "title": "Machine learning model can steer traumatic brain injury patients to life-saving care",
+      "excerpt": "A prognostic model developed by University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons is the first to use automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI).",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/2-brain.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp",
+      "publishedDateTime": "2022-04-26T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -967,238 +1201,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-ubie-japanese-healthtech-startup-launches-ai-.md",
-      "title": "Ubie, Japanese HealthTech Startup, Launches AI-...",
-      "excerpt": "Trusted by 4.5 Million Monthly Users Worldwide - TOKYO and SINGAPORE, April 26, 2022 /PRNewswire/ -- Ubie, Inc., a healthcare AI startup with the mission \"To develop a healthcare guide for everyone,\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26804894/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26804894/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26804894",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26804894",
-      "publishedDateTime": "2022-04-25T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-six-robotics-pioneers-win-2022-engelberger-awards.md",
-      "title": "Six Robotics Pioneers Win 2022 Engelberger Awards",
-      "excerpt": "Automation industry’s most prestigious honor to be presented to three at Automate 2022 in Detroit on June 8 and three at Automatica in Munich June 20 ANN",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/",
-      "originalUrl": "https://www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/amp/",
-      "publishedDateTime": "2022-04-25T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-pentagon-taps-former-lyft-executive-to-be-artificial-intelligence-chief.md",
-      "title": "Pentagon taps former Lyft executive to be artificial intelligence chief",
-      "excerpt": "The Department of Defense has tapped Craig Martell, formerly the head of machine learning for Lyft, to be the chief digital and artificial intelligence officer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/policy/defense-national-security/pentagon-taps-former-lyft-executive-craig-martell-to-be-artificial-intelligence-chief",
-      "originalUrl": "https://www.washingtonexaminer.com/policy/defense-national-security/pentagon-taps-former-lyft-executive-craig-martell-to-be-artificial-intelligence-chief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/f0c7c26/2147483647/strip/true/crop/2290x1296+0+13/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F5f%2F25%2F8fc0483b4d3b88ab8d38d47be91b%2Fpjimage-26.jpg",
-          "width": 530,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/policy/defense-national-security/pentagon-taps-former-lyft-executive-craig-martell-to-be-artificial-intelligence-chief?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/defense-national-security/pentagon-taps-former-lyft-executive-craig-martell-to-be-artificial-intelligence-chief?_amp=true",
-      "publishedDateTime": "2022-04-25T18:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-novartis-and-snowflake-driving-healthcare-data-innovation.md",
-      "title": "Novartis and Snowflake: Driving healthcare data innovation",
-      "excerpt": "Novartis recently joined Snowflake’s newly-launched Healthcare Data Cloud, which aims to create an integrated and cross-cloud data platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/",
-      "originalUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1216142687.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/amp/",
-      "publishedDateTime": "2022-04-25T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-ponyai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou.md",
-      "title": "Pony.ai scores taxi license for autonomous vehicles in Guangzhou",
-      "excerpt": "Autonomous vehicle startup Pony.ai has been awarded a permit in Guangzhou to operate 100 robotaxis as traditional taxis. The license, which allows Pony to charge for rides in its autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/",
-      "originalUrl": "https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/ponyai.jpeg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/amp/",
-      "publishedDateTime": "2022-04-25T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

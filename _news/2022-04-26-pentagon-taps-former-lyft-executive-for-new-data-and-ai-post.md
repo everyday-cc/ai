@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon Taps Lyft’s Machine-Learning Chief"
+    excerpt: "Craig Martell was named as the Defense Department’s first chief digital and artificial intelligence officer."
+    publishedDateTime: 2022-04-26T20:26:00Z
+    webUrl: "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-532029/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Pentagon taps former Lyft executive to be artificial intelligence chief"
     excerpt: "The Department of Defense has tapped Craig Martell, formerly the head of machine learning for Lyft, to be the chief digital and artificial intelligence officer."
     publishedDateTime: 2022-04-26T01:27:00Z
@@ -125,6 +141,20 @@ related:
       - url: "https://cdn.nextgov.com/media/img/cd/2022/04/25/042522pentagonNG/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Pentagon hails Lyft exec Martell for AI post"
+    excerpt: "The Pentagon on April 25 named Dr. Craig Martell as its first chief digital and AI officer, a position that was unveiled late last year and is still being fleshed out. Martell previously worked at Dropbox, where he was also head of machine learning ..."
+    publishedDateTime: 2022-04-26T18:48:00Z
+    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 37
+    images:
+      - url: "https://www.airforcetimes.com/resizer/ek5qZ1EaFDEZYs7eGOy8MAum8ws=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/VL5HV7EVG5BMBONBWAL5NJDKTU.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "vfNpyqOtVszImYMK5qrWOTCo4FEx/qsMHhdv47hcks/dnp1k9lspj99w0dYJTka1wk7bHixNlmMT1k/eEaAwTtffhqG6DF23D0qJ4XvyyyMSMt50+D8kVrYdDpJmYsxSvniOBAKH3EXkSK6gDk2Jmmhj+7fls5cFE4PIxwddC4sNAkmv8Sk3J9/Yl4Ou/vHLsz6a3YnrnQ1DWi9uRnr5fA0ZOkGuz1HIjyYBd5bqE5wL7smUurOdpyvpFxg80w6M1uKLv9lGvnB9ueRF7ReMzIck/q+zDlBYvSQTGIEc5JneiROmi4R2T2J6MHzvR/axTh8VsNH26VwL0a+nP5N8WvX1MVzEUHkNguHR2oZBYeE=;Da1w/m8yoJZlLUpkPEYqOg=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T19:03:00Z
 originalUrl: "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/"
 webUrl: "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WHNT

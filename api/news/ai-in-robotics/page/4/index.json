@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-03-29-youll-be-injecting-robots-into-your-bloodstream-to-fight-disease-soon.md",
-      "title": "You’ll be injecting robots into your bloodstream to fight disease soon",
-      "excerpt": "The last shot you'll ever need. What if we could create super-powered micro-bots that lived to destroy diseases? What if we already did?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/youll-injecting-robots-your-bloodstream-fight-disease-soon",
-      "originalUrl": "https://thenextweb.com/news/youll-injecting-robots-your-bloodstream-fight-disease-soon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2Fnanobots.jpg&signature=66635c2832696de9f3403e364273917b",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-29-atom-limbs-raises-4m-for-mind-controlled-prosthetics-with-sensory-feedback.md",
       "title": "Atom Limbs raises $4M for 'mind-controlled' prosthetics with sensory feedback",
       "excerpt": "The San Carlos startup is developing its first product, an above-the-elbow arm with sensory feedback and fully functional fingers.",
@@ -1320,6 +1268,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-commentary-calling-asians-robotic-is-a-racist-stereotype-with-a-long-troubled-history.md",
+      "title": "Commentary: Calling Asians ‘robotic’ is a racist stereotype with a long, troubled history",
+      "excerpt": "When U.S. figure skater Nathan Chen won the gold medal in men’s figure skating at the 2022 Winter Olympics, a Washington Post article attributed his win to a fierce, focused, “robotic” zeal. This robotic characterization draws on a dated stereotype of Asians as stoic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressherald.com/2022/03/22/commentary-calling-asians-robotic-is-a-racist-stereotype-with-a-long-troubled-history/",
+      "originalUrl": "https://www.pressherald.com/2022/03/22/commentary-calling-asians-robotic-is-a-racist-stereotype-with-a-long-troubled-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressherald.com/wp-content/themes/mainetoday-pressherald/assets/images/tr-icon.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Portland Press Herald",
+        "domain": "pressherald.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

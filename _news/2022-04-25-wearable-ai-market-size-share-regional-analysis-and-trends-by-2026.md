@@ -108,6 +108,15 @@ related:
         width: 415
         height: 253
         isCached: true
+  - title: "Payment Fraud at Record Lows Thanks to Analytics and AI, Visa Says"
+    excerpt: "Despite a massive increase in online activity during the COVID-19 pandemic, fraud on the Visa payment network is at an all time low, the company says. One"
+    publishedDateTime: 2022-04-26T18:26:00Z
+    webUrl: "https://www.datanami.com/2022/04/26/payment-fraud-at-record-lows-thanks-to-analytics-and-ai-visa-says/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
   - title: "BrainChip and NVISO partner on human behavioural analytics in AI devices"
     excerpt: "BrainChip and nViso, a specialist in human behavioural analytics, have announced a collaboration targeting battery-powered applications in robotics and mobility/automotive to address the need for high levels of AI performance with ultra-low power technologies."
     publishedDateTime: 2022-04-22T08:37:00Z

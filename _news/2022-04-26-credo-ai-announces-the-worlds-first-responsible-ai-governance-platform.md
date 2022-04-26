@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26819089"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26819089"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Credo AI Announces World’s First Responsible AI Platform"
+    excerpt: "Credo AI has announced the availability of its Responsible AI platform, which is the first of its kind. The SaaS-product helps organizations leverage tools to standardize and scale their approach to Responsible AI."
+    publishedDateTime: 2022-04-26T18:31:00Z
+    webUrl: "https://www.unite.ai/credo-ai-announces-worlds-first-responsible-ai-platform/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 17
   - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
     excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, launched the Vian H+AITM Platform for reliable, optimized enterprise-wide deployment, management, and governance of machine learning (ML) models at scale."
     publishedDateTime: 2022-04-26T13:00:00Z

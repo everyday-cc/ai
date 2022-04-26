@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T19:32:00Z
 originalUrl: "https://nypost.com/2022/04/26/best-samsung-deals-on-the-web/"
 webUrl: "https://nypost.com/2022/04/26/best-samsung-deals-on-the-web/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: New York Post

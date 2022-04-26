@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonexaminer.com/policy/defense-national-security/
 cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/defense-national-security/pentagon-taps-former-lyft-executive-craig-martell-to-be-artificial-intelligence-chief?_amp=true"
 type: article
 quality: 57
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Examiner
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon Taps Lyft’s Machine-Learning Chief"
+    excerpt: "Craig Martell was named as the Defense Department’s first chief digital and artificial intelligence officer."
+    publishedDateTime: 2022-04-26T20:26:00Z
+    webUrl: "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-532029/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Lyft exec Craig Martell tapped as Pentagon’s AI chief: Exclusive Interview"
     excerpt: "\"I'm convinced we're going to be able to do some great things,\" Craig Martel told Breaking Defense in an exclusive interview. \"But they're going to be hard things. It's going to be a challenge.\""
     publishedDateTime: 2022-04-25T17:59:00Z
@@ -125,6 +141,20 @@ related:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pentagon hails Lyft exec Martell for AI post"
+    excerpt: "The Pentagon on April 25 named Dr. Craig Martell as its first chief digital and AI officer, a position that was unveiled late last year and is still being fleshed out. Martell previously worked at Dropbox, where he was also head of machine learning ..."
+    publishedDateTime: 2022-04-26T18:48:00Z
+    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 37
+    images:
+      - url: "https://www.airforcetimes.com/resizer/ek5qZ1EaFDEZYs7eGOy8MAum8ws=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/VL5HV7EVG5BMBONBWAL5NJDKTU.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "EG7xPDxNzurG442W25pQBNE3JOax3IC5Vau+ErZCYOXCciYRHAcLaR5SlJpxqH+xtYTQrYPxNJZc4s278G5x2i5lKsJl1F/HC+CXGZpHvpKXqAQ1XW3S/Ish8AhKfXXpMVwI5dJ3JwYbjTOEIES9lRlUFZFduvcYkvZVCLxIcT7V/nZ71m6PuDymsm5aA+gOEqZf8ORQm4pgipXjKkqcyC03Pbuh8cme9SLMVJwVUUKw2wNJXLc42tfS+E5DuqBnM9LwILwS8lF333YxXYG5hr2lXxTwy5vMdrM0mE0IFmj6uI5X+JpjPoAQWXDa3IMBc0TNar0H6Oi5boTzgOVYMgnvNCnx7kJgoshucVeTeszHqoAYMZH3XJ5gg5HuN3ZFPgzGZxPG+gMy7HSgmh7Il+30REZ25G0MmhDU/YYEDPJKrKTQrN2egQb1vDcMUpN1LdJDr6A7+osMjS9M3yZWlK39BeEeYooCQuM8NBPl8GDIGykWxMSONI8Rq8PLuSvQVmGtvBNYvdjiPjEPV3ElOQ==;uB9ICeZ2ZWs3B8sP4vVKpQ=="

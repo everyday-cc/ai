@@ -7,7 +7,7 @@ originalUrl: "https://www.newswire.ca/news-releases/bell-and-amazon-web-services
 webUrl: "https://www.newswire.ca/news-releases/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-893347247.html"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bell and Amazon Web Services bring 5G Edge Compute to Canada"
+    excerpt: "CNW Telbec/ - Bell today announced the launch of the first public multi-access edge computing (MEC) with AWS Wavelength in Canada. Building on Bell's agreement with AWS, announced last year, together the two companies are deploying AWS Wavelength Zones throughout the country at the edge of Bell's 5G network starting in Toronto."
+    publishedDateTime: 2022-04-26T20:57:00Z
+    webUrl: "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/"
+    ampWebUrl: "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 61
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bell partners with AWS on 5G multi-access edge computing for Canadian businesses"
     excerpt: "Canadian telecommunications provider BCE Inc., better known as Bell Canada, said today it’s partnering with Amazon Web Services Inc. to bring lower-latency connectivity to its 5G network. Bell said it’s launching the first public multi-access edge computing platform with AWS Wavelength in Canada."
     publishedDateTime: 2022-04-26T15:00:00Z

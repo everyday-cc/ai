@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T19:07:00Z
 originalUrl: "https://www.palestinechronicle.com/facial-recognition-and-the-right-to-worship-in-qalandiya-photos/"
 webUrl: "https://www.palestinechronicle.com/facial-recognition-and-the-right-to-worship-in-qalandiya-photos/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Palestine Chronicle

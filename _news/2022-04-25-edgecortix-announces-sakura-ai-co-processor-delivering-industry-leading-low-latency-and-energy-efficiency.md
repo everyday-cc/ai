@@ -34,6 +34,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "EDGECORTIX PARTNERS WITH BITTWARE TO DELIVER HIGH PERFORMANCE, LOW LATENCY AI ACCELERATION SOLUTION FOR INTEL AGILEX FPGAS"
+    excerpt: "\"We are excited to bring the power of EdgeCortix's Dynamic Neural Accelerator IP to Agilex FPGAs through the new BittWare Partner Program,\" said Sakyasingha Dasgupta, Founder and CEO of EdgeCortix.  \"It's a game changer on multiple levels in the AI acceleration market."
+    publishedDateTime: 2022-04-26T19:15:00Z
+    webUrl: "https://www.khon2.com/business/press-releases/cision/20220426CN34554/edgecortix-partners-with-bittware-to-deliver-high-performance-low-latency-ai-acceleration-solution-for-intel-agilex-fpgas/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
+    quality: 0
 
 secured: "HRWuC0XvXpo9OtEf9jAybCgHrxWarPe1BH3VYWKhL7Cx40crzu1GehA3mlm/AZrkgoOv/iec0WFPY8lSi7gXOhMnVBvSfWIkiST8Aa8O7cjwL7eIIKkpG8rXc/NQ+ZI39xZ3O+b1naqQPbg70riJ6ZTv0xjhIuWsSLNSGykLOMHSfFOi7yMGea+IBDKN1fl+gkSe8dSei0q9xSVeCkMSWZXXjzvNCv/f7hLOlg08DN+HqGuo+Vp1q9exZYajRsjqoKKlzYQzp67MzzpevtOu4DbDeWQwJT35X9FHTi93PA/6cQiGchpVTFt7qBMgzQF4WZtkWOnSH+RRJNZy2xfzQYsFAh/8e3Aes1oSX1/us6o=;UZv3eggJ+hPfPETYt4NJow=="
 ---

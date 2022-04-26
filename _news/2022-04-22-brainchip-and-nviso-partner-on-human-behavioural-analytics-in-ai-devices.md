@@ -116,6 +116,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Payment Fraud at Record Lows Thanks to Analytics and AI, Visa Says"
+    excerpt: "Despite a massive increase in online activity during the COVID-19 pandemic, fraud on the Visa payment network is at an all time low, the company says. One"
+    publishedDateTime: 2022-04-26T18:26:00Z
+    webUrl: "https://www.datanami.com/2022/04/26/payment-fraud-at-record-lows-thanks-to-analytics-and-ai-visa-says/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
 
 secured: "K04sh4YdHRLUeWOE6HAYh7H+i1uWk+bFEISZZMs4fRqdnIpeDfPBNOKdodEgc06pEH2iolO8t1/e3CXACJBWDx4iwTCbyWwcdGQZIGLufn3cVdDHXRKgxKpli51rrgBnajuDyX5WZm7WkYAMow22BfMKnucDl1/6mci3DPXRI2H8t7qsx6CbC3t9dIKFYpv2dA0eYghD25l6tW+1gVYBcVuLlovNM4KIGXolPUIO9sazSdKpj/evt/QS8AJYU6Jn/wOB+/R3SD5kLmyfttFa6ZxsjGhOPESagBh87/ZIkllQsMK73g+ZsovnDcjmru0JpSSX2ON3Pw1Tx7QpJnPReiLQArjH9BbkM47fu2ko8d2KGcAq7deQl/dWfQz18i7Bs+anjbEMQZq5xSTJZKmBWr10/AfoAwPRzNuaQCOShxgP/lOQsIDMEmoaEyTr9wlIyCeTobJybnHy3RWU6Jky1/ZS3U0R/EIvLCxhygbdBIspHOeWrNUa5nsRbnb9jlGyHuZnhwR2CMT7Xz4JL0i/HA==;+hrP/y5QAAiw9E/jtYTrgw=="
 ---

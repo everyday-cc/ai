@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon Taps Lyft’s Machine-Learning Chief"
+    excerpt: "Craig Martell was named as the Defense Department’s first chief digital and artificial intelligence officer."
+    publishedDateTime: 2022-04-26T20:26:00Z
+    webUrl: "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-532029/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Pentagon taps former Lyft executive to be artificial intelligence chief"
     excerpt: "The Department of Defense has tapped Craig Martell, formerly the head of machine learning for Lyft, to be the chief digital and artificial intelligence officer."
     publishedDateTime: 2022-04-26T01:27:00Z
@@ -125,6 +141,20 @@ related:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pentagon hails Lyft exec Martell for AI post"
+    excerpt: "The Pentagon on April 25 named Dr. Craig Martell as its first chief digital and AI officer, a position that was unveiled late last year and is still being fleshed out. Martell previously worked at Dropbox, where he was also head of machine learning ..."
+    publishedDateTime: 2022-04-26T18:48:00Z
+    webUrl: "https://www.airforcetimes.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 37
+    images:
+      - url: "https://www.airforcetimes.com/resizer/ek5qZ1EaFDEZYs7eGOy8MAum8ws=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/VL5HV7EVG5BMBONBWAL5NJDKTU.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "W5Sf2ewXzrW2TLN9lllnqiYc60F60XyywUCfoo3rEQY/rS8rma5eD7XafUG7SdR472LlxLZEntgq0nWMHdJlJCwWif5pAkcv5IGrbEirhAAZoPyX7aqg32nxU0iQBIOnGkrtu+pwf+ZOqwHUdaZ6aM+s/Xl4n1O18kiEF1vDRtJ1RUQ08Ych/Ttb9txlJPhDLdFKPJUqMTltyIMVkd81qJLrcCDyvXGGP6X0tjKm3LUoPf/YhVQUOMdojRLX/0/EacYEJt/luXcBZpPGYHSWEGg3DFigsWa1W7sL3KvHqz8/sd/V/h4T/RwvQBxPBAEqdDFN3WLW2zeU54UC2R+FK6Z9XGNo+Gpz9778qR95xHv9Jf0FNMrcSV4p7iTcow3Mk4irVup2xruNkVCu8kMB+IS9NMIc5daHjM/s2HMg7BmbwVfVC+YZgr5XGjDppflCCf+0jZm/3dzUK5R3UxVN1eJb6vr9hXfb9e9UCNo36OvMzCQJ1Fln3xoVd9Mlz6YSmqlCPceXjZkb4oCzqWioDA==;izkkLDjjDJFeVlsSn+D8uQ=="

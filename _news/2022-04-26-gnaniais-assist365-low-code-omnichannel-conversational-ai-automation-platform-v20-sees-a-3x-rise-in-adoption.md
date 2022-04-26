@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T15:18:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26817577/gnani-ais-assist365-low-code-omnichannel-conversational-ai-automation-platform-v2-0-sees-a-3x-rise"
 webUrl: "https://www.benzinga.com/pressreleases/22/04/b26817577/gnani-ais-assist365-low-code-omnichannel-conversational-ai-automation-platform-v2-0-sees-a-3x-rise"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

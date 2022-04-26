@@ -29,20 +29,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 78
-  - title: "Kraft Heinz to work with Microsoft on digital twins and supply chain efficiencies"
-    excerpt: "Food manufacturing firm Kraft Heinz Co. said today it is partnering with Microsoft Corp. with an eye to improving its supply chain visibility and day-to-day operations. Under the alliance, Kraft Heinz will adopt various cloud,"
-    publishedDateTime: 2022-04-22T02:10:00Z
-    webUrl: "https://siliconangle.com/2022/04/21/kraft-heinz-work-microsoft-digital-twins-supply-chain-efficiencies/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/48876996006_853180752b_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "hJLB9qNeuL5AHyFdc+sa3rNXEhhyYi27iBZZq2sCtw2S/h9nulwgd6VyfJMBUlmnHLsnFk3+folWkZ8iXwTGFE0wIVYBWQ8LGvDcQt03qVIHLPUDvn/2Be+aSDSkYN5t90rfoTQM9HqQ+CyZ908cDAzPmbPdoPDsVGOsU2iTRh5bwszV7LdiMX7Q8aamkYhHvlFGmhZr0EPvO/SEoGi+138t9JZutbnCpeUPENyjJXi77268U13QzcGVYG/mq1iJ0W7XE4EtYZJjSJhwgUMsfISoNaaJrEHplsqVXTo+UHqFkz4tnhGF+1xIY6C80uFhr7NlkRG+klqkv5s4/SCS9So5fIv2fePNmNv06Po2b+pMuS916uCD8/3UU9Xnh8YdTSKev05tdLqkq6jqx94l6eh3cP38iYrUkzbqFpMfdufG/1mYtHj2GGt+Pm7KOwBXyuc/fUkt2qdi/tbmN0HTuKPEX12GmzmhjuSVsGNyM9bHaT+gJXY1ezpfrkfXTz5mtxVeSxJgpCKhxFhfeOtqbg==;Z+v80brla95WyI4LkMHVFw=="
 ---

@@ -2,6 +2,284 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-18-is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations.md",
+      "title": "Is AI Nothing More Than A Profit-Generating Tool For Mega Corporations?",
+      "excerpt": "Accountability and fairness are two of the most prominent ethics of AI. Therefore, while introducing machine intelligence into their daily functioning, organizations will do well to ask themselves, “Can we use this to improve the society as much as our annual balance sheets?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6239ae6de16cc339ed2662a8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/",
+      "publishedDateTime": "2022-04-18T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026.md",
+      "title": "AI for Drug Discovery Market poised to garner maximum revenues during 2018 – 2026",
+      "excerpt": "Overview Artificial intelligence for drug discovery is a technology that uses and different algorithms that value add",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Kharkiv-AFP-1K-05-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.md",
+      "title": "9 low-rent cloud providers to challenge AWS, Azure, and GCP",
+      "excerpt": "Major cloud providers do it all, and usually for a sizable price. If the high cost of cloud computing has you down, one of these smaller cloud services could be a way out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html",
+      "originalUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/clouds_binoculars_network-monitoring_future-it_looking_horizon_vision-100797672-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.amp.html",
+      "publishedDateTime": "2022-04-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-ai-models-to-detect-how-youre-feeling-in-sales-calls.md",
+      "title": "AI models to detect how you're feeling in sales calls",
+      "excerpt": "In brief AI software is being offered to sales teams to analyze whether potential customers appear interested during virtual meetings. Sentiment analysis is often used in machine-learning research to detect emotions in underlying text or video,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/18/ai_in_brief/?td=rt-3a",
+      "originalUrl": "https://www.theregister.com/2022/04/18/ai_in_brief/?td=rt-3a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/02/12/happy-sad.jpg",
+          "width": 648,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/18/ai_in_brief/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/18/ai_in_brief/",
+      "publishedDateTime": "2022-04-18T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-recruitment-platform-expertia-ai-raises-12-million-in-seed-funding.md",
+      "title": "Recruitment Platform Expertia AI Raises $1.2 Million In Seed Funding",
+      "excerpt": "Virtual recruitment platform Expertia AI has raised $1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini. The funds will be used for assembling a team ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919",
+      "originalUrl": "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ndtvimg.com/i/2018-04/dollars-generic-pixabay_650x400_81523929965.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1",
+      "publishedDateTime": "2022-04-18T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc.md",
+      "title": "Healthcare AI Market is set to experience a significant growth rate | IBM (Watson Health), Atomwise, Inc., Butterfly Network, Inc.",
+      "excerpt": "Global Healthcare AI Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery , Covid 19 Outbreak Impact research report added by Report Ocean ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/BBB-8-1-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-17T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-computer-vision-system-market-opportunity-size-share-growth-segmentation-in-depth-analysis-research-report-by-foresight-to-2022-2028.md",
       "title": "Computer Vision System Market Opportunity, Size, Share, Growth, Segmentation, In-depth Analysis Research Report by Foresight to (2022-2028)",
       "excerpt": "Apr 18, 2022 (The Expresswire) -- Global “Computer Vision System Market” (2022) report offers development drivers, significant difficulties, size, share, recent trends and open doors that will ...",
@@ -904,275 +1182,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-congressional-candidate-greg-raths-website-copied-from-lindsey-grahams-campaign-site-nearly-word-for-word.md",
-      "title": "Congressional candidate Greg Raths' website copied from Lindsey Graham's campaign site nearly word-for-word",
-      "excerpt": "The website for California House GOP candidate Greg Raths copies excerpts from Sen. Lindsey Graham's 2020 campaign website nearly word-for-word in several places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham",
-      "originalUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f73c356a-4992-4416-938a-f0c29380a4ab/749b2469-cce3-4d1e-b045-4341fc5b1e4a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham.amp",
-      "publishedDateTime": "2022-04-15T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-fine-tune-and-deploy-a-wav2vec2-model-for-speech-recognition-with-hugging-face-and-amazon-sagemaker.md",
-      "title": "Fine-tune and deploy a Wav2Vec2 model for speech recognition with Hugging Face and Amazon SageMaker",
-      "excerpt": "Automatic speech recognition (ASR) is a commonly used machine learning (ML) technology in our daily lives and business scenarios. Applications such as voice-controlled assistants like Alexa and Siri, and voice-to-text applications like automatic subtitling for videos and transcribing meetings, are all",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-a-wav2vec2-model-for-speech-recognition-with-hugging-face-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-a-wav2vec2-model-for-speech-recognition-with-hugging-face-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T12:53:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-self-driving-car-company-establishing-test-facility-in-sc.md",
-      "title": "Self-driving car company establishing test facility in SC",
-      "excerpt": "The South Carolina governor’s office says a global self-driving vehicle company is establishing a new test facility in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestate.com/news/business/national-business/article260385097.html",
-      "originalUrl": "https://www.thestate.com/news/business/national-business/article260385097.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thestate.com/news/business/national-business/article260385097.html",
-      "cdnAmpWebUrl": "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/business/national-business/article260385097.html",
-      "publishedDateTime": "2022-04-15T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The State",
-        "domain": "thestate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-how-fintech-can-help-you-manage-your-personal-finances.md",
-      "title": "How Fintech Can Help You Manage Your Personal Finances",
-      "excerpt": "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world continues to change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/How-Fintech-Can-Help-You-Manage-Your-Personal-17083111.php",
-      "originalUrl": "https://www.chron.com/business/article/How-Fintech-Can-Help-You-Manage-Your-Personal-17083111.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect.md",
-      "title": "Build a virtual credit approval agent with Amazon Lex, Amazon Textract, and Amazon Connect",
-      "excerpt": "Banking and financial institutions review thousands of credit applications per week. The credit approval process requires financial organizations to invest time and resources in reviewing documents like W2s, bank statements, and utility bills. The overall experience can be costly for the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/15/ML-7548-image013.jpg",
-          "width": 1459,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T10:48:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-ukraine-is-using-facial-recognition-to-id-dead-russian-soldiers-and-send-photos-of-corpses-home-to-their-moms-report.md",
-      "title": "Ukraine is using facial recognition to ID dead Russian soldiers and send photos of corpses home to their moms: report",
-      "excerpt": "Facial recognition technology, donated by a controversial US firm, is part of a gruesome campaign to shock everyday Russians into opposing the war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "originalUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62598d9c33c02a0018ca1c52?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "publishedDateTime": "2022-04-15T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

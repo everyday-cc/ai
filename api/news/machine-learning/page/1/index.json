@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-26-build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws.md",
+      "title": "Build and deploy a scalable machine learning system on Kubernetes with Kubeflow on AWS",
+      "excerpt": "In this post, we demonstrate Kubeflow on AWS (an AWS-specific distribution of Kubeflow) and the value it adds over open-source Kubeflow through the integration of highly optimized, cloud-native, enterprise-ready AWS services. Kubeflow is the open-source machine learning (ML) platform dedicated to making",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-8280-image003.jpg",
+          "width": 1289,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T14:30:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-pentagon-taps-lyfts-machine-learning-chief.md",
+      "title": "Pentagon Taps Lyft’s Machine-Learning Chief",
+      "excerpt": "Craig Martell was named as the Defense Department’s first chief digital and artificial intelligence officer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
+      "originalUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-532029/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
+      "publishedDateTime": "2022-04-26T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment.md",
       "title": "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment",
       "excerpt": "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,",
@@ -85,6 +190,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-machine-learning-model-can-steer-traumatic-brain-injury-patients-to-life-saving-care.md",
+      "title": "Machine learning model can steer traumatic brain injury patients to life-saving care",
+      "excerpt": "A prognostic model developed by University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons is the first to use automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI).",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/2-brain.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp",
+      "publishedDateTime": "2022-04-26T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -287,6 +435,40 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies.md",
+      "title": "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies",
+      "excerpt": "TruCorr performs attenuation correction using a Deep Learning approach with data from the patient's SPECT scan. The application eliminates the need to scan the patient in two different positions ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1254,215 +1436,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-dall-e-2-the-future-of-ai-research-and-openais-business-model.md",
-      "title": "DALL-E 2, the future of AI research, and OpenAI’s business model",
-      "excerpt": "DALL-E 2 shows how far the AI research community has come toward harnessing the power of deep learning and addressing some of its limits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/",
-      "originalUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?fit=800%2C499&strip=all",
-          "width": 799,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/",
-      "publishedDateTime": "2022-04-13T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis.md",
-      "title": "Razer-designed Linux laptop targets AI developers with deep learning emphasis",
-      "excerpt": "Made in collaboration with Lambda, the Linux-based clamshell focuses on deep learning development. Lambda, which has been around since 2012, is a deep learning infrastructure provider used by the US Department of Defense and \"97 percent of the top research universities in the US,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/razer-book-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-razer-and-lambda-made-a-linux-laptop-for-machine-learning.md",
-      "title": "Razer and Lambda made a Linux laptop for machine learning",
-      "excerpt": "When it isn't busy making sleek laptops for gamers, Razer can come up with a laptop fine-tuned for enterprises that develop deep-learning applications for various fields",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "originalUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-13-image-34.jpg",
-          "width": 3612,
-          "height": 2295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "publishedDateTime": "2022-04-13T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-ai-and-ml-think-green.md",
-      "title": "AI And ML Think Green",
-      "excerpt": "One powerful subset of AI is machine learning (ML), which involves not predefined instructions and fixed algorithms but learned patterns over artificial neural networks. Developers have used ML to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6255864cad3a5bbbc0404a9c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/amp/",
-      "publishedDateTime": "2022-04-13T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

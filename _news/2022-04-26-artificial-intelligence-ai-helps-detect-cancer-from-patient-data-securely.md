@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-d
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm"
 type: article
 quality: 70
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
     excerpt: "A new way of using artificial intelligence to predict cancer from patient data without putting personal information at risk has been developed. Swarm learning can be used to help computers predict cancer in medical images of patient tissue samples,"
     publishedDateTime: 2022-04-25T17:25:00Z
     webUrl: "https://www.sciencedaily.com/releases/2022/04/220425121049.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "AI may detect earliest signs of pancreatic cancer"
+    excerpt: "An artificial intelligence (AI) tool can accurately predicted who would develop pancreatic cancer based on what their CT scan images looked like years prior to being diagnosed with the disease. The findings may help prevent death through early detection of one of the most challenging cancers to treat."
+    publishedDateTime: 2022-04-26T20:34:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220426153718.htm"
     type: article
     provider:
       name: Science Daily

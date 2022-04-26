@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T18:05:00Z
 originalUrl: "https://www.frontiersin.org/research-topics/35188/voice-analysis-in-healthy-subjects-and-patients-with-neurologic-disorders"
 webUrl: "https://www.frontiersin.org/research-topics/35188/voice-analysis-in-healthy-subjects-and-patients-with-neurologic-disorders"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Frontiers

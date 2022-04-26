@@ -1,30 +1,28 @@
 ---
 category: news
 title: "AI Transformer Inventors Launch Adept with $65M to Lend a Hand to Knowledge Workers"
-excerpt: "Adept is building a natural language interface to everyday software tools Adept, a research and product AI lab, announced today that it has launched from stealth and raised a $65 million Series A led"
+excerpt: "Adept, a research and product AI lab, announced today that it has launched from stealth and raised a $65 million Series A led by Greylock and Addition. The round includes participation from Root Ventures and angels including Scott Belsky (founder of Behance),"
 publishedDateTime: 2022-04-26T15:17:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26817535/ai-transformer-inventors-launch-adept-with-65m-to-lend-a-hand-to-knowledge-workers"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/b26817535/ai-transformer-inventors-launch-adept-with-65m-to-lend-a-hand-to-knowledge-workers"
-ampWebUrl: "https://www.benzinga.com/amp/content/26817535"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26817535"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-francisco-1fb4f7c14be54d9c8a33cb5f02cff753"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-francisco-1fb4f7c14be54d9c8a33cb5f02cff753"
 type: article
-quality: 51
-heat: 51
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "99SzEgeidgcnahbizVueN+TQqIi9moGQTjvKFRiRSIcahz3o2F5UaZh5lFyE28igOn/ND/+tf8Hqbk/SVN1fpZWKMMZWYd77OUBsAR09Svl8FMPOpfUqJvavEByU2v2legJOptQb2lt7jEdDq+jLmpEHfysNsr+VeOVc/8AiW5kHRmAL6gYIAOfvnMIDzQYNY+8WWz2f4wRApW510aBelEO4Kry+DM9Y6my0YiQYeZvsJR4IhIFxPVYHF86zGT5/3LwGiEcOK69LohIsrB54ruIllLmP70uxbvLxGLRbRTbt7nggjDOekdu1Uzkr7WlRO/t47wRvu2NRvZLn6SYa0Vv83J2yYneSwGZk3h47pqo=;o3txOrZ66pqJ7bUCJeSPUg=="
+secured: "kBO2RvcV0sFkzOrnYT/q58axt5+57qZ5abr4njQKfq6C5KVvJ5CDDDLfs2kti94LRhiK/rV8ltBzdtAIUqtxElvolsV1CPdGQW+sQGPPA7Es96udZLNfuI9c/pw0EUaS9TJc4jgFCmcChOU4DddodDqjzp9P+9BYKwzdY+UeAxvdSJVJsbC2G2qy2vzCQ4gnKw6+q/CT+nlU7Lth2fxh+eAwIh9KdKKNVRGVOHzcnVqbML2RDn9E70I4A+tTuCeZX/am7lJxA6EoLLbvr/fRC6/F5mWEkuYQzScjIUMi2GFTCnzR7ZWYUvetKlZy9YCVJEWJ/BB6GSjLm/SnXXCj4GZJSjKqlhvmi5vkNfO9Vho=;t40DwEl3BLWJiff/kQ8/nw=="
 ---
 

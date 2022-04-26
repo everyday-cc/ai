@@ -45,6 +45,15 @@ related:
       name: Il Tempo
       domain: iltempo.it
     quality: 39
+  - title: "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program"
+    excerpt: "NEC Corporation, a leader in IT and network technologies, and NEC X, the innovation accelerator for NEC&CloseCurlyQuote;s emerging technologies, announced today that Beagle Technology is the fifth startup to graduate from the NEC X Corporate Accelerator Program (CAP)."
+    publishedDateTime: 2022-04-26T19:19:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/26/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 12
   - title: "DiA Imaging Analysis Collaborates with Intel Corporation to Accelerate Processing Time of its AI-based Cardiac Ultrasound Software in Hospitals"
     excerpt: "DiA's AI-based software optimized with the Intel Distribution of OpenVINO toolkit enhances cardiologists' decision-making process and workflow BE'ER SHEVA, Israel, April 26, 2022 /PRNewswire/ -- DiA I"
     publishedDateTime: 2022-04-26T13:30:00Z

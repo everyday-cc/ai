@@ -18,6 +18,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel"
+    excerpt: "Blankenship brings decades of experience in artificial intelligence, data ethics, intellectual property, litigation, risk management, and M&A to BigBear.ai. BigBear.ai (NYSE: BBAI"
+    publishedDateTime: 2022-04-26T18:01:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/26/bigbear-ai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 27
+
 secured: "Lx3iT+Gn5mwLAWhQn+Nj7MgRZkm1L0iPzxF2gx4YHlWasZMunOFn1voLXd9NTcW/68/x8aLSFVpGHPZSg1L5LLCwUSGxxLRdlvTzlQv6P/e+wUi+XxUFFnP4GYp+oMYbuxJadrZ6Wc7BZkAYsOQPYZkiM3tsb2mxHe92b796N+e1m84yEJxSo5bzMIcw3a3Z3GUICPYw2YFSe9dRkRJk+XGWKTsZvZe2qACuJdLML6Ldy2RNziQY2oYi4huQXbQYRICz2K+ATKx/EFksp53tKv9hwOmSHFyrjsLNBtuzzuq+JQUBnTQKfP87shQtsxv0s+RO1FneHS2ilNDk0LmzUF+0NvzicpzZ54aXg01qjzIuTxGBZBEA531yoQiZ9W2xRapmTkBfkys35OM+dTSxHJ4WHpvfPqQjfSgUZWaN+htwM5LBvZRBwBto19vSdlbe1G4J8KFigtzzvNZEJuRmcpl6rbZQq40CH1VOZE4F0ZiTUoTZPFZjnC05eqYXcrkLzQ0BLZiXvVAfuwFv2zyaTw==;4LnI630R+omErF+NvBd25g=="
 ---
 

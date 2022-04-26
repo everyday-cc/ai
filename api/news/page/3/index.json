@@ -2,6 +2,194 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-23-ai-based-system-improves-bladder-cancer-treatment-response-assessment.md",
+      "title": "AI-based system improves bladder cancer treatment response assessment",
+      "excerpt": "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery).",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx",
+      "publishedDateTime": "2022-04-22T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-ai-tool-accurately-predicts-tumour-regrowth-in-cancer-patients.md",
+      "title": "AI tool accurately predicts tumour regrowth in cancer patients",
+      "excerpt": "Exclusive: Tool predicts how likely tumours are to grow back in cancer patients after they have undergone treatment",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
+      "originalUrl": "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d1dd9f83b44248489e5d8b093ad28b046262e0d5/0_182_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=25109500e1bdf5d279d65eb44289f9ed",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
+      "publishedDateTime": "2022-04-22T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-house-lawmakers-investigating-govt-use-of-facial-recognition-software.md",
+      "title": "House lawmakers investigating gov't use of facial recognition software",
+      "excerpt": "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "originalUrl": "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wfaa.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "cdnAmpWebUrl": "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "publishedDateTime": "2022-04-22T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFAA8",
+        "domain": "wfaa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-how-to-protect-ai-from-cyberattacks-start-with-the-data.md",
+      "title": "How to protect AI from cyberattacks – start with the data",
+      "excerpt": "AI is a digital technology, which means it can be compromised particularly when confronted by an intelligent attack",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/",
+      "originalUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/Ai-Security.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/amp/",
+      "publishedDateTime": "2022-04-22T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-conversational-ai-tools-should-unify-calling-messaging-analytics-and-more.md",
       "title": "Conversational AI tools should unify calling, messaging, analytics and more",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! LivePerson,",
@@ -10,7 +198,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -604,6 +792,40 @@
       ]
     },
     {
+      "path": "_news/2022-04-22-centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies.md",
+      "title": "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies",
+      "excerpt": "TruCorr performs attenuation correction using a Deep Learning approach with data from the patient's SPECT scan. The application eliminates the need to scan the patient in two different positions ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-new-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.md",
       "title": "New deep learning method aids in the accurate diagnosis of parkinsonian diseases",
       "excerpt": "A new deep learning method has been created to aid in the diagnosis of parkinsonian diseases, according to research published ahead of print by The Journal of Nuclear Medicine.",
@@ -939,265 +1161,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028.md",
-      "title": "Deep Learning in Manufacturing Market 2022, Overview, Size, Share, Demand, Segment, Applications, sales Market, Forecast 2028",
-      "excerpt": "Apr 21, 2022 (The Expresswire) -- Global“Deep Learning in Manufacturing”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-design-is-merging-with-machine-learning-in-home-decor.md",
-      "title": "Design Is Merging With Machine Learning In Home Décor",
-      "excerpt": "The blend of human and machine knowledge to address the sales challenge of home design is an interesting application of AI and other tools, a blend that can help both the businesses and the end customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&width=1200",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
-      "publishedDateTime": "2022-04-21T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-how-to-use-ai-to-create-more-human-service-not-less.md",
-      "title": "How To Use AI To Create More Human Service, Not Less",
-      "excerpt": "Instead of focusing on replacing humans with machines, we need to think about how AI makes humans better at their jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62050c6421a4b6bcff9ea195/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/amp/",
-      "publishedDateTime": "2022-04-21T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-northwestern-mutual-ceo-advises-business-leaders-embrace-the-ai-change.md",
-      "title": "Northwestern Mutual CEO Advises Business Leaders: \"Embrace the AI Change\"",
-      "excerpt": "CEO John Schlifske says AI drives growth: \"It's faster, more effective and leads to better outcomes.\"",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/Northwestern-Mutual-CEO-Advises-Business-Leaders-Embrace-the-AI-Change/f2ce9909-9cd6-4920-9fac-df41701e4d8a",
-      "originalUrl": "https://fortune.com/videos/watch/Northwestern-Mutual-CEO-Advises-Business-Leaders-Embrace-the-AI-Change/f2ce9909-9cd6-4920-9fac-df41701e4d8a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/f2ce9909-9cd6-4920-9fac-df41701e4d8a/Images/posterImage-ver2-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/northwestern-mutual-ceo-advises-business-leaders%3A-%22embrace-the-ai-change%22/f2ce9909-9cd6-4920-9fac-df41701e4d8a/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/northwestern-mutual-ceo-advises-business-leaders%3A-%22embrace-the-ai-change%22/f2ce9909-9cd6-4920-9fac-df41701e4d8a/amp",
-      "publishedDateTime": "2022-04-21T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-mits-newest-computer-vision-algorithm-identifies-images-down-to-the-pixel.md",
-      "title": "MIT's newest computer vision algorithm identifies images down to the pixel",
-      "excerpt": "But for artificial intelligence and computer vision systems, developing a high-fidelity understanding of their surroundings takes a bit more effort. Well, a lot more effort. Around 800 hours of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/mit-computer-vision-algorithm-identifies-images-down-to-the-pixel-130051112.html",
-      "originalUrl": "https://www.engadget.com/mit-computer-vision-algorithm-identifies-images-down-to-the-pixel-130051112.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/bb03e290-c00b-11ec-9656-f63c96120141",
-          "width": 6468,
-          "height": 4329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
