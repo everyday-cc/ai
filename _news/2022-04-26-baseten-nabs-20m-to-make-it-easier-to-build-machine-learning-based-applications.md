@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 696
     isCached: true
 
-secured: "8hwg5NMQ1ftjbuNyLuGAnF8X84sQ5AmyOHElGcGpRC6dnfBcXLZmiecKgPKEjrIJC4i6V4QyxGxTOFiji5RjV9v5BujQoYeMeBFVYqT8aJ+5jGu1pnIUE3LkEkmZGcnOFF+CDWwAKCnyMPrVOi/1uwidOI2o7TPCfWIZ8BaSkXOOI2coqC7GaZCLaeUWtxiFkpPgFRs3hLUllyYmRV6JlYpempVzG4bkry7r9Y9egJdcckBa9Ud55YE5o9rf5ON1B+lLx06H17n6X255ElBrVxgJwp1B0IgBVErchbnllya5587RWINz+yMr/k4C9BFilGasX0IYuZDzAKgTFM7w1IB/uqpBSfeUMT1OARm57j0=;gF6U/1YEUWgmrSwLEocDHw=="
+secured: "aZvLoMzmZ1wFBNztzSa9XO5ZNQFDXKPPa+evtjZq/YtDofuBgiBNum1k4EVAw1xCoJ7FmPGpjq/dWqAsUMKYy/+fEVR07u26GtEwWJ5JU4WRuNMBOUSeLcleAm63f26cyW5ehP7SqZnD2pXdYt15jfrsowbct0jgXqmgENlRnxpi0XfZnz8mmHLB7PyCm35ch5VcHd8t7LZa2sNz+s6D12k7+VpLqSJ/m4V9aymd1K8KEsUew05v9vvQ/zM/dni3JpjuIG7SkNgwPMBrMXMiDvIh3f19KrQYLYLE30JvonT8NcORIFyOq2umhECJkDxYm5tkCfZ+dQZFAelyyAJK1UviLvc2sD753G82ulgErbZpSzqcJWDVaY9bhSwdz07ZOXg22JQjmn9vn430PP25uHA9XNUjZEvute5T0tGkv+YHhsZRYGFra+jOXtkuVTeB2mHfkzJ5O/tbXwGxXlFekhN7tLgK22fEv962IteF/Mc0N6j6cg0V4P5PWA0KeIzE+Vo6iKafprrjTORXn8zoNw==;ZIlnz7StnErLENpfLUJsxw=="
 ---
 

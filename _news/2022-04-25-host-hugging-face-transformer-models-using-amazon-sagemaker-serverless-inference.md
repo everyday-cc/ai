@@ -43,20 +43,6 @@ related:
         width: 655
         height: 461
         isCached: true
-  - title: "AWS Summit San Francisco: SageMaker Serverless Inference Access Expanded"
-    excerpt: "Amazon Web Services has made serverless inference for its SageMaker machine learning tool generally available with the goal of simplifying model deployment without configuring or"
-    publishedDateTime: 2022-04-21T23:08:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-summit-san-francisco-sagemaker-serverless-inference-access-expanded"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 53
-    images:
-      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Aurora Serverless V2, SageMaker Serverless Inference, AWS IoT TwinMaker & AWS Amplify Studio are now generally available"
     excerpt: "Amazon Textract is an ML service that automatically extracts text, handwriting, and data from scanned documents"
     publishedDateTime: 2022-04-22T09:21:00Z

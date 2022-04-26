@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies"
-excerpt: "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,"
-publishedDateTime: 2022-04-22T00:56:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp"
-ampWebUrl: "https://www.benzinga.com/amp/content/26754709"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26754709"
+excerpt: "TruCorr performs attenuation correction using a Deep Learning approach with data from the patient's SPECT scan. The application eliminates the need to scan the patient in two different positions ..."
+publishedDateTime: 2022-04-22T01:33:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/"
 type: article
-quality: 28
-heat: 28
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies"
@@ -39,6 +31,6 @@ related:
       domain: finanzen.at
     quality: 8
 
-secured: "FeoBWzPjkDxP72uzgjWPyKaeVDAQrxoSq/V+R8i6nrw/Ex2jlNGfOVT9crhtvS7mq2v4tRVSQ8FdjQYLmx50RzCQnOAUBqcP/U/lZXrBOqgArwjbml+PwaPvCMrS5j7MG9OI1IEUcmszGC6IZutrkabeBAiTGlAFHCWLAOsIl3mITAz/vcXxdkPESOPjFnjhT9gxy/2BStnb2aY8cnugfvBkJ1FIFafnvDcqmoyurVQh5VqLMCDfgDCOwyoaWmkNGEQ1/SCKiWvGWmcFUH3mP9Wt/Fqv1DlVEQNsYOYTGGQdglec7QzjYf1bAWnP/Xqe+ZAWtzDllEQ8H0qZbmURhqr54sYylFPEXLeQRKEN/zI=;+YCz6kxRcmlpGaIOBCGV5w=="
+secured: "nsO6er8hnCACydI5JOMMOd1oEAo++FuZhRDfhejsbLh+OtNo9rcvKBW7sWPNfE7qbU14DU9hE+/RzNvY3PT8e31OXc8LbhhUdKFadMfkPnbs8ngPekh6ulbfgwtE0REiojFMDpISMbwoI0ytHo/ntUOSpJKYl9+hkf7hWg2IX5OUOs+svXt/IDQzWSEw5jbwqJUj7n4HYlJmJ/JNHNLwYwWIniXSpUYZgB3+pzOJbcBdRS23HCrck+a6CAngUV3E3AVvswJhTIUbELgCw0uxocvmBenhKL+CCEVtaGUFl4pLL5ohFpeSZp3t/PwKe4wwxMGxlgao1tEyXyJFN4848tAnJa+WyT8FhTSU7z4YfEE=;Hguwboz/PyeyVWpdpEEfrA=="
 ---
 

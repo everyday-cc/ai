@@ -23,6 +23,22 @@ images:
     height: 222
     isCached: true
 
+related:
+  - title: "OpenCity's Conversational Voice AI \"Tori™\" Forever Changes the Drive-Thru Experience"
+    excerpt: "The COVID-19 pandemic has caused the hospitality industry to innovate and leverage technology to enable a better guest experience with consistency and accuracy. QSRs (Quick Servic"
+    publishedDateTime: 2022-04-26T17:31:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220426NE36134/opencitys-conversational-voice-ai-tori-forever-changes-the-drive-thru-experience/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1804482/Screen_Shot_2022_04_25_at_6_38_22_PM.jpg"
+        width: 400
+        height: 222
+        isCached: true
+
 secured: "t35Ax9GssWHiu2z8KQQgRWu5ITFglfqjuw/5E4CUwaE1UX4+VJ+sEjibhv8sLqIVYrfl+iH9RzGcctB6cL3/RdIHIvY0Gg9KUl/wFTjzOfrJk9hlHpI64+7+9Iu0k2cXsre1hBhRHXyWa426YEiqjjzowLOy6I7lPB4qbXvTFk4VssuCqhh5J4dRhQEore/YddCQ0bl5HkkEnqIvEBztb/9sNOHU90btf3makK2CrFu3YdcOg1Bkqncl/hCuLnQ8PLV1rGpUH+XlMl5Gd1/pxnZxR1dKrotSmwkslLmj4795yWKIhx9wgrM3V4F2mipPz1boOmElS9Vhe02p0/PfCeLmutCKHdPYipL/A81MGqI=;EDmt8jSl4L44mazG856PNg=="
 ---
 

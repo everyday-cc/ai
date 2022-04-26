@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2022/04/22/deepmind-mila-google-brain-enabl
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/22/deepmind-mila-google-brain-enable-generalization-capabilities-for-causal-graph-structure-induction/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 790
     height: 320
     isCached: true
+
+related:
+  - title: "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment"
+    excerpt: "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,"
+    publishedDateTime: 2022-04-26T17:46:00Z
+    webUrl: "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/"
+    ampWebUrl: "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 76
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/04/image-82.png?fit=604%2C340&ssl=1"
+        width: 604
+        height: 340
+        isCached: true
 
 secured: "1mGOn3OZioaMRTAgZeVDszJZUlmbri6z3HgRXEXHQBY+2+Vv5esvtFXmn4tMNIsuzuvb6CA5mgWDzp/jtLMlFk7ezUH3KGEXFv3k/igSNxbkwVLY6pNnYznAUNKZqUNpwdQ1nAyIBFTiy+njevS7IKi3Kqg8zVFCgXyq7i5QXGED36OEtTXgAQnAHBSosOoPf9EXatFG7DoBdntL5SmQa6n9Opz2L7gqgW1F5G5TvCsia9sLL4ypmu66mQG0jcoCtzrKMvc8z2NpEl5jMjZGdgsOhC6gI2k3Rlu3mCKPVTDM954XBmgKrJQuUdwOaIo3CAnjEYA/1VgJcUDqmJpwLeXa3oa7rd4PekNa5vJNRFlczcaIy0lcQl0eO2ZKH3F2hXeP5jBPyJvpksH9V3o8VrxwjxueoMMzS4S76kDueLssOFy55zYpu8T2WFeqf0k+pwVFiUiN4JFH05WSHyOxXn/WisXSVa+6aOJ7RfJKbNGCYrZlcpYHCihDUPaC3FhFQSoz1SRnUv3MT9OEVr4omw==;8tR39vN/XAYjTRjGuYJ1/w=="
 ---

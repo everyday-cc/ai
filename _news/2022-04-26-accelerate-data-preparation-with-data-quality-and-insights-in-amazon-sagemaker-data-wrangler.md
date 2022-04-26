@@ -57,6 +57,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Create random and stratified samples of data with Amazon SageMaker Data Wrangler"
+    excerpt: "In this post, we walk you through two sampling techniques in Amazon SageMaker Data Wrangler so you can quickly create processing workflows for your data. We cover both random sampling and stratified sampling techniques to help you sample your data based on your specific requirements. Data Wrangler reduces"
+    publishedDateTime: 2022-04-26T16:02:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-random-and-stratified-samples-of-data-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/random-stratified-data-samples.jpg"
+        width: 1000
+        height: 501
+        isCached: true
   - title: "Part 1: How NatWest Group built a scalable, secure, and sustainable MLOps platform"
     excerpt: "This is the first post of a four-part series detailing how NatWest Group, a major financial services institution, partnered with AWS to build a scalable, secure, and sustainable machine learning operations (MLOps) platform. This initial post provides an overview of the AWS and NatWest Group joint team"
     publishedDateTime: 2022-04-26T15:17:04Z

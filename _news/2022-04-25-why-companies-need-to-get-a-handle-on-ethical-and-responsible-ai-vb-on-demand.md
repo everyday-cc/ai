@@ -41,7 +41,7 @@ related:
     provider:
       name: BizTech
       domain: biztechmagazine.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202204/GettyImages-1321058095.jpg?itok=bOX1TfGJ"
         width: 1440

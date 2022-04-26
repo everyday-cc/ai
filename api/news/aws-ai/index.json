@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -265,7 +265,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/secure-aws-codeartifact-access-for-isolated-amazon-sagemaker-notebook-instances/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -515,22 +515,31 @@
       "title": "Strategic Analysis of Amazon's Growing Footprint in Mobility - ResearchAndMarkets.com",
       "excerpt": "The \"Strategic Analysis of Amazon's Growing Footprint in Mobility\" report has been added to ResearchAndMarkets.com's offering. Amazon, the eCommerce behemoth, has been making steady strides in the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com",
+      "webUrl": "https://www.enidnews.com/region/strategic-analysis-of-amazons-growing-footprint-in-mobility---researchandmarkets-com/article_40fbcd74-44c5-5e8d-8225-51f74285828c.html",
+      "originalUrl": "https://www.enidnews.com/region/strategic-analysis-of-amazons-growing-footprint-in-mobility---researchandmarkets-com/article_40fbcd74-44c5-5e8d-8225-51f74285828c.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T09:20:00-07:00",
+      "publishedDateTime": "2022-04-20T03:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Enid News & Eagle",
+        "domain": "enidnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1017,19 +1026,19 @@
     {
       "path": "_news/2022-04-14-six-nines-announces-support-for-aws-for-games.md",
       "title": "Six Nines Announces Support for AWS for Games",
-      "excerpt": "Six Nines announced support for the AWS for Games initiative from Amazon Web Services (AWS) to accelerate cloud-native game development and design through",
+      "excerpt": "Six Nines announced support for the AWS for Games initiative from Amazon Web Services (AWS) to accelerate cloud-native game development and design through their Studio in the Cloud offering running exclusively on AWS.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-745de21365a6b76f7fdc588e7df21ee2",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-745de21365a6b76f7fdc588e7df21ee2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/87/2870dd26-607e-54a3-8cc4-c474e45ba8f4/625709700b403.image.jpg?crop=762%2C400%2C329%2C0&resize=762%2C400&order=crop%2Cresize",
-          "width": 762,
-          "height": 400,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1039,11 +1048,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T10:33:00-07:00",
+      "publishedDateTime": "2022-04-13T10:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

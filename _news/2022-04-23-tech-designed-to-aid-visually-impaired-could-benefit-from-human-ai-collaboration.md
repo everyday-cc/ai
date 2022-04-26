@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-04-tech-aid-visually-impaired-benef
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-tech-aid-visually-impaired-benefit.amp"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: techxplore
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI Could Improve Tech Designed to Aid the Visually Impaired"
+    excerpt: "Challenges with remote sighted assistance technology could be better addressed by humans and artificial intelligence working together, a new study shows."
+    publishedDateTime: 2022-04-26T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-could-improve-tech-designed-to-aid-the-visually-impaired"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-could-improve-tech-designed-to-aid-the-visually-impaired"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-could-improve-tech-designed-to-aid-the-visually-impaired"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
   - title: "Remote sighted assistance technology may benefit from human-AI collaboration"
     excerpt: "Remote sighted assistance (RSA) technology -; which connects visually impaired individuals with human agents through a live video call on their smartphones -; helps people with low or no vision navigate tasks that require sight."
     publishedDateTime: 2022-04-24T19:03:00Z

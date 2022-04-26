@@ -30,24 +30,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, launched the Vian H+AITM Platform for reliable, optimized enterprise-wide deployment, management, and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-26T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/04/26/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 14
   - title: "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program"
     excerpt: "NEC Corporation, a leader in IT and network technologies, and NEC X, the innovation accelerator for NEC’s emerging technologies, announced today that Beagle Technology is the fifth startup to graduate from the NEC X Corporate Accelerator Program (CAP)."
-    publishedDateTime: 2022-04-26T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nec-x-announces-fifth-ai-start-up-graduate-/2022/04/26/9589605.htm"
+    publishedDateTime: 2022-04-26T13:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-lifestyle-wine-nec-corp-03b925a4b75bdcd7292712b1255b7422"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "DiA Imaging Analysis Collaborates with Intel Corporation to Accelerate Processing Time of its AI-based Cardiac Ultrasound Software in Hospitals"
     excerpt: "DiA's AI-based software optimized with the Intel Distribution of OpenVINO toolkit enhances cardiologists' decision-making process and workflow BE'ER SHEVA, Israel, April 26, 2022 /PRNewswire/ -- DiA I"
     publishedDateTime: 2022-04-26T13:30:00Z

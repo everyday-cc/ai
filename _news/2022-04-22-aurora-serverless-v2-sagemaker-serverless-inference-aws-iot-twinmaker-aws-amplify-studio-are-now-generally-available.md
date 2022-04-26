@@ -53,20 +53,6 @@ related:
         width: 1019
         height: 630
         isCached: true
-  - title: "AWS Summit San Francisco: SageMaker Serverless Inference Access Expanded"
-    excerpt: "Amazon Web Services has made serverless inference for its SageMaker machine learning tool generally available with the goal of simplifying model deployment without configuring or"
-    publishedDateTime: 2022-04-21T23:08:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-summit-san-francisco-sagemaker-serverless-inference-access-expanded"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 53
-    images:
-      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "6qNTslsuBq8pGet2BbeQDGPdYz6Xy3jcSsTtW1KlH6njsfhoQ7VfUbqYfoctAPHIDqzFLqVyOYGTg6zRMFZuQk2umogG7jhDJNBSHWYhOTNAtTn3UbZja/SfJPy5itYq0DrGdZENHA5x7A+gkoUBEkiqK4l0ktVUPC4OujhEk9333LTTqZXJwVi++f+RCiTbmoc4lrnftFF50Sv9CagpdvATNaS6N0+N8rJLWS39Z3+bayuBS2XCH357VtFsfSvzZd1x1+0JoXz3QkMXFkTKG3UEhzjADDMcXnd+RLk8kJ4iy41iJjnf+SFErct4rReG/ZNS8hS6dvnPBB8QJUAv5O7sMjjanNAPpDzPtlmGrmWl6e2TIN4dMNFLEoM1Y0kwFazxHxQu82hujD4Ip1xYy9E6vYYeIAV62nx1GKBefwazx9k1mgK9ZZcP8KaO24aoTtCfnkTupX3tGi7ljevWPZe/SMRnC7NtRbkWE69cTnQDbpjfexSJhbZDozkhJsFmLiNXKJDFk6oWUiMu7t3Kfw==;1KqtAFYI9mnCirxBkzG8vw=="
 ---

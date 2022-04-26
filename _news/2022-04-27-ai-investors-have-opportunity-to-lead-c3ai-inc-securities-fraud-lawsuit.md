@@ -1,0 +1,44 @@
+---
+category: news
+title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+excerpt: "The complaint filed alleges that, throughout the Class Period, Defendants failed to disclose to investors that: (1) C3.ai's partnership with Baker Hughes was deteriorating; (2) C3.ai was employing a flawed accounting methodology to conceal the deterioration of its Baker Hughes partnership;"
+publishedDateTime: 2022-04-26T18:00:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220426LA35954/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220426LA35954/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+type: article
+quality: 35
+heat: -1
+published: false
+
+provider:
+  name: KTLA
+  domain: ktla.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
+
+related:
+  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+    excerpt: "The complaint filed alleges that, throughout the Class Period, Defendants failed to disclose to investors that: (1) C3.ai's partnership with Baker Hughes was deteriorating; (2) C3.ai was ..."
+    publishedDateTime: 2022-04-26T15:50:00Z
+    webUrl: "https://fox8.com/business/press-releases/cision/20220426LA35954/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 35
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+        width: 800
+        height: 340
+        isCached: true
+
+secured: "hjirM+sI8THZN7KlwVA5LcpLBDFSdrNrzvRLXqG418LNaNVN6mMbMo24JXWd6QVZ7KkpYlGOFIaygEWvrdWMPSxv5SYAmPpufN3/LAwadBiB0Tl1sTuKFL1B4ujo6uWBFA6bW5XtXXE1yoxghU+xORtH2IhPCEjiwfeuaNR/moPx+b9s78129PzbHzMQ0+g+mmXryp9WN0U+vn01CILdgWbgyuji9eHdZrfdoTeFo3gEvGdoY9/G61SiawdUi3pcC+R8G9OeEUxsM/+SdV9FAGPr28Vuz6FN97seb2JE4yTj7rXM+h87qtOPfl9A8v6WXLHAe7+suTXzmshzCfk6Cs7+3HbJfrcASP9nEE6PU3U=;1Tv4NxT2xNMMo4oMlddG4A=="
+---
+
