@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufac
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
-        isCached: true
-  - title: "AI in Manufacturing Market Expected to Grow at a CAGR of ~25% throughout 2022 2030"
-    excerpt: "Research Nester published a report titled “ AI in Manufacturing Market : Global Demand Analysis & Opportunity Outlook 2030 ” which delivers detailed overview of theglobalAI in manufacturing market in terms of market segmentation by component,"
-    publishedDateTime: 2022-04-21T11:11:00Z
-    webUrl: "https://menafn.com/1104065505/AI-in-Manufacturing-Market-Expected-to-Grow-at-a-CAGR-of-25-throughout-2022-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?540820"
-        width: 375
-        height: 250
         isCached: true
   - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
     excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"

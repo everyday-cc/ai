@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Face Recognition Systems Trends Technology Innovation, Analysis Application, Demand Forecast, 2028 | Reports And Data"
-    excerpt: "Increasing government expenditure on Face Recognition Systems for enhancing border security and adoption of live surveillance technology in various"
-    publishedDateTime: 2022-04-21T12:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/face-recognition-systems-trends-technology-innovation-analysis-application-demand-forecast-2028-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "nzDZXifgzPv03eIcbN2FZb+s1dFIt+c6LHzKXv0dd/cA4zDYYScoEZX5U+vwKGzM63D/Ej8CUUS7wGwTMFJp5cysHgfxAT7DKBQ+3Rkq1vHVEXgJ5/cu2APsED3CVyJS9zLLdS0SSlZsNwhjNGWl27JHz/eDOWK/CdtD9eujHy16WrZxc2AqRKNmTOCRx9lTSZV7LyqFe7+VIycxHRCyawPfkqO8Ci4eRV6pT6Tf5rs9FloBdz3hcoQc4WBTmhnmk+l0kOes0/VXKSfe3d6iMewqPbtH8pY64Z6UJK8N8VTdyUtKKkFgCcqjW0YxJUozSBHR+QDXux8KrWoCeHBpz7+tz+qon1zHXcsXCo4wJyI=;XuBnUekQh2SV74ZNepMztw=="
 ---

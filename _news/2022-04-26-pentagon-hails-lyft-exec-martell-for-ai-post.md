@@ -70,6 +70,20 @@ related:
         width: 756
         height: 530
         isCached: true
+  - title: "Pentagon hires Lyft machine learning expert Craig Martell as its first chief digital and AI officer"
+    excerpt: "Pentagon hires Lyft machine learning expert Craig Martell as its first chief digital and AI officer - SiliconANGLE"
+    publishedDateTime: 2022-04-26T03:26:00Z
+    webUrl: "https://siliconangle.com/2022/04/25/pentagon-hires-lyft-machine-learning-expert-craig-martell-first-chief-digital-ai-officer/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 40
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/martell.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Pentagon hires first chief digital and AI officer from Lyft"
     excerpt: "Craig Martell has left his role as head of machine learning for Silicon Valley rideshare company Lyft to be the Pentagon’s first chief digital and artificial intelligence officer. Martell has also held machine learning and AI roles at Dropbox and Linkedin."
     publishedDateTime: 2022-04-25T19:41:00Z

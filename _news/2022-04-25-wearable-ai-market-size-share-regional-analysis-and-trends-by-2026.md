@@ -58,6 +58,17 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "BrainChip and NVISO Partner on Human Behavioral Analytics in Automotive and Edge AI Devices"
+    excerpt: "APRIL 19, 2022 – BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world’s first commercial producer of neuromorphic AI IP and"
+    publishedDateTime: 2022-04-26T05:09:00Z
+    webUrl: "https://www.sharewise.com/us/news_articles/BrainChip_and_NVISO_Partner_on_Human_Behavioral_Analytics_in_Automotive_and_Edge_AI_Devices_Brainchip_Holdings_Ltd_irwpresseen_20220420_1033"
+    ampWebUrl: "https://www.sharewise.com/us/news_articles/BrainChip_and_NVISO_Partner_on_Human_Behavioral_Analytics_in_Automotive_and_Edge_AI_Devices_Brainchip_Holdings_Ltd_irwpresseen_20220420_1033/amp"
+    cdnAmpWebUrl: "https://www-sharewise-com.cdn.ampproject.org/c/s/www.sharewise.com/us/news_articles/BrainChip_and_NVISO_Partner_on_Human_Behavioral_Analytics_in_Automotive_and_Edge_AI_Devices_Brainchip_Holdings_Ltd_irwpresseen_20220420_1033/amp"
+    type: article
+    provider:
+      name: sharewise.com
+      domain: sharewise.com
+    quality: 44
   - title: "MoD to fund startups for Artificial Intelligence, big data analytics"
     excerpt: "The Defence Ministry will fund startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
     publishedDateTime: 2022-04-23T00:32:00Z

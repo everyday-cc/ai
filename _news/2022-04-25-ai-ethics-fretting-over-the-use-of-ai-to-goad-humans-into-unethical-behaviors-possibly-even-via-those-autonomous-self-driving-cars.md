@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-frettin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/"
 type: article
 quality: 91
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -230,15 +230,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Green Light for Self-Driving Cars"
-    excerpt: "Self-driving technology has been given the green light by the Government after it approved changes to the Highway Code."
-    publishedDateTime: 2022-04-21T12:01:00Z
-    webUrl: "https://www.evanshalshaw.com/news/green-light-for-self-driving-cars/"
-    type: article
-    provider:
-      name: Evans Halshaw
-      domain: evanshalshaw.com
-    quality: 4
   - title: "What happened when police pulled over a self-driving car"
     excerpt: "A viral video on Instagram shows San Francisco police officers confused after pulling over a self-driving or autonomous car."
     publishedDateTime: 2022-04-25T10:00:00Z

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How Can Managers Use AI to Find the Right People?"
+    excerpt: "AI analyses their responses to determine intelligence, character and coding skills. The chatbot then invites the top third of the remaining candidates to do a webcam interview at their convenience within a several-day window."
+    publishedDateTime: 2022-04-26T03:53:00Z
+    webUrl: "https://knowledge.insead.edu/career/how-can-managers-use-ai-to-find-the-right-people-18621"
+    type: article
+    provider:
+      name: INSEAD
+      domain: insead.edu
+    quality: 39
+    images:
+      - url: "https://knowledge.insead.edu/sites/www.insead.edu/files/styles/484x252/public/images/2022/04/gettyimages-1218524115.jpg?itok=6TYMuGRa"
+        width: 484
+        height: 252
+        isCached: true
   - title: "Cedars-Sinai's new division is trailblazing AI to improve patient care"
     excerpt: "The Department of Medicine at Cedars-Sinai created a division to explore AI's applications in healthcare. The division, called Artificial Intelligence in Medicine, was launched March 1 and is led by Sumeet Chugh,"
     publishedDateTime: 2022-04-22T20:34:00Z

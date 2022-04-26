@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/04/22/1050394/artificial-intel
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-91062200,imgsize-28022,width-1200,height-628,overlay-etcio/what-determines-the-cost-of-an-ai-project.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "How Can Managers Use AI to Find the Right People?"
+    excerpt: "AI analyses their responses to determine intelligence, character and coding skills. The chatbot then invites the top third of the remaining candidates to do a webcam interview at their convenience within a several-day window."
+    publishedDateTime: 2022-04-26T03:53:00Z
+    webUrl: "https://knowledge.insead.edu/career/how-can-managers-use-ai-to-find-the-right-people-18621"
+    type: article
+    provider:
+      name: INSEAD
+      domain: insead.edu
+    quality: 39
+    images:
+      - url: "https://knowledge.insead.edu/sites/www.insead.edu/files/styles/484x252/public/images/2022/04/gettyimages-1218524115.jpg?itok=6TYMuGRa"
+        width: 484
+        height: 252
         isCached: true
   - title: "A New Vision of Artificial Intelligence for the People"
     excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s"

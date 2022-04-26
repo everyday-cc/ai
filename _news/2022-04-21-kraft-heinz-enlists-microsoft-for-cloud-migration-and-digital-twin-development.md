@@ -36,17 +36,17 @@ related:
     quality: 99
   - title: "SAS and Microsoft Drive Toward Health Care Interoperability"
     excerpt: "Global analytics leader SAS and Microsoft are working together to build deep technology integrations, making advanced health analytics more accessible to health care and life science organizations. The collaboration boosts health care interoperability by enabling the use of Fast Healthcare Interoperability Resources (FHIR®) standards and through integration from Azure Health Data Services to SAS® Health on Azure."
-    publishedDateTime: 2022-04-21T17:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sas-microsoft-drive-toward-health-care-interoperability-/2022/04/21/9587525.htm"
+    publishedDateTime: 2022-04-21T17:02:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/sas-and-microsoft-drive-toward-health-care-interoperability/article_92fbf0f0-36c0-5e37-9a6b-34068b544575.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1801902/SAS_and_Azure.jpg"
-        width: 400
-        height: 267
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/7c/27c21469-20f5-5107-9fe8-56ee7bf4ca57/62618e4d4084c.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
         isCached: true
 
 secured: "fw14qCM4QLdiABTgqFyp2mueYte9QAIhfJIs1UzVh5I11TzAhdU4e7g9IEF5JLgnXl76IMG9+AaZh8xP6c7PlgC9VZdnUEdas4p6OzkcgBJG4IdBQAFxzGiwtDD14s5rXoHb3iioD3ZFx5ZugvpHsYa4Qmz1ePAMGc3qF0dkkRLiefygPK/jwp/chLiyYZNo6JH9E4Balg9LMR9RYQ/kfpnKoj7DGC2y/YVSMs8jEZgWX+o6HTsN8nznHmn7c4w38EbKIEOKaqF+nBpadkaRzZ/RUUi4vF4hrYmlmkE6MMARKqjensp5rRIYfMwVEfE+wo5HeFZ/hFaywLGtlljdxEXjqQexOYcRDOrQvn+/R+Q=;ROzskdgk1GpEmd0THCCxMg=="

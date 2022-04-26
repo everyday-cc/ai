@@ -226,15 +226,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Green Light for Self-Driving Cars"
-    excerpt: "Self-driving technology has been given the green light by the Government after it approved changes to the Highway Code."
-    publishedDateTime: 2022-04-21T12:01:00Z
-    webUrl: "https://www.evanshalshaw.com/news/green-light-for-self-driving-cars/"
-    type: article
-    provider:
-      name: Evans Halshaw
-      domain: evanshalshaw.com
-    quality: 4
   - title: "What happened when police pulled over a self-driving car"
     excerpt: "A viral video on Instagram shows San Francisco police officers confused after pulling over a self-driving or autonomous car."
     publishedDateTime: 2022-04-25T10:00:00Z

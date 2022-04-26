@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healt
 ampWebUrl: "https://venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/novartis-and-snowflake-driving-healthcare-data-innovation/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1216142687.jpg?w=1200&strip=all"
@@ -31,6 +32,6 @@ images:
     height: 800
     isCached: true
 
-secured: "ruKfArwUMHGU5PIzY2cJDS3n9iMuikkEH1WpBRh9G3Ku1k6I7Og25MWU9orKLFuAk1StJCTbGLCj4hxPb+83VWD7OEl0/j7t5l8VQefSaPHj2oMVfhNK9SVsB632OVB5gA3PCYLhEuFKfTckh06JxdSlM0uYHeVMzz6DEISamW3KqV7z18jQbuoxksf3dYKC6PklO26fIHq/e5cfwOXAOZmnKmcHZ5r8gai1bcxBvpOrts/M8n+r3Bcg71LvQw1meVNbQYKwxtC/2Erorn98J0j4l3lVr0sUSP009khLT4pBO4Zn+/5VS4zSUvXOK6lpk+m8Op9NFyPFo9Nf+9CHIn1nDOE65u+HhwH/nUQe6Zs=;LMxjgMt1hoX36WxPu6/Tvg=="
+secured: "jn8nAo50TQ+033bswGi+ng+TSERyheaZ3fRBryzszxhjAe+A60/K9Wx/OnrSBvHxwD5VuSKLusU2/HX4LdFuMTRoE4+9ZnFf1Gs1aYcm8kcEUnuVFZEU8qi40nVS6qTWEINEaN7gQdvqQae9MAEfrEDdMCZEjiOLP25gZxmXsl4u7GKNtFuvPGJOECtmx9/OPL5Q4WPzcq50ls27QeRH6CUf6kIrTQJz6bLTvC96kfQJyTHUPUFZzsssx0xMaePOvRf9ZZByuBU3pr8U2t9/Z7DQUM+91pWho3SvKPRrgGH8gF+qp2uhCcbNx8/JxODjYJFoWR2pPO+/MU7VWdKf9HGcCDDN3lRiKqBBs/2GbqPdzYgjyrOg0zAVrJA9PxMdldVzx3sen9Q+PVqBgNozui89AlRJTgRsXzIl77d3mQdyiW1atfGR4A+GQtqGKYhArEigGWV2RvUKkqS6tKzk2PLUESW7pT33/hP9jQCHqqDzj8jiXo2h92bOWDTVrn7HDAgz0g7fLaA5q4YwkXVZQA==;g+ndNmhCmKY/HS3dpbAZsA=="
 ---
 

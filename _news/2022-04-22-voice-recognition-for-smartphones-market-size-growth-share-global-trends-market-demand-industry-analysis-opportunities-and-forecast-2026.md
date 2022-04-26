@@ -57,20 +57,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "AI in Manufacturing Market Expected to Grow at a CAGR of ~25% throughout 2022 2030"
-    excerpt: "Research Nester published a report titled “ AI in Manufacturing Market : Global Demand Analysis & Opportunity Outlook 2030 ” which delivers detailed overview of theglobalAI in manufacturing market in terms of market segmentation by component,"
-    publishedDateTime: 2022-04-21T11:11:00Z
-    webUrl: "https://menafn.com/1104065505/AI-in-Manufacturing-Market-Expected-to-Grow-at-a-CAGR-of-25-throughout-2022-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?540820"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Global Behavioral Rehabilitation Market Forecast to 2028 - Advent of Online Counselling & Artificial Intelligence in Therapeutic Settings Gaining Mome"
     excerpt: "The \"Behavioral Rehabilitation Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Treatment, Application, Healthcare Setting\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2022-04-21T20:59:00Z

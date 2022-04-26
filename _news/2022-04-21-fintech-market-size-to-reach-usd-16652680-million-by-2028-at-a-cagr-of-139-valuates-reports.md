@@ -67,15 +67,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Computer Vision Market Size Is Projected To Reach USD 13380 Million By 2028 At A CAGR of 6.2% - Valuates Reports"
-    excerpt: "Computer Vision market is segment by Type - PC Based, Smart Camera Based, Segment by Application, Quality Control and Inspection,"
-    publishedDateTime: 2022-04-21T13:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-size-is-projected-to-reach-usd-13380-million-by-2028-at-a-cagr-of-6-2-valuates-reports-832179358.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 0
 
 secured: "Ntu93iWdILoR2rxH49wtzx0mnDV6WkoCK/zdOVzRKvSF0w1uYiokOjJjsYc+vJTHQ0h1F5UwiUrD7Qt00fCznkR0ABVWEMWyaVIRXb/L3ZeqMG431DzsNk05nejpl1hwNtqHEFltEtO/Mc4Gm5XGtuBWHIFjkaJbo/vH9s645aQFXFcEhIBOyKiSni5qymJg50pzZpou3g6X1he0HPMYwk+OwwQm4a/0ZJHxGAByNpA35Ln7nyfAG0z+MD0e7gyfGGh6rNj0ybRi1OXt5kUUzOSEE6oA2ezOsUtheyiZgMVAlmAEOexuJRWcv3OzNh8sLxhbHLetORLJoJV/OjebWihYSzNVLXqj9LZilDjqC5rD6n1c4+MFHkK29o3Pgc4K4lyYNMNajla9pX7G9yx1BJtAs6vx1JRifDYayuSi8R2O56RMiAfRyYwnpxaRf7e/MH+uvTPXWgvMT38qxyNPFymBurVhfvNAfW/lQ80E/WfiupITexGp6Zmeb6AuZkOvf6xsqnGlIA7YKaMJHG1/UA==;Tj1/CCkG4mp5nah5PuhWxw=="
 ---

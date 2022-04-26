@@ -27,20 +27,6 @@ images:
 
 related:
   - title: "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U."
-    publishedDateTime: 2022-04-21T11:06:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-robotics-b60a119ed2ebf7a0b0df4b6bf7d7ae63"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout"
     excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited ('Guardforce AI' or the 'Company') (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U."
     publishedDateTime: 2022-04-22T06:58:00Z
     webUrl: "https://www.bignewsnetwork.com/news/272502602/guardforce-ai-announces-initial-us-robotics-solutions-rollout"
@@ -53,20 +39,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1650525227063.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Guardforce AI skyrockets 35% in early trade on initial U.S. robotics solutions rollout"
-    excerpt: "Guardforce AI (GFAI) rallied 34.7% higher premarket after it announced the rollout of its robotics services in New Jersey, U.S. where the company's U.S. offices are based.The"
-    publishedDateTime: 2022-04-21T11:30:00Z
-    webUrl: "https://seekingalpha.com/news/3825191-guardforce-ai-skyrockets-35-in-early-trade-on-initial-us-robotics-solutions-rollout"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 61
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "Why Is Guardforce AI (GFAI) Stock Up Today?"
     excerpt: "Guardforce AI (GFAI) stock is rising higher on Thursday as retail traders react to recent news from the robotics company today!"

@@ -233,15 +233,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Green Light for Self-Driving Cars"
-    excerpt: "Self-driving technology has been given the green light by the Government after it approved changes to the Highway Code."
-    publishedDateTime: 2022-04-21T12:01:00Z
-    webUrl: "https://www.evanshalshaw.com/news/green-light-for-self-driving-cars/"
-    type: article
-    provider:
-      name: Evans Halshaw
-      domain: evanshalshaw.com
-    quality: 4
 
 secured: "kY37uQlPQ/6O2iPhYehbaQn/WL1hQv01yoGQbA/Z8fYCl4aYmWndt96dqKg/pzLSbZQHmTvGJnqXPIhAkzl7DvnFpGUoQdsPhqcdmzt6O6otcuKTQAOeJE34xv1X0hn4/LFNluceJQtEi68sRtpkOYA57P4q4o7A7AR7Ro71uahsw9VaGgsDTT4ChdhXQgchB0sc9PnHrcSovwtFXcbb26/k3TF86OWbjZTZp71slBSbjKoCuvpyBtZtsUzHWiUucZzP9EkS9qB4A3E3AmkGdb/U3cXqKgpCN/dN+h4CFlUDnhMjuO3TjN9xbEK5GZjA4OUgMQqBU9Un5oSyB5ufHJsjXTl08KVL64/ZPRKE6hFbcwtQ47kxrvsggKT1O1sMwTjm6OaH+L9nfHv4Lk6PKQGjKJ4lL+XdslH7yAmNVjRrGlPMksKLs6vfFREsWn7O+FL30s2CbCtbWPN7jKq5U65V1ZfVT7aAEK540iwRufHysugrxJoKhkwoZZRFzPPnoPL5hqBWVyFrlKgzAqD+lg==;3oBkx6xd6q5vAcAQ75nSYA=="
 ---

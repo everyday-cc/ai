@@ -7,7 +7,7 @@ originalUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTec
 webUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTech-Company-Responsive-Announces-Close-of-3.5-Million-Series-A-Financing-led-by-Canadian-Financial-Giant-Co-operators.cfm?j=0"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 800
     height: 446
     isCached: true
-
-related:
-  - title: "Canadian Fintech Start-Up SAVVII Group Inc. -- Offering a Uniquely Holistic Approach to Personal Finance -- Announces $10M in Seed Funding"
-    excerpt: "Unprecedented security, AI-powered financial coaching and industry-leading dynamic tools provide a connected financial experience that empowers Canadian consumers to take charge of their financial health TORONTO,"
-    publishedDateTime: 2022-04-21T11:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/21/9586796.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "MoI1UpcKlN05+oRus/rBj47Bbwh9wGuTDLcSimCIoptsf9uRGgqA6UfG7q0NrCItUL1ng52PgxZcoUf6+/lKfaeqN5lXBkOmtuvq7L/AcbEzDDTt7GD+GnZ+r7eXhBe271b2kRK4tkEekWzpQ8lgm3t7dYOPLgBIT1gUMJxBszj76+QdZlIl8ri5PI6mEvxgb2YwtQAWG7IKDAk5d3Yqdv97QBORvyyWQUpeEN1PzczQRSFk3ndJQZz7TBp0oSaUcYfZLXcLSSelipjgHzu0XIObllcXhLtuqQtGeAvNxFgq1p01c47zIwcCtbp3IDN/JRSWp4BCQwkeCa/jVw8SeJO7OumxMC4H4EWxC0pBuI8=;ZtVaKua3wfyM8xbzOs1eAw=="
 ---
