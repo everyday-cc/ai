@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/85731/elon-musk-teslas-robotaxis-wi
 webUrl: "https://www.tweaktown.com/news/85731/elon-musk-teslas-robotaxis-will-be-driving-you-around-in-2024/index.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Musk: Tesla’s robot will be ‘worth more than the car business’"
-    excerpt: "Tesla CEO Elon Musk has made the bold statement that the company’s robot will be “worth more than the car business”."
-    publishedDateTime: 2022-04-21T15:56:00Z
-    webUrl: "https://iottechnews.com/news/2022/apr/21/musk-tesla-robot-will-be-worth-more-car-business/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 56
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2022/04/tesla-bot-optimus-elon-musk-robot-robotics-ai-artificial-intelligence-iot-internet-of-things-scaled.jpg"
-        width: 2560
-        height: 1708
-        isCached: true
 
 secured: "Ur72P62A+VyLMkrALKuOOlnVtU8Nlh+no2+nytafu7un962esIKFOIrIJxNpZoPUWrTvbLDta/z4t0n70iHTSmTxEmuZTCmKslpI9e0xZjyC7bBohpwzgSLIvuZiERv478P3CpQqAaJ36zjOiYSMZpdHhswuJk2hnTQa08gBesMfh5iOvFZRQIA+t2OXGlhBH84OVY6k8LBL2YlhZfmNW/KFWT53NKiu308ZKfYtpE3YctATHEa1GkkWEfTw1P6WGIYxzoBP2G6vy9gYBfpypIfjU2F2sCwhfG8zcvIbUnsnQoEILz+uwEy+iQavpysbw0L5FXRUTw0Se17DB2uidEG2Dxb6wIh1S8U4NALnhKY=;D9RzwP99YUzHDTK2YiTxKw=="
 ---

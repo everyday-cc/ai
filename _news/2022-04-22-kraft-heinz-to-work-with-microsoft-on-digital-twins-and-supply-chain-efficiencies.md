@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 78
-  - title: "Kraft Heinz, Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
-    excerpt: "The Kraft Heinz Company and Microsoft Corp. are joining forces to develop solutions designed to accelerate the consumer goods giant’s transformation and enable a more resilient supply chain."
-    publishedDateTime: 2022-04-21T16:21:00Z
-    webUrl: "https://www.foodengineeringmag.com/articles/100231-kraft-heinz-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation"
-    type: article
-    provider:
-      name: Food Engineering
-      domain: foodengineeringmag.com
-    quality: 32
-    images:
-      - url: "https://www.foodengineeringmag.com/ext/resources/2022/04/21/KraftHeinz-Microsoft-logos.jpg?height=635&t=1650557798&width=1200"
-        width: 900
-        height: 550
-        isCached: true
   - title: "CollabCare and Hucu.ai Partner to Improve Communication for Older Adults and Families"
     excerpt: "With both increasing maturity and adoption across generations, the ability for these technologies to address the challenges faced by older adults and aging populations continues to be an area of interest."
     publishedDateTime: 2022-04-25T21:35:00Z

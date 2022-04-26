@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Operations Platform Market - Global Industry Share, Size, Growth, Demands, Revenue, Top Leaders and Forecast by 2029"
+    excerpt: "A new business intelligence report released by Data Bridge Market Research with title “Artificial Intelligence"
+    publishedDateTime: 2022-04-26T05:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-operations-platform-market---global-industry-share-size-growth-demands-revenue-top-leaders-and-forecast-by-2029-2022-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence as a Service Market Emerging Trends and Competitive Analysis During Forecast 2031"
     excerpt: "Some of the key technologies used by the players in the global artificial intelligence as a service market include deep learning, natural language processing or NLP, and machine learning or ML. Request Brochure-https://www.transparencymarketresearch.com ..."
     publishedDateTime: 2022-04-22T07:30:00Z

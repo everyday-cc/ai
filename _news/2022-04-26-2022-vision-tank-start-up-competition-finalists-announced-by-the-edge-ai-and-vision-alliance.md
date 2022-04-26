@@ -23,17 +23,6 @@ images:
     height: 207
     isCached: true
 
-related:
-  - title: "Arize AI Announces SOC 2 Type II Certification"
-    excerpt: "BERKELEY, Calif., April 21, 2022 /PRNewswire/ -- Arize AI, a leading ML observability company, today announced that the company achieved SOC 2 Type II certification under standards set by the ..."
-    publishedDateTime: 2022-04-21T15:31:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220421SF31836/arize-ai-announces-soc-2-type-ii-certification/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 17
-
 secured: "8CJorp0PzEWh9fQA4koAFlko/aY9IKeiBOKV919itIzfULBjYy0SG0mYwr2WaydoPkmKL0nxnzLJihOq7UXwnyqq6kFc6z8XQX1b9lmZ6kUObWZ3rL0HK/zLdf/GrJ0Locj6pQa7pV9DbSy9a8exLziBmfV3+a7lBlfGBUI60ekVeaKtOwDY52+8b3CLkS5eRNY10fFke97pGecvWjcoI55iW722uwStOLECdEfGuMMpUqBKRMLGLT76ScSIKgZUk4R3o9dRqsi02yBh0ophhcK4jLdQMUCCbUxPZ3G3HLbkdaxw61AdcSUhzaJ6bz8PuiYnQmhqPMc5ZdsDmRrUkVvn5An6ty98vzEt3Zl4weI=;qKwRhNRk6NM45uuOHXr+9Q=="
 ---
 

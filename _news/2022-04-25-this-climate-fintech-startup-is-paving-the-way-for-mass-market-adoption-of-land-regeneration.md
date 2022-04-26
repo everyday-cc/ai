@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Credit unions eagerly pursuing fintech partnerships"
-    excerpt: "To appeal to a younger audience, credit unions are teaming up with third parties that can help them offer Bitcoin accounts, real-time payments and other cutting-edge services."
-    publishedDateTime: 2022-04-21T16:10:00Z
-    webUrl: "https://www.americanbanker.com/news/credit-unions-eagerly-pursuing-fintech-partnerships"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/31786ca/2147483647/strip/true/crop/1400x735+0+33/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2F63%2F6249e5f84534a5833230a503ee0c%2Fashley-novak-willden.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "$36B+ AI in FinTech Industry Trends and Opportunities Assessment, 2027 - The Increasing Utilization of Smart Contracts for Financial Processes is Driv"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
     publishedDateTime: 2022-04-25T02:46:00Z

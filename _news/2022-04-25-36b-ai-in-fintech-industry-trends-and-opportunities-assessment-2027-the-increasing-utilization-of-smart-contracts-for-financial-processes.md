@@ -66,20 +66,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Credit unions eagerly pursuing fintech partnerships"
-    excerpt: "To appeal to a younger audience, credit unions are teaming up with third parties that can help them offer Bitcoin accounts, real-time payments and other cutting-edge services."
-    publishedDateTime: 2022-04-21T16:10:00Z
-    webUrl: "https://www.americanbanker.com/news/credit-unions-eagerly-pursuing-fintech-partnerships"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/31786ca/2147483647/strip/true/crop/1400x735+0+33/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2F63%2F6249e5f84534a5833230a503ee0c%2Fashley-novak-willden.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yRjtxJ0mENHamFB8/ExPHRftN3VlapXZDs443yw1R82Sy5BQBOiQwfNQ3PF34jUwX86WpjkneaPR6xdgPP6BQeZUxFQpUp9RYg6egVqKWoerzBeWekGoxTHHxhkuCmajLDacISUuFKVy0escHRrrwbRy2mlk6vRjyoOOeqYx17dFi3daLd8sf/XCBfuImF/Ynb9xTY8Udaoc8l60I2uEVHPxS9s77+BoRKqKsz/BajUaLIi634uTE+FWQYO4JjSRkb5fAJTUkiiccdi+VvDyUfembUFY+Cf+dUAujPpf+ReT1m+hOaO7ruZ+4supg4rm7qeeW6rtkUKZSsX6rimQI/NS4pyfqqZeFiLQ5bDq+yU=;adbUhUT9AGFBIPx34SwTMw=="
 ---

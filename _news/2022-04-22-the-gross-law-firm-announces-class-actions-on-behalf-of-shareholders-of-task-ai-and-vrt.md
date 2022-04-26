@@ -40,22 +40,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Why Is Guardforce AI (GFAI) Stock Up Today?"
-    excerpt: "Guardforce AI (GFAI) stock is rising higher on Thursday as retail traders react to recent news from the robotics company today!"
-    publishedDateTime: 2022-04-21T15:47:00Z
-    webUrl: "https://investorplace.com/2022/04/why-is-guardforce-ai-gfai-stock-up-today-april-21/"
-    ampWebUrl: "https://investorplace.com/2022/04/why-is-guardforce-ai-gfai-stock-up-today-april-21/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/04/why-is-guardforce-ai-gfai-stock-up-today-april-21/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 59
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Guardforce AI rolls out robotic services in the US starting with New Jersey"
     excerpt: "The robots are deployed in office buildings, where they are tasked with disinfection duties on a trial basis to provide the company"
     publishedDateTime: 2022-04-22T05:48:00Z

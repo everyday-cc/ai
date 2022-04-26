@@ -42,20 +42,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against C3.ai, Inc. (AI)"
-    excerpt: "Glancy Prongay & Murray LLP (“GPM”) reminds investors of the upcoming May 3, 2022 deadline to file a lead plaintiff motion in the class action filed on behalf of investors of C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) who purchased or otherwise acquired: (a) Class A common stock pursuant and/or traceable to the December 2020 initial public offering (“IPO”);"
-    publishedDateTime: 2022-04-21T16:04:00Z
-    webUrl: "https://wgntv.com/business/press-releases/globenewswire/8526153/glancy-prongay-murray-llp-reminds-investors-of-looming-deadline-in-the-class-action-lawsuit-against-c3-ai-inc-ai/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 13
-    images:
-      - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2022/04/gettyimages-1392629684-594x594-1.jpg?w=2000&#038;ssl=1"
-        width: 594
-        height: 396
-        isCached: true
   - title: "INVESTOR ALERT: Scott+Scott Attorneys at Law LLP Reminds Investors of Securities Class Action Against C3.ai, Inc. (AI) and May 3 Deadline"
     excerpt: "Scott+Scott Attorneys at Law LLP (“Scott+Scott”), an international shareholder and consumer rights litigation firm, reminds investors that a securities class action lawsuit has been filed against C3.ai,"
     publishedDateTime: 2022-04-21T18:37:00Z

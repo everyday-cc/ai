@@ -1,28 +1,30 @@
 ---
 category: news
 title: "AI Medical Service Inc. Announces 8 Billion JPY (US$70 M) Series C Financing Led by SoftBank Vision Fund 2 (SVF2)"
-excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech compan"
+excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech company using deep learning technology to"
 publishedDateTime: 2022-04-26T07:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/ai-medical-service-inc-announces-8-billion-jpy-us-70-m-series-c-financing-led/article_ef4fee5b-eed4-51a2-8186-6e042a213cdf.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/ai-medical-service-inc-announces-8-billion-jpy-us-70-m-series-c-financing-led/article_ef4fee5b-eed4-51a2-8186-6e042a213cdf.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26805202/ai-medical-service-inc-announces-8-billion-jpy-us-70-m-series-c-financing-led-by-softbank-vision-f"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26805202/ai-medical-service-inc-announces-8-billion-jpy-us-70-m-series-c-financing-led-by-softbank-vision-f"
+ampWebUrl: "https://www.benzinga.com/amp/content/26805202"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26805202"
 type: article
-quality: 16
-heat: 16
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "mYv0phVcZAl2ScaPsTWulvR6zKZDLhbsDk3P3VdQfoelXztbmC5YysOOz2ka3z6zLmAR4WN3q5vHYggofmS1tAjBblB+YDiHU/Tw50fmFPLZ7MMkuNxbvp5jEwyyv95GcYBLu7l9SrNcjUdKDfG0dMJtrz//CAINuiFvyIzMgXUMnszCDk1rzPN1O4QoHlbAAQNtiINgtBgTt8IbjDsVZGiTilKgUcUSI6div5AK8Grr725Q7SG/AswSD1A1178x7nCPdU9J+yhaxeyA5D8NxLZLAgLVTjz5KdFLahe7PCTZNTvq+hYRDSaUB4AxfQ4oEObjG7xkwOD4f6NBPG/eA+DLfJ9tE+Ye7S0Hfb62vhI=;YnPtoB7xyU1KfzGE1XMoLw=="
+secured: "/xk9YRZhDo6+L3un48x+gnMdkaIiHdFna8f4Z3funIhlhzjZPuThxt+YveACpEtVqOSwnAdG6Asigmo5uD6cb8rHxdJgXqJE7TR7qvr3O4W/vcZTK54RLQSzNCBQRMAxbjG+oODr1sffJ4bsS72HTPPlPNHZMovNhfa1gCZv6d3gIs3pva/lKdvSSgY3B2sLhO0gCuJHCaAw2qJ7zZiZpYgi0tXiJ0nvlnrVgMtG33Y5xibf1MS2zQHxgqNN7VBt12ESV3QRBpKoHuia9kYtyQ6f1a1QoiUAmmL0BJO5YQH41+X5me+2layazEbBQppapOFYjPz2qQgh/J2V+jHba2aeHXdiSfek3b4tLPaqNHI=;81kddcg/zz1VtwK8geApdA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics
 webUrl: "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

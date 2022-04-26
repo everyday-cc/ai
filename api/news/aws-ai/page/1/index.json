@@ -501,6 +501,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-19-hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator.md",
+      "title": "Hayden AI Accepted into AWS GovTechStart, Amazon Web Services (AWS) Government Technology Accelerator",
+      "excerpt": "Hayden AI, an emerging leader in smart enforcement technologies powered by artificial intelligence is excited to announce that it has been officially been accepted into AWS GovTechStart, the Amazon Web Services (AWS) government technology (GovTech) accelerator,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-the-helm.md",
       "title": "Amazon to conduct racial-equity audit with Loretta Lynch at the helm",
       "excerpt": "One proposal also seeks an independent study of the company’s proprietary facial recognition software, Rekognition. TheGrio is FREE on your TV via Apple TV, Amazon Fire, Roku, and Android TV.",
@@ -530,49 +573,6 @@
       "provider": {
         "name": "The Grio",
         "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator.md",
-      "title": "Hayden AI Accepted into AWS GovTechStart, Amazon Web Services (AWS) Government Technology Accelerator",
-      "excerpt": "AWS Promotional Credit, and more. Hayden AI is bridging the innovation gap in transportation management by combining artificial intelligence with mobile sensors that have the ability to see and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26689258/hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26689258/hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26689258",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26689258",
-      "publishedDateTime": "2022-04-19T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

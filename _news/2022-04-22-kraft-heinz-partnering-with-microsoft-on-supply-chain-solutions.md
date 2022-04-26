@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Braincube Now Available in the Microsoft Azure Marketplace"
-    excerpt: "With the move to Azure Cloud, the infrastructure is easy to maintain and we can roll out new plants rapidly. Braincube is driving innovation in the data analytics and AI space and we are delighted ..."
-    publishedDateTime: 2022-04-21T15:46:00Z
-    webUrl: "https://menafn.com/1104069967/Braincube-Now-Available-in-the-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 69
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?922726"
-        width: 427
-        height: 250
-        isCached: true
   - title: "Microsoft at NAB: Showcasing the future of media and entertainment"
     excerpt: "So much has happened to the world at large over the past two and a half years and that is reflected heavily in our media and entertainment industry. The response to the pandemic, dramatic changes to global weather,"
     publishedDateTime: 2022-04-22T15:00:00Z

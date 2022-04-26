@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-26-tv-clip-study-suggest-that-people-prefer-voice-only-ai-companions-over-human-like-robots.md",
+      "title": "TV Clip Study Suggest That People Prefer Voice-Only AI Companions Over Human-Like Robots",
+      "excerpt": "In a recent study, using clips from Black Mirror, volunteers thought a voice-only AI would make a better companion than a perfect human replica. Is it the uncanny valley or just reflecting the AI companions we already know?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evaamsen/2022/04/26/tv-clip-study-suggest-that-people-prefer-voice-only-ai-companions-over-human-like-robots/",
+      "originalUrl": "https://www.forbes.com/sites/evaamsen/2022/04/26/tv-clip-study-suggest-that-people-prefer-voice-only-ai-companions-over-human-like-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6267b6e5601f9f3fdddc924e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/evaamsen/2022/04/26/tv-clip-study-suggest-that-people-prefer-voice-only-ai-companions-over-human-like-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evaamsen/2022/04/26/tv-clip-study-suggest-that-people-prefer-voice-only-ai-companions-over-human-like-robots/amp/",
+      "publishedDateTime": "2022-04-26T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-teaching-ai-and-robotics-concepts-in-business-courses.md",
       "title": "Teaching AI and robotics concepts in business courses",
       "excerpt": "By Gary Allemann, MD at Master Data Management Artificial Intelligence (AI) and robotics are steadily making their way into every industry. From retail companies to healthcare practices that use AI-driven robots for medical processes,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -339,7 +391,7 @@
       "originalUrl": "https://www.bignewsnetwork.com/news/272502602/guardforce-ai-announces-initial-us-robotics-solutions-rollout",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1344,49 +1396,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-the-perfect-blend-how-to-successfully-combine-ai-and-human-approaches-to-business.md",
-      "title": "The Perfect Blend: How to Successfully Combine AI and Human Approaches to Business",
-      "excerpt": "Then, when the robot is unable to fit a bowl of water through the bars ... to reimagine your processes and ways to replace them with AI. Then, start collecting data. AI needs a lot of data points, so the sooner you start collecting, the better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/The-Perfect-Blend-How-to-Successfully-Combine-AI-17078269.php",
-      "originalUrl": "https://www.chron.com/business/article/The-Perfect-Blend-How-to-Successfully-Combine-AI-17078269.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/25/13/72/22331011/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

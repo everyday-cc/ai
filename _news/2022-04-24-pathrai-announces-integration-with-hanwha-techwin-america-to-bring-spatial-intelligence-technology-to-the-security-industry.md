@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Pathr.ai™ Announces Integration with Hanwha Techwin America to Bring Spatial Intelligence Technology to the Security Industry"
-excerpt: "Retail Asset Protection Conference, Orlando, Booth #RIC-11 – Pathr.ai, the industry's first and only Artificial Intelligence (AI) powered Spatial Intelligence"
-publishedDateTime: 2022-04-24T12:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/g26777703/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence-technolog"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/g26777703/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence-technolog"
-ampWebUrl: "https://www.benzinga.com/amp/content/26777703"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26777703"
+excerpt: "Retail Asset Protection Conference, Orlando, Booth #RIC-11 – Pathr.ai, the industry’s first and only Artificial Intelligence (AI) powered Spatial Intelligence platform, announced today it is working with Hanwha Techwin America,"
+publishedDateTime: 2022-04-24T12:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-orlando-artificial-intelligence-1fad154826e1d2560b0e88b2360a4f4e"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-orlando-artificial-intelligence-1fad154826e1d2560b0e88b2360a4f4e"
 type: article
-quality: 47
-heat: 47
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -56,6 +54,6 @@ related:
         height: 325
         isCached: true
 
-secured: "M2778s1HfzCtK4FTp2kyQZpQrSyeBEfexVh0j8w+SJLo1R5Bdz8Fi1ZrK6xGoon6I7lSHJ9RkrROczEHrd9jA6aHcGN84JlT4lzRnQrGGaZ5vbO2vFsKxfjuRhEmmU32oC7Uvb4BGGTfkEblGm0NQ1ERTEGlKkTBCfHu6mXwL11ke0qX/BAtQ1dqVwA/Uu5SDr03IDsiC6uNN8dtMleMNbUnxyFZCkwwjdDawaMPQM0eOnaG3yg6UpNQCXX0BAvQTpGfMG9+4ZTB9kpLWpGf+r3CJeudWhs1TO1OeKH735C3XGQlaye/2GZF+KJizouuIBrogNXu91ZjWI6TYYLFuVmfyyLC72TEUWEhEl/v0Y/j4pSTpN7MVIMMHhbtSLQWekRvVXo8PyeA0ZyRewsZi6OFwkgJKqEhb0G8h6/nltW0+QZwX0HD1WYpoGUJkIUUh5raZdEsYPJBBOwbrV4XYx0GzI666zAsDBkvlsZP0dAV+DoDZJS1vd+cC2xYAOPkBMt0cwtHGVrVojSrPWMcTA==;/RFY0sR1hTeDFXOGRecxpw=="
+secured: "c47EWkwLqnHp6MAYUMlZH/nLI8RmpyJSummmPSoQrAk2y4r/oJ/PV5lht2djA4jeP4Wo7gmNWLxLnk5iOLPpu+v7flBugmHFP00OiSdB2ci3mhk5dtksT301N30OuUdW+iUeT3z2BBEc3DQonR+VfjwVDRv3cQ3Mug25DSzppOifhDVWSFLx11Nc7aunqrVdMdPtD6wCzkxHP9qbBDpdMxsAoLnHaprrMRrr92JVyRujIaMVnXEYh5F5/7DBG51OA+XEH6cWc39pvgkF4KXZ4M++vDsLBgUtADsDow7Yzfui9iZgQsJ5hDZfnFiLwHPT7LOSerH5B3uQOuo1tBKqxA3c5MGVLPo5FUHgOd2Q5wE=;VTnFdPAYl/PGNo46qbmODg=="
 ---
 

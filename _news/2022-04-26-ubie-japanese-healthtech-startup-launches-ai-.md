@@ -28,17 +28,17 @@ images:
 related:
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T06:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/article_0ae8af39-e19b-506a-8440-c92bcddbc657.html"
+    publishedDateTime: 2022-04-26T09:00:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: KTLA
+      domain: ktla.com
     quality: 33
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
         width: 600
-        height: 338
+        height: 207
         isCached: true
   - title: "TD chief AI officer, CDL-Toronto lead team up with health expert for new healthtech startup, Signal 1"
     excerpt: "Three Canadian technology leaders are coming together to launch a healthtech startup with $12.7 million CAD ($10 million USD) in all-equity seed funding. Signal 1, which was co-founded by TD chief AI officer Tomi Poutanen, raised the Inovia Capital-led ..."
@@ -55,6 +55,6 @@ related:
         height: 700
         isCached: true
 
-secured: "jKn6zgWiOMoQ6PmR8AIvsYswIVQwTUNnsCqFL243yhFa4eWwqNLdMXU20Leelqa1E2X8N0QHIiscTRncM1kMekk/z1k9f39erojlb/cyE0T1QUHqED3HRxXPRuuxghpfm5aUYZ7F34+55++55SLGjYLXmXUL00n+6qiGMlgTEqQhrgQz2tvF/yF/uWLO4/GwRJmsdGfKA/kDHmMCZ82dIps3HpMxsfHB+QkdX+92zCVV1t0/bZKalzeg23Vix3o+pf5elE7JDXzDxPXDPHgCgUc7erp3Bupg899BW84SgBAESNBw6qb+l7QQvZWsvPqvM0vHms/foQN7kJ1b7tENOgQxrYqDi0ZMorQEN62ssOs=;IvQiYCG22R2XmXKHm3Uo1w=="
+secured: "iLH8uxV478jzV/B22DnTzjZz4+mzdIF4a0NOP4zoqfaozYGkQ8PCUnGfkaAWuWxsIh+q1lO4OOpV/gFtR5rvzZ5TD6s0D6iRDfA1D364nnKyzittLDjmyywJw4Hs7RNC8HfPFl84dah0pzUp92m4mF1qFlBzLiT+bPXWTRL5mF0coFXsOPDjsZowYNZ9nnHmsG3L4tg3VjTWvXSQiKey8mYWJc5NtQPZolAV1j+2YhXNF5q60yta28gzXjF9LZbR9KYZR4tdpTCSTB7aHEEycynV/4/A1xvmDZLwmOVSzncOr01nyA1E+yek00L6o0JWiaH0rvbcB8rWV3mTjr6y2qbRvUc6WPBIAKHT7Okm6fDM99dL9yi+1+TXMzxPFgtATG8cjk5SZbD6h+oZCBiDcAL+Q1ebJTaxkA8gtRxudfJD5j7sMpj2yorL5Od+Az1b9BTFS7nVupiDGXT7R7ceWywvh46Rx6PLZYFFRx6SI5Tq34SULw/qL4+/ZyQmmrSQhvgyhM+81T5b+wELBb5Bvg==;GWhi8SF6YBcn7+/QvYWfqQ=="
 ---
 

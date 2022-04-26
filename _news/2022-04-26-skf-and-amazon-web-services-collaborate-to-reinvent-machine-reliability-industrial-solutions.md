@@ -1,20 +1,18 @@
 ---
 category: news
 title: "SKF and Amazon Web Services collaborate to reinvent machine reliability industrial solutions"
-excerpt: "As asset reliability collaborators within the industrial segment, SKF and AWS are taking scalability of condition monitoring and data analysis to a new level as well as collaborating on the next gener"
-publishedDateTime: 2022-04-26T05:14:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26804726/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/n26804726/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions"
-ampWebUrl: "https://www.benzinga.com/amp/content/26804726"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26804726"
+excerpt: "As asset reliability collaborators within the industrial segment, SKF and AWS are taking scalability of condition monitoring and data analysis to a new level as well as collaborating on the next generation of SKF's condition monitoring technologies."
+publishedDateTime: 2022-04-26T08:14:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220426IO36272/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220426IO36272/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions/"
 type: article
-quality: 50
-heat: 50
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - Machine Learning
@@ -22,11 +20,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
     isCached: true
 
-secured: "pMxOWA78Wxw0Pu/grXJ/mDPWHceNDW1fly5DihPRM3H6qGM/uKmRC7nfvgavgWdM2JkfVs3fh+N8r60SYHEMdNSsBCHef7xev37jlgygEjRhdal31+Sw2vTxXw8hQL62wz9pC8V7HMAAsnlV6Dd2D4Omn30A+dD8gUoE0qpL07BI+Q9kRuWXtfdSpJQlebrs0hNSWjGqC5WnxgpwBA5CXeEHEUGz4E7a1JbIdsX2fScaunkPFgIBugfZs6VUB5JEx1uobwDpvUprrBJjsMnrcjaxsTn2MfVxtt27f2bQOxMMR2J/uCYKITZW6NLwBH2KqUepEoOKZmQ4TrnlspjtVOy0My9iEx4qMBtVQOS21Tc=;sie5MZ+UW297nc7gwDnEmg=="
+secured: "pIbIY2b/pkaYP5wJrWXBxvhQ2QoBt/YELdUCwOqvxgEnh6UI4g0dfvvnnhK1tO/LynqHudp3tkv8KQ9/W7atKlywIOLjOStO0tlppIXgM+7Qtbmke/Jl9QYJxvkND3qvFy/H1bOLKlxh6Meu1l3vFMWsGe2x153QZsnR6rfCwl4sY4GoCfb/smDc2wFnx2+7DtCmPN7EkhTR2EY1UTfpX+05/fg++I/LDJfDV9msgZ3nUFvJBbyh7Ppp1JxSx46agVm2GhBJTc7BiuIuAsCVVNMiGo2Ji95uAQnpxHrMw4etAG1m6oTP1T96KnCknlDRg/7PYriE2AxEHvGvu+pbcQaqNorRNoUbBteERzTiaZ8=;Omt0FtIMZem8r/M5qIOvQA=="
 ---
 

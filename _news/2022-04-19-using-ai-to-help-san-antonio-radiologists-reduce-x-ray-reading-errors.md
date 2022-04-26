@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Using AI to help San Antonio radiologists reduce X-ray reading errors"
-excerpt: "AI is what you rely on when you’re using ... It fuels Netflix movie recommendations, language translation apps, Facebook Messenger and online chatbots. “Deep learning” is a more complex ..."
-publishedDateTime: 2022-04-19T00:45:00Z
-originalUrl: "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php"
-webUrl: "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php"
+excerpt: "Dr. Rajeev Suri, seated in front of a desktop computer, searched for signs of lung cancer on a digital X-ray emblazoned with red, orange and yellow clusters. The colors weren’t highlighting cancerous masses,"
+publishedDateTime: 2022-04-19T09:01:00Z
+originalUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
+webUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1365
     isCached: true
 
-secured: "KgWeoXHYEEl7QbKw5YLFPhCmAmveKHRJ86jJCOxeqSMKjJtTnvA9XAl1XeDg00vpDX+I3DPqp68O77QWt3QRXn36SbtwsRUbGvlOvweEWCV2rv2Bv4bivcOnUK5+btfON8fb+SF0UH6mVNGY+A9H4sHxsaqDAWeLSVZQ6CE1va6CZGRTA878AMcebi8EYiU04S0QkuXkM3QVxU6E9HTx2YvcnK0UPgx9a7nO4mMpns9OECos1/596D/cDJA6tLR+dkWLDwEq6PU9zNA7MW2Im/BhBbsI/KrTuhcSMKEH6YtRdYtws60cgQvlKogdP07VgRcEwuUP7tKYS7bHq1dRQ6Xezfjx7nRFEC4k8n8g59k=;5bQKIaO8zNFa+6cITSkijA=="
+secured: "Sz4dE3yHXPifEL0QF6lRaX/z5ZpU65rk2PRATPKfLNHwmzeUlV1ScDVnUScACjBv493qUu/9ZtN/RhyEEyqVHhyB9WEz2wFPmEzFvsN8+0h5PeZ43t8y/ve6DaG4VWtkV1811pqs16S7JREcz6aidCZszjPrX8Ysz9if6BPnFlu2pIqcsbqqgHp/ceyGhicVqnSuMaRWxGjeNY4vsi4TlAMVQRQ2n9rnrhrp4TN7S9dPRo1kCPHuVFXVib4lBxB+HNXz//5i4Ns5yd/ZP8yNR5684+olPD/zCrMHjcd6mU7lILaCpegJR6aN2b7QU7EshBUy4w6G7KD7aiSsdOiDi6SSvFb3iyLERMHDQybpfL4=;hZ00Z7FmiamiaiyaxWNMwA=="
 ---
 

@@ -24,22 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Mendel Raises $40 Million Series B Round to Expand its Team and Grow Product Offering"
-    excerpt: "Mendel, the leading clinical artificial intelligence and natural language processing platform, today announced it has raised $40 million in Series B funding round led by Oak HC/FT. The round includes participation from existing investor DCM,"
-    publishedDateTime: 2022-04-21T15:30:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220421NY31437/mendel-raises-40-million-series-b-round-to-expand-its-team-and-grow-product-offering/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 32
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
-
 secured: "DwWCp27aDo3z5es0065KPc+J3Ux5TJ2kyjUIl/l6YBq8OHt4G1gW5cUPvITFK/nYjM60Cml3I5bMqNegMEH/Diw4e+9RNE29R5dQPmPvCU3fMloN2zrMps3l9Hk5cji4fw2qGwOJpJ90wOuRvz4Bzh0t5ZQghnYgWFB2jeknXlen3OK/W3OYkKoNNIWZZoWNdI3fDJNbNNH0rCqJISbSypfhKJEeZP5lJxGbNojc+euOUeP+uxKAbnCieM/sA68EwKTAaHiSQM84yMWBry1zCyCax/2eTmoRMlSz52uiun0czpkqM1RbfMEWlWcsuc6CO+JfV/lbnNuPd2QabRUjPgGWDXTJEFv07zXXLzDCd+Q=;OoE/DOlEbb3YczLB7PkxpA=="
 ---
 

@@ -40,6 +40,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Artificial Intelligence Operations Platform Market - Global Industry Share, Size, Growth, Demands, Revenue, Top Leaders and Forecast by 2029"
+    excerpt: "A new business intelligence report released by Data Bridge Market Research with title “Artificial Intelligence"
+    publishedDateTime: 2022-04-26T05:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-operations-platform-market---global-industry-share-size-growth-demands-revenue-top-leaders-and-forecast-by-2029-2022-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Text-to-Speech Market Top Regions, Leading Players Upcoming Trends and Revenue Forecast"
     excerpt: "Emergen Research Logo Increasing geriatric population and rising demand for handheld devices is driving growth of the global text-to-spee"
     publishedDateTime: 2022-04-25T10:55:00Z

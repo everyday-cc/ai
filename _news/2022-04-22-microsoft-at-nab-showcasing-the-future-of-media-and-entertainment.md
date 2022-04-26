@@ -7,7 +7,7 @@ originalUrl: "https://cloudblogs.microsoft.com/industry-blog/media/2022/04/22/mi
 webUrl: "https://cloudblogs.microsoft.com/industry-blog/media/2022/04/22/microsoft-at-nab-showcasing-the-future-of-media-and-entertainment/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Braincube Now Available in the Microsoft Azure Marketplace"
-    excerpt: "With the move to Azure Cloud, the infrastructure is easy to maintain and we can roll out new plants rapidly. Braincube is driving innovation in the data analytics and AI space and we are delighted ..."
-    publishedDateTime: 2022-04-21T15:46:00Z
-    webUrl: "https://menafn.com/1104069967/Braincube-Now-Available-in-the-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 69
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?922726"
-        width: 427
-        height: 250
-        isCached: true
   - title: "Kraft Heinz partnering with Microsoft on supply chain solutions"
     excerpt: "It’s powered by Microsoft Azure’s AI, IoT and data analytics capabilities ... companies to co-engineer even more digital solutions utilizing Microsoft AI, machine learning and IoT. “The past two years have highlighted the urgent need for digital ..."
     publishedDateTime: 2022-04-21T21:18:00Z

@@ -40,22 +40,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Why Is Guardforce AI (GFAI) Stock Up Today?"
-    excerpt: "Guardforce AI (GFAI) stock is rising higher on Thursday as retail traders react to recent news from the robotics company today!"
-    publishedDateTime: 2022-04-21T15:47:00Z
-    webUrl: "https://investorplace.com/2022/04/why-is-guardforce-ai-gfai-stock-up-today-april-21/"
-    ampWebUrl: "https://investorplace.com/2022/04/why-is-guardforce-ai-gfai-stock-up-today-april-21/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/04/why-is-guardforce-ai-gfai-stock-up-today-april-21/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 59
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of TASK, AI and VRT"
     excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / The securities litigation law firm of The Gross Law Firm issues the following notice on behalf of shareholders in the following publicly traded companies."
     publishedDateTime: 2022-04-21T22:50:00Z

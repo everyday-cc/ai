@@ -43,20 +43,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Kraft Heinz, Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
-    excerpt: "The Kraft Heinz Company and Microsoft Corp. are joining forces to develop solutions designed to accelerate the consumer goods giant’s transformation and enable a more resilient supply chain."
-    publishedDateTime: 2022-04-21T16:21:00Z
-    webUrl: "https://www.foodengineeringmag.com/articles/100231-kraft-heinz-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation"
-    type: article
-    provider:
-      name: Food Engineering
-      domain: foodengineeringmag.com
-    quality: 32
-    images:
-      - url: "https://www.foodengineeringmag.com/ext/resources/2022/04/21/KraftHeinz-Microsoft-logos.jpg?height=635&t=1650557798&width=1200"
-        width: 900
-        height: 550
-        isCached: true
 
 secured: "hJLB9qNeuL5AHyFdc+sa3rNXEhhyYi27iBZZq2sCtw2S/h9nulwgd6VyfJMBUlmnHLsnFk3+folWkZ8iXwTGFE0wIVYBWQ8LGvDcQt03qVIHLPUDvn/2Be+aSDSkYN5t90rfoTQM9HqQ+CyZ908cDAzPmbPdoPDsVGOsU2iTRh5bwszV7LdiMX7Q8aamkYhHvlFGmhZr0EPvO/SEoGi+138t9JZutbnCpeUPENyjJXi77268U13QzcGVYG/mq1iJ0W7XE4EtYZJjSJhwgUMsfISoNaaJrEHplsqVXTo+UHqFkz4tnhGF+1xIY6C80uFhr7NlkRG+klqkv5s4/SCS9So5fIv2fePNmNv06Po2b+pMuS916uCD8/3UU9Xnh8YdTSKev05tdLqkq6jqx94l6eh3cP38iYrUkzbqFpMfdufG/1mYtHj2GGt+Pm7KOwBXyuc/fUkt2qdi/tbmN0HTuKPEX12GmzmhjuSVsGNyM9bHaT+gJXY1ezpfrkfXTz5mtxVeSxJgpCKhxFhfeOtqbg==;Z+v80brla95WyI4LkMHVFw=="
 ---
