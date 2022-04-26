@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26805079"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26805079"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/04/GettyImages_1367860597-360x240.jpg"
         width: 360
         height: 240
+        isCached: true
+  - title: "Pony.ai to Launch Robotaxis in China With Ontime, the Ride-Hailing App of Automaker GAC Group"
+    excerpt: "Autonomous driving technology developer Pony.ai is expanding its presence in China in a new partnership with automaker GAC, which is China’s fifth largest carmaker and a longtime Pony.ai partner. As part of the close collaboration with GAC,"
+    publishedDateTime: 2022-04-26T15:30:00Z
+    webUrl: "https://www.futurecar.com/5367/Ponyai-to-Launch-Robotaxis-in-China-With-Ontime-the-Ride-Hailing-App-of-Automaker-GAC-Group"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 30
+    images:
+      - url: "https://img.futurecar.com/202204/26/l_62680d03d2b57.png"
+        width: 800
+        height: 505
         isCached: true
   - title: "Pony.ai Gets Licensed to Run Robotaxis in South China"
     excerpt: "Chinese self-driving startup Pony.ai has obtained a business license ... The license marks a milestone in efforts to commercialize a technology on which tech giants like Baidu and Huawei have placed big bets. But when the company launches the service ..."

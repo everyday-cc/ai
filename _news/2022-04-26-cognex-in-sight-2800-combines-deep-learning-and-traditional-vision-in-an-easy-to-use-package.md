@@ -2,17 +2,17 @@
 category: news
 title: "Cognex In-Sight 2800 Combines Deep Learning and Traditional Vision in an Easy-to-Use Package"
 excerpt: "Cognex Corporation (NASDAQ: CGNX), the leader in industrial machine vision, has released the In-Sight 2800 series vision system. In-Sight 2800 puts the power of a full-featured vision system into an easy-to-use package that gets applications running in minutes."
-publishedDateTime: 2022-04-26T04:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cognex-in-sight-2800-combines-deep-learning-traditional-/2022/04/26/9589078.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cognex-in-sight-2800-combines-deep-learning-traditional-/2022/04/26/9589078.htm"
+publishedDateTime: 2022-04-26T15:39:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1248958&cat=PRN"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1248958&cat=PRN"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Machine Learning
@@ -27,19 +27,14 @@ images:
 related:
   - title: "Cognex In-Sight 2800 Combines Deep Learning, Traditional Vision in Easy-to-Use Package"
     excerpt: "Cognex Corporation (NASDAQ: CGNX), the leader in industrial machine vision, has released the In-Sight 2800 series vision system. In-Sight 2800 puts the power of a full-featured vision system into an easy-to-use package that gets applications running in minutes."
-    publishedDateTime: 2022-04-26T07:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272518001/cognex-in-sight-2800-combines-deep-learning-traditional-vision-in-easy-to-use-package"
+    publishedDateTime: 2022-04-26T07:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220426/3935231.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 31
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 11
 
-secured: "gAFdDN8RKY4ezTskcNYfvS4dVebrj8ITTO0cAK6Z5UM98CAynKNhi9RvV5PSk464x3irPzX3qkQ0JFSl3thqQ6WmkrVtbb4qoSFCsoIuEnAK6EF2cdgAEZEPXyOmiCI5UnEBmhIRIVuSfKaf96ukuMdOnBYkAoIT3R0LljQ9y6kLQnDv1HQkjAbJHq9MyhS6LxEr9I4s+36bQr4lsT3BLAyV6M6RKCDciU1NbISk4+VgaDZpQXroqhZJ4Zeg+YRlQbj4scxWbTNhw1K4asQrDH7Vl8TV8SmaWJfUpclgJw2DP9QtPg/gFkzmP7VQfO41Se3KSDfZfW5Uton2K49c5Xi2IoQntd7e4G8vlYtYtyq10gAaihPx/HiuPT13oOW9uvzcYsYfJbOQJg4oy0gEq9ca51NuAVgSI6rEkAz+i5wSJdPSb+GiA1OtVq4VYfjMoYkgCDkyazkkLaLM4yKODs4ebC8PV/Rs9VEbDB0u0TWPy0W8kK6Fl3PWUe/Xc0Nfj+qZKRBphR1M/WtB4w+zwA==;L7ye8xkSQyfs+ujuZzMsEw=="
+secured: "aa3oEkJQ9D6Vt0rvgWot4Vz7h0/WbGSKkIkJf0yhAfiFCoAsDdt0/aehJl7uQZ39QIhcrYtEYEdpRdH1bgoWqLAlP6UvbNPcNWMT9T8Kvj4+mjGvKIR1C/MNXHjzQ8sxq9aPMAx5OMt0ZCXeA37TVvu1WJRPfxEcq0efMMBo4oq8F43ZOVOB+lNN/ONmAwqym1TDRpsgqkU85Y41l9HvhTZUOSoU9y6pl0lU4p6E03T9CrqvEs3NxiyyslBFhIpyyNNGOHxzDZg35+FFN5+QcWF7hJQP3Ct6SMwAz7ps0vXIridoeNYuHo2DNfyey/xTBV8xEUP/pgSg514R9VgPNNnrSy7kNiKr17hgoN9Z9vc=;scFHpsme8nKhzg3PjTUGbQ=="
 ---
 

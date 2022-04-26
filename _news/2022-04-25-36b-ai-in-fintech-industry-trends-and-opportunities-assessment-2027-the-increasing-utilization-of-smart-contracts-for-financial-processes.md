@@ -66,6 +66,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "OriginClear to Launch Water On Demand Fintech Startup"
+    excerpt: "Program brings relief to underserved businesses needing their own water treatment.CLEARWATER, Fla.--(BUSINESS WIRE)--$OCLN #cleanwater--OriginClear Inc. (OTC Pink: OCLN), a leader in clean water innovation,"
+    publishedDateTime: 2022-04-26T15:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=652928"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "yRjtxJ0mENHamFB8/ExPHRftN3VlapXZDs443yw1R82Sy5BQBOiQwfNQ3PF34jUwX86WpjkneaPR6xdgPP6BQeZUxFQpUp9RYg6egVqKWoerzBeWekGoxTHHxhkuCmajLDacISUuFKVy0escHRrrwbRy2mlk6vRjyoOOeqYx17dFi3daLd8sf/XCBfuImF/Ynb9xTY8Udaoc8l60I2uEVHPxS9s77+BoRKqKsz/BajUaLIi634uTE+FWQYO4JjSRkb5fAJTUkiiccdi+VvDyUfembUFY+Cf+dUAujPpf+ReT1m+hOaO7ruZ+4supg4rm7qeeW6rtkUKZSsX6rimQI/NS4pyfqqZeFiLQ5bDq+yU=;adbUhUT9AGFBIPx34SwTMw=="
 ---

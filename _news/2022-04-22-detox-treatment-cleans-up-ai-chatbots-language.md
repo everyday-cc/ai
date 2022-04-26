@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/informatics/news/detox-treatmen
 webUrl: "https://www.technologynetworks.com/informatics/news/detox-treatment-cleans-up-ai-chatbots-language-360855"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Beyond chatbots: How conversational AI makes customer service smarter"
-    excerpt: "Join AI and data leaders for insightful talks ... “These offer core services, perhaps translation, or natural language understanding, or speech-to-text, but don’t necessarily have that set ..."
-    publishedDateTime: 2022-04-21T19:51:00Z
-    webUrl: "https://venturebeat.com/2022/04/21/beyond-chatbots-how-conversational-ai-makes-customer-service-smarter/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
 
 secured: "qjkPZ8b0gm/irTPIJc0/ekOYEtd9JekTm6emOrQ8dehAs0olP4jB9C1OWSwy8JsLoc23c5Dsl9cGafoMhV104dvPRqLog442pWrruZRZBbgq2ZakfAVmbsvfCVtKESKq8YRC/EP0/UXYO5IqCL4izoPKBIVaNcyVWwJDtsWeUzAzDLyYFmX+IAxYiqIizFSL3pw2+wMh03WRrl6dOrJLA4hOmmGQtn589f+56F51l7hXssgw0Wzuo3tQoQzCXIUgDQKUDuRtkzkhcTNM1/KUGzWmdO6SvvMIHufOWE5YuHZab5Ap+uu5XA1d9+fIpyGY0wwlQ3/OY2BfeAi53RWynVHuOabaUjcuF2iUidgzTRE3w5Es/PS/F0/6xc14+UXNERxyF+XijH7SgsWeF2ggg8qYsW18d+nX3mQAmaiEMPyadKUzx5jb+W9CZ4M9dtKlNCJOiKcpEukI3f2WvdYBZndaqWeZrs43hp6dAZlxhPQ6wGqgvF/VaUTOmERpwpWca+2JPYEJEJpch1UxCO5f3w==;potICmczll8YgdE+7LDJOg=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Google Trains 540 Billion Parameter AI Language Model PaLM"
+    excerpt: "Google Research recently announced the Pathways Language Model (PaLM), a 540-billion-parameter AI natural language processing (NLP) model that surpasses average human performance on the BIG-bench benchmark."
+    publishedDateTime: 2022-04-26T13:30:00Z
+    webUrl: "https://www.infoq.com/news/2022/04/google-palm-ai/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 21
+
 secured: "FjFP79qlb8JEgicsVHAtznlx7xmGt09cfG2cJrwM8AG13XGfENwStLviy2lvuxA52C9Szqa8q2h37pDMNsrQRMDZbp1BG/0MjbZccprvBrU0/AFfUM0wAbHMnTaZ6wEC2Klb5d05/+ft7Gqc5yuRc6f3l+CVDXfdy5/bwtatN2lcjGA2zydYU3fZCM0r5EX44NBE+bJh1PAUoXRDcS2m8pKf+QrFWVFMI3RSz986N9xlixsqhpLKqxcHXF/8fnhdHxREOUCycSJxabi+UPaOm4KZenVVQaWhI/rtW08FsU9M10N3igloNGOJXeDIsdv4/2CwQa7FlPcyfN5v8oGCgy8aMEAeWH2KoxY/S9wal5wm2c7DYFYt2ZrVExdaRCLWEqx4Hy9dF9cmgOH9SX6hKkWACHmtuxMBZGLoBAZ/Bk5OHudSgJE5EysXEJqSn15o/HHpWWikjd0UB1H3rJa/2i5aClUvr1fvAzIJgpMQnLxA10cspQjrtKxjYqEK8LE9NgiY1uQK2A0Hua/bCVAcsw==;YP7z4RHOY9MdUMCUhUEdYg=="
 ---
 

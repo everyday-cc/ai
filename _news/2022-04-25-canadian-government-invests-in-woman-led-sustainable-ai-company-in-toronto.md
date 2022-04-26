@@ -51,6 +51,15 @@ related:
       name: KNWA News
       domain: nwahomepage.com
     quality: 17
+  - title: "VoPay And HES FinTech Partner To Make Real-Time Payments More Accessible For Canadian Lenders"
+    excerpt: "VoPay, a leader in payment innovation, announced today that it has partnered with HES FinTech, a European-based lending software vendor, continuing the fintech company’s growing loan management partner portfolio."
+    publishedDateTime: 2022-04-26T00:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=652985"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
 
 secured: "orbxKYcXjQtFKZ/lLRkyErRYOP67zYTH611/SmVJIPaWeRJs4gOH6e6O9rIi4qs7Z5Ggj4aQSkCFopOQZwRgRM+D1MBjzF3dZ9Za5GaXgs3kaUliz4fGL7UA7bcB4K4wCMYt7h1Qn3ABJVg0Cmv2BfsdX827AAU4mqTbJkivRfCg4sqYY3RfgIUoVMny5sociPy0Cw4QCbSYP0ik52lyl2sADLJsVU9Jo6AvOrIzq+Qq3QDoeNF3R6HXCTomucykyFSAV5J72ZZwMgCPd+e0lQXLU3BkcL8/NIchGGY+gS1Z+0cs2iAm9OZU+VjxZqvcL56IKiNI8WQeXVY874g4+30wppmYBKGhGCTTdZLb8YQ=;vvzLLQk21h6AMq1ZJxyM0Q=="
 ---

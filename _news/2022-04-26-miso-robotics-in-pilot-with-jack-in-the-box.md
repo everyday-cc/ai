@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T13:44:00Z
 originalUrl: "https://www.socaltech.com/miso_robotics_in_pilot_with_jack_in_the_box/s-0082430.html"
 webUrl: "https://www.socaltech.com/miso_robotics_in_pilot_with_jack_in_the_box/s-0082430.html"
 type: article
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: SocalTech
@@ -14,6 +17,54 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Jack In The Box Is The Latest Restaurant Chain To Test Miso Robotics’ Kitchen Automation"
+    excerpt: "Miso Robotics’ kitchen robot has taken over the French fry stations across much of the White Castle system, and now Jack in the Box JACK is testing the technology. Miso today announced a partnership with the California-based chain to test its Flippy 2 and Sippy products in one of its standalone restaurants in San Diego."
+    publishedDateTime: 2022-04-26T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/aliciakelso/2022/04/26/jack-in-the-box-is-the-latest-restaurant-chain-to-test-miso-robotics-kitchen-automation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+  - title: "Jack in the Box Rolls Out Robots to Flip Burgers and Serve Drinks"
+    excerpt: "Jack in Box, for one, has harnessed the power of tech, partnering with Miso Robotics to introduce robots to one of its San Diego restaurants.  Relying on a combination of artificial intelligence, machine learning,"
+    publishedDateTime: 2022-04-26T15:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/425734"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1650985396-GettyImages-1289092918.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Jack In the Box will test Miso beverage and fry cook robots"
+    excerpt: "Flippy 2 can increase throughput by 30%, or around 60 baskets per hour, and Sippy can fill 200 drinks in an hour, boosting efficiency and reducing labor pressure."
+    publishedDateTime: 2022-04-26T15:23:00Z
+    webUrl: "https://www.restaurantdive.com/news/jack-in-the-box-Miso-test-robots-to-combat-labor-shortage/622675/"
+    type: article
+    provider:
+      name: restaurantdive
+      domain: restaurantdive.com
+    quality: 39
+    images:
+      - url: "https://www.restaurantdive.com/imgproxy/BZ3HrPhQDek4uSoejV35Iyg56Len-qJQvFF4xExgayU/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0ZsaXBweV8yX0phY2suanBn.jpg"
+        width: 770
+        height: 364
+        isCached: true
+  - title: "Jack in the Box Partners with Miso Robotics to Begin Pilot for Flippy 2 and Sippy Product Lines"
+    excerpt: "From the Fryer to the Drink Station, Jack in the Box Embraces Automation to Maximize Efficiency and Deliver a Better Customer Experience PASADENA, Calif., April 26, 2022 /PRNewswire/ -- Today, Miso Robotics – the company transforming the restaurant industry with robotics and intelligent automation – announced a partnership with Jack in the Box to begin a piloted test that will deploy its Flippy 2 and Sippy core product lines in one of the national restaurant chain's standalone locations,"
+    publishedDateTime: 2022-04-26T12:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-jack-the-box-partners-with-miso-robotics-beg-/2022/04/26/9589358.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
 
 secured: "PNqljAqfIQaLPx7H9Af4mvE13amHlyZ821FcC3qTSvcQT1unlb3v3xBrHvYPgJUDpzYNdkR7mQOuC1uogKrHNaolHNoXPCLQ/8Ggt00yHONul8l7XgwuYnHLPxLg8iXQJaIharnjPHmln3mzpaGX8z4b5Djjqe1zAFX1QA71ksbZ1U7SW/N5oqtuD/E39yoFQNM8cXWXnxW4NtWYoyoFQXy3pCvV9yVDiYL0ItVZcZBPxohifQPZw+0YtGPhpFCFN6QipzQrwIXK6/WOlJ7DUaxKKQrCuSliG0hlte1JE3bIr0Pp9J/HWE0BrjA1zkt80sCXArXMgv2bwHTpCELmvd/iJGV1r/RD3whLqJt3PE8=;c5149EvEegK5FZda7sMkWw=="
 ---

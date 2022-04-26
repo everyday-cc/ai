@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-02-18-intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech.md",
-      "title": "Intel reveals glimpse at multi-year Xeon roadmap, teases long-awaited GPU tech",
-      "excerpt": "Intel has unveiled its latest Xeon CPU roadmap reaching through to 2024, revealing a distinct focus on power efficiency. The new “ultra-efficient” ‘Sierra Forest’ processor family, due for release in 2024 on the Intel 3 process technology, will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech",
-      "originalUrl": "https://www.itpro.co.uk/hardware/362303/intel-reveals-glimpse-at-multi-year-xeon-roadmap-teases-long-awaited-gpu-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645183040/itpro/intel_xeon_2024_roadmap.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-18-what-the-history-of-ai-tells-us-about-its-future.md",
       "title": "What the history of AI tells us about its future",
       "excerpt": "Newsweek called the match “The Brain’s Last Stand”; another headline dubbed Kasparov “the defender of humanity.” If AI could beat the world’s sharpest chess mind, it seemed that computers would soon trounce humans at everything—with IBM leadi ...",
@@ -1353,6 +1301,49 @@
         "AI",
         "AI Hardware",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-deepening-commitment-to-ai-recruitment-in-china-hiredscore-announces-strategic-partnership-with-tupu.md",
+      "title": "Deepening commitment to AI recruitment in China, HiredScore announces strategic partnership with Tupu",
+      "excerpt": "HiredScore, the leading provider of ethical, compliant Talent Intelligence solutions for global Fortune 500 organizations, officially signed a strategic cooperation agreement with Tupu, a leading technology and content provider of all-in-one recruitment solutions in China.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-china-f8303b3e5f0d8a5ba9011f5a8091a344",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-china-f8303b3e5f0d8a5ba9011f5a8091a344",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

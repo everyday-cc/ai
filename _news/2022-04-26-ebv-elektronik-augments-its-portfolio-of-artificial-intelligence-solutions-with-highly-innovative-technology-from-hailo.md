@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T12:31:00Z
 originalUrl: "https://www.imittelstand.de/themen/presse.html?boxid=1109407"
 webUrl: "https://www.imittelstand.de/themen/presse.html?boxid=1109407"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: imittelstand.de

@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pony.ai to launch robotaxi fleet in Guangzhou, China"
+    excerpt: "Pony.ai will integrate its autonomous technology into GAC vehicles, which can be hailed using Ontime's platform or Pony.ai's PonyPilot+ app."
+    publishedDateTime: 2022-04-26T15:10:00Z
+    webUrl: "https://www.therobotreport.com/pony-ai-to-launch-robotaxi-fleet-in-guangzhou/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-pony-ai.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Pony.ai lassos China's first autonomous taxi license"
     excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
     publishedDateTime: 2022-04-25T17:00:00Z

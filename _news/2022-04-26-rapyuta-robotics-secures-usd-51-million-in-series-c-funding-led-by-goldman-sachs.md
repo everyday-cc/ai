@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T11:02:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Associated Press

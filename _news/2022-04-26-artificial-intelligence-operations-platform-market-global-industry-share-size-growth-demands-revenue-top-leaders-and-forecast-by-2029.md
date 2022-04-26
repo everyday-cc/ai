@@ -57,6 +57,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
+    excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"
+    publishedDateTime: 2022-04-22T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-smartphones-market-size-growth-share-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2026-2022-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Text-to-Speech Market Top Regions, Leading Players Upcoming Trends and Revenue Forecast"
     excerpt: "Emergen Research Logo Increasing geriatric population and rising demand for handheld devices is driving growth of the global text-to-spee"
     publishedDateTime: 2022-04-25T10:55:00Z

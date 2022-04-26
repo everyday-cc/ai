@@ -2,6 +2,136 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-21-ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues.md",
+      "title": "AI Robots for the Elderly Mean Well, but Raise Ethical Issues",
+      "excerpt": "AI robots are increasingly being used to supplement care for the elderly, but experts warn they'll never replace human companionship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lifewire.com/ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues-5223014",
+      "originalUrl": "https://www.lifewire.com/ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues-5223014",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lifewire.com/thmb/LeZ01Xy-bzRPTt9AkrhXwZfMyqI=/724x483/filters:fill(auto,1)/GettyImages-1343473312-6a4ad78596574ff98bb5d00ee1481af4.jpg",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lifewire",
+        "domain": "lifewire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-20-young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics.md",
+      "title": "Young Scientists Awards for school students bringing innovation to AI & Robotics",
+      "excerpt": "To make digital documents and online material more accessible to people who are blind, I have developed a 'Tactile Display' with the help of people who can read digital text and documents.”",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics/",
+      "originalUrl": "https://analyticsindiamag.com/young-scientists-awards-for-school-students-bringing-innovation-to-ai-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/young-scientist-private.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-20T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-daos-will-never-develop-above-their-present-state-without-the-help-of-robots.md",
+      "title": "DAOs will never develop above their present state without the help of robots",
+      "excerpt": "DAOs (decentralized autonomous organizations) are already transforming the world by empowering significant groups of individuals to make autonomous choices. These groups are reducing the need for centralized management teams,",
+      "sourceUrl": null,
+      "webUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/",
+      "originalUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tokeneo.com/uploads/2022/03/AI.jpg",
+          "width": 640,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/amp/",
+      "cdnAmpWebUrl": "https://tokeneo-com.cdn.ampproject.org/c/s/tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/amp/",
+      "publishedDateTime": "2022-03-18T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tokeneo",
+        "domain": "tokeneo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-what-to-know-about-robotic-surgery.md",
       "title": "What to Know About Robotic Surgery",
       "excerpt": "Keep in mind that your doctor is always in control of the robot. It only does what the surgeon directs it to do and can’t make decisions on its own. Doctors need training to use robotic surgery ...",
@@ -1141,135 +1271,6 @@
       "provider": {
         "name": "KTLA",
         "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
-      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
-      "excerpt": "NEW YORK, March 15, 2022 /PRNewswire/ -- Intuition Robotics today announced the ... ElliQ then proactively motivates them to take control of their physical, mental, and social health.",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220315NY88718/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220315NY88718/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
-          "width": 600,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-iisc-backed-artpark-to-launch-100-mn-venture-fund-for-ai-robotics-startups.md",
-      "title": "IISc-Backed ARTPARK To Launch $100 Mn Venture Fund For AI, Robotics Startups",
-      "excerpt": "AI and Robotics Technology Park (ARTPARK), backed by Indian Institute of Science (IISc), Bengaluru, is going to launch a $100 Mn venture fund, it said.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/iisc-backed-artpark-to-launch-100-mn-venture-fund-for-ai-robotics-startups/",
-      "originalUrl": "https://inc42.com/buzz/iisc-backed-artpark-to-launch-100-mn-venture-fund-for-ai-robotics-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/03/Social-AI.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/iisc-backed-artpark-to-launch-100-mn-venture-fund-for-ai-robotics-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/iisc-backed-artpark-to-launch-100-mn-venture-fund-for-ai-robotics-startups/amp/",
-      "publishedDateTime": "2022-03-14T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru.md",
-      "title": "Country’s first Artificial Intelligence & Robotics Technology Park launched in Bengaluru",
-      "excerpt": "The country’s first Artificial Intelligence & Robotics Technology Park (ARTPARK) was launched in Bengaluru yesterday.  It is promoted by a not-for-profit foundation set up by the Indian Institute of Science (IISc) Bengaluru,",
-      "sourceUrl": null,
-      "webUrl": "https://newsonair.com/2022/03/15/countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru/",
-      "originalUrl": "https://newsonair.com/2022/03/15/countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsonair.com/wp-content/uploads/2022/03/NPIC-20223159221.jpg",
-          "width": 400,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NEWS ON AIR",
-        "domain": "newsonair.com",
         "images": null,
         "publishers": null,
         "authors": null

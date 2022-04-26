@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T12:13:00Z
 originalUrl: "https://enterprisetalk.com/featured/five-machine-learning-project-pitfalls-to-avoid-in-2022/"
 webUrl: "https://enterprisetalk.com/featured/five-machine-learning-project-pitfalls-to-avoid-in-2022/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: enterprisetalk

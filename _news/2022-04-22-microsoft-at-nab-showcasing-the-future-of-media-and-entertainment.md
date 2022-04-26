@@ -7,7 +7,7 @@ originalUrl: "https://cloudblogs.microsoft.com/industry-blog/media/2022/04/22/mi
 webUrl: "https://cloudblogs.microsoft.com/industry-blog/media/2022/04/22/microsoft-at-nab-showcasing-the-future-of-media-and-entertainment/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 939
     height: 626
     isCached: true
-
-related:
-  - title: "Kraft Heinz partnering with Microsoft on supply chain solutions"
-    excerpt: "It’s powered by Microsoft Azure’s AI, IoT and data analytics capabilities ... companies to co-engineer even more digital solutions utilizing Microsoft AI, machine learning and IoT. “The past two years have highlighted the urgent need for digital ..."
-    publishedDateTime: 2022-04-21T21:18:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/04/21/kraft-heinz-partners-with-microsoft.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "nwjAP4/DgU3U2o114r1zdCXDq0iJDnaPOHmEe80gDT0W/6F8Ql+UjPiXt7CYxWXqgN9x0T9yT1JKfDAz2jwiluBTF7LHaYE3PEIEjpjL3dET/ClQEHzBZG9ZILshiSo/w6ajwSoeRQCI6evH4vp6MCV6pA9y/qcA2OwYcVymMLzSj7B8EpIUHZ9YbG5BaGnqZl9Ebti56PBJMqYJPys7n1VNzhOJU8OKDu0Knw7EuRN1qk4AUt+wof34QR1AysAzwAeC72e4/FKeoinOktDkc8bCUq6R5PT0gfT0QTUx750TGnVY3ttH1WYy07RuQwI6Hi2pyZV3VHOxW4P/9z3J2McSRabPVL6y57nl0zuprsQ=;wjBEuK35+rfe+Nuzm9hZxQ=="
 ---

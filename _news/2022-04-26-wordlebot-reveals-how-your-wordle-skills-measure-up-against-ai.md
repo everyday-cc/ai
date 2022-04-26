@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T13:00:00Z
 originalUrl: "https://www.mentalfloss.com/posts/wordlebot-wordle-companion"
 webUrl: "https://www.mentalfloss.com/posts/wordlebot-wordle-companion"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Mental Floss

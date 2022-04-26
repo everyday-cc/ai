@@ -42,15 +42,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "SHAREHOLDER ALERT: ERIC AI ABBV: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / The Law Offices of Vincent Wong announce that class actions have commenced on behalf of certain shareholders in the following companies. If you suffered a"
-    publishedDateTime: 2022-04-21T19:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/ac26748967/shareholder-alert-eric-ai-abbv-the-law-offices-of-vincent-wong-reminds-investors-of-important-cla"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "h2ScXumb42SViOp82pSbgeMinKGzBA6r+T1VpX5V631xp0FZdgkykav1b4LMzTAwjCozOUaLEN/05eAQFX9Y0ufURabuXHjT/qMF86aA4kgaHYT4JvoJZexufJqcBDREEZ4jkKSvXbmbdBssNJb970eWnQuWsYyC7eP+mIRagBeP/qPKf4Q19adcXh5KxKTb54hrYTMCvjvqRr3E+GCqYH5bujwtqMgtKR5eEag1ejwcYTeQDZIS5LrausAgroMaEZ3mdG/7q6mIs53q23SBPKdXDyA32v9WIB68G2W9ZDsVYLb4j8R6VqWKMqbu1LrfCfxwgRHalBwCUjfCrBMTIFUmRkyUhUdoql1/ADqKbgQ=;0fRdpjCw8LZsV11+SX+j4g=="
 ---

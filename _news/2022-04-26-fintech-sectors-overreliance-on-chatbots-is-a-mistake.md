@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T13:53:00Z
 originalUrl: "https://www.finextra.com/blogposting/22197/fintech-sectors-overreliance-on-chatbots-is-a-mistake"
 webUrl: "https://www.finextra.com/blogposting/22197/fintech-sectors-overreliance-on-chatbots-is-a-mistake"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Finextra

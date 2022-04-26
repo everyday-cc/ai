@@ -3,8 +3,8 @@ category: news
 title: "Brain-Reading Devices Help Paralyzed People Move, Talk and Touch"
 excerpt: "For decades, he had been a carer for people with paralysis. “There was a deep depression,” he says. “I thought that when this happened to me there was nothing—nothing that I could do or give.” But then Johnson’s rehabilitation team introduced him to researchers from the nearby California Institute of Technology (Caltech) in Pasadena,"
 publishedDateTime: 2022-04-22T15:18:00Z
-originalUrl: "https://www.scientificamerican.com/article/brain-reading-devices-help-paralyzed-people-move-talk-and-touch/?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.scientificamerican.com/article/brain-reading-devices-help-paralyzed-people-move-talk-and-touch/?ref=upstract.com&curator=upstract.com"
+originalUrl: "https://www.scientificamerican.com/article/brain-reading-devices-help-paralyzed-people-move-talk-and-touch/"
+webUrl: "https://www.scientificamerican.com/article/brain-reading-devices-help-paralyzed-people-move-talk-and-touch/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 496
     isCached: true
 
-secured: "5PitXTJX3sXv8Lc9LwwEKW48toSPlSIHR+56ZIVuU47PF24Q4/hpjTrK0jnEFRIuh2nuTwHQ/Xmq/H4YH3mpMhQfJj011V0NGwfrxO4BsOkNs1N2GrsTPFXJ+0g8c9oLQyHRT+IxPiDn50VTsB/eXeakvxDNHUWkdG75SPiJvI+EVipmJ1qw5hEawZozVvy2YAPuzNFtK9HJX2AhdkcmtWVoujfIF4OtEsjrN6PwMjZ3ZUZLFnatdwk5D7tqD4ZvUrWYE0bdn9N02XDnsUHehMGJcmQWdXt3ppSocKs4gibwQp6mTHJSlbAo5I0PIKuHgG7KmmGoL7tNZBcCp3oVsHkIvR+LSgjxf4YgUv9PodE=;m4JuPrdszjr5R/hacAcbtw=="
+secured: "rZaRDPDIipZ2Edchw/olRcYIoo5pKIKGam6UTxT2IE1L88V4+UhMmxJ6qTGTXndIQxLnR/wmFlunV86MG6o4U9vRo0NpX71GXlN8+wOc6pNCJiWzDplaWFOMMzIVzYYR5t+DhbFvVYmP99rjCdqpfiq2s1I2zjUkn9QTq86O84NDMFcFV7/M/697qNoSDHEgy81PgC1ukp+pnb0SGuxCFkHbHuCFXNLNL9l9pO8OLfQB0fS3njC2Ij0sSMJoekein7yYuzFPFhCrhCQJZaA1jIJe/NXVDjnOETYGCZTU1eNf7XPkwnwdrAxrFzHNhLhcPz+kEDzPj4FqYlekjGosWxUwUOSDRwPSJEormwdPfVw=;b21qWZ7WQUmwDrJr/46LiA=="
 ---
 

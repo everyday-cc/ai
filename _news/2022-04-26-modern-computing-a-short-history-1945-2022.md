@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/gilpress/2022/04/26/modern-computing-a-short-history-1945-2022/"
 webUrl: "https://www.forbes.com/sites/gilpress/2022/04/26/modern-computing-a-short-history-1945-2022/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Forbes

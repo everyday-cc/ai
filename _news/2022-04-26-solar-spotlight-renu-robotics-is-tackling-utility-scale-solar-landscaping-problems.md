@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T12:00:00Z
 originalUrl: "https://www.solarpowerworldonline.com/2022/04/solar-spotlight-the-growing-needs-of-landscaping-on-utility-scale-solar/"
 webUrl: "https://www.solarpowerworldonline.com/2022/04/solar-spotlight-the-growing-needs-of-landscaping-on-utility-scale-solar/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Solar Power World

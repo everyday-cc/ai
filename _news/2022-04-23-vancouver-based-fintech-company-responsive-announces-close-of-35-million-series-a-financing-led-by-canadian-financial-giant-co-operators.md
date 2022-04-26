@@ -7,7 +7,7 @@ originalUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTec
 webUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTech-Company-Responsive-Announces-Close-of-3.5-Million-Series-A-Financing-led-by-Canadian-Financial-Giant-Co-operators.cfm?j=0"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 800
     height: 446
     isCached: true
+
+related:
+  - title: "Altis Closes $10.5 Million Seed Round, Increasing Financing by 50% for its AI Personal Trainer"
+    excerpt: "Altis, an AI personal trainer powered by the world's first Movement Operating System (\"Movement OS\"), announces that it has secured over $3 million in financing, bringing its total financing to date to $10."
+    publishedDateTime: 2022-04-26T14:00:00Z
+    webUrl: "https://wgntv.com/business/press-releases/cision/20220426CL35284/altis-closes-10-5-million-seed-round-increasing-financing-by-50-for-its-ai-personal-trainer/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 5
 
 secured: "MoI1UpcKlN05+oRus/rBj47Bbwh9wGuTDLcSimCIoptsf9uRGgqA6UfG7q0NrCItUL1ng52PgxZcoUf6+/lKfaeqN5lXBkOmtuvq7L/AcbEzDDTt7GD+GnZ+r7eXhBe271b2kRK4tkEekWzpQ8lgm3t7dYOPLgBIT1gUMJxBszj76+QdZlIl8ri5PI6mEvxgb2YwtQAWG7IKDAk5d3Yqdv97QBORvyyWQUpeEN1PzczQRSFk3ndJQZz7TBp0oSaUcYfZLXcLSSelipjgHzu0XIObllcXhLtuqQtGeAvNxFgq1p01c47zIwcCtbp3IDN/JRSWp4BCQwkeCa/jVw8SeJO7OumxMC4H4EWxC0pBuI8=;ZtVaKua3wfyM8xbzOs1eAw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T13:23:00Z
 originalUrl: "https://www.prio.org/news/2908"
 webUrl: "https://www.prio.org/news/2908"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: prio.org

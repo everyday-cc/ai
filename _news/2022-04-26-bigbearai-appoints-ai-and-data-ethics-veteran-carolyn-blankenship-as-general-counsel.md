@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T12:18:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: TMCnet

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T13:33:00Z
 originalUrl: "https://techxplore.com/news/2022-04-ai-technique-narrowed-candidate-molecules.html"
 webUrl: "https://techxplore.com/news/2022-04-ai-technique-narrowed-candidate-molecules.html"
 type: article
+quality: 9
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -13,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Adept aims to build AI that can automate any software process"
+    excerpt: "Adept, founded by a team of accomplished AI researchers and data scientists, aims to build AI systems that can understand and automate any software process."
+    publishedDateTime: 2022-04-26T15:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/26/2304039/"
+    ampWebUrl: "https://techcrunch.com/2022/04/26/2304039/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/2304039/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-604864142.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "mLaxrKm3noOkETr/x7wyagh2DuQUg1f37aJjnpxLDEkQ+4yP31dmgGYWP7PT0DFIeVLb60j2hPISZUk5QIBjWO3LzA9GmFRDCfGARutsd+k1Kqr7OkuuzyiFaD5TafGLF+SKMuwjtuJgvf7+yZxCSfXP7Y0ID5o38+s9RnTHRticWRNxYxo8ruRbYaS6i0L/tRlRub+8XOtY4ImJ4+xhHoNu6gLU5wjqqb9aVPQxVlPdzuUQE8OTdil3/HGLNkgvEtxQPqEtvBvfPKwQezW8Of9pYfPku4SC31YLF3x+/noqX+caotcRULuCBBrUhEDlyDUz0ChIwi3WfGj+4caAEwvrPDfuCM89u/srQRa3jSx7vxpn39/K0ifZIRBaDAyl7MMwNDm2CqasUXjdn07hkXP9jBi2E8f4mA3IEDA34EgKr3f4gNpShZ/wkLvma3AJWlvXqigTYLYSVPcekta70bccq+3BOFCFgOLbcuXGFDZ/TF5Py7xmGwCwayPgYXRbWHZ2PG51MrHwOuSaqr4QBw==;X6G+vsO3/sH+koKEO/mSDA=="
 ---

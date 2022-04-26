@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-07-microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group.md",
+      "title": "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group",
+      "excerpt": "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group/article_974a655f-7afb-5ffe-b509-a2eb1fe82a1a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group/article_974a655f-7afb-5ffe-b509-a2eb1fe82a1a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-mint-group-only-african-microsoft-partner-at-prestigious-inner-circle-summit.md",
       "title": "Mint Group only African Microsoft partner at prestigious Inner Circle Summit",
       "excerpt": "In July 2021, leading Microsoft partner and global IT consultancy ... the digital transformation journey with AI and cognitive services for businesses and government institutions globally.",
@@ -1366,59 +1409,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-microsoft-boosts-its-ai-translation-capabilities.md",
-      "title": "Microsoft boosts its AI translation capabilities",
-      "excerpt": "Unlike previous AI models, Z-code models utilize a ... As such, the models learn to translate between multiple languages simultaneously. At the same time, newly introduced Z-code MoE models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities",
-      "originalUrl": "https://www.techradar.com/news/microsoft-boosts-its-ai-translation-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/C6bmmDwjYdb4D4whKn5yVc-1200-80.jpg",
-          "width": 610,
-          "height": 344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.retail-insight-network.com/analysis/artificial-intelli
 webUrl: "https://www.retail-insight-network.com/analysis/artificial-intelligence-hiring-levels-in-the-retail-industry-rose-in-march-2022/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Fuels Industry Momentum in Brain-Computer Interfaces"
-    excerpt: "Brain-computer interfaces enable two-way communications between the human brain and a machine. In the field of health care and life sciences, the hope is that brain-computer inter"
-    publishedDateTime: 2022-04-21T20:39:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/pic77264.jpg?itok=m8Deopti"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Artificial intelligence hiring levels in the railway industry rose in March 2022"
     excerpt: "The proportion of railway equipment supply, product and services companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 37."
     publishedDateTime: 2022-04-22T09:38:00Z
@@ -96,6 +80,43 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Artificial intelligence hiring levels in the clinical trial operations industry rose in March 2022"
+    excerpt: "The proportion of clinical trial operations companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.9% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:36:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/analysis/artificial-intelligence-hiring-levels-in-the-clinical-trial-operations-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 25
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/04/ASahv.png"
+        width: 1600
+        height: 1200
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the military industry rose to a year-high in March 2022"
+    excerpt: "The proportion of military equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 70."
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.army-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-military-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 24
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/04/bRr9w.png"
+        width: 1600
+        height: 1200
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
+    excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-air-force-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 19
   - title: "Artificial intelligence hiring levels in the pharmaceutical industry rose in March 2022"
     excerpt: "The proportion of pharmaceutical companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.6% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-04-22T09:36:00Z
@@ -105,6 +126,15 @@ related:
       name: Pharmaceutical Technology
       domain: pharmaceutical-technology.com
     quality: 9
+  - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in March 2022"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 71% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:35:00Z
+    webUrl: "https://www.just-auto.com/features/artificial-intelligence-hiring-levels-in-the-automotive-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 3
 
 secured: "iWA4FcUlDgUvLnmzQY03NRei+FfGC/w0PtWLVdx92XpW6hQQIXdspxR1AOw+0r92JDtR3+41Hgj/6V3RyiCOpncfDC3SxezmuLnCW7y082sRvIc5TL4yDHLLML6yOmx3dbw15V1LCM6o7yZWpGWeb/fbPnwSVLtvVAyJKK5FmsQNkrXOcgmJzcVsn0PdbHrnHrl80esBVVV22ynI6K1t/pqngC7g0H90Mmh6YEqJ81M5FtIrSqS4hSaCDLyvBeY/M/XyYD9DOMbfAThQtys6Dk90M84OGgiBt5afqy8ivh1pPandAeDLT6D0M3a5Ymup0ORzgBQgPF6A63XzzRaopO0ysSL0LRXnVab6cqQgMgh8h8HHHt4tsRlKLNcAHf/s6vJG7tWDf+K2OCJy9hSqMfXbsB1k+ETUnp5xKV3vXj/CrYppJmneNlEqz+AYda1eLHAK8Gkwbb34DqcjCRHfzZUS7I0n6PfPQWyaiHH84qKYoqb76PIrlHGJwlRal8UeA6P0B00iYyyWOrhyJsytqw==;V4NPPRXSnB2SCEpOF5nIWA=="
 ---

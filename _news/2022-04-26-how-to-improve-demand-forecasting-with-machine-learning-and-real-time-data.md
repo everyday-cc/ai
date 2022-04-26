@@ -5,7 +5,12 @@ excerpt: "Demand forecasting systems have been ill-equipped to address disruptio
 publishedDateTime: 2022-04-26T13:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/amp/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -19,6 +24,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "u7TSAqhU3zvniXcB9yY7UaJx9a+9efLXKT90YpABhvlbQtfQTFHEXwP3zVI9fvMw1GCrQnqF8bXf9y0vdpyGhglzM+ViJlmwHOAfA1G6992CzvWOL/WAf+L/f9y9QxpCMYUI9kKFyaaLo2TEzLQCjWY/A4hdhu1tRdJdcax939JsMRhQ95yLYWAeaDcnn98rUyvMyt+lSBA6dTaizdmJoFOofwHwj+WNMtEVAW+fDUtTHgqAsRtjknJ7gHD64Sk4GEOWrtjDRd5cQKuBl65d4mBNlpbBhoiBwO93xYeIF6LPvlHd3frce8wI64UMfFpRlUn2vqenPJ3tI/p0JUbYB9JCHScbm2G9hc4UJhzjIwQ=;6uIc4XEfXvwNaT2j3RVrPw=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/5efcc8f4cdc22100069576cc/0x0.jpg?format=jpg&crop=6996,4663,x4,y379,safe&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "z/abfEKc94dXxZIGuxlmmRcqZUL6bIathAoI+kdhzNB70E9D5WErnaiMCdKBqqCN6fA2tPmjf9jSxsu5vC/3aIH22v4NmHJp1TfrXDBWOcEcyc+nSBabjEF2RacJLEw/BXtOkTX3YekrbJFTScFiiH+YDqZqKuOqElBtNSBqdcO0zEiQzWv50MqMe0aGY6Ou8TaHKjtGILhGsvGvv54zEV6zy+VaATQRvMBo/ZiSSQvc8xM4Mgu2ZnDZrT5os3rDOuaDw9PeyR6axzWZvXk9+wOAJCM/kGnl3i+pTBjce5moqhVn5wW3zpxe6ZgkPXYqHG/FEyr7g/NPosWjUHQ+fbhyiIa1XJTNCLnORpQUDrk=;8qau0lMyWZsRHqb0t6F8Yw=="
 ---
 

@@ -1,20 +1,44 @@
 ---
 category: news
 title: "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies"
-excerpt: "TruCorr performs attenuation correction using a Deep Learning approach with data from the patient's SPECT scan. The application eliminates the need to scan the patient in two different positions ..."
-publishedDateTime: 2022-04-22T02:56:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/"
+excerpt: "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,"
+publishedDateTime: 2022-04-22T00:56:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp"
+ampWebUrl: "https://www.benzinga.com/amp/content/26754709"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26754709"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "GVJkj2GCW4GWhlnmhEv4M7MtvYpHVNT9Rq6InOYU6lo3qdVTKfejcTv7d1d4UDdxLEDM1CKegxu/PQp7T1TB+ZT3knxM+C05681TjWyabyQui5cFMqtNfE1ZjItkJr4pyzypcbq/k6ca+Z7/BM3OD9atVqB/SpYrr1hQSQ/CghQKWd74hCJUHp+yHZidgcLj0nY3Cv4DIeEypKKlJkdNgsxSvTU81DByzIkfWadS2nczQEcxDFTfRXuZr3FaR0L4png81zLuiySJwg6pbVOWdFmb0M82XH94MHQXtC7Y9lfV7jbB1OJBZOwjc4lxVlhkmyjMQwfndvyBu2Qp0aNl2Fgfh89ATML2cqil9HnH76w=;VZJ0eofa2HSTDFHQoGI3NQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+related:
+  - title: "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies"
+    excerpt: "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need"
+    publishedDateTime: 2022-04-23T01:38:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies-1031373567"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies-1031373567"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies-1031373567"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 8
+
+secured: "FeoBWzPjkDxP72uzgjWPyKaeVDAQrxoSq/V+R8i6nrw/Ex2jlNGfOVT9crhtvS7mq2v4tRVSQ8FdjQYLmx50RzCQnOAUBqcP/U/lZXrBOqgArwjbml+PwaPvCMrS5j7MG9OI1IEUcmszGC6IZutrkabeBAiTGlAFHCWLAOsIl3mITAz/vcXxdkPESOPjFnjhT9gxy/2BStnb2aY8cnugfvBkJ1FIFafnvDcqmoyurVQh5VqLMCDfgDCOwyoaWmkNGEQ1/SCKiWvGWmcFUH3mP9Wt/Fqv1DlVEQNsYOYTGGQdglec7QzjYf1bAWnP/Xqe+ZAWtzDllEQ8H0qZbmURhqr54sYylFPEXLeQRKEN/zI=;+YCz6kxRcmlpGaIOBCGV5w=="
 ---
 

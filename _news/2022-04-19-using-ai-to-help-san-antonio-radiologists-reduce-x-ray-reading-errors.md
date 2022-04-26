@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Using AI to help San Antonio radiologists reduce X-ray reading errors"
-excerpt: "AI is what you rely on when you’re using ... It fuels Netflix movie recommendations, language translation apps, Facebook Messenger and online chatbots. “Deep learning” is a more complex ..."
-publishedDateTime: 2022-04-19T00:45:00Z
-originalUrl: "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php"
-webUrl: "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php"
+excerpt: "Dr. Rajeev Suri, seated in front of a desktop computer, searched for signs of lung cancer on a digital X-ray emblazoned with red, orange and yellow clusters. The colors weren’t highlighting cancerous masses,"
+publishedDateTime: 2022-04-19T09:01:00Z
+originalUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
+webUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "y5XYbJnRVbjI8sA6PPHqBBqOBv60C1nZ8CluJ3nrlIgl6ycIp9nav+QJOutijGq9bnOQZ8dha9zxbovlYhBXEzzGklVsk5k0hxe0Q7Hib6ggnJ6SKSvF/e7BjixHfGM7WPV87ItXYNmbO54i2VuJQBRYN86fEhjs1JPtiTy9u0+d1gJI2+iaOmzCmvDILvtGbGTfopdXB2JKoOcvfjhyUtTfpBUONdoipA2p1f5L1KR3bzuJbFU2VlljDwNXuf6OB7Goa8qWE+Glur9mHt7SARRsEEeCqHbBfr9ZRhzSUZr7jjJIvV7/BGxJSTisQcHTsJgpEfTPdwFF5l45ZWonkbLIDW/WKgpxsnWPkY0fwLY=;z0nYk98Ij4hLoZHHtjwsKw=="
+images:
+  - url: "https://s.hdnux.com/photos/01/25/20/21/22348879/3/rawImage.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
+
+secured: "ETfv0T47bxNbif2GU1NUqzldCZy5+RPOWAqa4TiV4QP+ks+IWs+THflFRRSnsFZGgVpO/BSv7j7JbvX15LBCblh9LSCGnH307mrweVQyiZs42i00zJG9idNa9x3Wyzs+WuhywNQ/W+Oly9iO6+z9V8OUcmOJ2msHa+5Jg0HT9LjHUvE/5tbqCQRuIyjr6uetvBXdK/5kn3ujYov0q6FgnuGMEb+8O6KCOeOuqpuBgbGEVNgqfCHhzUBkI+y9Huvzvk47ebMJTX0z5ye5vVYnTy+soINW8W8BPjw+niUx7QjCt+nG94CQWIOFli3O33nz2r6ifFQs8Q+9nLQAFB0+piwqXmC3Go5umXgmElq5/v8=;GoW2lHzkyoqnCPZiqC3mKA=="
 ---
 

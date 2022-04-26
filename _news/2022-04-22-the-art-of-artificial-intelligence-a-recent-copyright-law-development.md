@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Combining Intelligence: How People And AI Can Collaborate"
+    excerpt: "To support the collaboration with AI effectively, leaders must also reimagine their business processes, redefine individual positions and rethink operating models altogether."
+    publishedDateTime: 2022-04-26T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/26/combining-intelligence-how-people-and-ai-can-collaborate/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Augmented Intelligence for Healthcare Clinics Provide Arena for Discussion"
     excerpt: "Yuan Luo, PhD, has helped establish a new arena for clinicians who want to discuss a clinical problem or challenge they face to see if and how it might be addressable through artificial intelligence​."
     publishedDateTime: 2022-04-24T06:35:00Z

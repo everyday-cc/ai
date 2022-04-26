@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-26-adept-aims-to-build-ai-that-can-automate-any-software-process.md",
+      "title": "Adept aims to build AI that can automate any software process",
+      "excerpt": "Adept, founded by a team of accomplished AI researchers and data scientists, aims to build AI systems that can understand and automate any software process.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/26/2304039/",
+      "originalUrl": "https://techcrunch.com/2022/04/26/2304039/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-604864142.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/26/2304039/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/2304039/amp/",
+      "publishedDateTime": "2022-04-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-healthcare-natural-language-processing-market-is.md",
       "title": "Healthcare Natural Language Processing Market Is...",
       "excerpt": "Companies Profiled in Healthcare Natural Language Processing Market are Apple Inc, NLP Technologies, NEC Corporation, Microsoft Corporation, IBM Corporation NEWARK, N.J., April 25, 2022 (GLOBE NEWSWIR",
@@ -351,12 +403,64 @@
       ]
     },
     {
+      "path": "_news/2022-04-19-how-ai-can-help-and-hinder-the-supply-chain-crisis.md",
+      "title": "How AI can help – and hinder – the supply chain crisis",
+      "excerpt": "This confidence in AI owes much to its promise of visibility. AI offers a clear overview of the entire supply chain, and claims to predict demand, supply and movements better and",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1650360316/itpro/2022/April/GettyImages-supply%20chain%20AI.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-using-ai-to-help-san-antonio-radiologists-reduce-x-ray-reading-errors.md",
       "title": "Using AI to help San Antonio radiologists reduce X-ray reading errors",
-      "excerpt": "AI is what you rely on when you’re using ... It fuels Netflix movie recommendations, language translation apps, Facebook Messenger and online chatbots. “Deep learning” is a more complex ...",
+      "excerpt": "Dr. Rajeev Suri, seated in front of a desktop computer, searched for signs of lung cancer on a digital X-ray emblazoned with red, orange and yellow clusters. The colors weren’t highlighting cancerous masses,",
       "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php",
-      "originalUrl": "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php",
+      "webUrl": "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php",
+      "originalUrl": "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -375,7 +479,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T17:45:00-07:00",
+      "publishedDateTime": "2022-04-19T02:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "San Antonio Express-News",
@@ -1280,101 +1384,6 @@
       "provider": {
         "name": "Barron's",
         "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-new-snapchat-filter-teaches-users-american-sign-language.md",
-      "title": "New Snapchat Filter Teaches Users American Sign Language",
-      "excerpt": "The ASL Alphabet lens shows users how to fingerspell their name, practice the ASL alphabet and test their sign-language fluency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/internet/new-snapchat-filter-teaches-users-american-sign-language/",
-      "originalUrl": "https://www.cnet.com/culture/internet/new-snapchat-filter-teaches-users-american-sign-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/c26c853ebaaf0d0d010105c4a8fa012643f8ae04/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/",
-      "publishedDateTime": "2022-04-07T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs.md",
-      "title": "Policybazaar, IISc come together to develop automated speech recognition algorithms to effectively address consumer needs",
-      "excerpt": "As part of the project Policybazaar would work together with Dr AP Prathosh Assistant Professor at the Department of Electrical Communications Engineering II",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272459938/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272459938/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1649334881.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
         "images": null,
         "publishers": null,
         "authors": null

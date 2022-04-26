@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/canadian-government-invests-in
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: KNWA News
       domain: nwahomepage.com
     quality: 17
+  - title: "VoPay And HES FinTech Partner To Make Real-Time Payments More Accessible For Canadian Lenders"
+    excerpt: "VoPay, a leader in payment innovation, announced today that it has partnered with HES FinTech, a European-based lending software vendor, continuing the fintech company’s growing loan management partner portfolio."
+    publishedDateTime: 2022-04-26T00:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=652985"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
 
 secured: "U3YY3poh8Aq66vkoXuyMBn55e4AVNjjtI1PO9gv28ZB3ZYS9+sapwvUopkFgl82hHUoRaIwW/re2r5v5pUpb5z1aAEf6toi/+dphSkc9rkG92GSYLFVE0WlM1A3//eq20JXxOzLgEGH9o5ySNUGmlX9XXFoevQvlkxoFqy8UzzX75Q7DqUduuVxSM5JDdUCxZjBmmdmRnWaXulrWub6oOH/ah9G1WhaSIColDnOvYQXhey5rBL7QIZ3fwhoodUV7uR5/NbgYElYZLFxLYpq7ai2Q344O1hJxw9UIqYe7hfzyKrNu9jXLyFg2Lsn4EbABsAa6vGDd8Zq1EW3o9F+uMItRLbPZfcZ1phMYzDpTbII=;L7wRGbpA/CKW4UYL/2iq9w=="
 ---

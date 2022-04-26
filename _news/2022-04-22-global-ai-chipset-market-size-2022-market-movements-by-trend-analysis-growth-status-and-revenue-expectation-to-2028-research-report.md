@@ -56,6 +56,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports"
+    excerpt: "The region's businesses are the most forward-thinking in terms of AI, machine learning, natural language processing, and computer vision, boosting the document analysis market's growth. The presence of major players in North America is also a significant ..."
+    publishedDateTime: 2022-04-26T13:03:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/intelligent-document-processing-market-to-reach-usd-4-15-billion-by-2026-at-a-cagr-of-37-valuates-reports-818675146.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 0
 
 secured: "LoCD5el0csY2bewsI4SSYOh32uoD6DqGOSmlH65/SY98eFHB/yZIGWuBH5PeWav161V3hVlhefFR8AcqbFgsexkatZZAGEhlVZIQhbi28oMJ2gXkc1QtI5JhrH1np+wWbG9S2/aB6g4cv3GkurjjEgUfsu1VKqmkxB3qz5uttEBGk3pgsfoGxFNLw7wB+C7oZILnpZGuc+d1LXoa5yZ9meCL+zWw0/GaqwZ2xEegWg2OQ1vJouhgUKSv5ID2eWaCzWmyb5iw0vbAVgHV2/xihyEydogcfpj8rzezfvQU8wIGgX/qt2M0u4EpYJ4nfgCi1fHCrDXQ2YJHdtApYxIHV1vAgOv1sLJFaVEhqG+yjMc=;kWB7bk2c+0MhdhfZKpO8Yg=="
 ---

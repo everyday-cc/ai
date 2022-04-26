@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T11:52:00Z
 originalUrl: "https://www.straitstimes.com/tech/tech-news/smu-astar-launch-new-lab-to-solve-national-issues-using-artificial-intelligence"
 webUrl: "https://www.straitstimes.com/tech/tech-news/smu-astar-launch-new-lab-to-solve-national-issues-using-artificial-intelligence"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: The Straits Times

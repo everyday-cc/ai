@@ -1,29 +1,30 @@
 ---
 category: news
 title: "How AI can help – and hinder – the supply chain crisis"
-excerpt: "The industry may be emerging from the Covid-19 pandemic, with e-commerce still thriving on it, but the supply chain crisis isn’t going away. Infrastructure designed in a predictable pre-pandemic world isn’t enough to clear the backlogs,"
-publishedDateTime: 2022-04-19T11:27:00Z
-originalUrl: "https://www.techcentral.ie/how-ai-can-help-and-hinder-the-supply-chain-crisis/"
-webUrl: "https://www.techcentral.ie/how-ai-can-help-and-hinder-the-supply-chain-crisis/"
+excerpt: "This confidence in AI owes much to its promise of visibility. AI offers a clear overview of the entire supply chain, and claims to predict demand, supply and movements better and"
+publishedDateTime: 2022-04-19T09:31:00Z
+originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis"
+webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Mozilla
-  domain: techcentral.ie
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.techcentral.ie/wp-content/uploads/2022/04/Supply_Chain_22.jpg"
-    width: 620
-    height: 349
+  - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1650360316/itpro/2022/April/GettyImages-supply%20chain%20AI.jpg"
+    width: 375
+    height: 210
     isCached: true
 
-secured: "2p/H1ra3tGqYnNViXOKOPc+eNs2R+9AUZ1dnuNWG/1NuCTSQYq8rR23pvaMNLXliLjxmxfP8nMcpmF50+kgA4qMQsNjzlWVETF9W9K2mMtyTT9xyA28yoKcgX0E1AzfuSQqpTzGDNRiGERAG6V1huW1mg5iQVEtraD1cT+OstXXPqaHTyJy0ma9y0QCKHClmbWhwCvDvKRSy+7fjl/J55308m67QL7kVlo0ytA/xJXZXOO3bvgDGQr4w59TwsmXqUQAleyYnG/inQ5NzZ3IpexF/taxcpQKUroyfORP1IG6zEG1VCQoAsvGR7QB9HMRrbGbGUXUaiM1w9rEpvs7Ra9rZm+8Q6XOYGQHgSCtDRc8GBjYaqDHNjhfSyU82KQgbuDsvg0sL8/fTaXn5olFZeRXT4XH0e6WNV1sOLahzA7RzY/JmT6O/ddCZPkl2o9INUL9xiuFPJTUxAfX5pO/kPlFMPIhT1OgBTLMAowNWL5yeyliac1mLo6cN9YUJTuSfU9aFMYGNS5Wy9umZ0y64hQ==;Xeja+YZQamxyx/Yx0AN/1A=="
+secured: "UUTyotSgiJ8B/s7rLFWzp0wATkMk7jSW/MkOCVk7OuohxG6wYYj5WDj+jsLYXPPoe37WmyU43zGYqD5yXYN5FJTM22RPdDRaeK/89Vw0Vx4MBK6wsJGiXps84XQGU5f4omYC2CMPY7sjv9XDx0sokiss5XQNEbRmGWAnfmeHjNDJs1ADmA1Ek1EFw12/2we+Gr3FCcObNMpAFXU/aszgW1IOq3dBjMN795Lnu3qYJTRP8ZGLfXoCqqODNpWHJdav9TIH7QMBH3GhQlil0w7NBNQptIy9OmmdZztdGx0QB4Llep2FM+ukLX70+4T9v/sIn0OQGIGXmBzzaYooqGJCUhM7DEzhAZdGP3WR8iugNcE=;rxXFy58PXFgvkluZxjjAJg=="
 ---
 

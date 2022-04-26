@@ -282,6 +282,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-11-artificial-intelligence-voice-market-set-to-witness-explosive-growth-by-2029-iflytek-google-apple.md",
+      "title": "Artificial Intelligence Voice Market Set to Witness Explosive Growth by 2029 | iFlyTek, Google, Apple",
+      "excerpt": "New Jersey, N.J., April 11, 2022 – The Artificial Intelligence Voice Market research report provides all the information related to the industry. It gives the outlook of the market by giving authentic data to its client which helps to make essential decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-set-to-witness-explosive-growth-by-2029-iflytek-google-apple-2022-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-set-to-witness-explosive-growth-by-2029-iflytek-google-apple-2022-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-the-rise-of-tiktok-why-facebook-is-worried-about-the-booming-social-app.md",
       "title": "The rise of TikTok: why Facebook is worried about the booming social app",
       "excerpt": "Last year the typical TikTok user spent 19.6 hours on average per month on the app, according to data.ai – equalling Facebook ... Last year, research found that almost a third of all Britons ...",
@@ -1348,49 +1391,6 @@
       "provider": {
         "name": "gisuser.com",
         "domain": "gisuser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-facebooks-meta-to-build-1b-data-center-for-metaverse.md",
-      "title": "Facebook’s Meta To Build $1B Data Center For Metaverse",
-      "excerpt": "Facebook’s parent Meta is building a $1 billion data center for its metaverse in Spain as well as a Metaverse Innovation Hub.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/data-center/facebook-s-meta-to-build-1b-data-center-for-metaverse",
-      "originalUrl": "https://www.crn.com/news/data-center/facebook-s-meta-to-build-1b-data-center-for-metaverse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0273-14aff55279f9-2f8a0aca665b-1000/meta_data_center.jpg",
-          "width": 599,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
         "images": null,
         "publishers": null,
         "authors": null

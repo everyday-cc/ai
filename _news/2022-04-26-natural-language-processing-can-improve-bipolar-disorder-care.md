@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/natural-language-processing-can-improve-bipolar-disorder-care"
 webUrl: "https://healthitanalytics.com/news/natural-language-processing-can-improve-bipolar-disorder-care"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics

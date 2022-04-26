@@ -20,21 +20,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "EDGECORTIX ANNOUNCES SAKURA AI CO-PROCESSOR DELIVERING INDUSTRY LEADING LOW-LATENCY AND ENERGY-EFFICIENCY"
-    excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge"
-    publishedDateTime: 2022-04-21T20:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26750850"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26750850"
+  - title: "EDGECORTIX PARTNERS WITH BITTWARE TO DELIVER HIGH PERFORMANCE, LOW LATENCY AI ACCELERATION SOLUTION FOR INTEL AGILEX FPGAS"
+    excerpt: "EdgeCortix® Inc., the innovative next generation fabless semiconductor design company with a software first approach, focused on delivering class-leading efficiency and latency for artificial intelligence (AI) inference,"
+    publishedDateTime: 2022-04-26T14:58:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-artificial-intelligence-5e0ef7be16236e5bdadce2f755bd202a"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "HRWuC0XvXpo9OtEf9jAybCgHrxWarPe1BH3VYWKhL7Cx40crzu1GehA3mlm/AZrkgoOv/iec0WFPY8lSi7gXOhMnVBvSfWIkiST8Aa8O7cjwL7eIIKkpG8rXc/NQ+ZI39xZ3O+b1naqQPbg70riJ6ZTv0xjhIuWsSLNSGykLOMHSfFOi7yMGea+IBDKN1fl+gkSe8dSei0q9xSVeCkMSWZXXjzvNCv/f7hLOlg08DN+HqGuo+Vp1q9exZYajRsjqoKKlzYQzp67MzzpevtOu4DbDeWQwJT35X9FHTi93PA/6cQiGchpVTFt7qBMgzQF4WZtkWOnSH+RRJNZy2xfzQYsFAh/8e3Aes1oSX1/us6o=;UZv3eggJ+hPfPETYt4NJow=="

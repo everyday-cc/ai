@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Apple sued for patent infringement on facial expression recognition"
-    excerpt: "Apple was served a lawsuit from FaceToFace Biometrics for allegedly infringing on a facial expression recognition patent for messaging systems."
-    publishedDateTime: 2022-04-21T22:57:00Z
-    webUrl: "https://www.biometricupdate.com/202204/apple-sued-for-patent-infringement-on-facial-expression-recognition"
+  - title: "Open Future Survey on the Use of CC-Licensed Photographs for EI Facial Recognition Training"
+    excerpt: "Alek Tarkowski, Open Future. In the past decade, openly licensed photographs of faces on Flickr have been used to train AI facial recognition systems without the photographers bei"
+    publishedDateTime: 2022-04-26T15:55:00Z
+    webUrl: "https://infojustice.org/archives/43994"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: InfoJustice
+      domain: infojustice.org
     quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/16182516/biometric-data-privacy-lawsuit-scaled.jpg"
-        width: 2048
-        height: 1161
-        isCached: true
 
 secured: "qpoAFMC163tkjMJ4VbVj8g3J8duHEkAYzCVHXoy/F+Sv1MByRwz9iWmBYBkBULcngtqyPVa5PAILwhdXWK4JlBkaHtFo5oLPTm0dk68gOaNsqS+txwm4OtjVAH09j46sSS2z3CalKTUgjGxtU3lZohRQVvS0nNNNlKOJWJlHiAfEMbjYw3zIXrmUq3ggDP/89Wh4iP51X4Mogi/UupI/42FjnmUM2HKG0vp8iceAtpLHwb3awZ1bl6g0AZFKoOUc3VpnZI2hMtyDbW9cl90t/VlE8D21yagVfwpoBE5KbD9sPHMSXPx0/rQvZrcinpqiNVBY8+G1fXWuFjkYJT4wMf8a4Jap/cfhMoY8HbR/iJQ=;Bdk5N9gHee+EuuCk/k6I0w=="
 ---

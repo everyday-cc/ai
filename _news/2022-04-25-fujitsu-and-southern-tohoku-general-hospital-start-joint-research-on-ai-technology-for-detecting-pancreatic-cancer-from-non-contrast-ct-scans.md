@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26779769"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26779769"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "AI may detect earliest signs of pancreatic cancer"
+    excerpt: "\"This AI tool was able to capture and quantify very subtle, early signs of pancreatic ductal adenocarcinoma in CT scans years before occurrence of the disease. These are signs that the human eye ..."
+    publishedDateTime: 2022-04-26T15:40:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/reversingcan.jpg"
+        width: 640
+        height: 400
+        isCached: true
 
 secured: "ZgB4HLx41LJBdpr94U/iKf0GJjdIvVq5HQnR2cUe2R1qoLsXW7k223hnuff8gdRdWkKgyygJXhcXvCvT03eDB4htZvPdwjfXoGoWWLGf6eg44L7xegPqlQs3xWP23HuwXZ8QecDwqXfKiVKIoLbn0w0eycE7fFju8qrcwdMp4cwSx98yzjJtNigcd+jp76LIOA4Zke0dQg4L/UHy5lM6OKLQ2uTjaMP2/QvXUHG/il4bFXSk3BktAMKGDjk9KPO02WJ/hHLiCBwyGVYw6+C3Lf2GwOYed0+5/LsX9zmDgZzCiTXv8eW5cCcuiOCXW4THWW5IE2ESTqdo8EGNje9vBOdJPWXuEzOlNQP3NRbJlD8q1cdaEch3m40bBQHL1iRFQthy0S9ym+hRPIyzsKqVY0hwp4UkgKhkcifMvAVjtiHkIaZtGE43E/OjPjpu/AO+81+pl4qtnrhds0DnW68qCt02JgxoDpMQPCY8LfVrucIGfyAgwHk5AFHSEiOtygTv3pmDkUqLlHqXh8tNjeMu3g==;udnVJJ2xcRp0oYEQz4cIqw=="
 ---

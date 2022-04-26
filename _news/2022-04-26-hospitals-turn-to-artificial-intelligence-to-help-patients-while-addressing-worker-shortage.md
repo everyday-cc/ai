@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-25T19:14:00Z
 originalUrl: "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
 webUrl: "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: WXYZ Detroit

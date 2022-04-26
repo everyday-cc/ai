@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2022/04/25/salesloft-unveils-new-ai-powere
 webUrl: "https://venturebeat.com/2022/04/25/salesloft-unveils-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - AI in Sales
+
+related:
+  - title: "Salesloft Launches New AI-Powered Sales Tool For More Accurate Forecasting"
+    excerpt: "Sales engagement software vendor Salesloft has announced a new feature for its Forecast by Salesloft platform, dubbed the \"Modern evenue"
+    publishedDateTime: 2022-04-26T13:52:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/salesloft-launches-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 32
 
 secured: "981KSAp0nBlbqygBM9jnpArZ7Y2fhi7HGVuNkVrtSGyPCjGrnHZ/GY+93vjUrQYNCTwJH1bFUzYDwo3T+N1uy1NGvKWK3N772vUK/PyIbNIbNTLHdfKykNEqm27PSUuJ2fLPnF3v2oNGatzCMoty+YHQJYQwe4sljj99QwpIO18QVoVkJrpW1zZCFCUqUKtGWdTktmhPsaowS5t/sUXIvtwKFYbeChywWjI18zZrwd10OzvymFZLW7kQp3z3kR5MOKBtXah0+0wJuI43+FNRxuDzteaI5szElL3JKI9CHdLG5Q9t0RR1LWoX6fqgI0KPi+SxgWbOFAk6IqzAE2cqTgzN+LaTFsz3ZqC6D4rwEc26DT31MvHyDkj34HN3Q+HPwvPl5YPVMYibU3fDeYtq3SL46WAgNr0WISzz6ZiS6QtS7fWJBf2MmU4WCb7WhHHSO2hFGm9iFfZT9ExmwdNXhAwPmwrH289Jp9QMWDC//6LcvJ/aMrpwV4nQ4iCQHK1JbmDOULkmq3Ky6EQlXp20/w==;oalPHadi7JPkid3nw3iQKw=="
 ---

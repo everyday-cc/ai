@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/the-other-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/the-other-ai-augmented-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Combining Intelligence: How People And AI Can Collaborate"
+    excerpt: "To support the collaboration with AI effectively, leaders must also reimagine their business processes, redefine individual positions and rethink operating models altogether."
+    publishedDateTime: 2022-04-26T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/26/combining-intelligence-how-people-and-ai-can-collaborate/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "The art of artificial intelligence: a recent copyright law development"
     excerpt: "Joel Feldman of Greenberg Traurig LLP discusses the question of whether a work created by artificial intelligence can obtain intellectual property protection."
     publishedDateTime: 2022-04-22T13:59:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T11:31:00Z
 originalUrl: "https://www.bloombergquint.com/onweb/zoox-will-coast-off-self-driving-competitors-as-much-as-owner-amazon"
 webUrl: "https://www.bloombergquint.com/onweb/zoox-will-coast-off-self-driving-competitors-as-much-as-owner-amazon"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: BloombergQuint

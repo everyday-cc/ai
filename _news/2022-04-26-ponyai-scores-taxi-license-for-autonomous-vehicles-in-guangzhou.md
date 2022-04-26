@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-au
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/4fd6f50fac610d3c30415ed5a61b236969770239/2022/04/25/eee3bfaa-c52f-4a5c-a3df-6239564d74ed/pony-ai.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Pony.ai to launch robotaxi fleet in Guangzhou, China"
+    excerpt: "Pony.ai will integrate its autonomous technology into GAC vehicles, which can be hailed using Ontime's platform or Pony.ai's PonyPilot+ app."
+    publishedDateTime: 2022-04-26T15:10:00Z
+    webUrl: "https://www.therobotreport.com/pony-ai-to-launch-robotaxi-fleet-in-guangzhou/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-pony-ai.jpg"
+        width: 770
+        height: 500
         isCached: true
   - title: "Pony.ai becomes first autonomous driving company to receive a taxi license in China"
     excerpt: "Autonomous driving developer Pony.ai announced it has received a license to operate taxis in China, the first company to achieve the permit."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "OriginClear to Launch Water On Demand Fintech Startup"
+    excerpt: "Program brings relief to underserved businesses needing their own water treatment.CLEARWATER, Fla.--(BUSINESS WIRE)--$OCLN #cleanwater--OriginClear Inc. (OTC Pink: OCLN), a leader in clean water innovation,"
+    publishedDateTime: 2022-04-26T15:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=652928"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "$36B+ AI in FinTech Industry Trends and Opportunities Assessment, 2027 - The Increasing Utilization of Smart Contracts for Financial Processes is Driv"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
     publishedDateTime: 2022-04-25T02:46:00Z

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Fuels Industry Momentum in Brain-Computer Interfaces"
-    excerpt: "Brain-computer interfaces enable two-way communications between the human brain and a machine. In the field of health care and life sciences, the hope is that brain-computer inter"
-    publishedDateTime: 2022-04-21T20:39:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/pic77264.jpg?itok=m8Deopti"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Artificial intelligence hiring levels in the retail industry rose in March 2022"
     excerpt: "The proportion of retail companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 46.5% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-04-22T09:35:00Z
@@ -96,6 +80,43 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Artificial intelligence hiring levels in the clinical trial operations industry rose in March 2022"
+    excerpt: "The proportion of clinical trial operations companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.9% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:36:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/analysis/artificial-intelligence-hiring-levels-in-the-clinical-trial-operations-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 25
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/04/ASahv.png"
+        width: 1600
+        height: 1200
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the military industry rose to a year-high in March 2022"
+    excerpt: "The proportion of military equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 70."
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.army-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-military-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 24
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/04/bRr9w.png"
+        width: 1600
+        height: 1200
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
+    excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-air-force-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 19
   - title: "Artificial intelligence hiring levels in the pharmaceutical industry rose in March 2022"
     excerpt: "The proportion of pharmaceutical companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.6% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-04-22T09:36:00Z
@@ -105,6 +126,15 @@ related:
       name: Pharmaceutical Technology
       domain: pharmaceutical-technology.com
     quality: 9
+  - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in March 2022"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 71% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:35:00Z
+    webUrl: "https://www.just-auto.com/features/artificial-intelligence-hiring-levels-in-the-automotive-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 3
 
 secured: "V8jyzVuQih0FnAruuizkMigN0AJcVV2JfvuF0RATPPxG7zr5LmwgQy6uhvqmVP0JnesrEWM/OzyWqk8HTOe3YSOhVbeWzU04o1EOXLusoPSVW6AEtG9Gw+AcwXFyAopkkw5lp5Q+EURfawORgAJIrBFA7TXCMAahd4nYJdk1BqonY7SgIRQsHW7lSaPwK8iNcUDtprlyP3fLu0ggSojLEQhh9l8DuvHivueEDDMFKmI1KU6+4r2QyzVXhhdTnDmphOPJmvAOACL9xP2IUm5yqhPlE6VR2+Ml8+sNYtz3xl5FHHj2A4heaOQzlFJpNaiQLc0so7TVKI+TS3hk2kBAt8DimHmqBmzNjKWSB2Ju8cTQqQJKk7kl1HmS1VX+5LoNf+zh41n1e3m+TPUYjHj0ERBHv+ae5eWMhhA/d8gebGfWRVuS79Z7g4uq9+KYizQ7oAJTSC8yZqvKUWTGY4cbp5wDpqBwDicMLYKDGu9OEFzg1C7CzofS+V9TgIn4iShQHR4WWSe3R5J+gQcqUVrPCA==;EIBiXdjSdrps+jcCAehn7w=="
 ---

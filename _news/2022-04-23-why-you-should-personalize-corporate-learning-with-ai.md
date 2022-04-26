@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How to Improve Corporate Culture with Artificial Intelligence"
-    excerpt: "Contrary to press-propagated blames on rapid industry changes, unforeseen circumstances and uncontrollable crises, most business failures boil down to poor corporate culture. Interestingly, how corporate culture is perceived has changed just as rapidly as industries have evolved in recent times."
-    publishedDateTime: 2022-04-21T21:00:00Z
-    webUrl: "https://www.chron.com/business/article/How-to-Improve-Corporate-Culture-with-Artificial-17117085.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/32/53/22391490/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Why You Should Personalize Corporate Learning With AI"
     excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
     publishedDateTime: 2022-04-22T14:49:00Z

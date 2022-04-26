@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T13:05:00Z
 originalUrl: "https://hothardware.com/news/intel-massive-offroad-racer-sims-darpa-ai-autonmous-vehicles"
 webUrl: "https://hothardware.com/news/intel-massive-offroad-racer-sims-darpa-ai-autonmous-vehicles"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: HotHardware
