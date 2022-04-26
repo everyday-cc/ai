@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg"
-    width: 718
-    height: 478
-    isCached: true
-
-secured: "t8OoI+eRsiLIgz+IXUdTzGlvLmOb1oWHGd5B9uy0urr7w8LFdJH6Tn50AFk2RC/gU7lPyRUcKPWWB6Gdimwk8BBHuftDwpYJRAt0PIqxBT2MKO0GVMxWoKEOT8plg95gRVqS6kHN//ibg+fLQWGx1ZjNjLbHycV88MML5B2VJOGmB381N7dR3R+S3In+UwQwfIFMZTJTGu+pwL/DZPoVESb+yfne+jkLC7/tgIAuyBI6qyawuISEpatnlVED1NXOGsIXk+ojsqTWHyOAa7Q4UIDqbQuLKAPjNW0txSuo5soGxHxwXT4g1JWvowKLBi6rxJsqxTX9ZUnanSs/+P7o4hmTSOGpyo+IzRqzhYmpODo=;PgpF3wgzkENf7p+6AGeyPA=="
+secured: "E6FOA3rR7KvNHwd5yGQwkHEfSxRErP1kkU0CPfSn2pD0SOeh6DMFpY7V6I6xCpwTEcUs3kzFKD1tGd5ND+9G57u9sfa1PLnn9DluyYVdrs3QVlazQGfdZgWywvM8i12P5u/MYYc+NORYuI0L6fCzlmPtVRa/puky0UtszFaZpbPvNhDisgYg00Hijv0FUJ+xEQeQbo7o3wJudOLwOEMEr1u89H/lTUfozifntbYkF/zQKBvqjoPuY/8XBZ1hl0dJFxmRp+OEAact/IBv+lzdtyA1uddCeAUMkHrUASGF7NrCBJwmxha4G+Ay6wkffMNqngB/Bpb9Ew/fn6rLUC7VK6SCZgChIhb96qMDaOZH0UQ=;09C0dxpHW8VYeuLwWlzrbg=="
 ---
 

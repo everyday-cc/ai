@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Rapyuta Robotics Secures USD 51 Million in Series C Funding Led by Goldman Sachs"
-excerpt: "This is Rapyuta Robotics’ third round of funding, bringing the total capital raised to USD 81 Million (JPY 10 Billion). The new round will further the company’s growth and mar"
-publishedDateTime: 2022-04-26T11:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-rapyuta-robotics-secures-usd-51-million-in-series-c-funding-led-by-goldman-sachs"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-rapyuta-robotics-secures-usd-51-million-in-series-c-funding-led-by-goldman-sachs"
+excerpt: "Rapyuta Robotics, Co., Ltd., a leading developer of collaborative pick-assist robots (Rapyuta PA-AMR), or warehouse robots, and pioneers of Cloud Robotics, today announced USD 51 Million (JPY6.4 billion) in Series C funding led by Goldman Sachs to accelerate the expansion of robotics solutions and artificial intelligence technologies."
+publishedDateTime: 2022-04-26T11:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
 type: article
-quality: 29
-heat: 29
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "Xk5QuXO2QDnWNEdUir9ySy5/KILfk9Uzye9F+LDVWv6+nHjIRFbUPrXU7KFE3HWTsOoZBaFdLPQkii0jaLcJOSHfCefITysbmpXR5NCJsq1E2b2TDnIJcr5SPXfQ+fIqpVSr8hhSY/6KmhRLF+zV/nKAt38CgieYjOdvqXOVJLMZbIo0frSQXyKTQfzVT78ssy5lPA94hTPOgIJwJTcqBz1bxsdg3SAm7/8LJzywD286LS6oNFPL83gdMwC2+2QtmHAq6cfTE794+kOooYus10YnzElOrUizHMQ+3FUKqBi9YtRkMZMhsfmgSpNnc9ZKCFjRctUZnQWDcl7Bkg2GPhv5Is/pNgR2X/ocI589fTw=;48ABxv5Y/Eb3IpTp+TDJKQ=="
+secured: "pKr0JyZL9TA9taF6JOKUJOuCu9XVp6Mvo9JPtAvdirEdkiWPvP1CxO5CtojDzLDZLP1yUewt4aR7FYwkJZTfA+C52YiRLSni3gINSPxZinB1XwUBF00OgJrwtxKz3xIvZrFhXEndh7VMc/RQpEQIWifQnudWWiC06nNAToEPOPhoy0IZJRcIYz1PRBqrh7VGJRpxkBLqWSUsAcX6s80UumiqOkw8uSY8z6sou1zcpIN9MklHDLh9Cw3/OE/y2Ix4pDdjSxvYjeGEHrHzZy9wdmf0eR4Q9zPauRjXuiQ0xX0beIhLxoKb6dNx/ZqGgZjEEvIDNjymzDa8nMeqjxOLBApLgIHuwJV8LGcO8/3JLy0=;9ahkn+9A6obLnpSuBGeSLQ=="
 ---
 
