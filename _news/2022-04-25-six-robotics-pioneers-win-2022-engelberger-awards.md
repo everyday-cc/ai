@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26791476"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26791476"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Six Robotics Pioneers Win 2022 Engelberger Awards"
+    excerpt: "Automation industry’s most prestigious honor to be presented to three at Automate 2022 in Detroit on June 8 and three at Automatica in Munich June 20 ANN"
+    publishedDateTime: 2022-04-26T02:24:00Z
+    webUrl: "https://www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/"
+    ampWebUrl: "https://www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 74
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
 
 secured: "40qLobaG1h1n8+Iwh7sGyjKaVGYsviRZfwUqfSwB57Li0+E7dDSnbgMFHguvZK8oKycFH+wmUG/Z+h+oU3qDI/0SiJplAgJkO6Z20IysTj7o4hGCxpy4RP0x9/nE5IJi2zHJj4Pu74rR8yLbnTjOR7f6h0uX22H7di4MsiY7HFvGlWV0utDvMUy41AotluwDTRmCDLIzB0pegV7qb9VI6U4o+b7+RxYmVFgHLj8x5eJm34wvsy3zAQaM2j7Ciu7+MvIqc0UGDAyfbdy4cU1AylTqmQmrNVa1MgyDdom7WY8SF9BRwjLiNwENP2OuSyIHBStKhogyZqxVERD3FJLnAzLQmEYNxmcI57czHLF79fTsEDubLOOGtWZnu+YEOQGUb7rW0Gc2UQ3ZwOFbFG6mPM4QCPxZoxUJIGXeP82oYFYXzcOS3WIeoRIp2QssRA1bdDdEE1YYb5VXir8WT+tEltc+vRzaL1YNIAsRH3N5nP4Fp+O2mmzEIRhNCmeYitNAk6CWR3O8VxNs67UOFdG/8w==;+qwN5jXH09U1cwRGxZHzVw=="
 ---

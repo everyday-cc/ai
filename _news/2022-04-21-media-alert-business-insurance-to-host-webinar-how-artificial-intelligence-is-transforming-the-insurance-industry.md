@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-21T12:59:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/media-alert-business-insurance-to-host-webinar-how-artificial-intelligence-is-transforming-the-insurance-industry"
 webUrl: "https://insurancenewsnet.com/oarticle/media-alert-business-insurance-to-host-webinar-how-artificial-intelligence-is-transforming-the-insurance-industry"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"

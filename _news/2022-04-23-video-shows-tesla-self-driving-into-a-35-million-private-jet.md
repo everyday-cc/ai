@@ -9,7 +9,7 @@ ampWebUrl: "https://fossbytes.com/tesla-self-driving-into-private-jet/amp/"
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-self-driving-into-private-jet/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "California tech CEO running for U.S. Senate wants to ban Tesla's Full-Self Driving"
-    excerpt: "Dan O'Dowd, CEO of Green Hills Software, said he's campaigning to \"make computers safe for humanity\" and ban Tesla's FSD, referring to the beta software as \"the most unreliable safety-critical computer system."
-    publishedDateTime: 2022-04-21T10:43:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/dan-odowd-california-tech-ceo-running-us-senate-wants-ban-teslas-full-self"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 28
 
 secured: "RAOva1fvnzaLL/e8KMaVGHea91IbscBgwpzVYA0LsVckZWOtpeRUiifbfLffhwMQECiZAkgOHXizZ4MT5Ne6JQf8Lf5ZFOwpq2xFVSvdvZIhhpWyd3higJ6KeM8hdO8RzVF5F2b1L/gYdSiYgZKCOfnIiWL98LNbhpd6vkqGOMwFdPlMPbG2aUDNufF9xReTL9LSBrVXL+it4a4hQKJzTFfxF49E5A+zZgQKByIRbDJAny9HCZS/Vb4VE2YyLfGE8zD8FUomBXXm/75wdPlc94vO7folQFxAlzRubpT8LVrVEyeGpId2lYSewUruoC+5Akqxg4lDApmHO7oj08sTP3sQyg8t5BPkRvMI7bm0s00=;JSAqdq3qpj98PAdlahJFCw=="
 ---

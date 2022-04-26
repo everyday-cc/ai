@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-22T09:34:00Z
 originalUrl: "https://www.just-drinks.com/features/artificial-intelligence-hiring-levels-in-the-drinks-industry-dropped-in-march-2022/"
 webUrl: "https://www.just-drinks.com/features/artificial-intelligence-hiring-levels-in-the-drinks-industry-dropped-in-march-2022/"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/04/1reoQ.png"

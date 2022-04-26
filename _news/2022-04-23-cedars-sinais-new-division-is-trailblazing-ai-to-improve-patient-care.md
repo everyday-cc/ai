@@ -24,45 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "How To Improve Contact Center Training With AI Simulation"
-    excerpt: "Salesforce \"State of Service\" report shows that almost 80% of contact center agents say their company views them as customer advocates or brand ambassadors, and 77% of ag"
-    publishedDateTime: 2022-04-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
+  - title: "A new vision of artificial intelligence for the people"
+    excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine th"
+    publishedDateTime: 2022-04-22T10:03:00Z
+    webUrl: "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/"
+    ampWebUrl: "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/625eebe47a9fb17059edc980/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-5-3-1.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "How to Improve Corporate Culture with Artificial Intelligence"
-    excerpt: "Contrary to press-propagated blames on rapid industry changes, unforeseen circumstances and uncontrollable crises, most business failures boil down to poor corporate culture. Interestingly, how corporate culture is perceived has changed just as rapidly as industries have evolved in recent times."
-    publishedDateTime: 2022-04-21T21:00:00Z
-    webUrl: "https://www.chron.com/business/article/How-to-Improve-Corporate-Culture-with-Artificial-17117085.php"
+  - title: "What determines the cost of an AI project"
+    excerpt: "Artificial Intelligence projects are complex as it involves models, data, infrastructure, technology, and importantly a compelling business case. Broa.."
+    publishedDateTime: 2022-04-25T03:12:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91062200,imgsize-28022,width-1200,height-628,overlay-etcio/what-determines-the-cost-of-an-ai-project.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "A New Vision of Artificial Intelligence for the People"
+    excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s"
+    publishedDateTime: 2022-04-22T23:27:00Z
+    webUrl: "https://pulitzercenter.org/stories/new-vision-artificial-intelligence-people"
+    type: article
+    provider:
+      name: Pulitzer Center
+      domain: pulitzercenter.org
     quality: 37
     images:
-      - url: "https://s.hdnux.com/photos/01/25/32/53/22391490/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/Screen%20Shot%202022-04-22%20at%2010.02.46%20AM.png?h=44ba1eb2&itok=qIDJepxI"
+        width: 768
+        height: 600
         isCached: true
-  - title: "Observe.AI Raises $125M for AI-Assisted Contact Center Product Development"
-    excerpt: "Observe.AI has secured $125 million in a Series C investment led by SoftBank Vision Fund 2 with participation from Zoom Video Communications, Inc. Observe.AI now has $213 million in investment under its belt."
-    publishedDateTime: 2022-04-22T13:29:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/observeai-raises-125m-for-ai-assisted-contact-center-product-development/"
+  - title: "Accessing the AI Revolution"
+    excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
+    publishedDateTime: 2022-04-21T13:41:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/accessing-the-ai-revolution"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 15
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 17
 
 secured: "/X2r6RAF15K4RbIWrnCSGVNpk4xZwxaeoRmfTPkvt2erbWELXXxCAABm7lez+PIG/sSZHTvr5Y3WGuhJN8BgGu0QZ4NqljO6LjamMJDKzxB93sULLGUV7T0M8BOGpqzkM+8eiKEMjR0Ziaf03H+wuFiffkF0TCacTAmN2qUKF0IilJ6E9RprZ7rjPvNUOfPe6Pc/yGBs3JRoWt+57MmpgkGq52Hc9oYivKxt6C/3ja2UixwTM6Z0iqIlqNj/DMaC63BaFHqSIO4HC9iSFyGelo2zwOhDTkdiY70xeZb5mmeZL3UI/i1zZkX60I/aEaqh/SgDmLGsmmnFRjfgjdcQFFgnkr9m4qZTy03jwsXXcE4=;tMhwjcyCcK5sclp1tMkd3Q=="
 ---

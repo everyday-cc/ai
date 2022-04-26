@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/business/article/How-to-Improve-Corporate-Cu
 webUrl: "https://www.chron.com/business/article/How-to-Improve-Corporate-Culture-with-Artificial-17117085.php"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,45 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "How To Improve Contact Center Training With AI Simulation"
-    excerpt: "Salesforce \"State of Service\" report shows that almost 80% of contact center agents say their company views them as customer advocates or brand ambassadors, and 77% of ag"
-    publishedDateTime: 2022-04-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
+  - title: "Why You Should Personalize Corporate Learning With AI"
+    excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
+    publishedDateTime: 2022-04-22T14:49:00Z
+    webUrl: "https://www.timesunion.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php?IPID=Times-Union-jobs-entrepreneurship-river"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/625eebe47a9fb17059edc980/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Cedars-Sinai's new division is trailblazing AI to improve patient care"
-    excerpt: "The Department of Medicine at Cedars-Sinai created a division to explore AI's applications in healthcare. The division, called Artificial Intelligence in Medicine, was launched March 1 and is led by Sumeet Chugh,"
-    publishedDateTime: 2022-04-22T20:34:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-s-new-division-is-trailblazing-ai-to-improve-patient-care.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: Times Union
+      domain: timesunion.com
     quality: 37
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
+      - url: "https://s.hdnux.com/photos/01/25/33/42/22395058/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Observe.AI Raises $125M for AI-Assisted Contact Center Product Development"
-    excerpt: "Observe.AI has secured $125 million in a Series C investment led by SoftBank Vision Fund 2 with participation from Zoom Video Communications, Inc. Observe.AI now has $213 million in investment under its belt."
-    publishedDateTime: 2022-04-22T13:29:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/observeai-raises-125m-for-ai-assisted-contact-center-product-development/"
+  - title: "Why You Should Personalize Corporate Learning With AI"
+    excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
+    publishedDateTime: 2022-04-22T18:49:00Z
+    webUrl: "https://www.chron.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 15
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
 
 secured: "WsjxWOjMWJgdu4Hq3UWbPlNXh4aXZ1XoN1exLvAT7t8Ze9Mwa7PCCfaD8llZ4ZGckttI3Y9eCzpvWWP/ngunurhZwadDaa967CKMPYpAozb5DWFfbH80xu5YKdjKPOyb+mFT5suTRtBhRA+0jJ0HHUyJxjYFAVq7Du9XyPmxaDH58jQ4Yjb45XORpljUs4iugULTE0g+4veHsjvZt+5moL5nStkNjLJ67NXqlWPL92y7TZICTLe7XvRO2rnWYcY48yxK4s7oUWnHAGz8jfaEEIuPWi1B31oLVBy3JLmiGvCod02cB9Pe5uuqYSbXvG0MiJwIrFqlo4rcA0VaHH+dwE9oqzUblUVu7qm/7mGuozS0GkHXI3t/TN9HOqdAjb1h9c1d/hji1T2Q1HW/KexdqYIrx7Y8XqA+1qYJcQBG8PgHpRy9YTkCoQ5Fu+DlkWb9mwCZn8OxSWLY0AqikxryJ/awa4euKrj5dDOdfTSqdZbEjCPVbhbCcuc0e8SnzV86KghHNMejXRtXrMbyF2r/0g==;7eT+iUT/U4Fi28ciRAZbpA=="
 ---

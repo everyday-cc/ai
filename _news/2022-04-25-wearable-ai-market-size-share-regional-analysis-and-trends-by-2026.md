@@ -72,20 +72,6 @@ related:
         width: 415
         height: 253
         isCached: true
-  - title: "Maxar Invests in Geospatial Analytics Services Provider Blackshark.ai; Dan Nord Quoted"
-    excerpt: "Maxar Technologies (NYSE: MAXR) has made a strategic investment in Blackshark.ai, a provider of geospatial analytics services powered by artificial intelligence, as part of efforts to bring additional 3D geospatial products to more markets and customers."
-    publishedDateTime: 2022-04-21T09:10:00Z
-    webUrl: "https://www.govconwire.com/2022/04/maxar-invests-in-geospatial-analytics-services-provider-blackshark-ai/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 31
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2022/04/unnamed-file-97.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "BrainChip and NVISO partner on human behavioural analytics in AI devices"
     excerpt: "BrainChip and nViso, a specialist in human behavioural analytics, have announced a collaboration targeting battery-powered applications in robotics and mobility/automotive to address the need for high levels of AI performance with ultra-low power technologies."
     publishedDateTime: 2022-04-22T08:37:00Z

@@ -62,7 +62,7 @@ related:
     provider:
       name: Drinks
       domain: just-drinks.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/04/1reoQ.png"
         width: 1600

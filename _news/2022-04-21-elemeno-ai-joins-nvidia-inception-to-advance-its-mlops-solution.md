@@ -38,20 +38,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 64
-  - title: "Nvidia turns to AI for design process improvements"
-    excerpt: "Better than humans Nvidia expects the complexity of integrated circuit design to increase exponentially in the coming years, and is looking to AI to help out. During a talk at this year's GPU Technology Conference,"
-    publishedDateTime: 2022-04-21T10:43:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/54732-nvidia-turns-to-ai-for-design-process-improvements"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/05ffc05d3104a90a87bfa4f3347badda_L.jpg"
-        width: 620
-        height: 388
-        isCached: true
 
 secured: "XOPqYozlZEVwIHq4XR7k9u1s2QWC4LEHlCb3FOzj5b6lVl9yg89A8OHxm+/EAHuHDHwrYN5ORzU2GmCBXdG3N7UW0jhYbDwgxyGLGzPvZ24efC0GjMN92OicsmgZxLLV+lanx9iikzeGb8gWrZMBwQFAUqz/xaQBX8Lay3qV0FExuNGCLNm6oUIDRRThJDas+pJk9CwR2W+HpESC6S+Keek7rv0mV4VLypBJNJM9VBsjfG0e2+q1kBh5gpSmegr9dHTyU44AuHEV+2HGJtS7XAD5FATnLAy3NsbWpWeOVqpbXeI09VmC4DcArJzkr6zIwcXDYOsY9l1quZaKvfFtcfC5Ou4ZzMhDrhwkzNr5Tpk=;ujkLjOU0s0uBv6ZxDk0dig=="
 ---

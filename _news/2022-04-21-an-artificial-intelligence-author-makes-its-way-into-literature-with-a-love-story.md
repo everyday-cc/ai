@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://EINPRESSWIRE.images.worldnow.com/images/22552551_G.png?lastEditedDate=1650503433000"

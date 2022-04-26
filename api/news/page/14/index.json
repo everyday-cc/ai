@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-04-11-artificial-intelligence-may-help-trainee-teachers-with-assessments-study.md",
+      "title": "Artificial intelligence may help trainee teachers with assessments – study",
+      "excerpt": "Artificial intelligence (AI) could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, a study suggests. Researchers said it could be an “effective substitute” when personal feedback is not readily available.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
+      "originalUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kentonline.co.uk/_media/img/PNXUYCBHBEQ1IKRA6CE8.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
+      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
+      "publishedDateTime": "2022-04-10T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kent Online",
+        "domain": "kentonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-this-bengaluru-based-ai-enabled-startup-helps-identify-and-remove-fake-users.md",
       "title": "This Bengaluru-based AI-enabled startup helps identify and remove fake users",
       "excerpt": "Founded in 2017, TrustCheckr is an AI-enabled tool that helps identify and remove fake users. The startup has a proprietary algorithm tested on 1 million+ data points and used in AI and ML in ...",
@@ -1140,49 +1182,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-nopd-pushes-for-facial-recognition-software.md",
-      "title": "NOPD pushes for facial recognition software",
-      "excerpt": "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on",
-      "sourceUrl": null,
-      "webUrl": "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/",
-      "originalUrl": "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgno.com/wp-content/uploads/sites/2/2022/04/nopd-camera.png?w=1280",
-          "width": 668,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/",
-      "cdnAmpWebUrl": "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/",
-      "publishedDateTime": "2022-04-08T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGNO",
-        "domain": "wgno.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

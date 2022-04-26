@@ -52,15 +52,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "AI Chipset Market 2022 Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2028"
-    excerpt: "AI Chipset Market” report delivers a complete overview of the industry with both qualitative and quantitative data."
-    publishedDateTime: 2022-04-21T10:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-chipset-market-2022-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2028-2022-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
   - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
     excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"
     publishedDateTime: 2022-04-22T08:08:00Z

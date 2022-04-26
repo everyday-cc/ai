@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/04/22/1050394/artificial-intellig
 ampWebUrl: "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/"
 type: article
-quality: 59
-heat: 89
+quality: 61
+heat: 101
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-5-3-1.jpeg?w=3000"
@@ -55,6 +56,20 @@ related:
     images:
       - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/Screen%20Shot%202022-04-22%20at%2010.02.46%20AM.png?h=44ba1eb2&itok=qIDJepxI"
         width: 768
+        height: 600
+        isCached: true
+  - title: "Cedars-Sinai's new division is trailblazing AI to improve patient care"
+    excerpt: "The Department of Medicine at Cedars-Sinai created a division to explore AI's applications in healthcare. The division, called Artificial Intelligence in Medicine, was launched March 1 and is led by Sumeet Chugh,"
+    publishedDateTime: 2022-04-22T20:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-s-new-division-is-trailblazing-ai-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
         height: 600
         isCached: true
   - title: "Accessing the AI Revolution"

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-20-mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies.md",
+      "title": "MIT and Tsinghua scholars use DeepMind's AlphaFold approach to boost COVID-19 antibodies",
+      "excerpt": "Using knowledge of proteins advanced by DeepMind, Tsinghua University scientists devise mutated monoclonal antibodies that resist COVID-19's immune escape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
+      "originalUrl": "https://www.zdnet.com/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/abd53615ffa5b14b3bd167072ef976e5f18578d2/2022/03/20/4b8f646c-55c4-4661-8f7b-4bc80c59f9bb/shan-et-al-ddr-predictor-2022.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
+      "publishedDateTime": "2022-03-20T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-ai-can-help-historians-unravel-ancient-texts.md",
       "title": "AI can help historians unravel ancient texts",
       "excerpt": "The study, done by Thea Sommerschield of the University of Venice, and DeepMind Research Scientist Yannis Assael, was peer-reviewed and published in Nature, one of the world's most widely read and ...",
@@ -1410,50 +1462,6 @@
       "topics": [
         "AI",
         "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning.md",
-      "title": "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning",
-      "excerpt": "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/05/Oxford-University.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
-      "publishedDateTime": "2022-02-28T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
         "Machine Learning"
       ]
     }

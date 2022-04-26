@@ -45,20 +45,6 @@ related:
         width: 1032
         height: 703
         isCached: true
-  - title: "Esperanto Technologies' Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
-    excerpt: "Esperanto Technologies™, the leading developer of high performance, energy-efficient artificial intelligence (AI) inference accelerators based on the RISC-V instruction set, today announced that initial evaluations for its ET-SoC-1 AI inference accelerator are underway with lead customers."
-    publishedDateTime: 2022-04-21T09:35:00Z
-    webUrl: "https://www.design-reuse.com/news/51794/esperanto-massively-parallel-risc-v-ai-inferencing-chip.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 24
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage51794/Esperantob.jpg"
-        width: 1264
-        height: 554
-        isCached: true
 
 secured: "BnaQPEM5GnBIBF8YUuVbO80qmx5GTXiwQuIS/ZMjEbFbQiB3s3YNoK7MsenFfsKO4Ai/L+5Nm+Lsh49R7+WTQshzlk61K1d/a3Vd28aOHqXrxWkJaAzsUcwdExjkgbdR05CITfFhU+M1+X2wH6/B4lbI1y3DR4vJALcyDi9m9Za2jlKDx4v5szADdqYojIo6Kba+x43eZSwkKHi2bbF8jkkQeNcN6vk3yayITJcc+WrV6Ss42a4UQWTXNELTR7sRoGNB0noFJ/Qs5G77AnYaDtVjdgyy/Q4k6WsQk+lrKrm0T3gQB+NF36mMTaBw70pi8mE0IYevQTTkVZcPrddQslqnK90c/Th7Zhj+IKrh4m8=;Pv+lTgZ9Y3OwdwiinyHUzg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufac
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "AI Chipset Market 2022 Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2028"
-    excerpt: "AI Chipset Market” report delivers a complete overview of the industry with both qualitative and quantitative data."
-    publishedDateTime: 2022-04-21T10:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-chipset-market-2022-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2028-2022-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
   - title: "AI in Manufacturing Market Expected to Grow at a CAGR of ~25% throughout 2022 2030"
     excerpt: "Research Nester published a report titled “ AI in Manufacturing Market : Global Demand Analysis & Opportunity Outlook 2030 ” which delivers detailed overview of theglobalAI in manufacturing market in terms of market segmentation by component,"
     publishedDateTime: 2022-04-21T11:11:00Z

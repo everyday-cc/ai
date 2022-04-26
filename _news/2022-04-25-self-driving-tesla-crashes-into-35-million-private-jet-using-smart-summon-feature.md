@@ -52,15 +52,6 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 54
-  - title: "California tech CEO running for U.S. Senate wants to ban Tesla's Full-Self Driving"
-    excerpt: "Dan O'Dowd, CEO of Green Hills Software, said he's campaigning to \"make computers safe for humanity\" and ban Tesla's FSD, referring to the beta software as \"the most unreliable safety-critical computer system."
-    publishedDateTime: 2022-04-21T10:43:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/dan-odowd-california-tech-ceo-running-us-senate-wants-ban-teslas-full-self"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 28
 
 secured: "tDWa1XUUMCIEykqJa3puRnXvoGpoDXQdgtkShiTUEeERnR0D8ZUlwqoH9n9BdH4Q+WIjdj62GqJGSZqKTduzglAGSQyz+EnMOdPb/ZRhCEz5D6k9DTVsci9h2Wi4Fz2sTITwnRpmJwClMxD/VQmcLkDZqOR/Q8M9yoqs1t2KLKmHcujhqH4U90aHU2Nj6WALu06/pyY4jwHKzzKbxSslwq2eupxywq2FpyavE/k99agqqdLDJ1o4q1aiD+t1URqfb9/DFeSSJRz0u/5AxjTagjDpvvCwY81gleDmLtXa+IiA8yu/D86j3VARkM9Z6ZHWAqTjwsGFQGkJTZ1Qus3OK1ezXTSKpGf3rJ6xhpiZk20=;DAMl03bheS9FMY10HC7yvA=="
 ---
