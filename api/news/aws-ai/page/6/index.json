@@ -2,6 +2,127 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-05-nfl-and-aws-build-the-digital-athlete-what-is-it.md",
+      "title": "NFL and AWS build “The Digital Athlete”: What is it?",
+      "excerpt": "The Digital Athlete is a virtual representation of an NFL player that can be used to better predict and eventually prevent player injury.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/nfl-and-aws-build-the-digital-athlete-what-is-it/",
+      "originalUrl": "https://analyticsindiamag.com/nfl-and-aws-build-the-digital-athlete-what-is-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/NFL-banner.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-05T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-telenor-teams-with-aws-to-accelerate-modernization-of-telecommunications.md",
+      "title": "Telenor teams with AWS to accelerate modernization of telecommunications",
+      "excerpt": "Internationally, Telenor’s Thailand brand dtac, launched a 5G private network proof-of-concept for Thai enterprises based on edge computing and the AWS Snow Family. This solution helps customers process real-time, artificial intelligence (AI)-based video ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dhakatribune.com/business/2022/01/20/telenor-teams-with-aws-to-accelerate-modernization-of-telecommunications",
+      "originalUrl": "https://www.dhakatribune.com/business/2022/01/20/telenor-teams-with-aws-to-accelerate-modernization-of-telecommunications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://new-media.dhakatribune.com/en/uploads/watermarked/1642687179278/telenor-teams-with-aws-to-accelerate-modernization-of-telecommunications-r342161.jpeg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dhaka Tribune",
+        "domain": "dhakatribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-amazon-amzn-q4-earnings-crush-estimates-sales-rise-yy.md",
+      "title": "Amazon (AMZN) Q4 Earnings Crush Estimates, Sales Rise Y/Y",
+      "excerpt": "AWS introduced six capabilities for Amazon SageMaker, namely Canvas, Ground Truth Plus, Studio, Training Compiler, Inference Recommender and Serverless Inference. The company unveiled a managed wide area network (WAN) service, namely AWS Cloud WAN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y?amp",
+      "publishedDateTime": "2022-02-04T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-best-buy-selects-aws-as-its-strategic-cloud-provider.md",
       "title": "Best Buy Selects AWS as Its Strategic Cloud Provider",
       "excerpt": "Combining AWS’s advanced cloud technologies with ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR ...",
@@ -1290,137 +1411,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-hands-on-machine-learning-with-aws-and-nvidia.md",
-      "title": "Hands-on Machine Learning with AWS and NVIDIA",
-      "excerpt": "In this course, you will gain hands-on experience on building, training, and deploying scalable machine learning models with Amazon SageMaker and Amazon EC2 instances powered by NVIDIA GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T19:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-amazon-suspends-police-use-of-its-facial-recognition.md",
-      "title": "Amazon Suspends Police Use of Its Facial Recognition",
-      "excerpt": "Demonstrators hold images of Amazon CEO Jeff Bezos during a protest of the company's facial recognition system, Rekognition, at Amazon headquarters in Seattle, last Halloween. (AP file photo/Elaine Thompson) NEW YORK (AP) — Amazon banned police use of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/",
-      "originalUrl": "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-tensoriot-2021-aws-reinvent-recap.md",
-      "title": "TensorIoT 2021 AWS re:Invent Recap",
-      "excerpt": "By: Nicholas Burden, Senior Technical Evangelist, TensorIoT  Another year of technical innovation is in the books, and once again the annual Amazon Web Services (AWS) re:Invent 2021 conference announced the latest advancements in Internet of Things (IoT),",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/tensoriot-2021-aws-reinvent-recap-tensoriot",
-      "originalUrl": "https://www.linkedin.com/pulse/tensoriot-2021-aws-reinvent-recap-tensoriot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGdJXxjmUxkkQ/article-cover_image-shrink_600_2000/0/1642110759002?e=1649289600&v=beta&t=MfGjsXb0M4tl1xbt18sxMLSHUDWa6EuU26c0YNW3ff0",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

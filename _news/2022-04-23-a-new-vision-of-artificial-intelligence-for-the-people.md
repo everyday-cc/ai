@@ -3,10 +3,10 @@ category: news
 title: "A New Vision of Artificial Intelligence for the People"
 excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s"
 publishedDateTime: 2022-04-22T23:27:00Z
-originalUrl: "https://pulitzercenter.org/id/node/26574"
-webUrl: "https://pulitzercenter.org/id/node/26574"
+originalUrl: "https://pulitzercenter.org/stories/new-vision-artificial-intelligence-people"
+webUrl: "https://pulitzercenter.org/stories/new-vision-artificial-intelligence-people"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/Screen%20Shot%202022-04-22%20at%2010.02.46%20AM.png?h=44ba1eb2&itok=qIDJepxI"
+    width: 768
+    height: 600
+    isCached: true
 
 related:
   - title: "A new vision of artificial intelligence for the people"
@@ -60,6 +66,6 @@ related:
       domain: pharmaceuticalcommerce.com
     quality: 17
 
-secured: "3sQYzeU7IeDA8hmLKFtXW2icgwfb0KeNWpwWcBZw3X94N/X2uUGHgytlRlOLtVwkuLHBbU3FECNRAWYHVyM0Mk34dzCBdQzaplDEMOexLme79K5Q7+y+r1kg9+h3gc5zp/5g7GkowJm2IW6gVNzQMxjdkhzv4SEYgl1rBOmm0S5nAiq2A/1ihN099thmbeeKYLbBhNw+DiJZHhq1zVtsDM46xu0A8Syt+wC75sHWfddCMYzhSmJTtd7MG43vgDxfv8Z+2/vX20wIlty3znLDqbinzFviSoNZp9ZijgXvO4vjE3WIvgELzfjYyukhHGdks5p3g+x3ibEEwk81djbZ1kgIR8QKrNqmO8GToW+Aq8A=;21bSWyq/CHRFVuqR5M7vGQ=="
+secured: "qDxDDMebFOPJLl4cjKIbRn29foib2af4BqsbA2KLV+YcptKSo+mKrFzMWJpthBGm2BnAl86riW2iuQHxMWshPaUgi2UToGLgxjQ7ipY4XgdtaQGetSGuMJfqdBTUdDgNJcs0ki9d6vEiTqPKZmnnb3S71+E+nZkN/c2Q5LAFXCRiHUOqas3zSKYBt1HigrU4OQsPl+ts/xjXSXCySgTUVtEvGJ+tjvrMsvLZ+wNkO5zt8hgJx/TBIcs1WY4iGLsnIf/RR8u3lc6xudnNHTjYyu8Gp76RHnYw8C+mIMFlUR/Oz4gYBEMKDwKPYRXnol3c0UX9C2r7ECaN6hn7rU4i/QvoyojxJLMSzedU8gyuLGg=;JniZUSCkyVHzl9vVbW661Q=="
 ---
 

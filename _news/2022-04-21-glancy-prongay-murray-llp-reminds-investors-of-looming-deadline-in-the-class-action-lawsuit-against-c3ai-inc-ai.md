@@ -56,20 +56,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "FILING DEADLINE--Kuznicki Law PLLC Announces Class Action on Behalf of Shareholders of C3.ai, Inc. - AI"
-    excerpt: "The securities litigation law firm of Kuznicki Law PLLC issues this alert to shareholders of C3.ai, Inc. (\"C3\" or the \"Company\") (NYSE:AI), if they purchased the Company's securities between December 9,"
-    publishedDateTime: 2022-04-21T06:54:00Z
-    webUrl: "https://fox40.com/business/press-releases/cision/20220420DA31666/filing-deadline-kuznicki-law-pllc-announces-class-action-on-behalf-of-shareholders-of-c3-ai-inc-ai/"
-    type: article
-    provider:
-      name: FOX40
-      domain: fox40.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1679216/Kuznicki_Law_Logo.jpg?p=publish"
-        width: 789
-        height: 434
-        isCached: true
   - title: "INVESTOR ALERT: Scott+Scott Attorneys at Law LLP Reminds Investors of Securities Class Action Against C3.ai, Inc. (AI) and May 3 Deadline"
     excerpt: "Scott+Scott Attorneys at Law LLP (“Scott+Scott”), an international shareholder and consumer rights litigation firm, reminds investors that a securities class action lawsuit has been filed against C3.ai,"
     publishedDateTime: 2022-04-21T18:37:00Z

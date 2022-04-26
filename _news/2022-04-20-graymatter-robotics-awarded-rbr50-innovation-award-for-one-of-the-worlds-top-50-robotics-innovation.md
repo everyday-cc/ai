@@ -1,56 +1,26 @@
 ---
 category: news
 title: "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation"
-excerpt: "GrayMatter Robotics today announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world. The"
+excerpt: "\"We are excited to have GrayMatter's Smart Robotic Sanding solution selected for the RBR50 award\" said Ariyan Kabir, CEO. \"With a global shortage in surface finishing labor, manufacturing reshoring in the U."
 publishedDateTime: 2022-04-20T13:31:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/article_1533d00d-301c-59ce-af4c-5a51cf0b5315.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/article_1533d00d-301c-59ce-af4c-5a51cf0b5315.html"
+originalUrl: "https://fox8.com/business/press-releases/cision/20220420LA30271/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/"
+webUrl: "https://fox8.com/business/press-releases/cision/20220420LA30271/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://i0.wp.com/fox8.com/wp-content/uploads/sites/12/2022/04/GettyImages-1240191325.jpg?w=2000&#038;ssl=1"
+    width: 594
+    height: 396
     isCached: true
 
-related:
-  - title: "GrayMatter Robotics Earns RBR50 Innovation Award"
-    excerpt: "GrayMatter Robotics announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world."
-    publishedDateTime: 2022-04-20T15:19:00Z
-    webUrl: "https://www.automation.com/en-us/articles/april-2022/graymatter-robotics-awarded-rbr50-innovation"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 54
-    images:
-      - url: "https://www.automation.com/getmedia/36ccf36b-766b-4539-8640-f929de8e451d/Graymatter-news-April-20-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation"
-    excerpt: "GrayMatter Robotics today announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world. The"
-    publishedDateTime: 2022-04-21T01:48:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 39
-
-secured: "IWZEmF9+0G1E1VC8x+jWC5QQ8A7o2DooYj0d0dE3ncvcqaFhfP0kmmqyfxrvsaBLU6lxDnvhQvoZcOJ3P2k/R+E1TNtWauiAAz4GRkxikjINVXo1fppY+W80+PifN3RwQIad4yq0YwCdYl9peghRd80Sj6+fU6AbP0L0K+fhqsi6hxo79/i/+JNRySoG0eZmJ5IfQbv1RrsnK3b1g9uhkTLtRnYGfFQiIlByN4OZaNXh2dtyKLI/qWGsFWgMU4DpPytYB9fxvZM11PhLuy7RaIUQwD/Rde/kTYgfXL35q+SI/JAadMWWXYusJlQFEMTU0NMtUD+Ye4GBUvBKlZIAVo+AyaKxFYG7BoWIyJf5iP0H04jJftsxssrIOPiUT8ZmRqJ6wCK39DiUgN18G3kgRtXqoE4orG5tZc8BCrQEYuqqfeF5LIx9NHt+Su/JPyhWImTa8f5N+iXxKCR/0Fb0W86WaRQRasrPJXeiU7UDoJl0ILaZONicBNyHazQ4ifME1Nsi5PparIJDscNh5teohw==;/lbSUry7yIaa9RI5JX//yQ=="
+secured: "CoM7JnbTjDAcQOqHOLwAjc56w3EfeH6k68TgWzewwL4Opg5sHp5R667SRV9cg2OmwuZRNwy6nPlAKjDju1ueCnN9rwvxEaWPS6FCG9w1WwpAP2iKI2b9tED0QLdKVtuqd8DOAxngIqM6yFwpIGhUG1TW5vPR7uhKgzioCKi2DUqbuHCwlFqvuCnO/0E4XrA7PYPxPYDazaeJyWXrFJ87/f8Daz51kgJ+Z/kH4zJwmGKOT7waFAZWR0yZ4rM09u7MXQ2DPUp3bblqCAYf3mQ/t1wmAFnvACos3E/HuNflkdz2Q7kdm/KqeHPw/BSHG94bPHphK0KZ8f3Vd9xTLEvnB/6Q2Ws8uqrbqJg5nZ1Lw94=;916+YLM7jO5NQQ5nsUjX6w=="
 ---
 

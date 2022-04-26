@@ -3,8 +3,8 @@ category: news
 title: "CAST AI puts out report on extent of enterprises cloud resource overspend"
 excerpt: "A report from cloud startup CAST AI claims companies running cloud-native applications typically spend three times as much as they need on resources because of over-provisioning. The startup, which hopes to convince users to consider its platform as a way to control the problem,"
 publishedDateTime: 2022-04-25T14:30:00Z
-originalUrl: "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=keepreading-top"
-webUrl: "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=keepreading-top"
+originalUrl: "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm"
+webUrl: "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/"
 type: article
@@ -37,6 +37,6 @@ related:
       domain: tdwi.org
     quality: 10
 
-secured: "tUvpoYowcIlyHisYn37ODgOoaJgxMlaXKV4kHljN2v/M3qU+/DJz6FX88Zxovp8X5fJrhH9U4YKH+2ozNWqcmlV26NS/pywvRQ3IsLiDSPxmizmABVXXlY2X2raLBlvMWwG7FHYxmm+PAjpYxcw4ioATAX9odOrF63I9+7ja+LIqps71CBzYuP/BGtOkmosIWGDyTxGWV1DlHBorrDRybhAVJ6AbQLS8r7lGeyRvNNpGThRQcwiWuBxeyvFv2L/ftlEGF5EifuEsAcQspYBY0zZJ4fIgUAnPEmOLvlA0oNGC4rgJWYOwwkj7KduNCYKKgDacqXjtX6R4VFBtDqYNlugpnWQ748JixacehDz1ayo=;/tIFMAc/Vk98F/TNmgARkg=="
+secured: "IMmQQe9lDaJN5n4WYmCVQ4T21Qc2E6yFVGZ3TL+A+S5XxQhzcf3wUWjdAPix8vkXzB8NZUdFwOQzDlFpe22Si/k62QruhfejPgZKtrxQIv79wJEGQx1OQYC+vdHo+bxNqujjaR5a1sMy6qEpk4Gu3JKgdO9wcuvoftKxpU1H1IvfF2CSlCbbdloQ8kyOTHI8+dDeETFC2UavSUjpqMNLJOpoCHNKXsA4/SG+zTUiBuThYjIloeRVkBRqnStjglOvaGRFzEs9pXAmVB8lJgVgqSop+/ngpo+xY1zUkHbSbrLn0iAbqveepIUiCpPN6+16Q9hrmjffpD4uFxgtWm/A3rYIoxQO0253ci8vGYf2T7I=;UQrWUlR/szaD/u87CrxrgQ=="
 ---
 

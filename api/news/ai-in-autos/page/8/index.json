@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-11-buying-a-car-will-soon-be-like-buying-a-phone-why-your-next-car-could-be-an-ev.md",
+      "title": "Buying a car will soon be like buying a phone, why your next car could be an EV",
+      "excerpt": "Companies like Einride, the Swedish company, which has developed a system whereby an operator can remotely control multiple self-driving trucks at once. Dozens of companies from Apple to Baidu ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/special-reports/buying-a-car-will-soon-be-like-buying-a-phone-why-your-next-car-could-be-an-ev-1.1644432826866",
+      "originalUrl": "https://gulfnews.com/special-reports/buying-a-car-will-soon-be-like-buying-a-phone-why-your-next-car-could-be-an-ev-1.1644432826866",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/02/11/EVs-plug-ins_17ee90f1717_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/special-reports/buying-a-car-will-soon-be-like-buying-a-phone-why-your-next-car-could-be-an-ev-1.1644432826866",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/special-reports/buying-a-car-will-soon-be-like-buying-a-phone-why-your-next-car-could-be-an-ev-1.1644432826866",
+      "publishedDateTime": "2022-02-11T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-2024-target-for-i-citys-driverless-bus-service.md",
       "title": "2024 target for i-City’s driverless bus service",
       "excerpt": "The driverless bus service is expected to ... which include expanding into artificial intelligence (AI)-powered services and the deployment of 5G technology. The autonomous buses are expected ...",
@@ -1417,49 +1460,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-driverless-big-rig-truck-company-partners-with-union-pacific-to-haul-freight-from-tucson-to-phoenix.md",
-      "title": "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix",
-      "excerpt": "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts, mechanics, freight ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/",
-      "originalUrl": "https://www.azcentral.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/03/05/PPHX/42d3dafe-87c2-4b5c-907b-05ccb19fa9e1-TuSimple.jpg?auto=webp&crop=7951,4473,x0,y405&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/9291341002",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/9291341002",
-      "publishedDateTime": "2022-02-02T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

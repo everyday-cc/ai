@@ -331,6 +331,40 @@
       ]
     },
     {
+      "path": "_news/2022-04-11-china-ends-gaming-approval-freeze-grants-first-licenses-since-july-last-year.md",
+      "title": "China ends gaming approval freeze, grants first licenses since July last year",
+      "excerpt": "HONG KONG — China’s gaming regulator on Monday granted publishing licenses to 45 games belonging to the likes of Baidu and XD Inc’s “Party Star,” ending a nine-month long freeze that has ...",
+      "sourceUrl": null,
+      "webUrl": "https://nationalpost.com/pmn/business-pmn/china-ends-gaming-approval-freeze-grants-first-licenses-since-july-last-year",
+      "originalUrl": "https://nationalpost.com/pmn/business-pmn/china-ends-gaming-approval-freeze-grants-first-licenses-since-july-last-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Post",
+        "domain": "nationalpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-elon-musk-says-production-of-teslas-robot-could-start-next-year-but-ai-experts-have-their-doubts.md",
       "title": "Elon Musk says production of Tesla's robot could start next year, but A.I. experts have their doubts",
       "excerpt": "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday.",
@@ -1330,49 +1364,6 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
-      "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
-      "excerpt": "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/03/31/kenya-internet-poa",
-      "originalUrl": "https://www.euronews.com/next/2022/03/31/kenya-internet-poa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/wires/841/56/8415664/1000x563_jj5six.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

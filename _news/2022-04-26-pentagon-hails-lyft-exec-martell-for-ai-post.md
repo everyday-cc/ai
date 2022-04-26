@@ -7,7 +7,7 @@ originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/25/pen
 webUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lyft’s Craig Martell Named DoD Chief Digital and Artificial Intelligence Officer"
+    excerpt: "The establishment of the CDAO is an important step forward in the department's effort to become more innovative."
+    publishedDateTime: 2022-04-25T22:25:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/lyfts-craig-martell-named-dod-chief-digital-and-artificial-intelligence-officer/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 47
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2022/04/Screen-Shot-2022-04-25-at-6.23.12-PM.png"
+        width: 756
+        height: 530
+        isCached: true
   - title: "Pentagon hires first chief digital and AI officer from Lyft"
     excerpt: "Craig Martell has left his role as head of machine learning for Silicon Valley rideshare company Lyft to be the Pentagon’s first chief digital and artificial intelligence officer. Martell has also held machine learning and AI roles at Dropbox and Linkedin."
     publishedDateTime: 2022-04-25T19:41:00Z
@@ -38,19 +52,19 @@ related:
         width: 1200
         height: 500
         isCached: true
-  - title: "Pentagon Taps Former Lyft Executive for New Data and AI Post"
-    excerpt: "The head of machine learning for the ride-sharing service Lyft Inc. is joining the Pentagon to head up its new data and artificial intelligence office. Craig Martell, a former professor of computer science at the Naval Postgraduate School who has also worked for Dropbox and LinkedIn,"
-    publishedDateTime: 2022-04-25T17:46:00Z
-    webUrl: "https://www.bloombergquint.com/business/pentagon-taps-former-lyft-executive-for-new-data-and-ai-post"
+  - title: "Pentagon Names Chief Digital and Artificial Intelligence Officer"
+    excerpt: "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and Dropbox,"
+    publishedDateTime: 2022-04-25T20:20:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366078/"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
+      name: Nextgov
+      domain: nextgov.com
     quality: 37
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/04/25/042522pentagonNG/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "bECz+u8/2M0q09qGP7J+R1LesPbfgtIU0lXmoGlM2yqP5A9L8VPVM/X6zH18sY50qK0/itNqFx2duZS2A9QOH5evKiPCKsimbMZMtSKRvZ+ZJYhMaQUbQuvZM4CJtyPQiaUZrQmE83c+PAocAGcBKdeprr3My4rJk+SJ1si+UsPTg9NF1rvrwUiG9Ugb827WZeGiZLhZXLk2dacJ4XmwywFiKaJ3067es7oe4aBZ6TcSwN8jFYFeGnyy0vEOPEEnd6rma4Nxm94HUzvBF3gvYQ6lM5DrSY7ghYXWIpZwbncHgKAu7UD6Rj3j/4EAsnWfKEwCjqJZXwWeMwP9SBDzcWUYwQql+edEzlhBnoQj0FA=;0/XUm9yFD8aY/78P0803BQ=="

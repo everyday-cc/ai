@@ -42,6 +42,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "A New Vision of Artificial Intelligence for the People"
+    excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s"
+    publishedDateTime: 2022-04-22T23:27:00Z
+    webUrl: "https://pulitzercenter.org/stories/new-vision-artificial-intelligence-people"
+    type: article
+    provider:
+      name: Pulitzer Center
+      domain: pulitzercenter.org
+    quality: 37
+    images:
+      - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/Screen%20Shot%202022-04-22%20at%2010.02.46%20AM.png?h=44ba1eb2&itok=qIDJepxI"
+        width: 768
+        height: 600
+        isCached: true
   - title: "Accessing the AI Revolution"
     excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
     publishedDateTime: 2022-04-21T13:41:00Z
@@ -50,15 +64,6 @@ related:
     provider:
       name: pharmaceuticalcommerce
       domain: pharmaceuticalcommerce.com
-    quality: 17
-  - title: "A New Vision of Artificial Intelligence for the People"
-    excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s"
-    publishedDateTime: 2022-04-22T23:27:00Z
-    webUrl: "https://pulitzercenter.org/id/node/26574"
-    type: article
-    provider:
-      name: Pulitzer Center
-      domain: pulitzercenter.org
     quality: 17
 
 secured: "ni0Ycg+wXIZBClIncu03UBEJg7T4ry5TwpWBNWvG4RMvuvFZnjKKCIXfZMfoZnMzRFCcXjHbcc7vlGf5O+b1cXDKtTEU6AEbHhE6OqLEJRTBfPMGHS4m8nHJdDPkFQhqqtVNcdHg0ZwcyZIYL6nYPnrc9x/9k9ekeezwOcQd32UvLFX3GknCZPcqpQzkkxGhJAGvqupYwu/f1P6yMcGsG+z1Mi58NkY6jcxA6cTj0MnbyXb1Hyz1485Wj4DegdCFoURsvX/DsVYrKLGmVXq6BCswCzTUqu3kB78ZW0yPJVIhImGHVPmCGRLFMqkiVUeiLeQhIJ6ZYMW8EawPfW3nfapAR+QW1zl704t0EsvdFKM=;+GWO/WzziBuQIG9o0sofPA=="

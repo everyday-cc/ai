@@ -26,7 +26,7 @@ related:
     provider:
       name: bbntimes
       domain: bbntimes.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Intelligence_Can_Improve_Medical_Diagnosis.jpeg"
         width: 1755

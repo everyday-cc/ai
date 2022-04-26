@@ -24,51 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "Aerospace Robotics Market Exhibiting at a CAGR of 11.82% During 2022-2027 | IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled “Aerospace Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
-    publishedDateTime: 2022-04-25T09:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/aerospace-robotics-market-exhibiting-at-a-cagr-of-11-82-during-2022-2027-imarc-group"
+  - title: "Deep Learning in Manufacturing Market 2022, Overview, Size, Share, Demand, Segment, Applications, sales Market, Forecast 2028"
+    excerpt: "Apr 21, 2022 (The Expresswire) -- Global“Deep Learning in Manufacturing”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various ..."
+    publishedDateTime: 2022-04-21T15:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2W8nsKMLMpNTdkH8o3kdp7y6mtKk0SmbuIBxG793u6OiCLfakh9GAc4kUjxYkIcufHUc-_zNlmXs7cW0IJ1hgh3ThCIXhSM-K9FYrqdixnQ6EuJOD_piY8iu0bHmgRVac2GMaetojKuMYeKNKED5SXKBtcysflKM5Fk2k-gzoMEIPLBGT8etDFo4/s320/Aerospace%20Robotics%20Market.jpg"
-        width: 320
-        height: 213
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Size to Reach US$ 61.03 Billion by 2027 and CAGR of 26.60% | IMARC Group"
-    excerpt: "Looking forward, IMARC Group expects the market to reach a value of US$ 61.03 Billion by 2027 exhibiting a CAGR of 26.60% during 2022-2027. Natural language processing (NLP) represents a branch of artificial intelligence (AI) that allows computers to understand,"
-    publishedDateTime: 2022-04-23T13:07:00Z
-    webUrl: "https://menafn.com/1104080660/Natural-Language-Processing-NLP-Market-Size-to-Reach-US-6103-Billion-by-2027-and-CAGR-of-2660-IMARC-Group?source=318"
+  - title: "Training Manikins Market Forecast Report 2021-2028 - Opportunities in the Application of Robotics, Artificial Intelligence, Augmented Reality, and 3D"
+    excerpt: "The \"Training Manikins Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Type, and Application\" report has been added to ResearchAndMarkets.com's offering. The Training Manikins market is projected to reach US$ 1,"
+    publishedDateTime: 2022-04-21T20:22:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=651287"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-  - title: "Machine Condition Monitoring Market to Advance at CAGR of 6.3% During 2021-2031; Notes TMR Study"
-    excerpt: "Rise in demand for machine learning (ML) tools and Big Data analytics for machine condition monitoring propelling revenue generations; solutions integrated with IIoT opening new revenue streams Condit"
-    publishedDateTime: 2022-04-25T17:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26795158/machine-condition-monitoring-market-to-advance-at-cagr-of-6-3-during-2021-2031-notes-tmr-study"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "Transparency Market Research: Machine Condition Monitoring Market to Advance at CAGR of 6.3% During 2021-2031; Notes TMR Study"
-    excerpt: "Rise in demand for machine learning (ML) tools and Big Data analytics for machine condition monitoring propelling revenue generations; solutions integrated with IIoT opening new revenue streams Condit"
-    publishedDateTime: 2022-04-25T17:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55861872-transparency-market-research-machine-condition-monitoring-market-to-advance-at-cagr-of-6-3-during-2021-2031-notes-tmr-study-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 45
     images:
-      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Global Behavioral Rehabilitation Market Forecast to 2028 - Advent of Online Counselling & Artificial Intelligence in Therapeutic Settings Gaining Mome"
+    excerpt: "The \"Behavioral Rehabilitation Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Treatment, Application, Healthcare Setting\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-04-21T20:59:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=651300"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "kLGfu4vgoU/wpw/LYYwo4OeODwgODZrj0E+PqmFbBQqEuA9DtxY8e5tt9KqXg4dXCLYZfaGM7tzuPj1yau2XziuyEy16sEXkRqw9eJll6zprUa0fTxShpjz910Kl3h/oZ3VqS0SITDXP2ouiKPZV4NP+/jMTDSDRlvr8VC67YaVxjzWJuwAXLlSjoWBV7pTCoK6IxpFWqvTHr/My4/2KUFhL7T6Ia8oEMpeUD4IsgBDbcnLdRt2QrnCel6NlZXgAmFHd8+JDrkG6e4i7bhWQquO2+2QcSxEe8MkiPJrYDDpid56aJsd/yhO3YYz1aWWXMMvpI2ol5OEOEYgtilNEOiRgE5wevBUZ5BqkUcVHADE=;SxpqMcqlPLfs9h2SyD+MNQ=="

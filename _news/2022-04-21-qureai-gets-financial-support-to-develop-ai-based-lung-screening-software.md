@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/companies/qureai-gets-financial
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 615
     height: 383
     isCached: true
-
-related:
-  - title: "IoT Artificial Intelligence (AI) Softwares Market Research Report Current Developments, Future Scope and Future Outlook 2028"
-    excerpt: "Global IoT Artificial Intelligence (AI) Softwares Market research report examines the regional and Global market's"
-    publishedDateTime: 2022-04-21T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iot-artificial-intelligence-ai-softwares-market-research-report-current-developments-future-scope-and-future-outlook-2028-2022-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
 
 secured: "wAFkZheopHy97tS/eQ+007CKPk5lQ4un49R2mCeyGhA+519uzCIQJiExSkgy0IhOq3MADvxKifCL1fwqz6u5+vEvr4WI/ZYWCin/aMLhxx3Vzkla6jITa/etWm99w6+A7JReS3fHZeWYi0Gk6i88f1iYdIkXCiBasAy6vMOjFCXsCnfp8k36CUui0/FgngZdhhh0Mr5tjCqOnJ3XtfVbfvuC1cNmklNAz776Roo+Or6hZS1A+3hlpgcP2vxITW1E0v5YRbTKbg/kgMfw8OqdzeK1JDuhA0HKqCb4pjebV9uzo1R78MAnxFPxul7itWSvDxCgFWXLEgTLOCYNituxbZqvukvrDKAOseHrc3AAPZI=;kx+Qi7qdmfXwkm6gv1Jxnw=="
 ---

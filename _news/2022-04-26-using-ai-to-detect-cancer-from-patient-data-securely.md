@@ -54,6 +54,22 @@ related:
         width: 1920
         height: 1206
         isCached: true
+  - title: "Using AI to predict cancer from patient data without putting personal information at risk"
+    excerpt: "A new way of using artificial intelligence to predict cancer from patient data without putting personal information at risk has been developed by a team including University of Leeds medical scientists."
+    publishedDateTime: 2022-04-25T23:06:00Z
+    webUrl: "https://www.news-medical.net/news/20220425/Using-AI-to-predict-cancer-from-patient-data-without-putting-personal-information-at-risk.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220425/Using-AI-to-predict-cancer-from-patient-data-without-putting-personal-information-at-risk.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220425/Using-AI-to-predict-cancer-from-patient-data-without-putting-personal-information-at-risk.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "kvWfJUdQHUPtHo9fkzmhyRDKrYD4cgyaO2Aw9S8qgEsYFJ3RLXRAy1jB+QqLSBrGuwCT1CpfVRAjbCd4EkxPYaqY6R9Ho5GTy0yXNV8jIxGQyyT0zSIqLRHisBt+fZUyWiQMo8yDg1hKvwsgxYk3yoQrmEmQBRnUlQxbtx77t3dKDW+NnkLP6YG01VnuNYUrmXL7l0QaKvSaYjghraXH7LZT3+tAiUyQB/hCSzsxw+qvkIzarpK9LC2Ka43X+RvCpmDzjvOc4m3ioDHkt7/iUb+8cGbKSdsHFOIuyHZ6FxWKji/zSe1sAms1Gljrd3rJHLuCqxRrcbwjYsvh/niR91YQ5M1yTDZyWsHvixPcSCo=;dkPvpCoNFJvZIUnPMRgAng=="
 ---

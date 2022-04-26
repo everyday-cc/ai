@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Conversational AI Market is Predicted to Reach US$ 40.5 billion by 2032"
-    excerpt: "According to a recent FMI report, the conversational AI market is predicted to reach US$ 40.5 billion by 2032, up from US$ 8.3 billion in 2022, with a CAGR of 17.2%. According to the research, significant factors such as the increase in demand for AI-based Gartner chatbots solutions are projected to boost market growth throughout"
-    publishedDateTime: 2022-04-21T05:44:00Z
-    webUrl: "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/"
-    ampWebUrl: "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/04/Conversational-AI-Market.jpeg"
-        width: 1125
-        height: 750
-        isCached: true
   - title: "Face Recognition Systems Market Size Hit USD 13.09 Billion at CAGR of 16.8%, in 2028"
     excerpt: "USD 3,766.4 Million in 2020, Market Growth – at a CAGR of 16.8%, Market Trend – Rise in defense budget NEW YORK, NY, UNITED STATES, April 25, 2022 /EINPresswire.com / -- Increasing government expenditure on face recognition systems for enhancing border security and adoption of live surveillance technology in various countries are driving market revenue growth The global face recognition systems market size is expected to reach USD 13."
     publishedDateTime: 2022-04-25T11:08:00Z

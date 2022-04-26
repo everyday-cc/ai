@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-25T21:37:00Z
 originalUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-can-improve-medical-diagnosis"
 webUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-can-improve-medical-diagnosis"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Intelligence_Can_Improve_Medical_Diagnosis.jpeg"
@@ -34,6 +35,6 @@ related:
       domain: arabianbusiness.com
     quality: 17
 
-secured: "1NUos0pIcV3+j0dS3Bqi30pVp7ViAGmMM8E+LdMnseCfOy39RrqbxS21wlW4v5sN8tRuXMO94RkM+tALvZpD1r8iv438OGQ3s1rcOLya133APlUC8MgEnuQzRJ0LXq5RZR9kr3VDOGvzVqdTy+L0CYGxaWCo9eTMEn/C3Ic/DAwcMzN2xDm9sigdlKOShM34/K/to/aBkt6DhyF5l/9pxko6v93PYVwzlsvCsyYkDC8V7MMTP2RQPZ2ZivIrEHEnQs072Ew5sYANoaszA6PeAkikW2lyDsvdjWii+WZTW75JKzRXKek21iexhsaZb2TNrBiDO0PzYUeIlCmAQQySuGjdla61vAiZI1cbgOfEZ9c=;HSW52XlV3IuADU8lPxGD8A=="
+secured: "Euf+6YIhCuYPLUQ5qnyzI+ZKZg9T7fWHuAoXzIQpZ3QW+EyqcxO2s1p+L/bt6BwqYWLkTpAG7XH3MRHVODdfpx5gpzjDXGJNuYMlPTlM5mADShQDhqbXCklcVP3I0nhqKpW56j3CzQwsTb3wUpji3ZnVqm7yjiakKYwhdmo2nltGnM/7f7UTs/fAdTv65ddNWnDaklVS1QFz5LUhvgsk6vysTnXfh5A5rJ0DfEH4Y8MHKSvTxcmB6n46+fcxcLCnzawM/oGMRGF1KUxguLiXMw8qNcobnDhmCltCyn8SFHcLCHiiFb4I8MfsZUpweY7TTRw2tHiAwdS6+Tn7ethfFZwzj3NsISq7ZiZ6+HRTSVnDNyn4Hlc286gCgDpIOu3wS3N6DM4JwyJY+HHG30pzaQGpGsloLUj1zdp9gWlN2a+wH4a8gsCQfn6Psc9D1vj3o204pts2FF9SdiGqdqBy1N9MqDpyZ740g6kT8REm1mnlYDmLhY27BMkYeqJlfUUoHyO4djjHQFkpO7ic4XMUkA==;ZgRhp2+JtgKY5fJ1j0YvgA=="
 ---
 

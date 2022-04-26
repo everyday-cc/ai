@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief
 webUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366078/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,50 @@ images:
     height: 400
     isCached: true
 
-secured: "+rcRJzF1v8yk/Wz61mQYZsf+GX5/ysjIkzIzCgu6IWkUnFAANmPvRQLtiqnLfC6Hwz7gevJTTDwo30KHd237XAGZhFvN0P0T4WhCJkKdRvjwmUgX/zTOhA4SOKRyyMPYcNg+E5bpX12dC8cCsXiEtcM2cawa5yE40ElGqfMFpIldue5gEirifbHpTca/5JS3Yf2S1lL2Y2Wca/kcOWS0fArRzJgcG29ClS28hfPiaZ0Io/BP9JD1s7JfSjL/CcwvSjHup5vVaOhirFc89/ysCYAoIOvzK7K9boApcUkrZYoUO2tvIR0H5RRqtgjwdpCeG48FaM2SzH4Eix0W87TBFjpFKsHnyGKZelEKGp6DJMU=;EOLKow88rHqZRJBjK3Wsmw=="
+related:
+  - title: "Lyft’s Craig Martell Named DoD Chief Digital and Artificial Intelligence Officer"
+    excerpt: "The establishment of the CDAO is an important step forward in the department's effort to become more innovative."
+    publishedDateTime: 2022-04-25T22:25:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/lyfts-craig-martell-named-dod-chief-digital-and-artificial-intelligence-officer/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 47
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2022/04/Screen-Shot-2022-04-25-at-6.23.12-PM.png"
+        width: 756
+        height: 530
+        isCached: true
+  - title: "Pentagon hails Lyft exec Martell for AI post"
+    excerpt: "He brings cutting-edge industry experience to apply to our unique mission set,” Deputy Secretary of Defense Kathleen Hicks said April 25."
+    publishedDateTime: 2022-04-25T21:39:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/ek5qZ1EaFDEZYs7eGOy8MAum8ws=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/VL5HV7EVG5BMBONBWAL5NJDKTU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Pentagon hires first chief digital and AI officer from Lyft"
+    excerpt: "Craig Martell has left his role as head of machine learning for Silicon Valley rideshare company Lyft to be the Pentagon’s first chief digital and artificial intelligence officer. Martell has also held machine learning and AI roles at Dropbox and Linkedin."
+    publishedDateTime: 2022-04-25T19:41:00Z
+    webUrl: "https://www.fedscoop.com/pentagon-hires-first-chief-digital-and-ai-officer-from-lyft/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2020/06/6192861.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
+
+secured: "W5Sf2ewXzrW2TLN9lllnqiYc60F60XyywUCfoo3rEQY/rS8rma5eD7XafUG7SdR472LlxLZEntgq0nWMHdJlJCwWif5pAkcv5IGrbEirhAAZoPyX7aqg32nxU0iQBIOnGkrtu+pwf+ZOqwHUdaZ6aM+s/Xl4n1O18kiEF1vDRtJ1RUQ08Ych/Ttb9txlJPhDLdFKPJUqMTltyIMVkd81qJLrcCDyvXGGP6X0tjKm3LUoPf/YhVQUOMdojRLX/0/EacYEJt/luXcBZpPGYHSWEGg3DFigsWa1W7sL3KvHqz8/sd/V/h4T/RwvQBxPBAEqdDFN3WLW2zeU54UC2R+FK6Z9XGNo+Gpz9778qR95xHv9Jf0FNMrcSV4p7iTcow3Mk4irVup2xruNkVCu8kMB+IS9NMIc5daHjM/s2HMg7BmbwVfVC+YZgr5XGjDppflCCf+0jZm/3dzUK5R3UxVN1eJb6vr9hXfb9e9UCNo36OvMzCQJ1Fln3xoVd9Mlz6YSmqlCPceXjZkb4oCzqWioDA==;izkkLDjjDJFeVlsSn+D8uQ=="
 ---
 
