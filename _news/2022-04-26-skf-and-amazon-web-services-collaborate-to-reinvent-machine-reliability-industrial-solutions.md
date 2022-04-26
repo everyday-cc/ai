@@ -2,17 +2,17 @@
 category: news
 title: "SKF and Amazon Web Services collaborate to reinvent machine reliability industrial solutions"
 excerpt: "As asset reliability collaborators within the industrial segment, SKF and AWS are taking scalability of condition monitoring and data analysis to a new level as well as collaborating on the next generation of SKF's condition monitoring technologies."
-publishedDateTime: 2022-04-26T08:14:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220426IO36272/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220426IO36272/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions/"
+publishedDateTime: 2022-04-26T11:14:00Z
+originalUrl: "https://www.khon2.com/business/press-releases/cision/20220426IO36272/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions/"
+webUrl: "https://www.khon2.com/business/press-releases/cision/20220426IO36272/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions/"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: KHON2
+  domain: khon2.com
 
 topics:
   - Machine Learning
@@ -20,11 +20,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
+  - url: "https://www.khon2.com/wp-content/uploads/sites/8/2022/04/cropped-HEADER-KHON-70-YEARS-WORKING-FOR-HAWAII-larger.png"
+    width: 758
+    height: 297
     isCached: true
 
-secured: "pIbIY2b/pkaYP5wJrWXBxvhQ2QoBt/YELdUCwOqvxgEnh6UI4g0dfvvnnhK1tO/LynqHudp3tkv8KQ9/W7atKlywIOLjOStO0tlppIXgM+7Qtbmke/Jl9QYJxvkND3qvFy/H1bOLKlxh6Meu1l3vFMWsGe2x153QZsnR6rfCwl4sY4GoCfb/smDc2wFnx2+7DtCmPN7EkhTR2EY1UTfpX+05/fg++I/LDJfDV9msgZ3nUFvJBbyh7Ppp1JxSx46agVm2GhBJTc7BiuIuAsCVVNMiGo2Ji95uAQnpxHrMw4etAG1m6oTP1T96KnCknlDRg/7PYriE2AxEHvGvu+pbcQaqNorRNoUbBteERzTiaZ8=;Omt0FtIMZem8r/M5qIOvQA=="
+secured: "jN0TW0luknsEfn5mh4gI2U6K7dXVUO6m+QADoUbuMf+f0Ulvy3rnvfGTgwEQxM+S2OSKUSQUXibjnyD4uriXK74NLPL0wuWY4MRBIieXrxLlJVx0aWyhYQTyAbIsImpJGv8lIEHNSnfqG/fzM0Th+6PsxoVbj17Gu8EwzfnPyVP+quzNOMXVIb4+z8bv8SQBEy8XRh4pr5o9S+b0CLnrCZ5WvTWCzkDgbS//FZ5JKexyfEL+5xPbs+IX42F7+2g35PcHWc0FsHBp+qe3lPnw7LCiqnAd/KkpqpVyynbkOd1oFWFnoT0L0Z5P7OIXV8lafsR8p5ZdQBi+0h+eKds69c4U7FxretnP6QOwEE4uHtc=;4kDi2I/G3CTmQXW90B1GxA=="
 ---
 

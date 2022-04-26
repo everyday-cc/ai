@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/24461-synamedia-u
 webUrl: "https://www.thefastmode.com/technology-solutions/24461-synamedia-unveils-ai-based-traffic-management-features-for-its-edge-cdn-solution"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Synamedia Reveals a Fresh Set of AI-based Traffic Management Features for its Edge CDN Solution"
+    excerpt: "Synamedia unveiled a new set of Artificial Intelligence-based (AI) traffic management features for its Edge CDN solution"
+    publishedDateTime: 2022-04-26T09:59:00Z
+    webUrl: "https://enterprisetalk.com/news/synamedia-reveals-a-fresh-set-of-ai-based-traffic-management-features-for-its-edge-cdn-solution/"
+    ampWebUrl: "https://enterprisetalk.com/news/synamedia-reveals-a-fresh-set-of-ai-based-traffic-management-features-for-its-edge-cdn-solution/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synamedia-reveals-a-fresh-set-of-ai-based-traffic-management-features-for-its-edge-cdn-solution/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 45
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Synamedia-brings-intelligence-to-the-CDNs-edge-for-unprecedented-efficiency_-agility_-and-scalability-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Synamedia brings intelligence to the CDN's edge for unprecedented efficiency, agility, and scalability"
     excerpt: "Synamedia, the world's largest independent video software provider, today unveiled a new set of Artificial Intelligence-based (AI) traffic management features for its Edge CDN solution. These advanced capabilities will transform the way video streams are delivered and will enable a plethora of new consumption experiences by simplifying the process of onboarding new services,"
     publishedDateTime: 2022-04-25T17:35:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Untether AI and Co-Founder Raymond Chik Honored by Canadian Entrepreneurs Group for Startup of the Year"
 excerpt: "Untether AI co-founder Raymond Chik was honored by the Association of Chinese Canadian Entrepreneurs (ACCE) during a gala dinner hosted by the ACCE in Toronto on April 23, 2022. In 2018, Dr. Chik, Dr."
 publishedDateTime: 2022-04-25T18:41:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9"
 type: article
 quality: 23
 heat: 23
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "X7zoOX1s50mm81iR0luHjw6konoXYQYAjtWA2zym6h1HR0iqTNLSZNP8uFy3jllBvSaKd+ADs0Uker5LOE8D+sHazhVkA9xp+vRYu9KWURAvnQlor14tJe/NUxqLDVZo//odoIttWMJJQq0+3dChElq36INQ1NjrOMPFDsc3Ze2Fo6u4LNUZEGObta+Lj5stxK2vsUE+OxV3OJ73kt/hgOfMGClItrkVDUJZq7TLh0u1zpfNNZhlgRB0k9Tl4QvaUU/Pt6oCNt7Lfy5ehNipz68YJHjsuFXstIIH+lCEs2g+SFsJ1XHDRAoRmCtMvyfdum4WdMUK74FBnTiFGVnZ+XxoKO38hMtf8DD65bnXU00=;Iu8CdKiCBqT46z5pyrfamg=="
+secured: "IUkeeq8dp/MVOZOFqba+9mCtgOS8+w3VTBZCl6O9NAMuOO1Cnn8DfK7qZWiQ5JNnOMW+wy9lufUxWVO1+KE/rJzSrOqFq8/hq9MTve35Bh94n/6nr7MgWohC8P63ZFmprNRwhJ+CCQMU/r0EV6t4iFsGhrNrk+muXGS/ikqmnlRWpDQYjqPHXKfH4ItSv2BD/CNppdz1Axcsvz2/diaYyDuzZLesnFHs2WQtQHuXaDq2CS5QnlxAs/t2Zk3X054ufjBcwVR7EsT8j13QxbNBDouNXqsOumGkoz5QLUWDsxEze8kFIkUc+M437fzjxpuC/dbYfS8agKjM2s6F0nzM1Xe2nsjKs6s3dHGUc1ZoNy4=;ViOizGWMknpQUXeGlGUMeQ=="
 ---
 

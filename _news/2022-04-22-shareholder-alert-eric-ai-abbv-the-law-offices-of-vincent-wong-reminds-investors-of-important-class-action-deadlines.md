@@ -50,15 +50,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "INVESTOR ALERT: Scott+Scott Attorneys at Law LLP Reminds Investors of Securities Class Action Against C3.ai, Inc. (AI) and May 3 Deadline"
-    excerpt: "Scott+Scott Attorneys at Law LLP (“Scott+Scott”), an international shareholder and consumer rights litigation firm, reminds investors that a securities class action lawsuit has been filed against C3.ai,"
-    publishedDateTime: 2022-04-21T18:37:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-lawsuits-class-action-bd402a662a159a217122ef1cee80e53e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "BudPipM+Y2/OARyz5tEEaI6lbI0esf+oOf9UpkM6/M2189VNe1fw2bOEEEE94QxQ0TGPdIHzKKfj3O/vToYAfONODolAq+GJMuutHOkTT0AXauMZIw8xFDEUsDKh5IQWl8EhfGRG7U95JYw80J4PVS2AXQTOPQfx826h8v2dcjlKvJVb1i6hX4QwQIl3W4OkS69bpddJ8IQFUF/E0MtGzZv7N7G+iRywmVW2FLUZreADlIlD7ORxB/kRSlw3CRWt0RnkwyiI9qVI7kEVADbyKCByF/ATZpa0FYKBY6/sGxxIzrH01zaMR5cA/0i0VNVe2gxdbvzWuX71bdUV5/rTXcPOoXXZYeoU5InVO/t0bpH4meSqRnM0yGBT1uRk8+azKe/CHAYFsEOzSFy4z0/CxdDUSvFCxxFrsGHp7N0FseoNG1/+xVYRS1X/PKmRipoiIifFb3ciIUcJnzKOIY48wb4HVEC+yUBm2ggRFcYYd2hiultAV0xEC4a7LVSjN7CV+Y8KivPjF6UbE5vm52q3Kg==;wRKfesIG/xHkRCeOIkdL+Q=="
 ---

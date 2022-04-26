@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "You May Not Be Using AI To Its Full Potential"
-    excerpt: "Related: AI Tomorrow Won’t Look Anything Like What We See Today More companies are offering solutions to navigate this space, taking advantage of cloud computing to narrow down news stories to those that will likely impact the trading activity of the underlying asset."
-    publishedDateTime: 2022-04-21T18:48:00Z
-    webUrl: "https://www.wealthmanagement.com/technology/you-may-not-be-using-ai-its-full-potential"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 37
-    images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/robot-investing-ktsimage-iStock-ThinkstockPhotos-504573074%201.jpg"
-        width: 1540
-        height: 800
-        isCached: true
   - title: "Smart Cities – Using AI for Smarter Roads"
     excerpt: "Road safety measures need to take into account the fact that humans will make mistakes, but this should not lead to loss of life."
     publishedDateTime: 2022-04-24T04:16:00Z

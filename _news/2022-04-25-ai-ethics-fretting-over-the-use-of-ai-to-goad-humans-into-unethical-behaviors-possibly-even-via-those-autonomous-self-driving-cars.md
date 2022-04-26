@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-frettin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/"
 type: article
 quality: 91
-heat: 221
+heat: 211
 published: true
 
 provider:
@@ -185,20 +185,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2019/12/stardew-valley-on-tesla-screen-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
-    excerpt: "Users of self-driving cars will not be responsible for crashes under proposed changes to the Highway Code. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department for Transport said (DfT). The update to ..."
-    publishedDateTime: 2022-04-21T17:13:00Z
-    webUrl: "https://www.worcesternews.co.uk/news/national/uk-today/20079575.watching-tv-allowed-self-driving-cars-highway-code-update/"
-    type: article
-    provider:
-      name: Worcester News
-      domain: worcesternews.co.uk
-    quality: 24
-    images:
-      - url: "https://www.worcesternews.co.uk/resources/images/13694720/"
-        width: 2400
-        height: 1691
         isCached: true
   - title: "UK Law Could Make It Legal For Drivers to Watch TV From Behind the Wheel of a Self-Driving Car"
     excerpt: "Drivers in the UK could be allowed to watch TV from behind the wheel of a self-driving car if proposed updates to the law go through."

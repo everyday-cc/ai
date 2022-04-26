@@ -38,6 +38,17 @@ related:
         width: 1200
         height: 761
         isCached: true
+  - title: "Conjura Raises €15 Million Series A Round to Pioneer the Future of E-commerce with AI-Driven Analytics"
+    excerpt: "Press Release Conjura, the leading e-commerce data analytics platform, today announced it raised €15 million in Series A funding. The round was co-led by Act Venture Capital and MiddleGame Ventures, with participation from Tribal VC."
+    publishedDateTime: 2022-04-26T11:25:00Z
+    webUrl: "https://venturebeat.com/2022/04/26/conjura-raises-e15-million-series-a-round-to-pioneer-the-future-of-e-commerce-with-ai-driven-analytics/"
+    ampWebUrl: "https://venturebeat.com/2022/04/26/conjura-raises-e15-million-series-a-round-to-pioneer-the-future-of-e-commerce-with-ai-driven-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/26/conjura-raises-e15-million-series-a-round-to-pioneer-the-future-of-e-commerce-with-ai-driven-analytics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
   - title: "Why conversational AI is an effective listening tool"
     excerpt: "Conversational AI, often referred to  as natural language processing (NLP) or natural language understanding (NLU), helps computers listen to, understand and extract meaning from human language."
     publishedDateTime: 2022-04-25T13:36:00Z

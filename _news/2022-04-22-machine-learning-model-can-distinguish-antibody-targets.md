@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Machine-learning model can distinguish antibody targets"
-excerpt: "A new study shows that it is possible to use the genetic sequences of a person's antibodies to predict what pathogens those antibodies will target. The new approach successfully differentiates between antibodies against influenza and those attacking SARS-CoV-2,"
-publishedDateTime: 2022-04-22T10:46:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/04/220421154148.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/04/220421154148.htm"
+excerpt: "A new study shows that it is possible to use the genetic sequences of a person's antibodies to predict what pathogens those antibodies will target. Reported in the journal Immunity, the new approach successfully differentiates between antibodies against influenza and those attacking SARS-CoV-2,"
+publishedDateTime: 2022-04-21T19:14:00Z
+originalUrl: "https://medicalxpress.com/news/2022-04-machine-learning-distinguish-antibody.html"
+webUrl: "https://medicalxpress.com/news/2022-04-machine-learning-distinguish-antibody.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-learning-distinguish-antibody.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-learning-distinguish-antibody.amp"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "135S4IFBwa7F9us0o2TiDUCr22ifr71PEbiHegyn0g2QzuXpQaz5cbH+E/scZltH+6UKJW79Y3gFw1kFQZr7TpTLRZQ/iMnxcDn/JHhAxoq7FkBPUTQvYIsBXERJJp8DNgyQ13TV4i3KKifKsZKr+Ky/wObvVAFIu/CAzduswAnQown7+1q7NuWY28GpXfuQWfcDrj+9lQyMoTVY0IpQl2o5DEMUlFEp2yn06UhmjkGjIXyXnjRC82xUGU/FODCj6AKDr+QIMJga37YbAY4F7LGyInJnSrzoFTf73RjF2IKojO/WykRGTaM/DvZrQqjcjnKWiXuSzm/+TWKC9bloau8SsNBSBOYJ5kjTqp+AlDk=;8viaMEHhYuIHqIqmXc2MoA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-model-3.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "rJF+q8sJgZH6rWoN/iXNVYLurMUUQicQGLKgsFyP5ZI7Qn5PmbEIAVdSavvWwPOnm2jZHG8dp8u/W8ajBmETGz4V6bcsknWQKbGbOAvq894N38X6X1dwcXRyF6CgaYDStTJnXOhwqoPw2mKB9u8gwZh/jvBQtc9i3THMA5tV/PbqA4Q/P7Y9WNuvrjlk3vaLI2iV14GyT/PWYmKRCsJgCZiKU1Tyjpu40nDK3UESWnpooi7WpoRsVv5BXQCq1GHIYhpZH3WVvZaVmJBEfub1gLI5dVPvcbmpStxVV0kUwjaywrN+tQ/PFzYfw3OE4NlFgmIGRmKg1lcf0jA/15b5Qgy4CatMFIDzncZdhlhOiFQ=;kuRHDvAJgB15f7SahI3bqw=="
 ---
 

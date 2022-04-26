@@ -47,6 +47,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Machine Vision Market to Reach a Value of US$ 18.4 Billion by 2027 | CAGR of 9.7%"
+    excerpt: "According to the latest report by IMARC Group, titled “Machine Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-04-26T10:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-vision-market-to-reach-a-value-of-us-18-4-billion-by-2027-cagr-of-9-7"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnCOqMRJPpJOGtY_4PW-TQ57iS8tvf6_1jzuOBLyEVgmN7eussFrLXIbEdVw3bFP6oB0UZ3qeWiN8mPdnD4DmrW15Gfpcbqt97uplfbQwpl90lcuL-d6o4tSvCsEWQ-9UaP-QCpylIiPFt8QfnXlQnC2x5EqWvNIfpIIx0381KKt-cjWlj4PqMya4/w462-h307/Machine%20Vision%20Market%202022.jpeg"
+        width: 461
+        height: 307
+        isCached: true
   - title: "Healthcare Appointment Scheduling Software Market is Poised to Expand at a CAGR Value of 10.5% During Forecast Period 2021-2031"
     excerpt: "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams"
     publishedDateTime: 2022-04-26T05:17:00Z

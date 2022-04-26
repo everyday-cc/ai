@@ -42,15 +42,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "INVESTOR ALERT: Scott+Scott Attorneys at Law LLP Reminds Investors of Securities Class Action Against C3.ai, Inc. (AI) and May 3 Deadline"
-    excerpt: "Scott+Scott Attorneys at Law LLP (“Scott+Scott”), an international shareholder and consumer rights litigation firm, reminds investors that a securities class action lawsuit has been filed against C3.ai,"
-    publishedDateTime: 2022-04-21T18:37:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-lawsuits-class-action-bd402a662a159a217122ef1cee80e53e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
   - title: "SHAREHOLDER ALERT: ERIC AI ABBV: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
     excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / The Law Offices of Vincent Wong announce that class actions have commenced on behalf of certain shareholders in the following companies. If you suffered a"
     publishedDateTime: 2022-04-21T19:15:00Z

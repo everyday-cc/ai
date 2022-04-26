@@ -31,6 +31,6 @@ related:
       domain: finanzen.at
     quality: 8
 
-secured: "pxP8tuHCT4brcMmnRbMMbWZkae28Jon8CNk6Sl/5vnppRwSSd6DdJUMZb1zBZ2VOx+X1dsDv8sH1VoKsy4u8Dbs1w6ryIkO3ctwJAotaU+BtvcVLFHgfXrVl23nnn4RQeJZyi9pD1RWvpEsW6wEhexS6sccwJzp33R+5ay4jkPEv+FfMU+o5E8v7LYBuXTxnHo7BrSGG2Ivf2Po5Ra59KBcSX4hEl+u2+nQPrHW24iNRqgreq+/WKewDU2mkfK6nml23QkG/xUsEf3z3lqtjNdLjLWmMOxAXUBqQQhZBv0QGvWb1zWkMDKQ3l6xFxZb1OT1N46OzXiB8auV/Z/Pbvgvqyj8VhYyTTiZhudks86g=;OMcn8sMvaqzpoYQoAVNM6A=="
+secured: "zii/VJ8XvIwZPN64R8Pm2ERN6HDjMJwQXwSsPDia+p/U+dGSt5UK59wutjsfR3vZCWJ0D50n4HVVA7r8JxhjU0fhcJ/qpKJgyJnRp1JtonriS3qDNRYgpPmaaPpsdKrw0JxG3nEMYU15djF4eckKxlxONWhfIHuSJBvSDw9b8Eai3pDDO7O+TwKLJE6/R/u7QkJo96YEaqwl7Abj1Iy1TQmTVpTrMqce9BVZDHXs/VcNaOvecWZxFgFB+QAsSaqs/qtTrmtIplLS43zeWLNLX9heheV/AUAbZtmofb9H5b8FLnB0HFhAWDyh8YgMn3/6lK+xDtI9NRZsaFGJUuMAYcztUG9LTT6lpCyXWayx880=;229iEiZ7UWHVUmrzAfqJLg=="
 ---
 

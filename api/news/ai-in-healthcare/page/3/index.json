@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-17-1-how-americans-think-about-artificial-intelligence.md",
+      "title": "1. How Americans think about artificial intelligence",
+      "excerpt": "Artificial intelligence (AI) is spreading through society into some of the most important sectors of people’s lives – from health care and legal services",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
+      "originalUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/03/PS_2022.03.17_ai-he_01-01.png?w=420",
+          "width": 420,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-pathai-partners-with-datavant-to-enable-biopharma-companies-to-connect-digital-pathology-data-for-research.md",
+      "title": "PathAI Partners with Datavant to enable Biopharma Companies to Connect Digital Pathology Data for Research",
+      "excerpt": "PathAI, a global leader in artificial intelligence (AI)-powered technology for pathology, and Datavant, the leader in helping organizations securely connect health data, announced a collaboration to enable compliant connectivity of PathAI’s pathology platform to life sciences trial data and other real-world data.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-health-artificial-intelligence-9ba9f3f58d4a6463ba9f046d0209ed10",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-health-artificial-intelligence-9ba9f3f58d4a6463ba9f046d0209ed10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-health-related-artificial-intelligence-needs-rigorous-evaluation-and-guardrails.md",
       "title": "Health-related artificial intelligence needs rigorous evaluation and guardrails",
       "excerpt": "A new group, the Coalition for Health AI, has identified three key steps needed to pave the path toward addressing concerns about accuracy, safety, and the presence of bias in health-directed algorithms.",
@@ -1222,94 +1309,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-harnessing-ai-and-robotics-to-treat-spinal-cord-injuries.md",
-      "title": "Harnessing AI and Robotics to treat spinal cord injuries",
-      "excerpt": "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220307113045.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220307113045.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 261,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-the-case-for-artificial-intelligence-in-content-marketing-use-cases.md",
-      "title": "The Case for Artificial Intelligence in Content Marketing Use Cases",
-      "excerpt": "If you go by the marketing materials of most martech companies, AI powered tools are everywhere. The irony is that marketers themselves still struggle with understanding where and how to apply AI to their strategy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/the-case-for-artificial-intelligence-in-content-marketing-use-cases/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/the-case-for-artificial-intelligence-in-content-marketing-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/9f1cc9a2afc24716a7ae2e87558be269.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/the-case-for-artificial-intelligence-in-content-marketing-use-cases/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/the-case-for-artificial-intelligence-in-content-marketing-use-cases/amp/",
-      "publishedDateTime": "2022-03-07T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
         "AI in Healthcare"
       ]
     }
