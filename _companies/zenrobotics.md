@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zenrobotics"
   url: "https://twitter.com/zenrobotics"
-  followers: 1517
+  followers: 1516
 
 size: 11-50 employees
 yearFounded: 2007
@@ -31,7 +31,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1518562555354128384/E2cvp7-n_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1518912981861650432/Z-Gtx8Kq_400x400.jpg"
     width: 400
     height: 400
     isCached: true
