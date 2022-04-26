@@ -2,6 +2,134 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-26-teaching-ai-and-robotics-concepts-in-business-courses.md",
+      "title": "Teaching AI and robotics concepts in business courses",
+      "excerpt": "By Gary Allemann, MD at Master Data Management Artificial Intelligence (AI) and robotics are steadily making their way into every industry. From retail companies to healthcare practices that use AI-driven robots for medical processes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
+      "originalUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-ponyai-to-launch-fleet-of-robotaxis-with-ontime.md",
+      "title": "Pony.ai to Launch Fleet of Robotaxis with Ontime...",
+      "excerpt": "GAC is one of China's largest automakers and a longtime Pony.ai partner Introduces Pony.ai's partnership approach to commercializing robotaxis and strengthens Pony.ai's significant leadership in the G",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26805079/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gacs-ride-hailing-app-in-guangzhou-in-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26805079/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gacs-ride-hailing-app-in-guangzhou-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26805079",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26805079",
+      "publishedDateTime": "2022-04-25T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-ubie-japanese-healthtech-startup-launches-ai-.md",
+      "title": "Ubie, Japanese HealthTech Startup, Launches AI-...",
+      "excerpt": "Trusted by 4.5 Million Monthly Users Worldwide - TOKYO and SINGAPORE, April 26, 2022 /PRNewswire/ -- Ubie, Inc., a healthcare AI startup with the mission \"To develop a healthcare guide for everyone,\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26804894/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26804894/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26804894",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26804894",
+      "publishedDateTime": "2022-04-25T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-pentagon-taps-former-lyft-executive-to-be-artificial-intelligence-chief.md",
       "title": "Pentagon taps former Lyft executive to be artificial intelligence chief",
       "excerpt": "The Department of Defense has tapped Craig Martell, formerly the head of machine learning for Lyft, to be the chief digital and artificial intelligence officer.",
@@ -106,7 +234,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -157,7 +285,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -197,7 +325,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -209,7 +338,7 @@
       "originalUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -390,7 +519,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -424,7 +553,7 @@
       "originalUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -519,7 +648,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -562,7 +691,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1034,162 +1163,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-commerces-bis-can-help-stop-chinas-quest-for-ai-dominance.md",
-      "title": "Commerce’s BIS Can Help Stop China’s Quest For AI Dominance",
-      "excerpt": "AI will transform militaries through innovations in intelligence, surveillance, reconnaissance, logistics, command and control capabilities, weapons systems, and so on. Last year a landmark U.S. National Security Commission on Artificial Intelligence (NSCAI) report found,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/",
-      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62642f15dba64174ee30febc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/",
-      "publishedDateTime": "2022-04-23T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai.md",
-      "title": "The Innovative Ways The United States Space Force Is Leveraging Data And AI",
-      "excerpt": "Speaking at an upcoming AI in Government event on May 19, 2022, Dr. Lisa Costa, Chief Technology & Innovation Officer of the United States Space Force will be sharing insights in how the US Space Force is delivering the first fully digital service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6264256f61e2dd81de312206/0x0.jpg?format=jpg&crop=2400,1350,x0,y240,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "publishedDateTime": "2022-04-23T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022.md",
-      "title": "AWS CMO Rachel Thornton on the future of customer-obsessed marketing in 2022",
-      "excerpt": "Customer obsession is core to AWS, and being data-driven in everything ... Experimenting with technology, such as machine learning (ML) or artificial intelligence (AI), in marketing can help ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1364769258-coffeekai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "publishedDateTime": "2022-04-23T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

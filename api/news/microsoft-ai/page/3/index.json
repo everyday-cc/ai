@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-24-cisco-upgrades-target-kubernetes-cloud-and-aiml.md",
+      "title": "Cisco upgrades target Kubernetes, cloud, and AI/ML",
+      "excerpt": "Cisco has added new features to its Intersight cloud management system, UCS X-Series server, and HyperFlex hyperconverged system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
+      "originalUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/08/03/istock-1254718662-100908660-large-100921213-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
+      "publishedDateTime": "2022-03-23T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-is-ibm-a-product-or-service-based-company.md",
+      "title": "Is Ibm A Product Or Service Based Company?",
+      "excerpt": "These are companies that produce products of their own and sell them to consumers through the market. These are companies that provide services when clients or companies approach them. IBM offers a wide range of analytics software including IBM Cognos ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ictsd.org/is-ibm-a-product-or-service-based-company/",
+      "originalUrl": "https://www.ictsd.org/is-ibm-a-product-or-service-based-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnictsd.ictsd.org/is-ibm-a-product-or-service-based-company-.jpg",
+          "width": 626,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ICTSD",
+        "domain": "ictsd.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure.md",
+      "title": "Microsoft continues its push to convince more game developers to use Azure",
+      "excerpt": "Microsoft is targeting game developers with a new Game Development Virtual Machine and its ID@Azure program, which is generally available as of today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/45b4e96e6d7f77ec3908f32d51722ee3ca4d3a17/2022/03/22/a4f977f6-3561-4d80-bea7-bd0d86039d14/microsoftgamedevtoolsazure.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
+      "publishedDateTime": "2022-03-23T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace",
       "excerpt": "ThetaRay, provider of AI-powered transaction monitoring technology to protect banks and fintechs against financial crimes, today announced the availability",
@@ -1245,145 +1384,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-microsoft-accelerator-programme-bets-on-ai-and-machine-learning-selects-14-startups-for-tenth-cohort.md",
-      "title": "Microsoft Accelerator Programme Bets On AI And Machine Learning; Selects 14 Startups For Tenth Cohort",
-      "excerpt": "Bengaluru-based Microsoft Accelerator has selected 14 startups for its startup accelerator programme. It is the tenth batch for Microsoft’s Accelerator Programme. Selected startups belong to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
-      "originalUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2016/08/shutterstock_210979942.jpg",
-          "width": 1000,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
-      "publishedDateTime": "2022-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-vulnerable-pacific-islands-look-to-data-to-cope-with-disasters-and-help-heal-the-environment.md",
-      "title": "Vulnerable Pacific Islands look to data to cope with disasters and help heal the environment",
-      "excerpt": "This will streamline and accelerate the development of high-impact solutions. SPC is also leveraging Microsoft Azure Machine Learning and Azure Cognitive Services to build insights-rich solutions. The Pacific Ocean as seen from space. Photo: Getty.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/apac/features/digital-earth-pacific/",
-      "originalUrl": "https://news.microsoft.com/apac/features/digital-earth-pacific/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/02/Pacific-main_Resized.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-microsoft-distinguished-engineer-offers-insights-into-the-future-of-women-in-stem.md",
-      "title": "Microsoft distinguished engineer offers insights into the future of women in STEM",
-      "excerpt": "Today, she is a distinguished engineer and corporate vice president at Microsoft. Iyer currently ... the future market for women in STEM. The cognitive and analytical requirements of STEM jobs ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/03/10/microsoft-distinguished-engineer-offers-insights-future-women-stem-wids2022/",
-      "originalUrl": "https://siliconangle.com/2022/03/10/microsoft-distinguished-engineer-offers-insights-future-women-stem-wids2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Rukmini-Iyer-WiDS-2022.jpg",
-          "width": 6240,
-          "height": 4160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

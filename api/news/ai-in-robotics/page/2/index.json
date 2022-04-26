@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-13-intelligent-robotics-for-laundries-closes-automation-gap.md",
+      "title": "Intelligent robotics for laundries closes automation gap",
+      "excerpt": "From IDS Imaging Development Systems GmbH Apr 13 2022 The textile and garment industry is facing major challenges with current supply chain and energy issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
+      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_27558_16498459994081277.png",
+          "width": 1660,
+          "height": 1660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azooptics.com/amp/news.aspx?newsID=27558",
+      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=27558",
+      "publishedDateTime": "2022-04-13T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-swarm-robotics-expands-the-possibilities-for-mars-exploration.md",
       "title": "Swarm Robotics Expands the Possibilities for Mars Exploration",
       "excerpt": "Roboticists from Skoltech have proposed the development of two-wheeled robots controlled through swarm intelligence algorithms that can operate independently or as part of a team to complete mission-critical assignments on the surface of Mars.",
@@ -130,6 +173,60 @@
         "AI",
         "AI in Marketing",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead.md",
+      "title": "Robot-Run ETF Known For Tesla, Apple Bets Cut Out Chipmakers In March And Bet On This Retail Giant Instead",
+      "excerpt": "AMOM Hits Exit Button On Chip Giants: The QRAFT AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM) sold its entire stake in two high-profile chip names — GPU chipmaker Nvidia Corporation ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead-1031350134",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead-1031350134",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/04/12/fabio-bracht-e3oe-l-rtpa-unsplash.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -469,8 +566,8 @@
       "title": "Dystopian scenes of robots enforcing lockdown emerge from China",
       "excerpt": "Recently, a Twitter user @JayinShanghai posted a similar video of robot dogs ... by any great mind of science fiction writers,’ said another. ‘Being told to control my soul’s desire ...",
       "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/",
-      "originalUrl": "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/",
+      "webUrl": "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/?ico=tag-post-strip_item_4_news",
+      "originalUrl": "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/?ico=tag-post-strip_item_4_news",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1282,92 +1379,6 @@
       "provider": {
         "name": "Tom's Guide",
         "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-others.md",
-      "title": "Insights on the Entertainment Robot Global Market to 2026 - Featuring Lego, Sony and Hasbro Among Others",
-      "excerpt": "The \"Entertainment Robot Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The entertainment robot market is",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/g26442149/insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-oth",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/g26442149/insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-oth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26442149",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26442149",
-      "publishedDateTime": "2022-04-04T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease.md",
-      "title": "AI and Robotics Uncover Hidden Signatures of Parkinson’s Disease",
-      "excerpt": "A study published in Nature Communications unveils a new platform for discovering cellular signatures of disease that integrates robotic systems for studying  patient cells with artificial intelligence methods for image analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2022/04/03/ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease/",
-      "originalUrl": "https://insidebigdata.com/2022/04/03/ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2018/11/shutterstock_527544358-e1542396272432.jpg",
-          "width": 743,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
         "images": null,
         "publishers": null,
         "authors": null

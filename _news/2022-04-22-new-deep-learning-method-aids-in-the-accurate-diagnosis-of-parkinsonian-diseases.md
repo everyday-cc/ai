@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220421/New-deep-learning-met
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Novel deep learning method provides early and accurate differential diagnosis for Parkinsonian diseases"
-    excerpt: "Using a 3D deep convolutional neural network to extract deep metabolic imaging indices ... “This work confirms that the emerging artificial intelligence can extract in-depth information from molecular imaging to enhance the differentiation of complex ..."
-    publishedDateTime: 2022-04-21T13:54:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/950362"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 23
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/24401f5e-a9db-4889-92f0-67b89d51d704/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 257
-        isCached: true
   - title: "Precise-Dx Employs AI to Detect Early-Stage Parkinson’s Disease"
     excerpt: "Dx’s technology can accurately diagnose Parkinson’s disease in living patients prior to the severe onset of symptoms."
     publishedDateTime: 2022-04-22T19:13:00Z

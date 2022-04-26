@@ -33,15 +33,6 @@ related:
         width: 2560
         height: 1708
         isCached: true
-  - title: "Elon Musk says his new Optimus robot coming in 2023 ‘will be worth MORE than Tesla’ – and it will do all your chores"
-    excerpt: "ELON Musk has revealed that his upcoming Optimus robot will eventually be worth more than the Tesla car business. The sci-fi droid was announced last year – and will look like a human. It’s"
-    publishedDateTime: 2022-04-21T13:44:00Z
-    webUrl: "https://www.thesun.co.uk/tech/18328031/elon-musk-optimus-robot-tesla/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 13
 
 secured: "Ur72P62A+VyLMkrALKuOOlnVtU8Nlh+no2+nytafu7un962esIKFOIrIJxNpZoPUWrTvbLDta/z4t0n70iHTSmTxEmuZTCmKslpI9e0xZjyC7bBohpwzgSLIvuZiERv478P3CpQqAaJ36zjOiYSMZpdHhswuJk2hnTQa08gBesMfh5iOvFZRQIA+t2OXGlhBH84OVY6k8LBL2YlhZfmNW/KFWT53NKiu308ZKfYtpE3YctATHEa1GkkWEfTw1P6WGIYxzoBP2G6vy9gYBfpypIfjU2F2sCwhfG8zcvIbUnsnQoEILz+uwEy+iQavpysbw0L5FXRUTw0Se17DB2uidEG2Dxb6wIh1S8U4NALnhKY=;D9RzwP99YUzHDTK2YiTxKw=="
 ---

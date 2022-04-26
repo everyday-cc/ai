@@ -34,20 +34,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Novel deep learning method provides early and accurate differential diagnosis for Parkinsonian diseases"
-    excerpt: "Using a 3D deep convolutional neural network to extract deep metabolic imaging indices ... “This work confirms that the emerging artificial intelligence can extract in-depth information from molecular imaging to enhance the differentiation of complex ..."
-    publishedDateTime: 2022-04-21T13:54:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/950362"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 23
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/24401f5e-a9db-4889-92f0-67b89d51d704/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 257
-        isCached: true
 
 secured: "5oJkZrmeSWWeCIFMIZipSLt6brqkPaGKrFdtkPtBvrzyzn0TRI514HT4LltteVSdpGuNBKeGEHTnE949pScVDMlYoZS+TY43ECKXVIeKYdeXFfcm+BYLf0Crtv7K8Cot0ITfJFZFhAVbEPDc8iAzW5nbc4KGDcc9fUYdtvqYrBnm2CCCdYxEZt9c3i7ksOjl8AWXMOMhSiDKlTJK6G+TtIA/7pS8Qo5azqylDXH+6JTBF25QAral6yo8ER4SXsFuts5rGCpK2sKM4TYPmd+UZDXmFetug4kvPcaYrLtXoOg/SpvsXGYSvORRVO9pRCBLQmP68DoDVrDUDtrGskML4j9ymvg3rVXbrDsS/u09U5jz+HDArFNzhOZ+KqAG9loyb/5irI9e1KfSnkHDgVhDScpwdDpvdUGe6ARRGGqbdQfE4wIpzIzD/zOd/ub7m0QPNjykQdbKVDBKAYg4btUI07D8F0hX7KU111a+v32jRc69rSCN/seK4NBIYESp5bSbjJPpo11Bp8/XnvU1shmcig==;sBgbEXlpHGdzpbchynxtyw=="
 ---

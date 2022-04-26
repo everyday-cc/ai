@@ -2,6 +2,126 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-09-mphasis-launches-focused-cloud-ecosystem-channel-organization-to.md",
+      "title": "Mphasis launches focused cloud ecosystem channel organization to",
+      "excerpt": "NEW YORK, Feb. 9, 2022 /PRNewswire/ -- Mphasis (BSE: 526299; NSE: MPHASIS), an information technology (IT) solutions provider specializing in cloud and cognitive services ... four major cloud providers - AWS, Microsoft Azure, Google Cloud Platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mphasis-launches-focused-cloud-ecosystem-channel-organization-accelerate-/2022/02/09/9542326.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mphasis-launches-focused-cloud-ecosystem-channel-organization-accelerate-/2022/02/09/9542326.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-microsoft-open-sources-graph-engine.md",
+      "title": "Microsoft open-sources Graph Engine",
+      "excerpt": "The LIKQ query language is also used by Microsoft inside of its Cognitive Services, specifically its Academic Graph API. Both the LIKQ language and the Graph Engine source codes are available ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/analytics/microsoft-open-sources-graph-engine/",
+      "originalUrl": "https://sdtimes.com/analytics/microsoft-open-sources-graph-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2014/12/HANDYALEX.jpg",
+          "width": 253,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review.md",
+      "title": "Impact of maternal obesity on the cognitive function and mental health of the offspring: a systematic review",
+      "excerpt": "Exposures considered were maternal BMI, height and weight, The outcome was any measure of cognitive function and mental health of the offspring. Quality assessment and risk of bias was assessed using a standardized form consisting of 22 criteria ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review/BCB9798A3BC71874AEE40024B57BC858",
+      "originalUrl": "https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/impact-of-maternal-obesity-on-the-cognitive-function-and-mental-health-of-the-offspring-a-systematic-review/BCB9798A3BC71874AEE40024B57BC858",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T14:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-five-ways-to-reduce-your-cloud-security-blast-radius.md",
       "title": "Five Ways To Reduce Your Cloud Security Blast Radius",
       "excerpt": "CEO and co-founder of Ermetic, a provider of public cloud security technology for AWS, Azure and Google Cloud infrastructures ... which may rely on artificial intelligence and machine learning, can deliver an immediate alert that lets you stay ahead ...",
@@ -1237,144 +1357,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-01-30T17:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-how-to-add-cognitive-services-to-your-microsoft-azure-resources.md",
-      "title": "How to add cognitive services to your Microsoft Azure resources",
-      "excerpt": "How to add cognitive services to your Microsoft Azure resources Your email has been sent Cognitive services created in Azure can add powerful features to your organization's application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2019/05/istock-926550280aicomputer.jpg?x23932",
-          "width": 800,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/amp/",
-      "publishedDateTime": "2022-01-30T17:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-new-research-hints-at-4-factors-that-may-increase-chances-of-long-covid.md",
-      "title": "New research hints at 4 factors that may increase chances of long COVID",
-      "excerpt": "Are some people more likely than others to experience physical, neurological or cognitive symptoms that ... comment threads to stories from wire services such as the Associated Press, The New ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/seattle-news/health/new-research-hints-at-4-factors-that-may-increase-chances-of-long-covid-2/",
-      "originalUrl": "https://www.seattletimes.com/seattle-news/health/new-research-hints-at-4-factors-that-may-increase-chances-of-long-covid-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/seattle-news/health/new-research-hints-at-4-factors-that-may-increase-chances-of-long-covid-2/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/health/new-research-hints-at-4-factors-that-may-increase-chances-of-long-covid-2/?amp=1",
-      "publishedDateTime": "2022-01-29T11:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform.md",
-      "title": "From low code to no code: Azure GPT-3 and Microsoft’s Power Platform",
-      "excerpt": "The Power Platform GPT-3 models are running in Azure, on the Azure Machine Learning service, using the new managed endpoints. This means the Power Platform team doesn’t have to manage the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "originalUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2021/06/tr-dax-smart-narrative.jpg",
-          "width": 1440,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/from-low-code-to-no-code-azure-gpt-3-and-microsofts-power-platform/amp/",
-      "publishedDateTime": "2022-01-29T06:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",

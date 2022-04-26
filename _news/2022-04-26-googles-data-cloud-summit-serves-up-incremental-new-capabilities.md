@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cl
 ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62671d2df0d06c9e7a5ca2c5/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 315
     isCached: true
 
-secured: "mfceeHqyJughNgMVc8BhS2ZkpRKyaYHxB/0RnjFynllXDJe/xZuVb3wjRRZu5bqOrvX9hDov3Og4PyJKCapC41e+AdvNUIHd3ePPYVx9ub0GwqkqbNia8Qh++/40W3iR56qB1dugk6ZJaOVcUPx96HKHAuUY7Ru2KWNY+nkfHC8/4s/kxPDUXoBTVgj8je72eDTe16oFCW4VA5Ia1by1ChbJQJKi+ubuKvV+e2oeoEOTuAU1h6+xdADp8rXAKjV2VSS/GAadQwWa1pHpC+KvxcBZxcVl7pE2fvAbO0aooPaXmBO+JGv0+lU6pezkoiQTE4oGYiKDs2Ml76jF1/kskLhKkbcz1B0U/eWAKRnPgIE=;lq/Pl4mKWw/UwF2nBej5hw=="
+secured: "OG5XHlNuxzNzLAR5cHD12pqZ/tg79Fpgpi94Wwf2fxTTlrQ1+dK9z0x4LemruBfZLTU+RDqyyOSOgRB1OGgJhyz/WwxOGBAwZNHp1p1OqKe34k0J22IJ6RADxB8Zk30k4EXijJIVqMBGaZ5yYTiB2EHoJXtrxtYMdAKR95pFgWvJANE9dIwJu9RscauRvw/w1nBTNU+pfWonPnrB+Xfmf+IDSb5Z8OBYqZ0lYsmWvpbeTxxGmxE7MdjSCIST3An0KknJ4PD/hhBNtWC/1ainb9Tvhyg8JEhOgnJf6jMKW0Zi38O4BGOa2Sx1JYyUj/4vH8fXPTrAY4l+YpGLRkIhheE0cr/Om60+WbyonSE4JulJH0izq2bm7muccpUnB/lJk8vdxbheR9O4bH09qR+UXl/hTbVu+q4t3/7ItdwjUaUuBj0+XWC3fKooBYrkhC4+HStcILUZUGlUvlUijHa7AmfeYaCJe17ky8wRwpc2X/bz4M4Cne5906/vJV4UrkNf6/Uf+2wlStY/Y+NY/tmL7g==;5/Xu+P9QliWv/zMMDwuvXA=="
 ---
 

@@ -1,24 +1,32 @@
 ---
 category: news
 title: "SKF and Amazon Web Services collaborate to reinvent machine reliability industrial solutions"
-excerpt: "As asset reliability collaborators within the industrial segment, SKF and AWS are taking scalability of condition monitoring and data analysis to a new level as well as collaborating on the next generation of SKF's condition monitoring technologies."
-publishedDateTime: 2022-04-26T05:55:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220426IO36272/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220426IO36272/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions/"
+excerpt: "As asset reliability collaborators within the industrial segment, SKF and AWS are taking scalability of condition monitoring and data analysis to a new level as well as collaborating on the next gener"
+publishedDateTime: 2022-04-26T05:14:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26804726/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26804726/skf-and-amazon-web-services-collaborate-to-reinvent-machine-reliability-industrial-solutions"
+ampWebUrl: "https://www.benzinga.com/amp/content/26804726"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26804726"
 type: article
-quality: 10
-heat: 10
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
   - AWS AI
 
-secured: "rNKLeZi5uf0pQMWmBQocQQcoXE83eZ1MgwxtfHQR4jTfS4DWFq/tmui6tgSrTHBcOW9h7oSmo7l6fw8xJnEDF7tvyLcTbY5szUiJGaZwhdihncO+vg7Y51MgaFqTqrwGUAZzbUMtop94mo5CwMPvkdyPfE/xzVMMiT6CQcHEPziozPZvbTNpsU6OFAvOZCLtc4C4Fe+M+sXuXlT3CoKQcn6yaFwGWS8YKmsFu3fQD/d2IRxpAnh6f9pj39cEcTWKaVN8VA+HRzSd7+LIVBp7PyOScSOEB1JCDzVGBw4NH8298pGZQJg+IWrAtc8MfYcDxCHkjdYbpoUaOlb7zQqowLQLBxrg+t5OxeYmN7yzoFk=;sGCIR7bC0brWPVLCmE5xYw=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "pMxOWA78Wxw0Pu/grXJ/mDPWHceNDW1fly5DihPRM3H6qGM/uKmRC7nfvgavgWdM2JkfVs3fh+N8r60SYHEMdNSsBCHef7xev37jlgygEjRhdal31+Sw2vTxXw8hQL62wz9pC8V7HMAAsnlV6Dd2D4Omn30A+dD8gUoE0qpL07BI+Q9kRuWXtfdSpJQlebrs0hNSWjGqC5WnxgpwBA5CXeEHEUGz4E7a1JbIdsX2fScaunkPFgIBugfZs6VUB5JEx1uobwDpvUprrBJjsMnrcjaxsTn2MfVxtt27f2bQOxMMR2J/uCYKITZW6NLwBH2KqUepEoOKZmQ4TrnlspjtVOy0My9iEx4qMBtVQOS21Tc=;sie5MZ+UW297nc7gwDnEmg=="
 ---
 

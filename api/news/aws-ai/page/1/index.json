@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-26-googles-data-cloud-summit-serves-up-incremental-new-capabilities.md",
+      "title": "Google's Data Cloud Summit Serves Up Incremental New Capabilities",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead describes some the most important announcements from the multi-week Google Data Cloud Summit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62671d2df0d06c9e7a5ca2c5/0x0.jpg?format=jpg&width=1200",
+          "width": 604,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/25/googles-data-cloud-summit-serves-up-incremental-new-capabilities/amp/",
+      "publishedDateTime": "2022-04-25T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually.md",
       "title": "How Nordic Aviation Capital uses Amazon Rekognition to streamline operations and save up to EUR200,000 annually",
       "excerpt": "Nordic Aviation Capital (NAC) is the industry’s leading regional aircraft lessor, serving almost 70 airlines in approximately 45 countries worldwide. In 2021, NAC turned to AWS to help it use artificial intelligence (AI) to further improve its leasing operations and reduce its reliance on manual labor.",
@@ -138,6 +191,58 @@
         "name": "Impacts",
         "domain": "techbullion.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-aws-announces-general-availability-of-aws-iot-twinmaker.md",
+      "title": "AWS Announces General Availability of AWS IoT TwinMaker",
+      "excerpt": "AWS IoT TwinMaker makes it easy for developers ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-twinmaker-2022-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-twinmaker-2022-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -439,6 +544,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-19-hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator.md",
+      "title": "Hayden AI Accepted into AWS GovTechStart, Amazon Web Services (AWS) Government Technology Accelerator",
+      "excerpt": "AWS Promotional Credit, and more. Hayden AI is bridging the innovation gap in transportation management by combining artificial intelligence with mobile sensors that have the ability to see and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26689258/hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26689258/hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26689258",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26689258",
+      "publishedDateTime": "2022-04-19T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu.md",
       "title": "Cognitive Services Market 2022 In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2030: IBM, Microsoft, Google, AWS, Baidu",
       "excerpt": "New Jersey, USA Global Cognitive Services Market Overview: In its repository, Infinity Business Insights has added",
@@ -682,6 +830,49 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-logicladder-and-aws-collaborate-to-strengthen-the-sustainability-and-esg-sector-with-the-sustainability-cloud-platform.md",
+      "title": "LogicLadder and AWS collaborate to strengthen the sustainability and ESG sector with the Sustainability Cloud platform",
+      "excerpt": "Gurugram-based LogicLadder credits the AWS Startup Ramp from Amazon Web ... By leveraging technologies like artificial intelligence (AI) and machine learning (ML), the platform allows companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "originalUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/YS-SM-Layout-1649931582520.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "publishedDateTime": "2022-04-14T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1265,170 +1456,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-boeing-and-aws-join-forces-to-transform-aerospace-design-and-manufacturing.md",
-      "title": "Boeing and AWS Join Forces to Transform Aerospace Design and Manufacturing",
-      "excerpt": "(NASDAQ: AMZN), and Boeing (NYSE: BA) today announced an expanded relationship that extends the aerospace leader's existing cloud operations and streamlines Boeing's approach to cloud computing. Boeing will migrate applications out of on-premises data centers to AWS and create a technology foundation that will strengthen engineering and manufacturing processes.",
-      "sourceUrl": null,
-      "webUrl": "https://cloud-computing.tmcnet.com/news/2022/04/06/9577663.htm",
-      "originalUrl": "https://cloud-computing.tmcnet.com/news/2022/04/06/9577663.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-bangalore-airport-and-aws-announce-new-joint-innovation-center.md",
-      "title": "Bangalore Airport and AWS Announce New Joint Innovation Center",
-      "excerpt": "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web",
-      "sourceUrl": null,
-      "webUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
-      "originalUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T3",
-        "domain": "traveltrendstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028.md",
-      "title": "Artificial Intelligence in the Education Sector Market Growth, Share, Size, Forecast by 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 06, 2022 (Market Insight Reports) -- According to the business intelligence report titled \"Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028-2022-04-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028-2022-04-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-bangalore-international-airport-aws-to-open-joint-innovation-center.md",
-      "title": "Bangalore International Airport, AWS to open joint innovation center",
-      "excerpt": "The centre, expected to open this year at the city airport, will focus on driving digital innovation for the airport and enhancing passenger experience, according to a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45682,msid-90685281/kempegowda-international-airport.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms",
-      "publishedDateTime": "2022-04-06T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

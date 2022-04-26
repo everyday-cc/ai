@@ -2,6 +2,338 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-18-healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc.md",
+      "title": "Healthcare AI Market is set to experience a significant growth rate | IBM (Watson Health), Atomwise, Inc., Butterfly Network, Inc.",
+      "excerpt": "Global Healthcare AI Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery , Covid 19 Outbreak Impact research report added by Report Ocean ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/BBB-8-1-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-17T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-computer-vision-system-market-opportunity-size-share-growth-segmentation-in-depth-analysis-research-report-by-foresight-to-2022-2028.md",
+      "title": "Computer Vision System Market Opportunity, Size, Share, Growth, Segmentation, In-depth Analysis Research Report by Foresight to (2022-2028)",
+      "excerpt": "Apr 18, 2022 (The Expresswire) -- Global “Computer Vision System Market” (2022) report offers development drivers, significant difficulties, size, share, recent trends and open doors that will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-opportunity-size-share-growth-segmentation-in-depth-analysis-research-report-by-foresight-to-2022-2028-2022-04-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-opportunity-size-share-growth-segmentation-in-depth-analysis-research-report-by-foresight-to-2022-2028-2022-04-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-17T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials.md",
+      "title": "Machine learning and AI is coming for corrupt officials",
+      "excerpt": "Mark Heywood correctly asserted in the Daily Maverick that unless we introduce the certainty of punishment for corrupt public officials, we will lose the fight against corruption .  The July looting and riots taught us that these events affect our daily lives.",
+      "sourceUrl": null,
+      "webUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
+      "originalUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.mg.co.za/wp-media/2022/04/bd15270f-gettyimages-1283484229-scaled.jpg",
+          "width": 2560,
+          "height": 1709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp",
+      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp",
+      "publishedDateTime": "2022-04-17T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mg.co.za",
+        "domain": "mg.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-how-fintech-can-help-you-manage-your-personal-finances.md",
+      "title": "How Fintech Can Help You Manage Your Personal Finances",
+      "excerpt": "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/424896?bingParse",
+      "originalUrl": "https://www.entrepreneur.com/article/424896?bingParse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg",
+          "width": 1024,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-ibm-amd-embrace-israeli-artificial-intelligence-technology.md",
+      "title": "IBM, AMD embrace Israeli artificial intelligence technology",
+      "excerpt": "The artificial intelligence that powers Amazon’s virtual assistant ... The game-changing platform, which will be launched in 2023, targets public safety, e-commerce, healthcare, retail and other high-volume uses of AI. With its next-generation hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/",
+      "originalUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/04/NeuReality-IBM-TOI.jpg",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/",
+      "publishedDateTime": "2022-04-17T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-build-tensorflow-lite-for-android.md",
+      "title": "Build TensorFlow Lite for Android",
+      "excerpt": "This document describes how to build TensorFlow Lite Android library on your own. Normally, you do not need to locally build TensorFlow Lite Android library. If you just want to use it, the easiest way is using the TensorFlow Lite AAR hosted at MavenCentral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/lite_build?hl=pt",
+      "originalUrl": "https://www.tensorflow.org/lite/android/lite_build?hl=pt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png?hl=pt",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-team-uses-ai-and-robotics-to-treat-spinal-cord-injuries.md",
+      "title": "Team Uses AI and Robotics to Treat Spinal Cord Injuries",
+      "excerpt": "A team of researchers at Rutgers University has employed artificial intelligence (AI) and robotics to formulate therapeutic proteins. The team was able to successfully stabilize an enzyme that can degrade scar tissues resulting from spinal cord injuries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/",
+      "originalUrl": "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/human-skeleton-163715_1280.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-17-internet-aghast-at-ai-facial-recognition-used-to-identify-dead-russian-soldiers.md",
       "title": "Internet Aghast at AI Facial Recognition Used to Identify Dead Russian Soldiers",
       "excerpt": "Reporters and readers reacted to the news that Ukraine is using facial recognition AI software to identify dead soldiers Russia left behind.",
@@ -834,353 +1166,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-ukraine-is-using-facial-recognition-to-id-dead-russian-soldiers-and-send-photos-of-corpses-home-to-their-moms-report.md",
-      "title": "Ukraine is using facial recognition to ID dead Russian soldiers and send photos of corpses home to their moms: report",
-      "excerpt": "Facial recognition technology, donated by a controversial US firm, is part of a gruesome campaign to shock everyday Russians into opposing the war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "originalUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62598d9c33c02a0018ca1c52?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "publishedDateTime": "2022-04-15T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-16-tips-to-help-small-businesses-start-leveraging-aiml.md",
-      "title": "16 Tips To Help Small Businesses Start Leveraging AI/ML",
-      "excerpt": "Even if a small business can’t make instantaneous, sweeping changes through AI/ML, it may still be the right time to take the first steps on the journey of building a strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625972dc185b566eb4455d01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
-      "publishedDateTime": "2022-04-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving.md",
-      "title": "Tesla's Optimus Robot Could Arrive As Soon As EV Full Self-Driving",
-      "excerpt": "During Tesla Inc's (NASDAQ: TSLA) most recent earnings call, CEO Elon Musk laid out expectations for achieving full self-driving in 2022, but he",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "originalUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/04/14/0x0-kjc_5055-1.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26644087",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26644087",
-      "publishedDateTime": "2022-04-15T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-at-least-150-injured-in-clashes-at-jerusalem-holy-site.md",
-      "title": "At Least 150 Injured in Clashes at Jerusalem Holy Site",
-      "excerpt": "Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "originalUrl": "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-525573/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "publishedDateTime": "2022-04-15T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems.md",
-      "title": "Heavy.AI CEO: Use AI to solve business problems, but not all problems",
-      "excerpt": "Use of AI in the e-commerce supply chain needs to be targeted or the issue of too much data will overwhelm businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems",
-      "originalUrl": "https://www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/04/Last_Mile_Tech_1-1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems/amp",
-      "publishedDateTime": "2022-04-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-ai-is-mastering-language-should-we-trust-what-it-says.md",
-      "title": "A.I. Is Mastering Language. Should We Trust What It Says?",
-      "excerpt": "OpenAI’s GPT-3 and other neural nets can now write original prose with mind-boggling fluency — a development that could have profound implications for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
-      "originalUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/04/17/magazine/17mag-openai-promo/17mag-openai-promo-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/15/magazine/ai-language.amp.html",
-      "publishedDateTime": "2022-04-15T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-ai-in-ctv-adtech-streamlining-the-ad-bidding-process.md",
-      "title": "AI In CTV AdTech: Streamlining The Ad Bidding Process",
-      "excerpt": "AI already plays an integral role in advertising technology, facilitating processes that human marketers are incapable of performing themselves at the scale modern marketing platforms require.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60351bd94012479d5761ba1e/0x0.jpg?format=jpg&width=1200",
-          "width": 612,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/amp/",
-      "publishedDateTime": "2022-04-15T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

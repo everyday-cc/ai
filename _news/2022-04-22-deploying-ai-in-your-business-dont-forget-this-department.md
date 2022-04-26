@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Your Business Can Use Machine Learning"
-    excerpt: "Simply put, machine learning (ML) puts the“intelligence” in artificial intelligence (AI). And two-thirds of respondents in a Deloitte survey say"
-    publishedDateTime: 2022-04-22T20:07:00Z
-    webUrl: "https://menafn.com/1104076406/How-Your-Business-Can-Use-Machine-Learning&source=28"
+  - title: "Teaching AI and robotics concepts in business courses"
+    excerpt: "By Gary Allemann, MD at Master Data Management Artificial Intelligence (AI) and robotics are steadily making their way into every industry. From retail companies to healthcare practices that use AI-driven robots for medical processes,"
+    publishedDateTime: 2022-04-26T07:15:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 69
     images:
-      - url: "https://menafn.com/updates/pr/2022-04/22/V_904f6image_story.jpg"
-        width: 640
-        height: 389
-        isCached: true
-  - title: "Here’s why robots may be the missing link for your business growth"
-    excerpt: "Out of over 4,000 firms surveyed in 2021, the report shows that the 10% making the biggest revenues invested heavily in Robots. Read more"
-    publishedDateTime: 2022-04-24T20:54:00Z
-    webUrl: "https://www.rudebaguette.com/en/2022/04/heres-why-robots-may-be-the-missing-link-for-your-business-growth/"
-    type: article
-    provider:
-      name: Rude Baguette
-      domain: rudebaguette.com
-    quality: 39
-    images:
-      - url: "https://www.rudebaguette.com/wp-content/uploads/thumbs/david-leveque-GpNOhig3LSU-unsplash-scaled-3fhuxnif4cdu314ifihnnk.jpg"
-        width: 920
-        height: 560
+      - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
+        width: 1022
+        height: 575
         isCached: true
 
 secured: "Ec4jVvVm5gkVpTlbuKu5/gQCPlWu8ndBx+Smf/n/pc/bZrW383fpW3ZZP8gNn9VE6SXM+/OXaRR+OqXBoOJKzl/j8JPXqM8IAVJxSqKadFmHHcyL0hynAXtvnfPmM/eM3zYzhX7vpKfn8WZ7uep62UVEFjogcdHKsKBa4Y8t3DEuLt7qQGexNrPLQPcTtcoIKDwVlTFPJeSuIZ6wvY3RuSA0Maa51KbqD80ifag3FAFmbwYXVvbMumyu24npOxFb1YUhtQxRMMgRkcU7pXdGoksmKIlty4JXv0StGYwKEwSWx4j7U6P35wFTzs8KCXdzbiZMHbewggkoPTNmi8TsK4pM29ceSl87IIkWmWnzJCoVOSQWMRzSAmteUN1aq6U1BG1NGXFCfOGLQbsvSb2MAstmrHw2etUzjepREdDJQygcf8+CsWSbZo6JWqdkxrMEdpdIPn3Yohh92qu/V5NGJ5KR+8Yj2FcTDrmEePoICjdwWYC5BNhcWMJLFZFQiLo/0EjY/TieZSn3NPL8dlNDNw==;lfEV+k283TqigCY1ART+7w=="

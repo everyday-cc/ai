@@ -204,50 +204,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-21-musk-teslas-robot-will-be-worth-more-than-the-car-business.md",
-      "title": "Musk: Tesla’s robot will be ‘worth more than the car business’",
-      "excerpt": "Tesla CEO Elon Musk has made the bold statement that the company’s robot will be “worth more than the car business”.",
-      "sourceUrl": null,
-      "webUrl": "https://iottechnews.com/news/2022/apr/21/musk-tesla-robot-will-be-worth-more-car-business/",
-      "originalUrl": "https://iottechnews.com/news/2022/apr/21/musk-tesla-robot-will-be-worth-more-car-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iottechnews.com/wp-content/uploads/sites/5/2022/04/tesla-bot-optimus-elon-musk-robot-robotics-ai-artificial-intelligence-iot-internet-of-things-scaled.jpg",
-          "width": 2560,
-          "height": 1708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iottechnews.com",
-        "domain": "iottechnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-04-21-billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas.md",
       "title": "Billionaire CEO’s US Senate run focuses on one issue: Banning ‘self-driving’ Teslas",
       "excerpt": "Dan O’Dowd, the billionaire founder of The Dawn Project and Green Hills Software, is running for U.S. Senate on a single issue. It’s not unemployment or inflation or even education. It’s about making computers safer for humans,",
@@ -852,8 +808,8 @@
       "title": "Dubai plans to introduce self-driving and flying taxis by 2030: official",
       "excerpt": "The RTA’s goal is “to achieve 25% of trips by driverless modes in 2030 ... technologies such as the Internet of Things, artificial intelligence and big data to improve the experience ...",
       "sourceUrl": null,
-      "webUrl": "https://www.brecorder.com/news/40167388",
-      "originalUrl": "https://www.brecorder.com/news/40167388",
+      "webUrl": "https://www.brecorder.com/news/40167388/dubai-plans-to-introduce-self-driving-and-flying-taxis-by-2030-official",
+      "originalUrl": "https://www.brecorder.com/news/40167388/dubai-plans-to-introduce-self-driving-and-flying-taxis-by-2030-official",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -976,6 +932,49 @@
         "AI in Marketing",
         "AI Ethics",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-self-driving-taxis-txai-to-transport-passengers-on-yas-island.md",
+      "title": "Self-driving taxis 'TXAI' to transport passengers on Yas Island",
+      "excerpt": "Bayanat, which specialises in geospatial systems, data analysis and artificial intelligence, recently announced its new fleet of driverless vehicles under the TXAI brand, which represents the first fully-automated taxis in the UAE.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/self-driving-taxis-txai-to-transport-passengers-on-yas-island-r712qtb8",
+      "originalUrl": "https://www.zawya.com/en/business/self-driving-taxis-txai-to-transport-passengers-on-yas-island-r712qtb8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:NmM1ZGI0Y2EtYmMxZi00:MGI5ODlk/190918054509fqnb-jpg.jpg?f=16%3A9&q=0.75&w=3840",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

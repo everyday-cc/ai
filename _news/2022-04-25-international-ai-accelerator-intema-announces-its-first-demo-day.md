@@ -22,6 +22,19 @@ topics:
   - AI
   - AI in Robotics
 
+related:
+  - title: "International AI Accelerator INTEMA Announces Its First Demo Day"
+    excerpt: "Join INTEMA on its first Demo Day and meet innovative deep tech startups based on AI algorithms that are already shaping our future. NEW YORK,"
+    publishedDateTime: 2022-04-26T07:27:00Z
+    webUrl: "https://www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/"
+    ampWebUrl: "https://www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/amp/"
+    cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/amp/"
+    type: article
+    provider:
+      name: Il Tempo
+      domain: iltempo.it
+    quality: 39
+
 secured: "/9y2OUQPuRcf8QcdxE24LIMXqSBJr7TlD7Hvt0sOVpZmqkNBFoxtTraIQTcHov0dgUubSMa2q1fQmQ3FSkjdQKNS9ygtKYohCpW5D3Qhu3ki6nwWg1Szi4okY+mCunaZcRpJ1XJqjTGxwmAbZAqwe6D+F2l3tCKVBwrkQ2TKgJfVPpyvyGBsBsNjMLQVr4LlXMyG/f0yFS7BJc4qfebcFnpLqm5EzP5LH2yAYAUcFN+rGokPybmiMkOvMX7651DA40fn4kyM0dghuV0kjKgmAKnoO1mEOlYsmVkJitQVjHidBiPwULuiQc0LTZ12EmnUrbxkujBiNCGzX2MiZtxB9k5mioT7JJlXesDNxWBA2/Q=;BtR5e1r+fYl5ZLjyX0YKYQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-cognex-in-sight-2800-combines-deep
 webUrl: "https://www.tmcnet.com/usubmit/-cognex-in-sight-2800-combines-deep-learning-traditional-/2022/04/26/9589078.htm"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 320
     isCached: true
 
-secured: "3Z2VNfGO3NKiPHCBdE+rzB3JtCEq0CudT1FdV2KecPc78VW1h+frxqBEkvZi0JH+gqFS1nLrcc/uqA59SjBXoSBIuM73cwFeNY8pf8eESWwUu28nUO2aVqhY2KeMV8SVfM+wC4/pZcIfasI/9lv4zwGYic2oEEDUdCK9aXhAt6AAEou2oMOYRy7VooQkum0s4exDdNekgNS35Ru/qlbrOZzGs7NRG23U3SVUon5omISMZu1aWsQzuaHAapYiSb8NgrrJdqam2XtjFV5b8RbT4YV+CxOTADe/+UiS0YbGtrV6rzTXraNl8v47gUJN6pW/RvVGzWXkJ1p6W0sXtfsuFoQacumTwZZ7gh/WDlpRMJw=;j4iYBo8FN52bYsyxydspUQ=="
+related:
+  - title: "Cognex In-Sight 2800 Combines Deep Learning, Traditional Vision in Easy-to-Use Package"
+    excerpt: "Cognex Corporation (NASDAQ: CGNX), the leader in industrial machine vision, has released the In-Sight 2800 series vision system. In-Sight 2800 puts the power of a full-featured vision system into an easy-to-use package that gets applications running in minutes."
+    publishedDateTime: 2022-04-26T07:48:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272518001/cognex-in-sight-2800-combines-deep-learning-traditional-vision-in-easy-to-use-package"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 31
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
+secured: "gAFdDN8RKY4ezTskcNYfvS4dVebrj8ITTO0cAK6Z5UM98CAynKNhi9RvV5PSk464x3irPzX3qkQ0JFSl3thqQ6WmkrVtbb4qoSFCsoIuEnAK6EF2cdgAEZEPXyOmiCI5UnEBmhIRIVuSfKaf96ukuMdOnBYkAoIT3R0LljQ9y6kLQnDv1HQkjAbJHq9MyhS6LxEr9I4s+36bQr4lsT3BLAyV6M6RKCDciU1NbISk4+VgaDZpQXroqhZJ4Zeg+YRlQbj4scxWbTNhw1K4asQrDH7Vl8TV8SmaWJfUpclgJw2DP9QtPg/gFkzmP7VQfO41Se3KSDfZfW5Uton2K49c5Xi2IoQntd7e4G8vlYtYtyq10gAaihPx/HiuPT13oOW9uvzcYsYfJbOQJg4oy0gEq9ca51NuAVgSI6rEkAz+i5wSJdPSb+GiA1OtVq4VYfjMoYkgCDkyazkkLaLM4yKODs4ebC8PV/Rs9VEbDB0u0TWPy0W8kK6Fl3PWUe/Xc0Nfj+qZKRBphR1M/WtB4w+zwA==;L7ye8xkSQyfs+ujuZzMsEw=="
 ---
 

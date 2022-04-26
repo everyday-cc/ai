@@ -2,6 +2,511 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-03-24-modex-2022-let-the-cobots-handle-repetitive-labor.md",
+      "title": "MODEX 2022: Let the Cobots Handle Repetitive Labor",
+      "excerpt": "Universal Robots will showcase how its latest robotics platforms are applied in real-world applications at MODEX 2022, which takes place in Atlanta, Ga. (April 28-3). Engineers will be able to see how cobots automate palletizing and piece-picking tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/automation-iiot/article/21237046/universal-robots-usa-inc-modex-2022-let-the-cobots-handle-repetitive-labor",
+      "originalUrl": "https://www.machinedesign.com/automation-iiot/article/21237046/universal-robots-usa-inc-modex-2022-let-the-cobots-handle-repetitive-labor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2022/03/RightHand_Robotics_UR.623c802f25274.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-small-data-big-impact-making-the-most-of-ai-with-less.md",
+      "title": "Small Data, Big Impact: Making The Most Of AI With Less",
+      "excerpt": "Headlines have reiterated that investments in big data have continued to increase, and the big data story they’re selling us on just keeps getting bigger. But it’s time to burst that bubble. For the last decade,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b583afbf6be86c7a2616b/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/amp/",
+      "publishedDateTime": "2022-03-24T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-space-hardware-club-teams-robotic-rover-on-its-way-to-summertime-competition-in-utah.md",
+      "title": "Space Hardware Club team’s robotic rover on its way to summertime competition in Utah",
+      "excerpt": "After two years of work, a four-function robotic rover developed for use on Mars by a 21-person Space Hardware Club (SHC) team at UAH, will be in summer competition at the University Rover Challenge (URC) finals in the desert of southern Utah.",
+      "sourceUrl": null,
+      "webUrl": "https://www.uah.edu/news/items/space-hardware-club-team-s-robotic-rover-on-its-way-to-summertime-competition-in-utah",
+      "originalUrl": "https://www.uah.edu/news/items/space-hardware-club-team-s-robotic-rover-on-its-way-to-summertime-competition-in-utah",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uah.edu/images/news/astra-march-2022-tn.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "uah",
+        "domain": "uah.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-chinas-ev-chassis-maker-pix-raises-11m-to-build-its-own-smart-vehicles.md",
+      "title": "China’s EV chassis maker PIX raises $11M to build its own smart vehicles",
+      "excerpt": "The autonomous driving industry in China has enjoyed a boom over the past two years, with both institutional and corporate investors pouring money into a driverless future. Companies thriving in the downstream,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/",
+      "originalUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/Pix-moving.jpeg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/24/pix-moving-chassis-skateboard-11-million/amp/",
+      "publishedDateTime": "2022-03-24T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-nvidia-announces-3-new-powerful-ai-chips-what-investors-need-to-know.md",
+      "title": "Nvidia Announces 3 New Powerful AI Chips -- What Investors Need to Know",
+      "excerpt": "It's difficult to concisely summarize all of the new products and services announced at the tech company's annual spring GPU Technology Conference (GTC) that kicked off on March 21. But Nvidia's powerful new chip designs and systems aimed at artificial intelligence (AI) are a good place to start.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/",
+      "originalUrl": "https://www.fool.com/investing/2022/03/24/nvidia-new-powerful-ai-chips-what-need-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/671704/nvidia-hopper-architecture-h100-sxm.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence-center-award.md",
+      "title": "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD",
+      "excerpt": "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-cagr-of-227-cleaning-robot-market-size-to-hit-usd-3494-billion-in-2028-says-brandessence-market-research.md",
+      "title": "CAGR of 22.7%, Cleaning Robot Market Size to hit USD 34.94 Billion in 2028, Says Brandessence Market Research",
+      "excerpt": "The Cleaning Robot Market Value is expected to record a valuation of USD 34.94 Billion by 2028, Registering to Accelerate at a 22.7% CAGR, According to the most recent study by Brandessence Market Research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cagr-227-cleaning-robot-market-size-hit-usd-/2022/03/24/9570077.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cagr-227-cleaning-robot-market-size-hit-usd-/2022/03/24/9570077.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-ai-can-make-us-more-human-heres-how.md",
+      "title": "AI Can Make Us More Human: Here’s How",
+      "excerpt": "Even though it may sound counterintuitive, when used responsibly, AI has the potential to help organizations get more personal and do better for their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b26993128a10083ba50ab/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/amp/",
+      "publishedDateTime": "2022-03-24T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi.md",
+      "title": "Israel’s OurCrowd to open global AI innovation and research center in Abu Dhabi",
+      "excerpt": "Investment firm to launch financial service-focused operation in Emirati capital; Israel-UAE ties warm but flow of investments slower than expected, says company official",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/",
+      "originalUrl": "https://www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/02/iStock-1299129724-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/amp/",
+      "publishedDateTime": "2022-03-24T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york.md",
+      "title": "Skyline Robotics To Deploy The Ozmo Window-Cleaning Robot In New York",
+      "excerpt": "Deep tech robotics and automation company, Skyline Robotics, completes its $6.5M pre-Series A funding round ahead of the planned deployment of the first Ozmo Window-Cleaning Robot in New York City Skyline Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/",
+      "originalUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/03/ozmo.jpg",
+          "width": 1041,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/",
+      "publishedDateTime": "2022-03-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi.md",
+      "title": "Edtech startup TagHive all set to deploy its AI-powered app 'Class Saathi'",
+      "excerpt": "Class Saathi is designed to integrate into the education ecosystem and enable data-driven strategy without additional infrastructure. It is an AI-powered self-learning app from TagHive Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/03/24/1600x900/20220324_165758_0000_(1)_1648122980524_1648122990806.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html",
+      "publishedDateTime": "2022-03-24T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-how-fluid-organizations-use-ai-to-strengthen-their-people.md",
       "title": "How Fluid Organizations Use AI To Strengthen Their People",
       "excerpt": "Although easier said than done, in a world where technology is power, it’s time to share some of that power with your employees so they can help steer your company in the direction you want it to go.",
@@ -655,525 +1160,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-new-guideline-will-enhance-oversight-of-research-in-frontier-fields.md",
-      "title": "New guideline will enhance oversight of research in frontier fields",
-      "excerpt": "Zeng Yi, director of the International Research Center for AI Ethics and Governance at the Institute of Automation of the Chinese Academy of Sciences, said the level of research ethics varies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202203/24/WS623bb185a310fd2b29e52dd8.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202203/24/WS623bb185a310fd2b29e52dd8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202203/24/623bc758a310fd2bec7dca12.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-databricks-unified-analytics-platform-supports-automl-toolkit.md",
-      "title": "Databricks' Unified Analytics Platform Supports AutoML Toolkit",
-      "excerpt": "Databricks, the company behind the Apache Spark data analytics engine, recently announced the Unified Data Analytics Platform, including an automated machine learning tool called AutoML Toolkit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2019/10/databricks-automl/",
-      "originalUrl": "https://www.infoq.com/news/2019/10/databricks-automl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2019/10/databricks-automl/en/headerimage/databricks-automl-1570560795654.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-the-story-of-john-stanley-ford-americas-first-black-software-engineer.md",
-      "title": "The Story of John Stanley Ford, America's First Black Software Engineer",
-      "excerpt": "Watson, then the CEO and chairman of IBM ... and woman and minorities are also underrepresented in the artificial intelligence sector in particular. This last bit becomes concerning as more and more companies adopt and develop AI technologies and reports ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
-      "originalUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/ThinkBlackCover.jpg",
-          "width": 428,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-set-up-a-text-summarization-project-with-hugging-face-transformers-part-2.md",
-      "title": "Set up a text summarization project with Hugging Face Transformers: Part 2",
-      "excerpt": "This is the second post in a two-part series in which I propose a practical guide for organizations so you can assess the quality of text summarization models for your domain. For an introduction to text summarization, an overview of this tutorial, and the steps to create a baseline for our project (also",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-set-up-a-text-summarization-project-with-hugging-face-transformers/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-2-set-up-a-text-summarization-project-with-hugging-face-transformers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T14:14:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-optimize-customer-engagement-with-reinforcement-learning.md",
-      "title": "Optimize customer engagement with reinforcement learning",
-      "excerpt": "This is a guest post co-authored by Taylor Names, Staff Machine Learning Engineer, Dev Gupta, Machine Learning Manager, and Argie Angeleas, Senior Product Manager at Ibotta. Ibotta is an American technology company that enables users with its desktop and mobile apps to earn cash back on in-store, mobile",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-customer-engagement-with-reinforcement-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-customer-engagement-with-reinforcement-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/17/ml-7771-image007.png",
-          "width": 839,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T14:07:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now.md",
-      "title": "GOOGL Stock News: 4 Biggest Headlines That Alphabet Investors Should Know Now",
-      "excerpt": "Earlier this month, Waymo received permits from the California ... Sandbox operates as a quantum computing and artificial intelligence (AI) company. It was founded in 2016 as an independent ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/",
-      "originalUrl": "https://investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/goog1600f.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/amp/",
-      "publishedDateTime": "2022-03-23T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry.md",
-      "title": "Amazon launches AWS for Games, dedicated products and services for the gaming industry",
-      "excerpt": "AWS, Microsoft and Google are all stepping up their pitches to game developers and publishers as the industry grows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/af25c7eda187b9b71e922f0678484a7966af3102/2022/03/23/5a956e2a-eafc-4896-8d6f-c2324413032e/awsforgames.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "publishedDateTime": "2022-03-23T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-spectrum-labs-creates-guardian-for-games-to-safeguard-player-experience-in-the-metaverse.md",
-      "title": "Spectrum Labs Creates Guardian for Games to Safeguard Player Experience in the Metaverse",
-      "excerpt": "Spectrum Labs, a leading artificial intelligence (AI)-based content moderation platform, announced today it has created a version of its Guardian product purpose-built for Gaming communities. As the industry faces the challenges and opportunities of nurturing safe and inclusive communities as the next era of the Internet emerges,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr.md",
-      "title": "Ontology of the everyday: PeopleReign's automation of IT and HR",
-      "excerpt": "Automating language is not magic; it can take years of careful work to piece together what people mean in the context of corporate help desks, HR programs and the like. Such is the work of startup PeopleReign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
-      "originalUrl": "https://www.zdnet.com/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b8c3c61245fb6311b85af7daca54859aa4c28c06/2022/03/23/d32bdea8-f6c0-4505-9758-f2da721df4b2/dan-turchin-peoplereign.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
-      "publishedDateTime": "2022-03-23T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-datagen-raises-50-million-series-b-to-empower-computer-vision-teams.md",
-      "title": "Datagen raises $50 million Series B to empower computer vision teams",
-      "excerpt": "Datagen now has a much more scalable way to help clients themselves generate the visual data that they need to train their computer vision applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/",
-      "originalUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1303435492.jpg?w=1024",
-          "width": 1024,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/amp/",
-      "publishedDateTime": "2022-03-23T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-cisco-upgrades-target-kubernetes-cloud-and-aiml.md",
-      "title": "Cisco upgrades target Kubernetes, cloud, and AI/ML",
-      "excerpt": "Cisco has added new features to its Intersight cloud management system, UCS X-Series server, and HyperFlex hyperconverged system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
-      "originalUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/08/03/istock-1254718662-100908660-large-100921213-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
-      "publishedDateTime": "2022-03-23T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -24,17 +24,6 @@ images:
     height: 430
     isCached: true
 
-related:
-  - title: "AWS Announces General Availability of AWS Amplify Studio"
-    excerpt: "New visual development environment for creating rich user interfaces extends AWS Amplify to make it easier for developers to create fully customizable web applications with minima"
-    publishedDateTime: 2022-04-21T17:56:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/21/aws-announces-general-availability-of-aws-amplify-studio"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 34
-
 secured: "aIEO3BRAP4UindsS1yWrCM8/8gr5e4t/c6crLECok+p479cLHtrb4PAAmTSA3Mu4hlfnmppIwu0gGlRSlqyGAS7uLBvsB0M42rifzUTfN4VS2FSMSvId/c0iQ6D0K72eUqTGHJ+IwrbO78gaUu1tDziKBD/pgscpVPv+L1+oz+rvDmVXhtvHkLbrBk+73eh8k8cpWgO8ILrgDptP9qviUMrnOt/WIXQ7bkjWHh61pgVGnvXaujFGjlZM/OIzr9rbPtT5FGFj7mA3krBKZCtkHmn6zSws29CMgCx8EFUZqeRNk2gxg3TXMkVZTbQdOuf2OmG+RpSyrRa524ts9bBudSy3Yg2ScnEiPVGDtY3AXHc=;s46PAgDnuK1sn7wQsabqkg=="
 ---
 

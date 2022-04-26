@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-12-robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead.md",
+      "title": "Robot-Run ETF Known For Tesla, Apple Bets Cut Out Chipmakers In March And Bet On This Retail Giant Instead",
+      "excerpt": "AMOM Hits Exit Button On Chip Giants: The QRAFT AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM) sold its entire stake in two high-profile chip names — GPU chipmaker Nvidia Corporation ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead-1031350134",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead-1031350134",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/04/12/fabio-bracht-e3oe-l-rtpa-unsplash.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-bosch-picks-up-fiveai-after-the-self-driving-startup-pivoted-to-b2b-and-then-put-itself-up-for-sale.md",
       "title": "Bosch picks up Five.ai after the self-driving startup pivoted to B2B and then put itself up for sale",
       "excerpt": "Bosch itself has been long on self-driving car technology, although like many, its stated ambitions — it is a major OEM and supplier to the automotive industry and forged a partnership with ...",
@@ -706,6 +760,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-07-3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy.md",
+      "title": "3 Chinese Stocks to Buy on the Dip Amid China Triple Whammy",
+      "excerpt": "However, revenue from non-core businesses, including AI, Baidu Cloud and self-driving cars, soared 63% YOY, compensating for the decline in its advertising business. BIDU stock is down 38% over ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2022/04/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy/",
+      "originalUrl": "https://investorplace.com/2022/04/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2022/01/shutterstock_1904062051-1024x576.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras.md",
       "title": "Like Tesla, Toyota develops self-driving tech with low-cost cameras",
       "excerpt": "SAN FRANCISCO -- Toyota unit Woven Planet is following the lead of Tesla Inc. in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use low ...",
@@ -1265,105 +1362,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-the-dangers-of-not-aligning-artificial-intelligence-with-human-values.md",
-      "title": "The Dangers Of Not Aligning Artificial Intelligence With Human Values",
-      "excerpt": "I speak to Brian Christian, author of 'The Alignment Problem – How AI Learns Human Values' about how we still face some significant hurdles when it comes to building machines that are truly capable of thinking and acting like humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62468a610c6dc8f419eac76b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
-      "publishedDateTime": "2022-03-31T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-neuron-based-computer-chips-neuroscience-meets-artificial-intelligence.md",
-      "title": "Neuron-based computer chips: Neuroscience meets artificial intelligence",
-      "excerpt": "Neuroscience meets artificial intelligence. Cortical Labs’ “brain on a chip” may change the field of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "originalUrl": "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://console.kr-asia.com/wp-content/uploads/2022/03/Cortical-Labs-chief-science-officer-Brett-Kagan-and-co-founder-Hon-Wen-Chong.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "cdnAmpWebUrl": "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "publishedDateTime": "2022-03-31T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kr-asia",
-        "domain": "kr-asia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

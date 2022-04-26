@@ -1,23 +1,44 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS IoT TwinMaker"
-excerpt: "(NASDAQ: AMZN), today at AWS Summit San Francisco announced the general availability of AWS IoT TwinMaker, a new service that makes it faster and easier for developers to create digital twins of real-world systems like buildings,"
-publishedDateTime: 2022-04-21T17:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-san-francisco-amazoncom-inc-web-services-428dacf25bca4426b23d367690833739"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-san-francisco-amazoncom-inc-web-services-428dacf25bca4426b23d367690833739"
+excerpt: "AWS IoT TwinMaker makes it easy for developers ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ..."
+publishedDateTime: 2022-04-21T17:41:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-twinmaker-2022-04-21"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-twinmaker-2022-04-21"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "svfRYtXDq6ca/JwvlQdrs4S1O0moDPOz9sD0zNggsaF0DKqGOJDDtfU8ROr7fGCmGU1BupKssL3peTfGhmOXwFfq2VIpqTltHxjVbaZNPnXD3b5PvN5biy6pknNSV32J0VmdeYQS+gnqT3OHldHwQeuDgXR9m8IMjrzoZroNut+Pjt50TC9F9soGwm2KqvlAsYqYvmWJaROk+fii80vr6YsOTM2Xp72hvuKSy1C5vuioL52mY3Ff2J5jwKKpqq6d4KenU720i0ZnMSZGL20/A6OMn2v/zoThEqrB7+MDJPD/zGsrcSsns26Sa7CBvNiWqkuKKc9rzUNymb/9CijW3se2xy/+VVHlpEhgIOnVFQ4=;k6sYGtdWYz7ZYxtfsGh19A=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "AWS Announces General Availability of AWS Amplify Studio"
+    excerpt: "AWS Amplify Studio extends the capabilities ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
+    publishedDateTime: 2022-04-21T18:08:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220421005953/aws-announces-general-availability-of-aws-amplify-studio"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 34
+
+secured: "WQ9UIKClJsz5cSiq+leGoKYsCaChK20VsycndrvdR+QfKQgbKTIGBn2hY/u+zQQHTLH9qimcEk7x0jn/IY/X0eOooar3IA+WJcwShFQgXrnJVo+frufU6cueR5fEDpjgfEoxAusUTyDN5oxGzb/JHtY40OSEhE72PhdNaBx162ME3u3DW1qqYdmtwAc6UNNLaik4DVi2ud8dF7+KqofaCh9zaL72lDcYhjSkwzfAheDmFg5xjE/gD47TlAs7vtqzldLzhxqrxUqwLn6Zgk5tqpIUe/qOcJLWSPlQvyzU+XfZzTgPBQDQNSuA77GI6tGGOH1Ft5K+3SrcCPBfNAwFEsfHeKBymcSNNrdat+NqXkc=;QWGsm74bRJ7dKY0OOSoF/w=="
 ---
 

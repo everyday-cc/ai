@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-20-graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation.md",
+      "title": "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation",
+      "excerpt": "\"We are excited to have GrayMatter's Smart Robotic Sanding solution selected for the RBR50 award\" said Ariyan Kabir, CEO. \"With a global shortage in surface finishing labor, manufacturing reshoring in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.krqe.com/business/press-releases/cision/20220420LA30271/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/",
+      "originalUrl": "https://www.krqe.com/business/press-releases/cision/20220420LA30271/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.krqe.com/wp-content/uploads/sites/12/2022/04/cc802004e8fb4dbcb43175fa890288d0-2.jpg?w=2000&#038;ssl=1",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRQE",
+        "domain": "krqe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-trust-stamp-ceo-to-speak-at-rutgers-law-school-fintech-and-blockchain-collaboratory.md",
+      "title": "Trust Stamp CEO to speak at Rutgers Law School FinTech and Blockchain Collaboratory",
+      "excerpt": "The global provider of AI-powered identity services said Gareth Genner will be speaking on the use of identity tokenization for",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/980121/trust-stamp-ceo-to-speak-at-rutgers-law-school-fintech-and-blockchain-collaboratory-980121.html",
+      "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/980121/trust-stamp-ceo-to-speak-at-rutgers-law-school-fintech-and-blockchain-collaboratory-980121.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC9ibG9ja2NoYWluLTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/980121",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/980121",
+      "publishedDateTime": "2022-04-20T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors UK",
+        "domain": "proactiveinvestors.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m.md",
+      "title": "Mutiny, which personalizes website copy and headlines using AI, raises $50M",
+      "excerpt": "Mutiny, which leverages an AI platform and OpenAI's GPT-3 to personalize website content, has raised $50 million at a $600 million valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/",
+      "originalUrl": "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1255917500.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/amp/",
+      "publishedDateTime": "2022-04-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience.md",
       "title": "Don’t Let A Misguided AI Strategy Sabotage Your Brand Experience",
       "excerpt": "Brands can take years to build and nurture. Misguided AI strategies in automating customer service can put brand experiences at risk. This article looks at how this can occur and shares tips on how to refocus AI efforts to enhance brand value,",
@@ -708,6 +845,40 @@
       ]
     },
     {
+      "path": "_news/2022-04-20-316-frontal-cerebellar-eeg-source-localization-and-functional-connectivity-as-predictors-of-alzheimers-disease-related-cognitive-decline.md",
+      "title": "316 Frontal-cerebellar EEG source localization and functional connectivity as predictors of Alzheimer’s disease-related cognitive decline",
+      "excerpt": "HTML view is not available for this content. However, as you have access to this content, a full PDF is available via the ‘Save PDF’ action button. OBJECTIVES/GOALS: Novel EEG source localization and functional connectivity will assess frontal and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/316-frontalcerebellar-eeg-source-localization-and-functional-connectivity-as-predictors-of-alzheimers-diseaserelated-cognitive-decline/2A0F824ED78339B9FD789376E4DC0B72",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/316-frontalcerebellar-eeg-source-localization-and-functional-connectivity-as-predictors-of-alzheimers-diseaserelated-cognitive-decline/2A0F824ED78339B9FD789376E4DC0B72",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-designing-a-soft-robot-to-improve-lung-examinations.md",
       "title": "Designing a soft robot to improve lung examinations",
       "excerpt": "Seniors in the Department of Mechanical Engineering at the University of Colorado Boulder are designing a new soft robot to improve physicians' ability to examine the deepest part of a patient's lung.",
@@ -978,197 +1149,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-tensorflow-decision-forests-tutorials.md",
-      "title": "TensorFlow Decision Forests tutorials",
-      "excerpt": "The following notebooks are available: Beginner Colab: Learn about the basic about model training, evaluation and exportation. Intermediate Colab: How to consume text and combine decision forest with neural networks. Advanced Colab: How to inspect and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/tutorials",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/tutorials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-recycling-robotics-firm-glacier-emerges-from-stealth-with-45m.md",
-      "title": "Recycling robotics firm Glacier emerges from stealth with $4.5M",
-      "excerpt": "Glacier Robotics emerges from stealth with $4.5M; funding will go toward increasing headcount and accelerating the system’s commercial deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/",
-      "originalUrl": "https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston.md",
-      "title": "Dean Kamen is coming to TC Sessions: Robotics July 22 in Boston",
-      "excerpt": "We’re still building out the event agenda, but you can bet the day’s programming will cover a wide range of crucial issues focused on robotics and the AI that ... Buy your Startup Demo Package ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/",
-      "originalUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Dean_Kamen_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/",
-      "publishedDateTime": "2022-04-19T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-the-helm.md",
-      "title": "Amazon to conduct racial-equity audit with Loretta Lynch at the helm",
-      "excerpt": "One proposal also seeks an independent study of the company’s proprietary facial recognition software, Rekognition. TheGrio is FREE on your TV via Apple TV, Amazon Fire, Roku, and Android TV.",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2022/04/19/amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-helm/",
-      "originalUrl": "https://thegrio.com/2022/04/19/amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-helm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2022/02/pjimage-2022-02-16T183739.283.jpg",
-          "width": 704,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

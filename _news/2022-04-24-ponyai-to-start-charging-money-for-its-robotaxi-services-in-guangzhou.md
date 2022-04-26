@@ -75,14 +75,14 @@ related:
   - title: "Pony.ai lassos China's first autonomous taxi license"
     excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
     publishedDateTime: 2022-04-25T17:00:00Z
-    webUrl: "https://www.theregister.com/2022/04/25/ponyai_lassos_first_autonomous_taxi/"
+    webUrl: "https://www.theregister.com/2022/04/25/ponyai_lassos_first_autonomous_taxi/?td=amp-keepreading-top"
     ampWebUrl: "https://www.theregister.com/AMP/2022/04/25/ponyai_lassos_first_autonomous_taxi/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/ponyai_lassos_first_autonomous_taxi/"
     type: article
     provider:
       name: theregister
       domain: theregister.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://regmedia.co.uk/2021/03/31/driving.jpg"
         width: 1000
@@ -143,6 +143,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Pony.ai to Launch Fleet of Robotaxis with Ontime, GAC’s ride-hailing app, in Guangzhou in 2022"
+    excerpt: "Pony.ai, the leading global autonomous driving technology company, today announced a deeper partnership with Ontime, GAC’s ride-hailing app. As part of the partnership, Pony.ai will integrate its virtual driver technology into GAC vehicles,"
+    publishedDateTime: 2022-04-26T06:32:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gac-s-ride-hailing-app-in/article_8d033467-a9c2-55ca-8c05-b5be06526a33.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 25
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/85/c85d3f42-425e-5473-bd2a-e7e780ea2171/626792418609c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "China licences first self-driving taxi"
     excerpt: "Pony.ai has been awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha, Guangzhou, making it the first autonomous driving (AD) company to obtain a taxi licence in China. In May,"

@@ -7,7 +7,7 @@ originalUrl: "https://www.gpsworld.com/deeproute-ai-unveils-autonomous-robotaxi-
 webUrl: "https://www.gpsworld.com/deeproute-ai-unveils-autonomous-robotaxi-fleet/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Pony.ai to Launch Fleet of Robotaxis with Ontime..."
+    excerpt: "GAC is one of China's largest automakers and a longtime Pony.ai partner Introduces Pony.ai's partnership approach to commercializing robotaxis and strengthens Pony.ai's significant leadership in the G"
+    publishedDateTime: 2022-04-26T06:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26805079/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gacs-ride-hailing-app-in-guangzhou-in-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26805079"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26805079"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Toyota backed Robotaxi Pony.ai obtains license to operate in China"
+    excerpt: "Backed by Toyota Motor Corp. the company can now deploy driverless vehicles and charge fares for the rides in China."
+    publishedDateTime: 2022-04-24T16:00:00Z
+    webUrl: "https://techstory.in/toyota-backed-robotaxi-pony-ai-obtains-license-to-operate-in-china/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/04/GettyImages_1367860597-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Pony.ai Gets Licensed to Run Robotaxis in South China"
     excerpt: "Chinese self-driving startup Pony.ai has obtained a business license ... The license marks a milestone in efforts to commercialize a technology on which tech giants like Baidu and Huawei have placed big bets. But when the company launches the service ..."
     publishedDateTime: 2022-04-25T12:14:00Z

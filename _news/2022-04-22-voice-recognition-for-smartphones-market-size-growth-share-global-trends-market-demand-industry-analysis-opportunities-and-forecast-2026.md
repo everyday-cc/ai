@@ -57,6 +57,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Artificial Intelligence Operations Platform Market - Global Industry Share, Size, Growth, Demands, Revenue, Top Leaders and Forecast by 2029"
+    excerpt: "A new business intelligence report released by Data Bridge Market Research with title “Artificial Intelligence"
+    publishedDateTime: 2022-04-26T05:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-operations-platform-market---global-industry-share-size-growth-demands-revenue-top-leaders-and-forecast-by-2029-2022-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Behavioral Rehabilitation Market Forecast to 2028 - Advent of Online Counselling & Artificial Intelligence in Therapeutic Settings Gaining Mome"
     excerpt: "The \"Behavioral Rehabilitation Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Treatment, Application, Healthcare Setting\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2022-04-21T20:59:00Z

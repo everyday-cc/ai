@@ -2,6 +2,178 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-19-search-amazon-web-services-courses.md",
+      "title": "Search Amazon Web Services Courses",
+      "excerpt": "This course covers AWS services and frameworks including Amazon Rekognition, Amazon SageMaker, Amazon SageMaker GroundTruth, and Amazon SageMaker Neo, AWS Deep Learning AMIs via Amazon EC2 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/provider-search/amazon-web-services",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/provider-search/amazon-web-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-modelop-achieves-aws-advanced-technology-partner-and-isv-partner-path-confirmed-status.md",
+      "title": "ModelOp Achieves AWS Advanced Technology Partner and ISV Partner Path Confirmed Status",
+      "excerpt": "ModelOp, the pioneer of ModelOps software, today announced its partnership with AWS as an AWS Technology Partner on the Independent Software Vendor (ISV) Partner Path, selected because of its knowledge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20196950.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20196950.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings.md",
+      "title": "TD SYNNEX (SNX) Signs SCA With AWS, Boosts Digital Offerings",
+      "excerpt": "TD SYNNEX SNX recently inked a strategic collaboration agreement (“SCA”) with Amazon’s AMZN subsidiary, Amazon Web Services (“AWS”), to invest in resources that will help in developing advanced cloud solutions for its partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings",
+      "originalUrl": "https://www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings?amp",
+      "publishedDateTime": "2022-01-18T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-the-lowdown-on-industry-clouds.md",
+      "title": "The lowdown on industry clouds",
+      "excerpt": "This new trend is an old trend. Industry-specific services are now being offered by the big cloud providers, giving companies more benefits with less risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3647291/the-lowdown-on-industry-clouds.html",
+      "originalUrl": "https://www.infoworld.com/article/3647291/the-lowdown-on-industry-clouds.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/11/iot_global-growth_wireless_internet_industrial-iot_smart-home_connect-mobile-devices-100781328-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3647291/the-lowdown-on-industry-clouds.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3647291/the-lowdown-on-industry-clouds.amp.html",
+      "publishedDateTime": "2022-01-18T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-hands-on-machine-learning-with-aws-and-nvidia.md",
       "title": "Hands-on Machine Learning with AWS and NVIDIA",
       "excerpt": "In this course, you will gain hands-on experience on building, training, and deploying scalable machine learning models with Amazon SageMaker and Amazon EC2 instances powered by NVIDIA GPUs.",
@@ -1185,211 +1357,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence market is on track to hit more than $554 billion in total revenue by 2024, according to market researcher IDC.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
-      "originalUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "IBM AI",
-        "Microsoft AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-data-startup-labelbox-reaches-toward-1-billion-valuation-with-softbank-funding.md",
-      "title": "Data Startup Labelbox Reaches Toward $1 Billion Valuation With SoftBank Funding",
-      "excerpt": "When we are talking to the enterprise, we do not see the companies that you may think of as our competition,” says CEO Manu Sharma.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2022/01/06/data-startup-labelbox-series-d-funding-from-softbank/?sh=6d9b8c6a2f59",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2022/01/06/data-startup-labelbox-series-d-funding-from-softbank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d631a168710f2ab3034eaa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1599%26cropY1%3D0%26cropY2%3D1066",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe.md",
-      "title": "How Wix empowers customer care with AI capabilities using Amazon Transcribe",
-      "excerpt": "With over 200 million users worldwide, Wix is a leading cloud-based development platform for building fully personalized, high-quality websites. Wix makes it easy for anyone to create a beautiful and professional web presence. When Wix started, it was easy to understand user sentiment and identify product",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/21/ml-5841-image003.png",
-          "width": 1432,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T13:21:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-how-to-approach-conversation-design-with-amazon-lex-building-and-testing-part-3.md",
-      "title": "How to approach conversation design with Amazon Lex: Building and testing (Part 3)",
-      "excerpt": "In parts one and two of our guide to conversation design with Amazon Lex, we discussed how to gather requirements for your conversational AI application and draft conversational flows. In this post, we help you bring all the pieces together. You’ll learn how draft an interaction model to deliver natural",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-to-approach-conversation-design-with-amazon-lex-building-and-testing/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-to-approach-conversation-design-with-amazon-lex-building-and-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/17/ML-5750image003.png",
-          "width": 1276,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T12:21:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

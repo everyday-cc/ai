@@ -36,15 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
-  - title: "Kraft Heinz enlists Microsoft for cloud migration and digital twin development"
-    excerpt: "Kraft Heinz has entered the next phase of its digital transformation strategy that aims to improve its supply chain operations."
-    publishedDateTime: 2022-04-21T13:34:00Z
-    webUrl: "https://www.zdnet.com/article/kraft-heinz-enlists-microsoft-for-cloud-migration-and-digital-twin-development/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
 
 secured: "n8anVXReLdL7DiJRsMQp/2oyh30gwS3p+uGJPfIGESikA/U+/TvqS/Dt5YAkkupMNll4vo1s7VTQSnlODqOWKbHbqWaDx1A2Za7Cy9JGInfpOdas9YvbwSWZi2SaY7VcMK3fTM0krATyJYfRqb2R3YFzH75LAULhIwrMlq0H2CxYFm80y8ASpdfVZnIQbs1rfSJ9WL5xmAyVzC66wtVbjzbkt8W6P9o/WyKccR7lar9QuVXkBR9ZQTbdlD+2ggFDxaqnaYFnhqI0YcuZ4Zsc/k81a03/S7MY/ixdfa3afFPf7HkYIVlyb0mSogd6BwQikIMb/x/1XfEPNaY2Ro4JnvUA5UCOyazCgfOeFSwxGTI=;BXmEiSeChIPyBDasTUhwXw=="
 ---

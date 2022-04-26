@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufac
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "Artificial Intelligence Operations Platform Market - Global Industry Share, Size, Growth, Demands, Revenue, Top Leaders and Forecast by 2029"
+    excerpt: "A new business intelligence report released by Data Bridge Market Research with title “Artificial Intelligence"
+    publishedDateTime: 2022-04-26T05:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-operations-platform-market---global-industry-share-size-growth-demands-revenue-top-leaders-and-forecast-by-2029-2022-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
     excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"

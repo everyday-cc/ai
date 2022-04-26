@@ -2,6 +2,102 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-01-31-5-ways-aws-robomaker-is-transforming-the-robot-programming-game.md",
+      "title": "5 ways AWS RoboMaker is transforming the robot programming game",
+      "excerpt": "5: Giving educators a machine learning tool Amazon revealed a new hardware product at AWS re:Invent: DeepRacer. It’s a 1:18 scale race car that uses reinforcement learning to teach it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/",
+      "originalUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/11/amazon-aws-deepracer.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/5-ways-aws-robomaker-is-transforming-the-robot-programming-game/amp/",
+      "publishedDateTime": "2022-01-30T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-30-top-rated-robot-vacuums-to-make-cleaning-a-dream.md",
+      "title": "Top-rated robot vacuums to make cleaning a dream",
+      "excerpt": "Image: Myer. This robot vac from MyGenie has a super affordable price tag, and still boasts a 4.2 star average rating. It can be controlled via your phone or tablet, and features intelligent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857",
+      "originalUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.api.news/v3/images/bin/f8fc75011a0964af1c81d82401f7f44b",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp",
+      "cdnAmpWebUrl": "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp",
+      "publishedDateTime": "2022-01-30T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News.com.au",
+        "domain": "news.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-slow-but-steady-robots-take-to-the-field.md",
       "title": "Slow but steady robots take to the field",
       "excerpt": "Intelligent navigation-based automation is redefining the farmer’s humble tractor to robotic status. This results in significantly ... requires the highest levels of navigational accuracy, control and safety. For farming applications, this typically ...",
@@ -1279,101 +1375,6 @@
       "provider": {
         "name": "CNAS",
         "domain": "cnas.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-anymals-quadrupedal-robot-takes-a-hike.md",
-      "title": "ANYmal’s quadrupedal robot takes a hike",
-      "excerpt": "It’s been pretty astonishing to see what robotics researchers have been able to accomplish with legged robots over the past few years. Oregon State University taking Cassie for a 5K back in July springs to mind.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
-      "originalUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/image.imageformat.fullwidth.1716413789.jpg?w=930",
-          "width": 930,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
-      "publishedDateTime": "2022-01-20T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-growth-alert-robotics-rise-to-70-billion-by-2028.md",
-      "title": "Growth Alert! Robotics Rise to $70 Billion by 2028",
-      "excerpt": "Growth = opportunity. And here’s one: robots. There are currently more than 2.7 million industrial robots and that number is growing by around 400,000 each year!",
-      "sourceUrl": null,
-      "webUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
-      "originalUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://banyanhill.com/wp-content/uploads/2022/01/Industrial-robots-2-BPD-20220120.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
-      "cdnAmpWebUrl": "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
-      "publishedDateTime": "2022-01-20T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Banyan Hill Publishing",
-        "domain": "banyanhill.com",
         "images": null,
         "publishers": null,
         "authors": null

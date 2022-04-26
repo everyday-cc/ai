@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
 type: article
 quality: 63
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Adyen: A FinTech Stalwart Priced To Perfection"
-    excerpt: "Adyen is a leading payment platform. Click here to read about the core business, growth prospects and PT for ADYEY stock."
-    publishedDateTime: 2022-04-21T13:30:00Z
-    webUrl: "https://seekingalpha.com/article/4501844-adyen-fintech-stalwart-priced-to-perfection"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
   - title: "$36B+ AI in FinTech Industry Trends and Opportunities Assessment, 2027 - The Increasing Utilization of Smart Contracts for Financial Processes is Driv"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
     publishedDateTime: 2022-04-25T02:46:00Z

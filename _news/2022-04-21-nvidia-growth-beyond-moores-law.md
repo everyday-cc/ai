@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/957037038/image_957037038.jpg?io=getty-c-w750"

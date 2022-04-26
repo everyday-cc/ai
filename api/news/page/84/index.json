@@ -2,6 +2,513 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-02-10-microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech.md",
+      "title": "Microsoft Keeps Its Finance Head Count Flat With AI, Bots and Other Tech",
+      "excerpt": "Microsoft Corp. employs about 5,000 people in its finance team, a number that has remained largely flat in recent years, even though the company’s operations, profit and market capitalization have grown tremendously. Microsoft had 181,000 employees at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "originalUrl": "https://www.wsj.com/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-482958/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-keeps-its-finance-head-count-flat-with-ai-bots-and-other-tech-11644489001",
+      "publishedDateTime": "2022-02-10T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto.md",
+      "title": "Spinny acquires AI-powered car connectivity solutions startup Scouto",
+      "excerpt": "Pre-owned car retailing platform Spinny on Thursday said it has acquired 100 per cent stake in Ahmedabad-based startup Scouto, a move that marks consolidation in the AI-powered used car solutions space. The company, however, did not disclose the amount it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto",
+      "originalUrl": "https://www.freepressjournal.in/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2021-12/7371e5f2-de13-4702-970f-12c929116c02/Spinny_Logo_withBG.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1198,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/spinny-acquires-ai-powered-car-connectivity-solutions-startup-scouto",
+      "publishedDateTime": "2022-02-10T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsofts-azure.md",
+      "title": "TCS launches Clever Energy, Intelligent Power Plant and TCS Envirozone on Microsoft’s Azure",
+      "excerpt": "The award-winning TCS Clever Energy platform uses IoT, AI, machine learning, and cloud to help organizations ... and TCS Envirozone on Microsoft’s Azure IoT platform. These suites will help organizations gain insights into energy usage and reduce waste ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft’s-azure-122021000595_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft’s-azure-122021000595_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tata-consultancy-services1-1421320501-007300.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft%E2%80%99s-azure-122021000595_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/tcs-launches-clever-energy-intelligent-power-plant-and-tcs-envirozone-on-microsoft%E2%80%99s-azure-122021000595_1.html",
+      "publishedDateTime": "2022-02-09T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs.md",
+      "title": "Government injects £23m to boost UK skills and diversity in AI jobs",
+      "excerpt": "The government has pumped £23m into Artificial Intelligence (AI) and data conversion courses for young and underrepresented groups, as the UK aims to be the industry leader. There will be up to two thousand scholarships for masters AI conversion courses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all",
+      "originalUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2021/09/679721416.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/government-injects-23m-to-boost-uk-skills-and-diversity-in-ai-jobs/?author_month=0&author_year=all&amp=1",
+      "publishedDateTime": "2022-02-09T22:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-kobold-metals-raises-1925-million-to-use-ai-to-find-battery-minerals.md",
+      "title": "KoBold Metals Raises $192.5 Million to Use AI to Find Battery Minerals",
+      "excerpt": "ADELAIDE, Australia—KoBold Metals, a startup backed by Bill Gates’s Breakthrough Energy Ventures that aims to use artificial intelligence to find metals needed for the electric-vehicle boom, raised $192.5 million in its latest financing round ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "originalUrl": "https://www.wsj.com/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-483374/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kobold-metals-raises-192-5-million-to-use-ai-to-find-battery-minerals-11644472801",
+      "publishedDateTime": "2022-02-09T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-joint-robotics-autonomous-systems-and-artificial-intelligence-ras-ai-demonstration.md",
+      "title": "Joint Robotics, Autonomous Systems, and Artificial Intelligence (RAS-AI) Demonstration",
+      "excerpt": "‘Robotics, Autonomous Systems and Artificial Intelligence’ was recently added to the Sovereign Industrial Capability Priorities list and the RAS-AI consortium is proud to be a part of the journey to delivering the best capability to our warfighter",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/joint-robotics-autonomous-systems-artificial-intelligence-",
+      "originalUrl": "https://www.linkedin.com/pulse/joint-robotics-autonomous-systems-artificial-intelligence-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGA2w2xa0Dqiw/article-cover_image-shrink_720_1280/0/1644469170228?e=1650499200&v=beta&t=nz5RLteTBzY34hdOOQ7_fWq4IfkBd_47qdvGmr3LuaA",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T22:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-ibm-flash-storage-line-gets-ransomware-protection.md",
+      "title": "IBM flash storage line gets ransomware protection",
+      "excerpt": "In keeping with its vendor-neutral strategy, IBM designed Cyber Vault to be used with any storage that works with by its Spectrum Virtualize software. It enables rapid deployment of block storage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/cloud/learn/block-storage",
+      "originalUrl": "https://siliconangle.com/2022/02/08/ibm-flash-storage-line-gets-ransomware-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1.cms.s81c.com/sites/default/files/styles/ibm_cloud_wide_background/public/2019-12-12/003_1.jpg?itok=75eiZEG1",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T20:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-all-symbols-in-tensorflow-datasets.md",
+      "title": "All symbols in TensorFlow Datasets",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es",
+      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols?hl=es",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=es",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-kids-dont-try-this-at-home-robot-destroys-mankind.md",
+      "title": "Kids! Don’t Try This At Home! Robot Destroys Mankind",
+      "excerpt": "Keep in mind, I’m interpreting their comments as saying (essentially): “Soon machines will think and then they will out-think us and be impossible to control.” It is easy to imagine ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/06/01/kids-dont-try-this-at-home-robot-destroys-mankind/",
+      "originalUrl": "https://hackaday.com/2016/06/01/kids-dont-try-this-at-home-robot-destroys-mankind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/06/robots.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-making-collaborative-robots-user-friendly.md",
+      "title": "Making Collaborative Robots User Friendly",
+      "excerpt": "Collaborative robots are designed to work closely with human co-workers. They can do the mind-numbing repetitive tasks or do tasks like grinding and welding that are dangerous for humans. They can also be used to lift heavy objects. Yet the safety of these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/making-collaborative-robots-user-friendly",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/making-collaborative-robots-user-friendly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Universal%20Robots.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-microsoft-has-plans-to-make-autonomous-cars-intelligent.md",
+      "title": "Microsoft Has Plans to Make Autonomous Cars Intelligent",
+      "excerpt": "as well as the Microsoft Cognitive Services API. Seven talked about how Microsoft's Cognitive Services API already includes an Emotion API capable of understanding the emotions of someone's face, including anger, contempt, disgust, fear, happiness ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/microsoft-has-plans-make-autonomous-cars-intelligent",
+      "originalUrl": "https://www.designnews.com/microsoft-has-plans-make-autonomous-cars-intelligent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Microsoft_connected-car-image.png",
+          "width": 1188,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-idme-to-end-facial-recognition-requirement-for-government-agencies.md",
       "title": "ID.me to end facial recognition requirement for government agencies",
       "excerpt": "Feb. 9 (UPI) --Identity verification company ID.me said it will no longer require facial recognition for its services amid accuracy and privacy concerns. The private contractor, which provides identity verification services to 30 states and 10 federal ...",
@@ -643,532 +1150,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-autox-hits-1000-vehicles-milestone-for-its-robo-taxi-fleet-in-china.md",
-      "title": "AutoX hits 1,000 vehicles milestone for its Robo Taxi fleet in China",
-      "excerpt": "In a press statement, the company also states that it has also opened a new Robo Taxi operations center in San Francisco in the United States, to expand self-driving vehicle testing ... vehicle industry leaders like Baidu, Waymo which are both yet to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
-      "originalUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/auto-x.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
-      "publishedDateTime": "2022-02-09T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition.md",
-      "title": "Extract entities from insurance documents using Amazon Comprehend named entity recognition",
-      "excerpt": "Intelligent document processing (IDP) is a common use case for customers on AWS. You can utilize&nbsp;Amazon Comprehend&nbsp;and&nbsp;Amazon Textract&nbsp;for a variety of use cases ranging from document extraction, data classification, and entity extraction. One specific industry that uses IDP is insurance.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/04/Screen-Shot-2022-02-04-at-1.49.29-PM.png",
-          "width": 1079,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T09:30:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-lawmakers-warn-clearview-ai-could-end-public-anonymity-if-feds-dont-ditch-it.md",
-      "title": "Lawmakers Warn Clearview AI Could End Public Anonymity if Feds Don't Ditch It",
-      "excerpt": "or simply appear in public without being identified,” the lawmakers wrote. Clearview AI’s partnerships with government agencies are of particular concern, the authors argued, because a public ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/lawmakers-warn-clearview-ai-could-end-public-anonymity-if-feds-dont-ditch-it/ar-AATEKdn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1d0d9a38a8a76273eea71dddc6c24b0a.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135/amp",
-      "publishedDateTime": "2022-02-09T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135",
-        "domain": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-health-bulletin-for-feb-10-17-dementia-infants-and-toddlers-and-health-and-wellness.md",
-      "title": "Health Bulletin for Feb. 10-17 – Dementia, infants and toddlers and health and wellness",
-      "excerpt": "Low Impact Aerobics – An ongoing class for seniors. Mondays at 10:30 a.m. and Thursdays at 10 a.m., Zion Lutheran Church, 8304 E. Buckeye Ave., Spokane Valley. Free. (509) 926-5407. Smart Driver ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/",
-      "originalUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.spokesman.com/tu8tlF_QKzAj2M-nQcC701-x4o8=/480x0/media.spokesman.com/photos/2022/02/08/6202dc5900ddb.hires.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/?amp-content=amp",
-      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/?amp-content=amp",
-      "publishedDateTime": "2022-02-09T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spokesman-Review",
-        "domain": "spokesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-sonys-ai-drives-a-race-car-like-a-champ.md",
-      "title": "Sony's AI Drives a Race Car Like a Champ",
-      "excerpt": "For instance, Waymo, the self-driving car company owned by Alphabet, says its vehicles have traveled the equivalent of 20 million miles in simulations. Search our artificial intelligence database and discover stories by sector, tech, company, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
-      "originalUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6202f033c14aa6d334a5d859/master/pass/Business_Gran%20Turismo-1344602439.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp",
-      "publishedDateTime": "2022-02-09T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-irs-will-transition-away-from-facial-recognition-after-wave-of-criticism.md",
-      "title": "IRS will transition away from facial recognition after wave of criticism",
-      "excerpt": "A hot potato: Privacy advocates have managed to convince lawmakers that the IRS shouldn’t use a facial recognition system such as ID.me due to concerns about privacy, identity protections, and unequal access to reliable broadband in the US. Other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "originalUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-09-image-15.jpg",
-          "width": 3800,
-          "height": 2533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
-      "publishedDateTime": "2022-02-09T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-ibm-launches-watson-backed-virtual-assistant-for-td-securities.md",
-      "title": "IBM launches Watson-backed virtual assistant for TD Securities",
-      "excerpt": "IBM unveiled a new AI-based virtual assistant powered by IBM Watson Assistant that is designed to help customers answer crucial questions. The first company to take advantage of the tool is TD Securities, which will use the virtual agent system for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-backed-ai-virtual-assistant-for-td-securities/",
-      "publishedDateTime": "2022-02-09T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform.md",
-      "title": "Scopio secures $50M in series C funding to develop telehematology imaging and AI analysis platform",
-      "excerpt": "The very common Peripheral Blood Smear review, used time and again for diagnostics, is typically conducted by a human analyzing the sample on a glass slide under a microscope and checking cell ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/02/scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform/",
-      "originalUrl": "https://medcitynews.com/2022/02/scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2022/02/for-pbs-pr.png",
-          "width": 1366,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-the-bull-thesis-for-c3ai-is-more-artificial-than-intelligent.md",
-      "title": "The Bull Thesis for C3.ai Is More Artificial Than Intelligent",
-      "excerpt": "At least two big-bank analysts are not particularly optimistic. First, Bank of America Global Research analyst Brad Sills downgraded his rating on AI stock from “neutral” to “underperform,” which is similar to a “sell” rating. Sills also cut ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/417551",
-      "originalUrl": "https://www.entrepreneur.com/article/417551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
-          "width": 675,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms.md",
-      "title": "Palo Alto Networks Adds Deep Learning Algorithms to Security Platforms",
-      "excerpt": "Code-named Nebula, version 10.2 of PAN-OS added deep learning algorithms that Palo Alto Networks can apply to, for example, instantly identifying zero-day threats or malware that is using specific techniques to evade legacy cybersecurity platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/",
-      "originalUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securityboulevard.com/wp-content/uploads/2020/09/securitytraining.jpg",
-          "width": 768,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/amp/",
-      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/02/palo-alto-networks-adds-deep-learning-algorithms-to-security-platforms/amp/",
-      "publishedDateTime": "2022-02-09T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "securityboulevard.com",
-        "domain": "securityboulevard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-securethingsai-raises-35-million-in-pre-series-a.md",
-      "title": "SecureThings.ai Raises $3.5 Million In Pre-Series A",
-      "excerpt": "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/417696",
-      "originalUrl": "https://www.entrepreneur.com/article/417696",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1644413079-MyPost7.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

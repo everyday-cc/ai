@@ -97,7 +97,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -261,6 +261,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-the-power-of-natural-language-processing.md",
+      "title": "The Power of Natural Language Processing",
+      "excerpt": "Until recently, the conventional wisdom was that while AI was better than humans at data-driven decision making tasks, it was still inferior to humans for cognitive and creative ones. But in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
+      "originalUrl": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2022/04/Apr22_19_722235443.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1334,40 +1378,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-natural-language-processing-market-to-reach-3415-bn-globally-by-2030-at-409-cagr-allied-market-research.md",
-      "title": "Natural Language Processing Market to Reach $341.5 Bn, Globally, by 2030 at 40.9% CAGR: Allied Market Research",
-      "excerpt": "Allied Market Research recently published a report, titled, \"Natural Language Processing (NLP) Market by Component (Solution, Services),",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-to-reach-341-5-bn-globally-by-2030-at-40-9-cagr-allied-market-research-860098289.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-to-reach-341-5-bn-globally-by-2030-at-40-9-cagr-allied-market-research-860098289.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

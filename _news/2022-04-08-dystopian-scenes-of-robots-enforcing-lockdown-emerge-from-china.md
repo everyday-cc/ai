@@ -3,8 +3,8 @@ category: news
 title: "Dystopian scenes of robots enforcing lockdown emerge from China"
 excerpt: "Recently, a Twitter user @JayinShanghai posted a similar video of robot dogs ... by any great mind of science fiction writers,’ said another. ‘Being told to control my soul’s desire ..."
 publishedDateTime: 2022-04-08T07:48:00Z
-originalUrl: "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/"
-webUrl: "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/"
+originalUrl: "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/?ico=tag-post-strip_item_4_news"
+webUrl: "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/?ico=tag-post-strip_item_4_news"
 ampWebUrl: "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/amp/"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "vQF0K36EvZeCSicYQeoQlwYmn491EJLRWoKZZ5CYQZa3ktAz/asUqhnzPzy1vuxcZ122IELyEK8S7qwh0/njbdwT5zxJbjKH/aD0s+0Kd+k5LdYTOlCfyaa+jns0kh9ME1plQN+AgHDWPlwGKhPTY80ZB+dLBZtrtoEgIfrO5XuZVzqE3QKC3fuaCKs6LziJN9kybBdEiJPiu0ShBjBihFsLinA+UASaej1zF1uW9DOy7aw3hfTde9RxCFM7HA8muTyngYe8LyVKbAbAld/H8KtlPhjAma81jVUOnxn5GC9m4Z5yBW+ZYweDhJg9yCr1vgp2wC4TRy197zPsJQA+HdfpHJFmH4fdDTeAlgMOOes=;2Lnsv2enSWDo9NO2yAHgpg=="
+secured: "TontVqnsdwcmuLU/vVAUp5VgOATKhmN8fF1ZaMEZBYE4fuIBnWYRlulNQweOkpfszKLCEra0rJrgvyRPMa7YvBSDCScHwIfC8OzR1yZsw0cRM1C2RyMZQqeIkpEoI0Dvrhr9PdF/a3XYJf7Uyq1HbLJLGcoDvvomObYqlk2Q0QdhdYDf5Aj8dxdYK4ag32FZWSD7OyL6kOX46b1ByTuiq+HQFoQFX2AOWv48ph5k64MyNLgcG8YKNjsn01DBAxFJ0PWYEQw7FvvKDSeMLTzV8/nolKYtqZzIx3QZsATQlH3CXflYCwt1FPJh7nSLDTM4979P62Yu6Xci3EUi6l2lGzsANdzyHkwYQ/uZ6SLtrrs=;PjvGDQwGaqbokBnx04Ewng=="
 ---
 

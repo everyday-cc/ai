@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-micr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Kraft Heinz enlists Microsoft for cloud migration and digital twin development"
-    excerpt: "Kraft Heinz has entered the next phase of its digital transformation strategy that aims to improve its supply chain operations."
-    publishedDateTime: 2022-04-21T13:34:00Z
-    webUrl: "https://www.zdnet.com/article/kraft-heinz-enlists-microsoft-for-cloud-migration-and-digital-twin-development/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
   - title: "SAS and Microsoft Drive Toward Health Care Interoperability"
     excerpt: "Global analytics leader SAS and Microsoft are working together to build deep technology integrations, making advanced health analytics more accessible to health care and life science organizations. The collaboration boosts health care interoperability by enabling the use of Fast Healthcare Interoperability Resources (FHIR®) standards and through integration from Azure Health Data Services to SAS® Health on Azure."
     publishedDateTime: 2022-04-21T17:02:00Z

@@ -108,7 +108,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -234,17 +234,17 @@
       "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
       "excerpt": "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research.",
       "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "originalUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "webUrl": "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "originalUrl": "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/fox8.com/wp-content/uploads/sites/12/2022/04/GettyImages-1240191325.jpg?w=2000&#038;ssl=1",
-          "width": 594,
-          "height": 396,
+          "url": "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2015/12/Story_3207135_ver1.0.jpg?w=2000&#038;ssl=1",
+          "width": 690,
+          "height": 460,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -254,11 +254,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:30:00-07:00",
+      "publishedDateTime": "2022-04-19T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
+        "name": "WTVO",
+        "domain": "mystateline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -293,6 +293,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-k-health-review-is-it-legit.md",
+      "title": "K Health Review: Is It Legit?",
+      "excerpt": "K Health is a health service that uses artificial intelligence (AI ... or you could sign up for their therapy services. K Therapy is a monthly subscription that offers 24/7 access to self-guided ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health/khealth-reviews",
+      "originalUrl": "https://www.healthline.com/health/khealth-reviews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2022/03/telehealth-1200x628-facebook-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -995,40 +1038,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-3-best-artificial-intelligence-stocks-to-buy-in-april.md",
-      "title": "3 Best Artificial Intelligence Stocks to Buy in April",
-      "excerpt": "J ust about everyone knows artificial intelligence (AI) is taking hold in many parts of our lives. What most people are referring to when they say AI is actually machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april",
-      "originalUrl": "https://www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april?amp",
-      "publishedDateTime": "2022-04-08T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

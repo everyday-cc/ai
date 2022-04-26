@@ -2,6 +2,241 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-19-tensorflow-decision-forests-tutorials.md",
+      "title": "TensorFlow Decision Forests tutorials",
+      "excerpt": "The following notebooks are available: Beginner Colab: Learn about the basic about model training, evaluation and exportation. Intermediate Colab: How to consume text and combine decision forest with neural networks. Advanced Colab: How to inspect and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/decision_forests/tutorials",
+      "originalUrl": "https://www.tensorflow.org/decision_forests/tutorials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-the-power-of-natural-language-processing.md",
+      "title": "The Power of Natural Language Processing",
+      "excerpt": "Until recently, the conventional wisdom was that while AI was better than humans at data-driven decision making tasks, it was still inferior to humans for cognitive and creative ones. But in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
+      "originalUrl": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2022/04/Apr22_19_722235443.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-recycling-robotics-firm-glacier-emerges-from-stealth-with-45m.md",
+      "title": "Recycling robotics firm Glacier emerges from stealth with $4.5M",
+      "excerpt": "Glacier Robotics emerges from stealth with $4.5M; funding will go toward increasing headcount and accelerating the system’s commercial deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/",
+      "originalUrl": "https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston.md",
+      "title": "Dean Kamen is coming to TC Sessions: Robotics July 22 in Boston",
+      "excerpt": "We’re still building out the event agenda, but you can bet the day’s programming will cover a wide range of crucial issues focused on robotics and the AI that ... Buy your Startup Demo Package ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/",
+      "originalUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Dean_Kamen_1200x628.png?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/",
+      "publishedDateTime": "2022-04-19T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-the-helm.md",
+      "title": "Amazon to conduct racial-equity audit with Loretta Lynch at the helm",
+      "excerpt": "One proposal also seeks an independent study of the company’s proprietary facial recognition software, Rekognition. TheGrio is FREE on your TV via Apple TV, Amazon Fire, Roku, and Android TV.",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2022/04/19/amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-helm/",
+      "originalUrl": "https://thegrio.com/2022/04/19/amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-helm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2022/02/pjimage-2022-02-16T183739.283.jpg",
+          "width": 704,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-ai-may-help-spot-relapse-risk-in-alcoholics.md",
       "title": "AI may help spot relapse risk in alcoholics",
       "excerpt": "Artificial intelligence (AI) may be able to identify alcoholics at risk of relapsing after treatment, researchers say.",
@@ -92,6 +327,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator.md",
+      "title": "Hayden AI Accepted into AWS GovTechStart, Amazon Web Services (AWS) Government Technology Accelerator",
+      "excerpt": "AWS Promotional Credit, and more. Hayden AI is bridging the innovation gap in transportation management by combining artificial intelligence with mobile sensors that have the ability to see and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26689258/hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26689258/hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26689258",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26689258",
+      "publishedDateTime": "2022-04-19T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -204,6 +482,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
+      "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
+      "excerpt": "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "originalUrl": "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2015/12/Story_3207135_ver1.0.jpg?w=2000&#038;ssl=1",
+          "width": 690,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVO",
+        "domain": "mystateline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-the-great-recognition-achievers-report-reveals-recognition-reduces-turnover.md",
       "title": "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover",
       "excerpt": "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,",
@@ -294,49 +615,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
-      "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
-      "excerpt": "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research.",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "originalUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/fox8.com/wp-content/uploads/sites/12/2022/04/GettyImages-1240191325.jpg?w=2000&#038;ssl=1",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -827,288 +1105,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-ibm-ceo-says-ais-transformation-of-business-will-take-another-decade.md",
-      "title": "IBM CEO Says AI’s Transformation of Business Will Take Another Decade",
-      "excerpt": "We have got to understand the life science of AI. Otherwise we are going to create a monster,” says IBM Chief Executive Arvind Krisha.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibm-ceo-says-ais-transformation-of-business-will-take-another-decade-11650360601",
-      "originalUrl": "https://www.wsj.com/articles/ibm-ceo-says-ais-transformation-of-business-will-take-another-decade-11650360601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-526711/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-ceo-says-ais-transformation-of-business-will-take-another-decade-11650360601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-ceo-says-ais-transformation-of-business-will-take-another-decade-11650360601",
-      "publishedDateTime": "2022-04-19T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-global-automated-guided-vehicle-market-to-reach-27-billion-by-2026.md",
-      "title": "Global Automated Guided Vehicle Market to Reach $2.7 Billion by 2026",
-      "excerpt": "Automated Guided Vehicles or Automatic Guided Vehicles (AGVs) are computer controlled, wheel-based and driverless vehicles ... embedded artificial intelligence that helps learn and take autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/global-automated-guided-vehicle-market-to-reach-2-7-billion-by-2026/article_751ae8db-79ca-55e5-9929-020e13656bf5.html",
-      "originalUrl": "https://www.victoriaadvocate.com/global-automated-guided-vehicle-market-to-reach-2-7-billion-by-2026/article_751ae8db-79ca-55e5-9929-020e13656bf5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/1/e6/1e691430-2508-509c-bc8a-51d855c1f2f8/625d6b6decec1.image.jpg?crop=1536%2C806%2C0%2C109&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-using-ai-to-help-san-antonio-radiologists-reduce-x-ray-reading-errors.md",
-      "title": "Using AI to help San Antonio radiologists reduce X-ray reading errors",
-      "excerpt": "AI is what you rely on when you’re using ... It fuels Netflix movie recommendations, language translation apps, Facebook Messenger and online chatbots. “Deep learning” is a more complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php",
-      "originalUrl": "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/25/20/21/22348879/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay.md",
-      "title": "China’s work automation startup Laiye raises $160M, acquires France’s Mindsay",
-      "excerpt": "An ambitious Chinese startup wants a slice of the flourishing global work automation market. Laiye, a Beijing-based company that provides a one-stop platform for automating office tasks of varying degrees of complexity,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/",
-      "originalUrl": "https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/laiye-2.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/amp/",
-      "publishedDateTime": "2022-04-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report.md",
-      "title": "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report",
-      "excerpt": "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine.",
-      "sourceUrl": null,
-      "webUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/",
-      "originalUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox2now.com/wp-content/uploads/sites/14/2022/04/UkraineTanksAP22091745245082.jpg?w=1280",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/",
-      "cdnAmpWebUrl": "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/",
-      "publishedDateTime": "2022-04-18T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox2Now St. Louis",
-        "domain": "fox2now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis.md",
-      "title": "Instreamatic launches voice AI for real-time customer sentiment analysis",
-      "excerpt": "Using Instreamatic's voice AI, Speaky analyzes in real time the ideas, advice and suggestions that customers communicate verbally.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/",
-      "originalUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1283399887-e1650300137284.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/",
-      "publishedDateTime": "2022-04-18T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

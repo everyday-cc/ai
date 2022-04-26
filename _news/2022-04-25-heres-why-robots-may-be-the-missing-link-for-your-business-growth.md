@@ -39,20 +39,6 @@ related:
         width: 640
         height: 389
         isCached: true
-  - title: "Deploying AI in Your Business? Don't Forget This Department"
-    excerpt: "AI can supercharge the compliance process. Many companies believe more is better when it comes to due diligence. But trying to track every news article, social media post or regulatory update concerning every customer or partner leaves many compliance professionals drowning in data,"
-    publishedDateTime: 2022-04-21T21:33:00Z
-    webUrl: "https://www.chron.com/business/article/Deploying-AI-in-Your-Business-Don-t-Forget-This-17117186.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/32/57/22391767/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "e//60uf16mYeBDDh5LZG1TfVbakrWLckFiwtoKTq0F302G/bvt86K2POU5iGwee3/CxUS6XqF4vvOTcQ7IScTTpycbkb9mG1f6e2RT050Kk0hSK757Qpi8auolyw2hq7iHk4JibNwjSiIYZvurdXS+Xk7dWJ+NI2vqJrdcP9aLNcJw7Xgc5WcgfBOfkREhhz3w6+rhDW0s+q6nLl5RPW5M+8Xk/yvk1Rc+iO0Z9goDzdz9IDfuG+/sUMNXdqnXDQKZcEo3UC0uxpfO6MABJCmHeLILOyudG19P2jm1Rw60CuSXBBv5AT/TwHXT09b7t1MJ8gz+G/anXIcO+CjpqM5VSg7q+iMF4B1q/Uk6NOfrI=;kUmanNHWmLYEnGrK34BwjQ=="
 ---

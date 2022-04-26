@@ -84,15 +84,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Accessing the AI Revolution"
-    excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
-    publishedDateTime: 2022-04-21T13:41:00Z
-    webUrl: "https://www.pharmaceuticalcommerce.com/view/accessing-the-ai-revolution"
-    type: article
-    provider:
-      name: pharmaceuticalcommerce
-      domain: pharmaceuticalcommerce.com
-    quality: 17
 
 secured: "qDxDDMebFOPJLl4cjKIbRn29foib2af4BqsbA2KLV+YcptKSo+mKrFzMWJpthBGm2BnAl86riW2iuQHxMWshPaUgi2UToGLgxjQ7ipY4XgdtaQGetSGuMJfqdBTUdDgNJcs0ki9d6vEiTqPKZmnnb3S71+E+nZkN/c2Q5LAFXCRiHUOqas3zSKYBt1HigrU4OQsPl+ts/xjXSXCySgTUVtEvGJ+tjvrMsvLZ+wNkO5zt8hgJx/TBIcs1WY4iGLsnIf/RR8u3lc6xudnNHTjYyu8Gp76RHnYw8C+mIMFlUR/Oz4gYBEMKDwKPYRXnol3c0UX9C2r7ECaN6hn7rU4i/QvoyojxJLMSzedU8gyuLGg=;JniZUSCkyVHzl9vVbW661Q=="
 ---
