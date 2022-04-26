@@ -3,20 +3,17 @@ category: news
 title: "Intentsify Appoints New CFO, VP of Artificial Intelligence"
 excerpt: "Intentsify, the leading Intelligence Activation Platform and Demand Activation Programs provider, today announced another significant expansion of its executive team, as well as its second consecutive year of sponsorship of the Forrester B2B Summit taking place May 2nd to 4th,"
 publishedDateTime: 2022-04-26T15:13:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-intentsify-appoints-new-cfo-vp-of-artificial-intelligence"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-intentsify-appoints-new-cfo-vp-of-artificial-intelligence"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-964c44f07dd649a1b2dc63e50afa9f8b"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-964c44f07dd649a1b2dc63e50afa9f8b"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "U76JYTku54wicgxPtorLIXJON1p9o8OPQBLOzpnj1rKO/dClYEuK7qH1cfMPXoseb1pDXp0WbschD0Dvj/AIVpUIF3+fIDF7xqm4ityRBo+5cAYwUalmkL0LUj9VcNO4op47H9A38gKAb27hsf7NyQB0CQmqPpdd4XnTNjLMPOwTMKkvq/1iPtMk80rNBQDAAWqC1Fg6NTGhe0gR6KYg1qLmL1D9jcIYDORsG+377/y8N2Bio1pZDMsCK4Aq+r9mxZ9GXgWvmYId6FVlm7oPyx5z+ueL2sia5dTo5uhfLyzgZ4iTRMHrYgsgOV5KoFyWGNh3IcBvd5EPsAJysMtOnD7EaeaLtsH7q8KZBZ/NFts=;aJ98d26YZGfybjsqFX0TFA=="
+secured: "rORhiJPp8IQewM9VUS3QkBybCppgYK3IYEe1JIIHN1FlZeZu53FjMebIPT3v+EYooo7/dLCN6tHkoNv2EO2lqVFwHo0MH7HvWLUc2c28NptbOIkiV/5XDWQEsCIg/7aP3evlHwaSvDQtBNRemjqgLBdtZ0gGzkUkM0DlECOt6sQK9B0gpsS8NkbFIBIZHViPb9u9cwQW+boIp9/2HIVsHQdaU8tj4oZqi+/s7kKXAMooFjajyYfhthGnwKO9TMMieBewsKQBjLFzv3Y0RSlbmyyumOkTKwrV3kRb8Lmo5afZ1HswwTjTbwrJeFOc2MKJVmdQ39YTI7F/cUVEqpfFtEOxwxS/Y6DcpnKBWhhVRaM=;vnY7RQ/V63whBW46OAqaXQ=="
 ---
 

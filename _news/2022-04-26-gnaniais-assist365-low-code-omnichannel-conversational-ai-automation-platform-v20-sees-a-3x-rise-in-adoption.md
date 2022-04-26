@@ -1,28 +1,19 @@
 ---
 category: news
-title: "Gnani.ai’s assist365™ Low-code Omnichannel Conversational AI Automation Platform V2.0 sees a 3x Rise in Adoption"
-excerpt: "Gnani.ai, a global frontrunner in Conversational AI and customer service automation today announced a 3x rise in uptake for the new version of the assist365™ low-code omnichannel automation platform."
+title: "Gnani.ai's assist365™ Low-code Omnichannel Conversational AI Automation Platform V2.0 sees a 3x Rise in Adoption"
+excerpt: "Offers fast-track automation across 20+ channels in voice and chat with 360-degree Customer Engagement Gnani.ai, a global frontrunner in Conversational AI and customer service automation today announc"
 publishedDateTime: 2022-04-26T15:18:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_62f24ae2-b050-59be-9246-b254ab320860.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_62f24ae2-b050-59be-9246-b254ab320860.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26817577/gnani-ais-assist365-low-code-omnichannel-conversational-ai-automation-platform-v2-0-sees-a-3x-rise"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/b26817577/gnani-ais-assist365-low-code-omnichannel-conversational-ai-automation-platform-v2-0-sees-a-3x-rise"
 type: article
-quality: 16
-heat: 16
-published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
-secured: "vTCVa7s3mrmDfd5razIoCYRpeDw6OviIPkrqhWY55PwkL4086JnOegtqHLeTRTflShpcLEkQLGjFJJh6umvB6wDz6xgQ/ef1qfGf9E9mYwcl86o0Ym5bYkyRz88uJPvZbwHhQDGw+GTTlT/xvaDgI4Li/6y7oXs6Js0VHYVfWOWCINvYfjdJ2ZVnG4USIJ6FCE1meLOXQV81nyzkAPn52I9zmGrv7bWQ41T2u+fzdP4jy19UNejizOHpEV6h1C51K3fth9Mjl7E81X3GI05DNd4XuD522XodW9Vmy/NS5DB212S6viI7BHRyE7VINDIZW6zwlCnb86bXUAKniFjBMtveDqrFEKXQFGdnarnKrvg=;ezQh0cq76gPXx8OLBlbc2A=="
+secured: "LZgc17vnShLBgWXmQxclYIV2N6/K+gPS+AI4Tvvbjb4YxtMvIHW496SzB9czeTumGf8LZQYUtMjA4S4Ibm1UbLvgP9tuRFxO5Bed8//9ZcQUbvlnPXhuJYgcb0lnvoNVAYBq/lDV0XkQ+zqglvoaACdIN/QEPtFSrW9VDSxewnlEl4N/fD4JyjEYDV54VP9zold1y+tTi/5qHGRSShDV5uVjvHOqJ/5qqI1RWOQ2RNgWvbYgTUXO87X5o5N6xUfL5/uvoM+NhcznY6JiLjvtrJmmIkqxEljPqjbfw2gtpsdQDPVS3QGfPeF0T9YUWNJPklWFFbJ3hdxu4kEAunFERGAH+wW/kMUktQ9xz1mc11ZVOUpuRKkMD/APYHOJ/M6asuwX+zyc2GnZKZm9rABr9Y1A9Z84RochMCx1IV8uTUlo+1Ez/NC9dWizKBGdgq5o0yMEZ8pTB2XLsaZaWYNJCMQpm73eYL0ggU4X61IHKSwq4ukdTlmRlx9rUACScDPTgEQdrnn08jhwqqmUfXxpZw==;VOFANaZ74ZDMc7Bzqe3EsA=="
 ---
 
