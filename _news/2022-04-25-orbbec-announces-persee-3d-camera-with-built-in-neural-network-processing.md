@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Orbbec Announces Persee+ 3D Camera With Built-In Neural Network Processing"
-excerpt: "World's First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning. TROY,"
-publishedDateTime: 2022-04-25T13:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588595.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588595.htm"
+excerpt: "World’s First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning. TRO"
+publishedDateTime: 2022-04-25T13:14:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-40ccfbb4ae2b6864e7b327d36ba0ed72"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-40ccfbb4ae2b6864e7b327d36ba0ed72"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1802685/Orbbec_Logo_Logo.jpg"
-    width: 400
-    height: 218
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 887
         isCached: true
 
-secured: "cyLSIJr4KLsQL8+xymv2Lpcvo+dOOHR9tym5xR/KAzXccib/VGQ+E07j+Eh7t81CKwPLNjs7iTvbpRLUc4PglB269XgLUZCQGuZIPXtHYCAue3fw3szuttOfUyQ6GscnsILKS40/U/lxFRhM87mR4IpncuoiVbWCcaWZ27WRCjIu9mO5l/m/EOi0OnGmxvZTibmdFPVnFx1BiHYsi3VvuE7bOPWaDVPg4S2MewARWAbLSm9fZhVnOEyqc7XwA8NiSidrp+JhrXYY8m1LO4q2YJi/0k6Gu7otycPbvSdPgF1t2DCfivwSDQFaTnH0hdYt145+tFckWn/AY43LPS+bxoVdZn0DXBJ8cVR+4ua8R48pHjJ/U1hCI4AFJdq27JLXJS6GY6clzCF260w4NqZjoFueCHYeHdV4d6Rfovw8lunRz28GKIvAoYVWVwlrUDPM4zQU7UOnzCGziGUIW7vZFokbA/B1kSsykE+xMm+SWMgsDJjB2EIiivF0uwK0qFwyCC5kI7+FHs3A7rMDFAesLQ==;6xJkk/khVXULzyjLp2/GMA=="
+secured: "H1wpXtZxeGMhlzaSR+xYYcCi5ZJbiqY4nlBZrAuRwios+w6O/rFaDCDMP3i2A7AZ541mrhpJAN737ufpXxbroB7SXqysuJ99ofofvQaIevRNQkM03yNUp/5wfmb8L0ZuIT2p+UWMbP1C7f0x/QdH9K7R122OXp43kL/VGebgNtScY62YxbricoVjqy0m9urVlmpXSE+VBD2nZbX0f0O/UtsovpLNLfiymvI0FLjM77cYmICEHJBUoRQqtf1skHu6/28akwavw/fnDXrIvjsJRAhyTd3uxS9QGdREDQTEzWCkF85PP4fgPeJChrc5rsCHAo/oCYOI62xnjYLHHxbQXGgot4bNCKrNXUdiNRHj35M=;4gg9o3WbL4a+v9/EOFFleg=="
 ---
 

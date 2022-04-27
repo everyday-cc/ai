@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T18:09:00Z
 originalUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/the-key-to-lowering-colonoscopy-screening-cost-could-be-ai-study-says.html"
 webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/the-key-to-lowering-colonoscopy-screening-cost-could-be-ai-study-says.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Becker's ASC

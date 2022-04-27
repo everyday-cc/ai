@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T19:06:00Z
 originalUrl: "https://www.cio.com/article/309460/lay-the-groundwork-for-ai-success-know-your-ai-infrastructure-options.html"
 webUrl: "https://www.cio.com/article/309460/lay-the-groundwork-for-ai-success-know-your-ai-infrastructure-options.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CIO

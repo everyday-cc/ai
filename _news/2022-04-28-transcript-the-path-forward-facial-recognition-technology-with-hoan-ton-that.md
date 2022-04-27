@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T17:19:00Z
 originalUrl: "https://www.washingtonpost.com/washington-post-live/2022/04/27/transcript-path-forward-facial-recognition-technology-with-hoan-ton-that/"
 webUrl: "https://www.washingtonpost.com/washington-post-live/2022/04/27/transcript-path-forward-facial-recognition-technology-with-hoan-ton-that/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Washington Post

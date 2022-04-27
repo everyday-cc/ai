@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T19:07:00Z
 originalUrl: "https://venturebeat.com/2022/04/27/report-motive-ai-dashcam-detects-unsafe-driving-89-of-the-time/"
 webUrl: "https://venturebeat.com/2022/04/27/report-motive-ai-dashcam-detects-unsafe-driving-89-of-the-time/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

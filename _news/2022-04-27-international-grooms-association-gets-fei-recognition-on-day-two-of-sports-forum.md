@@ -7,7 +7,7 @@ originalUrl: "https://www.insidethegames.biz/articles/1122369/fei-sports-forum-d
 webUrl: "https://www.insidethegames.biz/articles/1122369/fei-sports-forum-day-two"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1600
     height: 1067
     isCached: true
+
+related:
+  - title: "Clearview CEO argues for facial recognition regulation and education in live interview"
+    excerpt: "To ensure ethical deployment, Clearview encourages customers to establish facial recognition policies, including oversight mechanisms and audit trails."
+    publishedDateTime: 2022-04-27T19:28:00Z
+    webUrl: "https://www.biometricupdate.com/202204/clearview-ceo-argues-for-facial-recognition-regulation-and-education-in-live-interview"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
 
 secured: "vxPrIJVlwuensEcnkePozUBPFhYLFhhORHC+HcnjTTtQYP80LfFPKG+f/NREsn4Lx+ybTwqW8B2Cy4WS0edIe1I83dTHLI1Ne82c3Ot8rz1+omO9TdiaVlLaaDnVDDk5ryvJZtz1vnyMo2vnMtuxf0lY98V+GtMW4HyZ649XSV/uN2BheaD61RNfGneUYQ0X1T7GBWgMR1HYdtScXw+IbmfzQJjIbzjuhLf/Ee/5Vu6svOjzyErVb7mGqTiLhSTsue1eVkzL6mL5M3/yqJQtlSqHQa+VsQK/Q7YqwPZk8z2tKEWxCDvuT558kTrv5WESNxCMRTYrnG3x8cgbfqRb9DaMDWugoEi9Jesm66dTilI6kt1hgkOBEnYrl/+QhUrbePRe3mhv/8Vl5QXDyuxyVXJSTs6ovzh3VuYEusRCVmceqzpeobxWkAxs7kw9OV87JLMk0+vTRXyLS9qdUtNcY/gOMATyYN6WsaLWGpZ7TOS4BwzfPrqUwxjNVVh3EEjdq2dCZcYT3ZtpclKECUkWdw==;7crpDu+i61i/E0jZrDAWGQ=="
 ---

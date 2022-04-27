@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI tool accurately predicts tumour regrowth in cancer patients"
-    excerpt: "Exclusive: Tool predicts how likely tumours are to grow back in cancer patients after they have undergone treatment"
-    publishedDateTime: 2022-04-23T05:00:00Z
-    webUrl: "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth"
-    ampWebUrl: "https://amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/d1dd9f83b44248489e5d8b093ad28b046262e0d5/0_182_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=25109500e1bdf5d279d65eb44289f9ed"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Cancer: Artificial Intelligence predicts tumour regrowth in patients"
     excerpt: "EARLIER this year, the Government launched its War on Cancer, a decade long campaign to develop new treatments to fight a disease that rips apart thousands of families every single year. Even though the war was only announced this year,"
     publishedDateTime: 2022-04-24T14:04:00Z

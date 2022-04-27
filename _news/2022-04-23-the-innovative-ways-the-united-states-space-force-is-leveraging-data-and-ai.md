@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/fdoa450308cioapp.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites"
-    excerpt: "News HighlightsHPE Swarm Learning, a privacy-preserving, decentralized machine learning solution, allows users to share learnings at the edge, or distributed sites, without compromising data privacyThe solution increases accuracy and reduces biases in AI model training by enabling access to larger datasetsNew solution delivers AI for greater good by fostering collaboration across organizations,"
-    publishedDateTime: 2022-04-27T15:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=653783"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 8
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
         isCached: true
 
 secured: "6TTv2lejVLRBRSfQtKSd3yJAI8pCbqI0VdEuJ1JgJfUIJ3+EA5Ru5jFk4QTGnjA0d9cy8mSoYb3D3ZYX8WY0TKZhxU3R/kVnSr9B+lq654TVrp8j8VeFfIRdX9NDu/S+xoYaYt5KE3L6UFnLV3rljuiInzZtaDWNUwr+M0r41BkK9SgwR7ELYUojv2Be2fE2BvSAf/ojDB2w/3l4PRmITIxpaYHl+d9vsGCYxbvKMi4RU+TJheh+3tSpxq63pRg6cxOw/VFDdoV7AZnUYq+YLnlWnvfoBYlfxpjev+7Vn6WvxYJKbUXUu7BB5u9svxWmbZIEEvgGnqKVycF1c/nEhTdv4/EllB9Im/ZTAd392BloLh56Ve6hE30SUdeXrghwLw47rvf40fyRO1Xt24s8bWGTkc5TYcOwg7c72ScedbmX1jZa9PwPxb1br7j/ELX8MlVb9AyFIDdRKvWhISwOQSSG3uSxBBm0leUsdtCHgGtZ+WeN/ldlropAKW28ViOfZ3SB9BRPpofI96Z1auq5lQ==;CszkMqDUwYAib6L9D54ikw=="

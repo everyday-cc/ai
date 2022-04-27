@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Hewlett Packard Enterprise used AI driven data to help accelerate Covid-19 vaccine research"
-    excerpt: "We made available our systems and our patents to be able to process that data at the speed that was required.”"
-    publishedDateTime: 2022-04-27T13:29:00Z
-    webUrl: "https://www.fortune.com/videos/watch/Hewlett-Packard-Enterprise-used-AI-driven-data-to-help-accelerate-Covid19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf?activePlaylistName=On Leading"
+  - title: "HPE releases ML development system to help companies deploy AI at scale"
+    excerpt: "HPE today released a new Machine Learning Development System. The ready-to-use system allows users to immediately build and train AI models at scale and realize faster value."
+    publishedDateTime: 2022-04-27T19:14:00Z
+    webUrl: "https://venturebeat.com/2022/04/27/hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale/"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
 
 secured: "YXRGRmsvAAw4vjth1STd8n1/WKBlsHL7SM+0wcu8s17xuWbYrxiog4HlxfrOUjtRUTOlSnbgED6asZUoCdp1/gKJu3NG8izDKhXkr0k4/aH2cyG72TSHvUHrUrKTmwcrryZ6F8rZPzLLuO1L3hPmE5DmmWYlvxMeK8y6zvLai1RdIo8lWZhihjiy2RyAmYgwekMJdh9rIT416aGeyGgEJs72/R7UMypMh1Np5uMS0Orgr9VWbOu8CNFuvvYJNQyd04KILybdmlOM3PYzPRGbi5tBUsYCn2wrhTyBLt/FJ8nsh/omMabT/17dRw3NWQE+WmvoKaLNDswOZ1ki8xg79xH94m2JIs9WLaNurVMpYQc=;EcY8y9lkst/xP2zIk1aGDQ=="
 ---

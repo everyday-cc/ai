@@ -64,6 +64,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
+  - title: "Senior Thomson Reuters Lawyer Jumps to AI-Powered Analytics Firm as Legal Chief"
+    excerpt: "The leadership team has built a foundation for innovation, complemented by proven execution strategies and a warm culture,” BigBear.ai General Counsel Carolyn Blankenship said."
+    publishedDateTime: 2022-04-27T18:03:00Z
+    webUrl: "https://www.law.com/corpcounsel/2022/04/27/senior-thomson-reuters-lawyer-jumps-to-ai-powered-analytics-firm-as-legal-chief/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 15
 
 secured: "aCt7MWwm19i5PQ/g48pTZEq4NO/dq8M5RhixvI3ereItXpife0+ODHoDb548yjoi2OwQ2P9eyl5KOr9cobyy3FizdrYfE8Q9PeWHlLGETqsg3XC2xh/sORux5JFS83xRhm++8X2zvG8Eb75uFRSD51uDCjZ/88SUNHW+KyPguLTwTtaO0pyaziRkNLaiBDfd8bEfW4HdtP8Ev7jsbuPN0QgIIoELZgUoFFFnK4seGO8h3OVFS/Snvefha3i4PInVZYE+6453AyO/eVCmFt5kxWBC95hPeAQJXkcnYIoCSndp9J62rh2GPJVJ45N5dWun2xXkhW8fzRfSguE85ai47+sIqH2plKn4g2GlSunPX4cLsKem7G96zPcL7KNdqzheIbQi2RywRKq0TEHtaHFZ4C5A8zqYgWjsx9y3oSKoSG3a4QzXvXsvOwtU9NhIP24FioRnEVPJpfD6qQrvqh9+d5fbFGnfH9VdouN8EJzuIHEC6dNcl/lF9ryPE04IEGnH0KekoGrkImb8eW8KACGtww==;1rcKEzxCcIWvSLjAHm+JEA=="
 ---

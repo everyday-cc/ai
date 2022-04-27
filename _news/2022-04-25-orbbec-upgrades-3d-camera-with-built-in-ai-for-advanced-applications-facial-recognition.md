@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Orbbec Announces Persee+ 3D Camera With Built-In Neural Network Processing"
-    excerpt: "World's First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning. TROY,"
-    publishedDateTime: 2022-04-25T13:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588595.htm"
+    excerpt: "World’s First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning. TRO"
+    publishedDateTime: 2022-04-25T13:14:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-40ccfbb4ae2b6864e7b327d36ba0ed72"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1802685/Orbbec_Logo_Logo.jpg"
-        width: 400
-        height: 218
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "IXa2ZKeMKvGiK3aESb+HVyztzu4sql8DITt+QD7v195WEJqH+BWbYplLi/4WBHyY4xWxUuyzPpywg/u1PjYyBOoosO0EF0BFD5T+DbedC1oPMsVLzNCuXF14tsW3d5TFubvpr4QhoY5oWfFxQ3mILXmsdRqmaHZegnAcdx287sAyMNhEFLQgdbz3bM/CUAHrUbMvvqL2VEBglyGRWHQe2NwEc7asvL9EI/MKWn/ZAp1FnFB3w8H/H9JBCzfHfoQ59+d7Rx57AMtvnYSxkWf052APZ12RP+x0dZbtSl3ws+bLc0lbDEO5c8pAQgrw9SswD9ufn0zkxT0O/S1U3o6CSI0I1ROKIOVaLY6MTQP1G+DtwMOfdm5uFcdU4MxS4hCvNb5rdtKKev1zTL2Eze8xi0lqeCRE3ty2wwjm87XwPHh8mDZMxmzgrHc0yMyFQFtt6ay1PM4MWj2SFaw3f4OtyQq84ZV8Pi5q2A1UOWAipjgd280f9ueHAuKizntpuUSOrdxFk3gTOMcgKhrBfcOg8w==;OjdF0m0vyRHq25v8ohj6sw=="

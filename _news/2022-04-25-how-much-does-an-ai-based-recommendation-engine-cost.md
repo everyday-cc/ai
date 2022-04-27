@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-91062200,imgsize-28022,width-1200,height-628,overlay-etcio/what-determines-the-cost-of-an-ai-project.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Brainstorming on the implementation of UNESCO’s AI Ethics recommendation"
+    excerpt: "Tawfik Jelassi, UNESCO Assistant Director-General for Communication and Information, pointed out the important role of IFAP in promoting a humanistic and multistakeholder approach to “implement useful,"
+    publishedDateTime: 2022-04-27T15:45:00Z
+    webUrl: "https://www.unesco.org/en/articles/brainstorming-implementation-unescos-ai-ethics-recommendation"
+    type: article
+    provider:
+      name: UNESCO
+      domain: unesco.org
+    quality: 53
+    images:
+      - url: "https://www.unesco.org/sites/default/files/2022-04/ifap_ai_news.png"
+        width: 1350
+        height: 765
         isCached: true
   - title: "Replacing the cookie jar with an AI-based audience engine and first-party data"
     excerpt: "As the digital marketing world continues to look for alternatives to third-party cookies, an ‘audience engine’ driven by artificial intelligence (AI) and robust first-party data could provide a route to deeper customer insight and accurate targeting."

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/pointivo-s-ai-powe
 webUrl: "https://markets.businessinsider.com/news/stocks/pointivo-s-ai-powered-analytics-platform-reduces-timeline-to-complete-tower-mount-mapping-by-up-to-90-1031385683"
 type: article
 quality: 51
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
+  - title: "Senior Thomson Reuters Lawyer Jumps to AI-Powered Analytics Firm as Legal Chief"
+    excerpt: "The leadership team has built a foundation for innovation, complemented by proven execution strategies and a warm culture,” BigBear.ai General Counsel Carolyn Blankenship said."
+    publishedDateTime: 2022-04-27T18:03:00Z
+    webUrl: "https://www.law.com/corpcounsel/2022/04/27/senior-thomson-reuters-lawyer-jumps-to-ai-powered-analytics-firm-as-legal-chief/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 15
   - title: "i-PRO EMEA raises the industry standard by adding high resolution combined with Edge AI Analytics to its mid-range camera line-up"
     excerpt: "PRO EMEA sets a new benchmark in the AI-fication of the security industry with the addition of 34 new high-resolution camera models to its Standard line-up. The new 4K, 6MP, and 5MP"
     publishedDateTime: 2022-04-27T11:32:00Z

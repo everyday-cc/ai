@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T19:19:00Z
 originalUrl: "https://www.khaleejtimes.com/opinion/elon-musks-twitter-dilemma-free-speech-or-free-for-all"
 webUrl: "https://www.khaleejtimes.com/opinion/elon-musks-twitter-dilemma-free-speech-or-free-for-all"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Khaleej Times

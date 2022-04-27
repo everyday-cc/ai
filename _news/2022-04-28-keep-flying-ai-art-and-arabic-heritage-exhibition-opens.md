@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T19:30:00Z
 originalUrl: "https://www.gulf-times.com/story/716260/Keep-Flying-AI-Art-and-Arabic-Heritage-exhibition-"
 webUrl: "https://www.gulf-times.com/story/716260/Keep-Flying-AI-Art-and-Arabic-Heritage-exhibition-"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Gulf Times

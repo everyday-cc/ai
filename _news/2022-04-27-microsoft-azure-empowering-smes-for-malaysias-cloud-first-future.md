@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Earnings: Inflation-Proof Business Model - Buy On Weakness"
+    excerpt: "Microsoft (MSFT) reported a robust double beat on its Q3 FY22 earnings. Despite some near-term challenges, check out why I think MSFT stock is a buy."
+    publishedDateTime: 2022-04-27T13:21:00Z
+    webUrl: "https://seekingalpha.com/article/4503934-microsoft-earnings-inflation-proof-business-model-buy-on-weakness"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4503934-microsoft-earnings-inflation-proof-business-model-buy-on-weakness"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4503934-microsoft-earnings-inflation-proof-business-model-buy-on-weakness"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 59
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1289079656/image_1289079656.jpg?io=getty-c-w750"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Microsoft's (MSFT) CEO Satya Nadella on Q3 2022 Results - Earnings Call Transcript"
     excerpt: "Q3 2022 Earnings Conference Call April 26, 2022 5:30 PM ET Company Participants Brett Iversen – General Manager-Investor Relations Satya Nadella"
     publishedDateTime: 2022-04-27T01:20:00Z

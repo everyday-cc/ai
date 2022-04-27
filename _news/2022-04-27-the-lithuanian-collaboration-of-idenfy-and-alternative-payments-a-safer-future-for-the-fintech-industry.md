@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T22:15:00Z
 originalUrl: "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
 webUrl: "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

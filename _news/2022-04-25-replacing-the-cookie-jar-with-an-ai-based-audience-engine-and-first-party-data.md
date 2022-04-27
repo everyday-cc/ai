@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Brainstorming on the implementation of UNESCO’s AI Ethics recommendation"
+    excerpt: "Tawfik Jelassi, UNESCO Assistant Director-General for Communication and Information, pointed out the important role of IFAP in promoting a humanistic and multistakeholder approach to “implement useful,"
+    publishedDateTime: 2022-04-27T15:45:00Z
+    webUrl: "https://www.unesco.org/en/articles/brainstorming-implementation-unescos-ai-ethics-recommendation"
+    type: article
+    provider:
+      name: UNESCO
+      domain: unesco.org
+    quality: 53
+    images:
+      - url: "https://www.unesco.org/sites/default/files/2022-04/ifap_ai_news.png"
+        width: 1350
+        height: 765
+        isCached: true
   - title: "New Release of the expert.ai Platform Accelerates AI-based Natural Language Solutions Adoption and Time to Value"
     excerpt: "Extended core enterprise capabilities in the areas of vertical sector and use case customization, connectors and cloud environments to improve business results BOSTON, April 26, 2022 /PRNewswire/ -- Expert."
     publishedDateTime: 2022-04-26T12:35:00Z

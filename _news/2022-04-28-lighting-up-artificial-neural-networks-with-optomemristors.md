@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-04-artificial-neural-networks-optom
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-artificial-neural-networks-optomemristors.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Lighting up artificial neural networks"
+    excerpt: "A team of international scientists have performed machine learning computations using a nano-scale device, named an “optomemristor”. The chalcogenide thin-film device uses both light and electrical systems to interact and emulate the biological computations of the mammalian brain using multi-factor interactions while consuming very little energy."
+    publishedDateTime: 2022-04-26T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/950994"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
   - title: "Lighting Up Artificial Neural Networks"
     excerpt: "To date, research on hardware for artificial intelligence and machine learning applications has concentrated mainly on developing electronic or photonic synapses and neurons, and combining these to carry out basic forms of neural-type processing."
     publishedDateTime: 2022-04-27T14:01:00Z

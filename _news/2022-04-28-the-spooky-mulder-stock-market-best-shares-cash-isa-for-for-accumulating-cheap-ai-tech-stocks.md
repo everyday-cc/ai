@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T19:58:00Z
 originalUrl: "https://www.marketoracle.co.uk/Article70184.html"
 webUrl: "https://www.marketoracle.co.uk/Article70184.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: The Market Oracle

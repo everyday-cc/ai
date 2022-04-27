@@ -1,20 +1,23 @@
 ---
 category: news
 title: "AeroVironment Successfully Demonstrates Multi-Domain Unmanned Systems, Computer Vision and Sensor Fusion Software at IMX/CE 22"
-excerpt: "(NASDAQ: AVAV), a global leader in intelligent, multi-domain robotic systems, today announced the successful maritime demonstration of Interoperability to Interchangeability (I2I) operations by the U."
-publishedDateTime: 2022-04-26T20:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aerovironment-successfully-demonstrates-multi-doma-unmanned-systems-computer-/2022/04/26/9590153.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aerovironment-successfully-demonstrates-multi-doma-unmanned-systems-computer-/2022/04/26/9590153.htm"
+excerpt: "Demonstrated multi-sensor data fusion and automatic target recognition (ATR) using AeroVironment’s Blue Hotel tactical grade computer vision and data analysis software package ;"
+publishedDateTime: 2022-04-26T22:10:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-aerovironment-successfully-demonstrates-multi-domain-unmanned-systems-computer-vision-and-sensor-fusion-software-at-imxce-22"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-aerovironment-successfully-demonstrates-multi-domain-unmanned-systems-computer-vision-and-sensor-fusion-software-at-imxce-22"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "wivugUPEgOLWPx5Jv+Ng9uv08jriG8Wdj5fdghNdKlfnh63FNEFsQBsnN35RZEYzB5TkcfQhfbdpvXmE5Wy9GPR3RukBt1WXcmQZRrRMTqvCteiE2LKO7ulSeJCDUib/fzlRqCi/lDRYJNiURYRLaxUJeXFMKaky8oLzKXdJC/92TBddpp78glQGCkHab8fzZ7yUcw/dImEuIkJN5pbApTYZ1KIwy/MbEriNl6kMMT2+X9JJw45BWj3H62aO+Kq8JkfocBk9PMmVnmiXgGMwOjA6A3HQM6u/HsSyP8dHwTTLOIZ5WK+1awAbTOXcwo6V6HsEZ0sNXqm/NVDPJzDxn21erFa9x5sbu0BkBVf25el6dtkTykjTGbMpt0RIvx+dgc0vRESCvTrS5WGGXy3uAAPYQAZVdOTb+4D/satOdyiRgY+z3g76Azc1R28HRToacgubYMDhqETEYe9p3YcUMt9AVvE4i3463HaadrDsXnHoJzYd6VNpbRlWBuv1xLWK2Y4aXhyi38kUB9vWro+i4w==;bHN/cN/xndFO9OEyAngQPQ=="
+secured: "Bk/rwopdAZZPgirdkg+axcWUOjQPeF232DMuM/Pu+gojK5DLKrg5cZuNxC76Yjzz5aee1jRsTK8fJrEtedKUxUhD82f4pt1pyRJE+OMT6lM6fl0GzApq57E634uQYTBc7IiUd7L80+XgiKjECJajc1ubOXvXDHxO1/FhFdaH8i6S7IOMqvOdH/maWLeEro4YaOKwUQmb4Wo7HBhuvQ5HHtrlAju/BV6xRTaKWmv+ePL4YTD3uuJlr06ShtA1yUTSFZBl4GXuDsK6bQAtP4+SH6yIvM2FDiwm9nXyBTgboZoXToLo/iblz9v4mXDMmDf4YfHN7U1hxt0G7yO0Ed3n5E3gCVp8sb3vbSuwGEN9+F8=;EvuikpZtGUatHXgS1sqnyQ=="
 ---
 

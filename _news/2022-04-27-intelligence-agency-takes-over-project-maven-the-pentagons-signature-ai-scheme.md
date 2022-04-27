@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 883
         isCached: true
+  - title: "Pentagon’s flagship AI effort, Project Maven, moves to NGA"
+    excerpt: "Vice Adm. Robert Sharp, outgoing NGA director, said the fusion of Project Maven with his agency's current AI efforts will \"give us our millions of eyes to see the unseen.\""
+    publishedDateTime: 2022-04-27T19:50:00Z
+    webUrl: "https://breakingdefense.com/2022/04/pentagons-flagship-ai-effort-project-maven-moves-to-nga/"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 17
 
 secured: "Whnio8ppaVQBa33zFF57mYRvjM+2y6IbyGLaMpj9QP0st/Fr1b44z7h2ak9324/+1SwzIrpyWMZR9bv62zBrNiwiFzZVPF9o2XMlpBGWJWuXNBZ+GRpsClz7jtz7jmyvRlZfL+jzp4HZ88bUgu7xNKOLzUvD94jjTmXnNMykU50rcOo/erzaIEyb/eY9IPcpV43GRiMQgUPSS5xT0C2WHoSuKSiPyJq6L5rUqXe1TCQJ0OinIB8glFfbcfUhFXqx01XijcaoCrU0qh8OPAJXCC67djaC4Nk0bJLW4t02wGFTLYNIVeZ7lCojwEhUMMF21zXTfB7sKh42SFK4YpEHrW0wOegdWHC3dt+NNRz0zxA=;rYHjrC4yfpESa1n3sKjzFw=="
 ---

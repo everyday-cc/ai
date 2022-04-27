@@ -24,6 +24,17 @@ images:
     height: 1400
     isCached: true
 
+related:
+  - title: "Sumsub launches proof of address document recognition, plans $80M-$100M Series B"
+    excerpt: "The customer onboarding provider says it now allows user verification flows to be adjusted to specific regulatory requirements."
+    publishedDateTime: 2022-04-27T17:58:00Z
+    webUrl: "https://www.biometricupdate.com/202204/sumsub-launches-proof-of-address-document-recognition-plans-80m-100m-series-b"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
+
 secured: "Mx/M95zuZzbRkBgAid/SFJP+80pKdyPvBVCmqk+A+5VfAKTdSA0m6eGmrJn1C/OU3l7QDu5IPGEjFdTLA455+DiTCZbCAhVeTd3oHxjvGa2f+VwHL2R2nwi4JPnJAROYMBNk6A9lPTnxsnWd0vkVyra7vanwO1/3bQgwAbvS0HCB9o6R2K8TbwfQ5UDg4ZOIaN20XwmbZo29tMseYkXp2BodMRfolCWAtw+AByOn3Ll1ALm/Dq3La1iqMRHzqeAAqEioAltjU/PbvWhy9M/4p+HCaqxFC2R/sU3aZDfj9yumamQLEW0w4FQgtDVEHX7150FdzInWW/fn7qa+qupALQB0GAOz09R8Cx1otQAalPA=;1Vn+0oH5+bh5iN52/wfNXA=="
 ---
 

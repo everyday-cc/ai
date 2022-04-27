@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T19:00:00Z
 originalUrl: "https://www.newscientist.com/article/2317122-meta-is-using-ai-to-create-low-carbon-concrete-for-its-data-centres/"
 webUrl: "https://www.newscientist.com/article/2317122-meta-is-using-ai-to-create-low-carbon-concrete-for-its-data-centres/"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: New Scientist
@@ -14,6 +17,22 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Meta Using AI to Create Greener Concrete for its Data Centers"
+    excerpt: "Can the servers inside a data centers make the walls and floors greener? That's the focus of researchers at Meta and University of Illinois at Urbana-Champaign, who are using artificial intelligence to reduce the environmental impact of concrete."
+    publishedDateTime: 2022-04-27T20:29:00Z
+    webUrl: "https://datacenterfrontier.com/meta-using-ai-to-create-greener-concrete-for-its-data-centers/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 39
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2022/04/Sustainable-concrete-meta-floor.jpg"
+        width: 740
+        height: 460
+        isCached: true
 
 secured: "bFrEf0ABa9XRUqia0717kiGJuA6TEKU1sqqgbgEnMmSM4P4JhSTSAuTVE38b7JPlXkDExw6g3ymtgn929b1lAFTbV3gy6I+BJbRlDoJaibblH4nJpkR0iC2+3TmLQ/mZ1fYyHoKYg3umBWQcgd59V2rzztmxfr2DO9vPK3brY9bpn2f7CXNEwjC2odyObnQva1WtH8dvJSetManSTB1qssVHqnDFEPCtqBGWLQrlExxIqSTlDUskNeglq6fWxh899yUAS/rBqWCufMnrOPCSU38lMJ4gdILfTJsmsHpV5qH0mS2I9Ih9STGiiBFZDx3kVJNDrRnA/qd9LW+EnWsWx2Ih+4mSLPwXVIwnev2gVK0C8G8VYkT9O4hg21vfiqz1qmfBwlbAL/QpyQuYKxmmYCrB1whkPCXkgJPxwZ3Bb1A0M2qWTiKTSyU8XM9CvaqlaGcGx3oX2t2FPa2VYvZakxKAUJtc5sp9dGXppXr7WyBoObVxVpcpAHerN68gWsCCSOOetFV4lPAZwMwxfVWs5g==;u9eMNt6x5anigKynHSXuNQ=="
 ---

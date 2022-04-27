@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T17:00:00Z
 originalUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/your-face-now-weapon-war-202039"
 webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/your-face-now-weapon-war-202039"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The National Interest

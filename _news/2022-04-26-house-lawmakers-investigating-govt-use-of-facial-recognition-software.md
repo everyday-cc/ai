@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/house-investigati
 cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "House lawmakers investigating gov't use of facial recognition software"
-    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-23T01:10:00Z
-    webUrl: "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
-    images:
-      - url: "https://media.wfaa.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Index Exchange becomes the first exchange house to use MOI’s facial recognition system to verify customers"
     excerpt: "In line with the directives of the UAE government seeking to implement the best services for customers and its orientation in achieving leadership and excellence in the fields of"
     publishedDateTime: 2022-04-25T08:12:00Z
