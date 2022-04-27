@@ -1,23 +1,20 @@
 ---
 category: news
 title: "The Lithuanian collaboration of iDenfy and Alternative Payments – a safer future for the Fintech industry"
-excerpt: "The digital platform for identity verification, fraud prevention and compliance, iDenfy, partnered with Alternative Payments, the Lithuanian-based Fintech specializing in simple,"
-publishedDateTime: 2022-04-27T00:12:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
+excerpt: "Alternative Payments integrated iDenfy’s full-stack, multilingual ID verification to secure their customers’ dataThe digital platform for identity"
+publishedDateTime: 2022-04-26T22:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
+webUrl: "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "o+GpEWa7kRnlXtROi+gYCTQ4lQyyhhhLDbJE+rjHoVDvajMnfTA4yl0C8ky7EUlP2JoO2xhwSzxm9T97oANwo1R+On95/XnEIFxq8V4cz7ncLqn2NgIOBzLzqY+B9jpd2Kua+6uOFnrehCCpcYitQ9wkpT0Q+ig8hnzEHrkJ84cY67aMIb3dz3LyNbX7e8WU/NwOCoM7H/QpO3pTkOWeNPTpvYcT4HVvqKO+vTeRUDby0uvPpslUdWOCaqLvNjQAofkV9AiXfwBQbO1VLn6H0g+mZjitIhpmKkyACFWQjsrQYKwo4Ra9yAf7iqiQT551v7ugAugy5Vlk8Db4R5mEmGSngp+FtddasSvn7Uo+Pqk=;4XuxaRzqw49meP0A0iIJBQ=="
+secured: "iLk82vOXCSt1nXhNE5tuPVOESalxGRr8arpgIV31FOrmyJ3tzpdfY2+6I1ULFG3un5F2v0dRTSsohz/O3aavtHj83gkIJJbTQtrG+Fatap/Sy9gHOIYGqgELsJ3ukqu0t163h7H42SAWZJ3ANdsS/11Bix/ThRULLsQ95IMVle2LxKIc5nfsDhLV/49Tt1KuO6cfCaJBGOkUMjHjqabJWWnb33t+89uu9pEW6PUZMc7GYOsUl+XJfke8lVKfjPBUnCZ4nHyio0GFLndgeixjjucdnlGlYqvK1g8RJpQhFYa5R2xr4JHGEz7qPU14XR808PHcgIzYAAbplSedEF+8sdmHuyIJzHjb4qXeE5CpDwY=;BO4qTCaDH1usclxJve3hWQ=="
 ---
 

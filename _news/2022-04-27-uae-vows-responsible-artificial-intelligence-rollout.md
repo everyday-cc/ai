@@ -1,40 +1,20 @@
 ---
 category: news
-title: "UAE vows ‘responsible’ artificial intelligence rollout"
-excerpt: "The world's first minister for artificial intelligence says the UAE seeks to become a leading nation in the sector."
-publishedDateTime: 2022-04-27T03:17:00Z
-originalUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
-webUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
+title: "UAE vows 'responsible' artificial intelligence rollout"
+excerpt: "The world's first minister for artificial intelligence says the United Arab Emirates isn't only looking for economic benefits as it seeks to become a leading nation in the sector."
+publishedDateTime: 2022-04-27T03:14:00Z
+originalUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+webUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: France 24
+  domain: france24.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/UAE-artificial-intelligence-AFP-1K-04.jpg"
-    width: 1024
-    height: 670
-    isCached: true
-
-related:
-  - title: "Credo AI Announces World’s First Responsible AI Platform"
-    excerpt: "Credo AI has announced the availability of its Responsible AI platform, which is the first of its kind. The SaaS-product helps organizations leverage tools to standardize and scale their approach to Responsible AI."
-    publishedDateTime: 2022-04-26T18:31:00Z
-    webUrl: "https://www.unite.ai/credo-ai-announces-worlds-first-responsible-ai-platform/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 17
-
-secured: "Yp9vHZ4n4T5hPiYBw5O26+lq3tGmgt+q3VAV4rpWz2m3X7CKv2LAEu5hK2yN0Qj4JKw5XtqgGhln9atk2cS7aS2/3+OLHXUTFxJ4a2anP7mqMB6HIniqAmhdOpPXn0KBLUHfhVwrQPWA6TssxypWouK8L/G8R2f8HQ1hpBlhh4+U5ciOZOec29VhCKsVAUidEwZkiYiMPbMM1Q5Ro0oY0lMWYXCp9L1pPV+/yz2lXwCbkdWX+Up1HTVxA/ZO4XdXWHzV8WTkInotio7/yX2tcUU1P6L/n9dc9yG7qT5awPiZ3ydERPQobnOLUfkU3U9kwcgj0bSnZkG+GMXt6NufaPgauWAwOp+RiJR7Y0Z4W3Y=;n/bZzAG1Qd6sz0UzcrbRww=="
+secured: "gtPqT/t51MclpzI8In23w1zDZju+90yw9DH2GRc6NafavWYbj/wlajho3cMn2dkJyRXwFUbc7LaBkacf813WFyoWovnzNLutW4rFxJzT/10av9EqNYZzGMbpb1eW/j3h7WBSHSESFxJjvR8gm8/ZkKctTYYwbMG4HzX7CCMG5YktCi4zMws1wqfvRk+4oRLTv5XcGZEM2pIjHIISOjjespGEstSQWjFQ1pVwfRs6xm0OdYngn0wS0JkhJ/Bq7vWNQ+gFvJP0batqHmcg3efCjXi5ELeZUMPy01wZVSQad+DLSFZuDCp/n2MRU740Ew+5TQr9VWCUgRrynni83aXOQInB3ReQ3j8Foy0hF5qOdhMXALbV7PNj5XfnQJ+k0XYJBVPrt610dsIu72SMEgwx9Ky/34K9+epI1JWZKj9V/k4gsbpqGW1r/nlGdNdXd/m2yoePLlewuLmF0waeNhGmD+xQxvioN38lQ0pHArSQGsKnf767zwj/xrg+jNRTShYJXuraMw3aY0wFLHjYYMw8Yg==;4hlQGgBbkntSGZe4tLkQOQ=="
 ---
 
