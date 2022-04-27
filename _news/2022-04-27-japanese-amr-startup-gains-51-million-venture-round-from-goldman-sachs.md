@@ -22,7 +22,7 @@ related:
   - title: "Rapyuta Robotics Secures USD 51 Million in Series C Funding Led by Goldman Sachs"
     excerpt: "Rapyuta Robotics, Co., Ltd., a leading developer of collaborative pick-assist robots (Rapyuta PA-AMR), or warehouse robots, and pioneers of Cloud Robotics, today announced USD 51 Million (JPY6.4 billion) in Series C funding led by Goldman Sachs to accelerate the expansion of robotics solutions and artificial intelligence technologies."
     publishedDateTime: 2022-04-26T11:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
     type: article
     provider:
       name: Associated Press

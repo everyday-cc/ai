@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The art of artificial intelligence: a recent copyright law development"
-    excerpt: "Joel Feldman of Greenberg Traurig LLP discusses the question of whether a work created by artificial intelligence can obtain intellectual property protection."
-    publishedDateTime: 2022-04-22T13:59:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/art-artificial-intelligence-recent-copyright-law-development-2022-04-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "Augmented Intelligence for Healthcare Clinics Provide Arena for Discussion"
     excerpt: "Yuan Luo, PhD, has helped establish a new arena for clinicians who want to discuss a clinical problem or challenge they face to see if and how it might be addressable through artificial intelligence​."
     publishedDateTime: 2022-04-24T06:35:00Z

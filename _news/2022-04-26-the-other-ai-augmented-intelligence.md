@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/the-other-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/the-other-ai-augmented-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The art of artificial intelligence: a recent copyright law development"
-    excerpt: "Joel Feldman of Greenberg Traurig LLP discusses the question of whether a work created by artificial intelligence can obtain intellectual property protection."
-    publishedDateTime: 2022-04-22T13:59:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/art-artificial-intelligence-recent-copyright-law-development-2022-04-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "Augmented Intelligence for Healthcare Clinics Provide Arena for Discussion"
     excerpt: "Yuan Luo, PhD, has helped establish a new arena for clinicians who want to discuss a clinical problem or challenge they face to see if and how it might be addressable through artificial intelligence​."
     publishedDateTime: 2022-04-24T06:35:00Z

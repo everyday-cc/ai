@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies"
-excerpt: "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,"
-publishedDateTime: 2022-04-22T00:56:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp"
-ampWebUrl: "https://www.benzinga.com/amp/content/26754709"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26754709"
+excerpt: "TruCorr performs attenuation correction using a Deep Learning approach with data from the patient's SPECT scan. The application eliminates the need to scan the patient in two different positions ..."
+publishedDateTime: 2022-04-22T01:33:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "WmhH8xWUqBhqamf42UJZb6FGMcC3hMOmr1joJRoTknMnXVztW0Nv9iMz+941Gd96jqSMkpnoW3WBWF3RqPbg00Oi5YrEjpDrXVK4y9zXY0W9drzNerOmsApKG4jmPYJ8hKSVolK8yi6o8Iv6nBNBVf+/t4aMfLd+z7N1G4EDfQtmE6NB2T6+5uCCW2LbueKHK5vwtBv43uDkvParDiEIQ4sXV+04tK2mNsYtvfT4oXuamBtWYq22CU/aKyDfczSpifHMCgjg+7embud9YUGWAvE0arOQVAOMoehVJrYJq9myOo3sTHpnay4NxXogl7zv+yb6yepKCNwvD6LyIoKRB0986RgjKYbEmUvAYeWCVq4=;J+8nDbL5bIMviK971quOLA=="
+secured: "uCev5Cb6+yYK65J9ZJxC0HqAHcRAhnm86S59N6YHKA5N2YnYYwLZWYOCGISk8+dLN2T7xo9cmra+fEWW3RdtXALBN9mz86qDyD6LIiA2DUlqK8FcEYkf3yDXvO2LjLzDv+z47/GDfwLVZBhY1/OQCNCDzkmriQbeEh4GFbh/ACqXuZBIf55CC2A1CoJT+zMtULBrNU5jbZUMNvsWYxgib2IqxaSxYWUKfDdViDpVo0aA/HHxFpuR6pNsdcQVDKFDe2Ze+7PlfWfmnTJETexF96xvlBt2QMZTsmvIFQcwIzhAlWnzHv7BlEyIOMvY/pgHBavOGHqeB4TF+PbF72FCCzbnskvSE68OVKb6G/zuHXI=;9vVkEuXLyFEE/ci2Rutz7w=="
 ---
 

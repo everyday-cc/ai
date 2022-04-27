@@ -50,15 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The art of artificial intelligence: a recent copyright law development"
-    excerpt: "Joel Feldman of Greenberg Traurig LLP discusses the question of whether a work created by artificial intelligence can obtain intellectual property protection."
-    publishedDateTime: 2022-04-22T13:59:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/art-artificial-intelligence-recent-copyright-law-development-2022-04-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
 
 secured: "tmN4qTmQetL2mfT2b2bjQPJ+817V3NFqz8KQ+U5cYKBsfzrTKRJUdybYPOkCeJQSWqoddfyD27vKbGNLrSDAjOWJbPoJQTCzW7weVM58ASp9bLqZCJyq8EfvXgUj2LfjEPY/p8qtgzrnTDOqUNB3RAdazuHxfpqe4oCXenTEXHLQJjOSFbintJcQYwmpPHkpol7Of0OFLDm3BHvS6KP4fNjJXmZc+0W5i71hXgCUgeBau9oLcjrhp2PsqjI7OepNY8XbCP0wgvwciWK6/x/VCl+ijdh/rsAl/xK9RHI4uUcUL5XgPA57JEoTH9lBhOVuX5aDYJ6QsxdJwwGioBtWovn1wqiHNiI1S0sh4tPht/MD0TE5cFdaZdZ8wt7ltZAqGIqAVhXI0MME1n+FCxc+l8EeP6usAiZLYYD+C3IMvBhaaomdH7VOg8tamK9qUgVW+weRA3QRT0qCBcpIcgd1EtaibdI05BlDRhL4kI3j8I9K28S2swXNqFjjffQ0N6SyDmrw9Zq4RK3sWtVthq2Vxg==;nA3mEV4cw9+Rblyhwor9wQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Rapyuta Robotics Secures USD 51 Million in Series C Funding Led by Goldman Sachs"
 excerpt: "Rapyuta Robotics, Co., Ltd., a leading developer of collaborative pick-assist robots (Rapyuta PA-AMR), or warehouse robots, and pioneers of Cloud Robotics, today announced USD 51 Million (JPY6.4 billion) in Series C funding led by Goldman Sachs to accelerate the expansion of robotics solutions and artificial intelligence technologies."
 publishedDateTime: 2022-04-26T11:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
 type: article
 quality: 49
 heat: 49
@@ -35,6 +35,6 @@ related:
       domain: dcvelocity.com
     quality: 19
 
-secured: "vM+pbxYoip5ZGvP5JMyBzZvRBH+z/lmcBOpAEN6ITYVYAqMu8NJaF/uhcyWPlp4Cw0y7yO+fjGHewBjX9hCnMJgKV2rTqNIOamtRY34wsv44+UBkGiLekkGzh5x1UcBit/Xw5LDWlQv+XUJxNTgxDk715KTT15iYSoIdZ+RXWF83WyGWvQg2OQHs3S3nYjLp8VEQE+0sfDHpsycq1mP8hzLyr6D0ktGAVkSAqzc+4g2x8/m9m/a7J9b1EZ4vuSMiUD4RCmxBo/3W/2HQKwooRcySaJQQrn4bbfIXKTfAaVVtGl8PTn8SolHDQHYrrQMwYc2nezC2JPXbV1/RiikpH7qoNOMCUqoRhXLhcJNLVuA=;G9G64LHs3a0bDev3TBlxwQ=="
+secured: "JARjAKdU0u0pWnxYK0fiaNfE6RiYZvFbV6zEFgUvg9iYrEdhA5SOlmenTuuYJRJs19m9kk8mQuwz2/aphUN6YuzHOgC/q9fk+OYXQYhAZnYbIHvrDy+JiAY5O0PnTkw4MRvD4PR1Jbp72hxN1fYjKxG0Ddh0cSU1cFL79qHeDp1QOspXfZzREBW6q/gI5z2fgC580z9kCmgQamFXscR0xVoLBAzlqM5nQgjxCFIA1qzY6jmmiGqDDIWtIJycotxMMvVlY9Mve5SfIlumWiuDmgDxMtFEIE+RLC8jOPE+VXT0v8fqI+45hwkL4r+e7RaS4WCNz3hekaUKyudg7/oXJ/yi8UHbendLFUw4WBOt8w0=;Am9Rd3CQqIztTdfxXM6zLw=="
 ---
 

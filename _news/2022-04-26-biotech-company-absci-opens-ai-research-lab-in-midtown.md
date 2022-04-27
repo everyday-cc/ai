@@ -23,17 +23,6 @@ images:
     height: 528
     isCached: true
 
-related:
-  - title: "Vancouver startup opens New York research lab"
-    excerpt: "The synthetic biology company announced this week that it opened the Absci AI Research Lab in Manhattan’s Plaza District. The lab sits on the 43rd floor of Carnegie Hall Tower. “Absci’s expansion into one of the geographic hearts of AI research marks ..."
-    publishedDateTime: 2022-04-22T15:00:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2022/04/22/absci-opens.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 2
-
 secured: "5tCpeKCS5s0beVMg6YqpjppFfc70vdcNNWoTSE054Lcp7FhFOJw6NrKUknrBdtyzdbN4Kp+8i31DqmaJqUk1TAcJohx2Ql8SoGBbTUlBR6M5GDji1i+ZTzrXQXhuR5/bvGXdW37tpeAG15j2lETQjl6ESCgRVKQn20e18LGPLPDU+LQyHhYwksNjaCHYexUMfIYkOnOaTjj7PSu8t3MkKW5BDBwBUlWE8PoU17kbNcxmf1KzfCXuIUMiO3CItUrFTt0snHbeMMJvRJZAZ/ba3knr5ClRYdJLLrRzosJhEt6Ih5YhFc9x2sS4T1h5OSFOIInrINAcfA6AcJ8jbmKhvfNC6bXtMdPnA4yC8BH8IpY=;zxfnaZO+rxC/wAOmGiccHA=="
 ---
 

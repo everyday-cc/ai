@@ -23,17 +23,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "Can AI Perform SEO? Experimenting With OpenAI’s GPT-3"
-    excerpt: "Can AI perform SEO and how does it compare to the work of seasoned SEO experts? See how this experiment using OpenAI’s GPT-3 turned out."
-    publishedDateTime: 2022-04-22T13:45:00Z
-    webUrl: "https://www.searchenginejournal.com/seo-experiment-gpt-3/444988/"
-    type: article
-    provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
-    quality: 17
-
 secured: "xoaZLmENQNb6zgcIyzBaIEgrEb3VVGgZ6OlqEzQ+CEp4ABHn3QP023WyZD16yUbCLR2Nw/Mrqfjck+wB54hoGV+RuLjiXuDhNPMwbBkRHHg1n6Xn3PfiXEHES0kyBMS3Cr66xOVaPUxxouBM/NiLhBLCrL4ocnm1pJbyf73nffiSc3Cbg0ETBajuPV3FTXdjtA8BV5GJeLcG/21mJ0lr0wjWEKlRtjJxL14Cih6B78FWcRPTggweWIjlr85qdIN3f6k2WSeqzB8bRjf97O5kh8zbJRh9QEzgXY6zf5UmZz8WbgM91oxv/eXl1e5ADzj7hEh26rzSxRU1dOcduVU7Q+BVbiSS/1Q6UzKc5FdMwg8=;ORSSD0MA5yV1aOmcxJk6zw=="
 ---
 

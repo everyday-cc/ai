@@ -38,6 +38,34 @@ related:
         width: 268
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market Set for Rapid Growth during 2021 – 2031"
+    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
+    publishedDateTime: 2022-04-27T07:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-set-for-rapid-growth-during-2021-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI in Travel and Hospitality Market Outlook, Competitive Landscape and Forecasts to 2031"
+    excerpt: "Artificial Intelligence (AI) is developing, making it more attractive and reliable as a business solution. Businesses in the travel and hospitality sector"
+    publishedDateTime: 2022-04-27T07:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-travel-and-hospitality-market-outlook-competitive-landscape-and-forecasts-to-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "VYf04vMj859v/5OnYXjaAfbwJDHN721QbI81HHfo/n/BVDJN1/MR5sJJ/9EaP167P9zyr26gUDBwHd/quqO1I/P/wNMFQegOV7q9wCvbuQ9Oc8iV+79iPWS5H4/gvn51IIO8IDA4Zhm+fXLS5L4zxFpf4WPl7ABkxFzTV3R6mFNFJJYCnquRAm6KJ/20eqZDrw4geUrxiKrqLiz7CiWIvR6fosThn7PnvDwM1sJgG6+HityUogD0ObA3NLFXFa6Se/77JawV64i/vOZt6McOa4vOS/azjkifxwFaAxEk4AQq/doY/lhAUYGoTPmUgTSg0TaC+g4tSyxXeD/nilWSqmFubGcYYOuOeez00hXwebI=;QqNCPo5LurbZkIqqbpGwAQ=="
 ---
