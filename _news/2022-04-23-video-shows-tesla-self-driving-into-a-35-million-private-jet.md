@@ -9,7 +9,7 @@ ampWebUrl: "https://fossbytes.com/tesla-self-driving-into-private-jet/amp/"
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-self-driving-into-private-jet/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Senate campaign ad takes aim at Tesla's self-driving technology"
-    excerpt: "There's a new political ad taking aim at Tesla's self-driving technology.The ad is from Dan O'Dowd -- the billionaire founder of a Santa Barbara tech company who is running against U.S. Sen. Alex Padilla."
-    publishedDateTime: 2022-04-22T16:54:00Z
-    webUrl: "https://www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology"
-    ampWebUrl: "https://www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 54
   - title: "Self-driving Tesla crashes into $3.5 million private jet using 'smart summon' feature"
     excerpt: "The car was in \"Smart Summon\" mode when it ran into the jet. The feature was introduced by Tesla in 2019 and is still a beta feature."
     publishedDateTime: 2022-04-25T15:49:00Z

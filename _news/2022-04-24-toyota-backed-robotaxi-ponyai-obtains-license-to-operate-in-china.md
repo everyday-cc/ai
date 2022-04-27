@@ -40,20 +40,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "DeepRoute.ai unveils autonomous ‘Robotaxi’ fleet"
-    excerpt: "Its proprietary low-energy consumption computing platform and inference engine combined with Nvidia Drive Orin systems-on-chip will allow the company to meet automotive-grade standards for series production more quickly, the company said. DeepRoute.ai’s ..."
-    publishedDateTime: 2022-04-22T16:09:00Z
-    webUrl: "https://www.gpsworld.com/deeproute-ai-unveils-autonomous-robotaxi-fleet/"
-    type: article
-    provider:
-      name: GPS World
-      domain: gpsworld.com
-    quality: 39
-    images:
-      - url: "https://www.gpsworld.com/wp-content/uploads/2022/04/Robotaxi-DeepRoute-ai.jpg"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Pony.ai to Launch Robotaxis in China With Ontime, the Ride-Hailing App of Automaker GAC Group"
     excerpt: "Autonomous driving technology developer Pony.ai is expanding its presence in China in a new partnership with automaker GAC, which is China’s fifth largest carmaker and a longtime Pony.ai partner. As part of the close collaboration with GAC,"
     publishedDateTime: 2022-04-26T15:30:00Z

@@ -18,46 +18,42 @@ topics:
   - AI
 
 related:
-  - title: "Canadian government invests in woman-led, sustainable AI company in Toronto"
-    excerpt: "The Federal Economic Development Agency for Southern Ontario (FedDev Ontario) today announced an investment of over C$5.7 million in Canvass Analytics Inc. (Canvass AI) a woman-led artificial intelligence (AI) company whose mission is to make AI easy-to-use so that the industrial sector can accelerate its transformation into a profitable and environmentally sustainable industry."
-    publishedDateTime: 2022-04-22T15:20:00Z
-    webUrl: "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691"
-    ampWebUrl: "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1"
+  - title: "Loris announces $12m Series A to transform AI for customer service"
+    excerpt: "Bow Capital and ServiceNow Ventures invest in Loris to bring no-code AI solutions that assist human agents and conversational insights tools to the mass market. NEW YORK, April 26, 2022 /PRNewswire/ -- Loris,"
+    publishedDateTime: 2022-04-26T16:30:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-3a5c73574e59c8e3c4d86d8c0bac2508"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 55
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/04/canvass_logo_square.png"
-        width: 520
-        height: 520
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Canadian government invests in woman-led, sustainable AI company in Toronto"
-    excerpt: "The Federal Economic Development Agency for Southern Ontario (FedDev Ontario) today announced an investment of over C$5.7 million in Canvass Analytics Inc. (Canvass AI) a woman-led artificial intelligence (AI) company whose mission is to make AI easy-to-use so that the industrial sector can accelerate its transformation into a profitable and environmentally sustainable industry."
-    publishedDateTime: 2022-04-24T20:03:00Z
-    webUrl: "https://www.itbusiness.ca/news/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/121403"
-    ampWebUrl: "https://www.itbusiness.ca/news/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/121403?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/121403?amp=1"
+  - title: "How Artificial Intelligence Is Transforming Service Desks"
+    excerpt: "AI-powered event management enables a company to detect infrastructure issues in real-time and immediately initiate automated resolution workflows to"
+    publishedDateTime: 2022-04-27T07:34:00Z
+    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-transforming-service-desks--nid-9765.html"
     type: article
     provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 55
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
     images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/04/canvass_logo_square.png"
-        width: 520
-        height: 520
+      - url: "https://www.cioapplications.com/newstransfer/upload/qvprcio-appli450308.jpg"
+        width: 450
+        height: 308
         isCached: true
-  - title: "VoPay And HES FinTech Partner To Make Real-Time Payments More Accessible For Canadian Lenders"
-    excerpt: "VoPay, a leader in payment innovation, announced today that it has partnered with HES FinTech, a European-based lending software vendor, continuing the fintech company’s growing loan management partner portfolio."
-    publishedDateTime: 2022-04-26T00:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=652985"
+  - title: "Gnani.ai's assist365 Low-code Omnichannel Conversational AI Automation Platform V2.0 Sees a 3x Rise in Adoption"
+    excerpt: "Gnani.ai, a global frontrunner in Conversational AI and customer service automation today announced a 3x rise in uptake for the new version of the assist365 low-code omnichannel automation platform. assist365 is Gnani."
+    publishedDateTime: 2022-04-27T02:24:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220426/3935392.html"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "MJxjzpOTJ32iMYmtd+N/HySoxf57jy2xh6GzsR+/zkXS281FIKeUrZZjT1b+7M1Te6a7dIN7WeVsIau4Ur9muTvNczrDJchRLPG+22NwCxSeFXvJCcSskgBCJic9to+omSaAUcoMgqrKnTxUeTP3mrCFOvgtRajGZY4XFEBkrAAhVzeqa0vYSipFwwurJjOqKfw0zyRXWBO0sOLmbCoKvPCilu7JqrAuaGNUYnuCkBXo7fHSHtyST/VNvCiJKZe5oiKxOTVGATHJ4IfVp9hz/yvlGlfIEcmvuGTB/ZIbdtnaejGjZ7nH9L+4xXdWtafH80ChnR6gvDQ7E3VOV9HR1H8uDinSDL9RL8k2Z5t1Tv4=;Spe1v2ERfGpWJFvCWJX3XA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/04/26/artificial-intelligence-systems
 webUrl: "https://www.fmiblog.com/2022/04/26/artificial-intelligence-systems-spending-market-outlook-current-and-future-industry-landscape-analysis-by-2027/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "AI in Travel and Hospitality Market Outlook, Competitive Landscape and Forecasts to 2031"
+    excerpt: "Artificial Intelligence (AI) is developing, making it more attractive and reliable as a business solution. Businesses in the travel and hospitality sector"
+    publishedDateTime: 2022-04-27T07:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-travel-and-hospitality-market-outlook-competitive-landscape-and-forecasts-to-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "QYSp6sUdF6cDfbj9akUI+UrkUKRJTxyPoNKt6PaFbmsF9+QJAU2pHPkv85sVexjFikqm8qAICHJWO038hVB0Zjud5GW+TidXLZ3w2CtbB5SZ5c41c9qHnnB7qPuqabxUPTs+A9GhKYQmgGOcGuzyav6+gm+xqg7kbGkbqVuWbSZvCQ6mAXcBJp48Fkrypg/TossL2pediLw0W9nfWz8J9daseIlrb1XO2KGZyMr2+1PX3ZgLBwhYTUeYSlU4+l7Pm6IWZHHFwy/T2gNbSr1hknqFnDDd2PQTUgcij3P3+m4gDSCX6rago9gCt0ot+WKygBWkY3Kq7sdk4omuJrKqxbmr1g2yBx5C8EXM3IT58Ns=;ONDEsErDPKO1223uRoynhw=="
 ---

@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Future intelligence: AI and the gambling industry"
+    excerpt: "One of the fastest-growing areas is artificial intelligence, a process in which software is programmed to perform human tasks."
+    publishedDateTime: 2022-04-27T09:38:00Z
+    webUrl: "https://igamingbusiness.com/ai-gambling-industry/"
+    type: article
+    provider:
+      name: igamingbusiness.com
+      domain: igamingbusiness.com
+    quality: 37
+    images:
+      - url: "https://igamingbusiness.com/wp-content/uploads/2022/04/16-18_TI_Can-AI-revolutionise-gaming_mainimage-1.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "tmN4qTmQetL2mfT2b2bjQPJ+817V3NFqz8KQ+U5cYKBsfzrTKRJUdybYPOkCeJQSWqoddfyD27vKbGNLrSDAjOWJbPoJQTCzW7weVM58ASp9bLqZCJyq8EfvXgUj2LfjEPY/p8qtgzrnTDOqUNB3RAdazuHxfpqe4oCXenTEXHLQJjOSFbintJcQYwmpPHkpol7Of0OFLDm3BHvS6KP4fNjJXmZc+0W5i71hXgCUgeBau9oLcjrhp2PsqjI7OepNY8XbCP0wgvwciWK6/x/VCl+ijdh/rsAl/xK9RHI4uUcUL5XgPA57JEoTH9lBhOVuX5aDYJ6QsxdJwwGioBtWovn1wqiHNiI1S0sh4tPht/MD0TE5cFdaZdZ8wt7ltZAqGIqAVhXI0MME1n+FCxc+l8EeP6usAiZLYYD+C3IMvBhaaomdH7VOg8tamK9qUgVW+weRA3QRT0qCBcpIcgd1EtaibdI05BlDRhL4kI3j8I9K28S2swXNqFjjffQ0N6SyDmrw9Zq4RK3sWtVthq2Vxg==;nA3mEV4cw9+Rblyhwor9wQ=="
 ---

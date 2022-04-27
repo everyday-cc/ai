@@ -29,19 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Aerospace Robotics Market Key Leaders Analysis, Demands, Emerging Technology by Regional Forecast to 2027"
-    excerpt: "AM 'Top Companies in Aerospace Robotics Market are ABB Group (Switzerland)Electroimpact Inc. (The U.S.)Fanuc Corporation (Jap"
-    publishedDateTime: 2022-04-25T11:05:00Z
-    webUrl: "https://menafn.com/1104086622/Aerospace-Robotics-Market-Key-Leaders-Analysis-Demands-Emerging-Technology-by-Regional-Forecast-to-2027"
+  - title: "Global Self Driving Wheelchair Market 2022 Key Performance, Top Players, Segmentation, Future Plans and Forecast to 2028"
+    excerpt: "Global Self Driving Wheelchair Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028, the new advanced research study and presentation by MarketsandResearch.biz is ready to provide you with incredible industry-related details that have a significant impact on growth."
+    publishedDateTime: 2022-04-26T22:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2022-key-performance-top-players-segmentation-future-plans-and-forecast-to-2028-2022-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ai Platform Service Market Size, Share, Growth and Trends, Forecast to 2030"
+    excerpt: "Key Companies Covered in the Ai Platform Service Market Research are  Microsoft (US), Google (US), Salesforce (US), IBM (US), Intel (US),"
+    publishedDateTime: 2022-04-23T10:59:00Z
+    webUrl: "https://menafn.com/1104079272/Ai-Platform-Service-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 37
+    quality: 35
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?171601"
-        width: 375
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
+        width: 268
         height: 250
+        isCached: true
+  - title: "Artificial Intelligence Platform Market in 2022: with Top Countries Data, Industry Insights by Top Key Players, Types and Applications"
+    excerpt: "Global “Artificial Intelligence Platform Market” 2022 report presents an exclusive analysis of market size, share,"
+    publishedDateTime: 2022-04-25T08:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-in-2022-with-top-countries-data-industry-insights-by-top-key-players-types-and-applications-2022-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Text-to-Speech Market Top Regions, Leading Players Upcoming Trends and Revenue Forecast"
     excerpt: "Emergen Research Logo Increasing geriatric population and rising demand for handheld devices is driving growth of the global text-to-spee"

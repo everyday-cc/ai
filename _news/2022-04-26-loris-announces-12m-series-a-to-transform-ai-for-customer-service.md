@@ -24,6 +24,29 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Is Transforming Service Desks"
+    excerpt: "AI-powered event management enables a company to detect infrastructure issues in real-time and immediately initiate automated resolution workflows to"
+    publishedDateTime: 2022-04-27T07:34:00Z
+    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-transforming-service-desks--nid-9765.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/qvprcio-appli450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "ServiceTitan Launches Titan Intelligence, Bringing AI To The Trades"
+    excerpt: "The Next Generation of ServiceTitan's Operating System for the Trades Helps Contractors Harness the Power of their Data to Predict Outcomes, Automate Tasks, and Embrace Digital Transformation The trades industry is at an inflection point as trends in data analytics,"
+    publishedDateTime: 2022-04-22T17:30:00Z
+    webUrl: "https://www.nwahomepage.com/business/press-releases/cision/20220422LA32804/servicetitan-launches-titan-intelligence-bringing-ai-to-the-trades/"
+    type: article
+    provider:
+      name: KNWA News
+      domain: nwahomepage.com
+    quality: 17
   - title: "Gnani.ai's assist365 Low-code Omnichannel Conversational AI Automation Platform V2.0 Sees a 3x Rise in Adoption"
     excerpt: "Gnani.ai, a global frontrunner in Conversational AI and customer service automation today announced a 3x rise in uptake for the new version of the assist365 low-code omnichannel automation platform. assist365 is Gnani."
     publishedDateTime: 2022-04-27T02:24:00Z

@@ -65,20 +65,6 @@ related:
       name: Nippon
       domain: nippon.com
     quality: 34
-  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
-    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T09:00:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 33
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
   - title: "TD chief AI officer, CDL-Toronto lead team up with health expert for new healthtech startup, Signal 1"
     excerpt: "Three Canadian technology leaders are coming together to launch a healthtech startup with $12.7 million CAD ($10 million USD) in all-equity seed funding. Signal 1, which was co-founded by TD chief AI officer Tomi Poutanen, raised the Inovia Capital-led ..."
     publishedDateTime: 2022-04-25T17:41:00Z
@@ -93,6 +79,15 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
+    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
+    publishedDateTime: 2022-04-26T06:00:00Z
+    webUrl: "https://fox59.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+    type: article
+    provider:
+      name: FOX59 News
+      domain: fox59.com
+    quality: 13
 
 secured: "z37UBI10asdqa4VHuZ4DeG2lWD9z3SsS8fnntyU5cSEtpQ2aaUDgtH4claodPGEb2RcM4l8UyEImhcrL1hNrdA2B2Z3IDwjUG6FNYF9DpdbnH+DRfYN6HFrx5kea/uO03zhaKGvS27WkRFeNysYKaeR6x9OSLMSOJCjHnzT8/E7TnsnDQ0OWhrI94sPYMcV6Dd2WdAfh0/jcapJ3BsmSL5egzQuRr8kisVKU9kN6iTiIpj+nnDomfbYCWtJ3KXjMvuiY2kk/sZ77XVEUfetpd8l5GGUFACJD3SyU7otDHlSa7RxiPQtvGL+iVNaQ0Av7b1tqPmIR3tFYGcYvT1BsykrNut6XsJYqWol3KxJXj68=;F/Keb5kG23rJE3azTJNZlg=="
 ---

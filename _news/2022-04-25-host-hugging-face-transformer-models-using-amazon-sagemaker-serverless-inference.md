@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/host-hugging-face-tr
 webUrl: "https://aws.amazon.com/blogs/machine-learning/host-hugging-face-transformer-models-using-amazon-sagemaker-serverless-inference/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: AWS
@@ -27,22 +27,6 @@ images:
     width: 1019
     height: 630
     isCached: true
-
-related:
-  - title: "Secure AWS CodeArtifact access for isolated Amazon SageMaker notebook instances"
-    excerpt: "AWS CodeArtifact allows developers to connect internal code repositories to upstream code repositories like Pypi, Maven, or NPM. AWS CodeArtifact is a powerful addition to CI/CD workflows on AWS, but it is similarly effective for code-bases hosted on a Jupyter notebook. This is a common development paradigm"
-    publishedDateTime: 2022-04-22T16:56:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/secure-aws-codeartifact-access-for-isolated-amazon-sagemaker-notebook-instances/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/19/ML-4423-image001-whitebackground.png"
-        width: 655
-        height: 461
-        isCached: true
 
 secured: "Qtp//ZoPLFeLuDmGioceIt8AYm6W/NImSvXXCEbdLorvjufzVKkw+s91oDNJnzdtuWZ8sPTu7z+wftGf/AnxCGhMOrQ3pRgKhtpxo3pMsDrtyCjZViNkD/mxw49C3mPQI9tLvnspWLb3ARqhuR65uIfKkMuACozy40JS2wY3RMnrA/Kc5+UDFYzzlXwLXQnqriL/BSEjT3SO7FgsutPatviFEEwsQopSLr6LoHA4G0px0eFxkdKxoIVxMxnVfKjvvY/PGE3Rj/mViz+7kwvTfoZYaSWkeMzYXUWIArZHZhSOPDQ9Aw0skGH4gDLpN2m7bl37yJNbGT3xWwmdC2iw5cjnOyTWBxESigwOwDBKm4g=;iQ/tyGyEDlJX4tjZd8iquw=="
 ---

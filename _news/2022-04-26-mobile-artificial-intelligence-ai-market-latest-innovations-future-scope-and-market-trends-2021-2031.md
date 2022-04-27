@@ -23,6 +23,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Wearable AI Market : Outlook By Size, Share, Future Growth And Forecast From 2031"
+    excerpt: "Research Nester published a report titled “Wearable AI Market: Global Demand Analysis & Opportunity Outlook 2031”  which delivers"
+    publishedDateTime: 2022-04-23T11:01:00Z
+    webUrl: "https://menafn.com/1104079170/Wearable-AI-Market-Outlook-By-Size-Share-Future-Growth-And-Forecast-From-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
+        width: 268
+        height: 250
+        isCached: true
+
 secured: "IkLiYEpfR+ld0gDwT59z6d/nYWh//RHO/bQsorOlFE8a62i9s0eS4B0mZ/7K60DnXeslzPPdjFVhhuQUpYiSAg4K0rkUDMcxSq1S+chNwqwpkfs7WMK3Byno7LaiT0jAKXkiQDPNaSpdcdUSht++ySjTxPCKybtS4W2Ps0zQgWS8rp0pWvc3e60NKisTrw4RoF/2IHB4iAd8+fPog6KoRhQxcNugFvNqcwU5TFhLY07bvxQpFtKUMvDgqeP7mDC6dVO3+wyP8Dklu2LEymvb/Q1TGkFzV0mQ8F60egUluws8mYWU8POEMhJujp2E7Nap8G+zrnMvbMuBZErM3ghaO/OttfjBjGsh8V23RLFYjLI=;j6d21+i1y5I5dqAkhcDlIA=="
 ---
 

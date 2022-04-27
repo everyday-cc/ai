@@ -25,17 +25,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "MulticoreWare Inc. Announces the MVP Availability of HuBe.ai - Human Behavior Intelligence Platform"
-    excerpt: "MulticoreWare Inc. introduces HuBe.ai - The first of its kind Human Behavior Intelligence (HBI) Cloud platform delivered as a Software as a Service (SaaS). HuBe.ai helps enterprises make better human decisions by tracking visual human behavior."
-    publishedDateTime: 2022-04-22T15:17:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-multicoreware-inc-announces-the-mvp-availability-of-hubeai-human-behavior-intelligence-platform"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 3
-
 secured: "upYEajJ1C5ZSYqKtcGKdAsNIUJV7aMAdHrWajL/xyAY48YOSiVOdeMngw26+IvsKw6T5uHmFt/4xeyw9LEcjFVy0h+/8/vgKN7T4UP2xxp0uo02Qt0sUbV32IPXNLVhgmQrC9C6aFGCHBy3c6615kDOarudIAu/M5I5Zfpyat+QboxYp36kspIhjF9lJRDByE1BmJVCeUGy1Ly2/1rJzp1NLm3e6JGqQhT+LmKPIaNrqn9QdNBOxYytB+sA190kWScaHRJKEJUdo99221z3/cfZUSmMoLpr4iJT1x87Fqf2ZqlMj+9GKvAKd1VI8x+Yru6dCpbOCOPe6nfPgw9Y6fKlfUjQmDD1SUHwwLLGQXT889e6EkZNHqzrfLSMhS/9jCJfySl4Ahylxgtv2c9c6Q0DTq6a4JyAuG+47BR7qU7JLj1zGq06OAki/T5EqRCu9/y+hFE2gvyzCzgS7AVXmxZ2YfkwwFbaJxrDKdNQ8n6++nDfv5vc872AfttO6LGNPF9YJtFDMZQk+aYpqAXYiUQ==;Hu2pR1jgGjvt5PL7khwIKQ=="
 ---
 

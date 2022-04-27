@@ -161,20 +161,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "New UK law will let drivers watch TV in their self-driving cars"
-    excerpt: "The United Kingdom Highway Code is being updated and will allow UK drivers in self-driving vehicles to watch TV while their car drives them down the road. What could possibly go wrong? The new UK rule was reported earlier this week by BBC News."
-    publishedDateTime: 2022-04-22T16:40:00Z
-    webUrl: "https://knowtechie.com/new-uk-law-will-let-drivers-watch-tv-in-their-self-driving-cars/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 24
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2019/12/stardew-valley-on-tesla-screen-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "kY37uQlPQ/6O2iPhYehbaQn/WL1hQv01yoGQbA/Z8fYCl4aYmWndt96dqKg/pzLSbZQHmTvGJnqXPIhAkzl7DvnFpGUoQdsPhqcdmzt6O6otcuKTQAOeJE34xv1X0hn4/LFNluceJQtEi68sRtpkOYA57P4q4o7A7AR7Ro71uahsw9VaGgsDTT4ChdhXQgchB0sc9PnHrcSovwtFXcbb26/k3TF86OWbjZTZp71slBSbjKoCuvpyBtZtsUzHWiUucZzP9EkS9qB4A3E3AmkGdb/U3cXqKgpCN/dN+h4CFlUDnhMjuO3TjN9xbEK5GZjA4OUgMQqBU9Un5oSyB5ufHJsjXTl08KVL64/ZPRKE6hFbcwtQ47kxrvsggKT1O1sMwTjm6OaH+L9nfHv4Lk6PKQGjKJ4lL+XdslH7yAmNVjRrGlPMksKLs6vfFREsWn7O+FL30s2CbCtbWPN7jKq5U65V1ZfVT7aAEK540iwRufHysugrxJoKhkwoZZRFzPPnoPL5hqBWVyFrlKgzAqD+lg==;3oBkx6xd6q5vAcAQ75nSYA=="
 ---

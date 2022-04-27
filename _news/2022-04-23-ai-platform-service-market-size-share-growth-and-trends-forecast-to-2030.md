@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104079272/Ai-Platform-Service-Market-Size-Shar
 webUrl: "https://menafn.com/1104079272/Ai-Platform-Service-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,47 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "Wearable AI Market : Outlook By Size, Share, Future Growth And Forecast From 2031"
-    excerpt: "Research Nester published a report titled “Wearable AI Market: Global Demand Analysis & Opportunity Outlook 2031”  which delivers"
-    publishedDateTime: 2022-04-23T11:01:00Z
-    webUrl: "https://menafn.com/1104079170/Wearable-AI-Market-Outlook-By-Size-Share-Future-Growth-And-Forecast-From-2031"
+  - title: "Global Self Driving Wheelchair Market 2022 Key Performance, Top Players, Segmentation, Future Plans and Forecast to 2028"
+    excerpt: "Global Self Driving Wheelchair Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028, the new advanced research study and presentation by MarketsandResearch.biz is ready to provide you with incredible industry-related details that have a significant impact on growth."
+    publishedDateTime: 2022-04-26T22:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2022-key-performance-top-players-segmentation-future-plans-and-forecast-to-2028-2022-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Platform Market in 2022: with Top Countries Data, Industry Insights by Top Key Players, Types and Applications"
+    excerpt: "Global “Artificial Intelligence Platform Market” 2022 report presents an exclusive analysis of market size, share,"
+    publishedDateTime: 2022-04-25T08:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-in-2022-with-top-countries-data-industry-insights-by-top-key-players-types-and-applications-2022-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Operations Platform Market - Global Industry Share, Size, Growth, Demands, Revenue, Top Leaders and Forecast by 2029"
+    excerpt: "A new business intelligence report released by Data Bridge Market Research with title “Artificial Intelligence"
+    publishedDateTime: 2022-04-26T05:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-operations-platform-market---global-industry-share-size-growth-demands-revenue-top-leaders-and-forecast-by-2029-2022-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Text-to-Speech Market Top Regions, Leading Players Upcoming Trends and Revenue Forecast"
+    excerpt: "Emergen Research Logo Increasing geriatric population and rising demand for handheld devices is driving growth of the global text-to-spee"
+    publishedDateTime: 2022-04-25T10:55:00Z
+    webUrl: "https://menafn.com/1104085048/Text-to-Speech-Market-Top-Regions-Leading-Players-Upcoming-Trends-and-Revenue-Forecast"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 32
+    quality: 16
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
-        width: 268
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?171601"
+        width: 375
         height: 250
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market Set for Rapid Growth during 2021 – 2031"
-    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
-    publishedDateTime: 2022-04-27T07:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-set-for-rapid-growth-during-2021-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI in Travel and Hospitality Market Outlook, Competitive Landscape and Forecasts to 2031"
-    excerpt: "Artificial Intelligence (AI) is developing, making it more attractive and reliable as a business solution. Businesses in the travel and hospitality sector"
-    publishedDateTime: 2022-04-27T07:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-travel-and-hospitality-market-outlook-competitive-landscape-and-forecasts-to-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "stdwPTzgo6ZtbMz0MWf1dE10sygFYRJqhcNqHvVF9vtfzYFdFCbO5fB7eYMQkJcOvV8hn375ugq7CbqVvBTTYDL5VDjUWZXTqpJOkgPqRAsIeTfZlC4NBqXInC8/3rX3MkPCkHlQMFQ4Nhdzz648rVp98pFIbXHDJFt4Bmonj1VtBQnHq8GuObF7S7ywX3PK4ualqHkzQVYj/S4l8LkSQMjPjhNO3VK4xFYHBWhcjsa7m5aPvqeumRVPMNEEStFqPe3+1WjdkegXX6OWNASClXuFDPq+HC9nRH3NHqAwNmbPFB1OOTM6oVftcZANe43OkT96Ly51ugCHyYeFFAMlT2ML7VPS0mgyiYkg3XCZ3LQ=;/nOIPr42YzqVVtyuEaGgfg=="

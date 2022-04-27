@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 604
     height: 340
     isCached: true
-
-related:
-  - title: "DeepMind, Mila & Google Brain Enable Generalization Capabilities for Causal Graph Structure Induction"
-    excerpt: "Discovering a system’s causal relationships and structure is a crucial yet challenging problem in scientific disciplines ranging from medicine and biology to economics. While researchers typically adopt the graphical formalism of causal Bayesian networks (CBNs) to induce a graph structure that best describes these relationships,"
-    publishedDateTime: 2022-04-22T16:11:00Z
-    webUrl: "https://syncedreview.com/2022/04/22/deepmind-mila-google-brain-enable-generalization-capabilities-for-causal-graph-structure-induction/"
-    ampWebUrl: "https://syncedreview.com/2022/04/22/deepmind-mila-google-brain-enable-generalization-capabilities-for-causal-graph-structure-induction/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/22/deepmind-mila-google-brain-enable-generalization-capabilities-for-causal-graph-structure-induction/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
 
 secured: "RhV2Q9jxD1cuIfIuQCap5IO587lkiQm/kBtPr7zHZ8pJR1CtaDdu7+6451FzUhI1LNuu/TEW1zVuC4FyLtzBGg8gGwzqIJtFNvfvVRXLeXjxgExpNkqLyPXmzeGYja0jLZTafiDp8CkOGgv9XMBAOUyxRgWGZSXtqBg1ncfDjb7kIRQJEly2pMgh2HHVHAka+AI6aU/o+bE8yAY2H4MIIy3NGMldIsfqMZJZ4HCY1eHrBx5pblWNmjP0Ii/8rWnwpVSTk4EU/aKKHQSISk9XNPuDTl5U9LYvpW3LMB3tDRiflHf6YXuvqSTPOzgl5KXcovOX1OvGlqFOtQ29a2gG7PdrnoaUmlELjcbg41hkk14RhQOOmpumHX2t+7uQ7zmv/cEmzj7zpWv9wBo4bLJLMCf1PKPVyI4az+b+j2Jmo+UsGzz4ZEot43MvONogKaca9Wc/Jb4zAPYP3njvEXuHSGyDNXtLw41SLZMhf9NhFUxtxiNBbAYnkrU/gq0ffMQMVIshhvz8dWkWfPX//lARPw==;fHfL1XzzxGmfgYJlnHbYqA=="
 ---

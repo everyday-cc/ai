@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "U.S. Senate campaign ad takes aim at Tesla's self-driving technology"
-    excerpt: "There's a new political ad taking aim at Tesla's self-driving technology.The ad is from Dan O'Dowd -- the billionaire founder of a Santa Barbara tech company who is running against U.S. Sen. Alex Padilla."
-    publishedDateTime: 2022-04-22T16:54:00Z
-    webUrl: "https://www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology"
-    ampWebUrl: "https://www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 54
 
 secured: "tDWa1XUUMCIEykqJa3puRnXvoGpoDXQdgtkShiTUEeERnR0D8ZUlwqoH9n9BdH4Q+WIjdj62GqJGSZqKTduzglAGSQyz+EnMOdPb/ZRhCEz5D6k9DTVsci9h2Wi4Fz2sTITwnRpmJwClMxD/VQmcLkDZqOR/Q8M9yoqs1t2KLKmHcujhqH4U90aHU2Nj6WALu06/pyY4jwHKzzKbxSslwq2eupxywq2FpyavE/k99agqqdLDJ1o4q1aiD+t1URqfb9/DFeSSJRz0u/5AxjTagjDpvvCwY81gleDmLtXa+IiA8yu/D86j3VARkM9Z6ZHWAqTjwsGFQGkJTZ1Qus3OK1ezXTSKpGf3rJ6xhpiZk20=;DAMl03bheS9FMY10HC7yvA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220422/AI-based-system-impro
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: News Medical
@@ -42,17 +42,6 @@ related:
         width: 945
         height: 532
         isCached: true
-  - title: "Artificial Intelligence – A Pioneer in Bladder Cancer Treatment Prediction"
-    excerpt: "Artificial intelligence learning tools can be useful as a second opinion to assist physicians in decision making of bladder cancer treatment but they can also make mistakes."
-    publishedDateTime: 2022-04-22T16:28:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 35
 
 secured: "lHDXhAw6GNaPDLEUfbsUV+odOaypyQgM5bBRg5pejRb9uzhmddthIPBL7BB7TiY/A5gbwT18BZIle5wcURnE1ZhAoL8zHiPZuQ3v0D47l95zyKP5IBvVYNv0u1al8IMNONV8BhQWGFpllKWv/ze59JdgJtrQcjAO6u5UlG2N8qYH/KqS4B+SHl7Sc99ssMoPiU6S4qhXZxvV5dO1ArztmCJOzFFqMZT76JOfNz20+xjvoTgxopolT+FHyDsmVgYtlrz/neSmx+iSHSBBaHcW7YXwEhowZdCvHOz9j2+5QlD6uIVY8xBcXWHp9yV5TqEmk88+xOJMsrjHEJ8ly65xlrUUGUt4fXDWLxOhKFk/jfQ=;2RQbllhkYaromdV7HET6Vw=="
 ---

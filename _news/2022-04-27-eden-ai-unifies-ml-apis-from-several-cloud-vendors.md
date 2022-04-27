@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-
 ampWebUrl: "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 108
+heat: 108
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/04/Eden-AI.jpeg?w=1024"
@@ -30,6 +32,6 @@ images:
     height: 680
     isCached: true
 
-secured: "ULymSTDcwkw47c1Vj6XEoPWs+HSqO2O3357HIV6lCrgcLAHHGQUp6rk0Wa4lL6X+D7O4hXRIPDmYB/lvRvmBXYbGm5ks3mqY7OI6l+0jKd6o9+BVFrFBW/EzrK8HPKLhzQdTg5R3I98tkbwjJqSah9tUZcTW8i5rCx19Wmca5eBNmWwbwdVBHCuODioM6Fs02qv5xHFTXwZ7yiKJxaoOfymkczYOQUrSwexrGLdZm/uK45Ki/nO6anrUKlgeBkxFl3RDd+WaDwoRlCJ92awQkC85i3OgciaDosUcGWbZqUM2Mz26Frk3d1eJcjMcgoXjn2tiNBWL5FJxMyVy8I9PoEstwRysNg3a3H0+bxFh7N4=;KuLPNc5UDa4FvInPft6KLA=="
+secured: "MwwnTG/QIpcrHg5SPMwC6E8NNmURv4yGz8IcevWsloq8steOfDnpN/48NLaNa6qpo+ElaFwtKD1RNIYhevYk2NYc/kuvVs3HJMuX5ivl1cjjgNw+ZYiz+AOAeOcoVPTNSYWXEjjM4JQb+WYe1wjQMhubUBwHcwoPliLOParb/sMMrGAC/xjeQPtkEdmlIRFWyps5jFwC+BEk7mMoJ9H49t7lBlYVIFUVriUEBfIbFj2VYJjimvyYD8e2EZHXg+naa2CqEvNlUP72Mb6LqEL0Sj3QTOusBNcdBTEB0lMMhapjb0RD5J0JKo9uIBkEdEs/LSibjtqWm01QiocFsg8XenI2jd6AZlwuoTdHI0K0Q3/8XGSqmPYHuFoUyQiBxy64472TsHca3oUrKQlFX6G2cdLTGT3jY2LiDaBNoKpemh5mziFWZ7NANAmKyFGNfsCpRuqmIR2q7chvXnmaEIqmkyTBUaLnckpCbt3EQZN4hHwTH/ZVJ+/3f89yU/PXMkoU/E8VWsJC3gJeLJ559Ec35g==;s9NGePEvaW2DIR2wOaeb0g=="
 ---
 

@@ -41,15 +41,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Controversial UK Law Will Allow Watching TV Behind The Wheel Of A Self-Driving Car"
-    excerpt: "New proposed updates to the Highway Code concerning self-driving cars in the UK will allow a human driver to watch television or other video media on a built-in screen while the car is in charge ..."
-    publishedDateTime: 2022-04-22T16:48:00Z
-    webUrl: "https://hothardware.com/news/uk-law-will-allow-watching-tv-behind-wheel-of-self-driving-car"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 0
 
 secured: "1zhsCsQSBT2iZYWiudpWjKsuOzKMmIb3FdLvwF/M2dnSW3WdepY/kYTloYWipEdlImcPx/K4EWCb/am7Z20RAvDh+JMa9pRAWjbeJzyam2pdObXMC79/YpysFutUG/5W7dhKKXNfbQ9uMb9dFbTpl2nFExXRabDIjU0L84S1vlgmc53rcOP4hzd5hpaJ2OJjRLUSFSlNaKPNDwJql5g81lE28/VDSyx7R3Tk7Hhqsi7cLcVeIvx+LtgmjwWeyc9sqQdWtcCMGl2iC6BjqO3nBH3q857wap8NVhHGSLAlg6ys2TO6UAX79ijYC9h6ZX0um/I2D6gHxhAzE/0nPSGJdn2z/19Jg3ofw2iYTWUFl/c=;4gPyCIOnfE55va1eazUjLg=="
 ---

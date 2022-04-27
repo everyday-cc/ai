@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Japanese AMR startup gains $51 million venture round from Goldman Sachs"
-    excerpt: "The bustling sector of autonomous mobile robots (AMRs) for warehouse fulfillment work gained another well-funded player this week when Japanese startup Rapyuta Robotics ... of its robotics solutions and artificial intelligence technologies."
-    publishedDateTime: 2022-04-26T18:15:00Z
-    webUrl: "https://www.dcvelocity.com/articles/54461-japanese-amr-startup-gains-51-million-venture-round-from-goldman-sachs"
+  - title: "Rapyuta Robotics Raises USD 51M in Series C Funding"
+    excerpt: "its cloud robotics platform, rapyuta.io, utilizes advanced control and artificial intelligence technologies to improve the efficiency and safety of warehouse operations, enable multiple robots to work harmoniously together, and create a remote-controlled ..."
+    publishedDateTime: 2022-04-27T09:20:00Z
+    webUrl: "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 19
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 69
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/rapyuta.jpeg"
+        width: 333
+        height: 333
+        isCached: true
 
 secured: "JARjAKdU0u0pWnxYK0fiaNfE6RiYZvFbV6zEFgUvg9iYrEdhA5SOlmenTuuYJRJs19m9kk8mQuwz2/aphUN6YuzHOgC/q9fk+OYXQYhAZnYbIHvrDy+JiAY5O0PnTkw4MRvD4PR1Jbp72hxN1fYjKxG0Ddh0cSU1cFL79qHeDp1QOspXfZzREBW6q/gI5z2fgC580z9kCmgQamFXscR0xVoLBAzlqM5nQgjxCFIA1qzY6jmmiGqDDIWtIJycotxMMvVlY9Mve5SfIlumWiuDmgDxMtFEIE+RLC8jOPE+VXT0v8fqI+45hwkL4r+e7RaS4WCNz3hekaUKyudg7/oXJ/yi8UHbendLFUw4WBOt8w0=;Am9Rd3CQqIztTdfxXM6zLw=="
 ---

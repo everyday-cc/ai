@@ -42,17 +42,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial Intelligence – A Pioneer in Bladder Cancer Treatment Prediction"
-    excerpt: "Artificial intelligence learning tools can be useful as a second opinion to assist physicians in decision making of bladder cancer treatment but they can also make mistakes."
-    publishedDateTime: 2022-04-22T16:28:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 35
 
 secured: "3+9Y9sw5ZsVSflPtISv3jJEzEseVQ6F9pfpPDYN5qfNaRsswpxRMT2HfIA/bynC89t3X8yEXEdxjzgiOIaT7b4+Goirho4isrITW0fMLo3Qe5gTWj5R4kOaZbLN2c6bZAvR3thdiaR56PRbaGqnrfOw2yp+bwEUHDnioQTxXwBjS/7j+UFd4yKWRpHEOgk+FiLMzQz7Ytk6rbjDUEfXGuLW/FGbz/Opg3TmPwWXxbGE08UdzDrN7cZPKjicveX61EUJeBmD0TWyi9HTTS1WddTtahJOPD7jlhJH5BCYIX1fZhE5GObzYn8kmXhlRqZtsS3VeMrzXXulNj0F0DXjHEZcO5kR8TvIxFZP1rYilFmA=;xozYiJHcRHYhrDdo8OyTfA=="
 ---

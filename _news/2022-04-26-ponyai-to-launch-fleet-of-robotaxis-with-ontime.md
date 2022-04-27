@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26805079"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26805079"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepRoute.ai unveils autonomous ‘Robotaxi’ fleet"
-    excerpt: "Its proprietary low-energy consumption computing platform and inference engine combined with Nvidia Drive Orin systems-on-chip will allow the company to meet automotive-grade standards for series production more quickly, the company said. DeepRoute.ai’s ..."
-    publishedDateTime: 2022-04-22T16:09:00Z
-    webUrl: "https://www.gpsworld.com/deeproute-ai-unveils-autonomous-robotaxi-fleet/"
-    type: article
-    provider:
-      name: GPS World
-      domain: gpsworld.com
-    quality: 39
-    images:
-      - url: "https://www.gpsworld.com/wp-content/uploads/2022/04/Robotaxi-DeepRoute-ai.jpg"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Toyota backed Robotaxi Pony.ai obtains license to operate in China"
     excerpt: "Backed by Toyota Motor Corp. the company can now deploy driverless vehicles and charge fares for the rides in China."
     publishedDateTime: 2022-04-24T16:00:00Z
