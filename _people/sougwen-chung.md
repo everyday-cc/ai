@@ -3,7 +3,7 @@ name: "Sougwen Chung"
 bio: "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences."
 location: New York, New York
 type: "profile"
-heat: 65
+heat: 0
 
 website: https://sougwen.com/
 
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Sougwen Chung"
 
-secured: "J8U6gFZdeJ/w1ML6AHAuIOApy6+K8G4zONHKSVoEuKIr/6TyaBhKQv8o0cx6eaduLBa0eyDS4cTgD+X6wLoAbMQWXrjD35u10sQe5CQETDUw+n5B9PRIlU5sMLgBCmCW0LSvWdW8w1d558dTnrnkQBG2iVvlwrID5ZzVXNGlQuy4CerQMHCENnqwaC6ki4++n72dM0VcNSmMWE6oXW5RFUO817L/JkKglm72BbcA4s2gjYcgZm8HO6e2ouWyWbECR/MqKe4KLPjy7rm8J4e3nt5flJ0OTMR2KbfgLe2ktcHKdJW5cM3yjrzJ3cIiMg/RbNioaEdTXhCBWqvIEgvm1xUkmlHUSG4GSvXH7GeKLpLaRLA8mWYZP/H9twNN8wpdkjtdCyA+jabRQDQSUET6Or4Psjwnw64HimSVqYRfi5w=;tahP8sKjPbY0JRcdNvHDKQ=="
+secured: "2Sp37A+Lx6jo2v98cw/7sHy9Az2WkgDkypX3Mb0zhTA+L3muOMZ27Ux1AzHSm3Eu2LwBJxh6WU2B/HzJTESU795poeJ6C/Emrm1x06SsRJLiGhpr1XNQExSdyTDyMTKLkZxcgxfvkXVo71B/mXzay55iJYRiAWL3UodZkcHB5SUfD6f/+9/prpHKvFS3uz21MWpH6r60Dj2TiINxdqjGFBJFC7uvBE7sOE9sv6aNyoYjK2ELnygJ1AvAx1gJr9E7udPC0kp+zoQFdDfyCV2D9PrkCNY9rLlS9m1hpahi4njVeGjwLMAKFjSYDyxjh8CtfPRpg9IlDSAmvSnp2xH/qMH+mJS/KYzk6KqwvR7bh19JpwJMZYNiLfKSWop1S/Wbwd/IJqNsVbNcdOQTtRO7g10E+8ogOc9auvM5ng3Ib+o=;jsA4SzIP6DyaisCvOWEVLQ=="
 ---
 
