@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-26.jpg"
@@ -22,6 +23,6 @@ images:
     height: 668
     isCached: true
 
-secured: "tj1Ncy7C07ZJTXd5qPAk5OQ/kapvOkjc+uLPP3YwehwzBJqeb3VJMuq2aMJZFebFtQDoY0BN6wzKIYtbV2Qiu0aeQ9yLnnn8OK6AmnwrEs3yD7XeSE03UWz7kQrtWkV9F3wai2Zcv7frcYIT5gA7MnVpwyeXhkv0mS/B9lN2ff7hOlHyIxe3eyp5uSl15lxUYiMPuGpoET6JLg/hGXK9gHYDSOKTeDT/fYxa1f2kMbU778NhHuJxaMWrhDdd2WAzjsghxeK9X2Wj3pZn7IDcgg/tIGTRu2eZCn0BgO6h1YG7FwlJD7Ye3kZdKFd8C8RoM/79EtZq6jM9XJo7ktXQNrou05Ws1aiIGGcDLAJ59hs=;oA/XyT5C+mQI5T3l9OwQog=="
+secured: "zRe9+KatQIRhgibmMEDqmLGdSxDexEqj9QPa7qbyhM551A94MmP9knxJFB51roeeDbjIW8Vcnsrba0wuUDpF8JrK3yvh7kMpJ9uTobfYCYM3QKXdiomch4k5p1OBXff95mSXpY49wSA54djC956UjsvZD/EHtFuOTdM5kP3yHng0FetZFXCKN9C+vGKZEhpZ9YNCYeK1ICxhGyJYBrVbqM6Tg05NoQDBBoIIqt8mfoZI9JQoIb/YiEzdx4vq/rg6EzgNCXXjCjA47GyvvrirTgpO5vQ7Lkm4CmLQIMiVWJ1zGbLK36cLs6dLiRlVBk51pBgsnE5nasncT6k++1r29jIb0Lrt27idxVt1nOvBvyLxuUg1DYmGiqxuIz8uD5AwucbWYFAZFa9iXWk/MFvP0k65loWZqbYnpVT4+pUAr5B7ihg6MQHHzGkLX6Was1QESMRYII7NBrXflXnr6jCdwLqhJa0YMLX67XsD7VbGuoNu9LpJEO61Qfjc9tWjfBViEpIUr4iZJZyD93v+5qpE/A==;Ud54jhzDBSMxPLai8WBU1g=="
 ---
 

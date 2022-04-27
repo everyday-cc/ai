@@ -169,14 +169,14 @@ related:
   - title: "Pony.ai to Launch Fleet of Robotaxis with Ontime, GAC’s ride-hailing app, in Guangzhou in 2022"
     excerpt: "Pony.ai, the leading global autonomous driving technology company, today announced a deeper partnership with Ontime, GAC’s ride-hailing app. As part of the partnership, Pony.ai will integrate its virtual driver technology into GAC vehicles,"
     publishedDateTime: 2022-04-26T06:32:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gac-s-ride-hailing-app-in/article_8d033467-a9c2-55ca-8c05-b5be06526a33.html"
+    webUrl: "https://www.eagletribune.com/region/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gac-s-ride-hailing-app-in/article_0d4664bc-c5fe-52ef-9efd-6a7a4ebde544.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: Eagle-Tribune
+      domain: eagletribune.com
     quality: 25
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/85/c85d3f42-425e-5473-bd2a-e7e780ea2171/626792418609c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/e8/ae895490-7b1e-5760-9900-ca3ecc821a9b/626792bb5fbd2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

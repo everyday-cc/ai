@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies"
-excerpt: "TruCorr performs attenuation correction using a Deep Learning approach with data from the patient's SPECT scan. The application eliminates the need to scan the patient in two different positions ..."
-publishedDateTime: 2022-04-22T01:33:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/"
+excerpt: "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,"
+publishedDateTime: 2022-04-22T00:56:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp"
+ampWebUrl: "https://www.benzinga.com/amp/content/26754709"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26754709"
 type: article
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "HBhTc/W3A7TY7uFvOVeao+T2BpC6mGDX+hVF3Zpy6ySHAXMXB04Z3AGbR+4uIPWSKZzcmyBuL+joUH5B8RM6Jl9i3DeLG7D0lBjt5ymZ29W7x1Q0nugNg9AyUxpvAjcUif+BvqX/5lldlZjBuRJ1do0nUxHJn/AFVHYr++q45h5DIIZw6DzUt2txHbc8k7vF4ABZhb0a+RI4qOWhm+aZhEn1Rnkf0Z4gN7rvd3eEhd4W+strN4vk2N/fzsYsPEazqP6NB3HpBuQveN8OM9xE20JzZHCheRcLQZHXdYNF/tf3msQbA6fCiwOgwGaFyuFcjGpJnpOlRR5BM1+SHmDXb8XR3XFxJn6IOTHX/pOywxQ=;3VI+AhUP4zS3mDKkNS28Dg=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "NeU7CcDvC7k5vt8PuoFw9uLJwhQoAei0Gm5np0pHpWDe9Jf3KMkkuP7u2TEhMMcazNdCjERTDlfBgVU23b44ro64kgXwg9uoPB8/vuRVrywdUtiwBuLODj4PUoLTGn3lCCPOoflDk2mMS2KcVM/zX++bzEkPnYRHIxt42Fckm+tQszSyzf8fdUCqss3anDkV5JtxtQ41KgcezbJ6hlrHYzlwVHVojEi3wQp3ulJLhc2CHxGH7oK0k5XvxotIC7Y8BCG6gp8aREnPP6c08rx1uuOkUCNdxMusyc+ZEUIrSAo74uHfSX+4/qAerASWHa3Jj5JCUyK8uIWFe09rxAXMBB4Ghq64zmSjj/r/g8jsjJc=;2zCAsHvmAzGQ53lUzXFV1g=="
 ---
 

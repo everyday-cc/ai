@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028-2022-04-25"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI Chipset Market Size 2022, Market Movements by Trend Analysis, Growth Status and Revenue Expectation to 2028 Research Report"
-    excerpt: "Apr 22, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of Pre and Post COVID-19 on this AI Chipset industry/market.\" Global"
-    publishedDateTime: 2022-04-22T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-chipset-market-size-2022-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-to-2028-research-report-2022-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market Size Hit USD 13.09 Billion at CAGR of 16.8%, in 2028"
     excerpt: "USD 3,766.4 Million in 2020, Market Growth – at a CAGR of 16.8%, Market Trend – Rise in defense budget NEW YORK, NY, UNITED STATES, April 25, 2022 /EINPresswire.com / -- Increasing government expenditure on face recognition systems for enhancing border security and adoption of live surveillance technology in various countries are driving market revenue growth The global face recognition systems market size is expected to reach USD 13."
     publishedDateTime: 2022-04-25T11:08:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Pony.ai to Launch Robotaxis in China With Ontime, the Ride-Hailing App of Automaker GAC Group"
 excerpt: "Autonomous driving technology developer Pony.ai is expanding its presence in China in a new partnership with automaker GAC, which is China’s fifth largest carmaker and a longtime Pony.ai partner. As part of the close collaboration with GAC,"
 publishedDateTime: 2022-04-26T15:30:00Z
-originalUrl: "https://www.futurecar.com/5367/Ponyai-to-Launch-Robotaxis-in-China-With-Ontime-the-Ride-Hailing-App-of-Automaker-GAC-Group"
-webUrl: "https://www.futurecar.com/5367/Ponyai-to-Launch-Robotaxis-in-China-With-Ontime-the-Ride-Hailing-App-of-Automaker-GAC-Group"
+originalUrl: "https://www.futurecar.com/5367/Pony.ai-to-Launch-Robotaxis-in-China-With-Ontime,-the-Ride-Hailing-App-of-Automaker-GAC-Group"
+webUrl: "https://www.futurecar.com/5367/Pony.ai-to-Launch-Robotaxis-in-China-With-Ontime,-the-Ride-Hailing-App-of-Automaker-GAC-Group"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img.futurecar.com/202204/26/l_62680d03d2b57.png"
@@ -79,6 +80,6 @@ related:
       domain: caixinglobal.com
     quality: 19
 
-secured: "71GjbEmIIRHLAAEnGDKxuo65uJPK+5idj5rtQbrihYlQXIfa3/peIVOehbyutMwHvwN0P90hLytF+e7Fgznodlv+paf6I9bTE9Tum1m8A3erMoafDiaycSXQOtqtf3POIXniugm8BEt/1NUsvOYU0dCvEbdAj+aXVjduE3eBSeoSB9KqsRHW5lIXDxaPkaqIM15BPqq1ziakBtHwljQnUyrMmpeeGCSSPtOPc0AHWnHfgg5jt5Y1R3KCKXtQvJNL7c6AuCbo+vRgAT8P5/vhfgvBKk7igGBri0hR9I7+TmbZv4pMpgXSSxWF6dl4rCeu8xVvkoKqaXom0ELpvtyKosck7hJHGNEso8rZw4Hyyk0=;SnbEc3zZmU2oU0whr5QqCA=="
+secured: "E8YdlhiJVJV6L8QEth4LpN77v5+YNz2QuuQCa9TWHrwkPunj960r/e5HxIKVnKOArv4DuKknnYKP1aQ2N4TsYO9OKqbAmqaDJOkZO6OPZZsMLfxQ1NVyMZleXW/wVHg8R/zsC9ho5aV6F6CL9FxiLGlO8615yyReS41w2sF4Tw+N9lEo9l+LWSbo0hqFFUivV+PEqfvLqVWlIEhz/cDl/DfLgSiOUAdgALE2QoPyaiBC23pjXwYwmwRWVzMzQmwyRfkkMGKazTDJSI7LfyXd/opVgDV5AGbGtni0rui83B6ubAGrLGZDrsQm/XLDcIpVvRwUq5T00pEJq92xBx3jgxFD6iyRXHrgFtpoLp/k3y4=;9R7hR//5Zc7+3KA3zDfVVA=="
 ---
 

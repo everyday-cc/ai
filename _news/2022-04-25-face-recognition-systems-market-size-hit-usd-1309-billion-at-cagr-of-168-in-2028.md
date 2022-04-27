@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Chipset Market Size 2022, Market Movements by Trend Analysis, Growth Status and Revenue Expectation to 2028 Research Report"
-    excerpt: "Apr 22, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of Pre and Post COVID-19 on this AI Chipset industry/market.\" Global"
-    publishedDateTime: 2022-04-22T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-chipset-market-size-2022-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-to-2028-research-report-2022-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports"
     excerpt: "The region's businesses are the most forward-thinking in terms of AI, machine learning, natural language processing, and computer vision, boosting the document analysis market's growth. The presence of major players in North America is also a significant ..."
     publishedDateTime: 2022-04-26T13:03:00Z

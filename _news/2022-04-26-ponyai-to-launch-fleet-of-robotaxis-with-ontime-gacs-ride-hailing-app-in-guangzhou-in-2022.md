@@ -3,22 +3,22 @@ category: news
 title: "Pony.ai to Launch Fleet of Robotaxis with Ontime, GAC’s ride-hailing app, in Guangzhou in 2022"
 excerpt: "Pony.ai, the leading global autonomous driving technology company, today announced a deeper partnership with Ontime, GAC’s ride-hailing app. As part of the partnership, Pony.ai will integrate its virtual driver technology into GAC vehicles,"
 publishedDateTime: 2022-04-26T06:32:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gac-s-ride-hailing-app-in/article_8d033467-a9c2-55ca-8c05-b5be06526a33.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gac-s-ride-hailing-app-in/article_8d033467-a9c2-55ca-8c05-b5be06526a33.html"
+originalUrl: "https://www.eagletribune.com/region/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gac-s-ride-hailing-app-in/article_0d4664bc-c5fe-52ef-9efd-6a7a4ebde544.html"
+webUrl: "https://www.eagletribune.com/region/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gac-s-ride-hailing-app-in/article_0d4664bc-c5fe-52ef-9efd-6a7a4ebde544.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/85/c85d3f42-425e-5473-bd2a-e7e780ea2171/626792418609c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/e8/ae895490-7b1e-5760-9900-ca3ecc821a9b/626792bb5fbd2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -205,6 +205,6 @@ related:
       domain: chinadaily.com.cn
     quality: 4
 
-secured: "Hnf1BvvDs6EVZbt6lqgJhLoFFB+36mbc1yTrZTPM8HVmOIB9DY4tliSq2CcQM+PBn3A08foEKh8MtnpPqsFCEqH0+Eklq7iMMowGKSJJ4Twe4NzNxcSuBIVI1HoTLmnq1Po0Do4Jm72QmoazbaRW4fdfyHIPFQKlElwN5oaYe0/HHeI8tsqpmTJWp3m0mBQX3yJUeqws5bad1p512mrqwEI3i7kbI7cEbBgOw2tjNr7ucjPlYx+L1tGXFWYTMT3OyexOc7KUz9+pB2Xz9KxTmuZ2x87HST2y27DZhzUetEAzHdTGxc5Hpa2bTtQI7eW3vMfEzT5J6FmOEZZt0UftfkMnYXA5xCJCyz3hNUg4+IMZZ+k1GI8j0v197vM1p0OOk7/+5vAy8OvJwIU5nlZWA7B/cOf4WMqp4/RsXaO2gcvgKKpOqG3mJYKy37G+aJjkN/NkIxXPWiIa/h5/w1Mw4raidmLdy/JsA/nIGxXjePECeo5eblRaGnDdVXfD6mCzApC7UqZ5w+qdeSoaWFRO1w==;RUbpVetwW+14kPpTfQUF0A=="
+secured: "V+C5zdkyhCg1ttdb0gHsv/n8xu+Rx1tQASZP8vbmCmH12AH3ILF3wFyE7wwzNULwxG5w3Rqv4v4b6YRuB+fGy8EXDecbXs0XHB2x9hr95xHrN3bJyfOcVd1kgqXTAw0hnZ+6VRbB3xbhvoew5oYY7Fvy15CLv9f6LHZ5w7zjD7Vi7FYWUuVaRtnnExHql8FKFsOKMpC90FFWoKX4J+Qkt7L3VlXc2dwS0qhyhNzKq62Y74gMuLIa3iD1v1bYvtk8HR4Fva+4CSUkR3h4OymkMQ7VtdlStBgdPkndk7UkJpQoRpDJVS2DxycH6rfdCp9j+5R0RppC/T+dZFfctg5Iomi0xy6E2yehvrFuDsuGD88=;HkP7bHKdrOPkjwy8316ikA=="
 ---
 

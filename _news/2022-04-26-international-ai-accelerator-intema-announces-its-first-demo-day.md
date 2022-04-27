@@ -53,15 +53,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 12
-  - title: "DiA Imaging Analysis Collaborates with Intel Corporation to Accelerate Processing Time of its AI-based Cardiac Ultrasound Software in Hospitals"
-    excerpt: "DiA's AI-based software optimized with the Intel Distribution of OpenVINO toolkit enhances cardiologists' decision-making process and workflow BE'ER SHEVA, Israel, April 26, 2022 /PRNewswire/ -- DiA I"
-    publishedDateTime: 2022-04-26T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26812769/dia-imaging-analysis-collaborates-with-intel-corporation-to-accelerate-processing-time-of-its-ai-b"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "xxyEneUxq3ZS16b8A0Y2SkfJJS4P2v6LCfBoC/9+aB8nmHRccZ09eSGwBg4vKwAYi7HpdNZPu4WvS+7K+lg250ytEk3w28NbBa3tfzqe0UabUn0qAfRum1HPaCFMAIJ3/YA9UP79+855DrB1YJG7nr62sAu/OX5WLV9GC1rQtpMiFIOaNz4eQBq9G3dZhR3CIZMH8+vd6xHLupPPltylDR5ITPb/e2T1b3R1/1cV05xHvMlS9adpeOuQ5bIJHIYKXqJ3Dgjq7ASGPkN6R7fA/nQncF15F5z0GFv35k51i+OnPIF8y9L7DSU9+QU8RLEZVn9AVrfOGeJMNQHKvyWMtto0bcf92l8Qk58hjMYY1OI=;lHrka7I+9c0som4SKQ+r8A=="
 ---

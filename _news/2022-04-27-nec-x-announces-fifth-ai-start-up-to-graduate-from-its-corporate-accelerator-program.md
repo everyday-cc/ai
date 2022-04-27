@@ -53,15 +53,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "DiA Imaging Analysis Collaborates with Intel Corporation to Accelerate Processing Time of its AI-based Cardiac Ultrasound Software in Hospitals"
-    excerpt: "DiA's AI-based software optimized with the Intel Distribution of OpenVINO toolkit enhances cardiologists' decision-making process and workflow BE'ER SHEVA, Israel, April 26, 2022 /PRNewswire/ -- DiA I"
-    publishedDateTime: 2022-04-26T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26812769/dia-imaging-analysis-collaborates-with-intel-corporation-to-accelerate-processing-time-of-its-ai-b"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "Nhr2mnhJ3G/64Kh8BiGEZEQTq8NtRcTaWljRE8sFLKa1hfzJyKwWi+Gln0OOL4OIs+oLWytgKuLlFCywxPfqASjG3WyYxmrN8tmRuFrOL/VAl2CPXfJwP89/G4ddWkdIhdCVI2nZxS9Gt6WXSwZ4sq45EE1SyNuYGTbGguSj0xdfbzzMdyILZd/oNzu64rKf4bw7d2d0Nq5vCgEURZUbW+csQ/b6ExufplcPkLTIQXghGPNb8vJddmenAdSDmNrl5DBLV1V01lAbhPf5tJA3V6MTjzWhnYP8hePkiuBvxNOkRqIDsC/LdP7YZDCyGiEvs4wFjoiMyif77/VNptXGq6vvSR8pZEb/ntdXxqj/tFk=;mgO3VpQM9kjgmDA4gI+rlA=="
 ---

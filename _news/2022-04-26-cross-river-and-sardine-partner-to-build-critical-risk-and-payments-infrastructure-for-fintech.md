@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Cross River and Sardine Partner to Build Critical Risk and Payments Infrastructure for Fintech, Web3 and Crypto Companies"
-    excerpt: "Cross River Bank (“Cross River”), a technology infrastructure provider that offers embedded financial solutions, today announced a partnership with Sardine, a behavior-based fraud and compliance platform for digital wallets and neobanks,"
-    publishedDateTime: 2022-04-25T13:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff"
+  - title: "The Lithuanian collaboration of iDenfy and Alternative Payments – a safer future for the Fintech industry"
+    excerpt: "Alternative Payments integrated iDenfy’s full-stack, multilingual ID verification to secure their customers’ dataThe digital platform for identity"
+    publishedDateTime: 2022-04-26T22:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 7
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "q8q/YnxXZ9FqiYyrYZi0YmNuCsCJSbKzGB6FvO8YP63y1HcEl83R1ZdFYk/JAmTooQsNJkeh6QIZo/Fh5hF9iqkvlu8gswdiWxC95peUgj8wEs5R60vMdFPMJ6cnrIgFqzSv+VMIjoMk3g57dB9ZK6tGLa5GOsiAB69Aou0c3FSXrOCTUkorRJBAkXhycdGDpH7U0A4EqL6VR8anjFy1qeDuNMQsfSRP+HGMbYMKTQP4JnKMTXrcVmRo2//lRNWOilL7hArNxN0Q9uKOrvjWxkcCOswXwfsXgz+2IcdLW+fTMtGQsaHEQjnmb9Dt89Ip3gErIjfkdQtNPzPf3LrhAD3STw0WyUC2HpTyUx5jWQjSlJKkbKLA8FDnWSv5UTBl7G1peaRV04Yzu8gl6CrFTnbazovu+PVQFoTB6ATFgGTwRc3N2wDk339O3JM/XSzlQOXv6OcLCg9LaDMYvUdByjdKmrkNhMDzkHqRwwCHpLCFcl5R3hNewO7gpL9DTXuNDlRFxGNDaHNmNJwMQru0oA==;d5Jsob7ngwlzo+cR56RIXQ=="
 ---
