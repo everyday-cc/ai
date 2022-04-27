@@ -440,24 +440,33 @@
     {
       "path": "_news/2022-04-22-centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies.md",
       "title": "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies",
-      "excerpt": "TruCorr performs attenuation correction using a Deep Learning approach with data from the patient's SPECT scan. The application eliminates the need to scan the patient in two different positions ...",
+      "excerpt": "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,",
       "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/",
-      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T18:33:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26754709",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26754709",
+      "publishedDateTime": "2022-04-21T17:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -815,34 +824,34 @@
     {
       "path": "_news/2022-04-18-neural-network-model-helps-predict-site-specific-impacts-of-earthquakes.md",
       "title": "Neural network model helps predict site-specific impacts of earthquakes",
-      "excerpt": "In disaster mitigation planning for future large earthquakes, seismic ground motion predictions are a crucial part of early warning systems and seismic hazard mapping. The way the ground moves depends on how the soil layers amplify the seismic waves (described as a mathematical site \"amplification factor\").",
+      "excerpt": "Using data on microtremors in Japan, a neural network model can estimate site ... Seismological Society of America introduced a novel artificial intelligence (AI)-based technique for estimating ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html",
-      "originalUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html",
+      "webUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/neural-network-model-h.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.amp",
-      "publishedDateTime": "2022-04-18T06:27:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

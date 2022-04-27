@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/lifestyle/art-culture/ai-lullabies-se
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/art-culture/ai-lullabies-sensor-sheets-the-future-of-sleep-is-here-101650699264863-amp.html"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Undercover Book Review takes a look at the new book on artificial intelligence and the future of AI by Ben Buchanan and Andrew Imbrie"
-    publishedDateTime: 2022-04-26T12:43:00Z
-    webUrl: "https://www.thecipherbrief.com/column_article/the-future-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 17
 
 secured: "Ai1Z6/SQN5o3nBYni/5iuIpj3s+LkKUDUzdaXEAk72VtMyceqw3mjXtqCl51Ab6AiR9xoVFlI0clqfjaIw6Lk2ufsiGGR6mrJ8yLTKdqZ+vEejIjtixCvZqdmKPp6o8yf5A5EJp3XQ8PcOysS0q6eOsMNSHfo/Ze19RQKp3RxwxpJcvDOH2T+8GXAxtHJspSfLniRriTf7yah7Dd/Y6/FAvxaJ9iO4tntubdnbQkrwIoO68Exj2cOky0pv6sN7KloOhkLyTWYJ08rj+/I6Ug2R3hWpI5EI0KDcxY5cQfOwM6Y8WN0IbqtMrUwn40YrmNrhwI9d67IDb3A/C+U2Kg6h6JLykMao8j+qOkZJU5JC4=;t1b2JqEvgTc621QfdgIS0w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,73 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Key Features To Consider Before Developing A FinTech App"
+    excerpt: "With AI-powered intelligent chatbots, there is a lot of space for considering and solving customer issues. And that’s a wrap! However, you will be spending a significant amount of money on your first fintech app development project so make sure you are ..."
+    publishedDateTime: 2022-04-25T05:52:00Z
+    webUrl: "https://techstory.in/key-features-to-consider-before-developing-a-fintech-app/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/04/pexels-christina-morillo-1181244-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
+  - title: "VC investment into European fintech set to enjoy stellar 2022"
+    excerpt: "The data from PitchBook shows that VC investment in the UK and Ireland continues to enjoy a purple patch, outpacing other European countries this year and that VC investment into European fintechs has enjoyed a strong start to 2022."
+    publishedDateTime: 2022-04-25T04:52:00Z
+    webUrl: "https://www.altfi.com/article/9144_vc-investment-into-fintech-set-to-enjoy-stellar-2022"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/vc-investment-into-fintech-set-to-enjoy-stellar-2022.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Fintech elevate wealth management, AMCAP expands intelligent developments"
+    excerpt: "This is not an investment advice. Please conduct your own research when investing in any project. AMCAP, a well-known wealth management institution, has"
+    publishedDateTime: 2022-04-23T15:38:00Z
+    webUrl: "https://www.digitaljournal.com/pr/fintech-elevate-wealth-management-amcap-expands-intelligent-developments"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/89a9a03e9025c39404bd40fdd97db6ea5cd221c8-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Vancouver-based FinTech Company Responsive Announces Close of $3.5 Million Series-A Financing led by Canadian Financial Giant Co-operators"
+    excerpt: "Responsive, a fintech company that leverages machine learning to help financial advisors to better serve and engage investors, announced that it has closed a $3.5M (CAD) Series A round led by Co-operators."
+    publishedDateTime: 2022-04-22T20:40:00Z
+    webUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTech-Company-Responsive-Announces-Close-of-3.5-Million-Series-A-Financing-led-by-Canadian-Financial-Giant-Co-operators.cfm?j=0"
+    type: article
+    provider:
+      name: T-Net
+      domain: bctechnology.com
+    quality: 0
+    images:
+      - url: "https://www.bctechnology.com/tmp/news/F1398B376ABD4D3F854FEAB7FA8CE6A82F979A578781FA7F980EE12A27AE28F8.jpg"
+        width: 800
+        height: 446
+        isCached: true
+  - title: "Cross River and Sardine partner to build critical risk and payments infrastructure for FinTech"
+    excerpt: "Cross River Bank, a technology infrastructure provider that offers embedded financial solutions, recently announced a partnership with"
+    publishedDateTime: 2022-04-26T13:13:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/cross-river-and-sardine-partner-to-build-critical-risk-and-payments-infrastructure-for-fintech/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 0
 
 secured: "o6g8iayYY7SzbWOhY+6TjHp8R176Dd6KbivJy2XmZG3Q2w949MrEnuI1zbnoTlchex9Kl27iTjgsGjpdtBYbx7ZDlvU2MrZCz9XTrZtvj+mxATVpSwWysX9kTzCJRjCJXMNFbKmnbVLUMPacU81My4JZMBs5cLoh1OMn7MroCHpsHSwPS6hj3Va5gvW0rqRnKczBwo/lcWrU105ht997u/Al0ekEGBD8zsZCiSsi0O0hJeXcbR6mu6IzKv/M9KaBzM1M9qoCbvSORcqcW7Fn94QBvfC/N5PYno2jjw8hbZ252LvRpYwX1XXcdKMzxiSYUWNzaVNtPA5eCTysVX4duOTfsYkZ2Mmx+CJPh/MjMek=;WNSMV9QPthTS9rl4EXCjCA=="
 ---

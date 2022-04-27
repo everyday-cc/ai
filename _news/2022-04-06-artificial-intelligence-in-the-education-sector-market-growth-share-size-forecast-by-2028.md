@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence in the Education Sector Market Growth, Share, Size, Forecast by 2028"
 excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 06, 2022 (Market Insight Reports) -- According to the business intelligence report titled \"Artificial ..."
 publishedDateTime: 2022-04-06T11:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028-2022-04-06"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028-2022-04-06"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028-2022-04-06?tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028-2022-04-06?tesla=y"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Fj1FCm5WlHmZfOe03xE22zIXuYNjDjzxMXyQEKv2W5K7ch7POzreIksbLKO6+m5P03k6gjmVYlM5qeIq3eroFI3kIjbg7LiGOye2O8zPUS/bgp2YIKCqxJM4vInknLjQzU8sO6zdpPXlO1EwySUvPhxAStV27X/akKAyywwDEUgrIjhsPn4Z3141tGV7gMJUVlF8NWrIjz55s1nXy57amhYo0mLlJRHqNB7w0ai9JXQAptfDL0HlihPev9cRDjMN3ZdQsVYmIyeS9RlDHQEa9xZsw2a7qEY6aw0Vb7F0Mwpa2ehfpArkw4FYnY12E2hoKjqvf8NTtdQZpbWG+xVnmVwr576Mke/XuqQymJ646aY=;J3fSY4o+Z2zi4CQkSqXzcA=="
+secured: "FgaO7MakcYKtogKIBQFRS+2yTHAngtYMK9p5ro2aBwKbcjpPtIPNVa4ZQqq5jnxqD4Ut/N8RiX7e0XxNNUaEpN9TQo+9DRk88eK7eNzyO1ztKwkVxa+1DqdeHH8Ma5hp2sEKCyyRs5FHBBj7eLO9wj3ZEpp32dKR1d/tpCBde282wjLR2KydYm2bQ9kpSn/qOmJ9vh/nQ879Z5rLDEfls0hagmKftTwsGQXcP4RiUU4QCbytbKQ9zUu6G+Tf7H0Zt+iSUO0yhUfSLjAxY5IGyhvJJRJIWKIK7gHGDNrwnan9vPdx1IhgbheqFi+qpNyUCtX3QQP5+jiNDTLNL9bP6s46TUmgTvpxsIH/aS+ZCmM=;7YzDREwNAybtJWo/hBDZcw=="
 ---
 

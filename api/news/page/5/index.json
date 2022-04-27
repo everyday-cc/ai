@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-21-intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-student-body-language.md",
+      "title": "Intel Sparks AI Ethics Uproar Over Tech That Deciphers Student Body Language",
+      "excerpt": "Intel is testing new AI software that will detect the emotions of students while they are in an online classroom setting, and some are not happy about it",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-body-language",
+      "originalUrl": "https://hothardware.com/news/intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-body-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/58318/content/class-ai.jpg",
+          "width": 708,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-body-language",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-body-language",
+      "publishedDateTime": "2022-04-20T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-ai-literacy-for-finance-professionals-three-things-you-need-to-know.md",
+      "title": "AI Literacy For Finance Professionals - Three Things You Need To Know",
+      "excerpt": "An overview of AI Literacy for Finance Professionals. Key things you need to know to apply AI effectively in finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626034b223d534de5d19bee8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/amp/",
+      "publishedDateTime": "2022-04-20T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom.md",
       "title": "Strategic Analysis of Amazon's Growing Footprint in Mobility - ResearchAndMarkets.com",
       "excerpt": "The \"Strategic Analysis of Amazon's Growing Footprint in Mobility\" report has been added to ResearchAndMarkets.com's offering. Amazon, the eCommerce behemoth, has been making steady strides in the ...",
@@ -1040,91 +1136,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
-      "title": "Artificial Intelligence Is Creating a New Colonial World Order",
-      "excerpt": "My husband and I love to eat and to learn about history. So shortly after we married, we chose to honeymoon along the southern coast of Spain. The region, historically ruled by Greeks, Romans,",
-      "sourceUrl": null,
-      "webUrl": "https://pulitzercenter.org/stories/artificial-intelligence-creating-new-colonial-world-order",
-      "originalUrl": "https://pulitzercenter.org/stories/artificial-intelligence-creating-new-colonial-world-order",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulitzer Center",
-        "domain": "pulitzercenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing.md",
-      "title": "Integrate ServiceNow with Amazon Lex chatbot for ticket processing",
-      "excerpt": "Conversational interfaces (or chatbots) can provide an intuitive interface for processes such as creating and monitoring tickets. Let’s consider a situation in which a recent hire on your team is required to cut tickets for office equipment. To do so, they have to interact with a ticketing software that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-3932-image005-500.jpg",
-          "width": 500,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T09:55:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

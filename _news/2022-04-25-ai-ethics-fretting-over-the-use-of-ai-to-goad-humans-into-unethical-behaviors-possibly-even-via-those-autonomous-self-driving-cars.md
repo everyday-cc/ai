@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-frettin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/"
 type: article
 quality: 91
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -171,20 +171,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2019/12/stardew-valley-on-tesla-screen-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "UK Law Could Make It Legal For Drivers to Watch TV From Behind the Wheel of a Self-Driving Car"
-    excerpt: "Drivers in the UK could be allowed to watch TV from behind the wheel of a self-driving car if proposed updates to the law go through."
-    publishedDateTime: 2022-04-22T12:57:00Z
-    webUrl: "https://www.ign.com/articles/uk-law-drivers-watch-tv-self-driving-car"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 12
-    images:
-      - url: "https://assets-prd.ignimgs.com/2022/04/22/untitled-1-1650639414826.jpg?width=1280"
-        width: 1280
-        height: 720
         isCached: true
   - title: "What happened when police pulled over a self-driving car"
     excerpt: "A viral video on Instagram shows San Francisco police officers confused after pulling over a self-driving or autonomous car."

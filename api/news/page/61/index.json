@@ -2,6 +2,247 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-03-02-bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws.md",
+      "title": "Bundesliga Match Fact Skill: Quantifying football player qualities using machine learning on AWS",
+      "excerpt": "In football, as in many sports, discussions about individual players have always been part of the fun. “Who is the best scorer?” or “Who is the king of defenders?” are questions perennially debated by fans, and social media amplifies this debate. Just consider that Erling Haaland, Robert Lewandowski,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/01/skill_impact3-1260x437.png",
+          "width": 1260,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T07:24:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development.md",
+      "title": "Faros AI raises $16M to launch an ‘EngOps’ platform for software development",
+      "excerpt": "Faros AI, which is developing an 'EngOps' platform for enterprise customers, has raised $16 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/",
+      "originalUrl": "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/Application-developer.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/faros-ai-raises-16m-to-launch-an-engops-platform-for-software-development/amp/",
+      "publishedDateTime": "2022-03-02T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-sonata-software-named-microsoft-azure-expert-managed-service-provider.md",
+      "title": "Sonata Software named Microsoft Azure Expert Managed Service Provider",
+      "excerpt": "Sonata Software a global IT Services and Technology Solutions Company today announced that it has been named a Microsoft Azure Expert Managed Service Provider",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272351681/sonata-software-named-microsoft-azure-expert-managed-service-provider",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1646235347.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-ai-model-detects-mental-disorders-based-on-web-posts.md",
+      "title": "AI model detects mental disorders based on web posts",
+      "excerpt": "Dartmouth researchers have built an artificial intelligence model for detecting mental disorders using conversations on Reddit, part of an emerging wave of screening tools that use computers to analyze social media posts and gain an insight into people's mental states.",
+      "sourceUrl": null,
+      "webUrl": "https://home.dartmouth.edu/news/2022/03/ai-model-detects-mental-disorders-based-web-posts",
+      "originalUrl": "https://techxplore.com/news/2022-03-ai-mental-disorders-based-web.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://home.dartmouth.edu/sites/home/files/styles/max_width_720px/public/2022-03/20220225_computer_science_rg_008.jpg?itok=-Qsb_hC4",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T06:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-4-takeaways-for-student-loan-borrowers-after-bidens-big-speech.md",
+      "title": "4 Takeaways For Student Loan Borrowers After Biden’s Big Speech",
+      "excerpt": "Biden did not mention student loan forgiveness or other student loan relief during his State of the Union address. Here’s what it means for borrowers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
+      "originalUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621f8b986e1c008edddcafb9/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1067,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adamminsky/2022/03/02/4-takeaways-for-student-loan-borrowers-after-bidens-big-speech/amp/",
+      "publishedDateTime": "2022-03-02T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-sanctuary-claims-its-creating-robots-with-human-level-intelligence-but-experts-are-skeptical.md",
       "title": "Sanctuary claims it’s creating robots with human-level intelligence, but experts are skeptical",
       "excerpt": "AI today (mostly) excels at narrow ... would seem to just be a pretty standard reinforcement learning (RL) robotics startup,” Matthew Guzdial, a University of Alberta assistant professor ...",
@@ -910,247 +1151,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-dubai-new-ai-coding-licence-launched-employees-to-get-10-year-golden-visa.md",
-      "title": "Dubai: New AI, coding licence launched; employees to get 10-year Golden Visa",
-      "excerpt": "Dubai International Financial Centre (DIFC) on Tuesday launched an artificial intelligence (AI) and coding licence to attract AI companies and coders from around the world as part of the UAE’s Artificial Intelligence Strategy 2031.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Dubai_New_AI_coding_licence_launched_employees_to_get_10year_Golden_Visa-ZAWYA20220301100935/",
-      "originalUrl": "https://www.zawya.com/mena/en/business/story/Dubai_New_AI_coding_licence_launched_employees_to_get_10year_Golden_Visa-ZAWYA20220301100935/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/180516221655ZMHF.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220301100935/",
-      "publishedDateTime": "2022-03-01T17:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-microsoft-celebrates-cognitive-services-milestones-with-new-ai-capabilities.md",
-      "title": "Microsoft celebrates Cognitive Services milestones with new AI capabilities",
-      "excerpt": "Microsoft announced new vision and search AI-based capabilities are now available as part of Microsoft Cognitive Services. Microsoft Cognitive Services is a collection of cloud-hosted APIs that ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
-      "originalUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/03/6ac62fdd-6877-41b3-96b3-97f906a0f773.png",
-          "width": 1024,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-toyota-announces-new-company-dedicated-to-self-driving-cars.md",
-      "title": "Toyota announces new company dedicated to self-driving cars",
-      "excerpt": "Toyota Motor Corp. announced Friday morning it plans to spend more than $3.5 billion CAD on a new company that will build automated driving software. Toyota, Aisin Seiki Co. and Deso Corp. have teamed up to create the “Toyota Research Institute-Advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794",
-      "originalUrl": "https://www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/01/Toyota-automated-vehicles-620x250.png",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/toyota-announces-new-company-dedicated-to-self-driving-cars/99794?amp=1",
-      "publishedDateTime": "2022-03-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-golden-state-of-mind.md",
-      "title": "Golden State of Mind",
-      "excerpt": "Welcome back to The Stack, Argo AI’s monthly newsletter with our latest autonomous vehicle news, explainers, and job opportunities. Subscribe here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/golden-state-mind-argo-ai",
-      "originalUrl": "https://www.linkedin.com/pulse/golden-state-mind-argo-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGS-7nJq10pWQ/article-cover_image-shrink_720_1280/0/1646172747819?e=1652313600&v=beta&t=ln47KBwTe-GKtxAJFxtMOGpdH5--8NyCHWHrqxJCIF4",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases.md",
-      "title": "The pitfalls of AI that could predict the outcome of court cases",
-      "excerpt": "New startups claims their technology can predict the outcome of legal cases. Even if it works, the implications are worrisome, experts say.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/",
-      "originalUrl": "https://venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/08/RTR2XRP1-e1559617500870.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/01/the-pitfalls-of-ai-that-could-predict-the-outcome-of-court-cases/amp/",
-      "publishedDateTime": "2022-03-01T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

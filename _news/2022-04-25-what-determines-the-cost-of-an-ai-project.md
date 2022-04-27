@@ -56,6 +56,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "New Release of the expert.ai Platform Accelerates AI-based Natural Language Solutions Adoption and Time to Value"
+    excerpt: "Extended core enterprise capabilities in the areas of vertical sector and use case customization, connectors and cloud environments to improve business results BOSTON, April 26, 2022 /PRNewswire/ -- Expert."
+    publishedDateTime: 2022-04-26T12:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-release-the-expertai-platform-accelerates-ai-based-/2022/04/26/9589490.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ni0Ycg+wXIZBClIncu03UBEJg7T4ry5TwpWBNWvG4RMvuvFZnjKKCIXfZMfoZnMzRFCcXjHbcc7vlGf5O+b1cXDKtTEU6AEbHhE6OqLEJRTBfPMGHS4m8nHJdDPkFQhqqtVNcdHg0ZwcyZIYL6nYPnrc9x/9k9ekeezwOcQd32UvLFX3GknCZPcqpQzkkxGhJAGvqupYwu/f1P6yMcGsG+z1Mi58NkY6jcxA6cTj0MnbyXb1Hyz1485Wj4DegdCFoURsvX/DsVYrKLGmVXq6BCswCzTUqu3kB78ZW0yPJVIhImGHVPmCGRLFMqkiVUeiLeQhIJ6ZYMW8EawPfW3nfapAR+QW1zl704t0EsvdFKM=;+GWO/WzziBuQIG9o0sofPA=="
 ---

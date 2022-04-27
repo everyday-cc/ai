@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-11-ibm-ceo-hails-big-blue-progress-we-dont-just-create-business-value-we-create-progress.md",
+      "title": "IBM CEO hails Big Blue progress: ‘We don’t just create business value; we create progress’",
+      "excerpt": "Turbonomic integrates with Instana and Watson AIOps to create ... And ReaQta expands our AI-based threat detection and response capabilities in IBM Security. To improve how we deliver the value ...",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/03/11/ibm-ceo-hails-big-blue-progress-we-dont-just-create-business-value-we-create-progress/",
+      "originalUrl": "https://wraltechwire.com/2022/03/11/ibm-ceo-hails-big-blue-progress-we-dont-just-create-business-value-we-create-progress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2020/04/Arvind_Krishna-135-e1586173008504.jpg",
+          "width": 4414,
+          "height": 2479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/03/11/ibm-ceo-hails-big-blue-progress-we-dont-just-create-business-value-we-create-progress/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/03/11/ibm-ceo-hails-big-blue-progress-we-dont-just-create-business-value-we-create-progress/?amp=1",
+      "publishedDateTime": "2022-03-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-5-high-profile-health-it-acquisitions-in-2022.md",
       "title": "5 high-profile health IT acquisitions in 2022",
       "excerpt": "Microsoft completed its $19.7 billion acquisition of AI speech recognition ... its data and assets from Watson Health, which might be an effort to streamline IBM's operations and focus the company ...",
@@ -1344,50 +1387,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-its-watson-healthcare-assets-to-francisco-partners.md",
-      "title": "IBM sells its Watson healthcare assets to Francisco Partners",
-      "excerpt": "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "originalUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "publishedDateTime": "2022-01-21T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

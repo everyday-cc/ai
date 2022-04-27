@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands"
-excerpt: "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings."
-publishedDateTime: 2022-04-05T07:41:00Z
-originalUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
-webUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
+excerpt: "Artificial Intelligence and Machine Learning. In addition, the collaboration will allow Netcore Cloud access to the AWS Partner Network (APN) and the APN Customer Engagements (ACE) Programme ..."
+publishedDateTime: 2022-04-05T06:50:00Z
+originalUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands"
+webUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "QxH2+1W69bFKmF7cr1/KBPfH7DqsQsaf4r1apZTydRY9neCmLMS0N+vKY9I2MV1rP8MbbkOGUXCHM9CgZeGXFqT1UK4LTBim6e24fa9fBgXQIeqm0tVGCUaNLG7gdzuujIuRazi8z4kaMDOlqbNz7H9WUWRE3uGuTj/b8q0r/Eh+DSHoSlsWLWG9oFpw89vhjK0lxCNh8rSFqmObZmBpL88xk81zWysRZx+ocPnvm85ZDgDpmC7jINUCpeAnzYxfRDCjZy2mOtQGAARnn3vk5JPqUXdAFrhjbe0N48K0MNqNdHHKzkQlMDMJTT/UC5a2/ZUOwjDVz2jWT97X2mw7SE1+A0Im9SxUMtIL+73mTHfrZ9wAt+IiKjlRgnPX6Oe9BeBxQJKLTkb9UBpIikIlIcvvfM8uv6lDxP5pfkFa3hKoo292VOTg1Ic1uKAfaHO1t1dfTfP7xcDWTFi0tvkZjuBlHfw37swXX9cABsq1V8yGjk5ur36Z3fIDa7uW7DaFZkTbX1BcXJ1f5Hx5nCx1/w==;IebD1uajz10xSEJIOFhonA=="
+secured: "HH0H5ur2h4p3u1vzQjg6jIkzE2ewdyTuXtX8O6urHozsGRFwMWpSi7y6U/z5uWWBXBtaos1S9fJ90MIrAfoqaqGhoaJpDGNEWZ+6nb+/uz+hk46FFrBg50P9iG/Wnjei3yY6l/m6dDAX82V/auB+0gSPtsvOyUNWboUY2HMAxs2PGFqX21Vq+DoSl6P7/TC8RqjN6mRUC23JB8reb3wUF2soEctiW1nbhdIMf5MjVnejrcxdAfrSt4YL99RSvd/SRU6IPVitbYVDXW6HzuxEDcDRNxiZ1jhGaQ64jurDmvcxrErhtOuHMST0/E4Kuu5swWIffmo9sxzycmhfkIpXrJ3GzCmZXtFQDHpl8TeCvv4=;2GynDPjZwFwq/GOqYpQMjQ=="
 ---
 

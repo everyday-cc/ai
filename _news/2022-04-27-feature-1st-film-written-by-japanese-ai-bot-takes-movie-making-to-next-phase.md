@@ -36,19 +36,33 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
-    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T06:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/article_0ae8af39-e19b-506a-8440-c92bcddbc657.html"
+  - title: "1st film written by Japanese AI bot takes movie-making to next phase"
+    excerpt: "Writer's block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the firs"
+    publishedDateTime: 2022-04-27T05:00:00Z
+    webUrl: "https://mainichi.jp/english/articles/20220427/p2g/00m/0et/027000c"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Mainichi Daily News
+      domain: mainichi.jp
+    quality: 37
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2022/04/27/20220427p2g00m0et026000p/0c10.jpg?1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
+    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
+    publishedDateTime: 2022-04-26T07:00:00Z
+    webUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+    type: article
+    provider:
+      name: We Are Green Bay
+      domain: wearegreenbay.com
     quality: 33
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2019/07/cropped-WAGB_DOTCOMv2.png"
+        width: 1018
+        height: 340
         isCached: true
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"

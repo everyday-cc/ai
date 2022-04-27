@@ -35,16 +35,16 @@ related:
   - title: "Gnani.ai’s assist365™ Low-code Omnichannel Conversational AI Automation Platform V2.0 sees a 3x Rise in Adoption"
     excerpt: "Gnani.ai, a global frontrunner in Conversational AI and customer service automation today announced a 3x rise in uptake for the new version of the assist365™ low-code omnichannel automation platform."
     publishedDateTime: 2022-04-26T15:18:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/gnani-ai-s-assist365-low-code-omnichannel-conversational-ai-automation-platform-v2-0-sees-a/article_7c1d6b64-98f2-51cb-a402-c3d0019ea86f.html"
+    webUrl: "https://www.galvnews.com/news_ap/business/article_62f24ae2-b050-59be-9246-b254ab320860.html"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
+      name: Daily News
+      domain: galvnews.com
     quality: 16
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
         width: 600
-        height: 315
+        height: 338
         isCached: true
   - title: "Gnani.ai's assist365 Low-code Omnichannel Conversational AI Automation Platform V2.0 Sees a 3x Rise in Adoption"
     excerpt: "Gnani.ai, a global frontrunner in Conversational AI and customer service automation today announced a 3x rise in uptake for the new version of the assist365 low-code omnichannel automation platform. assist365 is Gnani."

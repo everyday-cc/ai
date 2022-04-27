@@ -24,14 +24,19 @@ topics:
 
 related:
   - title: "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content"
-    excerpt: "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rendered.ai ..."
-    publishedDateTime: 2022-04-25T18:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
+    excerpt: "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training. BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rend"
+    publishedDateTime: 2022-04-25T18:18:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Ahy2oPzphrYW/9u6rSsie4dXhHkoL87wJ9mqNaK8Q1i3CLQ1+0Nx3uVlfsfFDEoPXsdEaYQk2XzHopznb38qAloqOfsA+OzpGs3tSCsyZprWFM2N6EVIGe2xTRqU+guh+GNRPQGSeqeTpszTYJA2tPqMxQeyxo9cEa0dX4Z2+CsUer9cPT3/TVdS8BI+r+iqylrMggoXAOyewfY+jKtIMguI8r41WZTtZ5frtRxXWeu//Ip+VDztJCa1Fc65mM9wV99O5kkyPaYtWMyVyZ/Uiwf5JPnNqjWzJDjpwKyooXUll4xU29H62mK94MZFBXRU4ZQ2DT/C84Mtaf9nVPRpJU4K4UQAw7pcj6QJOMZ3uFRlnON21sd5v/oqNb66UsTxPAgOlNxFzMXj0FHuhQgbywWzG0c9RDyaAl0MTZOMTgaYVdquIeZ/1feZaDkQbx+7Byn8wyRDu7z5tVVXezecvzwVMpcnFO3fYAtofF3l8qJa1+itszNPe9exs3FeEmlg6gQYq70rdkDPERzTdBAyMw==;ZKFXRMP9Unu7fUt/pmnIVA=="
 ---

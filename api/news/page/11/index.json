@@ -2,6 +2,142 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-14-acing-cx-with-smart-self-service-through-ai-automation-and-analytics.md",
+      "title": "Acing CX With Smart Self-Service Through AI, Automation And Analytics",
+      "excerpt": "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/",
+      "publishedDateTime": "2022-04-14T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment.md",
+      "title": "Israeli startup Ception unveils new AI-based system to improve safety, productivity, and profitability of heavy equipment",
+      "excerpt": "Israeli startup Ception has unveiled an AI-based system that reduces accidents and improves productivity and profitability of heavy equipment at construction sites, mines, quarries, and industrial plants.",
+      "sourceUrl": null,
+      "webUrl": "https://who13.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/",
+      "originalUrl": "https://who13.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2022/04/WALKER-WHALEN.jpg?w=2000&#038;ssl=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "who13",
+        "domain": "who13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-logicladder-and-aws-collaborate-to-strengthen-the-sustainability-and-esg-sector-with-the-sustainability-cloud-platform.md",
+      "title": "LogicLadder and AWS collaborate to strengthen the sustainability and ESG sector with the Sustainability Cloud platform",
+      "excerpt": "Gurugram-based LogicLadder credits the AWS Startup Ramp from Amazon Web ... By leveraging technologies like artificial intelligence (AI) and machine learning (ML), the platform allows companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "originalUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/YS-SM-Layout-1649931582520.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "publishedDateTime": "2022-04-14T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-deep-learning-market-size-analysis-by-share-emerging-trends-future-growth-demand-forecast-applications-global-forecast-2022-2031.md",
       "title": "Deep Learning Market Size, Analysis by Share, Emerging Trends, Future Growth, Demand Forecast, Applications – Global Forecast 2022-2031",
       "excerpt": "Apr 14, 2022 (AmericaNewsHour) -- The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment ...",
@@ -321,6 +457,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
+      "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
+      "excerpt": "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "originalUrl": "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/457825/original/file-20220413-17-8go2vm.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "publishedDateTime": "2022-04-13T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
       "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
       "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
@@ -375,10 +554,10 @@
     {
       "path": "_news/2022-04-14-driverless-vehicles-park-themselves-in-rapidly-expanding-market.md",
       "title": "Driverless vehicles park themselves in rapidly expanding market",
-      "excerpt": "with up to 128 tera operations per second of artificial intelligence computing power. Chinese carmakers, including Great Wall Motors, SAIC Motor, Changan and Li Auto, have shown an interest in the ...",
+      "excerpt": "A driverless bus makes a trial run in Nanjing ... smart infrastructure, artificial intelligence, 5G and cloud computing. In addition to congestion, Li said smart transportation can reduce road ...",
       "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html",
+      "webUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -967,195 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-razer-and-lambda-made-a-linux-laptop-for-machine-learning.md",
-      "title": "Razer and Lambda made a Linux laptop for machine learning",
-      "excerpt": "When it isn't busy making sleek laptops for gamers, Razer can come up with a laptop fine-tuned for enterprises that develop deep-learning applications for various fields",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "originalUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-13-image-34.jpg",
-          "width": 3612,
-          "height": 2295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "publishedDateTime": "2022-04-13T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform.md",
-      "title": "BlueOcean raises $30M for its AI-based brand intelligence platform",
-      "excerpt": "The medium is the message more than ever these days, and brands are faced with a challenge — but also opportunity — to capture what consumers think about them and their products if they can harness and better understand those messages,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
-      "originalUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/5220369850_6e9b1d1b4f_k.jpg?w=1024",
-          "width": 1024,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
-      "publishedDateTime": "2022-04-13T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements.md",
-      "title": "Salesforce Updates Service, Marketing Clouds With Conversational AI, CDP Enhancements",
-      "excerpt": "Salesforce has made a number of enhancements to its Salesforce Service and Marketing Clouds, including AI-powered conversational intelligence, mobile offline in",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/",
-      "originalUrl": "https://www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/6c65911fcdee4dbba8155925f0b0bd64.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/amp/",
-      "publishedDateTime": "2022-04-13T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs.md",
-      "title": "Intel agencies advance artificial intelligence in patches, struggle with big breakthroughs",
-      "excerpt": "Officials say a more “integrated” approach is needed to truly transform tradecraft using artificial intelligence technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://federalnewsnetwork.com/intelligence-community/2022/04/intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs/",
-      "originalUrl": "https://federalnewsnetwork.com/intelligence-community/2022/04/intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2021/06/GettyImages-1168105746.jpg",
-          "width": 2246,
-          "height": 1335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

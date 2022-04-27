@@ -167,20 +167,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "UK Law Could Make It Legal For Drivers to Watch TV From Behind the Wheel of a Self-Driving Car"
-    excerpt: "Drivers in the UK could be allowed to watch TV from behind the wheel of a self-driving car if proposed updates to the law go through."
-    publishedDateTime: 2022-04-22T12:57:00Z
-    webUrl: "https://www.ign.com/articles/uk-law-drivers-watch-tv-self-driving-car"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 12
-    images:
-      - url: "https://assets-prd.ignimgs.com/2022/04/22/untitled-1-1650639414826.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "What happened when police pulled over a self-driving car"
     excerpt: "A viral video on Instagram shows San Francisco police officers confused after pulling over a self-driving or autonomous car."
     publishedDateTime: 2022-04-25T10:00:00Z

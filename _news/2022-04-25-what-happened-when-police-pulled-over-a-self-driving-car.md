@@ -175,20 +175,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "UK Law Could Make It Legal For Drivers to Watch TV From Behind the Wheel of a Self-Driving Car"
-    excerpt: "Drivers in the UK could be allowed to watch TV from behind the wheel of a self-driving car if proposed updates to the law go through."
-    publishedDateTime: 2022-04-22T12:57:00Z
-    webUrl: "https://www.ign.com/articles/uk-law-drivers-watch-tv-self-driving-car"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 12
-    images:
-      - url: "https://assets-prd.ignimgs.com/2022/04/22/untitled-1-1650639414826.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "kY37uQlPQ/6O2iPhYehbaQn/WL1hQv01yoGQbA/Z8fYCl4aYmWndt96dqKg/pzLSbZQHmTvGJnqXPIhAkzl7DvnFpGUoQdsPhqcdmzt6O6otcuKTQAOeJE34xv1X0hn4/LFNluceJQtEi68sRtpkOYA57P4q4o7A7AR7Ro71uahsw9VaGgsDTT4ChdhXQgchB0sc9PnHrcSovwtFXcbb26/k3TF86OWbjZTZp71slBSbjKoCuvpyBtZtsUzHWiUucZzP9EkS9qB4A3E3AmkGdb/U3cXqKgpCN/dN+h4CFlUDnhMjuO3TjN9xbEK5GZjA4OUgMQqBU9Un5oSyB5ufHJsjXTl08KVL64/ZPRKE6hFbcwtQ47kxrvsggKT1O1sMwTjm6OaH+L9nfHv4Lk6PKQGjKJ4lL+XdslH7yAmNVjRrGlPMksKLs6vfFREsWn7O+FL30s2CbCtbWPN7jKq5U65V1ZfVT7aAEK540iwRufHysugrxJoKhkwoZZRFzPPnoPL5hqBWVyFrlKgzAqD+lg==;3oBkx6xd6q5vAcAQ75nSYA=="
 ---

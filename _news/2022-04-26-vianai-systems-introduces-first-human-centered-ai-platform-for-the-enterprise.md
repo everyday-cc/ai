@@ -18,49 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "International AI Accelerator INTEMA Announces Its First Demo Day"
-    excerpt: "Join INTEMA on its first Demo Day and meet innovative deep tech startups based on AI algorithms that are already shaping our future. NEW YORK,"
-    publishedDateTime: 2022-04-25T12:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/international-ai-accelerator-intema-announces-its-first-demo-day-1031379801"
+  - title: "Credo AI Announces the World's First Responsible AI Governance Platform"
+    excerpt: "A new wave of upcoming global, federal and state AI regulations requires that organizations must prepare and build out a robust approach to Responsible AI governanceCredo AI's Responsible AI Platform"
+    publishedDateTime: 2022-04-26T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26819089/credo-ai-announces-the-worlds-first-responsible-ai-governance-platform"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26819089"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26819089"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "International AI Accelerator INTEMA Announces Its First Demo Day"
-    excerpt: "Join INTEMA on its first Demo Day and meet innovative deep tech startups based on AI algorithms that are already shaping our future. NEW YORK,"
-    publishedDateTime: 2022-04-26T07:27:00Z
-    webUrl: "https://www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/"
-    ampWebUrl: "https://www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/amp/"
-    cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/amp/"
-    type: article
-    provider:
-      name: Il Tempo
-      domain: iltempo.it
-    quality: 39
-  - title: "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program"
-    excerpt: "NEC Corporation, a leader in IT and network technologies, and NEC X, the innovation accelerator for NEC’s emerging technologies, announced today that Beagle Technology is the fifth startup to graduate from the NEC X Corporate Accelerator Program (CAP)."
-    publishedDateTime: 2022-04-26T13:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-lifestyle-wine-nec-corp-03b925a4b75bdcd7292712b1255b7422"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program"
-    excerpt: "NEC Corporation, a leader in IT and network technologies, and NEC X, the innovation accelerator for NEC&CloseCurlyQuote;s emerging technologies, announced today that Beagle Technology is the fifth startup to graduate from the NEC X Corporate Accelerator Program (CAP)."
-    publishedDateTime: 2022-04-26T19:19:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/26/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator"
+  - title: "Credo AI Announces World’s First Responsible AI Platform"
+    excerpt: "Credo AI has announced the availability of its Responsible AI platform, which is the first of its kind. The SaaS-product helps organizations leverage tools to standardize and scale their approach to Responsible AI."
+    publishedDateTime: 2022-04-26T18:31:00Z
+    webUrl: "https://www.unite.ai/credo-ai-announces-worlds-first-responsible-ai-platform/"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 12
+      name: unite
+      domain: unite.ai
+    quality: 17
 
 secured: "snOYc56FhLR4qKN2fqcJyQwzUPzIHUGr1s60jItDCB96dU+aFRtlQskLvGWueLSGXlmCP2Ly/Inwdvjs9ez5GQCezUPFWiFdkAXBblV87K5eA0u3TRuzIEQE0YsCqQ7kNT0ld2msn2sscCxTuvj86iNlf7xue1JqcsoOoFdqA5odZjrBwG6CohYklnY+VnuQcdelXnzGi4/T6P/tijVNWzD3UB2zI4Cy5Ryo8kli7eF+sZOJyYJAPYt6cERKcNvqWOwUEdRN7l6OjZ2u0l0qRBjKngFuazOMEiAHsBNTSzBRoUzQjHqFDwopHGlLIeeaSf/GQyrTU/eHdQvS5OQe7/W3tggACBpmwBw2C1dFs2Clz5N3si+vvIGwSN4iFXU6mKGHbXRaAlYmjUyjhnx0xMe256gvyYMwRfFBMDQbSaqgtWTeUJTUzQGW0qwo/JI0E8L3/ZQlh5JcWoAvn9Vgp72v1609kLbtyZ4Sv3wLfxK+1MGSGoqmQjtD7C3R3QW+mCfEAKjlq6Og1bmL6tDrpQ==;Sy0Rg5XnbjW8gZSHuD13Lg=="
 ---
