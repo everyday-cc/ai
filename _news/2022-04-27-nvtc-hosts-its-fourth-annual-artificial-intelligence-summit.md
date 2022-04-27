@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/nvtc-hosts-its-fourth-annual-artificial-intelligence-summit/article_b886eb9a-47d6-5e07-9a32-594cd937dcc1.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/nvtc-hosts-its-fourth-annual-artificial-intelligence-summit/article_b886eb9a-47d6-5e07-9a32-594cd937dcc1.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WFMZ-TV

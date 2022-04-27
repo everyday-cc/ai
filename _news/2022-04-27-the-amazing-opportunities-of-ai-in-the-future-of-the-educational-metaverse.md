@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/27/the-amazing-opportunities-of-ai-in-the-future-of-the-educational-metaverse/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/27/the-amazing-opportunities-of-ai-in-the-future-of-the-educational-metaverse/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

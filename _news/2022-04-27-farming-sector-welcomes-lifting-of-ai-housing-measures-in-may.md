@@ -23,22 +23,6 @@ images:
     height: 700
     isCached: true
 
-related:
-  - title: "LinkedInGuru Innovates Resume Writing by Utilizing Artificial Intelligence and Design"
-    excerpt: "ZEXPRWIRE , The Guru team is making waves in the resume writing industry by integrating artificial intelligence and modern design into their resume process. Aaron Vasant, Founder and CEO of LinkedInGuru,"
-    publishedDateTime: 2022-04-22T22:57:00Z
-    webUrl: "https://menafn.com/1104077092/LinkedInGuru-Innovates-Resume-Writing-by-Utilizing-Artificial-Intelligence-and-Design"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?191269"
-        width: 451
-        height: 250
-        isCached: true
-
 secured: "6+0riUROrtDwtZbtACUe1Z4rIjenLaYO/AFmNhu11lpHZjZVWTmVYPd8k9cHk6l2ue60qKZENtAgUXBEpJj4qKfzTgDUIGIFbGV7nVVOQB4nd2/1ECv/rmuCYgo3hZCCp2+o5wvFEDUFJWxAG6a790Yew7Mb82rE6MQoxoegat6Y97h05H41/Xoi2hpKpM+N3F4Kyy85/LkIboVkb71nh9uwdOKIAi1QEOwhdDH87HxTFkiOU3pdS408bvRiigXJ6cmIk/cOnVtfhzQPDk5tC7V1W45GWm8X67I0Vll6lGYf5VESoo6awbbtYmV37qb69+2QXohBzDOrJgDKLaxkHN+48at/PmuyU3KsyPtUoJc=;rqxsh0X+CRMyiyhY39ApCQ=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:44:00Z
 originalUrl: "https://analyticsindiamag.com/group-of-ml-experts-from-big-techs-club-to-create-adept-ai/"
 webUrl: "https://analyticsindiamag.com/group-of-ml-experts-from-big-techs-club-to-create-adept-ai/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Analytics India Magazine

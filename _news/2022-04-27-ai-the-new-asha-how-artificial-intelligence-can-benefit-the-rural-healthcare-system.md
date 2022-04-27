@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T11:31:00Z
 originalUrl: "https://swarajyamag.com/tech/ai-the-new-asha-how-artificial-intelligence-can-benefit-the-rural-healthcare-system"
 webUrl: "https://swarajyamag.com/tech/ai-the-new-asha-how-artificial-intelligence-can-benefit-the-rural-healthcare-system"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Swarajya

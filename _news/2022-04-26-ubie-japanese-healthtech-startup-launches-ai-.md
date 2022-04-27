@@ -51,20 +51,6 @@ related:
       name: Nippon
       domain: nippon.com
     quality: 34
-  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
-    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T21:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=652614"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 33
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "TD chief AI officer, CDL-Toronto lead team up with health expert for new healthtech startup, Signal 1"
     excerpt: "Three Canadian technology leaders are coming together to launch a healthtech startup with $12.7 million CAD ($10 million USD) in all-equity seed funding. Signal 1, which was co-founded by TD chief AI officer Tomi Poutanen, raised the Inovia Capital-led ..."
     publishedDateTime: 2022-04-25T17:41:00Z
@@ -87,6 +73,15 @@ related:
     provider:
       name: FOX59 News
       domain: fox59.com
+    quality: 13
+  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
+    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
+    publishedDateTime: 2022-04-27T13:28:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s--1031383368"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
     quality: 13
 
 secured: "iLH8uxV478jzV/B22DnTzjZz4+mzdIF4a0NOP4zoqfaozYGkQ8PCUnGfkaAWuWxsIh+q1lO4OOpV/gFtR5rvzZ5TD6s0D6iRDfA1D364nnKyzittLDjmyywJw4Hs7RNC8HfPFl84dah0pzUp92m4mF1qFlBzLiT+bPXWTRL5mF0coFXsOPDjsZowYNZ9nnHmsG3L4tg3VjTWvXSQiKey8mYWJc5NtQPZolAV1j+2YhXNF5q60yta28gzXjF9LZbR9KYZR4tdpTCSTB7aHEEycynV/4/A1xvmDZLwmOVSzncOr01nyA1E+yek00L6o0JWiaH0rvbcB8rWV3mTjr6y2qbRvUc6WPBIAKHT7Okm6fDM99dL9yi+1+TXMzxPFgtATG8cjk5SZbD6h+oZCBiDcAL+Q1ebJTaxkA8gtRxudfJD5j7sMpj2yorL5Od+Az1b9BTFS7nVupiDGXT7R7ceWywvh46Rx6PLZYFFRx6SI5Tq34SULw/qL4+/ZyQmmrSQhvgyhM+81T5b+wELBb5Bvg==;GWhi8SF6YBcn7+/QvYWfqQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://fossbytes.com/tesla-self-driving-into-private-jet/amp/"
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-self-driving-into-private-jet/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "A California tech CEO is running for US Senate on one issue: banning Tesla's Full Self-Driving technology"
+    excerpt: "Dan O'Dowd launched a multimillion-dollar ad campaign that takes aim at Tesla's self-driving software and claims the company \"skates by regulations.\""
+    publishedDateTime: 2022-04-23T11:45:00Z
+    webUrl: "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4"
+    ampWebUrl: "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/6260156c4f524b00194d5dc8?width=1200&format=jpeg"
+        width: 1081
+        height: 540
+        isCached: true
   - title: "Self-driving Tesla crashes into $3.5 million private jet using 'smart summon' feature"
     excerpt: "The car was in \"Smart Summon\" mode when it ran into the jet. The feature was introduced by Tesla in 2019 and is still a beta feature."
     publishedDateTime: 2022-04-25T15:49:00Z

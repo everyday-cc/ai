@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/this-1000-core-risc-v-processor-is-
 webUrl: "https://www.techradar.com/news/this-1000-core-risc-v-processor-is-generating-buzz-in-the-ai-space"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1032
     height: 580
     isCached: true
-
-related:
-  - title: "Samsung, others test drive Esperanto's 1,000-core RISC-V AI chip"
-    excerpt: "Samsung's IT services arm and other companies are said to be testing out a processor that sports more than 1,000 general-purpose RISC-V cores to deliver what the chip's designer claims is faster and more energy-efficient AI inference performance than power-hungry specialty silicon."
-    publishedDateTime: 2022-04-22T20:23:00Z
-    webUrl: "https://www.theregister.com/2022/04/22/samsung_esperanto_riscv/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2022/04/22/esperanto_et_soc_1.jpg"
-        width: 1032
-        height: 703
-        isCached: true
 
 secured: "BnaQPEM5GnBIBF8YUuVbO80qmx5GTXiwQuIS/ZMjEbFbQiB3s3YNoK7MsenFfsKO4Ai/L+5Nm+Lsh49R7+WTQshzlk61K1d/a3Vd28aOHqXrxWkJaAzsUcwdExjkgbdR05CITfFhU+M1+X2wH6/B4lbI1y3DR4vJALcyDi9m9Za2jlKDx4v5szADdqYojIo6Kba+x43eZSwkKHi2bbF8jkkQeNcN6vk3yayITJcc+WrV6Ss42a4UQWTXNELTR7sRoGNB0noFJ/Qs5G77AnYaDtVjdgyy/Q4k6WsQk+lrKrm0T3gQB+NF36mMTaBw70pi8mE0IYevQTTkVZcPrddQslqnK90c/Th7Zhj+IKrh4m8=;Pv+lTgZ9Y3OwdwiinyHUzg=="
 ---

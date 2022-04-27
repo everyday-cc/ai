@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Stop Calling It Cancer; AI Gets a Win in Bladder Cancer; Lack of Price Transparency"
-    excerpt: "A group of prostate cancer specialists, joined by MedPage Today contributor and prostate cancer patient Howard Wolinsky, made a case to stop referring to low-grade prostate cancer (Gleason ≤6) as cancer."
-    publishedDateTime: 2022-04-22T20:37:00Z
-    webUrl: "https://www.medpagetoday.com/hematologyoncology/prostatecancer/98370"
+  - title: "Artificial Intelligence in Healthcare Market Size 2022-2030 | Industry Trends –Increased Adoption Of Advanced Technologies In Healthcare"
+    excerpt: "Rising volume of complex data and reduction in hardware costs is projected to drive growth of the artificial intelligence in healthcare market. The global artificial intelligence"
+    publishedDateTime: 2022-04-27T15:02:00Z
+    webUrl: "https://www.medgadget.com/2022/04/artificial-intelligence-in-healthcare-market-size-2022-2030-industry-trends-increased-adoption-of-advanced-technologies-in-healthcare.html"
     type: article
     provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 31
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/98xxx/98370.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Medgadget
+      domain: medgadget.com
+    quality: 1
 
 secured: "hL1qyORMeDXTEJOjerwF+98FKkVq95gK1QemgDUVc2q36AHBoVt54OzRHGqOGQJeO1qggHuVozoo3oF071j0L9JKw3mbp9GOi3ETN6eEUjvLxeNVL4SkRUINdPGstWCVR22C7j7qk5xvuKhJL11VzSiDUr/F2X+/QOv9soT1G6ZXxMAyIH/p1uEXRWf0OunUKF+0tjQXrdurzyr1Ql0zgSyAps+rVYyvd04s1r+V7ZoUVcLX1A26Dg56W2vLimUn2DNeE15tcQVhqrCbh1AHcHFg1KGZg+8OL2S18snPLY9WCuVx7p7Cv5OcbzuW2QcAwMfG0AL3itbYndXap3hwStBplYHUuZ0vnCXhaGgxFlI=;nNavTmMC2cgItxzbo91BEQ=="
 ---

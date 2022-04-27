@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T13:48:00Z
 originalUrl: "https://ktla.com/business/press-releases/cision/20220427CL32562/voice22-to-bring-conversational-ai-market-leaders-to-arlington-va-in-october/"
 webUrl: "https://ktla.com/business/press-releases/cision/20220427CL32562/voice22-to-bring-conversational-ai-market-leaders-to-arlington-va-in-october/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: KTLA

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:54:00Z
 originalUrl: "https://knowtechie.com/tech-breakthroughs-could-provide-key-to-safe-autonomous-driving/"
 webUrl: "https://knowtechie.com/tech-breakthroughs-could-provide-key-to-safe-autonomous-driving/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: KnowTechie

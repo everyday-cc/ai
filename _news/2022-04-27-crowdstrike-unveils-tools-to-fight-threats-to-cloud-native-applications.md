@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:00:00Z
 originalUrl: "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/"
 webUrl: "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat

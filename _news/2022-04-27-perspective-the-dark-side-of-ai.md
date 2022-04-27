@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deseret.com/2022/4/26/23033117/the-dark-side-of-ai-disin
 cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/2022/4/26/23033117/the-dark-side-of-ai-disinformation-misinformation-artificial-intelliegence-religion-virtual-church?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 740
     height: 493
     isCached: true
-
-related:
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Undercover Book Review takes a look at the new book on artificial intelligence and the future of AI by Ben Buchanan and Andrew Imbrie"
-    publishedDateTime: 2022-04-26T12:43:00Z
-    webUrl: "https://www.thecipherbrief.com/column_article/the-future-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 17
 
 secured: "NgLTuUlILhYD/ZLuX2B7u9zsBExNm7CIqT78S83MemvzCpg+UhK/HFkVgHar/+7+fMDMMD0rmm+a3rvi7VySnAhMjdxcJLI88yWoAMA84M+ojQjBJrxBTOofnnRwmAN9wW012GZ+ZkO8cMDAGeLIzWuYH4Mm6kbkAVWNzX6Qjo9eECuuRs6A1XmgvZX/ma/hoX+4voKoaLeBvZZIh9BYk0ppdWXIMuQ+3W3v7N9gM3kAzwD4S//bPOurLShrIMVXoyXdf3LcieVRIaXapyKlkNTPLFBjGddGuTqorRyl40OhdIbJiSlJCbgOu6uZC64M98s+Wtw5TietbxMct3V/eRX0XcLIYG9qPZzFE9cWDJYevbytCyto7Y92o1E6QpyWtuQfQDwcxggQBc2qme63rNpE1PPvw4qi1nPce885FlIglws1wNC3KQ2mnLUaSM3o50Ut9Rq6GnjWXexGbi1RTZZe5g8edg7oU41VkR6lOC3yeUWyH9IQ1IzRS1eE/bFQjrrNppcMnk5OS/0baOinwQ==;GFU5mCp/AwHo7HaDgkjwVA=="
 ---

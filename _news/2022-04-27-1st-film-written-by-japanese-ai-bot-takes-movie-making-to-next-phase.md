@@ -51,20 +51,6 @@ related:
       name: Nippon
       domain: nippon.com
     quality: 34
-  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
-    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T21:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=652614"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 33
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "TD chief AI officer, CDL-Toronto lead team up with health expert for new healthtech startup, Signal 1"
     excerpt: "Three Canadian technology leaders are coming together to launch a healthtech startup with $12.7 million CAD ($10 million USD) in all-equity seed funding. Signal 1, which was co-founded by TD chief AI officer Tomi Poutanen, raised the Inovia Capital-led ..."
     publishedDateTime: 2022-04-25T17:41:00Z
@@ -87,6 +73,15 @@ related:
     provider:
       name: FOX59 News
       domain: fox59.com
+    quality: 13
+  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
+    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
+    publishedDateTime: 2022-04-27T13:28:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s--1031383368"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
     quality: 13
 
 secured: "VyCPZobSrd2mrlSI3v3AYbokm7C0rRSRWskHPesIsNMxONmSaBLDreS1JFbrpPLEs3z2UgktyxWnx1PplzMovUuZhY/6F02wOrapssNZlrDRLHgmFu79zVuH5+JacHQ4QY770F37YamQ1AEg9W5JbRmF3ar2C4kAN++GxNrgcd5hk/Kaeskg/nQRbaXyDOnvqv+B2DzIOFuf14KNQNf2+lV/EPTvpev7Erk4srFn3wFyxOITfO3ByWoDBp6H4ySY7u0YnHlowH+vomOPaXd1i9qR9YhjQE5QaF6w5gwNnopq2GzLsij4Tjn0IkG5TuUso3OD3hIXgSitiDWkR2LXwGf2R5FO9t8XldemiSbmNNQ=;mlgO20iYqM1E1F0mrlTeOw=="

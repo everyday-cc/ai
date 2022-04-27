@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:47:00Z
 originalUrl: "https://food.ndtv.com/news/watch-youtube-chef-tries-ais-recipe-to-make-giant-oreo-cake-2925580"
 webUrl: "https://food.ndtv.com/news/watch-youtube-chef-tries-ais-recipe-to-make-giant-oreo-cake-2925580"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: NDTV

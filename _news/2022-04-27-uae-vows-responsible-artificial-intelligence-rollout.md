@@ -1,20 +1,42 @@
 ---
 category: news
-title: "UAE vows ‘responsible’ artificial intelligence rollout"
-excerpt: "The world's first minister for artificial intelligence says the UAE seeks to become a leading nation in the sector."
-publishedDateTime: 2022-04-27T03:17:00Z
-originalUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
-webUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
+title: "UAE vows 'responsible' artificial intelligence rollout"
+excerpt: "The world's first minister for artificial intelligence says the United Arab Emirates isn't only looking for economic benefits as it seeks to become a leading nation in the sector."
+publishedDateTime: 2022-04-27T03:14:00Z
+originalUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+webUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+ampWebUrl: "https://amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
 type: article
+quality: 59
+heat: 69
+published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: France 24
+  domain: france24.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "UB5/zNNfu9PP1lfwnYsCyGOyCVjxNO1zg/OgcJdsRsAArZwvjuq1PQ5BovcS2QTXb0/gMexBR/IIXKjYa886ceypcfqAuRjinjXOf/IkzoKfmND8c2w5Qx9zz8G/uNIQwzvVI26Dynf3QgaNugIgjg5X58Ck8jbHqTTxcyoNJ5xn0/40Gel6jZ/doDE6iDHAr3Kg/rDWq7DzoEaQvvpK2LNq7k1it/wCcIx9FDFVpzu7C87GZorLQ/Qonu7czk46SfTmWqg8DJCj2xcFVX+s9ZXfRgFuRTzt6ppjQ4xgW2jQeaG/8lL16osEhV/+swCKGzoinvyPMCyUQhqGyQJz3SKxSJby/0tQPVjphGFpowlnVECpTbRb1KRsOMo5wjWF/9sfZLN3eZbd2mCH+FZL/2cWHkLMG4X81O2vMdn9kYsreEgZlIfcT8pAmqBY3szWnLl5TAXEQnxJb94MdQh+1i711yRhCXowOYd2aHSQ3a9Dlr7mqqGmaMxsliluRxmQoVQ9F3UwfSkg+t5nb+nE3g==;M2MWMl0YXVwsN/G7/Svdtg=="
+images:
+  - url: "https://s.france24.com/media/display/1ea11fb2-c5d8-11ec-9fa9-005056bfb2b6/w:1280/p:16x9/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Credo AI Announces World’s First Responsible AI Platform"
+    excerpt: "Credo AI has announced the availability of its Responsible AI platform, which is the first of its kind. The SaaS-product helps organizations leverage tools to standardize and scale their approach to Responsible AI."
+    publishedDateTime: 2022-04-26T18:31:00Z
+    webUrl: "https://www.unite.ai/credo-ai-announces-worlds-first-responsible-ai-platform/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 17
+
+secured: "mQzGtNbcRe6iqkyUMJTzd/SMhjxjEAm2z3heMgEa1LDN9ug9x+IeuJRHoqunNwbxbgOqDoDmPNuHL0HABkzM1Aj0TBiOSBC2zup2HWoTR7rv2SixZuYnuFaqll3jUxcT2Wdni4fFkKMour2dPI+xMH5yXPLxtNS9l/Gh0ckVnB/opNFW7pAcevuw6D+nUh754ewpzSgRztww5H2eGO7gvqvvJ8Of/Nm2FD57F0QfH7WznxJ8Q9Tkuo/iT3IlOrZfVKnMQ97/+AI8HeHrmvNWPxfwwBeUtiL/NPT+M7z5oBXXNkheRzQoqlNCvy1ZYh3lk6lZWsppce0xSUmFmnkvxFrgrchWI7uHInnjD3q+/0Y=;UDj5NOPWYzKLmh/gS5ajMA=="
 ---
 

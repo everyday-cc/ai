@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T11:09:00Z
 originalUrl: "https://www.digitaljournal.com/pr/guardforce-ai-to-present-its-robotics-as-a-service-solution-at-the-hotel-show-in-dubai"
 webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-to-present-its-robotics-as-a-service-solution-at-the-hotel-show-in-dubai"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Digital Journal

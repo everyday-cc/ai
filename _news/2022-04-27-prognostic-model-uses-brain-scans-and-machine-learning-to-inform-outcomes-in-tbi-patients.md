@@ -52,6 +52,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 34
+  - title: "Machine Learning Optimizes Outcome Prediction in Traumatic Brain Injuries"
+    excerpt: "University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons have created a prognostic model that uses automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI)."
+    publishedDateTime: 2022-04-27T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/machine-learning-optimizes-outcome-prediction-in-traumatic-brain-injuries/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 33
 
 secured: "0z2Epl0IFDgzpWfZKb5EQLtq0kKhdSATJjEoWGGuUaJxPr77TiGpbn59dUG1435QbBHrrEZNaXgeQI6/XcJjB30a8ILaWTU9YSCW12tZKjX+unWH9lLgJEhvgUsHOL4HN9aFhVaPcmnY6pkzXjzcbwJHNKESZSSO4SjbYLidvLCS3maPAsXkube+2F+T/L5m4NfUqF3SyfwfSblGDOg89eSEKauVFUpTxQwjnC6quHF7gsQiMUmnq4ZxLLaaUsWjILLhJrt8d4US3jvENmF6xOdM0t7t/VKLkX55K1g1HJM9uzmSfZv+38fm/GumV2LoMTY+W/ApiwhX3GR/wwrhVBrxzNj2jDZndw2A1ruWxQs=;0J1xj/B34xLeC2TBMV+F0w=="
 ---

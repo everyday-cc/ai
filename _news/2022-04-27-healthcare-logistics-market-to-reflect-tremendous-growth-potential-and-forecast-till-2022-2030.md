@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:17:00Z
 originalUrl: "https://www.digitaljournal.com/pr/healthcare-logistics-market-to-reflect-tremendous-growth-potential-and-forecast-till-2022-2030"
 webUrl: "https://www.digitaljournal.com/pr/healthcare-logistics-market-to-reflect-tremendous-growth-potential-and-forecast-till-2022-2030"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Digital Journal

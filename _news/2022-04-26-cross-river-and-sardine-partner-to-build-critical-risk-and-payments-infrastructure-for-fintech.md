@@ -47,20 +47,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Vancouver-based FinTech Company Responsive Announces Close of $3.5 Million Series-A Financing led by Canadian Financial Giant Co-operators"
-    excerpt: "Responsive, a fintech company that leverages machine learning to help financial advisors to better serve and engage investors, announced that it has closed a $3.5M (CAD) Series A round led by Co-operators."
-    publishedDateTime: 2022-04-22T20:40:00Z
-    webUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTech-Company-Responsive-Announces-Close-of-3.5-Million-Series-A-Financing-led-by-Canadian-Financial-Giant-Co-operators.cfm?j=0"
-    type: article
-    provider:
-      name: T-Net
-      domain: bctechnology.com
-    quality: 0
-    images:
-      - url: "https://www.bctechnology.com/tmp/news/F1398B376ABD4D3F854FEAB7FA8CE6A82F979A578781FA7F980EE12A27AE28F8.jpg"
-        width: 800
-        height: 446
-        isCached: true
   - title: "Cross River and Sardine Partner to Build Critical Risk and Payments Infrastructure for Fintech, Web3 and Crypto Companies"
     excerpt: "Cross River Bank (“Cross River”), a technology infrastructure provider that offers embedded financial solutions, today announced a partnership with Sardine, a behavior-based fraud and compliance platform for digital wallets and neobanks,"
     publishedDateTime: 2022-04-25T13:02:00Z

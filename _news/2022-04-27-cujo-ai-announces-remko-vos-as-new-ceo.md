@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:10:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-announces-remko-vos-as-new-ceo-1031390675"
 webUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-announces-remko-vos-as-new-ceo-1031390675"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider
@@ -17,6 +20,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "CUJO AI Names New CEO"
+    excerpt: "Los Angeles-based cybersecurity software developer CUJO AI said today that it has named Remko Vos as the company's new CEO. Vos was most recently a Product Executive at Comcast. The company said that Vos replaces Einaras von Gravrock, who co-founded the ..."
+    publishedDateTime: 2022-04-27T13:35:00Z
+    webUrl: "https://socaltech.com/cujo_ai_names_new_ceo/s-0082433.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 17
 
 secured: "1zJip+BnytkJQbB4+DtPftV3zvDXZKtKLu48o7zgz43dz6OKlR9/d8ywB+/+xIZg4p8oh8wSDzfCbZhz4XJMRgBzBw5kRsidTJgxvKs/uOzCja48oduQLnr8xFK8+5mIthN3qf4UTU7RlOziwSr5huJn35KSU+5/mkRdHxyHHXdKy60Bc7gqn4+tw5OQQVAKtfIoqLtm+X/ux9sRgWxEbLfv4jyJt8pp7L1iXoElrxnrxnEpsUbzFc4vzgfLZqnBTgwLKqw8+5bGz0NJTV/gBrYm5NXach7xJG97rbyvqB22gN6+0UHd+8v8LLFQWGVfaReUbq8actxbpiOEG6zJwlmQR3rjgbn+/EGH7mbXBH7HhShVD2HPh/n+fLMqsaHGrjQkQqwGyyaiauVB54Tl36dlHEZblNfQ4n0ucveg6f5RvoDRjZN6Fs6MUk94fRPL9gqqL+K84+C4l8cpw2LqoQwXJQaqVs099A5M6csDul8csR64d/bumx4l2xdDeulOm+KrICUF6qhi0ZgSU4wYjw==;TVKKsCKnSz/iMyr5n9WPFg=="
 ---

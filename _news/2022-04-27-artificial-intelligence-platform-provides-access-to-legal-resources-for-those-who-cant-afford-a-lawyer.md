@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:45:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-platform-provides-access-to-legal-resources-for-those-who-cant-afford-a-lawyer/article_a0a99843-e670-5f76-bafb-0e0bbe224a4b.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-platform-provides-access-to-legal-resources-for-those-who-cant-afford-a-lawyer/article_a0a99843-e670-5f76-bafb-0e0bbe224a4b.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: WFMZ-TV

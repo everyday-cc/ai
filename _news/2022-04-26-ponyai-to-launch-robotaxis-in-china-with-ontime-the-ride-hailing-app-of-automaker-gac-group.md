@@ -3,10 +3,10 @@ category: news
 title: "Pony.ai to Launch Robotaxis in China With Ontime, the Ride-Hailing App of Automaker GAC Group"
 excerpt: "Autonomous driving technology developer Pony.ai is expanding its presence in China in a new partnership with automaker GAC, which is China’s fifth largest carmaker and a longtime Pony.ai partner. As part of the close collaboration with GAC,"
 publishedDateTime: 2022-04-26T15:30:00Z
-originalUrl: "https://www.futurecar.com/5367/Pony.ai-to-Launch-Robotaxis-in-China-With-Ontime,-the-Ride-Hailing-App-of-Automaker-GAC-Group"
-webUrl: "https://www.futurecar.com/5367/Pony.ai-to-Launch-Robotaxis-in-China-With-Ontime,-the-Ride-Hailing-App-of-Automaker-GAC-Group"
+originalUrl: "https://www.futurecar.com/5367/Ponyai-to-Launch-Robotaxis-in-China-With-Ontime-the-Ride-Hailing-App-of-Automaker-GAC-Group"
+webUrl: "https://www.futurecar.com/5367/Ponyai-to-Launch-Robotaxis-in-China-With-Ontime-the-Ride-Hailing-App-of-Automaker-GAC-Group"
 type: article
-quality: 30
+quality: 28
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: futurecar.com
 
 topics:
-  - AI Hardware
-  - AI
   - AI in Autos
+  - AI
 
 images:
   - url: "https://img.futurecar.com/202204/26/l_62680d03d2b57.png"
@@ -66,6 +65,6 @@ related:
       domain: caixinglobal.com
     quality: 19
 
-secured: "egF5NamCKFa/eRlWIzz/AGU/pCohDO4z0BjWhwFwL2vWtih5VLRfe71SLkK5yCtoRp3RJlWuEt67q9+UaIp9kDTsRrAMPf8VTbKj2I5Z46EaGotHVjSlIhwIF9tH8M1HfSwHA6H7WNV0+y95HuNGm/HvQvmF3I98J+0QHj5xzQllOncmHD4IN3RfZyCoU+O3nOKmQuYODjQoyfE3xPFaaRfhwnTcBlTx9TWAiZAzpcTFdZ5V7MX+cmuU+Hrc5Zqo43EfEoYmb06ATrQr1mv6v5VwWYX3csFbcrtyIwQHHW302FMmAEv+ghtIf2/F4OJ0dESASWDap8/NvZEyz5nHSTpNdsTq7ljbqwP7hkybx3hEs8ve/uFG4PomqGiaocXx21oeFTtplrwn9S0kMpg0uxRIQk4cNiW3rBfab4IkGubfocVIYXKOzFnYzCLxul7LLMFKfElYwISmUiL1n80BH9Q08orB0KuNz6HH60jaTOaHtZw6T2+K2uYTt7FKRnO8bIyBfXSoXveNbtb0VSOxjg==;jzHGPFuoKhoV9Civ1Gn3PA=="
+secured: "9vESPPizJK4d1DS+XprW1lkhyYYULHfxjbTrrCm3ZUIrp+urBj3wZ0iG2tX+Y/ZRVrHaTcOfD9VgECAUZ6oaLP387jEJVKAFsE++lEoH3Wh3tyLe4PGjMQNSCfsH5gK+ulVDWSKgohARFbDowFnOUnd2SPxB2Sj+OwzNVEXJ9b0QfNCGYHbm5mg/5TOWWNS/fI6+Jl4nKtooEFyTfyM+8SP13aOjqUTo5JeiVh+EIm8+mcCQGkHUj97sQK9OVrvtQdFBrksC8BlZl6YIZmjeAHx2rYkeDKYT52H7gMOLlAp5d7s/YbZCCP907aNsfREr0eR0DlFKfXLQNDkY5gAAvaDlgolOGI61A6WYm8SagcI=;TgeXF00pH1kmDzU3AOVt2g=="
 ---
 

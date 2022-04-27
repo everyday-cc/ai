@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T13:00:00Z
 originalUrl: "https://venturebeat.com/2022/04/27/arize-introduces-ai-bias-tracing-to-pinpoint-cause/"
 webUrl: "https://venturebeat.com/2022/04/27/arize-introduces-ai-bias-tracing-to-pinpoint-cause/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

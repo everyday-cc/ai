@@ -2,18 +2,14 @@
 category: news
 title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
 excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-publishedDateTime: 2022-04-14T04:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982"
-webUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982"
+publishedDateTime: 2022-04-14T07:01:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI Ethics
@@ -25,6 +21,6 @@ images:
     height: 1845
     isCached: true
 
-secured: "HjmkxRLoRIuJNGhn5Uu/OZ5APufDqKrTvNeUe2hgHobtuBl9lazyF16ZhpOcCOYzUJZas3fVFRiAyifmsQLLEI1waXDMDKzU2BBLkEdPzYMMOksB48/KSkR9/TYrQS4EgWRGXcYIPKB+cSg+EqTjtaJMyAw1PvRkpieNoaIEF8g4sqvIB9ZHS+TeD2dPTT66Ogcv9wfnPpgsk6Ldwa0ClMHobOt9CB4lSY692ghaRWRGrD4dIf8HY7PNWSNWxRl3WA+8y8GlbyXB7REGsDPPmS8Yc6FV0gV8sxudRygd6RGP4i/QQFi4VtRAUbsZ352+TIeNwiDmeS2tkn0EuVlz8S6/+Bd1JQWCzzlVXWV64BRODlnWQH/G+5fI9on23nLvcmPYjufroSx6KpCZy4kz1nhc8e4D7PjAmILhX1q6Mx6rzZEzYulCXm+ZES5PANvi7fLUkF5MutNQjMQb3puaxLdJ+VK7c6I0GHw7omq8gHDc4HcDz15qx0kzmU2B93jiFU+9aiLhZz2gz4I7yiuw6g==;OfkvN+ebixMedVO3qRYKPA=="
+secured: "n2Tj3sIDqBGgLRKZeo7CiZqaJvShK95WhbatIm8l6HPz5gf5ZyXf4jtucZotqt0vsEyAtFoRs6Xu96KaHQktIzq1kI973i+et4AEXfnx+B0BuCp7RF1/ycj1+QkOxnyZnWgi123hD+ZfB+AmMbh89C0Mzizc1VAPpRxL2eC+sdQ+7+MBSKKuD/MCXfdgGAurN5JMWrBVfibBJDn+S7pVCR3LE0p7UXLBUERqVWkP9Cw/D/Yq8LxqV6rLP+JxsNufUDw6lA2WAJtZrIGkUR20Q3y8TSgqU5hYEV5gvJh7EwAplg2xl6ltVeoLFJIEGYhbanl0+VXbBb6PwO53dRtjR7njUwUvKEK/8WPhOMVwrKc=;cUqgP72xNIw0RlHz7nLRxw=="
 ---
 

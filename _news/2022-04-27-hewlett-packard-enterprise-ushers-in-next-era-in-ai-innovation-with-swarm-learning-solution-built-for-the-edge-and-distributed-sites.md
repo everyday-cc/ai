@@ -1,20 +1,61 @@
 ---
 category: news
 title: "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites"
-excerpt: "HPE Swarm Learning, which was developed by Hewlett Packard Labs, HPE’s R&D organization, is the industry’s first privacy-preserving, decentralized machine learning framework for the edge or distributed sites."
-publishedDateTime: 2022-04-27T12:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-27-hewlett-packard-enterprise-ushers-in-next-era-in-ai-innovation-with-swarm-learning-solution-built-for-the-edge-and-distributed-sites"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-27-hewlett-packard-enterprise-ushers-in-next-era-in-ai-innovation-with-swarm-learning-solution-built-for-the-edge-and-distributed-sites"
+excerpt: "News HighlightsHPE Swarm Learning, a privacy-preserving, decentralized machine learning solution, allows users to share learnings at the edge, or distributed sites, without compromising data privacyThe solution increases accuracy and reduces biases in AI model training by enabling access to larger datasetsNew solution delivers AI for greater good by fostering collaboration across organizations,"
+publishedDateTime: 2022-04-27T15:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=653783"
+webUrl: "https://us.acrofan.com/detail.php?number=653783"
 type: article
+quality: 8
+heat: -1
+published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
-  - AI in Finance
+  - AI Ethics
   - AI
 
-secured: "s8yv2R81W3wN+tZER10iDyEn+GyVmc0rXe2LyUHsSn+jLNqyWUQ6duOpGSj/6tY1Te3pyrqJfvSlF5PB4UIMkNeMAzIYoQPnnV4BnCfLmS/FAra9g+botT4B1J91zf1J+WAv3cfXRoqjnMTi5A0kp1MbesiuyMlgkCTpIaPounfN6VlI0N8hKX3czZyjulaSU1/1Gn92IpFr0USnel86whDUeitTd3q7Sosm/xPfzr2OJAqMqL32GJ/jK4BIkudgETDHh+GDAgN5NH1Ls2XlaSIEUfg2d+0ADPajRi9K0Dou0Fh+y4eP+iv09fh1kyiUCsEHNYSaMu+1ICdIukzs1kjKGTVXyvaMeLbAjeXdj5U=;Eu45cP4QxBuI9Cp6570ZlQ=="
+images:
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
+    isCached: true
+
+related:
+  - title: "The Innovative Ways The United States Space Force Is Leveraging Data And AI"
+    excerpt: "Speaking at an upcoming AI in Government event on May 19, 2022, Dr. Lisa Costa, Chief Technology & Innovation Officer of the United States Space Force will be sharing insights in how the US Space Force is delivering the first fully digital service,"
+    publishedDateTime: 2022-04-23T16:14:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6264256f61e2dd81de312206/0x0.jpg?format=jpg&crop=2400,1350,x0,y240,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Artificial Intelligence is Impacting Aerospace Industry"
+    excerpt: "Improved supply chain proficiency makes maintaining the equipment and its routine repairs much easier than doing it manually, and it also saves money"
+    publishedDateTime: 2022-04-26T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-impacting-aerospace-industry-nid-9748.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/fdoa450308cioapp.jpg"
+        width: 450
+        height: 308
+        isCached: true
+
+secured: "voUeEVWUKrJsq1UTSwPeaB4UPOVtX64ErgGvzyNrw+csdYLxK1CANaGE8GJJLPtHc0EhOM6d5Scd5fi53vkyRSHEqREZ5WkCJ7SlDvHBvIgFEiMF0Tq2bYuBUz5pYf1Dv2cbA1EvWLtdlf7FN/7z68TtlXKzs4DcdTE0rrD5Iged0pCF6wDiEHnz0YXq/7XOaWTLKF47Ln5Nc0sgJJdfXqYNvA2hq3Lwd4yAuOH6spsyh44VgrJjKTrw4JFTEkkpLysKcZO69CVSZZlN87Hx5SLpMGLSvYF0fx2DgHc6sMZhVC0Rc6cbhZ+SP5mJLMKaXPzKe9Eu2FCPNA7XjkFYPNXlWlHVASfZT+88xsUEpoQ=;7+FdFepUW+o1AtrRORL+Zw=="
 ---
 

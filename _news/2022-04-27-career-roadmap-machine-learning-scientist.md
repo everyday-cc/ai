@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3658130/career-roadmap-machine-learni
 ampWebUrl: "https://www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.amp.html"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:

@@ -23,6 +23,22 @@ images:
     height: 383
     isCached: true
 
+related:
+  - title: "The next cybersecurity crisis: Poisoned AI"
+    excerpt: "A lot of machine learning relies on massive data sets of unknown provenance. That’s a problem when digital defenses are on the line."
+    publishedDateTime: 2022-04-27T13:33:00Z
+    webUrl: "https://www.japantimes.co.jp/opinion/2022/04/27/commentary/world-commentary/next-cybersecurity-crisis/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 37
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_155497-1-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
+
 secured: "cvtyN2vrf6+Jn9FUmpmPCOFYgyUnHxTm58mT6JjxALweHgvYFw2qnGLy8Gp9+g9jbs1fnV6rtserM2CxB0OfXDIoEWisfvKi/quSYVASZhrB41fDFmYRQ+bu9Cn2GwBN856Sv8B6MHFmgZGgFZcerUaLFL744A1eCbQqS0rfAtz9gG2toQv4XnGgKOOOFfHv03vQrzKHvCvntL0d83aSNUmopYHvFQzsgouDI7K+NhsvBzF3xuO0jvfGmLYfNs/jgIkAr32pU14iT9g74zwRQDDrjHgt7+Vg3w20IGqChl7VtSB2LUvMbV+r6wzLs7BgnBxB9IUbtKP0b7ku8j7f27eSk9tYB0YbMsT9TkeA5mk=;DyTArGlaIMdNKtkFmDoYNA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T11:53:00Z
 originalUrl: "https://www.business-standard.com/article/economy-policy/how-neobanks-are-set-to-disrupt-31-billion-indian-fintech-market-122042700634_1.html"
 webUrl: "https://www.business-standard.com/article/economy-policy/how-neobanks-are-set-to-disrupt-31-billion-indian-fintech-market-122042700634_1.html"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: Business Standard
@@ -14,6 +17,36 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "How neobanks are set to disrupt $31 bn Indian fintech market"
+    excerpt: "The $31 billion fintech market in India is set for a disruption with the emergence of neobanks and to scale and secure a foothold, these digital-only banks should acquire primary bank accounts, a new report said on Wednesday."
+    publishedDateTime: 2022-04-27T10:32:00Z
+    webUrl: "https://daijiworld.com/index.php/news/newsDisplay?newsID=952375"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/arun_270422_bnlk.jpg"
+        width: 500
+        height: 400
+        isCached: true
+  - title: "VC investment into European fintech set to enjoy stellar 2022"
+    excerpt: "The data from PitchBook shows that VC investment in the UK and Ireland continues to enjoy a purple patch, outpacing other European countries this year and that VC investment into European fintechs has enjoyed a strong start to 2022."
+    publishedDateTime: 2022-04-25T04:52:00Z
+    webUrl: "https://www.altfi.com/article/9144_vc-investment-into-fintech-set-to-enjoy-stellar-2022"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/vc-investment-into-fintech-set-to-enjoy-stellar-2022.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "omhPVXmGeq+dcBkG9MOFwH7xSHS/zn20slVku5UOsFPb57Xsoha9PTL3ccCz6zLMHfKTshMw0w18iRgseUprks1GKmuaUMInQX0d6R8Y+Vebxj8f4U+MpjKk9E08tN9TueIdkxQuQ1dkiY9F6fvcSn1eLJPwBrkZA5XGeCz3oxf+DeESxY5bGDDPtd8PYH5UKDt8kCJNSdcRbkis/tSehEfOKgrxwKtSCB0+d9nnWK61QC9T6l95M7OAItpwOlw6ByMNFFS68b4tYrGT4aZbndq2XjF5KVwfwu6XsykTCa6MD/9QqdNlmoqmC/lTONP01R7oAC0ck66BS1UeOWr7P3dttgzmxGsnYwqTNbPgAgmCnNVYK1y4qic3EGGucXPsthdFPnXa+kvoiZDsmun+9tPs2A5XclcRhvDbzzimOtWI9wTpablmAsWM4mX+AwxVstZqDdJU0pWrcd6/n1o8ZocLz0p/wmtb1puhRlMKtg2L0AQa4vpJpmtvq15tu42SAu1+pgJiN5Wa+yDKYGFVuw==;u/jPpamebHclV9SsINU4tA=="
 ---

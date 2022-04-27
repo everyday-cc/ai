@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:30:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/syncron-launches-the-first-contract-price-solution-with-risk-assessment-for-aftermarket-service-sales/article_a1f14d7f-ea73-5374-bcd5-7dfb4f9511c8.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/syncron-launches-the-first-contract-price-solution-with-risk-assessment-for-aftermarket-service-sales/article_a1f14d7f-ea73-5374-bcd5-7dfb4f9511c8.html"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: WFMZ-TV

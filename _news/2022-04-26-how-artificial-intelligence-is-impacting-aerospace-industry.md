@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites"
+    excerpt: "News HighlightsHPE Swarm Learning, a privacy-preserving, decentralized machine learning solution, allows users to share learnings at the edge, or distributed sites, without compromising data privacyThe solution increases accuracy and reduces biases in AI model training by enabling access to larger datasetsNew solution delivers AI for greater good by fostering collaboration across organizations,"
+    publishedDateTime: 2022-04-27T15:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=653783"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 8
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "nk6WHd0IYcruVJr/7XzgOh5clz9ZugAcZ/nXQgYZml35CokyhLMastl+0vGKPftOOTEN1OYyoVLYrfHmVfbxujs1irOUWuIeK1bT4tT30C6+rhQ3uV/F1RGa1nDoFiFXq+DsUiURo3jzPFbYxp/nAcsdlNKCKDpv9etoIh5UhiChkrmne8reFGrqsFIkjeIJjlWvX5kx6whIddrQXQJECiVSKoG8e8CmkjuQif3L2MH4CXdbBBu7d16MNLiZuelHR4rtg0IfKHdZBkz4wnSwJs+tUgHZCgUo6HxN2pg2qCYhNyR14PLho0Vq8ICHEIyBSnq7kQlJVVEe10HbkDKsjb3dJIlIRv/Mm9wOg3oFq4AWqId1gUAX0e6EonQG2IMquXI0eVK1WskHcnTKbosx3YwMzuAuR9tWPL42o+r5edsVfhi8IBJFTHDUKDBgGBK3f1ie18Ub6et3ecemzm1nok78yDDZ88kDdaCMK1xWiRDVkwd789U6tOycjNbrWtPUdg/AqHX8YHdP8DEUOikUIA==;d2tyTN0Z3+yMkuL5Wzf9uw=="
 ---

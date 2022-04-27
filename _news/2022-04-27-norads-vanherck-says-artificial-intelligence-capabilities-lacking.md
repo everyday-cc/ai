@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T17:30:00Z
 originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/"
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: C4ISRNET

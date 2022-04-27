@@ -18,33 +18,30 @@ topics:
   - AI
 
 related:
-  - title: "Loris announces $12m Series A to transform AI for customer service"
-    excerpt: "Bow Capital and ServiceNow Ventures invest in Loris to bring no-code AI solutions that assist human agents and conversational insights tools to the mass market. NEW YORK, April 26, 2022 /PRNewswire/ -- Loris,"
-    publishedDateTime: 2022-04-26T16:30:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-3a5c73574e59c8e3c4d86d8c0bac2508"
+  - title: "Why conversational AI is an effective listening tool"
+    excerpt: "Conversational AI, often referred to  as natural language processing (NLP) or natural language understanding (NLU), helps computers listen to, understand and extract meaning from human language."
+    publishedDateTime: 2022-04-25T13:36:00Z
+    webUrl: "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "How Artificial Intelligence Is Transforming Service Desks"
-    excerpt: "AI-powered event management enables a company to detect infrastructure issues in real-time and immediately initiate automated resolution workflows to"
-    publishedDateTime: 2022-04-27T07:34:00Z
-    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-transforming-service-desks--nid-9765.html"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Gnani.ai's assist365™ Low-code Omnichannel Conversational AI Automation Platform V2.0 sees a 3x Rise in Adoption"
+    excerpt: "Offers fast-track automation across 20+ channels in voice and chat with 360-degree Customer Engagement Gnani.ai, a global frontrunner in Conversational AI and customer service automation today announc"
+    publishedDateTime: 2022-04-26T15:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26817577/gnani-ais-assist365-low-code-omnichannel-conversational-ai-automation-platform-v2-0-sees-a-3x-rise"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26817577"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26817577"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/qvprcio-appli450308.jpg"
-        width: 450
-        height: 308
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "xsFAPDYlpzTiBqkaO7ypXeM3lv/SGK5RJf7PXlNgQ+Mt8Iu7JZor9zCnt+93H3/n8/XMvckt3o2rz9aALesnM50oWDoGCd5AxGeZz0L5vHCGIXHxed79gE2NMVkzne1ByZWD9fWN283R4pZqRMdBPZaPwoAHDWV/VJV1XubHnbndJueekgXZ6+g7hh7nl5PwNit7Uk2zCihoD5LSLJmm3b47vqsYx2BWILp+JgD3DlNLMjOd9aAK5w1epyMN9c7TMtZJZ+X+tDfNR2Vs6Rn4IVrRkwgQsQox5yYi5eBPR5Xc/kMrPqRNi7tkfQ8g06FJnKj65lS9uzrQURxtOOs1GIMQDcYHgDVNBDEqHbSfVsE=;HrcWxv5DzyBAVnrCAbY1aw=="

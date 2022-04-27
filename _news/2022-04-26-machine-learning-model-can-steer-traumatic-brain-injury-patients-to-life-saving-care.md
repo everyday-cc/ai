@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injur
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 34
+  - title: "Machine Learning Optimizes Outcome Prediction in Traumatic Brain Injuries"
+    excerpt: "University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons have created a prognostic model that uses automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI)."
+    publishedDateTime: 2022-04-27T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/machine-learning-optimizes-outcome-prediction-in-traumatic-brain-injuries/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 33
 
 secured: "zSLNwsUOM/35MKgeUpe1hf3LAwy5O6GMnHin/TpnR9fIg0evWJXxxMOMH0Xbhr6cbJ5Zw5EuFeNn8vosdtk41hrSmx4sqR1QOCii4UE1qI04ja96FahcgU+d8aqjS3txqGK1BJIbRYMCYvKuWYiqxqR3M8vckecbDgeGxCy5HU1fkxZNyqNp4wj1ioM+scQbNckc/VIhr+NZkiboJq1OdcwS4fXAa7+WLo8PQNmA21Shnv9Ltf8LYZXV+pQe96Hmr/fus0As3ZLnBOV2PBRfC4AIjuZglccEvbgagf4eLLTIHQUtSVRC30iF6436kyFSYs+PP4URlKZDNQS1TTB0WMEKvfma/5zj6WwXZSf7TUCCPTIjYQj7mMV6UseIVeV2ntU26saLmWs45a726g0Sh9Sid7X2ZHonjSG8flkyDz7VxPPkCw/N4+MdxSR761mHF6Wlp15dmrPTnk0K282H4k2YVesZpbUFaU7id0ucixK2RxKCzYYO74YpjXAyDDfzAXo9ydtiP5UVYim4UEeciw==;zeHX4328+/m35kAmZPOqAg=="
 ---

@@ -52,6 +52,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Onuu Announces Inaugural List of Partners to Democratize Access to Financial Security for 166M Americans"
+    excerpt: "Onuu, an all-in-one banking and insurance solution, announced its first round of partnerships with some of the most innovative and trusted companies globally, including Visa and AAA Life Insurance. We built the platform with Americans of modest means in mind,"
+    publishedDateTime: 2022-04-27T12:19:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/onuu-announces-inaugural-list-of-partners-to-democratize-access-to-financial-security-for-166m-americans"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 4
 
 secured: "m41mXmmoJjp2aV7Ekp0hITBv4jkcln5f25KKpUWWv2dHG89eWgtpLblxTJt+loXdUAfuUUU1lxukdr8nGfLZNrD4kv2qq0qoCCNY4MRrHzVhhepMDdRmtV0ST9RNJb8cQK7+x0CNh3d652QPn0EdPps/yKVprELytjtZqZmepuA2nsoCDSCrKbKqBkQnLIbVxJXeYhKBE7Nw6GcyHwvlk/aOmWr37BSLGkYeWXFSilp35GQHN//utSw1gZbLx56e7cktyp46ie82gL3K1WXUkBLK6M7rZXTgKwPCSpgB/A1RCuLlNfT4fZC/ytM/Jg7Gy26/UfVjQks9iNhhPHQoaQQc3Wsyr/mqftQyASwN4Vc=;y7qEoHa05mDOZ9hdKTSmuQ=="
 ---

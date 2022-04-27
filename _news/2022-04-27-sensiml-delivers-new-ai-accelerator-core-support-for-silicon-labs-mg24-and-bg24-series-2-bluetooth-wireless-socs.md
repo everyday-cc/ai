@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T13:35:00Z
 originalUrl: "https://wreg.com/business/press-releases/cision/20220427SF37918/sensiml-delivers-new-ai-accelerator-core-support-for-silicon-labs-mg24-and-bg24-series-2-bluetooth-wireless-socs/"
 webUrl: "https://wreg.com/business/press-releases/cision/20220427SF37918/sensiml-delivers-new-ai-accelerator-core-support-for-silicon-labs-mg24-and-bg24-series-2-bluetooth-wireless-socs/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WREG

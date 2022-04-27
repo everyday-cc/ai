@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T12:37:00Z
 originalUrl: "https://enterprisetalk.com/news/loris-bags-12m-in-a-series-a-funding-round-to-revolutionize-ai-for-customer-service/"
 webUrl: "https://enterprisetalk.com/news/loris-bags-12m-in-a-series-a-funding-round-to-revolutionize-ai-for-customer-service/"
 type: article
+quality: 10
+heat: -1
+published: false
 
 provider:
   name: enterprisetalk
@@ -13,6 +16,36 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Loris announces $12m Series A to transform AI for customer service"
+    excerpt: "Bow Capital and ServiceNow Ventures invest in Loris to bring no-code AI solutions that assist human agents and conversational insights tools to the mass market. NEW YORK, April 26, 2022 /PRNewswire/ -- Loris,"
+    publishedDateTime: 2022-04-26T16:30:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-3a5c73574e59c8e3c4d86d8c0bac2508"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "How Artificial Intelligence Is Transforming Service Desks"
+    excerpt: "AI-powered event management enables a company to detect infrastructure issues in real-time and immediately initiate automated resolution workflows to"
+    publishedDateTime: 2022-04-27T07:34:00Z
+    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-transforming-service-desks--nid-9765.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/qvprcio-appli450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "qbUdg34nZfY0rpk8+G+MODA6zTCUsTnSAB15uAGMB/C1+6EmdE/bS8S1dvSUuik2ErFpWwvNiFiC8F77p3thC+an3/fZ8gj8pO/d8dnxxLUmr/DAmmrGdlHK+1ifKKlx5lMw4GWLAWuOlO30zFrYKXmV1SPjD/Y8z0ZY7wUjPuun92tez6T02OYGGxeDtjxwPlstb5RwXLy1meI0fRtRmVuFNAn5/TjUm86mzjbz5EFK67Dk7uN3SMzH1YKDJK/lyrPFTu95cAUvKUtWl7aV57PvQtikdRx7lj/MF/cIQbjJzBgo3mNVheU12xKphhjVnL/kudKxqMnnLKhNEB/k7W8VAHPwIpOByjPYISbBkrtpEaZddZ7gYnlHuR9/eX/exr9vTR7YktVE1I8zvnrQ/gMZaT7O+w+NxA4XXEJOqxPx+35dsSXf9bIoWV2a7fVUvPWNTVOItzrosxgxU6zvEa1EC+nwZ5Ai781ceFfMJ6/D44fC7Pu5ic9W86OJ8QI0ZP8fZVJEng6DlenVbyFyiQ==;f/N9BRnyyz6eI0nmtRx8LQ=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A California tech CEO is running for US Senate on one issue: banning Tesla's Full Self-Driving technology"
+    excerpt: "Dan O'Dowd launched a multimillion-dollar ad campaign that takes aim at Tesla's self-driving software and claims the company \"skates by regulations.\""
+    publishedDateTime: 2022-04-23T11:45:00Z
+    webUrl: "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4"
+    ampWebUrl: "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/6260156c4f524b00194d5dc8?width=1200&format=jpeg"
+        width: 1081
+        height: 540
+        isCached: true
 
 secured: "tDWa1XUUMCIEykqJa3puRnXvoGpoDXQdgtkShiTUEeERnR0D8ZUlwqoH9n9BdH4Q+WIjdj62GqJGSZqKTduzglAGSQyz+EnMOdPb/ZRhCEz5D6k9DTVsci9h2Wi4Fz2sTITwnRpmJwClMxD/VQmcLkDZqOR/Q8M9yoqs1t2KLKmHcujhqH4U90aHU2Nj6WALu06/pyY4jwHKzzKbxSslwq2eupxywq2FpyavE/k99agqqdLDJ1o4q1aiD+t1URqfb9/DFeSSJRz0u/5AxjTagjDpvvCwY81gleDmLtXa+IiA8yu/D86j3VARkM9Z6ZHWAqTjwsGFQGkJTZ1Qus3OK1ezXTSKpGf3rJ6xhpiZk20=;DAMl03bheS9FMY10HC7yvA=="
 ---

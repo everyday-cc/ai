@@ -51,6 +51,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning Optimizes Outcome Prediction in Traumatic Brain Injuries"
+    excerpt: "University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons have created a prognostic model that uses automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI)."
+    publishedDateTime: 2022-04-27T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/machine-learning-optimizes-outcome-prediction-in-traumatic-brain-injuries/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 33
 
 secured: "pwuCeNiMGesZpfxzcwsrOQdcP9FXrXhHKxX6npB3yvsSryNhjxMhSKSgOtKtESQMsp7ya+ZZWK7pG2ZkLcW7WPyVg7jQwxr9ciGWbm9xPaHv+829hvdvnIqxSK84MlioFXxJBjxkzndbkkhO3ij3Rhq0HefuE7GxtB8uhNAe5wGK1h/XPMbqpUkHiM4U0x+zDuaUaQ8WQYzAl3H7us4+FYDlOrGYmKJtHARn53G9wfAlpZ24jpN3R1vdfz83HrI3CfaELMv1uHXI+fXBZCKJ1irdTzc9XcBOUFyDpQZmBW8k7l+sjHUeEDyxeohVpL5VuIEU8RJyIfnAnkJz37Y7QSCzy5JYRMrLxoia/Qnqo0ZRBSrvNEm9/YpLjMeGiibKC88ju9Av3tqCONV7MWqB5oLIV9h6QZcDgnemCzDBNojbVHRJ8toXH36DzPMd/llVbZ0AN8S42TW3JjxsV9AsorDldgIA4UOkhwzd14QtPx6n8PV7JTmJ4smRxPKMT1OTLJVmUa03MNz6+zHGASIm7A==;lQMuxw4O2aoIQSANxQOr5A=="
 ---

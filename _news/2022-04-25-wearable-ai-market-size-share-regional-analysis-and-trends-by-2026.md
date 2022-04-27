@@ -24,121 +24,70 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI tools should unify calling, messaging, analytics and more"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! LivePerson,"
-    publishedDateTime: 2022-04-22T21:20:00Z
-    webUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/"
-    ampWebUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
+  - title: "AI Chip Market : Prospects, Trends Analysis, Market Size & Forecast 2030"
+    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
+    publishedDateTime: 2022-04-27T11:02:00Z
+    webUrl: "https://menafn.com/1104104053/AI-Chip-Market-Prospects-Trends-Analysis-Market-Size-Forecast-2030"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 53
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/chatbots_phone.jpg?w=1200&strip=all"
-        width: 1200
-        height: 761
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?320558"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Conjura Raises €15 Million Series A Round to Pioneer the Future of E-commerce with AI-Driven Analytics"
-    excerpt: "Press Release Conjura, the leading e-commerce data analytics platform, today announced it raised €15 million in Series A funding. The round was co-led by Act Venture Capital and MiddleGame Ventures, with participation from Tribal VC."
-    publishedDateTime: 2022-04-26T11:25:00Z
-    webUrl: "https://venturebeat.com/2022/04/26/conjura-raises-e15-million-series-a-round-to-pioneer-the-future-of-e-commerce-with-ai-driven-analytics/"
-    ampWebUrl: "https://venturebeat.com/2022/04/26/conjura-raises-e15-million-series-a-round-to-pioneer-the-future-of-e-commerce-with-ai-driven-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/26/conjura-raises-e15-million-series-a-round-to-pioneer-the-future-of-e-commerce-with-ai-driven-analytics/amp/"
+  - title: "Wearable AI Market : Outlook By Size, Share, Future Growth And Forecast From 2031"
+    excerpt: "Research Nester published a report titled “Wearable AI Market: Global Demand Analysis & Opportunity Outlook 2031”  which delivers"
+    publishedDateTime: 2022-04-23T11:01:00Z
+    webUrl: "https://menafn.com/1104079170/Wearable-AI-Market-Outlook-By-Size-Share-Future-Growth-And-Forecast-From-2031"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
-  - title: "Pointivo's AI-Powered Analytics Platform Reduces Timeline to Complete Tower Mount Mapping By Up To 90%"
-    excerpt: "Company leverages innovative technology and extensive data catalog to quickly and accurately complete tower mount mapping and analysisATLANTA,"
-    publishedDateTime: 2022-04-26T15:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pointivo-s-ai-powered-analytics-platform-reduces-timeline-to-complete-tower-mount-mapping-by-up-to-90-1031385683"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1801141/Mount_Mapping_Final.jpg"
-        width: 400
-        height: 228
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
+        width: 268
+        height: 250
         isCached: true
-  - title: "Why conversational AI is an effective listening tool"
-    excerpt: "Conversational AI, often referred to  as natural language processing (NLP) or natural language understanding (NLU), helps computers listen to, understand and extract meaning from human language."
-    publishedDateTime: 2022-04-25T13:36:00Z
-    webUrl: "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/"
+  - title: "AI-Enabled Testing Tools Market is Expected to Project a Stellar CAGR of 16.9% 2022-2030"
+    excerpt: "AI-Enabled Testing Tools Market is forecasted to be valued at 1.27 Bn in the year 2030 and exhibiting a remarkable 16.9% CAGR during the forecast period 2022-2030. Telecom firms are leveraging the potential of AI to manage and assess large volumes of big ..."
+    publishedDateTime: 2022-04-26T05:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-testing-tools-market-is-expected-to-project-a-stellar-cagr-of-16-9-2022-2030"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Pushing Forward The Value Of Analytics, AI And Automation In Telcos"
-    excerpt: "A complex company like a telco will continue to build out skill sets in analytics, AI and automation (A3) for the foreseeable future. The main areas of this development are described in this article."
-    publishedDateTime: 2022-04-25T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/25/pushing-forward-the-value-of-analytics-ai-and-automation-in-telcos/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "BrainChip and NVISO Partner on Human Behavioral Analytics in Automotive and Edge AI Devices"
-    excerpt: "APRIL 19, 2022 – BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world’s first commercial producer of neuromorphic AI IP and"
-    publishedDateTime: 2022-04-26T05:09:00Z
-    webUrl: "https://www.sharewise.com/us/news_articles/BrainChip_and_NVISO_Partner_on_Human_Behavioral_Analytics_in_Automotive_and_Edge_AI_Devices_Brainchip_Holdings_Ltd_irwpresseen_20220420_1033"
-    ampWebUrl: "https://www.sharewise.com/us/news_articles/BrainChip_and_NVISO_Partner_on_Human_Behavioral_Analytics_in_Automotive_and_Edge_AI_Devices_Brainchip_Holdings_Ltd_irwpresseen_20220420_1033/amp"
-    cdnAmpWebUrl: "https://www-sharewise-com.cdn.ampproject.org/c/s/www.sharewise.com/us/news_articles/BrainChip_and_NVISO_Partner_on_Human_Behavioral_Analytics_in_Automotive_and_Edge_AI_Devices_Brainchip_Holdings_Ltd_irwpresseen_20220420_1033/amp"
-    type: article
-    provider:
-      name: sharewise.com
-      domain: sharewise.com
-    quality: 44
-  - title: "MoD to fund startups for Artificial Intelligence, big data analytics"
-    excerpt: "The Defence Ministry will fund startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
-    publishedDateTime: 2022-04-23T00:32:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/mod-to-fund-startups-for-artificial-intelligence-big-data-analytics-388605"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$thumbimg_2144424520.jpg"
-        width: 415
-        height: 253
-        isCached: true
-  - title: "Control Risks Taps Reveal-Brainspace to Bolster its Suite of Analytics, AI and Machine Learning Capabilities"
-    excerpt: "Control Risks Taps Reveal-Brainspace to Bolster its Suite of Analytics, AI and Machine Learning Capabilities GlobeNewswire April 27, 2022 London, Chicago, April 26, 2022"
-    publishedDateTime: 2022-04-27T02:00:00Z
-    webUrl: "https://www.asiaone.com/business/control-risks-taps-reveal-brainspace-bolster-its-suite-analytics-ai-and-machine-learning"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/Notified-GlobeNewswire-Color-Large_735.jpg?h=10d202d3&itok=F6dYzV-S"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/29c1054a6cf588e36169f95b90f75465d7960b5f-600x337.jpg"
         width: 600
-        height: 316
+        height: 337
         isCached: true
-  - title: "Payment Fraud at Record Lows Thanks to Analytics and AI, Visa Says"
-    excerpt: "Despite a massive increase in online activity during the COVID-19 pandemic, fraud on the Visa payment network is at an all time low, the company says. One"
-    publishedDateTime: 2022-04-26T18:26:00Z
-    webUrl: "https://www.datanami.com/2022/04/26/payment-fraud-at-record-lows-thanks-to-analytics-and-ai-visa-says/"
+  - title: "Edge AI hardware Market Analysis Report , Types, Growth, Industry Analysis, Opportunity and Forecast 2020-2027"
+    excerpt: "The global edge AI hardware market registered a transaction of 532.4 million units in 2018 and is expected to reach 1,681.8 million units by the end of forecast period with a CAGR of 21.72%. Growth in Artificial Intelligence (AI) has created huge opportunities for semiconductor companies."
+    publishedDateTime: 2022-04-27T05:28:00Z
+    webUrl: "https://galleonnews.com/electric-vehicles/251485/edge-ai-hardware-market-analysis-report-types-growth-industry-analysis-opportunity-and-forecast-2020-2027/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: Galleon News
+      domain: galleonnews.com
     quality: 17
-  - title: "i-PRO EMEA raises the industry standard by adding high resolution combined with Edge AI Analytics to its mid-range camera line-up"
-    excerpt: "PRO EMEA sets a new benchmark in the AI-fication of the security industry with the addition of 34 new high-resolution camera models to its Standard line-up. The new 4K, 6MP, and 5MP"
-    publishedDateTime: 2022-04-27T11:32:00Z
-    webUrl: "https://www.sourcesecurity.com/news/i-pro-emea-raises-industry-standard-adding-co-1584600779-ga-npr.1651034581.html"
+    images:
+      - url: "https://galleonnews.com/wp-content/uploads/2021/12/logo_orbis-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Outlook, Current and Future Industry Landscape Analysis by 2027"
+    excerpt: "The global artificial intelligence systems spending market is anticipated to soar with a staggering 46.1% CAGR throughout the projection period between 2017 and 2027. The coronavirus pandemic is benefit from the coronavirus outbreak as businesses are remodeling operations to allow employees to work from home."
+    publishedDateTime: 2022-04-26T06:55:00Z
+    webUrl: "https://www.fmiblog.com/2022/04/26/artificial-intelligence-systems-spending-market-outlook-current-and-future-industry-landscape-analysis-by-2027/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
+      name: Future Market Insights
+      domain: fmiblog.com
     quality: 0
 
 secured: "paLkDtR/T/bWnabTdYjOKlqjPdzW/4j2mTnFH4PUwrN4Fqt8tWiulHqKh/v0IOeolCu06yTknWW/tQgoDT5sPoNXKfhHXRedZRgLwBOBQmbkUAu/fMtaQIWpCmfRnUMIs8l1WcIIP2K95AculriGh1YPQsxS2qBboDp17tCLX3IKrZZ0lX6W4aXB59Lc41vDJ4vOHkUBTX72XhQqqSPzPznQmHmpsXP7yJdAgJfwq4WZEJm4lXq2RsSEafQVkXLnMwPA2FzZ5WFzgaUQKhQV0mqUCkjKP7zyWjZ9nZ8SKP2GmxlJsDCqpET6bE39ALOgVUJ2yCNi9fv7f8uS4321kVlY13lRro+yr6mqdrnC2Ac=;VFmILOgQrwt7hiKnXaHcBQ=="

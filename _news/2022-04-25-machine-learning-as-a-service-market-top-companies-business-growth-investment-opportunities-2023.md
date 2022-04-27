@@ -54,6 +54,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Yogurt Market From 2022-2032: Growth Analysis By Manufacturers, Regions, Types And Applications"
+    excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032. The global yoghurt industry is fueled primarily by the health benefits of yoghurt intake and a growing public awareness of the need for weight loss."
+    publishedDateTime: 2022-04-27T15:10:00Z
+    webUrl: "https://www.fmiblog.com/2022/04/27/yogurt-market-from-2022-2032-growth-analysis-by-manufacturers-regions-types-and-applications/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "aoZAl7ISxhByhrO//DrZQ4fCRi0RmcuZwm2nTLhUXIIPmOoJw9V0JCgd07RwXCu5pVuG3zHmbfyJR+YnbiIFevGBZJDJKLQhKy+2LKcDGSNGGY0Ty3p6P242t/cZENE9Aw39MsqZSuVvde+TfUgYxuw4WEaZ29q3BGJn5Fe9AqrilHG/GGyBynhC55v01xy0eHU3YIV/2Rtd9JA0JMZk95wMo7VZhp5g4qKyV+wsw+0UZ5d9SSttHLNUuC4zEQmNV/b+vkQ3sDNfLd6/O831cduvPdUiPypuFjcVwUhrKrGgOf/GFcl0r+8jeS2btge8laoL5p8iRehXHQoUVyTtfWwGZSffi4fRQj6Vl4E+LtE=;FVJsCf/zP8DQ39aok0Vobw=="
 ---
