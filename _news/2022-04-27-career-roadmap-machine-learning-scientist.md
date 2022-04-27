@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.techhive.com/images/article/2016/03/career-roadmap-primary-100647810-large.jpg?auto=webp&quality=85,70"
@@ -30,6 +31,6 @@ images:
     height: 900
     isCached: true
 
-secured: "FXL+rISTXowS3pJBUgngRL6YwqedaB419tnmZmxwoC9xwwCSwQdSk3ylw6G0pi68D9MoTBgiNr2PJjrsQ7OE8dlzcBBDRzehATxOZIxxbYaPpegskzzTur/HWaTI5VnsXpwbiG8nc9PyfUOTsIMk1prIe0NkSukIi5/5CE76aMKdQBeKB+qrJGRc5aBIHd3Qszs/akwo27QIHkAy2V7I/1aced46wyCW3q/zEW4SAz7fnQRvMxlmISgl6EHCP9ktTUkI2OuimZSjIFXDqvdWPFrQTPK9hTz02kjDy6R9qVz6gW3JGwC41jQjwGIsWqB10d2SyH8UCpG8/u2gRQyPFhgKgOw92rm8Yvbe0g/M7YQ=;WN6e2NT/WD91UinwC1wdiQ=="
+secured: "nlIQbJB1OBlZlBEfPxvDYWAIJZJGcku9KJGmuzfvn1vVRL8LGCgZ8cYmuHV1ceedwekzX0I/u2zuv17XH0wdheUQW7RAnuCPM6PuYmVZXA4os+EOznXyYEpjHeEgo5wGE8OlT213KlFN1xGUlHwRj7DTWUdjbcWoPA9KVkUQS575+7ot2VrgnXeZilUCBniEubRLZxwb6FoQhappw+cIQv5bRBUjkHDpMBtL1PaACcSrmEApFuUdcaMEkTDWiGmyoQpYPWa1E4CZu8n8cMVUTvDpzE7hvrcqivBkTGLbkOXBQteMox1wkcGvAsybmfIHZTbC1VGXP7bYpDsToyOW8RIO86S5Tmw7UTG1ucetzjkfYovT9UEvAQNf7ztax24NP5zv7JARkftGS2Ks3AO0iWhKN0yEfFgps/o69sQShOD1WNLWClFMo2meFaFeTo7TANBrJh3hVqqY7Q8tF8onWERpt2GnI6sRjRMoTnmAJryOjeiGivHn6d6jh9dtJ8ILcdukXoaA0Y0O5OJLh47NGw==;hsak28X2RLSromy1DWLHJQ=="
 ---
 

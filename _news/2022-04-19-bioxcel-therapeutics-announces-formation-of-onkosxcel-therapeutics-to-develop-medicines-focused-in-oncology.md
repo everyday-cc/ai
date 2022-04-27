@@ -1,20 +1,20 @@
 ---
 category: news
 title: "BioXcel Therapeutics Announces Formation of OnkosXcel Therapeutics to Develop Medicines Focused in Oncology"
-excerpt: "Lead pipeline asset, BXCL701, has shown clinical proof-of-concept in aggressive forms of prostate cancer and is currently in Phase 2 clinical trials NEW HAVEN, Conn., April 19, 2022 (GLOBE NEWSWIRE) -- BioXcel Therapeutics,"
-publishedDateTime: 2022-04-19T11:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/04/19/9584732.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/04/19/9584732.htm"
+excerpt: "OnkosXcel, a Company subsidiary, to utilize proprietary AI-powered platform to progress therapies to address difficult-to-treat cancers with high unmet need New structure to unlock growth opportunities and maximize value of neuroscience and immuno-oncology franchises Lead pipeline asset,"
+publishedDateTime: 2022-04-19T12:05:00Z
+originalUrl: "https://www.texomashomepage.com/business/press-releases/globenewswire/8524357/bioxcel-therapeutics-announces-formation-of-onkosxcel-therapeutics-to-develop-medicines-focused-in-oncology/"
+webUrl: "https://www.texomashomepage.com/business/press-releases/globenewswire/8524357/bioxcel-therapeutics-announces-formation-of-onkosxcel-therapeutics-to-develop-medicines-focused-in-oncology/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: TexomasHomepage.com
+  domain: texomashomepage.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "0bK/zK+4VvLg6dSdQIhP55OcAfjJFpCW4VJTI7XZxGWkgNAWp0LHjWshTCyamPmh+RxI92qLsbxT5rST1fppVPpJCSrolEvEsXXkNZug9rAWWbpTJKO6iPsEKp2oAJTh7hjhIczXAAwkT82U/CnMkWgJl8LG0rAvceNQQZ4jSs7HsWBRa08uKJ1tsyiOqMr9n8mB2JemURnfR9JY4HdTxfNkmOsYNCghbd4EAJBB8L9OgeItn7p6NxeuxXDT2RDDUFZ6L8I+c+Tg85KjLerIzWCQy+ICQVnE9JvcR5nM7/CQhiohb10r5wftjn1IP5sLl2sdUjb9QSW7DOL9m8U8A6W0P0jpN32NhbD4ml5KEVs=;AnDhsb+AEsZYPeejW5quDA=="
+secured: "8e37V0ruHgacnuaCItvkQlRP0oXGAyEonW3hggN0J8gIk1cG4X5Z5ephiyyFHzXQY12RQ940bT1+BpGMaOQzEcol/YEyNzTqqtbt5iQmdQo7zwIljOCtS80H9K+j5vSzWjTzozEKb+k3ofxy6P1twuK3MWR40IMQXPQSenqOz+/NWbO/0b/jEdBCp7K9Y5jIA4NgqpjJd+SDnCo0jKs6i9ePcPOSGthm/ATvfLikEjj31T0Me87Vyt7iPXQJ/96ObNieLP36aSh+B0XmGaHRF8X2KHeE5yrOmaDvHaSKdoKW5cggnSUezr59t+bTEM+9WBxW2gSxp2dNbZB/Z2B2ZBKEAg7vkDbKOz40fLQOjoI=;hVI6M1wJyGtM73GABJ9Nww=="
 ---
 

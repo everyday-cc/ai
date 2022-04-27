@@ -3,8 +3,8 @@ category: news
 title: "Hayden AI Accepted into AWS GovTechStart, Amazon Web Services (AWS) Government Technology Accelerator"
 excerpt: "Hayden AI, an emerging leader in smart enforcement technologies powered by artificial intelligence is excited to announce that it has been officially been accepted into AWS GovTechStart, the Amazon Web Services (AWS) government technology (GovTech) accelerator,"
 publishedDateTime: 2022-04-19T15:19:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ILykyPb4VzGVl1TRsrwjgmutQj18MwdkQ9Z0szFSlZJiuKiK+vR6EIEp4xSVvtFT3epRgm4wqG2Nm7U6S8xJc7P4RmNlPIPdFLVvaABpFrc5yPmdUh3+Y0IPAA+8JXJ0S7KKxQf+lesh9ZG1heWn5NNfDIevfq5viIE5MrXfWgxgeLwDOI6MAI95KIuWo0MFCeWxJ9qNRoCuJOCzvCkCC2xSPws0HHJdEjF7LPfdG/C24km4TATzg/08m8EtHT6vhVTgzlMca7Y5UbR4l1u8o5jruF8nlmbjQnpgaUBOllNVTNqE/BcDa3dj3pc5QckMyGuXsezCrgr12u5+WMYWLeaQi08Efq5bkL3hIIhUve0=;LGmD9qAVwbW3dBfDhBq5rw=="
+secured: "jGO5uTVHRtXpOSKNutxBrCaPZv1NYzWMuBGo5V3E147DayMIvx/9vhChR5lMVNtjlprCzoEz+KO5ofBhLJeWcOLBI2bv5JGCmxG7Q28Ew919gjgB3z0dd1mFj4AtRYxE74ahN3d8NP6D+zeIkUMwFqb3pC5c3LyvwBNoMwpcpm74PwwDGnCgIUU5Pb3QRkkYqnFhDMowNZFy1boy/19wm80l9RwYM9qNWJNu5wB5Pw/fidMPluban1MY6ERS3eP4VBc9HLOgBCG463IkKilCHhaXqV3Hu4rZugJsH1io2Ki8lzjGEk9N83DYeFRXewPFJoNxbN0vCizvPKELaqW+gSR+NmwIVe/bW5ptMUTcEIE=;/yMI3oL6Rdk1ZrkKMbLtxA=="
 ---
 
