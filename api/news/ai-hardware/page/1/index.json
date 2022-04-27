@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-27-nvidia-said-to-be-testing-an-rtx-40-series-gpu-that-needs-up-to-900-watts.md",
+      "title": "Nvidia said to be testing an RTX 40 series GPU that needs up to 900 watts",
+      "excerpt": "With the RTX 3090 Ti graphics card, Nvidia squeezed the last bit of performance it could from the Ampere architecture by raising the power limit to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "originalUrl": "https://www.techspot.com/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-27-image-12.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "publishedDateTime": "2022-04-27T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-ai-chip-market-prospects-trends-analysis-market-size-forecast-2030.md",
       "title": "AI Chip Market : Prospects, Trends Analysis, Market Size & Forecast 2030",
       "excerpt": "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,",
@@ -1385,40 +1437,6 @@
       "provider": {
         "name": "Modern Machine Shop",
         "domain": "mmsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-2-top-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top AI Stocks Ready for A Bull Run",
-      "excerpt": "AI will increasingly rely on powerful 7-nanometer (nm) and 5nm chips, and companies will likely be making the jump in the next few years to 3nm and 2nm chips that deliver even better performance and open the door for even more advanced artificial-intelligence and machine-learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1",
-      "originalUrl": "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp",
-      "publishedDateTime": "2022-04-08T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

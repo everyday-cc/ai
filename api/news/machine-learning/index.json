@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-28-new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.md",
+      "title": "New HPE offerings aim to turbocharge machine-learning implementation",
+      "excerpt": "Machine Learning Development System and Swarm Learning address implementation pain points for enterprise users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
+      "originalUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/17/21/ai_machine-learning_analytics_data-scientist-100777422-large-100914304-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
+      "publishedDateTime": "2022-04-27T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-hpe-uses-blockchain-for-distributed-machine-learning-models.md",
       "title": "HPE uses blockchain for distributed machine learning models",
       "excerpt": "HPE has lifted the lid on two new AI products, one aimed at enterprises wanting to build and train machine learning (ML) models at scale, and a second that introduces a decentralized ML system to enable distributed or edge deployments to share updates to their models.",
@@ -310,7 +362,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -591,33 +643,24 @@
     {
       "path": "_news/2022-04-22-centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies.md",
       "title": "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies",
-      "excerpt": "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,",
+      "excerpt": "TruCorr performs attenuation correction using a Deep Learning approach with data from the patient's SPECT scan. The application eliminates the need to scan the patient in two different positions ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp",
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26754709",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26754709",
-      "publishedDateTime": "2022-04-21T17:56:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T18:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1414,49 +1457,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml.md",
-      "title": "Upshot Deepens Data and Machine Learning Bench, Hires Head of Data & ML",
-      "excerpt": "The blockchain-based, machine learning-powered NFT appraisal platform raised a $22M Series A2 round last month to fund R&D at the intersection of NFTs & DeFi NEW YORK–(BUSINESS WIRE)–Upshot, a blockchain-based protocol providing industry-leading non ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/",
-      "originalUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/amp/",
-      "publishedDateTime": "2022-04-14T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets-global.website-files.com/5bfd5ccdddc00c144ef694a4/626296e7939e168e23ab6dee_CWM%20Article%20AI.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 850
     isCached: true
 
-secured: "ZSRybm3qM5QXYmJTqHMWmoBfqsvSfCy4h2pcTtCXsmZ6ksI2xAkTVcLrwyWRnfyCj4bc25eM7pffV6wO8qMPiCiRisbbGqPNwN+ynXpKQRshc2+KcdDOZ6kViDh7RmXNWVjR6FbK5OAG0U2D34AUhvmkKAaIG6wUW1J11e9Z/V1U59VrpmT5JSNcDXHABqqgmUjIo5ewJzvmIx2E5JaBCUAoISgeVZ849bsFcEWt4VXSPk+64+I5YvaEcRUqIPSkLJV16Krac8N9+0d7IM8pgDegRVeulrUMoMvDWqLBK00x1BfO6eqw8Tb7rLvVvBugJs6Qaps3MopE2wGncnXMFKwpolsXiMqwdWzoplH0jGs=;WAWJcqFZxQeNiNwWXnWGrA=="
+secured: "Z8tIowNtsV618hdXnm262y7lM2hHw72X6AD49Jn65QG7/J0bD+t59cLq6x9C5ozNv50mvkTl4/qbg92Xv4CVg3KYsBk0WO8F3qs3z1pV4K1dKfKBdymhCk24ZLp/eBqoexEGWRkeUG7DOanrxQsmFnSdsVaaDmfSPA6bY6njeiBl20PDCMn7OcqGYIZLXJ3cfTW6gUk3gK/ln4p6n0PzDrFdXzNjFPWnQhUIO84AsKzTNRQgJRekWap2Kgo2p2KH6gTEbmdkItTut6tyaDoHcghaw4WUH+y+YfeApvd1/Gq7OX29lz1SE1hjtmazxIgmTIuCG5t6rq7OmeMNOKFV7mtPZonu0yFEL21jfzYc4c4nLNGabBTdUxPZ2eO1Y3ZuMGfx8kDMn66LqB1WzKog6yVYg4K5Sqy9bmusISg2y+4RZ3qZBSX7FQ8BQybc9IVLk5utDRj0LgW7e78Jtt5D3UK8hIIInsH+zdAsovMaSkZI39fSnizj6RULSNi+QIA4r7x/7aa40qB1DJ/4Hjpe1Q==;n6kc3WE7e7jxGV0R7nGFVg=="
 ---
 

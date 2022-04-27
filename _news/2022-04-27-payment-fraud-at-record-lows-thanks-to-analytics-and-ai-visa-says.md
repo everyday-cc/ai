@@ -55,20 +55,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "MoD to fund startups for Artificial Intelligence, big data analytics"
-    excerpt: "The Defence Ministry will fund startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
-    publishedDateTime: 2022-04-23T00:32:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/mod-to-fund-startups-for-artificial-intelligence-big-data-analytics-388605"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$thumbimg_2144424520.jpg"
-        width: 415
-        height: 253
-        isCached: true
   - title: "i-PRO EMEA raises the industry standard by adding high resolution combined with Edge AI Analytics to its mid-range camera line-up"
     excerpt: "PRO EMEA sets a new benchmark in the AI-fication of the security industry with the addition of 34 new high-resolution camera models to its Standard line-up. The new 4K, 6MP, and 5MP"
     publishedDateTime: 2022-04-27T11:32:00Z

@@ -2,6 +2,145 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-04-11-ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too.md",
+      "title": "AI Ethics Welcomes The Prospects Of A Standardized AI Risk Management Framework, Which Could Bolster Autonomous Self-Driving Car Efforts Too",
+      "excerpt": "AI Ethics is embracing the efforts to craft an AI Risk Management Framework (AI RMF) that is being formulated as a standard by the NIST, and which will likely aid the advent too of autonomous self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6253775a681e4c1d1414a314/0x0.jpg?format=jpg&crop=1756,1316,x347,y0,safe&width=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/amp/",
+      "publishedDateTime": "2022-04-11T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-can-artificial-intelligence-solve-nigerias-ailing-power-grid.md",
+      "title": "Can artificial intelligence solve Nigeria’s ailing power grid",
+      "excerpt": "For the umpteenth time, Nigeria is trying yet again in 2022 to fix its ailing national grid which suffered a system collapse last Friday — the third",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/energy/article/can-artificial-intelligence-solve-nigerias-ailing-power-grid/",
+      "originalUrl": "https://businessday.ng/energy/article/can-artificial-intelligence-solve-nigerias-ailing-power-grid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/09/Power-Grid-Collapses.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/energy/article/can-artificial-intelligence-solve-nigerias-ailing-power-grid/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/energy/article/can-artificial-intelligence-solve-nigerias-ailing-power-grid/",
+      "publishedDateTime": "2022-04-11T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-small-medium-enterprises-ramping-up-their-security-through-cloud-based-financial-analytics-deployment.md",
+      "title": "Small & Medium Enterprises Ramping up their Security through Cloud-Based Financial Analytics Deployment",
+      "excerpt": "Financial Analytics Market to Top US$ 25.1 Bn Amid Surging Application in the BFSI Sector. In its latest market study, Fact.MR offers unbiased analysis on the global financial ana",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-small-medium-enterprises-ramping-up-their-security-through-/2022/04/11/9580453.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-small-medium-enterprises-ramping-up-their-security-through-/2022/04/11/9580453.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-liveperson-upgrades-conversation-assist.md",
       "title": "LivePerson Upgrades Conversation Assist",
       "excerpt": "LivePerson, a provider of conversational artificial intelligence technology ... and bots from third-party platforms like Google DialogFlow and IBM Watson. An intuitive interface presenting multiple recommendations inline in the conversation, allowing ...",
@@ -973,153 +1112,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-how-smart-are-ai-chips-really.md",
-      "title": "How Smart Are AI Chips, Really?",
-      "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-get-42-hours-of-microsoft-azure-training-for-under-6-per-course.md",
-      "title": "Get 42 hours of Microsoft Azure training for under $6 per course",
-      "excerpt": "With this comprehensive bundle, you can start your cloud computing journey while studying totally online -- no school enrollment is necessary",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "originalUrl": "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e0de291bb0c3dd3c2874894221d7e481d0e5170b/2022/04/05/5059ada6-b553-4485-86c2-ab88d0440a1d/zd-microsoft-azure-prep.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "publishedDateTime": "2022-04-10T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory.md",
-      "title": "2022 DesignCon Shows Evolution Of Electronic Chip Communication And Memory",
-      "excerpt": "DesignCon covered electronic design and integration, including photonic in chip communication. Rambus presented talks discussing the use of various xDDR and HBM memories for various applications including edge AI training,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62534598a4ecd6156f4ebda5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/amp/",
-      "publishedDateTime": "2022-04-10T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

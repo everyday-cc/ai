@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-07-us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero.md",
+      "title": "US chip giant Nvidia acquires Israeli data storage company Excelero",
+      "excerpt": "AI research and other activities. The US firm, founded in 1993 by Jensen Huang, Chris Malachowsky and Curtis Priem as a graphics chip company, inventing the graphics processing unit (GPU), is today a leader in the field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero/",
+      "originalUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/03/Excelero-Team-Pic-640x400.jpeg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-chip-giant-nvidia-acquires-israeli-data-storage-company-excelero/amp/",
+      "publishedDateTime": "2022-03-07T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-05-time-to-buy-this-beaten-down-ai-tech-stock.md",
       "title": "Time to Buy This Beaten-Down AI Tech Stock?",
       "excerpt": "The company, which develops AI video processing tech in the autonomous driving and security markets, has some big markets it can target over the next few years. That's true even though the first half of 2022 will likely show slower growth and rising earnings.",
@@ -1387,59 +1430,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-19-deci-simplifies-deep-learning-apps-on-cpus.md",
-      "title": "Deci simplifies deep learning apps on CPUs",
-      "excerpt": "Deci, has positioned itself as a deep-learning software provider that uses AI to build AI-powered apps, classification models, dubbed DeciNets, specifically for servers using Intel Cascade Lake ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
-      "originalUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2012/07/cpu.jpg?w=1200&strip=all",
-          "width": 665,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/amp/",
-      "publishedDateTime": "2022-02-18T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

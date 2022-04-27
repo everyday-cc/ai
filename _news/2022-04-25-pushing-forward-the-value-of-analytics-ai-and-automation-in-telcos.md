@@ -50,20 +50,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "MoD to fund startups for Artificial Intelligence, big data analytics"
-    excerpt: "The Defence Ministry will fund startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
-    publishedDateTime: 2022-04-23T00:32:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/mod-to-fund-startups-for-artificial-intelligence-big-data-analytics-388605"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$thumbimg_2144424520.jpg"
-        width: 415
-        height: 253
-        isCached: true
   - title: "Payment Fraud at Record Lows Thanks to Analytics and AI, Visa Says"
     excerpt: "Despite a massive increase in online activity during the COVID-19 pandemic, fraud on the Visa payment network is at an all time low, the company says. One"
     publishedDateTime: 2022-04-26T18:26:00Z

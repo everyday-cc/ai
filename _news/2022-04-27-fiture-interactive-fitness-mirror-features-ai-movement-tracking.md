@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/fiture-interactive-fitness-mirror-feature
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/fiture-interactive-fitness-mirror-features-ai-movement-tracking?amp=true"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI finds men represented four times more than women in literature"
+    excerpt: "AI reveal that men are represented four times more than women in literature, with transgender and non-binary people missing"
+    publishedDateTime: 2022-04-27T14:57:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-finds-men-represented-four-times-more-than-women-in-literature-machine-learning/134498/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/04/reading-scaled.jpg"
+        width: 2000
+        height: 1142
+        isCached: true
   - title: "The Future of Artificial Intelligence"
     excerpt: "Undercover Book Review takes a look at the new book on artificial intelligence and the future of AI by Ben Buchanan and Andrew Imbrie"
     publishedDateTime: 2022-04-26T12:43:00Z

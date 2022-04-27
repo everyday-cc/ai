@@ -2,6 +2,135 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-04-01-mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain.md",
+      "title": "Mayflower Autonomous Ship to Attempt Second Ocean Crossing With AI Captain",
+      "excerpt": "Roughly a year after a mechanical problem forced it to turn around, the Mayflower Autonomous Ship is poised to cross the Atlantic, traveling autonomously from Plymouth, United Kingdom, to Plymouth, Massachusetts.",
+      "sourceUrl": null,
+      "webUrl": "https://seapowermagazine.org/mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain/",
+      "originalUrl": "https://seapowermagazine.org/mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://seapowermagazine.org/wp-content/uploads/2022/04/MAS-seatrials-March-2021-II-002-scaled.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SEAPOWER",
+        "domain": "seapowermagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-should-law-enforcement-use-facial-recognition-technology.md",
+      "title": "Should law enforcement use facial recognition technology?",
+      "excerpt": "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
+      "originalUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/b03f3cc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff0%2F77%2Fc1a0a79b4111a54b5b35b28e5323%2Fframe-1955.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
+      "cdnAmpWebUrl": "https://www-kivitv-com.cdn.ampproject.org/c/s/www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
+      "publishedDateTime": "2022-04-01T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIVI Boise",
+        "domain": "kivitv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-artificial-intelligence-ai-in-healthcare-market-2022-to-2031-new-study-industry-scope-and-growth-strategies.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market 2022 to 2031 - New Study, Industry Scope, and Growth Strategies",
+      "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Apr 01, 2022, 00:30 /Comserve / -- Artificial Intelligence (AI) in Healthcare Market – Global Drivers, Opportunities, Trends, and Forecasts to 2022 Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103947574/Artificial-Intelligence-AI-in-Healthcare-Market-2022-to-2031-New-Study-Industry-Scope-and-Growth-Strategies?source=318",
+      "originalUrl": "https://menafn.com/1103947574/Artificial-Intelligence-AI-in-Healthcare-Market-2022-to-2031-New-Study-Industry-Scope-and-Growth-Strategies?source=318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?129652",
+          "width": 537,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-cognitive-computing-market-2028-industry-analysis-trends-market-size-and-forecasts.md",
       "title": "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts",
       "excerpt": "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In",
@@ -1016,153 +1145,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-why-is-baidu-bidu-stock-down-today.md",
-      "title": "Why Is Baidu (BIDU) Stock Down Today?",
-      "excerpt": "Baidu operates the largest internet search engine in China, and in recent years, has become heavily involved in other technologies, including self-driving vehicles and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "originalUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "publishedDateTime": "2022-03-31T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-times-technology-went-straight-up-evil.md",
-      "title": "Times Technology Went Straight Up Evil",
-      "excerpt": "Technology is meant to make our lives easier, and most of the time it does. But there have been instances when technology doesn't go as planned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
-      "originalUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/times-technology-went-straight-up-evil/l-intro-1648759618.jpg",
-          "width": 1600,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-better-learning-through-complex-dough-manipulation.md",
-      "title": "Better learning through ‘complex dough-manipulation’",
-      "excerpt": "A disproportionate number of the early industrial food-making robots we’ve seen have been focused on pizza. I’ve long posited that this is for two key reasons. First: People like pizza. We eat a lot of it.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/",
-      "originalUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/MIT-DiffSkill-01-PRESS_0.jpeg?w=900",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/amp/",
-      "publishedDateTime": "2022-03-31T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

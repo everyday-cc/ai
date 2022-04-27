@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-27T11:31:00Z
 originalUrl: "https://swarajyamag.com/tech/ai-the-new-asha-how-artificial-intelligence-can-benefit-the-rural-healthcare-system"
 webUrl: "https://swarajyamag.com/tech/ai-the-new-asha-how-artificial-intelligence-can-benefit-the-rural-healthcare-system"
 type: article
-quality: 41
-heat: 41
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
-secured: "eZmE3IoBtmyMttprhNYr+HFzjUxQ5hRGpsUvV8uuWYhMkUlCU8C4nTvch6NYSy+q0Dhfx9k8ZUq5ffjinY+/8GaDJUX2ci7rXTB8X6I6FJNa+spyd4bgnRcs8QytN7OHCLM7I54aJG5Epb3xVcrD2GLEiV6vQcJuOCYUBlssr2q5MjbPZYVl4oe04k1freVReGEkNUDcTxEATD/KOfOpPh9JPKBcYYqQUbQQnlbBt/ugX3qGBxhVzs43xBO8VvQ+ZVQx3l6afC4wpBthWFSqN9bK2CoED8V6luBwwb9QnoCKhOcQ0OB6rR0q7LqBaIlzCFAHqXyGzaGV0WM3tUs6/20FvJl4+8uBtVFS4DGr3U+O5ly7K5mwHS1sqmuuCZG6vpYwSPMPODKgq80Zz51Uvi8ZPcAvKEc0PwtIrUEar13BS33KN9VTT+h8cVvivapWftJgyPn51Ff7g5gqtdDsG8MAgWhJiQrkW0JqwGwiRfCQv5V8wmMFqcZhe9pxosF0QZ4/5HipwGIhCUwbjcgNUA==;zL39VHqS7fFc7AoSKwDw3w=="
+images:
+  - url: "https://gumlet.assettype.com/swarajya%2F2022-04%2Fa9bd14ab-4770-4f7a-8846-7887d2ba4608%2Fartificial_intelligence_g7bc81f1db_1920.png?w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "7JZnsEjUWVF2o68lsYXVatgf+zQarvgKPePoeKxhVRRIxaCLTWxeIQK1YyJ2CcJWYIxUsWbtqRosgmOh9uJIefVJtaaQ/5/N+iDef93masWqSag95OI75GZah+Ed6jsT0jJlzrR9H4KWw6r+0djs/mzbQ0P7nWU/2iWc7jZiDdCGfsaOAc3b3FqnzLHbABW17aHkNdu0xInJbR2574Xx3P8jlJjpP8zIeIz+lH5NKXX1Dectw6ikRm9f2LXQiTeSatlubrU+tn1dp4nExP5aghiHvdQwxqQr1ZxriEjUr8Azl108qtCcFUcGDkPes+6Ak5GwMj3XRgetEBXvp2X98/pCx9Vyufqbp9q5xij1vLM=;5Dkc1aOzP4KvYV+y/0EPng=="
 ---
 

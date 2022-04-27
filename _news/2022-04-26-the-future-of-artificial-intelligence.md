@@ -34,6 +34,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "AI finds men represented four times more than women in literature"
+    excerpt: "AI reveal that men are represented four times more than women in literature, with transgender and non-binary people missing"
+    publishedDateTime: 2022-04-27T14:57:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-finds-men-represented-four-times-more-than-women-in-literature-machine-learning/134498/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/04/reading-scaled.jpg"
+        width: 2000
+        height: 1142
+        isCached: true
 
 secured: "fbIuIu+82VNY/tjdBmRnM+sdBv4xE5AQPijUc094UqPpNEPZ4vI+MRYk4Yu6KMGztPCPlibu3xfErLobmC2Cxx1y5HQhhW0Yq/nKXSpnOT/bFXtsY6KinU5McAiBWGlMdVXutL0lFRLaVRaKdYWzm05pgabYt/dQQa2NZt+0I11Fgjx5YV88xn73DWwakQRxk+r0J0/v3libTWyFHL7t0XMOqVHgaHVmPlVzNall/y+ZgyvrZWzIkp71K1j9brkOwqxXXleUtKdQRDoup1pXeeyEYXeKbzWnEjJ2J7CDrbMbCUSKeNyG6FeXmNB7HqQWkrkl0J9XGRwxmHziSsebxl1jddXk3zamhSirN1Apdio=;/WoIyBMapuOdQNiKHAHwqQ=="
 ---

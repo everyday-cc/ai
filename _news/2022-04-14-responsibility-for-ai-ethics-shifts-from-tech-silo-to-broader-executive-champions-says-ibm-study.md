@@ -2,14 +2,18 @@
 category: news
 title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
 excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-publishedDateTime: 2022-04-14T07:01:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+publishedDateTime: 2022-04-14T04:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982"
+webUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982"
 type: article
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
@@ -21,6 +25,6 @@ images:
     height: 1845
     isCached: true
 
-secured: "n2Tj3sIDqBGgLRKZeo7CiZqaJvShK95WhbatIm8l6HPz5gf5ZyXf4jtucZotqt0vsEyAtFoRs6Xu96KaHQktIzq1kI973i+et4AEXfnx+B0BuCp7RF1/ycj1+QkOxnyZnWgi123hD+ZfB+AmMbh89C0Mzizc1VAPpRxL2eC+sdQ+7+MBSKKuD/MCXfdgGAurN5JMWrBVfibBJDn+S7pVCR3LE0p7UXLBUERqVWkP9Cw/D/Yq8LxqV6rLP+JxsNufUDw6lA2WAJtZrIGkUR20Q3y8TSgqU5hYEV5gvJh7EwAplg2xl6ltVeoLFJIEGYhbanl0+VXbBb6PwO53dRtjR7njUwUvKEK/8WPhOMVwrKc=;cUqgP72xNIw0RlHz7nLRxw=="
+secured: "CbqmaXFWbF0nJarASQDL+6ptFLFlQGDfYsRvtAXi5eyFR8x/RtFBVtpuMPCSqk1sodf/oCOTDEnPf63kmaphOWHuFuXdzGp+o2cMOgUloTKpazMBZrCdlBKU40pes15sgJ9jaLKDWeWBde13vADn9U9n/gtPBVsI7bVxPhRgIPuxGlMGEvBylQY8CzguhOzGidDygZ691Ts2VPzFD9dRFd7PsCx5oeNKz1ug6ur1ZhgC8C+Puk5UrorZzwQ3EOJa6cb9TyTPtdWuOi1dFAwyrYzPJsgQd0NZzcCfHtdPmYyhp5f9Pw548kQMe+oIXsAz1amNKGLK+JHpscjdJjvEEP8PvIG1HSleAMk7TxEHUMQ=;7LNe/Q9rDwYZfSHhWn/OUw=="
 ---
 

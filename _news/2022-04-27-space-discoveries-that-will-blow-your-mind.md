@@ -2,22 +2,30 @@
 category: news
 title: "Space discoveries that will blow your mind"
 excerpt: "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from"
-publishedDateTime: 2022-04-26T19:08:00Z
-originalUrl: "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/"
-webUrl: "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/"
+publishedDateTime: 2022-04-26T19:03:00Z
+originalUrl: "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/"
+webUrl: "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/"
+ampWebUrl: "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/amp/"
+cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/amp/"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: WJTV
-  domain: wjtv.com
+  name: WHNT
+  domain: whnt.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "a65B/rL2exTkg8LmE+JRpUv5WxVJUr9jhcMM9tTfVPKCoy7qOUFJoxCCSWC8Yk4C7X1HC11bUBcHLh90flLTL2fG0u5a3XPWyWFf6ryIlVrJe6y28bi/hj0y9LrdkqR2eOxd2P1b+UoKfKfzx53BwNf2Ai7DIpORYuCPgiSS4wuFp0O8mJDnjEKnMwmpbKlJL63W7G9N1yLlIGBEu138hO7Z1ZXK8ZLj3E2DzfxxJvQAlCFIXwPYqA96pERx20XLd/nEjm/faTuuqsHLp8lYNuIi0WGbuY9YWICo5ikfcxEMDunuVJk6xg+9MjKRFYGyhCjdpx5fsKAQ4swUzw6WOdd8eLJOPloOl7AR8Pm664btYJMh4t1iyevgD4tKI6thFsEqLEdd5hJ4o9muo95lkDyl9mPv/xHwE+YpHtxSqexLdpYOiGvUVL4w2Lt3BjmHfwMkztTi4P56BYHAT0Yg2+JZeRF88PMyiiPEv4T3XcXaktLRX2mIfyTVoYAmhgYyeuWSEs1AOFw07eQ34VsEfw==;QDvfhYhA83Fxz5xbGa8UXQ=="
+images:
+  - url: "https://whnt.com/wp-content/uploads/sites/20/2022/04/super-massive-black-hole.jpg?w=1280"
+    width: 971
+    height: 688
+    isCached: true
+
+secured: "ywb9fNTJ6iveYknX5wTH4ysbCggNFg6i6y0j/H3EiY55bTDPJx1NUuTy7MPuCxVXxfum3az5BI1txni1+LW43cmGwyjHGAWfWEPpTQO7DH8Ifv4ZKsbOh4TgAyEMXoTzIgshofhL2JPDauxt9Tn2SKS8gtTjh+sa6xqLDevMQGs1RZO0jCwPIgrOZtha2wkt1B5bdtpypX+wHPJaWdY0146r7xa8T35DKp8//dQOZ0uK27nrSDRiKH8DefnLELVgGt97nLnxfoyk+8E5IPrneHVb32yxh7Sw0Do8RMH5wfWFTwI6yapGU9m2i4bDbyHhUUGDFp3i7NYn57OJ/5YOY/yObXNvRIGLJ++3IZLvk3M=;SB7+W8bLqv0M9WPC7K5Zqg=="
 ---
 

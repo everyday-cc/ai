@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-28-new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.md",
+      "title": "New HPE offerings aim to turbocharge machine-learning implementation",
+      "excerpt": "Machine Learning Development System and Swarm Learning address implementation pain points for enterprise users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
+      "originalUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/17/21/ai_machine-learning_analytics_data-scientist-100777422-large-100914304-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
+      "publishedDateTime": "2022-04-27T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-nvidia-said-to-be-testing-an-rtx-40-series-gpu-that-needs-up-to-900-watts.md",
+      "title": "Nvidia said to be testing an RTX 40 series GPU that needs up to 900 watts",
+      "excerpt": "With the RTX 3090 Ti graphics card, Nvidia squeezed the last bit of performance it could from the Ampere architecture by raising the power limit to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "originalUrl": "https://www.techspot.com/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-27-image-12.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "publishedDateTime": "2022-04-27T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-fiture-interactive-fitness-mirror-features-ai-movement-tracking.md",
       "title": "Fiture Interactive Fitness Mirror Features AI Movement Tracking",
       "excerpt": "The $1,495 Fiture leverages AI and smart motion sensors to track your movements, provide real-time form feedback, and count your reps as you follow workouts on its integrated display.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.pcmag.com/news/fiture-interactive-fitness-mirror-features-ai-movement-tracking",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -521,7 +625,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/27/radically-human-how-ai-powered-and-new-technologies-are-shaping-our-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -963,7 +1067,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1089,110 +1193,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-pointivos-ai-powered-analytics-platform-reduces-timeline-to-complete-tower-mount-mapping-by-up-to-90.md",
-      "title": "Pointivo's AI-Powered Analytics Platform Reduces Timeline to Complete Tower Mount Mapping By Up To 90%",
-      "excerpt": "Company leverages innovative technology and extensive data catalog to quickly and accurately complete tower mount mapping and analysisATLANTA,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pointivo-s-ai-powered-analytics-platform-reduces-timeline-to-complete-tower-mount-mapping-by-up-to-90-1031385683",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pointivo-s-ai-powered-analytics-platform-reduces-timeline-to-complete-tower-mount-mapping-by-up-to-90-1031385683",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1801141/Mount_Mapping_Final.jpg",
-          "width": 400,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker.md",
-      "title": "Part 3: How NatWest Group built auditable, reproducible, and explainable ML models with Amazon SageMaker",
-      "excerpt": "This is the third post of a four-part series detailing how NatWest Group, a major financial services institution, partnered with AWS Professional Services to build a new machine learning operations (MLOps) platform. This post is intended for data scientists, MLOps engineers, and data engineers who are",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/22/Featured-images-for-ML-8228.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T08:17:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
