@@ -2,7 +2,7 @@
 name: "people.ai"
 overview: "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity."
 type: "profile"
-heat: 57
+heat: 72
 
 website: https://people.ai/
 
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "xe56zDLR//QMD3f/vaHUEGgqmx6Hd8FfaAfWGUHoWyo61za1+AJaDvzrksYdJ+SbrtZb6j+VDyvlDzWCnTcCUHHqZlqFsipV3SjL19skeBUtc5rOwZi3NcrArmXn/tcfuKB/uATTrcT09sfENiB9Z6DqlvrX/GbNE08fOGnqWphJAVAAEUnRC8cJA6gMFpxz4hfvrYnfV08JSdPajsDrgtgnh0NHyDqotMWm1L48d0KAwPAjGgQMDzd5JdIHeaTVwtZWS57cHCFOWkh0gsVv+9M1Z9VDoV/7SZXND8Dj4NJgQhI/dnFIrR+tJ+YNImIL6RJOUWQ/O1YErYe2uI8uHPnX9FAGmKRQ7I2GImYgHQmKeT5Ci6JHmcCEuzhcuZdKgYUAsJ29HX4474jbDdGG8StZNfS1k2/Xr5E+Eq/iZnY=;uBiLLcRxB2lTMYM4+ZIHRw=="
+secured: "QCt0Sg6hawlooNHUlA8NAIC8ndkmVoulqyv2XLSt2hQDXwVmXhBND4y1L6SMViTg64dQ1iWbhJZm/BLdJjwTZXWp5iyZQRCAjt6bCNkSQVHPFA6VyV+Dm3+BDzmUAjnJ6ZHgwOLH4B5JOMcVQsvQ49NM1kZlyOmw+vg7eTEHVUWytPb3szvEQGoQj/WWsMgA2yHsxAn8eHokcDcxracyrWygjObicWHDGJguum4cVnkD16B+MzqMpYi35RqiNCnFXXUvroWG5I2l7vjWpqReU3aedwKiXz2vMckJi9FpcgjiqgeCvwuSRnhee3+vmU4G9GqSFiJpYls396k55ffx3Y7Hx1NuXiQKV4Ci3QNM2sgrbcFqZh2UWByiN/H7aINOq/Wj5eZE5D2jSGxXmY4GFSvMarOIW/htUp99iSn4rO4=;munPuOtvzULTfw9zGrdfbw=="
 ---
 

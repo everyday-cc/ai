@@ -2,7 +2,7 @@
 name: "LeapMind"
 overview: "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power."
 type: "profile"
-heat: 50
+heat: 41
 
 website: http://leapmind.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "leapmind_inc"
   url: "https://twitter.com/leapmind_inc"
-  followers: 908
+  followers: 907
 
 size: 51-200 employees
 yearFounded: 2012
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=IsTf6hB0bGo"
 
-secured: "0Ag50xtn9RaSEZzsXYjU4zlX9hSw6DmVf8mkpjEAJFYmtzcXZ/tsWc8vk2tWZlpLTbxVzR3Fn74462vlqFhGofgmteHZaSC1ZpVfWITPvX/3+7Rfr+EN45x5L2DaGUJ0QoHjRQbeqLsEocFR+Us98T2nkZpnXS4F4X7JHwB8g9lOmApXoxEKBAAQI8HgK82Fx3h4YTI5MweXl6Dyel2bNlKbRp82+9HPZaoTgFym2gj+NWv5HtHtutVs0sW80OqwJNJ2mzHUt4Vhpfu2D3QRH68rBESkwGqdBfB2QlSq/4YepW+4ZWZW3KZ3SyJEnXLAxJl2pkG7ohK1L2qTl2OQ4O22/W7LDw6XzKphe2ejeQBHlA43B5eWTbeSZ5q6egAVvOK3E9lPBi7jj5cZosb0mA==;4xyudyupLeEO4DiywzOSXQ=="
+secured: "MzbU5yvUnEKMnc2DCosxHrVHM+J4LiL4Xj9T8+twNhkSuZ4byCIdiUc8BrBW8fPguntBL9AclQU3bAVJuU45LgpDL8uv3Z/gQYxvnjhf+ydpVe+CxLrmSkJZ8uNwzYLJ2CjmL2yA/mpf33guLRQyTVFMce+jTdutQnjGWP3EFlcet7WumR8btc3lFWaQLXpWj5g+c8RDPaiScrTP9ff8cqqMs50rXT6t6SLIYWnZ5lqp+jIaP20CP0blYd19R1Fw4mqnMbXrYZXT9ImYd16ybXnvlYzqhTJHUzG1Ihp/JyP12YJkLu6Y7HO8aSCBkcHZmlRSwszZ41MZ0Dldoo6CUY4keD2JI+7WfHSVqSvdIu2VvyCoBXuo/uuUbaiVAJkNnCSDKpRg7OhDtVoNYBzzhQ==;oX4rqQ/npNxbvx5Drvv/Mw=="
 ---
 
