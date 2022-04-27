@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220422/AI-based-system-impro
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-study-exciting-firs.jpg"
         width: 945
         height: 532
-        isCached: true
-  - title: "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment"
-    excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
-    publishedDateTime: 2022-04-22T09:18:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 42
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-29.jpg"
-        width: 850
-        height: 478
         isCached: true
   - title: "Artificial Intelligence – A Pioneer in Bladder Cancer Treatment Prediction"
     excerpt: "Artificial intelligence learning tools can be useful as a second opinion to assist physicians in decision making of bladder cancer treatment but they can also make mistakes."

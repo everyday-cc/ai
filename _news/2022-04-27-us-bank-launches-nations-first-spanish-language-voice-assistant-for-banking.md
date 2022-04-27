@@ -1,18 +1,18 @@
 ---
 category: news
-title: "U.S. Bank Launches Nation's First Spanish-Language Voice Assistant for Banking"
-excerpt: "U.S. Bank has launched Asistente Inteligente de U.S. Bank™, a Spanish-language version of our best-in-class Smart Assistant in the U.S. Bank Mobile App. Smart Assistant is one o"
-publishedDateTime: 2022-04-26T19:18:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/04/26/u-s-bank-launches-nation-s-first-spanish-language-voice-assistant-for-banking"
-webUrl: "https://stockhouse.com/news/press-releases/2022/04/26/u-s-bank-launches-nation-s-first-spanish-language-voice-assistant-for-banking"
+title: "U.S. Bank Launches Nation’s First Spanish-Language Voice Assistant for Banking"
+excerpt: "“Our software engineers solved for that through a hybrid approach using smart technology, natural language processing and real-time interpretation.” By talking or texting with Asistente Inteligente, Spanish speaking customers have an incredibly easy ..."
+publishedDateTime: 2022-04-27T02:50:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220426005029/us-bank-launches-nations-first-spanish-language-voice-assistant-for-banking"
+webUrl: "https://www.morningstar.com/news/business-wire/20220426005029/us-bank-launches-nations-first-spanish-language-voice-assistant-for-banking"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
@@ -35,6 +35,6 @@ related:
         height: 450
         isCached: true
 
-secured: "FcOfp1dQUsx4x/JvOcYclQnazDQO5PocGZgCD/jHrwMHRtMdIcdIYR+EuPsjle6I/D02G9Dqzj1zrEDP23FnDXAThGlDA8oHrdmG8O7aExV3d7S0z6cjWRJaqzqARKKto1oGhh8pwOVWiYh/JBcxFmtfpsfm6tn0sLn7MXmyyooG0wW3njBizGpIzQTT6WJtOxNHPVbeMZr2JZ2Kkc28bmAtKW05DQTwBXxJTYqE3kkRyBbZHAbzWzZiQXKH+aeUU8bkIT60Zpng5+zhR7XcIYqsVM7SPKfbB5dfqlXjYH3dFuKvDWDpbzbsTlD1iHW2eYXQWwbKnlMH1XGj9cc8Nq9KC9IuicjFuQOKDvIpVfP3ng+7yImLg5QoAwklAzwQmZvKUsimaP02XRjR/TnioVG9GDZmzvzFAZaMcaVFJ7oYDTXC7zx8YgFKnl6Xnics1GPWI4/JPRbxAXPRmmg94gZtMD9dMwhgBIuMF5q0tEUyhaspPSHgxKM7WqeMfAK11tCPkmGFtGdjoGe+oAqBYA==;fBZcF8VFD84IohOxEtRfTA=="
+secured: "iTXIHvi1yB47elFXRN3/qGUtc3oodOtaHI9NHschLxRQlorfiGeK9JrinnGrOPlCm5fD4XVV/DpTC9y2tFJWZV/DuzIspKlV9RCsYbHk12u5InK7HoNzJhe52ubqrJ1R0NPBTFJyQYiAogOdYPw+KqfFVTh0nesfd/YSgxspYlFuSD40NPB5zUjKilFc82vDRl3M1jLSpfkySMx64gJvkamzR7UrSNQNrJf1jJqscD8Pp5dnWb3PGvIwIy5tutlrmwYxydC/F+yGwipLbk45BY5WTxpzB2VUJrovQqYwBoFTGtcPeyRy+IeFL1yceWAa35Mdlutlly1tvEI3jeLw1FiCeQbIGlBX3Uz2e3acjBY=;nbxw8s7rZMvX+zg6hYpkgQ=="
 ---
 

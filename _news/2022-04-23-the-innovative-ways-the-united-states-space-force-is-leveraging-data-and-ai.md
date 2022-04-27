@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How Artificial Intelligence is Impacting Aerospace Industry"
+    excerpt: "Improved supply chain proficiency makes maintaining the equipment and its routine repairs much easier than doing it manually, and it also saves money"
+    publishedDateTime: 2022-04-26T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-impacting-aerospace-industry-nid-9748.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/fdoa450308cioapp.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "6TTv2lejVLRBRSfQtKSd3yJAI8pCbqI0VdEuJ1JgJfUIJ3+EA5Ru5jFk4QTGnjA0d9cy8mSoYb3D3ZYX8WY0TKZhxU3R/kVnSr9B+lq654TVrp8j8VeFfIRdX9NDu/S+xoYaYt5KE3L6UFnLV3rljuiInzZtaDWNUwr+M0r41BkK9SgwR7ELYUojv2Be2fE2BvSAf/ojDB2w/3l4PRmITIxpaYHl+d9vsGCYxbvKMi4RU+TJheh+3tSpxq63pRg6cxOw/VFDdoV7AZnUYq+YLnlWnvfoBYlfxpjev+7Vn6WvxYJKbUXUu7BB5u9svxWmbZIEEvgGnqKVycF1c/nEhTdv4/EllB9Im/ZTAd392BloLh56Ve6hE30SUdeXrghwLw47rvf40fyRO1Xt24s8bWGTkc5TYcOwg7c72ScedbmX1jZa9PwPxb1br7j/ELX8MlVb9AyFIDdRKvWhISwOQSSG3uSxBBm0leUsdtCHgGtZ+WeN/ldlropAKW28ViOfZ3SB9BRPpofI96Z1auq5lQ==;CszkMqDUwYAib6L9D54ikw=="
 ---

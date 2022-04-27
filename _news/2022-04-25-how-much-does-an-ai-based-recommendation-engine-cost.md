@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "What determines the cost of an AI project"
+    excerpt: "Artificial Intelligence projects are complex as it involves models, data, infrastructure, technology, and importantly a compelling business case. Broa.."
+    publishedDateTime: 2022-04-25T03:12:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91062200,imgsize-28022,width-1200,height-628,overlay-etcio/what-determines-the-cost-of-an-ai-project.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Replacing the cookie jar with an AI-based audience engine and first-party data"
     excerpt: "As the digital marketing world continues to look for alternatives to third-party cookies, an ‘audience engine’ driven by artificial intelligence (AI) and robust first-party data could provide a route to deeper customer insight and accurate targeting."
     publishedDateTime: 2022-04-25T14:42:00Z

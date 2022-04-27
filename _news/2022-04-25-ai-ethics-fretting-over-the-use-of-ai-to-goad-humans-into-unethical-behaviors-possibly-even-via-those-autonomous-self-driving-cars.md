@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-frettin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/"
 type: article
 quality: 91
-heat: 211
+heat: 201
 published: true
 
 provider:
@@ -157,20 +157,6 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/self-driving-startup-ponyai-wins-china-first-license-to-charge-for-robotaxi-services/10111682507461.jpg"
         width: 720
         height: 480
-        isCached: true
-  - title: "GM patents self-driving car that replaces human driving instructors"
-    excerpt: "Self-driving cars are often described as replacements for human drivers, but a General Motors patent filing shows how they could be used to train new ones. First spotted by Motor1, the filing with the United States Patent and Trademark Office (USPTO ..."
-    publishedDateTime: 2022-04-22T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1135620_gm-patents-self-driving-car-that-replaces-human-driving-instructors"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100773492_h.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "New UK law will let drivers watch TV in their self-driving cars"
     excerpt: "The United Kingdom Highway Code is being updated and will allow UK drivers in self-driving vehicles to watch TV while their car drives them down the road. What could possibly go wrong? The new UK rule was reported earlier this week by BBC News."

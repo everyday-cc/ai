@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Azure: Empowering SMEs for Malaysia’s cloud-first future"
+    excerpt: "HIT by the Covid-19 pandemic, small and medium enterprises (SMEs) are well aware of the need to go digital-first."
+    publishedDateTime: 2022-04-27T02:28:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2022/04/27/microsoft-azure-empowering-smes-for-malaysias-cloud-first-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/27/1565845.jpg"
+        width: 617
+        height: 404
+        isCached: true
 
 secured: "+NnShLR6ZupqKcMx7/L3VzHFarbfti41o2IeaI8fw3ZaGBMUYyZSFQVfp+WRtWjikYomZLQgnejqmnH33FAS/xjTWnjnFWHmVSdnC3MYTFW3mCMzSfmVC8RfPZih/3sWx6T3MtV/K6DQYFngdc09OojOwJ9KCX9/HEfKb1ncwUs8VhW0MvX/Tc6uHhGYkkpNzkKSV5WjY8gT3opvcQpqqXT/OuBofzj/lihCXeR59qGqU8PIJsEdRBZKVbnZmv5hBVf1BkYsgWbULx46K9OtPLIXvy406MvcuS7Uc1Vu/S7MC2GWPKspIK0Squrzez2P/nqVak7UmG/KfxsAqAx5X2vyB1cnomY14kozwFTL+7s=;bYWZ4rvWXydpS1QmsdOF0w=="
 ---

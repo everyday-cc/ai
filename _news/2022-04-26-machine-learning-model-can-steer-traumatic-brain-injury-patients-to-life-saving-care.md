@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injur
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Prognostic model uses brain scans and machine learning to inform outcomes in TBI patients"
+    excerpt: "A prognostic model developed by University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons is the first to use automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI)."
+    publishedDateTime: 2022-04-27T02:02:00Z
+    webUrl: "https://www.news-medical.net/news/20220426/Prognostic-model-uses-brain-scans-and-machine-learning-to-inform-outcomes-in-TBI-patients.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220426/Prognostic-model-uses-brain-scans-and-machine-learning-to-inform-outcomes-in-TBI-patients.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220426/Prognostic-model-uses-brain-scans-and-machine-learning-to-inform-outcomes-in-TBI-patients.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 65
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Machine Learning Helps Improve Brain Injury Outcomes"
     excerpt: "Scientists for the first time use automated brain scans and machine learning to predict the outcomes of patients with severe traumatic brain injuries (TBI)."
     publishedDateTime: 2022-04-26T18:30:00Z

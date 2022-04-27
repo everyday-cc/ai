@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-micr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2022/04/26/untitled_design_74.png?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Azure: Empowering SMEs for Malaysia’s cloud-first future"
+    excerpt: "HIT by the Covid-19 pandemic, small and medium enterprises (SMEs) are well aware of the need to go digital-first."
+    publishedDateTime: 2022-04-27T02:28:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2022/04/27/microsoft-azure-empowering-smes-for-malaysias-cloud-first-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/27/1565845.jpg"
+        width: 617
+        height: 404
         isCached: true
   - title: "Microsoft's (MSFT) CEO Satya Nadella on Q3 2022 Results - Earnings Call Transcript"
     excerpt: "Q3 2022 Earnings Conference Call April 26, 2022 5:30 PM ET Company Participants Brett Iversen – General Manager-Investor Relations Satya Nadella"

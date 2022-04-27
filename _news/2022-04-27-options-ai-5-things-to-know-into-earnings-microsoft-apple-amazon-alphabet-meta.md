@@ -38,6 +38,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
+  - title: "Microsoft Azure: Empowering SMEs for Malaysia’s cloud-first future"
+    excerpt: "HIT by the Covid-19 pandemic, small and medium enterprises (SMEs) are well aware of the need to go digital-first."
+    publishedDateTime: 2022-04-27T02:28:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2022/04/27/microsoft-azure-empowering-smes-for-malaysias-cloud-first-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/27/1565845.jpg"
+        width: 617
+        height: 404
+        isCached: true
   - title: "Microsoft's (MSFT) CEO Satya Nadella on Q3 2022 Results - Earnings Call Transcript"
     excerpt: "Q3 2022 Earnings Conference Call April 26, 2022 5:30 PM ET Company Participants Brett Iversen – General Manager-Investor Relations Satya Nadella"
     publishedDateTime: 2022-04-27T01:20:00Z

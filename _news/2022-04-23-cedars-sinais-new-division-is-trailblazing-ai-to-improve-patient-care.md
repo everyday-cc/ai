@@ -24,80 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "A new vision of artificial intelligence for the people"
-    excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine th"
-    publishedDateTime: 2022-04-22T10:03:00Z
-    webUrl: "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/"
-    ampWebUrl: "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/"
+  - title: "How Artificial Intelligence Can Improve Medical Diagnosis"
+    excerpt: "Artificial Intelligence can be used to diagnose cancer, triage critical findings in medical imaging, flag acute abnormalities, provide radiologists with help in prioritizing life threatening cases, diagnose cardiac arrhythmias,"
+    publishedDateTime: 2022-04-25T21:37:00Z
+    webUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-can-improve-medical-diagnosis"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-5-3-1.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "What determines the cost of an AI project"
-    excerpt: "Artificial Intelligence projects are complex as it involves models, data, infrastructure, technology, and importantly a compelling business case. Broa.."
-    publishedDateTime: 2022-04-25T03:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91062200,imgsize-28022,width-1200,height-628,overlay-etcio/what-determines-the-cost-of-an-ai-project.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "How Can Managers Use AI to Find the Right People?"
-    excerpt: "AI analyses their responses to determine intelligence, character and coding skills. The chatbot then invites the top third of the remaining candidates to do a webcam interview at their convenience within a several-day window."
-    publishedDateTime: 2022-04-26T03:53:00Z
-    webUrl: "https://knowledge.insead.edu/career/how-can-managers-use-ai-to-find-the-right-people-18621"
-    type: article
-    provider:
-      name: INSEAD
-      domain: insead.edu
+      name: bbntimes
+      domain: bbntimes.com
     quality: 39
     images:
-      - url: "https://knowledge.insead.edu/sites/www.insead.edu/files/styles/484x252/public/images/2022/04/gettyimages-1218524115.jpg?itok=6TYMuGRa"
-        width: 484
-        height: 252
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Artificial_Intelligence_Can_Improve_Medical_Diagnosis.jpeg"
+        width: 1755
+        height: 1080
         isCached: true
-  - title: "Hummingbirds AI gets to the finals at Vision Tank 2022 Competition"
-    excerpt: "The award-winning innovation hub will fight for first place at Vision Tank Start-up Competition with their video-based biometrics technology, GuacamoleID."
-    publishedDateTime: 2022-04-26T21:57:00Z
-    webUrl: "https://www.wicz.com/story/46374447/hummingbirds-ai-gets-to-the-finals-at-vision-tank-2022-competition"
+  - title: "How AI can improve the corporate ESG bottom line"
+    excerpt: "UAE believe bots will succeed where humans have failed with corporate sustainability How AI can improve the corporate ESG bottom line Artificial intelligence, environment, environmental impacts, environmental social and governance,"
+    publishedDateTime: 2022-04-23T05:15:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/how-ai-can-improve-the-corporate-esg-bottom-line"
     type: article
     provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 39
-    images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "A New Vision of Artificial Intelligence for the People"
-    excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s"
-    publishedDateTime: 2022-04-22T23:27:00Z
-    webUrl: "https://pulitzercenter.org/stories/new-vision-artificial-intelligence-people"
-    type: article
-    provider:
-      name: Pulitzer Center
-      domain: pulitzercenter.org
-    quality: 37
-    images:
-      - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/Screen%20Shot%202022-04-22%20at%2010.02.46%20AM.png?h=44ba1eb2&itok=qIDJepxI"
-        width: 768
-        height: 600
-        isCached: true
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 17
 
 secured: "/X2r6RAF15K4RbIWrnCSGVNpk4xZwxaeoRmfTPkvt2erbWELXXxCAABm7lez+PIG/sSZHTvr5Y3WGuhJN8BgGu0QZ4NqljO6LjamMJDKzxB93sULLGUV7T0M8BOGpqzkM+8eiKEMjR0Ziaf03H+wuFiffkF0TCacTAmN2qUKF0IilJ6E9RprZ7rjPvNUOfPe6Pc/yGBs3JRoWt+57MmpgkGq52Hc9oYivKxt6C/3ja2UixwTM6Z0iqIlqNj/DMaC63BaFHqSIO4HC9iSFyGelo2zwOhDTkdiY70xeZb5mmeZL3UI/i1zZkX60I/aEaqh/SgDmLGsmmnFRjfgjdcQFFgnkr9m4qZTy03jwsXXcE4=;tMhwjcyCcK5sclp1tMkd3Q=="
 ---

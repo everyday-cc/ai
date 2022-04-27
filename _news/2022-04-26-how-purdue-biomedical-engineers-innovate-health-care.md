@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Purdue biomedical engineers innovate health care"
+    excerpt: "Biomedical engineers are innovators in a laboratory: bringing concepts and dreams of future technology and science fiction to life today to better people’s health and longevity.These faculty experts from Purdue University’s Weldon School of Biomedical Engineering can explain a process or procedure regarding various areas of research – and in many times build,"
+    publishedDateTime: 2022-04-27T01:42:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=653497"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "How will computational biomedicine transform healthcare?"
     excerpt: "Sinai’s newest department, Computational Biomedicine, discusses the history of this relatively new field, how to mine big data and the future of artificial intelligence in healthcare."
     publishedDateTime: 2022-04-22T17:17:00Z

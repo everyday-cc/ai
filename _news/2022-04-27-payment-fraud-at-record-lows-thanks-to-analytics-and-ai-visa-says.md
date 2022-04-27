@@ -116,6 +116,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Control Risks Taps Reveal-Brainspace to Bolster its Suite of Analytics, AI and Machine Learning Capabilities"
+    excerpt: "Control Risks Taps Reveal-Brainspace to Bolster its Suite of Analytics, AI and Machine Learning Capabilities GlobeNewswire April 27, 2022 London, Chicago, April 26, 2022"
+    publishedDateTime: 2022-04-27T02:00:00Z
+    webUrl: "https://www.asiaone.com/business/control-risks-taps-reveal-brainspace-bolster-its-suite-analytics-ai-and-machine-learning"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/Notified-GlobeNewswire-Color-Large_735.jpg?h=10d202d3&itok=F6dYzV-S"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "ajTvZELnwEWGzqlqFVNqt9K1sSNM63KrudBM/XMfZO2dHuimL/FTjigv3Y/ExEl1fgM6YY/B8RCwZoxytbBw1fep3c2DFl1jaU2O+IeW/gdZgZWXfSeARNzgoQSV1Y01/IcxkXFCNHF//wpIetm4kFpEL0tWdlCQggeA3KIX7PDCUPQV3AfKVOL9nvjxK3OK5Z/imM9aMkbrXAr2IhsoTXDHmJZQJI+5yapkgb3EpPYTYEJtHBgHa6PcpUigjnqqNnmsVA+b7W3idaMk9FiTx1mwsMYSTB5canIURhEaw0tjr/6LG4DjjMM2qaO3YE68WuEupGIkcyfsMyR6Mzhkcq06HjgCy735fB4EOlVIeB02lTyeIEjM0Dp6aSB5pmbAJb+GK3TPilPt5Owk1ZXA8q9PC+MZKgSTgcWYy1TpAP5Rx3LhLIT63IrwJ9yrbTK+5cVwhRqAzApNTAnt9I55uBFzmQ+B/EiWi4fSYJX1ErKhn9paWlgbnbEzjsmbJ0OGx1+2Tucje8RNEEiiRjUfwQ==;X3Ju1dTB0FWjsfXLUZJr2A=="
 ---

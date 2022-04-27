@@ -1,33 +1,30 @@
 ---
 category: news
 title: "The Lithuanian collaboration of iDenfy and Alternative Payments – a safer future for the Fintech industry"
-excerpt: "The digital platform for identity verification, fraud prevention and compliance, iDenfy, partnered with Alternative Payments, the Lithuanian-based Fintech specializing in simple,"
-publishedDateTime: 2022-04-27T00:12:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
+excerpt: "Alternative Payments integrated iDenfy’s full-stack, multilingual ID verification to secure their customers’ dataThe digital platform for identity"
+publishedDateTime: 2022-04-26T22:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
+webUrl: "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
 type: article
-quality: 0
-heat: -1
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
 
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
 related:
-  - title: "Cross River and Sardine Partner to Build Critical Risk and Payments Infrastructure for Fintech, Web3 and Crypto Companies"
-    excerpt: "Cross River Bank (“Cross River”), a technology infrastructure provider that offers embedded financial solutions, today announced a partnership with Sardine, a behavior-based fraud and compliance platform for digital wallets and neobanks,"
-    publishedDateTime: 2022-04-25T13:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
   - title: "Cross River and Sardine partner to build critical risk and payments infrastructure for FinTech"
     excerpt: "Cross River Bank, a technology infrastructure provider that offers embedded financial solutions, recently announced a partnership with"
     publishedDateTime: 2022-04-26T13:13:00Z
@@ -38,6 +35,6 @@ related:
       domain: ibsintelligence.com
     quality: 0
 
-secured: "MHsLRsoAH9oUO/QfPs9Bc7tUP96LExR6iNSKKtmJMPIQuHZPL5aIZoiQ0DSsoQNSR6Ir+uNT7nyoXDtnQKK/9H1RmzLkECxNzlFDkc1Up2zpVjeIhWvmE2fsmH3+5tjhZx0cWOwoATYIRqhWOuWVPboJb0RX+wxncMKDO6aQg7WSLP0fFLXYeZqDxS9bBWyc0TcNHu6CyfdTnoDCiEcNzew8gCq4gtOxg9qTJL+75HDxSiBhJ0tucE/BG943tk0aAapig9vqwH168rU+BHGMaJb5BbzR4wm74ClYM6J7/WtZrhMoMACqf1XjNUaKC5jmyWdVanPxUaLSoS83cWHXhBYgCeVJbIX5EQ5S3s73188=;ExB0fjKd7aVlaqd9Hko/pQ=="
+secured: "Iu/6CJJJB4oPhj87DNHbhX3U4qs24xR4qcTlrj66IFXE2ZtN1XLwJqpfDHb5SLTzF9zcT7cKl657wSFLenZGiDQWvVua+38t2+EZDnjChv7qfL4RgDEc8e9hsLRy3dilzjDvgfwGj3GqvN0hwqNURQL+LW3Mp2FJ1aKpg+MOnQh93qfoZrln5fiL3xZZ9Fcbv9QDaph3h2d7tWVSpFtHxsGYO/XZr7yaBOLEe6CgidrxYIh/nZ9+ci/eRVGcSVPKgST7mP8OSMs9e8VhrV3OlJrzfSVDm4TUYFOyGvOWTgI9V3CcHBIm5LZ7P8a3oG3zadrgdXdMckeiYmc3oGHzov0gndBiF9o+dMIm/X03kTU=;FLqk8hxUdsE7KO6eaYtviA=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "What determines the cost of an AI project"
+    excerpt: "Artificial Intelligence projects are complex as it involves models, data, infrastructure, technology, and importantly a compelling business case. Broa.."
+    publishedDateTime: 2022-04-25T03:12:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91062200,imgsize-28022,width-1200,height-628,overlay-etcio/what-determines-the-cost-of-an-ai-project.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "g+nGOLdRj1u+Tk1XCfgGHqA1IcXn64I77qS+XoIPK2WwqUd4Z9WtPGKqLTBwiYYAg1Fc0YEqhFd0N3ZKHJsrYVzT/VBf9DTQQtoPolgtGzuYZq7SpGDANi2HfxCgZgBUq3ZAIR7/T5eY6EbEKOBz60L4oPcRk+Flqen7Dua14/aKXP+D4N88+hsgZbxj9TBHUdQkiG/bsFzIIVh6HOsG9TcirUFzua4+PmKg021frpzeAcjmbsb6J4Q9LlqknjG/cp8DlLedeu9592tQAdcJEoAMmSC95ln+UCWGIg2Ecwb8bqe9R2XIEGr037pBV45WJRke4+KqEjiXNK4EtJ+qlVpy58FW7NsyEHgNnVbXR9cKwrEO0iIVkotW62Wh5Bsw1oeIENaRlzJmK9BBeYzKEpFojZ+Cbn6yPuqK+lLflgHMMWmI8/kyEEsgnSgXJN/avae+1xE0R+kSEuaVDAtdS8/tFZpkiv1JS3eR41gSVN/Qj6wUOW60ER9GxOdWIF220QKW6ND/MmOB7QwQKbtaUA==;ReOS843A99qP8N/4nPyXrA=="
 ---

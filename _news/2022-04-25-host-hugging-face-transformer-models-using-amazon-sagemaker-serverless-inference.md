@@ -43,20 +43,6 @@ related:
         width: 655
         height: 461
         isCached: true
-  - title: "Aurora Serverless V2, SageMaker Serverless Inference, AWS IoT TwinMaker & AWS Amplify Studio are now generally available"
-    excerpt: "Amazon Textract is an ML service that automatically extracts text, handwriting, and data from scanned documents"
-    publishedDateTime: 2022-04-22T09:21:00Z
-    webUrl: "https://analyticsindiamag.com/aurora-serverless-v2-sagemaker-serverless-inference-aws-iot-twinmaker-aws-amplify-studio-are-now-generally-available/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 44
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/AWS-canva.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "Qtp//ZoPLFeLuDmGioceIt8AYm6W/NImSvXXCEbdLorvjufzVKkw+s91oDNJnzdtuWZ8sPTu7z+wftGf/AnxCGhMOrQ3pRgKhtpxo3pMsDrtyCjZViNkD/mxw49C3mPQI9tLvnspWLb3ARqhuR65uIfKkMuACozy40JS2wY3RMnrA/Kc5+UDFYzzlXwLXQnqriL/BSEjT3SO7FgsutPatviFEEwsQopSLr6LoHA4G0px0eFxkdKxoIVxMxnVfKjvvY/PGE3Rj/mViz+7kwvTfoZYaSWkeMzYXUWIArZHZhSOPDQ9Aw0skGH4gDLpN2m7bl37yJNbGT3xWwmdC2iw5cjnOyTWBxESigwOwDBKm4g=;iQ/tyGyEDlJX4tjZd8iquw=="
 ---

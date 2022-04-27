@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26804894"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26804894"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "FEATURE: 1st film written by Japanese AI bot takes movie-making to next phase"
+    excerpt: "Writer's block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the first film written by a Japanese AI bot is aiming to demonstrate what it can do at a major short film festival this year."
+    publishedDateTime: 2022-04-27T02:50:00Z
+    webUrl: "https://www.nippon.com/en/news/kd891872544100581376/"
+    ampWebUrl: "https://www.nippon.com/en/news/kd891872544100581376/amp/"
+    cdnAmpWebUrl: "https://www-nippon-com.cdn.ampproject.org/c/s/www.nippon.com/en/news/kd891872544100581376/amp/"
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 34
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
     publishedDateTime: 2022-04-26T06:00:00Z

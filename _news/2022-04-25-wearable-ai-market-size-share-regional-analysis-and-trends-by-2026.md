@@ -108,6 +108,20 @@ related:
         width: 415
         height: 253
         isCached: true
+  - title: "Control Risks Taps Reveal-Brainspace to Bolster its Suite of Analytics, AI and Machine Learning Capabilities"
+    excerpt: "Control Risks Taps Reveal-Brainspace to Bolster its Suite of Analytics, AI and Machine Learning Capabilities GlobeNewswire April 27, 2022 London, Chicago, April 26, 2022"
+    publishedDateTime: 2022-04-27T02:00:00Z
+    webUrl: "https://www.asiaone.com/business/control-risks-taps-reveal-brainspace-bolster-its-suite-analytics-ai-and-machine-learning"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/Notified-GlobeNewswire-Color-Large_735.jpg?h=10d202d3&itok=F6dYzV-S"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Payment Fraud at Record Lows Thanks to Analytics and AI, Visa Says"
     excerpt: "Despite a massive increase in online activity during the COVID-19 pandemic, fraud on the Visa payment network is at an all time low, the company says. One"
     publishedDateTime: 2022-04-26T18:26:00Z

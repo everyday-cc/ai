@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/22/nhs_ai_leader_joins_palan
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/nhs_ai_leader_joins_palantir/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1300
     height: 650
     isCached: true
-
-related:
-  - title: "Palantir's poaching of former NHSX AI chief branded “scandalous”"
-    excerpt: "The controversial tech company is currently competing for a £240 million NHS federated data platform (FDP) contract"
-    publishedDateTime: 2022-04-22T10:47:00Z
-    webUrl: "https://www.itpro.co.uk/data-insights/big-data-analytics/367470/palantirs-poaching-of-former-nhsx-ai-chief-branded-scandalous"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 67
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1650622800/itpro/GettyImages-1085828582-palantir.jpg"
-        width: 1260
-        height: 710
-        isCached: true
 
 secured: "5KOK7+iSr856QaD63Oa+RPUu6GJ3T1gKUSawoeG+A03m1+JxjYpUMPsH0q8/CbEpKIPKt6TF132MOeGdSnwppq6NQZL22+dLzxWCsekW3at2z8W9GBwawvVHn344OpljFE8hulOFjfCQ6zHaSu+DfCYw5nVAECypbOUVhDtwy3b6x602Skn+8vVDjX9yEtdwk+GkBFLsv4EW7hWdONOJWmX7dVoOBiyook3IKnjS3ULLhSou3+CoVu2D1ZySqmo0HPE/X1nKv+z4fVbY7uTJr59MmJu8ePA4gN3gyp3Jj8phaf+PiQAecu1rJZh2XWJMfA/ZcZ52GUrnjZtOv+YpEMjgCkV86yUKVm/tGjV275w=;v0ZoT6ETSoreQXLvcXmR9A=="
 ---

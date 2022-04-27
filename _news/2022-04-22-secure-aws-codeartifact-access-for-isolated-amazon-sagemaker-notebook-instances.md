@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/secure-aws-codeartif
 webUrl: "https://aws.amazon.com/blogs/machine-learning/secure-aws-codeartifact-access-for-isolated-amazon-sagemaker-notebook-instances/"
 type: article
 quality: 100
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/21/ML-8598-image001-1019x630.png"
         width: 1019
         height: 630
-        isCached: true
-  - title: "Aurora Serverless V2, SageMaker Serverless Inference, AWS IoT TwinMaker & AWS Amplify Studio are now generally available"
-    excerpt: "Amazon Textract is an ML service that automatically extracts text, handwriting, and data from scanned documents"
-    publishedDateTime: 2022-04-22T09:21:00Z
-    webUrl: "https://analyticsindiamag.com/aurora-serverless-v2-sagemaker-serverless-inference-aws-iot-twinmaker-aws-amplify-studio-are-now-generally-available/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 44
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/AWS-canva.jpg"
-        width: 2240
-        height: 1260
         isCached: true
 
 secured: "AvCVtWuTu3zWjMZBKeWpywJNWF+EclB/HguAdVQ6lHe4F7nmrGxFtMDTWviNuDT+aAsj8y8r7kIZOnoCIQO8omC+WbknhTts/MIQOosb86DUvk90EqAx6ktUUqWFEx23ydBo8xdH2PxI9f+bryuwMnGwPBESUEk3eYagyyARZEwM+LrM6GMJ3R/zzt3HmkhdMsUVWIV05fn7ygxgC8GLUL4817hbUe3bxmV5PfvpR0/LNsC+e/d0PCi6yP7O5FnVQFxx+4aCMTxyoLwERH3TcWPQ7ShYOilya2BZwV54Xdry5vqR9LrZsnXGiSc6sRrGg5Toe1gDnsQE2UEqZzEPlCGHyMDr2s6s7Cx3r01xbZ0=;QZ+gibeD6lEEJ+R7B+swwg=="
