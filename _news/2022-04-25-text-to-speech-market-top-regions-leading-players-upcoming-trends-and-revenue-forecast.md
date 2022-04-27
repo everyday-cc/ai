@@ -53,34 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence as a Service Market Emerging Trends and Competitive Analysis During Forecast 2031"
-    excerpt: "Some of the key technologies used by the players in the global artificial intelligence as a service market include deep learning, natural language processing or NLP, and machine learning or ML. Request Brochure-https://www.transparencymarketresearch.com ..."
-    publishedDateTime: 2022-04-22T07:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-emerging-trends-and-competitive-analysis-during-forecast-2031-2"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/Washington-January-6-2021-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
-    excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"
-    publishedDateTime: 2022-04-22T08:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-smartphones-market-size-growth-share-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2026-2022-04-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "O5AH0vJ7WnIsl4G7XiMe/bE1MkE9CX5cXKGvZxzkKGH9TPISc81/Wib3pUhSeiBCg9zZu8DUcN743iMqE/0ifQUAaVcMOHnWCyJcW8ElGH64Sq9g5ACOPYEnEAJ+dZtGPmq5n63+pwypJhTdBx7oEdOFqBoKCkutm4m1NTybB/bJaIJSD+7vOrzAXP0VE1XucRYCSODgzAe88q7D50hWIi3Oe8VvWk8rWsmlsTuYJ+zb5alUic32Ylu0ik04+5QZzdaYXvGrvk4/QLDomCGb28252ITI6h6kfwqQL76oOY9JqwuWBf8bDRBj28hkSjrGU5R5ki4jV3vo8tNhHgu/uxS/HlVp/xercb1DJnrqmEM=;lzZCVcF5D5dlKLO2cHPtrw=="
 ---

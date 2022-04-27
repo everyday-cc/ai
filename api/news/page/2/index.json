@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-26-teaching-ai-and-robotics-concepts-in-business-courses.md",
+      "title": "Teaching AI and robotics concepts in business courses",
+      "excerpt": "By Gary Allemann, MD at Master Data Management Artificial Intelligence (AI) and robotics are steadily making their way into every industry. From retail companies to healthcare practices that use AI-driven robots for medical processes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
+      "originalUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-ponyai-to-launch-fleet-of-robotaxis-with-ontime.md",
+      "title": "Pony.ai to Launch Fleet of Robotaxis with Ontime...",
+      "excerpt": "GAC is one of China's largest automakers and a longtime Pony.ai partner Introduces Pony.ai's partnership approach to commercializing robotaxis and strengthens Pony.ai's significant leadership in the G",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26805079/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gacs-ride-hailing-app-in-guangzhou-in-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26805079/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gacs-ride-hailing-app-in-guangzhou-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26805079",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26805079",
+      "publishedDateTime": "2022-04-25T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-ubie-japanese-healthtech-startup-launches-ai-.md",
       "title": "Ubie, Japanese HealthTech Startup, Launches AI-...",
       "excerpt": "Trusted by 4.5 Million Monthly Users Worldwide - TOKYO and SINGAPORE, April 26, 2022 /PRNewswire/ -- Ubie, Inc., a healthcare AI startup with the mission \"To develop a healthcare guide for everyone,\"",
@@ -357,7 +443,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -815,7 +901,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028-2022-04-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1103,102 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022.md",
-      "title": "AWS CMO Rachel Thornton on the future of customer-obsessed marketing in 2022",
-      "excerpt": "Customer obsession is core to AWS, and being data-driven in everything ... Experimenting with technology, such as machine learning (ML) or artificial intelligence (AI), in marketing can help ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1364769258-coffeekai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "publishedDateTime": "2022-04-23T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-video-shows-tesla-self-driving-into-a-35-million-private-jet.md",
-      "title": "Video Shows Tesla Self Driving Into A $3.5 Million Private Jet",
-      "excerpt": "Tesla vehicle using Smart Summon feature has crashed into a $3.5 million private jet. Here is why the incident took place.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/",
-      "originalUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2022/04/Tesla-Crashed-Into-Jet.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-self-driving-into-private-jet/amp/",
-      "publishedDateTime": "2022-04-23T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

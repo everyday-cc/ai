@@ -7,7 +7,7 @@ originalUrl: "https://www.crainsnewyork.com/health-care/biotech-company-absci-op
 webUrl: "https://www.crainsnewyork.com/health-care/biotech-company-absci-opens-ai-research-lab-midtown"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI research in China slowing down?"
-    excerpt: "In June 2021, the China government-backed Beijing Academy of Artificial Intelligence (BAAI) introduced Wu Dao 2.0, a language model with 1.75 trillion parameters. With this huge magnitude, it easily surpassed its western cousins like GPT-3 (175 billion parameters)."
-    publishedDateTime: 2022-04-22T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/is-ai-research-in-china-slowing-down/"
+  - title: "Vancouver startup opens New York research lab"
+    excerpt: "The synthetic biology company announced this week that it opened the Absci AI Research Lab in Manhattan’s Plaza District. The lab sits on the 43rd floor of Carnegie Hall Tower. “Absci’s expansion into one of the geographic hearts of AI research marks ..."
+    publishedDateTime: 2022-04-22T15:00:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2022/04/22/absci-opens.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/China_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "5tCpeKCS5s0beVMg6YqpjppFfc70vdcNNWoTSE054Lcp7FhFOJw6NrKUknrBdtyzdbN4Kp+8i31DqmaJqUk1TAcJohx2Ql8SoGBbTUlBR6M5GDji1i+ZTzrXQXhuR5/bvGXdW37tpeAG15j2lETQjl6ESCgRVKQn20e18LGPLPDU+LQyHhYwksNjaCHYexUMfIYkOnOaTjj7PSu8t3MkKW5BDBwBUlWE8PoU17kbNcxmf1KzfCXuIUMiO3CItUrFTt0snHbeMMJvRJZAZ/ba3knr5ClRYdJLLrRzosJhEt6Ih5YhFc9x2sS4T1h5OSFOIInrINAcfA6AcJ8jbmKhvfNC6bXtMdPnA4yC8BH8IpY=;zxfnaZO+rxC/wAOmGiccHA=="
 ---

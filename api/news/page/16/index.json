@@ -2,6 +2,135 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-04-11-china-ends-gaming-approval-freeze-grants-first-licenses-since-july-last-year.md",
+      "title": "China ends gaming approval freeze, grants first licenses since July last year",
+      "excerpt": "HONG KONG — China’s gaming regulator on Monday granted publishing licenses to 45 games belonging to the likes of Baidu and XD Inc’s “Party Star,” ending a nine-month long freeze that has ...",
+      "sourceUrl": null,
+      "webUrl": "https://nationalpost.com/pmn/business-pmn/china-ends-gaming-approval-freeze-grants-first-licenses-since-july-last-year",
+      "originalUrl": "https://nationalpost.com/pmn/business-pmn/china-ends-gaming-approval-freeze-grants-first-licenses-since-july-last-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Post",
+        "domain": "nationalpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-how-smart-are-ai-chips-really.md",
+      "title": "How Smart Are AI Chips, Really?",
+      "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-get-42-hours-of-microsoft-azure-training-for-under-6-per-course.md",
+      "title": "Get 42 hours of Microsoft Azure training for under $6 per course",
+      "excerpt": "With this comprehensive bundle, you can start your cloud computing journey while studying totally online -- no school enrollment is necessary",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
+      "originalUrl": "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e0de291bb0c3dd3c2874894221d7e481d0e5170b/2022/04/05/5059ada6-b553-4485-86c2-ab88d0440a1d/zd-microsoft-azure-prep.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
+      "publishedDateTime": "2022-04-10T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory.md",
       "title": "2022 DesignCon Shows Evolution Of Electronic Chip Communication And Memory",
       "excerpt": "DesignCon covered electronic design and integration, including photonic in chip communication. Rambus presented talks discussing the use of various xDDR and HBM memories for various applications including edge AI training,",
@@ -1048,152 +1177,6 @@
         "Machine Learning",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-an-ai-model-can-help-predict-adverse-events-from-new-drug-combinations.md",
-      "title": "An AI model can help predict adverse events from new drug combinations",
-      "excerpt": "Preliminary data from an artificial intelligence model could potentially ... making it difficult to decide whether a new combination therapy would risk their health,\" Westerman said.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/drug-1.jpg",
-          "width": 2880,
-          "height": 1923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.amp",
-      "publishedDateTime": "2022-04-08T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave.md",
-      "title": "A newcomer to AI data labeling, Encord looks to ride a rising tidal wave",
-      "excerpt": "Aiming to generate labeled data sets for computer vision projects, Encord launched its own beta version of an AI-assisted labeling program called CordVision.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
-      "originalUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Screenshot-2022-03-24-at-16.41.23-copy.jpg?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
-      "publishedDateTime": "2022-04-08T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-cognos-vs-tableau-2022-software-comparison.md",
-      "title": "Cognos vs. Tableau: 2022 Software Comparison",
-      "excerpt": "Tableau and IBM Cognos are two well-respected business ... For other formats, ease of use can suffer. Similarly, the AI-powered and Watson-backed analytics of Cognos lower the barrier to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/cognos-vs-tableau/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/cognos-vs-tableau/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/woman-at-computer-analytics.jpeg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

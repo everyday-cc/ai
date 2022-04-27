@@ -47,6 +47,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Blockchain AI Market size is projected to reach USD 1,125.9 Million by 2027 at a CAGR of 25.6% | Report by Emergen Research"
+    excerpt: "Blockchain AI market is estimated to reach value of USD 1,125.9 Million by 2027, according to a current analysis by Emergen Research. Blockchain and AI"
+    publishedDateTime: 2022-04-26T13:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-size-is-projected-to-reach-usd-1125-9-million-by-2027-at-a-cagr-of-25-6-report-by-emergen-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 11
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "UvJ5Nmg3ZvyrlrRpAGvT0pcb0aNOJvJu+9D24u33BkBNz08A0Zi7g8Bcjz0nvbhxsYWGGOSYhmlkX/SiLBLu4V4yQWK16/U8Qr3pyDCfK6Bx0/yVGXNuupzOYlCj2Vs/HjSAGctar09yAb4TvtXOPQOe42rWBtbkVdxqfMhh+70uYJ+AkQhRZWQYHhXpG2zwOrw+zTV83FikdjT4FCY4E16t6FOQsLHKr9MRB9igXvBsOkw2cvRoNu17SpbzF6LQULdKBiJMEXldfCi+b84c3BT/qP+g0xQXfBy89cJz3CKedJHIq870/JrH7d/6YIeCfw3IU/nDui7ed9CoR8siIPGlYY32jrwuHCgNlPwhziQZ3w1kw7Q/t91z7wHyF935b+G8UhOe484u4j4aM8z+aY44E5tIo8yc/46KwA62zat2XREb4tliEUEELa9XJa0Ogsh5/FyxEM7S9xMn3t/mvOYkcc/UAeQ//zXFnaelU3KIKHX2X6Rul7D77cTD0weD6Fxi3jd6vOmC6/6yvG7W1g==;O5RINQHzKPQIFg0Cf2+tqQ=="
 ---

@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-04-13-ai-and-ml-think-green.md",
+      "title": "AI And ML Think Green",
+      "excerpt": "One powerful subset of AI is machine learning (ML), which involves not predefined instructions and fixed algorithms but learned patterns over artificial neural networks. Developers have used ML to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6255864cad3a5bbbc0404a9c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/amp/",
+      "publishedDateTime": "2022-04-13T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-artificial-intelligence-facilitates-better-control-of-global-development-aid.md",
+      "title": "Artificial intelligence facilitates better control of global development aid",
+      "excerpt": "A team of AI experts led by Stefan Feuerriegel, Head of LMU's Institute of Artificial Intelligence in Management, is injecting transparency into global development aid. The researchers have developed an artificial intelligence system that categorizes aid projects more comprehensively than it was possible up to now and facilitates better monitoring of these projects.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-04-artificial-intelligence-global-aid.html",
+      "originalUrl": "https://techxplore.com/news/2022-04-artificial-intelligence-global-aid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-25.jpg",
+          "width": 1831,
+          "height": 1523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-04-artificial-intelligence-global-aid.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-artificial-intelligence-global-aid.amp",
+      "publishedDateTime": "2022-04-13T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-dell-nvidia-amd-to-power-new-ohio-ai-compute-cluster.md",
       "title": "Dell, Nvidia, AMD to power new Ohio AI compute cluster",
       "excerpt": "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator",
@@ -724,6 +819,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-13-humans-close-to-losing-autonomy-to-artificial-intelligence.md",
+      "title": "Humans Close to Losing Autonomy To Artificial Intelligence?",
+      "excerpt": "The biggest change of artificial intelligence will be the loss of autonomy of the human being and by extension of governments. What I mean to say is this: a self driving car is better because it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/website/story/humans-close-to-losing-autonomy-to-artificial-intelligence/297342/",
+      "originalUrl": "https://www.outlookindia.com/website/story/humans-close-to-losing-autonomy-to-artificial-intelligence/297342/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/public/uploads/articles/2016/10/31/robot_20161031.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/website/story/humans-close-to-losing-autonomy-to-artificial-intelligence/297342/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/story/humans-close-to-losing-autonomy-to-artificial-intelligence/297342/amp",
+      "publishedDateTime": "2022-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-fiveai.md",
       "title": "Daily Crunch: Beating ‘other takeover bidders,’ Bosch acquires autonomous driving startup Five.ai",
       "excerpt": "“I expect that to start happening as well in the next year.” (TechCrunch+ is our membership program, which helps founders and startup teams get ahead. You can sign up here.)",
@@ -960,144 +1098,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-the-internet-cant-believe-cops-pulled-over-a-driverless-car.md",
-      "title": "The Internet Can't Believe Cops Pulled Over A Driverless Car",
-      "excerpt": "It's difficult for even today's most advanced artificial intelligence to predict how human drivers will act at any given moment. As automation of driving duties is enacted on city streets across the United States, so too are questions raised on whether ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/830134/the-internet-cant-believe-cops-pulled-over-a-driverless-car/",
-      "originalUrl": "https://www.slashgear.com/830134/the-internet-cant-believe-cops-pulled-over-a-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/the-internet-cant-believe-cops-pulled-over-a-driverless-car/l-intro-1649790585.jpg",
-          "width": 1600,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-adding-multimedia-lambda-teams-up-with-razer-to-launch-the-worlds-most-powerful-laptop-for-deep-learning.md",
-      "title": "ADDING MULTIMEDIA Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning",
-      "excerpt": "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world's most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/adding-multimedia-lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop/article_75a2aba0-b7ed-5ac5-8cc2-0c4e33affce3.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/adding-multimedia-lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop/article_75a2aba0-b7ed-5ac5-8cc2-0c4e33affce3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/e/6f/e6f44cc7-26b6-5c6c-b9da-32e5ee52d2aa/6255d44c9aa8d.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-neptuneai-raises-8m-to-streamline-ml-model-development.md",
-      "title": "Neptune.ai raises $8M to streamline ML model development",
-      "excerpt": "Register today! Neptune.ai, a Polish startup that helps enterprises manage model metadata, today announced it has raised $8 million in series A funding. Whenever an organization experiments with ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/12/neptune-ai-raises-8m-to-streamline-ml-model-development/",
-      "originalUrl": "https://venturebeat.com/2022/04/12/neptune-ai-raises-8m-to-streamline-ml-model-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

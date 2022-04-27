@@ -2,6 +2,109 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-15-dont-be-fooled-by-ai-washing-3-questions-to-ask-before-you-invest.md",
+      "title": "Don’t be fooled by AI washing: 3 questions to ask before you invest",
+      "excerpt": "Companies that do real AI are often unfairly grouped with companies that merely use AI as a function. Learn how to spot the differences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/14/dont-be-fooled-by-ai-washing-3-questions-to-ask-before-you-invest/",
+      "originalUrl": "https://venturebeat.com/2022/04/14/dont-be-fooled-by-ai-washing-3-questions-to-ask-before-you-invest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-928173784.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/14/dont-be-fooled-by-ai-washing-3-questions-to-ask-before-you-invest/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/14/dont-be-fooled-by-ai-washing-3-questions-to-ask-before-you-invest/amp/",
+      "publishedDateTime": "2022-04-14T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-roboticist-shares-why-she-loves-working-at-boston-dynamics.md",
+      "title": "Roboticist shares why she loves working at Boston Dynamics",
+      "excerpt": "someone asks if humans have total control over the talented quadruped. Reassuringly for those fearing the robot uprising, Moreira responds: “Yes, Spot does not have a mind of its own. You have a controller where you can directly command Spot, kind of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/",
+      "originalUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/roboticist-boston-dynamics-2.jpg",
+          "width": 904,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/?amp",
+      "publishedDateTime": "2022-04-14T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-house-lawmakers-investigating-govt-use-of-facial-recognition-software.md",
       "title": "House lawmakers investigating gov't use of facial recognition software",
       "excerpt": "The ID.me software was used most recently by the IRS, but stopped after complaints from lawmakers and privacy advocates.",
@@ -831,49 +934,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
-      "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
-      "excerpt": "My grandmother, Claire Hastings, was born in the 1920s on a farm in Armidale, northern New South Wales. That was a relatively common thing, with just 43% of the population living in cities, compared with more than 70% now.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html",
-      "originalUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-26.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp",
-      "publishedDateTime": "2022-04-14T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-04-14-self-driving-taxis-txai-to-transport-passengers-on-yas-island.md",
       "title": "Self-driving taxis 'TXAI' to transport passengers on Yas Island",
       "excerpt": "Bayanat, which specialises in geospatial systems, data analysis and artificial intelligence, recently announced its new fleet of driverless vehicles under the TXAI brand, which represents the first fully-automated taxis in the UAE.",
@@ -1101,49 +1161,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.md",
-      "title": "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'",
-      "excerpt": "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
-      "originalUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2022/04/932/470/GettyImages-1386927042.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp",
-      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp",
-      "publishedDateTime": "2022-04-14T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 5 NY",
-        "domain": "fox5ny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

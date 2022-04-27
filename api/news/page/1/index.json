@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-27-voi-teams-up-with-drover-ai-to-tackle-unsafe-e-scooter-use.md",
+      "title": "Voi Teams Up With Drover AI To Tackle Unsafe E-Scooter Use",
+      "excerpt": "In a bid to curb dangerous e-scooter riding, Sweden’s Voi has partnered with artificial intelligence start-up Drover AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonathankeane/2022/04/26/voi-teams-up-with-drover-ai-to-tackle-unsafe-e-scooter-use/",
+      "originalUrl": "https://www.forbes.com/sites/jonathankeane/2022/04/26/voi-teams-up-with-drover-ai-to-tackle-unsafe-e-scooter-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6267b1cae4b190ff00dc924c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonathankeane/2022/04/26/voi-teams-up-with-drover-ai-to-tackle-unsafe-e-scooter-use/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathankeane/2022/04/26/voi-teams-up-with-drover-ai-to-tackle-unsafe-e-scooter-use/amp/",
+      "publishedDateTime": "2022-04-26T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws.md",
       "title": "Build and deploy a scalable machine learning system on Kubernetes with Kubeflow on AWS",
       "excerpt": "In this post, we demonstrate Kubeflow on AWS (an AWS-specific distribution of Kubeflow) and the value it adds over open-source Kubeflow through the integration of highly optimized, cloud-native, enterprise-ready AWS services. Kubeflow is the open-source machine learning (ML) platform dedicated to making",
@@ -380,6 +431,48 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-ai-may-detect-earliest-signs-of-pancreatic-cancer.md",
+      "title": "AI may detect earliest signs of pancreatic cancer",
+      "excerpt": "\"This AI tool was able to capture and quantify very subtle, early signs of pancreatic ductal adenocarcinoma in CT scans years before occurrence of the disease. These are signs that the human eye ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/reversingcan.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp",
+      "publishedDateTime": "2022-04-26T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1115,92 +1208,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-teaching-ai-and-robotics-concepts-in-business-courses.md",
-      "title": "Teaching AI and robotics concepts in business courses",
-      "excerpt": "By Gary Allemann, MD at Master Data Management Artificial Intelligence (AI) and robotics are steadily making their way into every industry. From retail companies to healthcare practices that use AI-driven robots for medical processes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
-      "originalUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
-          "width": 1022,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering News",
-        "domain": "engineeringnews.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-ponyai-to-launch-fleet-of-robotaxis-with-ontime.md",
-      "title": "Pony.ai to Launch Fleet of Robotaxis with Ontime...",
-      "excerpt": "GAC is one of China's largest automakers and a longtime Pony.ai partner Introduces Pony.ai's partnership approach to commercializing robotaxis and strengthens Pony.ai's significant leadership in the G",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26805079/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gacs-ride-hailing-app-in-guangzhou-in-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26805079/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gacs-ride-hailing-app-in-guangzhou-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26805079",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26805079",
-      "publishedDateTime": "2022-04-25T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

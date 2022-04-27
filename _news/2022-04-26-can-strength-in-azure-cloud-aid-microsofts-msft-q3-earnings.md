@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-micr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -36,6 +36,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2022/04/26/untitled_design_74.png?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft's (MSFT) CEO Satya Nadella on Q3 2022 Results - Earnings Call Transcript"
+    excerpt: "Q3 2022 Earnings Conference Call April 26, 2022 5:30 PM ET Company Participants Brett Iversen – General Manager-Investor Relations Satya Nadella"
+    publishedDateTime: 2022-04-27T01:20:00Z
+    webUrl: "https://seekingalpha.com/article/4503841-microsofts-msft-ceo-satya-nadella-on-q3-2022-results-earnings-call-transcript"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4503841-microsofts-msft-ceo-satya-nadella-on-q3-2022-results-earnings-call-transcript"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4503841-microsofts-msft-ceo-satya-nadella-on-q3-2022-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 53
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "LVQoxQvhTJP/Irk0SrtF+lI2YkYM3cqrshJ56+fqMCxxfyflR9EQa5iy0cXNIu+kAQ5DoOHUwyn29qeECklM3G/2aA5zGqlWn/maKWTjx6SpLyRXrTjNJGhMNnpvYsEQ9zXqDcFYYdLJQLXOPoheDrUrBCpUiYfqYtMVDHsbSOYA7J+rDw/cAFGhbA3U8C9/yNatA7iIZeK5yIy0bMHt7RxH/yDE6sAx40xuC7VdGut2UUWsrqAlxoVDlfaHpr2QAPq/iA8WciPoSr4I9oiw/3P0jo6MNkFEArcuzcjsS0FRaF24rYdPs1nL3F24Ul+0GgHdZTNBSsjFOQzdk7PPZlKI0dJVmHo/SirXSCFvl40=;eD28raGc/4e7ZFhgXMVtGg=="

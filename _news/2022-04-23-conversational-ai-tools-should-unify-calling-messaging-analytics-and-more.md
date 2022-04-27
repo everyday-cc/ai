@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-un
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
 type: article
 quality: 85
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -121,15 +121,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
-  - title: "BrainChip and NVISO partner on human behavioural analytics in AI devices"
-    excerpt: "BrainChip and nViso, a specialist in human behavioural analytics, have announced a collaboration targeting battery-powered applications in robotics and mobility/automotive to address the need for high levels of AI performance with ultra-low power technologies."
-    publishedDateTime: 2022-04-22T08:37:00Z
-    webUrl: "https://www.newelectronics.co.uk/umbraco/surface/redirect/article?slug=brainchip-and-nviso-partner-on-human-behavioural-analytics-in-ai-devices"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 16
 
 secured: "VRgIfMY2DJoOojSG1pLevSxfy2Ifs6IWsxOBSIsS6op3seSFxcsBAuNvgXgrwhRUYzLXfVcZbd4DmIBTPOAN9RuuFU/kG1YlSvmNyJemqZ2wiV84AAZv//XLDF8Pi8er9UrHQ7Cs+uvXfnCs9Nt1SlVR4wDUtVL6LDokz7l7jXfD2VlJUqOSssseZ6eOmKGuOgPA+17M5MTr//Kxd3mqziBkPsXSaAN+qUDIreyq6F+mh8eha9FSuSwXQSw95Qz65y4Y+SABAKXCDRpsNtTZvtJ5An+sNoIv+UAc3eGPRfTOOYxwKsfGMYw7aGYjc25AaSpFGh07MtIFuNpZGfXrq5pTjpanEtVdFvfkEuRV6wdBCR2V87HbxisujqACrNfGWaTcu7tBScT+qxBOIBsyzxJ7pSdqV0ZjtK8xZdx/ycUhU5qSEqHvfkGKeOG9eVJZbw6OHeeikHxuoZrDPR4U2sH5SNmyBU1H2fBGsIh9Th12lebzphTyozlms5Ak+rt+XqXikFYSXvHMvmsCDy/yBQ==;+XZo/4zkXRxjMh7ZlTz9gg=="
 ---

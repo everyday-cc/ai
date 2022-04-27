@@ -2,6 +2,135 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-02-23-exponentiaai-raises-additional-funding-from-mr-amit-midha-and-technog-solutions.md",
+      "title": "Exponentia.ai raises additional funding from Mr. Amit Midha and Technog Solutions",
+      "excerpt": "Exponentia.ai has announced that it has raised funding from Investors - Mr. Amit Midha, President - Dell Technologies and Technog Solutions. The funds will be used to strengthen Exponentia's offerings in the AI space and expand to new geographies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550279.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/02/23/9550279.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1752365/ramendra_shukla.jpg",
+          "width": 400,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T22:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-microsofts-new-singularity-ai-system-might-have-100000-gpus.md",
+      "title": "Microsoft’s New ‘Singularity’ AI System Might Have 100,000+ GPUs",
+      "excerpt": "Microsoft's research teams are working on Singularity, a new infrastructre to manage AI and deep learning workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/",
+      "originalUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2022/02/microsoft-ai.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/microsoft-singularity-ai-gpu/amp/",
+      "publishedDateTime": "2022-02-22T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-artificial-intelligence-and-robotics-could-be-growth-are-for-bradford-but-there-are-still-gaps-in-tech-inequality.md",
+      "title": "Artificial intelligence and robotics could be 'growth are' for Bradford - but there are still gaps in tech inequality",
+      "excerpt": "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/",
+      "originalUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.amp/",
+      "cdnAmpWebUrl": "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/",
+      "publishedDateTime": "2022-02-22T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telegraph & Argus",
+        "domain": "thetelegraphandargus.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-irs-doesnt-completely-scrap-facial-recognition-just-makes-it-optional.md",
       "title": "IRS doesn't completely scrap facial recognition, just makes it optional",
       "excerpt": "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,",
@@ -997,144 +1126,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-uk-report-stresses-the-importance-of-data-stewardship-to-ai-in-banking.md",
-      "title": "UK report stresses the importance of data stewardship to AI in banking",
-      "excerpt": "Learn more about becoming a client. The news: The final report from the UK's AI Public-Private Forum (AIPPF) points to the importance of data quality in artificial intelligence (AI) operations for financial institutions. The AIPPF, established in 2020 by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uk-report-stresses-data-qualitys-role-in-banking-ai-2022-2",
-      "originalUrl": "https://www.businessinsider.com/uk-report-stresses-data-qualitys-role-in-banking-ai-2022-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62150761462ff20019c5fc4c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uk-report-stresses-data-qualitys-role-in-banking-ai-2022-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-report-stresses-data-qualitys-role-in-banking-ai-2022-2?amp",
-      "publishedDateTime": "2022-02-22T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-paving-the-way-for-ai-and-machine-learning-success.md",
-      "title": "Paving the way for AI and Machine Learning success",
-      "excerpt": "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
-      "originalUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligentcio.com",
-        "domain": "intelligentcio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.md",
-      "title": "Exclusive-Facial Recognition Company Clearview AI Seeks First Big Deals, Discloses Research Chief",
-      "excerpt": "Clearview has become one of the highest-profile developers of facial recognition over the last two years because it sends authorities matches from an ever-growing database of over 10 billion photos that it finds posted publicly on the internet. Results ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-3409221",
-      "originalUrl": "https://www.ibtimes.com/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-3409221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/22/an-illustration-picture-shows-a-projection-of-text.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -116,15 +116,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "BrainChip and NVISO partner on human behavioural analytics in AI devices"
-    excerpt: "BrainChip and nViso, a specialist in human behavioural analytics, have announced a collaboration targeting battery-powered applications in robotics and mobility/automotive to address the need for high levels of AI performance with ultra-low power technologies."
-    publishedDateTime: 2022-04-22T08:37:00Z
-    webUrl: "https://www.newelectronics.co.uk/umbraco/surface/redirect/article?slug=brainchip-and-nviso-partner-on-human-behavioural-analytics-in-ai-devices"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 16
 
 secured: "ajTvZELnwEWGzqlqFVNqt9K1sSNM63KrudBM/XMfZO2dHuimL/FTjigv3Y/ExEl1fgM6YY/B8RCwZoxytbBw1fep3c2DFl1jaU2O+IeW/gdZgZWXfSeARNzgoQSV1Y01/IcxkXFCNHF//wpIetm4kFpEL0tWdlCQggeA3KIX7PDCUPQV3AfKVOL9nvjxK3OK5Z/imM9aMkbrXAr2IhsoTXDHmJZQJI+5yapkgb3EpPYTYEJtHBgHa6PcpUigjnqqNnmsVA+b7W3idaMk9FiTx1mwsMYSTB5canIURhEaw0tjr/6LG4DjjMM2qaO3YE68WuEupGIkcyfsMyR6Mzhkcq06HjgCy735fB4EOlVIeB02lTyeIEjM0Dp6aSB5pmbAJb+GK3TPilPt5Owk1ZXA8q9PC+MZKgSTgcWYy1TpAP5Rx3LhLIT63IrwJ9yrbTK+5cVwhRqAzApNTAnt9I55uBFzmQ+B/EiWi4fSYJX1ErKhn9paWlgbnbEzjsmbJ0OGx1+2Tucje8RNEEiiRjUfwQ==;X3Ju1dTB0FWjsfXLUZJr2A=="
 ---

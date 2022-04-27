@@ -117,15 +117,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
-  - title: "BrainChip and NVISO partner on human behavioural analytics in AI devices"
-    excerpt: "BrainChip and nViso, a specialist in human behavioural analytics, have announced a collaboration targeting battery-powered applications in robotics and mobility/automotive to address the need for high levels of AI performance with ultra-low power technologies."
-    publishedDateTime: 2022-04-22T08:37:00Z
-    webUrl: "https://www.newelectronics.co.uk/umbraco/surface/redirect/article?slug=brainchip-and-nviso-partner-on-human-behavioural-analytics-in-ai-devices"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 16
 
 secured: "paLkDtR/T/bWnabTdYjOKlqjPdzW/4j2mTnFH4PUwrN4Fqt8tWiulHqKh/v0IOeolCu06yTknWW/tQgoDT5sPoNXKfhHXRedZRgLwBOBQmbkUAu/fMtaQIWpCmfRnUMIs8l1WcIIP2K95AculriGh1YPQsxS2qBboDp17tCLX3IKrZZ0lX6W4aXB59Lc41vDJ4vOHkUBTX72XhQqqSPzPznQmHmpsXP7yJdAgJfwq4WZEJm4lXq2RsSEafQVkXLnMwPA2FzZ5WFzgaUQKhQV0mqUCkjKP7zyWjZ9nZ8SKP2GmxlJsDCqpET6bE39ALOgVUJ2yCNi9fv7f8uS4321kVlY13lRro+yr6mqdrnC2Ac=;VFmILOgQrwt7hiKnXaHcBQ=="
 ---

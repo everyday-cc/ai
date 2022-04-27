@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-23-aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022.md",
+      "title": "AWS CMO Rachel Thornton on the future of customer-obsessed marketing in 2022",
+      "excerpt": "Customer obsession is core to AWS, and being data-driven in everything ... Experimenting with technology, such as machine learning (ML) or artificial intelligence (AI), in marketing can help ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
+      "originalUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1364769258-coffeekai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
+      "publishedDateTime": "2022-04-23T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-video-shows-tesla-self-driving-into-a-35-million-private-jet.md",
+      "title": "Video Shows Tesla Self Driving Into A $3.5 Million Private Jet",
+      "excerpt": "Tesla vehicle using Smart Summon feature has crashed into a $3.5 million private jet. Here is why the incident took place.",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/",
+      "originalUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2022/04/Tesla-Crashed-Into-Jet.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-self-driving-into-private-jet/amp/",
+      "publishedDateTime": "2022-04-23T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-ai-based-system-improves-bladder-cancer-treatment-response-assessment.md",
       "title": "AI-based system improves bladder cancer treatment response assessment",
       "excerpt": "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery).",
@@ -198,7 +294,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -618,7 +714,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1074,103 +1170,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads.md",
-      "title": "SageMaker Serverless Inference illustrates Amazon’s philosophy for ML workloads",
-      "excerpt": "Amazon SageMaker Serverless Inference's goal is to serve use cases with infrequent traffic patterns, lowering TCO and improving ease of use.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/",
-      "originalUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1256860094-e1650552562873.png?fit=800%2C551&strip=all",
-          "width": 800,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/amp/",
-      "publishedDateTime": "2022-04-21T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-braincube-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Braincube Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "With the move to Azure Cloud, the infrastructure is easy to maintain and we can roll out new plants rapidly. Braincube is driving innovation in the data analytics and AI space and we are delighted ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104069967/Braincube-Now-Available-in-the-Microsoft-Azure-Marketplace",
-      "originalUrl": "https://menafn.com/1104069967/Braincube-Now-Available-in-the-Microsoft-Azure-Marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?922726",
-          "width": 427,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

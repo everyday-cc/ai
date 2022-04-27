@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/04/22/1050394/artificial-intel
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://knowledge.insead.edu/sites/www.insead.edu/files/styles/484x252/public/images/2022/04/gettyimages-1218524115.jpg?itok=6TYMuGRa"
         width: 484
         height: 252
+        isCached: true
+  - title: "Hummingbirds AI gets to the finals at Vision Tank 2022 Competition"
+    excerpt: "The award-winning innovation hub will fight for first place at Vision Tank Start-up Competition with their video-based biometrics technology, GuacamoleID."
+    publishedDateTime: 2022-04-26T21:57:00Z
+    webUrl: "https://www.wicz.com/story/46374447/hummingbirds-ai-gets-to-the-finals-at-vision-tank-2022-competition"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 39
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "A New Vision of Artificial Intelligence for the People"
     excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s"

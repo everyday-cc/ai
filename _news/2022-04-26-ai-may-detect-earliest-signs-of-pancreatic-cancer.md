@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI tool could capture subtle, early signs of pancreatic cancer in CT scans"
+    excerpt: "An artificial intelligence (AI) tool developed by Cedars-Sinai investigators accurately predicted who would develop pancreatic cancer based on what their CT scan images looked like years prior to being diagnosed with the disease."
+    publishedDateTime: 2022-04-27T01:47:00Z
+    webUrl: "https://www.news-medical.net/news/20220426/AI-tool-could-capture-subtle-early-signs-of-pancreatic-cancer-in-CT-scans.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220426/AI-tool-could-capture-subtle-early-signs-of-pancreatic-cancer-in-CT-scans.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220426/AI-tool-could-capture-subtle-early-signs-of-pancreatic-cancer-in-CT-scans.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 55
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/3/Pancreatic_Cancer_89a89cdc7f804d5b8329b646f86bbec6-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Fujitsu and Southern Tohoku General Hospital start joint research on AI technology for detecting pancreatic cancer from non-contrast CT scans"
     excerpt: "Contributing to the early detection of pancreatic cancer and a higher quality of life for affected patientsTOKYO, Apr 25, 2022 - (JCN Newswire) - Fujitsu and the Southern Tohoku General Hospital today"
     publishedDateTime: 2022-04-25T07:28:00Z

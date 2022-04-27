@@ -38,6 +38,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
+  - title: "Microsoft's (MSFT) CEO Satya Nadella on Q3 2022 Results - Earnings Call Transcript"
+    excerpt: "Q3 2022 Earnings Conference Call April 26, 2022 5:30 PM ET Company Participants Brett Iversen – General Manager-Investor Relations Satya Nadella"
+    publishedDateTime: 2022-04-27T01:20:00Z
+    webUrl: "https://seekingalpha.com/article/4503841-microsofts-msft-ceo-satya-nadella-on-q3-2022-results-earnings-call-transcript"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4503841-microsofts-msft-ceo-satya-nadella-on-q3-2022-results-earnings-call-transcript"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4503841-microsofts-msft-ceo-satya-nadella-on-q3-2022-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 53
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "U3Kh2j+c65fG4nggahylvELyT3r12dffNNkM4aTrV6FVIYMJ3g4E3yxU+eW3GwC/lSCml6ZFcTGLCTurcCAA/z/G9+hEno4h0kgo+z+NJ8XgnGmo1XC3LgsqiMlGXQFLCMPFUMvRwM7ZZEQkh1Zap146r6Jpq3gOpjXeoqhaHraftIECHZjF6ajwJvcYgqmMM/yvsQ8g7uA+5kf5G4No+b8uxMFxd3gKnX5DQN/M08I7qV0zYukdtYA+5k6vASrt/2wnob3kIA9HWJN8FfZ7IM9smv6pnP9dzLBxExFHdLBilJLkvir3z6pYbFravGW6FI2e0y2fp3J1BN0E0FsGwquTB09VD1hzdsSGJC2pEiY=;M5YMMrIonU7JJ64NeGQAPw=="
 ---

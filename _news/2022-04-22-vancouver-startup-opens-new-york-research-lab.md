@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/portland/news/2022/04/22/absci-opens.h
 webUrl: "https://www.bizjournals.com/portland/news/2022/04/22/absci-opens.html"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Biotech company Absci opens AI research lab in Midtown"
+    excerpt: "Its lab in TF Cornerstone's Carnegie Hall Tower is only the first step in Absci's New York expansion, said founder and CEO Sean McClain"
+    publishedDateTime: 2022-04-25T17:07:00Z
+    webUrl: "https://www.crainsnewyork.com/health-care/biotech-company-absci-opens-ai-research-lab-midtown"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/width_792/s3/Absci_Vancouver%20HQ.jpg"
+        width: 792
+        height: 528
+        isCached: true
 
 secured: "+VABnTyGjllHUOBokOYq+nMDa38+dHXh+UcpufqXI8X/kDynPd21sPYgXLTj6ACs04G6KrAFTfTp9OnDyoVCacyB2rQl1DBAA7DEvqgxdqVVGN6tUJiHd/KTUYyhftUGVOf6u3urf2a9IRhcNc8tEvz5HRkbWvwPATdXFOEmNa3gdfGTWTI6k3aa00MSorvs9kxnzdIidMSI4/8oZ/wv/tjs/XkITrQvHB8MOR62nmwoEHU95vH0exVFVd/Y7FWF258kgSKgGDnsdcRd9bYeV3CTQ4tuoEG9h1YUNHdBvcxpdEMAuXBb86ACVG5cIPxyupH7t6+QUJgcd0OC2xlauAJzhe34m+E0emP65FIbPsc=;6WxraJg9jrhMQV0CbaGryA=="
 ---

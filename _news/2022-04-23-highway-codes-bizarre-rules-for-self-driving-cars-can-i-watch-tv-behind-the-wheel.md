@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-hi
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
-    excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph. The updated Highway Code rules ..."
-    publishedDateTime: 2022-04-22T08:34:00Z
-    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924?int_source=nba"
-    ampWebUrl: "https://www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
-    cdnAmpWebUrl: "https://www-coventrytelegraph-net.cdn.ampproject.org/c/s/www.coventrytelegraph.net/news/uk-world-news/new-highway-code-rules-self-23733924.amp"
-    type: article
-    provider:
-      name: Coventry Telegraph
-      domain: coventrytelegraph.net
-    quality: 38
-    images:
-      - url: "https://i2-prod.birminghammail.co.uk/incoming/article23728182.ece/ALTERNATES/s615/0_Driverless-cars.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "Tech: Watch TV in self-driving cars, unions coming for Apple"
     excerpt: "Sit back, relax, and watch TV while your car drives you  New rules for fully self driving cars in the UK will let the driver watch something other than the"
     publishedDateTime: 2022-04-22T23:15:00Z

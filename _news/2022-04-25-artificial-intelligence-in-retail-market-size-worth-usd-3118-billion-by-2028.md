@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028-2022-04-25"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://menafn.com/updates/pr/2022-04/25/EP_409a5image_story.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Blockchain AI Market size is projected to reach USD 1,125.9 Million by 2027 at a CAGR of 25.6% | Report by Emergen Research"
+    excerpt: "Blockchain AI market is estimated to reach value of USD 1,125.9 Million by 2027, according to a current analysis by Emergen Research. Blockchain and AI"
+    publishedDateTime: 2022-04-26T13:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-size-is-projected-to-reach-usd-1125-9-million-by-2027-at-a-cagr-of-25-6-report-by-emergen-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 11
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports"
     excerpt: "The region's businesses are the most forward-thinking in terms of AI, machine learning, natural language processing, and computer vision, boosting the document analysis market's growth. The presence of major players in North America is also a significant ..."

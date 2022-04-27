@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-26T22:19:00Z
 originalUrl: "https://www.biometricupdate.com/202204/ai-improving-at-sentiment-recognition-already-good-at-rash-judgement-studies-show"
 webUrl: "https://www.biometricupdate.com/202204/ai-improving-at-sentiment-recognition-already-good-at-rash-judgement-studies-show"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1280
     isCached: true
 
-secured: "ap6PXcWkFemxkGQU7OQmcjcPUGlvW1xTFDweDPJ9HzRys6fux+fK5kpacvizL4/HTrWMmdqeM1/mVpz3GEcBOV0U07B7wKSavIB7+eHtzlHQXp6Ciys0gUIBD4xPrnD69j+wk5yVoRmomHkKbPNRdirVkyyQ/w00V7wqQ1+K88s1KQ1E6yoxJbOzxrX8s57L1e9T7bOd/uhbIRfXNStyx3tOs6ZMyaGe8ypPqOUx4cL4ZfDY9P9D9eGLo+gX+DuO2GGygxb0YP7hkI6vIj8lR8uvuQ54vON42T94MNybSBpXZ7LOvC+7QOL8EX1hpT/8yyUr/uoRIdVmJ1BR3mjwa1G7pgqRELzWOd7g0iSGqDQ=;tH5cjEmXFbQCmcpBmIvFxg=="
+secured: "Ms5TV8ZVf+QFlwQbtSsUWCJ9IFRbpN0QT3REC0Iai8fJ4KNs1zTO/d9rJaBPoHFV976Tzzd0RMb4wjo3yta3VytvxemlmcA1H6xeR+1ZZjCjWAaHoavoyoNS6vLI2RUtBTH+dbKoOPMN66W5yOGJrFwB0a3bJf85NmUsDCRF10Wf61q7EQtJCn2/q2O/eaP2321o2YW5eBnhTw/ihxZxqNXWt12RIoUZqGT6Kz2rfh/BbNKFqesXHap2CJmk73rQfJdxAd01l+amthKTaTNTTPwFkCAtE0egW1z/0JBOJwquEfEeIpofLrrhHPBCXBmy8k6A36FYnyfFtSh9Q0nL2P2hqbgJVoWtFV5XhJBr3PeyvMJ2Ey98o5n2lgGGHnUNfg23IslNDjU+Tz/s3FWOQq+hpbcZ96/mmlVFmAVMpH84Rt8aOWzdeFRXtyticr9Vz07KqWstwPwiC1VCDJR4M1eczmWCJHcxM3UGb1wEozNF3X+k4gY58Vgv3kSglwLf7c0DwsiFW/wvr71YSxTN7Q==;o2xPG3YCS+jJWHAENVG1Hg=="
 ---
 
