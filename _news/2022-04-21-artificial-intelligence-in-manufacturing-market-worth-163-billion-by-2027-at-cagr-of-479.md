@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg"

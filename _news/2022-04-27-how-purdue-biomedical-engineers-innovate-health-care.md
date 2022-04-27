@@ -39,15 +39,6 @@ related:
         width: 800
         height: 520
         isCached: true
-  - title: "How will computational biomedicine transform healthcare?"
-    excerpt: "Sinai’s newest department, Computational Biomedicine, discusses the history of this relatively new field, how to mine big data and the future of artificial intelligence in healthcare."
-    publishedDateTime: 2022-04-22T17:17:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/950579"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "rZ4eZAojnvGsw40+677yQlqlzs/Ue7bCcroNcCJghsUVTEeaZqdinIcwSs5Bzy8q2u06vhSVYBNMqBObFsNosOTwEjlyetr3YN0neXWtpCdVT/gGz2P0K+39u3i23MlijssRUtuMTFReifklPnt+G2OozSrSBbJKAekP1CN1NpJwDOJARrHKE72iUlghIJEh13Zk1jU1QcFuhM4meMn89rTO2C5/j2vwopWLXJTsh7k5zSlTIyIDUf/kdQUFZTDyYb07gz0CPEO6qZHHoloBDsdC/mfwbpL264lWSs9Ou/qVFbtOr9CIAGuAVrO5BUR7beMZZzkHRNHrcqPWxbiIguVOCCORrJsABdQQQfQ4ovg=;LWoTu2rfUKFtrfcj7FAXgA=="
 ---

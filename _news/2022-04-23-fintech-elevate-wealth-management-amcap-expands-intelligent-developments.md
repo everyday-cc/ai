@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 1709
         isCached: true
-  - title: "VC investment into European fintech set to enjoy stellar 2022"
-    excerpt: "The data from PitchBook shows that VC investment in the UK and Ireland continues to enjoy a purple patch, outpacing other European countries this year and that VC investment into European fintechs has enjoyed a strong start to 2022."
-    publishedDateTime: 2022-04-25T04:52:00Z
-    webUrl: "https://www.altfi.com/article/9144_vc-investment-into-fintech-set-to-enjoy-stellar-2022"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/vc-investment-into-fintech-set-to-enjoy-stellar-2022.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Vancouver-based FinTech Company Responsive Announces Close of $3.5 Million Series-A Financing led by Canadian Financial Giant Co-operators"
     excerpt: "Responsive, a fintech company that leverages machine learning to help financial advisors to better serve and engage investors, announced that it has closed a $3.5M (CAD) Series A round led by Co-operators."
     publishedDateTime: 2022-04-22T20:40:00Z

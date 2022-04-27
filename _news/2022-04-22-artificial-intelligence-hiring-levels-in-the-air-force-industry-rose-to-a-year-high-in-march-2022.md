@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/04/4AX9c.png"
+    width: 1600
+    height: 1200
+    isCached: true
 
 related:
   - title: "Artificial intelligence hiring levels in the retail industry rose in March 2022"

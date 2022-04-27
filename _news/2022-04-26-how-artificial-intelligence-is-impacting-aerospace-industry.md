@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-26T00:00:00Z
 originalUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-impacting-aerospace-industry-nid-9748.html"
 webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-is-impacting-aerospace-industry-nid-9748.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cioapplications.com/newstransfer/upload/fdoa450308cioapp.jpg"

@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-17-team-uses-ai-and-robotics-to-treat-spinal-cord-injuries.md",
+      "title": "Team Uses AI and Robotics to Treat Spinal Cord Injuries",
+      "excerpt": "A team of researchers at Rutgers University has employed artificial intelligence (AI) and robotics to formulate therapeutic proteins. The team was able to successfully stabilize an enzyme that can degrade scar tissues resulting from spinal cord injuries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/",
+      "originalUrl": "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/human-skeleton-163715_1280.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-whos-driving-that-food-delivery-bot-it-might-be-a-gen-z-gamer.md",
+      "title": "Who’s driving that food delivery bot? It might be a Gen Z gamer",
+      "excerpt": "In a low-light Culver City, California control ... safety in mind and have operated without serious harm to people or property.) “Say it finds a piece of construction equipment that wasn’t there before. It’s not on the maps. The robot doesn’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bendbulletin.com/business/who-s-driving-that-food-delivery-bot-it-might-be-a-gen-z-gamer/article_10bc53a7-09c1-5795-bae7-b8c34febb7dd.html",
+      "originalUrl": "https://www.bendbulletin.com/business/who-s-driving-that-food-delivery-bot-it-might-be-a-gen-z-gamer/article_10bc53a7-09c1-5795-bae7-b8c34febb7dd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/b/45/b4522928-b0a9-11ec-a4ec-27ffbc3a4326/62452bba4771b.image.jpg?crop=1762%2C928%2C0%2C123&resize=1200%2C632&order=crop%2Cresize",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bulletin",
+        "domain": "bendbulletin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-16-local-robotics-team-finishes-competition-season-with-stellar-showing.md",
       "title": "Local robotics team finishes competition season with stellar showing",
       "excerpt": "The Titanium Titans robotics team, which offers STEM competition and community to Washington County youth, recently finished its tenth season with a stellar showing at two regional competitions.",
@@ -1267,93 +1354,6 @@
       "provider": {
         "name": "graffiti",
         "domain": "culturacolectiva.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-lanner-movai-partner-to-expedite-mobile-robot-development.md",
-      "title": "Lanner, MOV.AI partner to expedite mobile robot development",
-      "excerpt": "Collaborative solution to provide both the machine vision computing and software platform developers need to build and deploy mobile robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/lanner-mov-ai-partner-expedite-mobile-robot-development/",
-      "originalUrl": "https://www.therobotreport.com/lanner-mov-ai-partner-expedite-mobile-robot-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/mov-ai-lanner-electronics.jpg",
-          "width": 1000,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-teaching-robots-to-make-pizza-could-advance-ai-and-out-pizza-the-hut.md",
-      "title": "Teaching Robots To Make Pizza Could Advance AI And Out Pizza The Hut",
-      "excerpt": "Researchers at MIT are developing a new AI method that will allow robots to think more like a human as it makes pizza",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "originalUrl": "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58174/content/pizza-making.jpg",
-          "width": 708,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "publishedDateTime": "2022-04-05T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null

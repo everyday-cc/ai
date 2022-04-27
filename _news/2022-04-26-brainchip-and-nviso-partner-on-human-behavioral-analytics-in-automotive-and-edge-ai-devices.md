@@ -131,6 +131,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
+  - title: "i-PRO EMEA raises the industry standard by adding high resolution combined with Edge AI Analytics to its mid-range camera line-up"
+    excerpt: "PRO EMEA sets a new benchmark in the AI-fication of the security industry with the addition of 34 new high-resolution camera models to its Standard line-up. The new 4K, 6MP, and 5MP"
+    publishedDateTime: 2022-04-27T11:32:00Z
+    webUrl: "https://www.sourcesecurity.com/news/i-pro-emea-raises-industry-standard-adding-co-1584600779-ga-npr.1651034581.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 0
 
 secured: "gbZJeYCS/p3ifavNtNb5Hd226zSs7KZgYjYbl8bV9Xwg4NZlYrEvJPmZtWgR0kJBXFBKHk3yOfEcjAVuI+Zy/qY+95H+iLbSebFQQtYZwXgMtj6Br/6WPewmAEjQStLGUs9c3DfUt8cweNTfxj1aWTO9zRSlBeQr8tkeW436dMHV5u8GQUv3R7uGwqaO7KaY7tKTfHmFLnHBzfOfADk0X+vi5knZ6VJe9/g3G+zKA6PogMZcAv1SzFWLmfxt4afwSGwOX5eZkjKsiZMCVdWlJ6X8U3PhSsAH67M4bl3SLD0+So4OJgEHookRRr8ul8rInVhGoCcowsM4hXhEXjIXbzDw8ThnJeT7kg9oBSCcrYQ=;40Lu0Bw9bE1NeZyCybkOxg=="
 ---

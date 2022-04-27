@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program"
+    excerpt: "Start-up, Beagle Technology, addresses agricultural labor shortage and cost issues with new automated pruning technology for the wine industryTOKYO and PALO ALTO, Calif."
+    publishedDateTime: 2022-04-27T09:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/a26832006/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator-program"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26832006"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26832006"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "International AI Accelerator INTEMA Announces Its First Demo Day"
     excerpt: "Join INTEMA on its first Demo Day and meet innovative deep tech startups based on AI algorithms that are already shaping our future. NEW YORK,"
     publishedDateTime: 2022-04-25T12:15:00Z
@@ -44,24 +60,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, launched the Vian H+AITM Platform for reliable, optimized enterprise-wide deployment, management, and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-26T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/04/26/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 14
-  - title: "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program"
-    excerpt: "NEC Corporation, a leader in IT and network technologies, and NEC X, the innovation accelerator for NEC&CloseCurlyQuote;s emerging technologies, announced today that Beagle Technology is the fifth startup to graduate from the NEC X Corporate Accelerator Program (CAP)."
-    publishedDateTime: 2022-04-26T19:19:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/26/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 12
 
 secured: "xxyEneUxq3ZS16b8A0Y2SkfJJS4P2v6LCfBoC/9+aB8nmHRccZ09eSGwBg4vKwAYi7HpdNZPu4WvS+7K+lg250ytEk3w28NbBa3tfzqe0UabUn0qAfRum1HPaCFMAIJ3/YA9UP79+855DrB1YJG7nr62sAu/OX5WLV9GC1rQtpMiFIOaNz4eQBq9G3dZhR3CIZMH8+vd6xHLupPPltylDR5ITPb/e2T1b3R1/1cV05xHvMlS9adpeOuQ5bIJHIYKXqJ3Dgjq7ASGPkN6R7fA/nQncF15F5z0GFv35k51i+OnPIF8y9L7DSU9+QU8RLEZVn9AVrfOGeJMNQHKvyWMtto0bcf92l8Qk58hjMYY1OI=;lHrka7I+9c0som4SKQ+r8A=="
 ---

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-06-meet-the-innovation-group-award-finalists-in-the-2022-itnews-benchmark-awards.md",
+      "title": "Meet the Innovation Group Award finalists in the 2022 iTnews Benchmark Awards",
+      "excerpt": "Its projects include the Execution Health Score, a machine learning model for analysing project management data to predict the likelihood of gold or platinum milestone slippages in the bank’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/video/meet-the-innovation-group-award-finalists-in-the-2022-itnews-benchmark-awards-578390",
+      "originalUrl": "https://www.itnews.com.au/video/meet-the-innovation-group-award-finalists-in-the-2022-itnews-benchmark-awards-578390",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-as-data-drives-reinvention-aws-leverages-machine-learning-and-serverless-to-meet-enterprise-needs.md",
       "title": "As data drives reinvention, AWS leverages machine learning and serverless to meet enterprise needs",
       "excerpt": "Cloud provider Amazon Web Services Inc. is in prime position ... This fits neatly with AWS’ focus on machine learning within many elements of its cloud-based portfolio. “The idea of data ...",
@@ -1290,49 +1324,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-how-ai-is-changing-the-world-of-finance.md",
-      "title": "How AI is changing the world of finance",
-      "excerpt": "The financial sector is well-known for seeking every possible edge to maximize its profits — thus, using machine learning and artificial ... financial services has slowly transformed into ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/",
-      "originalUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/amp/",
-      "publishedDateTime": "2022-03-22T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

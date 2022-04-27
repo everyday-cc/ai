@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://hackaday.com/wp-content/uploads/2022/04/Push-up-lock-screen.png"

@@ -38,7 +38,7 @@ related:
     provider:
       name: CIO Applications
       domain: cioapplications.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.cioapplications.com/newstransfer/upload/fdoa450308cioapp.jpg"
         width: 450

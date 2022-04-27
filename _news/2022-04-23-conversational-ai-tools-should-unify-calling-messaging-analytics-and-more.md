@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-un
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
 type: article
 quality: 85
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
+  - title: "i-PRO EMEA raises the industry standard by adding high resolution combined with Edge AI Analytics to its mid-range camera line-up"
+    excerpt: "PRO EMEA sets a new benchmark in the AI-fication of the security industry with the addition of 34 new high-resolution camera models to its Standard line-up. The new 4K, 6MP, and 5MP"
+    publishedDateTime: 2022-04-27T11:32:00Z
+    webUrl: "https://www.sourcesecurity.com/news/i-pro-emea-raises-industry-standard-adding-co-1584600779-ga-npr.1651034581.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 0
 
 secured: "VRgIfMY2DJoOojSG1pLevSxfy2Ifs6IWsxOBSIsS6op3seSFxcsBAuNvgXgrwhRUYzLXfVcZbd4DmIBTPOAN9RuuFU/kG1YlSvmNyJemqZ2wiV84AAZv//XLDF8Pi8er9UrHQ7Cs+uvXfnCs9Nt1SlVR4wDUtVL6LDokz7l7jXfD2VlJUqOSssseZ6eOmKGuOgPA+17M5MTr//Kxd3mqziBkPsXSaAN+qUDIreyq6F+mh8eha9FSuSwXQSw95Qz65y4Y+SABAKXCDRpsNtTZvtJ5An+sNoIv+UAc3eGPRfTOOYxwKsfGMYw7aGYjc25AaSpFGh07MtIFuNpZGfXrq5pTjpanEtVdFvfkEuRV6wdBCR2V87HbxisujqACrNfGWaTcu7tBScT+qxBOIBsyzxJ7pSdqV0ZjtK8xZdx/ycUhU5qSEqHvfkGKeOG9eVJZbw6OHeeikHxuoZrDPR4U2sH5SNmyBU1H2fBGsIh9Th12lebzphTyozlms5Ak+rt+XqXikFYSXvHMvmsCDy/yBQ==;+XZo/4zkXRxjMh7ZlTz9gg=="
 ---

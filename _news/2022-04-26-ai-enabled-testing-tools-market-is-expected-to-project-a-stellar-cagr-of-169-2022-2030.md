@@ -24,99 +24,57 @@ images:
     isCached: true
 
 related:
-  - title: "Aerospace Robotics Market Exhibiting at a CAGR of 11.82% During 2022-2027 | IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled “Aerospace Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
-    publishedDateTime: 2022-04-25T09:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/aerospace-robotics-market-exhibiting-at-a-cagr-of-11-82-during-2022-2027-imarc-group"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2W8nsKMLMpNTdkH8o3kdp7y6mtKk0SmbuIBxG793u6OiCLfakh9GAc4kUjxYkIcufHUc-_zNlmXs7cW0IJ1hgh3ThCIXhSM-K9FYrqdixnQ6EuJOD_piY8iu0bHmgRVac2GMaetojKuMYeKNKED5SXKBtcysflKM5Fk2k-gzoMEIPLBGT8etDFo4/s320/Aerospace%20Robotics%20Market.jpg"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Machine Vision Market to Reach a Value of US$ 18.4 Billion by 2027 | CAGR of 9.7%"
-    excerpt: "According to the latest report by IMARC Group, titled “Machine Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-04-26T10:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-vision-market-to-reach-a-value-of-us-18-4-billion-by-2027-cagr-of-9-7"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnCOqMRJPpJOGtY_4PW-TQ57iS8tvf6_1jzuOBLyEVgmN7eussFrLXIbEdVw3bFP6oB0UZ3qeWiN8mPdnD4DmrW15Gfpcbqt97uplfbQwpl90lcuL-d6o4tSvCsEWQ-9UaP-QCpylIiPFt8QfnXlQnC2x5EqWvNIfpIIx0381KKt-cjWlj4PqMya4/w462-h307/Machine%20Vision%20Market%202022.jpeg"
-        width: 461
-        height: 307
-        isCached: true
-  - title: "Natural Language Processing (NLP) Market Size to Reach US$ 61.03 Billion by 2027 and CAGR of 26.60% | IMARC Group"
-    excerpt: "Looking forward, IMARC Group expects the market to reach a value of US$ 61.03 Billion by 2027 exhibiting a CAGR of 26.60% during 2022-2027. Natural language processing (NLP) represents a branch of artificial intelligence (AI) that allows computers to understand,"
-    publishedDateTime: 2022-04-23T13:07:00Z
-    webUrl: "https://menafn.com/1104080660/Natural-Language-Processing-NLP-Market-Size-to-Reach-US-6103-Billion-by-2027-and-CAGR-of-2660-IMARC-Group?source=318"
+  - title: "AI Chip Market : Prospects, Trends Analysis, Market Size & Forecast 2030"
+    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
+    publishedDateTime: 2022-04-27T11:02:00Z
+    webUrl: "https://menafn.com/1104104053/AI-Chip-Market-Prospects-Trends-Analysis-Market-Size-Forecast-2030"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 13
-  - title: "Healthcare Appointment Scheduling Software Market is Poised to Expand at a CAGR Value of 10.5% During Forecast Period 2021-2031"
-    excerpt: "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams"
-    publishedDateTime: 2022-04-26T05:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-appointment-scheduling-software-market-is-poised-to-expand-at-a-cagr-value-of-10-5-during-forecast-period-2021-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
+    quality: 53
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/29c1054a6cf588e36169f95b90f75465d7960b5f-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?320558"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Machine Condition Monitoring Market to Advance at CAGR of 6.3% During 2021-2031; Notes TMR Study"
-    excerpt: "Rise in demand for machine learning (ML) tools and Big Data analytics for machine condition monitoring propelling revenue generations; solutions integrated with IIoT opening new revenue streamsConditi"
-    publishedDateTime: 2022-04-25T17:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-condition-monitoring-market-to-advance-at-cagr-of-6-3-during-2021-2031-notes/article_256e5b80-b2a9-5ba5-aa3d-8930ba331170.html"
+  - title: "Wearable AI Market : Outlook By Size, Share, Future Growth And Forecast From 2031"
+    excerpt: "Research Nester published a report titled “Wearable AI Market: Global Demand Analysis & Opportunity Outlook 2031”  which delivers"
+    publishedDateTime: 2022-04-23T11:01:00Z
+    webUrl: "https://menafn.com/1104079170/Wearable-AI-Market-Outlook-By-Size-Share-Future-Growth-And-Forecast-From-2031"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/43/1437abc5-a42d-5050-bde8-b4f1cffda1e2/618a5c44a8e86.image.jpg?crop=768%2C403%2C0%2C182&resize=768%2C403&order=crop%2Cresize"
-        width: 768
-        height: 403
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
+        width: 268
+        height: 250
         isCached: true
-  - title: "Cloud BackupMarket Size 2022 Trend and Opportunities, Market Share,Analysis, CAGR and Value Chain Study, Business Growth to 2025"
-    excerpt: "Cloud Backup Market“ study has 185 pages, 90 tables and figures.Worldwide markets are poised to achieve continuing growth as Cloud"
-    publishedDateTime: 2022-04-25T07:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cloud-backupmarket-size-2022-trend-and-opportunities-market-shareanalysis-cagr-and-value-chain-study-business-growth-to-2025"
+  - title: "Edge AI hardware Market Analysis Report , Types, Growth, Industry Analysis, Opportunity and Forecast 2020-2027"
+    excerpt: "The global edge AI hardware market registered a transaction of 532.4 million units in 2018 and is expected to reach 1,681.8 million units by the end of forecast period with a CAGR of 21.72%. Growth in Artificial Intelligence (AI) has created huge opportunities for semiconductor companies."
+    publishedDateTime: 2022-04-27T05:28:00Z
+    webUrl: "https://galleonnews.com/electric-vehicles/251485/edge-ai-hardware-market-analysis-report-types-growth-industry-analysis-opportunity-and-forecast-2020-2027/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 17
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/be6b8aa06bcc409b6f0bbe2f497c25f1fb377222-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://galleonnews.com/wp-content/uploads/2021/12/logo_orbis-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
-  - title: "Transparency Market Research: Machine Condition Monitoring Market to Advance at CAGR of 6.3% During 2021-2031; Notes TMR Study"
-    excerpt: "Rise in demand for machine learning (ML) tools and Big Data analytics for machine condition monitoring propelling revenue generations; solutions integrated with IIoT opening new revenue streams Condit"
-    publishedDateTime: 2022-04-25T17:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55861872-transparency-market-research-machine-condition-monitoring-market-to-advance-at-cagr-of-6-3-during-2021-2031-notes-tmr-study-008.htm"
+  - title: "Artificial Intelligence Systems Spending Market Outlook, Current and Future Industry Landscape Analysis by 2027"
+    excerpt: "The global artificial intelligence systems spending market is anticipated to soar with a staggering 46.1% CAGR throughout the projection period between 2017 and 2027. The coronavirus pandemic is benefit from the coronavirus outbreak as businesses are remodeling operations to allow employees to work from home."
+    publishedDateTime: 2022-04-26T06:55:00Z
+    webUrl: "https://www.fmiblog.com/2022/04/26/artificial-intelligence-systems-spending-market-outlook-current-and-future-industry-landscape-analysis-by-2027/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: Future Market Insights
+      domain: fmiblog.com
     quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "aV8cZI+1oFQv3w39kgSrmuTx9r5LZzHeQcjwrgPO2+mT3vGqXvyPbln4Apxw36/kAALlfhm7cXJ0WZV9+wpH2VKBKypB39ek1Id7R2aaW5DKFPmLtcSLULq9DPnZ0C0kfKLuqJz7tdGCPkw0BcTCz4FTRUu0U4KJbSVk6zUjuk9TWhD3eFP/AT/VTocy1lCN0leHgktXddDLSOWzu9C9D63H/euZn9Uui0Bpe/plh/Wuya1QY1A0sEOpA/+c4MYMzFYMYjhLtndkV/cD+gnVgP89QNGXgNRU29QV1ho4fFSubt5JdS2Ake7b3Nvf4RTZ2KJEQ+u6EMK7ylwXlfCjtx+pZaXQHwXjPF3Yxu44Ioc=;40XDN2wVXDqyxgk+0Vuvog=="
 ---

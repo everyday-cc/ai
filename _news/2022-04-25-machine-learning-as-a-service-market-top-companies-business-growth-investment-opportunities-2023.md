@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-ma
 webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-market-top-companies-business-growth-investment-opportunities-2023"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -26,21 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Philippines Data Center Market Investment Report 2022-2027: Cloud Adoption Driving Demand, Increased Investments, Increased Adoption of AI"
-    excerpt: "The \"Philippines Data Center Market - Investment Analysis & Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The"
-    publishedDateTime: 2022-04-22T17:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26767382/philippines-data-center-market-investment-report-2022-2027-cloud-adoption-driving-demand-increased"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26767382"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26767382"
+  - title: "Machine Learning Market size Witness a Healthy Growth during 2022 to 2028 with Fastest Growing Regions and Countries Data"
+    excerpt: "Machine Learning Market - Insights: Based In the end-use industry, “Machine Learning Market\" 2022 is segmented into"
+    publishedDateTime: 2022-04-27T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-witness-a-healthy-growth-during-2022-to-2028-with-fastest-growing-regions-and-countries-data-2022-04-27"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Medicine Market Set for Rapid Growth during 2021 – 2031"
+    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
+    publishedDateTime: 2022-04-27T07:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-set-for-rapid-growth-during-2021-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "aoZAl7ISxhByhrO//DrZQ4fCRi0RmcuZwm2nTLhUXIIPmOoJw9V0JCgd07RwXCu5pVuG3zHmbfyJR+YnbiIFevGBZJDJKLQhKy+2LKcDGSNGGY0Ty3p6P242t/cZENE9Aw39MsqZSuVvde+TfUgYxuw4WEaZ29q3BGJn5Fe9AqrilHG/GGyBynhC55v01xy0eHU3YIV/2Rtd9JA0JMZk95wMo7VZhp5g4qKyV+wsw+0UZ5d9SSttHLNUuC4zEQmNV/b+vkQ3sDNfLd6/O831cduvPdUiPypuFjcVwUhrKrGgOf/GFcl0r+8jeS2btge8laoL5p8iRehXHQoUVyTtfWwGZSffi4fRQj6Vl4E+LtE=;FVJsCf/zP8DQ39aok0Vobw=="

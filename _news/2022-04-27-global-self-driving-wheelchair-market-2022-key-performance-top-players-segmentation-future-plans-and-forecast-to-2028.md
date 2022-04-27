@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-whee
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2022-key-performance-top-players-segmentation-future-plans-and-forecast-to-2028-2022-04-26"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Size, Share, Global Industry Outlook by Types, Applications, and End-User Analysis Industry Growth Forecast to 2022-2027"
+    excerpt: "The\"Facial Recognition Market\"(2022-2027) research provides an outline of the business with key insights, applications"
+    publishedDateTime: 2022-04-27T05:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-global-industry-outlook-by-types-applications-and-end-user-analysis-industry-growth-forecast-to-2022-2027-2022-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

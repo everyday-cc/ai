@@ -1,22 +1,30 @@
 ---
 category: news
 title: "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program"
-excerpt: "NEC Corporation, a leader in IT and network technologies, and NEC X, the innovation accelerator for NEC&CloseCurlyQuote;s emerging technologies, announced today that Beagle Technology is the fifth startup to graduate from the NEC X Corporate Accelerator Program (CAP)."
-publishedDateTime: 2022-04-26T19:19:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/04/26/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator"
-webUrl: "https://stockhouse.com/news/press-releases/2022/04/26/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator"
+excerpt: "Start-up, Beagle Technology, addresses agricultural labor shortage and cost issues with new automated pruning technology for the wine industryTOKYO and PALO ALTO, Calif."
+publishedDateTime: 2022-04-27T09:06:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/a26832006/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator-program"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/a26832006/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator-program"
+ampWebUrl: "https://www.benzinga.com/amp/content/26832006"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26832006"
 type: article
-quality: 12
-heat: -1
-published: false
+quality: 52
+heat: 82
+published: true
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "International AI Accelerator INTEMA Announces Its First Demo Day"
@@ -53,16 +61,7 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, launched the Vian H+AITM Platform for reliable, optimized enterprise-wide deployment, management, and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-26T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/04/26/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 14
 
-secured: "Nhr2mnhJ3G/64Kh8BiGEZEQTq8NtRcTaWljRE8sFLKa1hfzJyKwWi+Gln0OOL4OIs+oLWytgKuLlFCywxPfqASjG3WyYxmrN8tmRuFrOL/VAl2CPXfJwP89/G4ddWkdIhdCVI2nZxS9Gt6WXSwZ4sq45EE1SyNuYGTbGguSj0xdfbzzMdyILZd/oNzu64rKf4bw7d2d0Nq5vCgEURZUbW+csQ/b6ExufplcPkLTIQXghGPNb8vJddmenAdSDmNrl5DBLV1V01lAbhPf5tJA3V6MTjzWhnYP8hePkiuBvxNOkRqIDsC/LdP7YZDCyGiEvs4wFjoiMyif77/VNptXGq6vvSR8pZEb/ntdXxqj/tFk=;mgO3VpQM9kjgmDA4gI+rlA=="
+secured: "TlEsDL4Oy40Xy5vDitf6HutmUtC60ok08XC1GAgH6g9ivu7UWeyexXSD+PgTcF5Zojp8Grsgb2Tn0NrTZ6kfJIRYN5kg9Yndaz9aGg9IwqWBVFBdBILEWRCkgDH3kiV5Y2vLS8ixvkn7omG3WYSU4Be7LiU/pPOVljh40tIEtMZ4jrtZ9zgocZtJoM5IAmgsbgRjswaUly/1byR6a7OOLP97fuD7vBbhV3D6AZblT7FIpH2Zu5MWXYojmais165uyVM6Rc4IWQXccyQeTi4LB3BLcvd0oEC2XCN8iDW80HD1DtUrcCVJnNqoZ3XaETMTBcNIyrEC7WcwwslddOgGbOSjg1I4FfO+tGtwu0bA7qA=;Yd/3+HjpfV7LeJMH08hjUw=="
 ---
 

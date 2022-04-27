@@ -130,6 +130,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "i-PRO EMEA raises the industry standard by adding high resolution combined with Edge AI Analytics to its mid-range camera line-up"
+    excerpt: "PRO EMEA sets a new benchmark in the AI-fication of the security industry with the addition of 34 new high-resolution camera models to its Standard line-up. The new 4K, 6MP, and 5MP"
+    publishedDateTime: 2022-04-27T11:32:00Z
+    webUrl: "https://www.sourcesecurity.com/news/i-pro-emea-raises-industry-standard-adding-co-1584600779-ga-npr.1651034581.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 0
 
 secured: "ajTvZELnwEWGzqlqFVNqt9K1sSNM63KrudBM/XMfZO2dHuimL/FTjigv3Y/ExEl1fgM6YY/B8RCwZoxytbBw1fep3c2DFl1jaU2O+IeW/gdZgZWXfSeARNzgoQSV1Y01/IcxkXFCNHF//wpIetm4kFpEL0tWdlCQggeA3KIX7PDCUPQV3AfKVOL9nvjxK3OK5Z/imM9aMkbrXAr2IhsoTXDHmJZQJI+5yapkgb3EpPYTYEJtHBgHa6PcpUigjnqqNnmsVA+b7W3idaMk9FiTx1mwsMYSTB5canIURhEaw0tjr/6LG4DjjMM2qaO3YE68WuEupGIkcyfsMyR6Mzhkcq06HjgCy735fB4EOlVIeB02lTyeIEjM0Dp6aSB5pmbAJb+GK3TPilPt5Owk1ZXA8q9PC+MZKgSTgcWYy1TpAP5Rx3LhLIT63IrwJ9yrbTK+5cVwhRqAzApNTAnt9I55uBFzmQ+B/EiWi4fSYJX1ErKhn9paWlgbnbEzjsmbJ0OGx1+2Tucje8RNEEiiRjUfwQ==;X3Ju1dTB0FWjsfXLUZJr2A=="
 ---

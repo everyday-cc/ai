@@ -52,6 +52,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Jack in the Box to pilot Miso's robots in its burger joints"
+    excerpt: "Jack in the Box to pilot Miso's robots in its burger joints . April 27, 2022 by David Edwards Leave a Comment . Miso Robotics has agreed a par"
+    publishedDateTime: 2022-04-27T11:07:00Z
+    webUrl: "https://menafn.com/1104103429/Jack-in-the-Box-to-pilot-Misos-robots-in-its-burger-joints"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/27/R&AN_bcdf3image_story.jpeg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Miso Robotics In Pilot With Jack In The Box"
     excerpt: "Pasadena-based restaurant robotics startup Miso Robotics said this morning that it has inked a partnership with Jack in the Box, the pilot the use of its Flippy 2 and Sippy robots at the fast food chain."
     publishedDateTime: 2022-04-26T13:44:00Z

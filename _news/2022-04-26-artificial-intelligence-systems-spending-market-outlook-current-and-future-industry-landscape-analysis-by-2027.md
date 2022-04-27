@@ -19,19 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "AI in Travel and Hospitality Market Outlook, Competitive Landscape and Forecasts to 2031"
-    excerpt: "Artificial Intelligence (AI) is developing, making it more attractive and reliable as a business solution. Businesses in the travel and hospitality sector"
-    publishedDateTime: 2022-04-27T07:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-travel-and-hospitality-market-outlook-competitive-landscape-and-forecasts-to-2031"
+  - title: "AI Chip Market : Prospects, Trends Analysis, Market Size & Forecast 2030"
+    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
+    publishedDateTime: 2022-04-27T11:02:00Z
+    webUrl: "https://menafn.com/1104104053/AI-Chip-Market-Prospects-Trends-Analysis-Market-Size-Forecast-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?320558"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Wearable AI Market : Outlook By Size, Share, Future Growth And Forecast From 2031"
+    excerpt: "Research Nester published a report titled “Wearable AI Market: Global Demand Analysis & Opportunity Outlook 2031”  which delivers"
+    publishedDateTime: 2022-04-23T11:01:00Z
+    webUrl: "https://menafn.com/1104079170/Wearable-AI-Market-Outlook-By-Size-Share-Future-Growth-And-Forecast-From-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
+        width: 268
+        height: 250
+        isCached: true
+  - title: "AI-Enabled Testing Tools Market is Expected to Project a Stellar CAGR of 16.9% 2022-2030"
+    excerpt: "AI-Enabled Testing Tools Market is forecasted to be valued at 1.27 Bn in the year 2030 and exhibiting a remarkable 16.9% CAGR during the forecast period 2022-2030. Telecom firms are leveraging the potential of AI to manage and assess large volumes of big ..."
+    publishedDateTime: 2022-04-26T05:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-testing-tools-market-is-expected-to-project-a-stellar-cagr-of-16-9-2022-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/29c1054a6cf588e36169f95b90f75465d7960b5f-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Edge AI hardware Market Analysis Report , Types, Growth, Industry Analysis, Opportunity and Forecast 2020-2027"
+    excerpt: "The global edge AI hardware market registered a transaction of 532.4 million units in 2018 and is expected to reach 1,681.8 million units by the end of forecast period with a CAGR of 21.72%. Growth in Artificial Intelligence (AI) has created huge opportunities for semiconductor companies."
+    publishedDateTime: 2022-04-27T05:28:00Z
+    webUrl: "https://galleonnews.com/electric-vehicles/251485/edge-ai-hardware-market-analysis-report-types-growth-industry-analysis-opportunity-and-forecast-2020-2027/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 17
+    images:
+      - url: "https://galleonnews.com/wp-content/uploads/2021/12/logo_orbis-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
 
 secured: "QYSp6sUdF6cDfbj9akUI+UrkUKRJTxyPoNKt6PaFbmsF9+QJAU2pHPkv85sVexjFikqm8qAICHJWO038hVB0Zjud5GW+TidXLZ3w2CtbB5SZ5c41c9qHnnB7qPuqabxUPTs+A9GhKYQmgGOcGuzyav6+gm+xqg7kbGkbqVuWbSZvCQ6mAXcBJp48Fkrypg/TossL2pediLw0W9nfWz8J9daseIlrb1XO2KGZyMr2+1PX3ZgLBwhYTUeYSlU4+l7Pm6IWZHHFwy/T2gNbSr1hknqFnDDd2PQTUgcij3P3+m4gDSCX6rago9gCt0ot+WKygBWkY3Kq7sdk4omuJrKqxbmr1g2yBx5C8EXM3IT58Ns=;ONDEsErDPKO1223uRoynhw=="

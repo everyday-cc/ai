@@ -46,15 +46,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "ServiceTitan Launches Titan Intelligence, Bringing AI To The Trades"
-    excerpt: "The Next Generation of ServiceTitan's Operating System for the Trades Helps Contractors Harness the Power of their Data to Predict Outcomes, Automate Tasks, and Embrace Digital Transformation The trades industry is at an inflection point as trends in data analytics,"
-    publishedDateTime: 2022-04-22T17:30:00Z
-    webUrl: "https://www.nwahomepage.com/business/press-releases/cision/20220422LA32804/servicetitan-launches-titan-intelligence-bringing-ai-to-the-trades/"
-    type: article
-    provider:
-      name: KNWA News
-      domain: nwahomepage.com
-    quality: 17
 
 secured: "xsFAPDYlpzTiBqkaO7ypXeM3lv/SGK5RJf7PXlNgQ+Mt8Iu7JZor9zCnt+93H3/n8/XMvckt3o2rz9aALesnM50oWDoGCd5AxGeZz0L5vHCGIXHxed79gE2NMVkzne1ByZWD9fWN283R4pZqRMdBPZaPwoAHDWV/VJV1XubHnbndJueekgXZ6+g7hh7nl5PwNit7Uk2zCihoD5LSLJmm3b47vqsYx2BWILp+JgD3DlNLMjOd9aAK5w1epyMN9c7TMtZJZ+X+tDfNR2Vs6Rn4IVrRkwgQsQox5yYi5eBPR5Xc/kMrPqRNi7tkfQ8g06FJnKj65lS9uzrQURxtOOs1GIMQDcYHgDVNBDEqHbSfVsE=;HrcWxv5DzyBAVnrCAbY1aw=="
 ---
