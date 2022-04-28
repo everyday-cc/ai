@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Pathr.ai™ Announces Integration with Hanwha Techwin America to Bring Spatial Intelligence Technology to the Security Industry"
-excerpt: "Retail Asset Protection Conference, Orlando, Booth #RIC-11 – Pathr.ai, the industry’s first and only Artificial Intelligence (AI) powered Spatial Intelligence platform, announced today it is working with Hanwha Techwin America,"
-publishedDateTime: 2022-04-24T12:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-orlando-artificial-intelligence-1fad154826e1d2560b0e88b2360a4f4e"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-orlando-artificial-intelligence-1fad154826e1d2560b0e88b2360a4f4e"
+excerpt: "Retail Asset Protection Conference, Orlando, Booth #RIC-11 – Pathr.ai, the industry's first and only Artificial Intelligence (AI) powered Spatial Intelligence"
+publishedDateTime: 2022-04-24T12:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/g26777703/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence-technolog"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/g26777703/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence-technolog"
+ampWebUrl: "https://www.benzinga.com/amp/content/26777703"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26777703"
 type: article
-quality: 27
-heat: 27
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -53,16 +55,7 @@ related:
         width: 320
         height: 325
         isCached: true
-  - title: "Onuu Announces Inaugural List of Partners to Democratize Access to Financial Security for 166M Americans"
-    excerpt: "Onuu, an all-in-one banking and insurance solution, announced its first round of partnerships with some of the most innovative and trusted companies globally, including Visa and AAA Life Insurance. We built the platform with Americans of modest means in mind,"
-    publishedDateTime: 2022-04-27T12:19:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/onuu-announces-inaugural-list-of-partners-to-democratize-access-to-financial-security-for-166m-americans"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 4
 
-secured: "c47EWkwLqnHp6MAYUMlZH/nLI8RmpyJSummmPSoQrAk2y4r/oJ/PV5lht2djA4jeP4Wo7gmNWLxLnk5iOLPpu+v7flBugmHFP00OiSdB2ci3mhk5dtksT301N30OuUdW+iUeT3z2BBEc3DQonR+VfjwVDRv3cQ3Mug25DSzppOifhDVWSFLx11Nc7aunqrVdMdPtD6wCzkxHP9qbBDpdMxsAoLnHaprrMRrr92JVyRujIaMVnXEYh5F5/7DBG51OA+XEH6cWc39pvgkF4KXZ4M++vDsLBgUtADsDow7Yzfui9iZgQsJ5hDZfnFiLwHPT7LOSerH5B3uQOuo1tBKqxA3c5MGVLPo5FUHgOd2Q5wE=;VTnFdPAYl/PGNo46qbmODg=="
+secured: "vXzIQhRLjHEuFscS7PmQ3+uf+jIOAK8vu6wLeZRBgsC3o694Nc3yXnA0WH19LK7LCs1jIU0KmuycsF0OVrrEcHm7xhX07KOd/o28CK7k/Kiey+eRS+P//VCzjOhhhwMu+B3iNdYZGEszkw570Pva/IL6q/Nr3u5GGa5CrCuGUSl0/YjJGZIQBICo7QyJu6BylPLb+xmqB4Sn5DemqhygHvshSt0b1SBWzLye7KZJrN6TfL9K8FsGEzoEAZTQ+KVEwmgVFWAL4AfNM8EptfQLTV5Yiof4CSjjOk6BFB/VJHumgKMh4lV0d5IjCHuJ+Nm1/5ooWk59xj3CN3U3rxdS8UIm85CG1/HdN4ShpmfPZ5s=;RamT3r2k+z+67GsxXirucw=="
 ---
 

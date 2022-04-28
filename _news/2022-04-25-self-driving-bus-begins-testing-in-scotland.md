@@ -75,22 +75,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "UK to allow watching TV from behind the wheel of a self-driving car"
-    excerpt: "This new policy will only be applicable for the people who own cars that are registered as “self-driving” under the British law."
-    publishedDateTime: 2022-04-23T08:42:00Z
-    webUrl: "https://www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm"
-    ampWebUrl: "https://www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 44
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/07/AP18129645375784-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Stagecoach begins live-testing of self-driving buses on Scottish roads"
     excerpt: "Stagecoach has announced it will be testing the UK’s first self-driving bus on Scottish roads this week, with plans to recruit 20 drivers when the scheme goes live. In partnership with Fusion Processing,"
     publishedDateTime: 2022-04-25T08:07:00Z

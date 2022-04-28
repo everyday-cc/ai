@@ -59,22 +59,6 @@ related:
         width: 900
         height: 599
         isCached: true
-  - title: "UK to allow watching TV from behind the wheel of a self-driving car"
-    excerpt: "This new policy will only be applicable for the people who own cars that are registered as “self-driving” under the British law."
-    publishedDateTime: 2022-04-23T08:42:00Z
-    webUrl: "https://www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm"
-    ampWebUrl: "https://www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/auto/uk-to-allow-watching-tv-from-behind-the-wheel-of-a-self-driving-car-13251432.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 44
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/07/AP18129645375784-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Self-driving bus begins testing in Scotland"
     excerpt: "An autonomous bus has begun testing on routes around Edinburgh this week ahead of the introduction of a pilot self-driving bus service in the city’s suburbs later in the summer."
     publishedDateTime: 2022-04-25T14:46:00Z

@@ -40,13 +40,13 @@ related:
         height: 1709
         isCached: true
   - title: "Cross River and Sardine Partner to Build Critical Risk and Payments Infrastructure for Fintech, Web3 and Crypto Companies"
-    excerpt: "Cross River Bank (“Cross River”), a technology infrastructure provider that offers embedded financial solutions, today announced a partnership with Sardine, a behavior-based fraud and compliance platform for digital wallets and neobanks,"
-    publishedDateTime: 2022-04-25T13:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff"
+    excerpt: "Sardine will leverage Cross River’s payments platform as part of its integrated fraud prevention software for fiat and crypto transactions. Partnership further solidifies Cross"
+    publishedDateTime: 2022-04-25T13:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-25-cross-river-and-sardine-partner-to-build-critical-risk-and-payments-infrastructure-for-fintech-web3-and-crypto-companies"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 0
   - title: "Cross River and Sardine partner to build critical risk and payments infrastructure for FinTech"
     excerpt: "Cross River Bank, a technology infrastructure provider that offers embedded financial solutions, recently announced a partnership with"

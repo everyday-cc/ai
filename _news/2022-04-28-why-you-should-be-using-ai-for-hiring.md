@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hirin
 ampWebUrl: "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/"
 type: article
-quality: 87
-heat: 127
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1288853231.jpg?w=1200&strip=all"
@@ -77,6 +78,6 @@ related:
       domain: beckersasc.com
     quality: 17
 
-secured: "2RErpauxZxw/30iOZzzZzpE6E37HHzjkv7NSQ/JUQeBbig4ACbtB3mJFG7rvCb5cuSWDfPrJoSAdsHunWJdrA1yFHb3x6qMq5xH4VEZsvPurF0YK3P0RRvl9TtyXaVe5HhtUZ2qEWmdHtDZgpeyQ78Ij0g37Uln7yLs+wyU67BwtIFYHplKOehTT7PehwEyPPByVHn6esH/hB8/VpqOQZ8Z/jpxquEXQlSU9YBXLUmF5WPNuF/rwUbUjn1B20ETguYRpVM7ggbsY5or82KCwalhCabR6/VJEgDoHEvRTS9oiDlxdrxK7DqtzgWwHBM1/S8Dvy+3zu4jJ2rbHIlLBiI7cCNozK84QoTvWZ0EFD1w=;bcpGklZ20A5i64d/GnElpw=="
+secured: "VDsc2n/eHjira+S/HUweWVrsn1QGBsQKKoO5FBWiCN6SRJpo0J5pcQZv/lldR3BBokn9PuDh9zLvob9huwztZfZYlJlDh/kujRmgPdrm3oUWqqCcdttLwccc8XUcYfXOubG11wbytpZt2Br7uCy+GfWBqtmx5P2rJDn4QBDKKgFDN3wFsxbbkkULlAbdpajLI5XLP0l4hV/QwSKY6ZStzk89FU3SNwGsfhbkPBMtyqCqEXmNOSbL4cmqPheDOdiow9905uZEddJH2qef+GTCcToJkuki3fjxS/4qr7fJO44qu4y76rp+1SqvTEYZyuvcUfn/cOexmuuTq2mwc9oQDCf5sZ7Irw3h9g/O928MItXwcehOaHaWgYnfCWDbWXZVRP9b9aXA2q+fORKsDKwM3rfKtxHjTmhM1KIsDQA0quRBakEnFgxmJAxax5cs3ShBrit1V9lxNcPNIchgRupAz0apO1oItI7/WbM4dciKBM0FqCczZEy32Any2vk+vpwnwi0C4ZQ3ZWp1Z/K2CCgbyQ==;8YPI8nKRcPZMCxju4Pje2g=="
 ---
 

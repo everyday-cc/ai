@@ -55,6 +55,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Bell Launches First Public MEC with AWS Wavelength in Canada"
+    excerpt: "Bell announced the launch of the first public multi-access edge computing (MEC) with AWS Wavelength in Canada. Building on Bell's agreement with AWS, announced last year, together the two companies are deploying AWS Wavelength Zones throughout the country at the edge of Bell's 5G network starting in Toronto."
+    publishedDateTime: 2022-04-28T00:27:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24534-bell-launches-first-public-mec-with-aws-wavelength-in-canada"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/370e783a745aec6c0098558a9faf5594.jpg?t=20220428_002442"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "qEEE8eM9nyxKUuzp8HisUE0YGxTG0WB54EzCF6fO3lqB3bNKvF2SDSAY39BssHCQA8QKJQoqIqD8h0xZCt7eD91i/Cz+XmaVgxAc1b8xEh8FXZCUP4umiEAmmjDfEQpxV8uU56P33DTl03kM4GIbcxywJ7KzKAgiHLHRo7IuzVzFhspL9b1N0txeXyIkf/cV+6mL71gqw/o66vqVPnEbWc6in7TI6rjOC8kKqFlyNcl5iJuwmq7w1hd7xEn8hLXXbwGQm41/zX/Gth6Lw+++zlEtkJeAjBzUTWqE6vwR2qJRDC5gXIBl5cZRTam09yFV3mFUH3Y1jsVEUelH8rw30xEl+g9MERc8xVsbkqIh0KE563fZ7O43PErPo4cPwNUpYJYrosxaN6ZpAP3cNQfgqfky1aQO2Mx399Mv2NULeo3hurM//6j5F/UzVBwK6OFnJAZF4sa9M5NFtf9I9/oQZ70JWQUd2j6rHeArvwJMtK4TPjok2CGBNgtoGcMes37WpLCnYSgGmwLZA0gIsnm9DQ==;PxodaJo14OGn8YM2+NEnLQ=="
 ---

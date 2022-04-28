@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Neural network model helps predict site-specific impacts of earthquakes"
-excerpt: "In disaster mitigation planning for future large earthquakes, seismic ground motion predictions are a crucial part of early warning systems and seismic hazard mapping. The way the ground moves depends on how the soil layers amplify the seismic waves (described as a mathematical site \"amplification factor\")."
-publishedDateTime: 2022-04-18T13:27:00Z
-originalUrl: "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html"
-webUrl: "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html"
-ampWebUrl: "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.amp"
+excerpt: "Using data on microtremors in Japan, a neural network model can estimate site ... Seismological Society of America introduced a novel artificial intelligence (AI)-based technique for estimating ..."
+publishedDateTime: 2022-04-18T16:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/04/220418094002.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/04/220418094002.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/neural-network-model-h.jpg"
-    width: 620
-    height: 465
-    isCached: true
-
-secured: "JiG+bWOueAt+PcYv3+nRuUW4SmqIsytxtsgzjdbxz734dROQ3Hk5iacY7T6cpIBFcnGDPdPWdhlUHWfMLT3UHdLAdp839V06j7X6WsDQJiVszi4IVbdxAl5lyCsT6NsRGvhx/iLUxot0J8AjBakY0CNXqa0NABIY9mbAUyDlzIvROdXtovch1QfH3a1a+YLWSsA0iqFJSRE1lii8TXEcj7b0NTkINhnLYth2lPP8b00TKdujKw8X8x5JJqLkgeqtGTHaFYqq7qAILxnZLyhdfHj9TJFs0GWet20D9nBLYm5QQN/cZ43FFLnbvZdhyb94f47rvsWSPo5IoZne27faT3O2r1hcaD3clc5WdSMxNQTcfGybMA575eZcQDsiIOxY3eRaSVMJhWN0up7Vy0QR4wMKQUlDF16SZVrV9K8VNoSuE13andNOOdzNFq6CIaqlJMKf8dItngmBllr7tN0kLz9Col6I+rrh63aOfYhPF29OiO+lQM/hGMCoROX+qZikbhAYG0Hu7dB/RIg+Q5gQCg==;/NRuV+HiEZUasvJWBaF9Tw=="
+secured: "Sme5UBaqcZNN/zwSmBVU0HD4FZrGMAlYrr6Gb5UsQd2BrjFMjeqDQ37BPiokkBtM3egESYMvs6fqL86/WyOGlzapra4p9f3BGGhED7Gzv+zwXoWoD9kKzfcwtXde23nGCofOx/Zp5V5UHpd+/ITy2PQp/bHQPvb7fU6shwAFjNc5zAzo6s7FMgGpKhvKlJ+phHnadjQaTkQ56bi5buiA8lFDkr/hgxt8ZqJQzw8zGTUIEpq/01L33jY0l34pezBcOwlBE+h5oTdJcWTFJpn749onBaCQj9EOVMEcoRNiroQgOHZO5rBJJn1hK5OaO/KlcjJ3ZWkSQQCHPaaANyGI+lx9c0OI78sfg58YE3vICo8=;83nXs1ctQ+S8mlMpxYImqg=="
 ---
 

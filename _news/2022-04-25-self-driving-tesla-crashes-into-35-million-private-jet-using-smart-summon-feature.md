@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/have-you-seen/2022/04/25/tesl
 webUrl: "https://www.usatoday.com/videos/news/have-you-seen/2022/04/25/tesla-collides-private-jet-while-owner-using-smart-summon-mode/7439216001/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Video Shows Tesla Self Driving Into A $3.5 Million Private Jet"
-    excerpt: "Tesla vehicle using Smart Summon feature has crashed into a $3.5 million private jet. Here is why the incident took place."
-    publishedDateTime: 2022-04-23T07:22:00Z
-    webUrl: "https://fossbytes.com/tesla-self-driving-into-private-jet/"
-    ampWebUrl: "https://fossbytes.com/tesla-self-driving-into-private-jet/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-self-driving-into-private-jet/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 74
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/04/Tesla-Crashed-Into-Jet.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "A California tech CEO is running for US Senate on one issue: banning Tesla's Full Self-Driving technology"
-    excerpt: "Dan O'Dowd launched a multimillion-dollar ad campaign that takes aim at Tesla's self-driving software and claims the company \"skates by regulations.\""
-    publishedDateTime: 2022-04-23T11:45:00Z
-    webUrl: "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4"
-    ampWebUrl: "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/6260156c4f524b00194d5dc8?width=1200&format=jpeg"
-        width: 1081
-        height: 540
-        isCached: true
 
 secured: "tDWa1XUUMCIEykqJa3puRnXvoGpoDXQdgtkShiTUEeERnR0D8ZUlwqoH9n9BdH4Q+WIjdj62GqJGSZqKTduzglAGSQyz+EnMOdPb/ZRhCEz5D6k9DTVsci9h2Wi4Fz2sTITwnRpmJwClMxD/VQmcLkDZqOR/Q8M9yoqs1t2KLKmHcujhqH4U90aHU2Nj6WALu06/pyY4jwHKzzKbxSslwq2eupxywq2FpyavE/k99agqqdLDJ1o4q1aiD+t1URqfb9/DFeSSJRz0u/5AxjTagjDpvvCwY81gleDmLtXa+IiA8yu/D86j3VARkM9Z6ZHWAqTjwsGFQGkJTZ1Qus3OK1ezXTSKpGf3rJ6xhpiZk20=;DAMl03bheS9FMY10HC7yvA=="
 ---

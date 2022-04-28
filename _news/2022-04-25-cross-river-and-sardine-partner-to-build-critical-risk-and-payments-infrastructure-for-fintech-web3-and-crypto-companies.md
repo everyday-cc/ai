@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Cross River and Sardine Partner to Build Critical Risk and Payments Infrastructure for Fintech, Web3 and Crypto Companies"
-excerpt: "Cross River Bank (“Cross River”), a technology infrastructure provider that offers embedded financial solutions, today announced a partnership with Sardine, a behavior-based fraud and compliance platform for digital wallets and neobanks,"
-publishedDateTime: 2022-04-25T13:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff"
+excerpt: "Sardine will leverage Cross River’s payments platform as part of its integrated fraud prevention software for fiat and crypto transactions. Partnership further solidifies Cross"
+publishedDateTime: 2022-04-25T13:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-25-cross-river-and-sardine-partner-to-build-critical-risk-and-payments-infrastructure-for-fintech-web3-and-crypto-companies"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-25-cross-river-and-sardine-partner-to-build-critical-risk-and-payments-infrastructure-for-fintech-web3-and-crypto-companies"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
@@ -57,6 +57,6 @@ related:
       domain: ibsintelligence.com
     quality: 0
 
-secured: "o6g8iayYY7SzbWOhY+6TjHp8R176Dd6KbivJy2XmZG3Q2w949MrEnuI1zbnoTlchex9Kl27iTjgsGjpdtBYbx7ZDlvU2MrZCz9XTrZtvj+mxATVpSwWysX9kTzCJRjCJXMNFbKmnbVLUMPacU81My4JZMBs5cLoh1OMn7MroCHpsHSwPS6hj3Va5gvW0rqRnKczBwo/lcWrU105ht997u/Al0ekEGBD8zsZCiSsi0O0hJeXcbR6mu6IzKv/M9KaBzM1M9qoCbvSORcqcW7Fn94QBvfC/N5PYno2jjw8hbZ252LvRpYwX1XXcdKMzxiSYUWNzaVNtPA5eCTysVX4duOTfsYkZ2Mmx+CJPh/MjMek=;WNSMV9QPthTS9rl4EXCjCA=="
+secured: "LKDOB6tbeUkofIxqjYmyHHkbMylNWcr+g4jF5QPOlAuKYKm2bex5oD9VJHjMQexoUKxMIaB3FzK4gr5CqH5u4OheVZHIdyQHp94Z/r9hApMvwbFCNK5ue56QedQrGxryibLfIIni0RIV2sHNPBZuje2S4rtnPu/n60P+9FOmGXKZslLfJTp/C8jcvivsH229otYhc6eZoVaKalfxfYdKdOx3z3jG8+s6fCiy5iap12TyDnGZNLt8/z4nvVLBrHliocOnS1EjSZr9rstCHGGcJPBJWnEMTpkY0jhoOjEPzdJD83seorqKu1wj2ayqVU47SdSF/gvWoGiDruO+dkx6LlxAV9syzFTBf1yt23slYjg=;/DzAuvOqZ3GoitUCDaeg6g=="
 ---
 

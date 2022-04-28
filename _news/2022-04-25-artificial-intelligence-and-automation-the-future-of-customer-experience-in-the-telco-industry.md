@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Charting a New Frontier in the Customer Experience with Voice AI"
-    excerpt: "Founder & Managing Director, AI Rudder “Sorry, all our customer service agents are busy at the moment. Please hold and we will be with"
-    publishedDateTime: 2022-04-24T23:30:00Z
-    webUrl: "https://techwireasia.com/2022/04/charting-a-new-frontier-in-the-customer-experience-with-voice-ai/"
-    ampWebUrl: "https://techwireasia.com/amp/2022/04/charting-a-new-frontier-in-the-customer-experience-with-voice-ai/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2022/04/charting-a-new-frontier-in-the-customer-experience-with-voice-ai/"
+  - title: "Procreating Robots: The Next Big Thing In Cognitive Automation?"
+    excerpt: "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence."
+    publishedDateTime: 2022-04-28T00:30:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/"
+    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/amp/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2022/04/shutterstock_1297004110-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "How artificial intelligence will positively transform our online shopping experience in the near future"
-    excerpt: "Probably one of the biggest technological frontiers that have been contributing majorly in the recent past vis-à-vis positively reshaping e-commerce and online shopping is Artificial Intelligence AI."
-    publishedDateTime: 2022-04-24T06:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-will-positively-transform-our-online-shopping-experience-in-the-near-future/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-will-positively-transform-our-online-shopping-experience-in-the-near-future/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-will-positively-transform-our-online-shopping-experience-in-the-near-future/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 41
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6239d5f9bb19be620488f0de/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "TU4YlPBuqGrK/9lF4Xjk706a2EnJr3SfTKZNAmEA+40NkEOQBr7qQto+Fj8tQZW8OOUHY9aQiPXL+0MCYezDz/xFE6AlzKEefvIqzdsptcZ7gf2d0izHy6JmyUIpbD521lMCpbxAOBfLhXnGH+09LGv6gkXJqjcBt14SLBQ98s//h1sGhGBT/7omZUbTqc5xdVupstJfZiGoLkT83NkVvCXunwabtp4xjeRDWdRNP0LvKsgij3CTRgh0LHmSBlPPuVwFLxwG4Gy84v5X9Mn5ZO22CkXu+XGVUr7rQsX27IPhigXgr/7r/LRGoP8nLi9Tp/jqLSVX5s5jupehhUQd1b0kNTFEQxnXJo8ygswzzhQ=;yfFYiAQ6RxFOzEvTb4u+jg=="
