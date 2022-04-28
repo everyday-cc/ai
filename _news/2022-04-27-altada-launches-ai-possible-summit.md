@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Altada Launches 'AI Possible' Summit"
-excerpt: "Making to Hold First-Ever Thought Leadership Event Altada Technology Solutions, a global provider of artificial intelligence (AI) solutions that supercharge data-driven decision making in"
+title: "Altada Launches ‘AI Possible’ Summit"
+excerpt: "Altada Technology Solutions, a global provider of artificial intelligence (AI) solutions that supercharge data-driven decision making in the financial services, travel and security and healthcare sectors,"
 publishedDateTime: 2022-04-27T16:06:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26845468/altada-launches-ai-possible-summit"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/b26845468/altada-launches-ai-possible-summit"
-ampWebUrl: "https://www.benzinga.com/amp/content/26845468"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26845468"
+originalUrl: "https://www.valdostadailytimes.com/news/business/altada-launches-ai-possible-summit/article_77c898f6-2339-5b69-a7c1-f4684182c256.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/altada-launches-ai-possible-summit/article_77c898f6-2339-5b69-a7c1-f4684182c256.html"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -36,6 +34,6 @@ related:
       domain: acrofan.com
     quality: 17
 
-secured: "f8lpnnH+t+uoTQ5L/tfkFzr4qyDmNnx9DhKnjXUS0wbG6iShbN6Kx78j6vYJPRBxMP5IGpIwt/Q03ZhXsmIP0xMtRiOYNpx/eshCe17jr1q2u3BMUQBhcVvTFXihRcdsRmlAQVrLOi1mpCBnZPyS6Iy2xp04/uANyIeG44IRrT6az5XEYHx6EUa4/Kibwx0SJTqD6QalVxyDERbFq5o51YkU31VddIaHApa24eVEY4cQIKK0WtQjugedPgDLpTGpgzwwk8OQe/Mq0+nIbdP+kr/1VVSQmdvJ5j6MJgHHnezWHYeWkkNhUXNebm75ZLbwUrY5nDJusH6W7Tg8fV8TVHr5IHTW26I7PxyOy2C5bz0=;Qc6ftfiRF0loMjiPmtCbrA=="
+secured: "T2b0cwpDJqDIDE2IfS0sTlbUOOYuIP4GQP/iv+KzByQlTR3pdaBucM6yFh2kDiCkcHvyCDBTxMBM7Jl3L0ODKLlNiEDEVm4mPsBrwN3iyT0/zkoMiJQaTqO7foULLAZ07X62bkWIpV/sRhpp+LuXjVw13sor4AJvGvhSa/MBzN+6n+M/CW5c81WfEhuD7EI2DuVsKraoUDP4vtH3INNd6E4EEEsFSSSlt0Xd9jFqvIPq8H1oMaGQ9Pl1uzaMElr+lsNiPv+jEi39Z2f567/PMqhda3DCx0lisGGez5XIC31NfxfW/xlHKGVDUYnoFD5SjDVBTmefmII6zpAvycMkounOkKd9ZuaST/esulj5HoA=;kmB6+qNsjOwMNddxCHLmhg=="
 ---
 

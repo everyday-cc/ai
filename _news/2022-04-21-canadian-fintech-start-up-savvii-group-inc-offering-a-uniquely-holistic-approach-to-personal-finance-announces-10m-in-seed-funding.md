@@ -3,8 +3,8 @@ category: news
 title: "Canadian Fintech Start-Up SAVVII Group Inc. -- Offering a Uniquely Holistic Approach to Personal Finance -- Announces $10M in Seed Funding"
 excerpt: "Unprecedented security, AI-powered financial coaching and industry-leading dynamic tools provide a connected financial experience that empowers Canadian consumers to take charge of their financial health TORONTO,"
 publishedDateTime: 2022-04-21T11:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-canadian-fintech-start-up-savvii-group-inc-offering-/2022/04/21/9586796.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-canadian-fintech-start-up-savvii-group-inc-offering-/2022/04/21/9586796.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/04/21/9586796.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/04/21/9586796.htm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "jzjQdj2/teUfqLL2y9kBfRX6iQH3Hb5oJ/F9X/ne8TcIk58Mynl1mgG+VtKQGTpSHO4mjSmykHxxCF6b88Lpa9m2vdU9WJWyJeJP2uNdphBZM/xPDRtCdtW3MLifDTgaLTjhDjIGTNvRAdMn+ddftGKr4y/BYwT2+t8ijAXo7VviKGW+Hz5QeZ2xQTPvVwvYKupeDItJ6SEE6g5aU+3Cm4UCTNrexrBFxGeQkiJuF5ka5TDQwHP8QPqS9AMskarTDe0k/KJT9NMGspVDs1bOxEGvW1QarD44UMzqfeAnJkjY7wr9DmkVwK5CmcKLghdrIgSO0nuXfuoCoTm3W5U8/TjSb8e8JRGX7eQk2/1ZDR4=;XxAdx7MmInUtipJ/IvudlA=="
+secured: "PkSLnRuW+9MwD3ysja6QE+WuEn1rfVMOeYyAUlKhWkKh5KYqqR76f9KAlzRaWHqxBnriLf4ryRmAH4iYznDppdAEc7YJip5Kwd79NTT1g8Hf//pV0Nzc8zLOGLiFKJl4edZ7FCIls6N/3a9ga9kHpPspQaFs9+wRkto2kjk3hXMGN0PwdFDPmVgzDyAEGQkdFGl+hQ9FSzX89hmQFC54YKqBZ0JES++X+escpr8TSJ6QZ0aqLGoLeM25wojrxA8fhlyKNOh1Fs/LZGDKsF9gNv7eKq9bmckopl+PYWK+46R+GAiLnmf766yLCuP7RxFXnrVMJpLQX9t5Ahxqt78Ma+81PPBgqcIV8g1o10MpS/g=;DBRXlTGvnw2vmZSamNmtQw=="
 ---
 

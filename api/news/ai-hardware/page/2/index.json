@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-08-ai-chip-flushing-keeps-the-lights-out.md",
+      "title": "AI Chip Flushing Keeps the Lights Out",
+      "excerpt": "Artificial vision isn’t just for robots. The latest machine tools from DMG MORI also employ high-performance cameras and artificial intelligence (AI) to guide “smart,” chip-flushing coolant nozzles and keep the workzone clean. John McDonald ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mmsonline.com/articles/ai-chip-flushing-keeps-the-lights-out",
+      "originalUrl": "https://www.mmsonline.com/articles/ai-chip-flushing-keeps-the-lights-out",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modern Machine Shop",
+        "domain": "mmsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-2-top-ai-stocks-ready-for-a-bull-run.md",
       "title": "2 Top AI Stocks Ready for A Bull Run",
       "excerpt": "AI will increasingly rely on powerful 7-nanometer (nm) and 5nm chips, and companies will likely be making the jump in the next few years to 3nm and 2nm chips that deliver even better performance and open the door for even more advanced artificial-intelligence and machine-learning applications.",
@@ -1376,49 +1410,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-chasing-the-worlds-first-brain-on-chip-ai-computer.md",
-      "title": "Chasing The World’s First Brain-on-Chip AI Computer",
-      "excerpt": "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer",
-      "originalUrl": "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=1648050917-ERC_Diverse_@Fostering_Science_copy.jpg",
-          "width": 655,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "siliconsemiconductor",
-        "domain": "siliconsemiconductor.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

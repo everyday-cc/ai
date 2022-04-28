@@ -3,22 +3,22 @@ category: news
 title: "Intelligence agency takes over Project Maven, the Pentagon’s signature AI scheme"
 excerpt: "Project Maven is the Department of Defense’s most visible artificial intelligence tool, designed to process imagery and full-motion video from drones and automatically detect potential targets."
 publishedDateTime: 2022-04-27T13:50:00Z
-originalUrl: "https://www.c4isrnet.com/intel-geoint/2022/04/27/intelligence-agency-takes-over-project-maven-the-pentagons-signature-ai-scheme/"
-webUrl: "https://www.c4isrnet.com/intel-geoint/2022/04/27/intelligence-agency-takes-over-project-maven-the-pentagons-signature-ai-scheme/"
+originalUrl: "https://www.navytimes.com/intel-geoint/2022/04/27/intelligence-agency-takes-over-project-maven-the-pentagons-signature-ai-scheme/"
+webUrl: "https://www.navytimes.com/intel-geoint/2022/04/27/intelligence-agency-takes-over-project-maven-the-pentagons-signature-ai-scheme/"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: C4ISRNET
-  domain: c4isrnet.com
+  name: Navy Times
+  domain: navytimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.c4isrnet.com/resizer/1TgZGDO-QxWmwXPhm39RiFmrMOg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/LFVFZSZNRZHIHKMH6KS5KOZSMY.jpeg"
+  - url: "https://www.navytimes.com/resizer/1TgZGDO-QxWmwXPhm39RiFmrMOg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/LFVFZSZNRZHIHKMH6KS5KOZSMY.jpeg"
     width: 1024
     height: 683
     isCached: true
@@ -48,6 +48,6 @@ related:
       domain: breakingdefense.com
     quality: 17
 
-secured: "Whnio8ppaVQBa33zFF57mYRvjM+2y6IbyGLaMpj9QP0st/Fr1b44z7h2ak9324/+1SwzIrpyWMZR9bv62zBrNiwiFzZVPF9o2XMlpBGWJWuXNBZ+GRpsClz7jtz7jmyvRlZfL+jzp4HZ88bUgu7xNKOLzUvD94jjTmXnNMykU50rcOo/erzaIEyb/eY9IPcpV43GRiMQgUPSS5xT0C2WHoSuKSiPyJq6L5rUqXe1TCQJ0OinIB8glFfbcfUhFXqx01XijcaoCrU0qh8OPAJXCC67djaC4Nk0bJLW4t02wGFTLYNIVeZ7lCojwEhUMMF21zXTfB7sKh42SFK4YpEHrW0wOegdWHC3dt+NNRz0zxA=;rYHjrC4yfpESa1n3sKjzFw=="
+secured: "sN+Hmbqolrp1MHfREhXz2naALp4RZ8Z3J3r7fBHFD9U+IZmg24xIpYkqEB5DDGJeLDo/xKyen0jLSUkxvVTxXWIqUqdPaYXjkr4UeqYuJGD1CoyepauTzlqDOO+86+/0QFPxeOZsLNO5wofBaouTsIwlOBQ0ufUOxMIP14s5nqvTKdNLKlX6r1yMwMOKkL2xksQqSIfZnediP543cwXiCKnnYBFD9PuSXIlVLSLqMvr9WDmHrXH6j2hBZG0/x7izJFQ76i4aTt9/4QOiyHWFxAmryMJ821UnVd+VM6kVXtBURAiQIsvXhr5WNNFBC0gd7B1a+U0TJ+PIycmldI1yKV3S9nkBhLkxEw19PR/eBaw=;fAMGIlUdL96HSSUSPqrYcw=="
 ---
 

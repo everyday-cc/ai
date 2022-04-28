@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "FPGA Market size, Forecast, is Expected to Reach a faster CAGR during the Forecast period"
+    excerpt: "FPGA Market is anticipated to expand at a faster CAGR over the forecast period, owing to the increasing adoption of FGPA in different areas of safety and network processing. FGPA is a semiconductor device that can be electronically programmed based around a matrix of configurable logic blocks connected via programmable interconnects."
+    publishedDateTime: 2022-04-26T11:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fpga-market-size-forecast-is-expected-to-reach-a-faster-cagr-during-the-forecast-period-2022-04-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vision Screeners Market is Growing at a CAGR of 5.9% Over the Forecast Period 2029 End"
     excerpt: "Global vision screener sales are likely to near US$ 579 Mn by the end of 2022. According to a new research intelligence study presented by Future Market"
     publishedDateTime: 2022-04-25T06:45:00Z

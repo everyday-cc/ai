@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-in
 webUrl: "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-inside-2022-04-27/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Reuters
@@ -45,7 +45,21 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Meta shares surge after Facebook ekes out user growth"
+    excerpt: "Facebook rebounded from a drop in users early this year and its parent Meta posted a profit ahead of Wall Street targets, defying low investor expectations with a quarterly report that sent shares up 20 per cent."
+    publishedDateTime: 2022-04-27T23:48:00Z
+    webUrl: "https://www.todayonline.com/world/meta-shares-surge-after-facebook-ekes-out-user-growth-1885226"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--7cniZpdh--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/04/28/20220428_afp_fb.jpg?itok=eQ1B0EQo"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "o3cs6lw7bZXtXwc1z328TUYflYPzH381QOdggsA5BwROrNFkA9zLIIHwVSnVlGdo2gh+U98th93TlvMKOJzxragVxvwJ9f2XElmXy26J7hsqDBfvd5wggloIlHbFMtg63oLWXXZmuvMUqG3kizSHQte1yz5+/CUgpnqgVzCrENXtz1ztppMCnwOg6mfDRf7UIYKkOlMTTVxrgp/Z71moKIdbGsAv3Aj0FzFkSmESzJ/tjELLV8w9ZrOxzq8ohJTMvU4CvMYX4RFvzIGq4FjAQ7XvK724n7T1OjL81Z1mS+zpq1yyEqABggqEWGBsCwfBk4G+PVmto7AT+di6/PauZ/u7Es0/ApVq3GECzGRw7ic=;G8MsZQG9tE5AzpeCXzqPZA=="
+secured: "2rGRqN9UTYtDF7ToMmGcW94sU9D7RYyYGIev/GpO0OIeaUo1Ya0+a7FRp3Psp7JJNEgoDEhKV7jYF3409vWO8ODfaHBsQLeKTEPkT5rj0gNYuNAFZ+ayDTy/ZENHwOSFtWGhJniTL8V8hSGaYZhQsbooZsOEkoG3evcZnK7x1izgqyCVCqVQQ+JyrjF/yWeN9IUjtuVpTWDUw8uEGTQnNqoECepH0h1PoM3Dxqff9x1oOVSakjapa/u4+n0l8ZDvVRCHKnsFwuPGT0BLX6f/UMp+296S49dgVQL0VAVXEPd2sCg3xLOLQnH+NU24wvMayXnGuwW7vG1kKZxLmXFE9Uw0udPEFWLhg8iRLys6n/yYLkXzqR4Z63GNhLALdH6nonnBtdpunGMq/GFqDVB1lGTlW+GEOHRTDus4fu9jPkttbjqjHq4KMKaQXecucqPRpj/w1Ef3xKOMiiSPyEYE+y+2ZlMjKAq7qhKJjb77ufeuNxWS0jjdY4IxwQAqppoTLGPqiPcW8IT3Yc3tinecAQ==;C4zLhca5jm/WSgQQUhblVA=="
 ---
 

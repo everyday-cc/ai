@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Altada Launches 'AI Possible' Summit"
-    excerpt: "Making to Hold First-Ever Thought Leadership Event Altada Technology Solutions, a global provider of artificial intelligence (AI) solutions that supercharge data-driven decision making in"
+  - title: "Altada Launches ‘AI Possible’ Summit"
+    excerpt: "Altada Technology Solutions, a global provider of artificial intelligence (AI) solutions that supercharge data-driven decision making in the financial services, travel and security and healthcare sectors,"
     publishedDateTime: 2022-04-27T16:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26845468/altada-launches-ai-possible-summit"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26845468"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26845468"
+    webUrl: "https://www.valdostadailytimes.com/news/business/altada-launches-ai-possible-summit/article_77c898f6-2339-5b69-a7c1-f4684182c256.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 37
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "0D8ExZ9z8+9wAZTLXypNIeli2KMoowZLNoOecLecCrYkwBms/WI3OU3+IWvcIV/oKaw/kna1MfGoUSMLPcpvK674lTMXHmelwe7W7GgHqapbN3H0QNPNnq3272VD8SwZnyACYX48etrGfJrZQaimDW952D60I1qo3JovVoaNoqOs0SBDEScR96GKw/c/b6uzWMRKGllijbUcm4TogBW4yjSAjZZqoi4X97bIwweyfLoBQvsBEtxYjt13qMDxN78SEi4weOwcWnCEB99wfNJ8Kwdk39nFX78Vbj8dwEb2iLOZf3C78TZGRFZAQdglnJHMBE+/RgTngTkKLsBom4wPeyoYlYCV8NduqybGgTySUnI=;vwyymfPYnxM5b+XqkrJIrA=="

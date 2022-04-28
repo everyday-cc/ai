@@ -3,8 +3,8 @@ category: news
 title: "Ford-backed Cavnue seeks to rewire I-94 for self-driving cars"
 excerpt: "Washington, D.C.-based Cavnue LLC, which is focused on designing roads for the future, was tapped by state officials in August 2020 to develop a \"first-of-its-kind connected and autonomous vehicle (CAV) corridor\" in Southeast Michigan."
 publishedDateTime: 2022-04-27T11:00:00Z
-originalUrl: "https://www.crainsdetroit.com/mobility/cavnue-seeks-rewire-i-94-self-driving-cars"
-webUrl: "https://www.crainsdetroit.com/mobility/cavnue-seeks-rewire-i-94-self-driving-cars"
+originalUrl: "https://www.crainsdetroit.com/mobility/ford-backed-cavnue-seeks-rewire-i-94-self-driving-cars"
+webUrl: "https://www.crainsdetroit.com/mobility/ford-backed-cavnue-seeks-rewire-i-94-self-driving-cars"
 type: article
 quality: 24
 heat: -1
@@ -72,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YsU9YbgLfjBMPSZsvyH8cFQj9iZP9Ja3Hpgls3fy/h7snI/Lk+al+u1D7TY8ezb1iyBPdJwlWqboedB4LYIDTIE3PzWcmuicwANKKOOFWNgo+9UbVtbtLs3URVz/8ix05DadLFqEdS93rNJGcHSC+CnFM51KBc9tpkBLc/vqFcXSNLiWiA6qXANUHa/5OJEAnvsftWmakLnrsuoS5RDlSLcPaCeibo/BpE39OOuM13u+k6QkjtPdUieDmLfntT7zV97rd1yY92iUoFC8MIS0ZEHZWLTktT15zDcjvq6bN3V3ooIbmOqcYYSNxckT7U3xpG0CiHrM9wVhS6mBglrVAxk4sjvFigd1SBafGiMrAxuX/NHKMAhd6p8QoD2sWUO0U0JbKZmCoI5kzUGdOjLSTfripaEZZCX9B9/TCUV4oy5kI84h5igc6UxxIPsED+ivzykOV5KKXBEw5rHNyh402+OCAyev0lR1QUTdclq2wjGWGUcPzFkWQdS8bB2mj62vPLHUwxO6Go7FnXZfXYzBeg==;NO+avI1m0C8mHHzP1cjLLA=="
+secured: "rvkqXZRYNvq9k+QBVjOF3kmFpjVR1FDNAtMSEkLv7qR+N81S/+hJsKBtW69okV2NMfXjR+CFUrpUo9y7xCjDtGkWgd2jwXYUyWCcJGoZes+YKAn6NuEyUuV4bwGmsuGDOwaCCvcFAI8YK/OvUrbVViK2gCVX9Kn1jc9PuytZYw68gMOHS9dddplByeQHdh9Gsifl+Ozcf5ai2tZCzt+QvrrM5VrQNfzzq+Jq47POtEVjE63wvbbG1ibFO5TSmcm+x613WFf2i3bk8R0H/6AagzhIPdVrbFpEtdnd5h/Lpi5D6amVUWcjv/46/MC9rGwzn62EMdez+xbuQSdESx29hTWlJIxjn22MkrTuZOKP4rA=;bC2ktT0VVy7aeTDyxwcJtw=="
 ---
 

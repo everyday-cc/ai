@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-whee
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2022-key-performance-top-players-segmentation-future-plans-and-forecast-to-2028-2022-04-26"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Social Media Market 2022: Demand, Market Share, Trend, Business Growth, Prime Key Players Analysis and Forecast by 2028"
+    excerpt: "Global“AI in Social Media”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various research sources to provide specific and reliable analysis."
+    publishedDateTime: 2022-04-27T05:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2028-2022-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ai Platform Service Market Size, Share, Growth and Trends, Forecast to 2030"
     excerpt: "Key Companies Covered in the Ai Platform Service Market Research are  Microsoft (US), Google (US), Salesforce (US), IBM (US), Intel (US),"
     publishedDateTime: 2022-04-23T10:59:00Z

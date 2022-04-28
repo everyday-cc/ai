@@ -1,21 +1,27 @@
 ---
 category: news
-title: "1210352 BC Ltd. Announces Proposed Business Combination with XMachina-AI Inc."
-excerpt: "In connection with, and as a condition precedent to, the Business Combination, 1210 BC intends to change its name to \"XMachina-AI Inc.\" (the \"Name Change\") and to replace all directors and officers of 1210 BC on the effective date of the Business Combination with nominees of XMachina."
-publishedDateTime: 2022-04-27T21:19:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/04/27/1210352-bc-ltd-announces-proposed-business-combination-with-xmachina-ai-inc"
-webUrl: "https://stockhouse.com/news/press-releases/2022/04/27/1210352-bc-ltd-announces-proposed-business-combination-with-xmachina-ai-inc"
+title: "1210352 BC Ltd. Announces Proposed Business Combination With Xmachina-AI Inc."
+excerpt: "BC Ltd. Announces Proposed Business Combination with XMachina-AI Inc. Parties plan to list on the Canadian Securities Exchange Vancouver,"
+publishedDateTime: 2022-04-27T23:04:00Z
+originalUrl: "https://menafn.com/1104109619/1210352-BC-Ltd-Announces-Proposed-Business-Combination-With-Xmachina-AI-Inc"
+webUrl: "https://menafn.com/1104109619/1210352-BC-Ltd-Announces-Proposed-Business-Combination-With-Xmachina-AI-Inc"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?639480"
+    width: 443
+    height: 250
+    isCached: true
 
 related:
   - title: "Teaching AI and robotics concepts in business courses"
@@ -33,6 +39,6 @@ related:
         height: 575
         isCached: true
 
-secured: "pO2OCrJWNlOQ6hXSQawlGz0/fkkkmoPUt+indK+yxZ2Fum3oSD2RtorS7qdzmaT60VKb1avRRXO3HGEIg6IuI+uWmqRu0Zo1UyDQ+ZRScDybPDQBjQ5ST3MmonpXm1AFaENFII2aOeIdIPUi5zt0INwSFqgoM53IrZzfa1zZCWPl+U/5rcigFqNYcfuEJMgPDFD6G6+SWRgW0iCJ8dcYKMtPklFjH3zd7XyR+uvkh20GhNT1Jlyhz4pm/oJaQjXINH8Z0Ch81vsK+Bx9W1EPROj+SH7GTAEYlETRrn+pkS6vKcSqMBx9H2YZffETs7k0SzuI1vGwf6DyCRZz+1Lq/JLYPiJBX8eQIOLex0KfoozTGXghjCY86zW2ELGrCUwLImN1Fkrs5jQm17tkDDUrzDazxRA/BdNTdGZ+d69yiDYkOV4QERIBIH3AQZkgBrpNpxFZduYS8BfdR09xUuwzG7XCdhd/9w79Fx6sLe3/EHSjWwpvVk3X8/w5Fbm53Me4UzLAnsKZWO2SzT2qysuPaw==;gzKuCxbbtaVnplslOl6lYg=="
+secured: "3d1S4OxX7trcF1A1wMsC6mZOHgXscogiQ+PvzTQi9xeErM+PpSWAvXD3eKuwZQRhjNetlp27Zh133lOdgo+XlapWUZOXorpARViTXL1TmtMNoqurU1wWFcy+69NKJ7dAGSF5eTsEIiFhpnAZQhmLNPx6ZiaDp0AsoedJspZgtRjc9j8+l3LTf/+Y3JHQaeM5S9tbDwmpJ5wSD3IlzcSFTHohDWZoFzxt6bL9dYD08nsWRVyGF9kzGOYI2VSWRLLIg7LXjRHlo9jmV/CLGEGXqy7dHup3KBUvru4PwFHgbCdI4ZzSInWoZfDca0D0ziMy6RVHVoxMx0yRUr9zvo7fqtrYyz6y2J9Ujxp/yoWQGyc=;DhD5R0PxNK7AEHQ8XfPMdw=="
 ---
 

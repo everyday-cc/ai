@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Three Ways AI Is Impacting The Automobile Industry"

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/science/animal-behavior-machine-learning-comput
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Social Media Market 2022: Demand, Market Share, Trend, Business Growth, Prime Key Players Analysis and Forecast by 2028"
+    excerpt: "Global“AI in Social Media”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various research sources to provide specific and reliable analysis."
+    publishedDateTime: 2022-04-27T05:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2028-2022-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Platform Market in 2022: with Top Countries Data, Industry Insights by Top Key Players, Types and Applications"
     excerpt: "Global “Artificial Intelligence Platform Market” 2022 report presents an exclusive analysis of market size, share,"
     publishedDateTime: 2022-04-25T08:42:00Z

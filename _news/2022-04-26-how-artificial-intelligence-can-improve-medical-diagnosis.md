@@ -24,17 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "How AI can improve the corporate ESG bottom line"
-    excerpt: "UAE believe bots will succeed where humans have failed with corporate sustainability How AI can improve the corporate ESG bottom line Artificial intelligence, environment, environmental impacts, environmental social and governance,"
-    publishedDateTime: 2022-04-23T05:15:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/how-ai-can-improve-the-corporate-esg-bottom-line"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 17
-
 secured: "Euf+6YIhCuYPLUQ5qnyzI+ZKZg9T7fWHuAoXzIQpZ3QW+EyqcxO2s1p+L/bt6BwqYWLkTpAG7XH3MRHVODdfpx5gpzjDXGJNuYMlPTlM5mADShQDhqbXCklcVP3I0nhqKpW56j3CzQwsTb3wUpji3ZnVqm7yjiakKYwhdmo2nltGnM/7f7UTs/fAdTv65ddNWnDaklVS1QFz5LUhvgsk6vysTnXfh5A5rJ0DfEH4Y8MHKSvTxcmB6n46+fcxcLCnzawM/oGMRGF1KUxguLiXMw8qNcobnDhmCltCyn8SFHcLCHiiFb4I8MfsZUpweY7TTRw2tHiAwdS6+Tn7ethfFZwzj3NsISq7ZiZ6+HRTSVnDNyn4Hlc286gCgDpIOu3wS3N6DM4JwyJY+HHG30pzaQGpGsloLUj1zdp9gWlN2a+wH4a8gsCQfn6Psc9D1vj3o204pts2FF9SdiGqdqBy1N9MqDpyZ740g6kT8REm1mnlYDmLhY27BMkYeqJlfUUoHyO4djjHQFkpO7ic4XMUkA==;ZgRhp2+JtgKY5fJ1j0YvgA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/amp/"
 type: article
 quality: 84
-heat: 95
+heat: 94
 published: true
 
 provider:

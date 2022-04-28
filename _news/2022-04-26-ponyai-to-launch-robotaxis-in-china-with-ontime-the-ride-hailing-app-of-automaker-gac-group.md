@@ -3,8 +3,8 @@ category: news
 title: "Pony.ai to Launch Robotaxis in China With Ontime, the Ride-Hailing App of Automaker GAC Group"
 excerpt: "Autonomous driving technology developer Pony.ai is expanding its presence in China in a new partnership with automaker GAC, which is China’s fifth largest carmaker and a longtime Pony.ai partner. As part of the close collaboration with GAC,"
 publishedDateTime: 2022-04-26T15:30:00Z
-originalUrl: "https://www.futurecar.com/5367/Pony.ai-to-Launch-Robotaxis-in-China-With-Ontime,-the-Ride-Hailing-App-of-Automaker-GAC-Group"
-webUrl: "https://www.futurecar.com/5367/Pony.ai-to-Launch-Robotaxis-in-China-With-Ontime,-the-Ride-Hailing-App-of-Automaker-GAC-Group"
+originalUrl: "https://www.futurecar.com/5367/Ponyai-to-Launch-Robotaxis-in-China-With-Ontime-the-Ride-Hailing-App-of-Automaker-GAC-Group"
+webUrl: "https://www.futurecar.com/5367/Ponyai-to-Launch-Robotaxis-in-China-With-Ontime-the-Ride-Hailing-App-of-Automaker-GAC-Group"
 type: article
 quality: 28
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: futurecar.com
 
 topics:
-  - AI Hardware
+  - AI in Autos
   - AI
 
 images:
@@ -65,6 +65,6 @@ related:
       domain: caixinglobal.com
     quality: 19
 
-secured: "tI/sysMAu9l8nfDxGzxH5K4gIKu9u62Fr0ulioAfcSlkXByWzJrH6nx/vGM/BQvtlXIVZQtOUy3oHR98Q77qzcghuKzb3X0Qqi1N9m3oAtshhLLFtBZZUEKcbPI55MkC0M33mC2nejFgpJ6nrp459krvPAXZl4AdNhEJkG611mKCgbFd4oqqyt9Pr1B6vtC0nh8mWlvzKsBLQ+HnOT8zw04S1tAPdvcUtgWLfYh9Zhpqm0q8J/9EA9XgM/I+ZwyxVh+lss9duYFAckouT+Ha408SP28KDpqrY8mfo0Vhs5cbd4Edhd1xLbGUBobX1mR9e8ld19Uth7zr6vbBihR+E5RtdIrkOyZf9kZaQyZMnn0=;MqWRyX5NDMzI0ftjmsGb4A=="
+secured: "zKwT5RFNqctTx0c24X2S9FHmqA0i/G1Q0Bts2byCuXYd79Bs0qUsEDMsMZtykkVb2KqYKrxv+J8JFUGIJUCgSFx6FQE9Xt9DpqqyURd4VXv1bvV0k/ucs52T/UqgONp949mbakP+aYLgqccRiPAAvPrgCh/qmjCoyKTAyJjIOu1y8Fo/xlPsz940RONP52uyrqAa732uX+n5jvwuNDdCF7Onv87qErOQ7B+Ko1y4j0NdJF66rdj0tD7IyaSxuiGD4raOhFsu87jsAVjeRYV/Vxac7/WB3197n8o2/fzz1czuix55LGRL/a/iHM3OP5sgl0mXaNHglIxkYO653JPXHqzGzHquin36YGAsKqlIBRo=;Hde8CX6jTY/Bm96sjgPSkA=="
 ---
 
