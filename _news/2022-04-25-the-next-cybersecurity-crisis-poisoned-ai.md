@@ -7,7 +7,7 @@ originalUrl: "https://english.aawsat.com/home/article/3610871/tim-culpan/next-cy
 webUrl: "https://english.aawsat.com/home/article/3610871/tim-culpan/next-cybersecurity-crisis-poisoned-ai"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI can close gaps in cybersecurity tech stacks"
+    excerpt: "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments."
+    publishedDateTime: 2022-04-28T04:01:00Z
+    webUrl: "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/"
+    ampWebUrl: "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all"
+        width: 1200
+        height: 618
+        isCached: true
   - title: "The next cybersecurity crisis: Poisoned AI"
     excerpt: "A lot of machine learning relies on massive data sets of unknown provenance. That’s a problem when digital defenses are on the line."
     publishedDateTime: 2022-04-27T13:33:00Z

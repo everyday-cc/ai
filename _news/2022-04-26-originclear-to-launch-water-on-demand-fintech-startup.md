@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 991
         isCached: true
-  - title: "2 Fintech Stocks That Could Help Make You a Fortune"
-    excerpt: "The fintech industry continues to bring change to an industry ripe ... In contrast, Lemonade has developed a model to evaluate prospective customers using AI and behavioral economics. When it collects revenue, the company takes a fee and allocates the ..."
-    publishedDateTime: 2022-04-23T12:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune"
-    ampWebUrl: "https://www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "$36B+ AI in FinTech Industry Trends and Opportunities Assessment, 2027 - The Increasing Utilization of Smart Contracts for Financial Processes is Driv"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
     publishedDateTime: 2022-04-25T02:46:00Z

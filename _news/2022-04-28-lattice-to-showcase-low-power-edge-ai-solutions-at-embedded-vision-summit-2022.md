@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Workshop on Artificial Intelligence"
+    excerpt: "Amritsar: The CSE/IT Department of Global Group of Institutes organised a workshop on Artificial Intelligence and Machine Learning. The workshop was conducted by Anshu Aneja, Director of Ansh Infotech and Kriti Bhatia - AI and ML expert."
+    publishedDateTime: 2022-04-28T01:46:00Z
+    webUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-intelligence-390029"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_181704252.JPEG"
+        width: 1200
+        height: 1495
+        isCached: true
   - title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
     excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"
     publishedDateTime: 2022-04-26T00:49:00Z

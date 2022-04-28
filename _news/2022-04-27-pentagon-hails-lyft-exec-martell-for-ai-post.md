@@ -156,6 +156,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "All about Pentagon’s new AI chief"
+    excerpt: "The US Department of Defense has appointed Dr. Craig Martell as Chief Digital and Artificial Intelligence Officer (CDAO). “With Craig’s appointment, we hope to see the department increase the speed at which we develop and field advances in AI,"
+    publishedDateTime: 2022-04-28T05:36:00Z
+    webUrl: "https://analyticsindiamag.com/all-about-pentagons-new-ai-chief/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/27apr-8.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "kArwestuHRGgBkYA7lGMAlEuCTR3+NAww/4b/pV2KB799G7wwMMOUWQ81bcXbxWKgUSCYAHmp/kj2VM7L0kM4wfvEx+vLBaqmpQfLihn6DWRTKGmzBfmcGX6C1/5lG2JUbAJ/XcprLK8HdqZKhagKMH5mi3SOaUdpbhn1TvDZ/5MkqwvmJ5r2MNc0PuvCAXzOlzrLR6UIueuKqur6i12slOdDAEo/CWqbMCI8nfKwqJCxvhx0080Ltofi7f/rqhmN4b++MnnKVr2Cqu9EdO0mnJ+2NOMKvV8Hy4YzEWgM7X+nPuAKngniRmPQodkFNCEQw2eUxsN/ue4R9g1CjcFV8yeg+h1o074myCAJtMi+X/ksQk5z1lawAJkoLLLbxfCwJwISrPl1iOTo2aOWNsc6JcmVLrRVREZjefsDtVI0cJ9iTZrTPZJFwzPoiskCaVZVbN6tOCfFFkqKsVPILXzZ8xlMn5rba/LjoNb10tN0Gy1Im6tZU041g92uALL61caZYymz7cYnpXUY4YbGV4SoQ==;uWRP9XsWOpfBFBoHJIt1ug=="
 ---

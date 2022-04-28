@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 991
         isCached: true
-  - title: "2 Fintech Stocks That Could Help Make You a Fortune"
-    excerpt: "The fintech industry continues to bring change to an industry ripe ... In contrast, Lemonade has developed a model to evaluate prospective customers using AI and behavioral economics. When it collects revenue, the company takes a fee and allocates the ..."
-    publishedDateTime: 2022-04-23T12:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune"
-    ampWebUrl: "https://www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "OriginClear to Launch Water On Demand Fintech Startup"
     excerpt: "Program brings relief to underserved businesses needing their own water treatment.CLEARWATER, Fla.--(BUSINESS WIRE)--$OCLN #cleanwater--OriginClear Inc. (OTC Pink: OCLN), a leader in clean water innovation,"
     publishedDateTime: 2022-04-26T15:30:00Z

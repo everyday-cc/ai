@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificia
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Man rebuilds childhood friend with talking AI, it tries to kill him"
+    excerpt: "A YouTuber has documented his recreation of his childhood friend in the form of an artificial intelligence that betrayed him."
+    publishedDateTime: 2022-04-28T05:03:00Z
+    webUrl: "https://www.tweaktown.com/news/85848/man-rebuilds-childhood-friend-with-talking-ai-it-tries-to-kill-him/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "moR1wYck39KwQSjqx7MBdINYJ9Bo8TNFL3llPAQ0+SaWN0cZ+lTkoCtezQNyDR7gRcA1hiRTolHygWQ1kBMIkZi1S2O9o8iqQPd3yhOc3kk9W8ib839mko7edKkDF5KU7qlBlMrUFU3l8veWTKe94uLKr704jmgezt7Lu2HCPhn5iIqYYEQOQPHQVtipjhPtghDMtPmQjPXnPf6Zi2zq95tjYG+XmrJGMSndXUJuoo5e3tt9vjuYfdMJDY3nAtm8D/He9+L8Yv3H9z1sPgNVP0e3w9jcaYK2hDJgki/LNeloPFOpL6CjJpDLpSoXEGpFwcyxioJlyK9cEssjd3SuKKCwmVohfdPXdqnUyEhYkixQX8C7kTmNWRI/iEZdwfEydP2Cmla9hRqWsStMla0SbyPAvD6wHsWLiwJojJXiRsfGZ7Vv1AGcekEofTy3FH+kqJHHmZbhNNEotntc8bweXHZlen+i5xZqIbd5PKj9EGntM4VLoM0AazdukoPHEZPFOz6KzSvEYnwaxY2wBZWpaw==;dK9KZRPekrvPHAKUIS4wcA=="
 ---

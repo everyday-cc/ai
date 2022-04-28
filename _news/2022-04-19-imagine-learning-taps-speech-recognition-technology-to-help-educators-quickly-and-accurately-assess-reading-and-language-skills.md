@@ -1,40 +1,20 @@
 ---
 category: news
 title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE ..."
-publishedDateTime: 2022-04-19T12:55:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-webUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE, Ariz., April 19,"
+publishedDateTime: 2022-04-19T12:58:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-imagine-learning-taps-speech-recognition-technology-help-educators-/2022/04/19/9585025.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-imagine-learning-taps-speech-recognition-technology-help-educators-/2022/04/19/9585025.htm"
 type: article
-quality: 21
-heat: 21
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition"
-    publishedDateTime: 2022-04-20T09:38:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 11
-
-secured: "ui6yHP1jvUDl8O0S7IcseYsA8M9OCLpmfm+2Q6aycLjJFQrrmeHawJhSeGnT+A4yLWXQNOHF7YhMVhFg05LFkPqnDzSH34aRhPfCFj9G05zR9wo2pJLQctWUcE+l4BhzcjdREEsrXH1gvl7ix4PjlheG16na0jpES+8DLO1bAzZO0ufAf8Nrqto4P8qD2HWSG4ZZhPzLYvYosXwCThM0nBuNcNMAxk1oEfQ+dWdefDd4SU4gPnp2QAQNTc1KBfVqbv64/OErHYiQeqZwlhH0JVtbfVt4VRiuA13VpWd+WTKDAX8PMBvGvXAkG363s5gTCp/J4pWm5ej8LNqCVeAaAmh6WL8WPqrOAarFt1r+Kbs+IncpV9uHzNDhLRJoFXYvtbTYsPTgZ8YcDqY1UKKXwRwRIHNpnHelANnn84Zj6cukA0O3EPlbyMrOIX7bRGjiYy6NPgWThmgzcVQ1RHAWNEIodsCVTkRHBLxfWcxwLm22izrii/jfTQqogKq5QmlelXxqZ66Dbl+9pM5xov/OSQ==;SyF7y+cj9JoMKXWo+b7gcQ=="
+secured: "gqzHc0kdamBPuz2mHOqhaDYmil0E1tGUZbqGzkYTzIH4Zv7f2Ssm0ZX/Xhcn4ZsNADkdcteJKyhxB5slXaZmRWPfvOZN/WtUacX90j73xmATBWvANrjsNlyyFoGJt5lDm8qRI42xkamtxXvQkQBrUDvrws4t3kQA5GodbdoZ/EcAZLHyet0xXQ7gfs22R8gNjuMSwXWA9BzufxVv0eWJW9SqX0GnJmlFzaW/pEY0ZZTV2TUcO0b0CyW4VUqdhbCvrG9TlM/jPyMhF+5+HvIFVSQHOyarPIgWDr4+B7P7b1TMFJDDjDyCaG9xgCE10AePNp8CB8NDBH2D6lkzhMnUr8gPhiEkrUP8CyWmeXYBQido3cJcXiv+2zzNWXB4v5yR4WhXOE8LVp4b8a+LVOGmLN/YcBUzc9F9sY3xYxmzRIlRwj/flirP9gEpmt3pGd6V2MVQRPQqB6ujObytggblpyqbHW0Pk8vFCIW1t18Gk46/Z/KdTjPrvLgM6hsvaXhF6YswMJXxE6OVH/iLOKqYXw==;E9Qifc5DYNwjGZ2yySXs5w=="
 ---
 

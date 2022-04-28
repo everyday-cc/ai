@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Control Risks Taps Reveal-Brainspace to Bolster its Suite of Analytics, AI and Machine Learning ..."
+    excerpt: "Control Risks, the specialist risk consultancy, today announced it is expanding its technology offering with Reveal, the global provider of the leading"
+    publishedDateTime: 2022-04-27T14:00:00Z
+    webUrl: "https://www.register-herald.com/region/control-risks-taps-reveal-brainspace-to-bolster-its-suite-of-analytics-ai-and-machine-learning/article_ac81af6b-e220-537d-ab3d-dd15bdbdf8ee.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 42
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
+        width: 320
+        height: 325
+        isCached: true
   - title: "Payment Fraud at Record Lows Thanks to Analytics and AI, Visa Says"
     excerpt: "Despite a massive increase in online activity during the COVID-19 pandemic, fraud on the Visa payment network is at an all time low, the company says. One"
     publishedDateTime: 2022-04-26T18:26:00Z

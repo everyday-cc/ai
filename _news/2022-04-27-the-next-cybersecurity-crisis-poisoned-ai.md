@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI can close gaps in cybersecurity tech stacks"
+    excerpt: "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments."
+    publishedDateTime: 2022-04-28T04:01:00Z
+    webUrl: "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/"
+    ampWebUrl: "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all"
+        width: 1200
+        height: 618
+        isCached: true
   - title: "The Next Cybersecurity Crisis: Poisoned AI"
     excerpt: "For the past decade, artificial intelligence has been used to recognize faces, rate creditworthiness and predict the weather. At the same time, increasingly sophisticated hacks using stealthier methods have escalated."
     publishedDateTime: 2022-04-25T05:15:00Z

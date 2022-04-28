@@ -43,6 +43,20 @@ related:
         width: 600
         height: 401
         isCached: true
+  - title: "Finbots.AI Secures US$3 Million in Series A Funding Round From Accel"
+    excerpt: "Finbots.AI, an AI-powered credit scoring software provider, announced it has raised a US$3 million Series A funding round."
+    publishedDateTime: 2022-04-28T04:02:00Z
+    webUrl: "https://fintechnews.sg/60778/ai/finbots-ai-secures-us3-million-in-series-a-funding-round-from-accel/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/04/The-Insurance-Sectors-Digital-Overhaul_Site-1.png?x82653&x82653"
+        width: 600
+        height: 500
+        isCached: true
   - title: "Loris announces $12m Series A to transform AI for customer service"
     excerpt: "Bow Capital and ServiceNow Ventures invest in Loris to bring no-code AI solutions that assist human agents and conversational insights tools to the mass market. NEW YORK, April 26, 2022 /PRNewswire/ -- Loris,"
     publishedDateTime: 2022-04-26T16:30:00Z
@@ -71,6 +85,17 @@ related:
         width: 2168
         height: 1948
         isCached: true
+  - title: "Singapore AI startup Finbots.AI raises US$3m round from Accel"
+    excerpt: "SINGAPORE-BASED artificial intelligence (AI) startup Finbots.AI has raised US$3 million from American venture capital firm Accel in a Series A funding round, it announced on Thursday (Apr 28). Read more at The Business Times."
+    publishedDateTime: 2022-04-28T04:10:00Z
+    webUrl: "https://www.businesstimes.com.sg/garage/singapore-ai-startup-finbotsai-raises-us3m-round-from-accel"
+    ampWebUrl: "https://www.businesstimes.com.sg/garage/singapore-ai-startup-finbotsai-raises-us3m-round-from-accel?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/garage/singapore-ai-startup-finbotsai-raises-us3m-round-from-accel?amp"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 37
   - title: "AI Medical Service Inc. Announces 8 Billion JPY (US$70 M) Series C Financing Led by SoftBank Vision Fund 2 (SVF2)"
     excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech compan"
     publishedDateTime: 2022-04-26T07:00:00Z

@@ -94,20 +94,20 @@ related:
         height: 1043
         isCached: true
   - title: "Pony.ai Approved for Public Driverless Robotaxi Service in Beijing"
-    excerpt: "Public can experience driverless robotaxi for first time in Beijing A milestone on path to large-scale commercial driverless robotaxi FREMONT,"
-    publishedDateTime: 2022-04-28T03:34:00Z
-    webUrl: "https://www.01net.it/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing/"
-    ampWebUrl: "https://www.01net.it/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing/amp/"
+    excerpt: "Public can experience driverless robotaxi for first time in Beijing A milestone on path to large-scale commercial driverless robotaxi Pony.ai, the leading global autonomous driving technology company,"
+    publishedDateTime: 2022-04-28T02:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26858798/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26858798"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26858798"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 74
     images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Pony.ai lassos China's first autonomous taxi license"
     excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
@@ -284,6 +284,6 @@ related:
       domain: uniindia.com
     quality: 9
 
-secured: "qzOPKlzn1yuqQwvEhOfeXJ3pt38Iv/JKQddbTfJteOrBZWMLb4aFLRRxU+6XO+517F7jCYrlJCoP5KesEawYJgPjsTWRuIMO6JGPg4lCJHKGPlq9U2LYHky4CmpuL9zUwmhf1aiwnrouRzPO3/z/iwE+Z0L+acxEE6tSzl0HJp+qYeYlmOWLQwZ3GZKXfXK6lJwhhOJIjNS498nzSCwcmJpG9EhrjAe24ofHKXtZU5nSYvdyYDv9kS9WZ4+PNCQJawkwUTg6mrWFArlWCGZ11cOFuCmJ4m955Dyaka1UwRHiyMsYGI3NySY3qXreyFxMY+AHBJpEMuRC0MzT6PQxMdR9z3XtY0refNkWOz47GEs=;D0jE22TCtxSLhgc6PpuAQQ=="
+secured: "Sm0TMQKrT5k7ozHF/pJ5FXs6Dr76vanJDrHHCH9w/SUxglDIVZjz5eBHLaBW/VIQjTqRDwM+e9ROuguToNO0jWQ/4rzhnG/bEqWNCEeSp8B3AwnQ9KXU0sMUmdmIl183esrnybS3vIcQJR7QHuqNzMPk3u3f7LkX5Kpq49SLs16fFbQTXyBeH2+WTCmR5FoWOfbh6qcHUO5jIi7qgRzlQw+vBDF53AMl130zwjK0TqDmQBb+Jm6Oj8TwmbIBBySiLxLdX2Wj/NCh1DWkjRQP1/2GRSW0tm9K/f2kHkkPxGZwIqH35a8uUV/G6+CqSjSzAql1XKMRh4sgBK+52Dj0QXcMqHppxxbPX4cT+dldUWZbKBnFKZOQxhkr9ULHPw2hRtR022Grx5CK5krbPcJZX74k08TwUZW22xPdpbNfScYlMy55TKa2mBLUqvUj7/86YslRqZQ6AQ7WKmlcmkgooPXhAnDssTqYdk5tG0FOxHg6MPmng1k3c7EPdf4TF96DvT9mFr8VyhR4Yfr+zOEYdA==;GL4eagI8WCO+8QSi/An3Fg=="
 ---
 

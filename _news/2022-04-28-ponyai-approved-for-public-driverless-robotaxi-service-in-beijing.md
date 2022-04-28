@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Pony.ai Approved for Public Driverless Robotaxi Service in Beijing"
-excerpt: "Public can experience driverless robotaxi for first time in Beijing A milestone on path to large-scale commercial driverless robotaxi FREMONT,"
-publishedDateTime: 2022-04-28T03:34:00Z
-originalUrl: "https://www.01net.it/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing/"
-webUrl: "https://www.01net.it/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing/"
-ampWebUrl: "https://www.01net.it/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing/amp/"
+excerpt: "Public can experience driverless robotaxi for first time in Beijing A milestone on path to large-scale commercial driverless robotaxi Pony.ai, the leading global autonomous driving technology company,"
+publishedDateTime: 2022-04-28T02:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26858798/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/b26858798/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing"
+ampWebUrl: "https://www.benzinga.com/amp/content/26858798"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26858798"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -280,6 +280,6 @@ related:
       domain: uniindia.com
     quality: 9
 
-secured: "j7kvmSi7BF4f2vXoSjKgOCpO02vum1YVGPS2PewtuEs5FzGXeF0IZt1xZBk19aQ3yimvtBF/DFkMf9iWZzWlZM5vQO9w7e9oTR1szoY2vsS/hHMHHaHb83TA+7DFmKc8qrt5WlElSkcS5ZeC4DAStrSLLIXVWcNhaAl/Oac4+S+j+Px2RtCqhPgabEs/bofw+6mgFZPM5PnpYTY4M+szIIRmnJveHVv5LRWa05F2R/zdxxgRvJXnZeu9NYpgJDP1T645qR9rXT1swxD75Sp/9jWMmRnsA7VKjsYqknC+EsOvKiIPrajNZ5eqCijuqc9pCkbP/2dts2EKqEJzjJn9rn5RKRkiuzMzfG9EtOPmg5M=;CWGJ9Vv07EqrYdgf+HThuQ=="
+secured: "TTMMUmYqxeUDtU+1Hemp5ChDNb5hDsPbQtMovu7lkr/p4HPBPFBCk+ZL5aU4NoBJuEc5+I6AOc0OnRsfO2ZQTvxmgNzZ1sYAReykGc+gTc+nSxdh/PWyD2MGrkpxwjiequpa8wtW1bal6EPabUbL47fz15/wCrtnj7EOq/Is4OeqbDli6EXeTAclqwgSCJFy3DXfNsSEWwPXbmVdXM3p69mecbq1Pl0nq7wJirOXBNir+/6YF2/aSuBtFakZoczUyMYOYn6QWUlroi3PtJCDLO9krV/fY6NIuBi6cvLymyU/prWoJAnKpbrZuxS4I7eYrs8H+0DHzL/YEOH+tkSscbSnzRgqUWIgILgJ3XAD1ns=;FEGWVKRVADVCsYs2HyvaHw=="
 ---
 

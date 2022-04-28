@@ -42,7 +42,16 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Man rebuilds childhood friend with talking AI, it tries to kill him"
+    excerpt: "A YouTuber has documented his recreation of his childhood friend in the form of an artificial intelligence that betrayed him."
+    publishedDateTime: 2022-04-28T05:03:00Z
+    webUrl: "https://www.tweaktown.com/news/85848/man-rebuilds-childhood-friend-with-talking-ai-it-tries-to-kill-him/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
-secured: "XvcMrMkJsGURg+qzf2ieZ2TgwTGC5NDeVXMnO5a42UHZLCKqZWf1qd99NK1x/9CS+EULWw5yrMyWCnoBZ1OA+ExktM1w92WHHr8s4ljSMaHUdIwr6WZJwmWGVMBDccmlhG8q5wV/YAED1lT47DFdTPwVV83xv3WdKbb8/QlBf+ulR1tGBeMel5mjp3Du85B3JkHePZKTsRNBNBNffGH6gNig+v2WNKs/QOLGspW+sdt06t+qNE4GGijhiQV8+R6hK4JKLvQPUeUGPB9OxRmeFrF5/l068aFURNBO+TAE+r2Q6rVeW2yYfVuEujW8Hmr/n1U5TAxifYEj+yv4eDzqa7gswrkDUZsoNBGgU3mIQ+c=;BmUz7exJNltlsnRLOrJ/fw=="
+secured: "34CUbFjOM5XUGZg21LXQsT6/0Gqpff7nGm662rLnj+qAppynvQt0MXkFgTWYskAXbkzCyizXpyPlFtus8R64k+nrQcBLvnkPblOgYJuLzPABQ8EyfzmhUspwX6JlvpKchjB3zblDG1aPiRFTJEu3LQUdy/HUKcVco9Iu7DGfOkwYFxg6TaMPo4YKpkuHgS6MeUHD42rVhH4+LxBZ7UWVKpjbBvFGXRL/x34+sSVYRj+A0IkO+Aa5WLvdMG7DiTQsJjUiOT78bVNrrQbYnqOb8Yl1eiTVK7mdERI7Xm66kXDK6X+tCOZxuLf2w0Leb9qiC+CEoDBGgv44Gkrl8YZyLtLT4jSkZhe0Se9viPtk92r2ScCe+thZQVe8h1ZIOby6ai4n6DwRXW7uv73DD1onKjFMgabF41HbnYBVEfdv8FhgweLfqcuYkFJAHFJHWbXwTEOtk9KfhFVk//hamTR/N8xE6UY6eGaaRdzNozCrOlEDNuI0IGbCa/cROR3P3ODHB7oDM873urF8b/0o5vaexQ==;rnu3mO33AXuPW/tcf7KRbg=="
 ---
 

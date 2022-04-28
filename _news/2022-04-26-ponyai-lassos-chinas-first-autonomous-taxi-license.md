@@ -106,20 +106,20 @@ related:
         height: 1043
         isCached: true
   - title: "Pony.ai Approved for Public Driverless Robotaxi Service in Beijing"
-    excerpt: "Public can experience driverless robotaxi for first time in Beijing A milestone on path to large-scale commercial driverless robotaxi FREMONT,"
-    publishedDateTime: 2022-04-28T03:34:00Z
-    webUrl: "https://www.01net.it/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing/"
-    ampWebUrl: "https://www.01net.it/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing/amp/"
+    excerpt: "Public can experience driverless robotaxi for first time in Beijing A milestone on path to large-scale commercial driverless robotaxi Pony.ai, the leading global autonomous driving technology company,"
+    publishedDateTime: 2022-04-28T02:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26858798/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26858798"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26858798"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 74
     images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Self-driving startup Pony.ai bags commercial taxi licence in China"
     excerpt: "Chinese startup Pony.ai, established in 2018, has been running a robotaxi service in Beijing after it received a permit in November 2021. Now, it has received a commercial taxi licence, a first for an autonomous driving company in China,"

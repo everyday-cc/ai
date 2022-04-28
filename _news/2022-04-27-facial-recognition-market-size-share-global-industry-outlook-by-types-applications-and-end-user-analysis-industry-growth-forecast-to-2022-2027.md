@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech Recognition Market: Top Manufacturers, Consumption, Sales, Demand, Revenue, and Business Development Strategies by Top Industry Players-2026"
+    excerpt: "The Speech Recognition Market report by Allied Market Research, includes the study of dynamic factors that directly impact the market growth, which involves drivers, restraints, challenges, and opportunities. The report offers a detailed study of market ..."
+    publishedDateTime: 2022-04-28T04:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-top-manufacturers-consumption-sales-demand-revenue-and-business-development-strategies-by-top-industry-players-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/fa4c0760de3f034ce8080d4a1b7c66b9b5a100c8-1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Text-to-Speech Market Top Regions, Leading Players Upcoming Trends and Revenue Forecast"
     excerpt: "Emergen Research Logo Increasing geriatric population and rising demand for handheld devices is driving growth of the global text-to-spee"
     publishedDateTime: 2022-04-25T10:55:00Z

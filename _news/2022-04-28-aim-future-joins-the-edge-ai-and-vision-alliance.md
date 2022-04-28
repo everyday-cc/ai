@@ -9,7 +9,7 @@ ampWebUrl: "https://www.01net.it/aim-future-joins-the-edge-ai-and-vision-allianc
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTIwNTZmYWU2LTRkMmEtNThkNi04MTBiLTA4NWEyNTUwYzFlZCZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9NjA2Ljc0MTU3MzAzMzcxJndpZHRoPTEwODAmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA3ODY1MTY4NTM5MzI1ODQyJmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjg0MjY5NjYxOTIxMzQ4XCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJ1c2luZXNzcG9zdC5pZVxcXC9zYnAtbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY1NGRkMjBmZTczOTk0ZGJjMTMyYWNiYzJjNWNjZjhlM2JlNmJlYWMifQ==/artificial-intelligence-getting-ready-to-rebalance-the-future.84269661921348"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Workshop on Artificial Intelligence"
+    excerpt: "Amritsar: The CSE/IT Department of Global Group of Institutes organised a workshop on Artificial Intelligence and Machine Learning. The workshop was conducted by Anshu Aneja, Director of Ansh Infotech and Kriti Bhatia - AI and ML expert."
+    publishedDateTime: 2022-04-28T01:46:00Z
+    webUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-intelligence-390029"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_181704252.JPEG"
+        width: 1200
+        height: 1495
         isCached: true
   - title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
     excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"

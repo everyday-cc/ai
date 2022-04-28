@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Workshop on Artificial Intelligence"
+    excerpt: "Amritsar: The CSE/IT Department of Global Group of Institutes organised a workshop on Artificial Intelligence and Machine Learning. The workshop was conducted by Anshu Aneja, Director of Ansh Infotech and Kriti Bhatia - AI and ML expert."
+    publishedDateTime: 2022-04-28T01:46:00Z
+    webUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-intelligence-390029"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_181704252.JPEG"
+        width: 1200
+        height: 1495
+        isCached: true
   - title: "Lattice to Showcase Low Power Edge AI Solutions at Embedded Vision Summit 2022"
     excerpt: "The Embedded Vision Summit is a premier conference for innovators incorporating computer vision and edge AI in products. The summit is operated by the Edge AI and Vision Alliance, a worldwide industry partnership bringing together technology providers and end-product companies to accelerate the adoption of edge AI and vision in products."
     publishedDateTime: 2022-04-27T20:12:00Z

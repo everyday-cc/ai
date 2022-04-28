@@ -3,8 +3,8 @@ category: news
 title: "HPE uses blockchain for distributed machine learning models"
 excerpt: "HPE has lifted the lid on two new AI products, one aimed at enterprises wanting to build and train machine learning (ML) models at scale, and a second that introduces a decentralized ML system to enable distributed or edge deployments to share updates to their models."
 publishedDateTime: 2022-04-27T13:08:00Z
-originalUrl: "https://www.theregister.com/2022/04/27/hpe_new_ai_products/"
-webUrl: "https://www.theregister.com/2022/04/27/hpe_new_ai_products/"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/27/hpe_new_ai_products/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/27/hpe_new_ai_products/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/"
 type: article
@@ -38,6 +38,6 @@ related:
       domain: venturebeat.com
     quality: 34
 
-secured: "sJD481Sojj0y87pI+PcE9XvEEn6BZjpE2gkUzC3ixKeCZ4IaLHbZ5IxFDyY/JUH/Vjyepfsm3adm0mmPRqkS/QWV/i3tZ+dkaoO5azxubj4ohOjTtx4HZ5fxKf4jsUbTgd0ZwG2U2H9mV9D+/eK52IZMU7OHezP4GQzlcxyn0Gp5qcBt/c8UVg7Geu0iFveaWXtL5BHclCiWueN0gil4lsfoTWIgHAZYrvTbAXRF9jT0mc/ENiW9eg/MBi8gC8yPn6yyKwqvtT3L/RLs0R/4414H089ZdRKSKbXrItv+/M025fOcF1nnJW9MuHBtCJvB1VU4ZvAAeyzlcLsIAPsb0w3H8LacSKZEW1g7kavoH9yW3QicKLE3TGP9IxUAj9TRqROOCwoixyjlJB7n/L3qwgyGrt41rby5MbdvatELDRHlBJxJe5w9YahEDA2xBmViEoXWiqDc7eoic0vhuFP6GcGePI1AAp4/VsQRf39toD2KIUtIAjcKcWQxYKi49I/Y07KB6nWdcZdV+5G5IetgZQ==;8OY7knoIPjBpSosVqA/pig=="
+secured: "xmaa67bjBXjV1rQ+IosDaTHc9TqI9G7Z9NThT5F/LZUqpZe+1Y3b7ucN1Z+J1J2Z1je04lQ5qh6s8LkBLRVs1rvHmojnp7wiCiuI4em4FCzzklpUWFwcCcVmNIEnYZQtq2ws8T0QFGJDFAykryp3UpcsUabt66AipkYxB/2QirRyb8VV+UXr3VilW5qn40LhiJwsPVNOT5t+/znrFSiQ+Putl2ANVxASNzmxm2GluNPdqLm5FuTowbw22UUvKIe4E0wSmxDbUVIPArUTkhngK/OarD/YaNjlawN+TJVV6cPt7Otp51tJtM6asNUZ/eSE4lqehnaka+BApvpJLuSEKTHRT9rfNN2U62TrRzTeKnk=;9Y+hGqZQxXhwzpYMJnRl8A=="
 ---
 
