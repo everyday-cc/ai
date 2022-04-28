@@ -78,6 +78,20 @@ related:
         width: 2168
         height: 1948
         isCached: true
+  - title: "Singapore-based Finbots.AI raises $3 million"
+    excerpt: "Singapore-based Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of USD 3 Million."
+    publishedDateTime: 2022-04-28T09:14:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92450/singapore-based-finbotsai-raises-3-million"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Ayar Labs Raises $130 Million in Series C Funding, Accelerating Commercialization of Industry’s First In-Package Optical I/O Products"
     excerpt: "Boardman Bay Capital Management leads round joined by strategic investments from industry bellwethers HPE and NVIDIA."
     publishedDateTime: 2022-04-26T21:09:00Z

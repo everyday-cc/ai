@@ -2,24 +2,24 @@
 category: news
 title: "Israeli startup Ception unveils new AI-based system to improve safety, productivity, and profitability of heavy equipment"
 excerpt: "Israeli startup Ception has unveiled an AI-based system that reduces accidents and improves productivity and profitability of heavy equipment at construction sites, mines, quarries, and industrial plants."
-publishedDateTime: 2022-04-14T11:28:00Z
-originalUrl: "https://who13.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/"
-webUrl: "https://who13.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/"
+publishedDateTime: 2022-04-14T11:00:00Z
+originalUrl: "https://pix11.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/"
+webUrl: "https://pix11.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/"
 type: article
 
 provider:
-  name: who13
-  domain: who13.com
+  name: WPIX
+  domain: pix11.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2022/04/WALKER-WHALEN.jpg?w=2000&#038;ssl=1"
-    width: 1920
-    height: 1080
+  - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2022/04/foreo.jpg?w=2000&#038;ssl=1"
+    width: 425
+    height: 523
     isCached: true
 
-secured: "x3uGo8X2qCg3oACrXUXRGrOgdvcq/CMdC2Kgz+TX8YPIMsRkDG4UfwYhbHjsL2Qd33Umk64hEQsZfSZXGyaL5EDkU4q2TXnXgafV8G/rRIU+LCi3BFbS/BBRmeoBD+1H/YaIWgXCNVTXVpmsDMWxMCTLZJsqyN9lQlklI8FIHRWrP4d5WxCA6YqT2bBxywkaZwrSL1lYNzZX23YEGUQ659dblPBlqBYG52XXhqzWGwiAoZelKkCQn0wyp2guj/JE2arisBykWUsAHtNVMeEJk2CTxDglHecFtDF/Vg7X5X7yXS3SpLHPVWEHNUWkg5Ek0kgebmO8vkG49EFL4gwOLgEGxRipB1299Zl7Inu2Cjg=;VqjCy/hC8X1sMFwQwBjM7w=="
+secured: "7XATYV+MtoPx/MTlPkxJh/AYaZT3mP/qppLNtorGR0ltO0Iu9hSN4TNIH8AD2K5jBPI68h/JDFjV/7NAVSZzv80zY7EEd+0/EB8KnTazmyv9Lq8eCJtl8Wtvn8Guw/+e3fa47qn1ruAblrkUS4FhtPjCH5n5eX3tcVHbQSwhjPc+wxcvz9oIn2zYq+mYlBUR7Vr1bFuN2ieoP2BjgBXhtG9FGjkZneyrw0SFpYLZbVstEw6fgkKmb8kBylQ81VvvMJh+fXGLsONsNv6kZzKJ2PLDvzw4AKBiAyRJ/iwADeT28vzyjPniwrIy44oveK/XCw3ryyswL87Vzfd8MA5QSgLg8Rqed/a0FZIbnaAzTrw=;25jpzSfvOg7q+5vlgcgmlg=="
 ---
 

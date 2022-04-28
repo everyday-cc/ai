@@ -1,29 +1,22 @@
 ---
 category: news
 title: "AiM Future Joins the Edge AI and Vision Alliance"
-excerpt: "The company will demonstrate its edge AI accelerator and software technologies at the upcoming Embedded Vision Summit SAN JOSE, Calif.--(BUSINESS"
-publishedDateTime: 2022-04-28T03:34:00Z
-originalUrl: "https://www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/"
-webUrl: "https://www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/"
-ampWebUrl: "https://www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/amp/"
+excerpt: "The company will demonstrate its edge AI accelerator and software technologies at the upcoming Embedded Vision Summit AiM Future, a leader in embedded machine learning intellectual property (IP) for edge computing devices,"
+publishedDateTime: 2022-04-27T17:48:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-28-aim-future-joins-the-edge-ai-and-vision-alliance"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-28-aim-future-joins-the-edge-ai-and-vision-alliance"
 type: article
-quality: 57
-heat: 97
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
 
 related:
   - title: "Artificial intelligence getting ready to rebalance the future"
@@ -40,44 +33,7 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Workshop on Artificial Intelligence"
-    excerpt: "Amritsar: The CSE/IT Department of Global Group of Institutes organised a workshop on Artificial Intelligence and Machine Learning. The workshop was conducted by Anshu Aneja, Director of Ansh Infotech and Kriti Bhatia - AI and ML expert."
-    publishedDateTime: 2022-04-28T01:46:00Z
-    webUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-intelligence-390029"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_181704252.JPEG"
-        width: 1200
-        height: 1495
-        isCached: true
-  - title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
-    excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"
-    publishedDateTime: 2022-04-26T00:49:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 28
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
-  - title: "Lattice to Showcase Low Power Edge AI Solutions at Embedded Vision Summit 2022"
-    excerpt: "The Embedded Vision Summit is a premier conference for innovators incorporating computer vision and edge AI in products. The summit is operated by the Edge AI and Vision Alliance, a worldwide industry partnership bringing together technology providers and end-product companies to accelerate the adoption of edge AI and vision in products."
-    publishedDateTime: 2022-04-27T20:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lattice-showcase-low-power-edge-ai-solutions-embedded-/2022/04/27/9591125.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
-secured: "waaF5/pV+FNoxg1Ts7g8kdLRgEmi37DXlGIilNRfsiidWggJIm8JaKY2YzJYl6vcSgZXrhOPiOKPoKA5Kw02mWz5am79hiv+iK+Xa+KuMcGBJAGsPcWHP4fq//asUQjWFCFqoMjBk4Gq3nReOIGqZ3nTlneN/Q4ts+SdYdllksJMT3Lp9nlP12xjoeGbLdS1pc725K+Av3pBfTcKxP0AMoJXCglGxcl8XpsuCNhZF9E7RFDP5+QpC1nag8Nc1UlLNk8/0PSoOsqdob6RWtcXnRRDycLvj0rfZdABYVHflJ+5X7Kusv2OmnN8b47Kfup0Omp1sXmeIimdhgDpAFf7nUlViEJCeywHTjsn8UJ6x9I=;9yOL9tCFKdAS2+Q7rNRszg=="
+secured: "XViTmzMMw05L9jV6c55wQulyH/p9/uXncwLTvA1N30UqK4RWwpsxAOvAXGeZ4zU4uz6N7yDnTB25FI07kc1+8eP+U0fqFJQUXFUewxdlAEZlBbp8e1WEK5K0h9DaNnzU4sxiUadZHFHzAn6+7OacEd4xdBLHb8WPBw83uE9focIyqkTkchrWo3HCGfYcMw3FgOz07l7VahtV+306Y12mpygHi005IgZHclqvwO6x2fYgjJfyCu59Jt3MazoJIR6IIrOsItWYFty0kVOIp6n88C9KQDoa0rmJaVbmyQIyG8x1hwirSCxeuiuCdFJ8qUDkd7yaNqGdfl3oQ3Xl+MI80s1uJGYRjnnnKnUCRTbeyO0O/tCQeOduIABPFPR9JB/2W8mA4q13olfC+TSrushT95/h5ufFPTUN+JpwDN2Rf0Hux2PylXTEyrXkxBcOJrpbRKEl4p02Zrx7TIldtsOkY6RZScu9MsgbW35mVBlkFGzCn1nFZgQwKErlJizbRoNZEikSojylifNV+ce1QJZJmw==;d1e6gq9wvvuTQFjjBJpu9g=="
 ---
 

@@ -96,6 +96,20 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 37
+  - title: "Singapore-based Finbots.AI raises $3 million"
+    excerpt: "Singapore-based Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of USD 3 Million."
+    publishedDateTime: 2022-04-28T09:14:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92450/singapore-based-finbotsai-raises-3-million"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "AI Medical Service Inc. Announces 8 Billion JPY (US$70 M) Series C Financing Led by SoftBank Vision Fund 2 (SVF2)"
     excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech company using deep learning technology to develop endoscopic AI, has announced 8 billion JPY (US$70 million) of financing led by SoftBank Vision Fund 2 (SVF2) and joined by existing investors Globis Capital Partners,"
     publishedDateTime: 2022-04-26T07:00:00Z

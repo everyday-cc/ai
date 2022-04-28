@@ -8,8 +8,8 @@ webUrl: "https://www.deseret.com/2022/4/25/23034733/artificial-intelligence-key-
 ampWebUrl: "https://www.deseret.com/2022/4/25/23034733/artificial-intelligence-key-toipic-at-world-government-summit-omar-sultan-al-olama-dubai-uae?_amp=true"
 cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/2022/4/25/23034733/artificial-intelligence-key-toipic-at-world-government-summit-omar-sultan-al-olama-dubai-uae?_amp=true"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://deseret.brightspotcdn.com/dims4/default/8e62d79/2147483647/strip/true/crop/2894x1928+53+0/resize/740x493!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2F8DAWrR53d-5nRCxtLhbslCUQXV4%3D%2F0x0%3A3000x1928%2F3000x1928%2Ffilters%3Afocal%281500x964%3A1501x965%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F23410201%2Fmerlin_2919597.jpg"

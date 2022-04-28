@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "US Bank introduces Spanish-speaking virtual assistant in mobile app"
+    excerpt: "U.S. Bank is the first financial institution in the United States to offer an experience Spanish-speaking customers have never had before: the ability to bank via mobile app in their preferred language – just by speaking it."
+    publishedDateTime: 2022-04-28T09:14:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92451/us-bank-introduces-spanish-speaking-virtual-assistant-in-mobile-app"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 41
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "U.S. Bank Launches Nation’s First Spanish-Language Voice Assistant for Banking"
     excerpt: "“Our software engineers solved for that through a hybrid approach using smart technology, natural language processing and real-time interpretation.” By talking or texting with Asistente Inteligente, Spanish speaking customers have an incredibly easy ..."
     publishedDateTime: 2022-04-27T02:50:00Z

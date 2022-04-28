@@ -58,7 +58,7 @@ related:
     provider:
       name: igamingbusiness.com
       domain: igamingbusiness.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://igamingbusiness.com/wp-content/uploads/2022/04/16-18_TI_Can-AI-revolutionise-gaming_mainimage-1.png"
         width: 1200

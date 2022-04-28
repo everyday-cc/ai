@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-27T09:38:00Z
 originalUrl: "https://igamingbusiness.com/ai-gambling-industry/"
 webUrl: "https://igamingbusiness.com/ai-gambling-industry/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://igamingbusiness.com/wp-content/uploads/2022/04/16-18_TI_Can-AI-revolutionise-gaming_mainimage-1.png"
@@ -64,6 +65,6 @@ related:
         height: 360
         isCached: true
 
-secured: "iObIyFOhCeLYngUyyf2+3oIXguy5idfTPQsCWn5Yq61095gneO1qqcTdhzGivbX4sGRqqMp+NBTqi9wL/e8asPMYjoajtosxQsJMtBDkp137AnNTO0eoiils6UPOyb3UIxagFMJa73sJ4+UhquCa1kMYvM/q5bscmA/c8ZA6hFtRbQ0oGyHtr6YVJtim24dvGj9XUsrCOKxzHQqcw40jCRKcN3H/5uJ9SEvZt4f4tJvpk8bm+erZaGGD2eAlkt3G2ogLp6ejkwazVxRH+5CJFs0hy5v6iGR/ZD0YHJSFkTf/9ROU4zwvNzpFP9MBG69CfwkDVYtySDsETSwYsZMF+ez62tXf9qU8N5Tc0HVseKw=;u0Id+tjj9m2z5d8uvRXR8g=="
+secured: "PkgMV4XusGYA8nVs3R5nwE+I27cbjOD4C4Ejei6osRoATb8dhy/p1vnBcPotDUraxSXqVccawp/zZlk8amJGVbVnFQGfaLqSNqUXyGEBi3cxWUHktIFhcxK3bVWw6WWf7rJcUsQ9DOYyVrg6smL4r0bQUsLNtYjHzeu5fys5johCnvsdDAYTninD/WpSQmA9RTQMYQli4cUDXxcZS3eJqm0Q0U5+zrftMTv04CpibgmdO4Hfp2+AJM6jFaeh2oOjK1jwniAk4MHvfh+G65LLiCbEl7rTuGf7sFwwTZo5FhKN6Gb1cFwdnIoQU/urtWOd8a7sEqqwH95xzR7icjBQcuSmCIqEo3lxLOpq1VVp+rEBx9kVy15E/123RJDzcAjjZOzeEYzqgeKFty1IRHd3emjloriU9WyYwiidoGpiLBOv0cKOB4R5mSlQcHx1iqRGm5C7qxuiW+Q8tjHOn/ycr5w7ZzhaTmvpCy8vAayPN1jmxOFRTUKKgfqAynbaV8ARZh6CrC8tf6dUIzAqAdiwbA==;P5aIi4QIDLaYkoB5jBpOxw=="
 ---
 

@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Syncron Launches the First Contract Price Solution with Risk Assessment for Aftermarket Service Sales"
-excerpt: "With advanced machine-learning models predicting service costs and calculating risk probability, manufacturers are enabled to optimize service contract pricing and maximize margins ATLANTA, April 27,"
-publishedDateTime: 2022-04-28T03:30:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=653910"
-webUrl: "https://us.acrofan.com/detail.php?number=653910"
+excerpt: "With advanced machine-learning models predicting service costs and calculating risk probability, manufacturers are enabled to optimize service"
+publishedDateTime: 2022-04-28T08:48:00Z
+originalUrl: "https://www.finanzen.at/nachrichten/aktien/syncron-launches-the-first-contract-price-solution-with-risk-assessment-for-aftermarket-service-sales-1031390940"
+webUrl: "https://www.finanzen.at/nachrichten/aktien/syncron-launches-the-first-contract-price-solution-with-risk-assessment-for-aftermarket-service-sales-1031390940"
+ampWebUrl: "https://www.finanzen.at/nachrichten/amp/syncron-launches-the-first-contract-price-solution-with-risk-assessment-for-aftermarket-service-sales-1031390940"
+cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/syncron-launches-the-first-contract-price-solution-with-risk-assessment-for-aftermarket-service-sales-1031390940"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: finanzen
+  domain: finanzen.at
 
 topics:
   - AI in Finance
   - AI
   - AI in Sales
-
-images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
-    isCached: true
 
 related:
   - title: "Syncron Launches the First Contract Price Solution with Risk Assessment for Aftermarket Service Sales"
@@ -36,6 +32,6 @@ related:
       domain: wfmz.com
     quality: 6
 
-secured: "k+YNtADDyxlrhUH+LKb4tJRgqZ3lpN4oJ9rbKqdf621JGdk5NUXtoSfvNss3U+AYb2xma4i9JYkg6cpMwdjjAiJutMtJJzDZIn0OqxB41Mf8t52O6WYTDj4+4u7DUMW6gS4phde4beQ6CwA3f0cSZCKJxJyeaMzOUOOMmkrDHSpb4YfPH0ZxVviYAw6JaPC0A+Lmf+3AqUtrqtbJTTHSUvZhUmAsKntvY+NRuN3BJ61D91ZiDh+s0rmaADx1oRsec6UZnQw77OynN0aOliNlsqW8LA/a9qLk/+LBVMHtEjxq2zVx7W443kTpqm6GmAOdfdObIojCxqst99WzgOfB2PHq3QcTiKNlp80XtEGw4tQ=;Rn0RgbjO5hox8T/j+xUYvA=="
+secured: "f4q86rzkVP24WOqz0E98zgXy35ENdJybf+rHmDjwQ8wr6e7mEr1MSHaeR59SJiDbePbkQq7lRdUHBS0Q65LLMBZzfPNWJUJP8VEwNBi7ZkM/ozdXCpJQmwIexgraCDM+g8flG9aDooLds4urdcXMMwYlmY1uNr17qiFCsxqfqXKKgFGk6Q9WEPcB8R4rmg8QR1GGfpN/r7xeR66Ij9wsnBixdAH0+cuN6CGqeWDVhwuoPVTrTQkN4EwZ/T6qdK7WRkLUbwHRsA8TlAF4l2pzpsOC3lgUFJUSCdcWi2pt+Cbj30KjIQ5FLmpGoelE2U4tcCUiC2LVWK19wDrFAHGHgwlBEmS+jJLIDyQ6kYv0tVs=;SH0HakGMepZ9ZRqzn+9g5w=="
 ---
 

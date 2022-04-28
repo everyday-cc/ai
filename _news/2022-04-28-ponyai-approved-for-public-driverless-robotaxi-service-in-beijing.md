@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Start-up Pony.ai says it's the first self-driving company to get a taxi license in China"
+    excerpt: "Self-driving start-up Pony.ai announced Sunday it ... It is not the same as a taxi licence. Baidu's Apollo Go also received approval in the same Beijing district last year. Pony.ai was valued ..."
+    publishedDateTime: 2022-04-24T02:57:00Z
+    webUrl: "https://www.cnbc.com/2022/04/24/ponyai-says-its-first-self-driving-firm-to-get-taxi-license-in-china.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/04/24/ponyai-says-its-first-self-driving-firm-to-get-taxi-license-in-china.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/24/ponyai-says-its-first-self-driving-firm-to-get-taxi-license-in-china.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 80
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107050694-1650758283819-Ponyai_Robotaxi_in_Nansha_3.jpg?v=1650758802"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Pony.ai to Launch Fleet of Robotaxis with Ontime..."
     excerpt: "GAC is one of China's largest automakers and a longtime Pony.ai partner Introduces Pony.ai's partnership approach to commercializing robotaxis and strengthens Pony.ai's significant leadership in the G"
     publishedDateTime: 2022-04-26T06:30:00Z
@@ -323,6 +339,20 @@ related:
       name: United News of India
       domain: uniindia.com
     quality: 9
+  - title: "Baidu, Pony AI granted China's first robotaxi permits in Beijing Baidu, Pony AI granted China's first robotaxi permits in Beijing"
+    excerpt: "Beijing took the lead in China by issuing its first batch of permits to allow Baidu and Pony AI to serve the public with autonomous taxis, or robotaxis, on Thursday."
+    publishedDateTime: 2022-04-28T09:10:00Z
+    webUrl: "https://news.cgtn.com/news/2022-04-28/Baidu-Pony-AI-granted-China-s-first-robotaxi-permits-in-Beijing-19B6sPRz30s/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 8
+    images:
+      - url: "https://news.cgtn.com/news/2022-04-28/Baidu-Pony-AI-granted-China-s-first-robotaxi-permits-in-Beijing-19B6sPRz30s/img/7431862626c445b6a2903c88bc8cf8e9/7431862626c445b6a2903c88bc8cf8e9-1280.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "TTMMUmYqxeUDtU+1Hemp5ChDNb5hDsPbQtMovu7lkr/p4HPBPFBCk+ZL5aU4NoBJuEc5+I6AOc0OnRsfO2ZQTvxmgNzZ1sYAReykGc+gTc+nSxdh/PWyD2MGrkpxwjiequpa8wtW1bal6EPabUbL47fz15/wCrtnj7EOq/Is4OeqbDli6EXeTAclqwgSCJFy3DXfNsSEWwPXbmVdXM3p69mecbq1Pl0nq7wJirOXBNir+/6YF2/aSuBtFakZoczUyMYOYn6QWUlroi3PtJCDLO9krV/fY6NIuBi6cvLymyU/prWoJAnKpbrZuxS4I7eYrs8H+0DHzL/YEOH+tkSscbSnzRgqUWIgILgJ3XAD1ns=;FEGWVKRVADVCsYs2HyvaHw=="
 ---

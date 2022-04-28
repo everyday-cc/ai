@@ -20,6 +20,20 @@ topics:
   - AI in Finance
 
 related:
+  - title: "US Bank introduces Spanish-speaking virtual assistant in mobile app"
+    excerpt: "U.S. Bank is the first financial institution in the United States to offer an experience Spanish-speaking customers have never had before: the ability to bank via mobile app in their preferred language – just by speaking it."
+    publishedDateTime: 2022-04-28T09:14:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92451/us-bank-introduces-spanish-speaking-virtual-assistant-in-mobile-app"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 41
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "U.S. Bank Launches Nation’s First Spanish-Language Voice Assistant for Banking"
     excerpt: "U.S. Bank is the first financial institution in the United States to offer an experience Spanish-speaking customers have never had before: the ability to bank via mobile app in their preferred language – just by speaking it."
     publishedDateTime: 2022-04-26T12:02:00Z

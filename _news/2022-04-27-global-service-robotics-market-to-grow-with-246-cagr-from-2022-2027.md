@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104102162/Global-Service-Robotics-Market-to-gr
 webUrl: "https://menafn.com/1104102162/Global-Service-Robotics-Market-to-grow-with-246-CAGR-from-2022-2027"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Market To Witness A Outstanding CAGR Of 48% By 2027"
+    excerpt: "Market Highlights Artificial intelligence can possibly switch the world up us by modernizing the manner in which we convey, work, and direct our everyday"
+    publishedDateTime: 2022-04-28T09:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-market-to-witness-a-outstanding-cagr-of-48-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 47
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/EEE-4-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Aerospace Robotics Market Exhibiting at a CAGR of 11.82% During 2022-2027 | IMARC Group"
     excerpt: "According to the latest report by IMARC Group, titled “Aerospace Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
     publishedDateTime: 2022-04-25T09:22:00Z

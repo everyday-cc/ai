@@ -33,20 +33,6 @@ related:
         width: 2560
         height: 1709
         isCached: true
-  - title: "Fintech elevate wealth management, AMCAP expands intelligent developments"
-    excerpt: "This is not an investment advice. Please conduct your own research when investing in any project. AMCAP, a well-known wealth management institution, has"
-    publishedDateTime: 2022-04-23T15:38:00Z
-    webUrl: "https://www.digitaljournal.com/pr/fintech-elevate-wealth-management-amcap-expands-intelligent-developments"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/89a9a03e9025c39404bd40fdd97db6ea5cd221c8-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Cross River and Sardine Partner to Build Critical Risk and Payments Infrastructure for Fintech, Web3 and Crypto Companies"
     excerpt: "Sardine will leverage Cross River’s payments platform as part of its integrated fraud prevention software for fiat and crypto transactions. Partnership further solidifies Cross"
     publishedDateTime: 2022-04-25T13:00:00Z

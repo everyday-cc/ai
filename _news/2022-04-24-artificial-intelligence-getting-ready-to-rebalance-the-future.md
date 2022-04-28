@@ -7,7 +7,7 @@ originalUrl: "https://www.businesspost.ie/connected/artificial-intelligence-gett
 webUrl: "https://www.businesspost.ie/connected/artificial-intelligence-getting-ready-to-rebalance-the-future-6c8f5c4e"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,58 +25,14 @@ images:
 
 related:
   - title: "AiM Future Joins the Edge AI and Vision Alliance"
-    excerpt: "The company will demonstrate its edge AI accelerator and software technologies at the upcoming Embedded Vision Summit SAN JOSE, Calif.--(BUSINESS"
-    publishedDateTime: 2022-04-28T03:34:00Z
-    webUrl: "https://www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/"
-    ampWebUrl: "https://www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/amp/"
+    excerpt: "The company will demonstrate its edge AI accelerator and software technologies at the upcoming Embedded Vision Summit AiM Future, a leader in embedded machine learning intellectual property (IP) for edge computing devices,"
+    publishedDateTime: 2022-04-27T17:48:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-28-aim-future-joins-the-edge-ai-and-vision-alliance"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 57
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Workshop on Artificial Intelligence"
-    excerpt: "Amritsar: The CSE/IT Department of Global Group of Institutes organised a workshop on Artificial Intelligence and Machine Learning. The workshop was conducted by Anshu Aneja, Director of Ansh Infotech and Kriti Bhatia - AI and ML expert."
-    publishedDateTime: 2022-04-28T01:46:00Z
-    webUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-intelligence-390029"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_181704252.JPEG"
-        width: 1200
-        height: 1495
-        isCached: true
-  - title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
-    excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"
-    publishedDateTime: 2022-04-26T00:49:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 28
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
-  - title: "Lattice to Showcase Low Power Edge AI Solutions at Embedded Vision Summit 2022"
-    excerpt: "The Embedded Vision Summit is a premier conference for innovators incorporating computer vision and edge AI in products. The summit is operated by the Edge AI and Vision Alliance, a worldwide industry partnership bringing together technology providers and end-product companies to accelerate the adoption of edge AI and vision in products."
-    publishedDateTime: 2022-04-27T20:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lattice-showcase-low-power-edge-ai-solutions-embedded-/2022/04/27/9591125.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
 
 secured: "SyWmLJgCSwYF3LrzmJiiYj+87zgldxePOzppReVM+4HCxf+9dXoQamtU3l9tG5J3fhk9mYV3WfpzbQ8/kJ+B9Qg4EdwxFzvYO5hHlSOEhLeBQ8Wj7FfRZeZ/IzSWADjECeA1187/+ti7p4FAggtcZ454ahvu6ecG+Ec8upMv65zEy07CHs3Qk6SL36BuhMgZbi0I/hmMliT+NmdaDuitmynYKc1XGa3hurgeH4Lqmwrx7uiPXol0HMUpPQZVC4DgVCIwsohzrBReJIp2mSoVuA2yvg3nGJyhlUjYurkHGDDTNoRQrwLCshjymE37k2LnmQ7hPyknSJaU3RNfPbG/iDEN/tMjQfJUYLf+HEg0+XM=;kV3Za0C790UN/IGOEFkDyQ=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Artificial Intelligence (AI) Market To Witness A Outstanding CAGR Of 48% By 2027"
+    excerpt: "Market Highlights Artificial intelligence can possibly switch the world up us by modernizing the manner in which we convey, work, and direct our everyday"
+    publishedDateTime: 2022-04-28T09:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-market-to-witness-a-outstanding-cagr-of-48-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 47
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/EEE-4-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Cloud BackupMarket Size 2022 Trend and Opportunities, Market Share,Analysis, CAGR and Value Chain Study, Business Growth to 2025"
     excerpt: "Cloud Backup Market“ study has 185 pages, 90 tables and figures.Worldwide markets are poised to achieve continuing growth as Cloud"
     publishedDateTime: 2022-04-25T07:10:00Z
