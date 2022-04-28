@@ -165,6 +165,20 @@ related:
         width: 1000
         height: 475
         isCached: true
+  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
+    publishedDateTime: 2022-04-28T06:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 56
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Baidu, Pony.ai granted driverless taxi permits in Beijing"
     excerpt: "Baidu and on Thursday announced that they have obtained permits from the Beijing city government to offer driverless rides in an area of 60 square kilometers (23 square miles) in the city’s southeast Yizhuang district."
     publishedDateTime: 2022-04-28T06:10:00Z
@@ -179,17 +193,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals."
-    publishedDateTime: 2022-04-28T07:01:00Z
-    webUrl: "https://www.seattletimes.com/business/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "Pony.ai Approved for Public Driverless Robotaxi Service in Beijing"
     excerpt: "Pony.ai, the leading global autonomous driving technology company, today announced that the general public in Beijing, China, will be able to experience driverless robotaxis for the first time. Pony.ai was one of two robotaxi operators awarded a permit by Beijing city authorities to offer driverless service in southeastern Beijing."
     publishedDateTime: 2022-04-28T02:21:00Z
@@ -291,7 +294,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
     type: article
     provider:
       name: The Financial Times
@@ -386,6 +389,6 @@ related:
         height: 720
         isCached: true
 
-secured: "4CNGNg5FC4Dj7wR2yEjoGnSHJevhsLFW6x8hpPvxTiVCXcK22dFty06LiLsavvcms3KA7JZfE5tilmTMPOkRbVrZnvL+RmhBL5Cn2yIywHeAwI5L/+zfZNnDh1yilCw0UAVb2Um+M+FdsSbs3dvCoNGn8Zwscby51QiP9MwxqtzkFhFc7mHck3uhOsSSZa2xtUN7uJ/3T3U0cR40mlYq8s7rt+PneMD/ajKLBaq1icKrXa9KHXeLsKaPQ6CPBazEEX0lQN19V89k7GWpfY6jesxWusmAQei5sxn6P8Yexqk4ctlyXTWbHP+DMylxUOhunhhtzoWKOlSSYCPg9R0Z6uSpiGWsGFzUXX3mza447eA=;jRRKBV2XDWdDBQgkCEGbJQ=="
+secured: "7zKY8cmob4WnSkC/VgpSk54qJAVZkYj8KbzyfHv+uk/6JnlZHoq2kP5A2eXDh1sX6YKm8czJ6h2vwAup6VWKlmQM6FQ/dfYxeXOS537S+vVA8eNHVilD4GeH8eXJf3ltBD6cfrZXOYUm21RUWWGLg3THxYigZlreGZL+1lYCaWkFuBsQ7a/KkwoocpQxhbzGOOXao0CURnyYvExOt+xJTTyRjAW6WPR/k75ahUGPd1sZQYXY15zmRPejcLe5f77pnVE4kOW2isgKTHcQtN9vyUmL4jPMR7eSnf1Qeq25qsZLGpyACxSRD20LpmbNcwdQfqEQXSnqFZcu2mcS6zK4L8EPLKXYplFpS6or3CltJIOQxTx4O9n58FxJpGkJUntPED+0iVAnMSNY3xxRxdrNh9hKdICo6x+DLhQwiwSDFNoOUl4oJs6lKeCaOg5gLsjRwU8QoMhJ/EZhA9ABorstPgUMhWeypuxBia4eU/w4DyqfWlY2wbk08rRnqp6Z0zGqIGmMvx3BbaYWBv6brn22hg==;P8J+gmrYvADHbPqDyzk7lQ=="
 ---
 

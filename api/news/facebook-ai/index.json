@@ -2,38 +2,29 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-28-tiktok-is-eating-facebook-from-the-inside.md",
-      "title": "TikTok is eating Facebook from the inside",
-      "excerpt": "Facebook had a TikTok problem. This year, it has several. The Chinese-owned video app is eating Mark Zuckerberg’s social network from the inside, first by luring its users and now by challenging Facebook as a news source too.",
+      "path": "_news/2022-04-28-facebook-parent-meta-is-studying-the-human-brain-to-improve-ai.md",
+      "title": "Facebook Parent Meta Is Studying the Human Brain to Improve AI",
+      "excerpt": "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-inside-2022-04-27/",
-      "originalUrl": "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-inside-2022-04-27/",
+      "webUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
+      "originalUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 71,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/I8gnFrAtvNuTHPgz2LFv4mwExcU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B5SGK6W4PRPQHJHQERPWSZFN7Y.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T13:10:00-07:00",
+      "publishedDateTime": "2022-04-28T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +41,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

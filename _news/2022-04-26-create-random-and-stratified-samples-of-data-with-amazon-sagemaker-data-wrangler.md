@@ -57,6 +57,34 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Pandas user-defined functions are now available in Amazon SageMaker Data Wrangler"
+    excerpt: "Amazon SageMaker Data Wrangler reduces the time to aggregate and prepare data for machine learning (ML) from weeks to minutes. With Data Wrangler, you can select and query data with just a few clicks, quickly transform data with over 300 built-in data transformations, and understand your data with built-in"
+    publishedDateTime: 2022-04-28T17:38:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Featured-images-for-ML-9272-new.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Identify paraphrased text with Hugging Face on Amazon SageMaker"
+    excerpt: "Identifying paraphrased text has business value in many use cases. For example, by identifying sentence paraphrases, a text summarization system could remove redundant information. Another application is to identify plagiarized documents. In this post, we fine-tune a Hugging Face transformer on Amazon"
+    publishedDateTime: 2022-04-28T16:56:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/identify-paraphrased-text-with-hugging-face-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/12/ML-5880-image001.jpg"
+        width: 415
+        height: 281
+        isCached: true
   - title: "Part 1: How NatWest Group built a scalable, secure, and sustainable MLOps platform"
     excerpt: "This is the first post of a four-part series detailing how NatWest Group, a major financial services institution, partnered with AWS to build a scalable, secure, and sustainable machine learning operations (MLOps) platform. This initial post provides an overview of the AWS and NatWest Group joint team"
     publishedDateTime: 2022-04-26T15:17:04Z

@@ -2,6 +2,289 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-28-meta-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint.md",
+      "title": "Meta AI Finds New Concrete Recipes to Cut Meta's Carbon Footprint",
+      "excerpt": "Meta, Facebook's parent company, has used AI to create new formulas for concrete, which emit up to 40% less carbon dioxide. Why it matters. Cutting carbon dioxid",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/",
+      "originalUrl": "https://www.cnet.com/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/f90c437da867007039ebc2649c5df6aea79d8aa0/2022/04/27/02359d41-3b42-41f0-923c-6b131481e2fb/facebook-meta-sustainable-concrete.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/",
+      "publishedDateTime": "2022-04-27T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale.md",
+      "title": "HPE releases ML development system to help companies deploy AI at scale",
+      "excerpt": "HPE today released a new Machine Learning Development System. The ready-to-use system allows users to immediately build and train AI models at scale and realize faster value.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/27/hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale/",
+      "originalUrl": "https://venturebeat.com/2022/04/27/hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-coherent-raises-75m-series-b-to-enable-hybrid-work-era-development.md",
+      "title": "Coherent raises $75M series B to enable hybrid-work era development",
+      "excerpt": "Coherent Spark’s no-code app provides in a few minutes what can take days or weeks using a conventional business software development cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/",
+      "originalUrl": "https://venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341846254-e1651015028230.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/amp/",
+      "publishedDateTime": "2022-04-27T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.md",
+      "title": "New HPE offerings aim to turbocharge machine-learning implementation",
+      "excerpt": "Machine Learning Development System and Swarm Learning address implementation pain points for enterprise users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
+      "originalUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/17/21/ai_machine-learning_analytics_data-scientist-100777422-large-100914304-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
+      "publishedDateTime": "2022-04-27T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-lighting-up-artificial-neural-networks-with-optomemristors.md",
+      "title": "Lighting up artificial neural networks with optomemristors",
+      "excerpt": "A team of international scientists have performed difficult machine learning computations using a nano-scale device, named an \"optomemristor.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-04-artificial-neural-networks-optomemristors.html",
+      "originalUrl": "https://techxplore.com/news/2022-04-artificial-neural-networks-optomemristors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg",
+          "width": 1920,
+          "height": 1497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-04-artificial-neural-networks-optomemristors.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-artificial-neural-networks-optomemristors.amp",
+      "publishedDateTime": "2022-04-27T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-using-ai-to-diagnose-mild-cognitive-impairment-that-progresses-to-alzheimers.md",
+      "title": "Using AI to diagnose mild cognitive impairment that progresses to Alzheimer's",
+      "excerpt": "Alzheimer's disease is the main cause of dementia worldwide. Although there is no cure, early detection is considered crucial for being able to develop effective treatments that act before its progress is irreversible.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/brain-mri.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.amp",
+      "publishedDateTime": "2022-04-27T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-nvidia-said-to-be-testing-an-rtx-40-series-gpu-that-needs-up-to-900-watts.md",
       "title": "Nvidia said to be testing an RTX 40 series GPU that needs up to 900 watts",
       "excerpt": "With the RTX 3090 Ti graphics card, Nvidia squeezed the last bit of performance it could from the Ampere architecture by raising the power limit to",
@@ -189,6 +472,59 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-crowdstrike-unveils-tools-to-fight-threats-to-cloud-native-applications.md",
+      "title": "CrowdStrike unveils tools to fight threats to cloud-native applications",
+      "excerpt": "CrowdStrike has unveiled new capabilities for its adversary-focused cloud-native application protection platform (CNAPP).",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/",
+      "originalUrl": "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/01/ss-cloud-security-lock.jpg?w=1200&strip=all",
+          "width": 350,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/amp/",
+      "publishedDateTime": "2022-04-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -854,335 +1190,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-bell-and-amazon-web-services-bring-5g-edge-compute-to-canada.md",
-      "title": "Bell and Amazon Web Services bring 5G Edge Compute to Canada",
-      "excerpt": "CNW Telbec/ - Bell today announced the launch of the first public multi-access edge computing (MEC) with AWS Wavelength in Canada. Building on Bell's agreement with AWS, announced last year, together the two companies are deploying AWS Wavelength Zones throughout the country at the edge of Bell's 5G network starting in Toronto.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/",
-      "originalUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/",
-      "publishedDateTime": "2022-04-26T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-pentagon-taps-lyfts-machine-learning-chief.md",
-      "title": "Pentagon Taps Lyft’s Machine-Learning Chief",
-      "excerpt": "Craig Martell was named as the Defense Department’s first chief digital and artificial intelligence officer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "originalUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-532029/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "publishedDateTime": "2022-04-26T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment.md",
-      "title": "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment",
-      "excerpt": "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
-      "originalUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/04/image-82.png?fit=604%2C340&ssl=1",
-          "width": 604,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
-      "publishedDateTime": "2022-04-26T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-man-recreates-childhood-friend-with-ai-then-it-tries-to-murder-him.md",
-      "title": "Man Recreates Childhood Friend With AI, Then It Tries to 'Murder' Him",
-      "excerpt": "YouTuber Lucas Rizzotto said he modified a microwave with a text-based AI in an effort to build a friend that ended up being un-friendly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128",
-      "originalUrl": "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2026354/person-typing-keyboard.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1",
-      "publishedDateTime": "2022-04-26T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-microsoft-details-partner-program-changes-for-nce-azure-and-windows.md",
-      "title": "Microsoft Details Partner Program Changes For NCE, Azure And Windows",
-      "excerpt": "New Commerce Experience, Windows, Defender and Azure were the subject of new announcements for partners in April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-details-partner-program-changes-for-nce-azure-and-windows",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-details-partner-program-changes-for-nce-azure-and-windows",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0273-14b0c37410dc-1db53ecd649b-1000/microsoft-sign.jpg",
-          "width": 608,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications.md",
-      "title": "Baseten nabs $20M to make it easier to build machine learning-based applications",
-      "excerpt": "As the tech world inches a closer to the idea of artificial general intelligence, we’re seeing another interesting theme emerging in the ongoing democratization of AI: a wave of startups building tech to make AI technologies more accessible overall by a wider range of users and organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/",
-      "originalUrl": "https://techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1047349788.jpg?w=1024",
-          "width": 1024,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/amp/",
-      "publishedDateTime": "2022-04-26T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-ai-may-detect-earliest-signs-of-pancreatic-cancer.md",
-      "title": "AI may detect earliest signs of pancreatic cancer",
-      "excerpt": "\"This AI tool was able to capture and quantify very subtle, early signs of pancreatic ductal adenocarcinoma in CT scans years before occurrence of the disease. These are signs that the human eye ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/reversingcan.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp",
-      "publishedDateTime": "2022-04-26T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

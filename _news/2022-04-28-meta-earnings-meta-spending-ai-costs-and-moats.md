@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Cerebras Systems’ dinner plate-sized chips are revolutionizing the field of AI"
+    excerpt: "When big isn't big enough, you go bigger. And when that isn't big enough, you go Cerebras Systems big. But how much does size matter?"
+    publishedDateTime: 2022-04-28T17:21:00Z
+    webUrl: "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 80
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fcerebras-chip.jpg&signature=33b94c65c924c926aa93ff8a248753b1"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Mobile AI Market Size, Share and Growth"
     excerpt: "Market Highlights Market Research Future (MRFR), in its recently published research report, asserts that the global mobile AI market 2020 is booming and"
     publishedDateTime: 2022-04-28T09:59:00Z

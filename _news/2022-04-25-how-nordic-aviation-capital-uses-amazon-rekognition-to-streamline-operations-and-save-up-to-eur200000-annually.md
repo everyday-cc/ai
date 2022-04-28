@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "Annual Spring Home Hunt, charitable donations and recognition: Seacoast business news"
+    excerpt: "ROCHESTER — Strafford County Board of Realtors’ community service committee has chosen Waypoint as one of its charitable partners in 2022. Through a series of community events"
+    publishedDateTime: 2022-04-28T15:29:00Z
+    webUrl: "https://www.seacoastonline.com/story/business/2022/04/28/names-know-home-hunt-charitable-donations-awards-community-service/9570362002/"
+    ampWebUrl: "https://amp.seacoastonline.com/amp/9570362002"
+    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/9570362002"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 37
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/04/28/NPOH/d6736bce-0fb4-4a54-9147-8cd0a85df261-post.jpg?auto=webp&crop=639,360,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "nzDZXifgzPv03eIcbN2FZb+s1dFIt+c6LHzKXv0dd/cA4zDYYScoEZX5U+vwKGzM63D/Ej8CUUS7wGwTMFJp5cysHgfxAT7DKBQ+3Rkq1vHVEXgJ5/cu2APsED3CVyJS9zLLdS0SSlZsNwhjNGWl27JHz/eDOWK/CdtD9eujHy16WrZxc2AqRKNmTOCRx9lTSZV7LyqFe7+VIycxHRCyawPfkqO8Ci4eRV6pT6Tf5rs9FloBdz3hcoQc4WBTmhnmk+l0kOes0/VXKSfe3d6iMewqPbtH8pY64Z6UJK8N8VTdyUtKKkFgCcqjW0YxJUozSBHR+QDXux8KrWoCeHBpz7+tz+qon1zHXcsXCo4wJyI=;XuBnUekQh2SV74ZNepMztw=="
 ---

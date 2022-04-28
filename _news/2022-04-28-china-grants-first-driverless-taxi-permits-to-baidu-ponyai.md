@@ -1,24 +1,29 @@
 ---
 category: news
 title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals."
-publishedDateTime: 2022-04-28T07:01:00Z
-originalUrl: "https://www.seattletimes.com/business/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/"
-webUrl: "https://www.seattletimes.com/business/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/"
-ampWebUrl: "https://www.seattletimes.com/business/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/?amp=1"
+excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
+publishedDateTime: 2022-04-28T06:59:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
+  - AI Hardware
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Baidu, Pony.AI win first driverless robotaxi permits in China"
@@ -276,7 +281,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
     type: article
     provider:
       name: The Financial Times
@@ -385,6 +390,6 @@ related:
         height: 720
         isCached: true
 
-secured: "x3iI93Li/Eh6XcNNXC9No98cSUN53oNYrcmktlGZ5WtVJgNBUGeJ8K/hV3/aXANyLQiJqG93dUXveLcq7dahZfks+T1vDOrNpFSihD7nGqbVEH9rLpGyO3QyqBcmpI9ub4uGmNSCxEl36cdZwtDMriQv3+ZR35qGYBx53s8Ogcgd3y4ZOC8CZNwh87yM/X582QRkp2kEw9iXVAFdAXxSzRNk7CkuZqmCOENWsG+s1fGOIxSFdplJd2my43+IdtpHLfvnc9ivBfaQclYjOFwEAvaHsk/MC2iwQtdVcJCLC6TCsH+hTclHfl1XT7tK0MRE7+Ohf/MOVMtJ7zIZkCVAb2/mDb/uQOnTjN5tiJf5SdeA4g/q2zKS32we5kzPINjMbjLEIUMbochJUUMJzcqXoqmAJ/0+qTwUIlcbOaqfNicUhshkfH/yZKcTr1lgUCQl/SloRCwx/1har/ujm8X06LjsDNRxYdyfNYXyx2TH+zIiqOMNkDus+gI68k8LW0+Mf5fOujFKF3oTllcKA0WBOg==;sdT+yYQetNz4STSLJJQC/Q=="
+secured: "JxtKcAyXZ8neuIg9vjW5JRux1SWphMyyUPQ6C0DzPoNbqTGWP0SRe1XKJ1hfnfS9GH4IcL8mjoaiIPcetj4gNwn4aSpj5h45KVVeOnw5ThWlzxZbb9hKlPADpSjG6wQs+kus5eSkhhYM3FwkfKlbUyRn5ZFgSGGeEeXJRMWPI+eI7mNKZc6bOBFFQ9/WDQ6Yibrh6WBuFft43E/rd/cfAgMit7R6G7C1Qwk1VNK/bu9HksAsfEXBXiPzL59Yl9jc3nbt1myylzhuprECJIzHGNhnvpp3wG9P33Xr+yqYxTtK26pAsHyhgqcqko8sN1WYZVtQfc3F+gNeuHxkUDzz/82edgBsRV01vWTcLTIlPpI=;W01ndg99OSLLizkulkQtXg=="
 ---
 

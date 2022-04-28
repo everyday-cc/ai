@@ -1,29 +1,47 @@
 ---
 category: news
 title: "New brain learning mechanism calls for revision of long-held neuroscience hypothesis"
-excerpt: "In an article published today in Scientific Reports ( researchers from Bar-Ilan University in Israel reveal that the brain learns completely differently than has been assumed since the 20th century. The new experimental observations suggest that learning is mainly performed in neuronal dendritic trees,"
-publishedDateTime: 2022-04-28T09:02:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/950718"
-webUrl: "https://www.eurekalert.org/news-releases/950718"
+excerpt: "The brain is a complex network containing billions of neurons. Each of these neurons communicates simultaneously with thousands of others via their synapses (links), and collects incoming signals through several extremely long,"
+publishedDateTime: 2022-04-28T16:05:00Z
+originalUrl: "https://medicalxpress.com/news/2022-04-brain-mechanism-long-held-neuroscience-hypothesis.html"
+webUrl: "https://medicalxpress.com/news/2022-04-brain-mechanism-long-held-neuroscience-hypothesis.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-04-brain-mechanism-long-held-neuroscience-hypothesis.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-brain-mechanism-long-held-neuroscience-hypothesis.amp"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ea9143da-4b2f-4566-97b8-328b4bec6352/Rendition/thumbnail/Content/Public"
-    width: 298
-    height: 300
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/new-brain-learning-mec.jpg"
+    width: 861
+    height: 868
     isCached: true
 
-secured: "rgQxJHBGOy/sq65M4SPgpfcw6t8n5cwcUyIHB5wykVYtz5GGhTkcH2cT4IhXtgsQrfCes4Uy8/LNLJTbx3wNcxDXJHr7qSwIrpLfSnc9+7UGy6VmfbyJqP6mFGKVQp13WFW3r1PWUMm2BXk7O1r6lVA9+zlPn+//qgrxeY87TzhfmEihMihSeG7L6xB+NwT+L4A0RMSA/Y7eRAyQr0FJbzbVtIZLoLhpfHMOQw81RilpXx+GwXUpQxIP3UoIdGQI47YN0X9O13tbdgh3txaknBNVJ1C0QKr9QKCjOBSjA5B6cho4dczPJREoHPntMBuxVFSwZ8biAZ8sd+tzgpaS2WLUADhhvOPR/ektFGMjV5W6zEdzGDMi2lqK/zslVszxYNGy74hETeMXDKP4tg0ayPnib+FAg72bda1ZZ5cHfFibpRbfUp5Egdcsss8Xneq/CAmlA+aJTU8xYKPElwL7cmsWGiP5m9ft81wrdZRVyq2rxNVi1YFEIU/WY4nyYh0TosshEdr5Uv3ekTUxkJySTA==;nafzLDr0xRH/YraWS/Bvrg=="
+related:
+  - title: "HPE's new platform lets customers build machine learning models quickly and at scale"
+    excerpt: "The company is also making it easier for businesses to share information from their AI models with each other, without compromising data"
+    publishedDateTime: 2022-04-28T16:21:00Z
+    webUrl: "https://www.itpro.co.uk/technology/machine-learning/367521/hpe-machine-learning-development-models-quickly-at-scale"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 64
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1617805906/Deep_learning_Shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+
+secured: "foS31Y7uI/pHmbpoIHBxqyd4GIKB5ox9yRIg7pSlPRuSIRgC1Ot4GMbBWncFDb++VOrlZvP1jL2naatzKU7cHzMHlh4HUXNoobuv+vupeIoGC/kdvhI0ZAxKUO1lWtYDKYI9ikGU1DoSurFnvV5jSgs25METYTdhQi4j9Wxi2v4HKOzxh2VmYj0BgxOGowFj5sgvMY5PxyfuwyPyUr9W5MBWUPvBUKbeH1b+mXfRHYS7qY2/H/vDnLTWBNyumzISDBMwKUcFkcpajzpYZrzVJ7uUV59EqxTHbZUwF7PLVOXLO6mkPJD6Nxp1yhFDxcsLDu9kkgElXTJO0D/9i10T1OUgnxY9HbvB9jX3kOMaaw8=;gjX4LcD8ia65A/hjFusyLg=="
 ---
 

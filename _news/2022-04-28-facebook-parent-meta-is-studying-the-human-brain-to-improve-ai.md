@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-
 webUrl: "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: CNET
@@ -24,35 +24,19 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "TikTok is eating Facebook from the inside"
-    excerpt: "Facebook had a TikTok problem. This year, it has several. The Chinese-owned video app is eating Mark Zuckerberg’s social network from the inside, first by luring its users and now by challenging Facebook as a news source too."
-    publishedDateTime: 2022-04-27T20:10:00Z
-    webUrl: "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-inside-2022-04-27/"
+  - title: "Facebook’s parent company, Meta, is researching the human brain in order to improve artificial intelligence"
+    excerpt: "Artificial intelligence (AI) is used by IT businesses to identify potentially hazardous information, power virtual assistants, enhance translation software, and perform other functions. AI systems like Meta’s are still unable to acquire language as well as humans."
+    publishedDateTime: 2022-04-28T16:10:00Z
+    webUrl: "https://bestgamingpro.com/facebooks-parent-company-meta-is-researching-the-human-brain-in-order-to-improve-artificial-intelligence/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 36
     images:
-      - url: "https://www.reuters.com/resizer/I8gnFrAtvNuTHPgz2LFv4mwExcU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B5SGK6W4PRPQHJHQERPWSZFN7Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Google, Facebook defended by small business owners in bizarre newspaper letters"
-    excerpt: "As Capitol Hill seeks to rein in Big Tech, a slew of local business owners are slamming the proposed antitrust legislation in letters to the editors of local newspapers across the US — and"
-    publishedDateTime: 2022-04-27T10:03:00Z
-    webUrl: "https://nypost.com/2022/04/27/small-businesses-defend-google-amazon-in-odd-letters-to-editors/"
-    ampWebUrl: "https://nypost.com/2022/04/27/small-businesses-defend-google-amazon-in-odd-letters-to-editors/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/27/small-businesses-defend-google-amazon-in-odd-letters-to-editors/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 40
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/antitrust_bill.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/04/Facebook-Parent-Meta-Is-Studying-the-Human-Brain-to-Improve-AI.png"
+        width: 600
+        height: 350
         isCached: true
   - title: "Meta shares surge after Facebook ekes out user growth"
     excerpt: "Facebook rebounded from a drop in users early this year and its parent Meta posted a profit ahead of Wall Street targets, defying low investor expectations with a quarterly report that sent shares up 20 per cent."

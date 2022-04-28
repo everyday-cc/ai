@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-06-europe-is-building-a-huge-international-facial-recognition-system.md",
+      "title": "Europe Is Building a Huge International Facial Recognition System",
+      "excerpt": "Lawmakers advance proposals to let police forces across the EU link their photo databases—which include millions of pictures of people’s faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/",
+      "originalUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/624ca6e922287e54ebc7f22d/master/pass/Europe-Facial-Recognition-1041091610.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-police-facial-recognition-prum/amp",
+      "publishedDateTime": "2022-04-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-facial-recognition-by-police-ban-it.md",
       "title": "Facial recognition by police: Ban it",
       "excerpt": "About three years ago, as the technology was advancing and law enforcement (figuratively) salivating over it, we took a stand against using facial-recognition programs on police body cameras in ...",
@@ -1285,50 +1337,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-reinventing-how-aiml-teams-gather-data-needed-for-computer-vision-network-training.md",
-      "title": "Reinventing how AI/ML teams gather data needed for computer vision network training",
-      "excerpt": "Datagen, the data-as-code leader for computer vision AI, today announced the closure of a $50 million Series B financing round led by new investor Scale Venture Partners. The round also included participation from existing investors TLV Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
-      "originalUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2022/03/-----------------------------------------------.jpg",
-          "width": 2000,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/datagen-raises-50-million-series-b/amp/",
-      "publishedDateTime": "2022-03-23T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "CIIE CO's Flagship Program Bharat Inclusion Initiative invites application from FinTech Startups for its 6th Financial Inclusion Lab Cohort"
+    excerpt: "CIIE.CO's Bharat Inclusion Initiative (BII) invites applications from startups for the sixth cohort of Financial Inclusion (FI) Lab to support innovations that aid in making mainstream financial"
+    publishedDateTime: 2022-04-28T16:01:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/ciie-co-s-flagship-program-bharat-inclusion-initiative-invites-application-from-fintech-startups-for-its-6th-financial-inclusion-lab-cohort-122042801343_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ciie-co-s-flagship-program-bharat-inclusion-initiative-invites-application-from-fintech-startups-for-its-6th-financial-inclusion-lab-cohort-122042801343_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ciie-co-s-flagship-program-bharat-inclusion-initiative-invites-application-from-fintech-startups-for-its-6th-financial-inclusion-lab-cohort-122042801343_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 10
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/28/full/20220428194524.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "$36B+ AI in FinTech Industry Trends and Opportunities Assessment, 2027 - The Increasing Utilization of Smart Contracts for Financial Processes is Driv"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."

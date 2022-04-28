@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-in
 webUrl: "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-inside-2022-04-27/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,44 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Parent Meta Is Studying the Human Brain to Improve AI"
-    excerpt: "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose."
-    publishedDateTime: 2022-04-28T13:00:00Z
-    webUrl: "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/"
+  - title: "Meta Is Investing in AI and Video to Defeat the Existential Threat of TikTok"
+    excerpt: "Meta is taking the threat of TikTok seriously, investing in short-form video content and artificial intelligence to improve its recommendation algorithm."
+    publishedDateTime: 2022-04-28T16:23:00Z
+    webUrl: "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/"
+    ampWebUrl: "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 51
-  - title: "Google, Facebook defended by small business owners in bizarre newspaper letters"
-    excerpt: "As Capitol Hill seeks to rein in Big Tech, a slew of local business owners are slamming the proposed antitrust legislation in letters to the editors of local newspapers across the US — and"
-    publishedDateTime: 2022-04-27T10:03:00Z
-    webUrl: "https://nypost.com/2022/04/27/small-businesses-defend-google-amazon-in-odd-letters-to-editors/"
-    ampWebUrl: "https://nypost.com/2022/04/27/small-businesses-defend-google-amazon-in-odd-letters-to-editors/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/27/small-businesses-defend-google-amazon-in-odd-letters-to-editors/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 40
+      name: Observer
+      domain: observer.com
+    quality: 56
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/antitrust_bill.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Meta shares surge after Facebook ekes out user growth"
-    excerpt: "Facebook rebounded from a drop in users early this year and its parent Meta posted a profit ahead of Wall Street targets, defying low investor expectations with a quarterly report that sent shares up 20 per cent."
-    publishedDateTime: 2022-04-27T23:48:00Z
-    webUrl: "https://www.todayonline.com/world/meta-shares-surge-after-facebook-ekes-out-user-growth-1885226"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 24
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--7cniZpdh--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/04/28/20220428_afp_fb.jpg?itok=eQ1B0EQo"
-        width: 1200
-        height: 676
+      - url: "https://observer.com/wp-content/uploads/sites/2/2022/04/GettyImages-1239915488.jpg?quality=80&strip"
+        width: 5000
+        height: 3333
         isCached: true
 
 secured: "2rGRqN9UTYtDF7ToMmGcW94sU9D7RYyYGIev/GpO0OIeaUo1Ya0+a7FRp3Psp7JJNEgoDEhKV7jYF3409vWO8ODfaHBsQLeKTEPkT5rj0gNYuNAFZ+ayDTy/ZENHwOSFtWGhJniTL8V8hSGaYZhQsbooZsOEkoG3evcZnK7x1izgqyCVCqVQQ+JyrjF/yWeN9IUjtuVpTWDUw8uEGTQnNqoECepH0h1PoM3Dxqff9x1oOVSakjapa/u4+n0l8ZDvVRCHKnsFwuPGT0BLX6f/UMp+296S49dgVQL0VAVXEPd2sCg3xLOLQnH+NU24wvMayXnGuwW7vG1kKZxLmXFE9Uw0udPEFWLhg8iRLys6n/yYLkXzqR4Z63GNhLALdH6nonnBtdpunGMq/GFqDVB1lGTlW+GEOHRTDus4fu9jPkttbjqjHq4KMKaQXecucqPRpj/w1Ef3xKOMiiSPyEYE+y+2ZlMjKAq7qhKJjb77ufeuNxWS0jjdY4IxwQAqppoTLGPqiPcW8IT3Yc3tinecAQ==;C4zLhca5jm/WSgQQUhblVA=="

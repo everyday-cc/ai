@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/26/2304039/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/2304039/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Building AI That Processes Language as People Do"
+    excerpt: "Our researchers discovered that while the brain anticipates words far ahead in time, most language models typically predict just the very next word."
+    publishedDateTime: 2022-04-28T13:00:00Z
+    webUrl: "https://about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/"
+    ampWebUrl: "https://about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/amp/"
+    type: article
+    provider:
+      name: Facebook Live
+      domain: fb.com
+    quality: 57
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2022/04/Building-AI-That-Processes-Language-as-People-Do_1.png?w=1200"
+        width: 1198
+        height: 671
+        isCached: true
   - title: "AI technique narrowed to only propose candidate molecules that can be produced in a lab"
     excerpt: "Pharmaceutical companies are using artificial intelligence to streamline the process of discovering new medicines. Machine-learning models can propose new molecules that have specific properties which could fight certain diseases,"
     publishedDateTime: 2022-04-26T13:33:00Z
