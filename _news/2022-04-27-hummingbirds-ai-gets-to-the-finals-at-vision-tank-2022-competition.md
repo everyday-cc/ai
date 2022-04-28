@@ -24,31 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
-    excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"
-    publishedDateTime: 2022-04-26T00:49:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 28
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
-  - title: "Lattice to Showcase Low Power Edge AI Solutions at Embedded Vision Summit 2022"
-    excerpt: "The Embedded Vision Summit is a premier conference for innovators incorporating computer vision and edge AI in products. The summit is operated by the Edge AI and Vision Alliance, a worldwide industry partnership bringing together technology providers and end-product companies to accelerate the adoption of edge AI and vision in products."
-    publishedDateTime: 2022-04-27T20:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lattice-showcase-low-power-edge-ai-solutions-embedded-/2022/04/27/9591125.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-
 secured: "SMNwakmTh5MRAkHMm8GpfIbO+eygq02fe0VcBEKHj2LKGBU3XRjzG2vWlImiqLtIJqX0piUn2NtrczYNkdxvg2lF33IKxyj6YnaQBfOEiL1PjdBlTMxMAqicVuzYYw+/+bECaEWgSqYhsF0PUqTIrbZLJfP511G24q3ip8lG+Gh50l0+guXmSma2ouHtu+fUtTvs9JygzqS8NZ7cybyjfBU9+j4zej5r7SKkqVbJKGPDgls//DLbgqF5SjQ8mvCo4obTF7JMfe/xPCtYRT1kC+V6wPotowzvBo43deGubXG5lCyamhhiUHB91sdFhTleeIJyKqjNKSrDwbcuHsfDdMn+JOEwKNufmpUtjXnlTq8=;gnyS/G1jO6XSBGXtW/xFsw=="
 ---
 

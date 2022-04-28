@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Hummingbirds AI gets to the finals at Vision Tank 2022 Competition"
-    excerpt: "The award-winning innovation hub will fight for first place at Vision Tank Start-up Competition with their video-based biometrics technology, GuacamoleID."
-    publishedDateTime: 2022-04-26T21:57:00Z
-    webUrl: "https://www.wicz.com/story/46374447/hummingbirds-ai-gets-to-the-finals-at-vision-tank-2022-competition"
+  - title: "AiM Future Joins the Edge AI and Vision Alliance"
+    excerpt: "The company will demonstrate its edge AI accelerator and software technologies at the upcoming Embedded Vision Summit SAN JOSE, Calif.--(BUSINESS"
+    publishedDateTime: 2022-04-28T03:34:00Z
+    webUrl: "https://www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/"
+    ampWebUrl: "https://www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aim-future-joins-the-edge-ai-and-vision-alliance/amp/"
     type: article
     provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 39
+      name: 01Net
+      domain: 01net.it
+    quality: 57
     images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Artificial intelligence getting ready to rebalance the future"
+    excerpt: "A new wave of automation technologies in life sciences, energy management and manufacturing show that AI is more than a hype machine"
+    publishedDateTime: 2022-04-23T23:00:00Z
+    webUrl: "https://www.businesspost.ie/connected/artificial-intelligence-getting-ready-to-rebalance-the-future-6c8f5c4e"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 37
+    images:
+      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTIwNTZmYWU2LTRkMmEtNThkNi04MTBiLTA4NWEyNTUwYzFlZCZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9NjA2Ljc0MTU3MzAzMzcxJndpZHRoPTEwODAmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA3ODY1MTY4NTM5MzI1ODQyJmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjg0MjY5NjYxOTIxMzQ4XCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJ1c2luZXNzcG9zdC5pZVxcXC9zYnAtbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY1NGRkMjBmZTczOTk0ZGJjMTMyYWNiYzJjNWNjZjhlM2JlNmJlYWMifQ==/artificial-intelligence-getting-ready-to-rebalance-the-future.84269661921348"
         width: 1200
-        height: 628
+        height: 627
         isCached: true
   - title: "Lattice to Showcase Low Power Edge AI Solutions at Embedded Vision Summit 2022"
     excerpt: "The Embedded Vision Summit is a premier conference for innovators incorporating computer vision and edge AI in products. The summit is operated by the Edge AI and Vision Alliance, a worldwide industry partnership bringing together technology providers and end-product companies to accelerate the adoption of edge AI and vision in products."

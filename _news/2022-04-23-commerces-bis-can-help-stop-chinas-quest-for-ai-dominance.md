@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Self-driving startup Pony.ai bags commercial taxi licence in China"
-    excerpt: "Chinese startup Pony.ai, established in 2018, has been running a robotaxi service in Beijing after it received a permit in November 2021. Now, it has received a commercial taxi licence, a first for an autonomous driving company in China,"
-    publishedDateTime: 2022-04-26T09:51:00Z
-    webUrl: "https://www.cnbctv18.com/auto/self-driving-startup-ponyai-bags-commercial-taxi-licence-in-china-13279512.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 39
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/04/PonyAlpha-in-Shanghai-1019x573.png"
-        width: 1019
-        height: 573
-        isCached: true
 
 secured: "VXTdc2QHtvNl1pfovt2GJ9i5GSn/mId8fb12RZ4ylhQu079VTh+ZcdwaKiiuTkpgN6Z5rcFPobz3V+LlBa5T78xoiglvHoOETZaA0395OhzrxGMa5BmHTUH3/1Lg9MNK8sDmOCoaJaFOy/xSFYnKSVhSsLsl004PYrNicRqjv8A20+vHH5iT1HRf0NcJYHhQ+9BpvEEaF4rJbfzDGX664G6OaGd1LBfUZ14AeyZWPOzIXM1FWLPtsMK5vNO3wB9PnfEvnNCZBEj5Gbf2LS22nBcnsAeLAMmTDsGNbOyiZHh4/eqPIYZ67oF6csHySR8PlaqoOO4esVqrI6PYbbDjPQI1oe6pL5e8vflcdMLltbc65aGr7RnVfe7eC36qYwABf4zWfUuCYS+qORmm0TKkjZRqyWoCsJ9+4Ix7qk4pJcVx+iiudQsr9+SHG9KqV6pqlgEpgg7YDGlExa90k29Zct7yh/NjjF95fmCJgWj89pBznz9RclPe64NjL6iwazlKwbcpseDshXOGZrG2cDNlvA==;cq76VzZv4LzxAMGR0vsjvw=="
 ---

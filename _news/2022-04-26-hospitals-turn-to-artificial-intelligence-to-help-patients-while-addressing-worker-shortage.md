@@ -3,20 +3,21 @@ category: news
 title: "Hospitals turn to artificial intelligence to help patients while addressing worker shortage"
 excerpt: "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled."
 publishedDateTime: 2022-04-25T19:14:00Z
-originalUrl: "https://www.fox17online.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
-webUrl: "https://www.fox17online.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
-ampWebUrl: "https://www.fox17online.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
-cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
+originalUrl: "https://www.wtxl.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+webUrl: "https://www.wtxl.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+ampWebUrl: "https://www.wtxl.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
+cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: FOX 17
-  domain: fox17online.com
+  name: WTXL ABC 27
+  domain: wtxl.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "evhgzWF/3exVZe1KEaASgBR9xWdBl3by7zmFS4guqcMDn0lZGzKVaFCw05Vu154H03ghHVk+ZlGcBkconsOgJucqL2T6cdyksT8uXVhLCaQWoht7D56MjgsuLz1UDd33p7gl5nufV4AYnMaFXZcEh8cFbwNvp+fzosf7wSLAFLmnDezaJSdHB++EpdKro7hsHyNbV3rgpXS06PfGu8yt+A/sfCrsKiSlDrcb+ezOkuuxipKDIwGDmiWSVKiZ5vHVDf6hTRN/eK2deKYyBmdbciMfMXB5ukoBMcly+H2xYHRbVmAx6j35k+4SXmrHlhejYkZxH3i10echdtoMpOvM21bjgElHo88JWv5Om+vKauM=;qspETxxItuIzgG5WgOXPww=="
+secured: "ojK4WGswQukQwqVFFtWGyyMKwyXTsvPwSmd6XdUsmBPigBEGz7snxACqfIVJAU1srT5/UPDgAqd/ItDHv68C6rOI4LUHNV6UR9re8mW5CYwUqAYSeOJBNlS9wCUgarFNGiOMm6/ZFUiW/4kyxUHjT9T6H0a4iEyBf/v8duIFfzd2zHM9tol6T73Y0ZZZ2DRfgRGcdZ/PPSrjiqIxoTEMsGabU3UZFdKpmGqMjt23qMoeOS/maCZa1vKcphtBVIVRy/vasfkA+ZiD0tAH/tVA9eD1aq4gmrO+C5d+klTEX6l6vvBNuTwKWo1IAcRj0ypMPGcdLTr+8ADOnSFvUxdekb/Jr6Nhd8Iv/JbO5tlzGiQ=;C8YOFLqxJfFgXC9mjN4jFg=="
 ---
 

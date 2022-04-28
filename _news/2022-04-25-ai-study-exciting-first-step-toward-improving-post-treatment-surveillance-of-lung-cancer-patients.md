@@ -40,20 +40,6 @@ related:
         width: 2048
         height: 1280
         isCached: true
-  - title: "AI study 'exciting first step' towards improving post-treatment surveillance of lung cancer patients"
-    excerpt: "Artificial intelligence (AI) could help guide the post-treatment surveillance of non-small cell lung cancer (NSCLC) patients and improve outcomes as a result, according to new research."
-    publishedDateTime: 2022-04-23T09:05:00Z
-    webUrl: "https://www.icr.ac.uk/news-archive/ai-study-'exciting-first-step'-towards-improving-post-treatment-surveillance-of-lung-cancer-patients"
-    type: article
-    provider:
-      name: icr.ac.uk
-      domain: icr.ac.uk
-    quality: 22
-    images:
-      - url: "https://d1ijoxngr27nfi.cloudfront.net/images/default-source/default-album/lung-cancer-cells-547x410.jpg?sfvrsn=834b2669_2"
-        width: 547
-        height: 410
-        isCached: true
 
 secured: "3+9Y9sw5ZsVSflPtISv3jJEzEseVQ6F9pfpPDYN5qfNaRsswpxRMT2HfIA/bynC89t3X8yEXEdxjzgiOIaT7b4+Goirho4isrITW0fMLo3Qe5gTWj5R4kOaZbLN2c6bZAvR3thdiaR56PRbaGqnrfOw2yp+bwEUHDnioQTxXwBjS/7j+UFd4yKWRpHEOgk+FiLMzQz7Ytk6rbjDUEfXGuLW/FGbz/Opg3TmPwWXxbGE08UdzDrN7cZPKjicveX61EUJeBmD0TWyi9HTTS1WddTtahJOPD7jlhJH5BCYIX1fZhE5GObzYn8kmXhlRqZtsS3VeMrzXXulNj0F0DXjHEZcO5kR8TvIxFZP1rYilFmA=;xozYiJHcRHYhrDdo8OyTfA=="
 ---

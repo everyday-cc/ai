@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Meta AI Finds New Concrete Recipes to Cut Meta's Carbon Footprint"
+    excerpt: "Meta, Facebook's parent company, has used AI to create new formulas for concrete, which emit up to 40% less carbon dioxide. Why it matters. Cutting carbon dioxid"
+    publishedDateTime: 2022-04-27T20:18:00Z
+    webUrl: "https://www.cnet.com/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/f90c437da867007039ebc2649c5df6aea79d8aa0/2022/04/27/02359d41-3b42-41f0-923c-6b131481e2fb/facebook-meta-sustainable-concrete.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta Using AI to Create Greener Concrete for its Data Centers"
     excerpt: "Can the servers inside a data centers make the walls and floors greener? That's the focus of researchers at Meta and University of Illinois at Urbana-Champaign, who are using artificial intelligence to reduce the environmental impact of concrete."
     publishedDateTime: 2022-04-27T20:29:00Z
