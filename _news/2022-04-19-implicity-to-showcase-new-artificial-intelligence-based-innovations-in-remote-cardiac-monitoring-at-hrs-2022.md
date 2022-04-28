@@ -2,25 +2,19 @@
 category: news
 title: "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022"
 excerpt: "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research."
-publishedDateTime: 2022-04-19T12:30:00Z
-originalUrl: "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
-webUrl: "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+publishedDateTime: 2022-04-19T13:30:00Z
+originalUrl: "https://www.wjtv.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+webUrl: "https://www.wjtv.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
 type: article
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: WJTV
+  domain: wjtv.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
-    isCached: true
-
-secured: "s4hbU2jrhG0mz8u1qIoTSCDrQZzLPbG99EjdZgb2xqikKLL2fctt9ak7xeMYe4P9y5opGdeQxqxFFWlVt/MBW6nNx1QnnzAPKd2joRnKXCdXniOtKfeUxtdl6BKiFg0cT+twLh+ty783WJ8JcdZmq5mVkWUpaMAzNJwN5dUec//qnJDRXRJeg0S2mltRRskQFeY0Iss1+bgWYSV0njrprdyMVXE/1jRqKBONepIdXKL4Dujs1jpDEl2ALsHFE1sjNU7hR/UWcHu5La6hN5nMGeuJ/04progCPdWCZNGm69B4mNZNUzPiJienm49T1Zcx8tH8qPdU2ClncdLHemuwS9fg/HulbpdGMeI6wGF4WxI=;QRNd1EuCrvigjMvijXs4Jg=="
+secured: "EMAEbUcrSgwkMtwiTlg1hzc5dYH6/FCHdsF7ZMdZ7y9Q5ZASyKm5PYZIrunBSzrhEdYVpw0yl3xmuQEHNkvO97WuBDyk87cfP0T4MF0Ofu39e0yq5NhjDRSFXXMjgINjMA59uL9BvsIACi+0n12RymmV/BVeE8D7sWjWxGVrFpHz2MgwIPlqUe+HEuf0wJTQkEe8UaUFhD0m6ROhYNTXydSkwxTSABVGJcxZGdj3HYkDUEfugScrhQqKbZP44fxCeQ+mU2jy6CdX06UblF+1VvQN92tp1MMdcunUFCypHU0OetaTLxe6W8KPN78b2pL3uVH9HH2CRHNzZsqo+GhUABwk1PYSUlbvDBFEmGXUSgU=;Sndx+wboPoSkS2PLITkNFA=="
 ---
 

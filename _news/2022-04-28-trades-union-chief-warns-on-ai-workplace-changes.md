@@ -1,44 +1,23 @@
 ---
 category: news
 title: "Trades union chief warns on AI workplace changes"
-excerpt: "The general secretary of the UK Trades Union Congress (TUC) has told the BBC that with the rise of Artificial Intelligence in the workplace, employment rights have to keep pace with big changes. \"So often we those see big decisions being taken by employment software that has discrimination written in."
-publishedDateTime: 2022-04-28T11:48:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/business-61255405"
-webUrl: "https://www.bbc.co.uk/news/av/business-61255405"
+excerpt: "Watch the full interview on Thursday 28 April 2022 on BBC World News or watch again on BBC iPlayer (UK only) Trades union chief warns on AI workplace changes. Video, 00:01:41Trades union chief warns on AI workplace changes Up Next. Why this face ..."
+publishedDateTime: 2022-04-28T12:06:00Z
+originalUrl: "https://www.bbc.com/news/business-61255405"
+webUrl: "https://www.bbc.com/news/business-61255405"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1F44/production/_124340080_p0c3qnf1.jpg"
-    width: 1024
-    height: 576
-    isCached: true
-
-related:
-  - title: "Workshop on Artificial Intelligence"
-    excerpt: "Amritsar: The CSE/IT Department of Global Group of Institutes organised a workshop on Artificial Intelligence and Machine Learning. The workshop was conducted by Anshu Aneja, Director of Ansh Infotech and Kriti Bhatia - AI and ML expert."
-    publishedDateTime: 2022-04-28T01:46:00Z
-    webUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-intelligence-390029"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_181704252.JPEG"
-        width: 1200
-        height: 1495
-        isCached: true
-
-secured: "wRl5Sukh2v2o2In4Pv1T9wJANpUK17qTtIJE+CT3Hg5DH1Fndv92ZmB8Iwi6iiYFC4kwV98nADGijNDHyFwol9mGeJD/q0iYFh4QQxPuwA3IdysMhxWzqjaNCbUTKFpPuP/LC96KhbptLZqqIKATeo7zJ6kUxIYeOW5BrmBjoWn+f+6jP1pol/Hj2pHbtvIVs3BDmIcPihIciHzssfXHyQ5en8AwvE7ab/3EvrGqbd9jiZkuwWSyxgqfix/CBH+AIJdBamvjLvFw8DDoU5UCLAVbwrIy8ac5LflSmzmvWUW3DyvcYeZqj8fbps04lSN8rMHCN+fQ7CdzADymzcffWVlzaoj3TbX/qC3TvRJHLWU=;QodGtb8GinbuJ8oiLCzs5Q=="
+secured: "lxVKgRxE9S+UJA+DPPMUlJrk0HbmFU3nsK4pid6BSP6P1iE9c0jF4kb/cc6eScebUTZzwngjXuX+l8aq3Nsi3FL3zIXwJeYBsqfsw/h72/bgkZYMrYP7Awlc99lcKAl9m1IpD8NdWZ0XEqW8A5fbL+sP/Qo1lKluLuFvtqt7AgmxfLFeY40zMqIseMSrrndfqSvuitb9cc8CiZeG45CtVqsthnyRj/yADok34FBjvAJeoZ47BbR/K1V6jMvsiYEjGGKx1F16ftrFSkqlf5MwpFV3/rh/wpfNELW5U5vgXgCSEVSmHIs0PAEu/oxejn6v00gKW6LkImUwepwZ8w+chLAUY8+EwBATzClpgUx3jmCYKthCL7t1bXLbg6f2Fstka57TcHL4vyXtJlMRhDPB98D9wBjQIAe70X1N58cyusD4xQguH/kZqYwCv9Bif4AN7FP4PiuiyTkd70PCupFSRrLl3pXW/jL6EpsJbDv2ZALnanwd/CIGLlM5SNV6+qc+Gsgn5OFCCIDeRXSc7oupLQ==;Y5rLoGpdnT7XjvXVlpWOOQ=="
 ---
 

@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Neural network model helps predict site-specific impacts of earthquakes"
-excerpt: "Using data on microtremors in Japan, a neural network model can estimate site ... Seismological Society of America introduced a novel artificial intelligence (AI)-based technique for estimating ..."
-publishedDateTime: 2022-04-18T16:00:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/04/220418094002.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/04/220418094002.htm"
+excerpt: "In disaster mitigation planning for future large earthquakes, seismic ground motion predictions are a crucial part of early warning systems and seismic hazard mapping. The way the ground moves depends on how the soil layers amplify the seismic waves (described as a mathematical site \"amplification factor\")."
+publishedDateTime: 2022-04-18T13:27:00Z
+originalUrl: "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html"
+webUrl: "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "E93PfFcKCl8+9r3SoKjzCW3xUOPYA93AAgUf+cRkTmsGaR1KPJv+oSDrEQFndbF/jVcOH8f/9Lvme3x5BI156WxBVf8no+G1u0FiytF4nRHEcfUdsS5vu8K4eZq1Kmq+pZNXjnQ+Ea3vlGLKbH/gIUh6qXVMCsYGC++gW+ZUu+dhhE+oA4W6tsLI0cHQNV+r6/WpiqraacEFdkDT0LbIE3EZkx1VopKF7NdNS6v5BEcHEvUmThKDDgghuM6SWjsv4qGfYD7TI6ecpldm289DXvCWVJ3OTdWh1zLYdgBNSeBz/wCJIfuKujIIy0o/fOuPy0fzClQH25apUnk0Ppwue8GM1FmYtZFhzKFV1FHB2tc=;cKUFTCUmxxwuEQm82O/A/Q=="
+secured: "vfVcpl2AHV5yiVYjiNGvP3BtkzPCHGMSc+GHU5A2ui5S3Zg41Ly2dKtwFQRLd9zLxHe5+2UxbrRaW/nD2ZOiulD/asrZYLs/4xJCizO8YyGYy+ydXHSc+GMEyQPukijCFhQLR2cUTr3Lr7Ts3MpbZ9kcGZhUrr08oWrOLy34ptVG0U1lfwU65RLCByLqKgRRNJI5CbI6ckOlAHVd8yGVP+j1pz6mDAdIsn5m082ZAK3aRsNsYZgjdseq3ursD/lFyAqZiB4JpxkgRxqbntVYS+8x8pO634vcj0tNzU76CZ8pbyVicN6mk0p/th03zTKOP5gkbOtdpib++1r/LIWttqFGQ3f4ZtyCmL/Lwyez7BueZKms2Agmr4YCrtWxkzqegpVAnHxdthaaoGw40lIsCbg60in71sQ5cqMLevSOzVM8wZXDAENx304rYubBfb2BnzoYGr88O9OjAiYwupb3dcdiQj/F8Jfqpv0Psd4BNM0SvKtyZym3ZmuTp4tp2e47DQqq7M9YId+WPb5YNce/VQ==;ZSzOcT0q96XGS9LqhhtfyA=="
 ---
 

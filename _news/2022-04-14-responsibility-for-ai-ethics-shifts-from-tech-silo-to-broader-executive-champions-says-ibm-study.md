@@ -15,12 +15,6 @@ topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png"
-    width: 800
-    height: 328
-    isCached: true
-
-secured: "sOJBC4uzjCZWnrzPRxTmAN4SfuGb1x2kyL7M37wS1TVWjbykFbq1srYBR4Y4gZQywzxEGTtBjZXcxLjbKU4UJcSLYaGWTxpTgfFvXaby5h3gZcjSxHAyspec89t1sj4Rxlce5jwZ+0pblofnyYPq1IWjwksItzAtYOIvziC/3zhmyszaXFV3plh8jsZwxwObZLTGSJr8Es++AJiisKUCqiHluFnTKiASXSgGSQ02GQC6aJluRkClT0+C/9mK2o5uceRRfytf4/vlxsVo6JhB7fvCfM2jCxD7SXAguDVmGtWxB6bpXCB1J1U4wN3LhIRECP75u4yizbr2ubI1S9J0B7b6slqCVQx+IaF0Jx0GsFQ=;1ntjtI3KfUr+VWrgmEsb9w=="
+secured: "uQgUMiu+bHIRaxPDUnAwX6e5KsQk8YYIjNczNUmwH333W/lMdZa1S6frwv8UMd4UQGITPod7uTbeCU+XcIxCTq+3Bgx+DaTz+dapg+B158YOc5HactDVLw5KS/7GlTh2heSDFxRowKmP6ZpBqKoA48j19tvGmDgx2vtRgYq1G/wmCxFhhMa7Jrutk3Je2TUhA9apBu/fxb8aJEVO7+tDhA/rqmhFEhRo0jfq8vdn/9j61eOonq9DrLfCLGuTLKfdtHmmGlOJ6amt3/qic7Gtv7A4TXdizK8To75/92Ho6fb+AOUl6V672RkkOiJ/iADFxxLroxTfx3iZzmZF/Kjqvu0bHClNSJfSOIq6A79n8CA=;f2swxIu8smOCzhd6p8+0Ug=="
 ---
 

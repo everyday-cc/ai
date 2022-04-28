@@ -5,8 +5,6 @@ excerpt: "The \"Strategic Analysis of Amazon's Growing Footprint in Mobility\" r
 publishedDateTime: 2022-04-20T16:20:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com"
 webUrl: "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com"
-ampWebUrl: "https://www.benzinga.com/amp/content/26718104"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26718104"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "qp8ozqPZrHaFDFkEJXx23arobjrlrHh9XIAADIvMAeE30vSToKYcJSBXP7WoBvSGdoTY1W1md1bG7iKWuuNVlh/V36fGqF+zUOWqHZAxvUEPAqMZhEFbSipiLeQvSbHS6UZEC2x7CILc5fGmr3igv6Lmn0pPJgYE78DFrGTCCXB4067xKZ5d2Wb23xX/WDBMb2eBBQnN+ld3YAgGGlxMkVNH8n3/IB7PGauRMKEWeJIJ+afW5lboyQNM9vE4Sw+4mP0ObXYhp+CkKBuK7qtvBt4tleCRNHIF03WA+ubGnNQOr6fVipbdDFiCOxUxpQL/weDShvlkfk410fS8Ou71+Jm2qHmmLlgAaV0WgyexVMI=;NlvfIKqTMg8WPZ+aNR2G3Q=="
+secured: "kyQPST7QQdP6Z6ue6LviV5ob7iDuWfNs19CaSEyQu+uSm2RNeVJ/b+WXBeMkeB2Yjv4iqGSXrcebu9GkF1R6e6w7URF74VDZhswq17R5KhJVHTBTy1UY/YrZ3oQClIx+RO/FHC8qym+1j+cPjHxhlkSaNJoCBMSbDshgGM2HNHc5pN3tAEXMvILXWRv7DA+0bx0yoZdYW5mO/DIF0j6vfuo57hjFoPgacyVfFfLUu6GX8YiBUHcc+cdiZWtVMUJsk/IBVWymOXTG6Nx0cvLYFlrG5m0uDK7l6NHs3YXo1xllr/Im5zDpXLxq2FCuHuN3eiHQrR/kEh50vcjCZrcHCTOAg123w3XYpFatKBW4eC8=;/SIoQJEhKa+vM4BXsy5xcQ=="
 ---
 

@@ -3,27 +3,18 @@ category: news
 title: "Why artificial intelligence will be key to NHS workforce and waiting times challenges"
 excerpt: "That means strengthening and developing technologies and techniques into our NHS that can prevent or detect disease before it develops, accelerate diagnosis and treatment times, aid clinical decision-making,"
 publishedDateTime: 2022-04-28T05:00:00Z
-originalUrl: "https://www.heraldscotland.com/news/20092093.artificial-intelligence-will-key-nhs-workforce-waiting-times-challenges/"
-webUrl: "https://www.heraldscotland.com/news/20092093.artificial-intelligence-will-key-nhs-workforce-waiting-times-challenges/"
+originalUrl: "https://www.heraldscotland.com/news/20092093.artificial-intelligence-will-key-nhs-workforce-waiting-times-challenges/?ref=rss"
+webUrl: "https://www.heraldscotland.com/news/20092093.artificial-intelligence-will-key-nhs-workforce-waiting-times-challenges/?ref=rss"
 type: article
-quality: 47
-heat: 47
-published: false
 
 provider:
   name: heraldscotland
   domain: heraldscotland.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
-images:
-  - url: "https://www.heraldscotland.com/resources/images/13712620/"
-    width: 1153
-    height: 612
-    isCached: true
-
-secured: "WyW8WfD5HCOGgk4JE6ifQAH4RJl7zzxw3scSr3ncEX/n6Of4ask24+l1VOAEdUHgbAqLvCGeJfFkwcXQ/J9n0Rve2A41pgZyL3ubu2UDtwbwkiGqvBIDwzC03U3KbSoGRc/eLcwhMTvrviASSkIlPwGV04R6COApozNWXvQz5QFSbY/Z61YsOchHv2WVlkv2bl8CNNW7CiSc+SoTfZanCsH+AvGJQ//xusyDDDyVzqsXSsuCUsSesUu6kEykHdcXrTeKEnRHpCR21QhS7EPaSlg+tWOnXOQsMyeWfpanBcWvDMO1SX6ZwgwTJsb7FCgwvoZ+LogwYlvibpi47bFe9Gnp5Qd4nSFR9WxUYQssXEU=;7YfDal8r4WQDJOVaSDR9Qg=="
+secured: "npDGjn8UgezFKG7hek77rgZE0IJERK2ACIuY1wg0vhrYfODh0cs+duiex3gZluoA4mn4S/ARdVqO+S0aRvsqcaOz4sNVSS45E6ZXlSuJtcnRnMljU4MeW5ZwzziV9ljsUrsEJDrcj53D39cKUrBX7UoilxdmK9yX+y93Iai7ikS0vve1rKE+kp5jNJLQ4U01u2JBdXciLpaZntTykuOIXAUlB7b2z+ivvBPzv4m9CTK+RPr86MNORwiPcJvDbfSMEclo84aPANBTzmYEaIgz9olMcfGFVKJqfeaoxHCKNDRjGfGLUzx+VMVDkL535HgSW5BcZkixKTKqbFoS6yIHLb+KnA8AB90CwD7SHjfTb2k=;weeX4MiaR7AJwCv9w8IwMA=="
 ---
 
