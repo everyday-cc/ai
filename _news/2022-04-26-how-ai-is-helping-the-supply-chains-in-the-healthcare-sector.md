@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/how-ai
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Changing The Way We Make Videos"
-    excerpt: "From frame editing to script writing, how AI can help creators focus on what they are best at: imagination and emotion."
-    publishedDateTime: 2022-04-25T13:45:00Z
-    webUrl: "https://www.entrepreneur.com/article/415561"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 47
   - title: "Solving one of the biggest challenges in healthcare"
     excerpt: "Solving one of healthcare's biggest challenges head-on with precision medicine. Hundreds of billions of dollars are wasted annually prescribing drugs of limited clinical benefit t"
     publishedDateTime: 2022-04-25T09:25:00Z

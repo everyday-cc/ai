@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T18:54:00Z
 originalUrl: "https://phys.org/news/2022-04-lensless-imaging-advanced-machine-image.html"
 webUrl: "https://phys.org/news/2022-04-lensless-imaging-advanced-machine-image.html"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Phys.org

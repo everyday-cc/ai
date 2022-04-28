@@ -48,6 +48,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Miso Robotics IPO: Updates on AI-Powered Robot Cooking Stock"
+    excerpt: "Miso Robotics is revolutionizing the commercial food service industry. The company makes artificial intelligence (AI)-powered robots to assist chefs in making food in restaurants. Its automated robots fill a number of operational gaps found in back-of ..."
+    publishedDateTime: 2022-04-28T18:20:00Z
+    webUrl: "https://investmentu.com/miso-robotics-ipo/"
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 49
   - title: "Jack in the Box to pilot Miso's robots in its burger joints"
     excerpt: "Jack in the Box to pilot Miso's robots in its burger joints . April 27, 2022 by David Edwards Leave a Comment . Miso Robotics has agreed a par"
     publishedDateTime: 2022-04-27T11:07:00Z

@@ -69,6 +69,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Bell announces the first AWS Wavelength Zone in Canada"
+    excerpt: "with AWS Wavelength embeds AWS compute and storage services at the edge of the Bell 5G network. The service targets 5G applications including visual data processing, AR/VR, artificial intelligence, and robotics, in industries such as manufacturing ..."
+    publishedDateTime: 2022-04-28T19:25:00Z
+    webUrl: "https://www.itworldcanada.com/article/bell-announces-the-first-aws-wavelength-zone-in-canada/481732"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 19
 
 secured: "qEEE8eM9nyxKUuzp8HisUE0YGxTG0WB54EzCF6fO3lqB3bNKvF2SDSAY39BssHCQA8QKJQoqIqD8h0xZCt7eD91i/Cz+XmaVgxAc1b8xEh8FXZCUP4umiEAmmjDfEQpxV8uU56P33DTl03kM4GIbcxywJ7KzKAgiHLHRo7IuzVzFhspL9b1N0txeXyIkf/cV+6mL71gqw/o66vqVPnEbWc6in7TI6rjOC8kKqFlyNcl5iJuwmq7w1hd7xEn8hLXXbwGQm41/zX/Gth6Lw+++zlEtkJeAjBzUTWqE6vwR2qJRDC5gXIBl5cZRTam09yFV3mFUH3Y1jsVEUelH8rw30xEl+g9MERc8xVsbkqIh0KE563fZ7O43PErPo4cPwNUpYJYrosxaN6ZpAP3cNQfgqfky1aQO2Mx399Mv2NULeo3hurM//6j5F/UzVBwK6OFnJAZF4sa9M5NFtf9I9/oQZ70JWQUd2j6rHeArvwJMtK4TPjok2CGBNgtoGcMes37WpLCnYSgGmwLZA0gIsnm9DQ==;PxodaJo14OGn8YM2+NEnLQ=="
 ---

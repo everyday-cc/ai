@@ -48,6 +48,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Miso Robotics IPO: Updates on AI-Powered Robot Cooking Stock"
+    excerpt: "Miso Robotics is revolutionizing the commercial food service industry. The company makes artificial intelligence (AI)-powered robots to assist chefs in making food in restaurants. Its automated robots fill a number of operational gaps found in back-of ..."
+    publishedDateTime: 2022-04-28T18:20:00Z
+    webUrl: "https://investmentu.com/miso-robotics-ipo/"
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 49
   - title: "Jack In the Box will test Miso beverage and fry cook robots"
     excerpt: "Flippy 2 can increase throughput by 30%, or around 60 baskets per hour, and Sippy can fill 200 drinks in an hour, boosting efficiency and reducing labor pressure."
     publishedDateTime: 2022-04-26T15:23:00Z

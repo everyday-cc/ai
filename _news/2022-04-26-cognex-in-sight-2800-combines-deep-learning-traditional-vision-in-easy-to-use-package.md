@@ -33,6 +33,15 @@ related:
         width: 400
         height: 320
         isCached: true
+  - title: "Cognex In-Sight 2800 Combines Deep Learning and Traditional Vision in an Easy-to-Use Package"
+    excerpt: "NEW DELHI, April 26, 2022 /PRNewswire/ -- Cognex Corporation (NASDAQ: CGNX), the leader in industrial machine vision, has released the In-Sight 2800 series vision system. In-Sight 2800 puts the ..."
+    publishedDateTime: 2022-04-28T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1249714&cat=PRN"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 8
 
 secured: "4EiZdH+7Uo+BrLyknj7qwJZbbrB2RtBXnyRTPPSksjexieD3mYp6o2ao4bdsOubev/QulNB9vVSxxYdLpBpJ41jpyS6g83u+/PckUxfyM4sDtAG5AHq9P11NeiUcPXmuKeEqjvvLiuPNIzG9fzk463u2Mje80VVheIH8edjmhEpkhAWo2NH6dkBjSiERtTcafGYZpKlSS6df6K07MiNRD0t47QcE50RVDhp5YCdUoWR/04hPGuXeldYs+DrV8GtqMvVL1wEa1Xn/4yosxdk7qkoIOagt8zzqMaUNlkkLTu3eYUt9zieEDaN4w7JTngYI4WNqSbT+zOdVa3ztc8h+YoVtNlVB5HJkbkptdeSA0Z8=;QTCvdRIbWfPWB8ooszCazA=="
 ---

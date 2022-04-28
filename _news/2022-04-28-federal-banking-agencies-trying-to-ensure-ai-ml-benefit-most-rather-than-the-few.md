@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-28T16:06:00Z
 originalUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/"
 webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/"
 type: article
-quality: 51
-heat: 51
+quality: 68
+heat: 68
 published: false
 
 provider:

@@ -50,6 +50,24 @@ related:
         width: 1198
         height: 671
         isCached: true
+  - title: "Meta AI announces long-term study on human brain and language processing"
+    excerpt: "Researchers at Meta AI have embarked on one such initiative. The research arm of Facebook’s parent company today announced a long-term study to better understand how the human brain processes ..."
+    publishedDateTime: 2022-04-28T18:57:00Z
+    webUrl: "https://venturebeat.com/2022/04/28/meta-ai-announces-long-term-study-on-human-brain-and-language-processing/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
+  - title: "To build better AI, Meta is studying how human brains process language"
+    excerpt: "“Artificial neural networks for language are getting closer and closer to mimicking the activity of the human brain, and thereby shedding new light on how thought might be implemented in neural ..."
+    publishedDateTime: 2022-04-28T17:37:00Z
+    webUrl: "https://siliconangle.com/2022/04/28/build-better-ai-meta-studying-human-brains-process-language/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "mLaxrKm3noOkETr/x7wyagh2DuQUg1f37aJjnpxLDEkQ+4yP31dmgGYWP7PT0DFIeVLb60j2hPISZUk5QIBjWO3LzA9GmFRDCfGARutsd+k1Kqr7OkuuzyiFaD5TafGLF+SKMuwjtuJgvf7+yZxCSfXP7Y0ID5o38+s9RnTHRticWRNxYxo8ruRbYaS6i0L/tRlRub+8XOtY4ImJ4+xhHoNu6gLU5wjqqb9aVPQxVlPdzuUQE8OTdil3/HGLNkgvEtxQPqEtvBvfPKwQezW8Of9pYfPku4SC31YLF3x+/noqX+caotcRULuCBBrUhEDlyDUz0ChIwi3WfGj+4caAEwvrPDfuCM89u/srQRa3jSx7vxpn39/K0ifZIRBaDAyl7MMwNDm2CqasUXjdn07hkXP9jBi2E8f4mA3IEDA34EgKr3f4gNpShZ/wkLvma3AJWlvXqigTYLYSVPcekta70bccq+3BOFCFgOLbcuXGFDZ/TF5Py7xmGwCwayPgYXRbWHZ2PG51MrHwOuSaqr4QBw==;X6G+vsO3/sH+koKEO/mSDA=="
 ---

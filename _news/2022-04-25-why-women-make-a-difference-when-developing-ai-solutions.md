@@ -23,17 +23,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Nuna, an Aspiring AI-powered Startup Brings Innovative Mental Health Solutions"
-    excerpt: "Nuna is a Denmark-based startup company that has created a unique text and voice based conversational AI designed to help people struggling with depression, anxiety, and stress. According to information sourced from the World Health Organization,"
-    publishedDateTime: 2022-04-25T19:24:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-nuna-an-aspiring-ai-powered-startup-brings-innovative-mental-health-solutions"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 13
-
 secured: "FMSVFKYcttmS6vRFT673YjHzz9u91fkpiN3vUSB4JcD2zS99oB9BZUU4lk0EuoaUqReQGgLCnWox3ZEcxpfkCxClE0CO+K7hBazoMeLLBgH8/EfAPMep3Bo+WvNgInDthbtiJLlAHaG0kkRYVFgJLvCcKWMwpKkwYWkH/syicHQzXFdmHK+e6DR/DJILXUZgYipJZaPirWFA7nv42rD55e/97q8V1JI1f2yoFA1AvWg41QdaPoP1LHs5kfXKXQJp3EL0o9xEDcV9GSfto18OqL3OkF/iRKx7gTa5Zpds/oS85RmQPIwFMnhbZM7oHmBeDfNkTcsqCQ40zPZ9tsfWwtNv3eLpm7l7S9d/m0BKBlo=;HIw8Xz0IimjA/eYefKr27w=="
 ---
 

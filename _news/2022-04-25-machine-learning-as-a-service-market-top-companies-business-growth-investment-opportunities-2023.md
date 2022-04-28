@@ -54,6 +54,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Explainable AI Market Size 2022, Share, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 28, 2022 (The Expresswire) -- Global \"Explainable AI Market\" Research Report provides a wide range analysis of market dynamics like current trend, size, share ..."
+    publishedDateTime: 2022-04-28T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/explainable-ai-market-size-2022-share-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2029-2022-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
   - title: "Yogurt Market From 2022-2032: Growth Analysis By Manufacturers, Regions, Types And Applications"
     excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032. The global yoghurt industry is fueled primarily by the health benefits of yoghurt intake and a growing public awareness of the need for weight loss."
     publishedDateTime: 2022-04-27T15:10:00Z

@@ -61,6 +61,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Explainable AI Market Size 2022, Share, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 28, 2022 (The Expresswire) -- Global \"Explainable AI Market\" Research Report provides a wide range analysis of market dynamics like current trend, size, share ..."
+    publishedDateTime: 2022-04-28T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/explainable-ai-market-size-2022-share-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2029-2022-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
 
 secured: "8PBML3Fkopwqv+ZJBGXmoATuXbjFmlbwAIceMif10CIDjDXeU7E/6FdlYjbu0nKwfGv6btGzpnc/OyazFLEgqfosOJSqMqwwnA0K034dLAvmB6i0BU7ZbkotJDm0wVVI+my4nGfs3bLTkaAyC8v4bhJ738uJTbUQ54sD43FNPoTCo7qTkda0J78Sj4zn1ptFafjrTCt0eHzHOobJrOY+e2Bef6ErqN0T+ZXkMK+fnnsZidrTEiTJ1R92ITxLrkLNoVYJxMaWNOkcYiQTAp9NvgmCdnX4zhZqYc/bjD3FTbiMu500ogwa7UAPVdLQSrQZYG8Vx46dXAWVyhgBSJWqpaI7FHf3NhF7va49h0Q8HMY=;uFn4q6t5HzZGV7MiEaWzIg=="
 ---

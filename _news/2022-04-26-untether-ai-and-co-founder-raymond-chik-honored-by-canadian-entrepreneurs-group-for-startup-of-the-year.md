@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Searchable.ai announces Constellation, a Unified Data Platform for productivity workers and their teams"
+    excerpt: "Searchable.ai announces Constellation, their unified data platform that brings together all the data and information that knowledge workers need, in one place. Searchable.ai launched in 2019 as a search company that enabled users to simultaneously search across all their cloud and local files."
+    publishedDateTime: 2022-04-28T15:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-searchableai-announces-constellation-unified-data-platform-productivity-workers-/2022/04/28/9592071.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "sAGfIaW4ApgHhqKVZ7p9Xd4hQyioC8ciuVrFuLFAMYSliJmx5nFQZPrIGvFUgwbDzqs1TIxQUCKYtL0CSO+fLpRm/o0sUWeDitoEpFGH/VxEsTSe0Qnsm+bKouZKHXnDR0p9KqAMD3VusLtTWwT7l7ij2A0D5aXzJXgQbnC1D3dHJN6TGiybS0deM+C+Fp50lQCSQugkTu4EgqQazd2y2Sy0jVdIlDQ9b1zC3cfnavvDu/6nYQo1KVUsICgWcF99amHJLW0H6DjnfQyYTcMA3OkuxqvfXz7biB/6I3vJ+z9flygZ9fpy7Ze34JOryneEdtAh/KIJoSJGjadscCWQZnLvgPVX0hNKy/AD7AsjBzU=;t/9izekbNwxlycfuTZxpCA=="
 ---

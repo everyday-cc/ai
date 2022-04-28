@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T03:25:00Z
 originalUrl: "https://www.digitaljournal.com/pr/nuna-an-aspiring-ai-powered-startup-brings-innovative-mental-health-solutions"
 webUrl: "https://www.digitaljournal.com/pr/nuna-an-aspiring-ai-powered-startup-brings-innovative-mental-health-solutions"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Digital Journal

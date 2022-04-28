@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T19:18:00Z
 originalUrl: "https://www.bizjournals.com/twincities/inno/stories/news/2022/04/28/startup-ust-contest-best-buy-sportsengine-judges.html"
 webUrl: "https://www.bizjournals.com/twincities/inno/stories/news/2022/04/28/startup-ust-contest-best-buy-sportsengine-judges.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals

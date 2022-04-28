@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T18:08:00Z
 originalUrl: "https://insidebitcoins.com/news/fuzzle-nfts-digital-pets"
 webUrl: "https://insidebitcoins.com/news/fuzzle-nfts-digital-pets"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Inside Bitcoins

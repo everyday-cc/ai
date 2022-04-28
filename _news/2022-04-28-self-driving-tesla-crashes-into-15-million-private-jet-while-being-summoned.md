@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-m
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Metro
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving Tesla crashes into £1.5 million private jet while being ‘summoned’"
+    excerpt: "One of the self-driving features on a Tesla car is known as ‘smart summon’ and allows the owner to call the car remotely from around 200 feet. Unfortuantely, there’s sometimes an expensive ..."
+    publishedDateTime: 2022-04-28T21:47:00Z
+    webUrl: "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=zone-post-strip_item_1_news"
+    ampWebUrl: "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 55
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/04/SEC_101095692.jpg?quality=90&strip=all&zoom=1&resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Self-driving Tesla crashes into $3.5 million private jet using 'smart summon' feature"
     excerpt: "The car was in \"Smart Summon\" mode when it ran into the jet. The feature was introduced by Tesla in 2019 and is still a beta feature."
     publishedDateTime: 2022-04-25T15:49:00Z

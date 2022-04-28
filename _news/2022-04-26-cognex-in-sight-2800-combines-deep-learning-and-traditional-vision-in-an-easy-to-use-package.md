@@ -34,6 +34,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 11
+  - title: "Cognex In-Sight 2800 Combines Deep Learning and Traditional Vision in an Easy-to-Use Package"
+    excerpt: "NEW DELHI, April 26, 2022 /PRNewswire/ -- Cognex Corporation (NASDAQ: CGNX), the leader in industrial machine vision, has released the In-Sight 2800 series vision system. In-Sight 2800 puts the ..."
+    publishedDateTime: 2022-04-28T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1249714&cat=PRN"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 8
 
 secured: "i+mLI3E5/MrxhN5z/REXD1Ohe5CLl6a0g5Rrv3G+mEankDJSlOg3/l4L6+KAH34czjeY0HMbDhqZ5pvSRwlVJv6M1kkF8+0X2dqe8dVj78WoODRqqIKoYzjxgVaD+3nPONRREaA6Xspf+UXvoC0qEMxP/tQcBlzmJqDKfbxF0BcX2iCbks1cCbOVfCoNDw0GqTwoUihWVVGx00yoRq+Te4SwoXlU7f6G8G3dWtkPwjIVDI+fdEzCrQiHrc2zgowXujTNvF9qIDfutyyJsT+p2wyoS4yJtolkfK2Sw/Ok+R4kGJEGjr/oOsG1JNaGDZvVEwUXiZmV54KPFDkpdkG/saNcWGyCvi2MNC+SwSvkFQoThTe1LWwsFJI8YFvo8mj7emdrlaXIE40UncQkxdqmqQr51Z8+ztEtsSddG3RetYlJgoostzdGULXk0zjpWg7HnLg1Us3uzPDutuNz7K6t3xk+bHbVSQQyi1cjX3KpdgmWa5KcnfQYmlSykoueH0TRhasf0GrlVLpSWOKkg0dtzA==;/ldFdaplfu+QF6F+nMqE6w=="
 ---

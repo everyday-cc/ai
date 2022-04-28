@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T17:08:00Z
 originalUrl: "https://www.nasdaq.com/articles/can-the-metaverse-be-the-next-big-catalyst-for-nvidia-nvda-stock"
 webUrl: "https://www.nasdaq.com/articles/can-the-metaverse-be-the-next-big-catalyst-for-nvidia-nvda-stock"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

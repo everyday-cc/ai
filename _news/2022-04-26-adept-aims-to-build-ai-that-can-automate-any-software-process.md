@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/26/2304039/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/2304039/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -47,6 +47,24 @@ related:
         width: 1198
         height: 671
         isCached: true
+  - title: "Meta AI announces long-term study on human brain and language processing"
+    excerpt: "Researchers at Meta AI have embarked on one such initiative. The research arm of Facebook’s parent company today announced a long-term study to better understand how the human brain processes ..."
+    publishedDateTime: 2022-04-28T18:57:00Z
+    webUrl: "https://venturebeat.com/2022/04/28/meta-ai-announces-long-term-study-on-human-brain-and-language-processing/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
+  - title: "To build better AI, Meta is studying how human brains process language"
+    excerpt: "“Artificial neural networks for language are getting closer and closer to mimicking the activity of the human brain, and thereby shedding new light on how thought might be implemented in neural ..."
+    publishedDateTime: 2022-04-28T17:37:00Z
+    webUrl: "https://siliconangle.com/2022/04/28/build-better-ai-meta-studying-human-brains-process-language/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
   - title: "AI technique narrowed to only propose candidate molecules that can be produced in a lab"
     excerpt: "Pharmaceutical companies are using artificial intelligence to streamline the process of discovering new medicines. Machine-learning models can propose new molecules that have specific properties which could fight certain diseases,"
     publishedDateTime: 2022-04-26T13:33:00Z

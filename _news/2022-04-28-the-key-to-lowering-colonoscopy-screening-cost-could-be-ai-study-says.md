@@ -62,15 +62,6 @@ related:
         width: 1240
         height: 700
         isCached: true
-  - title: "Smart Cities – Using AI for Smarter Roads"
-    excerpt: "Road safety measures need to take into account the fact that humans will make mistakes, but this should not lead to loss of life."
-    publishedDateTime: 2022-04-24T04:16:00Z
-    webUrl: "https://www.voicendata.com/smart-cities-using-ai-smarter-roads/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 17
 
 secured: "40lvHY7NcuhrAK+OLNPP/irpkluJ+wRtDPW38/3843S8hM/LzI9F0NBVkRpRzlvNIZ1YUeamY9E9POX2/6jUcUbGvYozmqce8sui9+/dCQIZHold/6CP7uPSQaFNXRGb2do4WMWOToIDgZOYDBrX1b/qmuTKYHFnwb+ufDOK9ZpwkMBhIzAaMfzUIS75tM/zt+leE3N3rR/Glj6BahxKwSQ7om6drNfJ4+M9ngALZKapl00zJoPGaeJ+gq/uoJH1CAuwhians0OX/LLo+A34KayN4wt9Za6fWp8aIg8aqw55n4ZrE2VqYgfUM85ua3ESaygN/CcV7t9Q6SOhlU7YSHITw3keFsq5QCCd6nq9jy1LsbOubyNBTn1fKmLPUxX40zh+qX9HFUO7oLBktFI3fRV+e9D60zQ7Vt7F4WLXPXUfevFKdvQ7+4O60qecoDYXI55Fzo1iVNEvRzjfobSXLRx/ZYqsvHJJeTWepSvNlb0y092lcea5e0wvTgYT9BGPuex+rNug1WIi71iUtKw0kw==;x4LXgN1HwBN/3Li/LilSpQ=="
 ---

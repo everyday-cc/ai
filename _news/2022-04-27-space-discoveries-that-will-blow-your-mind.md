@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-26T19:08:00Z
 originalUrl: "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/"
 webUrl: "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WJTV

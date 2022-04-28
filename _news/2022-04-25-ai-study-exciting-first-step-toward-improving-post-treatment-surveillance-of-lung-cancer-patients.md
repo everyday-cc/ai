@@ -25,22 +25,6 @@ images:
     height: 532
     isCached: true
 
-related:
-  - title: "AI improving at sentiment recognition, already good at rash judgement, studies show"
-    excerpt: "Understanding how someone will be perceived by others is a function of EQ, and a team of researchers have trained an AI algorithm to do so with high accuracy."
-    publishedDateTime: 2022-04-26T22:19:00Z
-    webUrl: "https://www.biometricupdate.com/202204/ai-improving-at-sentiment-recognition-already-good-at-rash-judgement-studies-show"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
-        isCached: true
-
 secured: "3+9Y9sw5ZsVSflPtISv3jJEzEseVQ6F9pfpPDYN5qfNaRsswpxRMT2HfIA/bynC89t3X8yEXEdxjzgiOIaT7b4+Goirho4isrITW0fMLo3Qe5gTWj5R4kOaZbLN2c6bZAvR3thdiaR56PRbaGqnrfOw2yp+bwEUHDnioQTxXwBjS/7j+UFd4yKWRpHEOgk+FiLMzQz7Ytk6rbjDUEfXGuLW/FGbz/Opg3TmPwWXxbGE08UdzDrN7cZPKjicveX61EUJeBmD0TWyi9HTTS1WddTtahJOPD7jlhJH5BCYIX1fZhE5GObzYn8kmXhlRqZtsS3VeMrzXXulNj0F0DXjHEZcO5kR8TvIxFZP1rYilFmA=;xozYiJHcRHYhrDdo8OyTfA=="
 ---
 

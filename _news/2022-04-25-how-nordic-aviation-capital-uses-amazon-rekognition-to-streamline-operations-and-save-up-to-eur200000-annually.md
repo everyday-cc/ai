@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/"
 type: article
 quality: 86
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -30,21 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Annual Spring Home Hunt, charitable donations and recognition: Seacoast business news"
-    excerpt: "ROCHESTER — Strafford County Board of Realtors’ community service committee has chosen Waypoint as one of its charitable partners in 2022. Through a series of community events"
-    publishedDateTime: 2022-04-28T15:29:00Z
-    webUrl: "https://www.seacoastonline.com/story/business/2022/04/28/names-know-home-hunt-charitable-donations-awards-community-service/9570362002/"
-    ampWebUrl: "https://amp.seacoastonline.com/amp/9570362002"
-    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/9570362002"
+  - title: "Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams"
+    excerpt: "Today, AWS announced the general availability of Amazon Rekognition Streaming Video Events, a fully managed service for camera manufacturers and service providers that uses machine learning (ML) to detect objects such as people, pets, and packages in live video streams from connected cameras. Amazon"
+    publishedDateTime: 2022-04-28T20:41:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/"
     type: article
     provider:
-      name: Seacoastonline.com
-      domain: seacoastonline.com
-    quality: 37
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
     images:
-      - url: "https://www.gannett-cdn.com/presto/2022/04/28/NPOH/d6736bce-0fb4-4a54-9147-8cd0a85df261-post.jpg?auto=webp&crop=639,360,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Tangelo-2x-2-tile-image-with-bounding-boxes.png"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Abode uses Amazon Rekognition Streaming Video Events to provide real-time notifications to their smart home customers"
+    excerpt: "Abode Systems (Abode) offers homeowners a comprehensive suite of do-it-yourself home security solutions that can be set up in minutes and enables homeowners to keep their family and property safe. Since the company’s launch in 2015, in-camera motion detection sensors have played an essential part in"
+    publishedDateTime: 2022-04-28T20:40:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/abode-uses-amazon-rekognition-streaming-video-events-to-provide-real-time-notifications-to-their-smart-home-customers/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/27/Featured-images-for-ML-8236.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "3xLOGIC uses Amazon Rekognition Streaming Video Events to provide intelligent video analytics on live video streams to monitoring agents"
+    excerpt: "3xLOGIC is a leader in commercial electronic security systems. They provide commercial security systems and managed video monitoring for businesses, hospitals, schools, and government agencies. Managed video monitoring is a critical component of a comprehensive security strategy for 3xLOGIC’s customers."
+    publishedDateTime: 2022-04-28T20:40:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/3xlogic-uses-amazon-rekognition-streaming-video-events-to-provide-intelligent-video-analytics-on-live-video-streams-to-monitoring-agents/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 73
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/27/Featured-images-for-3XLogic.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "nzDZXifgzPv03eIcbN2FZb+s1dFIt+c6LHzKXv0dd/cA4zDYYScoEZX5U+vwKGzM63D/Ej8CUUS7wGwTMFJp5cysHgfxAT7DKBQ+3Rkq1vHVEXgJ5/cu2APsED3CVyJS9zLLdS0SSlZsNwhjNGWl27JHz/eDOWK/CdtD9eujHy16WrZxc2AqRKNmTOCRx9lTSZV7LyqFe7+VIycxHRCyawPfkqO8Ci4eRV6pT6Tf5rs9FloBdz3hcoQc4WBTmhnmk+l0kOes0/VXKSfe3d6iMewqPbtH8pY64Z6UJK8N8VTdyUtKKkFgCcqjW0YxJUozSBHR+QDXux8KrWoCeHBpz7+tz+qon1zHXcsXCo4wJyI=;XuBnUekQh2SV74ZNepMztw=="

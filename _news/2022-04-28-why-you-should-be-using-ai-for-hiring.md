@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1240
         height: 700
         isCached: true
-  - title: "Smart Cities – Using AI for Smarter Roads"
-    excerpt: "Road safety measures need to take into account the fact that humans will make mistakes, but this should not lead to loss of life."
-    publishedDateTime: 2022-04-24T04:16:00Z
-    webUrl: "https://www.voicendata.com/smart-cities-using-ai-smarter-roads/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 17
   - title: "The key to lowering colonoscopy screening cost could be AI, study says"
     excerpt: "The use of artificial intelligence detection tools has the potential to save the U.S. millions of dollars annually, according to a study published in The Lancet Digital Health. The study administered the Markov model microsimulation of conducting colonoscopy with and without AI for colorectal cancer screening."
     publishedDateTime: 2022-04-27T18:09:00Z
