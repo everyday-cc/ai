@@ -1,47 +1,20 @@
 ---
 category: news
 title: "New brain learning mechanism calls for revision of long-held neuroscience hypothesis"
-excerpt: "The brain is a complex network containing billions of neurons. Each of these neurons communicates simultaneously with thousands of others via their synapses (links), and collects incoming signals through several extremely long,"
-publishedDateTime: 2022-04-28T16:05:00Z
-originalUrl: "https://medicalxpress.com/news/2022-04-brain-mechanism-long-held-neuroscience-hypothesis.html"
-webUrl: "https://medicalxpress.com/news/2022-04-brain-mechanism-long-held-neuroscience-hypothesis.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-04-brain-mechanism-long-held-neuroscience-hypothesis.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-brain-mechanism-long-held-neuroscience-hypothesis.amp"
+excerpt: "In an article published today in Scientific Reports ( researchers from Bar-Ilan University in Israel reveal that the brain learns completely differently than has been assumed since the 20th century. The new experimental observations suggest that learning is mainly performed in neuronal dendritic trees,"
+publishedDateTime: 2022-04-28T09:02:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/950718"
+webUrl: "https://www.eurekalert.org/news-releases/950718"
 type: article
-quality: 52
-heat: -1
-published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/new-brain-learning-mec.jpg"
-    width: 861
-    height: 868
-    isCached: true
-
-related:
-  - title: "HPE's new platform lets customers build machine learning models quickly and at scale"
-    excerpt: "The company is also making it easier for businesses to share information from their AI models with each other, without compromising data"
-    publishedDateTime: 2022-04-28T16:21:00Z
-    webUrl: "https://www.itpro.co.uk/technology/machine-learning/367521/hpe-machine-learning-development-models-quickly-at-scale"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 64
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1617805906/Deep_learning_Shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-
-secured: "foS31Y7uI/pHmbpoIHBxqyd4GIKB5ox9yRIg7pSlPRuSIRgC1Ot4GMbBWncFDb++VOrlZvP1jL2naatzKU7cHzMHlh4HUXNoobuv+vupeIoGC/kdvhI0ZAxKUO1lWtYDKYI9ikGU1DoSurFnvV5jSgs25METYTdhQi4j9Wxi2v4HKOzxh2VmYj0BgxOGowFj5sgvMY5PxyfuwyPyUr9W5MBWUPvBUKbeH1b+mXfRHYS7qY2/H/vDnLTWBNyumzISDBMwKUcFkcpajzpYZrzVJ7uUV59EqxTHbZUwF7PLVOXLO6mkPJD6Nxp1yhFDxcsLDu9kkgElXTJO0D/9i10T1OUgnxY9HbvB9jX3kOMaaw8=;gjX4LcD8ia65A/hjFusyLg=="
+secured: "YK+kZNUMdRkdDnR+c0JZsnAp9rZ4Uol20QD9NDAvSAVHptAXqRpV3vQYlskZKVhsds0gwwQlvobOjEd8dPpr1Xi3gkTqfHbutABF80WowFWqU7o3qhrCbDTvfQPn1e0cQFc1U8uMAS+gn9qmAni6okY9AB2v6BXPZjb/BdOWXEqKhdO76Dm25zt8FBMbXcCMsu7yPLEUYdD5wgEDl/WxlOBGZq8dxQ+JeGmBnRG05mmxrxr4uWd4IF7w8GB8skceFudc3T485rnatUsFsT/+0pL/3/WNNDv04zSeKNxLRG0t0blpiABCX9cRWWc5T9Ii6UtphBDmKsege/rzNuwDTq7UKe1RudNmZPqYVMjcK1Ru2AVrgj19ABsf2EWSg5ZNMVEAbXR0kdZXQNu58pQWruJtsufXEVsaNowR2qMAsQPak4yFWqbmu00rHORwVuZkW3b0ZmxXiSfRp22ujAPji6NINIfN7e3JbgChJZUdXMl4MVsBH2DbC1BAdxPYzAvZ24dJFjQW8sBqLS3DcUe6qg==;7MwTfp//xTbDhq0dDrqyYA=="
 ---
 

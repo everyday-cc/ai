@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/04/stanfordpanel.jpg"
@@ -25,6 +26,6 @@ images:
     height: 651
     isCached: true
 
-secured: "EchEqPKeyjSWoBo0QXInw6VLLMIyDoVLK6WDEXh2o3A/675phPJmzYqVQaPKceo3K1sKFvg1slaAvc9Zmg13KXi2fKuE0T+EWocse4dLjnx7wcQyvrPVKH2ybas1VKxFgdt9w0uYNyiC3ognZLxBbFBMT01x/XUgna+FTpGrcyDmWmLHtx0uUhwPGBBTp9uJOT2pW4I021WZIuLsk5wex1JRuCeD1It3hhZme2G6v6x6TDCJm0WKWMwYX6G/LZ418r80qFeNB4YQ0Uye9/rVvKc9z/q0hARw1G4FnJLM2DjsVgLvj26/ljkZZvwes+SgKjOM2yI9oL/fdg5xujFo4mEiesb0bmCYtyw5VunWG1U=;NN/Dk7zqg+6h3SjcCrtvsg=="
+secured: "lXTou9OZfNRuESm8GK7ZN+xHRNG8MGZMBgxtWAzeoZ7uPYkkTo32qWs4buFbYjMK35eeOJWj4XAeSKJC+sbT1TsVFSjGDR5wWFn3ISbUKtSYVgkS9qVm71X6p5F3TIQ/pxXNZlmdvZeiz3bpqW5CwOlpxOLgrO3wr2WjK+WtjAH2FRtwdbCPrqNVYsZRZhjJ2duPZjoKgJG36QHX5+r39lxtRIcDHmlmaUpxmUKh1asAMqhBbkbc7tIoh9ET/V+v3K+cthMnqkyJBGFhX0Ul5VT2hZvbeu/twqYDFCVjzvhvAe5pC+VnllX83lUmek2YolzvaopEq6wTOHINrc2JuOSe2uBcZR4UaNwAFzTn0K1enwn51MM4x4ekwppqy7rh3X8K7DLcB6+nupilyTGrxJkhFzAdXeaFI5LmGXRYq8t0XDdBO5KcB5I3qiYFhP+I++J9SCNGbPSj4EwOarm/qsEKMtnnbItbH4I4y1teJj3K5M5WVAmsAK0VQoP02wRtdxRgVLZBm9Z41sCoSOlSQg==;6i3xQB8GQ9ESW2itVmMaDg=="
 ---
 

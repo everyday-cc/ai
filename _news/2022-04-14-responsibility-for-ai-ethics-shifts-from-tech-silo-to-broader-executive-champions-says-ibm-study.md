@@ -15,12 +15,6 @@ topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/pr-newswire_500_4_744.jpg?h=7de12b8a&itok=1ipjVXxk"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "d234wAasXDWQlBWZi53MihvVjYNh+1RBQi+vneApbfhVJ3XgEPHVatt+Zh7Kzk0uhPDJb3L+VyW2OP7U+uOYOjzJ4EI6mduFKlCtINJ/3nDr+QEpkrQi1W2xTYeecYl/c/BEjqHg2GtQulJK9pI8rxX69MLEMtPJRcR+x5iGn0xSFix1V/8SzSQbdolbdMe7e8WAYLUmvJpc3YYJTDACQ66wUYeTtKctdTAx4gsdH/bhPw1AMnPe2/kHdsJJEs2zbU4w3mCNhCostHL8NIAVpZ+zbLy1Ko0oz3RUfb627EQJ/OFFEWUAohqU/CeKCahPhT91mBehbBBfdwE4Q2J6pQrg6uMKzUmBs0IGwnjuGtA=;iZY5Hl7ED0dvut0nDbAfIQ=="
+secured: "ykGzgUY5BY+wOGFAzlyxOCN6CwDJwiRgs4ECw7xntmHgxIU6TKEdpNsBcrXJhchhm8j1evXK9yBHZA8tQV1hsh/jG7K7q2wMn7aU7T3hrS5zWfLnxPQ6ZHQU5YcPNvvuFzzT+so1VsM9S4NniRUNy2D3VbLZl/py6K5PMe5ftwpdmbGvfy6iJKq/EYdAHpcDdTIv9ePYtj+PmYl6U9dsxIPA3mDaNgjQODbOYwzdTdx6d9mHihvbzVr4+hRwA8xIV5LZSVpqEcf/heHNubpa+fh/ti6lwM07KEX31lHElmguLeiaveX/Cc5K0tfUcYvf1oTvO4jpnZZXFo3ZTHSXPVuMzi2JXykAziyxithv1ew=;OsQCKA/u8FgKA//zOh1NjQ=="
 ---
 
