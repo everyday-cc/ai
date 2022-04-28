@@ -25,29 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Hummingbirds AI gets to the finals at Vision Tank 2022 Competition"
-    excerpt: "The award-winning innovation hub will fight for first place at Vision Tank Start-up Competition with their video-based biometrics technology, GuacamoleID."
-    publishedDateTime: 2022-04-26T21:57:00Z
-    webUrl: "https://www.wicz.com/story/46374447/hummingbirds-ai-gets-to-the-finals-at-vision-tank-2022-competition"
+  - title: "The AI Learning Revolution And The End Of One-Size-Fits-All Learning"
+    excerpt: "As we enter an era of more effective and efficient learning, asynchronously delivered, individually personalized and at scale, we are looking at the AI learning revolution."
+    publishedDateTime: 2022-04-28T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/"
     type: article
     provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,998,x0,y84,safe&width=1200"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
-  - title: "Lattice to Showcase Low Power Edge AI Solutions at Embedded Vision Summit 2022"
-    excerpt: "The Embedded Vision Summit is a premier conference for innovators incorporating computer vision and edge AI in products. The summit is operated by the Edge AI and Vision Alliance, a worldwide industry partnership bringing together technology providers and end-product companies to accelerate the adoption of edge AI and vision in products."
-    publishedDateTime: 2022-04-27T20:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lattice-showcase-low-power-edge-ai-solutions-embedded-/2022/04/27/9591125.htm"
+  - title: "Mobile AI Market Size, Share and Growth"
+    excerpt: "Market Highlights Market Research Future (MRFR), in its recently published research report, asserts that the global mobile AI market 2020 is booming and"
+    publishedDateTime: 2022-04-28T09:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-ai-market-size-share-and-growth"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 41
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AiM Future Joins the Edge AI and Vision Alliance"
+    excerpt: "The company will demonstrate its edge AI accelerator and software technologies at the upcoming Embedded Vision Summit AiM Future, a leader in embedded machine learning intellectual property (IP) for edge computing devices,"
+    publishedDateTime: 2022-04-27T17:48:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-28-aim-future-joins-the-edge-ai-and-vision-alliance"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
+  - title: "New Release of the expert.ai Platform Accelerates AI-based Natural Language Solutions Adoption and Time to Value"
+    excerpt: "Extended core enterprise capabilities in the areas of vertical sector and use case customization, connectors and cloud environments to improve business results BOSTON, April 26, 2022 /PRNewswire/ -- Expert."
+    publishedDateTime: 2022-04-26T12:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-release-the-expertai-platform-accelerates-ai-based-/2022/04/26/9589490.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 15
+    quality: 0
 
 secured: "8CJorp0PzEWh9fQA4koAFlko/aY9IKeiBOKV919itIzfULBjYy0SG0mYwr2WaydoPkmKL0nxnzLJihOq7UXwnyqq6kFc6z8XQX1b9lmZ6kUObWZ3rL0HK/zLdf/GrJ0Locj6pQa7pV9DbSy9a8exLziBmfV3+a7lBlfGBUI60ekVeaKtOwDY52+8b3CLkS5eRNY10fFke97pGecvWjcoI55iW722uwStOLECdEfGuMMpUqBKRMLGLT76ScSIKgZUk4R3o9dRqsi02yBh0ophhcK4jLdQMUCCbUxPZ3G3HLbkdaxw61AdcSUhzaJ6bz8PuiYnQmhqPMc5ZdsDmRrUkVvn5An6ty98vzEt3Zl4weI=;qKwRhNRk6NM45uuOHXr+9Q=="
 ---

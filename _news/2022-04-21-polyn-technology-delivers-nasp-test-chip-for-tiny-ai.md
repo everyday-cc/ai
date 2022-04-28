@@ -3,8 +3,8 @@ category: news
 title: "POLYN Technology Delivers NASP Test Chip For Tiny AI"
 excerpt: "POLYN Technology has announced that its first Neuromorphic Analog Signal Processor (NASP) chip is packaged and evaluated, demonstrating proof of the technology's brain-mimicking architecture. It is the first Tiny AI true analog design to be used next to sensors."
 publishedDateTime: 2022-04-21T15:14:00Z
-originalUrl: "https://siliconsemiconductor.net/article/114634/POLYN_Technology_Delivers_NASP_Test_Chip_for_Tiny_AI"
-webUrl: "https://siliconsemiconductor.net/article/114634/POLYN_Technology_Delivers_NASP_Test_Chip_for_Tiny_AI"
+originalUrl: "https://siliconsemiconductor.net/article/114634/POLYN_Technology_Delivers_NASP_Test"
+webUrl: "https://siliconsemiconductor.net/article/114634/POLYN_Technology_Delivers_NASP_Test"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "kI7SFp4+eWDBnXA/RZnp32zaAB3eNNBDvK315Xrn7c3kdVXi0J2fPYz4MOwT3NmNJFSyHEW/9z8bd4NPIqF53KEHJV0cNMGrOWt2pH8DW/fNS4np5SEJ0Pm+SMjE5n3K6mELtt+Ve+ET+iihOe9eyM+7disHAzsUNdMp55paAST5l3LtugySpX6h/dZcEfPiOb2e3b4/0rl0iO+KoI1V6rgzkRcL5YnDRgXPyevvFo3HqkqEvEVMKcVLPlMWnHw9FjSeA8oLvLeCbtFd5++JGLUAwayNUjogVRDZuKP8AjMUDZx6HIxaj8yv7vs1M/Oc6A1gv7bn81eM6Iz+bQqLV66Q85GKCX85tKD0foXwrhs=;mpUeXbygIWEzfiEbPKGWmw=="
+secured: "PCZKpaFhyeeM4mJ47dM2nV37Cgd6lVN6Tt/7T/y+H36HYnCacwYN4jI+MEUFponOWgLh7o4aiCxRtWt9X9KiGjKrxwJlXLdPeHxbsq+P/nMxoVs3QQCkj+GFDGcT/Bw0Mn1KIuIphyFuJQY2xHBQWHMHdcWR0NYPAHfXz2DtrezjtQ85Uoyz5RewTLNpfYMuA/3wEIXsFigifG5C9XMEwwPpD2wobShr4TEZccRBZgkXRiIpd7as46ZskiAEV18jizOYXbFo4uaJJ3DvlP1sLzZ0HOWTYCF3rLMZeFer+UPu/v/Yw0gcRG9fKdcs8WoZCEnRq+k5I0bHQ90sEUQFEz4c3IJmVnIUKSPWvUsJVH8=;V4vT/qysmgSbCVzfZtrbIQ=="
 ---
 

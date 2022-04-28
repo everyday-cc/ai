@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI Diagnose Cognitive Impairment Before It Progresses to Alzheimer's?"
+    excerpt: "An artificial intelligence system has been used to distinguish between stable and progressive cognitive impairment from MRI images with 85% accuracy."
+    publishedDateTime: 2022-04-28T08:49:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/can-ai-diagnose-cognitive-impairment-before-it-progresses-to-alzheimers-361043"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 36
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361043/can-ai-diagnose-cognitive-impairment-before-it-progresses-to-alzheimers-361043-640x360.jpg?cb=20220428"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Artificial intelligence aids to diagnose mild cognitive impairment that progresses to Alzheimer's"
     excerpt: "A technique based on artificial intelligence outperforms current methods in classifying whether it will progress or remain stable"
     publishedDateTime: 2022-04-27T14:05:00Z

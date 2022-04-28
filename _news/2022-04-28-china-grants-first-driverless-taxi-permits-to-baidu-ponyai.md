@@ -1,28 +1,29 @@
 ---
 category: news
 title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
-publishedDateTime: 2022-04-28T07:01:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+excerpt: "The permits given to Baidu and Pony.ai allow them to offer rides without a safety driver behind the wheel to take over in cases of an emergency. The new permits still require a safety supervisor to be seated in the front passenger seat."
+publishedDateTime: 2022-04-28T06:03:00Z
+originalUrl: "https://www.chron.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
+webUrl: "https://www.chron.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
+ampWebUrl: "https://www.chron.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
 type: article
-quality: 56
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - AI Hardware
   - AI
   - AI in Autos
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/25/40/31/22414936/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -136,22 +137,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Pony.ai Approved for Public Driverless Robotaxi Service in Beijing"
-    excerpt: "Public can experience driverless robotaxi for first time in Beijing A milestone on path to large-scale commercial driverless robotaxi Pony.ai, the leading global autonomous driving technology company,"
-    publishedDateTime: 2022-04-28T02:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26858798/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26858798"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26858798"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Pony.ai lassos China's first autonomous taxi license"
     excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
     publishedDateTime: 2022-04-25T17:00:00Z
@@ -181,6 +166,20 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
+        isCached: true
+  - title: "Pony.ai Approved for Public Driverless Robotaxi Service in Beijing"
+    excerpt: "Pony.ai, the leading global autonomous driving technology company, today announced that the general public in Beijing, China, will be able to experience driverless robotaxis for the first time. Pony.ai was one of two robotaxi operators awarded a permit by Beijing city authorities to offer driverless service in southeastern Beijing."
+    publishedDateTime: 2022-04-28T02:21:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-china-beijing-3d982efd53084f2e84820442c983456c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Self-driving startup Pony.ai bags commercial taxi licence in China"
     excerpt: "Chinese startup Pony.ai, established in 2018, has been running a robotaxi service in Beijing after it received a permit in November 2021. Now, it has received a commercial taxi licence, a first for an autonomous driving company in China,"
@@ -355,6 +354,6 @@ related:
         height: 720
         isCached: true
 
-secured: "5Fy1NrntDFL/kqYDp11zwh+Jqt7eOkHgh9+JB+Cpaeq4wVX1nSaVlNQkJZVp7RSTWBGrscn3ZR8dEzanitZflyOf24mFlUgjjjP+5RwDMuurxukd5U4v9oWDpLL98+eeQBx1w8Kf3Ac64B9z5cnusm3F2IKtx7dnZPYZ2sNqX7s9zr4t41OM6AmhHofb5jzIdbU6vGfCnhvTkIqyLzWFzbNiKZ9E97aUYZDhXyEz0hbzIBkJh1C3ZrR2aI26ncSY9nOyeIpf1OVBt6KwAmksgcJpoav7K5PdJgz11lnCZItplI5HVOoNrnj/d39XdVPfUMgQk8s7OkxlC/53CIHaiwubU/t0vEEsJwFL2rgM4VmJp8n1GTkFvCgreFm/RzsRZX9xSOe4QprLXSsHh5axEV08EWCQHjzDoqNzUS+Rd6KonIlrU92Xjn9u7xxS0anrql4moHvhUwTmqgh3+CKrQ+pT/GiSbMOfU26ry4tIZEEE8fpkT/iVChiFxPi4LqNKbASlMj6Y1hcLehadVuojGQ==;OA7ojuQaa/V+djb2+OtKdA=="
+secured: "6MvFWdcotp2K5RVq3WbBStHJdB4Tz2LaW2jsGDzOwKEhRJp4KYzNz0jsowwXWIzQATuts4BTZOzsybiOoGmDNu1gzekAIxUhkvsydJWMrJJMwMCa86Aerjk+Z/KuvoxmMMwR8QosB13AZaNx3veCagskta7iB9rd5P9hKZklfgQ7cF1bidJrqRr9LNpup1X+rwJjZN+4kmvI8FYhoEKpoPoLRxETDOjrREOOl/3jhkYZ1GRFff41YGYId4Y6bRl1Xb7nPbDHlDeKy4Oe+yLJG5BTihG4fX1yMfs0DQzydWuXGJ4cgIXZ+K8JjAQn8RupY4l4SOMnqMcSNP1N/tBoFH10nXOyKyNyuQINvm9/iOM=;9OJK3cQkW5Ob6v0DPMzL2w=="
 ---
 

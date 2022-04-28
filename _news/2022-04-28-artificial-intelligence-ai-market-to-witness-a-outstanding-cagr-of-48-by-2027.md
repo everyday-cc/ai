@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-28T09:49:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-market-to-witness-a-outstanding-cagr-of-48-by-2027"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-market-to-witness-a-outstanding-cagr-of-48-by-2027"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/EEE-4-1-600x337.png"

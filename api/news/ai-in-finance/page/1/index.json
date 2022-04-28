@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-28-fintech-startup-finbotsai-raises-3-mn-from-accel-to-expand-its-asia-footprints.md",
+      "title": "Fintech Startup Finbots.AI Raises $3 Mn From Accel To Expand Its Asia Footprints",
+      "excerpt": "Fintech startup Finbots.AI, a venture targeted at banks and financial institutions, has raised $3 Mn in a Series A round from Accel.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/",
+      "originalUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/04/Finbot-Social.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/",
+      "publishedDateTime": "2022-04-28T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-hpe-uses-blockchain-for-distributed-machine-learning-models.md",
       "title": "HPE uses blockchain for distributed machine learning models",
       "excerpt": "HPE has lifted the lid on two new AI products, one aimed at enterprises wanting to build and train machine learning (ML) models at scale, and a second that introduces a decentralized ML system to enable distributed or edge deployments to share updates to their models.",
@@ -278,6 +321,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-fintech-market-size-to-reach-usd-16652680-million-by-2028-at-a-cagr-of-139-valuates-reports.md",
+      "title": "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports",
+      "excerpt": "The global fintech market size is projected to reach USD 16652680 Million by 2028 from USD 6588780 Million in 2021 at a Compound Annual Growth Rate (CAGR) of 13.9% during the fore",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-fintech-market-size-reach-usd-16652680-million-2028-/2022/04/21/9587422.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-fintech-market-size-reach-usd-16652680-million-2028-/2022/04/21/9587422.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1237,92 +1314,6 @@
       "provider": {
         "name": "WDIO",
         "domain": "wdio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera.md",
-      "title": "Fluence Announces Agreement to Acquire AI-Enabled Software-as-a-Service Company Nispera",
-      "excerpt": "In increasingly sophisticated energy markets, forecast of granular asset availability, production profile, and management becomes imperative for value capture Enhances Fluence’s digital leadership position with a combined digital portfolio of 15 GW contracted or under management Accelerates development and roll-out of new applications on Fluence IQ Digital Platform Strengthens foundation for recurring revenue and expected to be EBITDA accretive by 2024 ARLINGTON,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/",
-      "originalUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/CabreraAP22113633967552.jpg?w=2000&#038;ssl=1",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRN",
-        "domain": "wkrn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-how-are-indian-banks-adopting-digitisation-and-ai.md",
-      "title": "How are Indian banks adopting digitisation and AI?",
-      "excerpt": "An estimated 205 million Indian adults already have a digital-only bank account, and this number is predicted to increase to 397 million within the next five years.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
-      "originalUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Banking-banner.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null

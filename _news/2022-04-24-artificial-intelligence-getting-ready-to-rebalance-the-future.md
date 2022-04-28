@@ -23,17 +23,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "AiM Future Joins the Edge AI and Vision Alliance"
-    excerpt: "The company will demonstrate its edge AI accelerator and software technologies at the upcoming Embedded Vision Summit AiM Future, a leader in embedded machine learning intellectual property (IP) for edge computing devices,"
-    publishedDateTime: 2022-04-27T17:48:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-28-aim-future-joins-the-edge-ai-and-vision-alliance"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
-
 secured: "SyWmLJgCSwYF3LrzmJiiYj+87zgldxePOzppReVM+4HCxf+9dXoQamtU3l9tG5J3fhk9mYV3WfpzbQ8/kJ+B9Qg4EdwxFzvYO5hHlSOEhLeBQ8Wj7FfRZeZ/IzSWADjECeA1187/+ti7p4FAggtcZ454ahvu6ecG+Ec8upMv65zEy07CHs3Qk6SL36BuhMgZbi0I/hmMliT+NmdaDuitmynYKc1XGa3hurgeH4Lqmwrx7uiPXol0HMUpPQZVC4DgVCIwsohzrBReJIp2mSoVuA2yvg3nGJyhlUjYurkHGDDTNoRQrwLCshjymE37k2LnmQ7hPyknSJaU3RNfPbG/iDEN/tMjQfJUYLf+HEg0+XM=;kV3Za0C790UN/IGOEFkDyQ=="
 ---
 

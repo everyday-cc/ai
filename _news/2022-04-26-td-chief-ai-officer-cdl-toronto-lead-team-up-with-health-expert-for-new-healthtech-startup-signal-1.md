@@ -67,17 +67,17 @@ related:
     quality: 34
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T12:00:00Z
-    webUrl: "https://www.khon2.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+    publishedDateTime: 2022-04-26T07:00:00Z
+    webUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
     type: article
     provider:
-      name: KHON2
-      domain: khon2.com
+      name: We Are Green Bay
+      domain: wearegreenbay.com
     quality: 33
     images:
-      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2022/04/cropped-HEADER-KHON-70-YEARS-WORKING-FOR-HAWAII-larger.png"
-        width: 758
-        height: 297
+      - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2019/07/cropped-WAGB_DOTCOMv2.png"
+        width: 1018
+        height: 340
         isCached: true
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"

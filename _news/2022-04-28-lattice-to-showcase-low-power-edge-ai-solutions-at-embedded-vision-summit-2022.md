@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
-    excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"
-    publishedDateTime: 2022-04-26T00:49:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 28
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
 
 secured: "R2puITXqMTMByKfn6gI5Utlzz8EmcV/yCAzYswuzJEGnK9jZJu+WpURlIhnT1PJCac6L0hRObpj9GBriotpU0F3hbqfj507rVy2+aGNbkbaFIF0RSFBNSC4jaTkKc4Zq3d8LJ26Q/gbdX+whMaH6vg9GFpU7g/J/8jLgJ2qMvjzecKQ0hAkNV06+i1Rb+/oXiujDtB0JknZHVCq7INm15zOSUjkskYRGko9B4d853rnaiJON9jCCt+p7C5lY70Ykcj8SiBd0ZcavMsCKC68jgulzmWAqGNatjiwYIOxJb3IOSJL5QRwZ9WcIpqRh+Q0SxjNAUYwdpUMgyZHW8awjbA1wKkZ9L+J3XcKpgh1rg9k=;xpo6mvlMbcraSsS/FgJpbQ=="
 ---

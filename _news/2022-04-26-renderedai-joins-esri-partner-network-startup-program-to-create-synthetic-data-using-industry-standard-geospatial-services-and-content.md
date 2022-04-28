@@ -33,6 +33,17 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
+  - title: "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content"
+    excerpt: "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI trainingBELLEVUE, Wash.,"
+    publishedDateTime: 2022-04-28T10:59:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 5
 
 secured: "TrG5lVcexDmvnuKVxkFhY+fRH9/xxRQOIC7R45aHVf1kMOMDVoUunvPir2mINJsVRAB6OAD/0MB6N5fIr3qDh1dkVGUBRqe6vZQJ50n2eknkvQMF6cUD5xuAlyr49oq+7ZtaHEqI4onqlxmovnJgrM5S6/NY5keO9K50Cr0HvXIR/FWvilBfHh2BDMFGzM4rUw5pO4VL10iAWSd4XJ3DTFUIBZPxjzisNSys9QPvDiez8vDwzvVpiE7uzPYqkA5zQN/gjTZ6RRwsZ/hJz6ckrWaR922t+IVX2b7YWRBqFdNwRBFxTNtDETV19YRcSjUaz1bqItgdzA/cbluTF7L6+wQPgZCE7QIv1pafismuWxc=;9oNh2B40A/HLXnH2q0OATg=="
 ---

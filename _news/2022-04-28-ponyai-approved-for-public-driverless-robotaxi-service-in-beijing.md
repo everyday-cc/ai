@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Pony.ai Approved for Public Driverless Robotaxi Service in Beijing"
-excerpt: "Public can experience driverless robotaxi for first time in Beijing A milestone on path to large-scale commercial driverless robotaxi Pony.ai, the leading global autonomous driving technology company,"
-publishedDateTime: 2022-04-28T02:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26858798/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/b26858798/pony-ai-approved-for-public-driverless-robotaxi-service-in-beijing"
-ampWebUrl: "https://www.benzinga.com/amp/content/26858798"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26858798"
+excerpt: "Pony.ai, the leading global autonomous driving technology company, today announced that the general public in Beijing, China, will be able to experience driverless robotaxis for the first time. Pony.ai was one of two robotaxi operators awarded a permit by Beijing city authorities to offer driverless service in southeastern Beijing."
+publishedDateTime: 2022-04-28T02:21:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-china-beijing-3d982efd53084f2e84820442c983456c"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-china-beijing-3d982efd53084f2e84820442c983456c"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -137,6 +135,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+    excerpt: "The permits given to Baidu and Pony.ai allow them to offer rides without a safety driver behind the wheel to take over in cases of an emergency. The new permits still require a safety supervisor to be seated in the front passenger seat."
+    publishedDateTime: 2022-04-28T06:03:00Z
+    webUrl: "https://www.chron.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
+    ampWebUrl: "https://www.chron.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 74
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/40/31/22414936/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Pony.ai lassos China's first autonomous taxi license"
     excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
     publishedDateTime: 2022-04-25T17:00:00Z
@@ -152,20 +166,6 @@ related:
       - url: "https://regmedia.co.uk/2021/03/31/driving.jpg"
         width: 1000
         height: 475
-        isCached: true
-  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
-    publishedDateTime: 2022-04-28T07:01:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 56
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Baidu, Pony.ai granted driverless taxi permits in Beijing"
     excerpt: "Baidu and on Thursday announced that they have obtained permits from the Beijing city government to offer driverless rides in an area of 60 square kilometers (23 square miles) in the city’s southeast Yizhuang district."
@@ -354,6 +354,6 @@ related:
         height: 720
         isCached: true
 
-secured: "TTMMUmYqxeUDtU+1Hemp5ChDNb5hDsPbQtMovu7lkr/p4HPBPFBCk+ZL5aU4NoBJuEc5+I6AOc0OnRsfO2ZQTvxmgNzZ1sYAReykGc+gTc+nSxdh/PWyD2MGrkpxwjiequpa8wtW1bal6EPabUbL47fz15/wCrtnj7EOq/Is4OeqbDli6EXeTAclqwgSCJFy3DXfNsSEWwPXbmVdXM3p69mecbq1Pl0nq7wJirOXBNir+/6YF2/aSuBtFakZoczUyMYOYn6QWUlroi3PtJCDLO9krV/fY6NIuBi6cvLymyU/prWoJAnKpbrZuxS4I7eYrs8H+0DHzL/YEOH+tkSscbSnzRgqUWIgILgJ3XAD1ns=;FEGWVKRVADVCsYs2HyvaHw=="
+secured: "5LoQDGO8KkyyG6pqCWLyglwn0+o6WMYUDFU3YO9EtlcDwd6Gst16/5T9T0wXIF60UCDe4w8fkY/0bH4iRXbDuLp07NPXA6gW8qye+4j8/NsCPLdsEts91I2hSbknGNnZ4zKMQpofqbyhcr7pQfj2//gwjCi783zgzA5f8xqdJqR6gm5suyIllbm2sB37Y1TA8R4oeWPmyMIi1nW2Bl2DjSy6lXFnvNQK4KmJBizPs14VTrbfIo1M36osBJVgDTsPNv20l/ZJGdr84V74RLVCzTXNj5chhNHmO3Ay+l7exRwFeK/6XSWqauCtEOCHVZ6QXpX970B44zF/7m9P7WGCdTUBKdH96ypwOcMhMZ54Qqk=;/qU+cbDlRGPrj9CkN6pZSA=="
 ---
 

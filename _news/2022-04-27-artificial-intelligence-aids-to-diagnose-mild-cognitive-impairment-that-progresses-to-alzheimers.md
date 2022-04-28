@@ -34,6 +34,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Can AI Diagnose Cognitive Impairment Before It Progresses to Alzheimer's?"
+    excerpt: "An artificial intelligence system has been used to distinguish between stable and progressive cognitive impairment from MRI images with 85% accuracy."
+    publishedDateTime: 2022-04-28T08:49:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/can-ai-diagnose-cognitive-impairment-before-it-progresses-to-alzheimers-361043"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 36
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361043/can-ai-diagnose-cognitive-impairment-before-it-progresses-to-alzheimers-361043-640x360.jpg?cb=20220428"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "yoCPH+zlEIxemMOFEUMPtcLACcrs1cjJ/VuNAGTOErWHw4rXlRaZGnLYbohZc08YshVvMu+nhSOKuENiqYDyVM2Vlgxw2L4XeepPGbkqE4AYgBo+cTD5lRPCDkL7GQdf8dDbjsYI9s8h8S98xDQ/hCfsP4z7OvSDG9zNyLhK8wzxVqJT7hRIr6zKRhFeAo1oYe7thHo2kbgxVQGjAE2bfRvMfuiSjRBiKMOdIYYcYbgHzZrCzpAVn+VRQmwh3amHo9nrr0UBrAsXvjofkSf0NPVo7waj/qH4poqqDQrJVGANXcVggiuYwrCbuwJSbsnKABdNOKEajaxZ9nZUMYXu6Q8aVDMCnJZpgM8/lYJmKU4=;HBLj2eAP/1GUck0sny1tTQ=="
 ---

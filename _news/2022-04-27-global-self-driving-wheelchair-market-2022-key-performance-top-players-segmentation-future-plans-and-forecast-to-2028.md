@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-whee
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2022-key-performance-top-players-segmentation-future-plans-and-forecast-to-2028-2022-04-26"
 type: article
 quality: 59
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -112,6 +112,34 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?171601"
         width: 375
         height: 250
+        isCached: true
+  - title: "Artificial Intelligence Market Analysis Report, Size, Share, Growth, Applications, Technology, Types, and Forecasts Report 2027"
+    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing"
+    publishedDateTime: 2022-04-28T11:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-report-size-share-growth-applications-technology-types-and-forecasts-report-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Facial Recognition Market Forecast/Research Report 2021-2028 Featuring Key Players - Tech5, IDEMIA, Aware, Cognitec Systems, Ayonix, Fujitsu, O"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Facial Recognition Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component, Application, and Vertical\" report has been added to ResearchAndMarkets.com's offering. The Facial Recognition market is projected ..."
+    publishedDateTime: 2022-04-27T22:02:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=654670"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 1
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "OQ5LbN4XeAKO58fnsdpUlJpo/UHOquVHNuP/nObSIODYbq8LVFCoQ/Vhl5KhpqI/9IbMAtdgO4KQPfPxvYd9PSFfGw7dlTvwBnV22956Aq3k/+8t4/h3jVa8fgZvIHY0xvvKL7HuA2c6GF1+1ZMdHGImlK0COXShSUVdkxuJIZqvxvMZhbU1pwRqAuQNIft7UIxEOjQ3nebP0zG1QafCEQcit3eB8AzbKRu93wqPg2ouOe1UpB/pCXiIQ6LsGWXSqiBfROmxaek40hVpHbpxS7CucQs+oFpdX+MVBIiGK7vHPFD4hQN099X/RYnuY00Q/aemklSk9QkOUEq8F18PEZ/kbBHibUTdas63cwMqRYE=;AN9YFlR8RIosGcHv2f6MTg=="

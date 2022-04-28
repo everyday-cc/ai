@@ -1,28 +1,31 @@
 ---
 category: news
 title: "Yellow.ai bolsters its Marketplace with pre-built Dynamic AI Agents to deliver faster time-to-market"
-excerpt: "Yellow.ai, the world's leading next-gen total experience (TX) automation platform, trusted by 1000+ enterprises globally, today announced"
+excerpt: "Enabling enterprises to accelerate their total experience (TX) automation journey through swift deployments, the pre-built, vertical Dynamic AI Agents support use-cases across key industries including"
 publishedDateTime: 2022-04-28T05:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/yellow-ai-bolsters-its-marketplace-with-pre-built-dynamic-ai-agents-to-deliver-faster-time-to-market-823176504.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/yellow-ai-bolsters-its-marketplace-with-pre-built-dynamic-ai-agents-to-deliver-faster-time-to-market-823176504.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26859419/yellow-ai-bolsters-its-marketplace-with-pre-built-dynamic-ai-agents-to-deliver-faster-time-to-mark"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26859419/yellow-ai-bolsters-its-marketplace-with-pre-built-dynamic-ai-agents-to-deliver-faster-time-to-mark"
+ampWebUrl: "https://www.benzinga.com/amp/content/26859419"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26859419"
 type: article
-quality: 22
-heat: 22
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1736428/Yellow_ai_Logo.jpg?p=facebook"
-    width: 997
-    height: 524
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "nJaNhwx6nk7GOPSLQcXit8JId3Sp4S/Olg4YFzc6/Ayf13RtljEEBDyREWV0QIVQvL99Lx/iiBnN6Isir73zXnxYVOlD7S9lHEGGK0lzXMoxiG8J5TKwHn59kFwrJ5NFrtngsULtD3yMbh1pI8Cx0cJ+IAtQvy06n/n43x9NlonCyqPQkVBB6+PyYh43E8CPmPPNpOWKcvwGspxU+xlP0nGU13Egu+HR0IQvSyXODt3BsXsahazWI7X1sKkucJIIXPB9TlksY98NYrvGMDKvv8kue0Ngk6o8g/+7cdmXtm4z8SgPboXTUGySmdg53qsy+ei2UC2+NgJ4TFQ49f0NGQpUp9sgw0GUdcVvheCgFVk=;sHMljLJA5I4teML5yU2WbQ=="
+secured: "7ETPqfUI765ZIw+t2rtcBtwGOoFNlr6fcL/YQYy2+49EeAERWlV0T8EU011pqF0IaL+39ciVfd24UF4DI7oWMMs6QZIXKI1ctKOCknPROxSLycNnSfulJfD7BUObuCv2KkAg1eQUCQxbeZXwKFyCay8G/cAQR+g5ETC7o6LMW5fR3862KA9kSzGvPWCtlCIpqi5JRecJ/n10lFkIrm6LGkp7UaJ5sdJKnLvtdGYXJguFHyhzoLw6wNGIjC8SZAapnlXsvifE/Md4AZhptuKYt8EqOFLx7ssVwTdfM3IT/wW9hz3MyaYIqDgVJOEjLNWbWWqxfoISNxuzm60e52YF+6iXJsj5CvsEA3wShXWEj+E=;Jk3hvDjsus1x/5JLHnzZSw=="
 ---
 

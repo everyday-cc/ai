@@ -7,7 +7,7 @@ originalUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-
 webUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-intelligence-390029"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 1495
     isCached: true
+
+related:
+  - title: "Trades union chief warns on AI workplace changes"
+    excerpt: "The general secretary of the UK Trades Union Congress (TUC) has told the BBC that with the rise of Artificial Intelligence in the workplace, employment rights have to keep pace with big changes. \"So often we those see big decisions being taken by employment software that has discrimination written in."
+    publishedDateTime: 2022-04-28T11:48:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/business-61255405"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1F44/production/_124340080_p0c3qnf1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "kq432Wqd5+182HQuBsoxffXTV29WmnbfVQJPTY8GYBpvy2m+uPIP7KDMk8MHlbJrv5jvmRbVrn/0E8DsFLScltO6QgmOw8yIf8EDi2WROsK9hrPfcD1CJq8uhLae7cGXRCJvoYiR/5H3ADVLRr1jotfpeYRee+bKeMs+uvqlgzz+m5R9yNqlyX3+/rhjC3zqvixWeDVqtaW2Fh/X3dE1XIf1ygTgCxhKXFrxcCvR6Fraw8cggEWr1DAvTLQDs2c+TR2gCNK6AQzUzdlpreA5NxOZTA3XQLmvjowKIGQoVHebyCtDBEoF7sDFgqHwpOu/ebuSD76N1mrZWn1rzBuTiVuB88EYAnCVYAjqjQsspeA=;nDWy5bQIJK2sOYTYNmq+DA=="
 ---

@@ -37,6 +37,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content"
+    excerpt: "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI trainingBELLEVUE, Wash.,"
+    publishedDateTime: 2022-04-28T10:59:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 5
 
 secured: "Ahy2oPzphrYW/9u6rSsie4dXhHkoL87wJ9mqNaK8Q1i3CLQ1+0Nx3uVlfsfFDEoPXsdEaYQk2XzHopznb38qAloqOfsA+OzpGs3tSCsyZprWFM2N6EVIGe2xTRqU+guh+GNRPQGSeqeTpszTYJA2tPqMxQeyxo9cEa0dX4Z2+CsUer9cPT3/TVdS8BI+r+iqylrMggoXAOyewfY+jKtIMguI8r41WZTtZ5frtRxXWeu//Ip+VDztJCa1Fc65mM9wV99O5kkyPaYtWMyVyZ/Uiwf5JPnNqjWzJDjpwKyooXUll4xU29H62mK94MZFBXRU4ZQ2DT/C84Mtaf9nVPRpJU4K4UQAw7pcj6QJOMZ3uFRlnON21sd5v/oqNb66UsTxPAgOlNxFzMXj0FHuhQgbywWzG0c9RDyaAl0MTZOMTgaYVdquIeZ/1feZaDkQbx+7Byn8wyRDu7z5tVVXezecvzwVMpcnFO3fYAtofF3l8qJa1+itszNPe9exs3FeEmlg6gQYq70rdkDPERzTdBAyMw==;ZKFXRMP9Unu7fUt/pmnIVA=="
 ---

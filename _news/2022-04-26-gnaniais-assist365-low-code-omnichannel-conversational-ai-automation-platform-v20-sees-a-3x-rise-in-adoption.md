@@ -30,11 +30,32 @@ related:
     excerpt: "Conversational AI, often referred to  as natural language processing (NLP) or natural language understanding (NLU), helps computers listen to, understand and extract meaning from human language."
     publishedDateTime: 2022-04-25T13:36:00Z
     webUrl: "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/"
+    ampWebUrl: "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 49
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2012/06/listening.jpg?w=1200&strip=all"
+        width: 665
+        height: 314
+        isCached: true
+  - title: "Real AI is shaping our future"
+    excerpt: "Artificial intelligence is here, and it’s real – transforming our world in ways both seen and unseen. We experience it when we use navigation on our phones, write emails at work or when we pick TV"
+    publishedDateTime: 2022-04-27T12:50:00Z
+    webUrl: "https://news.microsoft.com/en-ca/2022/04/27/real-ai-is-shaping-our-future/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/67/2021/09/Title-Slate-Square.png"
+        width: 1079
+        height: 1079
+        isCached: true
   - title: "Gnani.ai's assist365 Low-code Omnichannel Conversational AI Automation Platform V2.0 Sees a 3x Rise in Adoption"
     excerpt: "Gnani.ai, a global frontrunner in Conversational AI and customer service automation today announced a 3x rise in uptake for the new version of the assist365 low-code omnichannel automation platform. assist365 is Gnani."
     publishedDateTime: 2022-04-27T02:24:00Z

@@ -35,6 +35,20 @@ related:
         width: 1920
         height: 1497
         isCached: true
+  - title: "Low-Energy Device Lights Up Artificial Neuronal Networks"
+    excerpt: "Scientists have used a nano-scale device, named an “optomemristor”, to interact with and emulate multi-factor biological computations of the mammalian brain."
+    publishedDateTime: 2022-04-28T09:18:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/low-energy-device-lights-up-artificial-neuronal-networks-361053"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361053/low-energy-device-lights-up-artificial-neuronal-networks-361053-640x360.jpg?cb=20220428"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Lighting up artificial neural networks"
     excerpt: "A team of international scientists have performed machine learning computations using a nano-scale device, named an “optomemristor”. The chalcogenide thin-film device uses both light and electrical systems to interact and emulate the biological computations of the mammalian brain using multi-factor interactions while consuming very little energy."
     publishedDateTime: 2022-04-26T00:00:00Z

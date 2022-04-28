@@ -109,6 +109,34 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Market Analysis Report, Size, Share, Growth, Applications, Technology, Types, and Forecasts Report 2027"
+    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing"
+    publishedDateTime: 2022-04-28T11:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-report-size-share-growth-applications-technology-types-and-forecasts-report-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Facial Recognition Market Forecast/Research Report 2021-2028 Featuring Key Players - Tech5, IDEMIA, Aware, Cognitec Systems, Ayonix, Fujitsu, O"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Facial Recognition Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component, Application, and Vertical\" report has been added to ResearchAndMarkets.com's offering. The Facial Recognition market is projected ..."
+    publishedDateTime: 2022-04-27T22:02:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=654670"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 1
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "O5AH0vJ7WnIsl4G7XiMe/bE1MkE9CX5cXKGvZxzkKGH9TPISc81/Wib3pUhSeiBCg9zZu8DUcN743iMqE/0ifQUAaVcMOHnWCyJcW8ElGH64Sq9g5ACOPYEnEAJ+dZtGPmq5n63+pwypJhTdBx7oEdOFqBoKCkutm4m1NTybB/bJaIJSD+7vOrzAXP0VE1XucRYCSODgzAe88q7D50hWIi3Oe8VvWk8rWsmlsTuYJ+zb5alUic32Ylu0ik04+5QZzdaYXvGrvk4/QLDomCGb28252ITI6h6kfwqQL76oOY9JqwuWBf8bDRBj28hkSjrGU5R5ki4jV3vo8tNhHgu/uxS/HlVp/xercb1DJnrqmEM=;lzZCVcF5D5dlKLO2cHPtrw=="
 ---

@@ -5,10 +5,12 @@ excerpt: "Conversational AI, often referred to  as natural language processing 
 publishedDateTime: 2022-04-25T13:36:00Z
 originalUrl: "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/"
 webUrl: "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/"
+ampWebUrl: "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
   name: VentureBeat
@@ -22,7 +24,27 @@ topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2012/06/listening.jpg?w=1200&strip=all"
+    width: 665
+    height: 314
+    isCached: true
+
 related:
+  - title: "Real AI is shaping our future"
+    excerpt: "Artificial intelligence is here, and it’s real – transforming our world in ways both seen and unseen. We experience it when we use navigation on our phones, write emails at work or when we pick TV"
+    publishedDateTime: 2022-04-27T12:50:00Z
+    webUrl: "https://news.microsoft.com/en-ca/2022/04/27/real-ai-is-shaping-our-future/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/67/2021/09/Title-Slate-Square.png"
+        width: 1079
+        height: 1079
+        isCached: true
   - title: "Gnani.ai's assist365™ Low-code Omnichannel Conversational AI Automation Platform V2.0 sees a 3x Rise in Adoption"
     excerpt: "Offers fast-track automation across 20+ channels in voice and chat with 360-degree Customer Engagement Gnani.ai, a global frontrunner in Conversational AI and customer service automation today announc"
     publishedDateTime: 2022-04-26T15:18:00Z
@@ -49,6 +71,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "tXKXZMV38z/MhMS5eBlFIE7fiT/9WcsvVcjAjk/ojzK00KQGL9I2fUgUxvNwpzvU2rbqzTdoq9+4+3xAOz+RiQx30Bzt4g+onaJ7dh0NG6UzTKXD3DGnv8DwzZ6wthlEKaHXCWfVCUBX49xAfBjTBsLRkQ57oBf035gY8Yg0j4Ixi6jcgHLzkj3Vf5IqmIppGFNehdaZVgNdC8BFJ8boPtWOAugY81udOpIk+OyFp7el01H5bsOtjdSqzIEVk2mIRH8+pt+gr0HkzpQfLjuQ9dBR3Q/B6tBip1T6deNudQvShCNzYbCjld75ri6P0rR4fgcvk0bImHLswRK9unJ6loJ1pBQ/xLpQ/WRNU9xxYY8=;iaukvwUFIU2n5Maf5CTPiQ=="
+secured: "eNRN8JIOTFtNWp+58b5f4qpTega5zLirmzkbY6iElULwoaAh0XEXN8gqSANVBOMEi9jyG4P+U5Uh70EhleEHteTr3SYwxdQ571CJKVRUUp4hJEqjlpxykg/HQcOnkoEXYraQ1+lblENwpZ83MTahsmGT8pILCnEwCRvFxeoz+BsYglxe7NUGjT27Nz34gXqVj36HMlgHsVXiSn6GEpmwmtvxbmQVSsLtFP+FrbrHb9ip9Y+98fmX1bIHgITLOUapSVuYSagvU57h7o6GmUvkjejJLFflrb3WvbOQoSsrPR8pwqRjdSssGzAUOTTybWzO7ZocJ+wznqdUviAUvjJ4FHP2FKaixbClGS7yEJ7GGLk=;kndVVcY9loWufGiE46GAUg=="
 ---
 

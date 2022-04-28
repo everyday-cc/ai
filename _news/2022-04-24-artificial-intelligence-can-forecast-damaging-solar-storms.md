@@ -23,6 +23,17 @@ images:
     height: 901
     isCached: true
 
+related:
+  - title: "Marubeni Corporation to Implement Veritone's AI-powered iDERMS Forecasting Solution at Solar and Energy Storage Pilot Plant in California"
+    excerpt: "(NASDAQ: VERI), creator of aiWARE™, a hyper-expansive enterprise AI platform, today announced its intelligent distributed energy resource management solution (iDERMS) has been selected by Marubeni Corporation,"
+    publishedDateTime: 2022-04-28T11:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-marubeni-corporation-implement-veritones-ai-powered-iderms-forecasting-/2022/04/28/9591478.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "1uxRrVMdU5GHukJe7jLi4VpcdnytgjgPlpPCJw/IYhPHvzpcBaMSRvvfh30M3VzqMP180A2oAIw0h0MkLfGo/BSHnQYbHspMCbZ3DWtoRmY0c/Ujsw9h9V20+KppjorkaWAmuI2sYiPIWFLO10N0TaH7WwbuBERm3YuKijwzuQKYUKrF5iUbtN4IOReMbcIe4rS/GawP7w8tg0S+F3yU4Ht0mRYWa9tshTxLXzsYfGBhRKcf+n572JSnxDzE+JvGC8a9/q32MgBenbooydHqMFfapgGNtXp49EXrb3Ab0vVMjEv73R7DnOtntDwQK+ngaHhXNh2lIEpkUipKIB7p+hKARemDl0+Jm1fub0i8wm4=;oHJYVeuejvK7uenD9t9bTA=="
 ---
 

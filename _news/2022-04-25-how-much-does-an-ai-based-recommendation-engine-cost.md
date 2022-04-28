@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "New Release of the expert.ai Platform Accelerates AI-based Natural Language Solutions Adoption and Time to Value"
-    excerpt: "Extended core enterprise capabilities in the areas of vertical sector and use case customization, connectors and cloud environments to improve business results BOSTON, April 26, 2022 /PRNewswire/ -- Expert."
-    publishedDateTime: 2022-04-26T12:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-release-the-expertai-platform-accelerates-ai-based-/2022/04/26/9589490.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "eiWf6BCk0jhDdHUvewYGoKtBPYVVZt8TZh6+h/vMP2luwa8SpZvCZp6AU/h2Kr3sn29LaWSo4PqEv2Ub6rMp5DMcLt7dwBECJq5tn5jqOo80jHzY1Xo7Qph41/4GBMwEJdx3tj27ex8SGrkP2bl6zmYQXmgApyvM7D8/efPe169YAPcTS+nc6M5H+oJ5DH152tlByGz8t7uGyif7TqCPGzDrnuuO07vO9xrSpAh1IaBHfIR1DmZwo4OZarV1VUNXGzCBs0GynzXiqtFJSe/tKsfJx+4v+hhLuiPJYaYXpVCOpIzb8PcCYJN1mZObRfFlyABmpOq9KP7KqstgMssV81/3xp+qunzPqAt5iuphI3Q=;HOCdFldo6NiMmzeYMjzmCQ=="
 ---

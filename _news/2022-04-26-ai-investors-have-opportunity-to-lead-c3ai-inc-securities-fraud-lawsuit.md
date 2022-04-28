@@ -38,6 +38,20 @@ related:
         width: 600
         height: 207
         isCached: true
+  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
+    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
+    publishedDateTime: 2022-04-28T10:45:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220428NY39116/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1687309/LK_1920x1080_Logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "aHmATS+/yIg0UnREfHydtXQ84busbAxqDYs6tAf8YWs5nz2c2aRJu+0RdUGOiqXKGcFAxEI52T210nDKaTAWH7UT6a4zsL2jDJosKmPeo6JcgQuUeQ32YgV3BakqWLMZAuFwXu3yiLHSc1UkPneMppryr4554KG71lskHUwFZsydrCR/lHHtOc6pvg+VF4tKEceBPP+fFhUNqsEBTz0TNV6VqtE2lXa/yqLdUtMsRxj0cSVd1Jpzh+HjyjAM9oUtFSYO7WFYMsNnSobYSTVRwpCx4xBZAmA1iGXk+NUAz5RHzcLyo72K+gP8qmRtvkRR/ws/EKAJPpjd3IbxwqBeDWuh672a7oiU0ngybv2+9e8=;6t/9N3ZKCbjJ7DQssl8/Dg=="
 ---

@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-11-fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera.md",
+      "title": "Fluence Announces Agreement to Acquire AI-Enabled Software-as-a-Service Company Nispera",
+      "excerpt": "In increasingly sophisticated energy markets, forecast of granular asset availability, production profile, and management becomes imperative for value capture Enhances Fluence’s digital leadership position with a combined digital portfolio of 15 GW contracted or under management Accelerates development and roll-out of new applications on Fluence IQ Digital Platform Strengthens foundation for recurring revenue and expected to be EBITDA accretive by 2024 ARLINGTON,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/",
+      "originalUrl": "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/CabreraAP22113633967552.jpg?w=2000&#038;ssl=1",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN",
+        "domain": "wkrn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-how-are-indian-banks-adopting-digitisation-and-ai.md",
+      "title": "How are Indian banks adopting digitisation and AI?",
+      "excerpt": "An estimated 205 million Indian adults already have a digital-only bank account, and this number is predicted to increase to 397 million within the next five years.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
+      "originalUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Banking-banner.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-10-fintech-roundup-how-going-fast-and-furious-can-ruin-your-startup.md",
       "title": "Fintech Roundup: How going Fast and furious can ruin your startup",
       "excerpt": "The big events in the fintech world over the last week felt like a very different vibe from 2021, which was filled with mega rounds, celebrations and lofty valuations. First off, 3-year-old one-click checkout startup Fast announced it was shutting down after struggling to raise more capital to keep operations running.",
@@ -1262,92 +1348,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider.md",
-      "title": "DARKTRACE AI STOPS CYBER-ATTACK EXPLOITING LOG4J VULNERABILITY AT GLOBAL FINANCIAL SERVICES PROVIDER",
-      "excerpt": "Darktrace, a global leader in cyber security AI, today announced that a global provider of financial services recently detected and stopped an attacker attempting to leverage a vulnerability in Log4j to deploy malicious code across the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://who13.com/business/press-releases/cision/20220323LN00254/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider/",
-      "originalUrl": "https://who13.com/business/press-releases/cision/20220323LN00254/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2020/10/dmps.jpg?w=2000&#038;ssl=1",
-          "width": 906,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "who13",
-        "domain": "who13.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions.md",
-      "title": "Resistant AI Partners with ComplyAdvantage Amid New International Sanctions",
-      "excerpt": "Established in 2019, Resistant AI uses AI and machine learning to “provide identity forensic solutions that protect automated financial services from fraud and manipulation, including customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Hands-Up-Arrest-Halt-Stop.jpeg",
-          "width": 1122,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/amp/",
-      "publishedDateTime": "2022-03-22T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
         "images": null,
         "publishers": null,
         "authors": null

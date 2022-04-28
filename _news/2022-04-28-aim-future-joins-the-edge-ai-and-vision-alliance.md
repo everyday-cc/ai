@@ -19,20 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence getting ready to rebalance the future"
-    excerpt: "A new wave of automation technologies in life sciences, energy management and manufacturing show that AI is more than a hype machine"
-    publishedDateTime: 2022-04-23T23:00:00Z
-    webUrl: "https://www.businesspost.ie/connected/artificial-intelligence-getting-ready-to-rebalance-the-future-6c8f5c4e"
+  - title: "The AI Learning Revolution And The End Of One-Size-Fits-All Learning"
+    excerpt: "As we enter an era of more effective and efficient learning, asynchronously delivered, individually personalized and at scale, we are looking at the AI learning revolution."
+    publishedDateTime: 2022-04-28T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTIwNTZmYWU2LTRkMmEtNThkNi04MTBiLTA4NWEyNTUwYzFlZCZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9NjA2Ljc0MTU3MzAzMzcxJndpZHRoPTEwODAmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA3ODY1MTY4NTM5MzI1ODQyJmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjg0MjY5NjYxOTIxMzQ4XCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJ1c2luZXNzcG9zdC5pZVxcXC9zYnAtbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY1NGRkMjBmZTczOTk0ZGJjMTMyYWNiYzJjNWNjZjhlM2JlNmJlYWMifQ==/artificial-intelligence-getting-ready-to-rebalance-the-future.84269661921348"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,998,x0,y84,safe&width=1200"
         width: 1200
-        height: 627
+        height: 800
         isCached: true
+  - title: "Mobile AI Market Size, Share and Growth"
+    excerpt: "Market Highlights Market Research Future (MRFR), in its recently published research report, asserts that the global mobile AI market 2020 is booming and"
+    publishedDateTime: 2022-04-28T09:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-ai-market-size-share-and-growth"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 41
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
+    excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"
+    publishedDateTime: 2022-04-26T00:49:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 28
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
+  - title: "New Release of the expert.ai Platform Accelerates AI-based Natural Language Solutions Adoption and Time to Value"
+    excerpt: "Extended core enterprise capabilities in the areas of vertical sector and use case customization, connectors and cloud environments to improve business results BOSTON, April 26, 2022 /PRNewswire/ -- Expert."
+    publishedDateTime: 2022-04-26T12:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-release-the-expertai-platform-accelerates-ai-based-/2022/04/26/9589490.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "XViTmzMMw05L9jV6c55wQulyH/p9/uXncwLTvA1N30UqK4RWwpsxAOvAXGeZ4zU4uz6N7yDnTB25FI07kc1+8eP+U0fqFJQUXFUewxdlAEZlBbp8e1WEK5K0h9DaNnzU4sxiUadZHFHzAn6+7OacEd4xdBLHb8WPBw83uE9focIyqkTkchrWo3HCGfYcMw3FgOz07l7VahtV+306Y12mpygHi005IgZHclqvwO6x2fYgjJfyCu59Jt3MazoJIR6IIrOsItWYFty0kVOIp6n88C9KQDoa0rmJaVbmyQIyG8x1hwirSCxeuiuCdFJ8qUDkd7yaNqGdfl3oQ3Xl+MI80s1uJGYRjnnnKnUCRTbeyO0O/tCQeOduIABPFPR9JB/2W8mA4q13olfC+TSrushT95/h5ufFPTUN+JpwDN2Rf0Hux2PylXTEyrXkxBcOJrpbRKEl4p02Zrx7TIldtsOkY6RZScu9MsgbW35mVBlkFGzCn1nFZgQwKErlJizbRoNZEikSojylifNV+ce1QJZJmw==;d1e6gq9wvvuTQFjjBJpu9g=="
 ---

@@ -47,7 +47,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/EEE-4-1-600x337.png"
         width: 600

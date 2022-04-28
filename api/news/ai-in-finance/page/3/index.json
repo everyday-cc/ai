@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-23-darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider.md",
+      "title": "DARKTRACE AI STOPS CYBER-ATTACK EXPLOITING LOG4J VULNERABILITY AT GLOBAL FINANCIAL SERVICES PROVIDER",
+      "excerpt": "Darktrace, a global leader in cyber security AI, today announced that a global provider of financial services recently detected and stopped an attacker attempting to leverage a vulnerability in Log4j to deploy malicious code across the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://who13.com/business/press-releases/cision/20220323LN00254/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider/",
+      "originalUrl": "https://who13.com/business/press-releases/cision/20220323LN00254/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2020/10/dmps.jpg?w=2000&#038;ssl=1",
+          "width": 906,
+          "height": 508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "who13",
+        "domain": "who13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions.md",
+      "title": "Resistant AI Partners with ComplyAdvantage Amid New International Sanctions",
+      "excerpt": "Established in 2019, Resistant AI uses AI and machine learning to “provide identity forensic solutions that protect automated financial services from fraud and manipulation, including customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Hands-Up-Arrest-Halt-Stop.jpeg",
+          "width": 1122,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/amp/",
+      "publishedDateTime": "2022-03-22T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100.md",
       "title": "New DDN Storage Appliance Doubles Performance for NVIDIA DGX AI Solutions and Speeds Up Analytics and Machine Learning in the Cloud by 100%",
       "excerpt": "Powering thousands of NVIDIA DGX™ systems, including NVIDIA's Selene and Cambridge-1 DGX SuperPOD systems, DDN offers a broad range of optimized AI data storage solutions for ap",
@@ -1172,101 +1258,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate.md",
-      "title": "Fintech lender Lendai raises $35M for AI-based platform to enable foreign investors to buy US real estate",
-      "excerpt": "Proceeds from the equity and debt seed funding will help Lendai expand its presence in foreign investor markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
-      "originalUrl": "https://www.zdnet.com/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
-      "publishedDateTime": "2022-03-09T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live.md",
-      "title": "Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live",
-      "excerpt": "Snorkel AI was founded in the summer of 2019 and over two quick years raised a total of $135.3 million in funding over five rounds. The rocket ship seemingly still has fuel, too. The company isn’t slowing down,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
-      "originalUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/TCL-2022-03-09-featured-1920x1080-1-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
-      "publishedDateTime": "2022-03-09T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
