@@ -2,25 +2,25 @@
 category: news
 title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
 excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-publishedDateTime: 2022-04-26T06:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/article_0ae8af39-e19b-506a-8440-c92bcddbc657.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/article_0ae8af39-e19b-506a-8440-c92bcddbc657.html"
+publishedDateTime: 2022-04-26T09:00:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
     width: 600
-    height: 338
+    height: 207
     isCached: true
 
 related:
@@ -89,6 +89,6 @@ related:
       domain: finanzen.at
     quality: 13
 
-secured: "gNQkidHnsJWyEpGO48i+HWF6M6vuhoAYahqhEFcwJj+w1XPZVdqoAO5deWpS61UiEtjThXuXnarrbFMbJaT+N6WDjvOJVWYTSiBDny9WEfQn1iuRSFN/M7XzbLU145rgGwxWqrxRVZYL28Y60MnNAyw6yw10gnF/JuqwFOFCHub/xnzxj3fGW/pAvdaTVl2lgUA3J/mn/y91965FAmHlri+sg2HaCpvZzI+0h1jlB6DycvIycBUEYolLiIzkT7eoKHJaMcdwESQyj1RVDJ5ZObxKg1ipMyIBQ8mIVKa/5VlAQJaQ1mLR+qLg7azrOnWT57T/K1Gs3qQZPsEUtD7e5MwgGOZ7HKftgg/9G3C2oJY=;lUYkPFvTKf/l7S+PEMs5bg=="
+secured: "dA8Wh8xsHyzYQNwS2Qxsj+py2O9sbDcluJq0VxTX2FGn/g7IS9l/26dfoBtKDFnzWmDfmthFe2DwHBNefttqUT9jAD8Lig1+ApaI54zM5uRJ/IFxX+4IGbKVH9eSkMALcSzdd7z8nVzNUfcafO+lv07YPrcrsY5FH4waniqivTo0+PbQ3XIimiAZPK+0JFwrbtICMxpsKU5tcN/JiAHJhmA8ZU57E7IgqL7AE0DsmSzgiVshkPulOGRyT9IlFaYDAoMW/+yMtQ4rr+AUYZupm5RT+54hdGmUZxW+msQlqHFyLySxlFhAVeMu+gEVjnvwXoA9E+3RMJeeyuxBGbi48VL38g6a3A5bxNgiaw6ge4Y=;7sq4HwqQWbFH6teEWjI8zA=="
 ---
 

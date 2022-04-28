@@ -2,6 +2,135 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-20-prezentai-secures-20m-to-gamify-deck-presentations.md",
+      "title": "Prezent.ai secures $20M to gamify deck presentations",
+      "excerpt": "Prezent.ai, which is developing a suite of tools to help employees present ostensibly better decks, has raised $20 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/",
+      "originalUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1139933142.jpg?w=724",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/",
+      "publishedDateTime": "2022-04-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-ucl-and-deepmind-improving-representation-in-artificial-intelligence-education.md",
+      "title": "UCL and DeepMind: improving representation in artificial intelligence education",
+      "excerpt": "Global artificial intelligence (AI) company DeepMind is working with UCL to open up scholarships to underrepresented students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
+      "originalUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucl.ac.uk/engineering/sites/engineering/files/case-study/40468779200_8e95b2b30d_c.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UCL",
+        "domain": "ucl.ac.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing.md",
+      "title": "NVIDIA RTX 40-Series 'Ada' AD102 GPU Enters Phase of Testing",
+      "excerpt": "Nvidia's next-generation GPU family, codenamed Ada Lovelace, is anticipated to ship this autumn, and it's about time for the firm and its partners to begin testing the new graphics",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing,6.html",
+      "originalUrl": "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing,6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-people-will-be-able-to-watch-tv-and-check-emails-in-self-driving-cars-in-highway-code-law.md",
       "title": "People will be able to watch TV and check emails in self-driving cars in Highway Code law",
       "excerpt": "MOTORISTS will be allowed to watch television or check their emails on built-in screens under proposed updates to the Highway Code when in self-driving cars.",
@@ -980,143 +1109,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-the-helm.md",
-      "title": "Amazon to conduct racial-equity audit with Loretta Lynch at the helm",
-      "excerpt": "One proposal also seeks an independent study of the company’s proprietary facial recognition software, Rekognition. TheGrio is FREE on your TV via Apple TV, Amazon Fire, Roku, and Android TV.",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2022/04/19/amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-helm/",
-      "originalUrl": "https://thegrio.com/2022/04/19/amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-helm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2022/02/pjimage-2022-02-16T183739.283.jpg",
-          "width": 704,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-ai-may-help-spot-relapse-risk-in-alcoholics.md",
-      "title": "AI may help spot relapse risk in alcoholics",
-      "excerpt": "Artificial intelligence (AI) may be able to identify alcoholics at risk of relapsing after treatment, researchers say.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/ai-may-help-spot-relap.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-relapse-alcoholics.amp",
-      "publishedDateTime": "2022-04-19T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-soundfuls-ai-powered-platform-empowers-new-future-for-music-creation.md",
-      "title": "Soundful's AI-Powered Platform Empowers New Future For Music Creation",
-      "excerpt": "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1799706/Soundful_black__2_Logo.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

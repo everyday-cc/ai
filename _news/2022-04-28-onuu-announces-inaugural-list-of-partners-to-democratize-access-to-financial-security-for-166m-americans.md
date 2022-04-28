@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-texas-f8e092192cd2400a828056a23f23e5aa"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Onuu announces list of partners to democratise access to financial security for Americans"
+    excerpt: "Onuu, an all-in-one banking and insurance solution, announced its first round of partnerships with some of the most innovative and"
+    publishedDateTime: 2022-04-28T06:09:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/onuu-announces-list-of-partners-to-democratise-access-to-financial-security-for-americans/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 32
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
+        width: 450
+        height: 376
+        isCached: true
   - title: "Onuu Announces Inaugural List of Partners to Democratize Access to Financial Security for 166M Americans"
     excerpt: "Onuu, an all-in-one banking and insurance solution, announced its first round of partnerships with some of the most innovative and trusted companies globally, including Visa and AAA Life Insurance. We built the platform with Americans of modest means in mind,"
     publishedDateTime: 2022-04-27T12:19:00Z

@@ -2,33 +2,19 @@
 category: news
 title: "AWS Impact Accelerator Launches with $30 Million for Startups Led by Underrepresented Founders"
 excerpt: "(NASDAQ: AMZN), today announced it has committed more than $30 million to early stage startups led by Black, Latino, LGBTQIA+, and women founders as part of its new AWS Impact Accelerator. Over the three-year commitment,"
-publishedDateTime: 2022-04-20T12:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html"
+publishedDateTime: 2022-04-20T12:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-impact-accelerator-launches-with-30-million-startups-/2022/04/20/9585943.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-impact-accelerator-launches-with-30-million-startups-/2022/04/20/9585943.htm"
 type: article
-quality: 7
-heat: 7
-published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "AWS Impact Accelerator Launches with $30 Million for Startups Led by Underrepresented Founders (Businesswire)"
-    excerpt: "(NASDAQ: AMZN), today announced it has committed more than $30 million to early stage startups led by Black, Latino, LGBTQIA+, and women founders as part of its new AWS Impact Accelerator. Over the three-year commitment,"
-    publishedDateTime: 2022-04-20T12:00:00Z
-    webUrl: "https://www.avanza.se/placera/pressmeddelanden/2022/04/20/amazon-com-inc-aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders.html"
-    type: article
-    provider:
-      name: Avanza
-      domain: avanza.se
-    quality: 0
-
-secured: "bQ0scHQxeshhaT1X4aEEd2zmnJGEV6p0g0s3bcNCragcTAHyQB44qmUwVkCU1rEBniVHMGVNo9mHlFa3nsMF2+HnHPjqqfYWWcyx3YTOTPqTgA0283dWLy2wgBEVkHbSmmQQvLbSOfS0lA8StWXZXN7jQY3J0/M4/WaBW474y60hLk4fVh/7TbxYgx8cHDa4IqECStraqIEFXw8eH8eQFemsO4+tkelfTGN9pSVZkDhjmdvlGKS9ZfoFbuTuj8vk9ypQagZLh6MwSRolrlVswQlU68Q+vUkKQnFA7hwPcEGDBDrrzRsVDIem5seYWtlqYOHPbqzN4SYWbZS9kspziv5JY3UjrR7EGdEqCAQx3Dy/Z3j7tcFs3eAC7K7XXHtesP6cyyOwXm7L15vR8QlZXYRUt8m9bzAivh4q4yp2lpxSggb8NbdQxw1EbhEMKiwToYPLLGTQhSB6KMROcKtNMvFPn/5LiQQtEDDx63QLfwSmITO6EihNMQxpQ1SpXa4Oond7FCV55q6lR/eSYatVow==;sf7rxVg7DNPsjzH8hWex2g=="
+secured: "TPbf9qTCwwhD9+f3HhNDB8veiOXqaW1apwId3kURBqwROqeLktpgMSLwPOYjBmokDltsGAnRGbF+W/jOAtQU9o1oa0WMQYJgHEdFQremF9v87LdAjhIE7HS1kdwj3JIXAk3G2Ey6k7H8B7yRxcPepUPUFvd3ipfWQ6e9sMw6no8rY9/ac+Bv5SwOH+3wW3+1IUBZwJhdjO6gESZXIIsaTwTnU6In+VtjWrKHRatjvWxjJ0slSB5P3gxk5ceU7NpnMpXGpgZggLWTngUkyy88TNHgqgdARBGu2tRTs3mn/ML4eqAjo07CI4zm0NCoJGhVL8MyvApzMqL9CcbVjYcjkmc2JnFS+40gyA4qZsbbAnk=;sZLp0hxY74rEsDX2DnMDnA=="
 ---
 

@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites"
-    excerpt: "HPE Swarm Learning, which was developed by Hewlett Packard Labs, HPE’s R&D organization, is the industry’s first privacy-preserving, decentralized machine learning framework for the edge or distributed sites."
-    publishedDateTime: 2022-04-27T12:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-27-hewlett-packard-enterprise-ushers-in-next-era-in-ai-innovation-with-swarm-learning-solution-built-for-the-edge-and-distributed-sites"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-
 secured: "vtq91LGkGicMXLGKj/ArlMv7GxXTesiYONCD5NKOZ4YYH8xQVp3wL3EOEAbh6KuD3dT0/uQkG8/CKwLRT8gTFrA1grz+F+V/YAP03Opw/o1AkeSML5cqKTQbKGTg58lW4ZYtwrwFtvSNc43kjJEqrzxKfCy+aa3GdDTfCnmdEm7+5FJLoRsjCHDQ4hGFt5ifx+2ECqAwyjZMLPvMA7LkwZQUORc2pmlgC+IVXzOg1DTnuazTua0WE0aIDwCjnYwPFkdMQjifGj9CAn0J7m4tdYdWJUSCkXVF1RJ5xw44VuiCTq09Lgiv9chHGINf9kmgvlkxwFcSoqtnPEccddGzzjCv167jzU5isBARrfpk71s3E6nLHbSHqX/+V86xGg/W7NMrx0ezWo4FRGm3ri84ji59UZK2jIki0yS9WipFQdANu1VXDQUfUSGAlbVIFc5cN7bEpd/670+AMDgnaAG2+WalsOHBiemU2sZSrTk00DxFHXZ2kzjGUr6Ls3TnhY/eQixu64ltmC7I5JjREnhdmw==;E5+DUGTmOu6MMKMAdYdCyw=="
 ---
 

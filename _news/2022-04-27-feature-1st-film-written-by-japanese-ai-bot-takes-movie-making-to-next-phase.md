@@ -52,17 +52,17 @@ related:
         isCached: true
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T06:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/article_0ae8af39-e19b-506a-8440-c92bcddbc657.html"
+    publishedDateTime: 2022-04-26T09:00:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: KTLA
+      domain: ktla.com
     quality: 33
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
         width: 600
-        height: 338
+        height: 207
         isCached: true
   - title: "TD chief AI officer, CDL-Toronto lead team up with health expert for new healthtech startup, Signal 1"
     excerpt: "Three Canadian technology leaders are coming together to launch a healthtech startup with $12.7 million CAD ($10 million USD) in all-equity seed funding. Signal 1, which was co-founded by TD chief AI officer Tomi Poutanen, raised the Inovia Capital-led ..."

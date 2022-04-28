@@ -20,6 +20,20 @@ topics:
   - AI in Security
 
 related:
+  - title: "Onuu announces list of partners to democratise access to financial security for Americans"
+    excerpt: "Onuu, an all-in-one banking and insurance solution, announced its first round of partnerships with some of the most innovative and"
+    publishedDateTime: 2022-04-28T06:09:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/onuu-announces-list-of-partners-to-democratise-access-to-financial-security-for-americans/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 32
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
+        width: 450
+        height: 376
+        isCached: true
   - title: "Onuu Announces Inaugural List of Partners to Democratize Access to Financial Security for 166M Americans"
     excerpt: "These partners are laying the foundation for Onuu’s offerings, which will include access to products and services for the approximately 166 million Americans currently underserved by the country’s financial system."
     publishedDateTime: 2022-04-27T23:11:00Z

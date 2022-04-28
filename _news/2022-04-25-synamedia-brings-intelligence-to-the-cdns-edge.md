@@ -63,6 +63,17 @@ related:
         height: 207
         isCached: true
   - title: "Synamedia brings intelligence to the CDN's edge for unprecedented efficiency, agility, and scalability"
+    excerpt: "Synamedia, the world's largest independent video software provider, today unveiled a new set of Artificial Intelligence-based (AI) traffic management features for its Edge CDN solution. These advanced capabilities will transform the way video streams are delivered and will enable a plethora of new consumption experiences by simplifying the process of onboarding new services,"
+    publishedDateTime: 2022-04-28T07:57:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/synamedia-brings-intelligence-to-the-cdns-edge-for-unprecedented-efficiency-agility-and-scalability-1031380691"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/synamedia-brings-intelligence-to-the-cdns-edge-for-unprecedented-efficiency-agility-and-scalability-1031380691"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/synamedia-brings-intelligence-to-the-cdns-edge-for-unprecedented-efficiency-agility-and-scalability-1031380691"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 6
+  - title: "Synamedia brings intelligence to the CDN's edge for unprecedented efficiency, agility, and scalability"
     excerpt: "LAS VEGAS , April 25, 2022 /PRNewswire/ -- NAB Booth W10113 -- Synamedia, the world's largest independent video software provider, today unveiled a new set of Artificial Intelligence-based (AI) traffic management features for its Edge CDN solution."
     publishedDateTime: 2022-04-25T15:35:00Z
     webUrl: "https://www.klfy.com/business/press-releases/cision/20220425NY34570/synamedia-brings-intelligence-to-the-cdns-edge-for-unprecedented-efficiency-agility-and-scalability/"

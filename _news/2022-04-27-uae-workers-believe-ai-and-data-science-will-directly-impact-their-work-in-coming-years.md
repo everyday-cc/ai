@@ -7,7 +7,7 @@ originalUrl: "https://www.itp.net/emergent-tech/uae-workers-believe-ai-and-data-
 webUrl: "https://www.itp.net/emergent-tech/uae-workers-believe-ai-and-data-science-will-directly-impact-their-work-in-coming-years"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Over two-thirds of UAE workers believe AI and data science will impact their role in the next five years"
-    excerpt: "The YouGov study commissioned by Dataiku reveals the country to be pro-AI and ahead of its EMEA peers on awareness and action, but work still needs to be done to democratize the use of data and AI"
-    publishedDateTime: 2022-04-27T07:30:00Z
-    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/over-two-thirds-of-uae-workers-believe-ai-and-data-science-will-impact-their-role-in-the-next-five-years-biyy9nnd"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 20
-    images:
-      - url: "https://static.zawya.com/version/c:OWJiNzcxMTgtNTIyMS00:MTUyZTE3/owres-jpg.jpg"
-        width: 900
-        height: 1350
-        isCached: true
 
 secured: "1JFaCVHHRY+ZcinuWY7lUQvZjZbu116PYrCWzsoIxXwSrKf/HcS9OgyAvz/dcSWyEv4AFfG/1+3s5Q0Tr2iCeKWdzqtzteMW4NWWDhxI2SzC1FStcqQkuMKPL4TP7XViKL8Acg67N21xIEmPaD5fnIDVG8BHommOR86VmwMnRxF0gPTa9fhgysNKomRrYTca2Lq5jLEvGV2/1KAdVn9ChfN4uiDmH3NlkOBKj8jr1OvgXVDhNoZT1JqUkGTctEzt2Fz/DXWGVZt+FP7GRAxTnmJXPiIpzukP6b9JHughSCx4lHUXu//V5zvxdyLr88Gug0/xsEbOhYXGDftdMlTF/0JVEBleENqLJS48QWNE0OdJNyLiZcqNIa0el/dNDh7Er+s8mWTDktYY3jGsJ9acHzXHZgFuU5865yEnlF+0qJRr5Xifl11jkWY31W8t7gGIDXWgnKh05G3tnPN2mEgXS+be5MrzSlAWeHqCeK6oefljJBcK+N7mz8oU0wZDYjXgFZIboMw50NSVTlTNu/FV0g==;e54EegtAt34n77zC+2j0+A=="
 ---

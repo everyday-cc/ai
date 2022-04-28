@@ -95,18 +95,18 @@ related:
         height: 675
         isCached: true
   - title: "AI Medical Service Inc. Announces 8 Billion JPY (US$70 M) Series C Financing Led by SoftBank Vision Fund 2 (SVF2)"
-    excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech compan"
+    excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech company using deep learning technology to develop endoscopic AI, has announced 8 billion JPY (US$70 million) of financing led by SoftBank Vision Fund 2 (SVF2) and joined by existing investors Globis Capital Partners,"
     publishedDateTime: 2022-04-26T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/ai-medical-service-inc-announces-8-billion-jpy-us-70-m-series-c-financing-led/article_ef4fee5b-eed4-51a2-8186-6e042a213cdf.html"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-japan-tokyo-fe3dbb0f4b89c0fa341c7bc511a75549"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 16
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Loris Bags $12m in a Series A Funding Round to Revolutionize AI for customer service"
     excerpt: "Loris today announced its $12 million Series A funding round. The series was led by Bow Capital, with participation from ServiceNow Ventures"

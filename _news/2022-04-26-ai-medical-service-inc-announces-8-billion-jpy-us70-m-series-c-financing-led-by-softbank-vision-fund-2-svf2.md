@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI Medical Service Inc. Announces 8 Billion JPY (US$70 M) Series C Financing Led by SoftBank Vision Fund 2 (SVF2)"
-excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech compan"
+excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech company using deep learning technology to develop endoscopic AI, has announced 8 billion JPY (US$70 million) of financing led by SoftBank Vision Fund 2 (SVF2) and joined by existing investors Globis Capital Partners,"
 publishedDateTime: 2022-04-26T07:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/ai-medical-service-inc-announces-8-billion-jpy-us-70-m-series-c-financing-led/article_ef4fee5b-eed4-51a2-8186-6e042a213cdf.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/ai-medical-service-inc-announces-8-billion-jpy-us-70-m-series-c-financing-led/article_ef4fee5b-eed4-51a2-8186-6e042a213cdf.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-japan-tokyo-fe3dbb0f4b89c0fa341c7bc511a75549"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-japan-tokyo-fe3dbb0f4b89c0fa341c7bc511a75549"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -128,6 +128,6 @@ related:
       domain: wgntv.com
     quality: 5
 
-secured: "8HPEybvqV/EQqFOld3suVH3saylFvpfRsrvOukN7Eyrw2tdXiriqgneXWOnASqYCMFI1meOMpTw4wS84v0ifnKEgfDQJ/TEcKmLAz+0u4E9r+7LquTNVVnFEdr3TpveSV/2zb414zpSNgwV2zDDesJIcI1Sj4/paAeR82hEk+uo5BslFsBTcUGeml3a3zfxiDAwnzWIgtPaFx+Br4qs6lA+ItXwLMit+AdS8NQ1u1Hu1fnCM8zg0d7JCcSDSGFif0EMEC3YiqnrVqiX7pLEeyqXxUaHYzi6yDSmc88dQD2UnZwDRNaIYNN2uotgXh7T5/KeD0JhJYMcEfgCso1QkTD+uqy99WHdweyiHES/jMS8=;P+4f3A9fa/5rO4MGYhZ3IQ=="
+secured: "K8OYA5yI2Apivhjbx+mrTJndzVbh04Afkdhh/omXhMLZ4/LbXyaJhMSplyBd8d1sZayvyOyDOzZlpK0MHHbBsZQEiu3WglPAZbmpgs1oQHzYdgB2IXQxEywBMrwHiueX1ujGLUGmCJabA9cMI4tHQaiztIEOvHan9uXFyjt8slnL7/cum7eQcujxUkK2REGCARKonGSnhymDLLGdeg4o681yVKZYWAAI1nRq1njMB6IvCt7008oFiY1b+tOqcgzaUNRKUct/YHpONb5xa+FEtW91xZm8rJx59AaQg+DVTxAyec9EWUV0sdu27wep+SZYjvpBiWLhSczsJav8yG164w3V19uqJ7BxKUbqvZ8uWzo=;e+64M/mkzJMKrr+OsJPhqw=="
 ---
 

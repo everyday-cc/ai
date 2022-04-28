@@ -46,6 +46,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Baidu and Pony.ai each score permits to operate driverless taxi service in Beijing"
+    excerpt: "Now the general public will be able to experience what it's like to ride in a fully automated self-driving taxi."
+    publishedDateTime: 2022-04-28T06:37:00Z
+    webUrl: "https://www.zdnet.com/article/baidu-and-pony-ai-each-score-permits-to-operate-driverless-taxi-service-in-beijing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-and-pony-ai-each-score-permits-to-operate-driverless-taxi-service-in-beijing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-and-pony-ai-each-score-permits-to-operate-driverless-taxi-service-in-beijing/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 98
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4cca0dbe1960e7dd0607cc79f1998ba73a8f7bbf/2022/04/28/91b6e013-2d7f-4256-a0a2-4ff6c79c7a35/baidu-apollo-passenger-ride.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pony.ai to launch robotaxi fleet in Guangzhou, China"
     excerpt: "Pony.ai will integrate its autonomous technology into GAC vehicles, which can be hailed using Ontime's platform or Pony.ai's PonyPilot+ app."
     publishedDateTime: 2022-04-26T15:10:00Z
@@ -123,6 +139,34 @@ related:
       - url: "https://regmedia.co.uk/2021/03/31/driving.jpg"
         width: 1000
         height: 475
+        isCached: true
+  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
+    publishedDateTime: 2022-04-28T07:01:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 56
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Baidu, Pony.ai granted driverless taxi permits in Beijing"
+    excerpt: "Baidu and on Thursday announced that they have obtained permits from the Beijing city government to offer driverless rides in an area of 60 square kilometers (23 square miles) in the city’s southeast Yizhuang district."
+    publishedDateTime: 2022-04-28T06:10:00Z
+    webUrl: "https://technode.com/2022/04/28/baidu-pony-ai-granted-driverless-taxi-permits-in-beijing/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
   - title: "Self-driving startup Pony.ai bags commercial taxi licence in China"
     excerpt: "Chinese startup Pony.ai, established in 2018, has been running a robotaxi service in Beijing after it received a permit in November 2021. Now, it has received a commercial taxi licence, a first for an autonomous driving company in China,"

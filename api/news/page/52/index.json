@@ -2,6 +2,274 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-03-15-googlers-and-co-offer-video-dataset-generating-kubric.md",
+      "title": "Googlers and co offer video dataset-generating Kubric",
+      "excerpt": "If you need more complex data, such as video footage with depth and object annotations, your available sources dwindle further. Fake computer-generated material avoids these problems by giving you exactly what you need,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/15/deep_learning_vision_kubric/",
+      "originalUrl": "https://www.theregister.com/2022/03/15/deep_learning_vision_kubric/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/15/shutterstock_3d_objects.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/15/deep_learning_vision_kubric/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/15/deep_learning_vision_kubric/",
+      "publishedDateTime": "2022-03-14T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-firms-step-up-to-cash-in-on-robotaxi-biz.md",
+      "title": "Firms step up to cash in on robotaxi biz",
+      "excerpt": "A Baidu Apollo robotaxi is seen in Beijing in December. HUANG YONG/FOR CHINA DAILY Competition in China's autonomous driving sector is set to heat up as several self-driving companies are accelerating commercial operation of self-driving taxis to provide ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202203/15/WS622fe7f0a310cdd39bc8c937.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202203/15/WS622fe7f0a310cdd39bc8c937.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202203/15/622fe7efa310cdd3d8356f9b.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-how-an-ai-brain-with-only-one-neuron-could-surpass-humans.md",
+      "title": "How an AI brain with only one neuron could surpass humans",
+      "excerpt": "Combined, they make up one of the most advanced organic neural networks known to exist. Current state-of-the-art artificial intelligence systems attempt to emulate the human brain through the ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/how-ai-brain-with-only-one-neuron-could-surpass-humans",
+      "originalUrl": "https://thenextweb.com/news/how-ai-brain-with-only-one-neuron-could-surpass-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fbraindrift.jpg&signature=271abfe4da06de8c4e53477f1f404743",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm.md",
+      "title": "Self-driving Car Technology Market Shaping From Growth To Value : BYD, Volkswagen, IBM",
+      "excerpt": "The Latest survey report on Self-driving Car Technology Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast peri",
+      "sourceUrl": null,
+      "webUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
+      "originalUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eclectic Northeast",
+        "domain": "eclecticnortheast.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-all-symbols-in-tensorflow-probability.md",
+      "title": "All symbols in TensorFlow Probability",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/probability/api_docs/python/tfp/all_symbols",
+      "originalUrl": "https://www.tensorflow.org/probability/api_docs/python/tfp/all_symbols",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-can-medtech-manufacturing-benefit-from-deep-learning.md",
+      "title": "Can Medtech Manufacturing Benefit from Deep Learning?",
+      "excerpt": "One particular type of machine learning called “deep learning” could offer particular benefit as it could enable machine vision systems to learn how to recognize and respond to defects much like a human could, according to Bhaskar Ramakrishnan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/automation/can-medtech-manufacturing-benefit-deep-learning",
+      "originalUrl": "https://www.mddionline.com/automation/can-medtech-manufacturing-benefit-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/Screen%20Shot%202018-10-04%20at%209.05.43%20AM.png",
+          "width": 1578,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-engineering-deep-learning-hardware-at-the-university-level.md",
       "title": "Engineering Deep Learning Hardware at the University Level",
       "excerpt": "In addition to conducting its own research into AI-specific processors, MIT is introducing coursework to train the next generation of engineers in building hardware for deep learning and AI applications. Traditional hardware architecture for deep learning ...",
@@ -778,247 +1046,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-artificial-intelligence-robotics-technology-park-launched-in-ktaka.md",
-      "title": "Artificial Intelligence & Robotics Technology Park launched in K'taka",
-      "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched i..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-90204240,imgsize-44018,width-1200,height-628,overlay-etcio/artificial-intelligence-robotics-technology-park-launched-in-k-taka.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
-      "publishedDateTime": "2022-03-14T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-hub-security-partners-with-enlitic-to-secure-health-data-enhance-patient-care-through-artificial-intelligence.md",
-      "title": "HUB Security Partners with Enlitic to Secure Health Data, Enhance Patient Care Through Artificial Intelligence",
-      "excerpt": "Artificial intelligence (AI) technology in healthcare requires secure patient data to reach its true potential. Healthcare providers have that data but have struggled to protect it. In 2021, the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/cision/20220314LN90671/hub-security-partners-with-enlitic-to-secure-health-data-enhance-patient-care-through-artificial-intelligence/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/cision/20220314LN90671/hub-security-partners-with-enlitic-to-secure-health-data-enhance-patient-care-through-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report.md",
-      "title": "Cognitive Cloud Market Poised to Register 16% CAGR by 2023 | Cognitive Cloud Market Growth Analysis and COVID Research Report",
-      "excerpt": "Market Synopsis The data analysts at Market Research Future Reports (MRFR) have revealed that the global cognitive cloud market is predicted to",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report",
-      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform.md",
-      "title": "Ecopetrol, Accenture and AWS Work to Help Companies Advance Journey to Water Neutrality Through First-of-its-Kind Open Platform",
-      "excerpt": "By combining data from previously disparate sources across Ecopetrol’s operations, and using AWS cloud-based machine learning and artificial intelligence services, this technology will enable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220314005250/ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220314005250/ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-enotai-announces-solution-for-optimising-deep-neural-networks.md",
-      "title": "Enot.ai Announces Solution for Optimising Deep Neural Networks",
-      "excerpt": "Enot, an artificial intelligence firm, has announced the creation of a framework dedicated to optimising deep neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Enot.ai-Announces-Solution-for-Optimising-Deep-Neural-Networks-01.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/amp/",
-      "publishedDateTime": "2022-03-14T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-artificial-intelligence-is-redefining-the-travel-industry.md",
-      "title": "Artificial Intelligence is Redefining The Travel Industry",
-      "excerpt": "Artificial intelligence (AI) is transforming the travel industry by offering predictive analytics, tailored recommendations and live updates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/artificial-intelligence-is-redefining-the-travel-industry",
-      "originalUrl": "https://www.bbntimes.com/technology/artificial-intelligence-is-redefining-the-travel-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/companies/Artificial_Intelligence_is_Redefining_The_Travel_Industry.jpg",
-          "width": 1000,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
         "images": null,
         "publishers": null,
         "authors": null

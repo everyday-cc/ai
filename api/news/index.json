@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-28-danelfin-an-ai-enhanced-stock-analytics-platform-secures-212797-via-crowdcube.md",
+      "title": "Danelfin, an AI enhanced Stock Analytics Platform, Secures €212,797 via Crowdcube",
+      "excerpt": "Danelfin, an AI-enhanced stock analytics platform, secured 72% (€202,330) of its €280,000 target via Crowdcube (at the time of writing).",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Charles-Darwin-Money-Pound-England-UK.jpg",
+          "width": 287,
+          "height": 264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/amp/",
+      "publishedDateTime": "2022-04-28T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers.md",
+      "title": "HPE and Salesforce unveil AI and automation tools for developers",
+      "excerpt": "HPE has launched its Swarm Learning and Machine Learning Development System whilst Salesforce announced further integration with Slack, Tableau, and Mulesoft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "originalUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "publishedDateTime": "2022-04-27T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-how-ai-can-close-gaps-in-cybersecurity-tech-stacks.md",
       "title": "How AI can close gaps in cybersecurity tech stacks",
       "excerpt": "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments.",
@@ -154,7 +238,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -1102,91 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-kristalai-acquires-globalise-looks-to-enhance-retail-offerings.md",
-      "title": "Kristal.AI acquires Globalise, looks to enhance retail offerings",
-      "excerpt": "As per Kristal.AI, the strategic acquisition of Globalise will enable retail investors to invest in global products via fractional investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings-11651052946321.html",
-      "originalUrl": "https://www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings-11651052946321.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/04/27/600x338/tax_1648487569837_1651053401689.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings/amp-11651052946321.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings/amp-11651052946321.html",
-      "publishedDateTime": "2022-04-27T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-rapyuta-robotics-raises-usd-51m-in-series-c-funding.md",
-      "title": "Rapyuta Robotics Raises USD 51M in Series C Funding",
-      "excerpt": "its cloud robotics platform, rapyuta.io, utilizes advanced control and artificial intelligence technologies to improve the efficiency and safety of warehouse operations, enable multiple robots to work harmoniously together, and create a remote-controlled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html",
-      "originalUrl": "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/04/rapyuta.jpeg",
-          "width": 333,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

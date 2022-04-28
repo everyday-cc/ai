@@ -1,0 +1,50 @@
+---
+category: news
+title: "Danelfin, an AI enhanced Stock Analytics Platform, Secures €212,797 via Crowdcube"
+excerpt: "Danelfin, an AI-enhanced stock analytics platform, secured 72% (€202,330) of its €280,000 target via Crowdcube (at the time of writing)."
+publishedDateTime: 2022-04-28T07:14:00Z
+originalUrl: "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/"
+webUrl: "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/"
+ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/amp/"
+type: article
+quality: 52
+heat: 72
+published: true
+
+provider:
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Charles-Darwin-Money-Pound-England-UK.jpg"
+    width: 287
+    height: 264
+    isCached: true
+
+related:
+  - title: "Pushing Forward The Value Of Analytics, AI And Automation In Telcos"
+    excerpt: "A complex company like a telco will continue to build out skill sets in analytics, AI and automation (A3) for the foreseeable future. The main areas of this development are described in this article."
+    publishedDateTime: 2022-04-25T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/25/pushing-forward-the-value-of-analytics-ai-and-automation-in-telcos/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Payment Fraud at Record Lows Thanks to Analytics and AI, Visa Says"
+    excerpt: "Despite a massive increase in online activity during the COVID-19 pandemic, fraud on the Visa payment network is at an all time low, the company says. One"
+    publishedDateTime: 2022-04-26T18:26:00Z
+    webUrl: "https://www.datanami.com/2022/04/26/payment-fraud-at-record-lows-thanks-to-analytics-and-ai-visa-says/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
+
+secured: "9NhGoMVcnQxHm2gAHsVr0BCu/sAlhTBdqyolXUIHHDTUaDkqLoqnkV6BDBk98b6A5pS8quozUMGPlkmuj9N5TMpLOrnzberP0alDzdRcIAwxI6sGEuzNCKVn7FTPG7cCa0ITbofvP0Tu2Nj6DQXG3ZoHihKA5H4k9byLR0S084l89rCMvnB2KrifUH8K3a2xRtiNPZMLoCe0ptZhCBHCDGW0sxlnJl5XHb3VWGigpITOYQttPFAboknYAc+N8iWWN9mCsmmLoQZOfreOVIjFrNie1gWdPFheyGoRMnq7sfzGvi6rC+CnvGi+IZyNibE3iuC4ehIO3J2rN7QulXzAbLBM/kt4QrwtSv+saes8ork=;jArsMdeJDONW/HX0UcQG2A=="
+---
+

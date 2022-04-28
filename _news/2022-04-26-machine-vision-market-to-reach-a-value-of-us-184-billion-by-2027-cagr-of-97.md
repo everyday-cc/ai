@@ -24,17 +24,6 @@ images:
     height: 307
     isCached: true
 
-related:
-  - title: "Natural Language Processing (NLP) Market Size to Reach US$ 61.03 Billion by 2027 and CAGR of 26.60% | IMARC Group"
-    excerpt: "Looking forward, IMARC Group expects the market to reach a value of US$ 61.03 Billion by 2027 exhibiting a CAGR of 26.60% during 2022-2027. Natural language processing (NLP) represents a branch of artificial intelligence (AI) that allows computers to understand,"
-    publishedDateTime: 2022-04-23T13:07:00Z
-    webUrl: "https://menafn.com/1104080660/Natural-Language-Processing-NLP-Market-Size-to-Reach-US-6103-Billion-by-2027-and-CAGR-of-2660-IMARC-Group?source=318"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-
 secured: "ZQmuiF//mZxXEA9aBlRetXaU5OdwPb8C+YcFK7UDVATrmALKQ+LHRRsSgtgsFcMBirW8nyHXp2gdw/Qc49jq8G4gz190CMNy4INj+3onw+S3QphvhMnVYPqTxjVR+kZVCzo3hHLDwAPwhI5JZMnSlchnNtTStqwLoe6P3HFOi6sNS0LJbq7+/lMx9OmMI/m11nYNCsGhMvafL0VzDwqovtzK/OeuMGeXG2rG3Y2+rw2sXUMMMEu0TBYO5+UUpjPL76ZQNqTTGV/7hDVuinb+pTwVhvlkX1ISIf/Wb9VmLC2z6f2DK+3FzqFOMi9LwCF+JwBOBvWnZsd+d+IZe//C29omfYMAIcARp1xFgj0pd2Q=;fO4/DU0ShMJuNhn5CX3D3g=="
 ---
 

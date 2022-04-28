@@ -62,6 +62,17 @@ related:
         width: 600
         height: 207
         isCached: true
+  - title: "Synamedia brings intelligence to the CDN's edge for unprecedented efficiency, agility, and scalability"
+    excerpt: "Synamedia, the world's largest independent video software provider, today unveiled a new set of Artificial Intelligence-based (AI) traffic management features for its Edge CDN solution. These advanced capabilities will transform the way video streams are delivered and will enable a plethora of new consumption experiences by simplifying the process of onboarding new services,"
+    publishedDateTime: 2022-04-28T07:57:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/synamedia-brings-intelligence-to-the-cdns-edge-for-unprecedented-efficiency-agility-and-scalability-1031380691"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/synamedia-brings-intelligence-to-the-cdns-edge-for-unprecedented-efficiency-agility-and-scalability-1031380691"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/synamedia-brings-intelligence-to-the-cdns-edge-for-unprecedented-efficiency-agility-and-scalability-1031380691"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 6
   - title: "Synamedia brings intelligence to the CDN’s edge"
     excerpt: "Synamedia, the independent video software provider, has unveiled a new set of Artificial Intelligence-based (AI) traffic management features for its Edge CDN so"
     publishedDateTime: 2022-04-25T11:51:00Z

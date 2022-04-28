@@ -2,19 +2,27 @@
 category: news
 title: "Strategic Analysis of Amazon's Growing Footprint in Mobility - ResearchAndMarkets.com"
 excerpt: "The \"Strategic Analysis of Amazon's Growing Footprint in Mobility\" report has been added to ResearchAndMarkets.com's offering. Amazon, the eCommerce behemoth, has been making steady strides in the ..."
-publishedDateTime: 2022-04-20T15:52:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220420005847/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom"
-webUrl: "https://www.morningstar.com/news/business-wire/20220420005847/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom"
+publishedDateTime: 2022-04-20T16:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com"
+ampWebUrl: "https://www.benzinga.com/amp/content/26718104"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26718104"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "uD40s6w4NXPs+iB5KgcOUoatq9UKYEdQ8l1PhIX0DNEO/66ol2w7Ikd62WwHLQohu0rx3j4JmE4FYrnNj9W1jr+Tck94CB1jbcoJLISPY10C0/8jM7XJGJUiH+eoDZJZ17cl3rcPFef37Ye6CmQDbu0HjgzwhN/oEE4+Yl2yfZSOFrNTOIL8/wQWcD9o1cABhqjCeJgeDDkMOUB3Ft/rvWfwvOipVaolmmzmKkE2QN0mwnrM99CMGhQzaXSDjNHS59A6jEBMgllwccSNG+BRUd21YdhhPadntOpXtX98W99S9i4F7kuoUoR6IEhyqgvFyS/dgMhCHa3fntUvovt969FccwW4P400NovTCLKyqTQ=;ZQx+RtWaZde9sCWH74Guvg=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "VTczcbz/y5vWtdpPfkxwzNWNrzg4xUeYYk3Z6zB/CfaRJ9AbXAR87VWgL1ndS8oGo41K/kNcIQx228g3tFhu50C2rEkx1RCccQRlAHZxiq696D463Ld+Nn+oh5tHqxZTK+JZHhRhiJ19HxlayDU979Cn7ssXUbR8MQoTYDsCO0QCkm0dUzFIo5sK6rjc7/+WhusOufM3zbcHxynCe84yDpLdySNR0WoORZ5l8CdhL9aR2MqDtD+zZdcR/A6CxDgMyhgUKsKs+QEPhSkitWDstPDq2qidWOP0Mb9LVpkL5F+WUJnKmMTNrWN1hP9O/J713f0qE7YpMtTaI8J2NhX5qb+C3s7NnLj6xitBnbi9raY=;q4nkr82NRcB64ae/5/zbYg=="
 ---
 

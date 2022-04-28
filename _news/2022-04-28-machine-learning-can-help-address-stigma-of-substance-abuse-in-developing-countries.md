@@ -2,22 +2,30 @@
 category: news
 title: "Machine learning can help address stigma of substance abuse in developing countries"
 excerpt: "In developing countries, people with substance-abuse issues can sometimes face shame and find it difficult to get help."
-publishedDateTime: 2022-04-28T04:22:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/951054"
-webUrl: "https://www.eurekalert.org/news-releases/951054"
+publishedDateTime: 2022-04-28T07:30:00Z
+originalUrl: "https://medicalxpress.com/news/2022-04-machine-stigma-substance-abuse-countries.html"
+webUrl: "https://medicalxpress.com/news/2022-04-machine-stigma-substance-abuse-countries.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-stigma-substance-abuse-countries.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-stigma-substance-abuse-countries.amp"
 type: article
-quality: 13
-heat: 13
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "wDNf4yRWYEcw2+m0niCnjlfylMc/H4/a+FTBDjn/3Ny9RcdNiaWtFQCkjMS310BPPSWpvE15FQnf29jPzyO0zmZ2T/bfWC2E8QGgSG7iLz1VHLFf306oq+Uil7hUmveuYNlMIuuUnoXo1cCp+u5ijFEHvHwX62fb7w+YsdPmfigMvhgD556KB3DU4FFFYJ2/s1gatKvqGTNG9XzGrvDksZx26WCEwvM6I1rQS08DRpPNJHysQz77If6I2hJj0yYILdc9BEOJtFU0sZTYzURDl1XcHyPAqF9EWNiwg+Lgvs5PE0XBkSKLctCgeShU2HOq7Ill7sNd3U9jkbUqw3xLiyO41pOasYSRbTltRsmSuJk=;UqHHEXWUUJtIBfJf/JCAHg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/28-machinelearn.jpg"
+    width: 1920
+    height: 1638
+    isCached: true
+
+secured: "J5sjJ5mBntbp0BGw2OzBvKd+v9Q8m0ze8ifocQWcmSYNeYoKpiywIHuEGGJJGNS4TGHhCPW4oyc/jJ5ZEWT8KKZr7X5LZmKU/gyk5aEiK89zL/lGp3+6Bi0dOJl2vzjYLMGzgUVyTp8OPSkmWRI4N733qigPeBuo8k0bISWxMqg6hw3Wqwlg5wagDCn/t6k3e6MtT0ngevKZ0RD07BuLzNIHc9/v5CimyqmbXvXmN+3VembyI4u6eEWwOlR6pgJMdo7JbShDawASXUC4EjjukwNORH9VOUyNlS1vmEmFOwR3hLI9s1CDy8lel/NdIikDs7QeJ+ul0YNtaiqLizguf0KvgT2+/Wehrg95UTn4bvM=;WEld020w1t3EhCzdFgLV2Q=="
 ---
 

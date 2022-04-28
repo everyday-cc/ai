@@ -3,8 +3,8 @@ category: news
 title: "Why artificial intelligence will be key to NHS workforce and waiting times challenges"
 excerpt: "That means strengthening and developing technologies and techniques into our NHS that can prevent or detect disease before it develops, accelerate diagnosis and treatment times, aid clinical decision-making,"
 publishedDateTime: 2022-04-28T05:00:00Z
-originalUrl: "https://www.heraldscotland.com/news/20092093.artificial-intelligence-will-key-nhs-workforce-waiting-times-challenges/"
-webUrl: "https://www.heraldscotland.com/news/20092093.artificial-intelligence-will-key-nhs-workforce-waiting-times-challenges/"
+originalUrl: "https://www.heraldscotland.com/news/20092093.artificial-intelligence-will-key-nhs-workforce-waiting-times-challenges/?ref=rss"
+webUrl: "https://www.heraldscotland.com/news/20092093.artificial-intelligence-will-key-nhs-workforce-waiting-times-challenges/?ref=rss"
 type: article
 quality: 47
 heat: 47
@@ -24,6 +24,6 @@ images:
     height: 612
     isCached: true
 
-secured: "1Vf8/XTgo81VYK7SLnZlvq0WyolUsJlzpTx9SEeybZLAHC7vYMmGq+j4ghzjzyRR+C+F8Cx/2bmHgr/nQCGTntmZYB/ATSvJDsqNjBn1h6lAUNbi7z2ThrPYFaUkdTcFW54Af1UobOqvs70OalZuNIvcR+RSnoiS417+2j9c8mPE8DXdKHUpQme/CQGvVp6JkdxO0SgqZEBVn1HwjvD1DKnWMRyJXxmhP3+3W8Lk+N1G71UO+bw2NEF1E561ZzkYv1tOEfyq4cKvYXdxf3IMVwj0Hwm8e2RdrCVj/96hOnyMZzaoxW3jbJT9LMrxYxKs0yJImuoMJCmlPvFlYX5+PAVNAhu/sWTgLVRYCwKXvqc=;5epcyjh2rJ2DMW3UDf/QsA=="
+secured: "MEEGm0Pm7M97Tov7+y2b35isk8o0z0PhG/qJX+a2IhvkIrESqT9T0vJ9INJwUt2In3tZV74JaOwmcCBLW5Em7/hC/2eZPiN8//SPd8H7or6fTJ7fM2bjav0v/2IQjCFViwtMkumg/PiVtdl5epxgFzMFFXT8tmkS6MAj755Enit2ClzrP33r5s4QfzJlUNx8lL3CQUtgltnlIIpYpMlJrkpe5MPoV8+gIWvXaubQm8ueCgU1xNRB3WGi3cFM60e6Rt1nNp/gyTfFNG26cJp1iw64isfxJELSzvxAhAsVjrL91Yue/cDfIAN3NQIT+sw5qofOJANB7mrF+2o4hOLoTQxVSMYUWAArIg2OGewG1+8=;hzP9ky1gQlEjZZQ3GkjVsg=="
 ---
 

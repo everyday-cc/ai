@@ -33,15 +33,6 @@ related:
         width: 400
         height: 228
         isCached: true
-  - title: "Pushing Forward The Value Of Analytics, AI And Automation In Telcos"
-    excerpt: "A complex company like a telco will continue to build out skill sets in analytics, AI and automation (A3) for the foreseeable future. The main areas of this development are described in this article."
-    publishedDateTime: 2022-04-25T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/25/pushing-forward-the-value-of-analytics-ai-and-automation-in-telcos/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Control Risks Taps Reveal-Brainspace to Bolster its Suite of Analytics, AI and Machine Learning ..."
     excerpt: "Control Risks, the specialist risk consultancy, today announced it is expanding its technology offering with Reveal, the global provider of the leading"
     publishedDateTime: 2022-04-27T14:00:00Z
@@ -70,15 +61,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Payment Fraud at Record Lows Thanks to Analytics and AI, Visa Says"
-    excerpt: "Despite a massive increase in online activity during the COVID-19 pandemic, fraud on the Visa payment network is at an all time low, the company says. One"
-    publishedDateTime: 2022-04-26T18:26:00Z
-    webUrl: "https://www.datanami.com/2022/04/26/payment-fraud-at-record-lows-thanks-to-analytics-and-ai-visa-says/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 17
   - title: "i-PRO EMEA raises the industry standard by adding high resolution combined with Edge AI Analytics to its mid-range camera line-up"
     excerpt: "PRO EMEA sets a new benchmark in the AI-fication of the security industry with the addition of 34 new high-resolution camera models to its Standard line-up. The new 4K, 6MP, and 5MP"
     publishedDateTime: 2022-04-27T11:32:00Z

@@ -2,6 +2,292 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-03-22-workplace-digital-skills-training-in-a-bad-place.md",
+      "title": "Workplace digital skills training in a bad place",
+      "excerpt": "Workers aren’t getting enough training in much needed digital skills with two in three workers saying they’re not confident existing workplace training programs will meet their future career needs, a new survey has found.",
+      "sourceUrl": null,
+      "webUrl": "https://ia.acs.org.au/article/2022/workplace-digital-skills-training-in-a-bad-place.html",
+      "originalUrl": "https://ia.acs.org.au/article/2022/workplace-digital-skills-training-in-a-bad-place.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ia.acs.org.au/content/dam/ia/article/images/2022/training%20computer%20skills.jpg",
+          "width": 939,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ia.acs",
+        "domain": "acs.org.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup.md",
+      "title": "Microsoft adds Pasqal’s neutral-atom processors to its Azure Quantum cloud computing lineup",
+      "excerpt": "Microsoft’s Azure Quantum cloud computing service will be adding a brand-new tool to its toolbox: Pasqal’s neutral-atom quantum processing system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/",
+      "originalUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RGqhsC6rUxQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/amp/",
+      "publishedDateTime": "2022-03-21T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award.md",
+      "title": "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award",
+      "excerpt": "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award",
+      "originalUrl": "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-Protests-AFP-1K-03-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-meet-the-deepmind-mafia-these-18-alumni-from-googles-ai-research-lab-are-raising-millions-for-their-own-startups-from-climate-to-crypto.md",
+      "title": "Meet the DeepMind mafia: These 18 alumni from Google's AI research lab are raising millions for their own startups, from climate to crypto",
+      "excerpt": "Over the past decade, Google-owned artificial intelligence research lab DeepMind has become a repository for top AI talent. Since Google bought the London-based startup for an estimated $500 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-deepmind-employees-who-founded-own-AI-startups-2022-3",
+      "originalUrl": "https://www.businessinsider.com/former-deepmind-employees-who-founded-own-AI-startups-2022-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62349c08c5cf2000184dc442?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-robots-step-into-the-covid-19-danger-zone.md",
+      "title": "Robots Step into the COVID-19 Danger Zone",
+      "excerpt": "mind-numbing and boring jobs. Now they can do jobs in plants while humans are sheltering.” Bogart began by creating robots for movie sets. “We started in the 80s designing robots for motion pictures, mostly motion control. We moved movie cameras and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/OB7%20opening%20machine%20door%20%28002%29.jpg",
+          "width": 3264,
+          "height": 1836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-ukraine-and-russia-have-both-weaponized-facial-recognition-in-very-different-ways.md",
+      "title": "Ukraine and Russia have both weaponized facial recognition — in very different ways",
+      "excerpt": "Ukraine is using the technology to ID the dead and find Russian infiltrators. Russia is using it to crush dissent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
+      "originalUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6238d63cd199330018a3626d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
+      "publishedDateTime": "2022-03-21T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-ai-voice-driven-speech-recognition-suite-augnito-enhances-radiology-and-clinical-reporting-for-wellbeing-software.md",
       "title": "AI voice-driven speech recognition suite, Augnito, enhances radiology and clinical reporting for Wellbeing Software",
       "excerpt": "Bespoke speech recognition technology, Augnito, aids Wellbeing Software with highly accurate Radiology Information System workflows. Scribetech has announced the integration of its disruptive ...",
@@ -898,275 +1184,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-hearst-invests-in-startup-that-uses-machine-learning-to-aid-businesses-journalists.md",
-      "title": "Hearst Invests In Startup That Uses Machine Learning To Aid Businesses, Journalists",
-      "excerpt": "Applied XL develops \"event-detection algorithms that replicate the rigorous research process of biotech journalists in order to surface important signals,\" says CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/372223/hearst-invests-in-startup-using-machine-learning-t.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/372223/hearst-invests-in-startup-using-machine-learning-t.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-20T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-driving-into-the-future-this-chennai-based-startup-is-helping-vehicles-make-better-decisions-through-connectivity.md",
-      "title": "Driving into the future: This Chennai-based startup is helping vehicles make better decisions through connectivity",
-      "excerpt": "Ever since Tesla CEO Elon Musk popularised the vision of driverless vehicles interacting ... in the vehicle,” Venkat says. Using Artificial Intelligence, data stored in the cloud is processed ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
-      "originalUrl": "https://yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/40d66ae0f37111eb854989d40ab39087/ImagesFrames27-1647505616198.png ",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/03/chennai-startup-provides-full-stack-connectivity-automotive-saas/amp",
-      "publishedDateTime": "2022-03-20T20:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-charging-ahead-ai-will-spread-its-wings-soon.md",
-      "title": "Charging Ahead: AI will spread its wings soon",
-      "excerpt": "Google’s Cloud AutoML or Data Robot are examples of automated tools that have the potential to minimise the dependence on experts and empower the users. As a result of this process, the costs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/charging-ahead-ai-will-spread-its-wings-soon/2466026/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/charging-ahead-ai-will-spread-its-wings-soon/2466026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2021/12/1-647.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/charging-ahead-ai-will-spread-its-wings-soon/2466026/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/charging-ahead-ai-will-spread-its-wings-soon/2466026/lite/",
-      "publishedDateTime": "2022-03-20T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-how-artificial-intelligence-is-revolutionizing-digital-marketing.md",
-      "title": "How Artificial Intelligence is Revolutionizing Digital Marketing",
-      "excerpt": "Artificial intelligence, AI for short, is a newcomer in the digital marketing arena. And yet it has the power to create a true revolution in the field if businesses choose to embrace it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/how-artificial-intelligence-revolutionizing-digital-antonel-neculai",
-      "originalUrl": "https://www.linkedin.com/pulse/how-artificial-intelligence-revolutionizing-digital-antonel-neculai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHs6zFiHUvVLQ/article-cover_image-shrink_720_1280/0/1647818713011?e=1654128000&v=beta&t=7VgxfETC_OyYbAj8LaJpdtuXENGOO3QzlP_W7LCPLhA",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-20T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored.md",
-      "title": "Researchers Warn: Risks of Using AI To Grow Our Food Are Substantial and Must Not Be Ignored",
-      "excerpt": "Artificial intelligence (AI) is on the cusp of driving an agricultural revolution, and helping confront the challenge of feeding our growing global population in a sustainable way. But researchers warn that using new AI technologies at scale holds huge risks that are not being considered.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/",
-      "originalUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Farm-Drone-Spraying-Pesticide-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/researchers-warn-risks-of-using-ai-to-grow-our-food-are-substantial-and-must-not-be-ignored/amp/",
-      "publishedDateTime": "2022-03-20T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-20-ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars.md",
-      "title": "Ethical AI Ambitiously Hoping To Have AI Learn Ethical Behavior By Itself, Such As The Case With AI In Autonomous Self-Driving Cars",
-      "excerpt": "Maybe AI can learn to be ethical, though this is harder than it seems, including considerations underlying AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/622bfb12203a72d0156f3303/0x0.jpg?format=jpg&crop=3097,1742,x476,y301,safe&fit=crop",
-          "width": 3097,
-          "height": 1742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
