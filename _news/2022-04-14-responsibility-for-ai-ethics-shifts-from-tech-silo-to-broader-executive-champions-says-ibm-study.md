@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
-excerpt: "80% of respondents in this year's survey pointed to a non-technical executive as the primary advocates for AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ..."
-publishedDateTime: 2022-04-14T06:58:00Z
-originalUrl: "https://fox40.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
-webUrl: "https://fox40.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
+publishedDateTime: 2022-04-14T04:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-responsibility-ai-ethics-shifts-from-tech-silo-broader-/2022/04/14/9582906.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-responsibility-ai-ethics-shifts-from-tech-silo-broader-/2022/04/14/9582906.htm"
 type: article
 
 provider:
-  name: FOX40
-  domain: fox40.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "uQgUMiu+bHIRaxPDUnAwX6e5KsQk8YYIjNczNUmwH333W/lMdZa1S6frwv8UMd4UQGITPod7uTbeCU+XcIxCTq+3Bgx+DaTz+dapg+B158YOc5HactDVLw5KS/7GlTh2heSDFxRowKmP6ZpBqKoA48j19tvGmDgx2vtRgYq1G/wmCxFhhMa7Jrutk3Je2TUhA9apBu/fxb8aJEVO7+tDhA/rqmhFEhRo0jfq8vdn/9j61eOonq9DrLfCLGuTLKfdtHmmGlOJ6amt3/qic7Gtv7A4TXdizK8To75/92Ho6fb+AOUl6V672RkkOiJ/iADFxxLroxTfx3iZzmZF/Kjqvu0bHClNSJfSOIq6A79n8CA=;f2swxIu8smOCzhd6p8+0Ug=="
+images:
+  - url: "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg"
+    width: 2700
+    height: 1845
+    isCached: true
+
+secured: "2SwNzqQ5fqmWb6aQuLvhASS+gMCNM+dKrIdHVI7PA64D/wTMiu26cDktXFbBgOLdlaX3HkPkKZbm3SyerKq3yd5uROiWlR2+juWWiDhh5xAQHxUoaEaBfO1uq779wreN44jTSruwU+OglARoPKKTUBJj6YCBEeDG9cYQstrtcv4bab4EdhsH9/E6csOZ8N4l/NhiCZxiYKouAYtXV4J+CU8RE/bzkcVs2StASyiGQ+eHRoMGJR/CWLNQIWWs0yxf3rQCmERS5TZA29uQkb9YGT33eARt7RD8AxY03EoH9xBFsEkJFYWrGbmnIp3hGy8MinQ2icHVXlQEi6DvZLn5lhSmCj0O0/t9aOUf7ceSygA=;aKmKk4VQf3RV3XRqx4LMDA=="
 ---
 

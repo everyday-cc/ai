@@ -18,22 +18,82 @@ topics:
   - AI
 
 related:
-  - title: "UAE vows 'responsible' artificial intelligence rollout"
-    excerpt: "The world's first minister for artificial intelligence says the United Arab Emirates isn't only looking for economic benefits as it seeks to become a leading nation in the sector."
-    publishedDateTime: 2022-04-27T03:14:00Z
-    webUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
-    ampWebUrl: "https://amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
-    cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+  - title: "Digital.ai’s AI-powered devops platform offers predictive insights"
+    excerpt: "Digital.ai's new toolset lets IT managers use automation to connect agile development practices at the portfolio, team and individual levels."
+    publishedDateTime: 2022-04-28T14:42:00Z
+    webUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/"
+    ampWebUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
     type: article
     provider:
-      name: France 24
-      domain: france24.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://s.france24.com/media/display/1ea11fb2-c5d8-11ec-9fa9-005056bfb2b6/w:1280/p:16x9/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg"
-        width: 1280
-        height: 720
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354729632-1-e1651100896311.png?fit=800%2C450&strip=all"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Vic.ai debuts AI-powered tool to optimize costs for enterprises"
+    excerpt: "Accounting automation startup Vic.ai today announced a spend intelligence solution to help enterprises optimize their costs."
+    publishedDateTime: 2022-04-28T13:42:00Z
+    webUrl: "https://venturebeat.com/2022/04/28/vic-ai-debuts-ai-powered-tool-to-optimize-costs-for-enterprises/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Pentagon Names Chief Digital and Artificial Intelligence Officer"
+    excerpt: "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and Dropbox,"
+    publishedDateTime: 2022-04-25T20:20:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366078/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/04/25/042522pentagonNG/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Workshop on Artificial Intelligence"
+    excerpt: "Amritsar: The CSE/IT Department of Global Group of Institutes organised a workshop on Artificial Intelligence and Machine Learning. The workshop was conducted by Anshu Aneja, Director of Ansh Infotech and Kriti Bhatia - AI and ML expert."
+    publishedDateTime: 2022-04-28T01:46:00Z
+    webUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-intelligence-390029"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_181704252.JPEG"
+        width: 1200
+        height: 1495
+        isCached: true
+  - title: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform"
+    excerpt: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform. Digital.ai today announced it has reimagined the future of software"
+    publishedDateTime: 2022-04-27T13:25:00Z
+    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/27/9590771.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+        isCached: true
+  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
+    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, launched the Vian H+AITM Platform for reliable, optimized enterprise-wide deployment, management, and governance of machine learning (ML) models at scale."
+    publishedDateTime: 2022-04-26T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/04/26/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 14
 
 secured: "MDB18+N5ewWDu7IhK3GF6/7QI3WyS50xZplRB7oT/WOzqHp4vWZYkBmkghuN26tyTovLyJ+FywZCn092u/BtXr1M6YqjGO5wSwMnilb1hByOV77+BwSjB5TAhkRzFKU3uuyq0mGm+oeb4zR3YzrKbRloIM3wTR2sDhe3qvSGGtV1WRa9Vy6m5vDKvLCSf3kje3r2blp6jGDoPNnKp9KbfDwiH3gK9iX160Lc3riedM6MVNw2x69QeAwJvq5WYmBz1yTuQMhhxZ1NxBHEN6kwQec93GLSL37QYVONSBwZGu2L6Qv9LNvZZjOM+RhB6lcHnbp09Id4nS2OpwQaKSzJZWhAMOKVZZVn047jRFIweB87qak6bg7fZv9No5thz07QveUg8AR9eturoP1xBWPpGU4ZIKToKbxvfgZZhEQxAZZLsMWhgTQa5hHZnx/LbNuUom7LY17294L+WRhIB6p7+APLA0DIRIEoOTIvoi9YBtVshX6+n6yW1Og/cqpepbSBdBdH/Pm6GnewFK7bCB+mdg==;2AeznecQ0OC/VlVQUvprtA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26829742"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26829742"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Enterprise Artificial Intelligence (AI) Market Top Companies, Business Growth & Investment Opportunities 2026"
+    excerpt: "According to the report, the global enterprise Artificial Intelligence market garnered $4.68 billion in 2018, and is expected to generate $53.06"
+    publishedDateTime: 2022-04-28T13:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-top-companies-business-growth-investment-opportunities-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 35
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "CAW0tMm3xlsoXjMFgHIUm35ozGqflGRJ2V4Hg/VAV00vMumam02RCtpir8QeInKNH4mnAWza3tcm/5l3HES8g3+f+cs7FdlcexZRbrXIZ4TBFH4EUuEIznQ9nU9PjzlT1bw3b0BCzyuSmoLUVBpjpGwb6+5irISpIZSg+Jj4xwfqSnVSdX1hqiXfh52fBZJN8XbvjINnMRVY8oB8p86F8lz8yPCKjEHtjcScYAHSpU4VyoMMiG60rRBMiCbfv/MyZgXug7BgiYDsT0wSGxB/xKdPD2N5XYPSMjHPItSfA5FnA6WdQdz1vTGnTMcEr76LtEJcsMF5u1ZuNuB35R9cYD728WapTVPg5o8rm9CuREpfjovqnDgksVyN6/e8U7HzfAKKmGhrgwhGclHgwJ/T9D55qLQLH3Umg4SrLtuxSNhWj7PI5hEKh5ra8W9o2hCuhTBXgm71CurVinNhN9w0CqRi5GJ1aj1TsqBGzXBvBVEaEr7cHB7eWf6dVkkc2kxYMkl6/xnSBiumnbrxsBioVQ==;fLGJDEDsOGV3B67s+c36cg=="
 ---

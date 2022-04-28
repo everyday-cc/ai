@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/04/28/moveable-ink-which-taps-ai-to-personalize-marketing-content-raises-55m/"
 webUrl: "https://techcrunch.com/2022/04/28/moveable-ink-which-taps-ai-to-personalize-marketing-content-raises-55m/"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: TechCrunch

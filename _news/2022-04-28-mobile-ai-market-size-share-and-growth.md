@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-28T09:59:00Z
 originalUrl: "https://www.digitaljournal.com/pr/mobile-ai-market-size-share-and-growth"
 webUrl: "https://www.digitaljournal.com/pr/mobile-ai-market-size-share-and-growth"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - Natural Language Processing
+  - Microsoft AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
@@ -65,15 +66,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 19
-  - title: "New Release of the expert.ai Platform Accelerates AI-based Natural Language Solutions Adoption and Time to Value"
-    excerpt: "Extended core enterprise capabilities in the areas of vertical sector and use case customization, connectors and cloud environments to improve business results BOSTON, April 26, 2022 /PRNewswire/ -- Expert."
-    publishedDateTime: 2022-04-26T12:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-release-the-expertai-platform-accelerates-ai-based-/2022/04/26/9589490.htm"
+  - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
+    excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
+    publishedDateTime: 2022-04-28T13:17:00Z
+    webUrl: "https://stratechery.com/2022/meta-earnings-meta-spending-ai-costs-and-moats/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Stratechery
+      domain: stratechery.com
+    quality: 17
 
 secured: "pFsY1LKG+nWrT84IP7+eUyy3u3epUBubP5qkuBM02x3kXVqeks/BvkfBE6JoYBjlvfxzwv9DcDML+4OOiS2ExTLnMBqzSo3VNOudCqMWgS5swBMZL/3mMAOeXZ0wQFoif3m0UAGRh9OJ+1L+4YmaTQVFSevffk/fDmToqN+dFKV7N7qMwzoDGluZSyikZykG4SjkLgMrtQYlsIk/DT8f0p6zu3OIbQHXz33D31UpsrMsaKZdkk9gMCin1FPxcrArvBodjenu9l2hIYNbQamAxOx1FgwlAOfzartGasApWpBydXTujb0BJASOb1zdjQrqugJJYDYU9vvtqkXI3I5oU4lhYEwlecFqqrRq04DL1F8=;CFMaGh+T6n5k/yondGcQxw=="
 ---

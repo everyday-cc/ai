@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1022
     height: 535
     isCached: true
+
+related:
+  - title: "CMU’s Matt Johnson-Roberson and MIT’s Daniela Rus will talk higher-education at TC Sessions: Robotics 2022"
+    excerpt: "Robotics technology, currently a $45.5 billion global market, has had an enormous impact on countless industries, including agtech, automotive, healthcare, labor, warehousing and logistics. Thanks to advances in AI,"
+    publishedDateTime: 2022-04-28T14:30:00Z
+    webUrl: "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/"
+    ampWebUrl: "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 103
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Johnson_1200x628.png?w=1024"
+        width: 1024
+        height: 535
+        isCached: true
 
 secured: "lL0evKS9Ul4fIOltXMBoc8B9u3uQXexkt9jm9hyEJebF5+siLroN6O+lfMqx1LYrHdUVb1sKi9+SFqbtEEOGHvCZNhwUTmklTa/PMb/PL+SXfF1d85wCHKyygATU+qtPRdFBVKMr81pHBV0wej5OS2Zw+epHHTin65qdwMwi6nConVfGU/jYKd5Twii8LnoEkH49096tWagxO7Rs/f3R+VXyfC0VRh8qIPKLYBqdnw7rlZBKVo9TXgbzuorfwiJD3Y69b+37IvkH2jr+sy2qoWujlFYjpmvcIpgCqsmzv3kPsYz8cmrW5QO0HV8hF4VAoXajp08rNIV6zaSGbs+ER7+5VAfYr+65fV4AlyaCeENtDGFr2itDHssu2yEJku0BgyjalPH3cEHHY6urKqj22tkm09OcrBWpFiCl4EuwbyyZoe5vh6ExoR7pGb/feoWbH5tbTZSyqIal1vxJDihm4SG0qaYui/DVanJfoQ3cRSCa7MZKWLHtBXoGlkJEhJyHoMtdJp2RoGbFXzfmVYzC+Q==;4axHUdUvhz3nBG3tViBvmw=="
 ---

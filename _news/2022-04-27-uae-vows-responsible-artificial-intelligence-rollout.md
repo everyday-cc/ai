@@ -1,20 +1,31 @@
 ---
 category: news
-title: "UAE vows ‘responsible’ artificial intelligence rollout"
-excerpt: "The world's first minister for artificial intelligence says the UAE seeks to become a leading nation in the sector."
-publishedDateTime: 2022-04-27T03:17:00Z
-originalUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
-webUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
+title: "UAE vows 'responsible' artificial intelligence rollout"
+excerpt: "The world's first minister for artificial intelligence says the United Arab Emirates isn't only looking for economic benefits as it seeks to become a leading nation in the sector."
+publishedDateTime: 2022-04-27T03:14:00Z
+originalUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+webUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+ampWebUrl: "https://amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: France 24
+  domain: france24.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "hHeBnQebeeihaLP2rwnpAoM37dTqvOuGZiQ1g5igBS6wlHihMZEn77UGGojDgEbvTDSvJAlHLhpHg+St12LR5kwPI2bLcD5RR1o9g3kwRiTDFKJg+WsOQ8PSRfEDIH+z09RpNJjMqBY7CS4nssofNZRMMyMybC1KqEdV1ZtUHUmBcu1JH61PKFjyA/ZWYYnJgWNrYj3EgJHOXasYNmgLVHZuf2S1+PTwnsV+HKQRKkGX2rv65fV92Fwqf79lLRaWGp+5UJtCAQBDjetU13yGswDjvT7uxmOC07VAcuim7FR4PyMAlyelaJ3rY/g4kiYkyWQhn7YmOPv6nbU/cR2Zymo7700yCri9QQTxxQvOCohMcBkzvM+KcjmIrrsytd6O5u/1YkPN5gaMsonci4NKQgs96IbY+HcHHlpnroYtgRyxa13Q8g+lH5eliEjWjBQ0ql3d7BOk9+yq4oJCBZ6hTvo9rRS7+a+odNDle8Te53fwWTga+5ess45uziJY6AhNYnmFxA1txkCnEfz/yqMqpA==;q7/nMdypOTenE4hsqoImhg=="
+images:
+  - url: "https://s.france24.com/media/display/1ea11fb2-c5d8-11ec-9fa9-005056bfb2b6/w:1280/p:16x9/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "0q6hxtWPYwNecxbBSZCl0bzyyArW9VsOlW/+OFxWKyupFawTSU8mUu4UVpJ4l+vWF8NhqlttkcnPGFCuSE57z0mhJieKpgpnnK+xscDYnlG/n1BuCiEsxJcnQ0ButcEpO2RhiW387EE7gHGoUQ0taGgkSpIGbKONBYIBz6m4zrTDm4GfhnfBxc/ZYOfTVV0OklvSb16xtesTS2eIru5ZKrCHZecqsx22YIn0KQJ9l9Zx/hDiKZf4LYYdm++FnvW9S9uXyYGmwHpDKaSDvhqdtOrZRFsO8hTwUCpyoCsxNj3V6jCosFTV+bi6goIBsW0H8cBPQlNF/ygXy2sLJlCElneCukFcILPjE0jUbsBNBoo=;4vrGCQoIN1bho8jSIjrg1Q=="
 ---
 

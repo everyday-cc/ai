@@ -3,8 +3,8 @@ category: news
 title: "Cathie Wood On Twitter Europe In Recession"
 excerpt: "Magnifi is a fintech platform that uses artificial intelligence so individuals and advisors can instantly search stocks, ETFs, mutual funds and model portfolios and trade based on their preferences."
 publishedDateTime: 2022-04-19T18:29:00Z
-originalUrl: "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=24"
-webUrl: "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=24"
+originalUrl: "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22"
+webUrl: "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 426
     isCached: true
 
-secured: "cKxnSsOvD1lvJIthvAv/OElUhGTEWSlveHcRFnJbR/uIK+9+dHpm0eUsTzL5nzOolJLZPL9QMlthr6kSLVbf6nEw+bM0LeObaoEUiDRQQGfzIKSQlNFsL/j+BaMSeAC6/ch/7WKKN6HkKwSH85qbpjkFGB+6DrG0ZWykKJgI7nVGpKqaqZafiCfSD1Za+TyMSSE8wz9A15lfH6XVfTmpwLRqvFn4WtUDhBuvNwky/H3BjJX3d2GAVkFRDOPU4n3mzXYLaN0sITkSoEoxZcilHlK6MP9mbHyP/bOa9Gr3M8SvOQxrDjl0bv/4/EeznuiiHmJqEOGdCWKAt+m3+1e4EOtx3jInTzBwpt2gLOkRbPU=;8m86o39h4mZVbSeQDGdxbA=="
+secured: "zb7CxcS8NqHRXR6EQOYPoT8R8DPo6JBVsyU7NZXp7/d7R5ICHDo9DCGyGaUPxVL8pFx8QavxTHImbNmJS+w9AlNCHqKtZVw02zb81OG6cIg4tdxRb7mAmi0QNfW0aJBrouGOMZ4j82OsFXah4NXXF+jKPXouSn8LFq+dG2+auWQ2BiOszUpeR717Aox/OTq8/Yt8035zkIq0swhubegMoOUt7l9FT621TnJ1snkhUbn+DEMqRKRoiUtDnt1xJ1nsmH8Rg3mCmvuBUUU/8Deeyg+XdfbSrYSWxt0rD2Jds4Wpd2iqrRXJP9vz/TBFL4NNUxAVrgP+a7AV2sz8N/03IdtwUC79zAgsmLhT5Sjv8fE=;uAswRRswqu8Vg3ltDfypPA=="
 ---
 

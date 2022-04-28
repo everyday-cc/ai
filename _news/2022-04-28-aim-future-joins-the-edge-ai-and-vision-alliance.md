@@ -43,7 +43,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
         width: 600
@@ -63,15 +63,15 @@ related:
         width: 600
         height: 207
         isCached: true
-  - title: "New Release of the expert.ai Platform Accelerates AI-based Natural Language Solutions Adoption and Time to Value"
-    excerpt: "Extended core enterprise capabilities in the areas of vertical sector and use case customization, connectors and cloud environments to improve business results BOSTON, April 26, 2022 /PRNewswire/ -- Expert."
-    publishedDateTime: 2022-04-26T12:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-release-the-expertai-platform-accelerates-ai-based-/2022/04/26/9589490.htm"
+  - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
+    excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
+    publishedDateTime: 2022-04-28T13:17:00Z
+    webUrl: "https://stratechery.com/2022/meta-earnings-meta-spending-ai-costs-and-moats/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Stratechery
+      domain: stratechery.com
+    quality: 17
 
 secured: "XViTmzMMw05L9jV6c55wQulyH/p9/uXncwLTvA1N30UqK4RWwpsxAOvAXGeZ4zU4uz6N7yDnTB25FI07kc1+8eP+U0fqFJQUXFUewxdlAEZlBbp8e1WEK5K0h9DaNnzU4sxiUadZHFHzAn6+7OacEd4xdBLHb8WPBw83uE9focIyqkTkchrWo3HCGfYcMw3FgOz07l7VahtV+306Y12mpygHi005IgZHclqvwO6x2fYgjJfyCu59Jt3MazoJIR6IIrOsItWYFty0kVOIp6n88C9KQDoa0rmJaVbmyQIyG8x1hwirSCxeuiuCdFJ8qUDkd7yaNqGdfl3oQ3Xl+MI80s1uJGYRjnnnKnUCRTbeyO0O/tCQeOduIABPFPR9JB/2W8mA4q13olfC+TSrushT95/h5ufFPTUN+JpwDN2Rf0Hux2PylXTEyrXkxBcOJrpbRKEl4p02Zrx7TIldtsOkY6RZScu9MsgbW35mVBlkFGzCn1nFZgQwKErlJizbRoNZEikSojylifNV+ce1QJZJmw==;d1e6gq9wvvuTQFjjBJpu9g=="
 ---

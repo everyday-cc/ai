@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Facebook Parent Meta Is Studying the Human Brain to Improve AI"
+    excerpt: "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose."
+    publishedDateTime: 2022-04-28T13:00:00Z
+    webUrl: "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
   - title: "Google, Facebook defended by small business owners in bizarre newspaper letters"
     excerpt: "As Capitol Hill seeks to rein in Big Tech, a slew of local business owners are slamming the proposed antitrust legislation in letters to the editors of local newspapers across the US — and"
     publishedDateTime: 2022-04-27T10:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-a
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/"
 type: article
 quality: 54
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Sanjay-Uppal-Founder-and-CEO-Finbots.AI_.jpg"
         width: 600
         height: 401
+        isCached: true
+  - title: "Finbots.AI raises Series A funding for AI credit risk platform"
+    excerpt: "Singaporean AI-powered credit risk specialist company Finbots.AI has raised $3 million in Series A round from sole investor Accel. The transaction marks the first external investment raised by Finbots."
+    publishedDateTime: 2022-04-28T13:58:00Z
+    webUrl: "https://www.bobsguide.com/articles/finbots-ai-raises-series-a-funding-for-credit-risk-platform/"
+    type: article
+    provider:
+      name: Bobs Guide
+      domain: bobsguide.com
+    quality: 39
+    images:
+      - url: "https://www.bobsguide.com/wp-content/uploads/2017/03/73696-1.jpg"
+        width: 300
+        height: 240
         isCached: true
   - title: "Finbots.AI Secures US$3 Million in Series A Funding Round From Accel"
     excerpt: "Finbots.AI, an AI-powered credit scoring software provider, announced it has raised a US$3 million Series A funding round."

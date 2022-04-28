@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T12:09:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-partners-with-university-texas-aust-to-advance-/2022/04/28/9591574.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-partners-with-university-texas-aust-to-advance-/2022/04/28/9591574.htm"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: TMCnet

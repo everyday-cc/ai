@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T05:00:00Z
 originalUrl: "https://www.heraldscotland.com/news/20092093.artificial-intelligence-will-key-nhs-workforce-waiting-times-challenges/?ref=rss"
 webUrl: "https://www.heraldscotland.com/news/20092093.artificial-intelligence-will-key-nhs-workforce-waiting-times-challenges/?ref=rss"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: heraldscotland

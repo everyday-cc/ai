@@ -42,6 +42,22 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Man who gave microwave artificial intelligence claims it tried to cook him to death"
+    excerpt: "YouTuber Lucas Rizzotto said the family microwave was his imaginary childhood friend which he tried to resurrect by fitting a new one with artificial intelligence during a bizarre experiment"
+    publishedDateTime: 2022-04-28T15:14:00Z
+    webUrl: "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597"
+    ampWebUrl: "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 66
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26824071.ece/ALTERNATES/s615/0_Lucas-Rizzotto.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Man rebuilds childhood friend with talking AI, it tries to kill him"
     excerpt: "A YouTuber has documented his recreation of his childhood friend in the form of an artificial intelligence that betrayed him."
     publishedDateTime: 2022-04-28T05:03:00Z

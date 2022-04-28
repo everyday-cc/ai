@@ -57,6 +57,20 @@ related:
         width: 600
         height: 401
         isCached: true
+  - title: "Finbots.AI raises Series A funding for AI credit risk platform"
+    excerpt: "Singaporean AI-powered credit risk specialist company Finbots.AI has raised $3 million in Series A round from sole investor Accel. The transaction marks the first external investment raised by Finbots."
+    publishedDateTime: 2022-04-28T13:58:00Z
+    webUrl: "https://www.bobsguide.com/articles/finbots-ai-raises-series-a-funding-for-credit-risk-platform/"
+    type: article
+    provider:
+      name: Bobs Guide
+      domain: bobsguide.com
+    quality: 39
+    images:
+      - url: "https://www.bobsguide.com/wp-content/uploads/2017/03/73696-1.jpg"
+        width: 300
+        height: 240
+        isCached: true
   - title: "Hyderabad based AI startup Finbots raises USD 3 Mn in Series A"
     excerpt: "Finbots.AI, an AI-led, innovation-driven venture, announced it has raised USD 3 million in a Series A round from Accel."
     publishedDateTime: 2022-04-28T11:26:00Z

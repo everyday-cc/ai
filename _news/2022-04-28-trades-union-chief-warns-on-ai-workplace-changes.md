@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Trades union chief warns on AI workplace changes"
-excerpt: "Watch the full interview on Thursday 28 April 2022 on BBC World News or watch again on BBC iPlayer (UK only) Trades union chief warns on AI workplace changes. Video, 00:01:41Trades union chief warns on AI workplace changes Up Next. Why this face ..."
-publishedDateTime: 2022-04-28T12:06:00Z
-originalUrl: "https://www.bbc.com/news/business-61255405"
-webUrl: "https://www.bbc.com/news/business-61255405"
+excerpt: "The general secretary of the UK Trades Union Congress (TUC) has told the BBC that with the rise of Artificial Intelligence in the workplace, employment rights have to keep pace with big changes. \"So often we see those big decisions being taken by [employment] software that has discrimination written in."
+publishedDateTime: 2022-04-28T11:48:00Z
+originalUrl: "https://www.bbc.co.uk/news/business-61255405"
+webUrl: "https://www.bbc.co.uk/news/business-61255405"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
 
-secured: "lxVKgRxE9S+UJA+DPPMUlJrk0HbmFU3nsK4pid6BSP6P1iE9c0jF4kb/cc6eScebUTZzwngjXuX+l8aq3Nsi3FL3zIXwJeYBsqfsw/h72/bgkZYMrYP7Awlc99lcKAl9m1IpD8NdWZ0XEqW8A5fbL+sP/Qo1lKluLuFvtqt7AgmxfLFeY40zMqIseMSrrndfqSvuitb9cc8CiZeG45CtVqsthnyRj/yADok34FBjvAJeoZ47BbR/K1V6jMvsiYEjGGKx1F16ftrFSkqlf5MwpFV3/rh/wpfNELW5U5vgXgCSEVSmHIs0PAEu/oxejn6v00gKW6LkImUwepwZ8w+chLAUY8+EwBATzClpgUx3jmCYKthCL7t1bXLbg6f2Fstka57TcHL4vyXtJlMRhDPB98D9wBjQIAe70X1N58cyusD4xQguH/kZqYwCv9Bif4AN7FP4PiuiyTkd70PCupFSRrLl3pXW/jL6EpsJbDv2ZALnanwd/CIGLlM5SNV6+qc+Gsgn5OFCCIDeRXSc7oupLQ==;Y5rLoGpdnT7XjvXVlpWOOQ=="
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1F44/production/_124340080_p0c3qnf1.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "nWg3wJiFSSgWTXcSWfmm4R4tKYgTUFCb0Ar5l+DbG/QHNy9A7wZcr/AB+GyiP2DxnxqzHdzfwBsxHFf0bEg7A6sG6ATLvj+8JqtQP7RSlSo7CPnDJtAgOztMf0VGrg2V5vQ23ao0uYlc8x/m5s5qH6fbCPwt/H38bkpiydwIiNXJ+VcGb4VNXzSfVrizwCQji1q8Zm8xjWDqAH5lXFRmdbUQhjxOJcbn6UWCav6ZnbQd0LhPJ4e5cB3sAb34miZfuggK30ixXIUkCyMwg5g9t4qaj9b7F0eeYDhrxx+Mx3Sn5SltoLKrmPgEA7oWUbgR+xM4QVOn+83EdOkSUcvDXtl1soRH88j/1DfqwivTe5w=;ySIQyxN/PK9FFe/SswsseA=="
 ---
 

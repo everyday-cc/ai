@@ -1,19 +1,31 @@
 ---
 category: news
 title: "Hospitals turn to artificial intelligence to help patients while addressing worker shortage"
-excerpt: "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled. Now the health care field is looking into it to ease the worker shortage and shorten hospital stays. A Wall Street Journal ..."
+excerpt: "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled."
 publishedDateTime: 2022-04-25T19:14:00Z
-originalUrl: "https://www.kgun9.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
-webUrl: "https://www.kgun9.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+originalUrl: "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+webUrl: "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+ampWebUrl: "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
+cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: KGUN 9
-  domain: kgun9.com
+  name: WXYZ Detroit
+  domain: wxyz.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "UuIMHrbbmYZ91kXcru+z9W8eu0E44m8OVAZEaOxkQt1tG2dn9HneezAfkFMKfzmJwpnbB0UviCn3X2HO85KNQWJmqujP3g8KMK867pca1KTsufddFDX4XCZ5uJFAxSjWzEvhRT3tX5X9oXbvTPPDeJhoGYFvNKpUEGZgFIMsoHdT1jow5+SRgajmkzRWkT8Tp29Wu5lpNvNqXr+6uOHFtgLsBGSq0eqfEDH/EceSDTWchRZj+O39NeY67YCtAZbVzCPbj+Ho/0fCvvficuLgp0LllOwuqx7/1/gQpZknSKiB0FFMSkUOIpP1k2rvHrf672PUxHK/fOoU3+snS7AFdvqnhPyoQVQQO6KDkMhszOMzaqchf3I11eqrzPuSQX2NQuJfcQm3ZhvXPgevgQEYixPW86L6eVXuGpPPXbrzdm38vHKiQMMffaLlvZWvmSH3rPgw/ni/Sx8ESIw1XMZpUgMWump6eVnAHvDyinSjV+fjPsp8NZtF2HduqLfC3GguOyTb6NzTICWx8BwVYDrnVQ==;Bd3MSG7kcmaOgWNdi7kcKw=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a70b74b/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F39%2F0d%2Fd723ccff45b991094268f06a22e3%2Fhospital-doctor-generic.png"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "fj9NGQx4qBAYw1xFgdJWhvnYSxFW0dDYTlOBKqX66tSWFP4+BYD6gghehP9JzeCgxhfk1b9amg6WWnOgMR81U7uH4+GK0FgdSTJawdcjActRgq+K8m7SlABM4V9kdFDhREd5k5oHzrQJvKzZTQn+IjA3zGa9DwDqubgQJMyiW9xgWRKpI6R63OXWBFnfUlNEeMo4MoU7k0kLHItDaAS6dTmXGeNW1rkAR/cz/ReIvvGEM/sJngWgI0jWGlTA81s56yMf8R2pqLfdOu6aNYsV5fYWF1Wxsfte1jcDOSiFJBf2Fphy9J1HCJv+rZ419W4dtKe40oH+Ms/moF2WRfJa+rtHI5WYBCSaeBbpLYGSfqA=;C5WymntXGOzMPtfPAmrJcA=="
 ---
 

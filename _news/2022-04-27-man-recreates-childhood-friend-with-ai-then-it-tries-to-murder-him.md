@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificia
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Man who gave microwave artificial intelligence claims it tried to cook him to death"
+    excerpt: "YouTuber Lucas Rizzotto said the family microwave was his imaginary childhood friend which he tried to resurrect by fitting a new one with artificial intelligence during a bizarre experiment"
+    publishedDateTime: 2022-04-28T15:14:00Z
+    webUrl: "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597"
+    ampWebUrl: "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 66
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26824071.ece/ALTERNATES/s615/0_Lucas-Rizzotto.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "Microwave Tries To ‘Murder’ Man After He Gave It Artificial Intelligence"
     excerpt: "YouTuber Lucas Rizzotto recreated his childhood imaginary friend - oddly, a microwave called Magnetron - but then the appliance started plotting revenge."
     publishedDateTime: 2022-04-28T03:09:00Z

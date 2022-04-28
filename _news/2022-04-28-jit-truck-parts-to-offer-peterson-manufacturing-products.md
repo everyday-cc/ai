@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T12:14:00Z
 originalUrl: "https://www.fleetowner.com/equipment/article/21240317/jit-truck-parts-to-offer-peterson-manufacturing-products"
 webUrl: "https://www.fleetowner.com/equipment/article/21240317/jit-truck-parts-to-offer-peterson-manufacturing-products"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Fleet Owner

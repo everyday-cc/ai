@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T13:14:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/greenscreens-ai-to-sponsor-the-word-on-the-street-powered-by-beta-consulting-group-1031397530"
 webUrl: "https://markets.businessinsider.com/news/stocks/greenscreens-ai-to-sponsor-the-word-on-the-street-powered-by-beta-consulting-group-1031397530"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Business Insider

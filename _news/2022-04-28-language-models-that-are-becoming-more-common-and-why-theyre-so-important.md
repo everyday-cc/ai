@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T12:41:00Z
 originalUrl: "https://bestgamingpro.com/language-models-that-are-becoming-more-common-and-why-theyre-so-important/"
 webUrl: "https://bestgamingpro.com/language-models-that-are-becoming-more-common-and-why-theyre-so-important/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Bestgamingpro

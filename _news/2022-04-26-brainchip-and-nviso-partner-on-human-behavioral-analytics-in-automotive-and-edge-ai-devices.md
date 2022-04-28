@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
+    excerpt: "Quantum Corporation announced it will be showcasing a new solution, which can analyze and enrich video content used in broadcast,"
+    publishedDateTime: 2022-04-28T14:28:00Z
+    webUrl: "https://enterprisetalk.com/news/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022/"
+    ampWebUrl: "https://enterprisetalk.com/news/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 41
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Quantum-to-Showcase-Video-Enrichment-and-Analytics-Solution-Using-CatDV-Software-with-NVIDIA-AI-at-NAB-2022-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Nviso delivers human behaviour AI for Panasonic’s companion robots"
     excerpt: "The Panasonic Companion Robot NICOBO will contain the Human Behavioural Analytics AI software solution developed by Swiss startup nViso. The two companies have signed a multi-year license agreement to deploy the technology."
     publishedDateTime: 2022-04-25T12:20:00Z

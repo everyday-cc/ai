@@ -24,20 +24,77 @@ images:
     isCached: true
 
 related:
-  - title: "Trades union chief warns on AI workplace changes"
-    excerpt: "The general secretary of the UK Trades Union Congress (TUC) has told the BBC that with the rise of Artificial Intelligence in the workplace, employment rights have to keep pace with big changes. \"So often we those see big decisions being taken by employment software that has discrimination written in."
-    publishedDateTime: 2022-04-28T11:48:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/business-61255405"
+  - title: "Digital.ai’s AI-powered devops platform offers predictive insights"
+    excerpt: "Digital.ai's new toolset lets IT managers use automation to connect agile development practices at the portfolio, team and individual levels."
+    publishedDateTime: 2022-04-28T14:42:00Z
+    webUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/"
+    ampWebUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354729632-1-e1651100896311.png?fit=800%2C450&strip=all"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Vic.ai debuts AI-powered tool to optimize costs for enterprises"
+    excerpt: "Accounting automation startup Vic.ai today announced a spend intelligence solution to help enterprises optimize their costs."
+    publishedDateTime: 2022-04-28T13:42:00Z
+    webUrl: "https://venturebeat.com/2022/04/28/vic-ai-debuts-ai-powered-tool-to-optimize-costs-for-enterprises/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Pentagon Names Chief Digital and Artificial Intelligence Officer"
+    excerpt: "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and Dropbox,"
+    publishedDateTime: 2022-04-25T20:20:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366078/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
     quality: 37
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1F44/production/_124340080_p0c3qnf1.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/04/25/042522pentagonNG/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
+  - title: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform"
+    excerpt: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform. Digital.ai today announced it has reimagined the future of software"
+    publishedDateTime: 2022-04-27T13:25:00Z
+    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/27/9590771.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+        isCached: true
+  - title: "Credo AI Announces World’s First Responsible AI Platform"
+    excerpt: "Credo AI has announced the availability of its Responsible AI platform, which is the first of its kind. The SaaS-product helps organizations leverage tools to standardize and scale their approach to Responsible AI."
+    publishedDateTime: 2022-04-26T18:31:00Z
+    webUrl: "https://www.unite.ai/credo-ai-announces-worlds-first-responsible-ai-platform/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 17
+  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
+    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, launched the Vian H+AITM Platform for reliable, optimized enterprise-wide deployment, management, and governance of machine learning (ML) models at scale."
+    publishedDateTime: 2022-04-26T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/04/26/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 14
 
 secured: "kq432Wqd5+182HQuBsoxffXTV29WmnbfVQJPTY8GYBpvy2m+uPIP7KDMk8MHlbJrv5jvmRbVrn/0E8DsFLScltO6QgmOw8yIf8EDi2WROsK9hrPfcD1CJq8uhLae7cGXRCJvoYiR/5H3ADVLRr1jotfpeYRee+bKeMs+uvqlgzz+m5R9yNqlyX3+/rhjC3zqvixWeDVqtaW2Fh/X3dE1XIf1ygTgCxhKXFrxcCvR6Fraw8cggEWr1DAvTLQDs2c+TR2gCNK6AQzUzdlpreA5NxOZTA3XQLmvjowKIGQoVHebyCtDBEoF7sDFgqHwpOu/ebuSD76N1mrZWn1rzBuTiVuB88EYAnCVYAjqjQsspeA=;nDWy5bQIJK2sOYTYNmq+DA=="
 ---

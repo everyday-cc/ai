@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 642
         isCached: true
+  - title: "AI Ethics Wrestling With The Inevitably Of AI Accidents, Which Looms Over Autonomous Self-Driving Cars Too"
+    excerpt: "AI accidents of all kinds are coming and we need to anticipate the impacts, along with trying to mitigate the adverse outcomes. Examples shown via autonomous self-driving cars."
+    publishedDateTime: 2022-04-28T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6255c7180f31c688bd22a946/0x0.jpg?format=jpg&crop=1910,1433,x148,y0,safe&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "UK's first self-driving bus to hit the road in next two weeks in major trials of AI tech"
     excerpt: "Stagecoach will perform live road testing on AI-powered self-driving buses in Scotland over the next two weeks - luckily there'll be regular bus drivers keeping an eye on things"
     publishedDateTime: 2022-04-25T14:30:00Z

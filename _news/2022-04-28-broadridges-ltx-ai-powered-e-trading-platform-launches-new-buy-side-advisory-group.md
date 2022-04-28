@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T12:29:00Z
 originalUrl: "https://next-generation-communications.tmcnet.com/news/2022/04/28/9591467.htm"
 webUrl: "https://next-generation-communications.tmcnet.com/news/2022/04/28/9591467.htm"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: TMCnet

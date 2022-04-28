@@ -18,22 +18,82 @@ topics:
   - AI
 
 related:
-  - title: "HPE Creates Its Own AI Stack For Large Enterprises"
-    excerpt: "While the hyperscalers have been running AI workloads against vast datasets in production for a decade and a half, many large enterprises have lots of"
-    publishedDateTime: 2022-04-27T15:00:00Z
-    webUrl: "https://www.nextplatform.com/2022/04/27/hpe-creates-its-own-ai-stack-for-large-enterprises/"
-    ampWebUrl: "https://www.nextplatform.com/2022/04/27/hpe-creates-its-own-ai-stack-for-large-enterprises/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/04/27/hpe-creates-its-own-ai-stack-for-large-enterprises/amp/"
+  - title: "Digital.ai’s AI-powered devops platform offers predictive insights"
+    excerpt: "Digital.ai's new toolset lets IT managers use automation to connect agile development practices at the portfolio, team and individual levels."
+    publishedDateTime: 2022-04-28T14:42:00Z
+    webUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/"
+    ampWebUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/hpe-logo.jpg"
-        width: 819
-        height: 511
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354729632-1-e1651100896311.png?fit=800%2C450&strip=all"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Vic.ai debuts AI-powered tool to optimize costs for enterprises"
+    excerpt: "Accounting automation startup Vic.ai today announced a spend intelligence solution to help enterprises optimize their costs."
+    publishedDateTime: 2022-04-28T13:42:00Z
+    webUrl: "https://venturebeat.com/2022/04/28/vic-ai-debuts-ai-powered-tool-to-optimize-costs-for-enterprises/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Pentagon Names Chief Digital and Artificial Intelligence Officer"
+    excerpt: "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and Dropbox,"
+    publishedDateTime: 2022-04-25T20:20:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366078/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/04/25/042522pentagonNG/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Workshop on Artificial Intelligence"
+    excerpt: "Amritsar: The CSE/IT Department of Global Group of Institutes organised a workshop on Artificial Intelligence and Machine Learning. The workshop was conducted by Anshu Aneja, Director of Ansh Infotech and Kriti Bhatia - AI and ML expert."
+    publishedDateTime: 2022-04-28T01:46:00Z
+    webUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-intelligence-390029"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_181704252.JPEG"
+        width: 1200
+        height: 1495
+        isCached: true
+  - title: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform"
+    excerpt: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform. Digital.ai today announced it has reimagined the future of software"
+    publishedDateTime: 2022-04-27T13:25:00Z
+    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/27/9590771.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
+        width: 252
+        height: 335
+        isCached: true
+  - title: "Credo AI Announces World’s First Responsible AI Platform"
+    excerpt: "Credo AI has announced the availability of its Responsible AI platform, which is the first of its kind. The SaaS-product helps organizations leverage tools to standardize and scale their approach to Responsible AI."
+    publishedDateTime: 2022-04-26T18:31:00Z
+    webUrl: "https://www.unite.ai/credo-ai-announces-worlds-first-responsible-ai-platform/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 17
 
 secured: "snOYc56FhLR4qKN2fqcJyQwzUPzIHUGr1s60jItDCB96dU+aFRtlQskLvGWueLSGXlmCP2Ly/Inwdvjs9ez5GQCezUPFWiFdkAXBblV87K5eA0u3TRuzIEQE0YsCqQ7kNT0ld2msn2sscCxTuvj86iNlf7xue1JqcsoOoFdqA5odZjrBwG6CohYklnY+VnuQcdelXnzGi4/T6P/tijVNWzD3UB2zI4Cy5Ryo8kli7eF+sZOJyYJAPYt6cERKcNvqWOwUEdRN7l6OjZ2u0l0qRBjKngFuazOMEiAHsBNTSzBRoUzQjHqFDwopHGlLIeeaSf/GQyrTU/eHdQvS5OQe7/W3tggACBpmwBw2C1dFs2Clz5N3si+vvIGwSN4iFXU6mKGHbXRaAlYmjUyjhnx0xMe256gvyYMwRfFBMDQbSaqgtWTeUJTUzQGW0qwo/JI0E8L3/ZQlh5JcWoAvn9Vgp72v1609kLbtyZ4Sv3wLfxK+1MGSGoqmQjtD7C3R3QW+mCfEAKjlq6Og1bmL6tDrpQ==;Sy0Rg5XnbjW8gZSHuD13Lg=="
 ---

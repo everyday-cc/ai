@@ -6,15 +6,72 @@ publishedDateTime: 2022-04-28T12:10:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-untether-ai-general-motors-develop-next-generation-autonomous-/2022/04/28/9591621.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-untether-ai-general-motors-develop-next-generation-autonomous-/2022/04/28/9591621.htm"
 type: article
+quality: 7
+heat: -1
+published: false
 
 provider:
   name: TMCnet
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
-secured: "gFY6UTgkMUikddqVgejvqBXJlkUiYKyxchgwd1EVzps9CImP6+/pv3ONSqFl349azvpJpRKYs3eBCzqy2hE4kPGYcmgXZ2qAoNCOqMbowp/CmPcGns9BO9yglvCDKl1yPfMrn6rz9XY8HWY+Id6SGxVMYsek/C7NKaK7WnLW/2Gr9YFHXVkH+qJ3ZDOXaljJC+n/V+UHKk8xyvmkVKtmlgzgGI0hE9MvOx4r2EqazM3f95+JDNvTe/QB8eA73WoN3doYkl3b4KI89A2zmmAx87Cj/+zDO3odNgpcx/n32apKoEWna5JlF+LCqQS2j1dtL7qLYwKKy8pjjHuDaCjmhFrPZGtrmrRejT7+ShkYd9k=;ZS7mkznJNDSWFotSEAVV8Q=="
+related:
+  - title: "HPE and Salesforce unveil AI and automation tools for developers"
+    excerpt: "HPE has launched its Swarm Learning and Machine Learning Development System whilst Salesforce announced further integration with Slack, Tableau, and Mulesoft."
+    publishedDateTime: 2022-04-28T06:06:00Z
+    webUrl: "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "Salesloft unveils new AI-powered sales tool for more accurate forecasting"
+    excerpt: "Forecast, a new feature of the Salesloft platform, is designed to help forecast sales more accurately and take action to close deals, all from the same platform."
+    publishedDateTime: 2022-04-25T13:22:00Z
+    webUrl: "https://venturebeat.com/2022/04/25/salesloft-unveils-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+  - title: "Untether, GM partner to develop AI perception systems for autonomous vehicles"
+    excerpt: "Untether AI, which describes itself as “the leader in at-memory computation for artificial intelligence inference acceleration,” has teamed up with General Motors to develop AI perception systems for autonomous vehicles."
+    publishedDateTime: 2022-04-28T14:42:00Z
+    webUrl: "https://www.autoremarketing.com/arcanada/untether-gm-partner-develop-ai-perception-systems-autonomous-vehicles"
+    type: article
+    provider:
+      name: Auto Remarketing
+      domain: autoremarketing.com
+    quality: 36
+    images:
+      - url: "https://www.autoremarketing.com/sites/default/files/styles/story_page_main_image/public/Untitled_86.png?itok=wGIdPP3R"
+        width: 878
+        height: 495
+        isCached: true
+  - title: "Salesloft Launches New AI-Powered Sales Tool For More Accurate Forecasting"
+    excerpt: "Sales engagement software vendor Salesloft has announced a new feature for its Forecast by Salesloft platform, dubbed the \"Modern evenue"
+    publishedDateTime: 2022-04-26T13:52:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/salesloft-launches-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 32
+  - title: "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites"
+    excerpt: "HPE Swarm Learning, which was developed by Hewlett Packard Labs, HPE’s R&D organization, is the industry’s first privacy-preserving, decentralized machine learning framework for the edge or distributed sites."
+    publishedDateTime: 2022-04-27T12:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-27-hewlett-packard-enterprise-ushers-in-next-era-in-ai-innovation-with-swarm-learning-solution-built-for-the-edge-and-distributed-sites"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+
+secured: "pIsIPVemPrT/mnN6Gt3PpcCyQelaf9oUvWD9HjajE9VOyphGJya5hOSiKlVmfQMi8LQFy3cpPivLGfa5ePos+w0QSwijT4O+WQE8KBZr3e8JfCqrbld7Vsg++H7wDVbrpDwsNAPo2FnwMpNfRhvSlhXheR/FUpW5MHqHOSf8700gIghCiJh9q/mn8q0fXiM08nTqfveEyI5j5gEZoRoU8jas0gC07N/ch6YToJz6x4bUvJM/xBjvS1t0W4g4y0V/8fsl3+qHWjbuq4Y8YVg3mSDpFFe3vwDbs8SRGgYoCQ1BlEhplBy+/QjgkuM++lR0hAiUVerdV9tApw65/yLtqjogMsnmYsEpIykCAiZdfM4=;N+P4DgLnGOJcZCRwO/Wc+A=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-27T20:57:00Z
 originalUrl: "https://www.scmagazine.com/editorial/analysis/managed-services/financial-companies-rely-on-security-msps-to-face-mounting-regulations"
 webUrl: "https://www.scmagazine.com/editorial/analysis/managed-services/financial-companies-rely-on-security-msps-to-face-mounting-regulations"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: SC Media

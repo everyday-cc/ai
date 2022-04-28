@@ -7,8 +7,8 @@ originalUrl: "https://www.israel21c.org/amazon-invests-in-israeli-robotics-firm-
 webUrl: "https://www.israel21c.org/amazon-invests-in-israeli-robotics-firm-bionichive/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Israel21c
@@ -34,6 +34,15 @@ related:
       name: Multichannel Merchant
       domain: multichannelmerchant.com
     quality: 34
+  - title: "How Artificial Intelligence Is Transforming Israeli Intelligence Collection"
+    excerpt: "Intelligence is a profession as old as time, but new advances in artificial intelligence and machine learning are changing it like never before."
+    publishedDateTime: 2022-04-28T13:00:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/how-artificial-intelligence"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 17
 
 secured: "vJ49DDq3O7BeQ7M9WmfX3r8eW9ieVrhOeCacZL8VtQjYubFhB9QmZitfy9mI1qLHRxCHIcKL8lriMVe8hGuWnflBanGu1cYLn0152qdJlvJUBg+Dg1h2qV3KLR8jhOyUOxCsaGQjSvae8QCB8nb273FzgFCIRnT9DrUloLpwn1XzWvLrOlOevxFigiU9G+NSl8bCe+Os2Cei9RtyTjUX5FH2V6ku7g8Vx6XkIGX8mTORlTJ6hHhkFkNWe2UnNYv0uv/KDUYJuXLSHDPQURWrj3nV+V2NZEyyMAu5cgL6QHZV/1lnM5G6MgR4u9/lycEKop4JqcLTHejvjPmY4OWQ+12Uv7pTQIR45/3BN6PS7D4WA6h/0eB7eJUFz9ZWvKLPkOnDsRJ8uTy3WdZXfSFDhkoHUIq4tdfd/ixeWRPD1A/WhhHzl1M7tAnaKoNa+Pjg6G8daHt9lgnPKL3D7DqcwwmkhZ0Cj10VK+BH7XyRBCAZvf++Ki6jMDOhA63etMq714QIb7o2Rykx8md3sc4ICw==;8/+UV8Siv53lo9ki3Xp2Dw=="
 ---

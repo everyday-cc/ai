@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI Week brings together the world AI community"
-excerpt: "The jam-packed week also includes panels on AI career paths for kids, AI for competitive advantage and the ethics of AI; a career and talent mixer connecting AI career seekers with top companies ..."
-publishedDateTime: 2022-04-14T19:28:00Z
-originalUrl: "https://fox8.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
-webUrl: "https://fox8.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
+excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
+publishedDateTime: 2022-04-14T20:00:00Z
+originalUrl: "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
+webUrl: "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
 type: article
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: WFLA
+  domain: wfla.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
+  - url: "https://i0.wp.com/www.wfla.com/wp-content/uploads/sites/71/2022/04/Truck-explosion.jpg?w=2000&#038;ssl=1"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "4eKxccXaKtBP+1kVwxA7blD90+8vzURatX1UY0L09NFoPj9NN8qTfIYeurrTUze6aF7B+MYXhpctnfjwU1o7WcminVMyW5jHB2h7qye8Y/s3HQLyvOON+u+B9/AK8zE7DS9g69ZVemVnU1zR0rMHxsriblPPf4Dtw1DxiZ6nmHvhgtbfq/jqZ/+F4Gy+2MgxdXQdXkLQewTQjdWyMFxAvr/VbbGeDUMhuPNnXf37n31ja/AkJR2tkire81FrkQ7kDM23m3h7sxMLFxXi6kP4Y/RBDYl9jxvD8RJHHR5HsiPvsh+ftrtVzEiX2GRi+yx4fR+FIjeXQ7aUalvnceFHxpyevP2n1fUmeEq9uS1BByo=;9ln+CUR4AYwueGKT2iXocQ=="
+secured: "8Hm7Z0MPxIbshWy3JPDbqLtClwryu0CXlVUvYO7OcakICKI3dY4+dPskeYX00BY7vy/iO+8AscuvLGTMH1iGrjeFePWQy8/I/9luAxYPxv91sdFenQ32ODhpeP13/75J6VxeZlN2iZOxwFYltRjSArVJlZvzjo6ByAa/PTqTwhYl5mau693dg13BVVFMq3IsrSMMWcSTj4JeXaujXNLNalhNhFJUSJqLl6KD8oWHsEhMEqniUt/rRTNbSDYDJLaW4CoXpCCz5HQ0V4mHVNVseKDyQgjJCF6cVoEFOvndQZPp57n09W6yDqUi0LhESRurfP1yIqyTYZVcPeGvH9uspw/VXaVwlstAPTUD40Cku+8=;eKLnb8kjm9UbWwO2T13N4A=="
 ---
 

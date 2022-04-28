@@ -39,6 +39,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 63
+  - title: "Untether, GM partner to develop AI perception systems for autonomous vehicles"
+    excerpt: "Untether AI, which describes itself as “the leader in at-memory computation for artificial intelligence inference acceleration,” has teamed up with General Motors to develop AI perception systems for autonomous vehicles."
+    publishedDateTime: 2022-04-28T14:42:00Z
+    webUrl: "https://www.autoremarketing.com/arcanada/untether-gm-partner-develop-ai-perception-systems-autonomous-vehicles"
+    type: article
+    provider:
+      name: Auto Remarketing
+      domain: autoremarketing.com
+    quality: 36
+    images:
+      - url: "https://www.autoremarketing.com/sites/default/files/styles/story_page_main_image/public/Untitled_86.png?itok=wGIdPP3R"
+        width: 878
+        height: 495
+        isCached: true
   - title: "Salesloft Launches New AI-Powered Sales Tool For More Accurate Forecasting"
     excerpt: "Sales engagement software vendor Salesloft has announced a new feature for its Forecast by Salesloft platform, dubbed the \"Modern evenue"
     publishedDateTime: 2022-04-26T13:52:00Z
@@ -48,6 +62,15 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 32
+  - title: "Untether AI and General Motors to Develop Next-Generation Autonomous Vehicle Perception Systems"
+    excerpt: "Untether AI TM, the leader in at-memory computation for artificial intelligence (AI) inference acceleration, today announced a collaboration with General Motors, supported by the Government of Ontario through the Ontario Vehicle Innovation Network (OVIN),"
+    publishedDateTime: 2022-04-28T12:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-untether-ai-general-motors-develop-next-generation-autonomous-/2022/04/28/9591621.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "+jDSA7Kw7JoadxqneJSDhtUr/9fJrzQ2C4/M7op0fIVypOEVsvbEl53bcaluzOXPH8uuxzeFgQAKUOirlzvg6QoYxytSrpNUcU1QPWo6+JHmcnyWk/z4UEZbKBh8m9HNNQeVoYQZpzCKpL9yL8LD+pH2JexkepyWrwZmef8kvqeyjk2pnYjkFfmt2iiqOUDasiyHV/HIDwxw/0eh97d7Z2FJifCNmNUnFJZuqi/ge8sJcGrthiJS5UqxnsMQN+ugbiWcvmKMo9wB9m469eq7RXnMXNY4yPjPnZdgu36CF65bSZaRZtcu7tAeE7c6vRZCQ+VpXmlnrljS7517xIODM0vxGqfyE+tYwn6tqJDuHLM=;aZjFSH77mV0n2NM+bALMVQ=="
 ---

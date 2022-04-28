@@ -34,6 +34,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Untether, GM partner to develop AI perception systems for autonomous vehicles"
+    excerpt: "Untether AI, which describes itself as “the leader in at-memory computation for artificial intelligence inference acceleration,” has teamed up with General Motors to develop AI perception systems for autonomous vehicles."
+    publishedDateTime: 2022-04-28T14:42:00Z
+    webUrl: "https://www.autoremarketing.com/arcanada/untether-gm-partner-develop-ai-perception-systems-autonomous-vehicles"
+    type: article
+    provider:
+      name: Auto Remarketing
+      domain: autoremarketing.com
+    quality: 36
+    images:
+      - url: "https://www.autoremarketing.com/sites/default/files/styles/story_page_main_image/public/Untitled_86.png?itok=wGIdPP3R"
+        width: 878
+        height: 495
+        isCached: true
   - title: "Salesloft Launches New AI-Powered Sales Tool For More Accurate Forecasting"
     excerpt: "Sales engagement software vendor Salesloft has announced a new feature for its Forecast by Salesloft platform, dubbed the \"Modern evenue"
     publishedDateTime: 2022-04-26T13:52:00Z
@@ -43,6 +57,15 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 32
+  - title: "Untether AI and General Motors to Develop Next-Generation Autonomous Vehicle Perception Systems"
+    excerpt: "Untether AI TM, the leader in at-memory computation for artificial intelligence (AI) inference acceleration, today announced a collaboration with General Motors, supported by the Government of Ontario through the Ontario Vehicle Innovation Network (OVIN),"
+    publishedDateTime: 2022-04-28T12:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-untether-ai-general-motors-develop-next-generation-autonomous-/2022/04/28/9591621.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
   - title: "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites"
     excerpt: "HPE Swarm Learning, which was developed by Hewlett Packard Labs, HPE’s R&D organization, is the industry’s first privacy-preserving, decentralized machine learning framework for the edge or distributed sites."
     publishedDateTime: 2022-04-27T12:00:00Z

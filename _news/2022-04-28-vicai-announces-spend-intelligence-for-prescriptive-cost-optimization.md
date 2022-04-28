@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T12:32:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-8bbf3842fe2aa578bcfbc38f3a7f3f7e"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-8bbf3842fe2aa578bcfbc38f3a7f3f7e"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Associated Press
