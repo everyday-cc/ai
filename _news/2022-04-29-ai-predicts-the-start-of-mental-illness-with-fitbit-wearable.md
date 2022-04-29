@@ -2,11 +2,11 @@
 category: news
 title: "AI Predicts the Start of Mental Illness with Fitbit Wearable"
 excerpt: "A new mental health study published in Frontiers in Digital Health used artificial intelligence (AI) machine learning with biometric data from wearables and medical exams to predict the onset of mental illness. According to Gallup, in the decade prior to ..."
-publishedDateTime: 2022-04-28T23:13:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-predicts-the-start-mental-illness-fitbit-wearable"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-predicts-the-start-mental-illness-fitbit-wearable"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-predicts-the-start-mental-illness-fitbit-wearable?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-predicts-the-start-mental-illness-fitbit-wearable?amp"
+publishedDateTime: 2022-04-28T23:32:00Z
+originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-predicts-the-start-mental-illness-fitbit-wearable"
+webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-predicts-the-start-mental-illness-fitbit-wearable"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202204/ai-predicts-the-start-mental-illness-fitbit-wearable?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202204/ai-predicts-the-start-mental-illness-fitbit-wearable?amp"
 type: article
 quality: 57
 heat: 57
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "1PuHygSGdOyn3Fx2HZV+jiyhACTUen84CCenTYFseOUZp7eY0D7TcVA20RY1ZRRP7X7D7Jc6IQxa97xW9rvQSaygkHys2QxtLHJm30YhWQQKrWQtizdQ9XAXRSa0P1T7j3mVsve4Shdx721jlTL7gtCWF1rr5TX7qgSevhqQbq5H5yNBvB5hzzPEY4MZafOe0yemrPHfQMbTxPx32c7n36XcUAmuhV8tsbJwy2fl5odwrb3mEaSCj4O3l7aFpk5uqDe1b9NMpdakEq1dDvV0+aA8Uy27nySVOTafjlScE9RDU72eooujomjXI9eF4hyKsIqny9tBa6ntU7aM7pAPHT79JzvOZSbHm47qcMsyQ1o=;fuQ8vmRfwQ07IcQc7hYFkw=="
+secured: "Dnx+2ARYL+4URYVdtsWyh48f0qAUaxa9znJ42QW70hi3IRgOV8CWf1tRXPGnoXTDRxgf9TBeoS2dHTJefs7OxaLDG6eNBc3HNHPDiY2pN3aiXcfbMF1wT9/eT9n3gcxb+O38DSMFdbGI3r1RKfsD5EzMJ/tan+ZP4LHBn7yKCpXNya9qcZ6KqUFQNruXnQ6Ox7bwcrYMAVFk1h3oadUPw8e0kLaIRinmunHCA2/GB4doTCFcjUAL088pY3m0bVMIsRFWizGxKBh6OEwGr3un+LZ0s4AwsAnjUWmj8vlCbbPYisPr+Y7DEw98cADhVY587x8siI1DxQv9D41sv84u27lKnWM7URBZfl7sGdZVLkk=;hroKB/O6Lg6OMcm+PdKBww=="
 ---
 

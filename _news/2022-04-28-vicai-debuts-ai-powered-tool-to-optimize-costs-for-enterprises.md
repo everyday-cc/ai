@@ -38,17 +38,17 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Pentagon Names Chief Digital and Artificial Intelligence Officer"
-    excerpt: "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and Dropbox,"
-    publishedDateTime: 2022-04-25T20:20:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366078/"
+  - title: "Pentagon names chief digital and artificial intelligence officer"
+    excerpt: "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and ..."
+    publishedDateTime: 2022-04-26T13:32:00Z
+    webUrl: "https://defensesystems.com/ai-analytics/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366102/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: Defense Systems
+      domain: defensesystems.com
     quality: 37
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/04/25/042522pentagonNG/open-graph.jpg"
+      - url: "https://cdn.defensesystems.com/media/img/cd/2022/04/26/042522pentagonNG/open-graph.jpg"
         width: 400
         height: 400
         isCached: true

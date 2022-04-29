@@ -2,6 +2,49 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-03-11-how-to-spot-fake-russian-social-media-accounts-and-posts.md",
+      "title": "How to spot fake Russian social media accounts and posts",
+      "excerpt": "Not many people take the time to research before ... according to Facebook. He’s an invention of a Russian troll farm targeting Ukraine. His face was made by AI.” If you look closely at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/columnist/komando/2022/03/10/ukraine-war-how-spot-fake-russian-social-media-accounts-and-posts/9444791002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/columnist/komando/2022/03/10/ukraine-war-how-spot-fake-russian-social-media-accounts-and-posts/9444791002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/02/26/USAT/d9bb4b32-178d-469f-ab5e-54f1b45e8950-protests_1.jpg?auto=webp&crop=6999,3937,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T17:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-c3ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-telecom-conference.md",
       "title": "C3.ai's (AI) CEO Tom Siebel on Morgan Stanley Technology, Media & Telecom Conference",
       "excerpt": "I’m super thrilled to have Tom Siebel, CEO of C3.ai, looking forward to having a conversation ... So the alternative to us early on would have been IBM Watson, which is now, I think, shut ...",
@@ -1107,58 +1150,6 @@
         "AI",
         "Machine Learning",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-ethics-of-artificial-intelligence-on-the-top-another-take-on-the-draft-artificial-intelligence-regulation-significant-changes.md",
-      "title": "Ethics of Artificial Intelligence on the top. Another take on the draft artificial intelligence regulation. Significant changes",
-      "excerpt": "A few days ago the internal committee of the European Parliament has published its new proposal for amendments to the Artificial Intelligence Act. The proposal is still pending as it has to be approved for further steps,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ethics-artificial-intelligence-top-another-take-draft-regulation-",
-      "originalUrl": "https://www.linkedin.com/pulse/ethics-artificial-intelligence-top-another-take-draft-regulation-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHlQdpetP4wXg/article-cover_image-shrink_720_1280/0/1646908244234?e=1653523200&v=beta&t=xCzuaapOWJ_g4qnrkqOYqOEWBKXHch1VVx32Mp4GalE",
-          "width": 1083,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T02:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

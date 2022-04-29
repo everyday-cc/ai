@@ -1,21 +1,29 @@
 ---
 category: news
 title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to ..."
-publishedDateTime: 2022-04-29T03:44:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ..."
+publishedDateTime: 2022-04-29T03:27:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26889082/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26889082/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit"
+ampWebUrl: "https://www.benzinga.com/amp/content/26889082"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26889082"
 type: article
-quality: 15
-heat: -1
-published: false
+quality: 55
+heat: 85
+published: true
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
@@ -61,6 +69,6 @@ related:
         height: 225
         isCached: true
 
-secured: "Cdm7oycd+yQo/jbIUlTwibNFavQggp2l5+fgxz05q5vSdfnN4lhJFPmnr/0Sf7pGq0fExoTysNWQtpl/Q5/1J61DfdehnnJXaM7KOwZpFVDcOL+H6TW/QNeHOezN62UJN6mBMcoDfKWkyPt6IinaOCT0gunLOrT2UsVkTh4r7qInm4XAS1KobRYGsFUXE24l32lXUApl0CpAjtfSbQI86Ctsah7p+0CBWoWwztKd7ls+7hByczaJS0PjyA62DEMdCEwBkrG/um51XKCZyI6jk6i5ME4CFb5g9YUDQk2VvniO5mUfzUdV7oFAjjBo453N816Gwq6YiB8OrOsVrg7oO5fCIv2Q0aYE0HX0xuUM5Xw=;6r//6UiQxGQAZCRbNUkXSA=="
+secured: "WcfAGRc9qmpnDCfg2MTojek6qLZKiLY6MNB73K2feS13Fc4tPelOFPKUd0i52BG3QEguXXVaHwykKjbpQpClbBmyJn67eDnbiXPCK5T9iQxK5qpkHoavQDpGwQsxfrZAPg5XXYqgeo6E0ODmXCr2Ans4OAyClPrhuMwO7BkE6Twrk+FXzWq2oZMoutrHp0Smmc1yATFExXpDR8abm5JZsyasyywWauD1JZ0bqhWng/Uda/kFQieYxhagfU+6KaaWpgCDKk0irIP8bzkMAwDY6zYgaGSrMNm1J/rQXqzMpBZ8pm6/3ljrv5wxqCgt2rAMeNvBUVEU5nwpN+Jd/HxYRlt4toHIIet5fHr0A/PXtBw=;5zdBqPR5j/nGLe3hXAeh2w=="
 ---
 

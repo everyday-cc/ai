@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-26-bitcoin-up-reviews-fake-or-safe-trading-robot.md",
+      "title": "Bitcoin Up Reviews: Fake or Safe Trading Robot?",
+      "excerpt": "Nowadays, crypto trading is gaining popularity. This also implies that the market is saturated with trading platforms. It is critical to choose a platform that is safe, accurate and provides a secure method of profiting from trading in an unpredictable market.",
+      "sourceUrl": null,
+      "webUrl": "https://nl.mashable.com/tech-2/7222/bitcoin-up-reviews-fake-or-safe-trading-robot",
+      "originalUrl": "https://nl.mashable.com/tech-2/7222/bitcoin-up-reviews-fake-or-safe-trading-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_nl/photo/default/bitcoin-up-reviews-fake-or-safe-trading-robot-mashable_pxrx.620.jpg",
+          "width": 619,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nl.mashable.com/tech-2/7222/bitcoin-up-reviews-fake-or-safe-trading-robot?amp=1",
+      "cdnAmpWebUrl": "https://nl-mashable-com.cdn.ampproject.org/c/s/nl.mashable.com/tech-2/7222/bitcoin-up-reviews-fake-or-safe-trading-robot?amp=1",
+      "publishedDateTime": "2022-04-26T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-what-happens-when-ai-and-ml-turn-rogue-data-poisoning.md",
       "title": "What happens when AI and ML turn rogue? Data poisoning",
       "excerpt": "Data poisoning is an attack method where hackers launch the attack through AI and ML. The rise of AI and ML is leading directly to the increasing threat",
@@ -561,7 +604,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1109,58 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-24-leave-space-exploration-to-the-robots-says-new-book.md",
-      "title": "Leave Space Exploration To The Robots, Says New Book",
-      "excerpt": "Compelling new book argues that we really need to forget about astronauts and instead renew our focus on robotics for the continued exploration of space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
-      "originalUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6264f17889d41edd0830febc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
-      "publishedDateTime": "2022-04-23T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

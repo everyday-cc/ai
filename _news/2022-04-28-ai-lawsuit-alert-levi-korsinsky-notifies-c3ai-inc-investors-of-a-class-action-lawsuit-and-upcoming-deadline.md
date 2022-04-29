@@ -25,6 +25,22 @@ images:
 
 related:
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+    excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ..."
+    publishedDateTime: 2022-04-29T03:27:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26889082/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26889082"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26889082"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
     excerpt: "The complaint filed alleges that, throughout the Class Period, Defendants failed to disclose to investors that: (1) C3.ai's partnership with Baker Hughes was deteriorating; (2) C3.ai was ..."
     publishedDateTime: 2022-04-26T15:50:00Z
     webUrl: "https://fox8.com/business/press-releases/cision/20220426LA35954/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
@@ -52,15 +68,6 @@ related:
         width: 600
         height: 207
         isCached: true
-  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-    excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to ..."
-    publishedDateTime: 2022-04-29T03:44:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 15
 
 secured: "MVOEgtwVhDFfUm37sp8PgS/Z+NJLF97FjMPrUoDiVxHjfLO+Hwyuup1le+UPyMoPTOqW0FZsAmQFyQCDIWaV9UpPTC+mxatX84J0GEGunF0l6qg3M5cF1wylrSmp3EgFEKtkj3tAw7JmxZdhdwhuVlftZuHs2YVV7QwNBsMDJjH+DRVG0msTIf9jOWd3Nu1zWxGKFhgG8h8ZRkikJQmCC7PhqHg46ZZVifs5EoBrnOonKpLyC27lwr1QTYHrq2TEzpVQlBoo7I6hjU3BYodEoQXl3g64W/IMiHa8QPscabmpZlrWzeIO9xEvCBiquiGWJ6xFUy+/eaFkbS4DxrXnrU8Hdq0C9Hm9VCuOWPDhimA=;uvHk++nzo8JW7sbdnGapNg=="
 ---

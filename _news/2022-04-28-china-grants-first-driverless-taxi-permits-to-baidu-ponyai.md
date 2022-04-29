@@ -15,8 +15,8 @@ provider:
   domain: abcnews.go.com
 
 topics:
-  - AI in Autos
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
@@ -345,6 +345,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fTuUVp8hqxkHhLmhKj8EJK+ptf805SMrGCjFyI4czIWPM4KT26tqhmGuZAOaInAH/SWoKgZ2eck0eSPfmWImRfs1NPnOnozVNsNsiyw40V6wvS0gRRPajHTkLViTZDu7bIwfRxqoWhzpcOf+ePuHLPs5ufBcd1cQ9onKQ+XX1rQCXXs5AGTFlE5D1ShCZDf4ZwLkBA91qyj7QT6DE82yr1bFk1cdCitYnEgJJDDxOQqGjaON+8WWWCZUsFFPpQSEKmIjl/ni6CThHDAKZFRHWCg/VGM1WGUyMcceVt/ZdCY2wDbwhcToxyHplD0FrvHL+gXRAW/Vu8l+1OYZQWJHjPvs4j8gbVrpBV5Nv5V6bco=;3michcEBpt4AuxBozl/HYw=="
+secured: "LidiHBZoHP7wsQcqcWw5pMSm7zQ1sLzxOd29tnDx2wDnOHfP3S5XT0JaEKIQEoUJ7qvkVfEQ1ufyGTet25vraV+NlD1AT+BZ0TtheavJCGIZM1jNejARM4U8bp9eNNerX/7Ooc896BZvZ/SoCQ3Y+5XVjMhka3FU8oO6pJJgPQzVt5zQRuZSBovg4hHZkm38ld+Hjwpz177Q8M9FNVYlbZRIW08d1fC7Q08F3J5HVCqNLc9ORD07gX4Ok/8H0G4hHSCdeLwZ4aTqmSIpQQZU+e6CyuX7wI9MHj7EQXgHU9o7kR9msze4hK0UrjX3j8i/I4e5k4K/5pRIwpw32d8vkdDGCwuRg/gn2z2i+lqm4iA=;ZNN7u1gwHwLu/I+MRTQuwA=="
 ---
 

@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Pentagon Names Chief Digital and Artificial Intelligence Officer"
-excerpt: "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and Dropbox,"
-publishedDateTime: 2022-04-25T20:20:00Z
-originalUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366078/"
-webUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366078/"
+title: "Pentagon names chief digital and artificial intelligence officer"
+excerpt: "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and ..."
+publishedDateTime: 2022-04-26T13:32:00Z
+originalUrl: "https://defensesystems.com/ai-analytics/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366102/"
+webUrl: "https://defensesystems.com/ai-analytics/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366102/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Nextgov
-  domain: nextgov.com
+  name: Defense Systems
+  domain: defensesystems.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.nextgov.com/media/img/cd/2022/04/25/042522pentagonNG/open-graph.jpg"
+  - url: "https://cdn.defensesystems.com/media/img/cd/2022/04/26/042522pentagonNG/open-graph.jpg"
     width: 400
     height: 400
     isCached: true
@@ -96,6 +96,6 @@ related:
       domain: insidebigdata.com
     quality: 14
 
-secured: "W5Sf2ewXzrW2TLN9lllnqiYc60F60XyywUCfoo3rEQY/rS8rma5eD7XafUG7SdR472LlxLZEntgq0nWMHdJlJCwWif5pAkcv5IGrbEirhAAZoPyX7aqg32nxU0iQBIOnGkrtu+pwf+ZOqwHUdaZ6aM+s/Xl4n1O18kiEF1vDRtJ1RUQ08Ych/Ttb9txlJPhDLdFKPJUqMTltyIMVkd81qJLrcCDyvXGGP6X0tjKm3LUoPf/YhVQUOMdojRLX/0/EacYEJt/luXcBZpPGYHSWEGg3DFigsWa1W7sL3KvHqz8/sd/V/h4T/RwvQBxPBAEqdDFN3WLW2zeU54UC2R+FK6Z9XGNo+Gpz9778qR95xHv9Jf0FNMrcSV4p7iTcow3Mk4irVup2xruNkVCu8kMB+IS9NMIc5daHjM/s2HMg7BmbwVfVC+YZgr5XGjDppflCCf+0jZm/3dzUK5R3UxVN1eJb6vr9hXfb9e9UCNo36OvMzCQJ1Fln3xoVd9Mlz6YSmqlCPceXjZkb4oCzqWioDA==;izkkLDjjDJFeVlsSn+D8uQ=="
+secured: "0DPb0Psu7heVM5fk/ZSmoA73lFpk6kBbKlhur33iOf9U0rOrS6Wa8vKF5q+KszgRta1xjWKBzrg+Cgh5rAVfBFekBcH1bWUCibwPGwA8hxGhIyqqFU4NFS/D9nB8JlcWxOuWgD9ASwoOR4SJrQnB5vJJLNX4aOmYKT+NNPCRD6c6HyzoZ6ZvuYKBLusFRky2MXh11s2/cfGMev+jacD+iNpltsS6dbHFw/q07UOIkIrUfmFg+5bwAgFxhO0TKloqeCMgdjaW092Lth1/Q17Egtn7UoioKp7sY2yjrLGWKkT8ZjGwrmzFhg6sSJT7rKaEnojWF0sud5O65gP6/CR5hyRe3VpQVkyLuyIVQfgxj1k=;KJ1Z66XQ0A2sltoJaTnKPQ=="
 ---
 

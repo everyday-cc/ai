@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-18-computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031.md",
+      "title": "Computer Vision Market Size, Share, Trends 2022 Competitive Dynamics, COVID Impact, Segmentation and Key Players Strategies by 2031",
+      "excerpt": "Apr 18, 2022 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till 2030. Report further now discusses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031-2022-04-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031-2022-04-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-recruitment-platform-expertia-ai-raises-12-million-in-seed-funding.md",
       "title": "Recruitment Platform Expertia AI Raises $1.2 Million In Seed Funding",
       "excerpt": "Virtual recruitment platform Expertia AI has raised $1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini. The funds will be used for assembling a team ...",
@@ -1113,59 +1165,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect.md",
-      "title": "Build a virtual credit approval agent with Amazon Lex, Amazon Textract, and Amazon Connect",
-      "excerpt": "Banking and financial institutions review thousands of credit applications per week. The credit approval process requires financial organizations to invest time and resources in reviewing documents like W2s, bank statements, and utility bills. The overall experience can be costly for the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/15/ML-7548-image013.jpg",
-          "width": 1459,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T10:48:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

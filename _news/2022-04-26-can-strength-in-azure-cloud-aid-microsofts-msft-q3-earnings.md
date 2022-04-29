@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-micr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp"
 type: article
 quality: 99
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "Report names top Aussie Microsoft partners"
+    excerpt: "Telstra was listed as a leader in managed services for Azure, Microsoft 365 and Power Platform services ... not just cloud that local organisations are looking into, but also machine learning and artificial intelligence (AI) couple with a demand for ..."
+    publishedDateTime: 2022-04-29T06:07:00Z
+    webUrl: "https://www.arnnet.com.au/article/697668/report-names-top-aussie-microsoft-partners/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
+        width: 473
+        height: 315
         isCached: true
 
 secured: "LVQoxQvhTJP/Irk0SrtF+lI2YkYM3cqrshJ56+fqMCxxfyflR9EQa5iy0cXNIu+kAQ5DoOHUwyn29qeECklM3G/2aA5zGqlWn/maKWTjx6SpLyRXrTjNJGhMNnpvYsEQ9zXqDcFYYdLJQLXOPoheDrUrBCpUiYfqYtMVDHsbSOYA7J+rDw/cAFGhbA3U8C9/yNatA7iIZeK5yIy0bMHt7RxH/yDE6sAx40xuC7VdGut2UUWsrqAlxoVDlfaHpr2QAPq/iA8WciPoSr4I9oiw/3P0jo6MNkFEArcuzcjsS0FRaF24rYdPs1nL3F24Ul+0GgHdZTNBSsjFOQzdk7PPZlKI0dJVmHo/SirXSCFvl40=;eD28raGc/4e7ZFhgXMVtGg=="

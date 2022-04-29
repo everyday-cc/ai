@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Report names top Aussie Microsoft partners"
+    excerpt: "Telstra was listed as a leader in managed services for Azure, Microsoft 365 and Power Platform services ... not just cloud that local organisations are looking into, but also machine learning and artificial intelligence (AI) couple with a demand for ..."
+    publishedDateTime: 2022-04-29T06:07:00Z
+    webUrl: "https://www.arnnet.com.au/article/697668/report-names-top-aussie-microsoft-partners/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
+        width: 473
+        height: 315
+        isCached: true
 
 secured: "rTKdGc2+zHdp48jXLOXIsLD+wSzaoSiB6AmZuiDS4f0g4CR0RKEMzjAKefXisOrSxnhkl5wlVRKlQYJhAMSaU9/L7zrDk2nH4AVqzxdi3RBd2MzT5qwZRXHBjufRuL0T8XlqwvqmHEjJjMp06Rj8XI9wWIFe6qsAATIrVNLkMI6kXxAcgFSWJhzo9Pkyf97JK4rsaRLN0cwGthH6/3/NZ5U9enRu/aF074WMCiVHuzjeShZ277uYVa58thtMoYjKTi2i0+TEp4b7hxOTJTv/Jig7Jm5CTUp9INQ0+1Eugq0AiUuERrPUaIKBzMeyF2bW/Be1RTP6rrQDNhe3HLWc4V98VwKWhu31kf+SoonzfWtuDiZS0ixTMAZj5lqo/ma4CznDc01f7GSxdyHXupA8FENMPf5/Hz6S9xvyI/xvLXbBuqxEM63kfJzhyQ/+DT0tOcpmsWH37brivnz8tHPiveMMpK5mBB/fTKYiwmDGR1bsEsIa8YHRz4iS0VThIIARMc3j9U30M9KbQmHW2J9fxg==;u60ivjw+c6cOgqTrbs/sCw=="
 ---
