@@ -32,6 +32,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "Synthetic AI startup raises $17M to train facial recognition with digitally-rendered people"
+    excerpt: "Startup Synthesis AI has raised $17 million in Series A funding from a number of funders to back its synthetic AI platform that generates a wide range of people to teach visual AI models like facial recognition. Synthesis AI, founded and led by CEO Yashar ..."
+    publishedDateTime: 2022-04-29T17:26:00Z
+    webUrl: "https://www.biometricupdate.com/202204/synthetic-ai-startup-raises-17m-to-train-facial-recognition-with-digitally-rendered-people"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 44
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
+        width: 2048
+        height: 1280
+        isCached: true
 
 secured: "rYtVh5J3ARoJNy3yXVLJwgwu47yQrbeOWsjSyFF58sP+mzxthI7kisMJozTll1bhLEkFvQamkbPUS7DRuaCdBM1iSGPZTp0FRXTT8qTA8+eljQzDat/LeWFAS7+IFQOYutprN05IMk3M9P/fCU7tAXCvdjP3hYzDfyl98D43MHxgPlp803kt3VtBnLlf7RC0WpY0NU/r3rs/DEEM2UdwgFDioXj/iEHsGqCYxW5FNDFG1X8NTFqGLE6AerA4UZ4RQIpG/L1S2Ak37ENzlma6x3quBpCTPFxLkEfCB+yF2zBnmuJ2QI1fR5cEbOZY40D2ZrnG+WHceGOkYSDdwmR9l6tQpai2o/50DTRlA2GSbOU=;5PDZPhtT15ztlHbhBVfRLg=="
 ---

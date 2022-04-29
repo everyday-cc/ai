@@ -109,6 +109,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Beijing grants Baidu, Pony.ai new driverless robotaxi permits"
+    excerpt: "FILE PHOTO: A logo of Pony.ai is seen on a Lexus vehicle equipped with the company's autonomous driving system, which will serve as a robotaxi, in Beijing, China May 13, 2021. REUTERS/Tingshu Wang HONG KONG (Reuters) - UBS Group's China country head David ..."
+    publishedDateTime: 2022-04-28T05:27:00Z
+    webUrl: "https://www.reuters.com/news/picture/beijing-grants-baidu-ponyai-new-driverle-idUSKCN2MK05C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220428&t=2&i=1598165644&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI3R033"
+        width: 810
+        height: 553
+        isCached: true
   - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
     excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
     publishedDateTime: 2022-04-29T12:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/amp/"
 type: article
 quality: 104
-heat: 344
+heat: 354
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-pony-ai.jpg"
         width: 770
         height: 500
+        isCached: true
+  - title: "Beijing grants Baidu, Pony.ai new driverless robotaxi permits"
+    excerpt: "FILE PHOTO: A logo of Pony.ai is seen on a Lexus vehicle equipped with the company's autonomous driving system, which will serve as a robotaxi, in Beijing, China May 13, 2021. REUTERS/Tingshu Wang HONG KONG (Reuters) - UBS Group's China country head David ..."
+    publishedDateTime: 2022-04-28T05:27:00Z
+    webUrl: "https://www.reuters.com/news/picture/beijing-grants-baidu-ponyai-new-driverle-idUSKCN2MK05C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220428&t=2&i=1598165644&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI3R033"
+        width: 810
+        height: 553
         isCached: true
   - title: "Pony.ai becomes first autonomous driving company to receive a taxi license in China"
     excerpt: "Autonomous driving developer Pony.ai announced it has received a license to operate taxis in China, the first company to achieve the permit."

@@ -68,6 +68,20 @@ related:
         width: 600
         height: 207
         isCached: true
+  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+    excerpt: "If you wish to serve as lead plaintiff of the C3.ai lawsuit, you can submit your contact information at www.glancylaw.com/cases/c3ai-inc/. You can also contact Charles H. Linehan, of GPM at 310-201-9150, Toll-Free at 888-773-9224, or via email at ..."
+    publishedDateTime: 2022-04-29T17:00:00Z
+    webUrl: "https://www.wivb.com/business/press-releases/cision/20220429LA41007/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 35
+    images:
+      - url: "https://i0.wp.com/www.wivb.com/wp-content/uploads/sites/97/2022/04/Mug-shots-4.png?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "MVOEgtwVhDFfUm37sp8PgS/Z+NJLF97FjMPrUoDiVxHjfLO+Hwyuup1le+UPyMoPTOqW0FZsAmQFyQCDIWaV9UpPTC+mxatX84J0GEGunF0l6qg3M5cF1wylrSmp3EgFEKtkj3tAw7JmxZdhdwhuVlftZuHs2YVV7QwNBsMDJjH+DRVG0msTIf9jOWd3Nu1zWxGKFhgG8h8ZRkikJQmCC7PhqHg46ZZVifs5EoBrnOonKpLyC27lwr1QTYHrq2TEzpVQlBoo7I6hjU3BYodEoQXl3g64W/IMiHa8QPscabmpZlrWzeIO9xEvCBiquiGWJ6xFUy+/eaFkbS4DxrXnrU8Hdq0C9Hm9VCuOWPDhimA=;uvHk++nzo8JW7sbdnGapNg=="
 ---

@@ -31,8 +31,8 @@ images:
 related:
   - title: "Meta materials: Facebook using AI to design green concrete"
     excerpt: "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ..."
-    publishedDateTime: 2022-04-29T15:30:00Z
-    webUrl: "https://www.theregister.com/2022/04/29/meta_ai_green_concrete/?td=keepreading-top"
+    publishedDateTime: 2022-04-29T16:26:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/29/meta_ai_green_concrete/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
     type: article

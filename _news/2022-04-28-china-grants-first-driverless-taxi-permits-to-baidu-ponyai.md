@@ -104,6 +104,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Beijing grants Baidu, Pony.ai new driverless robotaxi permits"
+    excerpt: "FILE PHOTO: A logo of Pony.ai is seen on a Lexus vehicle equipped with the company's autonomous driving system, which will serve as a robotaxi, in Beijing, China May 13, 2021. REUTERS/Tingshu Wang HONG KONG (Reuters) - UBS Group's China country head David ..."
+    publishedDateTime: 2022-04-28T05:27:00Z
+    webUrl: "https://www.reuters.com/news/picture/beijing-grants-baidu-ponyai-new-driverle-idUSKCN2MK05C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220428&t=2&i=1598165644&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI3R033"
+        width: 810
+        height: 553
+        isCached: true
   - title: "Pony.ai becomes first autonomous driving company to receive a taxi license in China"
     excerpt: "Autonomous driving developer Pony.ai announced it has received a license to operate taxis in China, the first company to achieve the permit."
     publishedDateTime: 2022-04-25T16:39:00Z
@@ -359,6 +373,6 @@ related:
         height: 720
         isCached: true
 
-secured: "CJ7Bm6RqCneznce+8S4nCCm+MHQAbZC0Esy+QQOMcXV6F5xsg4WfljNrYv0DTL4jnl75zC+J7vXjAJSR8bcMqXTiDL6xxp/RDpYBPp5JcK4MgWmsvuYX0ehT8bH5XHLpnx3rkMXWXqc1gVeFM8F+HzQ94ajbzfuVvdHId5b5ZXbMcXbu5t0q7TliKB7hvuskF2EiTiU6CoGO1xuXWiWrU4TC9HP55M6MghFHAJ0eHJsNkEgbggs54NdDKGErZek4dHj7JjKnkoHbs2TrfSJCi9aOPYzEh/GO9207nH89ueQhUWKmBEKMYJ8XKaDEgtG63/Vv/3erjL/H409cBcVmBIcAyMDSUBdi5c5Qz123p1g=;5I1Mlnsnx6t3Rufs0uVO3g=="
+secured: "yq7+DFjHSBzwnAv99pnsbmGdf7ljUTw/T3mFYg0nGhkDE4mqcwjZMA69jYj8/F1ozSPksMHH/l8LJqdPcVBKxyXHGeDN0KaGmmuGTPZ3DXGkLGCJyVFgffeYGf2mz7Z4bzZxAgRG15QqhaWig/Ow3ewmKBA0TzE6/jifvKXAQZxvSZONYl7vMbJCSTm84G7VZTdM+j5Or01VuOiE8ik+WCrvitAMBCJkEXidn83S+F7/ZNXMEBvH5r+Klz4PyvMlbmHtMaERqNB2Wtq0RaDV7bkXz89ksnSk6PsirfC3FBcKlps3rTakJ60Vf3PzjRAyGgtPggltI6TCJOQcoudR/yhJqbdzdUR5WkBV1TBOT9f1Cr/kDRBXWvi+PfnyK3U1IabIQ0jIsn2WVJN0Tgqvq1rJMYUxJXuYCZwVYwHs9YDuiogIn8qRskr54gxYzDDrvOWO5YcmWZ+BFD/O0CgcS6epEJdBKuwxC4mIW4a9sJGP/eXxf/1vPz/Vyw4cVrIDpvLQg000/jqVwtdxT079jQ==;ymDimxGW4pZmw/Uj+J8dLg=="
 ---
 
