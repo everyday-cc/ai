@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 32
-  - title: "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites"
-    excerpt: "HPE Swarm Learning, which was developed by Hewlett Packard Labs, HPE’s R&D organization, is the industry’s first privacy-preserving, decentralized machine learning framework for the edge or distributed sites."
-    publishedDateTime: 2022-04-27T12:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-27-hewlett-packard-enterprise-ushers-in-next-era-in-ai-innovation-with-swarm-learning-solution-built-for-the-edge-and-distributed-sites"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "Pllp3+3FUIKL3S2+QVBooeXg8U7oz7ov2cO5suD9Rq5q0e8By6k10Kc8YPoJYGZooaM9jSZpSPGF3uI4Y2NelXiItJWK26VftBa64qMrOcJ/8+mjXunzGVLTWD26Q+bKmrLhbNSXp8GNN4MfYtkaPNarUcYCxNhSSZylbz92cXuGAlBneb4Wd6NH1Ka5uURdCTziabezSRgFrl4S1q51DHwXHK3v5Sc7tYgylM/zUP3E2nlB54lyICRmfHpFZZaKz2w6kWLLUPcC9fjbdglEEk9clu3Ur4Jz0tqzzpDEymqkZC5t9YiTdNIlsl+JTjfC0vwzETdWIW+ar0Cn8cZuYZj+a1ItT9ynoaDtxpM0plvvIRTaJR5lGW1U+oUoWT3jjLdGp4wPfcvlswmNCQRjwzVoh8XwAJEZxge9hQBSso6WiFzh/w93e4cDlJPc03nDwYZbmTm0PxaR99/OfpespFlZbC/StM8KB3iUEey/zcMdVVtTDsiVGI/i0jZ4VBg0086Bf/lqXV1Y8icw+jQVuQ==;D3ITjFkmarQ2OT0YJHRjCA=="
 ---

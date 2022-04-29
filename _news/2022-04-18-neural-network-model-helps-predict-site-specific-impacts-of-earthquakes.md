@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Neural network model helps predict site-specific impacts of earthquakes"
-excerpt: "Using data on microtremors in Japan, a neural network model can estimate site ... Seismological Society of America introduced a novel artificial intelligence (AI)-based technique for estimating ..."
-publishedDateTime: 2022-04-18T16:00:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/04/220418094002.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/04/220418094002.htm"
+excerpt: "In disaster mitigation planning for future large earthquakes, seismic ground motion predictions are a crucial part of early warning systems and seismic hazard mapping. The way the ground moves depends on how the soil layers amplify the seismic waves (described as a mathematical site \"amplification factor\")."
+publishedDateTime: 2022-04-18T13:27:00Z
+originalUrl: "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html"
+webUrl: "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html"
+ampWebUrl: "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "GLpkVGukp0PTq7/iEOnn5yYAQ0dHnGYu+ClbzWmUXkURgC3MSYqg63axbqFqLcpFpTaCcJTzln+tAjbCnEShZ/xYOxLoUtobBL67Qw9IviWjn+s23zUjwQidNN+e0Y+O7l2wulpTIV3PrVjVuDQ0bV7x/1Gkk9eslc7Re9o6ia5l80IKi5uI88DdM87VQNvhNSKlUvgCxJRcCVh/wuGK0C6jzYeJ7QgMQFJeikwJ/aWnmq7Aj0BqsYQe2iVHV5kmJbFrrAeIRlcG2Mrxsz0Epp4/In1J6AuguE2VEAvcEzlwcu68gvvIMJULDzrZaq770zcAjBcjsmr1eXoBbNBKOhFSASqaComGLCWJ1zjHjO8=;gXLo4WLPbZI8YJpl8SqCxw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/neural-network-model-h.jpg"
+    width: 620
+    height: 465
+    isCached: true
+
+secured: "KdKCDKdFNSwQNM06F/KbfdRaU/gGHZC8uENxwFd4wn+FyW9/+LhKQmpvB841o7B29j7dOZWRiamXIzYyk6E5EQaVcMgL+clfzFU396LMdiSXT2gece7lvc25qdc1rrwko5DSesHe2JM1kJ2uLos1Li+FUBrWrUE/3d+/b+i8Daxa33qp6BHP3AFxeK+g9XyGFuyX2CeFw674U6VDCAgrA5zBF1e5vKXZD9Cau6RB7tMGTs7l+simF5tFMUCFEhKaVv925EzKZojP39KnW5Q/ciWBE/E3qUAajashtItz2xTxB2q3dL5SvxjsQlXLsuYVLq/X1Nzey00QhZVi2qBgcBbZ5TNxlTlPJnCef/TVHOA=;mk81Xc3cx4RAwTDEVgRDhA=="
 ---
 

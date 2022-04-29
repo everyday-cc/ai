@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/28/open-source-nlp-company-deepset-n
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/amp/"
 type: article
 quality: 97
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
         width: 1170
         height: 878
         isCached: true
+  - title: "deepset Raises $14M in Series A Funding"
+    excerpt: "The round was led by GV with participation form Harpoon Ventures, System.One, Lunar Ventures, Acequia Capital, norkel AI, Cockroach Labs, Cloudera, Deepmind and Neo4j. The company intend sto use the funds to accelerate their technology and go-to-market."
+    publishedDateTime: 2022-04-29T09:25:00Z
+    webUrl: "https://www.finsmes.com/2022/04/deepset-raises-14m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/deepset.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "deepset Raises $14 Million Series A Led By GV for Advanced NLP Platform"
     excerpt: "Haystack open source framework for building NLP services, today announced a $14 million Series A investment round led by GV. The company also introduced deepset Cloud, an enterprise SaaS platform for building language aware software."
     publishedDateTime: 2022-04-28T13:00:00Z
@@ -55,6 +69,6 @@ related:
       domain: dailyherald.com
     quality: 34
 
-secured: "Qk8bGEl246eGDfD805R4SQse4PPigj6ugIMaX7G+5uXc8z7M7EJpl8BID01j5TNNOo21RchJNqehzl4jS72NAJZUHzzmIMkP+PG2UODqebASyw1QGNxGjxMhIIWH7EQDjceV9DAtPhqu0YCDfa/CX9PQqFe4NpcLjMQr+n0H9uKOs7MRUeoDeINnoPq01N4OxtGy18uj5tCPjS2e9qEw1vxXSKkQjd3ULix2vsJiHq0FKd7Wp1q5urd2ZnhaGFyM74KbQn88EtUprX+qOjOnL9nLnoV1xAOGRtGBg/zeHBJwQhgNSm2ka/yJ1ASZrb/lTN1xwNKOZpyftNtGsE/ACMyqJ/wVsqOYrLdl9Mj7fP0=;XnGzto4GCczKloJV486MOA=="
+secured: "Lkv+mut31GRRZrHRbHXQW84DpC+VJYJjDAdZC5YwZ15XDIqmmFhiBrN6kooG9R7BOvQRA0gaTfWIzdwUq9lT64bm7G0r/UkwYQvoOcSf7DV66X0LDRZKVWxzkHu6i+J1wt5vXW5h6NN7HeI1ut5V3H7omyiIfz6tKYlr0xn/mhKErlQSE2J+335K6OZE9CfjqwNb8eDkZ6TBzy7Gjk1vLkzKIMhbkye67EwoBPquZNxV0fHJIqW9MxJUrIvtaTfUd/mgaQYN8Jeei6OxngvgxP4IvbI370jxeXfgMcDjS97v8Znzbw92wOBZOd0xmnYfmWucxQAw0wpCa5HvTX17FyAnCN5rL4NJqk2FbJsWj5P+UBvrXMAyRGpCjA3v2ODEhSIG6vQKvz5Q1X+5/LSeXXw/Idg28Nh3DM947jcMShyzP1/XjtggqXcc8bOxhESgRpAvazPV1EX6gOglxoFx7xjn6+725WwWEKcuPvojm5VvN4Uld9PesmCh8wfCrjN+r92h+UhFe/GGnl57Mue8mg==;vxFUsC7DUnPfLcPcAGDCxA=="
 ---
 

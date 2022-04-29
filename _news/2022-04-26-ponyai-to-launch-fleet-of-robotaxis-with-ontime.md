@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
+    publishedDateTime: 2022-04-28T13:59:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 74
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9c55dad/2147483647/strip/true/crop/8613x5760+13+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F94%2Fff0b86d7fe680eb0fd57f2ed77dc%2F6afcabc0da754663ae7710547f35ee50"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Robotaxi startup Pony.ai gains taxi license in China city"
     excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, said on Sunday it has obtained a taxi license in China, which will allow some of its driverless vehicles to start charging fares."
     publishedDateTime: 2022-04-25T11:06:00Z
@@ -163,20 +179,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
-    publishedDateTime: 2022-04-28T06:59:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 54
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Pony.ai Approved for Public Driverless Robotaxi Service in Beijing"
     excerpt: "Pony.ai, the leading global autonomous driving technology company, today announced that the general public in Beijing, China, will be able to experience driverless robotaxis for the first time. Pony.ai was one of two robotaxi operators awarded a permit by Beijing city authorities to offer driverless service in southeastern Beijing."
     publishedDateTime: 2022-04-28T02:21:00Z
@@ -205,20 +207,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Toyota backed Robotaxi Pony.ai obtains license to operate in China"
-    excerpt: "Backed by Toyota Motor Corp. the company can now deploy driverless vehicles and charge fares for the rides in China."
-    publishedDateTime: 2022-04-24T16:00:00Z
-    webUrl: "https://techstory.in/toyota-backed-robotaxi-pony-ai-obtains-license-to-operate-in-china/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/04/GettyImages_1367860597-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Baidu leads in AI-related patents"
     excerpt: "Chinese tech giant Baidu Inc ranked first in terms of patent applications related to deep learning and autonomous driving across the globe last year, as the country has placed great emphasis on technological innovation,"
     publishedDateTime: 2022-04-26T07:41:00Z
@@ -236,7 +224,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=upstract.com"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
     type: article
     provider:
       name: The Financial Times

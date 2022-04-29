@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Aviation Market 2022 to 2028 Existing and Future Insights Growth"
+    excerpt: "Apr 27, 2022 (CDN Newswire via Comtex) -- MarketsandResearch.biz has recently published a report titled Global Artificial Intelligence in Aviation Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which assesses dynamic factors ..."
+    publishedDateTime: 2022-04-27T16:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-aviation-market-2022-to-2028-existing-and-future-insights-growth-2022-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Social Media Market 2022: Demand, Market Share, Trend, Business Growth, Prime Key Players Analysis and Forecast by 2028"
     excerpt: "Global“AI in Social Media”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various research sources to provide specific and reliable analysis."
     publishedDateTime: 2022-04-27T05:58:00Z

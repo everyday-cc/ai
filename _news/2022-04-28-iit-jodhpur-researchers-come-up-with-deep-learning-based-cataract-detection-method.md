@@ -9,8 +9,8 @@ ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/iit-jodhpu
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: RepublicWorld
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Jodhpur propose AI algorithm to detect cataracts via near-infrared eye images"
+    excerpt: "The AI based solution with low-cost imaging devices can make it more accessible and inexpensive A team of researchers from the Indian Institute of Technology Jodhpur has found that eye images acquired by low-cost near-infrared (NIR) cameras can aid in low ..."
+    publishedDateTime: 2022-04-29T09:20:00Z
+    webUrl: "https://www.expresshealthcare.in/news/iit-jodhpur-propose-ai-algorithm-to-detect-cataracts-via-near-infrared-eye-images/434795/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/iit-jodhpur-propose-ai-algorithm-to-detect-cataracts-via-near-infrared-eye-images/434795/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/iit-jodhpur-propose-ai-algorithm-to-detect-cataracts-via-near-infrared-eye-images/434795/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 52
+    images:
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/04/29151802/eye-care-5016078_640-1.jpg"
+        width: 750
+        height: 400
+        isCached: true
   - title: "IIT Jodhpur team develops AI algorithm to detect cataracts"
     excerpt: "A team of researchers from the Indian Institute of Technology (IIT) Jodhpur has found that eye images acquired by low-cost near-infrared (NIR) cameras can aid in low design costs, ease of use, and practical solutions for cataract detection."
     publishedDateTime: 2022-04-28T11:56:00Z

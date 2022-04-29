@@ -41,6 +41,20 @@ related:
         width: 1023
         height: 576
         isCached: true
+  - title: "Global chip shortage won’t ease till 2024, warns Intel CEO"
+    excerpt: "The chip shortage cost the US economy $240 billion last year ... “But overall, the demand signals from customers continue to be robust in areas like enterprise, cloud, AI, graphics, and networking. Semiconductors are the fuel of innovation and ..."
+    publishedDateTime: 2022-04-29T09:40:00Z
+    webUrl: "https://www.canindia.com/global-chip-shortage-wont-ease-till-2024-warns-intel-ceo/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 39
+    images:
+      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+        width: 696
+        height: 436
+        isCached: true
 
 secured: "xyXHu3Kc+yEyW6h/2WR9urv3fP9UZVbEypCPT3MPCRtmsXETOoMvVXEJntmfqfvu4t4Gsd0Tqr8O6pLWVK+3GjebyZMijt/q+zOcuw8KDZRgHQLVyFDAI6G/yqaQ+eNwCldIFzGKdj/fUDa/BcM3Kpeje8SgcOOv4QTVu4P0KNZ5lJDqiSQpxA6k2GlHluHpCHWiXekbGb+BwyZTXi+v1L293/BzIjDvFsN26avqlNWnVqD1ZMykd5c9wya7hYMIvJk5eta9rScowhdmPGGH/jAz1RZq/sDw2CLjBaG4v8xX3EzhSG6YJydNfWNPhQ/iR0ytfMKBtIsS5cuskxve10nz0E5PfK3hWMdZs3yh4Wl2b9CmwloBxfZfdbt9OMmhR7BaPdjF1D9NW1r4lglnwW35MQjPN9YUn4e9MCWUqHUUFrpgaLp6my68RiCSfrznIPFKXoFbzEcGjn46fILcFKalTzhSNmYG9kQmvTjSPnzdO/X+5yEJqyZqTwKVcKYGX3ma+LCEgNtP+Zl3B2vH9A==;QXk3gNsHQrdXaUJNgwMpwg=="
 ---

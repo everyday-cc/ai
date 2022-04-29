@@ -54,6 +54,20 @@ related:
         width: 925
         height: 521
         isCached: true
+  - title: "Call for applicants for forthcoming AI Accelerator intake helping start-ups reach potential"
+    excerpt: "Katy Guthrie, programme leader of the AI Accelerator, said it is supporting wider economic growth as well as helping innovative start-ups achieve global success. “Our commitment to promoting AI for good is aimed at encouraging and supporting ..."
+    publishedDateTime: 2022-04-29T08:10:00Z
+    webUrl: "https://www.scotsman.com/business/call-for-applicants-for-forthcoming-ai-accelerator-intake-helping-start-ups-reach-potential-3672799?itm_source=parsely-api"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 27
+    images:
+      - url: "https://www.scotsman.com/webimg/b25lY21zOjM5Nzk2MTk4LTY5ODUtNGNjOC1iMjFjLWZiMGEyNWE0NWQ1YTpiNjU1NzM3Zi1lY2VhLTQwZDYtYjc3MC02OWE4ODRhYmYwNTQ=.jpg?width=2048&enable=upscale"
+        width: 2048
+        height: 1423
+        isCached: true
   - title: "The key to lowering colonoscopy screening cost could be AI, study says"
     excerpt: "The use of artificial intelligence detection tools has the potential to save the U.S. millions of dollars annually, according to a study published in The Lancet Digital Health. The study administered the Markov model microsimulation of conducting colonoscopy with and without AI for colorectal cancer screening."
     publishedDateTime: 2022-04-27T18:09:00Z

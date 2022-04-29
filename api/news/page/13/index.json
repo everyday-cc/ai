@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-04-15-house-lawmakers-investigating-govt-use-of-facial-recognition-software.md",
+      "title": "House lawmakers investigating gov't use of facial recognition software",
+      "excerpt": "The ID.me software was used most recently by the IRS, but stopped after complaints from lawmakers and privacy advocates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "originalUrl": "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.whas11.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "publishedDateTime": "2022-04-14T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHAS11 News",
+        "domain": "whas11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-dubai-plans-to-introduce-self-driving-and-flying-taxis-by-2030-official.md",
+      "title": "Dubai plans to introduce self-driving and flying taxis by 2030: official",
+      "excerpt": "The RTA’s goal is “to achieve 25% of trips by driverless modes in 2030 ... technologies such as the Internet of Things, artificial intelligence and big data to improve the experience ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.brecorder.com/news/40167388/dubai-plans-to-introduce-self-driving-and-flying-taxis-by-2030-official",
+      "originalUrl": "https://www.brecorder.com/news/40167388/dubai-plans-to-introduce-self-driving-and-flying-taxis-by-2030-official",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DWIvH8Xf7pE/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brecorder.com/news/amp/40167388",
+      "cdnAmpWebUrl": "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40167388",
+      "publishedDateTime": "2022-04-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Recorder",
+        "domain": "brecorder.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-self-driving-lab-used-to-improve-nanocrystal-understanding.md",
       "title": "Self-driving lab used to improve nanocrystal understanding",
       "excerpt": "Control Engineering reports that UB researcher Kristofer Reyes and researchers from North Carolina State University have developed and demonstrated a “self-driving lab” that uses artificial intelligence and fluidic systems to advance understanding of metal halide perovskite nanocrystals.",
@@ -1067,92 +1153,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.md",
-      "title": "Russia’s AI setbacks will likely heighten its cyber aggression",
-      "excerpt": "As sanctions hamper Russia's plans for AI dominance, it might turn up its cyber activities to hamper other countries' AI efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3656957/russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.html",
-      "originalUrl": "https://www.csoonline.com/article/3656957/russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3656957/russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3656957/russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.amp.html",
-      "publishedDateTime": "2022-04-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies.md",
-      "title": "BPCL teams up with Microsoft to leverage cloud, AI technologies",
-      "excerpt": "Through a seven-year collaboration, Microsoft will provide infrastructure as a service (IAAS), platform as a service (PAAS), network and security services on the cloud, including Azure native services on Azure Datafactory,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/articleshow/90843192.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/articleshow/90843192.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-271322,msid-90843226/bpcl.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/amp_articleshow/90843192.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/amp_articleshow/90843192.cms",
-      "publishedDateTime": "2022-04-14T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

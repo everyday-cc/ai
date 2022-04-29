@@ -40,6 +40,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "H|T: The Healthtech Times – Robots combat nurse burnout"
+    excerpt: "Clinical trial startup Reify Valued at $5 Billion in Round Led by ... Training machine learning (ML) and artificial intelligence (AI) algorithms requires quality data. In the pharmaceutical sector, obtaining this data can be tough because most of the ..."
+    publishedDateTime: 2022-04-29T09:30:00Z
+    webUrl: "https://betakit.com/ht-the-healthtech-times-robots-combat-nurse-burnout/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/02/1da1e255-df63-4ee9-b6bc-6d49283488c6.jpg"
+        width: 940
+        height: 465
+        isCached: true
   - title: "1st film written by Japanese AI bot takes movie-making to next phase"
     excerpt: "Writer's block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the firs"
     publishedDateTime: 2022-04-27T05:00:00Z
@@ -67,18 +81,13 @@ related:
     quality: 34
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T09:00:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+    publishedDateTime: 2022-04-26T07:00:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 33
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 13
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
     publishedDateTime: 2022-04-27T13:28:00Z

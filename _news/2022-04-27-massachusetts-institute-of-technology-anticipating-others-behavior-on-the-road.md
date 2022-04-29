@@ -43,6 +43,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "The Biggest News in Diabetes Technology: Highlights from ATTD 2022"
+    excerpt: "ADAPT examined the use of Medtronic’s MiniMed 780G AID system in people with type 1 diabetes and compared it to people using a continuous glucose monitor (CGM) and multiple daily injections of insulin therapy ... the role of artificial intelligence ..."
+    publishedDateTime: 2022-04-29T08:51:00Z
+    webUrl: "https://diatribe.org/biggest-news-diabetes-technology-highlights-attd-2022"
+    type: article
+    provider:
+      name: diaTribe
+      domain: diatribe.org
+    quality: 24
+    images:
+      - url: "https://diatribe.org/sites/default/files/ATTD-2022_Barcelona_Banner_1200x1200.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "V/mwoXZeye48b/4CB7g7VpTfPboxMXmbFVAE0cjvLJEvrLIjJkNXdQTyNlxmJe41Qj2OpLiM5D4DqpZngSqtPbzgnzV3mk1/YPCoXOsgx7eBF6BoonNjezTg5bGIjjFW/Sp8g5/fyVr/DtHw+hSKXytyyr9k8x21rHWdTmoBKDWLJOGgGnteeyYxVlp96hLRHsRJjkCYxsL+l434l0P6A3kyLJFPZglRYHPPVEpEw88Hfd2/53HsYlWxVaLSS6LB4RVGZHxaGei9iLR9nk31u0uFZbzxxoKu6YxYi4NQAJG2YSvb6VZvVt/jnyrjuUulH+mNdJ9pGf14n7tZNj64tYklLRh4fD7mH+ve0mmOON8nTPZcHhnmWpwr8EE+UC/VO2Yy3cgIJtYgYXW1jUzCnZ2uOs4quJzEcj1R9it2+U645mquFCIqTXLZsahG2AOdZWjKuAhjIsBiExqseA5RNwm0gb+FM+3MIRSewoeystzVE9zSwJI5UAUoKo4IG9INOIIa7TjilBhfKY6q9u7XKw==;BF+GUROHw3L5U/AqHeVjlg=="
 ---

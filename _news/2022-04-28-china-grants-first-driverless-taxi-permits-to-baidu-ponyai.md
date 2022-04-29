@@ -2,26 +2,28 @@
 category: news
 title: "China grants first driverless taxi permits to Baidu, Pony.ai"
 excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
-publishedDateTime: 2022-04-28T06:59:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+publishedDateTime: 2022-04-28T13:59:00Z
+originalUrl: "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+webUrl: "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+ampWebUrl: "https://www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?_amp=true"
+cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/nation/story/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?_amp=true"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/9c55dad/2147483647/strip/true/crop/8613x5760+13+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F94%2Fff0b86d7fe680eb0fd57f2ed77dc%2F6afcabc0da754663ae7710547f35ee50"
+    width: 320
+    height: 214
     isCached: true
 
 related:
@@ -205,20 +207,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Toyota backed Robotaxi Pony.ai obtains license to operate in China"
-    excerpt: "Backed by Toyota Motor Corp. the company can now deploy driverless vehicles and charge fares for the rides in China."
-    publishedDateTime: 2022-04-24T16:00:00Z
-    webUrl: "https://techstory.in/toyota-backed-robotaxi-pony-ai-obtains-license-to-operate-in-china/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/04/GettyImages_1367860597-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Baidu leads in AI-related patents"
     excerpt: "Chinese tech giant Baidu Inc ranked first in terms of patent applications related to deep learning and autonomous driving across the globe last year, as the country has placed great emphasis on technological innovation,"
     publishedDateTime: 2022-04-26T07:41:00Z
@@ -236,7 +224,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=upstract.com"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
     type: article
     provider:
       name: The Financial Times
@@ -345,6 +333,6 @@ related:
         height: 720
         isCached: true
 
-secured: "LidiHBZoHP7wsQcqcWw5pMSm7zQ1sLzxOd29tnDx2wDnOHfP3S5XT0JaEKIQEoUJ7qvkVfEQ1ufyGTet25vraV+NlD1AT+BZ0TtheavJCGIZM1jNejARM4U8bp9eNNerX/7Ooc896BZvZ/SoCQ3Y+5XVjMhka3FU8oO6pJJgPQzVt5zQRuZSBovg4hHZkm38ld+Hjwpz177Q8M9FNVYlbZRIW08d1fC7Q08F3J5HVCqNLc9ORD07gX4Ok/8H0G4hHSCdeLwZ4aTqmSIpQQZU+e6CyuX7wI9MHj7EQXgHU9o7kR9msze4hK0UrjX3j8i/I4e5k4K/5pRIwpw32d8vkdDGCwuRg/gn2z2i+lqm4iA=;ZNN7u1gwHwLu/I+MRTQuwA=="
+secured: "HkO0BS0onHAY9Lz2eaEvYulIU0SHDFcekAyPvXML80QhFKAXyo/s5GNRKNB4W1110KkLEEUbuOgaBXF4qJ7RsSyGj5icVHgrRS1hgmbMRioYBzMFD7+lZlsK+C9LV20mXkTQF2vy0wXs5A48pd+0uo7lqLt8GR9k38oRMQYWPquSgUIGXjW1Kg0LMrC7VYBr9sSRtcHGXUj+/dJaKLz6IS7fr87kYJ4X0hLTmgidUskMCLfbS6CjiTHMUN6GE4uY/BeApfO/TuUOzjoaCv4yuAO8Y9qGz+b/J+uRcA5KIQDLAPm2VTuMmX6NvGijYrceSGhov0Nwwe9QdAeA5COfFwJEmrmfWecuRFUqmGVBTNY=;LiafTJsXDGnrcsd8dFDuZQ=="
 ---
 

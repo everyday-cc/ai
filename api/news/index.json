@@ -52,7 +52,7 @@
       "originalUrl": "https://www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -250,7 +250,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -932,6 +932,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-28-iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method.md",
+      "title": "IIT-Jodhpur Researchers Come Up With Deep Learning-based Cataract Detection Method",
+      "excerpt": "Researchers at the Indian Institute of Technology (IIT) in Jodhpur have formulated a deep learning-based cataract detection method that is inexpensive and offers very high levels of accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/kpc9tzjqgm9sw4tm_1651145153.jpeg",
+          "width": 768,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html",
+      "publishedDateTime": "2022-04-28T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-ford-hints-at-shift-to-middle-mile-autonomous-delivery-with-argo-ai.md",
       "title": "Ford hints at shift to middle mile autonomous delivery with Argo AI",
       "excerpt": "Ford and autonomous vehicle technology company Argo AI have been partnering for years to bring high level self-driving capabilities to Ford vehicles. To date, much of that partnership has been realized through robotaxi services and,",
@@ -1136,7 +1179,7 @@
       "originalUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1151,57 +1194,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-ai-can-close-gaps-in-cybersecurity-tech-stacks.md",
-      "title": "How AI can close gaps in cybersecurity tech stacks",
-      "excerpt": "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
-      "publishedDateTime": "2022-04-27T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

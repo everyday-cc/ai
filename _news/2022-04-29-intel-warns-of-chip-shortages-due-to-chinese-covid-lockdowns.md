@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/695670/intel-warns-of-chip-shortages
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global chip shortage won’t ease till 2024, warns Intel CEO"
+    excerpt: "The chip shortage cost the US economy $240 billion last year ... “But overall, the demand signals from customers continue to be robust in areas like enterprise, cloud, AI, graphics, and networking. Semiconductors are the fuel of innovation and ..."
+    publishedDateTime: 2022-04-29T09:40:00Z
+    webUrl: "https://www.canindia.com/global-chip-shortage-wont-ease-till-2024-warns-intel-ceo/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 39
+    images:
+      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+        width: 696
+        height: 436
+        isCached: true
   - title: "Chinese self-driving company licensed to provide taxi service"
     excerpt: "BEIJING - Pony.ai, a self-driving start-up in the southern city of Guangzhou, has become the first entity of its kind in China to receive a taxi license. Beginning in May, the license allows the company to operate 100 autonomous vehicles as taxis in the city's Nansha district over an area of more than 800 square km,"
     publishedDateTime: 2022-04-26T09:25:00Z

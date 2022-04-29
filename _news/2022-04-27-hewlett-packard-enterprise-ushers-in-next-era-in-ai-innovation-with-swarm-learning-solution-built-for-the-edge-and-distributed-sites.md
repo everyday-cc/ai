@@ -19,49 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "HPE and Salesforce unveil AI and automation tools for developers"
-    excerpt: "HPE has launched its Swarm Learning and Machine Learning Development System whilst Salesforce announced further integration with Slack, Tableau, and Mulesoft."
-    publishedDateTime: 2022-04-28T06:06:00Z
-    webUrl: "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/"
+  - title: "Hewlett Packard Enterprise used AI driven data to help accelerate Covid-19 vaccine research"
+    excerpt: "CEO Antonio Neri: “We made available our systems and our patents to be able to process that data at the speed that was required.” © 2022 Fortune Media IP Limited. All Rights Reserved. Use of ..."
+    publishedDateTime: 2022-04-27T13:00:00Z
+    webUrl: "https://fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf"
+    ampWebUrl: "https://fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/amp"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-  - title: "Salesloft unveils new AI-powered sales tool for more accurate forecasting"
-    excerpt: "Forecast, a new feature of the Salesloft platform, is designed to help forecast sales more accurately and take action to close deals, all from the same platform."
-    publishedDateTime: 2022-04-25T13:22:00Z
-    webUrl: "https://venturebeat.com/2022/04/25/salesloft-unveils-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-  - title: "Untether, GM partner to develop AI perception systems for autonomous vehicles"
-    excerpt: "Untether AI, which describes itself as “the leader in at-memory computation for artificial intelligence inference acceleration,” has teamed up with General Motors to develop AI perception systems for autonomous vehicles."
-    publishedDateTime: 2022-04-28T14:42:00Z
-    webUrl: "https://www.autoremarketing.com/arcanada/untether-gm-partner-develop-ai-perception-systems-autonomous-vehicles"
-    type: article
-    provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 36
+      name: Fortune
+      domain: fortune.com
+    quality: 77
     images:
-      - url: "https://www.autoremarketing.com/sites/default/files/styles/story_page_main_image/public/Untitled_86.png?itok=wGIdPP3R"
-        width: 878
-        height: 495
+      - url: "https://d2byebo1j9i40c.cloudfront.net/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/Images/posterImage-ver1-1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Salesloft Launches New AI-Powered Sales Tool For More Accurate Forecasting"
-    excerpt: "Sales engagement software vendor Salesloft has announced a new feature for its Forecast by Salesloft platform, dubbed the \"Modern evenue"
-    publishedDateTime: 2022-04-26T13:52:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/salesloft-launches-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
+  - title: "Hewlett Packard Enterprise Accelerates AI Journey from POC to Production with New Solution for AI Development and Training at Scale"
+    excerpt: "Hewlett Packard Enterprise (NYSE: HPE) today announced that it is removing barriers for enterprises to easily build and train machine learning models at scale, to realize value faster, with the new HPE Machine Learning Development System."
+    publishedDateTime: 2022-04-27T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hewlett-packard-enterprise-accelerates-ai-journey-from-poc-/2022/04/27/9590513.htm"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 32
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "+jDSA7Kw7JoadxqneJSDhtUr/9fJrzQ2C4/M7op0fIVypOEVsvbEl53bcaluzOXPH8uuxzeFgQAKUOirlzvg6QoYxytSrpNUcU1QPWo6+JHmcnyWk/z4UEZbKBh8m9HNNQeVoYQZpzCKpL9yL8LD+pH2JexkepyWrwZmef8kvqeyjk2pnYjkFfmt2iiqOUDasiyHV/HIDwxw/0eh97d7Z2FJifCNmNUnFJZuqi/ge8sJcGrthiJS5UqxnsMQN+ugbiWcvmKMo9wB9m469eq7RXnMXNY4yPjPnZdgu36CF65bSZaRZtcu7tAeE7c6vRZCQ+VpXmlnrljS7517xIODM0vxGqfyE+tYwn6tqJDuHLM=;aZjFSH77mV0n2NM+bALMVQ=="
 ---

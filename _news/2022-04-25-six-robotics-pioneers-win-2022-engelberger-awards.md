@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Six Robotics Pioneers Win 2022 Engelberger Awards"
-excerpt: "The event will bring more than 500 companies showcasing the latest in robotics, machine vision, artificial intelligence (AI), motion control, and smart automation—and an expected 20,000 attendees—to the city's Huntington Place center. The Association ..."
-publishedDateTime: 2022-04-25T15:52:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards"
-ampWebUrl: "https://www.benzinga.com/amp/content/26791476"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26791476"
+excerpt: "Automation industry’s most prestigious honor to be presented to three at Automate 2022 in Detroit on June 8 and three at Automatica in Munich June 20."
+publishedDateTime: 2022-04-25T15:43:00Z
+originalUrl: "https://www.automation.com/en-us/articles/april-2022/six-robotics-pioneers-win-2022-engelberger-awards"
+webUrl: "https://www.automation.com/en-us/articles/april-2022/six-robotics-pioneers-win-2022-engelberger-awards"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Automation
+  domain: automation.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://www.automation.com/getmedia/8eb1c924-eb62-4f67-9813-71cece3d5137/Robotics-winners-news-April-25-2022-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 552
         isCached: true
 
-secured: "n9Cb9bEdM3PeSexvprQ0wRRKv4oLZFadC7P/dP3YucIbN74WV7bV9pfUjQp5eYLP0JOJAQAHTRY4QMoMmnJk9tofrMqdD46t+HQ07l46W7kNCDoXspWgs5p/1DqKAF95uWkST1O1c2/YK/+OTUQKXoYMsBjoWpOoYPxElq8+LshzVzrc8Y3GAP/KOzacA9K2yPOMXcyjWlr+TTGEZywbXPi2YTUq0NLhJ3nLkRTcWTC+nk9Q1OJdePBzlNVXDqWsA5xOJbYukHMrZFKcHswpodjrWXG3nnBwM0wGKRNsBW3C0ooORPWLrD8I6kGE4NHosXACSekGHf0b2tqdwawBOhloTJZZcdhaQUQLYS3EPXg=;jM5jbxvo+7X2f9zSmvWI7A=="
+secured: "9ymvJiwKA/5wVL7Qkh61BI+CwWI2TJrLD/XzIk++QcmBKzsNVsxi3XfFN5qPuy1BCMzb8DJByJrAgOQArmCeZY4Hb7WUi6kz5C/feu2T31cq/qjESu2LDIs2goAg+1MmTK+ZMLPFBM2+xvUuFvWdq777GLhVBTEpXechoiysiOE6x5wi82d0WxPG1MNVTfd5r1kznAqnUSvpfvxPOLMTCOaHp15SALSARg1VmxquM/ue3wg7n3dEksrwJ0imyIhOlu//M26llfPr5A29o/DXNN3cO79ABKjHXrk7Cuj+q6wOnFLd4Hgp5wb2UhiCRADyVyi5jn5DhCQFPiPyeI6qySlaI3xQKNKmM1rUZYk+AVs=;A8dIMeK9Fr5tQ9CFtjzSMg=="
 ---
 

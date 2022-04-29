@@ -49,6 +49,20 @@ related:
         width: 1170
         height: 878
         isCached: true
+  - title: "deepset Raises $14M in Series A Funding"
+    excerpt: "The round was led by GV with participation form Harpoon Ventures, System.One, Lunar Ventures, Acequia Capital, norkel AI, Cockroach Labs, Cloudera, Deepmind and Neo4j. The company intend sto use the funds to accelerate their technology and go-to-market."
+    publishedDateTime: 2022-04-29T09:25:00Z
+    webUrl: "https://www.finsmes.com/2022/04/deepset-raises-14m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/deepset.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "Cxd+nxsvRjfi7jzUg6nchro3pV1B+Gt8KUPdoe+yLE9AypO71vHcp9VppQ8Nu3xMM8H7LZ0Ae6b7gmrmC2DhP6VZUHFjXRZXkdrD1Pv4sA4r2NBszsMHg9e+EzL3gTc+OCzQOU+I2leIEwLyBRgi0aZkXPry1dF6aMF4ec+mMtlAmo39HuxTD2Kg4TLp/zBQTRL8vWa+Nz3Uyq+xAiRSiR1XJJwITGZ54c1rPWl6hEebP0TbDJM0780A7KqEr98lVj2TvH0bSD6xf0Pl2MVPpOiT4/penbkbIw78lclPGi4O61nF8ThAAWQKtqcE8XfbynYilGmafQmP/VAgnXfpcpyrSFuoHjSCQ/LadcInhWE=;5haV4VlM6qpUG3r4Yg92sQ=="
 ---

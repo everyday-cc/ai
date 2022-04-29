@@ -62,6 +62,20 @@ related:
         width: 1240
         height: 700
         isCached: true
+  - title: "Call for applicants for forthcoming AI Accelerator intake helping start-ups reach potential"
+    excerpt: "Katy Guthrie, programme leader of the AI Accelerator, said it is supporting wider economic growth as well as helping innovative start-ups achieve global success. “Our commitment to promoting AI for good is aimed at encouraging and supporting ..."
+    publishedDateTime: 2022-04-29T08:10:00Z
+    webUrl: "https://www.scotsman.com/business/call-for-applicants-for-forthcoming-ai-accelerator-intake-helping-start-ups-reach-potential-3672799?itm_source=parsely-api"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 27
+    images:
+      - url: "https://www.scotsman.com/webimg/b25lY21zOjM5Nzk2MTk4LTY5ODUtNGNjOC1iMjFjLWZiMGEyNWE0NWQ1YTpiNjU1NzM3Zi1lY2VhLTQwZDYtYjc3MC02OWE4ODRhYmYwNTQ=.jpg?width=2048&enable=upscale"
+        width: 2048
+        height: 1423
+        isCached: true
 
 secured: "40lvHY7NcuhrAK+OLNPP/irpkluJ+wRtDPW38/3843S8hM/LzI9F0NBVkRpRzlvNIZ1YUeamY9E9POX2/6jUcUbGvYozmqce8sui9+/dCQIZHold/6CP7uPSQaFNXRGb2do4WMWOToIDgZOYDBrX1b/qmuTKYHFnwb+ufDOK9ZpwkMBhIzAaMfzUIS75tM/zt+leE3N3rR/Glj6BahxKwSQ7om6drNfJ4+M9ngALZKapl00zJoPGaeJ+gq/uoJH1CAuwhians0OX/LLo+A34KayN4wt9Za6fWp8aIg8aqw55n4ZrE2VqYgfUM85ua3ESaygN/CcV7t9Q6SOhlU7YSHITw3keFsq5QCCd6nq9jy1LsbOubyNBTn1fKmLPUxX40zh+qX9HFUO7oLBktFI3fRV+e9D60zQ7Vt7F4WLXPXUfevFKdvQ7+4O60qecoDYXI55Fzo1iVNEvRzjfobSXLRx/ZYqsvHJJeTWepSvNlb0y092lcea5e0wvTgYT9BGPuex+rNug1WIi71iUtKw0kw==;x4LXgN1HwBN/3Li/LilSpQ=="
 ---

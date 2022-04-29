@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-28-how-ai-can-close-gaps-in-cybersecurity-tech-stacks.md",
+      "title": "How AI can close gaps in cybersecurity tech stacks",
+      "excerpt": "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
+      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
+      "publishedDateTime": "2022-04-27T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud.md",
       "title": "How AI-driven company Oculeus helps telecom service providers better combat fraud",
       "excerpt": "Oculeus claims its solutions use AI to help its customers better manage and protect their business and network operations.",
@@ -61,7 +112,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 334,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -209,7 +260,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -304,7 +355,7 @@
       "originalUrl": "https://www.cnet.com/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -355,7 +406,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/27/hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -769,6 +820,57 @@
       ]
     },
     {
+      "path": "_news/2022-04-27-hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research.md",
+      "title": "Hewlett Packard Enterprise used AI driven data to help accelerate Covid-19 vaccine research",
+      "excerpt": "CEO Antonio Neri: “We made available our systems and our patents to be able to process that data at the speed that was required.” © 2022 Fortune Media IP Limited. All Rights Reserved. Use of ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf",
+      "originalUrl": "https://fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/amp",
+      "publishedDateTime": "2022-04-27T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-crowdstrike-unveils-tools-to-fight-threats-to-cloud-native-applications.md",
       "title": "CrowdStrike unveils tools to fight threats to cloud-native applications",
       "excerpt": "CrowdStrike has unveiled new capabilities for its adversary-focused cloud-native application protection platform (CNAPP).",
@@ -1075,92 +1177,6 @@
       "provider": {
         "name": "finsmes.com",
         "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator-program.md",
-      "title": "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program",
-      "excerpt": "Start-up, Beagle Technology, addresses agricultural labor shortage and cost issues with new automated pruning technology for the wine industryTOKYO and PALO ALTO, Calif.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/a26832006/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator-program",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/a26832006/nec-x-announces-fifth-ai-start-up-to-graduate-from-its-corporate-accelerator-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26832006",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26832006",
-      "publishedDateTime": "2022-04-27T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-amazon-invests-in-israeli-robotics-firm-bionichive.md",
-      "title": "Amazon invests in Israeli robotics firm BionicHIVE",
-      "excerpt": "E-commerce giant backs Israeli startup developing an autonomous warehouse robot that can work on shelving racks to retrieve and return boxes and packages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.israel21c.org/amazon-invests-in-israeli-robotics-firm-bionichive/",
-      "originalUrl": "https://www.israel21c.org/amazon-invests-in-israeli-robotics-firm-bionichive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.israel21c.org/wp-content/uploads/2022/04/BionicHIVE2.jpeg",
-          "width": 1600,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Israel21c",
-        "domain": "israel21c.org",
         "images": null,
         "publishers": null,
         "authors": null

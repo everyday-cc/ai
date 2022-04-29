@@ -63,6 +63,20 @@ related:
         width: 1129
         height: 635
         isCached: true
+  - title: "Meta Announces Research To Create Human-Level AI"
+    excerpt: "Facebook parent Meta announced they are launching a long-term research project to build a next-generation AI that can learn and process speech and text in the same way the human brain does. Meta described an effort to create a human-level AI. Meta is ..."
+    publishedDateTime: 2022-04-29T09:17:00Z
+    webUrl: "https://www.searchenginejournal.com/human-level-ai/448006/"
+    type: article
+    provider:
+      name: Search Engine Journal
+      domain: searchenginejournal.com
+    quality: 37
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/human-level-ai-626b9fb53ed3b-sej.jpg"
+        width: 1600
+        height: 840
+        isCached: true
 
 secured: "bFrEf0ABa9XRUqia0717kiGJuA6TEKU1sqqgbgEnMmSM4P4JhSTSAuTVE38b7JPlXkDExw6g3ymtgn929b1lAFTbV3gy6I+BJbRlDoJaibblH4nJpkR0iC2+3TmLQ/mZ1fYyHoKYg3umBWQcgd59V2rzztmxfr2DO9vPK3brY9bpn2f7CXNEwjC2odyObnQva1WtH8dvJSetManSTB1qssVHqnDFEPCtqBGWLQrlExxIqSTlDUskNeglq6fWxh899yUAS/rBqWCufMnrOPCSU38lMJ4gdILfTJsmsHpV5qH0mS2I9Ih9STGiiBFZDx3kVJNDrRnA/qd9LW+EnWsWx2Ih+4mSLPwXVIwnev2gVK0C8G8VYkT9O4hg21vfiqz1qmfBwlbAL/QpyQuYKxmmYCrB1whkPCXkgJPxwZ3Bb1A0M2qWTiKTSyU8XM9CvaqlaGcGx3oX2t2FPa2VYvZakxKAUJtc5sp9dGXppXr7WyBoObVxVpcpAHerN68gWsCCSOOetFV4lPAZwMwxfVWs5g==;u9eMNt6x5anigKynHSXuNQ=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "deepset Raises $14M in Series A Funding"
+    excerpt: "The round was led by GV with participation form Harpoon Ventures, System.One, Lunar Ventures, Acequia Capital, norkel AI, Cockroach Labs, Cloudera, Deepmind and Neo4j. The company intend sto use the funds to accelerate their technology and go-to-market."
+    publishedDateTime: 2022-04-29T09:25:00Z
+    webUrl: "https://www.finsmes.com/2022/04/deepset-raises-14m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/deepset.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "deepset Raises $14 Million Series A Led By GV for Advanced NLP Platform"
     excerpt: "Haystack open source framework for building NLP services, today announced a $14 million Series A investment round led by GV. The company also introduced deepset Cloud, an enterprise SaaS platform for building language aware software."
     publishedDateTime: 2022-04-28T13:00:00Z
@@ -51,6 +65,6 @@ related:
       domain: dailyherald.com
     quality: 34
 
-secured: "/vhNC+XIAJ9Donl8RVJXoE3gMnD+cdngI1+d1DvAUQWidPma14Z6CeTsHEuJBeXkwi00Xxx46uBcxZ93XJYDM8K8Z1/GlI4CEIn0Vi/oTZchPSyKFEkRzptaEW4wLaicxvjU3pBlAuWUJ0P/hQzWAZXTCcPunDkek0qVhYPsKJcgRF4pWdii7tJQMXknQeYgxO8J5Upzal0GMrgfdESIFpZPPX5CnPBxIEp4OYliDW3+95QgRz1KsT2zjtpVEflaWO87vb0a0DrsUE7tXml0OJrRcG9UIZ+cR/HLI0V/7yjMT3TeGo4S3VtFMawepCdrW6QtcK2fHY/OihCiGEzWuZ2FcwDHOIBf7NnomNaKTt8=;VwMbtqAHa1QrSdAUJK7mug=="
+secured: "8kXv2HIorXaLVWxhtfGYMM2+tzTkDH6LRdpThJfBxPN8E3pTz7opp0PRh4IaivK/B/m56yTCoNhane5IbqAInSSojPCQCZrLpIueon2+iE5b3rApxjYq/LO7VU2pviIp0Q+ekBKuAFHbk/txVqycM/SLsKA0WO9ULif227H/QMXnSa6tNW1zoRxMcXs0MC2ZUHLYGiEvG0HW3CAm9YF1TzZRZCGqCNs0gJjG9Pu+HNNcs0dDVAlOY7AfNE0twxRVPoHeeZ6NvCbFQqzy0azhGW8RIvJJrfFq5/Y5Rn15hIisD3Z7zNm4Cbai1SGnO/bGHST73G4RDf7YmwSkbwWx20mLDdqGTrQQ3yCliWQrWayO/d/uMJx7BDMXJwwjwognUa5bi/TQrC/OFFyS7z1MuZFfSkXsD7icgFx1+dxoCntv6xhavGRAXGu/ZDynIopiETjem69s/5EngUlzeqwq3p/yctwgYtV8s3MU9TLT2WWEl5WG1u9m2kubGX+t8xG6pjArUeFphO1tKICMuXwS8Q==;eQAMhd+tFdhre0k5cbeahA=="
 ---
 

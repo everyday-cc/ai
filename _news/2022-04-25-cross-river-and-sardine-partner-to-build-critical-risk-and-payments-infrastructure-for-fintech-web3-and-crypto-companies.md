@@ -39,6 +39,20 @@ related:
         width: 2560
         height: 1709
         isCached: true
+  - title: "29/04 – Weekly Fintech Recap"
+    excerpt: "Fintech Lender Sonovate Launches New Platform to Enhance Embedded ... Alex Preece, CEO of digital gift card provider Tillo, has joined Network B's advisory board The AI-based personalized offers platform Network B has recently enhanced its advisory board ..."
+    publishedDateTime: 2022-04-29T09:43:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2904-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_9.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cross River and Sardine partner to build critical risk and payments infrastructure for FinTech"
     excerpt: "Cross River Bank, a technology infrastructure provider that offers embedded financial solutions, recently announced a partnership with"
     publishedDateTime: 2022-04-26T13:13:00Z

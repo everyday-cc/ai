@@ -55,6 +55,20 @@ related:
         width: 740
         height: 460
         isCached: true
+  - title: "Meta Announces Research To Create Human-Level AI"
+    excerpt: "Facebook parent Meta announced they are launching a long-term research project to build a next-generation AI that can learn and process speech and text in the same way the human brain does. Meta described an effort to create a human-level AI. Meta is ..."
+    publishedDateTime: 2022-04-29T09:17:00Z
+    webUrl: "https://www.searchenginejournal.com/human-level-ai/448006/"
+    type: article
+    provider:
+      name: Search Engine Journal
+      domain: searchenginejournal.com
+    quality: 37
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/human-level-ai-626b9fb53ed3b-sej.jpg"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "Meta is using AI to create low-carbon concrete for its data centres"
     excerpt: "Meta has used AI to develop concrete that emits 40 per cent less carbon, but researchers say that other concrete mixtures can already achieve that"
     publishedDateTime: 2022-04-27T19:00:00Z
