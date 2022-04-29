@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Augmented Intelligence for Healthcare Clinics Provide Arena for Discussion"
-    excerpt: "Yuan Luo, PhD, has helped establish a new arena for clinicians who want to discuss a clinical problem or challenge they face to see if and how it might be addressable through artificial intelligence​."
-    publishedDateTime: 2022-04-24T06:35:00Z
-    webUrl: "https://www.nucats.northwestern.edu/news/2022/ai4h.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 37
-    images:
-      - url: "https://www.nucats.northwestern.edu/images/360x360/sanchez-pintonelson18_epi.jpg"
-        width: 360
-        height: 360
-        isCached: true
 
 secured: "PkgMV4XusGYA8nVs3R5nwE+I27cbjOD4C4Ejei6osRoATb8dhy/p1vnBcPotDUraxSXqVccawp/zZlk8amJGVbVnFQGfaLqSNqUXyGEBi3cxWUHktIFhcxK3bVWw6WWf7rJcUsQ9DOYyVrg6smL4r0bQUsLNtYjHzeu5fys5johCnvsdDAYTninD/WpSQmA9RTQMYQli4cUDXxcZS3eJqm0Q0U5+zrftMTv04CpibgmdO4Hfp2+AJM6jFaeh2oOjK1jwniAk4MHvfh+G65LLiCbEl7rTuGf7sFwwTZo5FhKN6Gb1cFwdnIoQU/urtWOd8a7sEqqwH95xzR7icjBQcuSmCIqEo3lxLOpq1VVp+rEBx9kVy15E/123RJDzcAjjZOzeEYzqgeKFty1IRHd3emjloriU9WyYwiidoGpiLBOv0cKOB4R5mSlQcHx1iqRGm5C7qxuiW+Q8tjHOn/ycr5w7ZzhaTmvpCy8vAayPN1jmxOFRTUKKgfqAynbaV8ARZh6CrC8tf6dUIzAqAdiwbA==;P5aIi4QIDLaYkoB5jBpOxw=="
 ---

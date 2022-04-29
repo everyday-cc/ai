@@ -3,8 +3,8 @@ category: news
 title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
 excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
 publishedDateTime: 2022-04-28T12:47:00Z
-originalUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
-webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+originalUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=upstract.com"
+webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=upstract.com"
 type: article
 quality: 34
 heat: -1
@@ -143,6 +143,20 @@ related:
         width: 1000
         height: 475
         isCached: true
+  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+    excerpt: "Baidu said 10 such autonomous cars began offering rides to ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving automation, which means the vehicle can control steering ..."
+    publishedDateTime: 2022-04-28T23:28:00Z
+    webUrl: "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/7f/57f67885-70b8-5cef-a28e-a3cc1e5e6e85/626a3f1052c4b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu, Pony.ai granted driverless taxi permits in Beijing"
     excerpt: "Baidu and on Thursday announced that they have obtained permits from the Beijing city government to offer driverless rides in an area of 60 square kilometers (23 square miles) in the city’s southeast Yizhuang district."
     publishedDateTime: 2022-04-28T06:10:00Z
@@ -158,16 +172,19 @@ related:
         height: 540
         isCached: true
   - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals."
-    publishedDateTime: 2022-04-28T07:01:00Z
-    webUrl: "https://www.seattletimes.com/business/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/?amp=1"
+    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
+    publishedDateTime: 2022-04-28T06:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 54
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pony.ai Approved for Public Driverless Robotaxi Service in Beijing"
     excerpt: "Pony.ai, the leading global autonomous driving technology company, today announced that the general public in Beijing, China, will be able to experience driverless robotaxis for the first time. Pony.ai was one of two robotaxi operators awarded a permit by Beijing city authorities to offer driverless service in southeastern Beijing."
     publishedDateTime: 2022-04-28T02:21:00Z
@@ -224,20 +241,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Robotaxi startup Pony.ai gains taxi licence in China city"
-    excerpt: "BEIJING: Self-driving tech company Pony.ai, backed by Toyota Motor Corp, said on Sunday (Apr 24) it has obtained a taxi licence in China, which will allow some of its driverless vehicles to start charging fares. The company said it was the first autonomous ..."
-    publishedDateTime: 2022-04-24T06:37:00Z
-    webUrl: "https://www.channelnewsasia.com/business/robotaxi-startup-ponyai-gains-taxi-licence-china-city-2644141"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--ksXqjchz--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-04-24t052949z_1_lynxmpei3n021_rtroptp_3_pony-ai-autonomous.jpg?itok=E1_fzSZq"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Toyota backed Robotaxi Pony.ai obtains license to operate in China"
     excerpt: "Backed by Toyota Motor Corp. the company can now deploy driverless vehicles and charge fares for the rides in China."
     publishedDateTime: 2022-04-24T16:00:00Z
@@ -266,15 +269,6 @@ related:
         width: 679
         height: 452
         isCached: true
-  - title: "China Grants First Driverless Taxi Permits To Baidu, Pony.ai"
-    excerpt: "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... has in recent years invested heavily in autonomous driving and artificial intelligence technology, including automated personal assistants and AI chips. The company said in a ..."
-    publishedDateTime: 2022-04-28T19:43:00Z
-    webUrl: "https://www.news9.com/story/626aee3fd90ea4073056018e/china-grants-first-driverless-taxi-permits-to-baidu-ponyai"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 34
   - title: "Self-Driving Startup Pony.ai Wins China’s First License to Charge for Robotaxi Services"
     excerpt: "Pony.ai will launch a fare-charging driverless taxi service in the southern city of Guangzhou after becoming the first Chinese autonomous driving firm to be granted a taxi license, a huge milestone in the commercialization of self-driving technologies."
     publishedDateTime: 2022-04-25T07:09:00Z
@@ -378,6 +372,6 @@ related:
         height: 720
         isCached: true
 
-secured: "4lFLBf4b58o5LFDeuq6DEK82M1JWMHnWJ++1s7QnIfXk6j49qKc0fThoYQYkgcTBqzbQxvzhBQ674cXGx6iRfCBaNAa+jJj5Tj7Zl3uGQ5M+dG0imc7RR44kch9cg7tMQKJHfObmfMbqEOGzXDcRoz7qyKXLWlGHDRLwLY6xgIMJH2s6ztXX45YyLyrkbUH+Zb+QKsh6YGzf3T0lbqlJwgI2nMk8ll9Q0uhzadCnLOoYTcp6QXkSOpuREMgHVWlhkFgd/0mhRIBpz7R+5e2drqxQI2urQ+2sUHRK4Gb27I1sKaw5V2GcDd8tluP7ub+3ONsBqzozq5g0AUcVeym9fSgtoW2rKizSvdyunHxBALdIl6+Dohl7V2fZ6kmMDY3BcDUAh5l4Z8YjlgnYVzPFW8SxsZoocho6K6QMAtCcVgara6nsAVwkAJ8x7H78iFFLEawHjhT7wZpsCz4Nrm8vBdjDz3Zzfupd+I8Aj8Oxo5kSh2U5Lk7r3SEUgbY4GB+GWQ7bnqJydktq3vOCWou+PA==;UE6XcwsgnkoVYBVRnFsuhg=="
+secured: "RQMN9icqxc2d5prErj63f3Kh3r7ZGpyQr0mtx/fWMAC7ZSaNhzMhXA+Af0+K0duwifI2FjmfgzImxPm5ecl/jZjPHNDIx8eexe0VfqgaDc+F//NacRtGjRWiNa7jJbIjRNiFvb8Tk1+1GKnZTuZRVyZlPqcHKsLYTRzCAhzH0NJBytzQkUGyrPZBVJzgshi7zK89j+W9sTbIpu66lsPQCH7Bo2bE1F0sKwYnhGhl7GAVGuRFsIwbon/lDWv+Ob/L+r/2RPpZmdgMLW9czoIGflQ2Yrss9jsg1SGZnUWEGschwAU04mfjMrd5gcQn2dJQ5uNIfOc7hAiL8ETrWx3Omzg8hxobATUmU96Bf0Oxxx1MfE6biW2o2//CEJp+myvoIsYQGH4Dt28CEtfMl1Bp9RqA3aq9lSvUPIapCAc0XEqJNRCtoPb3JErf/RwWKktXM0MIrdKZ0KdiBPKY1Zs6R4KcnEeYtFqQ3uSSuZE5IaRhMXPHXXILMS6FqDKuVPG83MHtWgDerZ0inqRO3ji1ng==;qnOUraY2Ngu7WX9JFOCltw=="
 ---
 

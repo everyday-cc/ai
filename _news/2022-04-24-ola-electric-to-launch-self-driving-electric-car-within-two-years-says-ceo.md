@@ -26,24 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Ola Electric Likely To Launch Self-Driving Car In About 2 Years, Says CEO Bhavish Aggarwal"
-    excerpt: "An autonomous vehicle is a self-driving car that is capable of sensing its environment and moving safely with little or no human input."
-    publishedDateTime: 2022-04-24T05:46:00Z
-    webUrl: "https://www.india.com/car-and-bike/ola-electric-likely-to-launch-self-driving-car-in-about-2-years-says-ceo-bhavish-aggarwal-5354808/"
-    ampWebUrl: "https://www.india.com/car-and-bike/ola-electric-likely-to-launch-self-driving-car-in-about-2-years-says-ceo-bhavish-aggarwal-5354808/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/car-and-bike/ola-electric-likely-to-launch-self-driving-car-in-about-2-years-says-ceo-bhavish-aggarwal-5354808/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 34
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2022/04/ea4f8b3523377711f7e206bc3d5dd976.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-
 secured: "nTKAWHeON1aa6Xs8uSlGPZUANFKqpYIRuxed7EZWZxNHYtkaLE3K4AmuMP1gjO8QKkIfv1OwXb3TBI1Tv2ob/YDnkcymljCzKBPhvSfq6ivSrP/o2guxtir6HuH0EUlYZttUifot6xY/Jrgt+/4RCgtpa76lofzNVRHSd1bKZVXtRMYokqgJJtfRFipVdy1B71IEFbQ3hMzpZ+V1K7TN3UtGIA1fda4mVcEbGkrCprNB7guw/n7KpI1VLg9j6EXndi83c4YDiIiH6GsnIuzGu4L8Z0l+dZzOsqy/7Yh1CtNNJBuFC8g/4MOMCfrmknr30NTeH1+4n3FGPF61YRqe3H7ppXLTLqWwE3vYpo5B18M=;UgB45Pa6vUtBQnflCf1ugw=="
 ---
 

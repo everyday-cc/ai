@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2022/04/charting-a-new-frontier-in-the-
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2022/04/charting-a-new-frontier-in-the-customer-experience-with-voice-ai/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 450
     height: 300
     isCached: true
-
-related:
-  - title: "How artificial intelligence will positively transform our online shopping experience in the near future"
-    excerpt: "Probably one of the biggest technological frontiers that have been contributing majorly in the recent past vis-à-vis positively reshaping e-commerce and online shopping is Artificial Intelligence AI."
-    publishedDateTime: 2022-04-24T06:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-will-positively-transform-our-online-shopping-experience-in-the-near-future/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-will-positively-transform-our-online-shopping-experience-in-the-near-future/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-will-positively-transform-our-online-shopping-experience-in-the-near-future/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 41
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
 
 secured: "Vtk4jsiKUQ0oopG7eDEZ6Qa16kYb/Lpgc3aieSfQSyDiofRBUv8uOX7oDYiYdVh0wujrm6Hd3NxpO9shqbYp2g39HgwNrYFeeEvSt31GfKwpmcfR9YsZzDHsPEBjlsPCUEcWdUJ56smhjhwBQ+zMz9lsdL9+s3EhIJ1vrmOBR2Gm4c+3tGzDEk+QIXx3GRQG95kbH6ksHDRyXh+TES85Klw6uvmqUrx+jxgjZapyVpavCm1LyFEXQUVwc1hquJh2QTjOazYv72o++RrccsYleOCGzkKw+p8eTEZ3tOpQlVV7cWsqt8sZei/dJWhs0NLXJ3NXx3BCVb9uwJ5Ncwg1EIhYi7gB+a9q27FA5/Vyf3E=;OtX3Bn0FkWyPjCNv0uiE4w=="
 ---

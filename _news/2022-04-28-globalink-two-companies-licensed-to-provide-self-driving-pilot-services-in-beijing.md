@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Chinese self-driving company licensed to provide taxi service"
-    excerpt: "BEIJING - Pony.ai, a self-driving start-up in the southern city of Guangzhou, has become the first entity of its kind in China to receive a taxi license. Beginning in May, the license allows the company to operate 100 autonomous vehicles as taxis in the city's Nansha district over an area of more than 800 square km,"
-    publishedDateTime: 2022-04-26T09:25:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202204/26/WS62678dbda310fd2b29e5967b.html"
+  - title: "Comment: Self-driving cars and the Highway Code changes"
+    excerpt: "The latest proposed changes to The Highway Code are designed to make the rollout of self-driving vehicles safe but it’s good to delve into the details, says Balazs Csuvar, head of delivery at DG Cities,"
+    publishedDateTime: 2022-04-28T07:19:00Z
+    webUrl: "https://fleetworld.co.uk/comment-self-driving-cars-and-the-highway-code-changes/"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
+      name: Fleet World
+      domain: fleetworld.co.uk
     quality: 24
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202204/26/62678dbda310fd2bec859027.jpeg"
-        width: 720
-        height: 480
+      - url: "https://fleetworld.co.uk/wp-content/uploads/2023/04/fwc_1024-Balazs-Csuvar.jpg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "hk/AfWwkashCwJ3aVFYD3wGdGqntUETcQkLCh3pPgzVWMjbx0bA5rdkl+IqR0pg3Nv5uMUboDUrbnvfFobTPPij3H8D6D48DPvIUhedmg6xK9H5TXiBrx2ZW9UxvLp7Jon63dKJCc05ubunXNm7iocLvqzwibHRYUdk17q29gTTh1+x7wTEi/OtcK0OMe7zz7vK4JJ/gv67drP2s265Ros8Se9WZcLPsWfEZIG3rLBgY+95b98EaFPyIKNe00Z5mT7gcQZoSRIhgrYyVrEDWeDy41huquUPDjCKDVXGxoWGydL8j9yojsfv2kFKH3GUHuHTQ+X5xaX+TwY+cSrlfx90jqm1TeN8qD+3wqMUdJD8=;voFUak7Ttntx7UWLzw/H7Q=="

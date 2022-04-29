@@ -1,13 +1,13 @@
 ---
 category: news
 title: "PowerVoice, the world’s best AI voice biometric technology, is recruiting global partners"
-excerpt: "“Panoramic view of Korea Water Resources Corporation’s artificial intelligence control room remotely monitored with the voice recognition function of Power Voice” PowerVoice claimed to have commercialized the world’s first voice recognition service ..."
+excerpt: "Recently it ventured into the fintech and AI markets, which are spotlighted as the 4th industrial revolution sectors. As we enter the era of using home appliances with voice, remittance and payment, instead of controlling the product via touch screens ..."
 publishedDateTime: 2022-04-28T18:46:00Z
 originalUrl: "https://www.digitaljournal.com/pr/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
 webUrl: "https://www.digitaljournal.com/pr/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
 type: article
-quality: 30
-heat: 30
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: digitaljournal.com
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 749
     isCached: true
 
-secured: "fRknsKZEANp2fGvCD4vVcDC4JYZC5EigRcEErWF/dYK8o3NpVTwKJ0M+TTs1jjFd1ZxywJLEKrldKtu/4r2zFaOld7YMYzTI/ytdy+AfzoOgGOAZR6Ke9Vee8OBmP8KUBe64dPVFAgmmzgKpvGP1N1gjPwf/wB4M/SmSYnFalab7VWRZpc3wYf3Qai/QfOI7YjBS/Npw4M7FptQZn9eaJsL2kHGgepn7DuR3fCzZ+t7dDy/d2yhdR5tDXiTvG19CdQOsM6PnntlDFv/sSOD0zNKNL06ndIPdybs8osyVYye8Xtxg1KWiWUhcIcJR54l51ndAk0a6zqpz1Cn+NuzdDsqzmjZyo4HwbSTCd9y8k4I=;H4cB+PIf4fGQdqUjRXuNuw=="
+secured: "1/7WQqUV+WT7V4tP5nh+2t9MTp6EzGj7jY88StBQplS7d26z+BCf7ZO4eJkCzKJpzNo+vtxHWy4OIWjOge9qIhX7sOxn2iR67DkYzvtAII8Qt+/HvzYtJL9mpGSHhsn67cA3S7aNe0wWn927J+8oP+fkxQqQ4L51NumftUgju71PwbuRais4kDVAxfRKkHhT4nRjWWe12Plcvo4XfUknUd/U6sS83JTCkXvXboT2AolGKre97ecUFD0Ll9LFMpdVQtGmOeLc9S+cKLjugRPwe+SiOw5FlLSUiChqzOA6pZm8Q3kNrR4RyuNfV5QHH8H39zE2L8JTafpqmNJOJi9G0NJ+66t4yfyklFOts2cD2/U=;9Syj5droLOQ684vc/w8FSQ=="
 ---
 

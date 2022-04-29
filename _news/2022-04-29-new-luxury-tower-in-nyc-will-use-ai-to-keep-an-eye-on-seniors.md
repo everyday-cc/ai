@@ -8,8 +8,8 @@ webUrl: "https://nypost.com/2022/04/28/new-luxury-tower-in-nyc-will-use-ai-to-ke
 ampWebUrl: "https://nypost.com/2022/04/28/new-luxury-tower-in-nyc-will-use-ai-to-keep-an-eye-on-seniors/amp/"
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/28/new-luxury-tower-in-nyc-will-use-ai-to-keep-an-eye-on-seniors/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/bristal-at-york-ai.jpg?quality=75&strip=all&w=1024"
@@ -25,6 +26,6 @@ images:
     height: 682
     isCached: true
 
-secured: "CZ7PEVyVba0ok4wpY5d4bi+T8Qw6M27W5/KTFgAPtwH+MDm42HhkwaPO7qI3wD5M2+27u0R1JYFvRLqvVs2B4wkTGT1g5PrzEtblAc8FvhgxoQNKQhDe7uERVobwkdqp77D8X+uwIfy+uOWwp708VdoS3D0O5ihtC5hrCtMdQQweS59My3F73UhpHRQ5/ABa/r6WKyrtQD/t0Hwe892GnEDTH8im/mMtDSbevwQX0sqTqS3TQoiHsK6sCVUHo7ZK5nZvI/9hgRQlZhYO24Y0IB6sMGUdMC/JcR0Z9syE8MGm6JQrDjZ/EcPy0ce3BVbBGYvB5J9HZ+21iO5TkqJUIrNeWatmAZ/OZIVh6nKCBGI=;s9MY2J5Ic7HZUwmCMbhsfA=="
+secured: "/WMkmYikUohGKMyjm5PeexbxkjW7Mv/tEwBeQWPgwP0v9/D8eY+zreQrWHjoAsDzs33rQz56X+8l4Oxy3nUFbNkpuuRfJLJUUWt9XM5UTukxVByEZvmktwI/7ySe/1we2g5jjkmKYTg/ntUM1n9xs2Pq+z9bp1E5VJSDmeTQFmkoC5FwTrWjpvDi0rbsIrrY8A7MJhkRsTpF6ymPBkbHBoD9dhODXT5TFL6igSF0iYkyl3S6oL5Us/1sprkh6wXrNTQR5BRBmL0TQLDiR9/N/40bZDfsNSYBxUYQYGI2Y+uobeSJBsGQE80P52DLC+vOjv3HyDuEK1vKIgcxHSCQvryIAToTcBddUxKkA3V+b5dl3zQKudCe8jBU3XeWXHTMjcjOSMzCjDr+56l999tJBie11vPKD8KYbphP4RjNYzJ73HrUikDYLYZc6m4LCd2LdJuVJ/adrzPruCcQraYHO9mGZItgHUFzCljX5jpR0Ui9P3e89Go23Ytda4J0bO393aarQYWHKgGCB++xgZ/WYA==;lxmcJkg7JLS9kHC3p7PI2A=="
 ---
 

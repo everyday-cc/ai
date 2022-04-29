@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-ai-finds-new-concrete-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://datacenterfrontier.com/wp-content/uploads/2022/04/Sustainable-concrete-meta-floor.jpg"
         width: 740
         height: 460
+        isCached: true
+  - title: "Meta Tests AI-Developed Lower-Carbon Concrete on Data Center Project"
+    excerpt: "While Facebook parent company Meta has drawn attention ... Meta said in a blog post written by Sudhalkar and research scientist Julius Kusuma. The AI generated dozens of potential concrete formulas much faster than would have otherwise been possible ..."
+    publishedDateTime: 2022-04-28T22:04:00Z
+    webUrl: "https://www.enr.com/articles/54024-meta-tests-ai-developed-lower-carbon-concrete-on-data-center-project"
+    type: article
+    provider:
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 39
+    images:
+      - url: "https://www.enr.com/ext/resources/2022/04/28/Meta_Data_Center_Conrete_ENRwebready.JPG?height=635&t=1651181863&width=1200"
+        width: 1129
+        height: 635
         isCached: true
   - title: "Meta is using AI to create low-carbon concrete for its data centres"
     excerpt: "Meta has used AI to develop concrete that emits 40 per cent less carbon, but researchers say that other concrete mixtures can already achieve that"

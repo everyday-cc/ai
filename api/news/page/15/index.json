@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-04-13-zapped-the-grid-is-on-life-support-can-ai-fix-it.md",
+      "title": "Zapped: The grid is on life support. Can AI fix it?",
+      "excerpt": "Everything you wanted to know about our fragile, ageing, and increasingly unreliable grid (and how AI may be our only hope).",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "originalUrl": "https://www.zdnet.com/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/043fc29998d4bc6f77b26f818bef94fceb617bc8/2022/04/05/36f83171-e88c-47a1-aca7-9a02c9748980/grid.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "publishedDateTime": "2022-04-13T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-intelligent-robotics-for-laundries-closes-automation-gap.md",
       "title": "Intelligent robotics for laundries closes automation gap",
       "excerpt": "From IDS Imaging Development Systems GmbH Apr 13 2022 The textile and garment industry is facing major challenges with current supply chain and energy issues.",
@@ -92,8 +143,8 @@
       "title": "What's next for AlphaFold and the AI protein-folding revolution",
       "excerpt": "Then, last July, London-based firm DeepMind, part of Alphabet — Google’s parent company — made public an artificial intelligence (AI) tool called AlphaFold 2. The software could predict the 3D shape of proteins from their genetic sequence with,",
       "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-00997-5?error=cookies_not_supported&code=095f4b1f-13e8-4ca1-9718-41736e4afe8a",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-00997-5?error=cookies_not_supported&code=095f4b1f-13e8-4ca1-9718-41736e4afe8a",
+      "webUrl": "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1086,48 +1137,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-ai-recruitment-specialist-thisway-global-leverages-ibms-ai-powered-automation-software-to-deliver-powerful-diversity-hiring-technology.md",
-      "title": "AI Recruitment Specialist ThisWay Global Leverages IBM's AI-Powered Automation Software to Deliver Powerful Diversity Hiring Technology",
-      "excerpt": "ThisWay Global was one of 12 North American startups along with their founders selected for the Google Startup Accelerator Program. This group was chosen for their use of AI/ML to address ...",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/business/press-releases/cision/20220412DA18075/ai-recruitment-specialist-thisway-global-leverages-ibms-ai-powered-automation-software-to-deliver-powerful-diversity-hiring-technology/",
-      "originalUrl": "https://pix11.com/business/press-releases/cision/20220412DA18075/ai-recruitment-specialist-thisway-global-leverages-ibms-ai-powered-automation-software-to-deliver-powerful-diversity-hiring-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2022/04/mom-bath.jpg?w=2000&#038;ssl=1",
-          "width": 466,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPIX",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

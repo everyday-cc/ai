@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Cross River and Sardine Partner to Build Critical Risk and Payments Infrastructure for Fintech, Web3 and Crypto Companies"
-excerpt: "Sardine will leverage Cross River’s payments platform as part of its integrated fraud prevention software for fiat and crypto transactions. Partnership further solidifies Cross"
-publishedDateTime: 2022-04-25T13:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-25-cross-river-and-sardine-partner-to-build-critical-risk-and-payments-infrastructure-for-fintech-web3-and-crypto-companies"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-25-cross-river-and-sardine-partner-to-build-critical-risk-and-payments-infrastructure-for-fintech-web3-and-crypto-companies"
+excerpt: "Cross River Bank (“Cross River”), a technology infrastructure provider that offers embedded financial solutions, today announced a partnership with Sardine, a behavior-based fraud and compliance platform for digital wallets and neobanks,"
+publishedDateTime: 2022-04-25T13:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Key Features To Consider Before Developing A FinTech App"
@@ -43,6 +49,6 @@ related:
       domain: ibsintelligence.com
     quality: 0
 
-secured: "LKDOB6tbeUkofIxqjYmyHHkbMylNWcr+g4jF5QPOlAuKYKm2bex5oD9VJHjMQexoUKxMIaB3FzK4gr5CqH5u4OheVZHIdyQHp94Z/r9hApMvwbFCNK5ue56QedQrGxryibLfIIni0RIV2sHNPBZuje2S4rtnPu/n60P+9FOmGXKZslLfJTp/C8jcvivsH229otYhc6eZoVaKalfxfYdKdOx3z3jG8+s6fCiy5iap12TyDnGZNLt8/z4nvVLBrHliocOnS1EjSZr9rstCHGGcJPBJWnEMTpkY0jhoOjEPzdJD83seorqKu1wj2ayqVU47SdSF/gvWoGiDruO+dkx6LlxAV9syzFTBf1yt23slYjg=;/DzAuvOqZ3GoitUCDaeg6g=="
+secured: "yi5OtMtoTCJ5scLxS1dhAz2f6fyCW7IX5AjkliaQHTY2yUqqPuOkhvheKnPuQ4vKT81ziGXmKBN7EpZZvjuAbmFLBRaOGokKt+LulFTteAjeYYnh6jW8E1lEUys0bk04f1g/kuEQdUcpltXHH9dloSgoPcimNsQco3vqF5J5r167rsjautEmnIxsjz242b3FUjnMQieb9MrXeVtzDYsd61Dj8sbgdiILu/XBiWIYqWT8Vnql3UWg7T/naMZAhP4s9erO2ATuzt+itd6TWaIL4cTCPxvYCG8rDRnvFQijWMdDPNjTyqiNr/IvYBxbvih4AUL7SGgP2iIXHdeFIJatzdweuMRQxYqzCVOuXLWJxqU=;H1wMwvIHWEkouCiXOJL32Q=="
 ---
 
