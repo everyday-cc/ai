@@ -15,12 +15,6 @@ topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
-
-secured: "TtylIDAIxnmukDVUCRMCRLJmmKsxGNYditF+QC+tA3ymJJwZMTVDWWmdMYPHoVrLTskZRQB1m9VKOJ3LO2EET9iK20aKtrc74a+f3E+ypI3YPqr8RfKRZ79+loh8UEH+CkgXCLl4KskrbOzT/OWKLHnV4M1o1m9mcdurWHk/8qAtwgQZKd5RwYNBDfMQG5DAD1rBM0suUxn+4naQpRqq1P1rixwKkFDzrp6sY2hC6vpy/CUSCK5hJNgsY4ktb06hlunlCwvrqb8Aa8BaMqosM9IR2BW85MwJkTzXhitsgGkAib9CAk8tNZ6OQFKbqhMY/2rAL/1+foUYNe/cYYdTCJciUqBs/gGZc8Fd+Dsz24o=;Bh22aG9Q0EUXRaaOIlQUqA=="
+secured: "p5DxvAuP0J1E0CNvz6HH6qe710vaRudql/jcTEc5ZImQK/WFtLdMNtYohGTz9yfOZvjRVwVqS/M4vBJe2dkT0skvO5HxwPhYeibWJrNIjAeqmcYV08d7Rho4LXvDR5yQYtOdqGe6KGwm/8eWAYcpYchH2cr5mt5z0CRjFBVTzPVK2JVHOGnK+ku4/qrUd6HqNE8bPCMQx7NGjyJIu5/Swq3pgNCkR4bWhz0X1uTs6t/IEgxNbP/OoJqEVzhBdMEnEyM67muAavefuJUcYe1wbolPihyQ2g3hvMLn3IGFl4ANwi47vKlWpIEYwkBhsQOcAs+E6CFk5Uzco9ZbN1PfA1x9/UP+t2sf8oVU7xrgT3Y=;6no/7sLD1R6Aha5YWfDO2Q=="
 ---
 

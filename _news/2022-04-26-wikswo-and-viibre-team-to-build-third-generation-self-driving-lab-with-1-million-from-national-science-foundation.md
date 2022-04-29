@@ -3,12 +3,9 @@ category: news
 title: "Wikswo and VIIBRE team to build third-generation 'self-driving lab' with $1 million from National Science Foundation"
 excerpt: "Wikswo and VIIBRE team to build third-generation 'self-driving lab' with $1 million from National Science Foundation . April 25, 2022 by David"
 publishedDateTime: 2022-04-25T22:56:00Z
-originalUrl: "https://menafn.com/1104090215/Wikswo-and-VIIBRE-team-to-build-third-generation-self-driving-lab-with-1-million-from-National-Science-Foundation"
-webUrl: "https://menafn.com/1104090215/Wikswo-and-VIIBRE-team-to-build-third-generation-self-driving-lab-with-1-million-from-National-Science-Foundation"
+originalUrl: "https://menafn.com/1104090215/Wikswo-and-VIIBRE-team-to-build-third-generation-self-driving-lab-with-1-million-from-National-Science-Foundation&source=139"
+webUrl: "https://menafn.com/1104090215/Wikswo-and-VIIBRE-team-to-build-third-generation-self-driving-lab-with-1-million-from-National-Science-Foundation&source=139"
 type: article
-quality: 1
-heat: 1
-published: false
 
 provider:
   name: Middle East North Africa Financial Network
@@ -18,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-04/25/R&AN_277f1image_story.jpeg"
-    width: 800
-    height: 533
-    isCached: true
-
-secured: "X2D/UrvxRgUsCUqX+AcWwYRZi3yx3ZFuvlAcD/ICTyIZcpTM/PgvjIdV8+wTnG09nL6IKsKfPxuT1SvXYiQ2/RQ6HUWyTk7TJnUkG8Z8nyCpYJi65hq/vTv6VyEaVV/Eon8cipKTMkmLnQB/UIHjq0r6S3YsuYJ18iC98sFfg/Kp3CZOr3SNVlIaRSuPeBggsV0quD9V3LAm75b7jZWssIeQ1kyhG1J8WmC9+EXnsTZDjheWfBYTb4A5ryLOUzsPWjakASMg69JFFa8gqy9wqoVsJqPcUlrzTdfuSdXYjRingB0YogrVsInqwqOqdOOrVLrNX9PHopFCIIhLubsTIw+o2JmiBgcFkqHAFeuJN+UakMoHR2ByLcGVAJhcKLNkpLveoVVnAl5bn72DvO4Ic33gPo33WS1QcLr2BMHBUjRnnNgZTCD9lccG+dxhXp3Bd+o4MbwMtWZEAaN+V9kG/FMe5thRrO+mkcFwgawvSs6zQQB1rnJrbrPNcWYj9JB1kpTHc3vfUSCbhkzVOlKtYQ==;C+RnPNqJTVg22XUqGkpa4A=="
+secured: "+LbqxZy1Odlv3J6DuKkjJ4+EMizfji3yF845D7Ry1tQsj58N8zBMwcT5M+BsfomKzcZC86aND3s4KdIW7u9DTOF/PkZC9qNd65kzvg9Ea+AE2DWlPoQ28OksWsz5hy+UTmpPfJaz3RYhxnudsx//mF3wr+r+YWcxG80rUA8Gk9wf9jDerJNaktUTaO2oaEdcBXhErD75GjxthwN1zOjJ5oznHz9XmoOE9Tv1PLIJhhgsANoAoIkgX24UmyvjAw4ZAQIoVt/3Vr3fd4dTzukgbMMbvz5oRxng1s6Pvfw7OjWp8MqflwKMpazJFJ5LrEsln2N8Ee/IPRdJ+Q/JHAJW/RNmaGInkpmYrilbwC9ioxmgs8mtR7anPHxBZDIL1gHGF+I39L0+6fsnRz4nZdcLJ7AZ2z3jMMHgfgNzHP5F1oho8cAoStS9j2dYPDybPws3F6GY5f6OCAACfqv02CYKq0y7LzYVFAF4qptCAi8XTFvObQZwD2pEPJjJP+7Q8CYvzJYhkN8WZD16SzTowm+Huw==;HNlyYJVlg68Tvqu7V6xqcw=="
 ---
 

@@ -5,12 +5,7 @@ excerpt: "The world's first minister for artificial intelligence says the United
 publishedDateTime: 2022-04-27T03:14:00Z
 originalUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
 webUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
-ampWebUrl: "https://amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
-cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: France 24
@@ -20,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s.france24.com/media/display/1ea11fb2-c5d8-11ec-9fa9-005056bfb2b6/w:1280/p:16x9/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "zufwtnsGXawR8SgLezkU5rw6g0gaF6IbU94CQ/87RQI1IzG7JWSxCluidg4qGnwCi3SHqgMiVNgX5kie4wPXs43xHn2xXmo0I7nWLGUh7OfWexwlrxQRbYjjcU5+UFNaZiahA4H6CRjlq7or3IXpCsjt7Y4uBiy6Xz8KzjzTTlZIdyfFmQcuB3TYKlebkK+TQ/J4/O1iLlRIa35+tI/SuOs9nP0Eda6XlfjujNSI0z7YWwBdtKt+V91oasNX8UKmagvb2g1/HVEu5n4mSEtBs6+u9YcQ7XjaR5DVXUIHMsYrfHluqLMNyX58wPoN5UkfCHoltKJ7LzFCFJb+vHqhXr0dxzHkojgtikGIXYFD3f4=;22NvwwSYlC7G2e2qFTyiHA=="
+secured: "dGTzbMPosHSjdGlU87fBqDzLdaxvPhbONOSJzBA65L45GdRF6dFN0BolaQkgE4H2wMtIGJZNR5LN2/3sWUV4IDVewZz2C9MZ7s/BlB9rTLPGnFbcLVqPxkMOqCrSNjgL7btW9jWZvxZyLN2bYSm3yOH3ShlMDf0uUU5ndLKcBSgnQ/HL10aN76axG+SS7PPsmoOTKGpVhSrKRK7+5S4B+PQOShssk6x7S+b3hTGOXDHgqhQyIp/f6uu1sspKuKGFKzKxh+BgDkUTcAUY64gXbHS74DvxoznDkf6vxoaHBgxr5Whm4F4GJtxF6JDOsl3z7iVrGl5d9PEYOOQqlnpPa81g1vAuGiExat5QPIi2jYMljSB92KCspsTFlfaRmD/etuU5XW5ZyQdFfbPMcHXVHeDvLctEjqpyTrQV+7M91vxpsI64tolOnsAJ3SpgAc7it7Qfkd9sm75NHGOuB2+LiMAd5lMqDcXRjWcX6XY3bMIZ0BNWNtsBTfnVbuCdiNkdAXYeVp+cOrIQ9nEjWyp5/Q==;wMavoD4m/IaAc5oM+glp4g=="
 ---
 
