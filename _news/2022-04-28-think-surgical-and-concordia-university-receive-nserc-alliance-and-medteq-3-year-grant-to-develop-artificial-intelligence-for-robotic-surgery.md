@@ -20,20 +20,17 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "French MedTech companies eCential Robotics and Amplitude Surgical Announce Long-term Partnership and Join Their Forces to Enhance Knee Surgery Robotic"
-    excerpt: "Regulatory News:eCential Robotics, a French growth company that designs, manufactures, and markets the first unified 2D/3D robotic imaging and surgical navigation system for bone surgery indications,"
-    publishedDateTime: 2022-04-26T19:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=653233"
+  - title: "THINK Surgical and Concordia University Receive NSERC Alliance and MEDTEQ+ 3-Year Grant to Develop Artificial Intelligence for Robotic Surgery"
+    excerpt: "The focus of this project will be on developing advanced image registration algorithms using machine learning and Artificial Intelligence (AI ... of novel image analysis techniques to improve healthcare and the development of novel techniques for ..."
+    publishedDateTime: 2022-04-29T20:54:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/think-surgical-and-concordia-university-receive-nserc-alliance-and-medteq+-3-year-grant-to-develop-artificial-intelligence-for-robotic-surgery-1031397547"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/think-surgical-and-concordia-university-receive-nserc-alliance-and-medteq+-3-year-grant-to-develop-artificial-intelligence-for-robotic-surgery-1031397547"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/think-surgical-and-concordia-university-receive-nserc-alliance-and-medteq+-3-year-grant-to-develop-artificial-intelligence-for-robotic-surgery-1031397547"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: finanzen
+      domain: finanzen.at
+    quality: 20
 
 secured: "mjBGv9GoHjLRlQsBCG6qH4UGnDe5m83meLQkaIdDdcUZlbE+PKM6AZDUQdFjWq299AxGun+X6ZAB6toGzXJuizBG2tOWyXkEFCLElnyTngL/aETKnF7s9fmK78JuXcVVvOHIEQiE1kfnqwS/rBrbhUqM0LB0gErEEK6/LYTducc11mmNgaWjeOfTK5g9p6WEb/a38pZG8d0Nr4u8dvJgCtulJDeFYcZGoGKVc1MgsdLtnqTJcsDa1MED5eHjFPMV7es55kuhh+KxXRWTWtc+Fct9h2sfR3nCjkkawzS0quR0odYqmm+mUme7Uf30OHKPPAJbz8UgJqYqC2WGPulUnset7rpzYwl+lz9U/8kKRDs=;DUzSlHJcHR3VoaQ10m0UyQ=="
 ---

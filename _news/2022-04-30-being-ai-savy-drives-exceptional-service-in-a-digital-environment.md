@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T19:27:00Z
 originalUrl: "https://www.itworldcanada.com/article/being-ai-savy-drives-exceptional-service-in-a-digital-environment/481115"
 webUrl: "https://www.itworldcanada.com/article/being-ai-savy-drives-exceptional-service-in-a-digital-environment/481115"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: IT World Canada

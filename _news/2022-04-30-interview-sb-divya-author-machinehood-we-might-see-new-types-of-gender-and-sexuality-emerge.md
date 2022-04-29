@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T18:35:00Z
 originalUrl: "https://www.hindustantimes.com/books/interview-sb-divya-author-machinehood-we-might-see-new-types-of-gender-and-sexuality-emerge-101651257354724.html"
 webUrl: "https://www.hindustantimes.com/books/interview-sb-divya-author-machinehood-we-might-see-new-types-of-gender-and-sexuality-emerge-101651257354724.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Hindustan Times

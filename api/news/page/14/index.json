@@ -2,6 +2,102 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-04-14-if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people.md",
+      "title": "If You Want to Succeed With Artificial Intelligence in Marketing, Invest in People",
+      "excerpt": "While AI offers benefits, optimizing automation is only half the job. Marketing won’t deliver on AI’s promise unless the human side of the equation is given equal attention. Because business value increasingly depends on human factors including agility,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/014241e84a4e44bd907eb47e9b299287.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/",
+      "publishedDateTime": "2022-04-14T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-top-100-fastest-growing-ai-teams-key-players-exclusive-insights.md",
+      "title": "Top 100 Fastest-Growing AI Teams: Key Players, Exclusive Insights",
+      "excerpt": "Who are the key players in AI? What are their backgrounds and industries? And what can companies do to join the ranks of Microsoft and Google? This article provides exclusive insights into the top 100 fastest-growing AI teams in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6258162e5d6f160107015a7f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/amp/",
+      "publishedDateTime": "2022-04-14T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-use-automation-to-support-experience-not-to-cut-costs.md",
       "title": "Use Automation to Support Experience, Not to Cut Costs",
       "excerpt": "For some this means we've delayed our robot overlords from taking control, to others this means ... Tim Kulp is the Chief Innovation Officer at Mind Over Machines and a member of the Forbes ...",
@@ -594,6 +690,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
+      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
+      "excerpt": "When asked which function is primarily accountable for AI ethics, 80% of respondents pointed to a non-technical executive, such as a CEO, as the primary \"champion\" for AI ethics, a sharp uptick ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/responsibility-ai-ethics-shifts-tech-silo-broader-executive-champions-says-ibm-study",
+      "originalUrl": "https://www.asiaone.com/business/responsibility-ai-ethics-shifts-tech-silo-broader-executive-champions-says-ibm-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/pr-newswire_500_4_744.jpg?h=7de12b8a&itok=1ipjVXxk",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-neural-network-market-growth-2022-2028-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
       "title": "Neural Network Market Growth (2022-2028), Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions",
       "excerpt": "Global “Neural Network Market” (2022-2028) research report gives an outline of the business with orders, applications",
@@ -687,49 +826,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
-      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
-      "excerpt": "80% of respondents in this year's survey pointed to a non-technical executive as the primary advocates for AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
-          "width": 600,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -1043,93 +1139,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-six-nines-announces-support-for-aws-for-games.md",
-      "title": "Six Nines Announces Support for AWS for Games",
-      "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220413sf22045/six-nines-announces-support-for-aws-for-games",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220413sf22045/six-nines-announces-support-for-aws-for-games",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis.md",
-      "title": "Razer-designed Linux laptop targets AI developers with deep learning emphasis",
-      "excerpt": "Made in collaboration with Lambda, the Linux-based clamshell focuses on deep learning development. Lambda, which has been around since 2012, is a deep learning infrastructure provider used by the US Department of Defense and \"97 percent of the top research universities in the US,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/razer-book-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

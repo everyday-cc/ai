@@ -81,18 +81,27 @@ related:
     quality: 34
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T07:00:00Z
-    webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+    publishedDateTime: 2022-04-26T09:00:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
     type: article
     provider:
-      name: WTVW
-      domain: tristatehomepage.com
+      name: KTLA
+      domain: ktla.com
     quality: 33
     images:
-      - url: "https://i0.wp.com/www.tristatehomepage.com/wp-content/uploads/sites/92/2022/04/Wolf-hybrid.jpg?w=2000&#038;ssl=1"
-        width: 828
-        height: 815
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
         isCached: true
+  - title: "1st film written by Japanese AI bot takes movie-making to next phase"
+    excerpt: "Writer's block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the first film written by a Japanese AI bot is aiming to demonstrate what it can do at a major short film festival this year."
+    publishedDateTime: 2022-04-29T21:34:00Z
+    webUrl: "https://japantoday.com/category/entertainment/feature-1st-film-written-by-japanese-ai-bot-takes-movie-making-to-next-phase"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 17
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
     publishedDateTime: 2022-04-27T13:28:00Z

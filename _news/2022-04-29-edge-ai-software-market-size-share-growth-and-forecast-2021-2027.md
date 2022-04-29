@@ -39,20 +39,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Wearable AI Market Size, Share | Regional Analysis and Trends by 2026"
-    excerpt: "The Wearable AI Market Records a significant CAGR by 2026, according to the latest report published by Allied Market Research Recently, Allied Market"
-    publishedDateTime: 2022-04-25T03:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/wearable-ai-market-size-share-regional-analysis-and-trends-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/CCC-2-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI-Enabled Testing Tools Market is Expected to Project a Stellar CAGR of 16.9% 2022-2030"
     excerpt: "AI-Enabled Testing Tools Market is forecasted to be valued at 1.27 Bn in the year 2030 and exhibiting a remarkable 16.9% CAGR during the forecast period 2022-2030. Telecom firms are leveraging the potential of AI to manage and assess large volumes of big ..."
     publishedDateTime: 2022-04-26T05:30:00Z

@@ -52,20 +52,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Wearable AI Market Size, Share | Regional Analysis and Trends by 2026"
-    excerpt: "The Wearable AI Market Records a significant CAGR by 2026, according to the latest report published by Allied Market Research Recently, Allied Market"
-    publishedDateTime: 2022-04-25T03:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/wearable-ai-market-size-share-regional-analysis-and-trends-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/CCC-2-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Edge AI hardware Market Analysis Report , Types, Growth, Industry Analysis, Opportunity and Forecast 2020-2027"
     excerpt: "The global edge AI hardware market registered a transaction of 532.4 million units in 2018 and is expected to reach 1,681.8 million units by the end of forecast period with a CAGR of 21.72%. Growth in Artificial Intelligence (AI) has created huge opportunities for semiconductor companies."
     publishedDateTime: 2022-04-27T05:28:00Z

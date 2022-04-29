@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T19:58:00Z
 originalUrl: "https://www.fdanews.com/articles/207621-lunit-ai-analysis-software-for-cancer-protein-pd-l1-gets-ce-ivd-mark"
 webUrl: "https://www.fdanews.com/articles/207621-lunit-ai-analysis-software-for-cancer-protein-pd-l1-gets-ce-ivd-mark"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: FDAnews

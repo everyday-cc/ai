@@ -2,6 +2,83 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-20-316-frontal-cerebellar-eeg-source-localization-and-functional-connectivity-as-predictors-of-alzheimers-disease-related-cognitive-decline.md",
+      "title": "316 Frontal-cerebellar EEG source localization and functional connectivity as predictors of Alzheimer’s disease-related cognitive decline",
+      "excerpt": "HTML view is not available for this content. However, as you have access to this content, a full PDF is available via the ‘Save PDF’ action button. OBJECTIVES/GOALS: Novel EEG source localization and functional connectivity will assess frontal and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/316-frontalcerebellar-eeg-source-localization-and-functional-connectivity-as-predictors-of-alzheimers-diseaserelated-cognitive-decline/2A0F824ED78339B9FD789376E4DC0B72",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/316-frontalcerebellar-eeg-source-localization-and-functional-connectivity-as-predictors-of-alzheimers-diseaserelated-cognitive-decline/2A0F824ED78339B9FD789376E4DC0B72",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-designing-a-soft-robot-to-improve-lung-examinations.md",
+      "title": "Designing a soft robot to improve lung examinations",
+      "excerpt": "Seniors in the Department of Mechanical Engineering at the University of Colorado Boulder are designing a new soft robot to improve physicians' ability to examine the deepest part of a patient's lung.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/mechanical-engineering-2.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-soft-robot-lung.amp",
+      "publishedDateTime": "2022-04-19T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-cathie-wood-on-twitter-europe-in-recession.md",
       "title": "Cathie Wood On Twitter Europe In Recession",
       "excerpt": "Magnifi is a fintech platform that uses artificial intelligence so individuals and advisors can instantly search stocks, ETFs, mutual funds and model portfolios and trade based on their preferences.",
@@ -956,9 +1033,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/fox8.com/wp-content/uploads/sites/12/2022/01/GettyImages-1363640179.jpg?w=2000&#038;ssl=1",
-          "width": 594,
-          "height": 391,
+          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
+          "width": 800,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -983,83 +1060,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-bioxcel-therapeutics-announces-formation-of-onkosxcel-therapeutics-to-develop-medicines-focused-in-oncology.md",
-      "title": "BioXcel Therapeutics Announces Formation of OnkosXcel Therapeutics to Develop Medicines Focused in Oncology",
-      "excerpt": "OnkosXcel, a Company subsidiary, to utilize proprietary AI-powered platform to progress therapies to address difficult-to-treat cancers with high unmet need New structure to unlock growth opportunities and maximize value of neuroscience and immuno-oncology franchises Lead pipeline asset,",
-      "sourceUrl": null,
-      "webUrl": "https://www.texomashomepage.com/business/press-releases/globenewswire/8524357/bioxcel-therapeutics-announces-formation-of-onkosxcel-therapeutics-to-develop-medicines-focused-in-oncology/",
-      "originalUrl": "https://www.texomashomepage.com/business/press-releases/globenewswire/8524357/bioxcel-therapeutics-announces-formation-of-onkosxcel-therapeutics-to-develop-medicines-focused-in-oncology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TexomasHomepage.com",
-        "domain": "texomashomepage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities.md",
-      "title": "Hyundai chooses IonQ's quantum tech to improve its vehicles' object recognition capabilities",
-      "excerpt": "The automaker hopes the quantum machine learning services of IonQ can help it improve its 3D object detection safety systems for drivers and autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
-      "originalUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

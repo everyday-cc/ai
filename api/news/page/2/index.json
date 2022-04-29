@@ -240,7 +240,7 @@
       "originalUrl": "https://news.microsoft.com/apac/features/this-ai-enabled-robotic-boat-cleans-up-harbors-and-rivers-to-keep-trash-out-of-the-ocean/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -636,7 +636,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -676,7 +676,8 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI in Autos"
       ]
     },
     {

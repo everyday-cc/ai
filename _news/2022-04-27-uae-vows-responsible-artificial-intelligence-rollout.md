@@ -1,20 +1,29 @@
 ---
 category: news
-title: "UAE vows 'responsible' artificial intelligence rollout"
-excerpt: "The world's first minister for artificial intelligence says the United Arab Emirates isn't only looking for economic benefits as it seeks to become a leading nation in the sector."
-publishedDateTime: 2022-04-27T03:14:00Z
-originalUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
-webUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+title: "UAE vows ‘responsible’ artificial intelligence rollout"
+excerpt: "The world's first minister for artificial intelligence says the UAE seeks to become a leading nation in the sector."
+publishedDateTime: 2022-04-27T03:17:00Z
+originalUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
+webUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: France 24
-  domain: france24.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "WqfrHoqFe+n+utzhPEl+8GAlKIZ7E+ufY688dJv4DWOf3byIeASFmKksgZjXJsIEw8i88V2xiQ1tBpcCv1+5G84xCd4VJ/g68S9qjw179pX3eAU8YFBKark6o0y9RzyqOR/iWCno014jYrn0ym9k6147yFG3zBEaIJXmV4lXRKsJ3TMCV1V2REJiwB+FTwu6fWRleyiRxdbkreB4FN/aX1R7qeU0wOXn9KlfN7mcauNGOx6fnKcisMO63G5KqC+7MH5oc52vjDEXlnUzWWA0FTto8m4mdSu3KTZeGQI/17dXtsE/wLMThkOLl/wvVmBvypq3zT034Oo5rbiEsJZcJnhFivUhXQ564upALs/QrXA+XZNTsPaIpgTmsK3z4fWGF4RlBxAJH/Zrho3Y2PvPJvwvPCNtqaUKGxdfmF+y+awN+ZNzwEniXOrxyp+2R3H0EGPcd8lCkk7eU/POG0X9+Vwr7u7AETKsuo3ll+tfM7eMMZxaApSCYKTiVkXGiBGtsfh6cQzT2bRGDkb/aekZSg==;yxnB8ytQycVyYPBx03HkoQ=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/UAE-artificial-intelligence-AFP-1K-04.jpg"
+    width: 1024
+    height: 670
+    isCached: true
+
+secured: "6JjA0B3Tp0DZdmcrUmCT0nAN+YtSAQig+ZpBmkLsRez+4xckzxUCtM+4AKHcBvjI5unA0ojf2FrBBVP0//oYT2IXaMpqMUxpxkacE7bGRGytHi+yBRKwZpxe/7Fc7fBjtgGVy9fuIGKYE64RRunqLd4GTIWbMwS7q4Drzf7ppMrre11NOS2ApIptVTGtZIpjY3MSs08AeLeF9x2BPjxMkIkUZS3BvNinakgiJViXKO63JLrfW5Zvt7kg61EZ1aV3RKF/DBSZ2tLB5O0/Z/0lMXQCLE1rJ6HVYxYRsWBGgW+IQoZu0OL+x/yQjEe2AgMFz8RY4KYYjI8maUjB2czZ5lEuhJ3B/GEFL6AN8S1DIAo=;dCPnDeC3AzGs26qa9YN8HQ=="
 ---
 

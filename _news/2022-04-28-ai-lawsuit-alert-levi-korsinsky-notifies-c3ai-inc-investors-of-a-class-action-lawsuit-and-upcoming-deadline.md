@@ -25,22 +25,6 @@ images:
 
 related:
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-    excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ..."
-    publishedDateTime: 2022-04-29T03:27:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26889082/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26889082"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26889082"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
     excerpt: "The complaint filed alleges that, throughout the Class Period, Defendants failed to disclose to investors that: (1) C3.ai's partnership with Baker Hughes was deteriorating; (2) C3.ai was ..."
     publishedDateTime: 2022-04-26T15:50:00Z
     webUrl: "https://fox8.com/business/press-releases/cision/20220426LA35954/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
@@ -82,6 +66,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+    excerpt: "If you wish to serve as lead plaintiff of the C3.ai lawsuit, you can submit your contact information at www.glancylaw.com/cases/c3ai-inc/. You can also contact Charles H. Linehan, of GPM at 310 ..."
+    publishedDateTime: 2022-04-29T16:00:00Z
+    webUrl: "https://fox59.com/business/press-releases/cision/20220429LA41007/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+    type: article
+    provider:
+      name: FOX59 News
+      domain: fox59.com
+    quality: 15
+  - title: "AI LAWSUIT: The Law Offices of Vincent Wong Notify Investors of a Class Action Lawsuit Involving C3.ai, Inc."
+    excerpt: "New York, New York--(Newsfile Corp. - April 29, 2022) - The Law Offices of Vincent Wong announce that a class action lawsuit has commenced in the on behalf of investors who purchased C3.ai, Inc. (\"C3.ai, Inc.\") (NYSE: AI). This lawsuit is on behalf of a ..."
+    publishedDateTime: 2022-04-29T18:02:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/29/ai-lawsuit-the-law-offices-of-vincent-wong-notify-investors-of-a-class-action"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "MVOEgtwVhDFfUm37sp8PgS/Z+NJLF97FjMPrUoDiVxHjfLO+Hwyuup1le+UPyMoPTOqW0FZsAmQFyQCDIWaV9UpPTC+mxatX84J0GEGunF0l6qg3M5cF1wylrSmp3EgFEKtkj3tAw7JmxZdhdwhuVlftZuHs2YVV7QwNBsMDJjH+DRVG0msTIf9jOWd3Nu1zWxGKFhgG8h8ZRkikJQmCC7PhqHg46ZZVifs5EoBrnOonKpLyC27lwr1QTYHrq2TEzpVQlBoo7I6hjU3BYodEoQXl3g64W/IMiHa8QPscabmpZlrWzeIO9xEvCBiquiGWJ6xFUy+/eaFkbS4DxrXnrU8Hdq0C9Hm9VCuOWPDhimA=;uvHk++nzo8JW7sbdnGapNg=="
 ---

@@ -46,6 +46,17 @@ related:
         width: 2048
         height: 1280
         isCached: true
+  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
+    excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
+    publishedDateTime: 2022-04-29T20:53:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 38
 
 secured: "rYtVh5J3ARoJNy3yXVLJwgwu47yQrbeOWsjSyFF58sP+mzxthI7kisMJozTll1bhLEkFvQamkbPUS7DRuaCdBM1iSGPZTp0FRXTT8qTA8+eljQzDat/LeWFAS7+IFQOYutprN05IMk3M9P/fCU7tAXCvdjP3hYzDfyl98D43MHxgPlp803kt3VtBnLlf7RC0WpY0NU/r3rs/DEEM2UdwgFDioXj/iEHsGqCYxW5FNDFG1X8NTFqGLE6AerA4UZ4RQIpG/L1S2Ak37ENzlma6x3quBpCTPFxLkEfCB+yF2zBnmuJ2QI1fR5cEbOZY40D2ZrnG+WHceGOkYSDdwmR9l6tQpai2o/50DTRlA2GSbOU=;5PDZPhtT15ztlHbhBVfRLg=="
 ---

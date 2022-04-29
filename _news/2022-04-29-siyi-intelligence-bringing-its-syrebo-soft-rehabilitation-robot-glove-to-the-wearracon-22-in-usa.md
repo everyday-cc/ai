@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T15:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/siyi-intelligence-bringing-its-syrebo-soft-rehabilitation-robot-glove-to-the-wearracon-22-in-usa-1031403044"
 webUrl: "https://markets.businessinsider.com/news/stocks/siyi-intelligence-bringing-its-syrebo-soft-rehabilitation-robot-glove-to-the-wearracon-22-in-usa-1031403044"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Business Insider

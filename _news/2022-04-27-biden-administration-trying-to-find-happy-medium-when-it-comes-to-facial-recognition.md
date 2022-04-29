@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "GSA tees up equity study to explore potential of facial recognition for Login.gov"
-    excerpt: "In addition to testing for accuracy and equity, the GSA study will also look at how different vendor products perform and match up to NIST standards when it comes to the non-biometric aspects of identity assurance."
-    publishedDateTime: 2022-04-27T17:00:00Z
-    webUrl: "https://www.scmagazine.com/analysis/emerging-technology/gsa-tees-up-equity-study-to-explore-potential-of-facial-recognition-for-login-gov"
+  - title: "Brainstorming on the implementation of UNESCO’s AI Ethics recommendation"
+    excerpt: "Tawfik Jelassi, UNESCO Assistant Director-General for Communication and Information, pointed out the important role of IFAP in promoting a humanistic and multistakeholder approach to “implement useful,"
+    publishedDateTime: 2022-04-27T15:45:00Z
+    webUrl: "https://www.unesco.org/en/articles/brainstorming-implementation-unescos-ai-ethics-recommendation"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 34
+      name: UNESCO
+      domain: unesco.org
+    quality: 53
     images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2022/04/Facial-recognition-e1651076561621.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://www.unesco.org/sites/default/files/2022-04/ifap_ai_news.png"
+        width: 1350
+        height: 765
         isCached: true
 
 secured: "fAhMcHNGV977EDzzEwKfhpvO33fub/zQL4asZ3pHBtP4R5rbfFiSGWM4il8ul5TXpH9E+qnhUrVPSlCzUp7OZYO2uMW6J5A5Trmibw7cHDJagIfWtAC0Ay02wmXLA876jsLWnSyeclAPv2kdSnJn1FkL13krtwP/su/wnDdvqR+BHlwIEx1+9SLAWVUGe4E4hig/0yDPMHHX97SGOC4Kw06HdNhx8wwb1e4prxARrJb5kDyvaLrXs0lSBEpi/Sjf+aWdFRdAav1AIkWm1VC2V4uDRRoK0SkCX9Di5B/SxU3qY8GKlBTfeStol790AmmpqQJ+VX4X+8MhHwmV4nGXbZTMXiimKwYLzU3T4CyUJTrl9bptVN9EHxuTnIDNTOMa5/lHhnKs6jSLWdXsdwi2OwwnEYQrKZLsx3TconfFUPRLEtQAkiMACI635hgjb788x6mV0mx3BpMKSDHvyCRTkfFRoUUaM6kdzf3IQ1EHZf9QesJuEv67VbUvg10C5eeUK0kstTDhzLAtJv1pBBI7qg==;xdWDzDsgpL4METPNq2JbNQ=="

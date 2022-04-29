@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hirin
 ampWebUrl: "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/"
 type: article
-quality: 89
-heat: 139
+quality: 91
+heat: 141
 published: true
 
 provider:

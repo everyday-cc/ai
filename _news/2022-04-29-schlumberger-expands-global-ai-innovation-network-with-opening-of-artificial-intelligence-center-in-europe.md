@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T15:44:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-houston-norway-artificial-intelligence-6b15339b4687463c84f76cf316e2567e"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-europe-houston-norway-artificial-intelligence-6b15339b4687463c84f76cf316e2567e"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Associated Press

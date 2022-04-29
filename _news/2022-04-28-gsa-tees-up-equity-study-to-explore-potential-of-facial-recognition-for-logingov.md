@@ -24,22 +24,6 @@ images:
     height: 1414
     isCached: true
 
-related:
-  - title: "Biden administration trying to find happy medium when it comes to facial recognition"
-    excerpt: "Can the government safely and equitably use facial recognition for identity proofing? That is the question the General Services Administration’s Technology Transformation Service is asking. In a new request for information,"
-    publishedDateTime: 2022-04-27T14:35:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-newscast/2022/04/biden-administration-trying-to-find-happy-medium-when-it-comes-to-facial-recognition/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 32
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/04/Congress_Facial_Recognition_84056-400x270.jpg"
-        width: 400
-        height: 270
-        isCached: true
-
 secured: "jdvkeA+5AUBA5SpbQT4EtMf4ydyzEAciqglEf07Q33pFxVk7QMS2GJJVIhpAfUBfM+HV2BVSAsMmkJ8YMtBoZ2GcxUVVJey9rFeNU3x8MRvLhkzNvJKgkMXG/NuGzpcmg3mbhpobUlrB1n60ncAuMzE8Z4Ftq9eLCgzmrl+ugDOG9dRhD/yOZpGfZaX/1aWObtOPMLZ1m+yNdUlqwP/8MQr3b/8TKZVXfY/TO9yg75iTj0ZCHcyJC9eXKHFpN3DbjRYt95/z+Fyq5F3+xZi/Ha1Mt8PXuUBGjwgJhi7dHi4jgWcb/8EYDxnkulM4F6zULjQ9MHOLsz+zshdKgDG3TL5gS7Xjxu4fU1VDpOmrgGVYDXLh8QiAF7aspt+p3GEY+4HpxOnnV8EQTNDZAwfFwgsjRGIO+2vdDPW9UgkAKV8dOPPfGuRxF4f6shjrblTFmLkV1novb5Ku9aO4AJKDcpzfYpzgVyG88KUoq7il7HxTbf/Sl61si1O2oz036qwjpmrX6KNp/lIBwCLQy+c0Qg==;WBMMZaBpyuoIU5rtmsspMQ=="
 ---
 

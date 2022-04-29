@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-8bbf3842fe2aa578bcfbc38f3a7f3f7e"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Pathr.ai™ Announces Integration with Hanwha Techwin America to Bring Spatial Intelligence Technology to the Security Industry"
-    excerpt: "Retail Asset Protection Conference, Orlando, Booth #RIC-11 – Pathr.ai, the industry's first and only Artificial Intelligence (AI) powered Spatial Intelligence platform, announced today it is working with Hanwha Techwin America,"
-    publishedDateTime: 2022-04-25T01:28:00Z
-    webUrl: "https://www.wspa.com/business/press-releases/globenewswire/8527566/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence-technology-to-the-security-industry/"
-    type: article
-    provider:
-      name: WSPA
-      domain: wspa.com
-    quality: 27
-    images:
-      - url: "https://i0.wp.com/www.wspa.com/wp-content/uploads/sites/53/2021/05/usc-baseball.png?w=2000&#038;ssl=1"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "67XVGzY2n24jOeUMBlys31gqKjoyBeZzQPDdQMLLZrkHUmkN+osVbH4P+/swru+d/c5IwyCzRtfN2tteuwYwJl9i85dps6OkwTSnx6VmzbDf1CkR5Wd6fRzL34sxnKamgnomq1zukD9KNTzbKhhEHDd+3m34XJ+ZCw82UjcJFVmYzqMezBS+P1Ui74FN6wOy461BkNC53spujhGQZAB1xB+Ftj/6PiDBNqouKN++cOAnjFDKEx/IR5LKNcH1GEssvuZONHSdiYOlu/FxNe/L2nleJi4XP2haO6OKil0cXOBuBECMtqWfSG6O3Uaca8PdHcms4yDjVhcc7p7GTHlELKuVmcwZppmg5PShHDOo/TE=;Px39x7P6t9LEZcrHbG4dAw=="
 ---

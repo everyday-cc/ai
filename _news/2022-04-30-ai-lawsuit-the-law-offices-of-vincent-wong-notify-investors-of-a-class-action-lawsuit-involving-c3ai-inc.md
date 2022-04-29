@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T18:02:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2022/04/29/ai-lawsuit-the-law-offices-of-vincent-wong-notify-investors-of-a-class-action"
 webUrl: "https://stockhouse.com/news/press-releases/2022/04/29/ai-lawsuit-the-law-offices-of-vincent-wong-notify-investors-of-a-class-action"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Stockhouse
@@ -13,6 +16,73 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+    excerpt: "The complaint filed alleges that, throughout the Class Period, Defendants failed to disclose to investors that: (1) C3.ai's partnership with Baker Hughes was deteriorating; (2) C3.ai was ..."
+    publishedDateTime: 2022-04-26T15:50:00Z
+    webUrl: "https://fox8.com/business/press-releases/cision/20220426LA35954/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 35
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+        width: 800
+        height: 340
+        isCached: true
+  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+    excerpt: "The complaint filed alleges that, throughout the Class Period, Defendants failed to disclose to investors that: (1) C3.ai's partnership with Baker Hughes was deteriorating; (2) C3.ai was employing a flawed accounting methodology to conceal the deterioration of its Baker Hughes partnership;"
+    publishedDateTime: 2022-04-26T18:00:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220426LA35954/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 35
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
+  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+    excerpt: "If you wish to serve as lead plaintiff of the C3.ai lawsuit, you can submit your contact information at www.glancylaw.com/cases/c3ai-inc/. You can also contact Charles H. Linehan, of GPM at 310-201-9150, Toll-Free at 888-773-9224, or via email at ..."
+    publishedDateTime: 2022-04-29T17:00:00Z
+    webUrl: "https://www.wivb.com/business/press-releases/cision/20220429LA41007/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 35
+    images:
+      - url: "https://i0.wp.com/www.wivb.com/wp-content/uploads/sites/97/2022/04/Mug-shots-4.png?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
+    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
+    publishedDateTime: 2022-04-28T10:45:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220428NY39116/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1687309/LK_1920x1080_Logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+    excerpt: "If you wish to serve as lead plaintiff of the C3.ai lawsuit, you can submit your contact information at www.glancylaw.com/cases/c3ai-inc/. You can also contact Charles H. Linehan, of GPM at 310 ..."
+    publishedDateTime: 2022-04-29T16:00:00Z
+    webUrl: "https://fox59.com/business/press-releases/cision/20220429LA41007/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+    type: article
+    provider:
+      name: FOX59 News
+      domain: fox59.com
+    quality: 15
 
 secured: "NpeAOgieuhBab+kMRdmG9Zn9eMHNf5cfuRM7oT9t8EKSLDe8+TVHJidA7kq/3FKqryqK7gZn9zYdcq6QIGaWfGNDQISoxJgqgM+OoE1MpryyZEGD90tBKfOVNFIR5gJzt4edo7zYHESoDH8DEFFmStzfIH8EfUxIUWC8DM+nlYsuwQ33d/xcMFhpcYX4+JrsC7GeBUoYoJ3o/iSnoHapSChfCp83aXJVE4+tW1kj7A9N+A19YbxOeu4hl/oE6okUSH3EQ+gFPowOGvOo+4lviqGSUvXqzf5yd4pT4cHi0+5+SGY0v0BMcBMn+nfTJ9AqKmdJ9d96QNBOIAT0+m2nlHI1GROjc3Y8pgcrmvxZX2TAnkRib+ZKedLj89+Pc71EjKhMR2Ek1A6hKr0YTc3KA62M1tYMZmade4ziRtN4K94v436Y8FZAXfzJjC4HQLcHg4upEJNe1WH7QFQgOuJfiKM1BVFGI2Axr8U4Hs2UR1rk8gpxe+KpDQ084BQRrK+IAzfe7QIdVhEL9V63dPvgww==;p6IKa32YNvo/LSBER/EMWg=="
 ---

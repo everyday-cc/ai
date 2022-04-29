@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T19:04:00Z
 originalUrl: "https://insidehpc.com/2022/04/aws-launches-storage-optimized-ec2-instances-i4i-powered-by-intel-xeon-scalable-ice-lake-processors/"
 webUrl: "https://insidehpc.com/2022/04/aws-launches-storage-optimized-ec2-instances-i4i-powered-by-intel-xeon-scalable-ice-lake-processors/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: insideHPC

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VC investment into European fintech set to enjoy stellar 2022"
-    excerpt: "The data from PitchBook shows that VC investment in the UK and Ireland continues to enjoy a purple patch, outpacing other European countries this year and that VC investment into European fintechs has enjoyed a strong start to 2022."
-    publishedDateTime: 2022-04-25T04:52:00Z
-    webUrl: "https://www.altfi.com/article/9144_vc-investment-into-fintech-set-to-enjoy-stellar-2022"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/vc-investment-into-fintech-set-to-enjoy-stellar-2022.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "How neobanks are set to disrupt $31 billion Indian fintech market"
     excerpt: "As the third largest fintech ecosystem in the world after the US and China, the Indian fintech market is poised for further disruption with the emergence of neobanks"
     publishedDateTime: 2022-04-27T11:53:00Z

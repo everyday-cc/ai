@@ -40,6 +40,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Bronstein, Gewirtz & Grossman, LLC Reminds c3.ai, Inc. (AI) Shareholders of Class Action Deadline and Encourages Investors to Actively Participate"
+    excerpt: "Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC notifies investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3&CloseCurlyDoubleQuote; or “the Company&CloseCurlyDoubleQuote;) (NYSE: AI) and certain of its officers ..."
+    publishedDateTime: 2022-04-29T18:01:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/29/bronstein-gewirtz-grossman-llc-reminds-c3-ai-inc-xa0-ai-shareholders-of-class"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "h2ScXumb42SViOp82pSbgeMinKGzBA6r+T1VpX5V631xp0FZdgkykav1b4LMzTAwjCozOUaLEN/05eAQFX9Y0ufURabuXHjT/qMF86aA4kgaHYT4JvoJZexufJqcBDREEZ4jkKSvXbmbdBssNJb970eWnQuWsYyC7eP+mIRagBeP/qPKf4Q19adcXh5KxKTb54hrYTMCvjvqRr3E+GCqYH5bujwtqMgtKR5eEag1ejwcYTeQDZIS5LrausAgroMaEZ3mdG/7q6mIs53q23SBPKdXDyA32v9WIB68G2W9ZDsVYLb4j8R6VqWKMqbu1LrfCfxwgRHalBwCUjfCrBMTIFUmRkyUhUdoql1/ADqKbgQ=;0fRdpjCw8LZsV11+SX+j4g=="
 ---

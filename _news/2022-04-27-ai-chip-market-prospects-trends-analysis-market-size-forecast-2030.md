@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104104053/AI-Chip-Market-Prospects-Trends-Anal
 webUrl: "https://menafn.com/1104104053/AI-Chip-Market-Prospects-Trends-Analysis-Market-Size-Forecast-2030"
 type: article
 quality: 53
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
     quality: 39
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/151736a6e2eb8d12cc67e3bed8e4ef2d99f0efcc-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Wearable AI Market Size, Share | Regional Analysis and Trends by 2026"
-    excerpt: "The Wearable AI Market Records a significant CAGR by 2026, according to the latest report published by Allied Market Research Recently, Allied Market"
-    publishedDateTime: 2022-04-25T03:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/wearable-ai-market-size-share-regional-analysis-and-trends-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/CCC-2-600x337.png"
         width: 600
         height: 337
         isCached: true

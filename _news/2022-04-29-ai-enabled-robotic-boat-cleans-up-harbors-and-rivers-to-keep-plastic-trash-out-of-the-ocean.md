@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "An AI-enabled Bot That Cleans Water Bodies!"
+    excerpt: "It can collect data for companies, governments, non-governmental organisations, and individuals using Microsoft Azure and monitor the origins of marine debris. Subsequently, it can combat pollution at the source. AI-enabled robotic boat by Open Ocean ..."
+    publishedDateTime: 2022-04-29T17:39:00Z
+    webUrl: "https://www.electronicsforu.com/news/whats-new/an-ai-enabled-bot-that-cleans-water-bodies"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 19
 
 secured: "l1oXLiUMnDe3w0u6kEmUIp7eL8WCgHYQGlRoXAtCi+Ha00PthG/toIbvkAM/C5swlEoy5utH9oqbww4tGfl/XsWNEXZBw5ieXHoqVnb4WCus1kaD5wlxPC1c68VaLfROKe68XEqy5kiC/T6KNT5LQPmGASBeCH5UUKsNwVl4Phr5Fd02Xc/V6uS35z2kHJ4vWwxWwlYKIXmU12GvMKOwQrdK4rA+VU+dPNNNeHDi/LYE5FwXt8odjnhRz+5QwxR8LqKAvXKOnKAtUNcYCeFd5m11aNPQAmj1wmKkchtxATtaiM6LzU1L5ZyWFTHjEbVVfHhS08MtGDRWGYeazXwOgn8m5gqyD339KJ4lrvjexQg=;LvK2mEoVzZ9henHxCk3nOw=="
 ---

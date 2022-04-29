@@ -7,7 +7,7 @@ originalUrl: "https://www.unesco.org/en/articles/brainstorming-implementation-un
 webUrl: "https://www.unesco.org/en/articles/brainstorming-implementation-unescos-ai-ethics-recommendation"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -25,51 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How much does an AI-based recommendation engine cost"
-    excerpt: "Just like any other AI project, the cost of the recommendation engine depends on many factors like the business goal, data availability, data complexi.."
-    publishedDateTime: 2022-04-25T03:20:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330"
+  - title: "Biden administration trying to find happy medium when it comes to facial recognition"
+    excerpt: "Can the government safely and equitably use facial recognition for identity proofing? That is the question the General Services Administration’s Technology Transformation Service is asking. In a new request for information,"
+    publishedDateTime: 2022-04-27T14:35:00Z
+    webUrl: "https://federalnewsnetwork.com/federal-newscast/2022/04/biden-administration-trying-to-find-happy-medium-when-it-comes-to-facial-recognition/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 32
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91062330,imgsize-55098,width-1200,height-628,overlay-etcio/how-much-does-an-ai-based-recommendation-engine-cost.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "What determines the cost of an AI project"
-    excerpt: "Artificial Intelligence projects are complex as it involves models, data, infrastructure, technology, and importantly a compelling business case. Broa.."
-    publishedDateTime: 2022-04-25T03:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91062200,imgsize-28022,width-1200,height-628,overlay-etcio/what-determines-the-cost-of-an-ai-project.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Replacing the cookie jar with an AI-based audience engine and first-party data"
-    excerpt: "As the digital marketing world continues to look for alternatives to third-party cookies, an ‘audience engine’ driven by artificial intelligence (AI) and robust first-party data could provide a route to deeper customer insight and accurate targeting."
-    publishedDateTime: 2022-04-25T14:42:00Z
-    webUrl: "https://www.thedrum.com/opinion/2022/04/25/replacing-the-cookie-jar-with-ai-based-audience-engine-and-first-party-data"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 35
-    images:
-      - url: "https://media-assets-05.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-247257-javier-allegue-barros-c7b-exxpoie-unsplash--default--1280.jpg"
-        width: 1280
-        height: 853
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/04/Congress_Facial_Recognition_84056-400x270.jpg"
+        width: 400
+        height: 270
         isCached: true
 
 secured: "CzMYRu1yRZNwA1aCysMqNabQK5hGz6rayOgVaOjiQ9kZ5pWTvwplMfMNbji6HomTQOayRxI9nsXb1VGlojCyqi2CLi1HHdrqZ6bRElXqIMxk01HgTzxvNTojCHZU7dYVIaW6K9Y7dRYIo784kv5pz7QD85PNtJIcfBIfKjak2cLWxLthM7wpxqGc00m8fasH9znmZ4TeqPpnB5FwIk2HaXqjCFxZLmVOS0ypOfBqDUl8f/n/9ZvGUh5glfk0TQcP+DntBbTPthPbk8PGMpzdpWYL6LzToWw8s6Jlg1l0B61+SqkffpRm1X1qr7sdQxPChvtLlNYuB3fig5i0VjZHoulHEulY/FURdieO7WitrqU=;4PLjxlZti5YaVkzOJuzkYw=="

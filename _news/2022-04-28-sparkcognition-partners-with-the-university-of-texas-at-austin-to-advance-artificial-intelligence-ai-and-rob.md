@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-partners-with-unive
 webUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-partners-with-university-texas-aust-to-advance-/2022/04/28/9591574.htm"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,19 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "SparkCognition Partners with The University of Texas at Austin to Advance Artificial Intelligence (AI) and Rob"
+    excerpt: "\"Texas Robotics is a great representation of the university's dedication to innovation in robotics and the use of artificial intelligence to fuel industrial change,\" said Prof. Bruce Porter, Chief Science Officer at SparkCognition and two-time Chair of UT ..."
+    publishedDateTime: 2022-04-29T20:54:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/sparkcognition-partners-with-the-university-of-texas-at-austin-to-advance-artificial-intelligence-ai-and-rob-1031396992"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/sparkcognition-partners-with-the-university-of-texas-at-austin-to-advance-artificial-intelligence-ai-and-rob-1031396992"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/sparkcognition-partners-with-the-university-of-texas-at-austin-to-advance-artificial-intelligence-ai-and-rob-1031396992"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 34
 
 secured: "bBda0MhWdsu51GJEVpqsuC4HUep/DHW70B4JJe9sOEiFMfN2jJBtw/JoqmTsBDkg5KONpCxKKOjsNT6qdrQBAEvyDko1gFUTTEPQnGitIAPLWPKi3a4uznEPBtR1PXhtRhfT6eQzQnWV3SfbPw9IdaV1t45af0bpN5KXBlcBE5GSNpqNW+jNhOkcLjkS3L1Es6JAn0/WRfTBofaZpKG5y+Jnit556yY/0yiI+29h4FeQBDSxExRsJztRW35aOiqI8cjxAihx/EixpJdrQL9ZKcJIp/22XqhSDEXUiCY8j/KcInljkri0+BNvz4voUA18ZUgRUX20196tfPJXmkcIssJ3vgInWlaz5uoNGjAoqxs=;9Zi2qUYaVW4GWrTCBIJE3g=="
 ---

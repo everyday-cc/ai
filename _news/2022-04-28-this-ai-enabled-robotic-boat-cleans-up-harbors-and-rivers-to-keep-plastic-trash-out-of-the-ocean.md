@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/apac/features/this-ai-enabled-robotic-b
 webUrl: "https://news.microsoft.com/apac/features/this-ai-enabled-robotic-boat-cleans-up-harbors-and-rivers-to-keep-trash-out-of-the-ocean/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 599
         height: 399
         isCached: true
+  - title: "An AI-enabled Bot That Cleans Water Bodies!"
+    excerpt: "It can collect data for companies, governments, non-governmental organisations, and individuals using Microsoft Azure and monitor the origins of marine debris. Subsequently, it can combat pollution at the source. AI-enabled robotic boat by Open Ocean ..."
+    publishedDateTime: 2022-04-29T17:39:00Z
+    webUrl: "https://www.electronicsforu.com/news/whats-new/an-ai-enabled-bot-that-cleans-water-bodies"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 19
 
 secured: "Kprker4ZIzkALzXUQnvp/GaKGogIXeHQwdpm5NSxZyF0a5iZwpP9JvLuUkJLt+aatBMuKp/oaP3Pf6+GjHkfPRNpoWwircucXiO30lN0aT7lfMLebGvtrA/jXEmykPP59Wp4Thp0b3xocNRVRsshg89lbUtPwgJhNJyTqghPIJ7fzd31SPIL9Mq8vBF9ebzuRE0plQ88esshoyQ/rP01DSQY4yRvu6VYV7/8Zmhs+lGsCw+DwPIxJMjXb3OstxBWrCRYYOXjPp5Bba6RUFRCICQFxrwrcUbA3oplHZfZDB2cjLGrvxHv2mrlD3ZIQ8oH6dTBDDzHCTYMluGf2Dkut0ebKooazmPRtjc9aRq6rmBowgEtXdnjzMeACKhmikxKfc7xwGwcZq6s3rCDVjXgOsPYwiBCUvi7wxSRN9G9em4q/onXd+f7K+OTZlWc8uOouB+SU3TEpJoT66ZCgyqI2cU7QiYdV+/NbXQ+U4/e3wsb0DK7Ra2K3JI8Od/O80XgY9APqZeFofnPkV3W7FDmofWQRKwFs3waZYS7dw2hbak=;LReArR/PQxi0G3Bw+5U5Ew=="
 ---

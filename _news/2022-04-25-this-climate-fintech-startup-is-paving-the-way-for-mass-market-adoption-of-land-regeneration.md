@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
 type: article
 quality: 63
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/28/full/20220428194524.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "$36B+ AI in FinTech Industry Trends and Opportunities Assessment, 2027 - The Increasing Utilization of Smart Contracts for Financial Processes is Driv"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
-    publishedDateTime: 2022-04-25T02:46:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=652294"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "tlzDb8klLS5tDXOZMqBMKpJTrdvMfj4XpnfAYcMKLvgmXBinv8L1p1Efgd0tQrCaFhYPzkA/O7b0ZikhwW73msqIjUoy8JqZ91AACc7m12ZbiHxvHM0tmamAwO/FubFEXJz+5mG7dLeRWpzVEW+GDIXDzHW0eOv1nca77WfVxKWzLuQXZNKkpkOGG3cJc4J6zyc9ELeWyhgyD1yELbI94dDf5AIjAO+cFZxwrtSUSLaV2ScHeNVLVEc94cW2prGsP829ZzknCcX+ROb7gng+ldldgLsAoD7XNQGhJcYAE446ebq5rHNUjbDOKffUkChn3hkM2JAno3RRPBQ4Q2bFjsr9UzpLKav7ngHMhmtIFAg=;hBRNGUnIOqC4DyplSYhA4A=="

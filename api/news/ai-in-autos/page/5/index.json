@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-18-ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns.md",
+      "title": "AI and Human Enhancement: Americans’ Openness Is Tempered by a Range of Concerns",
+      "excerpt": "Developments in artificial intelligence and human enhancement technologies have ... media companies to find false information on their sites and the development of driverless passenger vehicles. The other three, often described as types of human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/",
+      "originalUrl": "https://www.pewresearch.org/internet/2022/03/17/ai-and-human-enhancement-americans-openness-is-tempered-by-a-range-of-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/03/PS_22.03.06_AIandHE_featured.png?w=640",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-poll-shows-americans-optimism-toward-ai-and-and-facial-recognition-but-brain-implants-not-so-much.md",
       "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition — But Brain Implants, Not So Much",
       "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an Artificial Intelligence system from Google Vision, performing Facial Recognition on a ... [+] photograph of a man ...",
@@ -1275,49 +1318,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts.md",
-      "title": "Artificial intelligence and corporate social responsibility can strengthen anti-corruption efforts",
-      "excerpt": "AI has increasingly become a part of our daily lives, from digital assistants like Siri and Alexa, to self-driving cars like Teslas and ride-hailing applications like Uber. Given that AI has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "originalUrl": "https://theconversation.com/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/450789/original/file-20220308-27-1g7ieyt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts-177883",
-      "publishedDateTime": "2022-03-08T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

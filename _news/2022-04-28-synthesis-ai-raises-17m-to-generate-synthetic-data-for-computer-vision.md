@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/04/28/synthesis-ai-raises-17m-to-gener
 webUrl: "https://techcrunch.com/2022/04/28/synthesis-ai-raises-17m-to-generate-synthetic-data-for-computer-vision/"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 2048
         height: 1280
         isCached: true
+  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
+    excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
+    publishedDateTime: 2022-04-29T20:53:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 38
 
 secured: "IsUmXrtLlBsvEP2jQoh1NjAwvBYv8uLfdT1sPp+vdamHBDoq3FFenR8unOOpOnL9r4SLfMe3CAoJgeQORq38bYv1QigizbQjK9OaPq8BSDDLU9YXw8oji7NvkUuJP1oBiO0P7ijwLtz/izq6XHUCNAi2lFDuyFF7M7/VEfHKA051ntyyMZBNDuClaNSxHUsw/pj5/VlGqa7lAdgIqhvldEQ6IOD2Ib/LspAFDfWg8G/n32oeDAM5WPAWwMN6qitqJGiTVaeuW0QYzUpCRZZ+nIiC2AfYeqHPFwAZy7HNuGoAbkEbbZVb0aBxMw1LOK1fySeUnLNmY/CH3fpvE0lf4yNRxfdq8doC/HbZ149zc49HSHBPN+C2o3lGZ/kUBuh/ifooffxcJ4mD6jJyyJeOZ8sUVhdEENPXtO8y0isTVQmiewGcSDZOZkKRqmxyC40TQ5NQ663zV4LCTvCEvxjBPkRKbq3WC7lAzDEbeaJhRTsqrd2vbnVsNKc3oEX/CLZavIQH5a3DlRTysS1iZCyBdA==;0ySbfIL+vFLu4CYjNSgisw=="
 ---

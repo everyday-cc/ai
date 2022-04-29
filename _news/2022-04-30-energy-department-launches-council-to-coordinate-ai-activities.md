@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T19:16:00Z
 originalUrl: "https://www.fedscoop.com/doe-ai-advancement-council-launched/"
 webUrl: "https://www.fedscoop.com/doe-ai-advancement-council-launched/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: FedScoop
@@ -13,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "3LFobe1ep48FlCtXgiJGJ7yIW81bL2O7PW3/5KQFkIOdPGW7VtiYcFBlGnFXlqHET8fZl5jbGtMpj+DbNvw5b2ybWqAAMmeoTY6KXcaMvMgdykTZH09hu4aoVdGavRj8jXIYQ5fgxRjzF8UM7IFtVafFoMIdamV9veXDUnZiAHeT/c7kzORbgJLDVZS5anQsn57RpbjMo/nimoHjpeo2gyyWO8g7GRQSx5/MCHh3LjBZwtfLQrIxlPno1kbzO5D66qZL8bJme2YU0UAJz6afNK8Bqqg0yFi8QMhO1JbHQo7JNJ9EBsyOKbNstLgiZtOQ2w3orDdRtkUXk95pZGBaqHOQJX5HEaezBj+QJcB/4bDg+ZnSB+Tefx09Bllbays9BWx24Sfs6W0X9b7rhkkrP+E3fX5af9vzjgc8/bZok/DT88Pwv9OY0Gw/pQnCyz6kIcMp3FvL37yEkz7lRKNwYadhTbWq8jB7BBfeNVrS8tXrqwp2SsvKjALORZj00IafanCK8PlVi8xPxlZmnB/YfQ==;A6dpxb7dYj/PygT6PgO0Dw=="
+images:
+  - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2018/10/cloud_panel_dell_summit_20181003.jpg?w=1200&h=500&crop=1"
+    width: 1200
+    height: 500
+    isCached: true
+
+secured: "ZSF7JP1q45k7Yq+ay01zTvlKGLBam+F5B1Por1rs9mk+K8zayPmH+XxLhm7xlM1p/pxWX7fWuYyY1sLOZq3VjT3GvHuBHoLzBi7i1D7Q+t9VA0fXCurLK7LeJCPPJ1L+94dTHsBg8OfLE4SpoK0hi60BLjKXwvJWIEmVABTtiGNAPXGYCARQkg2JNO6OXBhh5a2CvRdNxn/PS09UtZQ9JD/S2kXOtpiG0huGW9nTqf+3yhcOrPg1+2Z68Mv+oltxhNOdb/YQxW/8mKZINZn268/ho5IDQJx57pxcxxw/D/BRUQpZlvibrHEnGJybEvoILyslfU9ovY9/r+ESEdjcBePlblaknvX76idj6841F1Q=;OGH6A83RaYX4oGMfiZJDeA=="
 ---
 

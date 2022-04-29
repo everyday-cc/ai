@@ -20,17 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Intel Develops AI to Detect Emotional States of Students"
-    excerpt: "An artificial intelligence software solution developed by Intel and Classroom Technologies to identify students' emotional states is generating controversy in the context of ethics and privacy."
-    publishedDateTime: 2022-04-27T17:41:00Z
-    webUrl: "https://cacm.acm.org/news/260436-intel-develops-ai-to-detect-emotional-states-of-students"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
-
 secured: "ypViaKqFeBg4BQa8qScx+vw2WeIY8OyUy9mtCt+pJIX4CrGJN3Epd3hGum57PF/Orw+15ZnONExMn5k8wkuBlPDTMsX+jiMhoTnd2YAEAW/ustR7lag7WTv5xSa+Hzz8t1H/FxoClhkyFYWQRHXqYeuQabqv1Opg/WV6zVzl3dLP/XGkbt7wjN4BqeSTyr2rN4vID3PlEMhBdNdrokoMLkQXBxMqv2oyj6+eadY8bo/hjtjODYmx3jEMEkbzlDuqFeELi5Tgn61X0nhEGCLoEw+SfH0VSNa9SjoFRWOdfi5hXV99Vt6/CcsjeU4aSvoIQRjsEun4NaZWT5qMHNC5R7vOZpr8i/hVNxNSNuwjVxjzS1/XHRZQSmTE3s9GAZ/Vxdqnh1xXpIDLK5UIBNTuioXvomHibF/CzS8He3o5gtSwzsfdhnOOjvkWhuii4PxaRSuU0WFHXrkzHshMAgDajrFf5EVv7Eb7E8WNkhbEZ6/n8xGZwhjSxDDVwQQEYznOOGXa21hLg47i30ef/hwUnw==;QlSDk4MU52ltUSqtpxWMsQ=="
 ---
 

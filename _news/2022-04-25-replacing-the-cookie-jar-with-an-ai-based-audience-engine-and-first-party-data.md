@@ -25,51 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How much does an AI-based recommendation engine cost"
-    excerpt: "Just like any other AI project, the cost of the recommendation engine depends on many factors like the business goal, data availability, data complexi.."
-    publishedDateTime: 2022-04-25T03:20:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330"
+  - title: "Utah-based IT firm is automating accounting and payroll with AI bots"
+    excerpt: "Robotic accounting makes life easier for everyone. And if your business hasn't jumped on the Robotic accounting train yet, you will once you learn what a difference it makes."
+    publishedDateTime: 2022-04-25T13:00:00Z
+    webUrl: "https://www.ksl.com/article/50392005/utah-based-it-firm-is-automating-accounting-and-payroll-with-ai-bots"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
+      name: KSL
+      domain: ksl.com
+    quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91062330,imgsize-55098,width-1200,height-628,overlay-etcio/how-much-does-an-ai-based-recommendation-engine-cost.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "What determines the cost of an AI project"
-    excerpt: "Artificial Intelligence projects are complex as it involves models, data, infrastructure, technology, and importantly a compelling business case. Broa.."
-    publishedDateTime: 2022-04-25T03:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-determines-the-cost-of-an-ai-project/91062200"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91062200,imgsize-28022,width-1200,height-628,overlay-etcio/what-determines-the-cost-of-an-ai-project.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Brainstorming on the implementation of UNESCO’s AI Ethics recommendation"
-    excerpt: "Tawfik Jelassi, UNESCO Assistant Director-General for Communication and Information, pointed out the important role of IFAP in promoting a humanistic and multistakeholder approach to “implement useful,"
-    publishedDateTime: 2022-04-27T15:45:00Z
-    webUrl: "https://www.unesco.org/en/articles/brainstorming-implementation-unescos-ai-ethics-recommendation"
-    type: article
-    provider:
-      name: UNESCO
-      domain: unesco.org
-    quality: 53
-    images:
-      - url: "https://www.unesco.org/sites/default/files/2022-04/ifap_ai_news.png"
-        width: 1350
-        height: 765
+      - url: "https://img.ksl.com/slc/2873/287352/28735283.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
         isCached: true
 
 secured: "g+nGOLdRj1u+Tk1XCfgGHqA1IcXn64I77qS+XoIPK2WwqUd4Z9WtPGKqLTBwiYYAg1Fc0YEqhFd0N3ZKHJsrYVzT/VBf9DTQQtoPolgtGzuYZq7SpGDANi2HfxCgZgBUq3ZAIR7/T5eY6EbEKOBz60L4oPcRk+Flqen7Dua14/aKXP+D4N88+hsgZbxj9TBHUdQkiG/bsFzIIVh6HOsG9TcirUFzua4+PmKg021frpzeAcjmbsb6J4Q9LlqknjG/cp8DlLedeu9592tQAdcJEoAMmSC95ln+UCWGIg2Ecwb8bqe9R2XIEGr037pBV45WJRke4+KqEjiXNK4EtJ+qlVpy58FW7NsyEHgNnVbXR9cKwrEO0iIVkotW62Wh5Bsw1oeIENaRlzJmK9BBeYzKEpFojZ+Cbn6yPuqK+lLflgHMMWmI8/kyEEsgnSgXJN/avae+1xE0R+kSEuaVDAtdS8/tFZpkiv1JS3eR41gSVN/Qj6wUOW60ER9GxOdWIF220QKW6ND/MmOB7QwQKbtaUA==;ReOS843A99qP8N/4nPyXrA=="

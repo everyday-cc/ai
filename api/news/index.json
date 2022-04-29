@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-30-intel-dell-launch-ai-incubator-lab-at-arizona-community-college.md",
+      "title": "Intel, Dell launch AI incubator lab at Arizona community college",
+      "excerpt": "The lab is part of the AI for Workforce Program. Launched in 2020, the program's goals include helping students get workforce ready by equipping them with hands-on AI knowledge, skills, and experiences. Dell is also a corporate partner in the AI for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/computers-tech/intel-dell-launch-ai-incubator/",
+      "originalUrl": "https://www.zdnet.com/education/computers-tech/intel-dell-launch-ai-incubator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/intel-dell-launch-ai-incubator/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/intel-dell-launch-ai-incubator/",
+      "publishedDateTime": "2022-04-29T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-anthropics-quest-for-better-more-explainable-ai-attracts-580m.md",
       "title": "Anthropic’s quest for better, more explainable AI attracts $580M",
       "excerpt": "Less than a year ago, Anthropic was founded by former OpenAI VP of research Dario Amodei, intending to perform research in the public interest on making AI more reliable and explainable.",
@@ -340,48 +382,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-29-ai-investors-have-opportunity-to-lead-c3ai-inc-securities-fraud-lawsuit.md",
-      "title": "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit",
-      "excerpt": "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26889082/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26889082/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26889082",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26889082",
-      "publishedDateTime": "2022-04-28T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-29-intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.md",
       "title": "Intel warns of chip shortages due to Chinese COVID lockdowns",
       "excerpt": "Intel’s Datacenter and AI Group, its second largest business group ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite.",
@@ -442,7 +442,7 @@
       "originalUrl": "https://www.news-medical.net/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1192,7 +1192,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/28/synthesis-ai-raises-17m-to-generate-synthetic-data-for-computer-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",

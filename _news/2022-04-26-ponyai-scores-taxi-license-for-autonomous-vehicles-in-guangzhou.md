@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-au
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/25/pony-ai-scores-taxi-license-for-autonomous-vehicles-in-guangzhou/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car startup Pony.ai obtains taxi license in Guangzhou, China"
-    excerpt: "Self-driving car technology startup Pony.ai Inc. has obtained a new taxi license in Guangzhou, China, the first robotaxi company to do so. Announced Saturday, the permit allows the company to operate 100 autonomous vehicles as traditional taxis in Nansha District of Guangzhou,"
-    publishedDateTime: 2022-04-25T02:38:00Z
-    webUrl: "https://siliconangle.com/2022/04/24/self-driving-car-startup-pony-ai-obtains-taxi-license-guangzhou-china/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/BotRideReal.jpg"
-        width: 975
-        height: 650
-        isCached: true
   - title: "China licences first self-driving taxi"
     excerpt: "Pony.ai has been awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha, Guangzhou, making it the first autonomous driving (AD) company to obtain a taxi licence in China. In May,"
     publishedDateTime: 2022-04-25T09:00:00Z

@@ -82,20 +82,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "$36B+ AI in FinTech Industry Trends and Opportunities Assessment, 2027 - The Increasing Utilization of Smart Contracts for Financial Processes is Driv"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
-    publishedDateTime: 2022-04-25T02:46:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=652294"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "DvIV92Vo5cem9E2mvHWhmN69Bg7OcNvcJODeoxvESKcNKKhyEVzWi7XEqI1qGQBGzqkOzcCCBXfV2U3+62bduNHw2APIWUg66J2nEweeEALDa5o4yVCBXrJDSJGWDBOu2bo5V1LduIx50dv1pADqpue1goL7Vb63Jskwhbh09qNfUB9GQFFVJPWddemdqFtC7SYTk2tqL6h7nzqt3SMTCdDzVdJpMPy2xehRBr9CAb53H9jpsUZRr92pWUDiaLDMmScZ8bWAIzQMEPvBOXQ8cv15vv1l2M5It+BcP6ssY294Jy6KGlGm83621urUBB1HMDA0cnl6PCJ005CI4+ihlmN+TOQ7xQcrFdnRiL22fqE=;FcDZtvOTEdpr74SK1NPnzw=="
 ---

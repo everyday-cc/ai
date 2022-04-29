@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T14:05:00Z
 originalUrl: "https://apnews.com/press-release/PRNewswire/covid-technology-sports-health-josh-williams-d633fa6a2b549b79dd7f18d06dbd592a"
 webUrl: "https://apnews.com/press-release/PRNewswire/covid-technology-sports-health-josh-williams-d633fa6a2b549b79dd7f18d06dbd592a"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

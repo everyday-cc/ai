@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T19:01:00Z
 originalUrl: "https://www.dailyexcelsior.com/knowdis-iit-delhi-chemical-engineering-dept-tie-up-for-ai-model-for-drug-discovery/"
 webUrl: "https://www.dailyexcelsior.com/knowdis-iit-delhi-chemical-engineering-dept-tie-up-for-ai-model-for-drug-discovery/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Daily Excelsior
