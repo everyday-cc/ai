@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-22-taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing.md",
+      "title": "Taiwan Unicorn Appier Bets On AI-Driven Software For Digital Marketing",
+      "excerpt": "Academics-turned-entrepreneurs Yu Chih-han and Winnie Lee led Appier to become Taiwan’s first listed unicorn. Now they're betting on global demand for the marketing firm’s AI insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62610776ca5e4f77243c3a02/0x0.jpg?format=jpg&crop=2359,1328,x0,y141,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-new-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.md",
       "title": "New deep learning method aids in the accurate diagnosis of parkinsonian diseases",
       "excerpt": "A new deep learning method has been created to aid in the diagnosis of parkinsonian diseases, according to research published ahead of print by The Journal of Nuclear Medicine.",
@@ -1109,49 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom.md",
-      "title": "Strategic Analysis of Amazon’s Growing Footprint in Mobility – ResearchAndMarkets.com",
-      "excerpt": "DUBLIN–(BUSINESS WIRE)–The “Strategic Analysis of Amazon’s Growing Footprint in Mobility” report has been added to ResearchAndMarkets.com’s offering. Amazon, the eCommerce behemoth, has been making steady strides in the automotive industry and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/",
-      "originalUrl": "https://www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/amp/",
-      "publishedDateTime": "2022-04-20T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

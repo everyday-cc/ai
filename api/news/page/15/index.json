@@ -2,6 +2,40 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-04-13-alpha-fintech-by-ppro-announces-launch-of-fi911s-intelligent-saas-dispute-processing-for-financial-institutions-in-asia-pacific.md",
+      "title": "Alpha Fintech by PPRO Announces Launch of Fi911’s Intelligent SaaS Dispute Processing for Financial Institutions in Asia Pacific",
+      "excerpt": "Fi911, the leading dispute specialists and sister brand of Chargebacks911, today announces its partnership with Alpha Fintech ( a fintech pioneer aiming to evolve and simplify payments. APAC regional acquirers and PSPs will be able to leverage the unrivaled Fi911 SaaS dispute management p.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=646511",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=646511",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-cogniac-deploys-ai-based-machine-vision-at-melcos-city-of-dreams-manila-integrated-resort.md",
       "title": "Cogniac Deploys AI-Based Machine Vision At Melco's City of Dreams Manila Integrated Resort",
       "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, today announced its partnership with Melco Resorts & Entertainment Limited (“Melco”),",
@@ -1073,49 +1107,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-unionai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology.md",
-      "title": "Union.ai Raises $10M in Seed Funding for AI and ML Orchestration Technology",
-      "excerpt": "Union.ai offers new services on top of Flyte so that ... here to help them every step of the way through a cloud offering that allows them to start building production-grade ML pipelines in ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgno.com/business/press-releases/cision/20220412SF22410/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/",
-      "originalUrl": "https://wgno.com/business/press-releases/cision/20220412SF22410/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1795027/Union_AI.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGNO",
-        "domain": "wgno.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -86,6 +86,17 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "China Grants First Driverless Taxi Permits to Baidu, Pony.ai"
+    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals."
+    publishedDateTime: 2022-04-28T06:59:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 84
   - title: "Pony.ai becomes first autonomous driving company to receive a taxi license in China"
     excerpt: "Autonomous driving developer Pony.ai announced it has received a license to operate taxis in China, the first company to achieve the permit."
     publishedDateTime: 2022-04-25T16:39:00Z
@@ -117,22 +128,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-    excerpt: "The permits given to Baidu and Pony.ai allow them to offer rides without a safety driver behind the wheel to take over in cases of an emergency. The new permits still require a safety supervisor to be seated in the front passenger seat."
-    publishedDateTime: 2022-04-28T06:03:00Z
-    webUrl: "https://www.chron.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
-    ampWebUrl: "https://www.chron.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 74
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/40/31/22414936/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Robotaxi startup Pony.ai gains taxi license in China city"
     excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, said on Sunday it has obtained a taxi license in China, which will allow some of its driverless vehicles to start charging fares."
@@ -251,7 +246,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=upstract.com"
     type: article
     provider:
       name: The Financial Times

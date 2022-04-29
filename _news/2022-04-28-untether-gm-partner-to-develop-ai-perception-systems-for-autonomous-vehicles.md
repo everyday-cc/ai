@@ -54,15 +54,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 32
-  - title: "Untether AI and General Motors to Develop Next-Generation Autonomous Vehicle Perception Systems"
-    excerpt: "Untether AI TM, the leader in at-memory computation for artificial intelligence (AI) inference acceleration, today announced a collaboration with General Motors, supported by the Government of Ontario through the Ontario Vehicle Innovation Network (OVIN),"
-    publishedDateTime: 2022-04-28T12:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-untether-ai-general-motors-develop-next-generation-autonomous-/2022/04/28/9591621.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
   - title: "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites"
     excerpt: "HPE Swarm Learning, which was developed by Hewlett Packard Labs, HPE’s R&D organization, is the industry’s first privacy-preserving, decentralized machine learning framework for the edge or distributed sites."
     publishedDateTime: 2022-04-27T12:00:00Z

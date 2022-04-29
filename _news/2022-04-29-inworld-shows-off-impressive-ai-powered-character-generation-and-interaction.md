@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-po
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1024
     height: 541
     isCached: true
+
+related:
+  - title: "Untether AI and General Motors to Develop Next-Generation Autonomous Vehicle Perception Systems"
+    excerpt: "With funding from the Government of Ontario through the Ontario Vehicle Innovation Network (OVIN), the project aims to increase autonomous vehicle performance by providing faster and more accurate vision response."
+    publishedDateTime: 2022-04-28T12:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-28-untether-ai-and-general-motors-to-develop-next-generation-autonomous-vehicle-perception-systems"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 7
 
 secured: "OSmB41jvZMtbijw2tIyomYonTE70lF/JoriQ6VXnGbhrLhR/xiIGYIlxkW+eAdRM5zgjnjqR3fUUCe8SJ3srg+HDYYgJLYbnOwlqOuWzmwKwyrXOFwCaPuEasaqylnrBMyhaGcYJhQGWdc79svHCj/7tQb14OluhWhbOp5UoRrEIiA9hUL7qV90M8wFbINKmsGrFFEpsSiZm1wAHeVIpYsxWLs6HVzH+FP2g1L/s+/It7ugqngGk9gatXsb89TQBnsPtNzqbHJEuUbRBmvzDiay/JGz3tFNkjA5yjF7bausD7Vx9AfZpUXS+TKgj0wboniFcB/3BDhp96mD0Yxmbmln4joIU4C7niOW+SkSu4yCIdlcxaBju8xFZS5Iglta7UTvF9+/3zAHbs2U/Wj+fwmNLIfDPofDZyy3b2H3DdDVgb6HMjgieBytHBnTpXyBkdqvBK7NrS0wgB9io85tLuyXb69oaHz9wr1EccPpPeb9qKlqFoPWicUEzr0Yy1lkQjfRvPnfH9/5hvll8A7EAyQ==;RAg317xePQQjkH86GFMhdg=="
 ---

@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-03-17-artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet.md",
+      "title": "Artificial intelligence Chips Market Is Going To Boom | Baidu, Mythic, Alphabet",
+      "excerpt": "Chips has recently been published. The market presents an analysis of the current industry dynamics in the Artificial intelligence (AI) Chips Market arena, as well as what our survey respondents believe the market will look like in 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-apple-quietly-adds-valuable-new-feature-to-mac-voice-control-but-more-work-needed.md",
       "title": "Apple quietly adds valuable new feature to Mac Voice Control, but more work needed",
       "excerpt": "Apple has quietly added a valuable new Mac Voice Control feature, seemingly in macOS Monterey 12.3, without including it in the release",
@@ -1038,49 +1081,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-across-china-speech-recognition-software-helps-tibetans-better-communicate.md",
-      "title": "Across China: Speech recognition software helps Tibetans better communicate",
-      "excerpt": "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects -- U-Tsang, Amdo, Kamba -- to texts and translate them into Chinese.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202203/17/WS6232d8f8a310fd2b29e51891.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202203/17/WS6232d8f8a310fd2b29e51891.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.chinadaily.com.cn/images/202203/25/623d95e6a310fd2bec7e6ada.jpeg",
-          "width": 719,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

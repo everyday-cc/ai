@@ -2,6 +2,49 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-03-17-cftc-eyes-natural-language-processing-to-standardize-data-improve-customer-experience.md",
+      "title": "CFTC eyes natural language processing to standardize data, improve customer experience",
+      "excerpt": "The Commodity Futures Trading Commission is interested in using natural language processing toolkits to digest its unstructured data, according to Chief Data Officer Tammy Roust. CFTC employees need quality,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/cftc-natural-language-processing-cx/",
+      "originalUrl": "https://www.fedscoop.com/cftc-natural-language-processing-cx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/03/GettyImages-104625129.jpg?w=1200&h=500&crop=1",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-stanford-report-shows-that-ethics-challenges-continue-to-dog-ai-field-as-funding-climbs.md",
       "title": "Stanford report shows that ethics challenges continue to dog AI field as funding climbs",
       "excerpt": "A report from Stanford's Human-Centered AI institute shows that AI remains dogged by ethical and bias challenges, but that funding is increasing.",
@@ -1048,58 +1091,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-34m.md",
-      "title": "Seattle computer vision startup led by former HoloLens scientist lands $3.4M",
-      "excerpt": "The tech: The Seattle startup’s computer vision technology can analyze complex manual steps, offer alerts when mistakes happen, and measure the amount of time spent on each step in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/",
-      "originalUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Fy3z8ATGwck/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/seattle-computer-vision-startup-led-by-former-hololens-scientist-lands-3-4m/amp/",
-      "publishedDateTime": "2022-03-16T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

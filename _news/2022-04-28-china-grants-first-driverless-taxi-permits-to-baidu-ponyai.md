@@ -1,30 +1,28 @@
 ---
 category: news
-title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "The permits given to Baidu and Pony.ai allow them to offer rides without a safety driver behind the wheel to take over in cases of an emergency. The new permits still require a safety supervisor to be seated in the front passenger seat."
-publishedDateTime: 2022-04-28T06:03:00Z
-originalUrl: "https://www.chron.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
-webUrl: "https://www.chron.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
-ampWebUrl: "https://www.chron.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
+title: "China Grants First Driverless Taxi Permits to Baidu, Pony.ai"
+excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals."
+publishedDateTime: 2022-04-28T06:59:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+webUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+ampWebUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
 type: article
-quality: 74
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://s.hdnux.com/photos/01/25/40/31/22414936/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
-    isCached: true
 
 related:
   - title: "Baidu, Pony.AI win first driverless robotaxi permits in China"
@@ -238,7 +236,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=upstract.com"
     type: article
     provider:
       name: The Financial Times
@@ -347,6 +345,6 @@ related:
         height: 720
         isCached: true
 
-secured: "UjYopDKDw7CJgj46hV8UX8ZkfXacmpuXq4crt4lcPs6DOJrBR4XgeRoHiM3B+8YccXDaVhRh3oYoShtJwYQyprmPy57rO1/7VSkgMhu9zLoADDQhRD48mTvpDMYQ9HtwvgoAjIEhrnXdsQzm9+/mOIg7NBmuJ2gK0qVaVLAAJAeeuubj0+MOn9CTW6ncx+5EmeHk4ohMeHdxCP1w5A3hPy7/wEad4OTTm/ynjNDSzm7zPhHZ/A0N5zWzVYKuc2Q+tO8jMEZxcLZ2K7Buf1ShxR5SOUpDXgQcdJMAAgoVRqvTYS4vbdvdgSahdTNxyHjNW98T7r+IYEbskhhhGPJ+6w0165SWRA2CpwKrWA4btgk=;hKP6xwAkMhdTfhSz4WDoHw=="
+secured: "yvPxKe+y8QoROiXwmsOL7l9xA2RxCtMFSeK9/R/TB0AfhTsC1mQ3VU+GEtNxR/phVLG5gc+fZbZCNO4COv2NKXuqS4Wx7eL4jmkzit9Yy6sCja1WbzHC+Vi3dUHvwqmoH+9JMccUFpuGQjgnj+l6fnZCuc0lcAajzympUcvZvj74UxjGSS15gBqKXCNTuT8eSRNAa9Lgs7VEBG7Rav58antyV+EKzz7YiY5TIwc8mgGkqM4zhn02tG5dOv8A7Sbyz3z6DjNy+6jmDxWQOm8sA1JW+HZM8dCm5pSdqqSyJkqJm8w9yalzf91l3LPxCCY1JrxqNePkwFQaHK3FV23dXkbpgoEEfyWCBP/nAdK/oHJzBqvcXNd9TN1aYvCcdsn9u2iIPHikQXUN6jBBdAgOqQwENNRrKesVg2REVDk+f7FevWSHxQpkdIxjyV0ev/Hut/XsVOLadUF1qdGPfpjzY+gWo16KwmAJ3kVgXlBOK5KX2Z70qMIZQbo1WSZpSSsYNsTyz/Y6zGBaXUhfUglSYA==;doqaPIYyPaWKb8KqAqI18A=="
 ---
 
