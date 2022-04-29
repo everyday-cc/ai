@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "axyonai"
   url: "https://twitter.com/axyonai"
-  followers: 148
+  followers: 147
 
 size: 11-50 employees
 yearFounded: 2016
