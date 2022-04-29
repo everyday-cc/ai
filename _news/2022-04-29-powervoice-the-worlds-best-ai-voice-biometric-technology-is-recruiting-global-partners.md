@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
@@ -26,6 +27,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "NkF/CR0X4x/3ejMDcCgVtwg8PBqGdvTb+RPj8CAya6O/3zfpyTKq8ZBN9wLHlrQOfAlcvJMJi0rGLBueFoFjicCXeryR6959MAO7vkaHbWpdfqnl4RYrnP1+AYt45leom4WQsluStUwLuc0knYjVx2eGLeSrPyYT6ffxwWT9jwm19wLfl4dbkDxRh37DBWWY9uuGFcyeeYI1mNNV1zhY47nfqbllsTbwCQy6Ua71Z6f4wUc02Ne8AhUTk9LsWGvsTWURTaWPl6zdacZin5YJyNSxETyH/Qkc/6+qTSFGEaO1F9s+4aUe2AEw+pOhx+exm66bQqBnmVYqbyPL8RZUHoUR/oDbihRD3trTwZ3eb18=;dPnnw0JqJ0wgbaaBSbYObw=="
+secured: "9kiLKTVuqBseyGlas0+Irtqx0ehP9lW6ONmtBtbathmp/+tTnmzZKsV/87cTGq1m6xWpBCkXZEsoieDDMXxlQTNvsCVJio42ztxU9Ju1TuGCRcTe9v6rx5QiukTwP2IR2bgFbvYrWS+l9I8Lqlc3NAS/9l/OudhknvXnyN0fA3JUwi4FoWarNE8gjuge75bzZe+9k0F4t+eWCxvYBgbouiJnWXCq46FRePtoO+/BcGufw00xPaWMT1ZNzI7uE+y39AZcOqkqenpZL1lDz84gFusXsVGYZ38MMYDzJ0XoE1ig9IvNE33PD7NN4nqRjjLv74kNFxn97FNPy97f54sjtkZH8S/ddtWSGAqzTZP3eQJDFvWp9VG3y0p+6ikxvxVZXIsO3+JVcsUp5uNhdePQflG2GkVOetUhOcax9902oYH+JmgTlA7T9Jm8WUr9t5Etd38SfmI47DTAK/iz9+jNtHnLryzvPzAQ3Jy01hPup6c0jyXRJchcsGZm5zzRMdbocqTRP6MUg2HWXc+BnjGxZA==;Cha9EE48Mn8ZZftF3jhCcQ=="
 ---
 
