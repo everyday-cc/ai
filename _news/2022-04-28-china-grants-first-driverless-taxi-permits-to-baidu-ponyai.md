@@ -1,28 +1,28 @@
 ---
 category: news
-title: "China Grants First Driverless Taxi Permits to Baidu, Pony.ai"
-excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals."
+title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
 publishedDateTime: 2022-04-28T06:59:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
-webUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
-ampWebUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Baidu, Pony.AI win first driverless robotaxi permits in China"
@@ -345,6 +345,6 @@ related:
         height: 720
         isCached: true
 
-secured: "yvPxKe+y8QoROiXwmsOL7l9xA2RxCtMFSeK9/R/TB0AfhTsC1mQ3VU+GEtNxR/phVLG5gc+fZbZCNO4COv2NKXuqS4Wx7eL4jmkzit9Yy6sCja1WbzHC+Vi3dUHvwqmoH+9JMccUFpuGQjgnj+l6fnZCuc0lcAajzympUcvZvj74UxjGSS15gBqKXCNTuT8eSRNAa9Lgs7VEBG7Rav58antyV+EKzz7YiY5TIwc8mgGkqM4zhn02tG5dOv8A7Sbyz3z6DjNy+6jmDxWQOm8sA1JW+HZM8dCm5pSdqqSyJkqJm8w9yalzf91l3LPxCCY1JrxqNePkwFQaHK3FV23dXkbpgoEEfyWCBP/nAdK/oHJzBqvcXNd9TN1aYvCcdsn9u2iIPHikQXUN6jBBdAgOqQwENNRrKesVg2REVDk+f7FevWSHxQpkdIxjyV0ev/Hut/XsVOLadUF1qdGPfpjzY+gWo16KwmAJ3kVgXlBOK5KX2Z70qMIZQbo1WSZpSSsYNsTyz/Y6zGBaXUhfUglSYA==;doqaPIYyPaWKb8KqAqI18A=="
+secured: "fTuUVp8hqxkHhLmhKj8EJK+ptf805SMrGCjFyI4czIWPM4KT26tqhmGuZAOaInAH/SWoKgZ2eck0eSPfmWImRfs1NPnOnozVNsNsiyw40V6wvS0gRRPajHTkLViTZDu7bIwfRxqoWhzpcOf+ePuHLPs5ufBcd1cQ9onKQ+XX1rQCXXs5AGTFlE5D1ShCZDf4ZwLkBA91qyj7QT6DE82yr1bFk1cdCitYnEgJJDDxOQqGjaON+8WWWCZUsFFPpQSEKmIjl/ni6CThHDAKZFRHWCg/VGM1WGUyMcceVt/ZdCY2wDbwhcToxyHplD0FrvHL+gXRAW/Vu8l+1OYZQWJHjPvs4j8gbVrpBV5Nv5V6bco=;3michcEBpt4AuxBozl/HYw=="
 ---
 

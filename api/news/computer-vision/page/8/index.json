@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-27-vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-management.md",
+      "title": "Vimaan Emerges from Stealth with First of its Kind Computer Vision Platform for Inventory Management",
+      "excerpt": "SANTA CLARA, Calif., Jan. 26, 2022 /PRNewswire/ -- Vimaan, a computer vision company for warehouse inventory management, emerged from stealth to announce its leading-edge, field proven solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-management-1031130910",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-management-1031130910",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1734135/Vimaan_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T11:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-management.md",
       "title": "Vimaan Emerges from Stealth with First of its Kind Computer Vision Platform for Inventory Management",
       "excerpt": "SANTA CLARA, Calif., Jan. 26, 2022 /PRNewswire/ -- Vimaan, a computer vision company for warehouse inventory management, emerged from stealth to announce its leading-edge, field proven solutions ...",
@@ -1267,49 +1319,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-heres-why-snapchat-got-an-unexpected-shout-out-during-apples-big-iphone-event.md",
-      "title": "Here's Why Snapchat Got an Unexpected Shout-Out During Apple's Big iPhone Event",
-      "excerpt": "However, unlike Apple's other AR features, which are powered by facial recognition technology, Snapchat uses object recognition. Object recognition uses an algorithm that understands the general ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
-      "originalUrl": "https://www.thestreet.com/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTY4NjUwODg5MzcxMjY0OTE5/apple-iphone-x-has-this-powerful-force-behind-it-that-nobody-is-talking-about.png",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
-      "publishedDateTime": "2022-01-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

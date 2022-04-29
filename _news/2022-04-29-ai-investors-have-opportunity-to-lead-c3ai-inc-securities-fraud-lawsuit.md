@@ -1,27 +1,21 @@
 ---
 category: news
 title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ..."
-publishedDateTime: 2022-04-29T03:18:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/article_705b1fe4-bf57-599c-9721-19219aac444a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/article_705b1fe4-bf57-599c-9721-19219aac444a.html"
+excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to ..."
+publishedDateTime: 2022-04-29T03:44:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
 
 related:
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
@@ -67,6 +61,6 @@ related:
         height: 225
         isCached: true
 
-secured: "8YC2WtqrOZWeQIOJQFLYwfcu26djCJFrxdY4S8vxpBu3RXSZIhq4OEZgvLCBHsMRh2mXF3g94ErxKa817KQ42EKmIXgOzivOnbkzyJkRMvq5F36X2VNKFWDqgVlMRA/+f499AjN/0QxcE9uhPCyJqhJ2gNy7SwfWOCCAgYbSWj1D14AitL3BiPfjIzSC3LTjWs1tvZxks9O+cPuudn/2NT5/ROACQ/lnXA+4dw7xSHS68aEcMM0KprQbQ+6RmNEo6X06pU5V9XzZSgn7pEGW7fTYOMjuGQ3JmAFzaY86OutZMNHSoT+6p7srxec1SJ4kKtEkt3I6x8Y29x/evJvCNTcpr6mIF32TYRtZ0r0zLmI=;u+UQP4ztVfFDL7a4DYwKpA=="
+secured: "Cdm7oycd+yQo/jbIUlTwibNFavQggp2l5+fgxz05q5vSdfnN4lhJFPmnr/0Sf7pGq0fExoTysNWQtpl/Q5/1J61DfdehnnJXaM7KOwZpFVDcOL+H6TW/QNeHOezN62UJN6mBMcoDfKWkyPt6IinaOCT0gunLOrT2UsVkTh4r7qInm4XAS1KobRYGsFUXE24l32lXUApl0CpAjtfSbQI86Ctsah7p+0CBWoWwztKd7ls+7hByczaJS0PjyA62DEMdCEwBkrG/um51XKCZyI6jk6i5ME4CFb5g9YUDQk2VvniO5mUfzUdV7oFAjjBo453N816Gwq6YiB8OrOsVrg7oO5fCIv2Q0aYE0HX0xuUM5Xw=;6r//6UiQxGQAZCRbNUkXSA=="
 ---
 

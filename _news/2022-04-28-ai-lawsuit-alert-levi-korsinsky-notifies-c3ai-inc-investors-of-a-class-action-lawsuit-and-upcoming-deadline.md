@@ -53,19 +53,14 @@ related:
         height: 207
         isCached: true
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-    excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ..."
-    publishedDateTime: 2022-04-29T03:18:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/article_705b1fe4-bf57-599c-9721-19219aac444a.html"
+    excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to ..."
+    publishedDateTime: 2022-04-29T03:44:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 35
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 15
 
 secured: "MVOEgtwVhDFfUm37sp8PgS/Z+NJLF97FjMPrUoDiVxHjfLO+Hwyuup1le+UPyMoPTOqW0FZsAmQFyQCDIWaV9UpPTC+mxatX84J0GEGunF0l6qg3M5cF1wylrSmp3EgFEKtkj3tAw7JmxZdhdwhuVlftZuHs2YVV7QwNBsMDJjH+DRVG0msTIf9jOWd3Nu1zWxGKFhgG8h8ZRkikJQmCC7PhqHg46ZZVifs5EoBrnOonKpLyC27lwr1QTYHrq2TEzpVQlBoo7I6hjU3BYodEoQXl3g64W/IMiHa8QPscabmpZlrWzeIO9xEvCBiquiGWJ6xFUy+/eaFkbS4DxrXnrU8Hdq0C9Hm9VCuOWPDhimA=;uvHk++nzo8JW7sbdnGapNg=="
 ---

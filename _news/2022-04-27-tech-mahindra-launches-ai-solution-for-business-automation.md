@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/tech-mahindra-launche
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lattice to Showcase Low Power Edge AI Solutions at Embedded Vision Summit 2022"
+    excerpt: "Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader, today announced that it will showcase live technology demonstrations and deliver a technical presentation at Embedded Vision Summit 2022."
+    publishedDateTime: 2022-04-27T20:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-71937a25b2cb4b71962309db86e3470c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Tech Mahindra launches a new suite of AI offerings, brands it as amplifAI0->∞"
     excerpt: "Tech Mahindra announced the launch of TechM amplifAI0->∞, a suite of AI offerings and solutions to democratise and scale the deployment of AI in a responsible manner."
     publishedDateTime: 2022-04-27T10:36:00Z

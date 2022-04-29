@@ -7,7 +7,7 @@ originalUrl: "https://www.wspa.com/business/press-releases/globenewswire/8527566
 webUrl: "https://www.wspa.com/business/press-releases/globenewswire/8527566/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence-technology-to-the-security-industry/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -25,36 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Pathr.ai™ Announces Integration with Hanwha Techwin America to Bring Spatial Intelligence Technology to the Security Industry"
-    excerpt: "Retail Asset Protection Conference, Orlando, Booth #RIC-11 – Pathr.ai, the industry's first and only Artificial Intelligence (AI) powered Spatial Intelligence"
-    publishedDateTime: 2022-04-24T12:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26777703/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence-technolog"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26777703"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26777703"
+  - title: "Vic.ai Announces Spend Intelligence for Prescriptive Cost Optimization"
+    excerpt: "Vic.ai, the artificial intelligence (AI) platform for autonomous accounting and real-time insights, today announced it has broken ground on Vic.ai Spend Intelligence, a first-of-its-kind prescriptive AI technology for advanced enterprise-grade cost optimization."
+    publishedDateTime: 2022-04-28T12:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-8bbf3842fe2aa578bcfbc38f3a7f3f7e"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Pathr.ai™ Announces Integration with Hanwha Techwin America to Bring Spatial Intelligence ..."
-    excerpt: "Retail Asset Protection Conference, Orlando, Booth #RIC-11 – Pathr.ai, the industry's first and only Artificial Intelligence (AI) powered Spatial Intelligence platform, announced"
-    publishedDateTime: 2022-04-24T12:00:00Z
-    webUrl: "https://www.register-herald.com/region/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence/article_ea1fe401-2433-5043-9cff-32ccaf4e644c.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 26
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg"
-        width: 320
-        height: 325
-        isCached: true
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
 
 secured: "A00WUTOjllkmHNjwCflh90NYezu4PtgBdyujHK6EuebdyRZ9iQvgQXL8fquyhMv8YBeFxs7KnSPoAKM/QKWrzIJkTw8zQrRK42uDQvSeRpQRQpedJ60Dw6RbIi8Mj08ISDPyFfnTIuAb7W9vPP3K2oppTz8Fazq543oamb8DU+ZiFJfc4otYzA08Nhax8/KHput/9ydWsTMpMzAYe/3Q9d5JRhE3IjpRdYHKwCGjbIfCcQXokHN6duddFD/J0EYVMI/2thEsJkVoPtjDJCvKI/kFPPYfFIFcdzjkGRyHSNowcsZx7gcl7suVbHWkvW9cVftREHDnlLopJC2fNyJBt3hohpB/531ZRUh/bHxd7j0=;CpdrhXFxmdC3DZ94SD8Gmw=="
 ---
