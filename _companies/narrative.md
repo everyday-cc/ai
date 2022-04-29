@@ -21,7 +21,7 @@ crunchbase:
 twitter:
   username: "getnarrative"
   url: "https://twitter.com/getnarrative"
-  followers: 23242
+  followers: 23241
 
 size: 11-50 employees
 yearFounded: 2012
@@ -46,6 +46,6 @@ images:
     isCached: true
     title: "Narrative"
 
-secured: "xWSVWTe4WNshRN8Hy0b5Xw0saXA01KqGtyY3L1/nKUH048q3RdG54WvObbhygNsAqykhRVlpTsne2BWtEM3efyuUmTAsk908c5A4uSTwuZ2nSQG+xr6L3C40fWl39Gl2ouAyc330F1lQ/GkxeCedNcaacfOSieJ2DruoBU3Rd34Ya7cX3VkwY0qSenS5ErtSvmzBrNu72jUzLOHd3Bv09Xudo4C/je31iQjiwmg2ulsCt2ZXAgtF15c4N2T9yUuMts2Fzl8g2Y9iM1UDc/Y0ce/vAmI2al6I/+UnJf9aNnBuFBMEjriPfYnMTO2lDawpIDwYErw3/RAuulPn9hU1iOhg+ywTLSIxHl681VqIXlDGbuBSh/RbZcb8TVDK5te+jmabe+KgZp9/a0doB8SK4N7Ayhi9/5bhszZRZ/fBEF4=;7IPtGc4LFhSYF/OUZC7tFw=="
+secured: "fzfmbaP2AHBnPzObrEJZz5i1vWxgah/7XI1uNR7Tn281ahi7pd47KzJFeY4lQbzIrU1cDZ/5m3rqUF/ZGhHuW2aL8Jc86UN88ig1IBljHoaPUxX5V7f7odxb/tYhhw5TydyEgPOhwiNYILiG8NPfhMzJgobO9/tJLLuvZVsqiqQLQBQFWEKUuiSRRui3SYSJCM9SKnH27CPGehc6odYdYtvL2C6JVmF0GEGycI/LJi9PS7O5YEmtHs28NIOma/Ej8YwoATk7k+Qn3/N03nn5kOrEx02a7B0XAfef8JIq+o99KrRuzxoaInngawMSOUbTTr0NwVZQohzcOjbF0KPUnhwiFs972aJt+JCvV0tzeNQ1BF/E8yZmDhlL5K8NvIpMm2kLN+CnqGUmu0fhUt/2yzpEmu2t0MZJ7zJx23cUKmM=;ACqSUgC5MjEeihtXQl9gqg=="
 ---
 
