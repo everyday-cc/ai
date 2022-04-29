@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T12:01:00Z
 originalUrl: "https://www.scientificamerican.com/article/ai-sommelier-generates-wine-reviews-without-ever-opening-a-bottle/"
 webUrl: "https://www.scientificamerican.com/article/ai-sommelier-generates-wine-reviews-without-ever-opening-a-bottle/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Scientific American

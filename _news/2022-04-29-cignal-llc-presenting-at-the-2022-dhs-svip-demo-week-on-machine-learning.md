@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T12:44:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cignal-llc-presenting-at-the-2022-dhs-svip-demo-week-on-machine-learning/article_2fec2074-fffe-531f-a2ec-9b39255cb093.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cignal-llc-presenting-at-the-2022-dhs-svip-demo-week-on-machine-learning/article_2fec2074-fffe-531f-a2ec-9b39255cb093.html"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: WFMZ-TV

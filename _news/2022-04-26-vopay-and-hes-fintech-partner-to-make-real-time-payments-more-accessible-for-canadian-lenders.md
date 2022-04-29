@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Canadian government invests in woman-led, sustainable AI company in Toronto"
-    excerpt: "The Federal Economic Development Agency for Southern Ontario (FedDev Ontario) today announced an investment of over C$5.7 million in Canvass Analytics Inc. (Canvass AI) a woman-led artificial intelligence (AI) company whose mission is to make AI easy-to-use so that the industrial sector can accelerate its transformation into a profitable and environmentally sustainable industry."
-    publishedDateTime: 2022-04-24T20:03:00Z
-    webUrl: "https://www.itbusiness.ca/news/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/121403"
-    ampWebUrl: "https://www.itbusiness.ca/news/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/121403?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/121403?amp=1"
+  - title: "The Lithuanian collaboration of iDenfy and Alternative Payments – a safer future for the Fintech industry"
+    excerpt: "Alternative Payments integrated iDenfy’s full-stack, multilingual ID verification to secure their customers’ dataThe digital platform for identity"
+    publishedDateTime: 2022-04-26T22:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
     type: article
     provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 55
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 7
     images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/04/canvass_logo_square.png"
-        width: 520
-        height: 520
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/ebe5b747afe7cfbf0a1e1519928035692096bc87-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "pChm1zVXO6pgNrFCWxoGfKx42/eQ3NZAYNWwBElttz1YAyF4qdDfH7GbvDkZ4VelEjl3d/AhxhwKHeTgiZOpDt1PAQQyn8r3Oyi1d+cz0ms+b99gRCyizUeErureP+jD5NrRV9aE0/VPcAbj1plFnxhQKLVt7B1IZP8YmKevRvV8ImdsOWjvbIo/budvUsk/lPtK11DAWEKD+3vjL7v1HHGklYdKeEnEX2nel3L2XRflIQ6YEKB6x0CHWYamP4Vsj/N+kwP++k21UP+AHHyLkAdfp9fIpZbHXOigGV/E9OGb4wgeMO9RxCkUqbfpuoaFBd5lLU5od4BleUuHblBeG/9mxth6fiUy2Xz4KsbZr+4=;RMUDJ6DMqNd0kJR9EshFlg=="

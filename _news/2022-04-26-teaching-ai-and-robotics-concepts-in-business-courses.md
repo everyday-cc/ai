@@ -7,7 +7,7 @@ originalUrl: "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics
 webUrl: "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Miso Robotics IPO: Updates on AI-Powered Robot Cooking Stock"
+    excerpt: "Miso Robotics is revolutionizing the commercial food service industry. The company makes artificial intelligence (AI)-powered robots to assist chefs in making food in restaurants. Its automated robots fill a number of operational gaps found in back-of ..."
+    publishedDateTime: 2022-04-28T18:20:00Z
+    webUrl: "https://investmentu.com/miso-robotics-ipo/"
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 49
   - title: "1210352 BC Ltd. Announces Proposed Business Combination With Xmachina-AI Inc."
     excerpt: "BC Ltd. Announces Proposed Business Combination with XMachina-AI Inc. Parties plan to list on the Canadian Securities Exchange Vancouver,"
     publishedDateTime: 2022-04-27T23:04:00Z

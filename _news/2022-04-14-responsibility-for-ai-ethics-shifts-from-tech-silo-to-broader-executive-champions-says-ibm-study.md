@@ -15,6 +15,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "p5DxvAuP0J1E0CNvz6HH6qe710vaRudql/jcTEc5ZImQK/WFtLdMNtYohGTz9yfOZvjRVwVqS/M4vBJe2dkT0skvO5HxwPhYeibWJrNIjAeqmcYV08d7Rho4LXvDR5yQYtOdqGe6KGwm/8eWAYcpYchH2cr5mt5z0CRjFBVTzPVK2JVHOGnK+ku4/qrUd6HqNE8bPCMQx7NGjyJIu5/Swq3pgNCkR4bWhz0X1uTs6t/IEgxNbP/OoJqEVzhBdMEnEyM67muAavefuJUcYe1wbolPihyQ2g3hvMLn3IGFl4ANwi47vKlWpIEYwkBhsQOcAs+E6CFk5Uzco9ZbN1PfA1x9/UP+t2sf8oVU7xrgT3Y=;6no/7sLD1R6Aha5YWfDO2Q=="
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
+
+secured: "MIaJ3zKnGS9j76M0wLT1Iq2ghpBZEeprimv8m/oZQ7arXWGdCqzLJ4CVYhM4OeKMvFpiABHycRVQ3kwAQde0jSp8QCAxLBATyOHzj9F2znSCsLsB3Mqd8Oljqok901rE6M9d/Wis/jUqyp6CCmuB8WnmzIRTqfXRXwGD3O/REbhxIlFijXVGfxmRIZENL/477ktA/g/wJY8gQgYmTCInaoxCkn4Kofuh5KVPkLMCM+ooLrefl84iMc91wyxgHfZtH6wBi46oKjumYdUjFuGZJYlXHRwvYaF9YFUYDd5LW7uf7TQ87XTP29rIY82IJpA7Hh3CqnXczDzwuJFdzB8U8+Vdp1iLmfZ/A0lgR1QFXPU=;7Wim/tLqnyDCWn2kYM4K/A=="
 ---
 

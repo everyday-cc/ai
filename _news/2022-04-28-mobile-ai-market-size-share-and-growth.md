@@ -89,6 +89,15 @@ related:
       name: Stratechery
       domain: stratechery.com
     quality: 17
+  - title: "Ways AI Improves Online Learning Process"
+    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
+    publishedDateTime: 2022-04-29T13:35:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 17
   - title: "The Evolution of Data and Freedom of Expression and Hate Speech Concerns with Artificial Intelligence"
     excerpt: "In the current era we are witnessing a high increase in the development and adaptation of artificial intelligence (AI ... of science and related technologies has developed from research activities based on observation, lab experiments, animal and human ..."
     publishedDateTime: 2022-04-27T00:00:00Z

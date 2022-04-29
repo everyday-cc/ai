@@ -33,6 +33,15 @@ related:
         width: 608
         height: 457
         isCached: true
+  - title: "AWS bags victory over Microsoft in fight for $10bn NSA contract"
+    excerpt: "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ..."
+    publishedDateTime: 2022-04-29T13:11:00Z
+    webUrl: "https://www.techradar.com/sg/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 66
 
 secured: "mwDJnXkV+MFAGfn/wyfJoRa5pMTyNBh4WADCdh5F0GfsV1sUo5bjWfSM3/UIbmWfzH4W393cy59MqEeecAHaL61aV6p9QNg8qY4mL4AjdJVghSOjW56AKQfJ7D3GFZ8NGwetp48ousIAhxc/zVv0AyMLdmwBGuWvk0Xz6/XgmF8aHMc+15qU83MLxXInFmCCfXuvWIPb8Z5DM2Jufh95rPPrlCFC8+RXniT5APXcgO90+kQX10HUgHktnuURaurl9wYIBOOUZH42otGm3miRUrhz/lS5NcEMdAqQNBXfzz8LZCVxGgi/xx1BOeK7I/NUzfUBD+itafo+lJaXsO3ieI8VAYD95nOZnSkmARrmTtINPRcHxvMNNXoyYmf6nOjOvRmJr25JK5OukwIfq+eXAG5EWcClb8yLgoEBR+F48QvcYPGzwQQQxUCqwP/XeUsdfdhlfJxbw9lve3wZ3lINLU8cagpXJ9PdQN1D1M5+aHHX/epp2HRuddNEIw7AAEYsGNWEhNyCeHVoo/RXjvK3vw==;jIphtiUVOykcoFEa+htVTg=="
 ---

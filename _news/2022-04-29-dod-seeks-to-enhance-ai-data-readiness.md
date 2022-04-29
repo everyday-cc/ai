@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T13:31:00Z
 originalUrl: "https://www.shephardmedia.com/news/digital-battlespace/dod-seeks-to-enhance-ai-data-readiness/"
 webUrl: "https://www.shephardmedia.com/news/digital-battlespace/dod-seeks-to-enhance-ai-data-readiness/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Shephard Media

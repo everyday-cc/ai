@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T12:01:00Z
 originalUrl: "https://www.proactiveinvestors.com/companies/news/980969/fobi-ai-rolls-out-pulseir-subsidiary-to-boost-investor-relations-offerings-980969.html"
 webUrl: "https://www.proactiveinvestors.com/companies/news/980969/fobi-ai-rolls-out-pulseir-subsidiary-to-boost-investor-relations-offerings-980969.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Proactiveinvestors

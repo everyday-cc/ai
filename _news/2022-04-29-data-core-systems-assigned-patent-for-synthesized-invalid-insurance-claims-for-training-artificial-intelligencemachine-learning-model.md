@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T12:04:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/data-core-systems-assigned-patent-for-synthesized-invalid-insurance-claims-for-training-artificial-intelligence-machine-learning-model"
 webUrl: "https://insurancenewsnet.com/oarticle/data-core-systems-assigned-patent-for-synthesized-invalid-insurance-claims-for-training-artificial-intelligence-machine-learning-model"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Insurancenewsnet.com

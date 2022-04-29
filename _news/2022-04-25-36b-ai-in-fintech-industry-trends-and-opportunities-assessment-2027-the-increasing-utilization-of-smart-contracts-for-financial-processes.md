@@ -57,6 +57,15 @@ related:
         width: 705
         height: 410
         isCached: true
+  - title: "Seven Unique Risks Of Investing In Fintech Startups"
+    excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."
+    publishedDateTime: 2022-04-29T13:11:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/04/29/seven-unique-risks-of-investing-in-fintech-startups/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "OriginClear to Launch Water On Demand Fintech Startup"
     excerpt: "Program brings relief to underserved businesses needing their own water treatment.CLEARWATER, Fla.--(BUSINESS WIRE)--$OCLN #cleanwater--OriginClear Inc. (OTC Pink: OCLN), a leader in clean water innovation,"
     publishedDateTime: 2022-04-26T15:30:00Z

@@ -95,6 +95,15 @@ related:
       name: Stratechery
       domain: stratechery.com
     quality: 17
+  - title: "Ways AI Improves Online Learning Process"
+    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
+    publishedDateTime: 2022-04-29T13:35:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 17
 
 secured: "S3JMLg760IrtHT5EPi9TpvPRhoL2fC5CQO1hL3ThVJMhYDnuD2hWbFEmrvihOBf0Fug9PNHapz8D8VsHcSUeu/SaqTQylGu8gfo3eAHcxfM686qUUezVTeqjXl6Dy+6Ags9OAvFq9yFHmosWQ5KTFtmlEVUjTsS0Tyz1q4JUVDCT1WZSQodEZt5FU7bFdnDg7MnIRMqRsLyesq4f35pvr1BU/1toqjs3ErItAR4LETcTeaqXuqhdR8EdN2bC3LtvVnJnMTJD/SlmctTqztjx1Szn4PJirskdEqEEpuc2/nlXKYKMZjoJWxDS8T45CPe5xynwCeBrTd0li12nJ+kQ2eFEZ8Z+UZfq9NAeOATz44gXKXusNQaTN8RfXKOmU+PTcX1wRlpnP1qLodrTtVfUb32nCVoK5CL8qoem5aPRbKYjIfycmWxH/jb2Qi1VPwm8JQDO4HWgJQ3YM/4u0WpbmdnoPFptOQN/RDXh6hPL5pYEuGiQBgRRSUBNBy4MQDSDQZDfhtJIdNqHZcOULz6giQ==;kdm9TyFiCEQwYyK77X3hWQ=="
 ---

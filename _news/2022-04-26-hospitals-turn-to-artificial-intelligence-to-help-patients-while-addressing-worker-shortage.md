@@ -1,19 +1,31 @@
 ---
 category: news
 title: "Hospitals turn to artificial intelligence to help patients while addressing worker shortage"
-excerpt: "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled. Now the health care field is looking into it to ease the worker shortage and shorten hospital stays. A Wall Street Journal ..."
+excerpt: "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled."
 publishedDateTime: 2022-04-25T19:14:00Z
-originalUrl: "https://www.kgun9.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
-webUrl: "https://www.kgun9.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+originalUrl: "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+webUrl: "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+ampWebUrl: "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: KGUN 9
-  domain: kgun9.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "Ynk25qUkNwWSSVvWN2D/YlFKmgjdIapkf1mk+KfNacisdeqLHCAGEKHA4gEDw2YB1GuBf4l7rwBMATEhVCvIBMVb4NdIySoN/ordFNvL7N6QJ375tZg6VH0+LzKhX7OGwzWS/iY4mfHo0oavbAw9qlB9u2BVTkxSKKK8pmZqk2JWcHPU1g9bu+ZwvRfTtwfRUYIPHp2wvA0AhHaQAcVpFlhrZ6DzdTya40UqfJKZVGrmson9GR9tlVFmlpUWouMA5s7drfN+PJ836K+fuRmyLDuRLUDgEtWcwnailCEjtyXlN1zppteuuaZEz13u5h87KXo4bsTWA+OJZ1NC9AwcNLSQMyk5qVo+1v/GvSKNalDyj6N8vq4pemf2lNEIUz2Lcb5LXgj/wiymW2jjcMMmh8tUR+8kLJuB/o7vOomWH8oSCopCtXfGzWWcpJykO2RIoFVY/poPKQzTEjqLzGSwKyRpPMD+XpC2IgAL/ZCjn71nUp0TPbQ2+dHcjPLsnB302RrAbCt2xr1bNye5loUA6A==;GlM4wOrL8DotfLWmCWRVWA=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a70b74b/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F39%2F0d%2Fd723ccff45b991094268f06a22e3%2Fhospital-doctor-generic.png"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "8cFfusjZHR2PGZqVsip7SKaNlziQq9vYuXQJzUi/fBTVcvluzkpIkSYK58ZmZbIMtZzMcaLXjk3dYc+OU6llMPYif3il5PNKqUMEqkuyewMCB4mXVBXdOTteuK/izq0H/CBscbOClb/bgBP+DzlhR/RAWrn6SovhQDErP1ERfhQw1rm/KP0IeKgutZo7A/DMK0gRDjnCmslLJH6zcz4srRtvwINuG+tuNhAcQfmKkvWvperrsqwAfqYqPUGBXtCw1Ndwlx5/4yG0BR7QUaBJFpRM2ZDJZYLNPmoXoWjHNSPB0VbzZx0wiU5CJPerAzo9sg+VB/TGyr8CDBZYPZE3RokfdBzYAosxt3iypLVne/o=;mYsWE0ku2TW+vN/gi3Wrvw=="
 ---
 

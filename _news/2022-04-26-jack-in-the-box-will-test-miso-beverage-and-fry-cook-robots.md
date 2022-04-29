@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jack In The Box Is The Latest Restaurant Chain To Test Miso Robotics’ Kitchen Automation"
-    excerpt: "Miso Robotics’ kitchen robot has taken over the French fry stations across much of the White Castle system, and now Jack in the Box JACK is testing the technology. Miso today announced a partnership with the California-based chain to test its Flippy 2 and Sippy products in one of its standalone restaurants in San Diego."
-    publishedDateTime: 2022-04-26T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/aliciakelso/2022/04/26/jack-in-the-box-is-the-latest-restaurant-chain-to-test-miso-robotics-kitchen-automation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
   - title: "Jack in the Box Rolls Out Robots to Flip Burgers and Serve Drinks"
     excerpt: "Jack in Box, for one, has harnessed the power of tech, partnering with Miso Robotics to introduce robots to one of its San Diego restaurants.  Relying on a combination of artificial intelligence, machine learning,"
     publishedDateTime: 2022-04-26T15:03:00Z
@@ -48,15 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Miso Robotics IPO: Updates on AI-Powered Robot Cooking Stock"
-    excerpt: "Miso Robotics is revolutionizing the commercial food service industry. The company makes artificial intelligence (AI)-powered robots to assist chefs in making food in restaurants. Its automated robots fill a number of operational gaps found in back-of ..."
-    publishedDateTime: 2022-04-28T18:20:00Z
-    webUrl: "https://investmentu.com/miso-robotics-ipo/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 49
   - title: "Jack in the Box to pilot Miso's robots in its burger joints"
     excerpt: "Jack in the Box to pilot Miso's robots in its burger joints . April 27, 2022 by David Edwards Leave a Comment . Miso Robotics has agreed a par"
     publishedDateTime: 2022-04-27T11:07:00Z

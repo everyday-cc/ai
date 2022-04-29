@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T13:05:00Z
 originalUrl: "https://antiguaobserver.com/speech-pathologist-warns-of-the-growing-prevalence-of-autism-in-antigua-and-barbuda%EF%BF%BC/"
 webUrl: "https://antiguaobserver.com/speech-pathologist-warns-of-the-growing-prevalence-of-autism-in-antigua-and-barbuda%EF%BF%BC/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Antigua Observer Newspaper

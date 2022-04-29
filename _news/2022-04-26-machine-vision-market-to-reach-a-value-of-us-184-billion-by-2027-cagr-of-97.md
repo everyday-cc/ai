@@ -24,6 +24,17 @@ images:
     height: 307
     isCached: true
 
+related:
+  - title: "Machine Vision Systems Market to Reach US$ 17.57 Bn , Globally, by 2027 at 7.53% CAGR: The Insight Partners"
+    excerpt: "Machine vision systems are amalgamation of computer vision into industrial manufacturing processes. Machine vision make use of industrial image processing by using cameras which are placed over production lines and cells with the intention to visually ..."
+    publishedDateTime: 2022-04-29T13:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-vision-systems-market-to-reach-us-17-57-bn-globally-by-2027-at-7-53-cagr-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+
 secured: "ZQmuiF//mZxXEA9aBlRetXaU5OdwPb8C+YcFK7UDVATrmALKQ+LHRRsSgtgsFcMBirW8nyHXp2gdw/Qc49jq8G4gz190CMNy4INj+3onw+S3QphvhMnVYPqTxjVR+kZVCzo3hHLDwAPwhI5JZMnSlchnNtTStqwLoe6P3HFOi6sNS0LJbq7+/lMx9OmMI/m11nYNCsGhMvafL0VzDwqovtzK/OeuMGeXG2rG3Y2+rw2sXUMMMEu0TBYO5+UUpjPL76ZQNqTTGV/7hDVuinb+pTwVhvlkX1ISIf/Wb9VmLC2z6f2DK+3FzqFOMi9LwCF+JwBOBvWnZsd+d+IZe//C29omfYMAIcARp1xFgj0pd2Q=;fO4/DU0ShMJuNhn5CX3D3g=="
 ---
 

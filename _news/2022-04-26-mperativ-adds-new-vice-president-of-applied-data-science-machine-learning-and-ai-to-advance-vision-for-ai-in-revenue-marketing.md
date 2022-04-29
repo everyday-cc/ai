@@ -54,6 +54,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AtScale Announces John Langton as Vice President of AI Engineering"
+    excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced the appointment of John Langton as vice president of AI engineering. John joins the AtScale executive team to lead ..."
+    publishedDateTime: 2022-04-29T12:57:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-5f703a845bb64536b245cbe3832f561f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
 
 secured: "ixMqk5kiEb3FK3T0/TD5f3rwG4z/XLilW7asG7UE/XLdAjn9b7XHgpMZbbaxnoAFzFBIAL+iLWkoojTaEMDzjJ4XP1iIKcPyjLhXxPBAn6s2E22jN6dGyc51HaGzuyeWKCxCopFVrM6mErs4YB8XmfYGOD/ljOKMGoyL/v98ohQvBFFShnJwzo+XY0xhLRpYD6tzusCsr4/Ax4A8DBK714ZW4CL5aBH1Yz4ZU5I/rWJVvMcnIp5Gc50Z/tj1jAn6XqGN8fxL4mMFuEPIkeJpKxNgoLS+3sHKlFYwPXVhF4ld4i+gGfb6g7YGWBbN4+6sOY8cSHXMm6orkawQEMpQzM9Uz/V8sl2cVsM/OBNpErY=;8fEiCdwm6qtOAKqyfnetHg=="
 ---

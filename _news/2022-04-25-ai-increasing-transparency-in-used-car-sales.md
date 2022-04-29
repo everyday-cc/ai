@@ -7,8 +7,8 @@ originalUrl: "https://www.information-age.com/ai-increasing-transparency-in-used
 webUrl: "https://www.information-age.com/ai-increasing-transparency-in-used-car-sales-123499239/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Information Age
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Healthcare Market Size 2022 to 2030 – Increasing Dependency on Data to Facilitate Better Healthcare Services"
+    excerpt: "Revenue growth of the market is additionally being driven by increasing dependency on clinical data to facilitate better healthcare services and rapid advancements in specialized AI chips for faster processing of health-related data and information."
+    publishedDateTime: 2022-04-29T15:24:00Z
+    webUrl: "https://techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/"
+    ampWebUrl: "https://techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/04/anatomy-g8187785d0_640.png"
+        width: 640
+        height: 544
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size 2022-2030 | Industry Trends –Increased Adoption Of Advanced Technologies In Healthcare"
     excerpt: "Rising volume of complex data and reduction in hardware costs is projected to drive growth of the artificial intelligence in healthcare market. The global artificial intelligence"
     publishedDateTime: 2022-04-27T15:02:00Z

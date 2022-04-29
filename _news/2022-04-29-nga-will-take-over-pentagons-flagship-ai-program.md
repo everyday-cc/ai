@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T11:59:00Z
 originalUrl: "https://defensesystems.com/ai-analytics/2022/04/nga-will-take-over-pentagons-flagship-ai-program/366227/"
 webUrl: "https://defensesystems.com/ai-analytics/2022/04/nga-will-take-over-pentagons-flagship-ai-program/366227/"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: Defense Systems
@@ -13,6 +16,45 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Intelligence agency takes over Project Maven, the Pentagon’s signature AI scheme"
+    excerpt: "Project Maven is the Department of Defense’s most visible artificial intelligence tool, designed to process imagery and full-motion video from drones and automatically detect potential targets."
+    publishedDateTime: 2022-04-27T13:50:00Z
+    webUrl: "https://www.navytimes.com/intel-geoint/2022/04/27/intelligence-agency-takes-over-project-maven-the-pentagons-signature-ai-scheme/"
+    type: article
+    provider:
+      name: Navy Times
+      domain: navytimes.com
+    quality: 32
+    images:
+      - url: "https://www.navytimes.com/resizer/1TgZGDO-QxWmwXPhm39RiFmrMOg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/LFVFZSZNRZHIHKMH6KS5KOZSMY.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Pentagon shifting Project Maven, marquee artificial intelligence initiative, to NGA"
+    excerpt: "The National Geospatial-Intelligence Agency is evaluating the progress of “Project Maven” as it prepares to take over the artificial intelligence initiative and integrate it with a broader range of efforts to apply machine learning to geospatial intelligence."
+    publishedDateTime: 2022-04-26T21:43:00Z
+    webUrl: "https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 31
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo.png"
+        width: 1200
+        height: 883
+        isCached: true
+  - title: "Pentagon’s flagship AI effort, Project Maven, moves to NGA"
+    excerpt: "Vice Adm. Robert Sharp, outgoing NGA director, said the fusion of Project Maven with his agency's current AI efforts will \"give us our millions of eyes to see the unseen.\""
+    publishedDateTime: 2022-04-27T19:50:00Z
+    webUrl: "https://breakingdefense.com/2022/04/pentagons-flagship-ai-effort-project-maven-moves-to-nga/"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 17
 
 secured: "pKEH+rStDvCDZmY5B6pcDRfKqB2JGzz+iKgGgV+az5N+DFZFanu3F9NmpTq/ZYzOmVdDWBze1MVHW/Y8iUY4KP/mHRYl2vGKqlANbYIKzn1pOTm6pTKtWCWYXv8peHX4K3jC8X64d76UWc2DKeZt7HEeEsS2fG7fRH9blRs0frNp7tg2ra8eGUdFJOyrIUyTNjgW0S93iOgUtaaXNvM22UT8eAD2+YLv6R5jv0D53O/lBPLBI9MwS980jwdUOilEVikauBfktz29fANsp5iwfwD8mv22Fx4XVue+F8+ojMfTYnFvdPMp9iFQabJiRZiXs9YKZNYL7+dlFNqZSkVNz0QlcOgzfMJuq6uzPvUDxguR2YA2eUfc7gGRt+wj4hpqRQ3i+cCztHMrX82mjAed0MTtnUwp453HQqVsoiz9pfMdmgtjAev1w+mKi5asjLp2nzSfT5YD7J0xXmRIevPFUveiyYs0DODDarWmk5pmP21Q/pX4T03UF27bT8aNPeBCzUVsOcpDMa5fgaVPRhZJKg==;pn7sAlAf4ZmP0Rpn5Row3A=="
 ---

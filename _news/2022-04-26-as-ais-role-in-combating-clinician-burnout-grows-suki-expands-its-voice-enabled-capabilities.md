@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2022/04/as-ais-role-in-combating-clinician
 webUrl: "https://medcitynews.com/2022/04/as-ais-role-in-combating-clinician-burnout-grows-suki-expands-its-voice-enabled-capabilities/"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Ambient.ai Expands Computer Vision Capabilities for Better Building Security"
+    excerpt: "“The last mile of cybersecurity is physical location,” McReynolds says. Ambient.ai uses computer vision technology to solve physical security problems, such as monitoring who is entering the building or a restricted area and monitoring all the video ..."
+    publishedDateTime: 2022-04-29T00:47:00Z
+    webUrl: "https://www.darkreading.com/emerging-tech/ambient-ai-expands-computer-vision-capabilities-for-better-building-security"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 48
 
 secured: "dNTAxIEB9QRDy/XOTpOgmF4c8eHjeDnW2ePNEcqWXnCjbx4z9i0gYmpCWU2NokFHissIc5bt/gtnpOkDwV4aA+QgaA3oXqXssjbYv0bb1aW7LFsWdnc1CLxsk3+/j3zbH6ctHIWy/Ee8sGgUuxJR5imQP/mAJu3PrKMEhKcxoFmmG+sDdJ41+SAn+r39CeWbAInC/LQiY/hBCm7tij5X/lPRQQ9Kkro9CExrpHWaB8X+22VTODXSG8NvCVuonYwf5ED7F6cQLbQwsGtvpU7KWTkzeDgr+Gbp0FIUzbx0TM7QbGu/GsZbgbrS55GjTqUeGLBorGqpCj9OPl0+QJ1Crpi3ejjkZ7pcxgyJsQEkQclHdswDChSW+08zYFXOinsFS3t5oOb2E3w6ElUBpb0XWAsv2VjOqh/1pbehfospvUMcudeMkEDnk3LteITiolKSD39+gAqFgA+Cur7hHbrcy94N9okp0lVs8O0HtW3WxfTekFPSJLm89DvlYwwjl5vRwy6FiLWhDeV/vy0aTQ8FXg==;MV7crZg+NWFab+jgBqxjRg=="
 ---

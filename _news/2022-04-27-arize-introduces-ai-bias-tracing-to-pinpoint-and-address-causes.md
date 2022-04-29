@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 850
         isCached: true
+  - title: "How AI and Robotics are Enhancing the Guest Experience"
+    excerpt: "As technology trickles down, Castiglia predicts industry-wide adoption in five years. This week, robotics, artificial intelligence, and automation are gaining press and popularity in the restaurant industry. From robots flipping burgers and perfecting ..."
+    publishedDateTime: 2022-04-27T21:17:00Z
+    webUrl: "https://marketscale.com/industries/food-and-beverage/how-ai-and-robotics-are-enhancing-the-guest-experience/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 49
   - title: "How Artificial Intelligence Is Changing The Way We Make Videos"
     excerpt: "From frame editing to script writing, how AI can help creators focus on what they are best at: imagination and emotion."
     publishedDateTime: 2022-04-25T13:45:00Z

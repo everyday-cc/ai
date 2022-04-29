@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Meta materials: Facebook using AI to design green concrete"
+    excerpt: "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ..."
+    publishedDateTime: 2022-04-29T15:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/29/meta_ai_green_concrete/?td=keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2022/04/29/shutterstock_cement.jpg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "TikTok is eating Facebook from the inside"
+    excerpt: "Facebook had a TikTok problem. This year, it has several. The Chinese-owned video app is eating Mark Zuckerberg’s social network from the inside, first by luring its users and now by challenging Facebook as a news source too."
+    publishedDateTime: 2022-04-27T20:10:00Z
+    webUrl: "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-inside-2022-04-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/I8gnFrAtvNuTHPgz2LFv4mwExcU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B5SGK6W4PRPQHJHQERPWSZFN7Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Facebook Parent Meta Is Studying the Human Brain to Improve AI"
     excerpt: "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose."
     publishedDateTime: 2022-04-28T13:00:00Z
@@ -47,20 +77,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--7cniZpdh--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/04/28/20220428_afp_fb.jpg?itok=eQ1B0EQo"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Facebook’s VR metaverse development cost the company £2.3billion in three months"
-    excerpt: "The losses reflect Meta’s increasing focus on CEO Mark Zuckerberg’s vision of the metaverse, which he revealed alongside Facebook’s Meta rebrand in October 2021. Since then, the company has announced that it is working on a “massive AI research ..."
-    publishedDateTime: 2022-04-29T10:05:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/facebooks-vr-metaverse-development-cost-the-company-2-3billion-in-three-months-3215412"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 19
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/01/Person-wearing-VR-googles-to-explore-Metaverse.jpg"
-        width: 2000
-        height: 1270
         isCached: true
 
 secured: "3OIA4BIx3cAjJ/dFCOvaZugE3kpHYxKMV9VBkhAcjkQqORSG2/O+ctM6Qsec8OiTui9eUQm6dmxARunuWI5kTuRKkqtp3DDgRPUUuh9E18B3PZ6dJW232XQIjiIQmVCuDWTPZlCivvDdKMH97bvNLtEPgYYBiP+O3UvZY4nwVz3kSIUSM4HIWQ6VuV03v2SfvjpH6wd4NpZgMrQuTIVOyXDnMAg4ofvIPHvpmQIw0cqOHrWYmERsN6P1XwFCI5loXUH9HsANc2dpDP6dZMl24DpK7NtzKfo+5/dFwXB+/HUMkiKG/aJ8fv3iHbrmJul2pTcrXkshG+99wKV0a2W19yoDTGCrU7WLDe3QS9Cxk7bvlm3U2icUSVBXG3vnT5TtfnWViGtgrxPJW+zJ0/QnEcfZ9Joux03rHKgBUCzvx+qAae6AzN50y5NYSQUNpeVhpDkekZGvy1n9a7dM3vtVSRk7EcdVs2W0aYFYlE6ov0FGuyCstr1iZirGyMYgutmwlV3IILKsC3zsm3epDu+kkQ==;vEJfPwIp88uYuvdxqFwbtw=="

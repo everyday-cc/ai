@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-11-deep-learning-with-a-tale-of-two-cities-part-vix-wrapping-up-the-convolutions-and-reflecting-upon-innovations.md",
+      "title": "Deep Learning with a tale of two cities (Part V/IX): wrapping up the Convolutions and reflecting upon Innovations",
+      "excerpt": "It's been three weeks since the last in-person teaching took place: one moved online due to Storm Eunice, and another due to the Reading week. Coming back to the whiteboard, we first review a few fund",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/deep-learning-tale-two-cities-part-vix-wrapping-up-reflecting-yang",
+      "originalUrl": "https://www.linkedin.com/pulse/deep-learning-tale-two-cities-part-vix-wrapping-up-reflecting-yang",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHBSgby1GwBMw/article-cover_image-shrink_720_1280/0/1646950467776?e=1653523200&v=beta&t=AoShNElvrDckzx0G8vA0Euwsn5c_yR89DEzNxOw8P4Y",
+          "width": 1280,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-ai-neural-network-predicts-evolution-of-gene-regulation-in-yeast.md",
       "title": "AI Neural Network Predicts Evolution of Gene Regulation in Yeast",
       "excerpt": "Scientists have created an AI model that predicts promoter-driven gene expression in yeast and detects signatures of natural selection.",
@@ -1325,40 +1377,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-injecting-fairness-into-machine-learning-models.md",
-      "title": "Injecting fairness into machine-learning models",
-      "excerpt": "MIT researchers have found that, if a certain type of machine learning model is trained using an unbalanced dataset, the bias that it learns is impossible to fix after the fact. They developed a technique that induces fairness directly into the model,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/945050",
-      "originalUrl": "https://www.eurekalert.org/news-releases/945050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

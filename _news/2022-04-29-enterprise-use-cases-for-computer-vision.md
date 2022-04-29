@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Vic.ai Unveils AI-Powered Tool to Optimise Costs For Enterprises"
+    excerpt: "Vic.ai, a New York based start-up that provides an accounting and financial procedures automation platform, has introduced an AI-powered solution for enterprise-grade cost minimization. The offering, branded Spend Intelligence, is the newest addition to ..."
+    publishedDateTime: 2022-04-29T13:26:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/vic-ai-unveils-ai-powered-tool-to-optimise-costs-for-enterprises/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 17
 
 secured: "HuR0ddFL3Rfjqe48ITFaGHtoLs2G3KYDx32cpWHpGEAACsRvJP0Q883ric99+FRHc8vPaCncXMolbUyKsFtIwmpPjmJOcoAE5SCDBggv9+jwvXLEqxfuH1GFSq9X8vjcfUNt2NXrlKLjke4NPlfHXSK/A8Pp6wkI1FBZpVUbva7e9soNCsxuRhHlOt+nVDNfFwqFSp3mvTqdETRPg+XjbTy2Y9P0JGrZqMKkms20F4N3O+HU3U6Fh2f5M31Nz/M5nTgoNJqNIGZQS02HMNdvHH4mS6sBjDGjGTC9jqt8711kLhxxBMjr/77F+2aw/6m1Ox68kC+rCM0vUZtbekGO99oxPzxrAXiUYSNwRUrAphoBFnZPQxXYDDcUg/qz05OeWkw1g8AbIi8Dwi7ZkTfS83KmPVjOTlbQmaTu5ue/x0EJcO9jOQ09LquD/NchEaup2SN7bs6KXKuOqP1i94MDEsZcrj6+sa1lhJtzXQKzEnvpbP2i9BVnyrif64nfI2U8pHdS5k52m3y+R96L9EEcpA==;LbcwV5tWHARIwTN+OG6haQ=="
 ---

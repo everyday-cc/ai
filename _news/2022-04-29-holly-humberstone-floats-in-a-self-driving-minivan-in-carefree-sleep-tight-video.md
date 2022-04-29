@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T13:12:00Z
 originalUrl: "https://www.rollingstone.com/music/music-news/holly-humberstone-drops-sleep-tight-video-1343872/"
 webUrl: "https://www.rollingstone.com/music/music-news/holly-humberstone-drops-sleep-tight-video-1343872/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Rolling Stone

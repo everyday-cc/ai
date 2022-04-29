@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T13:31:00Z
 originalUrl: "https://www.11alive.com/article/news/local/ai-technology-to-detect-trauma-in-kids/85-42c56fb8-c771-434a-9e06-a8dcb2f8003e"
 webUrl: "https://www.11alive.com/article/news/local/ai-technology-to-detect-trauma-in-kids/85-42c56fb8-c771-434a-9e06-a8dcb2f8003e"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: 11Alive

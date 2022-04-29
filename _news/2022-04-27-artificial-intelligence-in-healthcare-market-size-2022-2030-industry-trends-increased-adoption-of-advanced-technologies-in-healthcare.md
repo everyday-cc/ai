@@ -33,6 +33,22 @@ related:
         width: 512
         height: 220
         isCached: true
+  - title: "AI in Healthcare Market Size 2022 to 2030 – Increasing Dependency on Data to Facilitate Better Healthcare Services"
+    excerpt: "Revenue growth of the market is additionally being driven by increasing dependency on clinical data to facilitate better healthcare services and rapid advancements in specialized AI chips for faster processing of health-related data and information."
+    publishedDateTime: 2022-04-29T15:24:00Z
+    webUrl: "https://techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/"
+    ampWebUrl: "https://techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/04/anatomy-g8187785d0_640.png"
+        width: 640
+        height: 544
+        isCached: true
 
 secured: "fj9WQr0PV2VvrNdzFIyvHJ3Fwbyo/Cvf+rfpom/Ct3K9lbPyymH7TM6MDAzgGnbFyUYmpJFDhJ016Ko3L6sEVdcLuhiyAyS8tBHwcP/EvSi1bLPgp4yzO/WXXokYjUeZ3XAYB6viYnEk3N9IfwyoRrJn8ntByCWYThrBTDVBLWvwgd0gdLIHbK/Gry3XIhD7s2D13+sKOkgnt8Neb4xGx1PdKp7DQ0AEPU8FgXzbi4mBLD37MzLsel9isv/NkjNOde4EyCgHfSsiJfdgqDtMiGaP4J735IJFn7nd9qrR/VXENO0kdb/43T88qmHTtryp7+NUevaY4WZupTZOiALgv2ilRhcGZxVDPwpcYvGXkznDoij5On8jRnyADqZC/C+RkduabWXJvtFlIqjnAgqc4g5neXSCvMho5+U1Gj8o8vPs+P6/aqXVnDap2ggzn2+L+qF7VWWNp3vtnGSmv7W8ghwfNjrI284PBFKAqpE9wi9ObzLn1JILGLg+ySesHesjulN3vMIJQe/d94F3DRZr8Q==;98DAnkx7wopQaWnOrmHphQ=="
 ---

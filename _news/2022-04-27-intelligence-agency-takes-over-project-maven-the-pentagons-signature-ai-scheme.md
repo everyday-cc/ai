@@ -47,6 +47,15 @@ related:
       name: Breaking Defense
       domain: breakingdefense.com
     quality: 17
+  - title: "NGA will take over Pentagon’s flagship AI program"
+    excerpt: "Robert Sharp, said Monday. Referring to the Pentagon’s most recent budget request, Sharp pointed out that “NGA gains operational control of Project Maven’s [geographical intelligence] AI services and capabilities from the office of undersecretary ..."
+    publishedDateTime: 2022-04-29T11:59:00Z
+    webUrl: "https://defensesystems.com/ai-analytics/2022/04/nga-will-take-over-pentagons-flagship-ai-program/366227/"
+    type: article
+    provider:
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 17
 
 secured: "sN+Hmbqolrp1MHfREhXz2naALp4RZ8Z3J3r7fBHFD9U+IZmg24xIpYkqEB5DDGJeLDo/xKyen0jLSUkxvVTxXWIqUqdPaYXjkr4UeqYuJGD1CoyepauTzlqDOO+86+/0QFPxeOZsLNO5wofBaouTsIwlOBQ0ufUOxMIP14s5nqvTKdNLKlX6r1yMwMOKkL2xksQqSIfZnediP543cwXiCKnnYBFD9PuSXIlVLSLqMvr9WDmHrXH6j2hBZG0/x7izJFQ76i4aTt9/4QOiyHWFxAmryMJ821UnVd+VM6kVXtBURAiQIsvXhr5WNNFBC0gd7B1a+U0TJ+PIycmldI1yKV3S9nkBhLkxEw19PR/eBaw=;fAMGIlUdL96HSSUSPqrYcw=="
 ---

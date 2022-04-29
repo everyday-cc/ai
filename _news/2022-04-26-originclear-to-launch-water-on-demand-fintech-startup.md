@@ -57,6 +57,15 @@ related:
         width: 705
         height: 410
         isCached: true
+  - title: "Seven Unique Risks Of Investing In Fintech Startups"
+    excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."
+    publishedDateTime: 2022-04-29T13:11:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/04/29/seven-unique-risks-of-investing-in-fintech-startups/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "CIIE CO's Flagship Program Bharat Inclusion Initiative invites application from FinTech Startups for its 6th Financial Inclusion Lab Cohort"
     excerpt: "CIIE.CO's Bharat Inclusion Initiative (BII) invites applications from startups for the sixth cohort of Financial Inclusion (FI) Lab to support innovations that aid in making mainstream financial"
     publishedDateTime: 2022-04-28T16:01:00Z

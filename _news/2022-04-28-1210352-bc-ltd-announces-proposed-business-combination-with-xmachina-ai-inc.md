@@ -38,6 +38,15 @@ related:
         width: 1022
         height: 575
         isCached: true
+  - title: "Miso Robotics IPO: Updates on AI-Powered Robot Cooking Stock"
+    excerpt: "Miso Robotics is revolutionizing the commercial food service industry. The company makes artificial intelligence (AI)-powered robots to assist chefs in making food in restaurants. Its automated robots fill a number of operational gaps found in back-of ..."
+    publishedDateTime: 2022-04-28T18:20:00Z
+    webUrl: "https://investmentu.com/miso-robotics-ipo/"
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 49
 
 secured: "3d1S4OxX7trcF1A1wMsC6mZOHgXscogiQ+PvzTQi9xeErM+PpSWAvXD3eKuwZQRhjNetlp27Zh133lOdgo+XlapWUZOXorpARViTXL1TmtMNoqurU1wWFcy+69NKJ7dAGSF5eTsEIiFhpnAZQhmLNPx6ZiaDp0AsoedJspZgtRjc9j8+l3LTf/+Y3JHQaeM5S9tbDwmpJ5wSD3IlzcSFTHohDWZoFzxt6bL9dYD08nsWRVyGF9kzGOYI2VSWRLLIg7LXjRHlo9jmV/CLGEGXqy7dHup3KBUvru4PwFHgbCdI4ZzSInWoZfDca0D0ziMy6RVHVoxMx0yRUr9zvo7fqtrYyz6y2J9Ujxp/yoWQGyc=;DhD5R0PxNK7AEHQ8XfPMdw=="
 ---

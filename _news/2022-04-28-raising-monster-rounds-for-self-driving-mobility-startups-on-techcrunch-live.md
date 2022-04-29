@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Raising monster rounds for self-driving mobility startups on TechCrunch Live"
-excerpt: "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the ..."
-publishedDateTime: 2022-04-28T15:08:00Z
-originalUrl: "https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/"
-webUrl: "https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/"
-ampWebUrl: "https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/"
+excerpt: "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,"
+publishedDateTime: 2022-04-28T01:33:00Z
+originalUrl: "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/"
+webUrl: "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/"
+ampWebUrl: "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/"
 type: article
 quality: 86
 heat: 86
@@ -30,6 +30,6 @@ images:
     height: 576
     isCached: true
 
-secured: "sKpSP5AX55iPp2o1c9YfkDX/g2e1Zye4OuMqzaKD5dCpW12AbbncJTly27/HlHg6J6PswyZLz/JuCEDYPQUXcfEM1tH8FlxVyxobdNJDr/DN7mgrbK/PYR+sEElYQ7yzOf/ArOv0QnReQZxJKxZI3oqFOSTro5gHkwGUFiSpJOjCA1+tw9OsdTGBI+CfL8r0ZjCavElyBnA7gx1u0rhm+LtyzaC8ALZuf8M0xe7YUsjzGA8pmgIdPivtWhNVt3yq6mBcFbxSvQydT4453gSnY4SCkjLqfhtKboRo6EzKVEi+3x762CQPv92LWvRqZWY/D/PwS1gX/b/Sitowwa5V/wjnK953LU/PqtnjIXPLBdzYaR9T2MlAwFcwmyyBnlQYIlkE+EfiKI2WeHzrMIDpYjRGooaNtK0vM5AgD1y6QyBh2EvQtYpPOawJKRVGeiZyUHpFBSGs32SFiwSQOIoba42jN5c+SflyniyxOupZ8APOUnVIYgSyfM0nc4w+DScoHxwR7HyP2pBxnGovw5aDRw==;67N2sazBaD4HqVumILlhDw=="
+secured: "b6tDqAqtqYRrvl0uw+V8G7XH9q5+sVWNJ6rmtyyzC1hevdv+LFldWHXOveu3aX6bc3irKK+DftUGQyOSk3Kcd3GU0uEQRT5K6Bwok53bbWWJDfhYRTCdL7s9cNJ1opOcqtGMFf9SmLMn/Edds1L8XICzZo8s1zEFyeQgB/M1FHMtnJkofp32gba3VBBsYBuLMp417HPxJi6Hg0+mTEHM/fuYlq3/kMR6ufXwxAOfInDqLggCi3q/R5OngXMUM41hAyXvcU7qpPGs2paGz0OZHPD5t3iLfn6IHLxoocn/1OdUjkzsctUwzfUsKJWRPBTBsQsRD58GkPQBwDXPqu6Kc52bTNWgW3kOp0OhRT1UWoo=;n7/HmlGQRvGJvCZbWmHtHQ=="
 ---
 

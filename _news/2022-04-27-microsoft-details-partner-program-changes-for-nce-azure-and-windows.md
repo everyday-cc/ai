@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-details-partner-pr
 webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-details-partner-program-changes-for-nce-azure-and-windows"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AWS bags victory over Microsoft in fight for $10bn NSA contract"
+    excerpt: "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ..."
+    publishedDateTime: 2022-04-29T13:11:00Z
+    webUrl: "https://www.techradar.com/sg/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 66
   - title: "Kraft Heinz taps Microsoft to boost supply chain visibility"
     excerpt: "The company will use digital twins and control towers to help gain visibility and get products to market faster, a company executive said."
     publishedDateTime: 2022-04-27T13:14:00Z

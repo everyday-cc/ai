@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T12:44:00Z
 originalUrl: "https://www.digitaljournal.com/pr/know-why-the-face-recognition-systems-market-is-going-to-grow-substantially-by-2028"
 webUrl: "https://www.digitaljournal.com/pr/know-why-the-face-recognition-systems-market-is-going-to-grow-substantially-by-2028"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Digital Journal
