@@ -110,6 +110,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Neural Network Market With Industry Share Growth Swot Key Players And Forecast 2028"
+    excerpt: "CRIFAX added a report on 'Global Artificial Neural Network Market, 2020-2028' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth ..."
+    publishedDateTime: 2022-04-29T10:47:00Z
+    webUrl: "https://menafn.com/1104128899/Artificial-Neural-Network-Market-With-Industry-Share-Growth-Swot-Key-Players-And-Forecast-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?716071"
+        width: 305
+        height: 250
+        isCached: true
   - title: "Text-to-Speech Market Top Regions, Leading Players Upcoming Trends and Revenue Forecast"
     excerpt: "Emergen Research Logo Increasing geriatric population and rising demand for handheld devices is driving growth of the global text-to-spee"
     publishedDateTime: 2022-04-25T10:55:00Z

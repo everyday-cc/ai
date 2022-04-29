@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-04-04-mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist.md",
+      "title": "‘Mind-blowing’: Ai-Da becomes first robot to paint like an artist",
+      "excerpt": "AI algorithms prompt robot to interrogate, select, decision-make to create a painting",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
+      "originalUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d667f757ead9e72c5c0bb09a2c27e5ce1dff6a67/0_186_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=7763a33c2cde2b46bef7294ee12e40f8",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
+      "publishedDateTime": "2022-04-04T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-ai-in-genomics-start-up-mnm-bioscience-gets-nearly-1m-eureka-eurostars-funding-for-ai-based-cancer-patient-stratification-tool.md",
       "title": "AI in Genomics Start-Up MNM Bioscience Gets nearly $1M Eureka Eurostars Funding for AI-Based Cancer Patient Stratification Tool",
       "excerpt": "MNM Bioscience, a technological start-up using genomic data and artificial intelligence algorithms to develop solutions for personalized medicine, received an $800 000 grant from the Eureka’s Eurostars Programme.",
@@ -1086,58 +1138,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-algorithms-could-disrupt-our-ability-to-think.md",
-      "title": "AI algorithms could disrupt our ability to think",
-      "excerpt": "We already know AI-powered apps diminish our privacy. If they also diminish our human agency, that could have serious consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
-      "originalUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1263568743.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
-      "publishedDateTime": "2022-04-03T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -38,6 +38,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Edge AI Software Market Size, Share Growth, and Forecast 2021-2027"
+    excerpt: "It is a system that puts Edge Computing and Artificial Intelligence (AI) together. AI is a machine made to performs tasks that otherwise require human intelligent. Together Edge computing and AI brings many breakthrough advancements like self-driving cars ..."
+    publishedDateTime: 2022-04-29T10:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-size-share-growth-and-forecast-2021-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/151736a6e2eb8d12cc67e3bed8e4ef2d99f0efcc-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI-Enabled Testing Tools Market is Expected to Project a Stellar CAGR of 16.9% 2022-2030"
     excerpt: "AI-Enabled Testing Tools Market is forecasted to be valued at 1.27 Bn in the year 2030 and exhibiting a remarkable 16.9% CAGR during the forecast period 2022-2030. Telecom firms are leveraging the potential of AI to manage and assess large volumes of big ..."
     publishedDateTime: 2022-04-26T05:30:00Z

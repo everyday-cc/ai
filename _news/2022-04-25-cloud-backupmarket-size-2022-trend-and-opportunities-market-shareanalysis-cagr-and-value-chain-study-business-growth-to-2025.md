@@ -67,6 +67,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Machine Learning In The Pharmaceutical Industry Market To Witness Growth By A Robust CAGR Throughout 2022 2030"
+    excerpt: "Research Nester published a report titled “Machine Learning in the Pharmaceutical Industry Market : Global Demand Analysis & Opportunity Outlook 2030” which delivers a detailed overview of the ..."
+    publishedDateTime: 2022-04-29T10:17:00Z
+    webUrl: "https://menafn.com/1104126321/Machine-Learning-In-The-Pharmaceutical-Industry-Market-To-Witness-Growth-By-A-Robust-CAGR-Throughout-2022-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?716071"
+        width: 305
+        height: 250
+        isCached: true
 
 secured: "ylbfOAoO6VePzi/8P/Qgd5y868pGn9MjJbMevpbXJgOtc5rA8ArxGzHPEY2lEpLSHp3/pgbx7qv34CdAghrUIk5uNabkpBss7XHyFk5Y2aS/kK4lsijjjKynYRvF2jkpelT3XyqdOV8JzpfdjZjoKTeZhhJiMlUyrjXg/iaK3QsOVyTcpo2gSrThqaT8bM+w7gIEG9dOI4+nxn3kzvlvScS+MGZFW7COfmGZavgqldHq3pYzgwIYMKJtIrIbJzT/eMZxhYdaPb75PqVgNEJn3hVUZvn1k9vTJLBB7OPRo72GIfzocYqRZVGK3ktLrS/smaDA433DDTTs16utLMbw5wQlXVhIR7ytCdqBzDhPmFs=;RRBzb+s2zaYJYh83pHzRWA=="
 ---

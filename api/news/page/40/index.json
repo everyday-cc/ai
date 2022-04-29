@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-03-24-spectrum-labs-creates-guardian-for-games-to-safeguard-player-experience-in-the-metaverse.md",
+      "title": "Spectrum Labs Creates Guardian for Games to Safeguard Player Experience in the Metaverse",
+      "excerpt": "Spectrum Labs, a leading artificial intelligence (AI)-based content moderation platform, announced today it has created a version of its Guardian product purpose-built for Gaming communities. As the industry faces the challenges and opportunities of nurturing safe and inclusive communities as the next era of the Internet emerges,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr.md",
       "title": "Ontology of the everyday: PeopleReign's automation of IT and HR",
       "excerpt": "Automating language is not magic; it can take years of careful work to piece together what people mean in the context of corporate help desks, HR programs and the like. Such is the work of startup PeopleReign.",
@@ -1101,58 +1144,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims.md",
-      "title": "Cloud migration for medical imaging data using Azure Health Data Services and IMS",
-      "excerpt": "This blog is part of a series in collaboration with our partners and customers leveraging the newly announced Azure Health Data Services. Azure Health Data Services, a platform as a service (PaaS) offering designed exclusively to support Protected Health Information (PHI) in the cloud, is a new way of",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
-      "originalUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/787e5f5b-7eca-4ebb-9a78-ff529f3e28ce.png",
-          "width": 640,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T03:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 604
     height: 340
     isCached: true
+
+related:
+  - title: "Meet Flamingo, Deepmind's latest open-ended AI"
+    excerpt: "Autonomous Mayflower to attempt Atlantic crossing, again DARPA backs virtual worlds for autonomous off-road vehicles Ex-Googlers take a stab at building 'general intelligence' that makes software do what you tell it MegaChips takes aim at edge AI in US ..."
+    publishedDateTime: 2022-04-29T11:32:00Z
+    webUrl: "https://www.theregister.com/2022/04/29/flamingo_deepmind_ai/?td=amp-keepreading-btm"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 74
+    images:
+      - url: "https://regmedia.co.uk/2022/04/29/shutterstock_flamingo2.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "RhV2Q9jxD1cuIfIuQCap5IO587lkiQm/kBtPr7zHZ8pJR1CtaDdu7+6451FzUhI1LNuu/TEW1zVuC4FyLtzBGg8gGwzqIJtFNvfvVRXLeXjxgExpNkqLyPXmzeGYja0jLZTafiDp8CkOGgv9XMBAOUyxRgWGZSXtqBg1ncfDjb7kIRQJEly2pMgh2HHVHAka+AI6aU/o+bE8yAY2H4MIIy3NGMldIsfqMZJZ4HCY1eHrBx5pblWNmjP0Ii/8rWnwpVSTk4EU/aKKHQSISk9XNPuDTl5U9LYvpW3LMB3tDRiflHf6YXuvqSTPOzgl5KXcovOX1OvGlqFOtQ29a2gG7PdrnoaUmlELjcbg41hkk14RhQOOmpumHX2t+7uQ7zmv/cEmzj7zpWv9wBo4bLJLMCf1PKPVyI4az+b+j2Jmo+UsGzz4ZEot43MvONogKaca9Wc/Jb4zAPYP3njvEXuHSGyDNXtLw41SLZMhf9NhFUxtxiNBbAYnkrU/gq0ffMQMVIshhvz8dWkWfPX//lARPw==;fHfL1XzzxGmfgYJlnHbYqA=="
 ---

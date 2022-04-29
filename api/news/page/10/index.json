@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-19-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
+      "title": "Artificial intelligence is creating a new colonial world order",
+      "excerpt": "An MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/",
+      "originalUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-1-extend3-1.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/",
+      "publishedDateTime": "2022-04-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-how-ai-can-help-and-hinder-the-supply-chain-crisis.md",
       "title": "How AI can help – and hinder – the supply chain crisis",
       "excerpt": "This confidence in AI owes much to its promise of visibility. AI offers a clear overview of the entire supply chain, and claims to predict demand, supply and movements better and",
@@ -664,6 +707,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-18-neural-network-model-helps-predict-site-specific-impacts-of-earthquakes.md",
+      "title": "Neural network model helps predict site-specific impacts of earthquakes",
+      "excerpt": "Using data on microtremors in Japan, a neural network model can estimate site ... Seismological Society of America introduced a novel artificial intelligence (AI)-based technique for estimating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-elon-musk-there-will-likely-be-a-humanoid-robot-in-every-home-by-2050.md",
       "title": "Elon Musk: There will likely be a humanoid robot in every home by 2050",
       "excerpt": "Tesla CEO Elon Musk thinks that the company will have an interesting prototype sometime this year and something interesting within at least two years.",
@@ -898,49 +984,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-18-neural-network-model-helps-predict-site-specific-impacts-of-earthquakes.md",
-      "title": "Neural network model helps predict site-specific impacts of earthquakes",
-      "excerpt": "In disaster mitigation planning for future large earthquakes, seismic ground motion predictions are a crucial part of early warning systems and seismic hazard mapping. The way the ground moves depends on how the soil layers amplify the seismic waves (described as a mathematical site \"amplification factor\").",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html",
-      "originalUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/neural-network-model-h.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.amp",
-      "publishedDateTime": "2022-04-18T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-18-us-and-india-launch-talks-about-military-ai.md",
       "title": "US and India launch talks about military AI",
       "excerpt": "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center.",
@@ -1118,48 +1161,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026.md",
-      "title": "AI for Drug Discovery Market poised to garner maximum revenues during 2018 – 2026",
-      "excerpt": "Overview Artificial intelligence for drug discovery is a technology that uses and different algorithms that value add",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Kharkiv-AFP-1K-05-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

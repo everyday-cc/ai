@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-04-15-roboticist-shares-why-she-loves-working-at-boston-dynamics.md",
+      "title": "Roboticist shares why she loves working at Boston Dynamics",
+      "excerpt": "someone asks if humans have total control over the talented quadruped. Reassuringly for those fearing the robot uprising, Moreira responds: “Yes, Spot does not have a mind of its own. You have a controller where you can directly command Spot, kind of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/",
+      "originalUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/roboticist-boston-dynamics-2.jpg",
+          "width": 904,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/?amp",
+      "publishedDateTime": "2022-04-14T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-house-lawmakers-investigating-govt-use-of-facial-recognition-software.md",
       "title": "House lawmakers investigating gov't use of facial recognition software",
       "excerpt": "The ID.me software was used most recently by the IRS, but stopped after complaints from lawmakers and privacy advocates.",
@@ -1110,49 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.md",
-      "title": "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'",
-      "excerpt": "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
-      "originalUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2022/04/932/470/GettyImages-1386927042.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp",
-      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp",
-      "publishedDateTime": "2022-04-14T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 5 NY",
-        "domain": "fox5ny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

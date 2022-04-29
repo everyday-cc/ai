@@ -63,7 +63,7 @@ related:
     provider:
       name: Search Engine Journal
       domain: searchenginejournal.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/human-level-ai-626b9fb53ed3b-sej.jpg"
         width: 1600

@@ -44,6 +44,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Baidu & Pony.AI get China’s first commercial driverless robotaxi permits"
+    excerpt: "Baidu and Pony.ai are two Chinese companies that have been ... Previous permits relate to testing the self-driving vehicles without a safety driver in the vehicle. China has seen a raft of self-driving services in several cities across the country."
+    publishedDateTime: 2022-04-29T10:05:00Z
+    webUrl: "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/"
+    ampWebUrl: "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 103
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/Baidu-Apollo.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Baidu and Pony.ai each score permits to operate driverless taxi service in Beijing"
     excerpt: "Now the general public will be able to experience what it's like to ride in a fully automated self-driving taxi."
     publishedDateTime: 2022-04-28T06:37:00Z
@@ -138,6 +154,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+    excerpt: "Baidu said 10 such autonomous cars began offering rides to ... In 2020, Beijing set a goal for 70 percent of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving automation, which means the vehicle can control ..."
+    publishedDateTime: 2022-04-29T11:25:00Z
+    webUrl: "https://www.sunstar.com.ph/article/1927695/cebu/lifestyle/china-grants-first-driverless-taxi-permits-to-baidu-ponyai"
+    ampWebUrl: "https://www.sunstar.com.ph/ampArticle/1927695"
+    cdnAmpWebUrl: "https://www-sunstar-com-ph.cdn.ampproject.org/c/s/www.sunstar.com.ph/ampArticle/1927695"
+    type: article
+    provider:
+      name: Sun Star
+      domain: sunstar.com.ph
+    quality: 74
+    images:
+      - url: "https://www.sunstar.com.ph/uploads/images/2022/04/29/352271.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Pony.ai lassos China's first autonomous taxi license"
     excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
     publishedDateTime: 2022-04-25T17:00:00Z
@@ -153,20 +185,6 @@ related:
       - url: "https://regmedia.co.uk/2021/03/31/driving.jpg"
         width: 1000
         height: 475
-        isCached: true
-  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-    excerpt: "Baidu said 10 such autonomous cars began offering rides to ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving automation, which means the vehicle can control steering ..."
-    publishedDateTime: 2022-04-28T23:28:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 56
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/7f/57f67885-70b8-5cef-a28e-a3cc1e5e6e85/626a3f1052c4b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Baidu, Pony.ai granted driverless taxi permits in Beijing"
     excerpt: "Baidu and on Thursday announced that they have obtained permits from the Beijing city government to offer driverless rides in an area of 60 square kilometers (23 square miles) in the city’s southeast Yizhuang district."

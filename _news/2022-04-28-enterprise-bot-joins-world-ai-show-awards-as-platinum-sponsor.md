@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26860520"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26860520"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Enterprise Bot joins World AI Show & Awards as Platinum Sponsor"
+    excerpt: "World’s longest-running AI show series, World AI Show & Awards is set to make its return to where it started from – Dubai! The 35 th global edition will take place on 25 – 26 May 2022 at the Jumeirah Emirates Towers in Dubai. Aligned with the UAE's ..."
+    publishedDateTime: 2022-04-29T11:30:00Z
+    webUrl: "https://www.siliconindia.com/news/general/enterprise-bot-joins-world-ai-show--awards-as-platinum-sponsor-nid-218807-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 37
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/JBTMCPIh.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "35wq1PR/gjyCvZdljadbR7laAA2bdopHu0be3x+zaM3ImlA6/py5NLkwqclVG31gSycXgoLOYUx5d+x8s7qL1hirFaCTl1LgIJSCjhf41lAntRDcS9fH86nZCQGY1HFj25pUm9U5TEwrhde9/fsnMxR8L4kkVdZbhmXaSUffbei5bzelsyQU4bWFzkU3rc0f13o/YpVy31/aNJwQQCoVnMUfHVwGnRqNyoYNNNDT/mptOGXOmZEptJRe5/PGQtLSPwjKs8zbs75uEPZ+hYmsZh5zbLFGLZ/lYbz2JIcIiAMFJFO6FgtPumG+WxrHKaof+Gs/jdbAGhIPCSYsBIqED1Pm+DuB2gaNc+pz/AvPenrxPfEF0qlBJuiGeijjSb8TCgpAi1HxqJwCNwD/aDElEDTxJuWpv3QvKBfWezb4//FP2rAXJMGSgNHI0ee0tzQYB1G3d5ALJ3rPC85131HSDpCF7SC8/ROIhno01jJVQZ8is7MzCwqWPFi+qySZfPZ3zz+vYNXaAVmZlMvxz2J9ww==;OozKqF0JMIDL403XanLEdw=="
 ---

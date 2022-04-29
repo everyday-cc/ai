@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-29-enterprise-use-cases-for-computer-vision.md",
+      "title": "Enterprise Use Cases For Computer Vision",
+      "excerpt": "Manish Garg is the Co-founder and Chief Product Officer at Skan.ai, a computer-vision-based process intelligence platform. Computer vision conjures up thoughts of autonomous vehicles and facial recognition for many of us. Indeed, billions of dollars have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,3375,x0,y240,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "publishedDateTime": "2022-04-29T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-ai-investors-have-opportunity-to-lead-c3ai-inc-securities-fraud-lawsuit.md",
       "title": "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit",
       "excerpt": "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ...",
@@ -603,7 +655,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -810,7 +862,7 @@
       "originalUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1034,7 +1086,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1127,7 +1179,7 @@
       "originalUrl": "https://news.microsoft.com/apac/features/this-ai-enabled-robotic-boat-cleans-up-harbors-and-rivers-to-keep-trash-out-of-the-ocean/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1168,48 +1220,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers.md",
-      "title": "HPE and Salesforce unveil AI and automation tools for developers",
-      "excerpt": "HPE has launched its Swarm Learning and Machine Learning Development System whilst Salesforce announced further integration with Slack, Tableau, and Mulesoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "originalUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "publishedDateTime": "2022-04-27T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

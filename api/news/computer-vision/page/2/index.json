@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-07-deci-boosts-computer-vision-nlp-models-performance-at-mlperf.md",
+      "title": "Deci Boosts Computer Vision & NLP Models’ Performance at MLPerf",
+      "excerpt": "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV) and Natural Language Processing (NLP) inference models that were submitted to the MLPerf v2.",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/2022/04/06/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/",
+      "originalUrl": "https://insidebigdata.com/2022/04/06/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions.md",
       "title": "Receive notifications for image analysis with Amazon Rekognition Custom Labels and analyze predictions",
       "excerpt": "Amazon Rekognition Custom Labels is a fully managed computer vision service that allows developers to build custom models to classify and identify objects in images that are specific and unique to your business. Rekognition Custom Labels doesn’t require you to have any prior computer vision expertise.",
@@ -1285,49 +1320,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030.md",
-      "title": "Image Recognition Market Segmentation Analysis and Global Industry Trends Forecast 2030",
-      "excerpt": "pattern recognition, object recognition, and digital image processing. The category of code recognition technology segment is estimated to be the leading segment in the world market for image ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,28 +1,29 @@
 ---
 category: news
 title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Baidu said 10 such autonomous cars began offering rides to ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving automation, which means the vehicle can control steering ..."
-publishedDateTime: 2022-04-28T23:28:00Z
-originalUrl: "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html"
-webUrl: "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html"
+excerpt: "Baidu said 10 such autonomous cars began offering rides to ... In 2020, Beijing set a goal for 70 percent of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving automation, which means the vehicle can control ..."
+publishedDateTime: 2022-04-29T11:25:00Z
+originalUrl: "https://www.sunstar.com.ph/article/1927695/cebu/lifestyle/china-grants-first-driverless-taxi-permits-to-baidu-ponyai"
+webUrl: "https://www.sunstar.com.ph/article/1927695/cebu/lifestyle/china-grants-first-driverless-taxi-permits-to-baidu-ponyai"
+ampWebUrl: "https://www.sunstar.com.ph/ampArticle/1927695"
+cdnAmpWebUrl: "https://www-sunstar-com-ph.cdn.ampproject.org/c/s/www.sunstar.com.ph/ampArticle/1927695"
 type: article
-quality: 56
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Sun Star
+  domain: sunstar.com.ph
 
 topics:
   - AI in Autos
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/7f/57f67885-70b8-5cef-a28e-a3cc1e5e6e85/626a3f1052c4b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://www.sunstar.com.ph/uploads/images/2022/04/29/352271.jpg"
+    width: 600
+    height: 375
     isCached: true
 
 related:
@@ -41,6 +42,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/04/Baidu-Apollo-Driverless-Vehicles.jpg?w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Baidu & Pony.AI get China’s first commercial driverless robotaxi permits"
+    excerpt: "Baidu and Pony.ai are two Chinese companies that have been ... Previous permits relate to testing the self-driving vehicles without a safety driver in the vehicle. China has seen a raft of self-driving services in several cities across the country."
+    publishedDateTime: 2022-04-29T10:05:00Z
+    webUrl: "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/"
+    ampWebUrl: "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 103
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/01/Baidu-Apollo.jpg"
+        width: 2048
+        height: 1152
         isCached: true
   - title: "Baidu and Pony.ai each score permits to operate driverless taxi service in Beijing"
     excerpt: "Now the general public will be able to experience what it's like to ride in a fully automated self-driving taxi."
@@ -334,6 +351,6 @@ related:
         height: 720
         isCached: true
 
-secured: "DkMKlzRDuo8YtAi0cxeKkZTlpoRsjoys76iZhp9VxrkHEOb6bEOoj1+q4kGx0sWh1K0h2MLaK0+lOROERimNd9bN2cYOSdI8Pb1sxNVgOhwVUX9X0mmlp0WtVU/R5JSr9agvoD0JRfAyAWDSN5y29YJiWnpuvstiLKFIOUoZ1U55IWaDnYoWArS50eu6/GlHU7Vt20hruMZ7AIVDDqHoPcSHjgXjEG2F2gRNBRHNNSuC8stqkFEB3FYTjH+uVLIeutzLogFEgoop8L2Mk34MNj8gnLT2KAg8RJeiNpa0Bws2YMTL3jtFTibVZ4wfOhcoHW6+rwVLpfrI3y99AQNdcUFCQPrHeZrjwWVjNK7RkfS8gZ3f6U8NRjyOWXxdLz26AJmoml0SXuuQcW575iBH2PVT8F/vxSghrkroq8LQhEfif2dDT7TX27aQtPX5o8fVb49EYMk/E8ISGGR8rRcH6CmwtWSynobgnLRPiO4P+ND/kH6M3YmGjkhOwmEn17AGMR4kR2njIROKlTmAC+xquA==;5Bbb+1Weg58rl1ibV+Jwew=="
+secured: "crHZqZM9hh8oAS78Y3v0F3MzmrlWF1BWs+K4rPRA2Vec1R2Y61K0Xk0GnYfTjbeIxI1jUl/aiMhdTo2RtsQCKLeamaK40X964kGXwdAi4vRDYZgNRbV7VsZwDOZQWejV2l/WewgafCvYh0Pm6kMG0rwUGqWcxUjd8IbCItTNH4o3LG9NH2CBeQ+64J0924gM7bfTU7X9+1ZHEnBagTVB1XAsbLDONDgWbBxU8E8NDztlApLMi6J/0taMoRakzfuru0Fw32coJW9QXjQethh9JdyuhVQdOrU6k5qBhGfcpApI90+Xd5gjC1rVoHLpFmbHluIcF9sdDA7tTXhi/hPJm/QXsZpPah8NbG61SGaoUVI=;fMmsLZkNnfPbaLBVllx00g=="
 ---
 

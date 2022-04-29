@@ -2,20 +2,26 @@
 category: news
 title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
 excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-publishedDateTime: 2022-04-26T07:00:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+publishedDateTime: 2022-04-26T09:00:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
+
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
 
 related:
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-..."
@@ -97,6 +103,6 @@ related:
       domain: finanzen.at
     quality: 13
 
-secured: "y2Op3CpjgmgJ84dWU3EqCNRs8cxf5SHbE+GhWp5CxEU8u37uEv7QsNgM/6rlOPwYH6LkAzMEibKO/M9weJpNh1azHvYgRxOk4npNsxZnvlSILrXbYKO+XSCTYgZIOerfsfBdN9ARCKr3reHHlQPnWfgOW4JRgq8JJpLfJHsbQztqNj2+cX3uLV40SUw8oSf/ByFD4BoimfPwKLpOzPDnawrL561Cr7rf5LQDN1y2OgIPCRoaZxSlvJu9aZWiMDkIUpjR9Ky6uBTz63v9wu90cktLuymIAbjC7Gy38FoqhwA6bXsqqzK5YI3P0z3Nw8PW90qPCEcZLgvF2/8wsPaefygm+usjhswl+qiW83WCLj0=;OLc/KZ/sBgRE3uqMpek/EQ=="
+secured: "/J7wJvql31GGtFjyCo2TdjWaAo/YUTYG7yS8OxpWAR6wMPZEp96q8X/mwNpcEW0afx0scVbIDsTEnBzcBP5tnpxDEDE1vAuijPCiY9QiNfrRXMkNC6eYpgLTDtWysPbXBI3Py6W3WPnRBoFbP425dBkaykvhiHkrDoXEAb3a3BsKWREqwhTQ79P0/+i53H9NCDLghODUJzdvUJ+XTRdmMad82tAjh9GlJ93l1uz5u4QgjZnnxjMEVNvglZyXeEocGgoGXw/D3zAnF8EHV4Tl32c+k4HlnXlf2AMNlPZvbQqZ286g9tmzcqCcjn3FXRnzIF98cUtvaRG6LnpDO0u/+INN4ZVNg/iWILh59tCMuVg=;3n5fcMf0O2K/F7KLah7s6w=="
 ---
 

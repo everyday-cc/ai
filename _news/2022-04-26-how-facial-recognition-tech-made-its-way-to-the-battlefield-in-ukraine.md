@@ -7,7 +7,7 @@ originalUrl: "https://slate.com/technology/2022/04/facial-recognition-ukraine-cl
 webUrl: "https://slate.com/technology/2022/04/facial-recognition-ukraine-clearview-ai.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 780
     height: 520
     isCached: true
+
+related:
+  - title: "Bringing facial recognition to war is a bad idea"
+    excerpt: "Chief among the concerns is that facial recognition makes mistakes. It is bad enough when that leads police to make a wrongful arrest. In a war zone, there are even greater life and death consequences. There is evidence that front-line users of facial ..."
+    publishedDateTime: 2022-04-29T07:10:00Z
+    webUrl: "https://www.japantimes.co.jp/opinion/2022/04/29/commentary/world-commentary/facial-tech-war/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_152826-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
 
 secured: "iKNNve8t3QLQwu8MD8r5FuzbkO8LsvKz/80wxz/EHR1Fg/GUzAf/BowAT/zoTw6qPhpr31Ibke1D4IRzdzZ3ua2ql+Lu/sVJc6zKH+q4gcgtYYEM3f7gXk1OZz/EW0n49sZ8zAnT4thY9CCbKgNqISyJ4vaTXniY0BiPGCFuoqgzXU68LWd3zweCPx8N6IO5EPHk3CCj7lGKlrJPVKqYuCeNKf1kYRM0I7MP2hePrYfaK99J0wqRHz7WEHMJTUHLXAovaJ/Mvxye4SbB0gQM1yC4MeC00uguvxCeEQDe+akRw6D0IBR48pouVmfF6uZv/9seeUFK7Sj/D+pxCkCa0s6GDCj+j8cKu9Mmo87D34E8Vqnsy46ZWRCi3w12eg/J/7049EexHqff8un6a4KOhDwqrLokIODyLa/zVrkoP1x9Gj4+jzlWRO0++T29Wjx+2Qx95GlpNF8H43FmKBTglGpggMFSfpa9aJiQUzPQNii/riLuzyBSP+2+uF+lQwGUVakYzu9pDe2AnwXRxtKWNw==;uHKskdYECKC+PsYPT72SAQ=="
 ---

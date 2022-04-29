@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-whee
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2022-key-performance-top-players-segmentation-future-plans-and-forecast-to-2028-2022-04-26"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Neural Network Market With Industry Share Growth Swot Key Players And Forecast 2028"
+    excerpt: "CRIFAX added a report on 'Global Artificial Neural Network Market, 2020-2028' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth ..."
+    publishedDateTime: 2022-04-29T10:47:00Z
+    webUrl: "https://menafn.com/1104128899/Artificial-Neural-Network-Market-With-Industry-Share-Growth-Swot-Key-Players-And-Forecast-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?716071"
+        width: 305
+        height: 250
         isCached: true
   - title: "Speech Recognition Market: Top Manufacturers, Consumption, Sales, Demand, Revenue, and Business Development Strategies by Top Industry Players-2026"
     excerpt: "The Speech Recognition Market report by Allied Market Research, includes the study of dynamic factors that directly impact the market growth, which involves drivers, restraints, challenges, and opportunities. The report offers a detailed study of market ..."

@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-29T09:17:00Z
 originalUrl: "https://www.searchenginejournal.com/human-level-ai/448006/"
 webUrl: "https://www.searchenginejournal.com/human-level-ai/448006/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/human-level-ai-626b9fb53ed3b-sej.jpg"
@@ -78,6 +79,6 @@ related:
       domain: newscientist.com
     quality: 19
 
-secured: "aXDHKpZ8Uct4ZpBps+AoVC4C1w2Au6Fj9tz14pZtk+HPYdIWhIByUO3R2dVHuWZ5bbYMK7Z7Ncn+X7SMKjCiT95BgEe5MRwynvCmwp9KHvaTwXIJrtb+OZ2W4AVhRUoZphMsGIIH2Hf/TUpaErjni0JJs5DDQmdlSkS6yv97QmQTMbnCQQUZ2unGEGeffKs18G8/KPtUTlZL5g/JG7ObbcX10F2VqZT4GN7nw75aPyHS66O7U1iNprf1MlZ1+IQ8isZKpk43Yoo90RVh9ah7OGR+Tkfih6MUN8gKt5q0XDVmLWCKIdt9uFzV7R+UxBnsMxeXsDZxke6xmvSvTV7mgqXFG+9aLJWd8PBGdTYJhXA=;53WK1wsWpz1YN2i0DcSXLg=="
+secured: "7rn+Fse3LVlQWRmCe8n//JHr3oCXEGyCKg2NUkPOA4sdhM/AQ0oNpm3uCktdm8dO9kg8MloBqQqTKRjT7iiT0Jxy7SJyPq/rq4wZtCM/1Gm5deeAUCtBbe2uBDmR9RCkqsYipkrVWKIBTdF+/S3Q2I7FscTaj0FgJv9fWv6qDaYaZjFcJf0H7VYJ242qcTpw1mJSsiCxw+7VCxHZHL+zIbjvlLZv3ZDDoJezKeJ+0mJjSteP8AagTu4qaC/dbUv4iWf27Ki7/y8LS5ECkxqoLDN9/YGKhjfn9HiE79dqq/tIfdfHf4sFUUvGWuqIs2m74ThUITg2k9FbtORCMtUVTaPRxtx7QsqIMLKw1c2IKVg4AAu1jrk0bYsPVOTHL+/496Srw2sbnM5nryzsQSlzxS3XFk41xqkw4wWNrzJQhGFBsAc5GZDC8bPZMr8SBVCGRqwAfVaB+C0YPRjezoJtkj8X23snsNhot1RoMxbR1P5pSXBZZuKXYZkOmYCuYsmC5KDmcOxMUA2yCxT0kL5q8w==;t27tfeU8oX7Zw5fV+ABueg=="
 ---
 

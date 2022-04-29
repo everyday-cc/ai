@@ -89,6 +89,15 @@ related:
       name: Stratechery
       domain: stratechery.com
     quality: 17
+  - title: "The Evolution of Data and Freedom of Expression and Hate Speech Concerns with Artificial Intelligence"
+    excerpt: "In the current era we are witnessing a high increase in the development and adaptation of artificial intelligence (AI ... of science and related technologies has developed from research activities based on observation, lab experiments, animal and human ..."
+    publishedDateTime: 2022-04-27T00:00:00Z
+    webUrl: "https://www.cambridge.org/core/journals/legal-information-management/article/evolution-of-data-and-freedom-of-expression-and-hate-speech-concerns-with-artificial-intelligence/5331D49AA715602E27BE1952E1668A43"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 4
 
 secured: "pFsY1LKG+nWrT84IP7+eUyy3u3epUBubP5qkuBM02x3kXVqeks/BvkfBE6JoYBjlvfxzwv9DcDML+4OOiS2ExTLnMBqzSo3VNOudCqMWgS5swBMZL/3mMAOeXZ0wQFoif3m0UAGRh9OJ+1L+4YmaTQVFSevffk/fDmToqN+dFKV7N7qMwzoDGluZSyikZykG4SjkLgMrtQYlsIk/DT8f0p6zu3OIbQHXz33D31UpsrMsaKZdkk9gMCin1FPxcrArvBodjenu9l2hIYNbQamAxOx1FgwlAOfzartGasApWpBydXTujb0BJASOb1zdjQrqugJJYDYU9vvtqkXI3I5oU4lhYEwlecFqqrRq04DL1F8=;CFMaGh+T6n5k/yondGcQxw=="
 ---

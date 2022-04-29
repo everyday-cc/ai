@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-29-enterprise-use-cases-for-computer-vision.md",
+      "title": "Enterprise Use Cases For Computer Vision",
+      "excerpt": "Manish Garg is the Co-founder and Chief Product Officer at Skan.ai, a computer-vision-based process intelligence platform. Computer vision conjures up thoughts of autonomous vehicles and facial recognition for many of us. Indeed, billions of dollars have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,3375,x0,y240,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "publishedDateTime": "2022-04-29T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams.md",
       "title": "Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams",
       "excerpt": "Today, AWS announced the general availability of Amazon Rekognition Streaming Video Events, a fully managed service for camera manufacturers and service providers that uses machine learning (ML) to detect objects such as people, pets, and packages in live video streams from connected cameras. Amazon",
@@ -1316,41 +1368,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-deci-boosts-computer-vision-nlp-models-performance-at-mlperf.md",
-      "title": "Deci Boosts Computer Vision & NLP Models’ Performance at MLPerf",
-      "excerpt": "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV) and Natural Language Processing (NLP) inference models that were submitted to the MLPerf v2.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2022/04/06/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/",
-      "originalUrl": "https://insidebigdata.com/2022/04/06/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

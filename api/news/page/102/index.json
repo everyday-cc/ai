@@ -2,6 +2,58 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2022-01-31-artificial-intelligence-the-3-big-trends-to-watch-in-2017.md",
+      "title": "Artificial intelligence: The 3 big trends to watch in 2017",
+      "excerpt": "Artificial intelligence: The 3 big trends to watch in 2017 Your email has been sent AI is now woven into our lives at work and home, and 2016 saw major advancements in driverless technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/",
+      "originalUrl": "https://www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2013/12/iStock_000009058764Medium.jpg",
+          "width": 2052,
+          "height": 936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/amp/",
+      "publishedDateTime": "2022-01-30T22:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-chinese-scientists-create-ai-nanny-to-look-after-babies-in-artificial-womb.md",
       "title": "Chinese scientists create AI nanny to look after babies in artificial womb",
       "excerpt": "Technology won’t be a problem for its future application, but legal and ethical concerns might, warns Beijing-based researcher.",
@@ -1162,58 +1214,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-icymi-nvidias-rtx-3050-is-a-great-budget-gpu.md",
-      "title": "ICYMI: NVIDIA’s RTX 3050 is a great budget GPU",
-      "excerpt": "Engadget's tech reviews this week include a low cost ray tracing GPU from NVIDIA, new Jabra wireless earbuds and Sony's latest mirrorless camera..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
-      "originalUrl": "https://www.engadget.com/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/ede797d0-7e64-11ec-9fbd-cd302f05d636",
-          "width": 2000,
-          "height": 1079,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/icymi-nvidias-rtx-3050-is-a-great-budget-gpu-170000093.html",
-      "publishedDateTime": "2022-01-29T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

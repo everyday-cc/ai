@@ -2,6 +2,49 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-02-12-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
+      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
+      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25569416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416",
+      "publishedDateTime": "2022-02-11T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-darktrace-on-where-security-ai-goes-next-turning-the-tables-on-attackers.md",
       "title": "Darktrace on where security AI goes next: ‘Turning the tables’ on attackers",
       "excerpt": "Register here. The next phase of security AI will bring a greater focus on preventing attacker movement — making cyber attacks much more difficult and far less likely to succeed — through ...",
@@ -1105,49 +1148,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-speech-and-voice-recognition-market-worth-usd-283-billion-by-2026-exclusive-report-by-fortune-business-insights.md",
-      "title": "Speech and Voice Recognition Market Worth USD 28.3 Billion by 2026 – Exclusive Report by Fortune Business Insights™",
-      "excerpt": "Speech and Voice Recognition Market Size, Share & Industry Analysis, By Component (Solution, Services), By Technology (Voice Recognition, Speech Recognition), By Deployment (On-Premises ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-usd-28-3-billion-by-2026-exclusive-report-by-fortune-business-insights",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-usd-28-3-billion-by-2026-exclusive-report-by-fortune-business-insights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-Stop-War-Protests-AFP-1K-02-e1645941090514-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-10T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

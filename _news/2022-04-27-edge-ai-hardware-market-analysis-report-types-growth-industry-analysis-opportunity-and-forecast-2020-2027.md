@@ -38,6 +38,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Edge AI Software Market Size, Share Growth, and Forecast 2021-2027"
+    excerpt: "It is a system that puts Edge Computing and Artificial Intelligence (AI) together. AI is a machine made to performs tasks that otherwise require human intelligent. Together Edge computing and AI brings many breakthrough advancements like self-driving cars ..."
+    publishedDateTime: 2022-04-29T10:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-size-share-growth-and-forecast-2021-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/151736a6e2eb8d12cc67e3bed8e4ef2d99f0efcc-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Wearable AI Market Size, Share | Regional Analysis and Trends by 2026"
     excerpt: "The Wearable AI Market Records a significant CAGR by 2026, according to the latest report published by Allied Market Research Recently, Allied Market"
     publishedDateTime: 2022-04-25T03:31:00Z

@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-04-08-solutions-for-self-driving-cars-qa-with-nvidia.md",
+      "title": "Solutions for self-driving cars – Q&A with NVIDIA",
+      "excerpt": "Rather than hard-coding dedicated functions into ECUs, a modern vehicle architecture requires high-performance centralized computing, and complex software stacks leveraging artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/interview/solutions-for-self-driving-cars-qa-with-nvidia/",
+      "originalUrl": "https://www.just-auto.com/interview/solutions-for-self-driving-cars-qa-with-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/04/Image-1-resized.jpg",
+          "width": 703,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-3-best-artificial-intelligence-stocks-to-buy-in-april.md",
       "title": "3 Best Artificial Intelligence Stocks to Buy in April",
       "excerpt": "And its Azure machine-learning studio and workbench for creating ML models are helping turn every developer into an AI professional. Microsoft is also leveraging AI to push further into healthcare.",
@@ -1112,57 +1155,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-how-ai-and-humans-can-best-collaborate-at-work.md",
-      "title": "How AI and Humans Can Best Collaborate at Work",
-      "excerpt": "Who decides who does what? And how can humans learn to trust AI? Research offers some answers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
-      "originalUrl": "https://www.wsj.com/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-520178/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
-      "publishedDateTime": "2022-04-07T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

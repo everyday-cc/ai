@@ -35,15 +35,6 @@ related:
         width: 876
         height: 494
         isCached: true
-  - title: "Internet of Things , AI to drive business value for fleet management firms"
-    excerpt: "Fortune Business Insights says global fleet management software market will grow 3.7X between 2022 and 2029, at a compound annual growth rate (CAGR) of 18.3%. Fleet-tech is no more about achieving efficiency alone,"
-    publishedDateTime: 2022-04-24T18:41:00Z
-    webUrl: "https://www.livemint.com/opinion/internet-of-things-ai-to-drive-business-value-for-fleet-management-firms-11650825330023.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 15
 
 secured: "vGerV0OxXK2BzO0wWcQBOrx6+KPRoAnfeomEN9P6IeyJHu8CIvxAdnxxQIequaBZCShF9A4t2RwyAaBJ4x6BfltRBLSvB5P/2zyanu25gaiEXwZhV6gAFyi1FtWWrkGoPQZ3jnTsG8XCKgn12GJiiqdYV/+wrro4sm7d79iT3XkHifGk0XfKfBCd097hzcT3R6L7lIfx8+h+DOl+uXSZySk9f+X7nHPdiO9BLfNZOdXCH2gAv/JfPz2pZQzRs7RgkwZ5WuYmvFZcH5ER70K1UF6mX8aoG6++yYg/+NSo5/7rLjzcEyXCvvCbByAw3h/zX4PWExkwRKt1SIxo59s3B9bpHjVyIMZrdIzKkjhFm/E5/WPBc8gr1420yxib7T+NUnWZb35vBWou85zBOow30Gda98w6GuwDZmbKAAL7uiqkEEcXU75CLBakJP+ZUhdUefTS2jiLL46aW08jF9tV6SC5yWnl6aeHMgsEl1bq/BoZOESViu9IZm1xbSu6WbJrg3iDeiiCExe8oTpUoMuRIw==;k6krk6Fr+SDRlH6AmjsvPQ=="
 ---

@@ -73,6 +73,20 @@ related:
       name: Nippon
       domain: nippon.com
     quality: 34
+  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
+    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
+    publishedDateTime: 2022-04-26T09:00:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 33
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "TD chief AI officer, CDL-Toronto lead team up with health expert for new healthtech startup, Signal 1"
     excerpt: "Three Canadian technology leaders are coming together to launch a healthtech startup with $12.7 million CAD ($10 million USD) in all-equity seed funding. Signal 1, which was co-founded by TD chief AI officer Tomi Poutanen, raised the Inovia Capital-led ..."
     publishedDateTime: 2022-04-25T17:41:00Z
@@ -87,15 +101,6 @@ related:
         width: 1050
         height: 700
         isCached: true
-  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
-    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T07:00:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 13
 
 secured: "zuitsJXpI5QSh0f7qqfnQUKtDAWMtwzXdlDuEFU24YK06raQJifFKBRqiKPZyBQ+AlL6S4ynerPJcfTmNI4rcQUnXoTb21TZzIX/kymPBHG8h3FwywSvHfYM3SGam/FuHJ2T0CXkDKA1+LcsSzihUYUM4zaL+wO463zwN9kaw1UTNeprcFZhpZtyQoxUpBC7lUr3/L7PjQHyMUVvTxaoWh6hQf8OK/VHoxrhzyvb4irma6z23uZY7zQppmvCDkGlNzbGVzHxYS/WbY0at4hRIzJZAAjfXc2P9AC3bHyI+ab6NM3ugBC9FeUq7oG31oWBvbSPEEdJgbr6y0iyEmqzhy3lttpmvlvgdpPSiSDzA4Q=;L5uBd6KDKojXVe7TKhvm+w=="
 ---

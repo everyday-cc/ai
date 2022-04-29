@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-20-the-quantum-resilient-web-30.md",
+      "title": "The Quantum-Resilient Web 3.0",
+      "excerpt": "The new, quantum-resilient Web 3.0 is the latest phase of the internet's evolution. It is designed to be capable of delivering a more private, resilient, faster and more personalized user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/20/the-quantum-resilient-web-30/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/20/the-quantum-resilient-web-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625eb89d623c547301c5efa7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/20/the-quantum-resilient-web-30/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/20/the-quantum-resilient-web-30/amp/",
+      "publishedDateTime": "2022-04-20T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-ibm-to-make-watson-orchestrate-generally-available.md",
       "title": "IBM to make Watson Orchestrate generally available",
       "excerpt": "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv",
@@ -996,49 +1048,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated.md",
-      "title": "Even Financial's Embedded Finance Marketplaces Surpass $5 Billion in Credit Facilitated",
-      "excerpt": "Leveraging machine learning and advanced data science, Even solves a significant pain point in financial services customer acquisition by seamlessly bridging financial service providers and channel partners via its industry-leading API and embedded finance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated/article_dab178ba-e2bf-5aca-8da1-ec3c829808fd.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated/article_dab178ba-e2bf-5aca-8da1-ec3c829808fd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/0a/40a77029-ab72-5293-9a7a-85d19c7f6454/6076f5942ed8c.image.jpg?crop=1486%2C780%2C507%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },

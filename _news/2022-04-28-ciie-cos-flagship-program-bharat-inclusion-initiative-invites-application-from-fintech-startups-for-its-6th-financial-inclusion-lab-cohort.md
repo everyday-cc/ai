@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 991
         isCached: true
+  - title: "FinTech to Rule the Job Market in India with 87 percent Adoption of FinTech Services"
+    excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenance & regulation, innovation & transformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
+    publishedDateTime: 2022-04-29T10:22:00Z
+    webUrl: "https://www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/"
+    ampWebUrl: "https://www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/?amp=1"
+    cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/?amp=1"
+    type: article
+    provider:
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 37
+    images:
+      - url: "https://www.newsvoir.com/images/article/image1/20202_manipal%20image.JPG"
+        width: 705
+        height: 410
+        isCached: true
   - title: "OriginClear to Launch Water On Demand Fintech Startup"
     excerpt: "Program brings relief to underserved businesses needing their own water treatment.CLEARWATER, Fla.--(BUSINESS WIRE)--$OCLN #cleanwater--OriginClear Inc. (OTC Pink: OCLN), a leader in clean water innovation,"
     publishedDateTime: 2022-04-26T15:30:00Z

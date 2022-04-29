@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 991
         isCached: true
+  - title: "FinTech to Rule the Job Market in India with 87 percent Adoption of FinTech Services"
+    excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenance & regulation, innovation & transformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
+    publishedDateTime: 2022-04-29T10:22:00Z
+    webUrl: "https://www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/"
+    ampWebUrl: "https://www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/?amp=1"
+    cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/?amp=1"
+    type: article
+    provider:
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 37
+    images:
+      - url: "https://www.newsvoir.com/images/article/image1/20202_manipal%20image.JPG"
+        width: 705
+        height: 410
+        isCached: true
   - title: "CIIE CO's Flagship Program Bharat Inclusion Initiative invites application from FinTech Startups for its 6th Financial Inclusion Lab Cohort"
     excerpt: "CIIE.CO's Bharat Inclusion Initiative (BII) invites applications from startups for the sixth cohort of Financial Inclusion (FI) Lab to support innovations that aid in making mainstream financial"
     publishedDateTime: 2022-04-28T16:01:00Z
