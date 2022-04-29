@@ -38,6 +38,20 @@ related:
         width: 2168
         height: 1948
         isCached: true
+  - title: "Symmetrical.ai Raises $18.5M in Series A Funding"
+    excerpt: "Symmetrical.ai, a Warsaw, Poland- London, UK- and Barcelona, Spain-based global payroll company serving international companies, raised $18.5M in Series A funding. The round was led by Target Global with participation from Global Founders Capital ..."
+    publishedDateTime: 2022-04-28T23:12:00Z
+    webUrl: "https://www.finsmes.com/2022/04/symmetrical-ai-raises-18-5m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/01/life-house-440x293.jpg"
+        width: 440
+        height: 293
+        isCached: true
 
 secured: "K8OYA5yI2Apivhjbx+mrTJndzVbh04Afkdhh/omXhMLZ4/LbXyaJhMSplyBd8d1sZayvyOyDOzZlpK0MHHbBsZQEiu3WglPAZbmpgs1oQHzYdgB2IXQxEywBMrwHiueX1ujGLUGmCJabA9cMI4tHQaiztIEOvHan9uXFyjt8slnL7/cum7eQcujxUkK2REGCARKonGSnhymDLLGdeg4o681yVKZYWAAI1nRq1njMB6IvCt7008oFiY1b+tOqcgzaUNRKUct/YHpONb5xa+FEtW91xZm8rJx59AaQg+DVTxAyec9EWUV0sdu27wep+SZYjvpBiWLhSczsJav8yG164w3V19uqJ7BxKUbqvZ8uWzo=;e+64M/mkzJMKrr+OsJPhqw=="
 ---

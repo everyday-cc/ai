@@ -1,27 +1,29 @@
 ---
 category: news
 title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
-publishedDateTime: 2022-04-28T06:59:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+excerpt: "The permits given to Baidu and Pony.ai allow them to offer rides without a safety driver behind the wheel to take over in cases of an emergency. The new permits still require a safety supervisor to be seated in the front passenger seat."
+publishedDateTime: 2022-04-28T06:03:00Z
+originalUrl: "https://www.chron.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
+webUrl: "https://www.chron.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
+ampWebUrl: "https://www.chron.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/25/40/31/22414936/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -205,34 +207,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Pony.ai to start charging money for its robotaxi services in Guangzhou"
-    excerpt: "Pony.ai said on Sunday that it has received permission to charge a fee for offering autonomous ride-hailing services to the public in parts of the southern city of Guangzhou. Starting May, a total of 100 of the firm’s self-driving vehicles will be allowed to operate commercially on public roads in Guangzhou’s Nansha district between 8:30 a."
-    publishedDateTime: 2022-04-24T08:53:00Z
-    webUrl: "https://technode.com/2022/04/24/pony-ai-to-start-charging-money-for-its-robotaxi-services-in-guangzhou/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
-  - title: "Pony.ai wins autonomous driving taxi license in China"
-    excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"
-    publishedDateTime: 2022-04-24T08:41:00Z
-    webUrl: "https://www.globaltimes.cn/page/202204/1260153.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-14/6d179573-5120-4012-9311-617643a5f225.jpeg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Toyota backed Robotaxi Pony.ai obtains license to operate in China"
     excerpt: "Backed by Toyota Motor Corp. the company can now deploy driverless vehicles and charge fares for the rides in China."
     publishedDateTime: 2022-04-24T16:00:00Z
@@ -264,7 +238,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=upstract.com"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
     type: article
     provider:
       name: The Financial Times
@@ -373,6 +347,6 @@ related:
         height: 720
         isCached: true
 
-secured: "gv1KXYhNFJ3/TlXqU67YiBzyT8KUbI1Ar/PwzrGUoPlcl2DktZ01FYOnCcy95iQ2uw0WJ0U4u0STOSClFuDdIreVrF0OaJUTFfBWmuIkUL+rC/EV748ohMslvv/l6nMJLuhtfP5FrMddcmM0k99/ZyByETGxB8g9fMkzC+Oac5aoSyJTLF7qj8l1E53aEKc6E7hRPUV+eYc6gNlx2f1dEqege8I5VXFAJiKeoSNklRnNPVnWHVkMBVsD/aX7mz5bFXbnIWzKNWptU9kmZnHpGj+gPp61gV4/zoAqj32Is+RMqx0ajbeFVqgnjC+bs+OSD64ainpu7litLOm+Aw8tule0x72WgPAIlmgCSLHn/5w=;AcGKw/3icsXpyyZs3Fa+1w=="
+secured: "UjYopDKDw7CJgj46hV8UX8ZkfXacmpuXq4crt4lcPs6DOJrBR4XgeRoHiM3B+8YccXDaVhRh3oYoShtJwYQyprmPy57rO1/7VSkgMhu9zLoADDQhRD48mTvpDMYQ9HtwvgoAjIEhrnXdsQzm9+/mOIg7NBmuJ2gK0qVaVLAAJAeeuubj0+MOn9CTW6ncx+5EmeHk4ohMeHdxCP1w5A3hPy7/wEad4OTTm/ynjNDSzm7zPhHZ/A0N5zWzVYKuc2Q+tO8jMEZxcLZ2K7Buf1ShxR5SOUpDXgQcdJMAAgoVRqvTYS4vbdvdgSahdTNxyHjNW98T7r+IYEbskhhhGPJ+6w0165SWRA2CpwKrWA4btgk=;hKP6xwAkMhdTfhSz4WDoHw=="
 ---
 

@@ -53,6 +53,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Solutions Market: Ready To Fly on high Growth Trends | Google, Baidu, IBM"
+    excerpt: "The Latest Released Artificial Intelligence Solutions market study has evaluated the future growth potential of Global Artificial Intelligence Solutions"
+    publishedDateTime: 2022-04-28T12:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-solutions-market-ready-to-fly-on-high-growth-trends-google-baidu-ibm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/ebe5b747afe7cfbf0a1e1519928035692096bc87-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI Recruitment Market May see a Big Move | Major Giants IBM, Oracle, Google, SAP"
     excerpt: "The Latest research study released by HTF MI “Global AI Recruitment Market” with 100+ pages of analysis on business Strategy taken up by key and emerging"
     publishedDateTime: 2022-04-26T18:24:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-i
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/"
 type: article
 quality: 90
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -70,6 +70,22 @@ related:
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/27/Featured-images-for-3XLogic.jpg"
         width: 800
+        height: 400
+        isCached: true
+  - title: "Augtera’s NLP to Initiate New Era in Real-Time Action from Streaming Log Data"
+    excerpt: "Augtera Networks today announced a major innovation in streaming log analysis, utilizing real-time natural language processing (NLP)."
+    publishedDateTime: 2022-04-28T12:59:00Z
+    webUrl: "https://enterprisetalk.com/news/augteras-nlp-to-initiate-new-era-in-real-time-action-from-streaming-log-data/"
+    ampWebUrl: "https://enterprisetalk.com/news/augteras-nlp-to-initiate-new-era-in-real-time-action-from-streaming-log-data/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/augteras-nlp-to-initiate-new-era-in-real-time-action-from-streaming-log-data/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 56
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Augteras-NLP-to-Initiate-New-Era-in-Real-Time-Action-from-Streaming-Log-Data-01-1.jpg"
+        width: 700
         height: 400
         isCached: true
 

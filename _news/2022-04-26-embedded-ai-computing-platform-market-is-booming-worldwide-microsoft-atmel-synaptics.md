@@ -40,6 +40,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Solutions Market: Ready To Fly on high Growth Trends | Google, Baidu, IBM"
+    excerpt: "The Latest Released Artificial Intelligence Solutions market study has evaluated the future growth potential of Global Artificial Intelligence Solutions"
+    publishedDateTime: 2022-04-28T12:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-solutions-market-ready-to-fly-on-high-growth-trends-google-baidu-ibm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/ebe5b747afe7cfbf0a1e1519928035692096bc87-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Data Science and Machine Learning Platforms Market to See Huge Growth by 2027: Anaconda, Dataiku, Google"
     excerpt: "This press release was orginally distributed by SBWireNew Jersey, USA -- (SBWIRE) -- 04/27/2022 -- The latest study released on the Global Data Science"
     publishedDateTime: 2022-04-27T21:06:00Z

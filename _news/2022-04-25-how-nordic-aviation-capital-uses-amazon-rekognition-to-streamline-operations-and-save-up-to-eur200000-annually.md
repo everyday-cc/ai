@@ -72,6 +72,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Augtera’s NLP to Initiate New Era in Real-Time Action from Streaming Log Data"
+    excerpt: "Augtera Networks today announced a major innovation in streaming log analysis, utilizing real-time natural language processing (NLP)."
+    publishedDateTime: 2022-04-28T12:59:00Z
+    webUrl: "https://enterprisetalk.com/news/augteras-nlp-to-initiate-new-era-in-real-time-action-from-streaming-log-data/"
+    ampWebUrl: "https://enterprisetalk.com/news/augteras-nlp-to-initiate-new-era-in-real-time-action-from-streaming-log-data/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/augteras-nlp-to-initiate-new-era-in-real-time-action-from-streaming-log-data/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 56
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Augteras-NLP-to-Initiate-New-Era-in-Real-Time-Action-from-Streaming-Log-Data-01-1.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "nzDZXifgzPv03eIcbN2FZb+s1dFIt+c6LHzKXv0dd/cA4zDYYScoEZX5U+vwKGzM63D/Ej8CUUS7wGwTMFJp5cysHgfxAT7DKBQ+3Rkq1vHVEXgJ5/cu2APsED3CVyJS9zLLdS0SSlZsNwhjNGWl27JHz/eDOWK/CdtD9eujHy16WrZxc2AqRKNmTOCRx9lTSZV7LyqFe7+VIycxHRCyawPfkqO8Ci4eRV6pT6Tf5rs9FloBdz3hcoQc4WBTmhnmk+l0kOes0/VXKSfe3d6iMewqPbtH8pY64Z6UJK8N8VTdyUtKKkFgCcqjW0YxJUozSBHR+QDXux8KrWoCeHBpz7+tz+qon1zHXcsXCo4wJyI=;XuBnUekQh2SV74ZNepMztw=="
 ---
