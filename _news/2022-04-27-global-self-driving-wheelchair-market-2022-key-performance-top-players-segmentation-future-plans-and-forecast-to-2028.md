@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-whee
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2022-key-performance-top-players-segmentation-future-plans-and-forecast-to-2028-2022-04-26"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Computer Vision Market 2022 with COVID-19 After Effects Growth Drivers, Top Key Players, Industry Segments and Forecast to 2028"
+    excerpt: "Apr 25, 2022 (CDN Newswire via Comtex) -- Global Computer Vision Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is considered to be inquisitive and holistic accumulating a ..."
+    publishedDateTime: 2022-04-26T14:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2022-with-covid-19-after-effects-growth-drivers-top-key-players-industry-segments-and-forecast-to-2028-2022-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports"
-excerpt: "The region's businesses are the most forward-thinking in terms of AI, machine learning, natural language processing, and computer vision, boosting the document analysis market's growth. The presence of major players in North America is also a significant ..."
-publishedDateTime: 2022-04-26T13:03:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/intelligent-document-processing-market-to-reach-usd-4-15-billion-by-2026-at-a-cagr-of-37-valuates-reports-818675146.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/intelligent-document-processing-market-to-reach-usd-4-15-billion-by-2026-at-a-cagr-of-37-valuates-reports-818675146.html"
+excerpt: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% \\| Valuates Reports. BANGALORE, India, April 26, 2022 /PRNewswire/ -- The Intelligent Docu"
+publishedDateTime: 2022-04-26T13:07:00Z
+originalUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm"
+webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-    width: 920
-    height: 482
+  - url: "https://images.tmcnet.com/tmc/misc/articles/image/2019-oct/7276007268-coding-1853305_960_720.jpg"
+    width: 960
+    height: 640
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 337
         isCached: true
 
-secured: "1nRp/4zcu5jOHdHEcesb2IXvJUueCV6EScKv3x7pRpxAdV75x92kqbKrBwEZjD7XyLWtUn2gbbF/9RYrqz8Ut0cyXgoetXeFZ67DwTCknXZqwt61vV4mo5gVbDVr/IMtdImTnRCgVN4hcObpc0Sx0XZDqgaYDDKfO6N5av8//SwzcwtO+KM9k/zPjIgD0liosq9E3nabaiedSedHdh4rmhA7akQfKnc61bvc2BMrmFkWBecgUdT7VkoAWauwJIuvx17HbPaUQ48KxgAl/+W78w8AlbxRGxY22KARBxAkORt9a3y8XubQhuUTrHQeS9S4G6eCcyZFtGlsxb+9kBCW9vYp9OpYoxdaSO8MrEnPyV8=;QoIPXj4Jt/O+KVrGSFavlw=="
+secured: "TeaeD3WvxYmxCPc4OmqliGvrSq+VK4dIfPwWT9CoOyE+1ot/yd2+6bIEstpY62dLFMWhR4UcUUpyFf8d8QVqvkBPHIoniiYmqB1WSGgHuBz2cCpib9xF6hxbseggtKEX1m+yH8S1UGIXiGplGo7g69K0ECIh89BjEiPFg6Zam51EoonbXWoVhuFY7itu7p7rvLY6SH+H4kkgvWB6Ay1Flh+tOp3nu+vaJ9RWTaSxKOh+Gz5RK6fsli50BXq9gg6FJM5zQs94Cubt7TcsFwhQbM16iK1EjHGnHytFV3JXHpSmb9Kf0psTmNB2tw/6PrT8ZoeTgIWwlNG+bDMdrRPm3BwFE3BIU/mikfLto/P4jn0=;OqLkfNXOoF3Y6ivDKj44XA=="
 ---
 

@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Computer Vision Market 2022 with COVID-19 After Effects Growth Drivers, Top Key Players, Industry Segments and Forecast to 2028"
+    excerpt: "Apr 25, 2022 (CDN Newswire via Comtex) -- Global Computer Vision Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is considered to be inquisitive and holistic accumulating a ..."
+    publishedDateTime: 2022-04-26T14:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2022-with-covid-19-after-effects-growth-drivers-top-key-players-industry-segments-and-forecast-to-2028-2022-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Operations Platform Market - Global Industry Share, Size, Growth, Demands, Revenue, Top Leaders and Forecast by 2029"
     excerpt: "A new business intelligence report released by Data Bridge Market Research with title “Artificial Intelligence"
     publishedDateTime: 2022-04-26T05:21:00Z

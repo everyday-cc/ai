@@ -108,22 +108,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "UK's first self-driving bus takes to the road for tests in Scotland"
-    excerpt: "Passengers are expected to start using the self-driving bus this summer as Scotland begins testing the \"hugely exciting project\"."
-    publishedDateTime: 2022-04-25T06:27:00Z
-    webUrl: "https://news.sky.com/story/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505?fr=operanews"
-    ampWebUrl: "https://news.sky.com/story/amp/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/uks-first-self-driving-bus-takes-to-the-road-for-tests-in-scotland-12598505"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 44
-    images:
-      - url: "https://e3.365dm.com/22/04/1600x900/skynews-scotland-transport_5750689.png?20220425070751"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "It's Totally Fine To Watch TV In Self-Driving Cars, Says UK Highway Code"
     excerpt: "The vision of a totally self-driving car where you can nap in the back seat or relax with friends while being whisked along is something that we’ve been promised for years. Sci-fi shows predicted that this was exactly what the future might hold,"
     publishedDateTime: 2022-04-25T20:30:00Z

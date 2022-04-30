@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-04-machine-harnessed-extreme-aids-fusion.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-machine-harnessed-extreme-aids-fusion.amp"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

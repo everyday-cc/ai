@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/education/computers-tech/intel-dell-launch-ai-inc
 ampWebUrl: "https://www.zdnet.com/google-amp/education/computers-tech/intel-dell-launch-ai-incubator/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/intel-dell-launch-ai-incubator/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "Intel Develops AI to Detect Emotional States of Students"

@@ -30,15 +30,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
-  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
-    excerpt: "Led by 468 Capital, the investment will drive team and product growth to further establish Synthesis AI as the leader in synthetic dataSAN"
-    publishedDateTime: 2022-04-28T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Synthetic AI startup raises $17M to train facial recognition with digitally-rendered people"
     excerpt: "Startup Synthesis AI has raised $17 million in Series A funding from a number of funders to back its synthetic AI platform that generates a wide range of people to teach visual AI models like facial recognition. Synthesis AI, founded and led by CEO Yashar ..."
     publishedDateTime: 2022-04-29T17:26:00Z
@@ -53,6 +44,15 @@ related:
         width: 2048
         height: 1280
         isCached: true
+  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
+    excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
+    publishedDateTime: 2022-04-28T12:39:00Z
+    webUrl: "https://wgnradio.com/business/press-releases/cision/20220428DC39024/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 18
 
 secured: "/GoO6YQwuB0fjba/duR5teiwLqmrZ0AAgm8PN289mC9+Kit1MM0FXzOVC53WkxIKzhPEkj75gNkOURG7XcvVb+fqfVY1zZcid4sr7hGxNwsqClNGsAnrYWUCl0RmNcP6ELh0A3KeHRAniLqvfhHPDFBYYdRyNC3fP0AeU5JptB96gLSZSWgyhjLHBrdVjVZ9XfPAl6M/ofqqQjVzVHFGFAIlNII+/PWFxnJGuhkzp87wfoI1iZHWmJZuRWp1XFKzNmA2Ih74rdKSsxaYEmawSHspZxtOm3tbqK73ASefl/ox6RvhsClECmburin1C0j4tSSgOgk0iZyvhYPopL2+EgUsfh/TYX0T5/ubjL1noBE=;sVLsnmFNreWnQQlzEKhzzA=="
 ---

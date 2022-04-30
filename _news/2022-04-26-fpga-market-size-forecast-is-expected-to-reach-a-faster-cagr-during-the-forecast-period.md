@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vision Screeners Market is Growing at a CAGR of 5.9% Over the Forecast Period 2029 End"
-    excerpt: "Global vision screener sales are likely to near US$ 579 Mn by the end of 2022. According to a new research intelligence study presented by Future Market"
-    publishedDateTime: 2022-04-25T06:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/vision-screeners-market-is-growing-at-a-cagr-of-5-9-over-the-forecast-period-2029-end"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/CCC-2-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Healthcare Appointment Scheduling Software Market is Poised to Expand at a CAGR Value of 10.5% During Forecast Period 2021-2031"
     excerpt: "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams"
     publishedDateTime: 2022-04-26T05:17:00Z

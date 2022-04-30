@@ -3,10 +3,10 @@ category: news
 title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
 excerpt: "A new study by researchers at Johns Hopkins University shows how artificial intelligence (AI) machine learning can improve the accuracy and speed of mouse brain imaging in action—a breakthrough that one day could help accelerate neuroscience research for ..."
 publishedDateTime: 2022-04-29T20:14:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
 type: article
 quality: 57
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 515
         isCached: true
 
-secured: "ar41vPeaCM7SZRkeY9CAlY9NM+mcdcFbWFOcAeePGenZ1K5IJS1pha19wFhpf2ailj7eNuaS3l2zhAh07g2lphqnYSJglmvrah0PpsJJ5Iq52mcqxNLTnvaEmxuktxHUoP10f3eT5kqwDEhiMPppcuj8ZkWhq8Lg6G99WDKds3LkokusAA7sHCR93/KjRAP1EfMVbt765sv2Qv/o2WV0raGb0D9q6BqQQAKGu3qrt1drb36QZ0AVNLHqGQuB8F+xYY3P5bjMZ2znX1BqmOTJtCdsu3MKPZNnlIPf2BOWz3gFb4F0C15aK1omii6RV7NxsnItRzBk6eQTX2dz0jlGgmh5WD/fV38qkvXUSqcZABE=;gBqMMQ4PoDMQDlRKDOzhwQ=="
+secured: "lOQRGxQh4yFWiaTpjSQXPXXcv2x66gvJkSS/YBNS5Z3+4yBbQX/yu58MDiHDU9UYzxTdS+ZA0bDn9a6A5HVwjn60xCjPf3ZvYQ0cksTt6GfM0unWkP1LoZXS/YARTXik6QkcK6VPlMufj0mR69ZuFCwripj13dYn5vIpFHz94NhBx4Aw/pK2wVQfSyU2QdZ5pSjcbknyY7lhIeDsgFT+NwiMyZEn9saPCVswtQhc0XJdXSKis5+l2Pz+uGK2yVipfWxe134CzffbUS8N+71CTHTDTEgPQdZZmp6lHVDa4mlTTiDHT0veVnLO4I5drExztWq1IdOuCILWAff9OAbf+q4veMMelhu6lU0yKZ4L8H8=;A+w8mlcJiZmVTK+0phefkA=="
 ---
 

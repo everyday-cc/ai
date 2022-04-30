@@ -2,25 +2,25 @@
 category: news
 title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
 excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-publishedDateTime: 2022-04-26T09:00:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+publishedDateTime: 2022-04-26T12:00:00Z
+originalUrl: "https://www.khon2.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+webUrl: "https://www.khon2.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: KHON2
+  domain: khon2.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
+  - url: "https://www.khon2.com/wp-content/uploads/sites/8/2022/04/cropped-HEADER-KHON-70-YEARS-WORKING-FOR-HAWAII-larger.png"
+    width: 758
+    height: 297
     isCached: true
 
 related:
@@ -112,6 +112,6 @@ related:
       domain: finanzen.at
     quality: 13
 
-secured: "eXLwEAlc0AlcBW/COQ9htE4DDUxxzxgkpN1naqgolrEzcy2teX7iYCHk4EcucY55Qs5T6N3pP7e+rhVE8aqYM0cAGqXhzPPXjqdDZsTKC2D/JOElgqCv4h/Y5CUvm9BfNwXheswrNEHfjS+eW3U42ZPi9L0y21+GSg1uYk2RLicCjegc3vLYKSBFvUFoq8ctise+A3CzS6+pbw993pPOzxomW9FX8w7ChJZmYXdMvrzowComDQKHpvAxXRbwGYotLAwJJgIaaf9zGetCUEzy4trGV9/l9ZT6OYRl6blntlwpTbY4kxjpceJ3x/foyTO5po/8WSqTdMAS/lAXI3AxzHy1GZgJ1IvuoUWBjnn54wg=;QyZoft9aF8s+3PKK+E5rkA=="
+secured: "WCMSgoFFCyaJfX0eEQsSJPckFLfGdlq7u2qEboOA7PCJD2pD/SoKhJQM6fxAIkJVxkHpvjeGcvfK5PV+UfcQUzpczCeAlvbH/XC1npVzIppYFurbaWOneZNyAuADRHo9BXTtzU4/xLy8sYLtrAKYEDav5841umMtdSx56kvQq3H8oRrtlk8tmXaeu5wGK62SfYK1qykk88CI5FJdXfBeQ4tMidzm0NSmOmkIzelqxRLP8/ByACeP/yUm9kXCJTutidF73xe5i58y/aGvXWfdza79FBPv0fGpT6D4Lh5Yoiz5h6CHpLAOHr1QUYSPjDQNmw7yr6vgj6rj4jVtpUkTDZ6LFApltc0xgNvPDJfAMoo=;3XoioWucIBY56Qf/u0bApg=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Self-driving bus takes to Scotland’s roads"
-    excerpt: "Vehicles being tested have sensors enabling them to run on pre-selected roads without a safety driver having to intervene"
-    publishedDateTime: 2022-04-25T05:11:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2022/04/25/self-driving-bus-takes-scotlands-roads/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 24
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2022/04/24/TELEMMGLPICT000293811057_trans_NvBQzQNjv4BqHSsWwmhMD5R23vgpg6apoCOoem_3qpp9C-iKHR23jxY.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "lKPcgcqMgefz5r5UlVgOcSL1nD41rdtyxESxcbYckP5yy2I4gBJILbVdhlLv6NuondgQdf1ztD9+XobNjxqHsfrqJeuJa/bGsF57WE1AAmkk8/BsP5vWjmt16/oXB/GObdZasgxOK597LgdjvFZYPqhofvpk9akJdZ+x36E4yy8CsrqICwMt2x/COlOKyfXSwbOLLKqIvD9h8c8cBgwc2ZISfVIcuXirGYOdbcRsuDiuoKVeDJWesypzpQs+rGgPZ9McYSFD9QVfDBs+0EE/P74xW08Xj+Md7K/5tsniQNL6od0apHNjs5QZapDIdJaefNAOhTgsQElLAzkF0LjyNIdK/3CQF0myO7W/tas8ltt2/oOhJD6pKlw1Ixw9vi80eGs5Ui604i0R4BW2i1CmKfJI1HJz2Gl6w10Pl1MfGnkis/qfNk7VtJBzTWJ7V/vNq97r4cROhxWOZ8Dfis5UkAsUOBjXJpgigc8VnjLAj9Bt8IEvqzywYaF3mVMCktLAbYXto+JxgNALmklcoXYDoQ==;Lpmx/RJEjm71ZJwAyDkGwA=="
 ---

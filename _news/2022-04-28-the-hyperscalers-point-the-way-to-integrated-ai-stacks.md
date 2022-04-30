@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2022/04/28/the-hyperscalers-point-the-way-
 ampWebUrl: "https://www.nextplatform.com/2022/04/28/the-hyperscalers-point-the-way-to-integrated-ai-stacks/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/04/28/the-hyperscalers-point-the-way-to-integrated-ai-stacks/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Microsoft AI
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/machine-learning.jpg"

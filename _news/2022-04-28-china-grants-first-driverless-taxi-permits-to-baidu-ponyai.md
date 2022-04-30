@@ -205,6 +205,36 @@ related:
         width: 1000
         height: 475
         isCached: true
+  - title: "Passengers Can Now Call For A Driverless Taxi In China"
+    excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
+    publishedDateTime: 2022-04-28T12:34:00Z
+    webUrl: "https://www.ndtv.com/world-news/passengers-can-now-a-call-for-a-driverless-taxi-in-china-2928975"
+    ampWebUrl: "https://www.ndtv.com/world-news/passengers-can-now-a-call-for-a-driverless-taxi-in-china-2928975/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/passengers-can-now-a-call-for-a-driverless-taxi-in-china-2928975/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2022-04/7hcnce9o_self-driving-taxis-china_625x300_28_April_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Baidu Leads Years-Long Race for First Driverless Taxis in China"
+    excerpt: "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous ... Back in 2020, Google-owned Waymo opened its fully driverless ride-hailing service to the public in Phoenix, but Wei said the traffic ..."
+    publishedDateTime: 2022-04-28T02:59:00Z
+    webUrl: "https://www.bloombergquint.com/onweb/baidu-leads-years-long-race-for-first-driverless-taxis-in-china"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu, Pony.ai granted driverless taxi permits in Beijing"
     excerpt: "Baidu and on Thursday announced that they have obtained permits from the Beijing city government to offer driverless rides in an area of 60 square kilometers (23 square miles) in the city’s southeast Yizhuang district."
     publishedDateTime: 2022-04-28T06:10:00Z
@@ -335,15 +365,6 @@ related:
       name: Caixin Global
       domain: caixinglobal.com
     quality: 19
-  - title: "Pony.ai Becomes the First Autonomous Driving Company to Receive a Taxi License in China"
-    excerpt: "Pony.ai, the leading global autonomous driving technology company, announced it is the first and only autonomous driving (AD) company to obtain a taxi license in China. Pony.ai was awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha,"
-    publishedDateTime: 2022-04-25T05:52:00Z
-    webUrl: "https://www.uniindia.com/pressrelease/pony-ai-becomes-the-first-autonomous-driving-company-to-receive-a-taxi-license-in-china"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 9
   - title: "China's Baidu Receives the First-Ever Permit to Operate its ‘Apollo Go' Robotaxi Service in Beijing Without Safety Drivers Onboard"
     excerpt: "China's Baidu Inc. has received the first-ever permits in China authorizing the company to provide fully-driverless ride-hailing services to the public in Beijing, meaning that no safety drivers will be present in the vehicles."
     publishedDateTime: 2022-04-28T15:30:00Z

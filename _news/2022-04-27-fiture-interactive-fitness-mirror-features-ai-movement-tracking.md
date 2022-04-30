@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/fiture-interactive-fitness-mirror-feature
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/fiture-interactive-fitness-mirror-features-ai-movement-tracking?amp=true"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

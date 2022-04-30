@@ -40,19 +40,19 @@ related:
         width: 1200
         height: 618
         isCached: true
-  - title: "The Next Cybersecurity Crisis: Poisoned AI"
-    excerpt: "For the past decade, artificial intelligence has been used to recognize faces, rate creditworthiness and predict the weather. At the same time, increasingly sophisticated hacks using stealthier methods have escalated."
-    publishedDateTime: 2022-04-25T05:15:00Z
-    webUrl: "https://english.aawsat.com/home/article/3610871/tim-culpan/next-cybersecurity-crisis-poisoned-ai"
+  - title: "AI, ML, & Cybersecurity: Here’s What FDA May Soon Be Asking"
+    excerpt: "These include Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan, published in January 2021; Good Machine Learning Practice for Medical Device Development: Guiding Principles, published in October 2021 ..."
+    publishedDateTime: 2022-04-29T22:09:00Z
+    webUrl: "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking"
     type: article
     provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 37
+      name: Design News
+      domain: designnews.com
+    quality: 54
     images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2020/08/06/tim_culpan_headshotc.jpg?itok=-OQhTljp"
-        width: 346
-        height: 383
+      - url: "https://www.designnews.com/sites/designnews.com/files/AI-ML-Cybersecurity-RNG74N.jpg"
+        width: 770
+        height: 400
         isCached: true
 
 secured: "eedFsgwhekCyPWEKKqCES6e5d5XRIy6KzZ/VEEecQWwDNPtrhfMNyG389CrjBy3d5FI8k8EN9hpta7MgCU6l12ploGXD5VpMZ9QKz8Sr67v0drdPC0juNciN9y9Ys54CBdefH3V3FimeP+uHM6T2tmkwJxQ4KVAJJefgNjaMERwW65hB0nE5jVCgn1Lt1/1un3tYnHnuODvA1IKcH0NtThZtoPXtwTpB2a0HVLEm3Orm2ugknUgqoS0H4VcoCu5v+7kxDHGs/is4kjAOaWPzS6dWT415hUSXuPYIWe2Rv3V/a5j8t9HjOIfN3zC/5209q6OiGtjmXUdQIbTglctRXl65XIrSJQ53Jyjs71/1J14=;9YGOESctD601yE9RdT6jzQ=="
