@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Deep Learning Market Report Shows Demand to Boost Industry Growth from 2022 to 2028"
+    excerpt: "Apr 25, 2022 (CDN Newswire via Comtex) -- MarketsandResearch.biz offers a newly added report titled Global Deep Learning Market 2022 by Company, Regions, Type and Application, Forecast to 2028 ..."
+    publishedDateTime: 2022-04-26T14:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028-2022-04-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Service Robotics Market to grow with 24.6% CAGR from 2022-2027"
     excerpt: "Global Service Robotics Market by Segments (Transportation & Logistics, Professional Cleaning, Medical Robotics, Hospitality"
     publishedDateTime: 2022-04-27T10:58:00Z
@@ -39,17 +53,59 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Artificial Intelligence (AI) Market To Witness A Outstanding CAGR Of 48% By 2027"
-    excerpt: "Market Highlights Artificial intelligence can possibly switch the world up us by modernizing the manner in which we convey, work, and direct our everyday"
-    publishedDateTime: 2022-04-28T09:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-market-to-witness-a-outstanding-cagr-of-48-by-2027"
+  - title: "Global Artificial Intelligence in Aviation Market 2022 to 2028 Existing and Future Insights Growth"
+    excerpt: "Apr 27, 2022 (CDN Newswire via Comtex) -- MarketsandResearch.biz has recently published a report titled Global Artificial Intelligence in Aviation Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which assesses dynamic factors ..."
+    publishedDateTime: 2022-04-27T16:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-aviation-market-2022-to-2028-existing-and-future-insights-growth-2022-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market size Witness a Healthy Growth during 2022 to 2028 with Fastest Growing Regions and Countries Data"
+    excerpt: "Machine Learning Market - Insights: Based In the end-use industry, “Machine Learning Market\" 2022 is segmented into"
+    publishedDateTime: 2022-04-27T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-witness-a-healthy-growth-during-2022-to-2028-with-fastest-growing-regions-and-countries-data-2022-04-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cooking Robot Market Size, Scope, Booming Worldwide By Global Demand Analysis & Opportunity Outlook 2028"
+    excerpt: "Research Nester has released a report titled “ Cooking Robot Market – Global Demand Analysis & Opportunity Outlook 2028″ which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
+    publishedDateTime: 2022-04-27T22:57:00Z
+    webUrl: "https://menafn.com/1104105515/Cooking-Robot-Market-Size-Scope-Booming-Worldwide-By-Global-Demand-Analysis-Opportunity-Outlook-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?639480"
+        width: 443
+        height: 250
+        isCached: true
+  - title: "Speech Recognition Market: Top Manufacturers, Consumption, Sales, Demand, Revenue, and Business Development Strategies by Top Industry Players-2026"
+    excerpt: "The Speech Recognition Market report by Allied Market Research, includes the study of dynamic factors that directly impact the market growth, which involves drivers, restraints, challenges, and opportunities. The report offers a detailed study of market ..."
+    publishedDateTime: 2022-04-28T04:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-top-manufacturers-consumption-sales-demand-revenue-and-business-development-strategies-by-top-industry-players-2026"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 49
+    quality: 18
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/EEE-4-1-600x337.png"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/fa4c0760de3f034ce8080d4a1b7c66b9b5a100c8-1-600x337.jpg"
         width: 600
         height: 337
         isCached: true

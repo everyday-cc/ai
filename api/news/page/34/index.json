@@ -2,6 +2,92 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-03-29-kyndi-releases-natural-language-search-solution.md",
+      "title": "Kyndi releases Natural Language Search Solution",
+      "excerpt": "Kyndi, a natural language processing (NLP) company, is releasing the Kyndi Natural Language Search Solution, an end-to-end offering designed to maximize the relevancy and speed of finding answers in unstructured, text-based data. Today, individuals still ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/News/News/Kyndi-releases-Natural-Language-Search-Solution-152116.aspx",
+      "originalUrl": "https://www.kmworld.com/Articles/News/News/Kyndi-releases-Natural-Language-Search-Solution-152116.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-go-with-the-flow-state-what-music-and-ai-have-in-common.md",
+      "title": "Go with the flow state: What music and AI have in common",
+      "excerpt": "Carrie Cai, Ben Zevenbergen and Johnny Soraker all work on developing artificial intelligence (AI) responsibly at Google, in the larger research community and across the technology industry. Carrie is a research scientist focusing on human-AI interaction, Ben is an ethicist and policy advisor and Johnny",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/go-flow-state-what-music-and-ai-have-common/",
+      "originalUrl": "https://blog.google/technology/ai/go-flow-state-what-music-and-ai-have-common/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Music_AI_hero-01.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-omniml-secures-10-million-to-accelerate-ai-computing-on-edge-devices.md",
       "title": "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices",
       "excerpt": "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment",
@@ -1076,92 +1162,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing.md",
-      "title": "Envista Obtains 510(k) FDA Clearance For AI Mandibular Nerve Tracing",
-      "excerpt": "Envista Holdings Corp. (NVST) said that it has received the 510(k) Food and Drug Administration clearance for its Assisted Intelligence (AI) mandibular nerve tracing feature in its image acquisition and diagnostic software platform DTX Studio Clinic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing",
-      "originalUrl": "https://www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing?amp",
-      "publishedDateTime": "2022-03-28T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031.md",
-      "title": "Cognitive Computing in Healthcare Industry Market Growth, Trends, Price, Scope, Competitor Analysis and Forecast 2022 to 2031",
-      "excerpt": "In recent years, the use of big data analytics and cloud services has seen positive growth and has created a platform for cognitive computing ... Google, Microsoft, Palantir, and PTC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031-2022-03-29?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031-2022-03-29?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,100 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-02-18-will-ai-transform-religion.md",
+      "title": "Will AI transform religion?",
+      "excerpt": "Experimental developments in technology and how it's changing the way we live. AI is changing how we interact with everything, from food to healthcare, travel and also religion. Experts have been warning for years that it's not a matter of if, but when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/reel/video/p09z6fnd/god-and-robots-will-ai-transform-religion-",
+      "originalUrl": "https://www.bbc.com/reel/video/p09z6fnd/god-and-robots-will-ai-transform-religion-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ychef.files.bbci.co.uk/1376x774/p09z7zzv.jpg",
+          "width": 1376,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-how-artificial-intelligence-will-transform-businesses.md",
+      "title": "How Artificial Intelligence Will Transform Businesses",
+      "excerpt": "Artificial intelligence has a wide range of uses in ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "originalUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.business.com/images/content/620/fba7a9c658a684b8b4567/1500-0-",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-robot-tractors-may-be-heading-to-a-farm-near-you.md",
       "title": "Robot tractors may be heading to a farm near you",
       "excerpt": "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. “I’m sure that’s really expensive. And I kind of want to be out ...",
@@ -1078,99 +1172,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool.md",
-      "title": "Steps Enterprises Can Take To Build A Dependable AI Talent Pool",
-      "excerpt": "As AI establishes a strong foothold across industries, demand for AI talent is exponentially rising. However, the growing AI talent gap remains a persistent issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620d627b286ce11f4f02e992/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/amp/",
-      "publishedDateTime": "2022-02-17T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-agilent-acquires-artificial-intelligence-technology-to-enhance-lab-productivity.md",
-      "title": "Agilent Acquires Artificial Intelligence Technology to Enhance Lab Productivity",
-      "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
-      "sourceUrl": null,
-      "webUrl": "https://pitchbook.com/news/reports/2021-annual-artificial-intelligence-machine-learning-report",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220217005202/agilent-acquires-artificial-intelligence-technology-to-enhance-lab-productivity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.pitchbook.com/website/images/rp/og/b/AIML_2021_Cover_Social_Sizes_1200x630-socialNEW.jpg?uq=iaFTib8J",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

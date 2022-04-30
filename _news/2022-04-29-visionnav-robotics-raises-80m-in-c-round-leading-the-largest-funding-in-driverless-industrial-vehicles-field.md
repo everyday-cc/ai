@@ -1,28 +1,32 @@
 ---
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
-publishedDateTime: 2022-04-29T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
+excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
+publishedDateTime: 2022-04-29T12:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
 type: article
-quality: 66
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Autos
+  - AI
+  - AI in Robotics
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/32/c32e84a0-db06-53c5-8603-d1099e30d946/626bd3cfae730.image.jpg?crop=811%2C426%2C0%2C5&resize=811%2C426&order=crop%2Cresize"
-    width: 811
-    height: 426
+  - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
+    width: 400
+    height: 215
     isCached: true
 
 related:
@@ -118,22 +122,6 @@ related:
         width: 810
         height: 553
         isCached: true
-  - title: "Pony.ai becomes first autonomous driving company to receive a taxi license in China"
-    excerpt: "Autonomous driving developer Pony.ai announced it has received a license to operate taxis in China, the first company to achieve the permit."
-    publishedDateTime: 2022-04-25T16:39:00Z
-    webUrl: "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/"
-    ampWebUrl: "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/04/Pony.ai-China.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Pony.ai to Launch Fleet of Robotaxis with Ontime..."
     excerpt: "GAC is one of China's largest automakers and a longtime Pony.ai partner Introduces Pony.ai's partnership approach to commercializing robotaxis and strengthens Pony.ai's significant leadership in the G"
     publishedDateTime: 2022-04-26T06:30:00Z
@@ -150,21 +138,21 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Pony.ai lassos China's first autonomous taxi license"
-    excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
-    publishedDateTime: 2022-04-25T17:00:00Z
-    webUrl: "https://www.theregister.com/2022/04/25/ponyai_lassos_first_autonomous_taxi/?td=amp-keepreading-top"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/25/ponyai_lassos_first_autonomous_taxi/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/ponyai_lassos_first_autonomous_taxi/"
+  - title: "Baidu, Pony.ai first to receive driverless taxi permits in Beijing"
+    excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
+    publishedDateTime: 2022-04-28T09:07:00Z
+    webUrl: "https://www.businesstoday.in/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
+    ampWebUrl: "https://www.businesstoday.in/amp/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
+      name: Business Today
+      domain: businesstoday.in
+    quality: 74
     images:
-      - url: "https://regmedia.co.uk/2021/03/31/driving.jpg"
-        width: 1000
-        height: 475
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ap22118230409001-sixteen_nine.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
@@ -360,6 +348,6 @@ related:
         height: 720
         isCached: true
 
-secured: "UrtzK27JVZCg60sPuEZUdwe0lm/PssOFdeeo4yV9lANyqfd7PWyUBzI8zj5vZ41R7SByWqT9nL6cuKryJRq+6aZktdgUYWBvcYH08WiS9YvnCNSLg4sY/+r4xjs2IHQaFY5+EJ/LWPXkxVmriTHBRxOgFEm8xYC3P9FDri7RpKiy96SjqGzWEVlIu99bEg/ofUF0TPBpUBuElF5f1AxfT7BnVOGtSGgfxEfp6TZmCmlpite+9X9gUzC1Sj/GlW4u6vDOqdtnI/gIcodpu+H6q57zid/7jIM3LmtDNMkEKpBSbSNEfBISMQb97K9gM+9zUseyUO/CJYQ9Y7856kn0qxF6LeyKJuPZ9H1ylUz8QlM=;NQ5eUCNpnamTSBYTTv+uSg=="
+secured: "0wPP/BSwgxwehfbtoyBfZHVgdp/fPgBXBlC0no+8do6ZwiQTec6uso/hxnkp6qwN5KhC9lWe/3wzT3LYeawghR7OGD8IO9idUBhTu5T5CFJ+C7T2TW45diCk7SjXVrhHZ0adg4ZgnydGvvenZNaqM7Xod+4bBBrkVt3hPpHNCMQ8hdBnOp64mkRmPzg7Ik/url9jk5U8fr6xPd+V+qDkjEMj/gP4EoK5JoshdcgasMR/ETjIYHpjb7aDJufngTOntw9nLKWPj6e0b29OGp70TbDeXHt67EYBr3MsKNEocUHnOeA5jvIj8sqHueyFXBHqibXavluVuGebzJgxb40CCpgEIB1MdRfdkIFDXgjHIsE=;6AFwGV2+GYeVAheqr8YGdg=="
 ---
 

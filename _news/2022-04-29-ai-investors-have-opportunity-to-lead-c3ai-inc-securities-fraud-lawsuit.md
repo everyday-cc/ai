@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-excerpt: "If you wish to serve as lead plaintiff of the C3.ai lawsuit, you can submit your contact information at www.glancylaw.com/cases/c3ai-inc/. You can also contact Charles H. Linehan, of GPM at 310 ..."
-publishedDateTime: 2022-04-29T16:00:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220429LA41007/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220429LA41007/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to ..."
+publishedDateTime: 2022-04-29T03:44:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
@@ -79,6 +79,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "5Gy1Slemkk0cyzuDHqanErq4hhisyzdCVUs4rrJBzYhKz41VszSRonWc8TjFn0K9rZ/Hrm+QJfgUHU1AIrSWeXKiw/JolE9vEABVHz6w5KqWsuZLkrnvGq5GY4hwHoKVV4fzG4q0h9AQvqK4gA3aEIEeNdi3+mxMuO1RRccN9o3vPz92ZpsqEb33hZG1kIqxcvM3MtLZJYR+dmF+l0IzMZNV9JtWsgza832xdWVFUGf1nJHIeoky3iLLuQKRVVB4bNYZXL8pVV1RveRm8P9LZr+CEqGhs/hpmgCnTue9Bnzqav2YmOQUvQViOUqS3bUo1tkuAmNbldFh/WqltYbJgMf+cye9xMoOhlfIZRpBdfU=;cDw1UbGJRIevT7Mq4w/xUw=="
+secured: "8rP+2YBVXFwMroWEzGyX2iv+2/vA5WwxN5o5WvrNamLbfjrOqKcfwnXfAsjpeSYhvLONfNJI+6/0WAeh2IrHjjd8XJ7g9p4HlwxFQe1/yms6x1J61xvIrvvIb5jqIuQu7Xt+jIBXtdNrvGzw+T84wFMEAlbUVjAiCVSeyjf0IVNCoJJ26Ls9vbFmTo28tAHjoed8XQhwmZ0EBVmRJqcfGMh56jGMysUYujB99pZ0Dy3MfUisDtvq/Enr0Uduy2yluzs1m9qwwWcjcw3bKkhoax8Lgkk2Zs135rif98OCTmP/j1/GDQ4pkYPLxQsz7+5orWPJ4t8X1q201dpmR0oDa1K6Q4i/UU5MUW4TVwj8CDw=;mqhW3mSMCUSpFcT4VqNqTw=="
 ---
 

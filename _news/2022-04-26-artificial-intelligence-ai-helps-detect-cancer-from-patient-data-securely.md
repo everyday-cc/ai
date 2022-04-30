@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-d
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm"
 type: article
 quality: 70
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to detect cancer from patient data securely"
-    excerpt: "A new way of using artificial intelligence to predict cancer from patient data without putting personal information at risk has been developed by a team including University of Leeds medical scientists."
-    publishedDateTime: 2022-04-25T16:36:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-ai-cancer-patient.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-cancer-patient.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-cancer-patient.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-algorithm.jpg"
-        width: 1920
-        height: 1206
-        isCached: true
   - title: "Using AI to predict cancer from patient data without putting personal information at risk"
     excerpt: "A new way of using artificial intelligence to predict cancer from patient data without putting personal information at risk has been developed by a team including University of Leeds medical scientists."
     publishedDateTime: 2022-04-25T23:06:00Z

@@ -2,6 +2,92 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-02-15-researchers-train-neural-network-to-recognize-chemical-formulas-from-research-papers.md",
+      "title": "Researchers train neural network to recognize chemical formulas from research papers",
+      "excerpt": "Humanity is entering the age of artificial intelligence. Chemistry, too, will be transformed by the modern methods of deep learning, which invariably require large amounts of qualitative data for neural network training. The good news is that chemical data ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-02-neural-network-chemical-formulas-papers.html",
+      "originalUrl": "https://techxplore.com/news/2022-02-neural-network-chemical-formulas-papers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2022/researchers-train-neur.jpg",
+          "width": 800,
+          "height": 269,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-02-neural-network-chemical-formulas-papers.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-neural-network-chemical-formulas-papers.amp",
+      "publishedDateTime": "2022-02-14T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report.md",
+      "title": "Intel's Mobileye aims for self-driving shuttles in the U.S. by 2024 -- report",
+      "excerpt": "Mobileye, the self-driving technology unit owned by Intel (NASDAQ:INTC), has set a goal of rolling out self-driving electric shuttle vehicles in the United States by 2024 as part of its efforts to ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "originalUrl": "https://seekingalpha.com/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/951562278/image_951562278.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
+      "publishedDateTime": "2022-02-14T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-14-texas-sues-meta-over-facebooks-facial-recognition-practices.md",
       "title": "Texas Sues Meta Over Facebook’s Facial-Recognition Practices",
       "excerpt": "The Texas attorney general filed a suit against Facebook parent Meta Platforms Inc. on Monday, charging that the social-media giant’s longstanding and now discontinued use of facial-recognition technology violated that state’s privacy protections for ...",
@@ -1063,101 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-13-5-chinese-stocks-in-cathie-woods-portfolio.md",
-      "title": "5 Chinese Stocks in Cathie Wood’s Portfolio",
-      "excerpt": "For example, the company’s Advanced Driving Support System (ADAS), Apollo, has twice as much data on miles driven than any other initiative in the world, giving Baidu (and China) a large lead in the global AI arms race. In addition, Baidu’s cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-chinese-stocks-in-cathie-woods-portfolio-1022410/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-chinese-stocks-in-cathie-woods-portfolio-1022410/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/08164427/Cathie-Wood-ARK-Investment-Management-1267.jpg",
-          "width": 1613,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-12T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-surpass-developer-colleagues-with-these-aws-database-courses.md",
-      "title": "Surpass developer colleagues with these AWS database courses",
-      "excerpt": "Among those is Amazon Web Services (AWS), the popular ... In addition, this course will help you understand the fundamentals of AWS Rekognition through hands-on lessons. Finally, you’ll get ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/aws-database-course-bundle-deal-sale-155527480.html",
-      "originalUrl": "https://www.engadget.com/aws-database-course-bundle-deal-sale-155527480.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/8aff5c50-88fc-11ec-af5e-2081c05aeea9",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-12T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-02-11-stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai.md",
+      "title": "Stanford researchers propose ‘jury learning’ as a way to mitigate bias in AI",
+      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. Many AI systems today learn from examples — whether images, text, or audio — that have been labeled by ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/",
+      "originalUrl": "https://venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/big_data-e1629907579542.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/stanford-researchers-propose-jury-learning-as-a-way-to-mitigate-bias-in-ai/amp/",
+      "publishedDateTime": "2022-02-10T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-expert-believes-machine-learning-can-improve-after-failing-during-covid.md",
       "title": "Expert believes machine learning can improve after failing during Covid",
       "excerpt": "Machine learning and artificial intelligence (AI) systems have long been touted as the future of medicine. A patient can walk into a doctors office, and after a quick scan discover their risk for a variety of diseases, and be given information on how to ...",
@@ -1352,49 +1405,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-itu-unveils-ai-platform-to-hasten-community-development.md",
-      "title": "ITU unveils AI platform to hasten community development",
-      "excerpt": "yesterday launched an artificial intelligence (AI)-powered platform, which seeks to step up global collaboration on the use of AI to drive sustainable development. The AI for Good Neural Network ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/G98YdMLYAp5qX2PD",
-      "originalUrl": "https://www.itweb.co.za/content/G98YdMLYAp5qX2PD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/_qZgaXhmHYeZHAWpsRhNWbcy1HhjmNHVH-1ME1AeEN4Ouobgg_8cHIaPvSncCsRtj2AWCBjlxCWu2yoIaTIMDGw=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/G98YdMLYAp5qX2PD",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLYAp5qX2PD",
-      "publishedDateTime": "2022-02-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
         "publishers": null,
         "authors": null
       },

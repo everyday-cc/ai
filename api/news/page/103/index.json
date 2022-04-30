@@ -2,6 +2,110 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-01-31-how-to-add-cognitive-services-to-your-microsoft-azure-resources.md",
+      "title": "How to add cognitive services to your Microsoft Azure resources",
+      "excerpt": "How to add cognitive services to your Microsoft Azure resources Your email has been sent Cognitive services created in Azure can add powerful features to your organization's application ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2019/05/istock-926550280aicomputer.jpg?x23932",
+          "width": 800,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-add-cognitive-services-to-your-microsoft-azure-resources/amp/",
+      "publishedDateTime": "2022-01-30T17:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup.md",
+      "title": "What 20 years in Silicon Valley’s security sector teaches you about launching a successful startup",
+      "excerpt": "Building a sustainable operation is incredibly difficult, but launching and establishing a successful security startup is possible.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/",
+      "originalUrl": "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/amp/",
+      "publishedDateTime": "2022-01-30T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-natural-language-processing-a-cheat-sheet.md",
       "title": "Natural language processing: A cheat sheet",
       "excerpt": "Natural language processing: A cheat sheet Your email has been sent Learn the basics about natural language processing, a cross-discipline approach to making computers hear, process, understand ...",
@@ -1107,101 +1211,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration.md",
-      "title": "Amazon Cloud gets file sharing and collaboration boost with Box integration",
-      "excerpt": "One of the most interesting integrations is with Rekognition, Amazon’s deep learning image recognition tool. In connecting Box with the AWS Rekognition service, a Lambda function could tap ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/",
-      "originalUrl": "https://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/04/boxaws.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/amp/",
-      "publishedDateTime": "2022-01-28T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so.md",
-      "title": "Watch now: Are Illinois farmers ready for self-driving tractors? Deere thinks so.",
-      "excerpt": "The high-tech vehicle emblazoned with the Moline company's iconic deer logo marks a massive leap forward for farmers, who will have a solution for improving yields and efficiencies. That could",
-      "sourceUrl": null,
-      "webUrl": "https://thesouthern.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_df968333-46ac-520c-8a5e-1d04e8b98486.html",
-      "originalUrl": "https://thesouthern.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_df968333-46ac-520c-8a5e-1d04e8b98486.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/d/f9/df968333-46ac-520c-8a5e-1d04e8b98486/61f448235c638.preview.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Southern Illinoisan",
-        "domain": "thesouthern.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

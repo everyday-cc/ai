@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-26-computer-system-scrutinizes-video-footage-to-analyze-animal-behavior.md",
+      "title": "Computer system scrutinizes video footage to analyze animal behavior",
+      "excerpt": "Ordinarily, when studying the behavior of animals, scientists have to watch many hours of video footage of the creatures going about their daily lives. That may soon no longer be necessary, however, thanks to a new critter-watching computer system.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
+      "originalUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/255cb2c/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2F09%2F6583f3c14d67a0279df513621626%2Fdepositphotos-1169283-l.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true",
+      "publishedDateTime": "2022-04-25T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-nvidias-push-for-ai-innovation-could-propel-this-etf-higher.md",
       "title": "Nvidia’s Push for AI Innovation Could Propel This ETF Higher",
       "excerpt": "In particular, artificial intelligence (AI) investment is driving innovation for the next wave of disruptive technology. Chip maker Nvidia is doing just that. It's evolving from its identification as a semiconductor producer and focusing on growing its AI technology to remain competitive in its respective marketplace.",
@@ -44,7 +96,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1108,49 +1160,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-video-shows-tesla-self-driving-into-a-35-million-private-jet.md",
-      "title": "Video Shows Tesla Self Driving Into A $3.5 Million Private Jet",
-      "excerpt": "Tesla vehicle using Smart Summon feature has crashed into a $3.5 million private jet. Here is why the incident took place.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/",
-      "originalUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2022/04/Tesla-Crashed-Into-Jet.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-self-driving-into-private-jet/amp/",
-      "publishedDateTime": "2022-04-23T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

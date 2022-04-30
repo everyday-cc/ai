@@ -65,15 +65,6 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 6
-  - title: "Synamedia brings intelligence to the CDN's edge for unprecedented efficiency, agility, and scalability"
-    excerpt: "LAS VEGAS , April 25, 2022 /PRNewswire/ -- NAB Booth W10113 -- Synamedia, the world's largest independent video software provider, today unveiled a new set of Artificial Intelligence-based (AI) traffic management features for its Edge CDN solution."
-    publishedDateTime: 2022-04-25T15:35:00Z
-    webUrl: "https://www.klfy.com/business/press-releases/cision/20220425NY34570/synamedia-brings-intelligence-to-the-cdns-edge-for-unprecedented-efficiency-agility-and-scalability/"
-    type: article
-    provider:
-      name: KLFY
-      domain: klfy.com
-    quality: 0
 
 secured: "3AAQr+1vaNkNMU1wcmCf0swQZYFwJq69DxVJuPbTpOcfUf0cunpfiUspiq5eSZtmi8QmfbCG0Xncb6urfTnmr8ljph87qij5jJytnMDjiDBtZPEYm3qgfdAaquCEK2PB0wOJQCe1zfQ22WNFcmV9VZUegmyi8S/vHn0u1ntLD83aYjjemPZaGxPtkBimgotkfLMrVF6uYEAfMHEFysdZtYCbCPwByJ0fxiybOh8MrRAEk0C5+oyuLAjzEUjuCGP3kPz6UcBXIw+9iGZwxBClxsO68aPH5kgQMyGzlDKNFSlyg35yoX1Noyj4cmh2PzLTNpurfNhdlYaw6GpMg57+JnvGUcWikBUko2gZocOieUg=;arYryh24Gu2Rq6ZsIYbNnQ=="
 ---

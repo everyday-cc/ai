@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Enabled Testing Tools Market is Expected to Project a Stellar CAGR of 16.9% 2022-2030"
-    excerpt: "AI-Enabled Testing Tools Market is forecasted to be valued at 1.27 Bn in the year 2030 and exhibiting a remarkable 16.9% CAGR during the forecast period 2022-2030. Telecom firms are leveraging the potential of AI to manage and assess large volumes of big ..."
-    publishedDateTime: 2022-04-26T05:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-testing-tools-market-is-expected-to-project-a-stellar-cagr-of-16-9-2022-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/29c1054a6cf588e36169f95b90f75465d7960b5f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Healthcare Appointment Scheduling Software Market is Poised to Expand at a CAGR Value of 10.5% During Forecast Period 2021-2031"
     excerpt: "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams"
     publishedDateTime: 2022-04-26T05:17:00Z

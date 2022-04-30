@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-21-amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines.md",
+      "title": "AMD Targets High-End Signal Processing With New Versal Premium With AI Engines",
+      "excerpt": "When compared to the previous generation Virtex UltraScale+ VU13, the Versal Premium VP2802 ACAP increases performance by 3.3x for RF signal processing, 4.7x for Radar data cube processing, and 5.8x for AI/ML inference processing while reducing the number of FPGAs needed for a design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62607d24b1c8ce336e10875f/0x0.jpg?format=jpg&width=1200",
+          "width": 764,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/amp/",
+      "publishedDateTime": "2022-04-20T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-an-inventor-resurrected-his-imaginary-friend-with-ai-then-it-tried-to-murder-him.md",
       "title": "An inventor resurrected his imaginary friend with AI — then it tried to murder him",
       "excerpt": "As a kid, Lucas Rizzotto had an imaginary friend: a talking microwave. As an adult, Rizzotto resurrected his pal — with tragic consequences.",
@@ -348,6 +400,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-20-strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom.md",
+      "title": "Strategic Analysis of Amazon's Growing Footprint in Mobility - ResearchAndMarkets.com",
+      "excerpt": "The \"Strategic Analysis of Amazon's Growing Footprint in Mobility\" report has been added to ResearchAndMarkets.com's offering. Amazon, the eCommerce behemoth, has been making steady strides in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26718104",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26718104",
+      "publishedDateTime": "2022-04-20T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows.md",
       "title": "Koïos Intelligence and Applied to Further Digitize Sales and Service Workflows",
       "excerpt": "Applied Systems today announced a new collaboration with Koïos Intelligence to optimize and simplify insurance sales and service processes with artificial intelligence and natural language processing.",
@@ -380,40 +475,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom.md",
-      "title": "Strategic Analysis of Amazon's Growing Footprint in Mobility - ResearchAndMarkets.com",
-      "excerpt": "The \"Strategic Analysis of Amazon's Growing Footprint in Mobility\" report has been added to ResearchAndMarkets.com's offering. Amazon, the eCommerce behemoth, has been making steady strides in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220420005847/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220420005847/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -1092,49 +1153,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-aalto-university-artificial-intelligence-to-assist-the-brain.md",
-      "title": "Aalto University: Artificial intelligence to assist the brain",
-      "excerpt": "The human brain consists of some 86 billion neurons, nerve cells that process and convey information through electrical nerve impulses. That’s why measuring neural electrical activity is often the best way to study the brain,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "originalUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/Aalto-University-1024x853.png",
-          "width": 1024,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "publishedDateTime": "2022-04-19T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

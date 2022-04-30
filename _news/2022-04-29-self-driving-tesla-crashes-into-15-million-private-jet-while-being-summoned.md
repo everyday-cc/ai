@@ -43,20 +43,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Self-driving Tesla crashes into $3.5 million private jet using 'smart summon' feature"
-    excerpt: "The car was in \"Smart Summon\" mode when it ran into the jet. The feature was introduced by Tesla in 2019 and is still a beta feature."
-    publishedDateTime: 2022-04-25T15:49:00Z
-    webUrl: "https://www.usatoday.com/videos/news/have-you-seen/2022/04/25/tesla-collides-private-jet-while-owner-using-smart-summon-mode/7439216001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 32
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/04/25/USAT/5edde865-af70-4d58-bf7c-b6bcda945917-Presto_VPC_TESLA_AUTOPILOT_CRASHES_W_AIRPLANE.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "22+vqqZYRdYJrXjZjWC6VnvRB/G1UojwpXtoqjtIhs9DCn34IXhLhre6vcEo5SPg34mp/9TOJ5MhKy+YxNo2ueH2eVxB1xRS/4gHUtwEsic7mZziwglICX6HFSFkZtwYfq/R6VuacU/Em+ipOd4FhymgJ+l8KdNMzuxdYeJkMv51DIw+fCHgauD94fMgyryqk/uVpnf+wC1Wsj8OtMVb0GcHcObtio+UGUfr2H3VPUvLYy44G5Mf7oOOxA6UUdWXIZWLoeChTJA+idjJKqDemqthpreno4aH5jXO4KByBxxFn6HuTqfEuIuDRUTfoGCY2I4V05Gbp73xGlJXoNSYSLw9aNQARK9dn6gTafPxMC8=;zH3tsTrkKySnsGiMXZNv+w=="
 ---

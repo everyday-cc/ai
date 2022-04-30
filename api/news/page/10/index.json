@@ -2,6 +2,82 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-19-encores-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round.md",
+      "title": "Encore’s Backend Development Engine for the Cloud Transforms Developer Experience, Attracts $3m in Seed Round",
+      "excerpt": "Encore comes out of Beta as it announces seed round, enabling more developers than ever to build and deploy new cloud backends in minutes while keeping control of their data. STOC",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/de7520f96eddc63566978cb566223c89",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/de7520f96eddc63566978cb566223c89",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise.md",
+      "title": "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise",
+      "excerpt": "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/article_6ff88c2e-483f-54bf-9646-7e6edd7977d1.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/article_6ff88c2e-483f-54bf-9646-7e6edd7977d1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-uniphore-acquires-colabo-for-knowledge-ai-and-automation.md",
       "title": "Uniphore Acquires Colabo for Knowledge AI and Automation",
       "excerpt": "With the addition of knowledge-based AI, Uniphore is broadening its AI capabilities beyond only speech and emotions. “The integration would enhance our existing self-service and agent-assist solutions with a dynamic knowledge AI solution that can extract knowledge entities and graphs from different enterprise applications,",
@@ -1017,92 +1093,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-k-health-review-is-it-legit.md",
-      "title": "K Health Review: Is It Legit?",
-      "excerpt": "K Health is a health service that uses artificial intelligence (AI ... or you could sign up for their therapy services. K Therapy is a monthly subscription that offers 24/7 access to self-guided ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/khealth-reviews",
-      "originalUrl": "https://www.healthline.com/health/khealth-reviews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/03/telehealth-1200x628-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report.md",
-      "title": "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report",
-      "excerpt": "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine.",
-      "sourceUrl": null,
-      "webUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/",
-      "originalUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox2now.com/wp-content/uploads/sites/14/2022/04/UkraineTanksAP22091745245082.jpg?w=1280",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/",
-      "cdnAmpWebUrl": "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/",
-      "publishedDateTime": "2022-04-18T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox2Now St. Louis",
-        "domain": "fox2now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

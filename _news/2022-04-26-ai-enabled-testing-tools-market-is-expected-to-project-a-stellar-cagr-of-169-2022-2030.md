@@ -24,31 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "FPGA Market size, Forecast, is Expected to Reach a faster CAGR during the Forecast period"
-    excerpt: "FPGA Market is anticipated to expand at a faster CAGR over the forecast period, owing to the increasing adoption of FGPA in different areas of safety and network processing. FGPA is a semiconductor device that can be electronically programmed based around a matrix of configurable logic blocks connected via programmable interconnects."
-    publishedDateTime: 2022-04-26T11:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fpga-market-size-forecast-is-expected-to-reach-a-faster-cagr-during-the-forecast-period-2022-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Appointment Scheduling Software Market is Poised to Expand at a CAGR Value of 10.5% During Forecast Period 2021-2031"
-    excerpt: "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams"
-    publishedDateTime: 2022-04-26T05:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-appointment-scheduling-software-market-is-poised-to-expand-at-a-cagr-value-of-10-5-during-forecast-period-2021-2031"
+  - title: "Artificial Intelligence (AI) Market To Witness A Outstanding CAGR Of 48% By 2027"
+    excerpt: "Market Highlights Artificial intelligence can possibly switch the world up us by modernizing the manner in which we convey, work, and direct our everyday"
+    publishedDateTime: 2022-04-28T09:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-market-to-witness-a-outstanding-cagr-of-48-by-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 11
+    quality: 49
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/29c1054a6cf588e36169f95b90f75465d7960b5f-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/EEE-4-1-600x337.png"
         width: 600
         height: 337
         isCached: true

@@ -2,6 +2,93 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
+      "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
+      "excerpt": "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "originalUrl": "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/457825/original/file-20220413-17-8go2vm.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "publishedDateTime": "2022-04-13T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
+      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
+      "excerpt": "80% of respondents in this year's survey pointed to a non-technical executive as the primary advocates for AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
+          "width": 600,
+          "height": 207,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-driverless-vehicles-park-themselves-in-rapidly-expanding-market.md",
       "title": "Driverless vehicles park themselves in rapidly expanding market",
       "excerpt": "IHS Markit said the value of the autonomous car service market will exceed 1.3 trillion yuan by 2030, accounting for 60 percent of the nation's ride-hailing market that year. Li, the Baidu CEO, said China leads the world in self-driving technologies,",
@@ -1025,82 +1112,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-cogniac-deploys-ai-based-machine-vision-at-melcos-city-of-dreams-manila-integrated-resort.md",
-      "title": "Cogniac Deploys AI-Based Machine Vision At Melco's City of Dreams Manila Integrated Resort",
-      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, today announced its partnership with Melco Resorts & Entertainment Limited (“Melco”),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-global-artificial-intelligence-in-digital-genome-market-to-2028-size-share-outlook-and-opportunity-analysis-researchandmarketscom.md",
-      "title": "Global Artificial Intelligence in Digital Genome Market to 2028 - Size, Share, Outlook, and Opportunity Analysis - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has been added to ResearchAndMarkets.com's offering. Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an organism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_ee263ed7-3f13-51c1-b1a9-af0d7e398c1e.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_ee263ed7-3f13-51c1-b1a9-af0d7e398c1e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

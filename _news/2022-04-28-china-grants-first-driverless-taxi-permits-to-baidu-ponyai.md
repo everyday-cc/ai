@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
+    publishedDateTime: 2022-04-29T12:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
+        width: 400
+        height: 215
+        isCached: true
   - title: "Robotaxi firm Pony.ai granted first taxi licence in China"
     excerpt: "Pony.ai has announced it has been granted a taxi licence in China, a first for an autonomous driving company in the Middle Kingdom. The permit will allow Pony.ai to operate 100 autonomous vehicles as traditional taxis in Nansha,"
     publishedDateTime: 2022-04-26T01:23:00Z
@@ -118,22 +132,6 @@ related:
         width: 810
         height: 553
         isCached: true
-  - title: "Pony.ai becomes first autonomous driving company to receive a taxi license in China"
-    excerpt: "Autonomous driving developer Pony.ai announced it has received a license to operate taxis in China, the first company to achieve the permit."
-    publishedDateTime: 2022-04-25T16:39:00Z
-    webUrl: "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/"
-    ampWebUrl: "https://electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/25/pony-ai-becomes-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/04/Pony.ai-China.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Pony.ai to Launch Fleet of Robotaxis with Ontime..."
     excerpt: "GAC is one of China's largest automakers and a longtime Pony.ai partner Introduces Pony.ai's partnership approach to commercializing robotaxis and strengthens Pony.ai's significant leadership in the G"
     publishedDateTime: 2022-04-26T06:30:00Z
@@ -150,35 +148,21 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
-    publishedDateTime: 2022-04-29T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
+  - title: "Baidu, Pony.ai first to receive driverless taxi permits in Beijing"
+    excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
+    publishedDateTime: 2022-04-28T09:07:00Z
+    webUrl: "https://www.businesstoday.in/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
+    ampWebUrl: "https://www.businesstoday.in/amp/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 66
+      name: Business Today
+      domain: businesstoday.in
+    quality: 74
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/32/c32e84a0-db06-53c5-8603-d1099e30d946/626bd3cfae730.image.jpg?crop=811%2C426%2C0%2C5&resize=811%2C426&order=crop%2Cresize"
-        width: 811
-        height: 426
-        isCached: true
-  - title: "Pony.ai lassos China's first autonomous taxi license"
-    excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
-    publishedDateTime: 2022-04-25T17:00:00Z
-    webUrl: "https://www.theregister.com/2022/04/25/ponyai_lassos_first_autonomous_taxi/?td=amp-keepreading-top"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/25/ponyai_lassos_first_autonomous_taxi/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/ponyai_lassos_first_autonomous_taxi/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2021/03/31/driving.jpg"
-        width: 1000
-        height: 475
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ap22118230409001-sixteen_nine.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
@@ -360,6 +344,6 @@ related:
         height: 720
         isCached: true
 
-secured: "t/rVjbR6Uj9N3KwUkh8v9tzUxlUPPs2yXExOnVRnOLUKsnT0hS0UoAJQzxUQHMP080QudfRpsLh9i3W10wJv7jE/2hgKKL3eKedBNg5sHnlUt1ux6Ekphn1y0L0buXVpEnA1ZCrIPKiNfxQLaBOtaNzGzU6qYohzGC9MuCzPZGbI81iL12Bkn9IzIHO2slvK85Q+o14WCjBMlgunSb1q22ek3y2IiZeZPbaxi6ckYynVA7+JHnzI6lIaYHy4rG9U/X8EY/Mi2qd+250qDiE93ChhlPfGNGDUrj4KOcoLVEwOlDrITjTjbTXlfp+hh8ydJCX7YyCpga4sss+pmw/9jW8MoAeUVbD3D9xSkbdKKiM=;abDN28RZC9/+OHM/5ec5bA=="
+secured: "QmIZKMeMyRrjUWmbQn7dI9sFANn7brJLO25kJTc/ulbu5v5aZp5VlpmhCrwGBrPkqoFrSi3jZUI0Sj8frztjPV/MYl25imguzekh2LQfrzwMeL2Af6aV6BbdikmVjTPUfiI7AbFga3ZrLrkyzm1FqwV7MFkdR/7gNA0m3z3PRQl+TM6xold0fqU4fPZTgOf0pKY3dSQX5LNwuJvzyRgDiY1X2ZhocbahmLyUilUEknV2EyZrTlPi51PX+WU232IUC9jmbSRvPhbydQ46tex6RkJVBjNefAjAT8J3Hd1tSnLnCI4H2PHuSufJUmlg54gxq92RdqvI1U4MqRQAHCXGyJ/RxbMw6p9D4h+G9+ypzfyoOyq3Ug+NGIF5ntRi0AzITX/orbXONw45lBWF462Jjf9ywcxM+fSeV3XIBkGzAxmTcglNKe2U66gIzKL7kL1KWAXioVSdEz8xmtJOvl7NdTz9IvcMN/F+QIikUaStdPeDIsOjJ/rYjjbH/g7UBj4UArcD3H/YlFRO421FMJq/3g==;7GsTn+oUgPg74lsr0XgyKQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/fintech-to-rule-job-mar
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-to-rule-job-market-in-india-with-87-adoption-of-services"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "This Climate Fintech Startup Is Paving The Way For Mass Market Adoption Of Land Regeneration"
-    excerpt: "It’s a little known fact that the hope of the future lies in land regeneration – avoiding meat, air travel, and the rise of electric vehicles have largely captured the headlines and our imagination."
-    publishedDateTime: 2022-04-25T16:40:00Z
-    webUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/"
-    ampWebUrl: "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/"
+  - title: "How neobanks are set to disrupt $31 bn Indian fintech market"
+    excerpt: "The $31 billion fintech market in India is set for a disruption with the emergence of neobanks and to scale and secure a foothold, these digital-only banks should acquire primary bank accounts, a new report said on Wednesday."
+    publishedDateTime: 2022-04-27T10:32:00Z
+    webUrl: "https://daijiworld.com/index.php/news/newsDisplay?newsID=952375"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6266c933d798f8767744041a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 991
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/arun_270422_bnlk.jpg"
+        width: 500
+        height: 400
         isCached: true
   - title: "FinTech to Rule the Job Market in India with 87 percent Adoption of FinTech Services"
     excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenance & regulation, innovation & transformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
@@ -59,20 +57,29 @@ related:
         width: 705
         height: 410
         isCached: true
-  - title: "OriginClear to Launch Water On Demand Fintech Startup"
-    excerpt: "Program brings relief to underserved businesses needing their own water treatment.CLEARWATER, Fla.--(BUSINESS WIRE)--$OCLN #cleanwater--OriginClear Inc. (OTC Pink: OCLN), a leader in clean water innovation,"
-    publishedDateTime: 2022-04-26T15:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=652928"
+  - title: "The 20 Most Influential Fintech Marketers in Europe"
+    excerpt: "The Fintech Marketing Hub, a global fintech marketing community, has released its selection of the world’s top 30 most influential fintech marketers for 2022."
+    publishedDateTime: 2022-04-26T05:34:00Z
+    webUrl: "https://fintechnews.ch/fintech/the-20-most-influential-fintech-marketers-in-europe/52590/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: fintechnews.ch
+      domain: fintechnews.ch
     quality: 24
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/04/OneSpan-.png?x30842"
+        width: 300
+        height: 250
         isCached: true
+  - title: "How neobanks are set to disrupt $31 billion Indian fintech market"
+    excerpt: "As the third largest fintech ecosystem in the world after the US and China, the Indian fintech market is poised for further disruption with the emergence of neobanks"
+    publishedDateTime: 2022-04-27T11:53:00Z
+    webUrl: "https://www.business-standard.com/article/economy-policy/how-neobanks-are-set-to-disrupt-31-billion-indian-fintech-market-122042700634_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 19
   - title: "FinTech to rule the job market in India with 87 percent adoption of FinTech services"
     excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenanceregulation, innovationtransformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
     publishedDateTime: 2022-04-30T07:55:00Z
@@ -104,6 +111,6 @@ related:
         height: 450
         isCached: true
 
-secured: "02tVnYB/n6ZR7CX0RQ0wFMucj7yDCJ+jE/saW5vGr3Uj5vsKrsZTI4tVGFzNcjbwH2s8S4d1SFtDKxiEZANxnpdNzKq5zNsr7+ip0xgCqzIc1wmXwO36NsakAbZQm5Sf1F27kQDn+ql9ip1deIsROfALlFTuYoNH6iKo5fYUxOlyfxsTntUno2GR9y7+uzPTaCW8hPjViySD+3kN28mmXA1czD9SPhKx39VLaop2/z1A10UZyhWkRsyPV4jY7R8982/tkNAuBVys394nVZgQu4kP4pT8ycLq+wQxw4ni2Qev5rgOqfUOFpJqE2PpXkph+3ddLk8xT6r/EC1UGHIggHD6WDEEcAIjTy1tLFGZ4uM=;4T8wI+97HKALmtmCWcLCrA=="
+secured: "9HsFUfdYmScnJx9agOgHy62Fo4mdvsI+lSvRh5GMlRAJs40nQwfl+eq4BkDvYn5S5Ga03OYHKFbrCG5RPmqCis8WdtVMsiOkIXd3E54KjArZ76uVdk3hYl/W4w9FNVSom/va8JeuBzDwtZ6le+FyzHbWxsjyRslYIH/KD4JOKZSKRLpd8nZQv+nruyFXS1fTKh2t9PiIyKNj2oiNCH5G7SbL6/vc2x9gO46QRpv8u6GMFpEI0/Hh2GIqQmr/UnFw9dTTH96984LvCiZ/lgV38JyNAYpVmByIDQrf3DsJyNblFCePtsdjdI8+CI1GPONGaixewBq0gbzNKYCtJI69euQkBvQNvSFD5cfAhfrk0CHpfEqZugnkiwaggCv4UOdzDWKubglRTJ/1SGFmCcTo9rLf+r6+6NHViyMw8bKQXTkKKLs0fNMqrB+SbsnO9LSbNUiCEwsNfsahy1GOKkhTTQ0mjCmPJuxPyOP4XG51/Tq/icOCXrFPFntRV5oBZigRCJKqhG0w5iktGpkAq3phnw==;8woNR/kGsBY1ecNZf/5fCA=="
 ---
 

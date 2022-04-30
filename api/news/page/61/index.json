@@ -2,6 +2,101 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-03-07-amplitudes-digital-optimization-system-launches-in-aws-marketplace.md",
+      "title": "Amplitude’s Digital Optimization System Launches in AWS Marketplace",
+      "excerpt": "(Nasdaq: AMPL), the pioneer in digital optimization, today announced the availability of Amplitude in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find,",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/amplitude-s-digital-optimization-system-launches-in-aws-marketplace/article_71efa47c-5fde-53b8-91fb-f089e6c5a6b9.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/amplitude-s-digital-optimization-system-launches-in-aws-marketplace/article_71efa47c-5fde-53b8-91fb-f089e6c5a6b9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-07T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-07-how-wrongful-arrests-based-on-ai-derailed-3-mens-lives.md",
+      "title": "How Wrongful Arrests Based on AI Derailed 3 Men's Lives",
+      "excerpt": "Critics say police rely too heavily on the technology, particularly since research has shown it misidentifies ... impact immigrants and communities of color. Search our artificial intelligence database and discover stories by sector, tech, company, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/",
+      "originalUrl": "https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6222a5af850ca1019a6d9e82/master/pass/security-facial-ai.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/amp",
+      "publishedDateTime": "2022-03-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-the-hidden-role-of-facial-recognition-tech-in-many-arrests.md",
       "title": "The Hidden Role of Facial Recognition Tech in Many Arrests",
       "excerpt": "The technology is spreading fast among police, and often wrong. But people charged with crimes are rarely told they were fingered by an algorithm.",
@@ -1066,104 +1161,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-05-telecoms-bet-5g-will-help-them-own-industry-40.md",
-      "title": "Telecoms bet 5G will help them own Industry 4.0",
-      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. Telecoms bet 5G will help them own Industry 4.0  Solving the challenge of integrating 5G and Wi-Fi 6e into legacy tech stacks will quickly accelerate Industry 4.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/04/telecoms-bet-5g-will-help-them-own-industry-4-0/",
-      "originalUrl": "https://venturebeat.com/2022/03/04/telecoms-bet-5g-will-help-them-own-industry-4-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1290973875.jpg?fit=800%2C539&strip=all",
-          "width": 800,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/04/telecoms-bet-5g-will-help-them-own-industry-4-0/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/telecoms-bet-5g-will-help-them-own-industry-4-0/amp/",
-      "publishedDateTime": "2022-03-04T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-05-artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise.md",
-      "title": "Artificial Intelligence in Healthcare Service Market Next Big Thing : Major Giants IBM, Microsoft, Atomwise",
-      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 03/04/2022 -- The Latest research study released by HTF MI",
-      "sourceUrl": null,
-      "webUrl": "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000",
-          "width": 1799,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-04T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

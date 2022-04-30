@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_181704252.JPEG"
         width: 1200
         height: 1495
+        isCached: true
+  - title: "How AI predicts what you’ll buy"
+    excerpt: "It’s a jungle out there—few places so much so as the world of “smart” advertising. There, marketing geniuses have developed increasingly sophisticated algorithms that take all the ..."
+    publishedDateTime: 2022-04-30T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2022/04/30/how-ai-predicts-what-youll-buy/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 37
+    images:
+      - url: "https://kvia.b-cdn.net/2022/04/shutterstock335123117UTON_0.jpg"
+        width: 1010
+        height: 720
         isCached: true
   - title: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform"
     excerpt: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform. Digital.ai today announced it has reimagined the future of software"

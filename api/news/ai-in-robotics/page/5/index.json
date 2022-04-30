@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-24-ayanna-howard-makes-the-case-for-companion-robots.md",
+      "title": "Ayanna Howard Makes the Case for Companion Robots",
+      "excerpt": "The Ohio State University’s College of Engineering. Long before she became an award-winning roboticist, Ayanna Howard, Ph.D., was a Star Wars fan. While she loved watching Luke Skywalker’s battles with Darth Vader and Han Solo’s sharp commandeering of the Millennium Falcon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aaas.org/membership/member-spotlight/ayanna-howard-makes-case-companion-robots",
+      "originalUrl": "https://www.aaas.org/membership/member-spotlight/ayanna-howard-makes-case-companion-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aaas.org/sites/default/files/styles/large/public/2022-03/2%20Howard_MG_4694.jpg?itok=bi79781g",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AAAS",
+        "domain": "aaas.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-modex-2022-let-the-cobots-handle-repetitive-labor.md",
       "title": "MODEX 2022: Let the Cobots Handle Repetitive Labor",
       "excerpt": "Universal Robots will showcase how its latest robotics platforms are applied in real-world applications at MODEX 2022, which takes place in Atlanta, Ga. (April 28-3). Engineers will be able to see how cobots automate palletizing and piece-picking tasks.",
@@ -1235,49 +1278,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5.md",
-      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 5%",
-      "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating)’s stock price shot up 5% during trading on Wednesday . The stock traded as high as $27.86 and last traded at $27.86.",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/",
-      "originalUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/amp/",
-      "publishedDateTime": "2022-03-17T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
         "images": null,
         "publishers": null,
         "authors": null

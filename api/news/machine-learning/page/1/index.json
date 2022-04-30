@@ -816,6 +816,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028.md",
+      "title": "Global Deep Learning Market Report Shows Demand to Boost Industry Growth from 2022 to 2028",
+      "excerpt": "Apr 25, 2022 (CDN Newswire via Comtex) -- MarketsandResearch.biz offers a newly added report titled Global Deep Learning Market 2022 by Company, Regions, Type and Application, Forecast to 2028 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028-2022-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028-2022-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data.md",
       "title": "How To Improve Demand Forecasting With Machine Learning And Real-Time Data",
       "excerpt": "Demand forecasting systems have been ill-equipped to address disruptions to our daily lives on a global scale. Consumer packaged goods (CPG) companies and retailers were caught flat-footed as unforeseen panic-buying took hold throughout 2020,",
@@ -1341,10 +1393,10 @@
     {
       "path": "_news/2022-04-18-neural-network-model-helps-predict-site-specific-impacts-of-earthquakes.md",
       "title": "Neural network model helps predict site-specific impacts of earthquakes",
-      "excerpt": "In disaster mitigation planning for future large earthquakes, seismic ground motion predictions are a crucial part of early warning systems and seismic hazard mapping. The way the ground moves depends on how the soil layers amplify the seismic waves (described as a mathematical site \"amplification factor\").",
+      "excerpt": "Using data on microtremors in Japan, a neural network model can estimate site ... Seismological Society of America introduced a novel artificial intelligence (AI)-based technique for estimating ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html",
-      "originalUrl": "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html",
+      "webUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1354,12 +1406,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T06:27:00-07:00",
+      "publishedDateTime": "2022-04-18T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1370,50 +1431,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials.md",
-      "title": "Machine learning and AI is coming for corrupt officials",
-      "excerpt": "Mark Heywood correctly asserted in the Daily Maverick that unless we introduce the certainty of punishment for corrupt public officials, we will lose the fight against corruption .  The July looting and riots taught us that these events affect our daily lives.",
-      "sourceUrl": null,
-      "webUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
-      "originalUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.mg.co.za/wp-media/2022/04/bd15270f-gettyimages-1283484229-scaled.jpg",
-          "width": 2560,
-          "height": 1709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp",
-      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp",
-      "publishedDateTime": "2022-04-17T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mg.co.za",
-        "domain": "mg.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

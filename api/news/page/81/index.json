@@ -2,6 +2,91 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-02-17-clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database.md",
+      "title": "Clearview AI aims to put almost every human in facial recognition database",
+      "excerpt": "The controversial facial recognition company Clearview AI reportedly told investors that it aims to collect 100 billion photos—supposedly enough to ensure that almost every human will be in its database.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2022/02/clearview-ai-aims-to-put-almost-every-human-in-facial-recognition-database/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-facial-scan-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-arthur-selected-to-provide-critical-ai-performance-capabilities-for-department-of-defense.md",
+      "title": "Arthur selected to provide critical AI performance capabilities for Department of Defense",
+      "excerpt": "View original content:https://www.prnewswire.com/news-releases/arthur-selected-to-provide-critical-ai-performance-capabilities-for-department-of-defense-301484204.html",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/arthur-selected-to-provide-critical-ai-performance-capabilities-for-department-of-defense-301484204.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/arthur-selected-to-provide-critical-ai-performance-capabilities-for-department-of-defense/article_77c5c4f4-ccd1-5894-97ba-aa2969bd6288.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-ai-acquires-the-power-to-manipulate-fusion-but-wait-its-actually-good-news.md",
       "title": "AI acquires the power to manipulate fusion, but wait, it’s actually good news",
       "excerpt": "The project is a collaboration between Google’s DeepMind and l’École Polytechnique Fédérale de Lausanne (EPFL) started years ago when AI researchers from the former and fusion researchers ...",
@@ -1135,100 +1220,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge.md",
-      "title": "AAEON Partners with AI Chipmaker Hailo to Enable Next-Gen AI Applications at the Edge",
-      "excerpt": "Reallocating the computing resource of AI-based tasks from the CPU/GPU to the Hailo-8 neural processing unit (NPU) provides greater flexibility and possibilities for edge computing applications. The Hailo-8 M.2 AI Module delivers 26 tera-operations per ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/aaeon-partners-with-ai-chipmaker-hailo-to-enable-next-gen-ai-applications-at-the-edge/article_0abc5937-db0d-5b36-a89b-49060af65741.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/c0/9c084c6d-15a0-5ffc-aaf7-7555392729f0/620ce7e092764.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
-          "width": 1196,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T05:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-app-annie-becomes-dataai-to-be-the-unified-data-standard.md",
-      "title": "App Annie becomes Data.ai to be the ‘unified data standard’",
-      "excerpt": "Register here. Mobile data and analytics platform App Annie has rebranded as Data.ai, as the company repositions itself as the “unified data standard” to capitalize on what it calls a “big ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/",
-      "originalUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1225870864-e1645017623537.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/app-annie-becomes-data-ai-to-be-the-unified-data-standard/amp/",
-      "publishedDateTime": "2022-02-16T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
