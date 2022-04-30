@@ -3,24 +3,24 @@ category: news
 title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
 excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
 publishedDateTime: 2022-04-26T07:00:00Z
-originalUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
-webUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+originalUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: We Are Green Bay
-  domain: wearegreenbay.com
+  name: WTVW
+  domain: tristatehomepage.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2019/07/cropped-WAGB_DOTCOMv2.png"
-    width: 1018
-    height: 340
+  - url: "https://i0.wp.com/www.tristatehomepage.com/wp-content/uploads/sites/92/2022/04/snapshot-37.jpg?w=2000&#038;ssl=1"
+    width: 939
+    height: 528
     isCached: true
 
 related:
@@ -112,6 +112,6 @@ related:
       domain: finanzen.at
     quality: 13
 
-secured: "FW1rnCGBugp7/P+/WWoVoS10VCxr1oXbj6YtyLe4cUNQU9WlCH1kpIh4Lqka+/1PgtJH66XnkoJqVfwEhTaJk8IBO5pHG98CRc8Pi23HTwY5mOmho3DPcxSw8piIsgHx2aGHQRKWZHrQk1A2wVToluTIyU4UXorZjCrLBX1wgjZyXWXyYGxtc8hdzirObj3aC0c8pp1iQfXr8oKKTgLYL1ne3SN0tre+m/2qEEd143JCXl1G4COc6td16iBrIgLbpN0Hu+Yp0Uta5BRN8xbog6xzqTVX6NSVmlNTyfE2D2yK4k4gBnl4eJkOVof8B2v5YK6fLP2Rj92Hll+bcetYBbwwKLndXT0to9BdiNBa6e4=;iz7Ejk7RBMQJ7kCGk7shuw=="
+secured: "m25P7cHN7MbGC15boQ3FWc0EI6hU/9sEd+d3xfkoIHt0i0cyFEC58Qxd6TmPI5IU60te/s8NTZtGyPlYr0fHC4ne8TdfFQpLT9asKIsw/HbCJBDSBJ6iCYTWEpl4ZJ5P1FKmfC+qSrbQZY15Dis1YtL9T49grMHzyc3dYHasTq6kAzp9PUrdjioOur/BuKh5HGalmQIrM8kSdZpYI4V0rnPGOphJGBc1wJJzdUJ1GitYg8mpN4uoOadPtddjM7zUdEgH4R0P5iek8wO0/erZEI2rwMAVdbjT0/mgwhTd2yZQQb4H8bV2rNV4NpxfBb+9XkB9Dg9QvL+czGXURQ6wDNPorOqdTBsv82GCPrM8duQ=;oOeMO/M1QaSm1ekS799s8A=="
 ---
 

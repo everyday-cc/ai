@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "SHAREHOLDER ALERT: AI GRAB ABBV: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / April 25, 2022 / The Law Offices of Vincent Wong announce that class actions have commenced on behalf of certain shareholders in the following companies. If you suffered a"
-    publishedDateTime: 2022-04-25T13:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/ac26787167/shareholder-alert-ai-grab-abbv-the-law-offices-of-vincent-wong-reminds-investors-of-important-cla"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26787167"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26787167"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Bronstein, Gewirtz & Grossman, LLC Reminds c3.ai, Inc. (AI) Shareholders of Class Action Deadline and Encourages Investors to Actively Participate"
     excerpt: "Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC notifies investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3” or “the Company”) (NYSE: AI) and certain of its officers, on behalf of all persons and entities that ..."
     publishedDateTime: 2022-04-29T15:02:00Z

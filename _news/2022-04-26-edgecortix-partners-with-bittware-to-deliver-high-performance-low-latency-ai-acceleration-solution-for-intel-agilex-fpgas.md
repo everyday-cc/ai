@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edgecortix Announces Sakura AI Co-processor Delivering Industry Leading Low-Latency and Energy-Efficiency"
-    excerpt: "EdgeCortix unveiled the architecture, performance metrics and delivery timing for its new industry leading, energy-efficient, AI inference co-processor."
-    publishedDateTime: 2022-04-25T13:16:00Z
-    webUrl: "https://www.design-reuse.com/news/51816/edgecortix-sakura-ai-co-processor.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 4
   - title: "EDGECORTIX PARTNERS WITH BITTWARE TO DELIVER HIGH PERFORMANCE, LOW LATENCY AI ACCELERATION SOLUTION FOR INTEL AGILEX FPGAS"
     excerpt: "\"We are excited to bring the power of EdgeCortix's Dynamic Neural Accelerator IP to Agilex FPGAs through the new BittWare Partner Program,\" said Sakyasingha Dasgupta, Founder and CEO of EdgeCortix.  \"It's a game changer on multiple levels in the AI acceleration market."
     publishedDateTime: 2022-04-26T19:15:00Z

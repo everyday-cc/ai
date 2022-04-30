@@ -150,22 +150,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-    excerpt: "The permits given to Baidu and Pony.ai allow them to offer rides without a safety driver behind the wheel to take over in cases of an emergency. The new permits still require a safety supervisor to be seated in the front passenger seat."
-    publishedDateTime: 2022-04-28T06:02:00Z
-    webUrl: "https://www.seattlepi.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 74
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/40/31/22414936/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Pony.ai lassos China's first autonomous taxi license"
     excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
     publishedDateTime: 2022-04-25T17:00:00Z
@@ -197,6 +181,20 @@ related:
       - url: "https://c.ndtvimg.com/2022-04/7hcnce9o_self-driving-taxis-china_625x300_28_April_22.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
+    publishedDateTime: 2022-04-28T06:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 56
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Baidu Leads Years-Long Race for First Driverless Taxis in China"
     excerpt: "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous ... Back in 2020, Google-owned Waymo opened its fully driverless ride-hailing service to the public in Phoenix, but Wei said the traffic ..."
@@ -285,7 +283,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
     type: article
     provider:
       name: The Financial Times
@@ -362,6 +360,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ti6KUyzr6LLts3Q3MkReu8mxgDBQyfvAiEuNKIBTwrklvq2LrRC22AmL7xWmOCttDsjSTwswcvmSb/PR+zrVRawambcpI9gJQgZ2oJiCvtzQ2zUL8y1cMFVdw0Ff4rU8xBkDF8fMcn9yClBrKobfoTbsb+KBjkILlck1k6nqkZO5Hz+Qu7aHDLoMlXV3veuqm18yg4au+k5k+VjjlrUTk8ZiRVHYBG6K3bgAxboCQQ6ZxQWy8aHvMbgaWZb3sozh/mWFuC5lGzXGgobuc9xdCcZjE6aWqoBAg+0EyOsDhz3sEVCVJw0cNYdZ2iVnxlb2UZSD0COjckQ8Om9tc1+lxdNUmnt1SsNPLGXAqOP2WzA=;G1jp2QREYZfMaAmGx3MomA=="
+secured: "UrtzK27JVZCg60sPuEZUdwe0lm/PssOFdeeo4yV9lANyqfd7PWyUBzI8zj5vZ41R7SByWqT9nL6cuKryJRq+6aZktdgUYWBvcYH08WiS9YvnCNSLg4sY/+r4xjs2IHQaFY5+EJ/LWPXkxVmriTHBRxOgFEm8xYC3P9FDri7RpKiy96SjqGzWEVlIu99bEg/ofUF0TPBpUBuElF5f1AxfT7BnVOGtSGgfxEfp6TZmCmlpite+9X9gUzC1Sj/GlW4u6vDOqdtnI/gIcodpu+H6q57zid/7jIM3LmtDNMkEKpBSbSNEfBISMQb97K9gM+9zUseyUO/CJYQ9Y7856kn0qxF6LeyKJuPZ9H1ylUz8QlM=;NQ5eUCNpnamTSBYTTv+uSg=="
 ---
 

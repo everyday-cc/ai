@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Schlumberger Expands Global AI Innovation Network with Opening of Artificial Intelligence Center in Europe"
+    excerpt: "Schlumberger customers will gain access to a powerful machine learning platform with market leading AI capabilities. Through its partnership with Dataiku, a world leader in “Every Day AI,” Schlumberger will empower its customers to leverage a single ..."
+    publishedDateTime: 2022-04-30T07:57:00Z
+    webUrl: "https://itnewsonline.com/BusinessWire/Schlumberger-Expands-Global-AI-Innovation-Network-with-Opening-of-Artificial-Intelligence-Center-in-Europe/28444"
+    type: article
+    provider:
+      name: It News Online
+      domain: itnewsonline.com
+    quality: 14
+
 secured: "L6ITeRH2gKPeqwPRzZP03H5DbdyZ7YNLQ0QmcrEEK2TpHluHbwfwv2QD453B1JVqZxq2rvgivkdenJuUo9OgKq6wOiXT59UCPHgEWb6kviIYIzw5rSrP7AUhwaCID3FTNjtZRpqd3y7YLS3IJtdq6ykSJ9m9v6+mrs2KHMmyo4te5Mikhy+zN4vP/YUJTvocTF8kDW6Xa8EooedlXGsHL+DGHhsAzXb2iNdAsBffGL1SYLI7iJ9AMnh+U0bhDGTfmFn8SzZkXWe51gn5dlatenKZ4DZkhOCflKs0oRoEJIRUmFK90HgAntinn4I/5CdfAb6ysrwHi4pcGo3OXo5/Zfuyiw33pGFU6G48U1KUb+Y=;PNtY43jhFQ/Ytmj2DkWwLA=="
 ---
 

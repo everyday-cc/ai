@@ -1,19 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment"
-excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers’ assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
-publishedDateTime: 2022-04-22T09:13:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/950470"
-webUrl: "https://www.eurekalert.org/news-releases/950470"
+excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
+publishedDateTime: 2022-04-22T09:18:00Z
+originalUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html"
+webUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
-secured: "AEIaupx1TgcdRsSA0IzwIoGLt4Fdlfo0nktQd3QhYdsnWPd0yYJJkqbJsWcQftaqzqSZURVFqt3H0I7GaJRe1vt+iUcQgt42I2UBwlUoV44zuxzyP0yvC4Rzq4bZV9mte+4zzhPoskyqsMmG3j38sMJe0WZl/SoFH+kYrn1tzYpaMoD2KCF1OnePdBUuaGpsdkNM3YJ65R/GaIx814eiPM8gSjYLN0xqbWo3eJUMtj4ymDwcnSjdVhe6qRrjAjlPipQU8vATaM8aDwuQ0mmadT/UvUXWOl/12Bchv/aos7r31U8BKtNe5StppECBUSen0ZoHJ8ogZSCLw/YPZTUUh80om1nijO0AB+b8msr5p9Sa7u7mfZZqVcrGWMWe9G0/+fqvNzNRepFbrsSXEdv1/I1e4fHbxtFOMDnwqsOkWPSSxeTBnLVpWhDV0CdvBR7iWux3R81oUj2N/TuvjtM56hJHpbmPjh399hj6w9sJQifMl+kvczmyfT8S9oyCvxv1qRdZ1YkKrjxyox4YaULTJg==;Y+xN3B2DvxGJzeMFW+Dusg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-29.jpg"
+    width: 850
+    height: 478
+    isCached: true
+
+secured: "EAbKEAO2lftX8G51Ra7ipN8MwjDrPKYlRHjEG8XRikYESEIz4/RQMFQH4UBwuPKNWjRqGQGQyLt+aIw3iLAMW0ZDCM5tRu0ftaabcqUN7Bvyt0FhBeu+uD0qQ2AMbfejUaz/+iVYUyhfd4t/cRDBSxtlq5KIbYzRAfeGfP+G8Clg2W/RpocAzwLCvG3z4oJOOkhZ4JKhif1eo1nsPf47//xhbjGE3vn0Bn4DI9k0ayOEXST0dV4YyXQTU4KjPn+IRgbhFKQ04LFCM/15y2OMiGXEGNUbO3xFnPYBdwAUa/9NtdO10mQh4gbLKD2HAhHXZdPArOmqBGHLkW9ifAHZfcysJn/jVkvcJbLzIypgX2Y=;o+gYHuRbhcb8yrXGFV6dCg=="
 ---
 

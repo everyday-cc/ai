@@ -2,6 +2,40 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-04-05-uks-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright.md",
+      "title": "UK’s mental health crisis alleviated by online therapy services from Onebright",
+      "excerpt": "Around 1.6 million Britons are waiting for specialised treatment, and another 8 million cannot get on the waiting list but would benefit from support. Could online therapy be the key to unlocking the mental health crisis?",
+      "sourceUrl": null,
+      "webUrl": "https://www.journalism.co.uk/press-releases/uk-s-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright/s66/a917259/",
+      "originalUrl": "https://www.journalism.co.uk/press-releases/uk-s-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright/s66/a917259/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journalism.co.uk",
+        "domain": "journalism.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-mirae-asset-partners-with-ai-based-fintech-qraft-technologies.md",
       "title": "Mirae Asset partners with AI-based fintech Qraft Technologies",
       "excerpt": "Mirae Asset Securities formed a strategic partnership with fintech firm Qraft Technologies earlier this week, planning joint research on AI-based financial models and cooperation in bringing about ...",
@@ -1086,58 +1120,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-as-russia-plots-its-next-move-an-ai-listens-to-the-chatter.md",
-      "title": "As Russia Plots Its Next Move, an AI Listens to the Chatter",
-      "excerpt": "With vast amounts of data becoming available to intelligence analysts, new tools will help them sift and interpret it all—but they will introduce new risks, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/",
-      "originalUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62478eb5eced5c4c5a96ba55/master/pass/Russian-Radio-Interference-AI-Ukraine-Business-1239672875.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-war-ai-surveillance/amp",
-      "publishedDateTime": "2022-04-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "Hewlett Packard Enterprise used AI driven data to help accelerate Covid-19 vaccine research"
-    excerpt: "CEO Antonio Neri: “We made available our systems and our patents to be able to process that data at the speed that was required.” © 2022 Fortune Media IP Limited. All Rights Reserved. Use of ..."
+    excerpt: "CEO Antonio Neri: “We made available our systems and our patents to be able to process that data at the speed that was required.” © 2022 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and ..."
     publishedDateTime: 2022-04-27T13:00:00Z
-    webUrl: "https://fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf"
+    webUrl: "https://www.fortune.com/videos/watch/Hewlett-Packard-Enterprise-used-AI-driven-data-to-help-accelerate-Covid19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf"
     ampWebUrl: "https://fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/amp"
     cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research/aeeaaf34-bf9f-4174-8be1-646f26cf29cf/amp"
     type: article

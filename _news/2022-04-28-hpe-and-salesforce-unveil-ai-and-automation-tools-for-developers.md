@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Salesloft unveils new AI-powered sales tool for more accurate forecasting"
-    excerpt: "Forecast, a new feature of the Salesloft platform, is designed to help forecast sales more accurately and take action to close deals, all from the same platform."
-    publishedDateTime: 2022-04-25T13:22:00Z
-    webUrl: "https://venturebeat.com/2022/04/25/salesloft-unveils-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
   - title: "Untether, GM partner to develop AI perception systems for autonomous vehicles"
     excerpt: "Untether AI, which describes itself as “the leader in at-memory computation for artificial intelligence inference acceleration,” has teamed up with General Motors to develop AI perception systems for autonomous vehicles."
     publishedDateTime: 2022-04-28T14:42:00Z

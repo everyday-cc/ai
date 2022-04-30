@@ -47,15 +47,6 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 49
-  - title: "How Artificial Intelligence Is Changing The Way We Make Videos"
-    excerpt: "From frame editing to script writing, how AI can help creators focus on what they are best at: imagination and emotion."
-    publishedDateTime: 2022-04-25T13:45:00Z
-    webUrl: "https://www.entrepreneur.com/article/415561"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 47
   - title: "AI improving at sentiment recognition, already good at rash judgement, studies show"
     excerpt: "Understanding how someone will be perceived by others is a function of EQ, and a team of researchers have trained an AI algorithm to do so with high accuracy."
     publishedDateTime: 2022-04-26T22:19:00Z

@@ -31,7 +31,7 @@ related:
   - title: "Meet Flamingo, Deepmind's latest open-ended AI"
     excerpt: "Google's Deepmind has published a paper proposing a family of machine learning models with the aim of doing more work with far less costly and time-consuming training. The upside of that is, the tech giant claims, massive cost savings as training is ..."
     publishedDateTime: 2022-04-29T11:32:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/29/flamingo_deepmind_ai/"
+    webUrl: "https://www.theregister.com/2022/04/29/flamingo_deepmind_ai/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/"
     type: article

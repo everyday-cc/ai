@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Everything You Need To Know About Artificial Intelligence Marketing"
+    excerpt: "This is where artificial intelligence comes into play. Thanks to sophisticated tracking tools, it is now easier than ever to track visitors' actions on your website and use those business intelligence insights to reach out to potential customers."
+    publishedDateTime: 2022-04-29T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/everything-you-need-to-know-about-artificial-intelligence-marketing-nid-9798.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/iqr56cioappli450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Using AI and Machine Learning to Reduce Wastewater Flooding and Pollution"
     excerpt: "As part of the endeavor, Rockwell teams specializing in network and cybersecurity, AI, and machine learning applications are providing guidance as well as counsel and support on other emerging technologies. Rockwell software and hardware will also be part ..."
     publishedDateTime: 2022-04-29T14:27:00Z

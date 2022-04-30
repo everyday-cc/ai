@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 49
-  - title: "How Artificial Intelligence Is Changing The Way We Make Videos"
-    excerpt: "From frame editing to script writing, how AI can help creators focus on what they are best at: imagination and emotion."
-    publishedDateTime: 2022-04-25T13:45:00Z
-    webUrl: "https://www.entrepreneur.com/article/415561"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 47
   - title: "Arize introduces AI bias tracing to pinpoint and address causes"
     excerpt: "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Arize, a maker of artificial intelligence (AI) observability tools, has introduced Bias Tracing, a new tool for identifying the root cause of bias in machine learning (ML) pipelines."
     publishedDateTime: 2022-04-27T13:00:00Z

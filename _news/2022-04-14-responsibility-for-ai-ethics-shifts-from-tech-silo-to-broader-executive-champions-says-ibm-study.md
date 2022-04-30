@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
-excerpt: "When asked which function is primarily accountable for AI ethics, 80% of respondents pointed to a non-technical executive, such as a CEO, as the primary \"champion\" for AI ethics, a sharp uptick ..."
-publishedDateTime: 2022-04-14T06:03:00Z
-originalUrl: "https://www.asiaone.com/business/responsibility-ai-ethics-shifts-tech-silo-broader-executive-champions-says-ibm-study"
-webUrl: "https://www.asiaone.com/business/responsibility-ai-ethics-shifts-tech-silo-broader-executive-champions-says-ibm-study"
+excerpt: "80% of respondents in this year's survey pointed to a non-technical executive as the primary advocates for AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ..."
+publishedDateTime: 2022-04-14T04:34:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/pr-newswire_500_4_744.jpg?h=7de12b8a&itok=1ipjVXxk"
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
     width: 600
-    height: 316
+    height: 207
     isCached: true
 
-secured: "IQAOWmqncz96s+q06PDh726dquHmR/kikZJY/K1BKHogi+uZexeupdhjbE4VbWbu0dExt0sxqNZy+pj9pmZl9cBL7baUiA9kZoaPPelrpN32rvAgYhbGrdBoCmp2nBd6CFh5SSkv7pggW9H67A2ahucNIKyi2/MyKBve/uIItpyyXw9eKw0/n7LgWpgg/Y/amWxqzLfh7HWhvmp7O68AM7sfGHzqNPWxXP6JAdist9Ad86sml5zWow32epqtA1AiBH65XQyDOpOFrCcNiwrJNt80LCIcfynNs1J6u3JU4CFUpc8LW24JAS+KEzSho73dWDzZtMr4utQpPl31rLDnOj255XjjgGnvojegIDiPsHU=;hFQyoRcrZc2vHdOoP40mPw=="
+secured: "t5n4OUxp57bePzgKzinF/nSmSz1BgPpQ+gcjwq6IvMrAmjAhx/ugvl9HfhWrD+9HLql8BE4FSn+Y5KwiPm5ymhE4sCqL2+5fHXe5eLqJ+2ghVueRhfoRJLeE5GpiKMlKQ3DopfNSlCmPv+RtOOkxRhAZn/Tjj0sd1O6el6tPSD0NBCVYE+cOyASsW/+e0xDflLpxAowT+0bj6sZP0fur62ynY7eRr6v1rRXe8QYhqW/qWKT4dLs3on6ZkVVVhjLp/JHcCORWAvjQy+bw9OZ9R8tHDmUU46610nmhKXPJlFbE1q8FX7Xtej/WdGV3DKJ26YN1eUaJ7bEaJX562ZSsfQ7+5PTuO42wq74Vh78PmE0=;Kp4Vr7tk8e8aHIiqt8NVFA=="
 ---
 

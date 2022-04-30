@@ -2,6 +2,51 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-04-06-as-data-drives-reinvention-aws-leverages-machine-learning-and-serverless-to-meet-enterprise-needs.md",
+      "title": "As data drives reinvention, AWS leverages machine learning and serverless to meet enterprise needs",
+      "excerpt": "Cloud provider Amazon Web Services Inc. is in prime position ... This fits neatly with AWS’ focus on machine learning within many elements of its cloud-based portfolio. “The idea of data ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/04/05/as-data-drives-reinvention-aws-leverages-machine-learning-and-serverless-to-meet-enterprise-needs-awsshowcases2e2/",
+      "originalUrl": "https://siliconangle.com/2022/04/05/as-data-drives-reinvention-aws-leverages-machine-learning-and-serverless-to-meet-enterprise-needs-awsshowcases2e2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Rahul-Pathak-AWS-Startup-Showcase-April-2022.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-microsoft-hpe-put-ai-to-work-checking-astronaut-gloves.md",
       "title": "Microsoft, HPE put AI to work checking astronaut gloves",
       "excerpt": "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,",
@@ -1058,40 +1103,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-uks-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright.md",
-      "title": "UK’s mental health crisis alleviated by online therapy services from Onebright",
-      "excerpt": "Around 1.6 million Britons are waiting for specialised treatment, and another 8 million cannot get on the waiting list but would benefit from support. Could online therapy be the key to unlocking the mental health crisis?",
-      "sourceUrl": null,
-      "webUrl": "https://www.journalism.co.uk/press-releases/uk-s-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright/s66/a917259/",
-      "originalUrl": "https://www.journalism.co.uk/press-releases/uk-s-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright/s66/a917259/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Journalism.co.uk",
-        "domain": "journalism.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

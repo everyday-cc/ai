@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-04-12-blockchain-to-revolutionize-the-lending-space-in-the-fintech-industry.md",
+      "title": "Blockchain To Revolutionize the Lending Space In the Fintech Industry",
+      "excerpt": "With increasing focus on the payments segment and closely followed by securities and trade finance, blockchain will focus on evolving complexity and delivery time frame",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/424530",
+      "originalUrl": "https://www.entrepreneur.com/article/424530",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1649746958-Myproject199.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-deep-tech-start-up-spyne-raises-7-mn-led-by-accel.md",
       "title": "Deep tech start-up Spyne raises $7 mn led by Accel",
       "excerpt": "Spyne a deep tech start-up helping businesses and marketplaces create high-quality product images and videos at scale with AI has raised $7 million in their latest funding round. Led by Accel, the ...",
@@ -1055,58 +1107,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-this-snapchat-filter-can-help-you-learn-american-sign-language.md",
-      "title": "This Snapchat Filter Can Help You Learn American Sign Language",
-      "excerpt": "Building on the hand-tracking technology that powered 2021s fingerspelling Lenses, the ASL Alphabet lens was launched in partnership with SignAll, a startup that uses AI to translate sign language in real-time. \"We're constantly working to expand the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/internet/this-snapchat-filter-can-help-you-learn-american-sign-language/",
-      "originalUrl": "https://www.cnet.com/culture/internet/this-snapchat-filter-can-help-you-learn-american-sign-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/c26c853ebaaf0d0d010105c4a8fa012643f8ae04/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-snapchat-filter-can-help-you-learn-american-sign-language/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-snapchat-filter-can-help-you-learn-american-sign-language/",
-      "publishedDateTime": "2022-04-11T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

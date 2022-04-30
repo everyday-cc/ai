@@ -1,15 +1,15 @@
 ---
 category: news
 title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
-excerpt: "A new study by researchers at Johns Hopkins University shows how artificial intelligence (AI) machine learning can improve the accuracy and speed of mouse brain imaging in action—a breakthrough that one day could help accelerate neuroscience research for ..."
+excerpt: "Often, capturing neural activity in mice requires restraints ... with the assistance of DNNs,” the researchers wrote. In artificial intelligence, a generative adversarial network (GAN) is a deep learning network that generates output that has similar ..."
 publishedDateTime: 2022-04-29T20:14:00Z
-originalUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-webUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-ampWebUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/gb/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "hoQNfIkN2Q5lfm80ZAQglzlPXC3g7xazjFH6yCIgqEJJTcff/uhgkznDrIxE/Mis3arW3H1P5TT2NwlMOuabeHUZCfqNFzXgh5BNa5GF1WK3UHJ+lRQ11xsu+MgmWqYN7hMUi+I5Cz7rzTFuFvd9G5LfxeA18rIB/s40aHBd9008+GdjItLh3YsGX+Igkec659n6ULz1s1OpXznlSRjHCbeBAlt8rFAPYuvORxoXv3RACLSsVGmzCpyGPnc7AQy3jQ3pM8cKc7VhFki4p97Y66o/eUYrwlrXCxKAsg8cq6c5+7aHsmr3lvynQ4C6Yg3rV3XTVLbnPC9njhbc/YDdHpAyMSA21aautFiX4JicM0s=;JhFbNM4VL3+0TtZTzm3m/g=="
+secured: "t5CI4yX3uo8rMcNTxBxEnTpVI5c4lppD+HvUj8ZI4LTvrDDZPbjfnzf7+Yl3KQm+uBfX5rdnMAgD+a0+ntpvzli5cHENXk5hMg3MffHk3x0IV7/PJZ66+MfkO0xIbMvnphnlw3PKiwjnI5iz6j9dnyDTtpGSYYPcSGT9IdEIYdHrwooPp0z6trRQsq9pnB5M40xCNxhz3jPSPtxWZQaYzsR6eMueqeB00L6hlpOuaH10HH68MiH9cxYmlgPZaKWe9aREyCMb5mAgDMTk3wYukfuHqyCRliw7mRQ/4aVCnJtTMMCBTypglIS5Shg2HWpbKWRexYEF0CSGs9KovcVpHtHkVqXzMl/ZZVjv53XVDA0=;ZvTYZV3ArKvaaBc7Eluekw=="
 ---
 

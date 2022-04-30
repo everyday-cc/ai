@@ -32,15 +32,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Edgecortix Announces Sakura AI Co-processor Delivering Industry Leading Low-Latency and Energy-Efficiency"
-    excerpt: "EdgeCortix unveiled the architecture, performance metrics and delivery timing for its new industry leading, energy-efficient, AI inference co-processor."
-    publishedDateTime: 2022-04-25T13:16:00Z
-    webUrl: "https://www.design-reuse.com/news/51816/edgecortix-sakura-ai-co-processor.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 4
 
 secured: "n+ml5S3LM886BNVMrLOO0IpcBsNr4A5oj3i9BcE8nTS1ky54Y2UxwyMBYaFYuyt2+auU/p+As0zOQ7hY2d6m0x7+st67aMTiPZrNA5oOTpX+biqfua73juLfve7+/oIjL2oEK4nYEHlnoHO7+HT/SaUGB3q+AzOAmdLpllZpSmpxxkA3rYZoZWh944XcdN9kfSMyBg732zr0ZGYR60betEftn60yTxZwAR7OGDofxKqqy9w4Ke4wpP3N8v4qMNYy/iEQqOzvh2AE67k1kJ6wpm9bA/0Izpf6xjoZQ20jSLmIVKkPQQK5D9HqUR5F9HH7rTtP9adpmpL2/DCzMI1hy+n2Rt19b+EqzHfCNYdIAKU=;3GtYUZGRfAy+cUwKzkRmTw=="
 ---

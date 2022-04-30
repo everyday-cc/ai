@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Everything You Need To Know About Artificial Intelligence Marketing"
+    excerpt: "This is where artificial intelligence comes into play. Thanks to sophisticated tracking tools, it is now easier than ever to track visitors' actions on your website and use those business intelligence insights to reach out to potential customers."
+    publishedDateTime: 2022-04-29T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/everything-you-need-to-know-about-artificial-intelligence-marketing-nid-9798.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/iqr56cioappli450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Writing for the World: Using AI to Help Publish on a Global Scale"
     excerpt: "Little Black Book, Brunswick Group’s partner, and global technology lead, James McCobb details how he is helping small teams publish content on a global scale with the help of AI"
     publishedDateTime: 2022-04-27T11:53:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
 excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
 publishedDateTime: 2022-04-28T12:47:00Z
-originalUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
-webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+originalUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
+webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
 type: article
 quality: 34
 heat: -1
@@ -143,22 +143,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-    excerpt: "The permits given to Baidu and Pony.ai allow them to offer rides without a safety driver behind the wheel to take over in cases of an emergency. The new permits still require a safety supervisor to be seated in the front passenger seat."
-    publishedDateTime: 2022-04-28T06:02:00Z
-    webUrl: "https://www.seattlepi.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 74
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/40/31/22414936/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
     excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
     publishedDateTime: 2022-04-29T12:00:00Z
@@ -204,6 +188,20 @@ related:
       - url: "https://c.ndtvimg.com/2022-04/7hcnce9o_self-driving-taxis-china_625x300_28_April_22.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
+    publishedDateTime: 2022-04-28T06:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 56
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Baidu Leads Years-Long Race for First Driverless Taxis in China"
     excerpt: "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous ... Back in 2020, Google-owned Waymo opened its fully driverless ride-hailing service to the public in Phoenix, but Wei said the traffic ..."
@@ -360,6 +358,6 @@ related:
         height: 720
         isCached: true
 
-secured: "uOBPqVzrT9yyKPPXFAdrNJWcEwQLw3T6DsIj5nH2sOrFA5QDfq9j6/UBKv82o/RLnwQY7yXCa1gz0RKAgKikk03bIlOpHXC/UPPHiJoxLjJ0SnBmHlRkwo+/3bWjaKHX9dCYk+EZt9fGEkjskOimzUsoqGr4jXYbkWpvou3+dn6wZ7JFDBJiluURcv8nB569fr+ps/tbeCyUvOfiLR/AVrU1OtOilaGlLpJkmaF3CMrlqm3LHNVJ8d8BJYPfd6MYTrBcPpYlnHkMgqG1BdwT/u0fKHH/i/XytLIhrYcVFbDOkeH2GF3UoUA6CoJ/tjSFTvMEL3BClOzWLPiJlk930XQi/X7crjRY4drEIKTs8aS5t6Vt3LauZ7eUv/JjzqT0TnC3x0TH00IY276Ax+l6SFRbnbVa+vdbY+1FHPGkzwqekLgsYuFuv9hf0xcqLNaDsjmWjf13j7RwS9tZHPsp+FuZxp+m9lOQyoABOR/RcOd72li8THuYS/DCbqn2ie0xmLFvjj5lP7erMX1mGRUNxw==;VmO4JJQJd5oiz9Iot9g8JQ=="
+secured: "Yh8N1MtBageEzn0LwW/1PBiXPKwGNi468bY6+IxTYnwlddtpgbO+QXZU+c23kbj2d+e6iG6MlhBCp/CiatnyO/Eq3VNQ1nWIQoCd30cPuGqK2XM5zpCKxmIjy0mB/UErM9qF5OfWa/0ksUbVh8WGMDLGYbffIXZQS5a7gFI8LwFFHbQowc55Duvt1F0FMrN4dsq3WRTLE07RPt8d+nkHj394IVpYZ7OIgVkUUXiDbaFtp3dyuU9t+NTSZ3TQIsiyQTgQV/KnOfS3pqoHhmYawEeivRgDKyrMPpR5zHdCuLuIDPYXO2U3u48tbmeQ1o9Wtgj0g+XUUpaYkUfIFCwn7Jl02JQ9G7u6GA68vQ+XQat95zjPrd4ebxYPQ3snJqDI1YwvX+ZSKiUy4Gukyko9f5Z2MIE2tpBLrrDs9zzy2c3bn6Jp/W6dNEOWucB19850lPNhWfP4kZwxSgyiCnaFJR7jaEh7svPuLI8kPWx+YmomLGHjhy8OPVQ/Wv9TLMHAUMA4P/z2OIEvYXparrCivA==;k89yZ+ZklWJmVo7R8eEqOw=="
 ---
 
