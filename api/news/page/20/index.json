@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-04-11-investing-in-eastern-europes-ai-future.md",
+      "title": "Investing in Eastern Europe’s AI future",
+      "excerpt": "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
+      "originalUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
+      "publishedDateTime": "2022-04-11T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup.md",
       "title": "Artificial Intelligence Is Changing Soccer, And Could Decide The 2022 World Cup",
       "excerpt": "Artificial intelligence and machine learning have improved so much that they can even be used to collect data on historical broadcasts and previous World Cup tournaments. At the same time, limb-tracking AI technology could change the upcoming 2022 Qatar World Cup.",
@@ -1107,58 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-the-rise-of-tiktok-why-facebook-is-worried-about-the-booming-social-app.md",
-      "title": "The rise of TikTok: why Facebook is worried about the booming social app",
-      "excerpt": "Last year the typical TikTok user spent 19.6 hours on average per month on the app, according to data.ai – equalling Facebook ... Last year, research found that almost a third of all Britons ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app",
-      "originalUrl": "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/525c8ea551338ab1e6717f9608948bbcf024d79d/0_250_5597_3358/master/5597.jpg?width=620&quality=85&auto=format&fit=max&s=97cc7124d1aaa7bd810769a847d63896",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app",
-      "publishedDateTime": "2022-04-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

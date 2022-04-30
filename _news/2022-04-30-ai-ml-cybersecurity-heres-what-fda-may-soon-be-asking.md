@@ -55,6 +55,20 @@ related:
         width: 870
         height: 489
         isCached: true
+  - title: "The next cybersecurity crisis is poisoned AI"
+    excerpt: "The very nature of machine learning, a subset of AI, is the target of data poisoning. Given reams of data, computers can be trained to categorize information correctly. A system might not have seen a picture of Lassie, but given enough examples of ..."
+    publishedDateTime: 2022-04-30T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2022/05/01/2003777503"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 37
+    images:
+      - url: "https://www.taipeitimes.com/images/2022/05/01/P09-220501-pic9A.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "5oA+IMPe+ir6nCOB52PgoZG6vEr37hGN8SofU6Z49KFWZsk5wybBZWd5tcoKvAiTjxphHTRfySqy8MnFBYexuimGK1p/8n9iOBJiujwTP5RoUfWnEN9q8YRs7d+vPL3+3Rm1gcifQjgzKtTeOKhPj0OE8faPYHYx5axJ4Us2XbNrvX/mgwr63qVpTz7dHSORdRidNmgHs2HQwOHjry1qTePiA7Jp9Y9wJ5hQVNooX3YzYAmWzcihAHIYkpE5ndizhgeh+5YC/zaj0ABRgX78ScPPmaBLyAM25RrYEtYFatGo8qw2g0d+WQeoQQcaGlddDW1MnOcmTGvIZi7FToI7pk01dWGyG7Jz7BpNYfKIkgc=;gJlRlNPxG62v8XNwpXpqPA=="
 ---

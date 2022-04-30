@@ -3,8 +3,8 @@ category: news
 title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
 excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
 publishedDateTime: 2022-04-28T12:47:00Z
-originalUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
-webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
+originalUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
 type: article
 quality: 34
 heat: -1
@@ -66,20 +66,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/4cca0dbe1960e7dd0607cc79f1998ba73a8f7bbf/2022/04/28/91b6e013-2d7f-4256-a0a2-4ff6c79c7a35/baidu-apollo-passenger-ride.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 800
-        isCached: true
-  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-    publishedDateTime: 2022-04-29T12:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
-        width: 400
-        height: 215
         isCached: true
   - title: "Robotaxi firm Pony.ai granted first taxi licence in China"
     excerpt: "Pony.ai has announced it has been granted a taxi licence in China, a first for an autonomous driving company in the Middle Kingdom. The permit will allow Pony.ai to operate 100 autonomous vehicles as traditional taxis in Nansha,"
@@ -156,6 +142,20 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ap22118230409001-sixteen_nine.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+    publishedDateTime: 2022-04-29T12:01:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 66
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
@@ -342,6 +342,6 @@ related:
         height: 720
         isCached: true
 
-secured: "tE6mfmiek9IYyLjrgGYyVVFU6aNGvbyrcawRpnHBQxTYHwnEgVlaAPSDheQaUnIVo26QxOYLEKtw48SbcE8eHXi3MDIqMFZ7PQBSyeQSOkV64plDu8TwNUOnNL20LHpl/ImK5UJ8XlQFcAQhY6kZ3DKrNqFvkLHRXWpfSt/6W3z+vkMKBi2Z59zRsDEl0OWF9GZVKbu4d7/+vAK2DgJ/TOjNGYkpwEzR+VjtyHz6B0NHwHV8DZItzLbkpwy9yhA3oUJ+DQ5Qwzljlc9V6xYFN7AEuNKlM7JxhY3s4Ipw+8UJPRBCfvLrkhsZ9wFyUtU8IA35vhREs4dYXO0J3vqhlu+3UpzGN7fVe+kziAGWl/Kab2LO8PYFrO3rZa6GProiSgJ0+2CUKx0+lPCIFyiyU4ZbGRSilKKWH3jy7Z0ZydtpNMQ3hV+rwBlusXa8aOjAJSjXH14BbW6lm4KSZpwP4mh5OsWKxE+vU0OfYs21MAwHUzku/PuNK1W387ctXRT9ywJgeVFxR5nEMd+8p+luGA==;TobB5rHHS9HRJWForvrfAA=="
+secured: "9nGf9Pbw9Bd/jItovX9DMO3G/rHpe5TlIIokzGd42N0CSyWBaJ5MCqwIigJvauYKqUHD8wgIv7KfFiQ+j9wdOOSCw8NNDSWNUYQzcrRtJbWlGOQVKpgCJEupp9VnKjAJ8zJxk1BBZkkyIGrz+3JO00Efjtu9x/yfVvlm37lllf657m+a3eX8UX7an68a8BqrIsWmy/XArY9s/ZR2Kdrr/3faw3jVMo72e2PvLP0juYXoRxxRbcU+IsNG/PzDP+mdN8eNHqRpjPa7250TNoSyhQPHWjU7/epL8UuUbetn4aaITZ6T271T88HnMygrr8a2UOlsHqold9qw04k4w8ZkW3Sja12+x/HrcBrKFEnIOOyLaAQJSBp5wxOeo3K6dsrM1pAe0AGKSHHyxv81tvIzz4EzCg0M5oFexc7KktBGaaIeKwnCOmHe3mKUY47XbSmu93qaWQg3lafvK8/35r7fUEzLCrkOSk+qRHDd5AQ3UTlC3Cm9U5LOFOe6XjxoI85GzLfUAwKPF4rZZK0B+/qDBA==;bb1i3Qbv21WxM8sQcbN8FQ=="
 ---
 

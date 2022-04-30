@@ -76,17 +76,12 @@ related:
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
     publishedDateTime: 2022-04-26T07:00:00Z
-    webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
     type: article
     provider:
-      name: WTVW
-      domain: tristatehomepage.com
-    quality: 33
-    images:
-      - url: "https://i0.wp.com/www.tristatehomepage.com/wp-content/uploads/sites/92/2022/04/rappel-centerpoint-e1651325862825.jpeg?w=2000&#038;ssl=1"
-        width: 1280
-        height: 563
-        isCached: true
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 13
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
     publishedDateTime: 2022-04-27T13:28:00Z

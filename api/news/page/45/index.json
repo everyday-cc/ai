@@ -2,6 +2,49 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-03-21-byjus-designates-ex-facebook-tech-lead-majid-yazdani-as-vp.md",
+      "title": "BYJU'S designates ex-Facebook tech lead Majid Yazdani as VP",
+      "excerpt": "BYJU'S designates ex-Facebook tech lead Majid Yazdani as VP - Edtech company BYJUS on Monday announced the appointment of Majid Yazdani as Vice President at",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconindia.com/news/general/byjus-designates-exfacebook-tech-lead-majid-yazdani-as-vp-nid-218397-cid-1.html",
+      "originalUrl": "https://www.siliconindia.com/news/general/byjus-designates-exfacebook-tech-lead-majid-yazdani-as-vp-nid-218397-cid-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconindia.com/news/newsimages/R5Jf3q9e.jpg",
+          "width": 570,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconIndia",
+        "domain": "siliconindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-21-natural-language-processing-nlp-software-market-increasing-demand-with-industry-professionals-global-competition-and-business-outlook-2022-2028.md",
       "title": "Natural Language Processing (NLP) Software Market Increasing demand with Industry Professionals, Global Competition and Business Outlook 2022-2028",
       "excerpt": "Global Natural Language Processing (NLP) Software Market is a comprehensive addition of several factors such as global distribution, manufacturers, market size, and market factors that affect the ...",
@@ -1103,58 +1146,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-neuro-symbolic-ai-could-provide-machines-with-common-sense.md",
-      "title": "Neuro-symbolic AI could provide machines with common sense",
-      "excerpt": "Machines could plan their actions based on mental representations of the world they develop through intuitive physics and neuro-symbolic AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
-      "originalUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1341811309-e1647616199862.jpg?fit=800%2C500&strip=all",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
-      "publishedDateTime": "2022-03-18T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

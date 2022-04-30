@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-04-12-proving-that-chatbots-are-alive-and-kicking-quiq-raises-25m.md",
+      "title": "Proving that chatbots are alive and kicking, Quiq raises $25M",
+      "excerpt": "Yellow.ai, a startup developing an AI-driven chatbot ... ecommerce chatbot endor Snaps and rolled out automatic language translation for agents, Quiq plans to grow its workforce from 66 employees ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/12/proving-that-chatbots-are-alive-and-kicking-quiq-raises-25m/",
+      "originalUrl": "https://techcrunch.com/2022/04/12/proving-that-chatbots-are-alive-and-kicking-quiq-raises-25m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/08/chat-bots.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/12/proving-that-chatbots-are-alive-and-kicking-quiq-raises-25m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/proving-that-chatbots-are-alive-and-kicking-quiq-raises-25m/amp/",
+      "publishedDateTime": "2022-04-12T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-panera-will-test-an-ai-coffee-system-from-the-makers-of-the-flippy-burger-bot.md",
       "title": "Panera will test an AI coffee system from the makers of the Flippy burger bot",
       "excerpt": "Miso Robotics, the company that built a robot burger flipper in use at White Castle and a tortilla chip maker Chipotle is testing, has turned its attention to coffee. Its AI-powered CookRight Coffee system will monitor temperature,",
@@ -1089,48 +1141,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-insight-partners-celebrates-inaugural-scaleup-series-with-ai-conference-scaleupai.md",
-      "title": "Insight Partners Celebrates Inaugural ScaleUp Series with AI Conference, ScaleUp:AI",
-      "excerpt": "Over 1,700 attendees from 50 Countries Across the Globe Joined to Discuss the Impacts of AINEW YORK, April 11, 2022 /PRNewswire/ -- This week,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-partners-celebrates-inaugural-scaleup-series-with-ai-conference-scaleup-ai-1031347625",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insight-partners-celebrates-inaugural-scaleup-series-with-ai-conference-scaleup-ai-1031347625",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

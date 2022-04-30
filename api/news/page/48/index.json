@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-03-18-how-web-30-is-transforming-the-financial-services-industry.md",
+      "title": "How Web 3.0 is Transforming the Financial Services Industry?",
+      "excerpt": "Sabrina Akramova , Editor & Content Manager at Financial IT; 17.03.2022 04:45 pm ; #web #internet #web3. How Web 3.0 is Transforming the Financial Services Industry? We live in th",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
+      "originalUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/img_7407_3.jpeg",
+          "width": 3024,
+          "height": 3236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-microsoft-announces-auto-generated-captions-for-images-in-edge.md",
       "title": "Microsoft announces auto-generated captions for images in Edge",
       "excerpt": "Microsoft uses Azure Cognitive Services to analyze and describe pictures with missing \"alt text.\" When Edge detects an unlabeled image, it sends it to Microsoft's servers for processing.",
@@ -1069,39 +1112,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence.md",
-      "title": "Veritone Named Winner of 14th Annual Media Excellence Awards for Best Artificial Intelligence",
-      "excerpt": "(NASDAQ: VERI), creator of aiWARE™, a hyper-expansive enterprise AI platform, is pleased to announce it has been named the winner of the 14th Annual Media Excellence Awards (MEA) for Best Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.silicon.co.uk/press-release/veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence",
-      "originalUrl": "https://www.silicon.co.uk/press-release/veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Week Europe",
-        "domain": "silicon.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

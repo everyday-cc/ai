@@ -3,25 +3,19 @@ category: news
 title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
 excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
 publishedDateTime: 2022-04-26T07:00:00Z
-originalUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
-webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
 type: article
-quality: 33
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: WTVW
-  domain: tristatehomepage.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
-
-images:
-  - url: "https://i0.wp.com/www.tristatehomepage.com/wp-content/uploads/sites/92/2022/04/rappel-centerpoint-e1651325862825.jpeg?w=2000&#038;ssl=1"
-    width: 1280
-    height: 563
-    isCached: true
 
 related:
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-..."
@@ -98,6 +92,6 @@ related:
       domain: finanzen.at
     quality: 13
 
-secured: "t0sGaM0NqET5/g/dXDuTEOvVD59TJlX+Yt7svC/6yOEWw9Oy1Wyzt62DRJ2argent6hXGtptD8RoZBWPRggdM7K8yCu7dxWtfva0Q2l+XhiTP1gDBiaGbEkzO0hetNjFpHupaQKrrAtQAgaaNZjXoXdt+F3m7Qk4U9U+ztTv17vUeYuaRP9BrWlFqbw/0pIWNy15pdvYFm3jPZL/s9YXzfRYhsls0FjeLb5ESy0mMhnY+wz6Lz5LF9DZCJdL1MqTAzGn83f/ISqNcaZ7Eia/imVzcvQc5wS5okpg0Nb0fDlcKkurfc1dezZUtEURFOsIoa49t993uBFg7bOGcHNaJlQicbnFinm6HhkI+CDgEt0=;jtvW0NoOCxN/VBbRxLdocQ=="
+secured: "oVORkV9NvmhBzjD0al4eB+csoFEYGl/MxtOn+NaHCRr0GHrUA5dL2r8LALfKbbYGn5gZ2NpiZM1f/5eluqzfwMeFXruLAeJYAYTP3t05H0MDq6vGRACpDh/zeOa8n8xoHKNNzYNyB2Fc3pfnzhzpkOypdLE3d4Fwlj7M3HP3GQ+I/XgR7PLMcrcW9sxWPz5j0H9YShAXgjD3+PgKhoiBwGosVzNl4fqdT+4J1CaMWZ60LzJJyZoSh0HVGNWaazs5fBzKEXtQ5JKKeWLXi8cfUtJfAuozD8VWBAGrCl443m8eQnMOgayoGqPZ/DvX7+jzLUnMlnKPZIgUd72e3+ZjlWKuDuefqu9z10fBUrY4TXM=;M0F/yzMOvlJ+wVgDROHAqQ=="
 ---
 

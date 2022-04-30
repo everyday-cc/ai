@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersec
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_155497-1-870x489.jpeg"
         width: 870
         height: 489
+        isCached: true
+  - title: "The next cybersecurity crisis is poisoned AI"
+    excerpt: "The very nature of machine learning, a subset of AI, is the target of data poisoning. Given reams of data, computers can be trained to categorize information correctly. A system might not have seen a picture of Lassie, but given enough examples of ..."
+    publishedDateTime: 2022-04-30T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2022/05/01/2003777503"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 37
+    images:
+      - url: "https://www.taipeitimes.com/images/2022/05/01/P09-220501-pic9A.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "Sl+pKR54p2YkL1TimnvisRINBcEUFg0q8M69zRPfAtPlZZa1f399sP57k4hzFyvDjsys1mx3lLG5+1tODG/QhQjyOoRJmJD5V0l9T9nxyzD2fD508JPiY5VPUKSx0pZfjBxCdEM78hHq41+7bjl5j0c69NOf1b3LjpndwUGTrytl8tc4ef1hQGVI24MiE1kn0rIF9M8yMlCmGfig2cWlTjbDPq21h5l4WgD6lm1hWeBBeRJh7QedX9nK4+kJGw9N4Tr5K9+7pOJqiA9C1oi61xigFxzm4YdoPS6Hlv4MEvmTKU9q4YLV/J6ctFN85oy4NuA9UQN1vtSvtdXtdnCUaZKhM7s7g4p270kEvxjy4nZqOxKaXYBeu+TTcqNLCRN+g4JmVKhakKRivmlVeyCg6ozj2EyVy2Rj0ojZ79iBfm6K4cHXKtdmT/YGWMG3vGjcymy5IQfAUBbvWI+aUEW23y0VFdrceIe0L13paihosdYwoN3ZbSD7Ox/vzQN8wq6nBNVvECqqE1lMsTgD1ZrKww==;jFCiEtuRZOa0LAdUTWTdmQ=="

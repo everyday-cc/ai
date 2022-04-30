@@ -77,20 +77,6 @@ related:
         width: 1940
         height: 980
         isCached: true
-  - title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
-    excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"
-    publishedDateTime: 2022-04-26T00:49:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 28
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
   - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
     excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
     publishedDateTime: 2022-04-28T13:17:00Z

@@ -73,20 +73,6 @@ related:
       name: Nippon
       domain: nippon.com
     quality: 34
-  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
-    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T07:00:00Z
-    webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
-    type: article
-    provider:
-      name: WTVW
-      domain: tristatehomepage.com
-    quality: 33
-    images:
-      - url: "https://i0.wp.com/www.tristatehomepage.com/wp-content/uploads/sites/92/2022/04/rappel-centerpoint-e1651325862825.jpeg?w=2000&#038;ssl=1"
-        width: 1280
-        height: 563
-        isCached: true
   - title: "1st film written by Japanese AI bot takes movie-making to next phase"
     excerpt: "Writer's block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the first film written by a Japanese AI bot is aiming to demonstrate what it can do at a major short film festival this year."
     publishedDateTime: 2022-04-29T21:34:00Z
@@ -96,6 +82,15 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 17
+  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
+    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
+    publishedDateTime: 2022-04-26T07:00:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 13
 
 secured: "zuitsJXpI5QSh0f7qqfnQUKtDAWMtwzXdlDuEFU24YK06raQJifFKBRqiKPZyBQ+AlL6S4ynerPJcfTmNI4rcQUnXoTb21TZzIX/kymPBHG8h3FwywSvHfYM3SGam/FuHJ2T0CXkDKA1+LcsSzihUYUM4zaL+wO463zwN9kaw1UTNeprcFZhpZtyQoxUpBC7lUr3/L7PjQHyMUVvTxaoWh6hQf8OK/VHoxrhzyvb4irma6z23uZY7zQppmvCDkGlNzbGVzHxYS/WbY0at4hRIzJZAAjfXc2P9AC3bHyI+ab6NM3ugBC9FeUq7oG31oWBvbSPEEdJgbr6y0iyEmqzhy3lttpmvlvgdpPSiSDzA4Q=;L5uBd6KDKojXVe7TKhvm+w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/04/30/first-trust-nasdaq-artific
 webUrl: "https://www.defenseworld.net/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update"
+    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large drop in short interest in the month of April. As of April 15th, there was short interest totalling 8,800 shares, a drop of 47.6% from the March 31st total ..."
+    publishedDateTime: 2022-04-30T17:38:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 77
+    images:
+      - url: "https://www.marketbeat.com/logos/generic-stocks8.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "cf5kHtEitDEdAV/BdYvTPdnosPIcRgM/bMITbA1BJ2T2MTnRkQamr6siemxoHCPCa0jbHbgIaxWybFLu7UJSKUT+1KqlT9xv2QwzIGWCSH+iyz6U+7vJEb9Ljnzd7TvhnGqxHI5UDQm8XmU5L2rKqTaYTgI0mZR+LSvkYWJg533h1eEv5QXDEA/g+gS8ou+qAA3sCwJqHgEqipLTA3ibG6qqr/oCpeEG81k/Nt7kKG5mfPMDENL02Bh5X+ssKb9j2rl7pJohnU89XBKZEO3gHNHPbGmcgcuSW9VMKEcBZYfCBb3fWy9bgyYjL0BEA2zP81GHmsOgx0daVMWU0+Fpzi66nNhetBVt2t3wK9m9kMgehcwbGLb9jxDKkUxqKria5zeDyaV6R5zX29r3RceXY2F1H1ZVoYnt/Ty89/zNwBewCQzWOwVouHyczG7dmqu3dkzuWfrBNuNhcGUPsdRi+sRAw9TZr/VF98y8pvAZc6N3CZjcyvzXUdXJkvmxxD1mb8asTQjgoLlch6YKsN7Abg==;Yi7kCQzP/78TReSqvXDakg=="
 ---

@@ -33,15 +33,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "VoPay And HES FinTech Partner To Make Real-Time Payments More Accessible For Canadian Lenders"
-    excerpt: "VoPay, a leader in payment innovation, announced today that it has partnered with HES FinTech, a European-based lending software vendor, continuing the fintech company’s growing loan management partner portfolio."
-    publishedDateTime: 2022-04-26T00:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=652985"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
 
 secured: "q8q/YnxXZ9FqiYyrYZi0YmNuCsCJSbKzGB6FvO8YP63y1HcEl83R1ZdFYk/JAmTooQsNJkeh6QIZo/Fh5hF9iqkvlu8gswdiWxC95peUgj8wEs5R60vMdFPMJ6cnrIgFqzSv+VMIjoMk3g57dB9ZK6tGLa5GOsiAB69Aou0c3FSXrOCTUkorRJBAkXhycdGDpH7U0A4EqL6VR8anjFy1qeDuNMQsfSRP+HGMbYMKTQP4JnKMTXrcVmRo2//lRNWOilL7hArNxN0Q9uKOrvjWxkcCOswXwfsXgz+2IcdLW+fTMtGQsaHEQjnmb9Dt89Ip3gErIjfkdQtNPzPf3LrhAD3STw0WyUC2HpTyUx5jWQjSlJKkbKLA8FDnWSv5UTBl7G1peaRV04Yzu8gl6CrFTnbazovu+PVQFoTB6ATFgGTwRc3N2wDk339O3JM/XSzlQOXv6OcLCg9LaDMYvUdByjdKmrkNhMDzkHqRwwCHpLCFcl5R3hNewO7gpL9DTXuNDlRFxGNDaHNmNJwMQru0oA==;d5Jsob7ngwlzo+cR56RIXQ=="
 ---

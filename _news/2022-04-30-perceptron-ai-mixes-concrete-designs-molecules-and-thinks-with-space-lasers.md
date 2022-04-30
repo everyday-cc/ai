@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 683
     isCached: true
 
-secured: "i5ejFjcEFE0EmproIza6ATNaC8IJPcdyu5zrX8RA6sd7gp1JeUqBYgcpCVJyMwoXQwcfOXu6Bo0JRXTlhr1emfeM3/5F+LCzBu0wUk6Xug84hN7mYPtrJ7EIOP6lG5hG/mKsxeUy51mX9RCgIw/naZc5kKm+8NpQzvo/6XQNYvXscdt8mMhy6nEp9T/Fw2b+MCKljTd9Zu6gqwF/oZHfhAHIS/y5+jMv2u0fkttfFXGROiyDEVOE7aM1MZr6bJ0Kh7nUoi1kwlYvsUve4/EafLD/V/mpJ8XRm/vu+Xc63S7yzLGg74x6sgeDHCxTyRpRgOnMWze2jfbOwi/YmoLHBLafUi3lnv3Hp+1ihAOhYXQ=;mLkNucn0TF1JRMa+oEFcGw=="
+secured: "5BHxktXAw6EtLshupt6bCLFPJIjrnhOM/NDH5ikt93UNZxcN0q9TOzTJmwQVn0WIkLr0v2QNMG9JO15KAOwIjeveNSM31iXo2Ypjs2pk68CPHCkItVDtmiNecbJYW0vcp3sJem7KAR8WNdsbgE4+MbvvGtTAnbeqguc1uUj8EYQc+YF4DA6piWzzSDs3IK6m9cl0agvdQpqIEtpzl+vY/TA83HGpAwbmifEF6BT6vxPEuXG1Iu9rSFkjzMZlCFvY92m8XxOVOFf/kwzFCGS11x0FW6f0RdpZDFKLJ79RBDEbNj2Jt8R/4eBRhhkNhoCs4Y04MNaSh56XGktC+D+CZoZybAmX7JuVtEwLNofFTcpp3ko4Ik33zuZH0Ne7ZkwD1N2rU+oEBPYrEbg2iepgg14MjOwXU+uQ3rvJWv+TLIC3S3f8DZ/X7KCqKm3hK7D1lp1rp+7XFPOQdKYpyUZL1rU05A96uaLgFpt33pymqsVxevcsLkQMhl0PH5ezUcUYRGBQuAlxKdLxGLkfXeneDg==;aWyOfuux3CSMg/EkHiPlpw=="
 ---
 

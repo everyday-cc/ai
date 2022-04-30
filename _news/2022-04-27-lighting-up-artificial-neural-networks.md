@@ -49,15 +49,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Lighting up artificial neural networks"
-    excerpt: "A team of international scientists have performed machine learning computations using a nano-scale device, named an “optomemristor”. The chalcogenide thin-film device uses both light and electrical systems to interact and emulate the biological computations of the mammalian brain using multi-factor interactions while consuming very little energy."
-    publishedDateTime: 2022-04-26T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/950994"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "+HY0C4YFgzMGQU1miDn+EF1hEKugelxhO9j+pWWjFw/r/hLdopYN7wHYiDsk5yXrEU/kgaKglhBciMvQcsgivx6gD1F1NAS7J3sDkoYCE7F49sli/oexXcRehJPFUQ3I13sdioRj1cIsVKitvf3qWq+6Ziid0dTzRfBzdiiRpb5lD6+kbq2VQsQ8wC+Zz9xCm4gqQXitVDzkU7kmlhNcqh1C+pSrFsIk93nPZtYbazXn9e1j7k1UB7JnTl3Duoa9BoyhkeNDUsKFdMKB3ulWHl8bIBLERNjcWTwvkNJXx9eqzy/9kUasjK0d57rY5gUHBJItZewyxexv3doLByt7gkqxZQjC0GifWTNlwY6MgjY=;AsgHZSNPplQKquo5krdBiQ=="
 ---
