@@ -2,53 +2,18 @@
 category: news
 title: "Untether AI and Co-Founder Raymond Chik Honored by Canadian Entrepreneurs Group for Startup of the Year"
 excerpt: "Untether AI co-founder Raymond Chik was honored by the Association of Chinese Canadian Entrepreneurs (ACCE) during a gala dinner hosted by the ACCE in Toronto on April 23, 2022. In 2018, Dr. Chik, Dr."
-publishedDateTime: 2022-04-25T18:41:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9"
+publishedDateTime: 2022-04-25T20:41:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-25-untether-ai-and-co-founder-raymond-chik-honored-by-canadian-entrepreneurs-group-for-startup-of-the-year"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-25-untether-ai-and-co-founder-raymond-chik-honored-by-canadian-entrepreneurs-group-for-startup-of-the-year"
 type: article
-quality: 23
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
-  - AI Hardware
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "The U.S. and China Need Ground Rules for AI Dangers"
-    excerpt: "Argument: The U.S. and China Need Ground Rules for AI Dangers The U.S. and China Need Ground Rules for A... | View Comments () The threats are bigger, the stakes are higher, and the level of trust between the United States and China is lower today than it was in 2014,"
-    publishedDateTime: 2022-04-27T15:57:00Z
-    webUrl: "https://foreignpolicy.com/2022/04/27/us-china-artificial-intelligence-dangers/"
-    type: article
-    provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 39
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2022/04/CHINA-AI-US-GettyImages-1392925380.png?w=1000"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "Searchable.ai announces Constellation, a Unified Data Platform for productivity workers and their teams"
-    excerpt: "Searchable.ai announces Constellation, their unified data platform that brings together all the data and information that knowledge workers need, in one place. Searchable.ai launched in 2019 as a search company that enabled users to simultaneously search across all their cloud and local files."
-    publishedDateTime: 2022-04-28T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-searchableai-announces-constellation-unified-data-platform-productivity-workers-/2022/04/28/9592071.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
-
-secured: "sAGfIaW4ApgHhqKVZ7p9Xd4hQyioC8ciuVrFuLFAMYSliJmx5nFQZPrIGvFUgwbDzqs1TIxQUCKYtL0CSO+fLpRm/o0sUWeDitoEpFGH/VxEsTSe0Qnsm+bKouZKHXnDR0p9KqAMD3VusLtTWwT7l7ij2A0D5aXzJXgQbnC1D3dHJN6TGiybS0deM+C+Fp50lQCSQugkTu4EgqQazd2y2Sy0jVdIlDQ9b1zC3cfnavvDu/6nYQo1KVUsICgWcF99amHJLW0H6DjnfQyYTcMA3OkuxqvfXz7biB/6I3vJ+z9flygZ9fpy7Ze34JOryneEdtAh/KIJoSJGjadscCWQZnLvgPVX0hNKy/AD7AsjBzU=;t/9izekbNwxlycfuTZxpCA=="
+secured: "trFoTeZCjClVS38OQevEyBANfH+P5G5PeWrj+oNlDRCyOH37phrppIjnj17Gq/FLQJpdbjE3jELs/uJpgeqpcoHALMMCzbls3/BScMDDB3KGSy0OF3M3KjpaZScciK2gno/KrmUolbeEUL5x+D8RZzxniYD8uMVH6/TmHr0KCa/BjY20EDJwDjk3laNhgC1+Zic7EERzhEDb8wE7hhQUcWr7GI2fGXXkHKSSIqWeIEJzjMB9J9EahqTJinKx5Za6Ao3FLJOxag98v5B8xXuZWJ/9V6LVEzQMaDp5yML/mDu3Rt2t02t+0ekKm6e5WLlOdWdOn8sKy9cY/rBJ8GeOle8WemhrZUqzvC8Nv3xdFY8=;uKbUg1A63iA0Wb3dQ7lUzA=="
 ---
 
