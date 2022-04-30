@@ -1,115 +1,19 @@
 ---
 category: news
-title: "Pentagon names chief digital and artificial intelligence officer"
-excerpt: "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and ..."
-publishedDateTime: 2022-04-26T13:32:00Z
-originalUrl: "https://defensesystems.com/ai-analytics/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366102/"
-webUrl: "https://defensesystems.com/ai-analytics/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366102/"
+title: "Pentagon Names Chief Digital and Artificial Intelligence Officer"
+excerpt: "Dr. Craig Martell will serve as the Defense Department’s new chief digital and artificial intelligence officer. Martell, who most recently served as the head of machine learning at Lyft after AI and machine learning-related positions with LinkedIn and Dropbox,"
+publishedDateTime: 2022-04-25T20:20:00Z
+originalUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366078/"
+webUrl: "https://www.nextgov.com/emerging-tech/2022/04/pentagon-names-chief-digital-and-artificial-intelligence-officer/366078/"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
-  name: Defense Systems
-  domain: defensesystems.com
+  name: Nextgov
+  domain: nextgov.com
 
 topics:
   - AI
 
-images:
-  - url: "https://cdn.defensesystems.com/media/img/cd/2022/04/26/042522pentagonNG/open-graph.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-related:
-  - title: "Digital.ai’s AI-powered devops platform offers predictive insights"
-    excerpt: "Digital.ai's new toolset lets IT managers use automation to connect agile development practices at the portfolio, team and individual levels."
-    publishedDateTime: 2022-04-28T14:42:00Z
-    webUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/"
-    ampWebUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354729632-1-e1651100896311.png?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Vic.ai debuts AI-powered tool to optimize costs for enterprises"
-    excerpt: "Accounting automation startup Vic.ai today announced a spend intelligence solution to help enterprises optimize their costs."
-    publishedDateTime: 2022-04-28T13:42:00Z
-    webUrl: "https://venturebeat.com/2022/04/28/vic-ai-debuts-ai-powered-tool-to-optimize-costs-for-enterprises/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Workshop on Artificial Intelligence"
-    excerpt: "Amritsar: The CSE/IT Department of Global Group of Institutes organised a workshop on Artificial Intelligence and Machine Learning. The workshop was conducted by Anshu Aneja, Director of Ansh Infotech and Kriti Bhatia - AI and ML expert."
-    publishedDateTime: 2022-04-28T01:46:00Z
-    webUrl: "https://www.tribuneindia.com/news/amritsar/workshop-on-artificial-intelligence-390029"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_181704252.JPEG"
-        width: 1200
-        height: 1495
-        isCached: true
-  - title: "How AI predicts what you’ll buy"
-    excerpt: "It’s a jungle out there—few places so much so as the world of “smart” advertising. There, marketing geniuses have developed increasingly sophisticated algorithms that take all the ..."
-    publishedDateTime: 2022-04-30T10:42:00Z
-    webUrl: "https://localnews8.com/stacker-news/2022/04/29/how-ai-predicts-what-youll-buy/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 37
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/04/shutterstock335123117UTON_0.jpg"
-        width: 1010
-        height: 720
-        isCached: true
-  - title: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform"
-    excerpt: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform. Digital.ai today announced it has reimagined the future of software"
-    publishedDateTime: 2022-04-27T13:25:00Z
-    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/27/9590771.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
-        isCached: true
-  - title: "Credo AI Announces World’s First Responsible AI Platform"
-    excerpt: "Credo AI has announced the availability of its Responsible AI platform, which is the first of its kind. The SaaS-product helps organizations leverage tools to standardize and scale their approach to Responsible AI."
-    publishedDateTime: 2022-04-26T18:31:00Z
-    webUrl: "https://www.unite.ai/credo-ai-announces-worlds-first-responsible-ai-platform/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 17
-  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, launched the Vian H+AITM Platform for reliable, optimized enterprise-wide deployment, management, and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-26T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/04/26/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 14
-
-secured: "wc1O9f52eH2iaNwngsiINXYFf3O7lwQIcAkwR+p/UoqRm1OE9xa694yRrNzBmGO1fr95+OPu47U5X7Gs/mTn0GFQx4mAqOmg+pa6j4lzdZpUuyepZcrDbfdKdYUZQOgE5gyhgBYwnzB6hN/kz2PGGmN4DBVkoGGdmilhYuxQE3fTw3kFcoa1bpjIIKJw1RWk+6NSdujY1IxJhs5MaPP0JI4LwysKiIpYcl/LxQBHzs6g5+IrAKff22Z3RLnEoYKExRwIJS2mzFFmjNOnqV78PewzgH/OdMPxEMrwuJSDRBcobdlhz7OhAmcEpQPMBfe2WvSVqBUcdpkeM7o8xsQipgj9M4fVReVMd0zC2NhzJV9rOcYSS6PFRX3YBVFLyfb0kBnvdj47VdA+dwbrWbMV2sB/CQ7OPTAnnar11fZJtWjBvwKe2W0hQV+5K/pvnGbDVbk7GTbDzZM5khLtN9WyP+vsH/cRFtyCXFpPmacJerP70DdRXJeBYnkz6p/AIClc91Gz5jXu2YoBbdgV4Xr4dw==;B+a18zTCVBKY/C/fRnpgvw=="
+secured: "XZ0XMQQodyR1qJeeqFrqNwZI9/Roq2/dvGGvCnbWTjPqyXyi3NOmPQdvS/1DuvNw7KiI/8VrMw3EewF5jXuAi1ptg76YrlMfA7jRtpqNLYWsgCgn7v4gl2EsFFUloODIiUmhEPLydGqBL9djLTW8loBaorH0RQ6RaNBzdqa/ox1SpoPGZ0wokpnXw6x/xLOHvXP/zykJLtWEOMSMXk8issOKTvUz2TrhcMe4Hj7+Hstwp1mGWmAvEMomnP6JfzNoNIRFZkddVaF+I543lS7HdIg9T4NUs2tUFPQaIvPaEbfPZmYgrWtg4ov1nucglAtGqaQ7sonyjcYt1LEC8E1yVS25Htlknji8Ik9idL3ao+tFFCRgM6MPI9QIlfEU4cBsaEIfmIWclnQjNyLjhO0LnbrAUfUiRIx3Wtkm53cP2PARJrKjJVKxKa8avBdoogobstkHktGoe8cYEv8qVjxTB7XmIuDWwa0D64pXqyLMUOvO7Y3k0zvQ8qVvhtDwXPy2JjIGa5Ax7JPEqtNVuIrYhg==;uCfMTWaSfVIMYRzwYp/H5g=="
 ---
 

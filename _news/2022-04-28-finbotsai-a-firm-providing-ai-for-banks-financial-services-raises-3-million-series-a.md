@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Sanjay-Uppal-Founder-and-CEO-Finbots.AI_.jpg"
