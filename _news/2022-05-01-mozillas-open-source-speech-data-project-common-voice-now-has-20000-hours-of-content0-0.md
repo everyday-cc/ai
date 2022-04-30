@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-30T18:48:00Z
 originalUrl: "https://www.neowin.net/news/mozilla039s-open-source-speech-data-project-common-voice-now-has-20000-hours-of-content/"
 webUrl: "https://www.neowin.net/news/mozilla039s-open-source-speech-data-project-common-voice-now-has-20000-hours-of-content/"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Neowin

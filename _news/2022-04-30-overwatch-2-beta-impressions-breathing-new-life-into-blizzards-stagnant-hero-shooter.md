@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-30T16:00:00Z
 originalUrl: "https://www.windowscentral.com/overwatch-2-beta-impressions"
 webUrl: "https://www.windowscentral.com/overwatch-2-beta-impressions"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Windows Central

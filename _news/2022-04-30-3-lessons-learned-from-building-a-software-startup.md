@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

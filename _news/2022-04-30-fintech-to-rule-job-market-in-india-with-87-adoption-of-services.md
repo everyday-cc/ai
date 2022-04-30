@@ -110,6 +110,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "FinTech to rule the job market in India with 87 percent adoption of FinTech services"
+    excerpt: "Today, FinTech applications and services have captured ... The desire for domain-specific skills like Data Architecture, Analysis, AI, APIs, Full-Stack Development, and more are now primary."
+    publishedDateTime: 2022-04-30T19:54:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220430/3936535.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "9HsFUfdYmScnJx9agOgHy62Fo4mdvsI+lSvRh5GMlRAJs40nQwfl+eq4BkDvYn5S5Ga03OYHKFbrCG5RPmqCis8WdtVMsiOkIXd3E54KjArZ76uVdk3hYl/W4w9FNVSom/va8JeuBzDwtZ6le+FyzHbWxsjyRslYIH/KD4JOKZSKRLpd8nZQv+nruyFXS1fTKh2t9PiIyKNj2oiNCH5G7SbL6/vc2x9gO46QRpv8u6GMFpEI0/Hh2GIqQmr/UnFw9dTTH96984LvCiZ/lgV38JyNAYpVmByIDQrf3DsJyNblFCePtsdjdI8+CI1GPONGaixewBq0gbzNKYCtJI69euQkBvQNvSFD5cfAhfrk0CHpfEqZugnkiwaggCv4UOdzDWKubglRTJ/1SGFmCcTo9rLf+r6+6NHViyMw8bKQXTkKKLs0fNMqrB+SbsnO9LSbNUiCEwsNfsahy1GOKkhTTQ0mjCmPJuxPyOP4XG51/Tq/icOCXrFPFntRV5oBZigRCJKqhG0w5iktGpkAq3phnw==;8woNR/kGsBY1ecNZf/5fCA=="
 ---

@@ -1,28 +1,32 @@
 ---
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
-publishedDateTime: 2022-04-29T12:01:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
+publishedDateTime: 2022-04-29T12:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
 type: article
-quality: 66
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Autos
+  - AI
+  - AI in Robotics
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
+    width: 400
+    height: 215
     isCached: true
 
 related:
@@ -71,22 +75,6 @@ related:
     quality: 98
     images:
       - url: "https://www.zdnet.com/a/img/resize/4cca0dbe1960e7dd0607cc79f1998ba73a8f7bbf/2022/04/28/91b6e013-2d7f-4256-a0a2-4ff6c79c7a35/baidu-apollo-passenger-ride.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Robotaxi firm Pony.ai granted first taxi licence in China"
-    excerpt: "Pony.ai has announced it has been granted a taxi licence in China, a first for an autonomous driving company in the Middle Kingdom. The permit will allow Pony.ai to operate 100 autonomous vehicles as traditional taxis in Nansha,"
-    publishedDateTime: 2022-04-26T01:23:00Z
-    webUrl: "https://www.zdnet.com/article/robotaxi-firm-pony-ai-granted-first-taxi-licence-in-china/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/robotaxi-firm-pony-ai-granted-first-taxi-licence-in-china/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robotaxi-firm-pony-ai-granted-first-taxi-licence-in-china/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4fd6f50fac610d3c30415ed5a61b236969770239/2022/04/25/eee3bfaa-c52f-4a5c-a3df-6239564d74ed/pony-ai.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 800
         isCached: true
@@ -236,6 +224,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+    publishedDateTime: 2022-04-30T19:01:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/visionnav-robotics-raises-$80m-in-c+-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 46
   - title: "Self-driving startup Pony.ai bags commercial taxi licence in China"
     excerpt: "Chinese startup Pony.ai, established in 2018, has been running a robotaxi service in Beijing after it received a permit in November 2021. Now, it has received a commercial taxi licence, a first for an autonomous driving company in China,"
     publishedDateTime: 2022-04-26T09:51:00Z
@@ -344,6 +341,6 @@ related:
         height: 720
         isCached: true
 
-secured: "8ijooVNaDSmg0llZNYpDqymYBOP+h8dn6jRaxUZM7VcU7k/pXYpYPlYHHWjM0B7rU7F8SH+2g4tnuUJx2gqHLfnOueMn8hgvLZpouTYmFD88IsK9wp4POmuRhi7KyYkmyQhqLltQbXeTnYj+fEeXCJhonn27hYPv8lLQSWwOGkdwYaxEV8Okyeo6wNgkIQstcrOXk91RM0Z3qO/Quf2wRny9Pu6F4ISWdYteg0euyPu5OYfUfJpMQrH8leYO9+2g6Wwneyfvtv5zuE4YF589GaxrhU2Av36g2xOtbgR58Ti1+FiNp0PSZ5nH1h7clRNtjOZkXIGd70SYANLuCDEBFxKnTlM1JPVk/kynvBhOJsM=;EifoZunf3Ju4gcG7ODUxbw=="
+secured: "NXASJpawRP6vFXElhmhuwpHo0bDk3zxiucC5IA8+C1o7h9123REh0sroo48sj/Q0ha24PsRjBCIZyDQ2I/lUKX93q3Ydq9JxAd+VeSGprtLiMTUbHj8BoYyE7OjPW7+qIIEKNB1GY0h2TZ7q6Rvaes+CipHA+859j8zLdcVcSg/cBO+3TZTVqIueojvQG7fogi0wXBIb9b134AMBuZ4Hskg4q+TYsvjPMpACbTrBH5o6+vy3k7lu74kmV8tBz3qmq8wSct/s90AGg2Mys+Es9geExIcrakzeg/oxQkQhpCl+xwHpwF5cLgFhl944OoOx+UEmQDP5SBxCp11jg/6DHRxjtpPkCtZgxOrczVjroDg=;jogVBPlEegkI5Wwm8U24Qw=="
 ---
 

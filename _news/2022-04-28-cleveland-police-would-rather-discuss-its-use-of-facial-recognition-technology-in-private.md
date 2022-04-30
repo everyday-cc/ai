@@ -9,7 +9,7 @@ ampWebUrl: "https://www.clevescene.com/news/cleveland-police-would-rather-discus
 cdnAmpWebUrl: "https://www-clevescene-com.cdn.ampproject.org/c/s/www.clevescene.com/news/cleveland-police-would-rather-discuss-its-use-of-facial-recognition-technology-in-private-38828899?media=AMP+HTML"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "City Briefing: Northampton councilors to revisit facial recognition technology ordinance"
+    excerpt: "NORTHAMPTON — As local activists continue their push to strip funding from the Northampton Police Department, the City Council plans to meet Monday night to begin its review of the ordinance that bans the use of facial recognition technology. During the ..."
+    publishedDateTime: 2022-04-30T18:02:00Z
+    webUrl: "https://www.gazettenet.com/City-Briefing-Facial-recognition-review-ranked-voting-on-Northampton-s-agenda-46160419"
+    type: article
+    provider:
+      name: Daily Hampshire Gazette
+      domain: gazettenet.com
+    quality: 10
 
 secured: "oki4utHAZ5On8+zwLhiCYGKUxNkW4STyX2X61LQYz8Il3G4Qu60548N3a9zFHdeFm1F/K4Twf77DQ4fotjM5trbht9jAki9Mfqqof2QEnwmsIX7PW7NwoN5EyHmyXGfYwc8aYIMOm9f4ceNnO+o35V1XY6A61bykh7ddjjgMr0+PcOX08AL1G9duOmSvPUkDO9LoHm6bBtkJLr8cF08LmiNWmM1HHUhuh7xTBenyxAZ54sxnB4V23vqi7HCxpPJ+jAX2R7E0AaBeaWJtjPfZgfc/LiwL/2ig3pv0/tcwWkH5ewyLXpBGlA8IXi8oi6xtr/qUcE1ORQDYquves+WSPq/9wT6gf2sPaTn7CmHTa9pg7PHs8kaWD0AoWw+bDplYzOdecN5JDVkXBdea9s3uEOocIVtD9a5iWRWZ1xB4glcbGPCmLwUCI3o5FKR49MGH7Gl10ApVDOa4ZTRBY2yIuIcyAEzj3jN6pFP+QHxM/TVjBn0ge3xBx92gBA5IiX85aV3/vmTWRAlTnK3oLu+uMw==;Rrs3DEx6k7PWBCwf9jlR7Q=="
 ---

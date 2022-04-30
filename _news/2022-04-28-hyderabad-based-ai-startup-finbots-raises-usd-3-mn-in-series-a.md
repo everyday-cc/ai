@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
+    excerpt: "Led by 468 Capital, the investment will drive team and product growth to further establish Synthesis AI as the leader in synthetic dataSAN"
+    publishedDateTime: 2022-04-28T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Finbots.AI raises Series A funding for AI credit risk platform"
     excerpt: "Singaporean AI-powered credit risk specialist company Finbots.AI has raised $3 million in Series A round from sole investor Accel. The transaction marks the first external investment raised by Finbots."
     publishedDateTime: 2022-04-28T13:58:00Z
@@ -212,15 +221,15 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 23
-  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
-    excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
-    publishedDateTime: 2022-04-28T12:39:00Z
-    webUrl: "https://wgnradio.com/business/press-releases/cision/20220428DC39024/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai/"
+  - title: "Finbots.AI Raises $3M From Accel In Series A"
+    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
+    publishedDateTime: 2022-04-30T19:27:00Z
+    webUrl: "https://menafn.com/1104139051/FinbotsAI-Raises-3M-From-Accel-In-Series-A&source=138"
     type: article
     provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 18
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
   - title: "AI Medical Service Inc. Announces 8 Billion JPY (US$70 M) Series C Financing Led by SoftBank Vision Fund 2 (SVF2)"
     excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech company using deep learning technology to develop endoscopic AI, has announced 8 billion JPY (US$70 million) of financing led by SoftBank Vision Fund 2 (SVF2) and joined by existing investors Globis Capital Partners,"
     publishedDateTime: 2022-04-26T07:00:00Z

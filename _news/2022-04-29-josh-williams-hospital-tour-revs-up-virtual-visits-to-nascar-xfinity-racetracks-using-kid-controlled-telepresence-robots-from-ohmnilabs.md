@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Josh Williams Hospital Tour Revs Up Virtual Visits to Nascar Xfinity Racetracks Using Kid-Controlled Telepresence Robots from OhmniLabs"
-excerpt: "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread of bacteria and viruses is paramount. Williams was able to ..."
-publishedDateTime: 2022-04-29T14:05:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/covid-technology-sports-health-josh-williams-d633fa6a2b549b79dd7f18d06dbd592a"
-webUrl: "https://apnews.com/press-release/PRNewswire/covid-technology-sports-health-josh-williams-d633fa6a2b549b79dd7f18d06dbd592a"
+excerpt: "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread ..."
+publishedDateTime: 2022-04-29T14:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled-telepresence-robots-from-ohmnilabs-1031402825"
+webUrl: "https://markets.businessinsider.com/news/stocks/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled-telepresence-robots-from-ohmnilabs-1031402825"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -36,6 +40,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "rLfqaVW9X0/boBhz7Oj3tkAmh7Ymm30xmhus3kNw4bSZhxClLD/z6Zwfr5otennSoPu+oJIRDNPcepHNaQ0tZrhtsnapg5WFdQJE75n+3AwbHSe0tbKIQcHcQoQXz5Iu2Bkq1woKH44evyNxO+jjyRV0vEQGsjoGgTDzuML/0tdesgzqX/17NFwy/hlwQI5ppyMo+F1V0rgMqi7QtFhQbkKXMQhAmidejB/YEoy6OaFS+mvan31AIZs3QO60KIrWeal0nFfD+szX1cVyZoGWTO0fTA1aw3ipYihzs7zBfPOMwhvwVnwxww9CnMpydv9nrhtUa0n89+16MEYbTalBP8/NZmMsKa5l9aTDUSG4h1E=;nakOsm2ahwDa6IQ5G+SIGg=="
+secured: "Y7dCDCFtRZ3osQAiQPFnaxWVVsD4gnrfC/ft/azPGhyN4BBqp3uKhxcCusVcUczWhH0Q1t7ug+7W1zMp/GcZuiBQhMyfUzlzQVd/WxzZFELEhqBHKafIY1iu7G9bd3fqpGr+WGVpSSh9Jswk9akBI5bw6pOVUAoyOPoXSnk+WaQHOvWxSr6IgNpX7BhKZG+Ob720jUQ46el4tNAnbrAm1uliP4PuabiQ5sqihbf4l3cVmN2AEyVb+K0VhCKGfC0qQWnReMM1wANruH9iEFznBLBHvjvDq0IzswNvGPeAsXD5KCMCf798AwKh+JKOYx6TRry35zVSvpPJFCLGGexfh3g/OWmwUyy0c65lshM8tOA=;3oPWYpB+QQZ6nJ3HuAjESA=="
 ---
 

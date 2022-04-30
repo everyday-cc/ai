@@ -19,17 +19,17 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Mobile Artificial Intelligence (AI) Market Latest Innovations, Future Scope And Market Trends 2021 – 2031"
-    excerpt: "Rise in the use of artificial intelligence (AI) in smartphones is projected to drive the sales growth in the global mobile artificial intelligence (AI)"
-    publishedDateTime: 2022-04-26T04:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-ai-market-latest-innovations-future-scope-and-market-trends-2021-2031"
+  - title: "AI in Travel and Hospitality Market Outlook, Competitive Landscape and Forecasts to 2031"
+    excerpt: "Artificial Intelligence (AI) is developing, making it more attractive and reliable as a business solution. Businesses in the travel and hospitality sector"
+    publishedDateTime: 2022-04-27T07:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-travel-and-hospitality-market-outlook-competitive-landscape-and-forecasts-to-2031"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 35
+    quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/29c1054a6cf588e36169f95b90f75465d7960b5f-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
         width: 600
         height: 337
         isCached: true

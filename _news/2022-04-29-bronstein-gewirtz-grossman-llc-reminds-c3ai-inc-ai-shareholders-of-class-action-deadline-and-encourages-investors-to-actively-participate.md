@@ -7,7 +7,7 @@ originalUrl: "https://www.valdostadailytimes.com/news/business/bronstein-gewirtz
 webUrl: "https://www.valdostadailytimes.com/news/business/bronstein-gewirtz-grossman-llc-reminds-c3-ai-inc-ai-shareholders-of-class-action-deadline-and/article_a3a49384-7dc2-5595-ab7c-db1dd7417045.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "C3.AI DEADLINE ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action Lawsuit Has Been Filed Against C3.ai, Inc. and Encourages Inve"
-    excerpt: "NEW YORK--(BUSINESS WIRE)--#Action--Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, reminds investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) in the ..."
-    publishedDateTime: 2022-04-29T12:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=655992"
+  - title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
+    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-04-30T20:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26918993/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadl"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26918993"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26918993"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Bronstein, Gewirtz & Grossman, LLC Reminds c3.ai, Inc. (AI) Shareholders of Class Action Deadline and Encourages Investors to Actively Participate"
     excerpt: "Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC notifies investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3&CloseCurlyDoubleQuote; or “the Company&CloseCurlyDoubleQuote;) (NYSE: AI) and certain of its officers ..."

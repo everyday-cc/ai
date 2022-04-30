@@ -65,6 +65,20 @@ related:
       name: Nippon
       domain: nippon.com
     quality: 34
+  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
+    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
+    publishedDateTime: 2022-04-26T07:00:00Z
+    webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+    type: article
+    provider:
+      name: WTVW
+      domain: tristatehomepage.com
+    quality: 33
+    images:
+      - url: "https://i0.wp.com/www.tristatehomepage.com/wp-content/uploads/sites/92/2020/08/drunk20driving20arrest_1498485518795_23176115_ver1.0.jpg?w=2000&#038;ssl=1"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "1st film written by Japanese AI bot takes movie-making to next phase"
     excerpt: "Writer's block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the first film written by a Japanese AI bot is aiming to demonstrate what it can do at a major short film festival this year."
     publishedDateTime: 2022-04-29T21:34:00Z
@@ -74,15 +88,15 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 17
-  - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
-    excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-    publishedDateTime: 2022-04-26T07:00:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+  - title: "Japanese firm develops AI system to catch shrine box donation thieves"
+    excerpt: "\"We went through numerous tests to aim for creating a low-cost AI system that is also compatible with other firms' cameras,\" said Takuya Kanematsu, 44, president of the company. A shrine in Nagoya's Minato Ward is considering introducing the system after ..."
+    publishedDateTime: 2022-04-30T21:32:00Z
+    webUrl: "https://japantoday.com/category/crime/japan-firm-develops-ai-system-to-catch-shrine-box-donations-thieves?comment-order=popular"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 13
+      name: Japan Today
+      domain: japantoday.com
+    quality: 17
   - title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
     excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
     publishedDateTime: 2022-04-27T13:28:00Z

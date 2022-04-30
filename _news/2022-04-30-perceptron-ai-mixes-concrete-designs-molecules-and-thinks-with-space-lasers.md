@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/"
 ampWebUrl: "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/"
 type: article
-quality: 85
-heat: 86
+quality: 87
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/04/Step-6_AI-Sustainable-Concrete-Project-Image.jpg?w=1024"

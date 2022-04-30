@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -62,7 +63,7 @@
       "originalUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -685,7 +686,7 @@
       "originalUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": [
         {

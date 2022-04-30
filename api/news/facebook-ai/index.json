@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-30-perceptron-ai-mixes-concrete-designs-molecules-and-thinks-with-space-lasers.md",
+      "title": "Perceptron: AI mixes concrete, designs molecules, and thinks with space lasers",
+      "excerpt": "This column aims to collect some of the most interesting recent discoveries and papers in the field of artificial intelligence ... the team created a neural network that could predict material ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
+      "originalUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Step-6_AI-Sustainable-Concrete-Project-Image.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
+      "publishedDateTime": "2022-04-30T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-meta-materials-facebook-using-ai-to-design-green-concrete.md",
       "title": "Meta materials: Facebook using AI to design green concrete",
       "excerpt": "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ...",
@@ -1348,49 +1401,6 @@
       "provider": {
         "name": "SiliconIndia",
         "domain": "siliconindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp.md",
-      "title": "BYJU'S appoints ex-Facebook tech lead Majid Yazdani as VP",
-      "excerpt": "Yazdani previously worked as a staff scientist at Linkedin and at the Idiap Research Institute in Switzerland. He joined Facebook AI (Meta AI) in 2018 to construct neural networks with ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp/90351698",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp/90351698",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-90351698,imgsize-16040,width-1200,height-628,overlay-etcio/byju-s-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp/90351698",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp/90351698",
-      "publishedDateTime": "2022-03-21T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

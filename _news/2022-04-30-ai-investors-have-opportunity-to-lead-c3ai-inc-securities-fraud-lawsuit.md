@@ -61,13 +61,13 @@ related:
         height: 225
         isCached: true
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-    excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to ..."
-    publishedDateTime: 2022-04-29T03:44:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+    excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ..."
+    publishedDateTime: 2022-04-29T06:40:00Z
+    webUrl: "https://www.news10.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
+      name: WTEN
+      domain: news10.com
     quality: 15
   - title: "AI LAWSUIT: The Law Offices of Vincent Wong Notify Investors of a Class Action Lawsuit Involving C3.ai, Inc."
     excerpt: "New York, New York--(Newsfile Corp. - April 29, 2022) - The Law Offices of Vincent Wong announce that a class action lawsuit has commenced in the on behalf of investors who purchased C3.ai, Inc. (\"C3.ai, Inc.\") (NYSE: AI). This lawsuit is on behalf of a ..."

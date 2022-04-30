@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T23:13:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-predicts-the-start-mental-illness-fitbit-wearable"
 webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-predicts-the-start-mental-illness-fitbit-wearable"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Psychology Today

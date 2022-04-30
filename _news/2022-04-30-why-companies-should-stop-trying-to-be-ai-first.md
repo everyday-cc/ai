@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-companies-should-stop-be-ai-first"
 webUrl: "https://thenextweb.com/news/why-companies-should-stop-be-ai-first"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

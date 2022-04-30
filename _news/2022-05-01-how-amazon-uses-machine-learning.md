@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-30T19:37:00Z
 originalUrl: "https://www.geeksforgeeks.org/how-amazon-uses-machine-learning/"
 webUrl: "https://www.geeksforgeeks.org/how-amazon-uses-machine-learning/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: GeeksforGeeks

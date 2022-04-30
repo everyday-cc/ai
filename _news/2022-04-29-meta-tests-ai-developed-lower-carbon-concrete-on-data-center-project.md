@@ -69,6 +69,15 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Meta AI and university researchers discover stronger, more carbon-friendly concrete formulas"
+    excerpt: "Researchers from the University of Illinois have teamed up with Meta AI to develop an artificial intelligence to create, refine, and test new formulas resulting in higher concrete strengths while simultaneously lowering carbon requirements. The team's ..."
+    publishedDateTime: 2022-04-30T13:45:00Z
+    webUrl: "https://www.techspot.com/news/94413-meta-ai-university-researchers-discover-stronger-more-carbon.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 36
   - title: "Meta is using AI to create low-carbon concrete for its data centres"
     excerpt: "Meta has used AI to develop concrete that emits 40 per cent less carbon, but researchers say that other concrete mixtures can already achieve that"
     publishedDateTime: 2022-04-27T19:00:00Z

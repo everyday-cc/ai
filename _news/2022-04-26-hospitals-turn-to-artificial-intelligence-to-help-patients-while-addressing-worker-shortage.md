@@ -1,19 +1,27 @@
 ---
 category: news
 title: "Hospitals turn to artificial intelligence to help patients while addressing worker shortage"
-excerpt: "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled."
-publishedDateTime: 2022-04-25T19:14:00Z
-originalUrl: "https://www.fox13now.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
-webUrl: "https://www.fox13now.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+excerpt: "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled. Now the health care field is looking into it to ease the worker shortage and shorten hospital stays. A Wall Street Journal ..."
+publishedDateTime: 2022-04-25T20:19:00Z
+originalUrl: "https://www.koaa.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+webUrl: "https://www.koaa.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+ampWebUrl: "https://www.koaa.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
+cdnAmpWebUrl: "https://www-koaa-com.cdn.ampproject.org/c/s/www.koaa.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
 type: article
 
 provider:
-  name: KSTU
-  domain: fox13now.com
+  name: KOAA 5
+  domain: koaa.com
 
 topics:
   - AI
 
-secured: "xKXUzzH269dVwbExwMwHSmFKuJO9AV1flf02GXg45LCa348yujgCqNwHcDJRFT4rH1kBZ5OZhcN0A7exsK/T2xlVd+JBxTyvc+lqlVnupQxdPSWtPZ7BR0yuCJAJMYjGHlOYedR47UvF+rNRbBz5ZmW85aMW+pEvVY1d1ZjnHZZoRae9LbgwNrriF2n11xA5ihOc5rvt4UEqhSnYqUsaMmICGSNTtRY5Shj35vbh985Accno8fDbY3ut8Ch9VYhnWYuv1BnLHChldYch2d7LDf9Eh+AX8ryfRMztfHMom/IewCDnINIwyOWcggbYiE0GHJRT8u9LgIDBOqeszIjpn8aqOPUeRd/AeLX0Smx1YVVJ7fT+DY+cuhPlWsHqJ+ud99ak3omjyjlBVaA59p6jRG/xdJAGLfyBggrtRwnXvScKiQh0K0ue3EVL6ZSbZIneI+8x7579m0drqZ1gaBSWd/7qiX3+9fBn/yDEQKBR0nLHqZ0sXAhlFGYHO08dLy/nt8d0vcjVFX1vqrEkWSn3LQ==;evijk7CDQWkG9eYjaCJo1Q=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a70b74b/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F39%2F0d%2Fd723ccff45b991094268f06a22e3%2Fhospital-doctor-generic.png"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "5GVYmNegI0nrpk2rfGFiCbq62m2uYTUpN1hmCYZAaBzd8sVzDsLoYFCe89f7atjk2FWnaZOBqBVVki48+qyqVd8S/yUPxDqK2X5u7gQz3TmPinoCJPcELthDqSMDLWpGPEWw+MeafjC/89rtr/oziH8368jKlQUJuarkbFihva//THPfWRTgKl7w3PSGOdSwpAmRtyh5PDQzVC05l3nWO0mdRXcO5GobKrnmIAHz/4NTc2RBbNT1U3HmekT9lEbllZH1Spihq1f2xIv8wvjmQsqRtHh/opYdjTQbrd8/k1eoVSHtoQoEe50FiwbkjPX0TesBWx0gfRNJHeAa5Kvl1j4ovg/NeD0xfBV6pPCO9AI=;BT5xRk+rp8cc+uc6942aGQ=="
 ---
 
