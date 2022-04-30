@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-30-perceptron-ai-mixes-concrete-designs-molecules-and-thinks-with-space-lasers.md",
+      "title": "Perceptron: AI mixes concrete, designs molecules, and thinks with space lasers",
+      "excerpt": "This column aims to collect some of the most interesting recent discoveries and papers in the field of artificial intelligence ... the team created a neural network that could predict material ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
+      "originalUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Step-6_AI-Sustainable-Concrete-Project-Image.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
+      "publishedDateTime": "2022-04-30T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-30-how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score.md",
       "title": "How Fintech Companies Are Using AI, Machine Learning To Create Alternate Lending Score",
       "excerpt": "One may well credit Artificial Intelligence and Machine Learning, which help in creating a favourable credit environment for a broader range of users, thus, providing means of an alternative lending score that doesn’t rely solely only on an individual ...",
@@ -580,7 +632,7 @@
       "originalUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1378,49 +1430,6 @@
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-neural-network-model-helps-predict-site-specific-impacts-of-earthquakes.md",
-      "title": "Neural network model helps predict site-specific impacts of earthquakes",
-      "excerpt": "Using data on microtremors in Japan, a neural network model can estimate site ... Seismological Society of America introduced a novel artificial intelligence (AI)-based technique for estimating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T20:14:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
 webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Psychology Today

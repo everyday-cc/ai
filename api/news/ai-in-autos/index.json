@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-28-self-driving-tesla-crashes-into-15-million-private-jet-while-being-summoned.md",
+      "title": "Self-driving Tesla crashes into £1.5 million private jet while being ‘summoned’",
+      "excerpt": "One of the self-driving features on a Tesla car is known as ‘smart summon’ and allows the owner to call the car remotely from around 200 feet. Unfortuantely, there’s sometimes an expensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
+      "originalUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_101095692.jpg?quality=90&strip=all&zoom=1&resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
+      "publishedDateTime": "2022-04-28T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too.md",
       "title": "AI Ethics Wrestling With The Inevitably Of AI Accidents, Which Looms Over Autonomous Self-Driving Cars Too",
       "excerpt": "AI accidents of all kinds are coming and we need to anticipate the impacts, along with trying to mitigate the adverse outcomes. Examples shown via autonomous self-driving cars.",
@@ -1368,49 +1411,6 @@
         "AI in Marketing",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-self-driving-taxis-txai-to-transport-passengers-on-yas-island.md",
-      "title": "Self-driving taxis 'TXAI' to transport passengers on Yas Island",
-      "excerpt": "Bayanat, which specialises in geospatial systems, data analysis and artificial intelligence, recently announced its new fleet of driverless vehicles under the TXAI brand, which represents the first fully-automated taxis in the UAE.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/self-driving-taxis-txai-to-transport-passengers-on-yas-island-r712qtb8",
-      "originalUrl": "https://www.zawya.com/en/business/self-driving-taxis-txai-to-transport-passengers-on-yas-island-r712qtb8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:NmM1ZGI0Y2EtYmMxZi00:MGI5ODlk/190918054509fqnb-jpg.jpg?f=16%3A9&q=0.75&w=3840",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

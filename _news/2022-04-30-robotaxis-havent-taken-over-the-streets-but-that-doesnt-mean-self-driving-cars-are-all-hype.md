@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-30T11:20:00Z
 originalUrl: "https://www.cnbc.com/2022/04/30/robotaxis-havent-taken-over-the-streets-but-that-doesnt-mean-its-all-hype.html"
 webUrl: "https://www.cnbc.com/2022/04/30/robotaxis-havent-taken-over-the-streets-but-that-doesnt-mean-its-all-hype.html"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: CNBC

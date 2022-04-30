@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-30T13:40:00Z
 originalUrl: "https://venturebeat.com/2022/04/30/deep-learning-is-bridging-the-gap-between-the-digital-and-the-real-world/"
 webUrl: "https://venturebeat.com/2022/04/30/deep-learning-is-bridging-the-gap-between-the-digital-and-the-real-world/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: VentureBeat

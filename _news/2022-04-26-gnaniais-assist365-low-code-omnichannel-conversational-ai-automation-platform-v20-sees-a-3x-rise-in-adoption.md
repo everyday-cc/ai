@@ -25,6 +25,17 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Gnani.ai's assist365 Low-code Omnichannel Conversational AI Automation Platform V2.0 Sees a 3x Rise in Adoption"
+    excerpt: "Gnani.ai, a global frontrunner in Conversational AI and customer service automation today announced a 3x rise in uptake for the new version of the assist365 low-code omnichannel automation platform. assist365 is Gnani."
+    publishedDateTime: 2022-04-27T02:24:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220426/3935392.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+
 secured: "r1d7bFrrW8wc8KNLhAEOewLWV1gdlYujR08aLjyfNao/EvI8yn1EHKfR0UbJ6csuVgWKTzn9epMv5Wugp9j0/oUDGZRWlJRYMo/RgntzwIYgkkp5jusXz4k2kU0v9tasYGz8Unjoksc6kQ5IDyVZPM43Vz0uPXRzg4OAtNc7arYs6r12uRJSrG/c0f4YqsfQR4UUrtrMR2UBhwymbu8JYf1/3+vXXxh33qSCPrX3wmxE1JPpvCfFA1nA9mj+l2ulm/2aT+8DEQiiRJ8oGthW4Q9Tse8k8KUEbopWygAuhs65XSfcEaJlgST+8E4ZTFpoC5heMvcur+udJCquPPTz3f/14buHg24pk/gjBqK6SQIWkg5dmPm9Em/oWF9Ezon2RqgAaKFrWpjhlDTLpsIWxzK3N05jWKktL/RwgeA4oPp1ipKessElhwPpqFVGv5YqU0+R95+02Fwg4KhhupIPVpIvZPc7XQDzh0reLjrIfzH8rVrhqBp7AER4KSGKxfsrNJXlmBvldBx3WaFHfDQDTw==;hsl1TAAnWDbgdv+EapQ4eA=="
 ---
 

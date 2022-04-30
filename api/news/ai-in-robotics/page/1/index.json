@@ -237,7 +237,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -290,7 +290,7 @@
       "originalUrl": "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1224,6 +1224,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-20-soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging.md",
+      "title": "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging",
+      "excerpt": "and more and Soft Robotics' mGripAI platform that uses ultra-fast 3D vision, artificial intelligence, and soft robotic grasping to enable picking of irregular and delicate food items directly from ...",
+      "sourceUrl": null,
+      "webUrl": "https://wreg.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
+      "originalUrl": "https://wreg.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png",
+          "width": 800,
+          "height": 268,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WREG",
+        "domain": "wreg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation.md",
       "title": "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation",
       "excerpt": "\"We are excited to have GrayMatter's Smart Robotic Sanding solution selected for the RBR50 award\" said Ariyan Kabir, CEO. \"With a global shortage in surface finishing labor, manufacturing reshoring in the U.",
@@ -1253,40 +1296,6 @@
       "provider": {
         "name": "KRQE",
         "domain": "krqe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging.md",
-      "title": "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging",
-      "excerpt": "Today Soft Robotics Inc. announced it has teamed with Quest and Ossid to offer a robotic handling and packaging solution to the food industry powered by Soft Robotics' mGripAI ™ technology. The total solution includes Quest's primary product handling system utilizing a FANUC robot designed to load,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wjbf.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
-      "originalUrl": "https://www.wjbf.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WJBF",
-        "domain": "wjbf.com",
         "images": null,
         "publishers": null,
         "authors": null

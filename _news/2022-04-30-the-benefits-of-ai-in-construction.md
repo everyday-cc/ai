@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-29T20:41:00Z
 originalUrl: "https://www.enr.com/articles/54037-the-benefits-of-ai-in-construction"
 webUrl: "https://www.enr.com/articles/54037-the-benefits-of-ai-in-construction"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/pipa-and-mars-inco
 webUrl: "https://markets.businessinsider.com/news/stocks/pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence-1031385335"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "KnowDis and IIT Delhi collaboration to accelerate drug discovery using AI"
+    excerpt: "The confluence of KnowDis & IIT Delhi brings a multidisciplinary team together to accelerate drug discovery with AI. What happens when something goes wrong with the brain? Because the brain holds ..."
+    publishedDateTime: 2022-04-30T13:24:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220430/3936624.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
   - title: "DiA Imaging Analysis Collaborates with Intel Corporation to Accelerate Processing Time of its AI-based Cardiac Ultrasound Software in Hospitals"
     excerpt: "DiA's AI-based software optimized with the Intel Distribution of OpenVINO toolkit enhances cardiologists' decision-making process and workflow BE'ER SHEVA, Israel, April 26, 2022 /PRNewswire/ -- DiA I"
     publishedDateTime: 2022-04-26T13:30:00Z

@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-02-02-how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits.md",
+      "title": "How Telecom Companies Can Leverage Machine Learning To Boost Their Profits",
+      "excerpt": "Businesses can use specific capabilities, avatars or applications of machine learning and AI for this purpose. AI and Predictive Analysis: For Optimizing Global Telecom Networks Mobile networks are one of the prime components of the ever-expanding internet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61fac087f2fa9e79cd435f1d/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/amp/",
+      "publishedDateTime": "2022-02-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-itu-unveils-ai-platform-to-hasten-community-development.md",
       "title": "ITU unveils AI platform to hasten community development",
       "excerpt": "yesterday launched an artificial intelligence (AI)-powered platform, which seeks to step up global collaboration on the use of AI to drive sustainable development. The AI for Good Neural Network ...",
@@ -1353,51 +1405,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
-      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
-      "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

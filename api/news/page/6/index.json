@@ -2,6 +2,246 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-24-leave-space-exploration-to-the-robots-says-new-book.md",
+      "title": "Leave Space Exploration To The Robots, Says New Book",
+      "excerpt": "Compelling new book argues that we really need to forget about astronauts and instead renew our focus on robotics for the continued exploration of space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
+      "originalUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6264f17889d41edd0830febc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
+      "publishedDateTime": "2022-04-23T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-24-dangerous-malware-is-up-86-heres-how-ai-can-help.md",
+      "title": "Dangerous malware is up 86%: Here’s how AI can help",
+      "excerpt": "The need for AI-powered tools is only going to become more urgent as high-severity malware becomes more prevalent.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/23/dangerous-malware-is-up-86-heres-how-ai-can-help/",
+      "originalUrl": "https://venturebeat.com/2022/04/23/dangerous-malware-is-up-86-heres-how-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1202357522.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/23/dangerous-malware-is-up-86-heres-how-ai-can-help/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/23/dangerous-malware-is-up-86-heres-how-ai-can-help/amp/",
+      "publishedDateTime": "2022-04-23T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-24-npaw-introduces-natural-language-video-insights-search.md",
+      "title": "NPAW introduces natural language video insights search",
+      "excerpt": "NPAW has introduced NaLa, a natural language-based video insights search tool. Integrated into the NPAW Suite of video analytics solutions, NaLa leverages ML and natural language processing to handle data search requests based on simple,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltvnews.net/?p=38148",
+      "originalUrl": "https://www.digitaltvnews.net/?p=38148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital TV News",
+        "domain": "digitaltvnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-commerces-bis-can-help-stop-chinas-quest-for-ai-dominance.md",
+      "title": "Commerce’s BIS Can Help Stop China’s Quest For AI Dominance",
+      "excerpt": "AI will transform militaries through innovations in intelligence, surveillance, reconnaissance, logistics, command and control capabilities, weapons systems, and so on. Last year a landmark U.S. National Security Commission on Artificial Intelligence (NSCAI) report found,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/",
+      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62642f15dba64174ee30febc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/",
+      "publishedDateTime": "2022-04-23T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai.md",
+      "title": "The Innovative Ways The United States Space Force Is Leveraging Data And AI",
+      "excerpt": "Speaking at an upcoming AI in Government event on May 19, 2022, Dr. Lisa Costa, Chief Technology & Innovation Officer of the United States Space Force will be sharing insights in how the US Space Force is delivering the first fully digital service,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6264256f61e2dd81de312206/0x0.jpg?format=jpg&crop=2400,1350,x0,y240,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
+      "publishedDateTime": "2022-04-23T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022.md",
       "title": "AWS CMO Rachel Thornton on the future of customer-obsessed marketing in 2022",
       "excerpt": "Customer obsession is core to AWS, and being data-driven in everything ... Experimenting with technology, such as machine learning (ML) or artificial intelligence (AI), in marketing can help ...",
@@ -928,229 +1168,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-artificial-intelligence-helps-physicians-better-assess-the-effectiveness-of-bladder-cancer-treatment.md",
-      "title": "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment",
-      "excerpt": "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery).",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-29.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp",
-      "publishedDateTime": "2022-04-22T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-guardforce-ai-announces-initial-us-robotics-solutions-rollout.md",
-      "title": "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout",
-      "excerpt": "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited ('Guardforce AI' or the 'Company') (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272502602/guardforce-ai-announces-initial-us-robotics-solutions-rollout",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272502602/guardforce-ai-announces-initial-us-robotics-solutions-rollout",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1650525227063.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international-visitors.md",
-      "title": "State to use facial recognition at Honolulu Airport to speed up travel time for international visitors",
-      "excerpt": "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening",
-      "sourceUrl": null,
-      "webUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
-      "originalUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/4/06/40611144-6dcb-11ec-9c2b-b794470070e4/61d4fbcdbb7ed.image.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
-      "cdnAmpWebUrl": "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
-      "publishedDateTime": "2022-04-21T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KITV",
-        "domain": "kitv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing.md",
-      "title": "Taiwan Unicorn Appier Bets On AI-Driven Software For Digital Marketing",
-      "excerpt": "Academics-turned-entrepreneurs Yu Chih-han and Winnie Lee led Appier to become Taiwan’s first listed unicorn. Now they're betting on global demand for the marketing firm’s AI insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62610776ca5e4f77243c3a02/0x0.jpg?format=jpg&crop=2359,1328,x0,y141,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies.md",
-      "title": "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies",
-      "excerpt": "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26754709",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26754709",
-      "publishedDateTime": "2022-04-21T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -174,6 +174,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 16
+  - title: "Medical Artificial Intelligence Market, Global Outlook and Forecast 2022-2028"
+    excerpt: "The global key manufacturers of Medical Artificial Intelligence include Ali Health, Ping An Healthcare And Technology Company Limited., Tencent, Tianjin Happy Life Technology Co., Ltd., WeDoctor, Beijing Dongruan Wanghai Technology Co., Ltd., Unisound AI ..."
+    publishedDateTime: 2022-04-30T13:20:00Z
+    webUrl: "https://galleonnews.com/uncategorized/255559/medical-artificial-intelligence-market-global-outlook-and-forecast-2022-2028/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 16
   - title: "Artificial Intelligence Market Analysis Report, Size, Share, Growth, Applications, Technology, Types, and Forecasts Report 2027"
     excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing"
     publishedDateTime: 2022-04-28T11:37:00Z

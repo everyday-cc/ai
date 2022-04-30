@@ -43,7 +43,7 @@ related:
     provider:
       name: Engineering News-Record
       domain: enr.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.enr.com/ext/resources/2022/04/29/The-Benefits-of-AI-In-Construction-cover-image.jpg?height=635&t=1651260664&width=1200"
         width: 900

@@ -28,14 +28,14 @@ images:
 
 related:
   - title: "Josh Williams Hospital Tour Revs Up Virtual Visits to Nascar Xfinity Racetracks Using Kid-Controlled Telepresence Robots from OhmniLabs"
-    excerpt: "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread ..."
-    publishedDateTime: 2022-04-29T14:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled-telepresence-robots-from-ohmnilabs-1031402825"
+    excerpt: "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread of bacteria and viruses is paramount. Williams was able to ..."
+    publishedDateTime: 2022-04-29T14:05:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/covid-technology-sports-health-josh-williams-d633fa6a2b549b79dd7f18d06dbd592a"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "frPOobs3VL03SOS+vHGz3XpMxyX1FwmqpBdQBlf4r47y3mYUQNFaeAoQVQurwTBdsW12f2lLpIyckevndFljb7UNYIPd+OiGU8X45ORUrMh9d+efn5Zv0SSM/0nyE+bkgADxBN0m9Rd5XysdwnuTRsRo8Sim2Hy3zOHhLaw/GMPGp3sxqOVs4wOloPrCK5kjw4EybMU/Z1UTxgqOjTS4VrqGzYINoNXb4S66AFinK9dgH1oJgNpTpb97FLYK3nZjC8VfK+A9DwHAqkyHOugMKYnSyIbUhx6KFjq6InY6asN5Eoue2w5THgVv6Rmkp7Gf1bmhPqFQkConTUr52CN1xNyUel7qTlIe2T8QDgk+PXA=;pn6UFL7ars0jfvfgfFH45w=="
 ---

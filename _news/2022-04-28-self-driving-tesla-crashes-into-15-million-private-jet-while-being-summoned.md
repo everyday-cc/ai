@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-m
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Metro
@@ -43,6 +43,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "How does Tesla's Autopilot fit into the self-driving landscape"
+    excerpt: "CNBC PRO Talks: Special event with Brian Sullivan at the Milken Global Conference Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox, and more info ..."
+    publishedDateTime: 2022-04-30T11:26:00Z
+    webUrl: "https://www.cnbc.com/2022/04/30/how-does-teslas-autopilot-fit-into-the-self-driving-landscape.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 49
 
 secured: "gqMUJsjGyRPleQb8LPbiryRMWfIeh3unRgvHKaqvPQ6iEtsdqwjPXZd+eU24Rq8a4DKnc+piHQB6bTcDPQ40twPY13yAE7DiGoEEhLUSDAq4fizN9/HrlY3DKOtCJZohO/nxXwaSeBx6pEiXKSTiUOflKg1RPVzcE9ytOhqvSmC290Hw1+Yi0zx3BeGGCsvKKJj8KDkuqc1MOYXkT9ydhssMY5pK2J14o21VLQ4HaIouWgetdQnRRLEKlpLGF/W0SeIlhyjfY8VzpPEypMeuj+mlfM5y/Xrri9FixBoWxqXSBG3CpwBzIfe6GdE/Pm2oIwtmx/4WJ5SxadQdSH0/0wOUv4lvxG5oYKmcpcYjHAM=;97DXYyI3/2hBOiwT99p2xg=="
 ---

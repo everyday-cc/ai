@@ -1,20 +1,31 @@
 ---
 category: news
-title: "PowerVoice, the world’s best AI voice biometric technology, is recruiting global partners"
-excerpt: "“Panoramic view of Korea Water Resources Corporation’s artificial intelligence control room remotely monitored with the voice recognition function of Power Voice” PowerVoice claimed to have commercialized the world’s first voice recognition service ..."
-publishedDateTime: 2022-04-28T18:46:00Z
-originalUrl: "https://www.digitaljournal.com/pr/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
-webUrl: "https://www.digitaljournal.com/pr/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
+title: "PowerVoice, the world's best AI voice biometric technology, is recruiting global partners"
+excerpt: "Recently it ventured into the fintech and AI markets, which are spotlighted as the 4th industrial revolution sectors. As we enter the era of using home appliances with voice, remittance and payment, instead of controlling the product via touch screens ..."
+publishedDateTime: 2022-04-28T18:55:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
+ampWebUrl: "https://www.benzinga.com/amp/content/26880195"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26880195"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Natural Language Processing
+  - AI in Finance
   - AI
 
-secured: "rCjnuajbXd2NnpJTi/0yFkx/sV1FH2CKHIpzbML4lW8WezXeYNQSo2rfuURomQ7X9XPfQIW+FzJsZPf1oJdZGI0kpT96fE0g8FFqpFEDEa9vrcRox1AvL27Y3iupvlPX9Fkypdh/ISBUFqobb+xf3BjXRFEOa4sqkJXtGsF1S0adwTNMPJ4xapIfHctzpGZ7ttABRijiUhpoM6sDm/PY6CSAnXoz51YLW0TJ6XIzVm+HPHmoDxifnI5sYUMc+8gTtJ+2xNZ38QyJYadGmvzxra3avDJ5OyNaqw5jXgTWf2l4j8AZYHlXWuNAxwX3rruWp+4Gb2e5RwK4hYWUQ5amD28wGs7RnjAsXwrUwNZy9HAMpXbwmjr+TaG+av6dlRuV3UYKSZQis3l+kgleOq7hp4K4nJbbSm20rtqOJlqtzsKS5J7MIuXdhzhicA2tqIskmJ7nl8otKiD38Jvnqv6p7ZpzYNRmuPIRia2SLWT1xEZCQfqOr1KUVCE8WwZh5nBaUyFytdKWM5Cy4fhCUE5vLA==;jtqk8MK/BEVgDTGTjy1oaQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "RS5Y5fY4t8QHv5qrp+dH9UcXpgUMtk5hWjwfshMWKg/uU2uKNGEhm7Rhz21NOZQld1ONKZWwhGcLl+ExhdKYsj1rvZRhyHcWxCaH0lNoe9m4FuavemAp7XgeoSnLLKH/66srlUCpqDAYA/7KPuPCCM420CmhYXhZIDKr2sVTAJjueDmKxtxNvy5eyg8u0i7h7t/yicxA/hDMjfivVZmHuMfPtXZhZSD+Hs+GEbtxGU//6rsknWc/z3q0zrR2l+0u5qNA+nz9RTCnJaTBH15MyixIyBZnE2jkbwmu5cWYRVfnZNViomGFYfIKOq5ai2x1+2EdVM4k7XL99ynXiOP4T6ZIlgJ5lIjTmAMyeX+YWEw=;q5UxbHTxpZtVEKNACLuQ8g=="
 ---
 

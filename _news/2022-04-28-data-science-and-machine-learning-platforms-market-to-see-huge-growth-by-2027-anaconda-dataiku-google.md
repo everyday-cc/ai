@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Embedded AI Computing Platform Market Is Booming Worldwide : Microsoft, Atmel, Synaptics"
-    excerpt: "This press release was orginally distributed by SBWireNew Jersey, USA -- (SBWIRE) -- 04/25/2022 -- Advance Market Analytics published a new research"
-    publishedDateTime: 2022-04-25T21:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/embedded-ai-computing-platform-market-is-booming-worldwide-microsoft-atmel-synaptics"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 47
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/29c1054a6cf588e36169f95b90f75465d7960b5f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence Solutions Market: Ready To Fly on high Growth Trends | Google, Baidu, IBM"
     excerpt: "The Latest Released Artificial Intelligence Solutions market study has evaluated the future growth potential of Global Artificial Intelligence Solutions"
     publishedDateTime: 2022-04-28T12:54:00Z

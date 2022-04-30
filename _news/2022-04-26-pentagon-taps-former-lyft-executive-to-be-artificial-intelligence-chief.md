@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Lyft’s Craig Martell Named DoD Chief Digital and Artificial Intelligence Officer"
-    excerpt: "The establishment of the CDAO is an important step forward in the department's effort to become more innovative."
-    publishedDateTime: 2022-04-25T22:25:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/information-technology/lyfts-craig-martell-named-dod-chief-digital-and-artificial-intelligence-officer/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 47
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2022/04/Screen-Shot-2022-04-25-at-6.23.12-PM.png"
-        width: 756
-        height: 530
-        isCached: true
   - title: "Pentagon hires Lyft machine learning expert Craig Martell as its first chief digital and AI officer"
     excerpt: "Pentagon hires Lyft machine learning expert Craig Martell as its first chief digital and AI officer - SiliconANGLE"
     publishedDateTime: 2022-04-26T03:26:00Z
@@ -69,34 +55,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/martell.jpeg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Pentagon hails Lyft exec Martell for AI post"
-    excerpt: "He brings cutting-edge industry experience to apply to our unique mission set,” Deputy Secretary of Defense Kathleen Hicks said April 25."
-    publishedDateTime: 2022-04-25T21:39:00Z
-    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
-    type: article
-    provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 37
-    images:
-      - url: "https://www.c4isrnet.com/resizer/ek5qZ1EaFDEZYs7eGOy8MAum8ws=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/VL5HV7EVG5BMBONBWAL5NJDKTU.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Pentagon hires first chief digital and AI officer from Lyft"
-    excerpt: "Craig Martell has left his role as head of machine learning for Silicon Valley rideshare company Lyft to be the Pentagon’s first chief digital and artificial intelligence officer. Martell has also held machine learning and AI roles at Dropbox and Linkedin."
-    publishedDateTime: 2022-04-25T19:41:00Z
-    webUrl: "https://www.fedscoop.com/pentagon-hires-first-chief-digital-and-ai-officer-from-lyft/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2020/06/6192861.jpg?w=1200&h=500&crop=1"
-        width: 1200
-        height: 500
         isCached: true
   - title: "Pentagon hails Lyft exec Martell for AI post"
     excerpt: "The Pentagon on April 25 named Dr. Craig Martell as its first chief digital and AI officer, a position that was unveiled late last year and is still being fleshed out. Martell previously worked at Dropbox, where he was also head of machine learning ..."

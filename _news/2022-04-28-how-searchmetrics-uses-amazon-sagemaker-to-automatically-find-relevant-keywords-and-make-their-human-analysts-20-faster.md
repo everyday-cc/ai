@@ -43,20 +43,6 @@ related:
         width: 696
         height: 630
         isCached: true
-  - title: "Host Hugging Face transformer models using Amazon SageMaker Serverless Inference"
-    excerpt: "The last few years have seen rapid growth in the field of natural language processing (NLP) using transformer deep learning architectures. With its Transformers open-source library and machine learning (ML) platform, Hugging Face makes transfer learning and the latest transformer models accessible to"
-    publishedDateTime: 2022-04-25T21:12:39Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-hugging-face-transformer-models-using-amazon-sagemaker-serverless-inference/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/21/ML-8598-image001-1019x630.png"
-        width: 1019
-        height: 630
-        isCached: true
 
 secured: "KtH+42d1HZcL6MQQ4hwfiotQ6DjL7+jtbjOWbT5z603iDFrscNulQrXD7xdpDAUieWYy+yN8urJl6y6kLNSLK6MrnI6hfsSRnK5lSeoCtbaq05hQOAEpmiBftKogMcOXN9ZLpD635Yrf8T1knombYgfOxO/mJ97F5oJ6ZIpQvm+629SrqYf5ooF28XCegWRn/RKj+gatv0lKWWf708SDjkLPIsFhBSmEBTAsGUJ1njflopKQ9avXhrcR3i0JqdbFEZOhkOaml9teC/TInTtBH9HXTru8JTvv4OPCYXTEWJuNf1a9bh4bV/ssLV7OH+VWFjEgeTBhgpt0tvZciSKzNYjJ6iMIbEHK6SuOWT1Fjvo=;2QqhfH0hRZCVbzTSAFCZnA=="
 ---

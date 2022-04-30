@@ -63,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-moovit-turns-data-into-insights-to-help-passengers-avoid-delays-using-apache-airflow-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -783,33 +783,24 @@
     {
       "path": "_news/2022-04-20-aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders.md",
       "title": "AWS Impact Accelerator Launches with $30 Million for Startups Led by Underrepresented Founders",
-      "excerpt": "(NASDAQ: AMZN), today announced it has committed more than $30 million to early stage startups led by Black, Latino, LGBTQIA+, and women founders as part of its new AWS Impact Accelerator. Over the three-year commitment,",
+      "excerpt": "Each startup receives $125,000 cash, up to $100,000 in AWS Activate credits, business and technical guidance, a peer community, and ongoing support to help accelerate their growth Amazon Web Services,",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html",
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/04/20/aws-impact-accelerator-launches-with-30-million-for-startups-led-by",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/04/20/aws-impact-accelerator-launches-with-30-million-for-startups-led-by",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T05:02:00-07:00",
+      "publishedDateTime": "2022-04-19T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

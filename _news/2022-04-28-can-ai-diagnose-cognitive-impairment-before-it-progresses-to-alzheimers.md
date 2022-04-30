@@ -54,6 +54,15 @@ related:
         width: 400
         height: 599
         isCached: true
+  - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market, Global Outlook and Forecast 2022-2028"
+    excerpt: "This is also an ideal application of artificial intelligence, because it is particularly good at discovering very subtle but decentralized processes. This report contains market size and forecasts of Artificial Intelligence (AI) in Alzheimer’s ..."
+    publishedDateTime: 2022-04-30T12:56:00Z
+    webUrl: "https://galleonnews.com/uncategorized/255467/artificial-intelligence-ai-in-alzheimers-applications-market-global-outlook-and-forecast-2022-2028/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 16
 
 secured: "P4qNjfI3QXQQpAIGtP8ZyLJMVvujFeczQdF2TH9XdKlo6wnnsqLc2/E1h+kouZ7iO+y+4izQvCuraOb1dQQMh36Dg06LVOfj5LSBqfMiDjtnKIKHomFBbBFWBvWLuKQ+UuSqre6gjyqCs9gjSYeVRWZuOmBLHQ6nixCFMK7RsnPH7zWATHKZ67YvgrBgbJPhdArO30wuA8ZLqbTc+S7qnxnfnLnwhtVohHfakGO3gIQSnjzdSWcDTTeMcjkXSxwyDdhS2TuMfmXoQRxrOvdcu8+Ra/bjkrTUANY99myec6LBLa1L/pprhRmeI7N5JV3l5Xr/PXBGjqWfeQPZdgDeV3/YcyZrtZ28oJxlGv83/6M=;wvOaYMes3NXSAfKGGPOdiw=="
 ---

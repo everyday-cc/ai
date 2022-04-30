@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging"
-excerpt: "Today Soft Robotics Inc. announced it has teamed with Quest and Ossid to offer a robotic handling and packaging solution to the food industry powered by Soft Robotics' mGripAI ™ technology. The total solution includes Quest's primary product handling system utilizing a FANUC robot designed to load,"
-publishedDateTime: 2022-04-20T15:09:00Z
-originalUrl: "https://www.wjbf.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/"
-webUrl: "https://www.wjbf.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/"
+excerpt: "and more and Soft Robotics' mGripAI platform that uses ultra-fast 3D vision, artificial intelligence, and soft robotic grasping to enable picking of irregular and delicate food items directly from ..."
+publishedDateTime: 2022-04-20T15:59:00Z
+originalUrl: "https://wreg.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/"
+webUrl: "https://wreg.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/"
 type: article
 
 provider:
-  name: WJBF
-  domain: wjbf.com
+  name: WREG
+  domain: wreg.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "2ywEfvWzKyT0CHCuGT3O2NruCaLE0VmcJ7j4DE79KVzNRIXvnfb2wyvArx1wl3DnPY+TiHJv4qXpccHVOm6lLZkvpX974EXW1WkpdfaRXj8XDRLQUIKNlP0Hs8uyfIGrlwVacTC2jf4WxLAf0r1C5i67GLSenQ5LZ4XWLCKY9kwE8wB/dq8VnwdktIFyEHOOuZNOgzriQcNq9P9T6EmSsg3SLcTMtw18mwB9fDXUNWeFiDzGhx1Y3NzjO0kNwpgXZIU73vM0DoQ351gYS0r5IQcKeYeGqIgUsEe5bb2Tl+p7Bj07Yo1fLHTQGz2/8N5mgtAoxwxn0EFQBgtVIT8exOqlpGsmRRh3LGRjEN/hDE8=;zqFbanZ30V5j7U1YqPkGlg=="
+images:
+  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
+    width: 800
+    height: 268
+    isCached: true
+
+secured: "swk7pSPUNODh3NUUwcHgdGR1fL5yPET2mhb1zlpWTS5D/r7rspOwEPUMmav1igokj9sr5HfyaQCHao5rgDSDM9Ii9dBZxDguV3wAR7JF7MsnlWzH4iVeKhCzy2OGZvZEuWRcLFwV8rs9Biq3drHQONQERaeaOjT3KaWdMv+zpM6uLh0Gt5IJLJeMG0TcDILntBXiKHJ3jhzMarY+BZBv5sskpUYzRn/nCHOAFjbbbqxTh2gkupaRYxyayfDwfmDQaPou63x36VNRgcQ0tBWoON7kepHqeTkznZEUEfl9Gbkx3GMB3Q2+Fzi5NjUqlH47jhsc/Zc5PR+MBAVyR+L934letobKPU25ri3dzroW8c0=;w+hat444IA+TXkzxuIMIuw=="
 ---
 

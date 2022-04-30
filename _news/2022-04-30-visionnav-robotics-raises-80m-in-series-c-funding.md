@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-30T12:13:00Z
 originalUrl: "https://www.finsmes.com/2022/04/visionnav-robotics-raises-80m-in-series-c-funding.html"
 webUrl: "https://www.finsmes.com/2022/04/visionnav-robotics-raises-80m-in-series-c-funding.html"
 type: article
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: finsmes.com
@@ -14,6 +17,36 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Rapyuta Robotics Raises USD 51M in Series C Funding"
+    excerpt: "its cloud robotics platform, rapyuta.io, utilizes advanced control and artificial intelligence technologies to improve the efficiency and safety of warehouse operations, enable multiple robots to work harmoniously together, and create a remote-controlled ..."
+    publishedDateTime: 2022-04-27T09:20:00Z
+    webUrl: "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 69
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/rapyuta.jpeg"
+        width: 333
+        height: 333
+        isCached: true
+  - title: "Rapyuta Robotics Secures USD 51 Million in Series C Funding Led by Goldman Sachs"
+    excerpt: "Rapyuta Robotics, Co., Ltd., a leading developer of collaborative pick-assist robots (Rapyuta PA-AMR), or warehouse robots, and pioneers of Cloud Robotics, today announced USD 51 Million (JPY6.4 billion) in Series C funding led by Goldman Sachs to accelerate the expansion of robotics solutions and artificial intelligence technologies."
+    publishedDateTime: 2022-04-26T11:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 49
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "AdXHp0KiehIA1LFS8rsin7F5dHHC1eg1yd2Yw7ek2FaXOeo475sw/i60CmZuZiv1+ItQ8Ib9CujGS3WH0x65iWaHVMRlOWCP6RfkyUYg+d/jtnYNhYQ5iRzeAQuRZ0JsrSCFm8O+i2KQOdrCUa09mfjYVC29Cjb44ErbpMseR68QIMlR2Tw42OqdCxkrBU7lN6e2R7xPb0ioXofYmuS2L1Fa9GMyUFRk5auoWg/PhaXCO0dP2xn7aGtKjNExSB4JXyCoCwbkXbJiMPZjQ1/ZWaMQGi3TSHeL2VcGc612uPigrG/41RbXXGbsM9WRTDd09CpvonCoXUDXwAsTdeuBYzQ62V5PSZlyVVbiCrHscs9pAp+k+XHdmiXrwgkMtL6fMX5D9TpizZjDm/Lx6vCKEsrhayEl62G1fN6/Ptjq9k4ynNUMzW1fvsF96eOijFbGnoWTeNNF3FN8jELQsfRzCxOBYvnP11/07uuyQuYd5yTmcC0rqE0NIef7iP/LNfrPoHh86oLpcd1KgEg681B+Aw==;xQGxZNgl4WyMYWyU2SKAOg=="
 ---

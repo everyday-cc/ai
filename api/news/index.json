@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-30-perceptron-ai-mixes-concrete-designs-molecules-and-thinks-with-space-lasers.md",
+      "title": "Perceptron: AI mixes concrete, designs molecules, and thinks with space lasers",
+      "excerpt": "This column aims to collect some of the most interesting recent discoveries and papers in the field of artificial intelligence ... the team created a neural network that could predict material ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
+      "originalUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Step-6_AI-Sustainable-Concrete-Project-Image.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
+      "publishedDateTime": "2022-04-30T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-30-3-lessons-learned-from-building-a-software-startup.md",
       "title": "3 lessons learned from building a software startup",
       "excerpt": "Startup founders must ask themselves ... world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success.",
@@ -1072,7 +1124,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-moovit-turns-data-into-insights-to-help-passengers-avoid-delays-using-apache-airflow-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1116,21 +1168,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-28-federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few.md",
-      "title": "Federal banking agencies trying to ensure AI, ML benefit most rather than the few",
-      "excerpt": "Measuring risks and setting benchmarks for emerging fintech is top of mind for NIST and the Commerce Department.",
+      "path": "_news/2022-04-28-self-driving-tesla-crashes-into-15-million-private-jet-while-being-summoned.md",
+      "title": "Self-driving Tesla crashes into £1.5 million private jet while being ‘summoned’",
+      "excerpt": "One of the self-driving features on a Tesla car is known as ‘smart summon’ and allows the owner to call the car remotely from around 200 feet. Unfortuantely, there’s sometimes an expensive ...",
       "sourceUrl": null,
-      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
-      "originalUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
+      "webUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
+      "originalUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2022/04/stanfordpanel.jpg",
-          "width": 1555,
-          "height": 651,
+          "url": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_101095692.jpg?quality=90&strip=all&zoom=1&resize=600%2C315",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1138,13 +1190,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T09:06:00-07:00",
+      "ampWebUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
+      "publishedDateTime": "2022-04-28T09:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
+        "name": "Metro",
+        "domain": "metro.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1154,61 +1206,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters.md",
-      "title": "Richard Bartle and Richard Garriott: How humans should treat advanced AI characters",
-      "excerpt": "Richard Bartle and Richard Garriott talked at GamesBeat Summit 2022 about being new citizens of the metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
-      "originalUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/garriott-bartle.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
-      "publishedDateTime": "2022-04-28T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
+        "AI in Autos",
         "AI"
       ]
     }

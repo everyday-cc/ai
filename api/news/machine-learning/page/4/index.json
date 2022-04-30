@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-03-azure-percept-a-machine-learning-quick-starter.md",
+      "title": "Azure Percept: A machine learning quick starter",
+      "excerpt": "Microsoft’s commitment to low-code and no-code application development goes a lot further than its Power Platform. The same connector and pipeline model powers its Azure Logic Apps platform and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.html",
+      "originalUrl": "https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.amp.html",
+      "publishedDateTime": "2022-04-02T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-03-lisk-machine-learning-lml-price-reaches-00235-on-top-exchanges.md",
       "title": "Lisk Machine Learning (LML) Price Reaches $0.0235 on Top Exchanges",
       "excerpt": "Lisk Machine Learning (LML) traded flat against the U.S. dollar during the twenty-four hour period ending at 13:00 PM Eastern on April 2nd. During the last seven days, Lisk Machine Learning has traded flat against the U.S. dollar. One Lisk Machine Learning ...",
@@ -1354,49 +1407,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-sygno-joins-ing-labs-2022-programme.md",
-      "title": "Sygno joins ING Labs 2022 programme",
-      "excerpt": "Sygno, provider of Automated Machine Learning (AutoML) transaction monitoring models, has joined the most recent cohort of scale-ups that will enter the ING Labs 2022 Programme. During the 2022 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/92043/sygno-joins-ing-labs-2022-programme",
-      "originalUrl": "https://www.finextra.com/pressarticle/92043/sygno-joins-ing-labs-2022-programme",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

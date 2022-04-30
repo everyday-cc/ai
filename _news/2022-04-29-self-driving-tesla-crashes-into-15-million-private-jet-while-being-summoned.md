@@ -43,6 +43,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "How does Tesla's Autopilot fit into the self-driving landscape"
+    excerpt: "CNBC PRO Talks: Special event with Brian Sullivan at the Milken Global Conference Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox, and more info ..."
+    publishedDateTime: 2022-04-30T11:26:00Z
+    webUrl: "https://www.cnbc.com/2022/04/30/how-does-teslas-autopilot-fit-into-the-self-driving-landscape.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 49
 
 secured: "22+vqqZYRdYJrXjZjWC6VnvRB/G1UojwpXtoqjtIhs9DCn34IXhLhre6vcEo5SPg34mp/9TOJ5MhKy+YxNo2ueH2eVxB1xRS/4gHUtwEsic7mZziwglICX6HFSFkZtwYfq/R6VuacU/Em+ipOd4FhymgJ+l8KdNMzuxdYeJkMv51DIw+fCHgauD94fMgyryqk/uVpnf+wC1Wsj8OtMVb0GcHcObtio+UGUfr2H3VPUvLYy44G5Mf7oOOxA6UUdWXIZWLoeChTJA+idjJKqDemqthpreno4aH5jXO4KByBxxFn6HuTqfEuIuDRUTfoGCY2I4V05Gbp73xGlJXoNSYSLw9aNQARK9dn6gTafPxMC8=;zH3tsTrkKySnsGiMXZNv+w=="
 ---

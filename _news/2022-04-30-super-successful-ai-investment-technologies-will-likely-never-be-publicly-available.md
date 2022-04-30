@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-29T19:00:00Z
 originalUrl: "https://www.forbes.com/sites/johnkoetsier/2022/04/29/super-successful-ai-investment-technologies-will-likely-never-be-publicly-available/"
 webUrl: "https://www.forbes.com/sites/johnkoetsier/2022/04/29/super-successful-ai-investment-technologies-will-likely-never-be-publicly-available/"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Forbes

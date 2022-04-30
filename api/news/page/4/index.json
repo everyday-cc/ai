@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-27-new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment.md",
+      "title": "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment",
+      "excerpt": "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
+      "originalUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/04/image-82.png?fit=604%2C340&ssl=1",
+          "width": 604,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
+      "publishedDateTime": "2022-04-26T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta.md",
+      "title": "Options AI: 5 Things To Know Into Earnings, Microsoft, Apple, Amazon, Alphabet, Meta",
+      "excerpt": "WikiMedia Commons This post contains sponsored advertising content. This content is for informational purposes only and not intended to be investing advice.   This article originally appeared on Learn",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta",
+      "originalUrl": "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/04/26/untitled_design_74.png?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26821535",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26821535",
+      "publishedDateTime": "2022-04-26T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-man-recreates-childhood-friend-with-ai-then-it-tries-to-murder-him.md",
       "title": "Man Recreates Childhood Friend With AI, Then It Tries to 'Murder' Him",
       "excerpt": "YouTuber Lucas Rizzotto said he modified a microwave with a text-based AI in an effort to build a friend that ended up being un-friendly.",
@@ -650,6 +737,57 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence.md",
+      "title": "PIPA and Mars, Incorporated accelerate science discovery in food and health using Artificial Intelligence",
+      "excerpt": "PIPA LLC announced today that it has entered into a multi-year agreement with Mars, Incorporated to accelerate the discovery of new, plant-based ingredients. PIPA's Artificial Intelligence (AI) platform,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence-1031385335",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence-1031385335",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1804015/PIPA_MARS_agreement_LEAP.jpg",
+          "width": 400,
+          "height": 243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-how-we-can-use-ai-to-help-achieve-sustainability-goals.md",
       "title": "How We Can Use AI To Help Achieve Sustainability Goals",
       "excerpt": "Coincidentally, in between these fascinating trips, I was asked to participate in an AI and sustainability panel at our Imagine Cup Junior 2022 girls' edition. I received the panel questions only 48 hours beforehand.",
@@ -1067,133 +1205,6 @@
       "provider": {
         "name": "Engineering News",
         "domain": "engineeringnews.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-ubie-japanese-healthtech-startup-launches-ai-.md",
-      "title": "Ubie, Japanese HealthTech Startup, Launches AI-...",
-      "excerpt": "Trusted by 4.5 Million Monthly Users Worldwide - TOKYO and SINGAPORE, April 26, 2022 /PRNewswire/ -- Ubie, Inc., a healthcare AI startup with the mission \"To develop a healthcare guide for everyone,\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26804894/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26804894/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26804894",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26804894",
-      "publishedDateTime": "2022-04-25T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-ai-consulting-company-navikenz-raises-4-million-in-funding.md",
-      "title": "AI consulting company Navikenz raises $4 million in funding",
-      "excerpt": "Founded last year by the former president of IT services at Mindtree, Anjan Lahiri, Navikenz enables organisations to implement AI solutions to improve business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/ai-consulting-company-navikenz-raises-4-million-in-funding/articleshow/91082755.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/ai-consulting-company-navikenz-raises-4-million-in-funding/articleshow/91082755.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-226782,msid-91082760/anjan-lahiri-cofounder-navikenz.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/ai-consulting-company-navikenz-raises-4-million-in-funding/amp_articleshow/91082755.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-consulting-company-navikenz-raises-4-million-in-funding/amp_articleshow/91082755.cms",
-      "publishedDateTime": "2022-04-25T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-six-robotics-pioneers-win-2022-engelberger-awards.md",
-      "title": "Six Robotics Pioneers Win 2022 Engelberger Awards",
-      "excerpt": "Automation industry’s most prestigious honor to be presented to three at Automate 2022 in Detroit on June 8 and three at Automatica in Munich June 20 ANN",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/",
-      "originalUrl": "https://www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/six-robotics-pioneers-win-2022-engelberger-awards/amp/",
-      "publishedDateTime": "2022-04-25T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
         "images": null,
         "publishers": null,
         "authors": null

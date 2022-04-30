@@ -35,21 +35,21 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "It's Totally Fine To Watch TV In Self-Driving Cars, Says UK Highway Code"
-    excerpt: "The vision of a totally self-driving car where you can nap in the back seat or relax with friends while being whisked along is something that we’ve been promised for years. Sci-fi shows predicted that this was exactly what the future might hold,"
-    publishedDateTime: 2022-04-25T20:30:00Z
-    webUrl: "https://jalopnik.com/its-totally-fine-to-watch-tv-in-self-driving-cars-says-1848838442"
-    ampWebUrl: "https://jalopnik.com/its-totally-fine-to-watch-tv-in-self-driving-cars-says-1848838442/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/its-totally-fine-to-watch-tv-in-self-driving-cars-says-1848838442/amp"
+  - title: "Self-driving tractors plowing ahead in the marketplace"
+    excerpt: "While there is a farmer sitting in the cab, the vehicle might be driving itself. That tractor is often operating on auto pilot using semi-autonomous, self-driving technology. While the tractor plows along thanks to features like autosteer and computer ..."
+    publishedDateTime: 2022-04-30T14:00:00Z
+    webUrl: "https://www.thestar.com/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace.html"
+    ampWebUrl: "https://www.thestar.com/amp/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace.html"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 43
+      name: The Star
+      domain: thestar.com
+    quality: 44
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/0cb7eb3aebdf366567d4c690d778bd0e.jpg"
-        width: 800
-        height: 450
+      - url: "https://images.thestar.com/gO5t4872uV1IKEn1S7e0f8hn69g=/1200x675/smart/filters:cb(1651257101548)/https://www.thestar.com/content/dam/thestar/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace/_1wh_autotractor_main_april30.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "hk/AfWwkashCwJ3aVFYD3wGdGqntUETcQkLCh3pPgzVWMjbx0bA5rdkl+IqR0pg3Nv5uMUboDUrbnvfFobTPPij3H8D6D48DPvIUhedmg6xK9H5TXiBrx2ZW9UxvLp7Jon63dKJCc05ubunXNm7iocLvqzwibHRYUdk17q29gTTh1+x7wTEi/OtcK0OMe7zz7vK4JJ/gv67drP2s265Ros8Se9WZcLPsWfEZIG3rLBgY+95b98EaFPyIKNe00Z5mT7gcQZoSRIhgrYyVrEDWeDy41huquUPDjCKDVXGxoWGydL8j9yojsfv2kFKH3GUHuHTQ+X5xaX+TwY+cSrlfx90jqm1TeN8qD+3wqMUdJD8=;voFUak7Ttntx7UWLzw/H7Q=="

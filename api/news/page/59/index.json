@@ -2,6 +2,302 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-03-10-fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate.md",
+      "title": "Fintech lender Lendai raises $35M for AI-based platform to enable foreign investors to buy US real estate",
+      "excerpt": "Proceeds from the equity and debt seed funding will help Lendai expand its presence in foreign investor markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
+      "originalUrl": "https://www.zdnet.com/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/investing/fintech-lender-lendai-raises-35m-for-ai-based-platform-to-enable-foreign-investors-to-buy-us-real-estate/",
+      "publishedDateTime": "2022-03-09T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-deepminds-new-ai-model-helps-decipher-date-and-locate-ancient-inscriptions.md",
+      "title": "DeepMind’s new AI model helps decipher, date, and locate ancient inscriptions",
+      "excerpt": "The latest example is an AI model created by Alphabet-subsidiary ... who was co-lead on the work alongside DeepMind staff research scientist Yannis Assael. “However, it’s really difficult ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/3/9/22968773/ai-machine-learning-ancient-inscriptions-texts-deepmind-ithaca-model",
+      "originalUrl": "https://www.theverge.com/2022/3/9/22968773/ai-machine-learning-ancient-inscriptions-texts-deepmind-ithaca-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/oemSvNyvDrITsQS7CvBM6Y_wols=/0x578:5100x3248/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23300783/1221647668.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T08:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live.md",
+      "title": "Hear how Snorkel AI pitched and won over Greylock on TechCrunch Live",
+      "excerpt": "Snorkel AI was founded in the summer of 2019 and over two quick years raised a total of $135.3 million in funding over five rounds. The rocket ship seemingly still has fuel, too. The company isn’t slowing down,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
+      "originalUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/TCL-2022-03-09-featured-1920x1080-1-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/09/hear-how-snorkel-ai-pitched-and-won-over-greylock-on-techcrunch-live/amp/",
+      "publishedDateTime": "2022-03-09T08:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
+      "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
+      "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox59.com/business/press-releases/cision/20220309FL86601/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem/",
+      "originalUrl": "https://fox59.com/business/press-releases/cision/20220309FL86601/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1763103/raveninhand.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-ai-in-the-workplace-why-machine-learning-is-not-coming-after-your-job.md",
+      "title": "AI in the workplace. Why machine learning is not coming after your job.",
+      "excerpt": "This article was originally published in 2021 and has been updated to reflect the latest AI and workforce trends. Back when this article was originally written, 2020 was the year that cars would fly,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-workplace-why-machine-learning-coming-after-your-job-colby-tunick",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-workplace-why-machine-learning-coming-after-your-job-colby-tunick",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGTGr44BDJ2eg/article-cover_image-shrink_720_1280/0/1646422265575?e=1653523200&v=beta&t=xfc190ehTr-2w95P8bwf-PtN3rpphF5myLB0QI1v0jk",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts.md",
+      "title": "DeepMind claims its AI can decipher ancient Greek texts from damaged artifacts",
+      "excerpt": "DeepMind says it has developed a system called Ithaca that can restore ancient Greek texts from damaged artifacts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/",
+      "originalUrl": "https://venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/09/deepmind-claims-its-ai-can-decipher-ancient-greek-texts-from-damaged-artifacts/amp/",
+      "publishedDateTime": "2022-03-09T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
       "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
       "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ...",
@@ -876,290 +1172,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-reid-hoffman-has-co-founded-his-first-new-company-since-linkedin-sale.md",
-      "title": "Reid Hoffman has co-founded his first new company since LinkedIn sale",
-      "excerpt": "He is creating the business with DeepMind co-founder Mustafa Suleyman and former DeepMind researcher Karén Simonyan. LinkedIn billionaire Reid Hoffman has co-founded a new artificial intelligence start-up called Inflection AI with DeepMind co-founder ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/03/08/reid-hoffman-has-set-up-a-new-ai-company-with-deepminds-co-founder.html",
-      "originalUrl": "https://www.cnbc.com/2022/03/08/reid-hoffman-has-set-up-a-new-ai-company-with-deepminds-co-founder.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106564486-1591247412552gettyimages-1042065950.jpeg?v=1591247496",
-          "width": 4256,
-          "height": 2832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/03/08/reid-hoffman-has-set-up-a-new-ai-company-with-deepminds-co-founder.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/03/08/reid-hoffman-has-set-up-a-new-ai-company-with-deepminds-co-founder.html",
-      "publishedDateTime": "2022-03-08T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-artificial-intelligence-aids-doctors-during-colonoscopy-screening.md",
-      "title": "Artificial intelligence aids doctors during colonoscopy screening",
-      "excerpt": "Known as the GI Genius, the deep learning technology uses a database of 13 million images to detect mucosal abnormalities in real-time that might be missed by the naked eye.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening",
-      "originalUrl": "https://www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/c01/63c1dd2550f243de8acbe752dd0ab1bb/c0148947e0b240feb1b7153a36f2d1ef/poster_4758c2e63f474e1298f89141ebef00c0.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening?_amp=true",
-      "cdnAmpWebUrl": "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening?_amp=true",
-      "publishedDateTime": "2022-03-08T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVR",
-        "domain": "wtvr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-amplitudes-digital-optimization-system-launches-in-aws-marketplace.md",
-      "title": "Amplitude's Digital Optimization System Launches in AWS Marketplace",
-      "excerpt": "leveraging AWS artificial intelligence (AI) and machine learning services for predictive analytics at scale. Amplitude also achieved the AWS Retail and AWS Digital Customer Experience competencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=151773",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=151773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/144120-0322_SpeechAnalytics_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics.md",
-      "title": "Nvidia invests $10M in sidewalk robot delivery company Serve Robotics",
-      "excerpt": "The strategic technology collaboration between Serve Robotics, an Uber spinout, and Nvidia will further the development of autonomous robotic transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/08/nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/03/08/nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/Serve-front-sidewalk.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/08/nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/08/nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics/amp/",
-      "publishedDateTime": "2022-03-08T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out.md",
-      "title": "Big Tech Is Spending Billions on AI Research. Investors Should Keep an Eye Out",
-      "excerpt": "As well, the DeepMind Technologies lab, owned by Google parent Alphabet Inc., has announced the development of a new language model, commenting, “The high-school reading comprehension level approaches human-rater performance.” While these companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?tpl=vc",
-      "originalUrl": "https://www.wsj.com/articles/big-tech-is-spending-billions-on-ai-research-investors-should-keep-an-eye-out-11646740800?tpl=vc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-499743/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-artificial-intelligence-can-help-strengthen-corporate-social-responsibility.md",
-      "title": "Artificial intelligence can help strengthen corporate social responsibility",
-      "excerpt": "Artificial intelligence, like the chips Tesla is developing for its self-driving cars, has been described as the next frontier in anti-corruption. (AP Photo/Gillian Flaccus) AI holds a number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103814501/Artificial-intelligence-can-help-strengthen-corporate-social-responsibility",
-      "originalUrl": "https://menafn.com/1103814501/Artificial-intelligence-can-help-strengthen-corporate-social-responsibility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-03/08/TC_da185image_story.jpg",
-          "width": 678,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
