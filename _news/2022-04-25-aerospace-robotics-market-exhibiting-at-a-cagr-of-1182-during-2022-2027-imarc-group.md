@@ -67,20 +67,6 @@ related:
         width: 305
         height: 250
         isCached: true
-  - title: "Cloud BackupMarket Size 2022 Trend and Opportunities, Market Share,Analysis, CAGR and Value Chain Study, Business Growth to 2025"
-    excerpt: "Cloud Backup Market“ study has 185 pages, 90 tables and figures.Worldwide markets are poised to achieve continuing growth as Cloud"
-    publishedDateTime: 2022-04-25T07:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cloud-backupmarket-size-2022-trend-and-opportunities-market-shareanalysis-cagr-and-value-chain-study-business-growth-to-2025"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/be6b8aa06bcc409b6f0bbe2f497c25f1fb377222-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "LDA+Dy/lM9kz6foD+YoVIgX1/BOh9Y/HwqebFWFdh4qjDy3cAl/KBe/iYNF+2npAT4wWPwb7h7rrKLpLI6ri+NZUo+8huJlouY+juC+DCrcvKmO69bSdQ704PY6dVdSvi2onf2KMwhZ7uQ9rmxXwMjQbtedXzLtxrfj4J7thobXup0vpb4AxsYSdlFS8i2GkeeV1qPmsZUCmbRTTwXuBql4UjxgJoLw8Bouxa/TumVFwdvQsYA970Q3h4fWvuWp/5zvEwRZt4WGZVa4nFvX+mXCdEuy46ETGeDMxQMUMHDVATQWMoWs/nHpIAO21QlhEG4nUJoITVs3DpFaMmAyf7+WYG0HgETlgz8nWJ4IE+qY=;rY1s4k5rYih9mdJoxV/SWg=="
 ---

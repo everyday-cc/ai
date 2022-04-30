@@ -1,22 +1,23 @@
 ---
 category: news
 title: "Hospitals turn to artificial intelligence to help patients while addressing worker shortage"
-excerpt: "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled. Now the health care field is looking into it to ease the worker shortage and shorten hospital stays. A Wall Street Journal ..."
-publishedDateTime: 2022-04-25T20:19:00Z
-originalUrl: "https://www.koaa.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
-webUrl: "https://www.koaa.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
-ampWebUrl: "https://www.koaa.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
-cdnAmpWebUrl: "https://www-koaa-com.cdn.ampproject.org/c/s/www.koaa.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
+excerpt: "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled."
+publishedDateTime: 2022-04-25T19:14:00Z
+originalUrl: "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+webUrl: "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+ampWebUrl: "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: KOAA 5
-  domain: koaa.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ke2O09YseXi+wdkXdKAS5A/WPNz2JKZJKQADGanYdDY2IgCgkLC2pL/o9EyuOSSFKYri10hbS7jVIPdNBvtHvR4LnOxWgd7ZM7rRVOJ8NFYKe5Asj5Go8vMCivbM3c97uOhy0tCuM1dppwbPDodrIZDyc7fqdOc7D+Dk5krnbtffF4SCcGFFPluHtvOTAs43A7MHvMfrMowmvBi5uPx+rlPzZzHhQ+o0iEK1PzduQ8mk4cwIFabboMrnjZxtvuGiNF/zxA2zC4aN2QuN+nkCraoHp/KHjZUcL8BkThPb7Fif9gc42HhrNvw+3PaT47Xvd+ZAmR0phKBJKmeGchvREkGGYkoDomaFzxaMICyDDdw=;6jIHw3zNh85NY0D0SNVH4A=="
+secured: "yOdMJO0qgc2zGVNg/Wi7wSbzwWPSaxDwEF5QzbHiP5i4x+Ke/6ucjzKbnLADVEQN4VUoWslVVJeMIvcZpDE9YblXJC0eqx8XsS0D0KlWra4EAsH1N9zbKj0yR61m6Bsz4CK4F5mlLiDQeNTcndINdWDJ+IvZMotONtpiMCKKzz9YvQX7Egq2/noq/q8kQWUKckOv0WkQTHuyN90vPph/nPOOtNJ6EsAXU7R9A570cqj0CZnnQ63QhXI3CkIsYFAYOuoBJRMcGPdspnYR9L4cS9gpjNYKzovU/c9KT7Ott0/rYLYXLRi0KZ9hoyVDQDSpWbkZRjGlQiS51dTlJE/cgiVHp1eyvwGUEoitzhtLFlI=;9Lf4FvHtfkuC7mSKOK0jfg=="
 ---
 

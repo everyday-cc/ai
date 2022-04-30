@@ -42,22 +42,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "Fujitsu and Southern Tohoku General Hospital start joint research on AI technology for detecting pancreatic cancer from non-contrast CT scans"
-    excerpt: "Contributing to the early detection of pancreatic cancer and a higher quality of life for affected patientsTOKYO, Apr 25, 2022 - (JCN Newswire) - Fujitsu and the Southern Tohoku General Hospital today"
-    publishedDateTime: 2022-04-25T07:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/a26779769/fujitsu-and-southern-tohoku-general-hospital-start-joint-research-on-ai-technology-for-detecting-p"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26779769"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26779769"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "7jofmPMjJ+UWhqXHVPryCaIKr7bk+m/QZ3mPsgU5ymo/7XaW0LUfQUtEDbCkxUZ13r6FdKXNBaeVYoiiAbyCRidgc4IjanrX8RGi2TnvE1+SP/H8ocdpKi8YRam6fd5jHdMNjz4WyxKiv/j62k7yzYNltJLZH/gZqetf25XVPMXXJ7N/4Ac8JPM/q+IBeMClXTOzNHKT8B15yhLvhwjQEmv6m285FrQ9J0ajDY1os6pBE3L5/zD1tvXiISYdSHjlgw1KSGQ2i97OR2AJ/KvgLfPWIcukcaQPKEMpxmFuEP2orCPk9v2vAkioobyY4pSyTsYz8MX4/xLGWa4bhtdr0jqc3Q4kuJYfzK+LLiw7WhZN63j2RyQjH2UZ7ekUlf8RS8imbBTAIdB22NDidrl1RvHS64JssIH12qM5WmB2WOVctmIaijIFWlzcrr7iSpRJOzW/RZH1F0V6hB/Tb4rS5a89g48GEQyICjsyWBIRYpAFJPyBoZH4XJfsoqZ3R8y+58W8fYDc8MoEJX/SXaij0w==;yB/N1kRX3GUJt3IJIL9ayQ=="
 ---

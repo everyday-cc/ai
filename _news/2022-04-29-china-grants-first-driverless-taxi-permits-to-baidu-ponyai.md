@@ -1,29 +1,27 @@
 ---
 category: news
 title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Baidu said 10 such autonomous cars began offering rides to ... In 2020, Beijing set a goal for 70 percent of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving automation, which means the vehicle can control ..."
-publishedDateTime: 2022-04-29T11:25:00Z
-originalUrl: "https://www.sunstar.com.ph/article/1927695/cebu/lifestyle/china-grants-first-driverless-taxi-permits-to-baidu-ponyai"
-webUrl: "https://www.sunstar.com.ph/article/1927695/cebu/lifestyle/china-grants-first-driverless-taxi-permits-to-baidu-ponyai"
-ampWebUrl: "https://www.sunstar.com.ph/ampArticle/1927695"
-cdnAmpWebUrl: "https://www-sunstar-com-ph.cdn.ampproject.org/c/s/www.sunstar.com.ph/ampArticle/1927695"
+excerpt: "China has granted Chinese internet services company Baidu and a rival autonomous car company, Pony.ai, permits to provide driverless ride-hailing services to the public in Beijing, a significant regulatory step in the country's pursuit of driverless ..."
+publishedDateTime: 2022-04-28T23:28:00Z
+originalUrl: "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html"
+webUrl: "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Sun Star
-  domain: sunstar.com.ph
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
-  - AI in Autos
   - AI
+  - AI in Autos
 
 images:
-  - url: "https://www.sunstar.com.ph/uploads/images/2022/04/29/352271.jpg"
-    width: 600
-    height: 375
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/7f/57f67885-70b8-5cef-a28e-a3cc1e5e6e85/626a3f1052c4b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -299,20 +297,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Self-Driving Startup Pony.ai Wins China’s First License to Charge for Robotaxi Services"
-    excerpt: "Pony.ai will launch a fare-charging driverless taxi service in the southern city of Guangzhou after becoming the first Chinese autonomous driving firm to be granted a taxi license, a huge milestone in the commercialization of self-driving technologies."
-    publishedDateTime: 2022-04-25T07:09:00Z
-    webUrl: "https://www.yicaiglobal.com/news/self-driving-startup-ponyai-wins-china-first-license-to-charge-for-robotaxi-services"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 31
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/self-driving-startup-ponyai-wins-china-first-license-to-charge-for-robotaxi-services/10111682507461.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Pony.ai to Launch Robotaxis in China With Ontime, the Ride-Hailing App of Automaker GAC Group"
     excerpt: "Autonomous driving technology developer Pony.ai is expanding its presence in China in a new partnership with automaker GAC, which is China’s fifth largest carmaker and a longtime Pony.ai partner. As part of the close collaboration with GAC,"
     publishedDateTime: 2022-04-26T15:30:00Z
@@ -393,6 +377,6 @@ related:
         height: 720
         isCached: true
 
-secured: "crHZqZM9hh8oAS78Y3v0F3MzmrlWF1BWs+K4rPRA2Vec1R2Y61K0Xk0GnYfTjbeIxI1jUl/aiMhdTo2RtsQCKLeamaK40X964kGXwdAi4vRDYZgNRbV7VsZwDOZQWejV2l/WewgafCvYh0Pm6kMG0rwUGqWcxUjd8IbCItTNH4o3LG9NH2CBeQ+64J0924gM7bfTU7X9+1ZHEnBagTVB1XAsbLDONDgWbBxU8E8NDztlApLMi6J/0taMoRakzfuru0Fw32coJW9QXjQethh9JdyuhVQdOrU6k5qBhGfcpApI90+Xd5gjC1rVoHLpFmbHluIcF9sdDA7tTXhi/hPJm/QXsZpPah8NbG61SGaoUVI=;fMmsLZkNnfPbaLBVllx00g=="
+secured: "/tHe4lsv8f1dL8DRR6XYguk7qacW1NKOyyLUNmLSEkZgmUBKxNL50FNGIgSqXnM6E/79H+Bj7fwwYsjWH/OaOIrLqGIuQej5MrZz+u1EvefJ44bKIVydlPmICs6Q3K3hIJXHVNLv4q3ow5z08ifyGU+E0rxuVMYvoOvAufSscBGf0NreHjRjR5ALAgPzP/Q93BtDQUqNQm+wU67Xb0pftM5upSEd47T698Z+vQlVlWCYm3x26TgSiqXeJ8suvaNb80PipNGdgBnm24Zt+2mBzwps4n9HvE5vccv6nqK60VD3wVTxLOUsW+9ZxEj6h6GuytVIy2i8IKkJtBls02JzMssRnuUsA9EreulDJ7XKrIk=;PD3lEncWzqAYS0S9S99ohw=="
 ---
 

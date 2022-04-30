@@ -48,6 +48,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "C3.AI DEADLINE ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action Lawsuit Has Been Filed Against C3.ai, Inc. and Encourages Inve"
+    excerpt: "NEW YORK--(BUSINESS WIRE)--#Action--Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, reminds investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) in the ..."
+    publishedDateTime: 2022-04-29T12:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=655992"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "sDCWoKXbzIWkE1UkSvf6O2VWrYqXA6fkPJiYp4lSjAd/qyarBeB3mglkHdjTN8QdZPByOVw+Pfi5NS8VQ0sK/obsLAzX7lKalx/cSmEU0x4i4AczBjBUK9vx2q2j7v+fM8xeWEAdm2NxT44eMnJ6wNVCytfLTEWiajC0CtPk+R2yL+mYQHDzwk4siOVhqIb8M7S/9uMaXPibMxmTJSTthmGIcEcKNajzbeBwJAdq+/WmTaJbcUOBiW0zABXZywG/p3l+3kSmNYWKpF593/8fhje9i+4N414Jfzi73+iFE0cNGjenwF+NuL25kQBpVPlYlEnDq0wYb1RypqOgWDj6UklFT+FFa+TNDpZxpx6GF+ie6PFT4A6Ta4EkxBCslHFF/s0JBbFG94a7ZUiotR5kKEJ39MEaJ8Jw2x2MrV7xhF52QkBG6q2CEWx1sxN/e1rfIuIpZjwKxE4rbLFQiWnj+hnZhBNjakkwUrIeA4AGatrDSkMIM+0OTxZoWnRIdlZwy+HKECk9F39QsFcQ/C0whQ==;1d9Mh8AZy2+eVhvOE3Lk/A=="
 ---

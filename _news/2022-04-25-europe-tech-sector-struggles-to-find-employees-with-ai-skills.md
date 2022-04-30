@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "A large AI skills gap in Europe"
-    excerpt: "Also, nearly seven in 10 tech job seekers and tech employees believe that potential recruits lack the skills necessary for a career in AI. Soft skills. As AI moves into the mainst"
-    publishedDateTime: 2022-04-25T08:57:00Z
-    webUrl: "https://www.hrreview.co.uk/hr-news/a-large-ai-skills-gap-in-europe/141927"
-    type: article
-    provider:
-      name: HRreview
-      domain: hrreview.co.uk
-    quality: 37
-    images:
-      - url: "http://www.hrreview.co.uk/wp-content/uploads/oo.jpeg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "IBM research details AI skills gap across Europe"
     excerpt: "IBM research reveals that the tech sector across the UK, Germany and Spain struggles to close the AI skills gap"
     publishedDateTime: 2022-04-25T09:18:00Z

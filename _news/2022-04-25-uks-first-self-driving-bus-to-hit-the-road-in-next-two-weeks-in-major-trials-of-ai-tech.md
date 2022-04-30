@@ -91,22 +91,6 @@ related:
         width: 1024
         height: 637
         isCached: true
-  - title: "Stagecoach begins live-testing of self-driving buses on Scottish roads"
-    excerpt: "Stagecoach has announced it will be testing the UK’s first self-driving bus on Scottish roads this week, with plans to recruit 20 drivers when the scheme goes live. In partnership with Fusion Processing,"
-    publishedDateTime: 2022-04-25T08:07:00Z
-    webUrl: "https://www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103"
-    ampWebUrl: "https://www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103.amp"
-    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103.amp"
-    type: article
-    provider:
-      name: insider
-      domain: insider.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.dailyrecord.co.uk/incoming/article26788641.ece/ALTERNATES/s615/0_JS264415635.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "It's Totally Fine To Watch TV In Self-Driving Cars, Says UK Highway Code"
     excerpt: "The vision of a totally self-driving car where you can nap in the back seat or relax with friends while being whisked along is something that we’ve been promised for years. Sci-fi shows predicted that this was exactly what the future might hold,"
     publishedDateTime: 2022-04-25T20:30:00Z

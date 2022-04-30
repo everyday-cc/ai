@@ -33,20 +33,6 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 47
-  - title: "A large AI skills gap in Europe"
-    excerpt: "Also, nearly seven in 10 tech job seekers and tech employees believe that potential recruits lack the skills necessary for a career in AI. Soft skills. As AI moves into the mainst"
-    publishedDateTime: 2022-04-25T08:57:00Z
-    webUrl: "https://www.hrreview.co.uk/hr-news/a-large-ai-skills-gap-in-europe/141927"
-    type: article
-    provider:
-      name: HRreview
-      domain: hrreview.co.uk
-    quality: 37
-    images:
-      - url: "http://www.hrreview.co.uk/wp-content/uploads/oo.jpeg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "The 20 Most Influential Fintech Marketers in Europe"
     excerpt: "The Fintech Marketing Hub, a global fintech marketing community, has released its selection of the world’s top 30 most influential fintech marketers for 2022."
     publishedDateTime: 2022-04-26T05:34:00Z

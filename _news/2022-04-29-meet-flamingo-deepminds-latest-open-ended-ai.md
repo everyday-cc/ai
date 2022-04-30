@@ -3,8 +3,8 @@ category: news
 title: "Meet Flamingo, Deepmind's latest open-ended AI"
 excerpt: "Google's Deepmind has published a paper proposing a family of machine learning models with the aim of doing more work with far less costly and time-consuming training. The upside of that is, the tech giant claims, massive cost savings as training is ..."
 publishedDateTime: 2022-04-29T11:32:00Z
-originalUrl: "https://www.theregister.com/2022/04/29/flamingo_deepmind_ai/"
-webUrl: "https://www.theregister.com/2022/04/29/flamingo_deepmind_ai/"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/29/flamingo_deepmind_ai/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/29/flamingo_deepmind_ai/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 340
         isCached: true
 
-secured: "jrDu2ojUJLZqC89GXBqMmheuavCor7wG7aRkZmnmP2aDCi1ds/Z1T9HlHUEZ26oVFwbyPGyqk4RUi/vwYn/GC4xOSopVuUfdHUCVUmzlEb9jEqUgRgGjobzJ9KjZl5gIPlI/DhWOitabxwIWKDLzSadyFAM0K63T5lUnHhOqRdmDmmgoC2uFSjS8O/2E9zOneorI+vmswlcHPLvWSYot2QznYgOcziJLze7ymGuFZdC7VcMnl7xm87w0MjCdQQAuQDr+atnly7OVvwDt27HVlPu6zmVBq54AYaDu6ugRpA5wEl0M+Yo6gb/D+xMFj+89AHCQkAJQ7ILUDFEwPoHcR/tRINU8C3t6SINBxs0Eai9l5OsfvXq95FRXBNW9jVeCOMRoODP2xgQWgcgdYcLSTUnSpPWMStNy5s2ZbyOnybGVc6R8zophMlx0hIRgZofwrr6FCitrmJjlPe1XxY3p9uUFLXAQyuo7/wr9NC3nBnQWp5scdxqPy99OlosnoCuMVxIdMib9pRM+YPQOdbOkJw==;f+8XwygENcT9wqw4M7Unig=="
+secured: "RvoNTQNYGQuvr43a6Gvta1apRAChN/t/0jOvueGHDbIxpQlIPPHXJvsk5xwoljzkt3ISXcCbjNCwWfUL+xM+MRtN09cqCgNivaCIeOo4tFqrZ8EgNzkit9ugdVDNYld+ml+Qj1vMnbZnuzagegQ7B0RAOPr/YwgfeRkFpPI7JlLPl5YKYGfin4o9LWghGcZ0EGvQAYFtVOhUyecGrwl/3SZ2q8aBdipGea9cfFwoIn2SMukRbKyM4jsoFyUnjjuhlvGzkK8QtskiYFPHPxtpGMWw+MNnGVagjn5fpAOuSgEH01JfGwRjXoZBY9G/gMW5rRU+1kLrY3wq2HmHh5gzeNtFdYo37IlF2y1G/RHLqII=;2zFLCOdi4NuLYlhtmCpO/w=="
 ---
 

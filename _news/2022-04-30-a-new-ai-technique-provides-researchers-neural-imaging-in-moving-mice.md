@@ -8,7 +8,7 @@ webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-
 ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/picl2887.jpg?itok=BuzpjY5z"
@@ -43,6 +44,6 @@ related:
         height: 515
         isCached: true
 
-secured: "lOQRGxQh4yFWiaTpjSQXPXXcv2x66gvJkSS/YBNS5Z3+4yBbQX/yu58MDiHDU9UYzxTdS+ZA0bDn9a6A5HVwjn60xCjPf3ZvYQ0cksTt6GfM0unWkP1LoZXS/YARTXik6QkcK6VPlMufj0mR69ZuFCwripj13dYn5vIpFHz94NhBx4Aw/pK2wVQfSyU2QdZ5pSjcbknyY7lhIeDsgFT+NwiMyZEn9saPCVswtQhc0XJdXSKis5+l2Pz+uGK2yVipfWxe134CzffbUS8N+71CTHTDTEgPQdZZmp6lHVDa4mlTTiDHT0veVnLO4I5drExztWq1IdOuCILWAff9OAbf+q4veMMelhu6lU0yKZ4L8H8=;A+w8mlcJiZmVTK+0phefkA=="
+secured: "YxyVdzjol2yJEMp08qz7mJa4DSu/5rh8+0cTLPIVjia9cKQFCuavswasuhMduBW8I75DV9GxYNXHv1pbSU5XP4rnAYwwRIiP//V5Jh5HEe+ZaEVSNiPcH/TV3oqeBzuF4Qju4ggxArbZq9targ6zXEZowd6YdymIEXV38TfxhGxvjgwN/4fD/Aek3n69jADpgFhMyrOfRtTCuk3OFMur0BS5y5zEo9PduGki56nyjEG3zDy1Kvbrk8oQlqeeR0qwyLRBm0GZAYT32U5sh787R1Dz1u9yozEHrZkasQLvEI2XhvJuTKnElR7B+a56MYqN9o3sCNn1UbCV4DZCPW80oNCtH6bepEOxxsUrcoAFbNF3g16uFI3FieRjlm7Suq9Mx+ZNBTRdZEgyOaxtO8d5/mfV3GbfvKvXTVDLRpVpIgp1WDc7Po3yNhZpjhxxH1aHd6oGYYNP/K4evps0M5TT1DUSFN5eunv140CZ/IVYn/TI3uApgeSkWamYa208Q9zYxRTi1W0EpwvN7Epza6GZ0Q==;vgeFDu2aQ2dRtA3oguvc/Q=="
 ---
 

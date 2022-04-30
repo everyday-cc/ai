@@ -107,22 +107,6 @@ related:
         width: 1024
         height: 637
         isCached: true
-  - title: "Stagecoach begins live-testing of self-driving buses on Scottish roads"
-    excerpt: "Stagecoach has announced it will be testing the UK’s first self-driving bus on Scottish roads this week, with plans to recruit 20 drivers when the scheme goes live. In partnership with Fusion Processing,"
-    publishedDateTime: 2022-04-25T08:07:00Z
-    webUrl: "https://www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103"
-    ampWebUrl: "https://www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103.amp"
-    cdnAmpWebUrl: "https://www-insider-co-uk.cdn.ampproject.org/c/s/www.insider.co.uk/news/stagecoach-begins-live-testing-self-26789103.amp"
-    type: article
-    provider:
-      name: insider
-      domain: insider.co.uk
-    quality: 44
-    images:
-      - url: "https://i2-prod.dailyrecord.co.uk/incoming/article26788641.ece/ALTERNATES/s615/0_JS264415635.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "What happened when police pulled over a self-driving car"
     excerpt: "A viral video on Instagram shows San Francisco police officers confused after pulling over a self-driving or autonomous car."
     publishedDateTime: 2022-04-25T10:00:00Z

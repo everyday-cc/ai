@@ -1,0 +1,46 @@
+---
+category: news
+title: "Don’t Fear Artificial Intelligence; Embrace it Through Data Governance"
+excerpt: "Preparing for an artificial intelligence (AI)-fueled future, one where we can enjoy the clear benefits the technology brings while also the mitigating risks, requires more than one article. This first article emphasizes data as the ‘foundation-stone ..."
+publishedDateTime: 2022-04-30T01:23:00Z
+originalUrl: "https://www.cio.com/article/309641/dont-fear-artificial-intelligence-embrace-it-through-data-governance.html"
+webUrl: "https://www.cio.com/article/309641/dont-fear-artificial-intelligence-embrace-it-through-data-governance.html"
+ampWebUrl: "https://www.cio.com/article/309641/dont-fear-artificial-intelligence-embrace-it-through-data-governance.html/amp"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/309641/dont-fear-artificial-intelligence-embrace-it-through-data-governance.html/amp"
+type: article
+quality: 57
+heat: 67
+published: false
+
+provider:
+  name: CIO
+  domain: cio.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.cio.com/wp-content/uploads/2022/04/iStock-1298401334.jpeg?quality=50&strip=all&w=1024"
+    width: 1024
+    height: 569
+    isCached: true
+
+related:
+  - title: "Credo AI Announces the World's First Responsible AI Governance Platform"
+    excerpt: "A new wave of upcoming global, federal and state AI regulations requires that organizations must prepare and build out a robust approach to Responsible AI governanceCredo AI's Responsible AI Platform"
+    publishedDateTime: 2022-04-26T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/credo-ai-announces-the-worlds-first-responsible-ai-governance-platform/article_220f1f90-4730-5ab3-a509-f63b32113985.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+
+secured: "XDKqx6/S5wG3AmoteQDDxwjLOrRysqMJ7ZAIkozH4jZdiBhpe5rNBiJPsZqUxOUBL36jZhzR3q88NVwYEetcxsdFXv1EWVPFwqkrOsaCUAyQ5i6SglHAbDG4E5OLUj/5AObZFRvxt44kE1+bPCAOwADI6cc7TCwUpYwQ89upgaZBTu82MlP0eWzqXIqXZ8q7v7dSfyw1IH+Y0z2AO7GubBpDh2mK9vWD5TGy6eiBG/G42kZOWkfP0rgzjcbB2H0GiD41XfIt/AsI/Figfhq2OhFbQq7YLv45n1eWikTx/Sw4V5Tyeb1IuuVquDlwPPijbfmy+oxwdaIIgXWnbHM+xSEa0JPbscyOxc/ANsb1gI4=;9TlM98qVYdSXWmMVpMvy1w=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-lea
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Seven Hardware Advances We Need to Enable the AI Revolution"
+    excerpt: "AI will change our lives, but will require new processors and hardware to meet new standards for affordability, performance, and power."
+    publishedDateTime: 2022-04-27T15:07:00Z
+    webUrl: "https://www.arm.com/blogs/blueprint/seven-advances-ai"
+    type: article
+    provider:
+      name: ARM architecture
+      domain: arm.com
+    quality: 39
+    images:
+      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2022/04/magicball.jpg"
+        width: 1940
+        height: 980
         isCached: true
   - title: "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance"
     excerpt: "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,"
