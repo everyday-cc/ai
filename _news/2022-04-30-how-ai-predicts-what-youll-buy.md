@@ -2,23 +2,23 @@
 category: news
 title: "How AI predicts what you’ll buy"
 excerpt: "It’s a jungle out there—few places so much so as the world of “smart” advertising. There, marketing geniuses have developed increasingly sophisticated algorithms that take all the ..."
-publishedDateTime: 2022-04-30T08:19:00Z
-originalUrl: "https://kvia.com/news/us-world/stacker-news/2022/04/30/how-ai-predicts-what-youll-buy/"
-webUrl: "https://kvia.com/news/us-world/stacker-news/2022/04/30/how-ai-predicts-what-youll-buy/"
+publishedDateTime: 2022-04-30T10:42:00Z
+originalUrl: "https://localnews8.com/stacker-news/2022/04/29/how-ai-predicts-what-youll-buy/"
+webUrl: "https://localnews8.com/stacker-news/2022/04/29/how-ai-predicts-what-youll-buy/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - AI
 
 images:
-  - url: "https://kvia.b-cdn.net/2022/04/shutterstock335123117UTON_0.jpg"
+  - url: "https://localnews8.b-cdn.net/2022/04/shutterstock335123117UTON_0.jpg"
     width: 1010
     height: 720
     isCached: true
@@ -110,6 +110,6 @@ related:
       domain: insidebigdata.com
     quality: 14
 
-secured: "NSg6ZdD79KQeak7QwAiscWda6WGgRlCo64YOe7U/JARcI7arPlLTZ01ZMW/IkzD8wCDpKlnghgeOvuWZ6d5gk3LFuv4vxNecveL8N3RA6RQIuLN/Zo0IFkdkttvBk2fBlQ4dn/f9X/WthRT7LJq+uY8sn1jMlTowuNV6Viam76kn853GqNVmi2UG3bddToX4HcSvxA5jYgKZpY4wSh4WLe/mDbVupvI9QW1rD8z2/EfabE7F6MaErJjXGwPXU8Njol8lQwTDZ6XSqObTs3fDvaBNS6aTjcHAgpXSD8QdsnnmxSSlvNXewuCSRGZ3pMzQ+EMwDYZi/FeK+Y78ik4tBE2/Yco8a05V4R7Behsez8U=;mkJKgh7kiNIWUu1ElFlrQw=="
+secured: "W+jOyEdW3pdpAzfmGLJ+NiYIdhHuQUZE2wDt+3YzES3hBTRdxmBBm8yox7XZD0cSCHLlFWw7ILnx/xHbeJ28YPeL2fmxoyevQFq06Cs4oR759vP/6KyhStAPbirHQds+NOS+N0rvQEBoS9HpvU6mS2M3GcV1VjUMp1wfnVIdx9D1kFpRye1EFTw46LK89L96JE6KI3Y0UrDklMN2OvsF+VxmR54kZqur6ZyOYH9s2cQWKm0Pyg1/OTo3posSpuId3yXlChK/g9/yP2l3IpxhjJ8whlP0AbI86DP4IHAceGMESpWprlxBNH6aefgGzCyWIemYtlYIXjs/gcngWseAs4m3SMo9uHGu1KfAaE76qw4=;7r4YmEteS6K3nUDDRnb/ng=="
 ---
 

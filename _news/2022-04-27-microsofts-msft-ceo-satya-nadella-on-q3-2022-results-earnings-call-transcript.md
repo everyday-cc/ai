@@ -27,49 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Can Strength in Azure Cloud Aid Microsoft's (MSFT) Q3 Earnings?"
-    excerpt: "Azure’s revenue growth is likely to reflect continued strength ... Microsoft also completed the acquisition of Nuance Communications, a leader in conversational AI and ambient intelligence across industries like healthcare, financial services, retail ..."
-    publishedDateTime: 2022-04-25T17:27:00Z
-    webUrl: "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings"
-    ampWebUrl: "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp"
+  - title: "Microsoft Details Partner Program Changes For NCE, Azure And Windows"
+    excerpt: "New Commerce Experience, Windows, Defender and Azure were the subject of new announcements for partners in April."
+    publishedDateTime: 2022-04-26T17:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-details-partner-program-changes-for-nce-azure-and-windows"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 99
-  - title: "Options AI: 5 Things To Know Into Earnings, Microsoft, Apple, Amazon, Alphabet, Meta"
-    excerpt: "WikiMedia Commons This post contains sponsored advertising content. This content is for informational purposes only and not intended to be investing advice.   This article originally appeared on Learn"
-    publishedDateTime: 2022-04-26T17:15:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26821535"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26821535"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 67
+      name: CRN
+      domain: crn.com
+    quality: 69
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/04/26/untitled_design_74.png?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://www.crn.com/resources/0273-14b0c37410dc-1db53ecd649b-1000/microsoft-sign.jpg"
+        width: 608
+        height: 457
         isCached: true
-  - title: "Microsoft Earnings: Inflation-Proof Business Model - Buy On Weakness"
-    excerpt: "Microsoft (MSFT) reported a robust double beat on its Q3 FY22 earnings. Despite some near-term challenges, check out why I think MSFT stock is a buy."
-    publishedDateTime: 2022-04-27T13:21:00Z
-    webUrl: "https://seekingalpha.com/article/4503934-microsoft-earnings-inflation-proof-business-model-buy-on-weakness"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4503934-microsoft-earnings-inflation-proof-business-model-buy-on-weakness"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4503934-microsoft-earnings-inflation-proof-business-model-buy-on-weakness"
+  - title: "AWS bags victory over Microsoft in fight for $10bn NSA contract"
+    excerpt: "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ..."
+    publishedDateTime: 2022-04-29T13:11:00Z
+    webUrl: "https://www.techradar.com/sg/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 59
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1289079656/image_1289079656.jpg?io=getty-c-w750"
-        width: 750
-        height: 422
-        isCached: true
+      name: TechRadar
+      domain: techradar.com
+    quality: 66
   - title: "Microsoft Azure: Empowering SMEs for Malaysia’s cloud-first future"
     excerpt: "HIT by the Covid-19 pandemic, small and medium enterprises (SMEs) are well aware of the need to go digital-first."
     publishedDateTime: 2022-04-27T02:28:00Z
@@ -98,6 +78,15 @@ related:
         width: 473
         height: 315
         isCached: true
+  - title: "Kraft Heinz taps Microsoft to boost supply chain visibility"
+    excerpt: "The company will use digital twins and control towers to help gain visibility and get products to market faster, a company executive said."
+    publishedDateTime: 2022-04-27T13:14:00Z
+    webUrl: "https://www.ciodive.com/news/Kraft-Heinz-Microsoft-partnership-supply-chain-tech-investment/622736/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
 
 secured: "+NnShLR6ZupqKcMx7/L3VzHFarbfti41o2IeaI8fw3ZaGBMUYyZSFQVfp+WRtWjikYomZLQgnejqmnH33FAS/xjTWnjnFWHmVSdnC3MYTFW3mCMzSfmVC8RfPZih/3sWx6T3MtV/K6DQYFngdc09OojOwJ9KCX9/HEfKb1ncwUs8VhW0MvX/Tc6uHhGYkkpNzkKSV5WjY8gT3opvcQpqqXT/OuBofzj/lihCXeR59qGqU8PIJsEdRBZKVbnZmv5hBVf1BkYsgWbULx46K9OtPLIXvy406MvcuS7Uc1Vu/S7MC2GWPKspIK0Squrzez2P/nqVak7UmG/KfxsAqAx5X2vyB1cnomY14kozwFTL+7s=;bYWZ4rvWXydpS1QmsdOF0w=="
 ---

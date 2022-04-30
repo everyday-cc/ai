@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/news/av/business-61255405"
 webUrl: "https://www.bbc.com/news/av/business-61255405"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BBC
@@ -26,6 +26,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Ways in Which Artificial Intelligence will Change the World"
+    excerpt: "Artificial intelligence is one of the most trending topics in technology. If you’re immersed in pop culture, chances are the first thing that comes to your mind when you hear artificial intelligence is a robot."
+    publishedDateTime: 2022-04-26T00:00:00Z
+    webUrl: "https://holycitysinner.com/2022/04/26/ways-in-which-artificial-intelligence-will-change-the-world/"
+    type: article
+    provider:
+      name: Holy City Sinner
+      domain: holycitysinner.com
+    quality: 39
+    images:
+      - url: "https://holycitysinner.com/wp-content/uploads/2022/04/owen-beard-K21Dn4OVxNw-unsplash-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "YLpfvULUMlmSVZx6rPFua57UtqtCO887MSP26EZSDSNadKnWe6ML1kX7KrgtBam5Scpng3ro2GVWwo/TP29Gbwoq1yzgrvd6N3dcXM/Stn0LA05IQ8v8hrfV/tM7bm7JgaAbFCIxYulW3NQRHJbRwMTDS0eiKwV4cRq4IixoCKqDMwfx9QJysRLxxtfdDRs6OAFYrbKMwv/Qdvd6BwblOyds177lkBLz3KfhrKAfCstXbdLrk7TCrpiJ+PyRiAGG31OsJRPRFz3hDrB2mRIsfH9J7AxcwW3fdcsZ1iOcWPWMRM366GcGdcs1Z/FOukr3k8mlsmk17taMKNMuRt1+CnWBu8Q9feORzlI2yOwtgdk=;XthXIhpmasgAJUbEHJ5q5A=="
 ---

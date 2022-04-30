@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/artificial-intelligence/swarm-learning-
 webUrl: "https://www.genengnews.com/artificial-intelligence/swarm-learning-ai-program-used-to-predict-cancer-from-patient-data/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,56 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Helps Detect Cancer from Patient Data Securely"
-    excerpt: "Researchers developed a novel way of using artificial intelligence (AI) to predict cancer from patient data without putting personal information at risk."
-    publishedDateTime: 2022-04-25T17:34:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm"
+  - title: "Swarm Learning Models to Predict Cancer Biomarkers Outperform Other AI"
+    excerpt: "A new study suggests that the high performance and increased data efficiency of swarm learning models to predict cancer biomarkers could overcome issues with current predictive analytics methods."
+    publishedDateTime: 2022-04-28T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/swarm-learning-models-to-predict-cancer-biomarkers-outperform-other-ai"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 70
-    images:
-      - url: "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Using AI to predict cancer from patient data without putting personal information at risk"
-    excerpt: "A new way of using artificial intelligence to predict cancer from patient data without putting personal information at risk has been developed by a team including University of Leeds medical scientists."
-    publishedDateTime: 2022-04-25T23:06:00Z
-    webUrl: "https://www.news-medical.net/news/20220425/Using-AI-to-predict-cancer-from-patient-data-without-putting-personal-information-at-risk.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220425/Using-AI-to-predict-cancer-from-patient-data-without-putting-personal-information-at-risk.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220425/Using-AI-to-predict-cancer-from-patient-data-without-putting-personal-information-at-risk.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 48
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Using AI to detect cancer from patient data securely"
-    excerpt: "A new way of using artificial intelligence to predict cancer from patient data without putting personal information at risk has been developed. Swarm learning can be used to help computers predict cancer in medical images of patient tissue samples,"
-    publishedDateTime: 2022-04-25T17:25:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220425121049.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-  - title: "AI may detect earliest signs of pancreatic cancer"
-    excerpt: "An artificial intelligence (AI) tool can accurately predicted who would develop pancreatic cancer based on what their CT scan images looked like years prior to being diagnosed with the disease. The findings may help prevent death through early detection of one of the most challenging cancers to treat."
-    publishedDateTime: 2022-04-26T20:34:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220426153718.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 17
 
 secured: "Jeq3wI6kWmi7WANrV/y2bV+SPVqT92HnTY3L2M5VM+KfFCgfdS0Qsm9S9e6r1j35SXrIcJu9x8O3pyFFE2yfN/UmINkt58xIn5ZbeREp3Ysx/TpVmIbfL/+lpYfBNE7KseO+MZOTmXWsApcBUctXasED+UBhfgOBYU3ugYs1VIF9yFY2/fO0FaFgghFMuwTgVtWlTAOxwzUkELXeanbIRZ2+EGMTjazg6zoksTod0SMQmYpTg5Ptq/1TJUM61G/+To47Pi1xBZ2cshFhx8vzcrhNUOIUzzz/8/kiB/kVy+6PvVVHf+FBbPaTkz9Q+mYSfV1vDR6zV3tGjQwdtbFc1cFE5M2TUea8QpIk3ohwg5z5D0F6IbqlIsQfAcs5qYD1Nm54qKLPZDJSo3YkEvbux/U9dLvhlMopC8QU/+jHfIESwlz4J97S8FdYETvPfHeSQ4WUEROFM+Fs/dS50ALrvEMySaR81yPw+fAY0ihnBNbOdUWQ6cNxzuew0ITq62I62Gu43PB2TWBc7qKNhg8hpQ==;VfsRkt3E97ypz1CUpIsBDQ=="
 ---

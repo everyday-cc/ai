@@ -88,15 +88,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "$36B+ AI in FinTech Industry Trends and Opportunities"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
-    publishedDateTime: 2022-04-25T17:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-36b-ai-fintech-industry-trends-opportunities-assessment-2027-/2022/04/25/9588806.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "RtnE59DHBYHpR9LHVfmBS15i+vzOcGvbO3khQQtblECLycPn/XyPV/a1snVeymexwFKa9JnbYcI60V49aYn+uVw8uJvM5qixr4+toZ2mJryvnjubfjgv4rkffmfYGlQmJA/tKqkGgtC45SHJinitnI+y7j9soSLgyPpL2DH5EsOBrKz9O/fW9HxvM5ZWFt14Qv11bHq39iwSEDIg8nPHcR/q4OtTQlqtp6k5822/ExP3JBacZptTLgeevPtP1bDXUTV0AlQLIi2PQp+Bz2ZAlx/3Fev2Usd0KKaFqkpD5s4RQIvvPbw4vnI53YJ5KWB6CRGEYKUBPFuH7vSTFx3A1H5z9lAriM9OgFqGcxhFFOCESKKXRcbh3rb9u7grsLPQ2EtxsQ8wzgEOKQa9ouYTu/l8h5V97yk1Jv0Lt+YTWaty5tKp4XKnm897oRqWheVPXdd/zzM0OI3UlaXYIZCy5zj+tImRMevlVCpzrS/HX/DtyF1v3xEohTFKFLv4Htnawvn5pOOVysixyaO7kOdraw==;QU5ZPnLsa5j7X3XdJvtl6A=="
 ---

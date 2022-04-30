@@ -44,20 +44,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "How Nordic Aviation Capital uses Amazon Rekognition to streamline operations and save up to EUR200,000 annually"
-    excerpt: "Nordic Aviation Capital (NAC) is the industry’s leading regional aircraft lessor, serving almost 70 airlines in approximately 45 countries worldwide. In 2021, NAC turned to AWS to help it use artificial intelligence (AI) to further improve its leasing operations and reduce its reliance on manual labor."
-    publishedDateTime: 2022-04-25T17:47:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-nordic-aviation-capital-uses-amazon-rekognition-to-streamline-operations-and-save-up-to-eur200000-annually/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/25/ML-8594-image003-2.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "3xLOGIC uses Amazon Rekognition Streaming Video Events to provide intelligent video analytics on live video streams to monitoring agents"
     excerpt: "3xLOGIC is a leader in commercial electronic security systems. They provide commercial security systems and managed video monitoring for businesses, hospitals, schools, and government agencies. Managed video monitoring is a critical component of a comprehensive security strategy for 3xLOGIC’s customers."
     publishedDateTime: 2022-04-28T20:40:44Z

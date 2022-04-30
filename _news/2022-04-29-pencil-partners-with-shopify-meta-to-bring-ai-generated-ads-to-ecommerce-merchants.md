@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-
 webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-business-5cb7ec915436edb3fd76562161cbbc85"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Pencil Partners with Shopify & Meta to Bring AI-Generated Ads to eCommerce Merchants"
+    excerpt: "Creative AI company Pencil has partnered with the No. 1 ecommerce platform ... Pencil puts the creative and analytical power of a professional agency into the hands of anyone looking to start and scale a business online.” This partnership announcement ..."
+    publishedDateTime: 2022-04-30T10:38:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=656011"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 32
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "SSZDp30Nt5wedK0swRKPxZ4jGCHhk3hDsa6sJdCw4UIgYcbJT5qbuuqFHF5hmWryuH3WgxOdzMcY4A4RVWhRijHXE17geBGJfNVOjhI4iV8AU9w2dTzuDkZjBC4miKk4Ee9LKGx8iJvQ1PKrICk/Vj6m5OIX3qTcpR5Y1PuNxqT32Tpvt4zfmqUrls4+LNsQbM4HcWdjdeIzIiuU1Bz2/hAq8mqzxrZqo2jHwsTz/HY7akNp1hGc7ho9H1j1S8mdxWNh+TosLrbA2y1++KVCCzEu9m7xNJXlXfvNW8YSqtMfEvS3obaOkD2wzYVVZiPhqLkig4XGZBxJzL9PL6suFF7yZn3XNT53f/oQ64QXqy0=;EzIVXdqROjugY48DIlU+Mw=="
 ---

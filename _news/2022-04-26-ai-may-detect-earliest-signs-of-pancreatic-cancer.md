@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -42,6 +42,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI may detect earliest signs of pancreatic cancer"
+    excerpt: "An artificial intelligence (AI) tool can accurately predicted who would develop pancreatic cancer based on what their CT scan images looked like years prior to being diagnosed with the disease. The findings may help prevent death through early detection of one of the most challenging cancers to treat."
+    publishedDateTime: 2022-04-26T20:34:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220426153718.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "WEpD4hQ2yNGrm5esqLe9EhOYF0A8ZAbdUZx2srh6BiFSq0Si+inL1I5yjiGWfnY48sAFfizDxr61/EPKJRtHNPbt3tbBZvA+64Fh0sLBVUAvfdbpgISyB8uYvkWUZZgET0SCMvSzoMkRu+jrhiDhYwa1onVF87DDHkwb7ZX2i15DzCehXc2B+JZ9s6QF5YYcdHM/mS19RYSgoDL82B35HBHYO7NtElMp0BdVGxEW3eFAmbr4y5vEFnZzjh2HCecc5ey9tDkFzHdRLgg90oHC/JPrefXum4zbNuLvCYEAjT1QsYGI23Eh7uwuik/DUDT6IUDQ1LQtJVjN4J0haqubZPMz+4/FzkJ5zB1kGPftiMKO8GVyuyl/Jqn7Z5fX/5jn3z5uM1KwXMSRx9mw8DYAFP2EWOg2oOWCxOhWCXRNyc9Qp/TY1nOGccsdz6EPD7LcVbTL06uPOaIXVTRHgr+FGbPuXM/r0DQdOGM9Ep2F2UWceUCVCbUZPsA9Xm5b5XMWYXGeH+bZjvg6jXWnGx94PQ==;ZajAgSF0g9Fes+MDNIawPQ=="
 ---

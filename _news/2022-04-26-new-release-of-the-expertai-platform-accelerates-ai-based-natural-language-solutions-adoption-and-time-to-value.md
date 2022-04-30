@@ -35,6 +35,20 @@ related:
         width: 876
         height: 494
         isCached: true
+  - title: "The Benefits of AI In Construction"
+    excerpt: "Historical data such as planned start and end dates are used by predictive models ... intelligence company launched in 2017 with the promise that its robots and artificial intelligence hold the key to solving late and over budget construction projects."
+    publishedDateTime: 2022-04-29T20:41:00Z
+    webUrl: "https://www.enr.com/articles/54037-the-benefits-of-ai-in-construction"
+    type: article
+    provider:
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 39
+    images:
+      - url: "https://www.enr.com/ext/resources/2022/04/29/The-Benefits-of-AI-In-Construction-cover-image.jpg?height=635&t=1651260664&width=1200"
+        width: 900
+        height: 550
+        isCached: true
 
 secured: "vGerV0OxXK2BzO0wWcQBOrx6+KPRoAnfeomEN9P6IeyJHu8CIvxAdnxxQIequaBZCShF9A4t2RwyAaBJ4x6BfltRBLSvB5P/2zyanu25gaiEXwZhV6gAFyi1FtWWrkGoPQZ3jnTsG8XCKgn12GJiiqdYV/+wrro4sm7d79iT3XkHifGk0XfKfBCd097hzcT3R6L7lIfx8+h+DOl+uXSZySk9f+X7nHPdiO9BLfNZOdXCH2gAv/JfPz2pZQzRs7RgkwZ5WuYmvFZcH5ER70K1UF6mX8aoG6++yYg/+NSo5/7rLjzcEyXCvvCbByAw3h/zX4PWExkwRKt1SIxo59s3B9bpHjVyIMZrdIzKkjhFm/E5/WPBc8gr1420yxib7T+NUnWZb35vBWou85zBOow30Gda98w6GuwDZmbKAAL7uiqkEEcXU75CLBakJP+ZUhdUefTS2jiLL46aW08jF9tV6SC5yWnl6aeHMgsEl1bq/BoZOESViu9IZm1xbSu6WbJrg3iDeiiCExe8oTpUoMuRIw==;k6krk6Fr+SDRlH6AmjsvPQ=="
 ---

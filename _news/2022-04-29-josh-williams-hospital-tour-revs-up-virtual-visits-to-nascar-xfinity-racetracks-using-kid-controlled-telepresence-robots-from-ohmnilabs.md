@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Josh Williams Hospital Tour Revs Up Virtual Visits to Nascar Xfinity Racetracks Using Kid-Controlled Telepresence Robots from OhmniLabs"
-excerpt: "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread of bacteria and viruses is paramount. Williams was able to ..."
-publishedDateTime: 2022-04-29T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled/article_a97c6ed5-8d87-5857-937d-63db50bbd22d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled/article_a97c6ed5-8d87-5857-937d-63db50bbd22d.html"
+excerpt: "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread ..."
+publishedDateTime: 2022-04-29T14:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled-telepresence-robots-from-ohmnilabs-1031402825"
+webUrl: "https://markets.businessinsider.com/news/stocks/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controlled-telepresence-robots-from-ohmnilabs-1031402825"
 type: article
-quality: 7
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
 
 related:
   - title: "Josh Williams Hospital Tour Revs Up Virtual Visits to NASCAR"
@@ -42,6 +40,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "c6jPVGZidpJLpoZAIDj1UObZGm4/d4xfJimECR2Gjxz/cLPfzcXRjYeLAjF0Kdo6qjdFTO6W9kHYCzElZwnOa6xEKijONBsPE0841lxjwq6KI629MVQ9LZgnkoLoAa4MQM6rDhAtQKRMtrnR7lJP2rZKjqqoDYpzJDwwY2Gob24+j0/Tlvbm+xvE0uk8h6CELeuGgET563SQDk3yG2GLetQ37x49WYLJYwG6ddYHR/ijlTSl3sRWbOsiZxmVUPfF6znZHjm4N/g4Sos8dVh4ScP5dR8/vibuJmGq6w3lnfPMb92zbGYnv1v0yC12T2+aHOuWJbjEPGhTpGplnOzdLTZ7YHBgGTIlpeK3OgLOZ+wQN2v//EWm0aK9R9gdmek4Sv3JTk/PScRow+IGgymKnwQXHGpy8jU6ycfi5GvwQtp7Crq9lfj/ULvXQ+f5RNwG/tu0mKY/PWzj34WAfatAHjr8O5dSYWGX9zPFO0eZadviXvJfB2cknEBpUK2IIzb59x9J1eD+Ch3xLjFABf3H1Q==;B5eDn4OBb10KW3QQkhm82A=="
+secured: "/1k/sjIzAO1r1DXOEAr9qwEeie2Ou+gN4kbDpSHhwbkgFfsydBHh+SPyZXo4gmf07jkyI1K3akvh8+hZdqFENQ5RPVmACeAsNmy41DVlTSo2mzN8xYIVYWPAn64YKwHRjQaqk3wSlt8ED4iUK/OfxylVl+65ZkTl9ovhISuoGBtBGDvuHx4T5hddYceVSWZqXVVMjMHVoNsXqBI8NupIcZ4hxW9PwqDuDoMakuQXTcXEL9pFE623fDud3V5AjmJu4aFyWhESos1nmphrdIG9Ak2n4NAjv8liFSCWOQD8sNyWoNhlJrQu4zGtRLJgA5LZDWkPSFFfDTtXTY4nA4MEWVtcUuH/3VaGogfRMrWJHgE=;ybxiPFWJEG7SNeTI4kTVvQ=="
 ---
 

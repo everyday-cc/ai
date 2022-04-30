@@ -3,10 +3,10 @@ category: news
 title: "Oregon weighs use of AI child-neglect algorithm critics say adds to racial, economic disparities"
 excerpt: "For family law attorney Robin Frank, defending parents at one of their lowest points — when they risk losing their children — has never been easy. The job is never easy, but in the past she knew what she was up against when squaring off against child ..."
 publishedDateTime: 2022-04-29T16:39:00Z
-originalUrl: "https://www.registerguard.com/story/news/2022/04/29/ai-algorithm-that-screens-for-child-neglect-raises-concerns-oregon-families-allegheny-county-pa-tool/65352644007/"
-webUrl: "https://www.registerguard.com/story/news/2022/04/29/ai-algorithm-that-screens-for-child-neglect-raises-concerns-oregon-families-allegheny-county-pa-tool/65352644007/"
-ampWebUrl: "https://amp.registerguard.com/amp/65352644007"
-cdnAmpWebUrl: "https://amp-registerguard-com.cdn.ampproject.org/c/s/amp.registerguard.com/amp/65352644007"
+originalUrl: "https://www.statesmanjournal.com/story/news/2022/04/29/ai-algorithm-that-screens-for-child-neglect-raises-concerns-oregon-families-allegheny-county-pa-tool/65352644007/"
+webUrl: "https://www.statesmanjournal.com/story/news/2022/04/29/ai-algorithm-that-screens-for-child-neglect-raises-concerns-oregon-families-allegheny-county-pa-tool/65352644007/"
+ampWebUrl: "https://amp.statesmanjournal.com/amp/65352644007"
+cdnAmpWebUrl: "https://amp-statesmanjournal-com.cdn.ampproject.org/c/s/amp.statesmanjournal.com/amp/65352644007"
 type: article
 quality: 44
 heat: 44
@@ -14,7 +14,7 @@ published: false
 
 provider:
   name: Statesman Journal
-  domain: registerguard.com
+  domain: statesmanjournal.com
 
 topics:
   - AI
@@ -25,6 +25,6 @@ images:
     height: 675
     isCached: true
 
-secured: "CHFgl52B/BqSDaK8fFupefZ1+lVd4BhdCEiXTdEBlfva2VqJZjeWajQ2GpIA3bf0uA0jeVEI2PDPkhN51jAs23tT1xxg6mWujBM0uVQOcZkY7AZNEd1RnsO3uuVC+dtiOo/vfREbLVRjq5V2LDoDmaYTMGYDdM+Vd38VH9qChSSaPNu2UnmhsdbpZZ4OEo/X+GAL9yHhUdJUAzkIldERIIjKyhkm171Yx9zDK8r8IiRI2VAAN2SPlgeQ3kiVuH3nfSfQsTL+7PLcusBmHt9YfPu39LMLW+rlCzzI5fUkHigzEYrOdba6bnqXjW7be/k+rzdERK5GuL5HMTPlVm+VIOy8NPGGj8O2PaMfGVJd2ME=;USBHYcB7PZZ/tbGtwg9fEA=="
+secured: "U/M96H8SfRne/GU+pvCLjbBs9tAMj/K2mkZywWG2lwpnAhq//f/G5rPmSz8Q7L8fbpWAzpyXIP/yvlHXF50PPgnNv8G4Rq1pfeJt8C0FWS+NSfWsDZLiEXvsGPerjVJW3HEw2CWYiic+DyYbpabpdkqEQXjxgJvKuzWgzz2AgpUBeWVM3Lq2OMbe+OqbL42b98ODQKrTj0I8lNaNX9TZIR1MASUZwgxGLzkj0YqUQMi+1Cxv5C5IF1gTgElC8WBsHm+reRsGIsOOD93CUlKYAQP3xeihHTxbIWjc34YXCLcLHl/7TxmKuokGOkVKDQDZy8eRcl4oB64AXoDTkLKQgDi0QiInZzEPZro2udv4R3Y=;wg2dNnQGOiXglHLM+VOumQ=="
 ---
 

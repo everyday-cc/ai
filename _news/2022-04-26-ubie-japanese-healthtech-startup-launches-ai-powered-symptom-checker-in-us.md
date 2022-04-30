@@ -79,20 +79,6 @@ related:
       name: Nippon
       domain: nippon.com
     quality: 34
-  - title: "TD chief AI officer, CDL-Toronto lead team up with health expert for new healthtech startup, Signal 1"
-    excerpt: "Three Canadian technology leaders are coming together to launch a healthtech startup with $12.7 million CAD ($10 million USD) in all-equity seed funding. Signal 1, which was co-founded by TD chief AI officer Tomi Poutanen, raised the Inovia Capital-led ..."
-    publishedDateTime: 2022-04-25T17:41:00Z
-    webUrl: "https://betakit.com/td-chief-ai-officer-cdl-toronto-lead-team-up-with-health-expert-for-new-healthtech-startup-signal-1/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 22
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/04/Signal-1-co-founders.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "1st film written by Japanese AI bot takes movie-making to next phase"
     excerpt: "Writer's block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the first film written by a Japanese AI bot is aiming to demonstrate what it can do at a major short film festival this year."
     publishedDateTime: 2022-04-29T21:34:00Z

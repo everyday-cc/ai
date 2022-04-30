@@ -1,32 +1,28 @@
 ---
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-publishedDateTime: 2022-04-29T12:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
-webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+publishedDateTime: 2022-04-29T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
 type: article
-quality: 96
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
+  - AI in Autos
 
 images:
-  - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
-    width: 400
-    height: 215
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/32/c32e84a0-db06-53c5-8603-d1099e30d946/626bd3cfae730.image.jpg?crop=811%2C426%2C0%2C5&resize=811%2C426&order=crop%2Cresize"
+    width: 811
+    height: 426
     isCached: true
 
 related:
@@ -271,7 +267,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
     type: article
     provider:
       name: The Financial Times
@@ -348,6 +344,6 @@ related:
         height: 720
         isCached: true
 
-secured: "0wPP/BSwgxwehfbtoyBfZHVgdp/fPgBXBlC0no+8do6ZwiQTec6uso/hxnkp6qwN5KhC9lWe/3wzT3LYeawghR7OGD8IO9idUBhTu5T5CFJ+C7T2TW45diCk7SjXVrhHZ0adg4ZgnydGvvenZNaqM7Xod+4bBBrkVt3hPpHNCMQ8hdBnOp64mkRmPzg7Ik/url9jk5U8fr6xPd+V+qDkjEMj/gP4EoK5JoshdcgasMR/ETjIYHpjb7aDJufngTOntw9nLKWPj6e0b29OGp70TbDeXHt67EYBr3MsKNEocUHnOeA5jvIj8sqHueyFXBHqibXavluVuGebzJgxb40CCpgEIB1MdRfdkIFDXgjHIsE=;6AFwGV2+GYeVAheqr8YGdg=="
+secured: "D7Twcd5VtipV5qwl3U/HczKCRHIGC7Rpg6KI3U0AUPE0liYwL44UhyXYJa418FP8FBQFXN3sgWycT6M9kctVcKsqVXJcUilqLQgoeXEHsO+ZDzCRO+z1x90APOZSqy9ay98SU/PDO2mbJTScUqV2UtT6R6r8+jSROF5sv9i5HnKbFDD3yPxP36i5V7jeKdeTPZ8tmCVG2bodTkdTkY7iubSCySGqO94ryJPaJ/pmdIepmTP6yaAaoftNgvvjPSddoT3412BiuvaFltespEY0RH8/Pg4DYlvLxICE5UPqErQRwmuNbQQTAszXLw2iMSEx1mWetu8hVfmSkLywCpHZ3RP8JV66zT+OGS4Uby/8tqI=;OghMmfViaqdHUGB0kPbVmg=="
 ---
 
