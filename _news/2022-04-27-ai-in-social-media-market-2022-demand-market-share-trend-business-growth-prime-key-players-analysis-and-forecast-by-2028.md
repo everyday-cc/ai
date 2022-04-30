@@ -70,20 +70,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "AI-Assisted Diagnosis in Neurology Market Scope And Share Forecast 2022 to 2027 | By -BioMind, Arterys, Brain Scientific"
-    excerpt: "New Jersey, United States- Report coverage: The Global AI-Assisted Diagnosis in Neurology Market investigation report contains Types (Hardware, Software), Applications & all logical and factual briefs about the Market 2022 Overview,"
-    publishedDateTime: 2022-04-25T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-assisted-diagnosis-in-neurology-market-scope-and-share-forecast-2022-to-2027-by--biomind-arterys-brain-scientific-2022-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Software Market Size, Share Growth, and Forecast 2021-2027"
     excerpt: "It is a system that puts Edge Computing and Artificial Intelligence (AI) together. AI is a machine made to performs tasks that otherwise require human intelligent. Together Edge computing and AI brings many breakthrough advancements like self-driving cars ..."
     publishedDateTime: 2022-04-29T10:35:00Z

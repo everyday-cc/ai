@@ -8,8 +8,8 @@ webUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-a
 ampWebUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
 type: article
-quality: 66
-heat: 126
+quality: 68
+heat: 128
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1651242910.jpg"
@@ -99,6 +100,6 @@ related:
       domain: mortgagefinancegazette.com
     quality: 4
 
-secured: "uF+vAoJz64wSuTDFbG9lgb6ZKkD8fx1qFxBzXc+x1D6kGu28rFUBuYb/gwVJmyP4H3hUN/vO4AeAuYDWYcbN3Nd9gfmhXQkorzwUybKISS9cShgRg92pNSES/d6Of4swIMkRHbiEMRpJ49xx1jEu36BDqzR05zT9Oxwapdf+MWDOxN8EzMYycNdoFfkiuPtAqPLIcKZzK3V+UQoVozyU3fTQdAQBvUyRH07gBZRtoQ4kLSIq5hH5dNJt/0SkpuoulAe4BoF+DawrJBDQMFFDdCUtUHKMF6gr0gU9rNTQHd184hry0/7wVxw7VMthE/xtlFmoNRzw3izFjfZ1PRI8tCugECSmKNNcTAMVwdLkyf0=;6DuPquNhCziHAkEotCTD6w=="
+secured: "YGeIRVmx4gryIddFObyVAoh9+SqS2OoXDdfKs9/iTYY9CaniyfireeL7Meb8xU3FuYblLLQDkq6kry5dfEwBpsJ41n0v88rzQMDsZ/Nv5pIGAgz2JB5YS3fmqHG/oGT3fsQG6g6bN1jEn+bJlvT4hfWOfK2tyWPpIGKLCQLEAB0xihH5kyATKQz/lb3xeqdlp0gtRYiRyFJMPupBOvx3ihsJ2MFelJvz0viauaOu50OU/GvFwa5wAQ+Y0+aTZ3s+pHNyLtgWXNE1aKU+plaNnrUk9UzgvdGbiT/hu2sq4rw4cZfOEIA3J+YssBEjU27rAm/YrnK2etYAqHtB1SyZQNOmJTFUam9YVSYHt1qr1zLX+EXQxwGNK/QmlT7bRzV97FK8gEXDLlvBMOBnpBeWrc3YMD7Unki2UPJc+KwoSrELBbAyfJ0MilvTf2bfsr/BoWqcMqBZQk8zu37TYMrwtm3LyjjaDOqfGrM2/A8enSaCnf4QghYg6mxn4CKVUamJ2y24pyQUo02l7iR/GU3Hgg==;rKDtCu7AwfKDUOJfAsFoGQ=="
 ---
 

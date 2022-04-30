@@ -37,15 +37,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "International AI Accelerator INTEMA Announces Its First Demo Day"
-    excerpt: "Join INTEMA on its first Demo Day and meet innovative deep tech startups based on AI algorithms that are already shaping our future. NEW YORK,"
-    publishedDateTime: 2022-04-25T12:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/international-ai-accelerator-intema-announces-its-first-demo-day-1031379801"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program"
     excerpt: "NEC Corporation, a leader in IT and network technologies, and NEC X, the innovation accelerator for NEC’s emerging technologies, announced today that Beagle Technology is the fifth startup to graduate from the NEC X Corporate Accelerator Program (CAP)."
     publishedDateTime: 2022-04-26T13:02:00Z

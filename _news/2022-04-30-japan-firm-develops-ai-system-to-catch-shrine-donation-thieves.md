@@ -47,6 +47,20 @@ related:
         width: 1006
         height: 539
         isCached: true
+  - title: "Japan firm develops AI system to catch shrine box donations thieves"
+    excerpt: "\"We went through numerous tests to aim for creating a low-cost AI system that is also compatible with other firms' cameras,\" said Takuya Kanematsu, 44, president of the company. A shrine in Nagoya ..."
+    publishedDateTime: 2022-04-30T04:20:00Z
+    webUrl: "https://mainichi.jp/english/articles/20220430/p2g/00m/0bu/020000c"
+    type: article
+    provider:
+      name: 毎日新聞
+      domain: mainichi.jp
+    quality: 37
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2022/04/30/20220430p2g00m0bu019000p/6.jpg?1"
+        width: 301
+        height: 335
+        isCached: true
 
 secured: "4TQ5dB6Xd3DVehbtVr+HbVm/qrIOR/CmwbP0sPCOoNi7FkrZjs6ciN+AhbjRdQBss/SoaHqSD1LgP7Vb694ErKPr7J3c4nVgFHyKfYeJtD7TE0ij/7CK48H3ek3a7OGjpPcrQkNBzty8IH39OU6WsgQb1RyQDmptoFKYkvFCdWTTnt9eT3HXKNiRwDAIddG+dEutR9YfFZ5pt2p8+7+BGkqIuVQBU/UFG8ZRueuC52d3447RZDKSubMj9Jok/se9gIVX1qL9hRfF8jXM+l7jSZeonQsfXSoE6sbHsJjh/I52VzvNx/cYYjkIgTnH0uTddNJa8JGAp2NcZOl3tKT0Q8rk7s5QkbH+lonNVEAtM1Q=;PTL0sXUJewrC7YD54DKvcg=="
 ---

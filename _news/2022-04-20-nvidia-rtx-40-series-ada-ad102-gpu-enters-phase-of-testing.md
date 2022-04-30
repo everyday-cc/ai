@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NVIDIA RTX 40-Series 'Ada' AD102 GPU Enters Phase of Testing"
-excerpt: "Nvidia's next-generation GPU family, codenamed Ada Lovelace, is anticipated to ship this autumn, and it's about time for the firm and its partners to begin testing the new graphics"
-publishedDateTime: 2022-04-20T07:17:00Z
-originalUrl: "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing.html"
-webUrl: "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing.html"
+excerpt: "Nvidia's next-generation GPU family, codenamed Ada Lovelace ... and artificial intelligence (AI) applications. Nvidia's GeForce RTX 4000-series 'Ada Lovelace' GPUs are planned to be manufactured ..."
+publishedDateTime: 2022-04-20T09:03:00Z
+originalUrl: "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing,10.html"
+webUrl: "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing,10.html"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "JvcayS2H23Qjm/ld6Ysr5PCOjkFyYjcqtMXANz32I2uJmava0m4KZCElkphvAIUQ+/zorx1soR9y8iDxGt6JvnBJps+6k9nj4pjitWtri4+sC9Gp509gQ5uqk3YRt8o478/6PwbpDe6yneotJSFoIw8Dj/VF3gcEj/KrxgZh8azzhDDdFyCEOJKyd4rEWHKdNtWtBI6ym5DH4q+DiRe4Mubyb/LOeMsLR8ZmqlG71nzCuWCUr9BZWbCzZHrNzQ+AhTejj9vw03aNQyPjYT0ADZpWT5Te5xQkxUTocdPxo8Ol9AdgGz2r+Fypgd8iNEV4PQ67VEUmKYhMMB35ONDxVqiN/eKIQy6V0VH21nGVdvc=;fUsUWWgo76QNc0AEwByyIg=="
+secured: "OCFx6RRJAd9rB6QQuizJSnIEoBleTQHPB6X5vScpCVtzf8SvImuOkzmOEYQH8YNH7erHItsoDJGA1Clc5lyeGU4Nmf2Xka465TM1V285t7RpPMoA3k1OSMkcMhmwGxKuR1g1gAQyvfsaff2V/tfeRIlExD/y6pjI5tWAIryeYxJ/qr85K9r+sTTEPhgD8CaCq9nPzVNk6uiiB2RzxBbdh2KfNSUskI0p2WjLicgMpjqX38eChqr3wonibPbCWgTUtw/85bpukrT4m8SgRwve/gBQmFEMihZW9HDhjEQAuvZlOOUNXw1w9Sx6WaX6RHTr173mscLByWgFKtRE8MDXojdk+lammXDoiR5dAzVvMi4=;GoqZ0ZRwk6hMBB6OXVVuTQ=="
 ---
 

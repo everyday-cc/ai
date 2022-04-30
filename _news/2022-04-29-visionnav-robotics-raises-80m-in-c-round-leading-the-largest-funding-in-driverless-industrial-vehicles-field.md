@@ -1,27 +1,29 @@
 ---
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-publishedDateTime: 2022-04-29T12:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
-webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+publishedDateTime: 2022-04-29T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
 type: article
-quality: 76
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
+  - AI in Autos
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/32/c32e84a0-db06-53c5-8603-d1099e30d946/626bd3cfae730.image.jpg?crop=811%2C426%2C0%2C5&resize=811%2C426&order=crop%2Cresize"
+    width: 811
+    height: 426
+    isCached: true
 
 related:
   - title: "Baidu, Pony.AI win first driverless robotaxi permits in China"
@@ -163,20 +165,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/25/40/31/22414936/3/ratio3x2_400.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "Robotaxi startup Pony.ai gains taxi license in China city"
-    excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, said on Sunday it has obtained a taxi license in China, which will allow some of its driverless vehicles to start charging fares."
-    publishedDateTime: 2022-04-25T11:06:00Z
-    webUrl: "https://www.reuters.com/technology/robotaxi-startup-ponyai-gains-taxi-license-china-city-2022-04-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/b4Hz6J1ik8QHWhHnLhfVga1xQ9c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TG54DV7IVNMMNEMUWJZ6ZQYQYU.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Pony.ai lassos China's first autonomous taxi license"
     excerpt: "Autonomous driving company Pony.ai is the operator, and the only business of its kind granted a license to run driverless cabs in China, the company said. It has tested vehicles, including a driverless semi truck,"
@@ -345,15 +333,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Pony.ai Gets Licensed to Run Robotaxis in South China"
-    excerpt: "Chinese self-driving startup Pony.ai has obtained a business license ... The license marks a milestone in efforts to commercialize a technology on which tech giants like Baidu and Huawei have placed big bets. But when the company launches the service ..."
-    publishedDateTime: 2022-04-25T12:14:00Z
-    webUrl: "https://www.caixinglobal.com/2022-04-25/ponyai-gets-licensed-to-run-robotaxis-in-south-china-101876313.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 19
   - title: "China's Baidu Receives the First-Ever Permit to Operate its ‘Apollo Go' Robotaxi Service in Beijing Without Safety Drivers Onboard"
     excerpt: "China's Baidu Inc. has received the first-ever permits in China authorizing the company to provide fully-driverless ride-hailing services to the public in Beijing, meaning that no safety drivers will be present in the vehicles."
     publishedDateTime: 2022-04-28T15:30:00Z
@@ -383,6 +362,6 @@ related:
         height: 720
         isCached: true
 
-secured: "bIo5shvj9qJSfV/kbko/hwyBhsfkLvh17eS1qO6n8qBbczo0ScxH7QM96fYrmSFiKPEw+4zo8jQdvUXd/YUXqjEaWHXamCw8bRQ+ftsJVOo4EPWf+Q71V4hlJTzscKNG+vukDuT52v6qz8/JzW1mR2EeTSWJgGA4qzkDnIFgFSJ9iL0mUDMOWCnPGCXFRs4GTV8ToBm9OjPVPW77VnT1zJpRkAtQvaB+PXunCx+HfyDYiJgookFplNigKGg67zDlsP4vSoWTj2c5kNV/KI96nK/FHvU0CBX1aoYiz3VEwmYshxY/bpF7tE/zCYYHM3t0mXNA/HE0DHXOH5wuPR+F1WNoIKgo+VSijZEV3JTyRLrTd/5T1GsqG8+akQvyBn2lunjt1sD19e94v3pWgYJjQ3iSOJ+TDXI0NNVHFr29askJy2oCifyuRZ/eOP582AC3P3PTkLsN2OmkfXP9Fsj4ND4ISO23FWL28WaP5+svDT4aVBEC8vprMUfAGPFWFBs4Qf9W72IrJoQRT79bDInRog==;WQV+ZfCMuhpnXVHmoaCejw=="
+secured: "ti6KUyzr6LLts3Q3MkReu8mxgDBQyfvAiEuNKIBTwrklvq2LrRC22AmL7xWmOCttDsjSTwswcvmSb/PR+zrVRawambcpI9gJQgZ2oJiCvtzQ2zUL8y1cMFVdw0Ff4rU8xBkDF8fMcn9yClBrKobfoTbsb+KBjkILlck1k6nqkZO5Hz+Qu7aHDLoMlXV3veuqm18yg4au+k5k+VjjlrUTk8ZiRVHYBG6K3bgAxboCQQ6ZxQWy8aHvMbgaWZb3sozh/mWFuC5lGzXGgobuc9xdCcZjE6aWqoBAg+0EyOsDhz3sEVCVJw0cNYdZ2iVnxlb2UZSD0COjckQ8Om9tc1+lxdNUmnt1SsNPLGXAqOP2WzA=;G1jp2QREYZfMaAmGx3MomA=="
 ---
 

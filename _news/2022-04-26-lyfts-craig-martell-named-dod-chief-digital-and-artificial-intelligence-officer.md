@@ -89,14 +89,14 @@ related:
   - title: "Pentagon hails Lyft exec Martell for AI post"
     excerpt: "He brings cutting-edge industry experience to apply to our unique mission set,” Deputy Secretary of Defense Kathleen Hicks said April 25."
     publishedDateTime: 2022-04-25T21:39:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
+    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
+      name: C4ISRNET
+      domain: c4isrnet.com
     quality: 37
     images:
-      - url: "https://www.defensenews.com/resizer/ek5qZ1EaFDEZYs7eGOy8MAum8ws=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/VL5HV7EVG5BMBONBWAL5NJDKTU.jpg"
+      - url: "https://www.c4isrnet.com/resizer/ek5qZ1EaFDEZYs7eGOy8MAum8ws=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/VL5HV7EVG5BMBONBWAL5NJDKTU.jpg"
         width: 1024
         height: 683
         isCached: true

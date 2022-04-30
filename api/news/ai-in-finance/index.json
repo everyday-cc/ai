@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-30-how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score.md",
+      "title": "How Fintech Companies Are Using AI, Machine Learning To Create Alternate Lending Score",
+      "excerpt": "One may well credit Artificial Intelligence and Machine Learning, which help in creating a favourable credit environment for a broader range of users, thus, providing means of an alternative lending score that doesn’t rely solely only on an individual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058",
+      "originalUrl": "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1651242910.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp",
+      "publishedDateTime": "2022-04-29T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few.md",
       "title": "Federal banking agencies trying to ensure AI, ML benefit most rather than the few",
       "excerpt": "Measuring risks and setting benchmarks for emerging fintech is top of mind for NIST and the Commerce Department.",
@@ -366,6 +410,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-cross-river-and-sardine-partner-to-build-critical-risk-and-payments-infrastructure-for-fintech-web3-and-crypto-companies.md",
+      "title": "Cross River and Sardine Partner to Build Critical Risk and Payments Infrastructure for Fintech, Web3 and Crypto Companies",
+      "excerpt": "Cross River Bank (“Cross River”), a technology infrastructure provider that offers embedded financial solutions, today announced a partnership with Sardine, a behavior-based fraud and compliance platform for digital wallets and neobanks,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1248,94 +1335,6 @@
         "AI",
         "AI in Finance",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-prognostics-of-unsupported-railway-sleepers-and-their-severity-diagnostics-using-machine-learning.md",
-      "title": "Prognostics of unsupported railway sleepers and their severity diagnostics using machine learning",
-      "excerpt": "Railway sleepers are safety–critical components of a railway structure. They support ballasted track superstructure and are a critical factor in track geometry and track components’ deterioration. Unsupported sleepers are a common issue incurred after tracks have been utilized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-022-10062-w",
-      "originalUrl": "https://www.nature.com/articles/s41598-022-10062-w",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-10062-w/MediaObjects/41598_2022_10062_Fig1_HTML.png",
-          "width": 685,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-small-medium-enterprises-ramping-up-their-security-through-cloud-based-financial-analytics-deployment.md",
-      "title": "Small & Medium Enterprises Ramping up their Security through Cloud-Based Financial Analytics Deployment",
-      "excerpt": "Financial Analytics Market to Top US$ 25.1 Bn Amid Surging Application in the BFSI Sector. In its latest market study, Fact.MR offers unbiased analysis on the global financial ana",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-small-medium-enterprises-ramping-up-their-security-through-/2022/04/11/9580453.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-small-medium-enterprises-ramping-up-their-security-through-/2022/04/11/9580453.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/713666/FactMR_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

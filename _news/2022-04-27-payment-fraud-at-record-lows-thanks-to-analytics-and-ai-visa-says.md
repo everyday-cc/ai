@@ -34,15 +34,6 @@ related:
         width: 287
         height: 264
         isCached: true
-  - title: "Pushing Forward The Value Of Analytics, AI And Automation In Telcos"
-    excerpt: "A complex company like a telco will continue to build out skill sets in analytics, AI and automation (A3) for the foreseeable future. The main areas of this development are described in this article."
-    publishedDateTime: 2022-04-25T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/25/pushing-forward-the-value-of-analytics-ai-and-automation-in-telcos/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "ajTvZELnwEWGzqlqFVNqt9K1sSNM63KrudBM/XMfZO2dHuimL/FTjigv3Y/ExEl1fgM6YY/B8RCwZoxytbBw1fep3c2DFl1jaU2O+IeW/gdZgZWXfSeARNzgoQSV1Y01/IcxkXFCNHF//wpIetm4kFpEL0tWdlCQggeA3KIX7PDCUPQV3AfKVOL9nvjxK3OK5Z/imM9aMkbrXAr2IhsoTXDHmJZQJI+5yapkgb3EpPYTYEJtHBgHa6PcpUigjnqqNnmsVA+b7W3idaMk9FiTx1mwsMYSTB5canIURhEaw0tjr/6LG4DjjMM2qaO3YE68WuEupGIkcyfsMyR6Mzhkcq06HjgCy735fB4EOlVIeB02lTyeIEjM0Dp6aSB5pmbAJb+GK3TPilPt5Owk1ZXA8q9PC+MZKgSTgcWYy1TpAP5Rx3LhLIT63IrwJ9yrbTK+5cVwhRqAzApNTAnt9I55uBFzmQ+B/EiWi4fSYJX1ErKhn9paWlgbnbEzjsmbJ0OGx1+2Tucje8RNEEiiRjUfwQ==;X3Ju1dTB0FWjsfXLUZJr2A=="
 ---

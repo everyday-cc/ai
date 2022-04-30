@@ -491,48 +491,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-28-danelfin-an-ai-enhanced-stock-analytics-platform-secures-212797-via-crowdcube.md",
-      "title": "Danelfin, an AI enhanced Stock Analytics Platform, Secures €212,797 via Crowdcube",
-      "excerpt": "Danelfin, an AI-enhanced stock analytics platform, secured 72% (€202,330) of its €280,000 target via Crowdcube (at the time of writing).",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Charles-Darwin-Money-Pound-England-UK.jpg",
-          "width": 287,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/amp/",
-      "publishedDateTime": "2022-04-28T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-28-this-ai-enabled-robotic-boat-cleans-up-harbors-and-rivers-to-keep-plastic-trash-out-of-the-ocean.md",
       "title": "This AI-enabled robotic boat cleans up harbors and rivers to keep plastic trash out of the ocean",
       "excerpt": "Hong Kong-based startup, Open Ocean Engineering, has developed Clearbot Neo, an AI-enabled robotic boat that autonomously collects trash in rivers and industrial waterways.",
@@ -737,7 +695,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -1084,7 +1042,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/27/hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1179,7 +1137,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 222,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -1221,6 +1179,58 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.md",
+      "title": "New HPE offerings aim to turbocharge machine-learning implementation",
+      "excerpt": "Machine Learning Development System and Swarm Learning address implementation pain points for enterprise users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
+      "originalUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/17/21/ai_machine-learning_analytics_data-scientist-100777422-large-100914304-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
+      "publishedDateTime": "2022-04-27T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

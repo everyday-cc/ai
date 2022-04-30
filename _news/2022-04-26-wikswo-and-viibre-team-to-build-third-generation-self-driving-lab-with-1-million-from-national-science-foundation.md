@@ -3,11 +3,11 @@ category: news
 title: "Wikswo and VIIBRE team to build third-generation 'self-driving lab' with $1 million from National Science Foundation"
 excerpt: "Wikswo and VIIBRE team to build third-generation 'self-driving lab' with $1 million from National Science Foundation . April 25, 2022 by David"
 publishedDateTime: 2022-04-25T22:56:00Z
-originalUrl: "https://menafn.com/1104090215/Wikswo-and-VIIBRE-team-to-build-third-generation-self-driving-lab-with-1-million-from-National-Science-Foundation"
-webUrl: "https://menafn.com/1104090215/Wikswo-and-VIIBRE-team-to-build-third-generation-self-driving-lab-with-1-million-from-National-Science-Foundation"
+originalUrl: "https://menafn.com/1104090215/Wikswo-and-VIIBRE-team-to-build-third-generation-self-driving-lab-with-1-million-from-National-Science-Foundation&source=139"
+webUrl: "https://menafn.com/1104090215/Wikswo-and-VIIBRE-team-to-build-third-generation-self-driving-lab-with-1-million-from-National-Science-Foundation&source=139"
 type: article
-quality: 0
-heat: 0
+quality: 1
+heat: 1
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "EV9SvlRAE/vf2YLx+PxNuy+gLZ5fQXIjAv794hWA1N2IfXE9wunTc/n7pwlprepoMFk0CE0VPei5nM9+0d8kOPmEj31cx1cJvqOYEG1XkisA6HRvsotK36qnNSC2m0vLyLJXY7Xjj7sLyA0NXOe8RceAlemsG5cmLNp1ruyzKYQm5LyfK1OQgNPYeNv0KNE/XJhOG3HdRPe35AW71sXpuGstPC8VmAMIkwkSELbfT8Cd93GLWGBRzzLYZilauc5yTm/wE2KXPz3D8ZrAhqmX8Z+9LmPCPWh/QBuVMgj17l/M0r80+kFfhuHv9mt5ImbTbLppfdY0Z0BPyWKXqkcnunVREoXQ4wLD4lviKKa9bUzQ2Qejybhv83iUasHEtJr9fXQxwOcUIoEv4D4UbPxOXXvBVztY8ZEhAgGcFbWNdFKuGwhTZ9SHVk41Na13mSMrHhAPGH2KiqjByXhBvnespirJcDWqxSXAQNWEZjoM7GL8Er6v6AXgs6mxpW9JXaZCUSgYhh5KXLbWE+S+3kdmYw==;9x8UM5xyzO22mVr235jyfA=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-04/25/R&AN_277f1image_story.jpeg"
+    width: 800
+    height: 533
+    isCached: true
+
+secured: "K16wCBTrOpPX+R9Hv2kG71/1Kt/iBuRFkDQbD504aZUof58C/ykdAIA49hdM1vql2kqpadK1No81GWq55KeYkycx2Hozgy7Ft13eGfHLiUPzM8l/xd9vxk7fdkjootdxU5vJC/G7NWvLihQfkzlpR6ENZ8kwDVBe7ohtLRnSkbivcitTL7YCVmB/Ncs0id6u3NHtePezUwNNLaiyxRSkq1LVqRXsNxMXzGEpwXg8rjft+pWtr7gfJLILb65kGRFi1tZJclmSbndlkIEqB/6E1KVfcdpxW5VN4e/SVw3hbyGZrEC4hIOpb5gGfyjYzQJgl7rEqG0Cfzb20ULH4CdTKufykR2Kd3Lm04njFCk48HY=;vC3yGR/r45geNiDa88r0cw=="
 ---
 

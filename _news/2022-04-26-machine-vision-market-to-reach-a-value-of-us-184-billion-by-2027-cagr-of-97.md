@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Blockchain AI Market size is projected to reach USD 1,125.9 Million by 2027 at a CAGR of 25.6% | Report by Emergen Research"
+    excerpt: "Blockchain AI market is estimated to reach value of USD 1,125.9 Million by 2027, according to a current analysis by Emergen Research. Blockchain and AI"
+    publishedDateTime: 2022-04-26T13:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/blockchain-ai-market-size-is-projected-to-reach-usd-1125-9-million-by-2027-at-a-cagr-of-25-6-report-by-emergen-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 11
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports"
+    excerpt: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% \\| Valuates Reports. BANGALORE, India, April 26, 2022 /PRNewswire/ -- The Intelligent Docu"
+    publishedDateTime: 2022-04-26T13:07:00Z
+    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2019-oct/7276007268-coding-1853305_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Machine Vision Systems Market to Reach US$ 17.57 Bn , Globally, by 2027 at 7.53% CAGR: The Insight Partners"
     excerpt: "Machine vision systems are amalgamation of computer vision into industrial manufacturing processes. Machine vision make use of industrial image processing by using cameras which are placed over production lines and cells with the intention to visually ..."
     publishedDateTime: 2022-04-29T13:49:00Z

@@ -43,15 +43,6 @@ related:
         isCached: true
   - title: "International AI Accelerator INTEMA Announces Its First Demo Day"
     excerpt: "Join INTEMA on its first Demo Day and meet innovative deep tech startups based on AI algorithms that are already shaping our future. NEW YORK,"
-    publishedDateTime: 2022-04-25T12:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/international-ai-accelerator-intema-announces-its-first-demo-day-1031379801"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "International AI Accelerator INTEMA Announces Its First Demo Day"
-    excerpt: "Join INTEMA on its first Demo Day and meet innovative deep tech startups based on AI algorithms that are already shaping our future. NEW YORK,"
     publishedDateTime: 2022-04-26T07:27:00Z
     webUrl: "https://www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/"
     ampWebUrl: "https://www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/amp/"

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27"
 type: article
 quality: 62
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?320558"
         width: 375
         height: 250
-        isCached: true
-  - title: "AI-Assisted Diagnosis in Neurology Market Scope And Share Forecast 2022 to 2027 | By -BioMind, Arterys, Brain Scientific"
-    excerpt: "New Jersey, United States- Report coverage: The Global AI-Assisted Diagnosis in Neurology Market investigation report contains Types (Hardware, Software), Applications & all logical and factual briefs about the Market 2022 Overview,"
-    publishedDateTime: 2022-04-25T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-assisted-diagnosis-in-neurology-market-scope-and-share-forecast-2022-to-2027-by--biomind-arterys-brain-scientific-2022-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI in Social Media Market 2022: Demand, Market Share, Trend, Business Growth, Prime Key Players Analysis and Forecast by 2028"
     excerpt: "Global“AI in Social Media”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various research sources to provide specific and reliable analysis."

@@ -39,15 +39,6 @@ related:
         width: 861
         height: 647
         isCached: true
-  - title: "Chattanooga Mayor Tim Kelly's Opening Remarks For Annual Project Voice Conference To Be Analyzed By AI"
-    excerpt: "Chattanooga Mayor Tim Kelly will give the opening remarks for Project Voice 2022, an event for voice tech and conversational AI in America. These opening remarks are scheduled at the Chattanooga Convention Center."
-    publishedDateTime: 2022-04-25T11:47:00Z
-    webUrl: "https://www.chattanoogan.com/2022/4/25/447899/Chattanooga-Mayor-Tim-Kelly-s-Opening.aspx"
-    type: article
-    provider:
-      name: Chattanoogan.com
-      domain: chattanoogan.com
-    quality: 3
 
 secured: "u67gd0723JaPFFtDb8tmLR9lq6Y+5CEvEbPw2O3YkiCyjsUhI2T6rWFZVN/5ZwLbvuCTbkPd6wxKApvbt80yYfC3uNlFEvpkwU/NA+bJV1+Oq5SJij03E8UrHuMUzv0uI2l2e1Oz1Wxfn6uv/wPEnIoRK3KTw1DNhL6HCyCCLv8WA3pO4tb1cwiJBX60gpDDo7Bc7W2/iGEKDBPysGJzA5UCbzdAK0mrPa5xop8hlzHxuZdfUwIfw8cRSBvYbUXtUCm2X6hI1P8eJeglZLHvDkPT3rSmz54aEFmlwhvtNZZRfpcTFiCzDODeKqFWzL0vSNH4Ry4a+CFxG+trsWvMleP5oqnGWF9o5RxLE5v0P4Y=;H6IMYe1ZS3tStisLl9la7g=="
 ---

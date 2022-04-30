@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Retail Market Size Worth USD 31.18 Billion by 2028"
-    excerpt: "The global “Artificial Intelligence in Retail Market Size” is expected to rise with an impressive CAGR and generate"
-    publishedDateTime: 2022-04-25T11:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028-2022-04-25"
+  - title: "Machine Vision Market to Reach a Value of US$ 18.4 Billion by 2027 | CAGR of 9.7%"
+    excerpt: "According to the latest report by IMARC Group, titled “Machine Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-04-26T10:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-vision-market-to-reach-a-value-of-us-18-4-billion-by-2027-cagr-of-9-7"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market Size Hit USD 13.09 Billion at CAGR of 16.8%, in 2028"
-    excerpt: "USD 3,766.4 Million in 2020, Market Growth – at a CAGR of 16.8%, Market Trend – Rise in defense budget NEW YORK, NY, UNITED STATES, April 25, 2022 /EINPresswire.com / -- Increasing government expenditure on face recognition systems for enhancing border security and adoption of live surveillance technology in various countries are driving market revenue growth The global face recognition systems market size is expected to reach USD 13."
-    publishedDateTime: 2022-04-25T11:08:00Z
-    webUrl: "https://menafn.com/1104087549/Face-Recognition-Systems-Market-Size-Hit-USD-1309-Billion-at-CAGR-of-168-in-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/25/EP_409a5image_story.jpeg"
-        width: 300
-        height: 300
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnCOqMRJPpJOGtY_4PW-TQ57iS8tvf6_1jzuOBLyEVgmN7eussFrLXIbEdVw3bFP6oB0UZ3qeWiN8mPdnD4DmrW15Gfpcbqt97uplfbQwpl90lcuL-d6o4tSvCsEWQ-9UaP-QCpylIiPFt8QfnXlQnC2x5EqWvNIfpIIx0381KKt-cjWlj4PqMya4/w462-h307/Machine%20Vision%20Market%202022.jpeg"
+        width: 461
+        height: 307
         isCached: true
   - title: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports"
     excerpt: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% \\| Valuates Reports. BANGALORE, India, April 26, 2022 /PRNewswire/ -- The Intelligent Docu"
@@ -66,6 +52,15 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Machine Vision Systems Market to Reach US$ 17.57 Bn , Globally, by 2027 at 7.53% CAGR: The Insight Partners"
+    excerpt: "Machine vision systems are amalgamation of computer vision into industrial manufacturing processes. Machine vision make use of industrial image processing by using cameras which are placed over production lines and cells with the intention to visually ..."
+    publishedDateTime: 2022-04-29T13:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-vision-systems-market-to-reach-us-17-57-bn-globally-by-2027-at-7-53-cagr-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "YwRaCEAfsabgHVQrofjJ+yQd9PUMuyUH+/yT/SxiS4COG6h0usnqxYB96ViZlEKiMqYzV4o0s6hWZcaun/s6QTuKHVVrhnpMox7EghXuwlUAY+r7UmsxNb+u4X+vlBRf9WYvqJKZfijG5lU2lXOS0NrkObNComhyUHMrHXL5HnWjGar6p34fJfFKx4ZxNzDkGJJaNoGSoP8Ktnw9Y8H+NpLMcyuOpVyV5BfjE7xyvOIHDggoQY6dJDxp5gwl8NZP9oZYV1BoQQh9GZjdaQii5wE1uEKXQbzllIQUNA/tg4U+alruh0gWPHwpvQO0tfM6wUWFoE64pjG22CKixwl1EO62gD/VYBYPBAUr9Bdq51o=;RyOyvRCPMOpBu21PQcTVCA=="
 ---

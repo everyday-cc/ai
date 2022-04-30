@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhan
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/amp/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pushing Forward The Value Of Analytics, AI And Automation In Telcos"
-    excerpt: "A complex company like a telco will continue to build out skill sets in analytics, AI and automation (A3) for the foreseeable future. The main areas of this development are described in this article."
-    publishedDateTime: 2022-04-25T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/25/pushing-forward-the-value-of-analytics-ai-and-automation-in-telcos/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Payment Fraud at Record Lows Thanks to Analytics and AI, Visa Says"
     excerpt: "Despite a massive increase in online activity during the COVID-19 pandemic, fraud on the Visa payment network is at an all time low, the company says. One"
     publishedDateTime: 2022-04-26T18:26:00Z

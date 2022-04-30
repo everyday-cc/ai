@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.ch/fintech/the-20-most-influential-fintech-mar
 webUrl: "https://fintechnews.ch/fintech/the-20-most-influential-fintech-marketers-in-europe/52590/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Europe tech sector struggles to find employees with AI skills"
-    excerpt: "Europe’s tech sector is struggling to find employees with adequate AI knowledge or experience, according to a new report. An IBM study was conducted between 23 March and 4 April among a sample of 500 tech job seekers,"
-    publishedDateTime: 2022-04-25T11:58:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/careers-training/367484/europe-tech-sector-struggles-to-find-employees-with-ai"
+  - title: "29/04 – Weekly Fintech Recap"
+    excerpt: "Fintech Lender Sonovate Launches New Platform to Enhance Embedded ... Alex Preece, CEO of digital gift card provider Tillo, has joined Network B's advisory board The AI-based personalized offers platform Network B has recently enhanced its advisory board ..."
+    publishedDateTime: 2022-04-29T09:43:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2904-weekly-fintech-recap"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 47
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_9.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "TyCT0z8JRb82oeEgVdFFmGyB/Fzwd0YxdQS0xxmiNxUZasKMkOTGO+CQwz6+slJBP+N8iKMY31DAY6RzVYudssR3d4NIog7pxzmrH9ZfCMK1hbnZUrTnpNHC9yXMaYoa+HDjIyrlBVdEHM05OlYPobzg2bDlqwV8QS0n7CA4Yowk8iad4NSk17fbhahL4il0eHr1bTw+0NrpAMal915dh8NMa+8c9uvfbcVZKpVV287Bc7qsgSzaUOX0yy9x5pjAZfqzeiiuvo+mI3idxUm05OfqMbFK+cArSm2pX9DOG0JSg1wViRjgMz29ijeNx+6k2be3odb65B4tw8v2tBFXacsTSUqcf+k4xZh50k9YCDjqDwbnvR32Sc8gBi2f/phygQjABmJhOafbrWlQgQeEmaYFgtDbliQsPp9yREJo0Xt4NSgkiJ9TiP9fRAt2qlvkqUbtEjWKhGIAojVRknsjSSpOhv7+KcGvxdsSZ18gx1uoDuF6LEospSCiNN+4v7U9e1ppsdEoTZfGtU33rmOxYA==;yyT0WTlkve7jhfzomfWA2A=="
 ---

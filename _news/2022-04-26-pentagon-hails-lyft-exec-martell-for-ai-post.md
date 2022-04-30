@@ -3,22 +3,22 @@ category: news
 title: "Pentagon hails Lyft exec Martell for AI post"
 excerpt: "He brings cutting-edge industry experience to apply to our unique mission set,” Deputy Secretary of Defense Kathleen Hicks said April 25."
 publishedDateTime: 2022-04-25T21:39:00Z
-originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
+originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
+webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/04/25/pentagon-hails-lyft-exec-martell-for-ai-post/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: C4ISRNET
+  domain: c4isrnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.defensenews.com/resizer/ek5qZ1EaFDEZYs7eGOy8MAum8ws=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/VL5HV7EVG5BMBONBWAL5NJDKTU.jpg"
+  - url: "https://www.c4isrnet.com/resizer/ek5qZ1EaFDEZYs7eGOy8MAum8ws=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/VL5HV7EVG5BMBONBWAL5NJDKTU.jpg"
     width: 1024
     height: 683
     isCached: true
@@ -157,6 +157,6 @@ related:
         height: 900
         isCached: true
 
-secured: "bECz+u8/2M0q09qGP7J+R1LesPbfgtIU0lXmoGlM2yqP5A9L8VPVM/X6zH18sY50qK0/itNqFx2duZS2A9QOH5evKiPCKsimbMZMtSKRvZ+ZJYhMaQUbQuvZM4CJtyPQiaUZrQmE83c+PAocAGcBKdeprr3My4rJk+SJ1si+UsPTg9NF1rvrwUiG9Ugb827WZeGiZLhZXLk2dacJ4XmwywFiKaJ3067es7oe4aBZ6TcSwN8jFYFeGnyy0vEOPEEnd6rma4Nxm94HUzvBF3gvYQ6lM5DrSY7ghYXWIpZwbncHgKAu7UD6Rj3j/4EAsnWfKEwCjqJZXwWeMwP9SBDzcWUYwQql+edEzlhBnoQj0FA=;0/XUm9yFD8aY/78P0803BQ=="
+secured: "CE9LmV30A/RTHS3QRfLvpVBLVpqQ5YNmrUYwgy0fdvZMQ6Q3DNUHy+8RieJ3knca2wRc2etx9BocYmJy6v66aiHenJPJRwttoTslx0P/eU9bvJq6uFlwIbEOb7YK4UJAlzJCE0XEJMAypUCrw1cha2knT0/TAtT3MXpa2IHCwoKIx/blpFR6Slr+SxWPgcDp1eejwjJTMTOGvws1b2uVMI+QDu9LnDXnMUAqpya4BMp0OsvYJkllAASk0Evk2nH5eqtGMRMC2C3cqETMEkWUhDOdkY2n1esi8XDP/4pRRfkUXguED1DzncQiFqnBPHBZIm6/tRHxsEiYOpzwjZzsym3Jg7128cidSa7wfEVcAZI=;iEaEaAqTZ3xUVt3F5uZt2w=="
 ---
 
