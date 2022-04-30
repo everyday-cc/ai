@@ -3,7 +3,7 @@ name: "Jacob Searcy"
 bio: "Jake Searcy joined UO's Data Science Initiative from Michigan where he worked for Ford Motor Company, developing novel AI methods in their Global Data Insight and Analytics department. He began his data science career as a University of Michigan particle physicist, building data pipelines and applying machine learning techniques to the vast datasets produced at CERN's Large Hadron Collider. He currently collaborates with researchers across campus to implement AI solutions for emerging research problems and is the Associate Director of AI for UO's Research Advanced Computing Services. Searcy received his PhD from the University of Oregon in 2012."
 location: Eugene, OR
 type: "profile"
-heat: 50
+heat: 58
 
 affiliation:
   name: uoregon.edu
@@ -14,7 +14,7 @@ website: https://datascience.uoregon.edu/jake-searcy
 twitter:
   username: jakesearcy
   url: https://twitter.com/jakesearcy
-  followers: 84
+  followers: 85
 
 linkedin:
   url: https://www.linkedin.com/in/jacob-searcy-28819b51/
@@ -27,12 +27,12 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1136398150929829888/ZdXbIrnl_400x400.png
+  - url: https://pbs.twimg.com/profile_images/1520505410939015169/gH_5xVeY_400x400.jpg
     width: 400
     height: 400
     isCached: true
     title: "Jacob Searcy"
 
-secured: "6IOjGPMjilvzo9OFx8SKkBJilIWJ1wfT/98O6seLtF2guG/Ib5AC4xyETV8tDzww/po5YMC2fpxzJhciU8T7CUWCPRGdiVhbCusKR1+gmBu8E3mb/DtVP9KtYmP0P+W+pHSV0dFSElbrkoVMF0mQmhTyaVusvXjka+DZGgqOS3hZZL3nQBYUobtHCgE75B8MGFHsbWhsgRFset3Bmo1kuHpfsNysDqoZ9sATWUGXBIWlMf6yRUwC2BVM/Ozyn4RBU3F3jsp6wbwcZBIDcFVNidjKAHJkJxiERiz9EkSsUL5WAwsR/Ft3/OQKI8X2Z9aaVG6wgBQUM/a+bBlsgp4rpibU+Wf61nT+1ujGCXX+/ICIjc8DVhXn1FhbhptIW+kuLwq7tS2qGMdPnJTV/yixXQ==;w7T++3VwrQkeKUAZ23accg=="
+secured: "XI6aOIlwRbt7//WQcbCKieaKov4XNn8SAoLEBKtaGAvG4GgQaAYE6L6HOtW64FOUp1zoljaCsDYu1MetedM5m3vERyE5LULpvjF2CfdOUDv3ahmac3gDTeVU7FCTbYdvrO/sUvUbHAABrufi0+Kes+Z8FKYDqQQHM6qho+bQOwgEgjyc8W7lX3wJPBa5rBnpfkzDRrOTqjpon3dzkbFZA3owsPRM1EavfTFStYCousOZbLnc2SCki+8Q+1KIlHT32MkHE5Y9hqgpNGidGdzY8UKtENp7ZNHPtBawaGOrGl8oAzQc5vIcL8vA3QLb3YiMRyoX/ulu2wsxfXDdx01sr9ZJBs9y4j+yQ8EFNi+c9vFFsAwHgBISZ97C6GzfzyTuI4uLxFPgm6gZIstsmcvvBQ==;PnASrJRa4fyph7iG8oPIIg=="
 ---
 
