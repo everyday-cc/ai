@@ -34,6 +34,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Japan firm develops AI system to catch shrine donation thieves"
+    excerpt: "“We went through numerous tests to aim for creating a low-cost AI system that is also compatible with other firms’ cameras,” said Takuya Kanematsu, 44, president of the company. A shrine in Nagoya’s Minato Ward is considering introducing the system ..."
+    publishedDateTime: 2022-04-30T02:37:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2022/04/30/business/shrine-ai-system-theft/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 37
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_156022-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
 
 secured: "H07qRBjrNgqSELYBm1bbhHzHsvo6EFKNKekBQ+cdB12AY0xuQJs13BPuOTYjyDt6QlLQ2rMXBADeWHWMe3eyCwf/Bnrtz2gRkHP8L85mL8OiOskfh9M0R+yZVtJuzgj/3SJERXpagTCJ2wQrKLCuWe5jrvlN3j3etLq98VL8+vLuLHcBgVGACJy9PoJI/pY7uYNRKfLXmVE9RH0CEsJq0lgRywgGw8mdvTxKzcByxhQ51JT3QuSIR8iG3Cd+iMfe7niyBYYoC/a49DylZ0cyEH+cWQ69JaGn+1UAkk5NKLS3XmvOJki8fRun1zj6y/1UFHNMgOhEt9FfZCMSpw+uQ0X4Vg+fphRzehi5IjSUJbWlgKLhom/2Yv3jROs8IDh0moRM0OGir3OWDXHmQAF5KFXyWR+ZpfJUU0r3Ht7wCVFA7CfkkffjYc9M5225JGY4z8776T86lZD0IWvolac79OlirQZA5J4vN9w/uLqCbnhZOYXkl8/PbSiGy5jZTB6plFUvCoDJ02ooVU6MSyzGFQ==;DyxaweS9F65nI62aI/gXvA=="
 ---

@@ -1,28 +1,29 @@
 ---
 category: news
 title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
-publishedDateTime: 2022-04-28T06:59:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+excerpt: "The permits given to Baidu and Pony.ai allow them to offer rides without a safety driver behind the wheel to take over in cases of an emergency. The new permits still require a safety supervisor to be seated in the front passenger seat."
+publishedDateTime: 2022-04-28T06:02:00Z
+originalUrl: "https://www.seattlepi.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
+webUrl: "https://www.seattlepi.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
 type: article
-quality: 56
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
-  - AI in Autos
   - AI
-  - AI Hardware
+  - AI in Autos
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/25/40/31/22414936/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -378,6 +379,6 @@ related:
         height: 720
         isCached: true
 
-secured: "yq7+DFjHSBzwnAv99pnsbmGdf7ljUTw/T3mFYg0nGhkDE4mqcwjZMA69jYj8/F1ozSPksMHH/l8LJqdPcVBKxyXHGeDN0KaGmmuGTPZ3DXGkLGCJyVFgffeYGf2mz7Z4bzZxAgRG15QqhaWig/Ow3ewmKBA0TzE6/jifvKXAQZxvSZONYl7vMbJCSTm84G7VZTdM+j5Or01VuOiE8ik+WCrvitAMBCJkEXidn83S+F7/ZNXMEBvH5r+Klz4PyvMlbmHtMaERqNB2Wtq0RaDV7bkXz89ksnSk6PsirfC3FBcKlps3rTakJ60Vf3PzjRAyGgtPggltI6TCJOQcoudR/yhJqbdzdUR5WkBV1TBOT9f1Cr/kDRBXWvi+PfnyK3U1IabIQ0jIsn2WVJN0Tgqvq1rJMYUxJXuYCZwVYwHs9YDuiogIn8qRskr54gxYzDDrvOWO5YcmWZ+BFD/O0CgcS6epEJdBKuwxC4mIW4a9sJGP/eXxf/1vPz/Vyw4cVrIDpvLQg000/jqVwtdxT079jQ==;ymDimxGW4pZmw/Uj+J8dLg=="
+secured: "TOn8bKMV7jDMh/whJY6RR5QJnpMMxmNxcoJ2iGsaswu5Ed6nSLgWzgUDgl0fu/vPn5cJAXmi4pXlUkgsQADd98b+uUiMKtxx2STedqaKuBVTXlagCOAPRm7ZODlRxQItI2eabMTspVsIAeq1d/Kf7C6YHAX5tAGfAVztziuCfMQ/LHxEhtXBclQdsagvlIZ36NZpiMD1a1NmPDgwAPojGGyb64weEMsxjcfD98Ei+nK8XVRu4Wl8pXH/00+lXqBjhI5iSg25X4XnjxaCLru7t0PzL7+F4jhCi/yK0L2TzBDK6x6qEbGSw1e+S4D7+D9CI3gQW2Hf6LdjmKatGvGhZNoEHXdfxxR1JDUo/wznHcM=;0zIvoBCh7dxxPKUhDXjJ7A=="
 ---
 

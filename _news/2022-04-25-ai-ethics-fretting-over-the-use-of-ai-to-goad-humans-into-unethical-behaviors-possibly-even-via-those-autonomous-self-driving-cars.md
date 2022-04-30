@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-frettin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -112,15 +112,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "What happened when police pulled over a self-driving car"
-    excerpt: "A viral video on Instagram shows San Francisco police officers confused after pulling over a self-driving or autonomous car."
-    publishedDateTime: 2022-04-25T10:00:00Z
-    webUrl: "https://www.cbc.ca/kidsnews/post/what-happened-when-police-pulled-over-this-self-driving-car"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 4
 
 secured: "1j+HgYs4hP6Vp4Z+Ue+lozCwLeuJ0QURIN0G0VeNNRv5CEoKrbuWAWFoiaHTIaZTA7kKwdt2fFD5wTAlijU4NfStYsOpZKNVBi98QjDQ43m7Iw3VmgzBp9+6dgBMuAXZSdFs+8BwShZPfN2pz35rpC1tUuER5e+UgGf8CjloRkndkd3FaGzU6a7Km8jZSshmjGtOtBCFXScqr5yZYAbRvYYrgUOmR9hK6C9wKa0BIoGRyETruR7x/6yWWasLNxx4+XqprHlm74xrQbswvsgJvtgH/Si2wJoYx33hPAA5l1KPyWzBdou0XWQMbm7kWas9hxfDjzP/P6eZkhZSNUCKUb1b3mQ31bGmE6go0qsp0WF5F+F43vjFtiwAf+MXUkemC6NX+8GV1iRuySI6JDGKcfLPin1DI2dWTBinFdWPHsDFqeJyK0Ss3VOyB3NQvJEW/8ruI98kFjcpxHyz1M6g2BCXljz/E9N+u/SZW8DEZ2U5BLV8y0tAtUeE2pT+dHi3PPzZiqykCP5LaQM2hV0w3Q==;fw4LqOtWg+7WUqXuFUcd6Q=="
 ---

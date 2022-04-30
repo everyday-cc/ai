@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence aids to diagnose mild cognitive impairment that progresses to Alzheimer's"
-excerpt: "A technique based on artificial intelligence outperforms current methods in classifying whether it will progress or remain stable"
-publishedDateTime: 2022-04-27T14:05:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/950960"
-webUrl: "https://www.eurekalert.org/news-releases/950960"
+title: "Artificial Intelligence aids to diagnose mild cognitive impairment that progresses to Alzheimer's"
+excerpt: "Alzheimer's disease is the main cause of dementia worldwide. Although there is no cure, early detection is considered crucial for being able to develop effective treatments that act before its progress is irreversible. \"We first compared MRIs from patients ..."
+publishedDateTime: 2022-04-27T07:42:00Z
+originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/220453"
+webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/220453"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: AlphaGalileo
+  domain: alphagalileo.org
 
 topics:
   - AI
+
+images:
+  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/c65469bd-d0a7-45b1-8890-5276674dca9d-ogers20cover.jpg"
+    width: 400
+    height: 599
+    isCached: true
 
 related:
   - title: "Using AI to diagnose mild cognitive impairment that progresses to Alzheimer's"
@@ -49,6 +55,6 @@ related:
         height: 360
         isCached: true
 
-secured: "yoCPH+zlEIxemMOFEUMPtcLACcrs1cjJ/VuNAGTOErWHw4rXlRaZGnLYbohZc08YshVvMu+nhSOKuENiqYDyVM2Vlgxw2L4XeepPGbkqE4AYgBo+cTD5lRPCDkL7GQdf8dDbjsYI9s8h8S98xDQ/hCfsP4z7OvSDG9zNyLhK8wzxVqJT7hRIr6zKRhFeAo1oYe7thHo2kbgxVQGjAE2bfRvMfuiSjRBiKMOdIYYcYbgHzZrCzpAVn+VRQmwh3amHo9nrr0UBrAsXvjofkSf0NPVo7waj/qH4poqqDQrJVGANXcVggiuYwrCbuwJSbsnKABdNOKEajaxZ9nZUMYXu6Q8aVDMCnJZpgM8/lYJmKU4=;HBLj2eAP/1GUck0sny1tTQ=="
+secured: "sLkOGbGS8fn776go2wcKX84eLg0doZaXnIosO4t56uA1a1y0WxgE5nJlTLwIToH6Ih/aGVt4edsYMLkWtaa7RsGZFdNo/ayXfGV7rdjDR9M9TKdUCa9b7ivcVr6Vf8M2RsUecmI5FezWNOLH19QZhlZhZe6rWzpEimvQdGB8IZQwAd6IxVRgMshEDUijwCgYkwbpxMf5ZRCaH4r1O5OPCEWgIyZNQ96ibc/lHoklzQdLgaL0OzFBmRLEdkh9m/KxaG2XqqlzAx18KmuNlFlfy5wHI6E7v52bA9ZPKFPiZyshcGcJPbXTPXBuIgwFUv2SjTs+MXmS++2Rj8ZvGftda5HAvmfb2arn9VTIBaRRt2I=;VUwssqjROTbP2yxhifRAIg=="
 ---
 

@@ -34,20 +34,6 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 47
-  - title: "IBM research details AI skills gap across Europe"
-    excerpt: "IBM research reveals that the tech sector across the UK, Germany and Spain struggles to close the AI skills gap"
-    publishedDateTime: 2022-04-25T09:18:00Z
-    webUrl: "https://www.information-age.com/ibm-research-details-ai-skills-gap-across-europe-123499237/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/04/ibm-research-details-ai-skills-gap-across-europe.jpeg.optimal.jpeg"
-        width: 1080
-        height: 629
-        isCached: true
 
 secured: "TyCT0z8JRb82oeEgVdFFmGyB/Fzwd0YxdQS0xxmiNxUZasKMkOTGO+CQwz6+slJBP+N8iKMY31DAY6RzVYudssR3d4NIog7pxzmrH9ZfCMK1hbnZUrTnpNHC9yXMaYoa+HDjIyrlBVdEHM05OlYPobzg2bDlqwV8QS0n7CA4Yowk8iad4NSk17fbhahL4il0eHr1bTw+0NrpAMal915dh8NMa+8c9uvfbcVZKpVV287Bc7qsgSzaUOX0yy9x5pjAZfqzeiiuvo+mI3idxUm05OfqMbFK+cArSm2pX9DOG0JSg1wViRjgMz29ijeNx+6k2be3odb65B4tw8v2tBFXacsTSUqcf+k4xZh50k9YCDjqDwbnvR32Sc8gBi2f/phygQjABmJhOafbrWlQgQeEmaYFgtDbliQsPp9yREJo0Xt4NSgkiJ9TiP9fRAt2qlvkqUbtEjWKhGIAojVRknsjSSpOhv7+KcGvxdsSZ18gx1uoDuF6LEospSCiNN+4v7U9e1ppsdEoTZfGtU33rmOxYA==;yyT0WTlkve7jhfzomfWA2A=="
 ---

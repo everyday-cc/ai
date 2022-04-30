@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Encore's Backend Development Engine for the Cloud Transforms Developer Experience, Attracts $3m in Seed Round"
-excerpt: "Encore comes out of Beta as it announces seed round, enabling more developers than ever to build and deploy new cloud backends in minutes while"
-publishedDateTime: 2022-04-19T13:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/encore-s-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round-1031364223"
-webUrl: "https://markets.businessinsider.com/news/stocks/encore-s-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round-1031364223"
+title: "Encore’s Backend Development Engine for the Cloud Transforms Developer Experience, Attracts $3m in Seed Round"
+excerpt: "Encore comes out of Beta as it announces seed round, enabling more developers than ever to build and deploy new cloud backends in minutes while keeping control of their data. STOC"
+publishedDateTime: 2022-04-19T14:17:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/de7520f96eddc63566978cb566223c89"
+webUrl: "https://apnews.com/press-release/PRNewswire/de7520f96eddc63566978cb566223c89"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1799019/headshot_smile.jpg"
-    width: 300
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "anpDrN8g46a1IL5Uk5Nc0rEkyEEJLStelGliM1jucGsaeFAj8viONiO9qxw7r2LAWWyGG9Db1elIuchluMjOWciPOwCkEcGIST0A+MWafrQrk/4utFpPUwQr7PeTWSAwkYr4GgO+KvOAbJPl5MNi+vwihC037BaVXJsTrKYaflAqLUGTpGHGQLTYIsNv5Gv7Oex8MSTyWW29tGEHkM3PHLLgh6EUOSZFDiz5Ut+iTehUuoY674zZmgpIrKuowpyng5N6dSHYVcg66XeefV4ZL+tekSN/n+Mqii0wgwQ1AdTHa6A/MjiVt0azwf0fTtOnRbAvtAvMalm8ki6HHW/z0tLUa6Gy6lAJgn8p6TviAZI=;VwbplxqmiJ7rE+liBI15qA=="
+secured: "4GT/XnsaRy09ZFDeUng645SHCwOWGuJkgaURON3N8jLxFNTAoH5OpnYDEMMa3taHPY1P0mpI3VSlrI7/vkjb1HVvajXoyGWicoG9iZqxTNpdjwPKWN5XnM/Grq/MfIaufCXMvRaUhWY7J/rv/bCgYOu0kS3PmAhTrBq7WqOwcdLnliRKO5asYyJM71u/R4ij40peNQzkR2uWkvjhIR4D/WTVcY2IUOFX2EWiRAHW84LJsXZpRThh0rg3rQxAvAsd8CLT5Aev0LdrFlbrLAybdmWCbRzTARGfXtiA5PU4oTdUjXXAtnMA6pbu+RYBnY/n4Am8g+yQEtMD2XoFQgI7RFYoJU9B/A5QM3mBEqUj/eE=;U5SfkgTbuUwddXfriVdn5Q=="
 ---
 

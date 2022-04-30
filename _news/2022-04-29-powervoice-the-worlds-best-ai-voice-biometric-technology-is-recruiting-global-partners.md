@@ -1,29 +1,31 @@
 ---
 category: news
-title: "PowerVoice, the world’s best AI voice biometric technology, is recruiting global partners"
-excerpt: "“Panoramic view of Korea Water Resources Corporation’s artificial intelligence control room remotely monitored with the voice recognition function of Power Voice” PowerVoice claimed to have commercialized the world’s first voice recognition service ..."
-publishedDateTime: 2022-04-28T18:46:00Z
-originalUrl: "https://www.digitaljournal.com/pr/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
-webUrl: "https://www.digitaljournal.com/pr/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
+title: "PowerVoice, the world's best AI voice biometric technology, is recruiting global partners"
+excerpt: "Recently it ventured into the fintech and AI markets, which are spotlighted as the 4th industrial revolution sectors. As we enter the era of using home appliances with voice, remittance and payment, instead of controlling the product via touch screens ..."
+publishedDateTime: 2022-04-28T18:55:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
+ampWebUrl: "https://www.benzinga.com/amp/content/26880195"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26880195"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Natural Language Processing
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://www.abnewswire.com/uploads/1651105080.jpeg"
-    width: 1123
-    height: 749
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "Tpnqj9TwIlrhIxk8xmyYMkxcikxLpwStXgpKGD7QrPyIbnMvFKChIJguB7UoVHX+YB0NDT4OpdR9Ul55647ZZTlJe7aDyajKZ0aMyT3GYbjE5thJhdEOSMRC8Y6VMCn/7cQmUwH2/bdlFi3WW7h+pEYZNSnm01pZrCTy5R41DgM8HN6KlT1CZKp/z8gBq3VTZy0oIYR3tLh9X1iakEY3jtefb/xbTbSCZ9Z0C8dhBWWWnmlEuI9vdwx39Cup1DppPyZgF5uqeeBD5Rqycy6NGuI4Qx/0RlpauBlbZx4sBVzuM5UmgjcA+SRi7hAQQKWJw4uezMEiL/dCN6+66vVR5VXVAGRX2mYqNTJKgDL9LrY=;MA3Cwvo/x9vD8K+AzhEGNQ=="
+secured: "Oc0NfSMtMxqtXXNwYCK7Ch805KL/Yk+eUl7JYgCvJHk78tlDWKsAmxTgjVfvbLeWJghY5sMqB2yPyLI7NG2VzQPGDVFjUhFGmV1fGPF+pxscVLzp/J8qNNTE/BC9gyrFlqLFV04ZKS43cLsWxuEAuIaNco20/Ha/ZG6hjbtklZA46BWhCGbk+6d3jd54erK8oepxkgqjvRrxWsZ+F+zuGkh3SmR2vPEcLaWGeLtH09dKiGiHJEJ2ka1ZwxieUInG57Gn0LWY21ljLhdl5x652KIEjpKSqrb8B/G6OCQlrmdTxtOcOZvIoxIgkC8FH3mx1wdWjUPWxD9ACXTzllaxiVZiFxlySu6vHbWgpq1iO8c=;ODeJTKUp8/v+/IcB6CTVOA=="
 ---
 

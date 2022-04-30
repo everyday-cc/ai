@@ -19,34 +19,84 @@ topics:
   - AI
 
 related:
-  - title: "Exclusive: Ying Tan invests in AI start up Propflo"
-    excerpt: "Bristol-based start-up Propflo has confirmed it has successfully closed its ... and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage strategic investors with relevant experience to accelerate ..."
-    publishedDateTime: 2022-04-29T07:32:00Z
-    webUrl: "https://www.mortgagestrategy.co.uk/news/exclusive-ying-tan-invests-in-ai-start-up-propflo/"
+  - title: "How Fintech Companies Are Using AI, Machine Learning To Create Alternate Lending Score"
+    excerpt: "One may well credit Artificial Intelligence and Machine Learning, which help in creating a favourable credit environment for a broader range of users, thus, providing means of an alternative lending score that doesn’t rely solely only on an individual ..."
+    publishedDateTime: 2022-04-30T02:34:00Z
+    webUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058"
+    ampWebUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
     type: article
     provider:
-      name: Mortgage Strategy
-      domain: mortgagestrategy.co.uk
-    quality: 37
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 66
     images:
-      - url: "https://cdn.mortgagestrategy.co.uk/content/uploads/2022/04/PR-Photo.jpg"
-        width: 1536
-        height: 2048
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1651242910.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Ying Tan invests in AI-led proptech start-up"
-    excerpt: "Mortgage industry professional and angel investor Ying Tan has invested in a property data platform. The Bristol-based Propflo recently closed its pre-seed funding round of £180,000, led by Tan, for the platform which aims to give sellers and buyers ..."
-    publishedDateTime: 2022-04-29T10:47:00Z
-    webUrl: "https://www.mortgagesolutions.co.uk/news/2022/04/29/ying-tan-invests-in-ai-led-proptech-start-up/"
+  - title: "New deep learning techniques lead to materials imaging breakthrough"
+    excerpt: "Supercomputers help researchers study the causes and effects—usually in that order—of complex phenomena. However, scientists occasionally need to deduce the origins of scientific phenomena based on observable results."
+    publishedDateTime: 2022-04-27T15:20:00Z
+    webUrl: "https://techxplore.com/news/2022-04-deep-techniques-materials-imaging-breakthrough.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-deep-techniques-materials-imaging-breakthrough.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-deep-techniques-materials-imaging-breakthrough.amp"
     type: article
     provider:
-      name: mortgagesolutions.co.uk
-      domain: mortgagesolutions.co.uk
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-deep-learning-tech.jpg"
+        width: 533
+        height: 515
+        isCached: true
+  - title: "AI bot takes moving-making to a new level"
+    excerpt: "Writer’s block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the first film written by a Japanese AI bot is aiming to demonstrate what it can do at a major short film festival this year."
+    publishedDateTime: 2022-04-30T01:00:00Z
+    webUrl: "https://www.japantimes.co.jp/culture/2022/04/30/films/ai-bot-boy-sprouted/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
     quality: 37
     images:
-      - url: "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2022/04/Propflo-PR-landscape_social_watermark-764x399.jpg"
-        width: 764
-        height: 399
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_155778-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
+  - title: "Seven Unique Risks Of Investing In Fintech Startups"
+    excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."
+    publishedDateTime: 2022-04-29T13:11:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/04/29/seven-unique-risks-of-investing-in-fintech-startups/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
+  - title: "Skipping Square One: Where Reusable AI Models Are Finding a Foothold in E-Discovery"
+    excerpt: "E-discovery practitioners have increasingly used machine learning algorithms to cut down the time and money needed for review. Now, some are wondering just how well those algorithms can be applied across multiple matters."
+    publishedDateTime: 2022-04-26T13:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/04/26/skipping-square-one-where-reusable-ai-models-are-finding-a-foothold-in-e-discovery/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 31
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/02/Artificial-intelligence-767x633-1.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "$36B+ AI in FinTech Industry Trends and Opportunities"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
+    publishedDateTime: 2022-04-25T17:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-36b-ai-fintech-industry-trends-opportunities-assessment-2027-/2022/04/25/9588806.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "RtnE59DHBYHpR9LHVfmBS15i+vzOcGvbO3khQQtblECLycPn/XyPV/a1snVeymexwFKa9JnbYcI60V49aYn+uVw8uJvM5qixr4+toZ2mJryvnjubfjgv4rkffmfYGlQmJA/tKqkGgtC45SHJinitnI+y7j9soSLgyPpL2DH5EsOBrKz9O/fW9HxvM5ZWFt14Qv11bHq39iwSEDIg8nPHcR/q4OtTQlqtp6k5822/ExP3JBacZptTLgeevPtP1bDXUTV0AlQLIi2PQp+Bz2ZAlx/3Fev2Usd0KKaFqkpD5s4RQIvvPbw4vnI53YJ5KWB6CRGEYKUBPFuH7vSTFx3A1H5z9lAriM9OgFqGcxhFFOCESKKXRcbh3rb9u7grsLPQ2EtxsQ8wzgEOKQa9ouYTu/l8h5V97yk1Jv0Lt+YTWaty5tKp4XKnm897oRqWheVPXdd/zzM0OI3UlaXYIZCy5zj+tImRMevlVCpzrS/HX/DtyF1v3xEohTFKFLv4Htnawvn5pOOVysixyaO7kOdraw==;QU5ZPnLsa5j7X3XdJvtl6A=="
 ---

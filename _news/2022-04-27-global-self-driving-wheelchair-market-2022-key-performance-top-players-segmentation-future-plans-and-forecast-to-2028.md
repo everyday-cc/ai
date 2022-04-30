@@ -99,20 +99,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Aerospace Robotics Market Key Leaders Analysis, Demands, Emerging Technology by Regional Forecast to 2027"
-    excerpt: "AM 'Top Companies in Aerospace Robotics Market are ABB Group (Switzerland)Electroimpact Inc. (The U.S.)Fanuc Corporation (Jap"
-    publishedDateTime: 2022-04-25T11:05:00Z
-    webUrl: "https://menafn.com/1104086622/Aerospace-Robotics-Market-Key-Leaders-Analysis-Demands-Emerging-Technology-by-Regional-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?171601"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Global Computer Vision Market 2022 with COVID-19 After Effects Growth Drivers, Top Key Players, Industry Segments and Forecast to 2028"
     excerpt: "Apr 25, 2022 (CDN Newswire via Comtex) -- Global Computer Vision Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is considered to be inquisitive and holistic accumulating a ..."
     publishedDateTime: 2022-04-26T14:34:00Z

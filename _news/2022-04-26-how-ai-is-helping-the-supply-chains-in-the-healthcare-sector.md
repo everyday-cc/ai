@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/how-ai
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925"
 type: article
 quality: 74
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -27,19 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Solving one of the biggest challenges in healthcare"
-    excerpt: "Solving one of healthcare's biggest challenges head-on with precision medicine. Hundreds of billions of dollars are wasted annually prescribing drugs of limited clinical benefit t"
-    publishedDateTime: 2022-04-25T09:25:00Z
-    webUrl: "https://www.medtechdive.com/spons/solving-one-of-the-biggest-challenges-in-healthcare/622156/"
+  - title: "Top Applications of Machine Learning in the Healthcare Sector"
+    excerpt: "The expanding number of machine learning applications in healthcare enables the healthcare industry to manage data and improve services properly. Fremont, CA: The healthcare business is critical since it provides treatment to millions of people while ..."
+    publishedDateTime: 2022-04-29T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/top-applications-of-machine-learning-in-the-healthcare-sector-nid-9775.html"
     type: article
     provider:
-      name: medtechdive
-      domain: medtechdive.com
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 56
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/w7d65450308appcio.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "AI Making Groundbreaking Changes in the Healthcare Sector"
+    excerpt: "Fremont, CA: Artificial intelligence is transforming our lives in a variety of ways, none more so than in the healthcare industry. For instance, there has been an explosion of innovation in digital healthcare technologies over the last decade. Medical ..."
+    publishedDateTime: 2022-04-29T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/ai-making-groundbreaking-changes-in-the-healthcare-sector-nid-9816.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/eo09n450308cioappli.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "How Advanced Technology Trends are Reshaping Healthcare Sector"
+    excerpt: "Diagnostics, therapy management, and other aspects of healthcare are altered due to AI advancements. Fremont, CA: Artificial intelligence has carved out a strong presence in human civilization and our daily lives during the last two decades. Most of us are ..."
+    publishedDateTime: 2022-04-29T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/how-advanced-technology-trends-are-reshaping-healthcare-sector-nid-9815.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
     quality: 39
     images:
-      - url: "https://www.medtechdive.com/imgproxy/1HbrcqohM202CTDlw2ljqEwyNTrjRoWLp7guIHrOPZI/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1NjaXBoZXJfTWVkaWNpbmVfU1RBVF9JbWFnZS5qcGc.jpg"
-        width: 770
-        height: 364
+      - url: "https://www.cioapplications.com/newstransfer/upload/14dbeUntitled-450.jpg"
+        width: 450
+        height: 308
         isCached: true
 
 secured: "QFjGBX/MRQHoksZMBFkQNPszbJCMX331PGCpbojHLTETIyAz8GQiQ0rUmfgGfe+RqwYulL1r8fjWrHlAoTQg1b5UIvj/qY0g65WDbgPrjXML1lrO48EPQoz43xyYA/FDlfXyYirkK53sEBNvvTo/uVZ4PnkYA9HTL8ipWEShrty0hC1YkJOcI7Y8Zolz7vK9nPj4W8CScCgAGyrULJBtDpU33TqpZQ7gu5eGhSsJTmDBwm7TUBGNXuG+u8pmUq07ycLXEnjgstHNcwbf7Xg19YxbF88//0KrTYA/E52A+Ffij4X+UHISx5Tx1IBUbntycU5s7Cn1wF3oPz92lT0FHCeMi3TUS2wqQd8Wg119AhU=;rFaUmbAlyjqaijGdyftAFQ=="

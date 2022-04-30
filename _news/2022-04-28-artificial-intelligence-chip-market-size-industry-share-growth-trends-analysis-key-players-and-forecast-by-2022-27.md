@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27"
 type: article
 quality: 62
-heat: 232
+heat: 222
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/151736a6e2eb8d12cc67e3bed8e4ef2d99f0efcc-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Aerospace Robotics Market Key Leaders Analysis, Demands, Emerging Technology by Regional Forecast to 2027"
-    excerpt: "AM 'Top Companies in Aerospace Robotics Market are ABB Group (Switzerland)Electroimpact Inc. (The U.S.)Fanuc Corporation (Jap"
-    publishedDateTime: 2022-04-25T11:05:00Z
-    webUrl: "https://menafn.com/1104086622/Aerospace-Robotics-Market-Key-Leaders-Analysis-Demands-Emerging-Technology-by-Regional-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?171601"
-        width: 375
-        height: 250
         isCached: true
   - title: "Global Computer Vision Market 2022 with COVID-19 After Effects Growth Drivers, Top Key Players, Industry Segments and Forecast to 2028"
     excerpt: "Apr 25, 2022 (CDN Newswire via Comtex) -- Global Computer Vision Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is considered to be inquisitive and holistic accumulating a ..."

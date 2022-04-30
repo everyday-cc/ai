@@ -40,15 +40,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Artificial intelligence aids to diagnose mild cognitive impairment that progresses to Alzheimer's"
-    excerpt: "A technique based on artificial intelligence outperforms current methods in classifying whether it will progress or remain stable"
-    publishedDateTime: 2022-04-27T14:05:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/950960"
+  - title: "Artificial Intelligence aids to diagnose mild cognitive impairment that progresses to Alzheimer's"
+    excerpt: "Alzheimer's disease is the main cause of dementia worldwide. Although there is no cure, early detection is considered crucial for being able to develop effective treatments that act before its progress is irreversible. \"We first compared MRIs from patients ..."
+    publishedDateTime: 2022-04-27T07:42:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/220453"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 39
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/c65469bd-d0a7-45b1-8890-5276674dca9d-ogers20cover.jpg"
+        width: 400
+        height: 599
+        isCached: true
 
 secured: "P4qNjfI3QXQQpAIGtP8ZyLJMVvujFeczQdF2TH9XdKlo6wnnsqLc2/E1h+kouZ7iO+y+4izQvCuraOb1dQQMh36Dg06LVOfj5LSBqfMiDjtnKIKHomFBbBFWBvWLuKQ+UuSqre6gjyqCs9gjSYeVRWZuOmBLHQ6nixCFMK7RsnPH7zWATHKZ67YvgrBgbJPhdArO30wuA8ZLqbTc+S7qnxnfnLnwhtVohHfakGO3gIQSnjzdSWcDTTeMcjkXSxwyDdhS2TuMfmXoQRxrOvdcu8+Ra/bjkrTUANY99myec6LBLa1L/pprhRmeI7N5JV3l5Xr/PXBGjqWfeQPZdgDeV3/YcyZrtZ28oJxlGv83/6M=;wvOaYMes3NXSAfKGGPOdiw=="
 ---

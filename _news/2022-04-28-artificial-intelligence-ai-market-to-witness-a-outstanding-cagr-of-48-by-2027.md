@@ -39,20 +39,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Aerospace Robotics Market Exhibiting at a CAGR of 11.82% During 2022-2027 | IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled “Aerospace Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
-    publishedDateTime: 2022-04-25T09:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/aerospace-robotics-market-exhibiting-at-a-cagr-of-11-82-during-2022-2027-imarc-group"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2W8nsKMLMpNTdkH8o3kdp7y6mtKk0SmbuIBxG793u6OiCLfakh9GAc4kUjxYkIcufHUc-_zNlmXs7cW0IJ1hgh3ThCIXhSM-K9FYrqdixnQ6EuJOD_piY8iu0bHmgRVac2GMaetojKuMYeKNKED5SXKBtcysflKM5Fk2k-gzoMEIPLBGT8etDFo4/s320/Aerospace%20Robotics%20Market.jpg"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Machine Learning In The Pharmaceutical Industry Market To Witness Growth By A Robust CAGR Throughout 2022 2030"
     excerpt: "Research Nester published a report titled “Machine Learning in the Pharmaceutical Industry Market : Global Demand Analysis & Opportunity Outlook 2030” which delivers a detailed overview of the ..."
     publishedDateTime: 2022-04-29T10:17:00Z

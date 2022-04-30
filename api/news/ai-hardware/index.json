@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-29-ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services.md",
+      "title": "AI in Healthcare Market Size 2022 to 2030 – Increasing Dependency on Data to Facilitate Better Healthcare Services",
+      "excerpt": "Revenue growth of the market is additionally being driven by increasing dependency on clinical data to facilitate better healthcare services and rapid advancements in specialized AI chips for faster processing of health-related data and information.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/",
+      "originalUrl": "https://techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/04/anatomy-g8187785d0_640.png",
+          "width": 640,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/amp/",
+      "publishedDateTime": "2022-04-29T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.md",
       "title": "Intel warns of chip shortages due to Chinese COVID lockdowns",
       "excerpt": "Intel’s Datacenter and AI Group, its second largest business group ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite.",
@@ -62,7 +106,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 232,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -1384,58 +1428,6 @@
         "name": "Design News",
         "domain": "designnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory.md",
-      "title": "2022 DesignCon Shows Evolution Of Electronic Chip Communication And Memory",
-      "excerpt": "DesignCon covered electronic design and integration, including photonic in chip communication. Rambus presented talks discussing the use of various xDDR and HBM memories for various applications including edge AI training,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62534598a4ecd6156f4ebda5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/amp/",
-      "publishedDateTime": "2022-04-10T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

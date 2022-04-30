@@ -19,114 +19,84 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Startup Finbots.AI Raises $3 Mn From Accel To Expand Its Asia Footprints"
-    excerpt: "Fintech startup Finbots.AI, a venture targeted at banks and financial institutions, has raised $3 Mn in a Series A round from Accel."
-    publishedDateTime: 2022-04-28T11:30:00Z
-    webUrl: "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/"
-    ampWebUrl: "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/"
+  - title: "How Fintech Companies Are Using AI, Machine Learning To Create Alternate Lending Score"
+    excerpt: "One may well credit Artificial Intelligence and Machine Learning, which help in creating a favourable credit environment for a broader range of users, thus, providing means of an alternative lending score that doesn’t rely solely only on an individual ..."
+    publishedDateTime: 2022-04-30T02:34:00Z
+    webUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058"
+    ampWebUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 54
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 66
     images:
-      - url: "https://inc42.com/wp-content/uploads/2022/04/Finbot-Social.png"
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1651242910.jpg"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "Finbots.AI, a Firm Providing AI for Banks, Financial Services, Raises $3 Million Series A"
-    excerpt: "Finbots.AI, an \"Artificial Intelligence-envisioned\" firm for financial services, has raised $3 million in a Series A round funded by a single investor -"
-    publishedDateTime: 2022-04-28T02:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/amp/"
+  - title: "New deep learning techniques lead to materials imaging breakthrough"
+    excerpt: "Supercomputers help researchers study the causes and effects—usually in that order—of complex phenomena. However, scientists occasionally need to deduce the origins of scientific phenomena based on observable results."
+    publishedDateTime: 2022-04-27T15:20:00Z
+    webUrl: "https://techxplore.com/news/2022-04-deep-techniques-materials-imaging-breakthrough.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-deep-techniques-materials-imaging-breakthrough.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-deep-techniques-materials-imaging-breakthrough.amp"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 48
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Sanjay-Uppal-Founder-and-CEO-Finbots.AI_.jpg"
-        width: 600
-        height: 401
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-deep-learning-tech.jpg"
+        width: 533
+        height: 515
         isCached: true
-  - title: "Finbots.AI raises Series A funding for AI credit risk platform"
-    excerpt: "Singaporean AI-powered credit risk specialist company Finbots.AI has raised $3 million in Series A round from sole investor Accel. The transaction marks the first external investment raised by Finbots."
-    publishedDateTime: 2022-04-28T13:58:00Z
-    webUrl: "https://www.bobsguide.com/articles/finbots-ai-raises-series-a-funding-for-credit-risk-platform/"
+  - title: "AI bot takes moving-making to a new level"
+    excerpt: "Writer’s block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the first film written by a Japanese AI bot is aiming to demonstrate what it can do at a major short film festival this year."
+    publishedDateTime: 2022-04-30T01:00:00Z
+    webUrl: "https://www.japantimes.co.jp/culture/2022/04/30/films/ai-bot-boy-sprouted/"
     type: article
     provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 39
-    images:
-      - url: "https://www.bobsguide.com/wp-content/uploads/2017/03/73696-1.jpg"
-        width: 300
-        height: 240
-        isCached: true
-  - title: "Finbots.AI Secures US$3 Million in Series A Funding Round From Accel"
-    excerpt: "Finbots.AI, an AI-powered credit scoring software provider, announced it has raised a US$3 million Series A funding round."
-    publishedDateTime: 2022-04-28T04:02:00Z
-    webUrl: "https://fintechnews.sg/60778/ai/finbots-ai-secures-us3-million-in-series-a-funding-round-from-accel/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/04/The-Insurance-Sectors-Digital-Overhaul_Site-1.png?x82653&x82653"
-        width: 600
-        height: 500
-        isCached: true
-  - title: "Hyderabad based AI startup Finbots raises USD 3 Mn in Series A"
-    excerpt: "Finbots.AI, an AI-led, innovation-driven venture, announced it has raised USD 3 million in a Series A round from Accel."
-    publishedDateTime: 2022-04-28T11:26:00Z
-    webUrl: "https://analyticsindiamag.com/hyderabad-based-ai-startup-finbots-raises-usd-3-mn-in-series-a/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: The Japan Times
+      domain: japantimes.co.jp
     quality: 37
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/finbots.ai_.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_155778-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
-  - title: "Singapore AI startup Finbots.AI raises US$3m round from Accel"
-    excerpt: "SINGAPORE-BASED artificial intelligence (AI) startup Finbots.AI has raised US$3 million from American venture capital firm Accel in a Series A funding round, it announced on Thursday (Apr 28). Read more at The Business Times."
-    publishedDateTime: 2022-04-28T04:10:00Z
-    webUrl: "https://www.businesstimes.com.sg/garage/singapore-ai-startup-finbotsai-raises-us3m-round-from-accel"
-    ampWebUrl: "https://www.businesstimes.com.sg/garage/singapore-ai-startup-finbotsai-raises-us3m-round-from-accel?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/garage/singapore-ai-startup-finbotsai-raises-us3m-round-from-accel?amp"
+  - title: "Seven Unique Risks Of Investing In Fintech Startups"
+    excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."
+    publishedDateTime: 2022-04-29T13:11:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/04/29/seven-unique-risks-of-investing-in-fintech-startups/"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 37
-  - title: "Singapore-based Finbots.AI raises $3 million"
-    excerpt: "Singapore-based Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of USD 3 Million."
-    publishedDateTime: 2022-04-28T09:14:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92450/singapore-based-finbotsai-raises-3-million"
+      name: Forbes
+      domain: forbes.com
+    quality: 34
+  - title: "Skipping Square One: Where Reusable AI Models Are Finding a Foothold in E-Discovery"
+    excerpt: "E-discovery practitioners have increasingly used machine learning algorithms to cut down the time and money needed for review. Now, some are wondering just how well those algorithms can be applied across multiple matters."
+    publishedDateTime: 2022-04-26T13:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/04/26/skipping-square-one-where-reusable-ai-models-are-finding-a-foothold-in-e-discovery/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
+      name: Law
+      domain: law.com
+    quality: 31
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/02/Artificial-intelligence-767x633-1.jpg"
+        width: 768
+        height: 633
         isCached: true
-  - title: "JustiFi Raises New Capital to Break the Fintech Status Quo and Accelerate the Revenue Potential of Vertical SaaS Platforms"
-    excerpt: "JustiFi, the intelligent fintech orchestration brain for vertical SaaS platforms, today announced it raised $4 million in additional financing, bringing its total seed funding raised since inception to $10."
-    publishedDateTime: 2022-04-26T12:05:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-business-2fb95802b98690fe6feef8f876959b92"
+  - title: "Fintech firm Propflo closes pre-seed funding"
+    excerpt: "The business has a strong advisory team including the chief executive of Yopa and ex-Purplebricks managing director Verona Frankish, and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage ..."
+    publishedDateTime: 2022-04-29T13:00:00Z
+    webUrl: "https://www.mortgagefinancegazette.com/fintech/fintech-firm-propflo-closes-pre-seed-funding-29-04-2022/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 4
 
 secured: "eMKr1oLOGtCDM0jIfJZFgPQhmVcxbfQIkQgoxKVnL+oBc5hNljAyg5RwyzdZdch+geIwE+Kyxztj0nDWC5ZlG7qq1k78Y7W5YjdLTfMNoIEs5XZjmdjECqns3JrQ4ldGeytBk13gO0cQaWqxEEwUq+oMW6ePj7sZFZFjuGNpQ58LIBTQTGsBIp+l+3k3mjNWOlB5QYKou154XUHcBEUNgCwqX5bFMIMeqmCDf6fsz8vNV3gbByguq1RoqgN9HELDnD1opNxydkRJeirScLIbGhw6Dim6uHC7Y6gkRk8nVjMlgynrFnByVgwnQOq/nl/FcmJFrrUGoKy7niuPxYKc7MXaNhbmAZEx+2xqbwQvtSc=;IKFiyH4BLGuOeM165CySyg=="
 ---

@@ -110,15 +110,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "$36B+ AI in FinTech Industry Trends and Opportunities"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
-    publishedDateTime: 2022-04-25T17:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-36b-ai-fintech-industry-trends-opportunities-assessment-2027-/2022/04/25/9588806.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "JustiFi Raises New Capital to Break the Fintech Status Quo and Accelerate the Revenue Potential of Vertical SaaS Platforms"
     excerpt: "JustiFi, the intelligent fintech orchestration brain for vertical SaaS platforms, today announced it raised $4 million in additional financing, bringing its total seed funding raised since inception to $10."
     publishedDateTime: 2022-04-26T12:05:00Z

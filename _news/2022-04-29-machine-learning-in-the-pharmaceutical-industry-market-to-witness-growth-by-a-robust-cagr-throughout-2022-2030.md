@@ -53,20 +53,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Aerospace Robotics Market Exhibiting at a CAGR of 11.82% During 2022-2027 | IMARC Group"
-    excerpt: "According to the latest report by IMARC Group, titled “Aerospace Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
-    publishedDateTime: 2022-04-25T09:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/aerospace-robotics-market-exhibiting-at-a-cagr-of-11-82-during-2022-2027-imarc-group"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2W8nsKMLMpNTdkH8o3kdp7y6mtKk0SmbuIBxG793u6OiCLfakh9GAc4kUjxYkIcufHUc-_zNlmXs7cW0IJ1hgh3ThCIXhSM-K9FYrqdixnQ6EuJOD_piY8iu0bHmgRVac2GMaetojKuMYeKNKED5SXKBtcysflKM5Fk2k-gzoMEIPLBGT8etDFo4/s320/Aerospace%20Robotics%20Market.jpg"
-        width: 320
-        height: 213
-        isCached: true
 
 secured: "Bh5Tq4ptBNSVSDeD7ohMJXfgjYyMLqNMyxSDqHFCDz7rMm6tQo64KgNFfQkZo7Lku1ChiZ1fkh0WHIcrhxWqDpU3ljeHIEaXUIKwq81Ws+BfWQAVRqf7mdxv95hIvnt00GrLqYrHMLj0+v9NDg++yuKSOnkIbf/bAo5vGOKxuE9VWR6jCsJnpXIjBIysd+bg+qzG6padYcD8NYbWfx/VBGjF3ssn7J5NWJ+TmqvJEC9OZSZHmgcLrZlkg79vJVcdqaq/MblL6rrWWHSjZmtB7UMtM/zHRHpahkVgiR6tFnD2PYHiGAC4XAdefbMvMWgXi7ZDV2vcQgLi6b3D7dAI4+AX6VUaAqbXdHqumNBIswo=;oqCAGEQNsA06z7KYrdipGQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-04-deep-techniques-materials-imagin
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-deep-techniques-materials-imaging-breakthrough.amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,22 +27,77 @@ images:
     isCached: true
 
 related:
-  - title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
-    excerpt: "A new study by researchers at Johns Hopkins University shows how artificial intelligence (AI) machine learning can improve the accuracy and speed of mouse brain imaging in action—a breakthrough that one day could help accelerate neuroscience research for ..."
-    publishedDateTime: 2022-04-29T20:14:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+  - title: "How Fintech Companies Are Using AI, Machine Learning To Create Alternate Lending Score"
+    excerpt: "One may well credit Artificial Intelligence and Machine Learning, which help in creating a favourable credit environment for a broader range of users, thus, providing means of an alternative lending score that doesn’t rely solely only on an individual ..."
+    publishedDateTime: 2022-04-30T02:34:00Z
+    webUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058"
+    ampWebUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 66
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/picl2887.jpg?itok=BuzpjY5z"
-        width: 1528
-        height: 800
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1651242910.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "AI bot takes moving-making to a new level"
+    excerpt: "Writer’s block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the first film written by a Japanese AI bot is aiming to demonstrate what it can do at a major short film festival this year."
+    publishedDateTime: 2022-04-30T01:00:00Z
+    webUrl: "https://www.japantimes.co.jp/culture/2022/04/30/films/ai-bot-boy-sprouted/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 37
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_155778-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
+  - title: "Seven Unique Risks Of Investing In Fintech Startups"
+    excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."
+    publishedDateTime: 2022-04-29T13:11:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/04/29/seven-unique-risks-of-investing-in-fintech-startups/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
+  - title: "Skipping Square One: Where Reusable AI Models Are Finding a Foothold in E-Discovery"
+    excerpt: "E-discovery practitioners have increasingly used machine learning algorithms to cut down the time and money needed for review. Now, some are wondering just how well those algorithms can be applied across multiple matters."
+    publishedDateTime: 2022-04-26T13:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/04/26/skipping-square-one-where-reusable-ai-models-are-finding-a-foothold-in-e-discovery/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 31
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/02/Artificial-intelligence-767x633-1.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "$36B+ AI in FinTech Industry Trends and Opportunities"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market reached a value of US$ 9.4 billion in 2021."
+    publishedDateTime: 2022-04-25T17:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-36b-ai-fintech-industry-trends-opportunities-assessment-2027-/2022/04/25/9588806.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Fintech firm Propflo closes pre-seed funding"
+    excerpt: "The business has a strong advisory team including the chief executive of Yopa and ex-Purplebricks managing director Verona Frankish, and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage ..."
+    publishedDateTime: 2022-04-29T13:00:00Z
+    webUrl: "https://www.mortgagefinancegazette.com/fintech/fintech-firm-propflo-closes-pre-seed-funding-29-04-2022/"
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 4
 
 secured: "exw4tRGTXUj5Jd+GixFJ8hHZovXCat5XBesp0PSw9gAvvAgKEUDS3N+e2RP1GZFwvbCCv/QWQ8jX9gyMf7lmBa4Yk/vqIFIZDslEG8f2oH64P9xGRKazeZLOfxke9/qSevNflWdpOsyiO6suc+SB16SF0w2IC+AH6DN3MkvwA0YrcP0WDN5SMxGab9BpAdVcdN5zr6U2VB67C8EXwSHDrdxG4li6cN3MC9IIIezgaYJdGB+p9vq0OU3dIVqNu+/XKHZ/2I9XZ5qy4h3Ip7tF5DQF/jZzZeyolE66PEjNtWL4qlF/5AHvwj8JPAxGY+im9dfMZe1dSLBGoXaqi5l8mI4ZyqOzRtgs/htFJTuerjM=;h5G5xGxmNK7clIDjnzDwWg=="
 ---

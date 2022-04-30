@@ -108,15 +108,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "What happened when police pulled over a self-driving car"
-    excerpt: "A viral video on Instagram shows San Francisco police officers confused after pulling over a self-driving or autonomous car."
-    publishedDateTime: 2022-04-25T10:00:00Z
-    webUrl: "https://www.cbc.ca/kidsnews/post/what-happened-when-police-pulled-over-this-self-driving-car"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 4
 
 secured: "mc/BDZMCgrtnk59jmpa9bs57uKMVcgSgvRMAf/dmWerlrH/noadcLk8Cr4ZQo8i/56SLxGI6hX1oBKDzaBQpXEmT2US/6LDxM0oHA+N4pwOk670cy099myEnqvoQRsOXJQEnl4dwJTMBBLvM9Yfxw6Te52NtfMzo6/0pEaY9JBG+va339r4O0A7RCKb84EWQDBXMieU6A09QEv/9CNsw5At8NibwvO9YHt5uHk6i49+utoeW+zFGDg5Bu/sMIS69WcAyF37QxPdO7RzDfhKrOIizB2Rv/XNLLxu/8Urc9T78LPF5ZNVAbryINml/P6DiUm39e5OJMcfCfPlygShMI/Whi7nrYN9u023UsCleDZ9KmNCidezzwR6nMHVowHdosepWkOhHyWMRd1lvgSdGpTpsTC4nBaE1YRmSc97bO8eAMoKq6F0DD629gQfvO+l8aqcnfcOUaLU5mkIdZPlXKf4vHKsxdpvda8mZTpp45cx+1XzGY9rSOdIY296I/Q/0iTE26lI+Nrm01Ay8A430Yg==;s8orM/blHcNvgYyZ7loU7w=="
 ---

@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM research details AI skills gap across Europe"
-    excerpt: "IBM research reveals that the tech sector across the UK, Germany and Spain struggles to close the AI skills gap"
-    publishedDateTime: 2022-04-25T09:18:00Z
-    webUrl: "https://www.information-age.com/ibm-research-details-ai-skills-gap-across-europe-123499237/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/04/ibm-research-details-ai-skills-gap-across-europe.jpeg.optimal.jpeg"
-        width: 1080
-        height: 629
-        isCached: true
   - title: "The 20 Most Influential Fintech Marketers in Europe"
     excerpt: "The Fintech Marketing Hub, a global fintech marketing community, has released its selection of the world’s top 30 most influential fintech marketers for 2022."
     publishedDateTime: 2022-04-26T05:34:00Z

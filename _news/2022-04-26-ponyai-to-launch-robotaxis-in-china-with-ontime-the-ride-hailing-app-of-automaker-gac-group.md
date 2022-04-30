@@ -158,6 +158,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+    excerpt: "The permits given to Baidu and Pony.ai allow them to offer rides without a safety driver behind the wheel to take over in cases of an emergency. The new permits still require a safety supervisor to be seated in the front passenger seat."
+    publishedDateTime: 2022-04-28T06:02:00Z
+    webUrl: "https://www.seattlepi.com/news/article/China-grants-first-driverless-taxi-permits-to-17132619.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/China-grants-first-driverless-taxi-permits-to-17132619.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 74
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/40/31/22414936/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Robotaxi startup Pony.ai gains taxi license in China city"
     excerpt: "Self-driving tech company Pony.ai, backed by Toyota Motor Corp, said on Sunday it has obtained a taxi license in China, which will allow some of its driverless vehicles to start charging fares."
     publishedDateTime: 2022-04-25T11:06:00Z
@@ -203,20 +219,6 @@ related:
       - url: "https://c.ndtvimg.com/2022-04/7hcnce9o_self-driving-taxis-china_625x300_28_April_22.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-    excerpt: "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals"
-    publishedDateTime: 2022-04-28T06:59:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 56
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Baidu Leads Years-Long Race for First Driverless Taxis in China"
     excerpt: "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous ... Back in 2020, Google-owned Waymo opened its fully driverless ride-hailing service to the public in Phoenix, but Wei said the traffic ..."

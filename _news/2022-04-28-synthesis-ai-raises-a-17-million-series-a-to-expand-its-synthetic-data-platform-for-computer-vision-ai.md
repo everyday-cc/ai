@@ -54,6 +54,6 @@ related:
       domain: finanzen.at
     quality: 38
 
-secured: "hL+VNfyRESw2TYmoE1I40ou4z08qjNz2RRqfK0fTDzODe6NhRHZCOchnr8+jeQXZWntLt7+dABapZKxKVhRHYAiqnp36QcbLMZLU56WwGZNxrqe0ch760Yz0b8xmsMrX99nPJAtT2J7D/kb6+SWf+dso+VlC7h0jnLWrxvp+pj7/goeHFfK+LKtkBXjNzAAoWjwRrx8JXg6VkW2q0yCGdoHbOMflKnzg6oG1Un9limKGcbx6kyZvwf0rn2ILBSrrXWMS1HrZar4vUCwvJojQF7Wy5TJZ9A8Sg4nIDTfPslyIazBBqurVta+SWH0OPN4+p5WA2XUuhtT21xCSvgDxSFAvKbMoP9KXp3Rj8WEe73A=;QS5nsC/SHHfVQ2Oh6NWh6Q=="
+secured: "HN3RX+AV1/M4wnkFLg3pC22/uN4ccvCtn36A2b0l/OHIuptJdq6K2z+/sr2ticELOR9NKfYdx2zMfCHi6UaY+b2NvJFK7eemroSCN89IzEW1a85Mw/EjfM4gqctyGR8AjE0nPcswv0TchY4FeL4Ab4xoa1ogUdRjdk/1mfYKh4I6pCE2NHfRWZxW/PusxzjMel/W9ntwCfNWVbaZCvRwKFezcEZShavDU/HEpg2PBKe8BlrG8CiBf1Y8rzZJJB5oE0oIwszd+IxA8sJRro+qSySbxCePMowCEeczHvAp/JSOTWbLpUmGG6U2GZlgNepqZFwc29JwZH1jUZWatFyZeZIXJJXc79vqHKxB+t6GodM=;8TaaRx1iGOeZZutvV3/L9A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/04/27/hpe-releases-ml-development-sys
 webUrl: "https://venturebeat.com/2022/04/27/hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/04/nl.png"
         width: 1006
         height: 539
+        isCached: true
+  - title: "Japan firm develops AI system to catch shrine donation thieves"
+    excerpt: "“We went through numerous tests to aim for creating a low-cost AI system that is also compatible with other firms’ cameras,” said Takuya Kanematsu, 44, president of the company. A shrine in Nagoya’s Minato Ward is considering introducing the system ..."
+    publishedDateTime: 2022-04-30T02:37:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2022/04/30/business/shrine-ai-system-theft/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 37
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_156022-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
 
 secured: "Hy5gwZ63CzDWMWjOOEFupWxoPFpVR7Ls0BM7bxAB5TkJl9p6jvYng00E3TdYqn3uxBsPTIng2rSDIl5MZImY3mUEKs5u2BBS+0CVL8LsTerAPLORcRN3lHnR3XYP7QZ7Ycf2hA3v0WI4SLZQsqsFO+iQROiX7HdzBoVNShQYoNIJtZbFyqN3F7wtOEL9w3Em1WQa1GCcollvFTszDsANTjpt26WUwOXrRd6G4y1iT0Da1gnkN0GUQfnglCAjJ44nx3/0ppQfF5LTwDMAHFzrvdQnecw+2DqKJ2ZTkCL3FqvP8M+xt9W1rTC6NozmkzqoQcTrbR8BkGv+Ic7tveTCH0ri3+zYUhbGy52igGfWIgxXQFLHI5z4ffYRlyDCF3/fLdgnILpotrAriFD3MVmjDOewLdssmZreXiODp3pylJR74Vu9xJmNgWwyWfHOzkgcyq00Sm5ep2yxDTX2U8RzHEGu3tEi6qpLX+valUxxbEcSjDVZn7wQczhsS+3Zv3vuOiQoHOBjiUt6161TTYSgsA==;msoB7A6D6dWnQEysHGh2cg=="
