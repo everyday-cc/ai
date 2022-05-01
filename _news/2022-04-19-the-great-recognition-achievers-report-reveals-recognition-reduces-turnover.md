@@ -2,25 +2,19 @@
 category: news
 title: "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover"
 excerpt: "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,"
-publishedDateTime: 2022-04-19T13:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/science-canada-770af8ce578c44b3a9e6dac113b3f86d"
-webUrl: "https://apnews.com/press-release/BusinessWire/science-canada-770af8ce578c44b3a9e6dac113b3f86d"
+publishedDateTime: 2022-04-19T13:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-great-recognition-achievers-report-reveals-recognition-reduces-turnover-/2022/04/19/9585084.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-great-recognition-achievers-report-reveals-recognition-reduces-turnover-/2022/04/19/9585084.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "lJMJ3joaT8MuLkg5DvujxXpf6aUTSrzhvg/agC9bM8DyHhetrYXekY6Zsu02QhkG/+RZROk9CzI5P2jgkEQqi/CQLYfhTP2B24fO4pGsADqHxspl61JciEwT8cSj27RQKG/SL+GHaNUfUuuHKAH6zZed2ORk0/gCE6yQMWUtTa9XBV40BChSd+6YxOgu7T5+umIzkAw1e8yfjsygIulB7p5r1jK6XMmGXwS7WkV9/ME9KBQLhkmxK0BiqiTCQpLg2+Hg5/qwDEUvtya5r9e61uMD5QpEzF4F85qPB3NkO2D/ZvGCKZHk0ONaRWUgZdL8XgMRN2KKBAGJGmYmAXnusd1kX+LVSbWdKXUPX8a9qHY=;gAyINGbU53ZXcuI6Us127Q=="
+secured: "IzsLKTsl3bvvcKA2dPjQ3QKAfLv/HXm4yaWqGblk5gjhf25QzhJUaWwe6cWb99TbjbEZyCv09uRnBRZXsDBy3D7u3GJ6F/uaRaqyloeqJyNGv3HICOYicMqjFyyqDdz67+OuKFBiV+WcIvK4e8f5ITiBQJttfJGkflfiFp/riC5rUYv8K5JoqcpxPYgBvYZ6GfqEElQD8E1eZcwLq3HSCwwQiuxPZG0LLJh3rqKFPG18xmghh3Q2lwa+vbkTysbNYg4FTmk7R5Sr7XZ3zimOjj5KsGagQJQiG4FJyV8rzZtIw6t/w2w3YVCLSc5kgjHT2Algn4GQba9DZbCGK1UxAylCaF9w5bg58ox4o9LfQjY=;QzjWZDjI3YeyNKB9znhB9g=="
 ---
 
