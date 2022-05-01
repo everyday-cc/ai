@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-01-check-out-this-crazy-video-about-neural-tts.md",
+      "title": "Check Out This Crazy Video About Neural TTS",
+      "excerpt": "Deb Adeogba, the host, is senior program manager at Microsoft AI Cognitive Services. (Radio World contributor Dan Slentz shared this video with me. When he was director of engineering at KOB(TV) in Albuquerque, Adeogba was production manager; he saw her ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.radioworld.com/columns-and-views/from-the-editor/check-out-this-crazy-video-about-neural-tts",
+      "originalUrl": "https://www.radioworld.com/columns-and-views/from-the-editor/check-out-this-crazy-video-about-neural-tts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.radioworld.com/wp-content/uploads/2022/03/Microsoft.png",
+          "width": 1032,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Radio World",
+        "domain": "radioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-you-can-now-translate-to-from-isizulu-across-the-entire-microsoft-ecosystem.md",
       "title": "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem",
       "excerpt": "Image sourced from NS Energy. Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most ...",
@@ -1394,59 +1437,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-microsoft-surface-hub-2-smart-camera-with-laptop-grade-chip-12mp-ai-cam-launched.md",
-      "title": "Microsoft Surface Hub 2 Smart Camera with laptop-grade chip, 12MP AI cam launched",
-      "excerpt": "Microsoft has just unveiled its Surface Hub 2 Smart Camera which boasts of some highly impressive features and capabilities. The Microsoft Surface Hub 2 Smart Camera is not just an everyday webcam and it does not come cheap – it is priced at $800.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/",
-      "originalUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/03/Surface-Hub-2S-1-810x298_c.jpg",
-          "width": 810,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/?amp=1",
-      "publishedDateTime": "2022-03-16T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

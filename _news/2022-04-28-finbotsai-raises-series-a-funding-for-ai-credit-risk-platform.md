@@ -121,20 +121,6 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 38
-  - title: "AI Medical Service Raises US$70M in Series C Financing"
-    excerpt: "AI Medical Service, a Tokyo, Japan-based med-tech company using deep learning technology to develop endoscopic AI, raised US$70M in Series C funding"
-    publishedDateTime: 2022-04-26T21:45:00Z
-    webUrl: "https://www.finsmes.com/2022/04/ai-medical-service-raises-us70m-in-series-c-financing.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/aim-softbank.jpeg"
-        width: 2168
-        height: 1948
-        isCached: true
   - title: "Hyderabad based AI startup Finbots raises USD 3 Mn in Series A"
     excerpt: "Finbots.AI, an AI-led, innovation-driven venture, announced it has raised USD 3 million in a Series A round from Accel."
     publishedDateTime: 2022-04-28T11:26:00Z
@@ -199,22 +185,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 32
-  - title: "Ayar Labs Raises $130 Million in Series C Funding, Accelerating Commercialization of Industry’s First In-Package Optical I/O Products"
-    excerpt: "Boardman Bay Capital Management leads round joined by strategic investments from industry bellwethers HPE and NVIDIA."
-    publishedDateTime: 2022-04-26T21:09:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/ayar-labs-raises-130-million-in-series-c-funding-accelerating-commercialization-of-industry-s-first-in-package-optical-i-o-products-44284/"
-    ampWebUrl: "https://www.telecomtv.com/content/digital-platforms-services/ayar-labs-raises-130-million-in-series-c-funding-accelerating-commercialization-of-industry-s-first-in-package-optical-i-o-products-44284/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/ayar-labs-raises-130-million-in-series-c-funding-accelerating-commercialization-of-industry-s-first-in-package-optical-i-o-products-44284/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 28
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "ICON Corporate Finance Advises AI Platform-as-a-Service Provider ForePaaS on its Acquisition"
     excerpt: "ForePaaS offers a unified platform specialising in data analytics, machine learning, and artificial intelligence for ... Acquiring ForePaaS further propels OVHcloud’s Platform-as-a-Service strategy and reinforces its position as a leading global player ..."
     publishedDateTime: 2022-04-29T12:49:00Z

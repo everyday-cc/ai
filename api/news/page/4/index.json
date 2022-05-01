@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-27-rapyuta-robotics-raises-usd-51m-in-series-c-funding.md",
+      "title": "Rapyuta Robotics Raises USD 51M in Series C Funding",
+      "excerpt": "its cloud robotics platform, rapyuta.io, utilizes advanced control and artificial intelligence technologies to improve the efficiency and safety of warehouse operations, enable multiple robots to work harmoniously together, and create a remote-controlled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html",
+      "originalUrl": "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2022/04/rapyuta.jpeg",
+          "width": 333,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-amazon-invests-in-israeli-robotics-firm-bionichive.md",
       "title": "Amazon invests in Israeli robotics firm BionicHIVE",
       "excerpt": "E-commerce giant backs Israeli startup developing an autonomous warehouse robot that can work on shelving racks to retrieve and return boxes and packages.",
@@ -485,6 +528,39 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-norads-vanherck-says-artificial-intelligence-capabilities-lacking.md",
+      "title": "NORAD’s VanHerck says artificial intelligence capabilities lacking",
+      "excerpt": "U.S. Northern Command earlier this year asked Congress for an additional $29.8 million to buy information technology equipment and to optimize infrastructure for artificial intelligence and machine learning at its joint operations center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensenews.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense News",
+        "domain": "defensenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1075,21 +1151,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-26-global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028.md",
-      "title": "Global Deep Learning Market Report Shows Demand to Boost Industry Growth from 2022 to 2028",
-      "excerpt": "Apr 25, 2022 (CDN Newswire via Comtex) -- MarketsandResearch.biz offers a newly added report titled Global Deep Learning Market 2022 by Company, Regions, Type and Application, Forecast to 2028 ...",
+      "path": "_news/2022-04-26-can-virtual-reality-help-ease-chronic-pain.md",
+      "title": "Can Virtual Reality Help Ease Chronic Pain?",
+      "excerpt": "V.R. treatments may provide relief similar to intravenous opioids — a tantalizing prospect for the millions of Americans living with chronic pain.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028-2022-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028-2022-04-25",
+      "webUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.html",
+      "originalUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://static01.nyt.com/images/2022/05/01/magazine/01mag-vr-pain-02/01mag-vr-pain-02-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1097,16 +1173,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T07:30:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.amp.html",
+      "publishedDateTime": "2022-04-26T07:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1122,110 +1198,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data.md",
-      "title": "How To Improve Demand Forecasting With Machine Learning And Real-Time Data",
-      "excerpt": "Demand forecasting systems have been ill-equipped to address disruptions to our daily lives on a global scale. Consumer packaged goods (CPG) companies and retailers were caught flat-footed as unforeseen panic-buying took hold throughout 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5efcc8f4cdc22100069576cc/0x0.jpg?format=jpg&crop=6996,4663,x4,y379,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/amp/",
-      "publishedDateTime": "2022-04-26T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence.md",
-      "title": "PIPA and Mars, Incorporated accelerate science discovery in food and health using Artificial Intelligence",
-      "excerpt": "PIPA LLC announced today that it has entered into a multi-year agreement with Mars, Incorporated to accelerate the discovery of new, plant-based ingredients. PIPA's Artificial Intelligence (AI) platform,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence-1031385335",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence-1031385335",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1804015/PIPA_MARS_agreement_LEAP.jpg",
-          "width": 400,
-          "height": 243,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

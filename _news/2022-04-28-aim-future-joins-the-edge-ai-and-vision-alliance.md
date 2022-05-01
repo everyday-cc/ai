@@ -95,15 +95,6 @@ related:
       name: CIO Applications
       domain: cioapplications.com
     quality: 17
-  - title: "The Evolution of Data and Freedom of Expression and Hate Speech Concerns with Artificial Intelligence"
-    excerpt: "In the current era we are witnessing a high increase in the development and adaptation of artificial intelligence (AI ... of science and related technologies has developed from research activities based on observation, lab experiments, animal and human ..."
-    publishedDateTime: 2022-04-27T00:00:00Z
-    webUrl: "https://www.cambridge.org/core/journals/legal-information-management/article/evolution-of-data-and-freedom-of-expression-and-hate-speech-concerns-with-artificial-intelligence/5331D49AA715602E27BE1952E1668A43"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 4
 
 secured: "XViTmzMMw05L9jV6c55wQulyH/p9/uXncwLTvA1N30UqK4RWwpsxAOvAXGeZ4zU4uz6N7yDnTB25FI07kc1+8eP+U0fqFJQUXFUewxdlAEZlBbp8e1WEK5K0h9DaNnzU4sxiUadZHFHzAn6+7OacEd4xdBLHb8WPBw83uE9focIyqkTkchrWo3HCGfYcMw3FgOz07l7VahtV+306Y12mpygHi005IgZHclqvwO6x2fYgjJfyCu59Jt3MazoJIR6IIrOsItWYFty0kVOIp6n88C9KQDoa0rmJaVbmyQIyG8x1hwirSCxeuiuCdFJ8qUDkd7yaNqGdfl3oQ3Xl+MI80s1uJGYRjnnnKnUCRTbeyO0O/tCQeOduIABPFPR9JB/2W8mA4q13olfC+TSrushT95/h5ufFPTUN+JpwDN2Rf0Hux2PylXTEyrXkxBcOJrpbRKEl4p02Zrx7TIldtsOkY6RZScu9MsgbW35mVBlkFGzCn1nFZgQwKErlJizbRoNZEikSojylifNV+ce1QJZJmw==;d1e6gq9wvvuTQFjjBJpu9g=="
 ---

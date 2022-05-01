@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-04-28-pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler.md",
-      "title": "Pandas user-defined functions are now available in Amazon SageMaker Data Wrangler",
-      "excerpt": "Amazon SageMaker Data Wrangler reduces the time to aggregate and prepare data for machine learning (ML) from weeks to minutes. With Data Wrangler, you can select and query data with just a few clicks, quickly transform data with over 300 built-in data transformations, and understand your data with built-in",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Featured-images-for-ML-9272-new.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T10:38:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-29-scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video.md",
       "title": "Scientists Use AI To Make An Enzyme That Eats Plastic Trash In Hours: Video",
       "excerpt": "A new enzyme developed by researchers in Texas has raised hopes of a viable method to break down and recycle some of the millions of tons of waste plastic polluting the Earth.",
@@ -247,6 +195,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok.md",
+      "title": "Meta Is Investing in AI and Video to Defeat the Existential Threat of TikTok",
+      "excerpt": "Meta is taking the threat of TikTok seriously, investing in short-form video content and artificial intelligence to improve its recommendation algorithm.",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/",
+      "originalUrl": "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2022/04/GettyImages-1239915488.jpg?quality=80&strip",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/amp/",
+      "publishedDateTime": "2022-04-28T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -460,7 +451,7 @@
       "originalUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -502,7 +493,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -681,6 +672,101 @@
         "name": "Facebook Live",
         "domain": "fb.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-facebook-parent-meta-is-studying-the-human-brain-to-improve-ai.md",
+      "title": "Facebook Parent Meta Is Studying the Human Brain to Improve AI",
+      "excerpt": "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
+      "originalUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-trades-union-chief-warns-on-ai-workplace-changes.md",
+      "title": "Trades union chief warns on AI workplace changes",
+      "excerpt": "The general secretary of the UK Trades Union Congress (TUC) has told the BBC that with the rise of Artificial Intelligence in the workplace, employment rights have to keep pace with big changes. \"So often we see those big decisions being taken by [employment] software that has discrimination written in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/business-61255405",
+      "originalUrl": "https://www.bbc.com/news/av/business-61255405",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1F44/production/_124340080_p0c3qnf1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -889,7 +975,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1126,109 +1212,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud.md",
-      "title": "How AI-driven company Oculeus helps telecom service providers better combat fraud",
-      "excerpt": "Oculeus claims its solutions use AI to help its customers better manage and protect their business and network operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1364721861-e1651091651812.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
-      "publishedDateTime": "2022-04-27T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-baidu-ponyai-win-first-driverless-robotaxi-permits-in-china.md",
-      "title": "Baidu, Pony.AI win first driverless robotaxi permits in China",
-      "excerpt": "Chinese internet giant Baidu and autonomous vehicle company Pony.ai have received permits to provide driverless ride-hailing services to the public on open roads in Beijing, according to both companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
-      "originalUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Baidu-Apollo-Driverless-Vehicles.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/amp/",
-      "publishedDateTime": "2022-04-27T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

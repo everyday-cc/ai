@@ -2,6 +2,188 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-19-the-power-of-natural-language-processing.md",
+      "title": "The Power of Natural Language Processing",
+      "excerpt": "Until recently, the conventional wisdom was that while AI was better than humans at data-driven decision making tasks, it was still inferior to humans for cognitive and creative ones. But in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
+      "originalUrl": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2022/04/Apr22_19_722235443.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-recycling-robotics-firm-glacier-emerges-from-stealth-with-45m.md",
+      "title": "Recycling robotics firm Glacier emerges from stealth with $4.5M",
+      "excerpt": "Glacier Robotics emerges from stealth with $4.5M; funding will go toward increasing headcount and accelerating the system’s commercial deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/",
+      "originalUrl": "https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston.md",
+      "title": "Dean Kamen is coming to TC Sessions: Robotics July 22 in Boston",
+      "excerpt": "We’re still building out the event agenda, but you can bet the day’s programming will cover a wide range of crucial issues focused on robotics and the AI that ... Buy your Startup Demo Package ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/",
+      "originalUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Dean_Kamen_1200x628.png?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/",
+      "publishedDateTime": "2022-04-19T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-amazon-to-conduct-racial-equity-audit-with-loretta-lynch-at-the-helm.md",
+      "title": "Amazon to conduct racial-equity audit with Loretta Lynch at the helm",
+      "excerpt": "“Amazon has taken some measures to address ... study of the company’s proprietary facial recognition software, Rekognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/amazon-conduct-racial-equity-audit-144037929.html",
+      "originalUrl": "https://www.aol.com/amazon-conduct-racial-equity-audit-144037929.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/icEIL32iF3pKHOpPPD9L8g--~B/aD0zOTY7dz03MDQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_thegrio_365/196b9b69ede489455094e40744345011",
+          "width": 704,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-ai-may-help-spot-relapse-risk-in-alcoholics.md",
       "title": "AI may help spot relapse risk in alcoholics",
       "excerpt": "Artificial intelligence (AI) may be able to identify alcoholics at risk of relapsing after treatment, researchers say.",
@@ -100,8 +282,8 @@
       "title": "Even Financial's Embedded Finance Marketplaces Surpass $5 Billion in Credit Facilitated",
       "excerpt": "Even Financial (\"Even\"), the category-leading embedded finance marketplace and independent subsidiary of MoneyLion, Inc. (NYSE: ML), has announced it has now facilitated over $5 billion in consumer credit,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/04/19/9585308.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/04/19/9585308.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-even-financials-embedded-finance-marketplaces-surpass-5-billion-/2022/04/19/9585308.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-even-financials-embedded-finance-marketplaces-surpass-5-billion-/2022/04/19/9585308.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -281,35 +463,60 @@
       ]
     },
     {
-      "path": "_news/2022-04-19-the-great-recognition-achievers-report-reveals-recognition-reduces-turnover.md",
-      "title": "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover",
-      "excerpt": "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,",
+      "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
+      "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
+      "excerpt": "Varma will chair the session and discuss how artificial intelligence (AI ... IMPLICITY® develops AI and knowledge based algorithms to reduce healthcare professionals workload and allow to potentially predict patient health status. The IMPLICITY ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/science-canada-770af8ce578c44b3a9e6dac113b3f86d",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/science-canada-770af8ce578c44b3a9e6dac113b3f86d",
+      "webUrl": "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "originalUrl": "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T06:02:00-07:00",
+      "publishedDateTime": "2022-04-19T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "CBS 42",
+        "domain": "cbs42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-the-great-recognition-achievers-report-reveals-recognition-reduces-turnover.md",
+      "title": "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover",
+      "excerpt": "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-great-recognition-achievers-report-reveals-recognition-reduces-turnover-/2022/04/19/9585084.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-great-recognition-achievers-report-reveals-recognition-reduces-turnover-/2022/04/19/9585084.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -377,10 +584,10 @@
     {
       "path": "_news/2022-04-19-imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills.md",
       "title": "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills",
-      "excerpt": "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE, Ariz., April 19,",
+      "excerpt": "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-imagine-learning-taps-speech-recognition-technology-help-educators-/2022/04/19/9585025.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-imagine-learning-taps-speech-recognition-technology-help-educators-/2022/04/19/9585025.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -390,12 +597,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:58:00-07:00",
+      "publishedDateTime": "2022-04-19T05:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -405,49 +621,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
-      "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
-      "excerpt": "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research.",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "originalUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -895,187 +1068,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
-      "title": "Artificial intelligence is creating a new colonial world order",
-      "excerpt": "An MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/",
-      "originalUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-1-extend3-1.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/",
-      "publishedDateTime": "2022-04-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-how-ai-can-help-and-hinder-the-supply-chain-crisis.md",
-      "title": "How AI can help – and hinder – the supply chain crisis",
-      "excerpt": "This confidence in AI owes much to its promise of visibility. AI offers a clear overview of the entire supply chain, and claims to predict demand, supply and movements better and",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1650360316/itpro/2022/April/GettyImages-supply%20chain%20AI.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-using-ai-to-help-san-antonio-radiologists-reduce-x-ray-reading-errors.md",
-      "title": "Using AI to help San Antonio radiologists reduce X-ray reading errors",
-      "excerpt": "Dr. Rajeev Suri, seated in front of a desktop computer, searched for signs of lung cancer on a digital X-ray emblazoned with red, orange and yellow clusters. The colors weren’t highlighting cancerous masses,",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php",
-      "originalUrl": "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/25/20/21/22348879/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes.md",
-      "title": "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes",
-      "excerpt": "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE Regions. These latest services mean that",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital",
-      "originalUrl": "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/Microsoft%20Portraits%20Jan%202018%20-%20PR%20Size%20-%2066.jpg?itok=RhaGUWpG",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital",
-      "publishedDateTime": "2022-04-19T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

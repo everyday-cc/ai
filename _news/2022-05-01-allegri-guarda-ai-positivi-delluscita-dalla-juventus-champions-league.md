@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-01T13:15:00Z
 originalUrl: "https://football-italia.net/it/allegri-looks-at-positives-of-juventus-champions-league-exit/"
 webUrl: "https://football-italia.net/it/allegri-looks-at-positives-of-juventus-champions-league-exit/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Football Italia

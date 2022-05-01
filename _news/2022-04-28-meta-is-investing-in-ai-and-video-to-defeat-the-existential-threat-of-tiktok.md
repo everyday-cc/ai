@@ -9,8 +9,8 @@ ampWebUrl: "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-de
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Observer
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "TikTok is eating Facebook from the inside"
+    excerpt: "Facebook had a TikTok problem. This year, it has several. The Chinese-owned video app is eating Mark Zuckerberg’s social network from the inside, first by luring its users and now by challenging Facebook as a news source too."
+    publishedDateTime: 2022-04-27T20:10:00Z
+    webUrl: "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-inside-2022-04-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/I8gnFrAtvNuTHPgz2LFv4mwExcU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B5SGK6W4PRPQHJHQERPWSZFN7Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "“TikTok uses AI to present the things you’re intere…"
     excerpt: "“TikTok uses AI to present the things you’re interested in,” the billionaire investor and Dallas Mavericks owner said. “If my son and I like Luka Doncic’s dunks, NBA stuff and ..."
     publishedDateTime: 2022-04-29T23:45:00Z

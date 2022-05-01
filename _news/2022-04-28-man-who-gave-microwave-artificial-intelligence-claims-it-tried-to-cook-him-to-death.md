@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-arti
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
+    quality: 19
+  - title: "Man Claims Microwave Tried To Cook Him To Death After He Equipped It With Artificial Intelligence"
+    excerpt: "The man said he believed the microwave was a WWI veteran He said the machine started vowing revenge after he powered it with AI He said the kitchen appliance wanted to \"cook him to death\" A YouTuber claimed he tried to bring his imaginary childhood ..."
+    publishedDateTime: 2022-05-01T11:00:00Z
+    webUrl: "https://www.ibtimes.com/man-claims-microwave-tried-cook-him-death-after-he-equipped-it-artificial-3489696"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 19
 
 secured: "kfml337/5XP+ezdppr0IOZ0mf+nqUma/6es+79m6NGlfsEiPYoUxs5YQHUrFG/NCG7c2Ar/9ivm8E/TiaJq3mwt7EQj1G+XC6fLd/wB5ghTsNVz4qbPEGfYd1eZZGori6WEDr4XENLl00zKi66ptbcgMdAvQVVtNwWOHpq68DVM45DBlr+bOaCUSfOf3wb2L5pMKe4q/J4j5C54NcZhJ4sxG/xiLbdba19ZtL8f0XVWsmjRM5Mp1TGtk0iqCGJ1aESMs7jMG3NbgFWH9YMMkzrQ5XMw/BPz8vLHf6T90C/Igx5/LOd65lfEWqqJUzEeI78PvImMwSBeFN/uXZpGd4VjchaTfSuSNbJpFUwFqLOo=;TNPhozRy7XrJmUZl5vttvA=="

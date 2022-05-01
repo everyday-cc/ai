@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/news/av/business-61255405"
 webUrl: "https://www.bbc.com/news/av/business-61255405"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: BBC
@@ -26,6 +26,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "All about Pentagon’s new AI chief"
+    excerpt: "The US Department of Defense has appointed Dr. Craig Martell as Chief Digital and Artificial Intelligence Officer (CDAO). “With Craig’s appointment, we hope to see the department increase the speed at which we develop and field advances in AI,"
+    publishedDateTime: 2022-04-28T05:36:00Z
+    webUrl: "https://analyticsindiamag.com/all-about-pentagons-new-ai-chief/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/27apr-8.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "WSpBIxCNzlbSY7JK07gq22xZH4KpgmVYlgDnKP9HbBcuBkcvaxRI5MsDCeKlRGHVZctFhmAd9j4rABLYIiedKIP7fROH7JG4IwmRZDJnCJsEQqne+NZbROtPlOd8gwvINDgJAXhzmctoQuUtL7omDJ2TAn/6LzjgmPOCMNldQZu4MCsaD1KiXE4P/iOhrmCWfEkcl2i02likqAp30bf/lQjpLGYEDgC8dGSNFAus/MMbamJpQLLO6C05OVwt6XysdDgnJwVN6sher1uWPyXEgqc9Q5yGePPdvNr4DM3ddUgPl/NJT33LHQjaoVL2xG+xU6ZrjrGZ3D+Ik5rv+kJA/ebrzqg4jpMAiIRgTjoHfBsQlE3/dpxRvukuOJqoaJrD9mY67lU3uEdAzYYMkkJgneQt+Ryu/bre8bPRxpA1dKD41H0sWW2JsTZe5OyvAv3nmRoI47IuXl5+7gmi+H0XQ6rU8d4tManQYgLZqjMru5IVM05BxvrfKdXen7+OZe3lWIJ5/EfWt9+VbsniueamWg==;qhG10CEwq1GKerwylFn1bg=="
 ---

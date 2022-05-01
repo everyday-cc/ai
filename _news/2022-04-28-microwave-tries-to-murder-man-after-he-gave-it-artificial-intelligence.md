@@ -51,6 +51,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Man Claims Microwave Tried To Cook Him To Death After He Equipped It With Artificial Intelligence"
+    excerpt: "The man said he believed the microwave was a WWI veteran He said the machine started vowing revenge after he powered it with AI He said the kitchen appliance wanted to \"cook him to death\" A YouTuber claimed he tried to bring his imaginary childhood ..."
+    publishedDateTime: 2022-05-01T11:00:00Z
+    webUrl: "https://www.ibtimes.com/man-claims-microwave-tried-cook-him-death-after-he-equipped-it-artificial-3489696"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "34CUbFjOM5XUGZg21LXQsT6/0Gqpff7nGm662rLnj+qAppynvQt0MXkFgTWYskAXbkzCyizXpyPlFtus8R64k+nrQcBLvnkPblOgYJuLzPABQ8EyfzmhUspwX6JlvpKchjB3zblDG1aPiRFTJEu3LQUdy/HUKcVco9Iu7DGfOkwYFxg6TaMPo4YKpkuHgS6MeUHD42rVhH4+LxBZ7UWVKpjbBvFGXRL/x34+sSVYRj+A0IkO+Aa5WLvdMG7DiTQsJjUiOT78bVNrrQbYnqOb8Yl1eiTVK7mdERI7Xm66kXDK6X+tCOZxuLf2w0Leb9qiC+CEoDBGgv44Gkrl8YZyLtLT4jSkZhe0Se9viPtk92r2ScCe+thZQVe8h1ZIOby6ai4n6DwRXW7uv73DD1onKjFMgabF41HbnYBVEfdv8FhgweLfqcuYkFJAHFJHWbXwTEOtk9KfhFVk//hamTR/N8xE6UY6eGaaRdzNozCrOlEDNuI0IGbCa/cROR3P3ODHB7oDM873urF8b/0o5vaexQ==;rnu3mO33AXuPW/tcf7KRbg=="
 ---

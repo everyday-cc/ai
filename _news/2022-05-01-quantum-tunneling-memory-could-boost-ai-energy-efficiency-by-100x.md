@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-01T12:00:00Z
 originalUrl: "https://www.theregister.com/2022/05/01/quantum_tunneling_memory/?td=amp-keepreading-top"
 webUrl: "https://www.theregister.com/2022/05/01/quantum_tunneling_memory/?td=amp-keepreading-top"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: theregister

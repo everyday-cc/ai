@@ -2,29 +2,29 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-29-aws-bags-victory-over-microsoft-in-fight-for-10bn-nsa-contract.md",
-      "title": "AWS bags victory over Microsoft in fight for $10bn NSA contract",
-      "excerpt": "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ...",
+      "path": "_news/2022-05-01-get-up-to-speed-with-microsoft-azure-with-over-50-hours-of-training-for-39.md",
+      "title": "Get up to speed with Microsoft Azure with over 50 hours of training for $39",
+      "excerpt": "In addition, there's a complete course dedicated to project-based learning, so you'll get familiar with Azure through real-life architectural and administration problems. Finally, you'll also get an introduction to machine learning with Azure Machine ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
-      "originalUrl": "https://www.techradar.com/sg/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
+      "webUrl": "https://www.zdnet.com/article/get-up-to-speed-with-microsoft-azure-with-over-50-hours-of-training-for-39/",
+      "originalUrl": "https://www.zdnet.com/article/get-up-to-speed-with-microsoft-azure-with-over-50-hours-of-training-for-39/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 147,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T06:11:00-07:00",
+      "publishedDateTime": "2022-05-01T06:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -330,6 +329,58 @@
         "name": "CRN",
         "domain": "crn.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-can-virtual-reality-help-ease-chronic-pain.md",
+      "title": "Can Virtual Reality Help Ease Chronic Pain?",
+      "excerpt": "V.R. treatments may provide relief similar to intravenous opioids — a tantalizing prospect for the millions of Americans living with chronic pain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.html",
+      "originalUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/01/magazine/01mag-vr-pain-02/01mag-vr-pain-02-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.amp.html",
+      "publishedDateTime": "2022-04-26T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1305,58 +1356,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-feathr-linkedins-feature-store-is-now-available-on-azure.md",
-      "title": "Feathr: LinkedIn’s feature store is now available on Azure",
-      "excerpt": "With the advance of AI and machine learning, companies start to use complex machine learning pipelines in various applications, such as recommendation systems, fraud detection, and more. These complex systems usually require hundreds to thousands of features to support time-sensitive business applications,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3a5d4b16-1ae4-45a1-8384-1e8850b083a5.png",
-          "width": 1024,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T02:00:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

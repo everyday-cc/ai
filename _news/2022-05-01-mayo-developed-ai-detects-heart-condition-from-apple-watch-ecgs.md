@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-01T13:01:00Z
 originalUrl: "https://www.modernhealthcare.com/patients/mayo-study-ai-can-detect-heart-condition-apple-watch-ecgs"
 webUrl: "https://www.modernhealthcare.com/patients/mayo-study-ai-can-detect-heart-condition-apple-watch-ecgs"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Modern Healthcare

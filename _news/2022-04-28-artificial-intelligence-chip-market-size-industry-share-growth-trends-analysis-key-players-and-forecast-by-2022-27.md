@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27"
 type: article
 quality: 62
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Self Driving Wheelchair Market 2022 Key Performance, Top Players, Segmentation, Future Plans and Forecast to 2028"
-    excerpt: "Global Self Driving Wheelchair Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028, the new advanced research study and presentation by MarketsandResearch.biz is ready to provide you with incredible industry-related details that have a significant impact on growth."
-    publishedDateTime: 2022-04-26T22:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2022-key-performance-top-players-segmentation-future-plans-and-forecast-to-2028-2022-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Chip Market : Prospects, Trends Analysis, Market Size & Forecast 2030"
     excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
     publishedDateTime: 2022-04-27T11:02:00Z

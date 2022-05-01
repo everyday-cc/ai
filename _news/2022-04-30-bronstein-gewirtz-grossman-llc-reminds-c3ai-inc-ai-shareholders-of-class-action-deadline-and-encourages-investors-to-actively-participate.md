@@ -33,19 +33,14 @@ related:
         height: 315
         isCached: true
   - title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
-    excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders ..."
     publishedDateTime: 2022-04-30T23:00:00Z
-    webUrl: "https://www.kget.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
+    webUrl: "https://ktla.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
     type: article
     provider:
-      name: KGET.com
-      domain: kget.com
+      name: KTLA
+      domain: ktla.com
     quality: 0
-    images:
-      - url: "https://i0.wp.com/www.kget.com/wp-content/uploads/sites/2/2022/05/858c63cb90924d56bbc2d6f907b07e73.jpg?w=2000&#038;ssl=1"
-        width: 2000
-        height: 1326
-        isCached: true
 
 secured: "sDCWoKXbzIWkE1UkSvf6O2VWrYqXA6fkPJiYp4lSjAd/qyarBeB3mglkHdjTN8QdZPByOVw+Pfi5NS8VQ0sK/obsLAzX7lKalx/cSmEU0x4i4AczBjBUK9vx2q2j7v+fM8xeWEAdm2NxT44eMnJ6wNVCytfLTEWiajC0CtPk+R2yL+mYQHDzwk4siOVhqIb8M7S/9uMaXPibMxmTJSTthmGIcEcKNajzbeBwJAdq+/WmTaJbcUOBiW0zABXZywG/p3l+3kSmNYWKpF593/8fhje9i+4N414Jfzi73+iFE0cNGjenwF+NuL25kQBpVPlYlEnDq0wYb1RypqOgWDj6UklFT+FFa+TNDpZxpx6GF+ie6PFT4A6Ta4EkxBCslHFF/s0JBbFG94a7ZUiotR5kKEJ39MEaJ8Jw2x2MrV7xhF52QkBG6q2CEWx1sxN/e1rfIuIpZjwKxE4rbLFQiWnj+hnZhBNjakkwUrIeA4AGatrDSkMIM+0OTxZoWnRIdlZwy+HKECk9F39QsFcQ/C0whQ==;1d9Mh8AZy2+eVhvOE3Lk/A=="
 ---

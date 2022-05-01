@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-01T10:28:00Z
 originalUrl: "https://www.theguardian.com/us-news/2022/may/01/dan-odowd-us-senate-tesla-self-driving-elon-musk"
 webUrl: "https://www.theguardian.com/us-news/2022/may/01/dan-odowd-us-senate-tesla-self-driving-elon-musk"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: The Guardian

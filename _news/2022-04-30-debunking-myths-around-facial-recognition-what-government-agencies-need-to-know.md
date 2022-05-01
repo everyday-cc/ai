@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing facial recognition to war is a bad idea"
-    excerpt: "Chief among the concerns is that facial recognition makes mistakes. It is bad enough when that leads police to make a wrongful arrest. In a war zone, there are even greater life and death consequences. There is evidence that front-line users of facial ..."
-    publishedDateTime: 2022-04-29T07:10:00Z
-    webUrl: "https://www.japantimes.co.jp/opinion/2022/04/29/commentary/world-commentary/facial-tech-war/"
+  - title: "House lawmakers investigating gov't use of facial recognition software"
+    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-05-01T16:58:00Z
+    webUrl: "https://www.12news.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
     type: article
     provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
+      name: KPNX
+      domain: 12news.com
+    quality: 59
     images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_152826-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
-  - title: "Annual Spring Home Hunt, charitable donations and recognition: Seacoast business news"
-    excerpt: "ROCHESTER — Strafford County Board of Realtors’ community service committee has chosen Waypoint as one of its charitable partners in 2022. Through a series of community events"
-    publishedDateTime: 2022-04-28T15:29:00Z
-    webUrl: "https://www.seacoastonline.com/story/business/2022/04/28/names-know-home-hunt-charitable-donations-awards-community-service/9570362002/"
-    ampWebUrl: "https://amp.seacoastonline.com/amp/9570362002"
-    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/9570362002"
-    type: article
-    provider:
-      name: Seacoastonline.com
-      domain: seacoastonline.com
-    quality: 37
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/04/28/NPOH/d6736bce-0fb4-4a54-9147-8cd0a85df261-post.jpg?auto=webp&crop=639,360,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Meet 4 common requests to increase facial recognition trust, financial inclusion group says"
-    excerpt: "The success of facial recognition depends on both the public and private sectors working hard to engender trust in AI tools."
-    publishedDateTime: 2022-04-28T17:51:00Z
-    webUrl: "https://www.biometricupdate.com/202204/meet-4-common-requests-to-increase-facial-recognition-trust-financial-inclusion-group-says"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/03145243/DHS-PII-access-management.jpg"
-        width: 1280
-        height: 854
+      - url: "https://media.12news.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "mVhqqx5nIbdjMfYLgcBugaeH0BfJtLxRQ/Hz2T/HE/j5KU7a5YjeRHEglcp2GPMe1/W0wxuoBQhrXRdTG2RZ34KJgquqV66MR5QpCXZBNXd3OZf+qqPfMNJGHdBGnvOOV5IiV5/tEwaTGSs39RnouVhEYZetqtv3Heu5mMkOlV09BLqAUXpjqo83eTSSI4y9IYVYlMANleW3PkxsaUF4RzkL4l5QqGH66roaByMRqErqQPIlLQ+3+hOZt396Q0ltoNyJLe3aJ6fwHgkrggN4279l79ja+fsDO7uh67YVZ61YcRJrK7qYwO6ypGsRTYeuFkEXW0tyhPDoTL1NKWth3m22MliITypnNFirth/gLvyfRZ9jYtPy4lXtD2U+XfUEmHDNDww617YC6cE6l4L3cVeTeAfm4WoBbBn/jtXPP0vfnyk0O3xKRYR/2qFlkrG3CN7ffIgxfNnoPqJJ4PgSDBI91wQ88fjw5M0smoevdpY6vo0Oti/gHZ3o/+uWddjZsLW7derooAekuIpSdN552A==;0GtrMDubkP6Yt6yZ7vLgPw=="

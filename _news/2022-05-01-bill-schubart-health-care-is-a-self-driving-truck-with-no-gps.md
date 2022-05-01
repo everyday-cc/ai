@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-01T11:41:00Z
 originalUrl: "https://vtdigger.org/2022/05/01/bill-schubart-health-care-is-a-self-driving-truck-with-no-gps/"
 webUrl: "https://vtdigger.org/2022/05/01/bill-schubart-health-care-is-a-self-driving-truck-with-no-gps/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: VTDigger

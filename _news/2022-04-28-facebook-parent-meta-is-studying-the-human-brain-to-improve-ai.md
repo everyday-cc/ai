@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-
 webUrl: "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: CNET
@@ -24,36 +24,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Meta materials: Facebook using AI to design green concrete"
-    excerpt: "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ..."
-    publishedDateTime: 2022-04-29T16:26:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/29/meta_ai_green_concrete/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/04/29/shutterstock_cement.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "TikTok is eating Facebook from the inside"
-    excerpt: "Facebook had a TikTok problem. This year, it has several. The Chinese-owned video app is eating Mark Zuckerberg’s social network from the inside, first by luring its users and now by challenging Facebook as a news source too."
-    publishedDateTime: 2022-04-27T20:10:00Z
-    webUrl: "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-inside-2022-04-27/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/I8gnFrAtvNuTHPgz2LFv4mwExcU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B5SGK6W4PRPQHJHQERPWSZFN7Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Facebook’s parent company, Meta, is researching the human brain in order to improve artificial intelligence"
     excerpt: "Artificial intelligence (AI) is used by IT businesses to identify potentially hazardous information, power virtual assistants, enhance translation software, and perform other functions. AI systems like Meta’s are still unable to acquire language as well as humans."
     publishedDateTime: 2022-04-28T16:10:00Z
@@ -82,6 +52,29 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Facebook’s VR metaverse development cost the company £2.3billion in three months"
+    excerpt: "The losses reflect Meta’s increasing focus on CEO Mark Zuckerberg’s vision of the metaverse, which he revealed alongside Facebook’s Meta rebrand in October 2021. Since then, the company has announced that it is working on a “massive AI research ..."
+    publishedDateTime: 2022-04-29T10:05:00Z
+    webUrl: "https://www.nme.com/news/gaming-news/facebooks-vr-metaverse-development-cost-the-company-2-3billion-in-three-months-3215412"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 19
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/01/Person-wearing-VR-googles-to-explore-Metaverse.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
+  - title: "Meta materials: Facebook using AI to design green concrete"
+    excerpt: "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ..."
+    publishedDateTime: 2022-04-29T15:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/29/meta_ai_green_concrete/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 19
 
 secured: "UqjBIzWyE5iTFTYn0K0uM5XbklzQpAgLhG4rBvKP4dq9ru6a2hVH136yawwkSE85ZSxthw2xRdAIiXbHMICt3tYdfGZvZoPqpAkzJiguLoSd9Swj4AsbzlMV42JZsaXLBPsldCCRz3KECuZOaquWwFv6Nl0ydG+OuSCCnMEgQAdN2X38FApgasdBis6xzpm37T8YuMJBwzZVTr5b4v4AA0SZIFEu2O3sQ7Cd2pGV7EwZCwNMadd6rbncGhydVvZsOetmmFyH6YfjtnTFAzgVDRGr12vBj+AFb6BUUV03QokYnFwzeBA+/omvlsPTSK4q9zDSva5GgLAIP61j6FJUdEwqg3Clcd0mzdJFbRSQO40JWaIKkowMA+RqYxC/5QQUEBMCXE1gNeXAmZkBHkqYMPXYM1fmYn8ZjJrzQF+suCRW5wOmSA6xitLAOrUHHjEetgq+8PR9jNZektZlDmdKxuus+FpVYGeNl7Fl6LZUi0dQvR89WVopc5B/QDqvFSg+AB50d9FzcScKJhafMkPaJQ==;wKqG8bCAeAmpXA/4cKQdTQ=="
 ---

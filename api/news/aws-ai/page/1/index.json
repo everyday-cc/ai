@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-29-aws-bags-victory-over-microsoft-in-fight-for-10bn-nsa-contract.md",
-      "title": "AWS bags victory over Microsoft in fight for $10bn NSA contract",
-      "excerpt": "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
-      "originalUrl": "https://www.techradar.com/sg/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-28-amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams.md",
       "title": "Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams",
       "excerpt": "Today, AWS announced the general availability of Amazon Rekognition Streaming Video Events, a fully managed service for camera manufacturers and service providers that uses machine learning (ML) to detect objects such as people, pets, and packages in live video streams from connected cameras. Amazon",
@@ -557,10 +513,10 @@
     {
       "path": "_news/2022-04-22-aws-announces-general-availability-of-amazon-aurora-serverless-v2.md",
       "title": "AWS Announces General Availability of Amazon Aurora Serverless v2",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today at AWS Summit San Francisco announced the general availability of Amazon Aurora Serverless v2, the next generation of Amazon Aurora Serverless that automatically scales to hundreds of thousands of transactions in a fraction of a second to support even the most demanding applications.",
+      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-san-francisco-amazoncom-inc-af93326c0d934a32be5461248ac2b496",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-san-francisco-amazoncom-inc-af93326c0d934a32be5461248ac2b496",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26746332/aws-announces-general-availability-of-amazon-aurora-serverless-v2",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26746332/aws-announces-general-availability-of-amazon-aurora-serverless-v2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -573,8 +529,8 @@
       "publishedDateTime": "2022-04-21T10:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -795,22 +751,31 @@
       "title": "Strategic Analysis of Amazon's Growing Footprint in Mobility - ResearchAndMarkets.com",
       "excerpt": "The \"Strategic Analysis of Amazon's Growing Footprint in Mobility\" report has been added to ResearchAndMarkets.com's offering. Amazon, the eCommerce behemoth, has been making steady strides in the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220420005847/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220420005847/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:52:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26718104",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26718104",
+      "publishedDateTime": "2022-04-20T09:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1422,6 +1387,41 @@
         "AI",
         "Machine Learning",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-mission-cloud-services-wins-techtarget-award-for-its-innovative-aws-machine-learning-work-with-jibjab.md",
+      "title": "Mission Cloud Services Wins TechTarget Award for its Innovative AWS Machine Learning Work with JibJab",
+      "excerpt": "Amazon Rekognition, and Facebook’s Detectron2. This work has resulted in a seamless self-service experience for JibJab customers, who can upload their photos and have final, book-ready images ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8520279/mission-cloud-services-wins-techtarget-award-for-its-innovative-aws-machine-learning-work-with-jibjab",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8520279/mission-cloud-services-wins-techtarget-award-for-its-innovative-aws-machine-learning-work-with-jibjab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

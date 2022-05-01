@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Man Claims Microwave Tried To Cook Him To Death After He Equipped It With Artificial Intelligence"
+    excerpt: "The man said he believed the microwave was a WWI veteran He said the machine started vowing revenge after he powered it with AI He said the kitchen appliance wanted to \"cook him to death\" A YouTuber claimed he tried to bring his imaginary childhood ..."
+    publishedDateTime: 2022-05-01T11:00:00Z
+    webUrl: "https://www.ibtimes.com/man-claims-microwave-tried-cook-him-death-after-he-equipped-it-artificial-3489696"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "L+TY1gZ8V2+8YHyt90ji9yIs/mU7m1tLUvVu5Q+Wo44R/70lPRySQKWqVXeghy5oCSwWwJzALjTwq9mYve+/4mStMCmwXNzzduuGmaZKPgsp12qK/gq07LNayeI+kwy8dfFBy7MRXfNo4z7pYOvNrCT7LeyKh+PQJGSxjmTFmR1HCE5VBQzusYWMq0X+hMzHMvQu5WeBcv1kq0TIZSKTtrHr6Cka/rqm1LRQxtUx2uCG1CtiNGpX/FVrVphtlrIgzMHh3eQaH/RheXKQutk4IPjn7Ezh6N0b0YkLjYDL5/o8G9RGOnjJfF1P4dQfBMPhabrpEcAEznPBzXcMZzVkBwMZKpAAnx23Be88i7gygFw=;4/AUTZsXLhJDZw6Is0LDVg=="
 ---

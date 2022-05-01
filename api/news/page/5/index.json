@@ -2,6 +2,161 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-26-global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028.md",
+      "title": "Global Deep Learning Market Report Shows Demand to Boost Industry Growth from 2022 to 2028",
+      "excerpt": "Apr 25, 2022 (CDN Newswire via Comtex) -- MarketsandResearch.biz offers a newly added report titled Global Deep Learning Market 2022 by Company, Regions, Type and Application, Forecast to 2028 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028-2022-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028-2022-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data.md",
+      "title": "How To Improve Demand Forecasting With Machine Learning And Real-Time Data",
+      "excerpt": "Demand forecasting systems have been ill-equipped to address disruptions to our daily lives on a global scale. Consumer packaged goods (CPG) companies and retailers were caught flat-footed as unforeseen panic-buying took hold throughout 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5efcc8f4cdc22100069576cc/0x0.jpg?format=jpg&crop=6996,4663,x4,y379,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data/amp/",
+      "publishedDateTime": "2022-04-26T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence.md",
+      "title": "PIPA and Mars, Incorporated accelerate science discovery in food and health using Artificial Intelligence",
+      "excerpt": "PIPA LLC announced today that it has entered into a multi-year agreement with Mars, Incorporated to accelerate the discovery of new, plant-based ingredients. PIPA's Artificial Intelligence (AI) platform,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence-1031385335",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/pipa-and-mars-incorporated-accelerate-science-discovery-in-food-and-health-using-artificial-intelligence-1031385335",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1804015/PIPA_MARS_agreement_LEAP.jpg",
+          "width": 400,
+          "height": 243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-intelligent-document-processing-market-to-reach-usd-415-billion-by-2026-at-a-cagr-of-37-valuates-reports.md",
       "title": "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports",
       "excerpt": "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% \\| Valuates Reports. BANGALORE, India, April 26, 2022 /PRNewswire/ -- The Intelligent Docu",
@@ -602,6 +757,57 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-as-supply-chains-tighten-logistics-must-optimize-with-ai.md",
+      "title": "As supply chains tighten, logistics must optimize with AI",
+      "excerpt": "Artificial intelligence (AI) is quickly making its way into every supply chain logistics link – from demand forecast to robot delivery and route optimization in the last mile – to meet today ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341282481.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/amp/",
+      "publishedDateTime": "2022-04-25T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-six-robotics-pioneers-win-2022-engelberger-awards.md",
       "title": "Six Robotics Pioneers Win 2022 Engelberger Awards",
       "excerpt": "Automation industry’s most prestigious honor to be presented to three at Automate 2022 in Detroit on June 8 and three at Automatica in Munich June 20 ANN",
@@ -971,166 +1177,6 @@
         "name": "Nextgov",
         "domain": "nextgov.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-nuna-an-aspiring-ai-powered-startup-brings-innovative-mental-health-solutions.md",
-      "title": "Nuna, an Aspiring AI-powered Startup Brings Innovative Mental Health Solutions",
-      "excerpt": "Nuna is a Denmark-based startup company that has created a unique text and voice based conversational AI designed to help people struggling with depression, anxiety, and stress. According to information sourced from the World Health Organization,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-nuna-an-aspiring-ai-powered-startup-brings-innovative-mental-health-solutions",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-nuna-an-aspiring-ai-powered-startup-brings-innovative-mental-health-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage.md",
-      "title": "Hospitals turn to artificial intelligence to help patients while addressing worker shortage",
-      "excerpt": "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
-      "originalUrl": "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a70b74b/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F39%2F0d%2Fd723ccff45b991094268f06a22e3%2Fhospital-doctor-generic.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
-      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
-      "publishedDateTime": "2022-04-25T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7News and TheDenverChannel.com",
-        "domain": "thedenverchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-untether-ai-and-co-founder-raymond-chik-honored-by-canadian-entrepreneurs-group-for-startup-of-the-year.md",
-      "title": "Untether AI and Co-Founder Raymond Chik Honored by Canadian Entrepreneurs Group for Startup of the Year",
-      "excerpt": "Untether AI co-founder Raymond Chik was honored by the Association of Chinese Canadian Entrepreneurs (ACCE) during a gala dinner hosted by the ACCE in Toronto on April 23, 2022. In 2018, Dr. Chik, Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-renderedai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content.md",
-      "title": "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content",
-      "excerpt": "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rendered.ai ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

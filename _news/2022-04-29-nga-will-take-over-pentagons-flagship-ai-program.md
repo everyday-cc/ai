@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Pentagon shifting Project Maven, marquee artificial intelligence initiative, to NGA"
-    excerpt: "The National Geospatial-Intelligence Agency is evaluating the progress of “Project Maven” as it prepares to take over the artificial intelligence initiative and integrate it with a broader range of efforts to apply machine learning to geospatial intelligence."
-    publishedDateTime: 2022-04-26T21:43:00Z
-    webUrl: "https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 31
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo.png"
-        width: 1200
-        height: 883
-        isCached: true
   - title: "Pentagon’s flagship AI effort, Project Maven, moves to NGA"
     excerpt: "Vice Adm. Robert Sharp, outgoing NGA director, said the fusion of Project Maven with his agency's current AI efforts will \"give us our millions of eyes to see the unseen.\""
     publishedDateTime: 2022-04-27T19:50:00Z

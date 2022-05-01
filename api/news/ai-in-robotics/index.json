@@ -229,49 +229,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
-      "title": "Pittsburgh welcomes Plus One Robotics",
-      "excerpt": "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
-      "originalUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-28-procreating-robots-the-next-big-thing-in-cognitive-automation.md",
       "title": "Procreating Robots: The Next Big Thing In Cognitive Automation?",
       "excerpt": "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence.",
@@ -332,7 +289,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -1392,6 +1349,40 @@
       "provider": {
         "name": "KRQE",
         "domain": "krqe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-softbank-robotics-invests-in-hong-kong-startup-avalon-steritech.md",
+      "title": "SoftBank robotics invests in Hong Kong startup Avalon SteriTech",
+      "excerpt": "SoftBank Group's robotics arm has agreed to buy a minority stake in cleaning technology startup Avalon SteriTech, marking the company's first investment in Hong Kong. Read more at The Business Times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstimes.com.sg/garage/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech",
+      "originalUrl": "https://www.businesstimes.com.sg/garage/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Times",
+        "domain": "businesstimes.com.sg",
         "images": null,
         "publishers": null,
         "authors": null

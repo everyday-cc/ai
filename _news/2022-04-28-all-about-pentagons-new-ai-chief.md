@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon Taps Lyft’s Machine-Learning Chief"
-    excerpt: "Craig Martell was named as the Defense Department’s first chief digital and artificial intelligence officer."
-    publishedDateTime: 2022-04-26T20:26:00Z
-    webUrl: "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407"
+  - title: "Trades union chief warns on AI workplace changes"
+    excerpt: "The general secretary of the UK Trades Union Congress (TUC) has told the BBC that with the rise of Artificial Intelligence in the workplace, employment rights have to keep pace with big changes. \"So often we see those big decisions being taken by [employment] software that has discrimination written in."
+    publishedDateTime: 2022-04-28T12:06:00Z
+    webUrl: "https://www.bbc.com/news/av/business-61255405"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
+      name: BBC
+      domain: bbc.com
+    quality: 67
     images:
-      - url: "https://images.wsj.net/im-532029/social"
-        width: 1280
-        height: 640
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1F44/production/_124340080_p0c3qnf1.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "Yo0f16l+Plb9ppoFgjd24MeIGYYhVTGwaLVE9ayAZrd9qyxE4IacUIx9jU52Gp0abYOoeJy6JKyUwiNOku7tFlqMWJH9rhMJy2Qs07xtr0flyyShmDP/KmXjwPYKcqogH0Sasf2L2v4XTOhvkw0C5O1ch8ddWM7i4gJNooyMzQxrCrJBwzwlAMtLX+kKc4HFCMGK/X3/O978sH275ugOjnPb0kTIw6mhP558/lFP+ogx11tAPuOWyj6DQV+DW8Cqkdls2LalskP1Oe3sSZHV0rxSzS+eR7bG2V0GHhIj6geFuOlHeBSlGLZnVgZkWHOS0Ows0x1syeoWQaEI2S5xSy7yZqPRLlGAHl2UVW1CDC0=;cG+g/f4LqStSj3wAeHk54A=="

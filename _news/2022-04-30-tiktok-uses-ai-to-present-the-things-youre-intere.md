@@ -40,6 +40,20 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "TikTok is eating Facebook from the inside"
+    excerpt: "Facebook had a TikTok problem. This year, it has several. The Chinese-owned video app is eating Mark Zuckerberg’s social network from the inside, first by luring its users and now by challenging Facebook as a news source too."
+    publishedDateTime: 2022-04-27T20:10:00Z
+    webUrl: "https://www.reuters.com/breakingviews/tiktok-is-eating-facebook-inside-2022-04-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/I8gnFrAtvNuTHPgz2LFv4mwExcU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B5SGK6W4PRPQHJHQERPWSZFN7Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "qMRxesbK8ry9md7iN+rlbRaHWx4i9xQrpjTqZRoobSWb1Rk5CTTKNeoPJaeJAxz7CM+6Oz3iWSFOqomRnjnXAHqSKKFxrAS211t9HdS9MuZBHvCaLT8GZVQYzdOXOJuTjo/47WZ4VAMxcuXO95IGu96HTK73Ieiozby7dVtoNQD9Rk2tAILbLHtZx/U50Ny7sGUlMTqhN/IMEOt8eK0yTDBHvi1xiDNCnMQd5kHItxtuUAYLTQ/CVbWuP0myA8Nhv1EJW/mBjazWbn6AhgOX5gMOQ37KU7L7bsilIOvCfQ9DNWz91Ba5tfX5NLeheff5Ey3tJjxgsMYfxiZPI6LMktb0auuTdzC5bfgStZk/6VA=;VDJwev1EVD3HEiUU7r7W0w=="
 ---

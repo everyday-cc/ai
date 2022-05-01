@@ -47,20 +47,6 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 49
-  - title: "AI improving at sentiment recognition, already good at rash judgement, studies show"
-    excerpt: "Understanding how someone will be perceived by others is a function of EQ, and a team of researchers have trained an AI algorithm to do so with high accuracy."
-    publishedDateTime: 2022-04-26T22:19:00Z
-    webUrl: "https://www.biometricupdate.com/202204/ai-improving-at-sentiment-recognition-already-good-at-rash-judgement-studies-show"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
-        isCached: true
 
 secured: "urOUXTr9KpbfTQF2SrAeGxO8ExS1evbdubtHARE2nMC9sDZFgroj8AJv+uAe+69YYlK/B7rIkn7wqFpTk6Ak1YFzV4PJ9sYrQMGYfnTcAQ5R6D23g/tuuyooJkVvJxUnHf6oXKMhuTFE6l9vikzqSzo/5CSpUOvEoak+5vBsUtsqUIpOgrOe/VSeR44FjfePzxMnXqoTY8yD5Eh7XqJ05JCMIe4UyjKYWqKWnkBekjJlJXYzOuqV8/sjTOQlUIcC7gfLSgrUvgZnYFlcQZ7490NplmVPNp0GzUetbFNJe6oPbb44uVxAxYkFbyMKUUJdXjzQLcN+ZR89mnKBw0wr3aP5SI8M+8AyiJFdcolO+G8=;CNTgW9OCDnA0jr6MBP8nwQ=="
 ---

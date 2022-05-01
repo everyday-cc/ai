@@ -25,6 +25,17 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Cognitive Search Service Market Hitting New Highs By 2030 | Microsoft Corporation, Amazon Web Services Inc, Attivio Inc"
+    excerpt: "New Jersey, United States-The Cognitive Search Service industry report is a finished market concentrate on which guarantees accessibility of canny"
+    publishedDateTime: 2022-04-28T12:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-search-service-market-hitting-new-highs-by-2030-microsoft-corporation-amazon-web-services-inc-attivio-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 12
+
 secured: "r0EiAdeHDQllverXpdTpv6bvmDuZFD+r+dKfQ+WOD9WDE04t9X4d+obMCb7D4WtJLMRmr5rb+pGA9SQt7MOT+089+enxNcWXdB6VpeS1XNSCCF27mqppkiGsoBpZRE9Uw5mpyx8XyPUqNBrrF37M/Aymyr67ynBF75+CEV10YibepGVjsmNE827/gWS1hd96jy6sSwuY5fyPA6q6pFS/nB16LyJ3aEyHSsRpCXVobaehN0EIehyYQmLDVGCw0dmzzWRDuzPQr7VkQhi/FIQ+6Bkj/yi6VqBmShEvRZUxPNOqzziLntyUyYbSUHKdCr7zWGUYD//j7mmjTUmnLlvdqd0ZD3ZFaygzQaFugJASy4IxVKQ039F+lOJFctVbrNEi7BW0UPl+FHg3CJCixDrHASWZvWuahH+xmCP4Sqfeu0aAgi/R642kUcO7kaD4nf3SjX9NjRrpW+5RFZzhJKeDVpuTzKwwxtASJADHId8dwnqxW2QBF632oFDy71Btr1PEt5F+QF1UQF6NhkIo6anxvg==;WR36O2JJ3wMt7cBdo7BU3Q=="
 ---
 

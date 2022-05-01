@@ -55,21 +55,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-29-meta-materials-facebook-using-ai-to-design-green-concrete.md",
-      "title": "Meta materials: Facebook using AI to design green concrete",
-      "excerpt": "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ...",
+      "path": "_news/2022-04-28-meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok.md",
+      "title": "Meta Is Investing in AI and Video to Defeat the Existential Threat of TikTok",
+      "excerpt": "Meta is taking the threat of TikTok seriously, investing in short-form video content and artificial intelligence to improve its recommendation algorithm.",
       "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/29/meta_ai_green_concrete/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/29/meta_ai_green_concrete/",
+      "webUrl": "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/",
+      "originalUrl": "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://regmedia.co.uk/2022/04/29/shutterstock_cement.jpg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://observer.com/wp-content/uploads/sites/2/2022/04/GettyImages-1239915488.jpg?quality=80&strip",
+          "width": 5000,
+          "height": 3333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,13 +77,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/",
-      "publishedDateTime": "2022-04-29T09:26:00-07:00",
+      "ampWebUrl": "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/amp/",
+      "publishedDateTime": "2022-04-28T09:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
+        "name": "Observer",
+        "domain": "observer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -95,6 +95,50 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-facebook-parent-meta-is-studying-the-human-brain-to-improve-ai.md",
+      "title": "Facebook Parent Meta Is Studying the Human Brain to Improve AI",
+      "excerpt": "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
+      "originalUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1359,49 +1403,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-byjus-designates-ex-facebook-tech-lead-majid-yazdani-as-vp.md",
-      "title": "BYJU'S designates ex-Facebook tech lead Majid Yazdani as VP",
-      "excerpt": "BYJU'S designates ex-Facebook tech lead Majid Yazdani as VP - Edtech company BYJUS on Monday announced the appointment of Majid Yazdani as Vice President at",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconindia.com/news/general/byjus-designates-exfacebook-tech-lead-majid-yazdani-as-vp-nid-218397-cid-1.html",
-      "originalUrl": "https://www.siliconindia.com/news/general/byjus-designates-exfacebook-tech-lead-majid-yazdani-as-vp-nid-218397-cid-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconindia.com/news/newsimages/R5Jf3q9e.jpg",
-          "width": 570,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconIndia",
-        "domain": "siliconindia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

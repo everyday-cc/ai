@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "AI improving at sentiment recognition, already good at rash judgement, studies show"
-    excerpt: "Understanding how someone will be perceived by others is a function of EQ, and a team of researchers have trained an AI algorithm to do so with high accuracy."
-    publishedDateTime: 2022-04-26T22:19:00Z
-    webUrl: "https://www.biometricupdate.com/202204/ai-improving-at-sentiment-recognition-already-good-at-rash-judgement-studies-show"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
-        isCached: true
 
 secured: "DZKSgxurfidfTRnls2O0dGHwUZyi3nHeYtz+FiKv40ppw+SZUW1SyqywNtLWHN16/FD2gZ7h/VnvcMfPmtEJVZ1daC0p1VLWheX6oh/VwpLJIcO7SvGll2iLgtX2Oz2mx5UmaWAxtiSDQ5Q8v1RaWXP6ZSEq6h4ovTwpXK0QM4I+2FyqJjccG0nYD4xU95BnNfU8atWGlrDiynyAgWpB/fyDC0Gjd+FRodnuUqhb4Z6uukemGLXQ4uhMgkutS5K5BEPHchz5ECgScALHYWhVg4+DjU+0MxlySbieu71Yu4D4+olxmdbgwwZvV1IX8v8LZ3yw5PnbR1XBDFH5+lNyrFwsQp+fBX0pQqYQZKKkd3Y=;Cgp7OO411IcaP23kvSYsrQ=="
 ---

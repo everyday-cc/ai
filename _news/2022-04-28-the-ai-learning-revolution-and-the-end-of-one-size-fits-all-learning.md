@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-lea
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
       name: CIO Applications
       domain: cioapplications.com
     quality: 17
-  - title: "The Evolution of Data and Freedom of Expression and Hate Speech Concerns with Artificial Intelligence"
-    excerpt: "In the current era we are witnessing a high increase in the development and adaptation of artificial intelligence (AI ... of science and related technologies has developed from research activities based on observation, lab experiments, animal and human ..."
-    publishedDateTime: 2022-04-27T00:00:00Z
-    webUrl: "https://www.cambridge.org/core/journals/legal-information-management/article/evolution-of-data-and-freedom-of-expression-and-hate-speech-concerns-with-artificial-intelligence/5331D49AA715602E27BE1952E1668A43"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 4
 
 secured: "Hi737PNqq2SL32cYbrpRj3y8UXLQWrgs8+7nb4jI8msxmtGGZ1BqTKLExzFQwsQHCm6EmhqL68FHjpYXcxvsThSHQgCWtjHDJSeQnwjGb65feL+Bak/R5BIWEgLV2OQiH1Ck9fQPj/PIuSNI0qMxqGuxpYAEaJNJEJP04z2Und3I0eBgLu5aO6SitF6vVYwxdovnwSMHH+5uJKnV7QY879mcl7P5pWi9qyAag221JCGBfbXUgcq0bCWF8EZpb6d4OVnG3vgCmXAKzV2uqyGLo0K9kw+5Tg1iXptukZe18vnXxTvrMxKbdA26XEgqQdRjVTfZlMm9eH86hjsWaN4/hDpURUVhMJG3VhdpFMiwZiEeGSft7riFoYReMBjRKKsELyaV7rVkHcdG45PM0rAg+7IsBZSWaRHdvYeVmW3a/BGxy4NARFk6VrqEGkozrV8lsUq0LllocGQqXPKPBXmOX+D+k7MnpwTILN5u9PefNVzwggEMJ63MRPj90ck92bdBH3fMg25jXXJFYO+M0zQ9hQ==;tn8JsU2edu1TrOn9yLLilg=="
 ---

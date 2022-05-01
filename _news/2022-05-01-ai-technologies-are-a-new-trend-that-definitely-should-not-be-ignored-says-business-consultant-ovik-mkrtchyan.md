@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-01T15:23:00Z
 originalUrl: "https://techbullion.com/ai-technologies-are-a-new-trend-that-definitely-should-not-be-ignored-says-business-consultant-ovik-mkrtchyan/"
 webUrl: "https://techbullion.com/ai-technologies-are-a-new-trend-that-definitely-should-not-be-ignored-says-business-consultant-ovik-mkrtchyan/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Impacts

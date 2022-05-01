@@ -2,6 +2,168 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-21-biotech-firm-graphcore-ipus-faster-for-ai-based-drug-discovery-than-gpus.md",
+      "title": "Biotech firm: Graphcore IPUs faster for AI-based drug discovery than GPUs",
+      "excerpt": "In the race to provide the best machine-learning accelerators, one of Nvidia's top challengers has claimed a victory in the biotech space, London firm LabGenius, which said Graphcore's intelligence processing units (IPUs) provide significantly faster performance for AI-based drug discovery than some unidentified traditional GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/21/biotech_fgraphcore_ipus/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/21/biotech_fgraphcore_ipus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/03/handout_graphcore_3d_chip.jpg",
+          "width": 1030,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/21/biotech_fgraphcore_ipus/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/biotech_fgraphcore_ipus/",
+      "publishedDateTime": "2022-04-21T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-why-c3ai-is-a-long-term-play-at-the-burgeoning-ai-space.md",
+      "title": "Why C3.ai Is a Long-Term Play At the Burgeoning AI Space",
+      "excerpt": "Enterprise AI software giant C3.ai (NYSE:AI) is part of The Americas’ Fastest Growing Companies 2022 list by the",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-c3.ai-is-a-long-term-play-at-the-burgeoning-ai-space",
+      "originalUrl": "https://www.nasdaq.com/articles/why-c3.ai-is-a-long-term-play-at-the-burgeoning-ai-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-c3.ai-is-a-long-term-play-at-the-burgeoning-ai-space?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-c3.ai-is-a-long-term-play-at-the-burgeoning-ai-space?amp",
+      "publishedDateTime": "2022-04-20T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom.md",
+      "title": "Strategic Analysis of Amazon’s Growing Footprint in Mobility – ResearchAndMarkets.com",
+      "excerpt": "DUBLIN–(BUSINESS WIRE)–The “Strategic Analysis of Amazon’s Growing Footprint in Mobility” report has been added to ResearchAndMarkets.com’s offering. Amazon, the eCommerce behemoth, has been making steady strides in the automotive industry and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/",
+      "originalUrl": "https://www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/amp/",
+      "publishedDateTime": "2022-04-20T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-ai-is-already-learning-from-russias-war-in-ukraine-dod-says.md",
+      "title": "AI Is Already Learning from Russia’s War in Ukraine, DOD Says",
+      "excerpt": "Less has been said about the use of artificial intelligence in the Ukraine war than, say, anti-tank missiles, but the Pentagon is quietly using AI and machine-learning tools to analyze vast amounts of data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnas.org/press/in-the-news/ai-is-already-learning-from-russias-war-in-ukraine-dod-says",
+      "originalUrl": "https://www.cnas.org/press/in-the-news/ai-is-already-learning-from-russias-war-in-ukraine-dod-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/tanks.jpg?mtime=20180403141757&focal=none",
+          "width": 1024,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNAS",
+        "domain": "cnas.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-nvidia-wants-to-use-gpus-and-ai-to-accelerate-and-improve-future-chip-design.md",
       "title": "Nvidia wants to use GPUs and AI to accelerate and improve future chip design",
       "excerpt": "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using",
@@ -504,6 +666,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-20-strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom.md",
+      "title": "Strategic Analysis of Amazon's Growing Footprint in Mobility - ResearchAndMarkets.com",
+      "excerpt": "The \"Strategic Analysis of Amazon's Growing Footprint in Mobility\" report has been added to ResearchAndMarkets.com's offering. Amazon, the eCommerce behemoth, has been making steady strides in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26718104/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26718104",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26718104",
+      "publishedDateTime": "2022-04-20T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows.md",
       "title": "Koïos Intelligence and Applied to Further Digitize Sales and Service Workflows",
       "excerpt": "Applied Systems today announced a new collaboration with Koïos Intelligence to optimize and simplify insurance sales and service processes with artificial intelligence and natural language processing.",
@@ -536,40 +741,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom.md",
-      "title": "Strategic Analysis of Amazon's Growing Footprint in Mobility - ResearchAndMarkets.com",
-      "excerpt": "The \"Strategic Analysis of Amazon's Growing Footprint in Mobility\" report has been added to ResearchAndMarkets.com's offering. Amazon, the eCommerce behemoth, has been making steady strides in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220420005847/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220420005847/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -981,205 +1152,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-ibm-to-make-watson-orchestrate-generally-available.md",
-      "title": "IBM to make Watson Orchestrate generally available",
-      "excerpt": "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815037/itpro/watson.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-tesla-has-now-over-100000-people-in-its-full-self-driving-beta-program-is-an-accelerated-rate-of-improvement-coming.md",
-      "title": "Tesla has now over 100,000 people in its Full Self-Driving Beta program – is an accelerated rate of improvement coming?",
-      "excerpt": "Tesla CEO Elon Musk revealed that the automaker has now over 100,000 people in its Full Self-Driving (FSD) Beta program. Does it mean that we are going to start seeing an accelerated rate of ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/",
-      "originalUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/",
-      "publishedDateTime": "2022-04-20T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-prezentai-secures-20m-to-gamify-deck-presentations.md",
-      "title": "Prezent.ai secures $20M to gamify deck presentations",
-      "excerpt": "Prezent.ai, which is developing a suite of tools to help employees present ostensibly better decks, has raised $20 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/",
-      "originalUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1139933142.jpg?w=724",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/",
-      "publishedDateTime": "2022-04-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-ucl-and-deepmind-improving-representation-in-artificial-intelligence-education.md",
-      "title": "UCL and DeepMind: improving representation in artificial intelligence education",
-      "excerpt": "Global artificial intelligence (AI) company DeepMind is working with UCL to open up scholarships to underrepresented students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
-      "originalUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucl.ac.uk/engineering/sites/engineering/files/case-study/40468779200_8e95b2b30d_c.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UCL",
-        "domain": "ucl.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

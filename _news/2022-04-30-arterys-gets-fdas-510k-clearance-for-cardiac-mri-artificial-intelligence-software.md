@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Arterys wins eighth FDA clearance for enhanced deep learning MRI"
-    excerpt: "But consider Arterys Inc. It just reported its eighth FDA clearance, this time for a next generation, deep learning cardiac analytics platform. The Cardio AI’s purpose, Arterys CEO John Axerio-Cilies told BioWorld, is to leverage artificial intelligence ..."
-    publishedDateTime: 2022-04-26T22:30:00Z
-    webUrl: "https://www.bioworld.com/articles/518254-arterys-wins-eighth-fda-clearance-for-enhanced-deep-learning-mri"
+  - title: "Lunit AI Analysis Software for Cancer Protein PD-L1 Gets CE-IVD Mark"
+    excerpt: "South Korea-based Lunit has received a CE-IVD mark for its artificial intelligence (AI) analysis software that focuses on the cancer-associated protein PD-L1. The Scope PD-L1 TPS software, which delivers a tumor proportion score (TPS), was “trained” to ..."
+    publishedDateTime: 2022-04-29T19:58:00Z
+    webUrl: "https://www.fdanews.com/articles/207621-lunit-ai-analysis-software-for-cancer-protein-pd-l1-gets-ce-ivd-mark"
     type: article
     provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 39
-    images:
-      - url: "https://www.bioworld.com/ext/resources/BMT-source/2022/04-26-Arterys-Cardio-T1-T2.png?height=635&t=1651008872&width=1200"
-        width: 847
-        height: 635
-        isCached: true
+      name: FDAnews
+      domain: fdanews.com
+    quality: 17
 
 secured: "Fr0QzUBxGuoaV/+P8puUf55CCWFrbuBZpqX6GbJrp7wOfQMdgAV1jXrioU8hljmUPFmBI2i46l45hpTJBEsHAvr+ozep0habAMaI6ybBtllIicjbn0emQS9jtoXw0R5+L1zb+pgLQltjYQa2lbJTlpa6HhpD3zlzpLvCRLmGfNwCJNGFPcuSeXLlU2ErT9cYd3g05Kv/5YXth46i8Z+aC9858TTHnpMnTjRQ6BjcdPiG9t/oRE8etsFs8uEgkNCwmPwcbf6mWmZKbostGtY6+sSiDg3ydHdlk1gf/09A5C9QDa2DZYAmfpZnRKKegJ45WhLUiqSSsDOfSry8l5GBbTGuUxOyeL+MdzQeV2VFoxk=;S861wzs1b6AheKOiOMo5cw=="
 ---

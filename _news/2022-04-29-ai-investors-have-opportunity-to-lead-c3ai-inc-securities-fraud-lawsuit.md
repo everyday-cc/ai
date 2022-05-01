@@ -57,6 +57,20 @@ related:
       name: WGN Radio
       domain: wgnradio.com
     quality: 15
+  - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
+    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-05-01T16:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors/article_9b9db8df-40c2-51bf-bb69-f6b5bbc22156.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 6
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/ee/aeeef9ce-a1fe-5d9d-95f5-6109fe1775d3/607f489c76ee5.image.jpg?crop=1030%2C541%2C290%2C0&resize=1030%2C541&order=crop%2Cresize"
+        width: 1030
+        height: 541
+        isCached: true
   - title: "C3.AI DEADLINE ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action Lawsuit Has Been Filed Against C3.ai, Inc. and Encourages Inve"
     excerpt: "NEW YORK--(BUSINESS WIRE)--#Action--Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, reminds investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) in the ..."
     publishedDateTime: 2022-04-29T12:00:00Z

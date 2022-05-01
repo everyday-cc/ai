@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220426/AI-tool-could-capture
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220426/AI-tool-could-capture-subtle-early-signs-of-pancreatic-cancer-in-CT-scans.aspx"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "AI may detect earliest signs of pancreatic cancer"
-    excerpt: "An artificial intelligence (AI) tool can accurately predicted who would develop pancreatic cancer based on what their CT scan images looked like years prior to being diagnosed with the disease. The findings may help prevent death through early detection of one of the most challenging cancers to treat."
-    publishedDateTime: 2022-04-26T20:34:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220426153718.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
 
 secured: "7jofmPMjJ+UWhqXHVPryCaIKr7bk+m/QZ3mPsgU5ymo/7XaW0LUfQUtEDbCkxUZ13r6FdKXNBaeVYoiiAbyCRidgc4IjanrX8RGi2TnvE1+SP/H8ocdpKi8YRam6fd5jHdMNjz4WyxKiv/j62k7yzYNltJLZH/gZqetf25XVPMXXJ7N/4Ac8JPM/q+IBeMClXTOzNHKT8B15yhLvhwjQEmv6m285FrQ9J0ajDY1os6pBE3L5/zD1tvXiISYdSHjlgw1KSGQ2i97OR2AJ/KvgLfPWIcukcaQPKEMpxmFuEP2orCPk9v2vAkioobyY4pSyTsYz8MX4/xLGWa4bhtdr0jqc3Q4kuJYfzK+LLiw7WhZN63j2RyQjH2UZ7ekUlf8RS8imbBTAIdB22NDidrl1RvHS64JssIH12qM5WmB2WOVctmIaijIFWlzcrr7iSpRJOzW/RZH1F0V6hB/Tb4rS5a89g48GEQyICjsyWBIRYpAFJPyBoZH4XJfsoqZ3R8y+58W8fYDc8MoEJX/SXaij0w==;yB/N1kRX3GUJt3IJIL9ayQ=="
 ---

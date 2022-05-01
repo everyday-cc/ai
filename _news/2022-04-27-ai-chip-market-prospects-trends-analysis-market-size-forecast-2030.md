@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self Driving Wheelchair Market 2022 Key Performance, Top Players, Segmentation, Future Plans and Forecast to 2028"
-    excerpt: "Global Self Driving Wheelchair Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028, the new advanced research study and presentation by MarketsandResearch.biz is ready to provide you with incredible industry-related details that have a significant impact on growth."
-    publishedDateTime: 2022-04-26T22:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2022-key-performance-top-players-segmentation-future-plans-and-forecast-to-2028-2022-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Social Media Market 2022: Demand, Market Share, Trend, Business Growth, Prime Key Players Analysis and Forecast by 2028"
     excerpt: "Global“AI in Social Media”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various research sources to provide specific and reliable analysis."
     publishedDateTime: 2022-04-27T05:58:00Z

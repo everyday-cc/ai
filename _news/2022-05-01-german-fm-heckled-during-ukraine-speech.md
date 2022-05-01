@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-01T10:40:00Z
 originalUrl: "https://www.tasnimnews.com/en/news/2022/05/01/2704380/german-fm-heckled-during-ukraine-speech"
 webUrl: "https://www.tasnimnews.com/en/news/2022/05/01/2704380/german-fm-heckled-during-ukraine-speech"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: تسنیم
