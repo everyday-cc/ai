@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Arolsen Archives' #everynamecounts Project Uses Artificial Intelligence to Help Uncover Information on Victims of Nazi Persecution"
-excerpt: "Project is supported by volunteers and digital technology from Accenture A team of volunteers from Accenture (NYSE:ACN) has built an artificial intelligence (AI)-based solution that helps extract info"
-publishedDateTime: 2022-04-27T06:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26831313/arolsen-archives-everynamecounts-project-uses-artificial-intelligence-to-help-uncover-information-"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/b26831313/arolsen-archives-everynamecounts-project-uses-artificial-intelligence-to-help-uncover-information-"
-ampWebUrl: "https://www.benzinga.com/amp/content/26831313"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26831313"
+title: "Arolsen Archives’ #everynamecounts Project Uses Artificial Intelligence to Help Uncover Information on Victims of Nazi Persecution"
+excerpt: "A team of volunteers from Accenture (NYSE: ACN) has built an artificial intelligence (AI)-based solution that helps extract information on victims of Nazi persecution from documents in the Arolsen Archives 40 times faster than previous efforts. This press ..."
+publishedDateTime: 2022-04-27T07:11:00Z
+originalUrl: "https://www.eagletribune.com/region/arolsen-archives-everynamecounts-project-uses-artificial-intelligence-to-help-uncover-information-on-victims-of-nazi/article_9e52d39c-ac3b-5329-9ade-5ae7c117053e.html"
+webUrl: "https://www.eagletribune.com/region/arolsen-archives-everynamecounts-project-uses-artificial-intelligence-to-help-uncover-information-on-victims-of-nazi/article_9e52d39c-ac3b-5329-9ade-5ae7c117053e.html"
 type: article
-quality: 27
-heat: 27
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/fe/bfe4569f-a5ad-504d-b663-6f461c5a77e2/6268eaf7ca225.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "toeeB9vgK2OS4I63T33NpLINsUCzhuQMsm+QDTuqdhAECrsck66F/UbczUTxCyMpelig8SSZDtsH/obi2Nx8vqrjy1s5EagBkzMMXkxEs8lvzLZ8BXqsUIa6xWSMvvtJ/w9AIzCCgDKBV0YiIfc8Ui7KoB0nHBD/M0XqnjeI86CFvu3Yhm47+zKvjoIZqFXEobSKkUPfqei9KcNpXWUpUeakt9LQiVxN0BI98NaeKof72JTPep7lWB23/0yOfJPfHI2DrEutBSBaD0YV/iKh+H9qJDHb1RdZw0fExuOHyJiow9uEtNc5gNh/DjILd30vgBVugN0cAKlQ6GbnrtE5nGipyAED4kFDVxU7rm/ueVg1gkkqMyxAuqwONRXYjPL4+oWtY4faR/URmo353bDoFnuzQ+4tvAMW+OweAdN/cnUA4HJ2NHRGZDiaWesJvBT7BqVIt9IqKtMyoVUvGiULymP23Q3jT3kviL3UQNvBlr3XAFImh/5edJAXAD0WIoqxxaGu1cKTVpX8DEbutfh9Bg==;RmjTRXcm6ufyZfHArvDHnw=="
+secured: "TN0Ri3HgJo+hEpGNc8kYbhmWJY0BMYPOi+EAfYsaOG/dMBSa70/GAZYfZL4aJ1EnNcY370U8iErLtolKJGOjjWYjl4UndWV5GG6eaFQnSqkPCFWEN9nsY1IVYYHn6EZzMgQo3XaRvmhBqYpjzMFqpJTVaUlukryBCFz9dq5BmcZJC2liOgjcV8rUF1krSgVLyw559lffsZAZgb7rEnfAXDOKfMUi6c1UXsTvOPSx7WFDtKoomo10F7TW+A4BvRRL8r/Go5TMVTBkJidpOIbH3j0nWMkRgve/YsKqBgCFb+PfKuKEenvHdoxIw1QvFdScDVhOQVVMcSpDbOUWRKF/3o0oAW37s4SVrNfEZSYhGv0=;YQKGL3CVjS8WiQ7nUzr4sA=="
 ---
 

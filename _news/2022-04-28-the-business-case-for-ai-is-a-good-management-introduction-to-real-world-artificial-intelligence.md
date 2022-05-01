@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 900
         height: 550
         isCached: true
-  - title: "New Release of the expert.ai Platform Accelerates AI-based Natural Language Solutions Adoption and Time to Value"
-    excerpt: "Extended core enterprise capabilities in the areas of vertical sector and use case customization, connectors and cloud environments to improve business results BOSTON, April 26, 2022 /PRNewswire/ -- Expert."
-    publishedDateTime: 2022-04-26T12:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-release-the-expertai-platform-accelerates-ai-based-/2022/04/26/9589490.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "kTFohcUedRaFWlseuJe2yHXRJyKRaecIYykzR/vB5Ne08kszd/K7uRBDG6ITYaw0Enxvdm0PvFtPYticCycdgOB9DMNJkxlkjJvwSXMl4592jISziTRhVmtrzAk1x7XfudDOZ36AtLZ90V1agM38ySoH+yTJoJHLwaNQHxCu+D6DpLOs4g9mDsSD8SOpDGrswDWGsCqvJDnrUHkKDm2TPQKl04EvaX5j9YhruWLvru9vaRbswHoEh1lWkPzwLjRlZpjEeSTooSDBWtNnpQfr5e0OTIpM/5DJHZi1SOYfuQiKxR5hopTd3irLly625fviutdxY5b2Phktbwxx84ijnEhMdqyuUq5HZVdZiOGNKOI=;gOrVKTSOJfZ9OwhpdOdpLQ=="
 ---

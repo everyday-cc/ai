@@ -40,15 +40,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Undercover Book Review takes a look at the new book on artificial intelligence and the future of AI by Ben Buchanan and Andrew Imbrie"
-    publishedDateTime: 2022-04-26T12:43:00Z
-    webUrl: "https://www.thecipherbrief.com/column_article/the-future-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 17
 
 secured: "1eDrB5JUvfsEv6TYEbPI0TsIv5HafeSvo4XaJJMzDwQkmJ6d4VxWprfby10FW8jvGRm71nwPnehXqYqa6EOjX8QL1D724+1e9X72wrnDOyvRbwOHp40/24qehsbJfZkRVeSDyMuzcYZbkvfRrvQUiLexilMyi3flzVZJljHRQNuGPpHUX9FWgFJ9IC2mwnD5Cm49CAE53PENmkBv4irex4RrWpj0E00WHH2aNglNR87dOOuqq4WFyQW/XuU13BZBPhOKXtoCfp5knqqODo7k4wZQ6/tS+ia1jkYEHZbJfuOV/ndoq1nsPCmzXO1yd8yiTo4EQUvzBzqXE8qpPD6AR+GYlW4/Sec+vOxRHylZK6jKhh3LtCm3+WHH+ZaHNf9kOwJwj8h5AweH6WCquqDMtNAL58oLx8di9nzBkAu2jinHfgL4p8IYOO40NFn9aGG8v6LyjwqAzEB9lr/f1pYff+a1ZsHD+jkLCeiz//oxLoTxVvIRBH6IvP+rOwPFQShYDR79AoXICKMtYb15ajt5Gw==;LeAkZBSysVRfb0qKemFxzg=="
 ---

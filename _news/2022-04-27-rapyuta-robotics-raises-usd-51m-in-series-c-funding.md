@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in
 webUrl: "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Japan’s Rapyuta Robotics secures $51M in series C round"
+    excerpt: "Tokyo-, Bangalore-, and Zurich-based Rapyuta Robotics announced last week that it has raised ... to leverage this momentum for further growth. Singapore-based AI Communis, the startup behind the platform integrating speech recognition and natural language ..."
+    publishedDateTime: 2022-05-01T05:08:00Z
+    webUrl: "https://thebridge.jp/en/2022/04/rapyuta-jpy6-4b-funding"
+    type: article
+    provider:
+      name: BRIDGE
+      domain: thebridge.jp
+    quality: 54
+    images:
+      - url: "https://thebridge.jp/en/wp-content/uploads/2022/05/rapyuta-robotics-nittsu-amr-1.jpg"
+        width: 1240
+        height: 780
+        isCached: true
   - title: "VisionNav Robotics Raises $80M in Series C+ Funding"
     excerpt: "Founded in 2016 and led by Li Luyang, CEO, VisionNav Robotics is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial vehicles, providing autonomous vehicles ..."
     publishedDateTime: 2022-04-30T12:13:00Z

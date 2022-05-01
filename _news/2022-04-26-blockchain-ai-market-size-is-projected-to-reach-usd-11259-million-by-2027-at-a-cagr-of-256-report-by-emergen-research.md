@@ -25,19 +25,14 @@ images:
 
 related:
   - title: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports"
-    excerpt: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% \\| Valuates Reports. BANGALORE, India, April 26, 2022 /PRNewswire/ -- The Intelligent Docu"
+    excerpt: "The region's businesses are the most forward-thinking in terms of AI, machine learning, natural language processing, and computer vision, boosting the document analysis market's growth. The presence of major players in North America is also a significant ..."
     publishedDateTime: 2022-04-26T13:07:00Z
-    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 5
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2019-oct/3583680183-mouse-791280_960_720.jpg"
-        width: 960
-        height: 640
-        isCached: true
+    quality: 0
 
 secured: "YwRaCEAfsabgHVQrofjJ+yQd9PUMuyUH+/yT/SxiS4COG6h0usnqxYB96ViZlEKiMqYzV4o0s6hWZcaun/s6QTuKHVVrhnpMox7EghXuwlUAY+r7UmsxNb+u4X+vlBRf9WYvqJKZfijG5lU2lXOS0NrkObNComhyUHMrHXL5HnWjGar6p34fJfFKx4ZxNzDkGJJaNoGSoP8Ktnw9Y8H+NpLMcyuOpVyV5BfjE7xyvOIHDggoQY6dJDxp5gwl8NZP9oZYV1BoQQh9GZjdaQii5wE1uEKXQbzllIQUNA/tg4U+alruh0gWPHwpvQO0tfM6wUWFoE64pjG22CKixwl1EO62gD/VYBYPBAUr9Bdq51o=;RyOyvRCPMOpBu21PQcTVCA=="
 ---

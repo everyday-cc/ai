@@ -85,15 +85,6 @@ related:
         width: 252
         height: 335
         isCached: true
-  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, launched the Vian H+AITM Platform for reliable, optimized enterprise-wide deployment, management, and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-26T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/04/26/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 14
 
 secured: "MDB18+N5ewWDu7IhK3GF6/7QI3WyS50xZplRB7oT/WOzqHp4vWZYkBmkghuN26tyTovLyJ+FywZCn092u/BtXr1M6YqjGO5wSwMnilb1hByOV77+BwSjB5TAhkRzFKU3uuyq0mGm+oeb4zR3YzrKbRloIM3wTR2sDhe3qvSGGtV1WRa9Vy6m5vDKvLCSf3kje3r2blp6jGDoPNnKp9KbfDwiH3gK9iX160Lc3riedM6MVNw2x69QeAwJvq5WYmBz1yTuQMhhxZ1NxBHEN6kwQec93GLSL37QYVONSBwZGu2L6Qv9LNvZZjOM+RhB6lcHnbp09Id4nS2OpwQaKSzJZWhAMOKVZZVn047jRFIweB87qak6bg7fZv9No5thz07QveUg8AR9eturoP1xBWPpGU4ZIKToKbxvfgZZhEQxAZZLsMWhgTQa5hHZnx/LbNuUom7LY17294L+WRhIB6p7+APLA0DIRIEoOTIvoi9YBtVshX6+n6yW1Og/cqpepbSBdBdH/Pm6GnewFK7bCB+mdg==;2AeznecQ0OC/VlVQUvprtA=="
 ---

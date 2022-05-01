@@ -39,20 +39,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Solving low rates of machine utilization in the metal fabrication shop"
-    excerpt: "The metal fabrication shop has evolved. It isn't enough that press brakes and laser cutters are simply running or not running. Machines are increasingly connected, and monitoring platforms help fabricators identify what’s really happening on the shop floor."
-    publishedDateTime: 2022-04-26T12:00:00Z
-    webUrl: "https://www.thefabricator.com/thefabricator/article/cadcamsoftware/solving-low-rates-of-machine-utilization-in-the-metal-fabrication-shop"
-    type: article
-    provider:
-      name: The Fabricator
-      domain: thefabricator.com
-    quality: 24
-    images:
-      - url: "https://cdn.thefabricator.com/a/why-machine-utilization-in-manufacturing-is-low-and-shops-should-be-better-connected-1650954841.jpg"
-        width: 1000
-        height: 698
-        isCached: true
 
 secured: "bM6UEdEM6L7ZTdzm7StFj1Y1cnNAkJV5HNvIpIyIqV9gsflnuHD2q22z6zeMo2BNCyPvKvSVELE71AdSVB/2WWKcYU6pUl3tGMC/1u4h/9ZCFYe11EAhXsfc7MsIgxcOAjERaZNk2hlJaMxFoxjgd/NTcCcX+PCpcQ7C3yDChGexhX4nzzzRY9sYrAYqbr3SKAICRPZ66brY0wEsrh5UI1kOSvxxoaLw/VVafKjZ5de2wmRzV0EW7OgJepCpHSJ7a5Sy5LKBf9UiXFyZqDYti20/x9Gw+dm9HimB6t+WX7k9AqIyeMVFZ0vvHjZI3Sm59J6fKyB/P3hCaG5TaR5E6j/ppuReaZHMCOf15owJfTs4zohILMJt7dD1XBZp6+OaGOCkGGme28T+o4C2mbBMTyakLtDuTrX/AfhEXtontbx7PekmbmQZXqElTEeKWDdAP1klwA6tYJaMwUAJc5vp5r1/KmaUnW9p9XW667WwUW24MEy3fRnyyAkkQy2gQYSRCzdPKPnPEkzc/lRkQCOVUg==;CxJLVH64Fz5okMbFdwB4sQ=="
 ---

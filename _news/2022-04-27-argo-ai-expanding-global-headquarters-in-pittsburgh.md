@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/argo-ai-expanding-global
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/argo-ai-expanding-global-headquarters-in-pittsburgh/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pittsburgh welcomes Plus One Robotics"
-    excerpt: "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas."
-    publishedDateTime: 2022-04-28T00:40:00Z
-    webUrl: "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/"
+  - title: "Pittsburgh Welcomes Plus One Robotics"
+    excerpt: "As the company grows its footprint, Pittsburgh’s expanding robotics ecosystem offers robust opportunities for market growth, recruitment and partnerships with universities. The company, which uses artificial intelligence and 3D vision to automate robots ..."
+    publishedDateTime: 2022-04-28T00:00:00Z
+    webUrl: "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 86
+      name: Automation
+      domain: automation.com
+    quality: 54
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg"
-        width: 770
-        height: 500
+      - url: "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
 
 secured: "pZ/qiHmTQmaS8fWFuUFXN2AhsSYfCukd0iWmvrymClI9aa4OOy7rJdv8dAwtR4814UGVSIKd/F+zpFxyrsE1SUzuZHCQZm7VjqeZKYpo0YqwwoHkRqnh5F5cBDybUPEFCQUbHP08wRiK/k1sImaWysgtMjL6GiclOdHSTK6/f6RAHyMAtwMr9WUUT/52QCQVaw91hbe4KT/ylqzXlnDSoQUKX3dY/DPz8/8s/psvkJuymSxgxuz2GnMM/2eXyLpYEMrERx3lntcObyljDtF6bYuYNzbDGJWYhpgB5esvhK59yhQB8/Ix8MBjPzDr0VL5yDP0M51CBjCECtE609qhBgaBHPAAvuCO5TXyr2eCZxVYVq6J1c2q9QqrQtyxE//eRlWIJCZy97XJa7b32Z2gaa7Sto5PGH3WCTAoTzsRPYU9fHygrBY9a0Vox8xzZMLJPZUL9XKrg1GrdaOJ5gAaiQpy8wvyFKR2dht6jXMPMIobmmxV5CodcCenuFPXVMn+Gr/LHvMcAzupwXo16g6Fhg==;2wk4/mXEMohmuSyN+rXF7g=="

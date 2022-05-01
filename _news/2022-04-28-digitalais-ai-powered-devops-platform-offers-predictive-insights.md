@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 17
-  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, launched the Vian H+AITM Platform for reliable, optimized enterprise-wide deployment, management, and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-26T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/04/26/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 14
 
 secured: "JsqdV+RBPqs4zsqs88eJYo9cWZreLHp5rhhItLZfQU1/L9AgnEfV+Vyd89kQCyWRNgGv0A3I4OaqRgB/4pNUx5RY5A6QMXvNHr68cZkPCuVzaGpy523W6CH5O/myj6iPw3hWvjmADz1XyatkBxKnWXsq+q9nhpFcEHBsjQI2/+HCQFHxERxO3ovuIwUO6N+i69XNZ4v8zk6oAxcHZXsj/XSgYu3x1x2zvVvc7zkVzE7PEdMPl+00ym0rN3aTIcPWZLgyIHLDwg298ADkOZ0R8kCOEQksBag/SiXEs6z0J87p1cl0uBOUM+Mvj6BZt4QDQ7xfL3P9jM8ObYtt1q+5cpSySrJgycBYLBeoCCAwy9Y=;Nh7CHBZtKaGK3m5zq+kBhg=="
 ---

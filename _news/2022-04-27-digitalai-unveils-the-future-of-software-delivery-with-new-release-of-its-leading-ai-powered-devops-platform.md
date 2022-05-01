@@ -86,15 +86,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 17
-  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, launched the Vian H+AITM Platform for reliable, optimized enterprise-wide deployment, management, and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-26T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/04/26/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 14
 
 secured: "qR6i0pQtxXL+vp+h/9CNZZvzsLvtKOu1E7xSIBhiPniKbt2YobH/gBUIp6xIKQBQK578FxUnDe5E302mV0lgJP2u3xX/NoJupkzgU2zBhBrkkzEELbEhNW7L0C9txXzmcpspI7ovPNe7dEVtfLKuGaAusECtBfEsAXzhuV5NpXLqB6U7kHyJl/v+yY+09lBIq5ayHeDK0QgLTvAMAzTgj0/0z9jMNJ8wx8aChzzeC3rLmvGpsdzktB42jW93Z7RchVmsOVAzJRbrf0N23g90HDPIiz4DFr4xghIMcAcGrTpEJEeeVuAlA5WUTukQeEoGTKrFOs6xuB8d+N3lo/l936YdvRN2WqVtHvtWcMBkVBM=;OhQmJaSV2CxA0wnTc0K2iQ=="
 ---

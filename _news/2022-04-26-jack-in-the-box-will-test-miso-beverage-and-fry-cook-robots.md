@@ -62,15 +62,6 @@ related:
       name: SocalTech
       domain: socaltech.com
     quality: 34
-  - title: "Jack in the Box Partners with Miso Robotics to Begin Pilot for Flippy 2 and Sippy Product Lines"
-    excerpt: "From the Fryer to the Drink Station, Jack in the Box Embraces Automation to Maximize Efficiency and Deliver a Better Customer Experience PASADENA, Calif., April 26, 2022 /PRNewswire/ -- Today, Miso Robotics – the company transforming the restaurant industry with robotics and intelligent automation – announced a partnership with Jack in the Box to begin a piloted test that will deploy its Flippy 2 and Sippy core product lines in one of the national restaurant chain's standalone locations,"
-    publishedDateTime: 2022-04-26T12:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-jack-the-box-partners-with-miso-robotics-beg-/2022/04/26/9589358.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
 
 secured: "mYFq8LKjS39sPUOpv6x1Hsmfk4TQJU/s4PmNpfmUHAaBIGN18sA81XOYXD2VJ+BLbWHFxGn8KAx4DV+AhLHhKePT8em7OpslLY0jc/6HD2KsYXkcW+2I71upYGQjTI2xH0qAp8WlkrT53keER/U/51WUMZhLatqYheiG5W98CIcjF5giDryLwpTTny3RTzYkO08pu4p+uvLVeqbmkJ7WBdnIFCdAqnfQFuTmENF5cMEmyZ42X6Pjk8556R4EKhTVfoPBecKETaccxx3TKTYSM7C6RX30uUleuRtgX1n3NIlTD/+V15blXUrnrKcjOdzhoO0kQrANOzh0N+R3UTQhvcz0VR5xWxshIVIBeu+EAxla10rIP/r8EYlHJ/ED7/pSygoZAJ55eoWyBOjHs04h1Q6cTeawUgzkA9nfr5qEHcoZkUeXUeTuUSA88BxPVf5I4rwL5wy0mc3qEf8cky7/io1IhbnPnFBHPGvrhzJeUf3SORtSFu/NbHRNUrYd0xRsoZbaacpYK6zCdr6hibGRLQ==;dNoqvwPNhsAeB9Q2ZNd6NA=="
 ---

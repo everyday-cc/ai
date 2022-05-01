@@ -7,8 +7,8 @@ originalUrl: "https://www.cioapplications.com/news/top-applications-of-machine-l
 webUrl: "https://www.cioapplications.com/news/top-applications-of-machine-learning-in-the-healthcare-sector-nid-9775.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: CIO Applications
@@ -39,20 +39,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/eo09n450308cioappli.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "Solving low rates of machine utilization in the metal fabrication shop"
-    excerpt: "The metal fabrication shop has evolved. It isn't enough that press brakes and laser cutters are simply running or not running. Machines are increasingly connected, and monitoring platforms help fabricators identify what’s really happening on the shop floor."
-    publishedDateTime: 2022-04-26T12:00:00Z
-    webUrl: "https://www.thefabricator.com/thefabricator/article/cadcamsoftware/solving-low-rates-of-machine-utilization-in-the-metal-fabrication-shop"
-    type: article
-    provider:
-      name: The Fabricator
-      domain: thefabricator.com
-    quality: 24
-    images:
-      - url: "https://cdn.thefabricator.com/a/why-machine-utilization-in-manufacturing-is-low-and-shops-should-be-better-connected-1650954841.jpg"
-        width: 1000
-        height: 698
         isCached: true
 
 secured: "K3vB1oOEqdI3/TTqFosryjx36enjHBPRcVD8O1gJM+Lmg9GxQAEbdIOFuxtmongYz+7V9cyr5Hrc/VXduYcphpKHVX84LCqw/b2T9+txxdxKjb7UiVxLzDHHFQ1c7QSJDJl+6j3RZkKcTPBsL8hZxMvegebvszFr65LHWsH1X6WGjF8Ap0bz/gzr/s7zF6PH1iSdK4RUUoWi+BeC5A2WBknIwMNFSx6vhM7y+EPcXw4xuFzemvUJ3jA5yOxAcLx2PBp/pkn6GY+TB47GZkiZcAqtR2bsBG44InfmzTRuYETN740oGgfgXPffQzcK0uSn6z4LSfQeyF+b61a2Kj5H0ZN0BqFKqm6NOKjCsW3U/0bpCRlEFz5QP94MPMV6r+/vz6lEpV+iI/U+dA4whNxV5YQf1MHFacx6ooGRlQA7mcW6od0G6UUIEKMjOgsLgQGrbrSX/xBhAvwBs1q77ElMhTR7fiW0w2SMVTaX4dNKsXvQ2pOvn195Y8xhy6OufIa1nq6OfApJvx4z4DhFDUlpRg==;NQ7jZxM0MO2Leh+enFNCPw=="

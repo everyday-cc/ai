@@ -33,6 +33,20 @@ related:
         width: 333
         height: 333
         isCached: true
+  - title: "Japan’s Rapyuta Robotics secures $51M in series C round"
+    excerpt: "Tokyo-, Bangalore-, and Zurich-based Rapyuta Robotics announced last week that it has raised ... to leverage this momentum for further growth. Singapore-based AI Communis, the startup behind the platform integrating speech recognition and natural language ..."
+    publishedDateTime: 2022-05-01T05:08:00Z
+    webUrl: "https://thebridge.jp/en/2022/04/rapyuta-jpy6-4b-funding"
+    type: article
+    provider:
+      name: BRIDGE
+      domain: thebridge.jp
+    quality: 54
+    images:
+      - url: "https://thebridge.jp/en/wp-content/uploads/2022/05/rapyuta-robotics-nittsu-amr-1.jpg"
+        width: 1240
+        height: 780
+        isCached: true
 
 secured: "AdXHp0KiehIA1LFS8rsin7F5dHHC1eg1yd2Yw7ek2FaXOeo475sw/i60CmZuZiv1+ItQ8Ib9CujGS3WH0x65iWaHVMRlOWCP6RfkyUYg+d/jtnYNhYQ5iRzeAQuRZ0JsrSCFm8O+i2KQOdrCUa09mfjYVC29Cjb44ErbpMseR68QIMlR2Tw42OqdCxkrBU7lN6e2R7xPb0ioXofYmuS2L1Fa9GMyUFRk5auoWg/PhaXCO0dP2xn7aGtKjNExSB4JXyCoCwbkXbJiMPZjQ1/ZWaMQGi3TSHeL2VcGc612uPigrG/41RbXXGbsM9WRTDd09CpvonCoXUDXwAsTdeuBYzQ62V5PSZlyVVbiCrHscs9pAp+k+XHdmiXrwgkMtL6fMX5D9TpizZjDm/Lx6vCKEsrhayEl62G1fN6/Ptjq9k4ynNUMzW1fvsF96eOijFbGnoWTeNNF3FN8jELQsfRzCxOBYvnP11/07uuyQuYd5yTmcC0rqE0NIef7iP/LNfrPoHh86oLpcd1KgEg681B+Aw==;xQGxZNgl4WyMYWyU2SKAOg=="
 ---

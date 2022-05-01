@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/fiture-interactive-fitness-mirror-feature
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/fiture-interactive-fitness-mirror-features-ai-movement-tracking?amp=true"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 2000
         height: 1142
         isCached: true
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Undercover Book Review takes a look at the new book on artificial intelligence and the future of AI by Ben Buchanan and Andrew Imbrie"
-    publishedDateTime: 2022-04-26T12:43:00Z
-    webUrl: "https://www.thecipherbrief.com/column_article/the-future-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 17
 
 secured: "xdkOdvC0hNrsXDjCZQhEkxnAJjxNnm0Wqm8trZixNaND4zK+mjCYc9X8L8yyS2pHYYCr7GPd3gC83DJUuisQem8J0shxDM3OVSEgJ38G5T0+VoOORDXr+TI8Qao+Ii/+NuKVricA68Gb8Q6cJ1ZUC7QVgB75XsSFbD1GuQvGyaL917vfUwvOpkZ1AyuIPiBFLzA1AYS0PZGCbWi5UWQ8fFJS3r4fOZRU5k1CvpLnbeAIKa/eN8c6E+0sPdqaV8cTM0vtQWBxUWmIHrW76IbVCecWUweDMzQ01BB0dteIvHy27uUC5v7/w+u03yOcaD6a71GfAZZnvng2PhzA75s+6DEMg+QuzqehaUOJDLtcu0M=;1eX/dZKT6AETEMKsMOEBjQ=="
 ---

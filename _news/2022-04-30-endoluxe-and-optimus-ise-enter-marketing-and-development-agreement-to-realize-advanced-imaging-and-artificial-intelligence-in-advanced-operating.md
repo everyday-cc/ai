@@ -28,20 +28,6 @@ images:
 related:
   - title: "Mperativ Adds New Vice President of Applied Data Science, Machine Learning and AI to Advance Vision for AI in Revenue Marketing"
     excerpt: "Mperativ, the Revenue Marketing Platform that aligns marketing with sales, customer success, and finance on the cause and effect relationships between marketing activities and revenue outcomes, today announced the appointment of Nohyun Myung as Vice President of Applied Data Science,"
-    publishedDateTime: 2022-04-26T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-70dd855e28af4faa817b3e75e35d4a0a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 43
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Mperativ Adds New Vice President of Applied Data Science, Machine Learning and AI to Advance Vision for AI in Revenue Marketing"
-    excerpt: "Mperativ, the Revenue Marketing Platform that aligns marketing with sales, customer success, and finance on the cause and effect relationships between marketing activities and revenue outcomes, today announced the appointment of Nohyun Myung as Vice President of Applied Data Science,"
     publishedDateTime: 2022-04-26T17:16:00Z
     webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-1e7dccca11e1478eb551fc53c848d017"
     type: article
