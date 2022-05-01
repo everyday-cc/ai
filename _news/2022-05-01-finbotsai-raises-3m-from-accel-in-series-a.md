@@ -229,20 +229,6 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 23
-  - title: "AI Medical Service Inc. Announces 8 Billion JPY (US$70 M) Series C Financing Led by SoftBank Vision Fund 2 (SVF2)"
-    excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech company using deep learning technology to develop endoscopic AI, has announced 8 billion JPY (US$70 million) of financing led by SoftBank Vision Fund 2 (SVF2) and joined by existing investors Globis Capital Partners,"
-    publishedDateTime: 2022-04-26T07:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-japan-tokyo-fe3dbb0f4b89c0fa341c7bc511a75549"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Loris Bags $12m in a Series A Funding Round to Revolutionize AI for customer service"
     excerpt: "Loris today announced its $12 million Series A funding round. The series was led by Bow Capital, with participation from ServiceNow Ventures"
     publishedDateTime: 2022-04-27T12:37:00Z

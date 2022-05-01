@@ -65,20 +65,6 @@ related:
         width: 705
         height: 410
         isCached: true
-  - title: "The 20 Most Influential Fintech Marketers in Europe"
-    excerpt: "The Fintech Marketing Hub, a global fintech marketing community, has released its selection of the world’s top 30 most influential fintech marketers for 2022."
-    publishedDateTime: 2022-04-26T05:34:00Z
-    webUrl: "https://fintechnews.ch/fintech/the-20-most-influential-fintech-marketers-in-europe/52590/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/04/OneSpan-.png?x30842"
-        width: 300
-        height: 250
-        isCached: true
   - title: "FinTech to rule the job market in India with 87 percent adoption of FinTech services"
     excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenanceregulation, innovationtransformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
     publishedDateTime: 2022-04-30T07:55:00Z

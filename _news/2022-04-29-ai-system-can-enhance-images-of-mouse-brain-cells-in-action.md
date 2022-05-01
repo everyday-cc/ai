@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220428/AI-system-can-enhance
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:

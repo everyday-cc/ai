@@ -65,20 +65,6 @@ related:
         width: 705
         height: 410
         isCached: true
-  - title: "The 20 Most Influential Fintech Marketers in Europe"
-    excerpt: "The Fintech Marketing Hub, a global fintech marketing community, has released its selection of the world’s top 30 most influential fintech marketers for 2022."
-    publishedDateTime: 2022-04-26T05:34:00Z
-    webUrl: "https://fintechnews.ch/fintech/the-20-most-influential-fintech-marketers-in-europe/52590/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/04/OneSpan-.png?x30842"
-        width: 300
-        height: 250
-        isCached: true
   - title: "How neobanks are set to disrupt $31 billion Indian fintech market"
     excerpt: "As the third largest fintech ecosystem in the world after the US and China, the Indian fintech market is poised for further disruption with the emergence of neobanks"
     publishedDateTime: 2022-04-27T11:53:00Z

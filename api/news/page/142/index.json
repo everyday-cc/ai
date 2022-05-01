@@ -2,6 +2,49 @@
   "page": 142,
   "value": [
     {
+      "path": "_news/2021-12-30-optical-chip-that-can-efficiently-solve-complex-ai-problems.md",
+      "title": "Optical Chip That Can Efficiently Solve Complex AI Problems",
+      "excerpt": "They combine photonics and electronics to process information at ultra-high speeds, low latency and low power consumption",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/12/Lightelligence-PACE.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
+      "publishedDateTime": "2021-12-30T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-us-blacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut.md",
       "title": "US-blacklisted AI firm SenseTime shares jump 23% in Hong Kong debut",
       "excerpt": "Chinese artificial intelligence startup SenseTime jumped as much as 23% from their IPO price as they debuted on the Hong Kong Stock Exchange. The startup had raised $740 million in its IPO and priced its shares at $0.",
@@ -1103,48 +1146,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-artificial-intelligence-its-a-fine-balancing-act-between-opportunities-and-pitfalls.md",
-      "title": "Artificial intelligence: It's a fine balancing act between opportunities and pitfalls",
-      "excerpt": "Artificial intelligence is also hailed as ... to create a strong data and AI ecosystem in the country,” says Rohini Srivathsa, National Technology Officer, Microsoft India.",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/",
-      "originalUrl": "https://www.moneycontrol.com/news/business/artificial-intelligence-its-a-fine-balancing-act-between-opportunities-and-pitfalls-7877851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2022/01/taylor-vick-M5tzZtFCOfs-unsplash.jpg?w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/amp/",
-      "publishedDateTime": "2021-12-29T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

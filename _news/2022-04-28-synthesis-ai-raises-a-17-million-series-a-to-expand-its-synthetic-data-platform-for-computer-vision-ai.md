@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 related:
   - title: "Finbots.AI, a Firm Providing AI for Banks, Financial Services, Raises $3 Million Series A"
@@ -234,20 +234,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 17
-  - title: "AI Medical Service Inc. Announces 8 Billion JPY (US$70 M) Series C Financing Led by SoftBank Vision Fund 2 (SVF2)"
-    excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech company using deep learning technology to develop endoscopic AI, has announced 8 billion JPY (US$70 million) of financing led by SoftBank Vision Fund 2 (SVF2) and joined by existing investors Globis Capital Partners,"
-    publishedDateTime: 2022-04-26T07:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-japan-tokyo-fe3dbb0f4b89c0fa341c7bc511a75549"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Loris Bags $12m in a Series A Funding Round to Revolutionize AI for customer service"
     excerpt: "Loris today announced its $12 million Series A funding round. The series was led by Bow Capital, with participation from ServiceNow Ventures"
     publishedDateTime: 2022-04-27T12:37:00Z
@@ -267,6 +253,6 @@ related:
       domain: wgntv.com
     quality: 5
 
-secured: "9getTX+H7q8+n73IzTDqr/rxkGsYNN5wl7WssmznU0K9ep/X3lwAbqtCvUYZ4O/6gskXc4czNgs3STU2AIdesQLn2jDClABVhL+S/wA+UWkuSk6O2UtIt/afuKxFRM5nuW8Vp7dvoF6xmGvKwhQHYPyo/Wi30iVefR0/uIixverne857P9MoYaYGOEdPDVd+W78GF7w4N418is4iTplBiHqzv7Hucp3evB1gEstDDrsGPV/jylIm60/x4rKhbjjRw4CmIqWFDGVzRVK5oNpD+eoeiH0iQ5t2jWtM0yWxnzLLKJEdCX6mu+QO/9rAlLfLRNQ5Q2mJwYKg9POvkAbp4VacZL/Rur+RNkT1zQmT0NU=;ocBBuiTxLfy4bz3i8nDSzg=="
+secured: "2k5Pe1YUfHtEFi5FVGWUwsbHfewHFifDXLjqLen6RznAcvFJPN6LbXernm1h74iMON7zzaNbYrNW5Ph7Kf2Edgmm+Ipk7EXUmITviVuFNP+3+Pe38oH22fy+7/7OKy6Aa0dpYRSBbPA7HCEc/ElCvivof0BUajzhTLIfpm8jeZHpSBaoy/FaVH3Hgf7GE2976Ezj5VwQ55vLZ4ZC6m/Xp/GSLQQRJxFVKQjZYc+TvMxDADRBZpVGyuHBzyrlMgwekvcV8dhsodyYj1izb7YsXbevC8EuD98qY4gxPBm5xJhWwBBJto2LnOqFvut0gSPLLW18148Fle1c3e922ViT2uRtMIwJtPNRVOH0Pp6iH5Q=;RN/gYhADS5/ANMKequ4+nQ=="
 ---
 

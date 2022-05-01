@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-04-13-aventis-collaborates-with-ibm-to-automate-training-management-system.md",
+      "title": "Aventis collaborates with IBM to automate Training Management System",
+      "excerpt": "Aventis used IBM Watson Natural Language Understanding to ... Aventis taking the first step to embrace the growing trend of AI and cloud to gain a greater advantage in the market.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/aventis-collaborates-ibm-automate-training-management-system",
+      "originalUrl": "https://www.asiaone.com/business/aventis-collaborates-ibm-automate-training-management-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/pr-newswire_500_4_642.jpg?h=7de12b8a&itok=JWl17ZwG",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content.md",
       "title": "NEW ID Partners with SK Telecom to Develop AI Post Production Platform to Export Korean Content",
       "excerpt": "NEW ID provides an all-in-one post production solution necessary for content localization, including specialized AI solution, translation ... content is not only the language but also music ...",
@@ -1092,51 +1135,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing.md",
-      "title": "Soft Robotics Names Paul Kling as Vice President of Global Sales and Marketing",
-      "excerpt": "... Inc.: Soft Robotics Inc. is an industry-leading and award-winning technology company that designs and builds automated picking solutions using proprietary soft robotic grippers, 3D machine perception, and artificial intelligence. The company's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing/article_e185b70c-dcea-5b8a-91e0-ec7b97251f19.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing/article_e185b70c-dcea-5b8a-91e0-ec7b97251f19.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/92/f92042fb-8930-5f12-91e8-4d00af8b26c4/6255868ec874a.image.jpg?crop=1362%2C715%2C0%2C402&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
       ]
     }
   ],

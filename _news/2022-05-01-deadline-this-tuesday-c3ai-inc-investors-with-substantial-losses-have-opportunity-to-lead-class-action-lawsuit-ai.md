@@ -1,27 +1,21 @@
 ---
 category: news
-title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
-excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
-publishedDateTime: 2022-04-28T10:45:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220428NY39116/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220428NY39116/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
+title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
+excerpt: "SAN DIEGO, April 30, 2022 /PRNewswire/ --Robbins Geller Rudman & Dowd LLPannounces that purchasers of C3.ai, Inc. (NYSE: AI): (a) Class A common stock pursuant and/or traceable to the offering documents issued in connection with C3.ai's initial public ..."
+publishedDateTime: 2022-04-30T22:05:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/04/30/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have"
+webUrl: "https://stockhouse.com/news/press-releases/2022/04/30/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have"
 type: article
-quality: 16
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1687309/LK_1920x1080_Logo.jpg"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
@@ -52,6 +46,20 @@ related:
         width: 600
         height: 207
         isCached: true
+  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
+    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
+    publishedDateTime: 2022-04-28T10:45:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220428NY39116/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1687309/LK_1920x1080_Logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
     excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ..."
     publishedDateTime: 2022-04-29T06:40:00Z
@@ -79,16 +87,7 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 0
-  - title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
-    excerpt: "SAN DIEGO, April 30, 2022 /PRNewswire/ --Robbins Geller Rudman & Dowd LLPannounces that purchasers of C3.ai, Inc. (NYSE: AI): (a) Class A common stock pursuant and/or traceable to the offering documents issued in connection with C3.ai's initial public ..."
-    publishedDateTime: 2022-04-30T22:05:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/30/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
-secured: "MVOEgtwVhDFfUm37sp8PgS/Z+NJLF97FjMPrUoDiVxHjfLO+Hwyuup1le+UPyMoPTOqW0FZsAmQFyQCDIWaV9UpPTC+mxatX84J0GEGunF0l6qg3M5cF1wylrSmp3EgFEKtkj3tAw7JmxZdhdwhuVlftZuHs2YVV7QwNBsMDJjH+DRVG0msTIf9jOWd3Nu1zWxGKFhgG8h8ZRkikJQmCC7PhqHg46ZZVifs5EoBrnOonKpLyC27lwr1QTYHrq2TEzpVQlBoo7I6hjU3BYodEoQXl3g64W/IMiHa8QPscabmpZlrWzeIO9xEvCBiquiGWJ6xFUy+/eaFkbS4DxrXnrU8Hdq0C9Hm9VCuOWPDhimA=;uvHk++nzo8JW7sbdnGapNg=="
+secured: "vtMgTiUlTCLBOe4jIIjq0y3pJHS/yR/MsCDlbHdeuDz9lM22J9HnS7NnQKu2uX1r246fuaDvrQbiIbhSl984IspZbmt/4cYK6kgpsIS5tTkfTrzlyoVMETdy8KIfXYhPjWTcDvnE9P6TsjUpGn/4Ei0omJRN+pRXKa4o3iXm97QP8lzS/AG+Ur+OTm4iVaikHiuSSUr2yAn7iZj897Jl7c2/3V3eOQK2iXycPlxMkhBaASmhWCNOFyjp6QTCiT7pO7TUsC3iQeA1SKo4usJjudJCnfD7F+tCtYVgHI2wivYZ/2xaWJjW+uRE+8aUhX+plUBWdgnqaAL4+NWcMbkuQlfx9TkIkboCN4rYFL+sVjrtgzhR3BZb+PlWUUgithvaljH20Mk8XAD1EAlrA20B3xUqfwBaA2e6mR5HDSlnR4dUnf5nkNTAOAVcCUDh+HBBjeBL9CPhW2ybL1M2MMKxyawWRf1o9XKt7PseprtvfFPrczp4aqCaY488i8fn3AceaxMbpReUjWUe+8k8rq4DIA==;Ly9zCqGUWCmLmZOcTxLCcw=="
 ---
 

@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-    publishedDateTime: 2022-04-29T12:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
-        width: 400
-        height: 215
-        isCached: true
   - title: "Pony.ai to launch robotaxi fleet in Guangzhou, China"
     excerpt: "Pony.ai will integrate its autonomous technology into GAC vehicles, which can be hailed using Ontime's platform or Pony.ai's PonyPilot+ app."
     publishedDateTime: 2022-04-26T15:10:00Z
@@ -104,22 +90,6 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-pony-ai.jpg"
         width: 770
         height: 500
-        isCached: true
-  - title: "Pony.ai to Launch Fleet of Robotaxis with Ontime..."
-    excerpt: "GAC is one of China's largest automakers and a longtime Pony.ai partner Introduces Pony.ai's partnership approach to commercializing robotaxis and strengthens Pony.ai's significant leadership in the G"
-    publishedDateTime: 2022-04-26T06:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26805079/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gacs-ride-hailing-app-in-guangzhou-in-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26805079"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26805079"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Baidu, Pony.ai first to receive driverless taxi permits in Beijing"
     excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
@@ -136,6 +106,20 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ap22118230409001-sixteen_nine.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+    publishedDateTime: 2022-04-29T12:01:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 66
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
@@ -263,7 +247,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
     type: article
     provider:
       name: The Financial Times
@@ -282,20 +266,6 @@ related:
       - url: "https://img.futurecar.com/202204/26/l_62680d03d2b57.png"
         width: 800
         height: 505
-        isCached: true
-  - title: "Pony.ai to Launch Fleet of Robotaxis with Ontime, GAC’s ride-hailing app, in Guangzhou in 2022"
-    excerpt: "Pony.ai, the leading global autonomous driving technology company, today announced a deeper partnership with Ontime, GAC’s ride-hailing app. As part of the partnership, Pony.ai will integrate its virtual driver technology into GAC vehicles,"
-    publishedDateTime: 2022-04-26T06:32:00Z
-    webUrl: "https://www.eagletribune.com/region/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gac-s-ride-hailing-app-in/article_0d4664bc-c5fe-52ef-9efd-6a7a4ebde544.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 25
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/e8/ae895490-7b1e-5760-9900-ca3ecc821a9b/626792bb5fbd2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Ditch the driver: U.S. and China race to make self-driving taxis a reality"
     excerpt: "China has passed a major mile marker on the road to commercializing self-driving technology: On Thursday, Beijing granted internet giant Baidu the country's first license to operate fully autonomous taxi services."

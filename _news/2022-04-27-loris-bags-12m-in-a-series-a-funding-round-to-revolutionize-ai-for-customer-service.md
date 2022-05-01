@@ -238,20 +238,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 17
-  - title: "AI Medical Service Inc. Announces 8 Billion JPY (US$70 M) Series C Financing Led by SoftBank Vision Fund 2 (SVF2)"
-    excerpt: "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech company using deep learning technology to develop endoscopic AI, has announced 8 billion JPY (US$70 million) of financing led by SoftBank Vision Fund 2 (SVF2) and joined by existing investors Globis Capital Partners,"
-    publishedDateTime: 2022-04-26T07:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-health-japan-tokyo-fe3dbb0f4b89c0fa341c7bc511a75549"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Altis Closes $10.5 Million Seed Round, Increasing Financing by 50% for its AI Personal Trainer"
     excerpt: "Altis, an AI personal trainer powered by the world's first Movement Operating System (\"Movement OS\"), announces that it has secured over $3 million in financing, bringing its total financing to date to $10."
     publishedDateTime: 2022-04-26T14:00:00Z

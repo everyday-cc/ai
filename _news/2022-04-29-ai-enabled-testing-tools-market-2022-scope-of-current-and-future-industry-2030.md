@@ -108,20 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Operations Platform Market - Global Industry Share, Size, Growth, Demands, Revenue, Top Leaders and Forecast by 2029"
-    excerpt: "A new business intelligence report released by Data Bridge Market Research with title “Artificial Intelligence"
-    publishedDateTime: 2022-04-26T05:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-operations-platform-market---global-industry-share-size-growth-demands-revenue-top-leaders-and-forecast-by-2029-2022-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Size, Share, Global Industry Outlook by Types, Applications, and End-User Analysis Industry Growth Forecast to 2022-2027"
     excerpt: "The\"Facial Recognition Market\"(2022-2027) research provides an outline of the business with key insights, applications"
     publishedDateTime: 2022-04-27T05:23:00Z
@@ -205,15 +191,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 7
-  - title: "Artificial Intelligence Systems Spending Market Outlook, Current and Future Industry Landscape Analysis by 2027"
-    excerpt: "The global artificial intelligence systems spending market is anticipated to soar with a staggering 46.1% CAGR throughout the projection period between 2017 and 2027. The coronavirus pandemic is benefit from the coronavirus outbreak as businesses are remodeling operations to allow employees to work from home."
-    publishedDateTime: 2022-04-26T06:55:00Z
-    webUrl: "https://www.fmiblog.com/2022/04/26/artificial-intelligence-systems-spending-market-outlook-current-and-future-industry-landscape-analysis-by-2027/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
   - title: "Yogurt Market From 2022-2032: Growth Analysis By Manufacturers, Regions, Types And Applications"
     excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032. The global yoghurt industry is fueled primarily by the health benefits of yoghurt intake and a growing public awareness of the need for weight loss."
     publishedDateTime: 2022-04-27T15:10:00Z

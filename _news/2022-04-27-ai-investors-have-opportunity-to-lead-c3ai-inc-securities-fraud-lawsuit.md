@@ -79,6 +79,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 0
+  - title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
+    excerpt: "SAN DIEGO, April 30, 2022 /PRNewswire/ --Robbins Geller Rudman & Dowd LLPannounces that purchasers of C3.ai, Inc. (NYSE: AI): (a) Class A common stock pursuant and/or traceable to the offering documents issued in connection with C3.ai's initial public ..."
+    publishedDateTime: 2022-04-30T22:05:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/30/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "hjirM+sI8THZN7KlwVA5LcpLBDFSdrNrzvRLXqG418LNaNVN6mMbMo24JXWd6QVZ7KkpYlGOFIaygEWvrdWMPSxv5SYAmPpufN3/LAwadBiB0Tl1sTuKFL1B4ujo6uWBFA6bW5XtXXE1yoxghU+xORtH2IhPCEjiwfeuaNR/moPx+b9s78129PzbHzMQ0+g+mmXryp9WN0U+vn01CILdgWbgyuji9eHdZrfdoTeFo3gEvGdoY9/G61SiawdUi3pcC+R8G9OeEUxsM/+SdV9FAGPr28Vuz6FN97seb2JE4yTj7rXM+h87qtOPfl9A8v6WXLHAe7+suTXzmshzCfk6Cs7+3HbJfrcASP9nEE6PU3U=;1Tv4NxT2xNMMo4oMlddG4A=="
 ---

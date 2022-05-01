@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Operations Platform Market - Global Industry Share, Size, Growth, Demands, Revenue, Top Leaders and Forecast by 2029"
-    excerpt: "A new business intelligence report released by Data Bridge Market Research with title “Artificial Intelligence"
-    publishedDateTime: 2022-04-26T05:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-operations-platform-market---global-industry-share-size-growth-demands-revenue-top-leaders-and-forecast-by-2029-2022-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-Enabled Testing Tools Market 2022 | Scope of Current and Future Industry 2030"
     excerpt: "AI-Enabled Testing Tools Market is predicted to be valued at 1.27 Bn in the year 2030 and exhibiting a remarkable 16.9% CAGR during the forecast period 2022-2030. Telecom companies are leveraging the potential of AI to manage and assess big importance of ..."
     publishedDateTime: 2022-04-29T05:25:00Z
@@ -214,15 +200,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 7
-  - title: "Artificial Intelligence Systems Spending Market Outlook, Current and Future Industry Landscape Analysis by 2027"
-    excerpt: "The global artificial intelligence systems spending market is anticipated to soar with a staggering 46.1% CAGR throughout the projection period between 2017 and 2027. The coronavirus pandemic is benefit from the coronavirus outbreak as businesses are remodeling operations to allow employees to work from home."
-    publishedDateTime: 2022-04-26T06:55:00Z
-    webUrl: "https://www.fmiblog.com/2022/04/26/artificial-intelligence-systems-spending-market-outlook-current-and-future-industry-landscape-analysis-by-2027/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "8PBML3Fkopwqv+ZJBGXmoATuXbjFmlbwAIceMif10CIDjDXeU7E/6FdlYjbu0nKwfGv6btGzpnc/OyazFLEgqfosOJSqMqwwnA0K034dLAvmB6i0BU7ZbkotJDm0wVVI+my4nGfs3bLTkaAyC8v4bhJ738uJTbUQ54sD43FNPoTCo7qTkda0J78Sj4zn1ptFafjrTCt0eHzHOobJrOY+e2Bef6ErqN0T+ZXkMK+fnnsZidrTEiTJ1R92ITxLrkLNoVYJxMaWNOkcYiQTAp9NvgmCdnX4zhZqYc/bjD3FTbiMu500ogwa7UAPVdLQSrQZYG8Vx46dXAWVyhgBSJWqpaI7FHf3NhF7va49h0Q8HMY=;uFn4q6t5HzZGV7MiEaWzIg=="
 ---

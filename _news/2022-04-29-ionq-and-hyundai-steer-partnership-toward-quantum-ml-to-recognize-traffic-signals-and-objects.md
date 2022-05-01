@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/04/29/ionq-and-hyunda
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/04/29/ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects/amp/"
 type: article
 quality: 95
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 650
     isCached: true
-
-related:
-  - title: "Hyundai Motor and IonQ partner to use Quantum Computing for object detection"
-    excerpt: "The project aims to leverage quantum machine learning to improve the computation process for tasks like road sign image classification and simulation in a real-world test environment, with the goal of expanding to 3D object detection."
-    publishedDateTime: 2022-04-26T06:42:00Z
-    webUrl: "https://www.financialexpress.com/auto/car-news/hyundai-motor-and-ionq-partner-to-use-quantum-computing-for-object-detection/2503711/"
-    ampWebUrl: "https://www.financialexpress.com/auto/car-news/hyundai-motor-and-ionq-partner-to-use-quantum-computing-for-object-detection/2503711/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/hyundai-motor-and-ionq-partner-to-use-quantum-computing-for-object-detection/2503711/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 56
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/04/Hyundai-IonQ.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "X2GgJ/LgFEiNlP5TYzu9j71nwy2nLqNL9Gale92A0lgot472e+xPswWffdNf7mh/EXU8DeVvsv+7KX6rraFsLbKgFMUo6ent4fScg2y7UBVxkEThGqGDnJgrvAbuHUSVA7ypUVn5hZ0uEESkV6ZKAOiVOUBYwZOvF3UVIN3BzavzedMq8xcVKgG9EtlyhP+FtCmdvzM3SIvXo9vqlDMuZj/y8l7owMrFgc2OYgO1PmYPe2iWWZFzIeXLTca8/NZZjCHy/m6zXkDScX0JEVv7/ui8pPPIggBDobWjxUsN01UP0stjt3uiiZy/MPL9sbg8OUTTnC9874mRTD1fMXt754i1t4ltdi3yunaetjgH9TXjOBZm/wnzPLFoOF7mN1jVT2nasRdx9EBUF2ThHCv/sPJol9+rikP+h4JzjcEx6LNBvhbfY+W8HGETSzyBpekvxEJMmu9I3fkMiQHXI09cNZIWKeIslVGY5tOp0KFmQUsdhfRbkVfW11f8Vt9Ez6pXpTG9HFnU6GYFQ/Q+Q7laTA==;csehA6WdzWpMJ1Voy/WDEg=="
 ---

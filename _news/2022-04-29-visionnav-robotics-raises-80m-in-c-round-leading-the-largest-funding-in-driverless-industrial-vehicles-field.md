@@ -1,32 +1,28 @@
 ---
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-publishedDateTime: 2022-04-29T12:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
-webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+publishedDateTime: 2022-04-29T12:01:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
 type: article
-quality: 96
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
+  - AI in Autos
 
 images:
-  - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
-    width: 400
-    height: 215
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -105,22 +101,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220428&t=2&i=1598165644&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI3R033"
         width: 810
         height: 553
-        isCached: true
-  - title: "Pony.ai to Launch Fleet of Robotaxis with Ontime..."
-    excerpt: "GAC is one of China's largest automakers and a longtime Pony.ai partner Introduces Pony.ai's partnership approach to commercializing robotaxis and strengthens Pony.ai's significant leadership in the G"
-    publishedDateTime: 2022-04-26T06:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26805079/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gacs-ride-hailing-app-in-guangzhou-in-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26805079"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26805079"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Baidu, Pony.ai first to receive driverless taxi permits in Beijing"
     excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
@@ -264,7 +244,7 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
     type: article
     provider:
       name: The Financial Times
@@ -283,20 +263,6 @@ related:
       - url: "https://img.futurecar.com/202204/26/l_62680d03d2b57.png"
         width: 800
         height: 505
-        isCached: true
-  - title: "Pony.ai to Launch Fleet of Robotaxis with Ontime, GAC’s ride-hailing app, in Guangzhou in 2022"
-    excerpt: "Pony.ai, the leading global autonomous driving technology company, today announced a deeper partnership with Ontime, GAC’s ride-hailing app. As part of the partnership, Pony.ai will integrate its virtual driver technology into GAC vehicles,"
-    publishedDateTime: 2022-04-26T06:32:00Z
-    webUrl: "https://www.eagletribune.com/region/pony-ai-to-launch-fleet-of-robotaxis-with-ontime-gac-s-ride-hailing-app-in/article_0d4664bc-c5fe-52ef-9efd-6a7a4ebde544.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 25
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/e8/ae895490-7b1e-5760-9900-ca3ecc821a9b/626792bb5fbd2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Ditch the driver: U.S. and China race to make self-driving taxis a reality"
     excerpt: "China has passed a major mile marker on the road to commercializing self-driving technology: On Thursday, Beijing granted internet giant Baidu the country's first license to operate fully autonomous taxi services."
@@ -341,6 +307,6 @@ related:
         height: 720
         isCached: true
 
-secured: "NXASJpawRP6vFXElhmhuwpHo0bDk3zxiucC5IA8+C1o7h9123REh0sroo48sj/Q0ha24PsRjBCIZyDQ2I/lUKX93q3Ydq9JxAd+VeSGprtLiMTUbHj8BoYyE7OjPW7+qIIEKNB1GY0h2TZ7q6Rvaes+CipHA+859j8zLdcVcSg/cBO+3TZTVqIueojvQG7fogi0wXBIb9b134AMBuZ4Hskg4q+TYsvjPMpACbTrBH5o6+vy3k7lu74kmV8tBz3qmq8wSct/s90AGg2Mys+Es9geExIcrakzeg/oxQkQhpCl+xwHpwF5cLgFhl944OoOx+UEmQDP5SBxCp11jg/6DHRxjtpPkCtZgxOrczVjroDg=;jogVBPlEegkI5Wwm8U24Qw=="
+secured: "5vPZqUF7V3ubgh5D5iheY+XJ2/NUcJhaXqT8wKvOIWRDZnQQlT6JB2Dr2gFAwSpJV+bFWi/iDaXsrdJRP5fwl2PJJo4aqfDhi0TpGM1I8P+j1nmqVaFwOljn+7uj6TgqwVsrzy8/MpRejQmuBb5dRepff5p6m8pBxjN7F9gtYZzfECOFL9KCb9KoUXN/cw6rD7dbouw4L5mCGsgmMm4qmHo3kFr8z4hDeAnC4Vd5ViaMxwPTE5DlteB2tO3NKw7a7sPGY36hF3i5XZCZJBTPl/dJ0fvHHsfADJVVCqZtNcxX35O8ZTkRkvmuJpddvhixbNVgrcQhWQc1c7zrlxsSDvrXVcfgZ9aZPqMQW3/z0xo=;E/swAgOUlCLG0KlkH4Wz1Q=="
 ---
 

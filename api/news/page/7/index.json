@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-22-canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto.md",
+      "title": "Canadian government invests in woman-led, sustainable AI company in Toronto",
+      "excerpt": "The Federal Economic Development Agency for Southern Ontario (FedDev Ontario) today announced an investment of over C$5.7 million in Canvass Analytics Inc. (Canvass AI) a woman-led artificial intelligence (AI) company whose mission is to make AI easy-to-use so that the industrial sector can accelerate its transformation into a profitable and environmentally sustainable industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691",
+      "originalUrl": "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/04/canvass_logo_square.png",
+          "width": 520,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1",
+      "publishedDateTime": "2022-04-22T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-mobileye-founder-tapped-for-automotive-hall-of-fame-innovator-award.md",
       "title": "Mobileye Founder Tapped for Automotive Hall of Fame Innovator Award",
       "excerpt": "Mobileye CEO Amnon Shashua, a pioneer in artificial intelligence and self-driving vehicle technology, is being honored by Automotive Hall of Fame. He’s been named the 2022 Mobility Innovator Award winner.",
@@ -237,19 +279,19 @@
     {
       "path": "_news/2022-04-22-artificial-intelligence-helps-physicians-better-assess-the-effectiveness-of-bladder-cancer-treatment.md",
       "title": "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment",
-      "excerpt": "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery).",
+      "excerpt": "In a small but multi-institutional study, an artificial intelligence-based system improved providers’ assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery).",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.html",
+      "webUrl": "https://www.eurekalert.org/news-releases/950470",
+      "originalUrl": "https://www.eurekalert.org/news-releases/950470",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-29.jpg",
-          "width": 850,
-          "height": 478,
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c08c8650-3d30-4682-9cee-cbd963f2cce4/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -257,13 +299,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-physicians-effectiveness-bladder.amp",
-      "publishedDateTime": "2022-04-22T02:18:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T02:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1088,57 +1130,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-northwestern-mutual-ceo-advises-business-leaders-embrace-the-ai-change.md",
-      "title": "Northwestern Mutual CEO Advises Business Leaders: \"Embrace the AI Change\"",
-      "excerpt": "CEO John Schlifske says AI drives growth: \"It's faster, more effective and leads to better outcomes.\"",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/Northwestern-Mutual-CEO-Advises-Business-Leaders-Embrace-the-AI-Change/f2ce9909-9cd6-4920-9fac-df41701e4d8a",
-      "originalUrl": "https://fortune.com/videos/watch/Northwestern-Mutual-CEO-Advises-Business-Leaders-Embrace-the-AI-Change/f2ce9909-9cd6-4920-9fac-df41701e4d8a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/f2ce9909-9cd6-4920-9fac-df41701e4d8a/Images/posterImage-ver2-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/northwestern-mutual-ceo-advises-business-leaders%3A-%22embrace-the-ai-change%22/f2ce9909-9cd6-4920-9fac-df41701e4d8a/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/northwestern-mutual-ceo-advises-business-leaders%3A-%22embrace-the-ai-change%22/f2ce9909-9cd6-4920-9fac-df41701e4d8a/amp",
-      "publishedDateTime": "2022-04-21T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
