@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "oaknorth"
   url: "https://twitter.com/oaknorth"
-  followers: 1039
+  followers: 1041
 
 size: 501-1,000 employees
 yearFounded: 2015
