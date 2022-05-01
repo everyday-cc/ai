@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Aurora Serverless v2"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today at AWS Summit San Francisco announced the general availability of Amazon Aurora Serverless v2, the next generation of Amazon Aurora Serverless that automatically scales to hundreds of thousands of transactions in a fraction of a second to support even the most demanding applications."
+excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
 publishedDateTime: 2022-04-21T17:49:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-san-francisco-amazoncom-inc-af93326c0d934a32be5461248ac2b496"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-san-francisco-amazoncom-inc-af93326c0d934a32be5461248ac2b496"
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26746332/aws-announces-general-availability-of-amazon-aurora-serverless-v2"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/b26746332/aws-announces-general-availability-of-amazon-aurora-serverless-v2"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "ZIgq4JEHBX54fItF447LU+mILF5O2kjVoYyCgs+NZHo6yuSaSJ17OavQudBLBwbfFWrddOPOB3C+rJbQEk+MoX6gxEV6pCuZ4yZgZwhDOMQHgk+EjBzEx8XKxLuG1cOWOE1ttKpxfEXx1vXgHPIp6kb6oOJXvFh9DV+E1Bv3AKIDSS4dTvuUdkZJ1RPUcmZDob04Dxd3MdbRS9/UO8nygsSoVOAP/iGDze4/SlMRsfemuLCZVhoK6eqEDU2dmX1e0WrgRXEygIeKbFiCYIY1h2Snl/U+dZdEJsSfOujMoAnMwrbk90Uu2nhOlv7TJ5JRXvF9Ks4/Qw5Ki/Si8bh7aV6Omj+vtk4m6sskmwrNNP4=;8Cy40O2uztFVWuLrgmszSw=="
+secured: "kYpui5zlrImOf2k6jzUYULPaEhaknxds6bT5VleHYF9KCbPnFtevj6krBcJuknIJtuVW82v++WccrfMVlbcf6OLA3E/fXu/f5C0eLGTjAGQlIG6bQDAIdl8h8BzN1wE4drpA96EyN0x1xDam+8RavzgWkpN2XqWZo5hzRrFcoDXunl3fJnA3xFtsD0u/WHoetsQAzKRbZWwKsE0JnWH8autDd2CxC2K/tsKQ4P5I95LqvA4ambIk4ZLEiT/OjpXgri5o8DjOFkOavlWcpj9ONZAs27hqYW9KNMfwfq9XMpL3ElJWr26Xms4oviuzehYuMIPKTsHrkKu8wc089OaJgCmCn28KUfLzWyMTMtwKbxG20f/kJBWa1nxxc3x+YLrD7Wt2WenjU5sd3Ozs8kHqe9QgTg7FtQ3eUjQwAjq9bRAdXsqWKICeY5yaFfy1k3hD3y3rRDMtjf3lC1Ltsh5YF+0FdzhmNaC0Jv4pLqFm0XaGgTPeNd1JtqW44yaIwxeEUQGItEpng2661VaM1vI3IA==;gDrtj2vblOHhw63/I3FOcA=="
 ---
 
