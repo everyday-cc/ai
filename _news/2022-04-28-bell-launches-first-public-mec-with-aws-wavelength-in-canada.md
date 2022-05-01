@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bell and Amazon Web Services bring 5G Edge Compute to Canada"
-    excerpt: "Bell extends its 5G leadership by deploying the first AWS Wavelength Zone at the edge of Canada's most awarded and fastest-ranked 5G network. MONTRÉAL, April 26, 2022 /CNW Telbec"
-    publishedDateTime: 2022-04-26T15:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bell-amazon-web-services-bring-5g-edge-compute-/2022/04/26/9589987.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1804997/Bell_Canada_Bell_and_Amazon_Web_Services_bring_5G_Edge_Compute_t.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Bell announces the first AWS Wavelength Zone in Canada"
     excerpt: "with AWS Wavelength embeds AWS compute and storage services at the edge of the Bell 5G network. The service targets 5G applications including visual data processing, AR/VR, artificial intelligence, and robotics, in industries such as manufacturing ..."
     publishedDateTime: 2022-04-28T19:25:00Z

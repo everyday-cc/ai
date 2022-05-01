@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "AI may detect earliest signs of pancreatic cancer"
-    excerpt: "\"This AI tool was able to capture and quantify very subtle, early signs of pancreatic ductal adenocarcinoma in CT scans years before occurrence of the disease. These are signs that the human eye ..."
-    publishedDateTime: 2022-04-26T15:40:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/reversingcan.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "AI tool could capture subtle, early signs of pancreatic cancer in CT scans"
     excerpt: "An artificial intelligence (AI) tool developed by Cedars-Sinai investigators accurately predicted who would develop pancreatic cancer based on what their CT scan images looked like years prior to being diagnosed with the disease."
     publishedDateTime: 2022-04-27T01:47:00Z

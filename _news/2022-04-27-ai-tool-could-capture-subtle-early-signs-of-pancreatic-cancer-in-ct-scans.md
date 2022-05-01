@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220426/AI-tool-could-capture
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220426/AI-tool-could-capture-subtle-early-signs-of-pancreatic-cancer-in-CT-scans.aspx"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI may detect earliest signs of pancreatic cancer"
-    excerpt: "\"This AI tool was able to capture and quantify very subtle, early signs of pancreatic ductal adenocarcinoma in CT scans years before occurrence of the disease. These are signs that the human eye ..."
-    publishedDateTime: 2022-04-26T15:40:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-earliest-pancreatic-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/reversingcan.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "AI may detect earliest signs of pancreatic cancer"
     excerpt: "An artificial intelligence (AI) tool can accurately predicted who would develop pancreatic cancer based on what their CT scan images looked like years prior to being diagnosed with the disease. The findings may help prevent death through early detection of one of the most challenging cancers to treat."
     publishedDateTime: 2022-04-26T20:34:00Z

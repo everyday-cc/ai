@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/amp/"
 type: article
 quality: 104
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -63,34 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-    publishedDateTime: 2022-04-29T12:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
-        width: 400
-        height: 215
-        isCached: true
-  - title: "Pony.ai to launch robotaxi fleet in Guangzhou, China"
-    excerpt: "Pony.ai will integrate its autonomous technology into GAC vehicles, which can be hailed using Ontime's platform or Pony.ai's PonyPilot+ app."
-    publishedDateTime: 2022-04-26T15:10:00Z
-    webUrl: "https://www.therobotreport.com/pony-ai-to-launch-robotaxi-fleet-in-guangzhou/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-pony-ai.jpg"
-        width: 770
-        height: 500
-        isCached: true
   - title: "Beijing grants Baidu, Pony.ai new driverless robotaxi permits"
     excerpt: "FILE PHOTO: A logo of Pony.ai is seen on a Lexus vehicle equipped with the company's autonomous driving system, which will serve as a robotaxi, in Beijing, China May 13, 2021. REUTERS/Tingshu Wang HONG KONG (Reuters) - UBS Group's China country head David ..."
     publishedDateTime: 2022-04-28T05:27:00Z
@@ -121,6 +93,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+    publishedDateTime: 2022-04-29T12:01:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 66
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
     publishedDateTime: 2022-04-28T12:34:00Z
@@ -150,6 +136,20 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Baidu and Pony.ai become first robotaxi services to operate without safety drivers in Beijing"
+    excerpt: "Baidu and Pony.ai have been given permission to operate their autonomous vehicles without safety drivers in Beijing, a first for robotaxi services in China (via CNBC). Although both companies now no longer need a staff member in the driver’s seat ..."
+    publishedDateTime: 2022-04-30T17:22:00Z
+    webUrl: "https://www.theverge.com/2022/4/30/23050493/baidu-pony-ai-first-robotaxi-services-operate-without-safety-drivers-beijing-china"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 56
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/d1c_0h9xpKmxVJOGcXaYX-YMwW8=/0x152:2110x1257/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23428528/Baidu_Apollo_Autonomous_Driving_Car_Open_Roads_Beijing.jpeg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Baidu Leads Years-Long Race for First Driverless Taxis in China"
     excerpt: "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous ... Back in 2020, Google-owned Waymo opened its fully driverless ride-hailing service to the public in Phoenix, but Wei said the traffic ..."
@@ -219,26 +219,12 @@ related:
   - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
     excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
     publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
     type: article
     provider:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Pony.ai to Launch Robotaxis in China With Ontime, the Ride-Hailing App of Automaker GAC Group"
-    excerpt: "Autonomous driving technology developer Pony.ai is expanding its presence in China in a new partnership with automaker GAC, which is China’s fifth largest carmaker and a longtime Pony.ai partner. As part of the close collaboration with GAC,"
-    publishedDateTime: 2022-04-26T15:30:00Z
-    webUrl: "https://www.futurecar.com/5367/Ponyai-to-Launch-Robotaxis-in-China-With-Ontime-the-Ride-Hailing-App-of-Automaker-GAC-Group"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 28
-    images:
-      - url: "https://img.futurecar.com/202204/26/l_62680d03d2b57.png"
-        width: 800
-        height: 505
-        isCached: true
   - title: "Ditch the driver: U.S. and China race to make self-driving taxis a reality"
     excerpt: "China has passed a major mile marker on the road to commercializing self-driving technology: On Thursday, Beijing granted internet giant Baidu the country's first license to operate fully autonomous taxi services."
     publishedDateTime: 2022-04-28T21:00:00Z

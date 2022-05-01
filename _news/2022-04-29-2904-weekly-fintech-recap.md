@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/artificial-intelligence/2904-weekly-f
 webUrl: "https://financialit.net/news/artificial-intelligence/2904-weekly-fintech-recap"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "OriginClear to Launch Water On Demand Fintech Startup"
-    excerpt: "Program brings relief to underserved businesses needing their own water treatment.CLEARWATER, Fla.--(BUSINESS WIRE)--$OCLN #cleanwater--OriginClear Inc. (OTC Pink: OCLN), a leader in clean water innovation,"
-    publishedDateTime: 2022-04-26T15:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=652928"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "kDmoZZpxmojXuUFq8bSCUJ6bjPVhotAMqg6uae/0gXhHdh+pdUoAd53GlXeDUGb9kb6lusZL7VXHxU/l7xqVoW4PHeqhegVWrx7qyWrpEPz6RtROhqGWJ+RmbjRJCzG6d8M4kZ0ChBzRVFP/Y2KTH94NLyW9LxfoO+ghkmCBLK+Dn2T07SJD/QXdWyiUHkPq3YCHWAoX5M4PHQyuAKJLM2RjeA/08+jmc8cjuHqaU3e3W/lfv0RpadtmdpC1+t4/2AfudewAmPIl2EEkjqFh1lty2LN5laNREE8bQ2C59LHKetOX8fklYM/5uAODoOqXHNJcKrbS4Nu2zjdlrcyG+FnTBd1Rh247HgUNatpEVj0=;ZFeeTgx84eRwACb03iqWdw=="
 ---

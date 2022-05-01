@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Pointivo's AI-Powered Analytics Platform Reduces Timeline to Complete Tower Mount Mapping By Up To 90%"
-    excerpt: "Company leverages innovative technology and extensive data catalog to quickly and accurately complete tower mount mapping and analysisATLANTA,"
-    publishedDateTime: 2022-04-26T15:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pointivo-s-ai-powered-analytics-platform-reduces-timeline-to-complete-tower-mount-mapping-by-up-to-90-1031385683"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/1801141/Mount_Mapping_Final.jpg"
-        width: 400
-        height: 228
-        isCached: true
   - title: "Control Risks Taps Reveal-Brainspace to Bolster its Suite of Analytics, AI and Machine Learning ..."
     excerpt: "Control Risks, the specialist risk consultancy, today announced it is expanding its technology offering with Reveal, the global provider of the leading"
     publishedDateTime: 2022-04-27T14:00:00Z

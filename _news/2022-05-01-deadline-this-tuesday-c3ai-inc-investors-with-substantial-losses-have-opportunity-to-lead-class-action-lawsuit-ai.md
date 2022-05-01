@@ -27,20 +27,6 @@ images:
 
 related:
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-    excerpt: "The complaint filed alleges that, throughout the Class Period, Defendants failed to disclose to investors that: (1) C3.ai's partnership with Baker Hughes was deteriorating; (2) C3.ai was ..."
-    publishedDateTime: 2022-04-26T15:50:00Z
-    webUrl: "https://fox8.com/business/press-releases/cision/20220426LA35954/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
-    type: article
-    provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 35
-    images:
-      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-        width: 800
-        height: 340
-        isCached: true
-  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
     excerpt: "The complaint filed alleges that, throughout the Class Period, Defendants failed to disclose to investors that: (1) C3.ai's partnership with Baker Hughes was deteriorating; (2) C3.ai was employing a flawed accounting methodology to conceal the deterioration of its Baker Hughes partnership;"
     publishedDateTime: 2022-04-26T18:00:00Z
     webUrl: "https://ktla.com/business/press-releases/cision/20220426LA35954/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
@@ -96,6 +82,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "KrQgcswaVA/gXYLTvqgIAZCIoqaJGwfHm1C7ltWF1VvlPkc+CG2UCjpLscy7b19Wict6vy1JUUnmMMb6g6IQGf0hX6NF9pHFPTQjrcWFukeJGtv9WPpD8EMjaUEpwPgF0geNgFOsrj9DwxJVdZc0v6k/SKU8pzEvAWrabN/eRZPI9X0+wSspur6cD7W2ZMdGyTVdrl+NV4I0kX9kKvZdwsn+gSXf6XJe0+cJ+wzyauvNKjWrpwzr9zpuRYbxirmZMlPaPTZnbOIsPDaeiYQosEREjveuFxrGbakCCT4hbQkcqlZRgnThXhz8RREm3ngbM0cf373whYZzlM7liKuX7m+gkdkxvvcOic+u3LLbtvc=;dHDlUdK29y9AHhEkGWJ01g=="
+secured: "n63wJdSqPwX+VmYOxoKCFeGhcDPJp7KYYBNodVEdtbeUWMzjbZgeUAtZHhXWSAHENRHzL7R7n3ecLObnsTof7XVTCbozrtuE7lCqMweFdb1U1qcfKSzf55QeUiDSAQhn8yENmvECX0YDRsJ6c3ndMBcvq1wIFiL35fevawJAewRFahXGg2VFM1VpxJYUBNhvzwnUwrr1VfPu6qQwMVhwpIQduxA7JVuZj06J5l04Mz22Df7Wl0yKPzCrPVBzQ0/AXr4Y3t/qFvtUEwzGaGx86roteQpfOdgPm4LbZ7Xr1OKmCLP18WEAl5xz3atMD2Zg4Sp9isXHVaQhYEBY1vJd34IYZ4WU81YNaqpIspcuJUYQBjKqUrkpLI0FKajSWsEpSYZJZOLFfxwG9rgl3n+0cwD/bneEJX1I3HtdOoPxUZr4SxUkDu1WEZqFHfQChiqXun5GRBBqj/RgLEMwuNbFr6CIXsO/eJUMI4Z7wl+cRLhAAyelxsttJ9ldLcIkinUEBO81zlc+dPDYggY2PwE1pQ==;S1Qm2G/BK5Uh/Jjf/EEHNQ=="
 ---
 

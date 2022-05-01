@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 99
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: AWS
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Part 3: How NatWest Group built auditable, reproducible, and explainable ML models with Amazon SageMaker"
-    excerpt: "This is the third post of a four-part series detailing how NatWest Group, a major financial services institution, partnered with AWS Professional Services to build a new machine learning operations (MLOps) platform. This post is intended for data scientists, MLOps engineers, and data engineers who are"
-    publishedDateTime: 2022-04-26T15:17:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/22/Featured-images-for-ML-8228.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Part 4: How NatWest Group migrated ML models to Amazon SageMaker architectures"
-    excerpt: "The adoption of AWS cloud technology at NatWest Group means moving our machine learning (ML) workloads to a more robust and scalable solution, while reducing our time-to-live to deliver the best products and services for our customers. In this cloud adoption journey, we selected the Customer Lifetime"
-    publishedDateTime: 2022-04-26T15:17:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-4-how-natwest-group-migrated-ml-models-to-amazon-sagemaker-architectures/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 102
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/22/Featured-images-for-ML-8402.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Identify paraphrased text with Hugging Face on Amazon SageMaker"
     excerpt: "Identifying paraphrased text has business value in many use cases. For example, by identifying sentence paraphrases, a text summarization system could remove redundant information. Another application is to identify plagiarized documents. In this post, we fine-tune a Hugging Face transformer on Amazon"
     publishedDateTime: 2022-04-28T16:56:28Z
@@ -71,47 +43,33 @@ related:
         width: 415
         height: 281
         isCached: true
-  - title: "Create random and stratified samples of data with Amazon SageMaker Data Wrangler"
-    excerpt: "In this post, we walk you through two sampling techniques in Amazon SageMaker Data Wrangler so you can quickly create processing workflows for your data. We cover both random sampling and stratified sampling techniques to help you sample your data based on your specific requirements. Data Wrangler reduces"
-    publishedDateTime: 2022-04-26T16:02:16Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-random-and-stratified-samples-of-data-with-amazon-sagemaker-data-wrangler/"
+  - title: "How Moovit turns data into insights to help passengers avoid delays using Apache Airflow and Amazon SageMaker"
+    excerpt: "This is a guest post by Moovit’s Software and Cloud Architect, Sharon Dahan. Moovit, an Intel company, is a leading Mobility as a Service (MaaS) solutions provider and creator of the top urban mobility app. Moovit serves over 1.3 billion riders in 3,500 cities around the world. We help people everywhere"
+    publishedDateTime: 2022-04-28T16:45:49Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-moovit-turns-data-into-insights-to-help-passengers-avoid-delays-using-apache-airflow-and-amazon-sagemaker/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 84
+    quality: 85
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/random-stratified-data-samples.jpg"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/19/ai_lake_architecture-whitebackground-696x630.png"
+        width: 696
+        height: 630
+        isCached: true
+  - title: "How Searchmetrics uses Amazon SageMaker to automatically find relevant keywords and make their human analysts 20% faster"
+    excerpt: "Searchmetrics is a global provider of search data, software, and consulting solutions, helping customers turn search data into unique business insights. To date, Searchmetrics has helped more than 1,000 companies such as McKinsey &amp; Company, Lowe’s, and AXA find an advantage in the hyper-competitive"
+    publishedDateTime: 2022-04-28T17:33:57Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-searchmetrics-uses-amazon-sagemaker-to-automatically-find-relevant-keywords-and-make-their-human-analysts-20-faster/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 64
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/searchmetrics-sagemaker.jpg"
         width: 1000
-        height: 501
-        isCached: true
-  - title: "Part 1: How NatWest Group built a scalable, secure, and sustainable MLOps platform"
-    excerpt: "This is the first post of a four-part series detailing how NatWest Group, a major financial services institution, partnered with AWS to build a scalable, secure, and sustainable machine learning operations (MLOps) platform. This initial post provides an overview of the AWS and NatWest Group joint team"
-    publishedDateTime: 2022-04-26T15:17:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-how-natwest-group-built-a-scalable-secure-and-sustainable-mlops-platform/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/22/Featured-images-for-ML-8208.jpg"
-        width: 1536
-        height: 768
-        isCached: true
-  - title: "Part 2: How NatWest Group built a secure, compliant, self-service MLOps platform using AWS Service Catalog and Amazon SageMaker"
-    excerpt: "This is the second post of a four-part series detailing how NatWest Group, a major financial services institution, partnered with AWS Professional Services to build a new machine learning operations (MLOps) platform. In this post, we share how the NatWest Group utilized AWS to enable the self-service"
-    publishedDateTime: 2022-04-26T15:17:16Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-how-natwest-group-built-a-secure-compliant-self-service-mlops-platform-using-aws-service-catalog-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/22/Featured-images-for-ML-8415.jpg"
-        width: 800
-        height: 400
+        height: 499
         isCached: true
 
 secured: "lcb6c4b9sHvZB0VuigCwkEtZXIJJcf9gcDNCy2UL/AMbXRsJAEtNpeQ7ZF18ag2AgTgQGxjkH8Ss5NfZkoCgIOm387anEU0X3upwcV7ami8ztYxjYvSub0M1akIL2q7BWqhkJ8rOH0Rol5w4ohVBcYbRKYP0GH6dA3f7S7NDeNW9gmQRmjNp44hhwk1jqi5hb6stlWuZv4QVY9f7EIbZ0GgUb8zfmiINLtEn4SJR2aieOT5c+GtAnpDluBcqlkhyIQ10X9Pskx6Uj3Ddsr609pBU8Y4PA+N7oM1wa4ootJl+meLl4otq0YUepvimqzeTT1f+SI50rjl/DBrX17z0KH+xbVn3nQo9dvACws70RuA=;Vd0sk28CpnZ8fJvXW6hW6g=="

@@ -103,20 +103,6 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 38
-  - title: "Loris announces $12m Series A to transform AI for customer service"
-    excerpt: "Bow Capital and ServiceNow Ventures invest in Loris to bring no-code AI solutions that assist human agents and conversational insights tools to the mass market. NEW YORK, April 26, 2022 /PRNewswire/ -- Loris,"
-    publishedDateTime: 2022-04-26T16:30:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-3a5c73574e59c8e3c4d86d8c0bac2508"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AI Medical Service Raises US$70M in Series C Financing"
     excerpt: "AI Medical Service, a Tokyo, Japan-based med-tech company using deep learning technology to develop endoscopic AI, raised US$70M in Series C funding"
     publishedDateTime: 2022-04-26T21:45:00Z
