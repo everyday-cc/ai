@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
-    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
-    publishedDateTime: 2022-04-30T20:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26918993/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadl"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26918993"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26918993"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Bronstein, Gewirtz & Grossman, LLC Reminds c3.ai, Inc. (AI) Shareholders of Class Action Deadline and Encourages Investors to Actively Participate"
     excerpt: "Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC notifies investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3” or “the Company”) (NYSE: AI) and certain of its officers, on behalf of all persons and entities that ..."
     publishedDateTime: 2022-04-29T15:02:00Z
@@ -47,6 +31,34 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
         width: 600
         height: 315
+        isCached: true
+  - title: "C3.AI DEADLINE ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action Lawsuit Has Been Filed Against C3.ai, Inc. and Encourages Inve"
+    excerpt: "NEW YORK--(BUSINESS WIRE)--#Action--Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, reminds investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) in the ..."
+    publishedDateTime: 2022-04-29T12:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=655992"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
+    excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-04-30T21:00:00Z
+    webUrl: "https://www.keloland.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
+    type: article
+    provider:
+      name: KELOLAND News
+      domain: keloland.com
+    quality: 0
+    images:
+      - url: "https://www.keloland.com/wp-content/uploads/sites/103/2019/06/KELO-sitelogo.png"
+        width: 800
+        height: 340
         isCached: true
 
 secured: "sDCWoKXbzIWkE1UkSvf6O2VWrYqXA6fkPJiYp4lSjAd/qyarBeB3mglkHdjTN8QdZPByOVw+Pfi5NS8VQ0sK/obsLAzX7lKalx/cSmEU0x4i4AczBjBUK9vx2q2j7v+fM8xeWEAdm2NxT44eMnJ6wNVCytfLTEWiajC0CtPk+R2yL+mYQHDzwk4siOVhqIb8M7S/9uMaXPibMxmTJSTthmGIcEcKNajzbeBwJAdq+/WmTaJbcUOBiW0zABXZywG/p3l+3kSmNYWKpF593/8fhje9i+4N414Jfzi73+iFE0cNGjenwF+NuL25kQBpVPlYlEnDq0wYb1RypqOgWDj6UklFT+FFa+TNDpZxpx6GF+ie6PFT4A6Ta4EkxBCslHFF/s0JBbFG94a7ZUiotR5kKEJ39MEaJ8Jw2x2MrV7xhF52QkBG6q2CEWx1sxN/e1rfIuIpZjwKxE4rbLFQiWnj+hnZhBNjakkwUrIeA4AGatrDSkMIM+0OTxZoWnRIdlZwy+HKECk9F39QsFcQ/C0whQ==;1d9Mh8AZy2+eVhvOE3Lk/A=="

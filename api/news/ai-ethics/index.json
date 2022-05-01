@@ -301,6 +301,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-the-pentagons-new-ai-chief-is-a-former-lyft-executive.md",
+      "title": "The Pentagon's new AI chief is a former Lyft executive",
+      "excerpt": "The Pentagon is still new to wielding artificial intelligence, and it's looking to an outsider for help. Breaking Defense has learned Lyft machine learning head Craig Martell is joining the Defense Department as its Chief Digital and Artificial Intelligence Officer (CDAO).",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/pentagon-hires-lyft-executive-as-ai-chief-194607258.html",
+      "originalUrl": "https://www.engadget.com/pentagon-hires-lyft-executive-as-ai-chief-194607258.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-images/2020-07/a484c910-c861-11ea-bd9d-7a9ce7ea6ff3",
+          "width": 3650,
+          "height": 2433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand.md",
       "title": "Why companies need to get a handle on ethical and responsible AI (VB On-Demand)",
       "excerpt": "As AI is integrated into day-to-day lives, justifiable concerns over its fairness, power, and effects on privacy, speech, and autonomy grow.",
@@ -1421,49 +1473,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-monitaur-releases-ai-governance-platform.md",
-      "title": "Monitaur releases AI governance platform",
-      "excerpt": "73% have struggled to get executive support for efforts to make AI ethics and responsible practices a priority and only 20% actively monitor their models in production for fairness and ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/04/05/576612/",
-      "originalUrl": "https://siliconangle.com/2022/04/05/576612/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2015/04/HAL-9000-computer-from-2001-A-Space-Odyssey.png",
-          "width": 1280,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

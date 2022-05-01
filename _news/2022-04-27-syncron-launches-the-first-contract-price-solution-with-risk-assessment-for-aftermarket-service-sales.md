@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Syncron Launches the First Contract Price Solution with Risk Assessment for Aftermarket Service Sales"
-excerpt: "With advanced machine-learning models predicting service ... purpose-built solution for pricing aftermarket service contracts and mitigating financial risk associated with service variability."
-publishedDateTime: 2022-04-27T14:40:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250269&cat=PRN"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250269&cat=PRN"
+excerpt: "With advanced machine-learning models predicting service costs and calculating risk probability, manufacturers are enabled to optimize service contract pricing and maximize margins"
+publishedDateTime: 2022-04-27T12:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/syncron-launches-the-first-contract-price-solution-with-risk-assessment-for-aftermarket-service-sales/article_a1f14d7f-ea73-5374-bcd5-7dfb4f9511c8.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/syncron-launches-the-first-contract-price-solution-with-risk-assessment-for-aftermarket-service-sales/article_a1f14d7f-ea73-5374-bcd5-7dfb4f9511c8.html"
 type: article
-quality: 6
-heat: -1
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
   - AI in Sales
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/8c/e8ca2e2c-548c-5a3f-89a9-b8982f6f1cba/62693814a91cc.image.jpg?crop=811%2C426%2C594%2C0&resize=811%2C426&order=crop%2Cresize"
+    width: 811
+    height: 426
+    isCached: true
 
 related:
   - title: "Syncron Launches the First Contract Price Solution with Risk Assessment for Aftermarket Service Sales"
@@ -32,6 +38,6 @@ related:
       domain: finanzen.at
     quality: 26
 
-secured: "Ti8mOgLipTm8YAw7xUSy/LlFh+h5txs5gJhxDkpMa1suH0vPwiPN5o8/KPWu7BWO/oAbw654oSBMLho1Y5l6GglHKYMXiSuvEQoZBu+2JYB3EekntCmpzFGb/+8B2S8pUuCepKGHufjbJzwSQ3MwVrYIF+VdOoLlacMCA+kbN4+6b/oiJuHRV7lmOobduyUxD4ROX8oX5Kvqi//G31vhkshPEC0jx3s3dB5uusWk/SQzQvpdRWPbFAmPrZLv0ZdJb9Omh6fuTUodmxCxQB0HRZayAAaP+tUxTZAPv01cZemMijxizQPb83prp2PvXdzxw1BdGAP5A1yKyBp+rto7Y0cl1iVOYpP0BTTy7ofPUUs=;PwLPkdnVFlSFCBujYSq4tA=="
+secured: "TvUiao5WbgB953JTcupZIACVLs2HyLlHwjZZXwrhFtbU+T3CBmkRvKtu0Wgoj6OCKPYirf0OUUm1KFK815IqXLSRhSnkCR3nxLxV/lrzfK9211wheDkgpeE/zpxmfdVOjl4evEsbrYVixhcjV0rNB5d2wlCQv8SfRXN33Zo8daZ5dGIPrGrcwOCmq/dVEQQmbqEi1JNnYApsMPeLIRQbuFUllSfv1fUoBwG7bIqpSslTpMBp3qeZ8n92AMRRFFBselZqIVbAd2yZRO0wTSLsikwqmujDSi+zubC3j+G6Hx6ASXlcWLRLhLcvoengHDMOMfAw9A7a/eAeUjF5PliJjDD3HwfTbZIaYx9piaYu1gU=;0oGWaD5PNr53Jh/tVQ8nPw=="
 ---
 

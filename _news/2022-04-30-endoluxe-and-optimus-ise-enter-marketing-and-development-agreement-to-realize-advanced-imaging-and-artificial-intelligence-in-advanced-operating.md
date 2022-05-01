@@ -54,20 +54,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "IC design houses keen on incorporating AI into edge computing solutions"
-    excerpt: "With edge computing gaining importance in the proliferating of 5G and AIoT applications, IC design houses in Taiwan are incorporating AI algorithms into chip solutions for all edge computing devices to boost their product performance and keep up with the market trend,"
-    publishedDateTime: 2022-04-26T07:09:00Z
-    webUrl: "https://digitimes.com/news/a20220426PD207/ai-ic-design.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220426pd207_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "AtScale Announces John Langton as Vice President of AI Engineering"
     excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced the appointment of John Langton as vice president of AI engineering. John joins the AtScale executive team to lead ..."
     publishedDateTime: 2022-04-29T12:57:00Z

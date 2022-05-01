@@ -7,8 +7,8 @@ originalUrl: "https://www.cioapplications.com/news/top-applications-of-machine-l
 webUrl: "https://www.cioapplications.com/news/top-applications-of-machine-learning-in-the-healthcare-sector-nid-9775.html"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: CIO Applications
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is helping the supply chains in the healthcare sector"
-    excerpt: "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to c.."
-    publishedDateTime: 2022-04-26T08:15:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91092925,imgsize-11528,width-1200,height-628,overlay-ethealthworld/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI Making Groundbreaking Changes in the Healthcare Sector"
     excerpt: "Fremont, CA: Artificial intelligence is transforming our lives in a variety of ways, none more so than in the healthcare industry. For instance, there has been an explosion of innovation in digital healthcare technologies over the last decade. Medical ..."
     publishedDateTime: 2022-04-29T00:00:00Z
@@ -56,19 +40,19 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "How Advanced Technology Trends are Reshaping Healthcare Sector"
-    excerpt: "Diagnostics, therapy management, and other aspects of healthcare are altered due to AI advancements. Fremont, CA: Artificial intelligence has carved out a strong presence in human civilization and our daily lives during the last two decades. Most of us are ..."
-    publishedDateTime: 2022-04-29T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/how-advanced-technology-trends-are-reshaping-healthcare-sector-nid-9815.html"
+  - title: "Solving low rates of machine utilization in the metal fabrication shop"
+    excerpt: "The metal fabrication shop has evolved. It isn't enough that press brakes and laser cutters are simply running or not running. Machines are increasingly connected, and monitoring platforms help fabricators identify what’s really happening on the shop floor."
+    publishedDateTime: 2022-04-26T12:00:00Z
+    webUrl: "https://www.thefabricator.com/thefabricator/article/cadcamsoftware/solving-low-rates-of-machine-utilization-in-the-metal-fabrication-shop"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
+      name: The Fabricator
+      domain: thefabricator.com
+    quality: 24
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/14dbeUntitled-450.jpg"
-        width: 450
-        height: 308
+      - url: "https://cdn.thefabricator.com/a/why-machine-utilization-in-manufacturing-is-low-and-shops-should-be-better-connected-1650954841.jpg"
+        width: 1000
+        height: 698
         isCached: true
 
 secured: "K3vB1oOEqdI3/TTqFosryjx36enjHBPRcVD8O1gJM+Lmg9GxQAEbdIOFuxtmongYz+7V9cyr5Hrc/VXduYcphpKHVX84LCqw/b2T9+txxdxKjb7UiVxLzDHHFQ1c7QSJDJl+6j3RZkKcTPBsL8hZxMvegebvszFr65LHWsH1X6WGjF8Ap0bz/gzr/s7zF6PH1iSdK4RUUoWi+BeC5A2WBknIwMNFSx6vhM7y+EPcXw4xuFzemvUJ3jA5yOxAcLx2PBp/pkn6GY+TB47GZkiZcAqtR2bsBG44InfmzTRuYETN740oGgfgXPffQzcK0uSn6z4LSfQeyF+b61a2Kj5H0ZN0BqFKqm6NOKjCsW3U/0bpCRlEFz5QP94MPMV6r+/vz6lEpV+iI/U+dA4whNxV5YQf1MHFacx6ooGRlQA7mcW6od0G6UUIEKMjOgsLgQGrbrSX/xBhAvwBs1q77ElMhTR7fiW0w2SMVTaX4dNKsXvQ2pOvn195Y8xhy6OufIa1nq6OfApJvx4z4DhFDUlpRg==;NQ7jZxM0MO2Leh+enFNCPw=="

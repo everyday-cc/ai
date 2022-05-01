@@ -46,20 +46,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "IC design houses keen on incorporating AI into edge computing solutions"
-    excerpt: "With edge computing gaining importance in the proliferating of 5G and AIoT applications, IC design houses in Taiwan are incorporating AI algorithms into chip solutions for all edge computing devices to boost their product performance and keep up with the market trend,"
-    publishedDateTime: 2022-04-26T07:09:00Z
-    webUrl: "https://digitimes.com/news/a20220426PD207/ai-ic-design.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220426pd207_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Endoluxe and Optimus-ISE Enter Marketing and Development Agreement to Realize Advanced Imaging and Artificial Intelligence in Advanced Operating Rooms"
     excerpt: "Endoluxe and Optimus-ISE are proud to announce that they have entered into a co-marketing and development agreement to realize the advanced technology synergies of both organizations. With Optimus-ISE focused on safer, more efficient, and improved ..."
     publishedDateTime: 2022-04-29T19:23:00Z

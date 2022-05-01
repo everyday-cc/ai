@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-06-monitaur-releases-ai-governance-platform.md",
+      "title": "Monitaur releases AI governance platform",
+      "excerpt": "73% have struggled to get executive support for efforts to make AI ethics and responsible practices a priority and only 20% actively monitor their models in production for fairness and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/04/05/576612/",
+      "originalUrl": "https://siliconangle.com/2022/04/05/576612/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2015/04/HAL-9000-computer-from-2001-A-Space-Odyssey.png",
+          "width": 1280,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-from-autonomous-cars-to-autonomous-weapons-the-ai-ethics-issues-cant-be-ignored.md",
       "title": "From autonomous cars to autonomous weapons, the AI ethics issues can't be ignored",
       "excerpt": "Autonomous technology is racing towards us. But whether its autonomous cars or autonomous weapons, there are serious questions. This is where AI ethics comes to a head.",
@@ -1345,40 +1388,6 @@
       "provider": {
         "name": "Princeton University",
         "domain": "princeton.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-ai-ethics-a-new-beginning.md",
-      "title": "AI Ethics: A New Beginning",
-      "excerpt": "The Institute for Ethics in AI, part of the Philosophy Faculty here at the University, brings together world-leading philosophers, and other experts in the field of the humanities, with those developing and using artificial intelligence in the arenas of academia,",
-      "sourceUrl": null,
-      "webUrl": "https://cherwell.org/2022/03/13/ai-ethics/",
-      "originalUrl": "https://cherwell.org/2022/03/13/ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-13T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cherwell Online",
-        "domain": "cherwell.org",
         "images": null,
         "publishers": null,
         "authors": null

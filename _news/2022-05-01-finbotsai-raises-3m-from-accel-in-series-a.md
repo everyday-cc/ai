@@ -50,15 +50,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
-    excerpt: "Led by 468 Capital, the investment will drive team and product growth to further establish Synthesis AI as the leader in synthetic dataSAN"
-    publishedDateTime: 2022-04-28T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Finbots.AI raises Series A funding for AI credit risk platform"
     excerpt: "Singaporean AI-powered credit risk specialist company Finbots.AI has raised $3 million in Series A round from sole investor Accel. The transaction marks the first external investment raised by Finbots."
     publishedDateTime: 2022-04-28T13:58:00Z
@@ -229,6 +220,15 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 23
+  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
+    excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
+    publishedDateTime: 2022-04-28T12:39:00Z
+    webUrl: "https://wgnradio.com/business/press-releases/cision/20220428DC39024/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 18
   - title: "Loris Bags $12m in a Series A Funding Round to Revolutionize AI for customer service"
     excerpt: "Loris today announced its $12 million Series A funding round. The series was led by Bow Capital, with participation from ServiceNow Ventures"
     publishedDateTime: 2022-04-27T12:37:00Z

@@ -41,17 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "International AI Accelerator INTEMA Announces Its First Demo Day"
-    excerpt: "Join INTEMA on its first Demo Day and meet innovative deep tech startups based on AI algorithms that are already shaping our future. NEW YORK,"
-    publishedDateTime: 2022-04-26T07:27:00Z
-    webUrl: "https://www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/"
-    ampWebUrl: "https://www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/amp/"
-    cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/amp/"
-    type: article
-    provider:
-      name: Il Tempo
-      domain: iltempo.it
-    quality: 39
 
 secured: "EvtzgA01CD7hwD1bkOaynLFaCFl7qeq1BeXHv4yZ/ygU5C58HJFDCIW89Glmq2uT1wcZzKPNWNu7u/M2IBPN3wqWcRAtUaDp7QWe0vGKOMcgcwbuakroIuavOO1sqgIaS7Sa0lEHc1B1aiP4efa7nJt32KlQHAd22XYSndXHbFr5CnVwWqq+ZMPnoghcoFyiCnf0QtX0Nofny9PRG4o/5DYb72wzy5/V0c6WYafYisCfrJuH2jBxpxfYiAlaKOqyuNZ5KG5ZZ6ZrlkLPHvxKZSCLs7+B/UHXvp5LJ9QWwaU9Q90hpbeoTb4RkE/KZ18BPF/1QuZvdzNoYqFvXVbkcq7FA+ZmBe2UZim+klQNRso=;C/M7A6k7cUoub535GCAw+g=="
 ---

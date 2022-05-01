@@ -1,20 +1,26 @@
 ---
 category: news
 title: "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022"
-excerpt: "Varma will chair the session and discuss how artificial intelligence (AI ... IMPLICITY® develops AI and knowledge based algorithms to reduce healthcare professionals workload and allow to potentially predict patient health status. The IMPLICITY ..."
+excerpt: "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research."
 publishedDateTime: 2022-04-19T13:30:00Z
-originalUrl: "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
-webUrl: "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+originalUrl: "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+webUrl: "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
 type: article
 
 provider:
-  name: CBS 42
-  domain: cbs42.com
+  name: WTVO
+  domain: mystateline.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "zQDNEjyWkjm9xJ/Pna+PSe4N2mh6thZWPhX0/p2Y9u5FNEJPGniXhvArjf8jSEcD09WaAsGwigmdnOrt/XRWo9PmQv0mTcJQzwYi08RRI8eVvbnAFQid0maHaO+/t54JLoNOxPvls+c+TPa1UNmGReztDoWfmpU0XaGXOUVDT1dJjzrhDn1STU3aZAzimxtSZsdFOann2SKycpv8CVt8WkPxtfB2frEU+Wjf0NilU15BqSI6kU3GNfQn48D7vOkJkWgtzeWJA8hGgcbPeWAOTeHoIW4aphMJ3nRGWWrQcqPy9xiin0eJzvhi8abgE8yr3m6ysCIB7syFkhGCLrFJv4xi9fBUCR6ch9qveHs7cpM=;aCONstJ0VTbhlMxUfNspiw=="
+images:
+  - url: "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2022/04/GettyImages-1053929918.jpg?w=2000&#038;ssl=1"
+    width: 2000
+    height: 1524
+    isCached: true
+
+secured: "TXCZwUIqq+wfBTl3hKtOGOf0t8kgUaD88DmVy7hv4TmjbtObV/txW3Vf9QaUfxKUC5JKlZbsmwRwFkDm62VvTsb4HUOcgpHksNXi0DgPYRPpl5AR7yu90JD83A1dvFJ6UfTmkJCcCJrli3/uAvK1IumYTR0g/o5DPKfdDZkH0iXrEX7ULcEZDzUIAe7aZz9uK7x3eHTfpLDPEtwU7ybSTFXKod6aTE13R/JY3QXLrUqlax/so0UGHapHTxmgN7Cy70zsUm+EJjAFa4wEnruOqQWRYZFN09vL8IJ3Mxz9twi8PbaL2UPUxaBTyX1zocqMsCN0w6qtScns+z2TjmcFvqLTaFsstpLLycNQIkyZCaM=;ldpGFUHato4QnbwbYpfMGw=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports"
-excerpt: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% \\| Valuates Reports. BANGALORE, India, April 26, 2022 /PRNewswire/ -- The Intelligent Docu"
+excerpt: "The region's businesses are the most forward-thinking in terms of AI, machine learning, natural language processing, and computer vision, boosting the document analysis market's growth. The presence of major players in North America is also a significant ..."
 publishedDateTime: 2022-04-26T13:07:00Z
-originalUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm"
-webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm"
 type: article
-quality: 5
+quality: 0
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://images.tmcnet.com/tmc/misc/articles/image/2019-oct/7276007268-coding-1853305_960_720.jpg"
-    width: 960
-    height: 640
-    isCached: true
 
 related:
   - title: "Machine Vision Market to Reach a Value of US$ 18.4 Billion by 2027 | CAGR of 9.7%"
@@ -63,6 +57,6 @@ related:
       domain: digitaljournal.com
     quality: 0
 
-secured: "tPanrT9r30vXVhcslXcv16XtRkbvg9w+B3y8ziglwFBVBLd4RBmee5AOKd4o9ilpYi4O0kifaUiPyPu/Zu2+jRNKFc86roWtsknSqyOUyBlyJAV6qjCaQzZ/7miV4sNS04zuEEkZPPz33ZaGoYmDCCTlX6Klabv2qOPo0HJOr46apjJDs70E/67ksmd9E28QGGn7GiqtSQ74RTEfBevqvPb632M3ddQhmhjCFXpNmarQsvL3beZnPqQPrJETaGrYkTiKM3piAeN9oqqybve7KtfqUVQpOZK1HvGXLzi6C2WFIsB577K6ASwbBMSQim188eINcp+kK8PM++ND7Jt0gTDlF/y5xMyDf0d7nQgTmTw=;TW7yFy7jxRL2g04YpVLyVA=="
+secured: "NsSqgUMvNAnPFnphcoJDRSJ7FUvUkaNnoGXK89cKHMty8UmNjPwhk27akro8BNdTp1vdUWx6DQTAftuU8yfl0yXyH12gAYVATiPIk9RvBdYtA0BFCrI0GpgzwWulVzE0wHt7DgRZ9dJvHqkjkI03plC/wlTR42Rub9uidIC+bofJIx0mvFlKfOp4CEsk4nrV+ufzmyB9Y1gXpHZCfvqmHr0CkgcceA9+VgXtulZdJ2QulcMr8NHsV0FKCQ7oecjcLhR/4lGtHE5Jl34LZM3KsQL9PG6Z2nwcLlfuWCqWow47iCnVfKvDNxXgJe77xktCCAGk2PCCA5CmcFxwlgIu6Cca4bWEiNzWmQJHADhwWUQ=;TSGw3BZMhUg0fkuQmibpbQ=="
 ---
 

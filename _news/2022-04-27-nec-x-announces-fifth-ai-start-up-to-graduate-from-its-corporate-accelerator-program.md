@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26832006"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26832006"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "International AI Accelerator INTEMA Announces Its First Demo Day"
-    excerpt: "Join INTEMA on its first Demo Day and meet innovative deep tech startups based on AI algorithms that are already shaping our future. NEW YORK,"
-    publishedDateTime: 2022-04-26T07:27:00Z
-    webUrl: "https://www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/"
-    ampWebUrl: "https://www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/amp/"
-    cdnAmpWebUrl: "https://www-iltempo-it.cdn.ampproject.org/c/s/www.iltempo.it/adnkronos/2022/04/26/news/international-ai-accelerator-intema-announces-its-first-demo-day-31348079/amp/"
-    type: article
-    provider:
-      name: Il Tempo
-      domain: iltempo.it
-    quality: 39
   - title: "NEC X Announces Fifth AI Start-up to Graduate from its Corporate Accelerator Program"
     excerpt: "NEC Corporation, a leader in IT and network technologies, and NEC X, the innovation accelerator for NEC’s emerging technologies, announced today that Beagle Technology is the fifth startup to graduate from the NEC X Corporate Accelerator Program (CAP)."
     publishedDateTime: 2022-04-26T13:02:00Z
