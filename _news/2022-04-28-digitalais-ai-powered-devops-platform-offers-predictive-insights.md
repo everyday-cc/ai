@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
         width: 252
         height: 335
         isCached: true
-  - title: "Credo AI Announces World’s First Responsible AI Platform"
-    excerpt: "Credo AI has announced the availability of its Responsible AI platform, which is the first of its kind. The SaaS-product helps organizations leverage tools to standardize and scale their approach to Responsible AI."
-    publishedDateTime: 2022-04-26T18:31:00Z
-    webUrl: "https://www.unite.ai/credo-ai-announces-worlds-first-responsible-ai-platform/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 17
 
 secured: "JsqdV+RBPqs4zsqs88eJYo9cWZreLHp5rhhItLZfQU1/L9AgnEfV+Vyd89kQCyWRNgGv0A3I4OaqRgB/4pNUx5RY5A6QMXvNHr68cZkPCuVzaGpy523W6CH5O/myj6iPw3hWvjmADz1XyatkBxKnWXsq+q9nhpFcEHBsjQI2/+HCQFHxERxO3ovuIwUO6N+i69XNZ4v8zk6oAxcHZXsj/XSgYu3x1x2zvVvc7zkVzE7PEdMPl+00ym0rN3aTIcPWZLgyIHLDwg298ADkOZ0R8kCOEQksBag/SiXEs6z0J87p1cl0uBOUM+Mvj6BZt4QDQ7xfL3P9jM8ObYtt1q+5cpSySrJgycBYLBeoCCAwy9Y=;Nh7CHBZtKaGK3m5zq+kBhg=="
 ---

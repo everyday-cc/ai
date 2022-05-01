@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhan
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190299-danelfin-an-ai-enhanced-stock-analytics-platform-secures-e212797-via-crowdcube/amp/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 287
     height: 264
     isCached: true
-
-related:
-  - title: "Payment Fraud at Record Lows Thanks to Analytics and AI, Visa Says"
-    excerpt: "Despite a massive increase in online activity during the COVID-19 pandemic, fraud on the Visa payment network is at an all time low, the company says. One"
-    publishedDateTime: 2022-04-26T18:26:00Z
-    webUrl: "https://www.datanami.com/2022/04/26/payment-fraud-at-record-lows-thanks-to-analytics-and-ai-visa-says/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 17
 
 secured: "9NhGoMVcnQxHm2gAHsVr0BCu/sAlhTBdqyolXUIHHDTUaDkqLoqnkV6BDBk98b6A5pS8quozUMGPlkmuj9N5TMpLOrnzberP0alDzdRcIAwxI6sGEuzNCKVn7FTPG7cCa0ITbofvP0Tu2Nj6DQXG3ZoHihKA5H4k9byLR0S084l89rCMvnB2KrifUH8K3a2xRtiNPZMLoCe0ptZhCBHCDGW0sxlnJl5XHb3VWGigpITOYQttPFAboknYAc+N8iWWN9mCsmmLoQZOfreOVIjFrNie1gWdPFheyGoRMnq7sfzGvi6rC+CnvGi+IZyNibE3iuC4ehIO3J2rN7QulXzAbLBM/kt4QrwtSv+saes8ork=;jArsMdeJDONW/HX0UcQG2A=="
 ---

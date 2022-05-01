@@ -2,26 +2,28 @@
 category: news
 title: "Josh Williams Hospital Tour Revs Up Virtual Visits to Nascar Xfinity Racetracks Using Kid-Controlled Telepresence Robots from OhmniLabs"
 excerpt: "Ohmni Robots are easy for kids to control themselves using a tablet ... For many organizations, COVID-19 is still very much top of mind and keeping the patients and staff safe from the spread of bacteria and viruses is paramount. Williams was able to ..."
-publishedDateTime: 2022-04-29T14:05:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/covid-technology-sports-health-josh-williams-d633fa6a2b549b79dd7f18d06dbd592a"
-webUrl: "https://apnews.com/press-release/PRNewswire/covid-technology-sports-health-josh-williams-d633fa6a2b549b79dd7f18d06dbd592a"
+publishedDateTime: 2022-04-29T14:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26898414/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controll"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26898414/josh-williams-hospital-tour-revs-up-virtual-visits-to-nascar-xfinity-racetracks-using-kid-controll"
+ampWebUrl: "https://www.benzinga.com/amp/content/26898414"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26898414"
 type: article
-quality: 7
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "r3UPk1nLv4rRY0KKYaSKjuwNOLq/8aRNhdcmnhsRuGMgm/USNenhCOJo4IXGPOh9IslRvJHKWy8PaO+FxRXk1At2hsOWti2uDFCfmkgm2FiEhYqBk5BMIbYFmsFtYHRvRoLu26OrEYAefDZs1UaeAOPJC4ciwcveEVQwtHW9yQt8XZaeDyJhVWWZIoj7VJetpXFP/zB4PxhC8c9DlMvUU1vSJraaD5gkIszxMjbtd3xYnBl6hFKHBeY9zXO3jAMUB+zJdumpXyMPlhGWaAbqqhwhe+A3gwCOvEhUbSGjAn7e1xE7VQHga7QI8VnbnF+9dy1jOgNACCOsgoV/++1GwjK8557CDzSqm660I70zGJw=;URtYw7pDdtVGc8WkdWI3Cw=="
+secured: "w38iHJK/Vi+r1JzoY1JqAtfKOH+4a24EBh7HbbKVwUIw5ujv6NXYpd3rZqGt4RGQWGfII1tlHP16O9YND4YA7m3ClnBrlhn0WaBPipVYTFZcSFoH8lLZ8GKUZM14QszrYYYCIxzFxflJjw9VDFIyf/tgKHQjiEQl1ke7OkRxkFupLJbyACZ7FJpDAU+YXucapzpRVd7K36iw90wL0xoVPDiJFe+fxIhRm/7UwqE+bgaFRNVgj0xBzpA/nzWPFBvsBcuEBZ7eGgFj61JR68Acapn1BiCj0SkTB5Z9Im1zWkmJHZwdNWnEiL8azZRxV6XDGgriJpjYK/1z0ncMA1WOAsilDKPOIHrS5ZW0hU3/sn8=;LF77MViYCjp1zFrPbZzWiA=="
 ---
 

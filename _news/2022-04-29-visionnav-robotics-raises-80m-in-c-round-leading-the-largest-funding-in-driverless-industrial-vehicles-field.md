@@ -1,28 +1,32 @@
 ---
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
-publishedDateTime: 2022-04-29T12:01:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
+publishedDateTime: 2022-04-29T12:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
 type: article
-quality: 66
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Autos
+  - AI
+  - AI in Robotics
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
+    width: 400
+    height: 215
     isCached: true
 
 related:
@@ -265,6 +269,6 @@ related:
         height: 720
         isCached: true
 
-secured: "kBgelTr1Dh8B+87IcbX127lwB/JFEyXUuE8hiVPdqwxeBqJSl0bENS1j6SqRItaeVlyF3m5Ws5m8Wq/ezo5W4bAWlh9RPHga2PPWsODYF9UAAr7GnR2sJ2HFkCdzNKeIfGzo48NTO+BLMG5X/q6Cuz8xx1DjAFSoMYTNvNpJsRLy7kUugN/PPP9evcu4JMWhLv8BugsF4Va3azenQZ0egArZ96V01fEsxrlILVs34xhDLbjjaR2sM+IuSthiDL3CIVr4szLQp+CY/MV6iORmMKDgX1HqFU27l8NlRtKaBg4HmiWC0SOyCZAjfk5AvwrjqaZij8tYmknxxdmnJmAl4/9HmyXMNB5km9zLu6IV9e0=;JB7IcgiXCYp/MpjbiRFUZw=="
+secured: "LicWRpZIdH6BffDhAsIQTbJRx+Xyt+tJXp4oMQrd139oIkGhCDiP1KsKkSR3fDUxpFAQNMkNlrNZSh0iUyPbkJX9tNhCgF3UbeIWpFNE6l0nnWRr+GsOzV/lrhvjmCMVR8c3rMa6PXK+BQs/qDOhWXCCqeVXZFBmAF0gTiWlXO6TJeYqU3Vm//nz+65dzyQwQ7YBuusBhY2PBuNHHQWx78keLmUJm2QNATgZ4RrqrpBJSLKShLxKLnkIlF2JuNVCyA2TXP+CdwTxbl1vvOJXdtfAHJFwyCKYNM+ySsBKnXkye/3d7Art7WfR7ZOuE3gDCyyXoByML+UeHpJ7cIkjkPvc0J/1uwq1uXRRHLS+RlM=;AU5xZa4fhFY/63hVkAwefQ=="
 ---
 

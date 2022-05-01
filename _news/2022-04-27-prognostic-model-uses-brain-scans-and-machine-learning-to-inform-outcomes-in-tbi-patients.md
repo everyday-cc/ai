@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220426/Prognostic-model-uses
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220426/Prognostic-model-uses-brain-scans-and-machine-learning-to-inform-outcomes-in-TBI-patients.aspx"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Helps Improve Brain Injury Outcomes"
-    excerpt: "Scientists for the first time use automated brain scans and machine learning to predict the outcomes of patients with severe traumatic brain injuries (TBI)."
-    publishedDateTime: 2022-04-26T18:30:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-helps-improve-brain-injury-outcomes-206802-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 34
   - title: "Machine Learning Optimizes Outcome Prediction in Traumatic Brain Injuries"
     excerpt: "University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons have created a prognostic model that uses automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI)."
     publishedDateTime: 2022-04-27T12:00:00Z

@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE ..."
-publishedDateTime: 2022-04-19T12:55:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-webUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE, Ariz., April 19,"
+publishedDateTime: 2022-04-19T12:58:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-imagine-learning-taps-speech-recognition-technology-help-educators-/2022/04/19/9585025.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-imagine-learning-taps-speech-recognition-technology-help-educators-/2022/04/19/9585025.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "kpT6/XFp1Be9v9jGi7fMOrn8As0lnaiuocIl8F9YrbhmkyPccMtPS3hWActIijlPqEDn2U7dWkUozheqeRixHH6vxEMJGijNEUerNAfdpugqwtdzy78CFiZ8rWVjPkfU5Nq/WqL3zGFdYDhOblIZ5AK/ZBOtOjaOczql928jLh9M5MZ4CFll3R4aIyK8lwZ+I256l+yZnLYjfwPJN+QbgpvhMJMIZYn7l1c3oGcH4j0fB8I4LvsTPKTBaEhydUetNi4RTGqtlWf9zAQgYGNAgv0ss6J91V/NaBKTNWjavs9p21KMmYUavteT5iIPSfCXfSd7NbAhr3F4ucnGzcoKAzdWnr/5nhVRQsguepzxqUaE3GYHsQ9QLXLwbBdwsPB8pV7rd6nKNFNgfiiv27TGjSzeIJ6SacOTdTgT6/9gCXXB9xsSyi1k1E3jH3w8mZswzrimeOA5yZWuLb7lNAm4Ty5w+w5VjHqQr2hoPdsIjeS5Kv8okCQ3oJFwqgYQugXjujTYqM/2WJNB5NvbR/4vnQ==;2v/+75KXa3hOOnOsXHvJwA=="
+secured: "lplePSErBLcfZtUDEHB/ErdWvlcVdnqh3G9zAfNGIykUFnEp0TYwU/1brXFCjYpSfKjDb+D8iKSm1QRflMqJagBNNNEVdBOnzKrCEnZIOt9GvA2sAWxGEMRcqbotrp5SXKg9sqlt70jJlFLVDWw30cORbYTS2XXW9BkFGRyoyKdDC/y5GNmTqIKWszCiDWRfemeRMA33ruP3XPjro11d7RijAqfgvCiiPJZ0nc1ithtuDEVrL3rhj5Ip+pAfLia30T3jAHS6Hrc51KzVFnZWxHifOMvfvxEyHtR45/UanTBG9q/lHDnSKPuSUe/TEGAfFEctOZENMBTCjTjbGIVjZcToEGHG865YxZxjwqu8RonS4So+np3IvzPuyZsDu13csky3kSvY+ZpOJmUwkwORfE6oXP2QcR4uOXGr65iQ8EeKWsd4WTo5D1SYgUkZ22co3DWC/S5XQks/u8giYuCdf7G5vZ2fC+xmwsDq5/jfXoRsUyfxaKa3opLy0zke1a8hoXna1BboAZBzNCqTt9glQQ==;B3U0IrA9DDNx77k9nFNbnw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.finanzen.at/nachrichten/amp/rendered-ai-joins-esri-partn
 cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -18,17 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "How satellites create enterprise opportunity for geospatial machine learning"
-    excerpt: "Switzerland-based Picterra, whose no-code machine learning platform allows enterprises to gain useful insights from earth observation imagery, is looking to seize on the opportunity to help companies anticipate and mitigate risk on a global scale."
-    publishedDateTime: 2022-04-26T19:01:00Z
-    webUrl: "https://venturebeat.com/2022/04/26/how-satellites-create-enterprise-opportunity-for-geospatial-machine-learning/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
 
 secured: "SgwYuJMepePKXk3fExBGCnCAE9sL2yPbqIjCQ2lKQCaN6jeHUuKWczhtwJnn/IXfHpKXsEXfeQzaPFKoKUqpV6/f33osq8mb9CBCC68oM5jWI3P4omZjcTQxeRFLenXDn0FSlEIaJ4jE28p7SIBdxrUpQX9/zZucn1tsAe7nHQgC2nq/VSLJSNs2z8JgIggmSJjrn81kMvVD592zB4/4+nJBAOll63eaeQdielkHiyh5C7IleWDhTjE285/2P90eob1/XmRsTbRBsF6v9fyprSsnIhk6HYq1ZAv/fNZyy+2Wkp5HFiIkE4t4CkSR8L7FCrk7PYpzJVf4CuZef6GJJN0jF9i9XTDrIj7G96LVS1o=;4DiBW+hAoPUcS4+VIXsGxQ=="
 ---

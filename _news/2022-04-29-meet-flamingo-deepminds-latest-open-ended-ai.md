@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: theregister
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment"
-    excerpt: "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,"
-    publishedDateTime: 2022-04-26T17:46:00Z
-    webUrl: "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/"
-    ampWebUrl: "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 76
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/04/image-82.png?fit=604%2C340&ssl=1"
-        width: 604
-        height: 340
-        isCached: true
 
 secured: "G5rc6TPYiuQZ7t0wrhUfmD0p+2PH3VoqzUYsF4FHnQj5cebegnDH1HzK5RY5yWxcchcnETR2jPS/+zxafcTTHeJSmnJ5lZg24AIEf5x2tmRd5FWcLJi+Y3LC3NrxmGlpoNS7Rs5gr087La7WRfKLlWObPupR+i4E6t/+0EvH5SIWjd+6KiSKRJPkzn80Krc5BnrRYXjX7tVfjic4Y/0GBPxuq2KwjEZEw6qOLR7NOp55vNZviI8lhPgrRgKt/T/1DPW0Lzsuxy9DEoVhWi1OytshOcPWKhOP7U4HtjaxUfk2X7dVxoBfZbltNtZdqi0ug1LQUFn9BCESlE58BLNsZuafnAE1FvHUSIFKlTiy/KJtcY3cBh57pWP0ZrsgXAdmWA5tOd6xB+lCyHt0zPhwXRroO7AZd3akmrb/btNsnp+QzgkBssly4czTMr1zDccFXuS8YG4pCQXbyFKYZZqqMpNAuZnBhlfwdX93o/kx8KBrKjKePtYngS94luAJ0k1UhN46IhLkwnxOotw5oLF5AA==;eRXLmhnI27N5ufFJdGxbVw=="
 ---

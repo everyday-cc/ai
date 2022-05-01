@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
-excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
-publishedDateTime: 2022-04-28T12:39:00Z
-originalUrl: "https://wgnradio.com/business/press-releases/cision/20220428DC39024/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai/"
-webUrl: "https://wgnradio.com/business/press-releases/cision/20220428DC39024/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai/"
+excerpt: "Led by 468 Capital, the investment will drive team and product growth to further establish Synthesis AI as the leader in synthetic dataSAN"
+publishedDateTime: 2022-04-28T12:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+webUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
 type: article
-quality: 18
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -50,6 +54,22 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/04/Finbot-Social.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Synthesis AI Bags $17 Million in Series A Funding Round To Extend Its Synthetic Data Platform for Computer Vision AI"
+    excerpt: "Synthesis AI, a pioneer in synthetic data technologies to build advanced computer vision AI models, today announced it has closed $17 million in Series A financing led by new investor 468 Capital, with additional participation from Sorenson Ventures ..."
+    publishedDateTime: 2022-05-01T10:31:00Z
+    webUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/"
+    ampWebUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 51
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Synthesis-AI-Bags-_17-Million-in-Series-A-Funding-Round-To-Extend-Its-Synthetic-Data-Platform-for-Computer-Vision-AI-01.jpg"
+        width: 700
+        height: 400
         isCached: true
   - title: "Finbots.AI raises Series A funding for AI credit risk platform"
     excerpt: "Singaporean AI-powered credit risk specialist company Finbots.AI has raised $3 million in Series A round from sole investor Accel. The transaction marks the first external investment raised by Finbots."
@@ -226,6 +246,6 @@ related:
       domain: enterprisetalk.com
     quality: 10
 
-secured: "G6N1zcseVTuyBpuqtHCqlFLGtR9EprM6X3g/WMGjTyYt46UWfFVbhwNGyOR3bIknDST5FRbnkB5VvcZ0fQlu5qS4tTqmS6Si5gkWEdL+HSkrt7aZYumKM5mwYzzxsPLJFZH0Ma/vxwSFBcensUB9QCKnYQ953xXrFX3+fZE3zjAEEyC4OmH/kM6r4nn+q8WOaEeOh9kozFhy/3vTghXDkxhiNnfdTrwldSJ37cS7FGoYlKzG4mDeA6OWPiHCkD/drIooOnYV7Aq21vk0WXbHCuRLOvWS2bi1NDAYcmVlwHQJ3kBqO3tv8tpyQ9Qo8+K+TXHfMUHf0LUIj4Suxsoore299+020Ma9lt3IlBY6B6s=;IEa6vSASYRjt/HVOvxyNzw=="
+secured: "MzU9M9/YkX5UoLdM4YxabB9R1QxJN7T3A2ohXDPFerAFqJQ2AfBGUOk0smH9/52A4w7DgpOaFyMlBtw3nB7Ker4Chs39T8mOKIUAev7aoeOVFbvOuY0wzbCPF29OBB6Akn7eQBc9I70H88UAe/Oi/F8MW5AjfV6CR7w9vo8o2dp64WpPs0OH2NcPkogugKXFwSBp70iHiFuxg/D52bZ7YhXc84irkwnbUhhdiALKfwfuARVnbSgh+fIKgMEcLBiEBWpKgINqMmMvEeUWpJbhUJQTGmb4UV8O87VUytxKlYiUGuRSPyg6jkuixeDO2SL1uTE/cAOCf4M5ZOZBGNtAARptQlx1HW5PAt06TJLBl7k=;cvK+72E++Jo38FMOz3IkEQ=="
 ---
 

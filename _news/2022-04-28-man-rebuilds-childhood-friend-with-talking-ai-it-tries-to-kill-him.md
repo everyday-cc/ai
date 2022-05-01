@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Man Recreates Childhood Friend With AI, Then It Tries to 'Murder' Him"
-    excerpt: "YouTuber Lucas Rizzotto said he modified a microwave with a text-based AI in an effort to build a friend that ended up being un-friendly."
-    publishedDateTime: 2022-04-26T17:04:00Z
-    webUrl: "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128"
-    ampWebUrl: "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 89
-    images:
-      - url: "https://d.newsweek.com/en/full/2026354/person-typing-keyboard.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "Man who gave microwave artificial intelligence claims it tried to cook him to death"
     excerpt: "YouTuber Lucas Rizzotto said the family microwave was his imaginary childhood friend which he tried to resurrect by fitting a new one with artificial intelligence during a bizarre experiment"
     publishedDateTime: 2022-04-28T15:14:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.valdostadailytimes.com/news/business/bronstein-gewirtz
 webUrl: "https://www.valdostadailytimes.com/news/business/bronstein-gewirtz-grossman-llc-reminds-c3-ai-inc-ai-shareholders-of-class-action-deadline-and/article_a3a49384-7dc2-5595-ab7c-db1dd7417045.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
-    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
-    publishedDateTime: 2022-04-30T20:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26918993/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadl"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26918993"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26918993"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Bronstein, Gewirtz & Grossman, LLC Reminds c3.ai, Inc. (AI) Shareholders of Class Action Deadline and Encourages Investors to Actively Participate"
     excerpt: "Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC notifies investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3&CloseCurlyDoubleQuote; or “the Company&CloseCurlyDoubleQuote;) (NYSE: AI) and certain of its officers ..."
     publishedDateTime: 2022-04-29T18:01:00Z
@@ -49,6 +33,20 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 0
+  - title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
+    excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-04-30T23:00:00Z
+    webUrl: "https://www.kget.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
+    type: article
+    provider:
+      name: KGET.com
+      domain: kget.com
+    quality: 0
+    images:
+      - url: "https://i0.wp.com/www.kget.com/wp-content/uploads/sites/2/2022/05/858c63cb90924d56bbc2d6f907b07e73.jpg?w=2000&#038;ssl=1"
+        width: 2000
+        height: 1326
+        isCached: true
 
 secured: "edMuCe8a0RIhLHqxBYy/5vTlCBsmDLcG4InD1VG5EUwqJuj+Z+0oVgppTAbgWzRUClZO5jGh3dORl+sPFwDitLPVxYpw4smEeqR0u4Aoe0uUPz1rmEIKgHJdVC+4z6IGTCoIXgkcjhClqv4cRjqKgjHdCcV06mOAl9ZvNBEzIgDSGYaEJ6g1T6JM6cmJb+RHrkzr3rMUBcJLPrSlJNJ7PPxGJLFAt80PHcOqegzmzKRCbF1fkQk9USKty1U85t01m2IHVXWCENWvbEMbsiN3xh2rX3qRqc9B3mAnvAVYKjDNBbQ/GAiT0nflXwE1kzPjtAX4dSEkxqGUcxGzbL6XsyMBH1ePzHt/frJNMFdnzNDFX3KmQsfa6U087rD2nvqEV4HDXFeaTezKB60PxcKrk6+HSLKa312Diqc4cvJQmzEKW+d9RL3o8MzS72YrSAwjNmQnwJb9YEPnK9VZhPkawsnApWtMJ2UyfvNXH7aS77kbim3oiToup5vfCcyx1n3hh0oXv0woJkC7s7Ot9ND09g==;PdP0gzMNs3ztmWfcjiFtYw=="
 ---
