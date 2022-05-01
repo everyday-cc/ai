@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-12-panera-testing-cookright-robot-coffee-maker.md",
+      "title": "Panera testing CookRight robot coffee maker",
+      "excerpt": "... chain Panera Bread to test its latest robot, a coffee maker that can brew the perfect cup of coffee. Pasadena, California-based Miso said its CookRight Coffee line uses artificial intelligence to monitor key coffee metrics such as volume, temperature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
+      "originalUrl": "https://www.ksdk.com/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/e63dcc34-0e0e-4244-905f-b7d4f30992d7/e63dcc34-0e0e-4244-905f-b7d4f30992d7_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
+      "publishedDateTime": "2022-04-12T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-10-chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.md",
       "title": "Chipotle tests tortilla chip-making robots to combat labor shortage",
       "excerpt": "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips.",
@@ -1339,58 +1382,6 @@
         "AI in Healthcare",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business.md",
-      "title": "Emerging FoodTech: Robots And The Resilient Spirit Of “Techspitality” In The Food Business",
-      "excerpt": "The world of automation and robotics has jumped off engineering drawing boards and moved into restaurant dining rooms and kitchens. The time has come to add Food Technology to the growing list of priorities in your food company’s strategic plans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/",
-      "originalUrl": "https://www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6246743338131d1da3503f2b/0x0.jpg?format=jpg&crop=700,394,x0,y65,safe&width=1200",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/amp/",
-      "publishedDateTime": "2022-03-31T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

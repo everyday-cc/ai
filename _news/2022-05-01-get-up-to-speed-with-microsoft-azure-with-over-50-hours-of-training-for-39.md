@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/get-up-to-speed-with-microsoft-azure
 webUrl: "https://www.zdnet.com/article/get-up-to-speed-with-microsoft-azure-with-over-50-hours-of-training-for-39/"
 type: article
 quality: 77
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -32,36 +32,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 66
-  - title: "Microsoft Azure: Empowering SMEs for Malaysia’s cloud-first future"
-    excerpt: "HIT by the Covid-19 pandemic, small and medium enterprises (SMEs) are well aware of the need to go digital-first."
-    publishedDateTime: 2022-04-27T02:28:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2022/04/27/microsoft-azure-empowering-smes-for-malaysias-cloud-first-future"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/27/1565845.jpg"
-        width: 617
-        height: 404
-        isCached: true
-  - title: "Microsoft's (MSFT) CEO Satya Nadella on Q3 2022 Results - Earnings Call Transcript"
-    excerpt: "Q3 2022 Earnings Conference Call April 26, 2022 5:30 PM ET Company Participants Brett Iversen – General Manager-Investor Relations Satya Nadella"
-    publishedDateTime: 2022-04-27T01:20:00Z
-    webUrl: "https://seekingalpha.com/article/4503841-microsofts-msft-ceo-satya-nadella-on-q3-2022-results-earnings-call-transcript"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4503841-microsofts-msft-ceo-satya-nadella-on-q3-2022-results-earnings-call-transcript"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4503841-microsofts-msft-ceo-satya-nadella-on-q3-2022-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 53
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Digital Human Avatar Market Giants Spending Is Going To Boom | Microsoft, UneeQ, DeepBrain AI"
     excerpt: "On 16th September 2021, Deepbrain AI (formerly Moneybrain), a conversational AI startup based in Seoul, South Korea, raised USD44 million in a Series B round led by Korea Development Bank at a post-money valuation of USD180 million. and In August 2021 ..."
     publishedDateTime: 2022-04-29T08:25:00Z

@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-04-27-rapyuta-robotics-raises-usd-51m-in-series-c-funding.md",
-      "title": "Rapyuta Robotics Raises USD 51M in Series C Funding",
-      "excerpt": "its cloud robotics platform, rapyuta.io, utilizes advanced control and artificial intelligence technologies to improve the efficiency and safety of warehouse operations, enable multiple robots to work harmoniously together, and create a remote-controlled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html",
-      "originalUrl": "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/04/rapyuta.jpeg",
-          "width": 333,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-27-amazon-invests-in-israeli-robotics-firm-bionichive.md",
       "title": "Amazon invests in Israeli robotics firm BionicHIVE",
       "excerpt": "E-commerce giant backs Israeli startup developing an autonomous warehouse robot that can work on shelving racks to retrieve and return boxes and packages.",
@@ -240,6 +197,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-uae-vows-responsible-artificial-intelligence-rollout.md",
+      "title": "UAE vows 'responsible' artificial intelligence rollout",
+      "excerpt": "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university, opened to students last year, and the country has launched a number ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout",
+      "originalUrl": "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-04/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg?h=a31d927f&itok=yIzQoqk4",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout?amp",
+      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout?amp",
+      "publishedDateTime": "2022-04-26T20:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al-Monitor",
+        "domain": "al-monitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -487,6 +487,40 @@
       ]
     },
     {
+      "path": "_news/2022-04-27-space-discoveries-that-will-blow-your-mind.md",
+      "title": "Space discoveries that will blow your mind",
+      "excerpt": "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from",
+      "sourceUrl": null,
+      "webUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
+      "originalUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJTV",
+        "domain": "wjtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment.md",
       "title": "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment",
       "excerpt": "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,",
@@ -535,8 +569,8 @@
       "title": "NORAD’s VanHerck says artificial intelligence capabilities lacking",
       "excerpt": "U.S. Northern Command earlier this year asked Congress for an additional $29.8 million to buy information technology equipment and to optimize infrastructure for artificial intelligence and machine learning at its joint operations center.",
       "sourceUrl": null,
-      "webUrl": "https://www.defensenews.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
-      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -549,8 +583,8 @@
       "publishedDateTime": "2022-04-26T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Defense News",
-        "domain": "defensenews.com",
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -943,6 +977,48 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-intentsify-appoints-new-cfo-vp-of-artificial-intelligence.md",
+      "title": "Intentsify Appoints New CFO, VP of Artificial Intelligence",
+      "excerpt": "Intentsify, the leading Intelligence Activation Platform and Demand Activation Programs provider, today announced another significant expansion of its executive team, as well as its second consecutive year of sponsorship of the Forrester B2B Summit taking place May 2nd to 4th,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-964c44f07dd649a1b2dc63e50afa9f8b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-964c44f07dd649a1b2dc63e50afa9f8b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-jack-in-the-box-rolls-out-robots-to-flip-burgers-and-serve-drinks.md",
       "title": "Jack in the Box Rolls Out Robots to Flip Burgers and Serve Drinks",
       "excerpt": "Jack in Box, for one, has harnessed the power of tech, partnering with Miso Robotics to introduce robots to one of its San Diego restaurants.  Relying on a combination of artificial intelligence, machine learning,",
@@ -1095,110 +1171,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-tomahawk-robotics-expands-global-coverage-to-europe-and-australasia-markets.md",
-      "title": "Tomahawk Robotics Expands Global Coverage to Europe and Australasia Markets",
-      "excerpt": "Tomahawk Robotics, the leading innovator of common control solutions, is proud to announce that they have expanded their offering of Kinesis software and tactical products to the global market. The rapid growth of Tomahawk Robotics' customer base both within the United States and internationally has been driven by its passion to deliver cutting-edge technology to end-users to reduce physical and cognitive burdens for warfighters and elevate the capabilities of their currently fielded unmanned systems through networking and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-expands-global-coverage-to-europe-and-australasia-markets-1031385644",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-expands-global-coverage-to-europe-and-australasia-markets-1031385644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1804822/Tomahawk_Robotics_KxM_and_MxC.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-can-virtual-reality-help-ease-chronic-pain.md",
-      "title": "Can Virtual Reality Help Ease Chronic Pain?",
-      "excerpt": "V.R. treatments may provide relief similar to intravenous opioids — a tantalizing prospect for the millions of Americans living with chronic pain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.html",
-      "originalUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/05/01/magazine/01mag-vr-pain-02/01mag-vr-pain-02-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/26/magazine/virtual-reality-chronic-pain.amp.html",
-      "publishedDateTime": "2022-04-26T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,25 +2,27 @@
 category: news
 title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
 excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
-publishedDateTime: 2022-05-01T16:05:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors/article_9b9db8df-40c2-51bf-bb69-f6b5bbc22156.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors/article_9b9db8df-40c2-51bf-bb69-f6b5bbc22156.html"
+publishedDateTime: 2022-05-01T16:04:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/n26921512/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadli"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/n26921512/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadli"
+ampWebUrl: "https://www.benzinga.com/amp/content/26921512"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26921512"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/ee/aeeef9ce-a1fe-5d9d-95f5-6109fe1775d3/607f489c76ee5.image.jpg?crop=1030%2C541%2C290%2C0&resize=1030%2C541&order=crop%2Cresize"
-    width: 1030
-    height: 541
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -95,7 +97,16 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 0
+  - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
+    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-05-01T19:50:00Z
+    webUrl: "https://www.kget.com/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
+    type: article
+    provider:
+      name: KGET.com
+      domain: kget.com
+    quality: 0
 
-secured: "M6vDqIACnYGk3fTaZBXEc5ag5+D1+/PUExZnB2R+Pf6qJWHf67zNIZ4OSaO/Q7LyeGBvzvjv3g4Yt4Jx6BHtBzQKJhM2uaVLwTXsGYDPrhswLowGiTxoYY5GOUQyp9CrbCG6SA5MgUyTWzKFUZV6vq+8/ogIxuu6ZLHdI1AeSUcSyBcu02rEKsSssxoC2p52tzZ03X786f7VgBOzGnnsnj5eGY/JdI8f8fphYC3drweASitxUF9tDgyxWz1ebdzwVyWgd00L7LJxilzpxfHH5IRyceBbWLjOK2br1KHzvNQU9tFUHKRM1VrOhQN08cxH7jsRgfykT/BU8l+G7tZ17MWewc7rUW0OfiPGI81BtbE=;gyiq/Kar0GYcqjTXC7RKtQ=="
+secured: "U4xprEJDjZbmz4WWR2q8eoanawYjFAH9ntDu4NDbQvQVkxpwxDEmkbboWR3Zx1efpxdXvROnL6pwklqHal5S23TSd5u+qYwYvTSh5kzXJhCssAk3E4f5INcBvuyugtEOYT/H21Qx3bqR455xiIL8jgfJoTwqQ/qUb56n2tgTPjrzPzIZFJA+tUyGIl+fjYdMpt+20Jk698yiHFM2qeAzbZb0eJyP7IBe8LcGPt3CaCAYq4rUjaOCByRt5e5Mq5kGzEDlekGMBHDQ5M89jb1mduNyY3pDCeslGLWOXtcXDWp2+rVw8080GpqcZSDiBVVbs1uy0JnUoW+42UHscra6osVmfzmYkY1P4CjZ/tJSEvQ=;bsmyiVklNqCiFuZv917nPQ=="
 ---
 

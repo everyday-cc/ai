@@ -2,6 +2,100 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-04-14-acing-cx-with-smart-self-service-through-ai-automation-and-analytics.md",
+      "title": "Acing CX With Smart Self-Service Through AI, Automation And Analytics",
+      "excerpt": "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/",
+      "publishedDateTime": "2022-04-14T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-logicladder-and-aws-collaborate-to-strengthen-the-sustainability-and-esg-sector-with-the-sustainability-cloud-platform.md",
+      "title": "LogicLadder and AWS collaborate to strengthen the sustainability and ESG sector with the Sustainability Cloud platform",
+      "excerpt": "Gurugram-based LogicLadder credits the AWS Startup Ramp from Amazon Web ... By leveraging technologies like artificial intelligence (AI) and machine learning (ML), the platform allows companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "originalUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/YS-SM-Layout-1649931582520.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
+      "publishedDateTime": "2022-04-14T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-deep-learning-market-size-analysis-by-share-emerging-trends-future-growth-demand-forecast-applications-global-forecast-2022-2031.md",
       "title": "Deep Learning Market Size, Analysis by Share, Emerging Trends, Future Growth, Demand Forecast, Applications – Global Forecast 2022-2031",
       "excerpt": "Apr 14, 2022 (AmericaNewsHour) -- The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment ...",
@@ -1020,109 +1114,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-razer-and-lambda-made-a-linux-laptop-for-machine-learning.md",
-      "title": "Razer and Lambda made a Linux laptop for machine learning",
-      "excerpt": "When it isn't busy making sleek laptops for gamers, Razer can come up with a laptop fine-tuned for enterprises that develop deep-learning applications for various fields",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "originalUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-13-image-34.jpg",
-          "width": 3612,
-          "height": 2295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "publishedDateTime": "2022-04-13T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform.md",
-      "title": "BlueOcean raises $30M for its AI-based brand intelligence platform",
-      "excerpt": "The medium is the message more than ever these days, and brands are faced with a challenge — but also opportunity — to capture what consumers think about them and their products if they can harness and better understand those messages,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
-      "originalUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/5220369850_6e9b1d1b4f_k.jpg?w=1024",
-          "width": 1024,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
-      "publishedDateTime": "2022-04-13T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

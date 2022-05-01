@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 secured: "KxxygQp/NtqGSQ9xtg/QKIn0lQ22SzUmUp0WPjPuW5KIrhnwmXAN+6p0Mt9/vfV978FIRA+OzKV1or8w2pVI3YoI+Mka/qV7q12KP1fYthSemRpq4arIP0OEQ7mweeRRuP7wCxQ6lyO6OVigUuCD4NFdxKvFnSvvLPbOAiKQdtk6jOZ90cWtyG697raft4RP8JTocVlSQpiWqZ3FiKgGulSZAxaTLhj3OLImJerz6VhqIZMCMKEjDa2qtJQKwsKdatUkfTNLcZ/BFhaDV3EWXQgLbK7im1gsB/TINMsHF4rM3XJQkqflExId70HY/+gOIaecXszvKDnl3KcEes5lNGgdkMw0jeLoXLYJu5J9K2o=;uBvl9aMC3XJyQHkkHH2T+A=="
 ---

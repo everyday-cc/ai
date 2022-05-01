@@ -783,22 +783,31 @@
       "title": "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover",
       "excerpt": "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-great-recognition-achievers-report-reveals-recognition-reduces-turnover-/2022/04/19/9585084.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-great-recognition-achievers-report-reveals-recognition-reduces-turnover-/2022/04/19/9585084.htm",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/science-canada-770af8ce578c44b3a9e6dac113b3f86d",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/science-canada-770af8ce578c44b3a9e6dac113b3f86d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T06:17:00-07:00",
+      "publishedDateTime": "2022-04-19T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

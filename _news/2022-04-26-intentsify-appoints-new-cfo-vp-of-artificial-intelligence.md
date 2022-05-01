@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Intentsify Appoints New CFO, VP of Artificial Intelligence"
-excerpt: "Intentsify, the leading Intelligence Activation Platform and Demand Activation Programs provider, today announced another significant expansion of its executive team, as well as its second consecutive year of sponsorship of the Forrester B2B Summit taking ..."
+excerpt: "Intentsify, the leading Intelligence Activation Platform and Demand Activation Programs provider, today announced another significant expansion of its executive team, as well as its second consecutive year of sponsorship of the Forrester B2B Summit taking place May 2nd to 4th,"
 publishedDateTime: 2022-04-26T15:13:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/intentsify-appoints-new-cfo-vp-of-artificial-intelligence/article_cf6a5df5-b68b-5c56-8bb7-595895deb303.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/intentsify-appoints-new-cfo-vp-of-artificial-intelligence/article_cf6a5df5-b68b-5c56-8bb7-595895deb303.html"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-964c44f07dd649a1b2dc63e50afa9f8b"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-artificial-intelligence-964c44f07dd649a1b2dc63e50afa9f8b"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "VWeBecli59JRb5xzmJfMD31XrxnrauzV+w6hTQ1xWOawJASTi/b26K+k8kbBgfokjIADL6+OWj4kDOM59rOgvHHGkyDIwR7pkzCNMCR0yuxK862vDr9lAuN3OXltz2Wzt/3QiWj98s2r/VvNUNlGu08Pg53Fe/yZjOOktT6SBognfpsLAD95apRxTYdmx4C8evYTAqa8pAv/eY01V5VQXkUdRroTxom/lpNF10CKzJ5wpzKiYA6AX7KES8Ix17LcUcp+cxcw8hDt5yegvW4oXsbOwJhTrfBbVay29mRTO6tTfWgHxSX+vivdDvkAk6VDPyU69Jlymji/ZF2YOpiFB1UU2P8FiEZwc3Ze10pQprTO8znj8fvpi4B8rGG+DL/5B0d6/NFbmGigWYZSWZymDi/Hw0fRIgXQVOXzNPMi9ToI3pyJbOI3srtHT8z+Ur7XwVYxM1fa7qLrhPTYmWlt2Zcp1aDp8gIfjH9Mc5UD6hORyToFxV5XTz7c2RHMFrW8vx4C4gSCOmJbtXGoqtWU4A==;cEFHp8YRzHvJiLveEgXtgw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "aK1EkSzmy1o4/SqHQLMYos2p8p9f8vUOrPF34yLrrfMbf3yc5bJs/9o2ekWucyP6PlnymZkqXihw7vsXHrcnulJY0wJTkLq1/a4NenZyTYFh/GQhjYOANDYniWKdxj1Yq4QewMAGAHwJQUeIbL5iJYL4r5ibhzOw8u3/DMq5u4Xw8thivcjtFVQmQQxmYNtwjGFJfypQpfw7mTYPhvldw/xfcUOWdgGobT6n/4tBuyeS18fVQNBijC+SjWYR0/B8qGuvusXjdf0R0sMWM//Ly9O9OKeaMygaP9Lye58vFfJN/QUuMzh3KngpQLyFbKyAFCX8KUCU6KMUrPThPgm6lGfpJk5R8h+dh3V7lXEKzek=;FKEBIfwDLRRyFPBm1OsBhg=="
 ---
 

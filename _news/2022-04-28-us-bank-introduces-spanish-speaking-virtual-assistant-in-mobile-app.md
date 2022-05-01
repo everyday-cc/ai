@@ -25,17 +25,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "U.S. Bank Launches Nation’s First Spanish-Language Voice Assistant for Banking"
-    excerpt: "“Our software engineers solved for that through a hybrid approach using smart technology, natural language processing and real-time interpretation.” By talking or texting with Asistente Inteligente, Spanish speaking customers have an incredibly easy ..."
-    publishedDateTime: 2022-04-27T02:50:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220426005029/us-bank-launches-nations-first-spanish-language-voice-assistant-for-banking"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 17
-
 secured: "Kih3XETNx77qBnDx3xoVdq36KIeV/YQcT/IjrPxKVeBeDGv/o/Rt0ws1AupQMdvNHCZE+cII8xFjDyMLnYl1MIEDdNGgLNkvmZkEVKY/JG648FgyKh/nLcrmxRKr6nyUsyhW3wBPv+Kh0sBhQHHAV+ZYFH7rHFkyYIbgIbb++FdYPxSIbzyC0OXnenwmIzurKgh+vuslavY+G6maUmugIXpiZIGpbuLLMeo4VhKtozOBGryc7wzdzKAS5psBF1C/TAqs+lHbEu6wJ/Jm0U9OJ8syuJVQqszeho361hty56OYO2TA/bUIctlf0Nexszs1FFBMxH+4LUchnpfa0JzrPSRG903+wnYpZlvNMy+tF10=;akJ5KgiOi7Td8en5/O5Zsw=="
 ---
 

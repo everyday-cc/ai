@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-20-aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders.md",
+      "title": "AWS Impact Accelerator Launches with $30 Million for Startups Led by Underrepresented Founders",
+      "excerpt": "(NASDAQ: AMZN), today announced it has committed more than $30 million to early stage startups led by Black, Latino, LGBTQIA+, and women founders as part of its new AWS Impact Accelerator. Over the three-year commitment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-the-quantum-resilient-web-30.md",
+      "title": "The Quantum-Resilient Web 3.0",
+      "excerpt": "The new, quantum-resilient Web 3.0 is the latest phase of the internet's evolution. It is designed to be capable of delivering a more private, resilient, faster and more personalized user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/20/the-quantum-resilient-web-30/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/20/the-quantum-resilient-web-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625eb89d623c547301c5efa7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/20/the-quantum-resilient-web-30/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/20/the-quantum-resilient-web-30/amp/",
+      "publishedDateTime": "2022-04-20T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-ibm-to-make-watson-orchestrate-generally-available.md",
       "title": "IBM to make Watson Orchestrate generally available",
       "excerpt": "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv",
@@ -1031,93 +1126,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator.md",
-      "title": "Hayden AI Accepted into AWS GovTechStart, Amazon Web Services (AWS) Government Technology Accelerator",
-      "excerpt": "Hayden AI, an emerging leader in smart enforcement technologies powered by artificial intelligence is excited to announce that it has been officially been accepted into AWS GovTechStart, the Amazon Web Services (AWS) government technology (GovTech) accelerator,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-manufactural-artificial-intelligence-market-in-depth-analysis-with-leading-key-players-ibm-microsoft-oracle.md",
-      "title": "Manufactural Artificial Intelligence Market in-Depth Analysis with Leading Key players IBM, Microsoft, Oracle",
-      "excerpt": "New Jersey, N.J., April 19, 2022 – Manufactural Artificial Intelligence Market research is an intelligence report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/manufactural-artificial-intelligence-market-in-depth-analysis-with-leading-key-players-ibm-microsoft-oracle-2022-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/manufactural-artificial-intelligence-market-in-depth-analysis-with-leading-key-players-ibm-microsoft-oracle-2022-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

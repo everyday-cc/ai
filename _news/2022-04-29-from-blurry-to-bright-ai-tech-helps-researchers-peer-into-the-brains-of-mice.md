@@ -38,14 +38,23 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "From blurry to bright: AI tech helps researchers peer into the brains of mice"
-    excerpt: "Johns Hopkins biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes,"
-    publishedDateTime: 2022-04-28T14:14:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/951096"
+  - title: "Johns Hopkins Engineers Use AI for Deeper Look Into Brains of Mice"
+    excerpt: "A group of biomedical engineers at Johns Hopkins has developed an artificial intelligence (AI) training strategy to gain a deeper understanding of the brains of mice. The new strategy captures images of mouse brain cells as they are active. According to ..."
+    publishedDateTime: 2022-05-01T18:57:00Z
+    webUrl: "https://www.unite.ai/johns-hopkins-engineers-use-ai-for-deeper-look-into-brains-of-mice/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: unite
+      domain: unite.ai
+    quality: 17
+  - title: "From blurry to bright: AI tech helps researchers peer into the brains of mice"
+    excerpt: "Johns Hopkins biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes,"
+    publishedDateTime: 2022-04-28T14:45:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-blurry-bright-ai-tech-peer.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 14
 
 secured: "z6U9mI/zPyPtpLoAKGblsM2qyV8Zw3J1j/Wy6Cgy6chxy30hBk4zIUTySWrg2cF7YySNBi0RgPR3XEccs7PwNaVBci8WcU72YQJXAVitfR1yziHmOsmcIxmyNfZv9/WCGBy/0N0n+c4Y6pbq65zLK8d+v4RpvogoBwyEBA4lLs5FgyJDIZ+2Lyjt/ILfHgAjGSxc2GM/bHCxeSgUEzn80csmmtGl4OX6zPUd9JBkSwgkndhsR7DT6foeEwFwHpEkL0Vplaf6i1pnCngHnRGdEccPA6XLEhAnKGQpVVs7Cs1Xs3ZJoQqOY9YAezkwnDzCuJoSy0g0ze9DFNUo+JQyA0otbSbuq+W43ZTGz0pcPwc=;lt4dqtvIf7qppP0+OkKGIQ=="

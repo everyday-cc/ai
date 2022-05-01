@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-22-state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international-visitors.md",
+      "title": "State to use facial recognition at Honolulu Airport to speed up travel time for international visitors",
+      "excerpt": "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening",
+      "sourceUrl": null,
+      "webUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
+      "originalUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/4/06/40611144-6dcb-11ec-9c2b-b794470070e4/61d4fbcdbb7ed.image.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
+      "cdnAmpWebUrl": "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
+      "publishedDateTime": "2022-04-21T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KITV",
+        "domain": "kitv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing.md",
+      "title": "Taiwan Unicorn Appier Bets On AI-Driven Software For Digital Marketing",
+      "excerpt": "Academics-turned-entrepreneurs Yu Chih-han and Winnie Lee led Appier to become Taiwan’s first listed unicorn. Now they're betting on global demand for the marketing firm’s AI insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62610776ca5e4f77243c3a02/0x0.jpg?format=jpg&crop=2359,1328,x0,y141,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies.md",
       "title": "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies",
       "excerpt": "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,",
@@ -1076,101 +1171,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027.md",
-      "title": "Global AI in Computer Vision Market Future Demand, Top Leading Players, Competitive Situation, Emerging Trends, And Forecast To 2027",
-      "excerpt": "Apr 21, 2022 (Heraldkeepers) -- Global AI in Computer Vision Market: is expected to reach US$ 77.78 Bn by 2027 from US$ 15.6 Bn in 2020 at a CAGR of 25.8% during the forecast period of 2021-2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022.md",
-      "title": "Machine learning hiring levels in the air force industry rose in March 2022",
-      "excerpt": "The proportion of air force equipment and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 48.5% of the companies included in our analysis recruiting for at least one such position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
-      "originalUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/04/IS9OI-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Airforce Technology",
-        "domain": "airforce-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

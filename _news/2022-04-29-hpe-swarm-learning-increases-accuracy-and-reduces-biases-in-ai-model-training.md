@@ -20,31 +20,22 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Prognostic model uses brain scans and machine learning to inform outcomes in TBI patients"
-    excerpt: "A prognostic model developed by University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons is the first to use automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI)."
-    publishedDateTime: 2022-04-27T02:02:00Z
-    webUrl: "https://www.news-medical.net/news/20220426/Prognostic-model-uses-brain-scans-and-machine-learning-to-inform-outcomes-in-TBI-patients.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220426/Prognostic-model-uses-brain-scans-and-machine-learning-to-inform-outcomes-in-TBI-patients.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220426/Prognostic-model-uses-brain-scans-and-machine-learning-to-inform-outcomes-in-TBI-patients.aspx"
+  - title: "HPE Creates Its Own AI Stack For Large Enterprises"
+    excerpt: "While the hyperscalers have been running AI workloads against vast datasets in production for a decade and a half, many large enterprises have lots of"
+    publishedDateTime: 2022-04-27T15:00:00Z
+    webUrl: "https://www.nextplatform.com/2022/04/27/hpe-creates-its-own-ai-stack-for-large-enterprises/"
+    ampWebUrl: "https://www.nextplatform.com/2022/04/27/hpe-creates-its-own-ai-stack-for-large-enterprises/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/04/27/hpe-creates-its-own-ai-stack-for-large-enterprises/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 65
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/hpe-logo.jpg"
+        width: 819
+        height: 511
         isCached: true
-  - title: "Machine Learning Optimizes Outcome Prediction in Traumatic Brain Injuries"
-    excerpt: "University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons have created a prognostic model that uses automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI)."
-    publishedDateTime: 2022-04-27T12:00:00Z
-    webUrl: "https://www.genengnews.com/artificial-intelligence/machine-learning-optimizes-outcome-prediction-in-traumatic-brain-injuries/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 33
 
 secured: "0BvBZ+g0ChdImp03/8OgPdeUUrEqss72JD8DNCydD80k3PIIbBn3e7jR54Wu+Fv6dXyQDtit0EWI/ewBzdzOURYcDzhGeTVET/zf8IFcs7SbPDa8aP6xb8cZyXV917QPuakkZADLy+SCP5Dl5MRJ1AVCsptwKgLshk56zya/9lYNieYBR4xHUyXlTSdN2C4Np2qnpPHdW0LvNvaWDrm1SOnN127sOD9IL5VEZge6R1iyHBdOwbL7Vm2pml+utkN5pzh9TMCLEPEruTsH+iPfJDmvTuLbFb1RtS5a2Ix1w5by6L5+Y02bb7x/f45OoLjDcWAZS+wWKqg5jVSpgBkF+/0hgCysoqNi1aTCu8HlCuA=;gq+T3/RMPaPwMU6rr4SVAQ=="
 ---

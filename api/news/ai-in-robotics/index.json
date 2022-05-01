@@ -464,6 +464,40 @@
       ]
     },
     {
+      "path": "_news/2022-04-27-space-discoveries-that-will-blow-your-mind.md",
+      "title": "Space discoveries that will blow your mind",
+      "excerpt": "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from",
+      "sourceUrl": null,
+      "webUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
+      "originalUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJTV",
+        "domain": "wjtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-man-recreates-childhood-friend-with-ai-then-it-tries-to-murder-him.md",
       "title": "Man Recreates Childhood Friend With AI, Then It Tries to 'Murder' Him",
       "excerpt": "YouTuber Lucas Rizzotto said he modified a microwave with a text-based AI in an effort to build a friend that ended up being un-friendly.",
@@ -1349,40 +1383,6 @@
       "provider": {
         "name": "KRQE",
         "domain": "krqe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-softbank-robotics-invests-in-hong-kong-startup-avalon-steritech.md",
-      "title": "SoftBank robotics invests in Hong Kong startup Avalon SteriTech",
-      "excerpt": "SoftBank Group's robotics arm has agreed to buy a minority stake in cleaning technology startup Avalon SteriTech, marking the company's first investment in Hong Kong. Read more at The Business Times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/garage/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech",
-      "originalUrl": "https://www.businesstimes.com.sg/garage/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
         "images": null,
         "publishers": null,
         "authors": null

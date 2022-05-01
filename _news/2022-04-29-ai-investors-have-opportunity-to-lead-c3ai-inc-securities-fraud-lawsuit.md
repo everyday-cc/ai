@@ -34,6 +34,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
+    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-05-01T16:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n26921512/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadli"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26921512"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26921512"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
     excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
     publishedDateTime: 2022-04-28T10:45:00Z
@@ -57,20 +73,6 @@ related:
       name: WGN Radio
       domain: wgnradio.com
     quality: 15
-  - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
-    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
-    publishedDateTime: 2022-05-01T16:05:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors/article_9b9db8df-40c2-51bf-bb69-f6b5bbc22156.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 6
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/ee/aeeef9ce-a1fe-5d9d-95f5-6109fe1775d3/607f489c76ee5.image.jpg?crop=1030%2C541%2C290%2C0&resize=1030%2C541&order=crop%2Cresize"
-        width: 1030
-        height: 541
-        isCached: true
   - title: "C3.AI DEADLINE ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action Lawsuit Has Been Filed Against C3.ai, Inc. and Encourages Inve"
     excerpt: "NEW YORK--(BUSINESS WIRE)--#Action--Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, reminds investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) in the ..."
     publishedDateTime: 2022-04-29T12:00:00Z
@@ -93,6 +95,15 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
+    quality: 0
+  - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
+    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-05-01T19:50:00Z
+    webUrl: "https://www.kget.com/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
+    type: article
+    provider:
+      name: KGET.com
+      domain: kget.com
     quality: 0
 
 secured: "rdz5WpYuHje2Ma4H/3W3+eElhrF3qn6fpn/um5EE4cv8dyM8ZCN/9lHcNxzdWf+uSird47sGclDdY1H+59JnOJC/s/3cflDEnkNcgzn/9IIMQvff3wl1zBoaMcUgfeUfuxmXcxq2hEOwQZ0Z3InmKASKeVGRKFSQWLA3eh9TTchKzJPyMCduLYMHBNIhNdgdzc+hbk7+UYF4FwXY3S1YXGDSuZxoDqirhVL8FAAP2klWMPQ2NYKym3Hlf8tLzqeWbv84gtCydZEeTZYvFzWynoQJpFVBdCks2+MUbnanLHokDCpCuUjQJMZtBQ/kNFz0/JuKFW6Ygfvsm1CPnQz/81cNpqH45446OXWaxYy6xVE=;UnU/OljDW92Ui7TWAfEZ7A=="

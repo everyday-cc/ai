@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "This AI-enabled robotic boat cleans up harbors and rivers to keep plastic trash out of the ocean"
-    excerpt: "Hong Kong-based startup, Open Ocean Engineering, has developed Clearbot Neo, an AI-enabled robotic boat that autonomously collects trash in rivers and industrial waterways."
-    publishedDateTime: 2022-04-28T06:49:00Z
-    webUrl: "https://news.microsoft.com/apac/features/this-ai-enabled-robotic-boat-cleans-up-harbors-and-rivers-to-keep-trash-out-of-the-ocean/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/clearbotresize4_1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-enabled robotic boat cleans up harbors and rivers to keep plastic trash out of the ocean"
     excerpt: "The most challenging part of the project was developing an AI model that could detect and identify waste in the water. \"We simply didn't have the computing power available to train, run and test the models,\" Gupta says. \"This is exactly where Azure comes in."
     publishedDateTime: 2022-04-29T08:33:00Z

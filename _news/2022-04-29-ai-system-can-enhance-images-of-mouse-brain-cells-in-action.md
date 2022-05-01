@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220428/AI-system-can-enhance
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -35,14 +35,23 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 44
-  - title: "From blurry to bright: AI tech helps researchers peer into the brains of mice"
-    excerpt: "Johns Hopkins biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes,"
-    publishedDateTime: 2022-04-28T14:14:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/951096"
+  - title: "Johns Hopkins Engineers Use AI for Deeper Look Into Brains of Mice"
+    excerpt: "A group of biomedical engineers at Johns Hopkins has developed an artificial intelligence (AI) training strategy to gain a deeper understanding of the brains of mice. The new strategy captures images of mouse brain cells as they are active. According to ..."
+    publishedDateTime: 2022-05-01T18:57:00Z
+    webUrl: "https://www.unite.ai/johns-hopkins-engineers-use-ai-for-deeper-look-into-brains-of-mice/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: unite
+      domain: unite.ai
+    quality: 17
+  - title: "From blurry to bright: AI tech helps researchers peer into the brains of mice"
+    excerpt: "Johns Hopkins biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes,"
+    publishedDateTime: 2022-04-28T14:45:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-blurry-bright-ai-tech-peer.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 14
 
 secured: "eYXx5iWJJ+Yxtz7sG7CxgoRPPKfPRuyi1YMtD+0zK+fN16kFYQm2Tp5/fgfeG6iyhJMTLHNVh88zfJD6YHwkTQo40Q9AFO4ani/RVZI1BRA3DJAZ8JJR8W2O84l6H+pRAgfpXO7A+kbcsYJrDyQ/Ue6C4orQcAJ1IS/dqDLejJH+s1dFfeKLQc860rMf9WTcC5q752qP8Vv/PAO9cD2CMF+I9YVMpphtc/uonv9zUOHupaRrlyISOUvIsptmuB/UfNepWocqHcfsrTZlnvdWhhnBlqqXq2chMMOo+IPbyypkNemNdg7ZglfHJfqrLa1Nn9AHnOuHdk8+XnFFhqMLLWT8Ba5yiP1sSrg/Qm+Zkb0=;19T8nElCVpo6Qx6vfHuChw=="
