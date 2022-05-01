@@ -46,6 +46,22 @@ related:
         width: 600
         height: 207
         isCached: true
+  - title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
+    excerpt: "Please visit http://www.rgrdlaw.com for more information. (PRNewsFoto/Robbins Geller Rudman & Dowd LLP)\"> The C3.ai class action lawsuit alleges that the IPO's offering documents were negligently prepared and, as a result, contained untrue statements of ..."
+    publishedDateTime: 2022-04-30T22:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26919198/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-a"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26919198"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26919198"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
     excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
     publishedDateTime: 2022-04-28T10:45:00Z
@@ -78,15 +94,6 @@ related:
       name: WGN Radio
       domain: wgnradio.com
     quality: 15
-  - title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
-    excerpt: "SAN DIEGO, April 30, 2022 /PRNewswire/ --Robbins Geller Rudman & Dowd LLPannounces that purchasers of C3.ai, Inc. (NYSE: AI): (a) Class A common stock pursuant and/or traceable to the offering documents issued in connection with C3.ai's initial public ..."
-    publishedDateTime: 2022-04-30T22:05:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/30/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "NpeAOgieuhBab+kMRdmG9Zn9eMHNf5cfuRM7oT9t8EKSLDe8+TVHJidA7kq/3FKqryqK7gZn9zYdcq6QIGaWfGNDQISoxJgqgM+OoE1MpryyZEGD90tBKfOVNFIR5gJzt4edo7zYHESoDH8DEFFmStzfIH8EfUxIUWC8DM+nlYsuwQ33d/xcMFhpcYX4+JrsC7GeBUoYoJ3o/iSnoHapSChfCp83aXJVE4+tW1kj7A9N+A19YbxOeu4hl/oE6okUSH3EQ+gFPowOGvOo+4lviqGSUvXqzf5yd4pT4cHi0+5+SGY0v0BMcBMn+nfTJ9AqKmdJ9d96QNBOIAT0+m2nlHI1GROjc3Y8pgcrmvxZX2TAnkRib+ZKedLj89+Pc71EjKhMR2Ek1A6hKr0YTc3KA62M1tYMZmade4ziRtN4K94v436Y8FZAXfzJjC4HQLcHg4upEJNe1WH7QFQgOuJfiKM1BVFGI2Axr8U4Hs2UR1rk8gpxe+KpDQ084BQRrK+IAzfe7QIdVhEL9V63dPvgww==;p6IKa32YNvo/LSBER/EMWg=="
 ---

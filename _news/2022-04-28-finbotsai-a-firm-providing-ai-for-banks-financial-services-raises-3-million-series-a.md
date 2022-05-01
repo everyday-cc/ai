@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-pr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/amp/"
 type: article
 quality: 65
-heat: 245
+heat: 235
 published: true
 
 provider:
@@ -240,15 +240,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 10
-  - title: "Altis Closes $10.5 Million Seed Round, Increasing Financing by 50% for its AI Personal Trainer"
-    excerpt: "Altis, an AI personal trainer powered by the world's first Movement Operating System (\"Movement OS\"), announces that it has secured over $3 million in financing, bringing its total financing to date to $10."
-    publishedDateTime: 2022-04-26T14:00:00Z
-    webUrl: "https://wgntv.com/business/press-releases/cision/20220426CL35284/altis-closes-10-5-million-seed-round-increasing-financing-by-50-for-its-ai-personal-trainer/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 5
 
 secured: "2wciMjUfqWRY/COzQ1H1/NK9j+q93kTA8MnLKUtrdEcNtsn1AXzF7htwFTm0seI9Z370d6n/EMTTWHMjlhqCdUJZdSMjLtVBPxt/z6j2ZUMUi48HdDTWvS0ORXLJpFOyhSXunhnWkM6oEwYycx8Wk3hqQJgljNtRSbxSVIEpua0Dr+XTVdWwfUZB5JSRsFJAdKAFlJS0inHgCou7Ww5YH2eS/LPvnYRsCYy79qoM7tmWyCsqaM6P2IgcpAo9mV8UCFq5KNjv6lUL2GHTi43gWL0CnaudkBrI0yIGHnfKenGphe7kBNOMr2HSUDKxoi02lGIYzkYSWLQ9BEiEgtqNr10cZF5AsAQTMHCIp44G3Wp0PQ9tqxz1t04EeKPot6gpJNVrbEH95Pbq/o15he/2txr7OmaBp+MuInASHOBcIcnPP76mq9adS/BHB65e4GW57ECt2bHMTc1JTiMGUs11114UQ0mLS/p1wmj6RdA4+wh5HMCPUZx5mk8uMOVok9eADEyLuBmBufVR3OWLnyVdsA==;+wRU5Q8gkONr+Re1y6STAA=="
 ---

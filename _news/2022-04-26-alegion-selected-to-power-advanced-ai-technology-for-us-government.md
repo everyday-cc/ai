@@ -23,6 +23,22 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Avantus Federal Selected for DOD Artificial Intelligence BOA"
+    excerpt: "Government Technology & Services Coalition member and NewSpring platform company, Avantus Federal, has been selected for the Department of Defense (DOD) Joint Artificial Intelligence Center (JAIC) Data Readiness for Artificial Intelligence Development ..."
+    publishedDateTime: 2022-04-30T18:20:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/avantus-federal-selected-for-dod-artificial-intelligence-boa/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 37
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/07/artificial-intelligence-4478109_1920.jpg"
+        width: 1920
+        height: 784
+        isCached: true
+
 secured: "qBDrNland8uK84CPpXo01ueXqC7dJWe0WSziA8+jGK25QrsI68jZWi6RVRLTUONU+8cq9C57ffnXwDLJX5OQBkJZqlHVVx9z8AtS0UAHfMyWydj+0Bi5H9RLM0AHBOWO9vDBpNDw2YSmJhxoEQqqV9UTYjIBGFSuESBnAvO30jGh9/jJw4/v17SS7fCMQ4Hxc2IsnCW3D3eOww/NuB0RS/KG/EmjmBupPKEx7R/rJaLKioLaSU5nckwpqrjHpjGE/Z4/yzjrMERdJtreR8j7+EeSqrYT4+SdOFAh0wlJYuoZYKlIIWVS2zY46NNDIFlR39g24b/0ZUjuspGOo/NQiwSJywby+Rc/qYTC0DIOE+V7N6QKQpBWMaKa8vfhgCaIlfGfzVt/Vxds74dxZWqdzNulKS2EPxzMhVTWhtckhaWUICc1v4WV+Zr4tPtwsUm9eyrDjfndQlF2l/tyANHW7KWhk2Pqozwzb5DtnH+WlIb1Ro4COYDBETFMQAw5yUFKG+OqYeEvlSQTU0fNqofhvA==;gP5iaw8y6rUqLIPMyQrBew=="
 ---
 

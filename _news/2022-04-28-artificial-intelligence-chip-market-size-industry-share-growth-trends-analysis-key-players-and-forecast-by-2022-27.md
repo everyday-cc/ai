@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27"
 type: article
 quality: 62
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/151736a6e2eb8d12cc67e3bed8e4ef2d99f0efcc-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Global Computer Vision Market 2022 with COVID-19 After Effects Growth Drivers, Top Key Players, Industry Segments and Forecast to 2028"
-    excerpt: "Apr 25, 2022 (CDN Newswire via Comtex) -- Global Computer Vision Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is considered to be inquisitive and holistic accumulating a ..."
-    publishedDateTime: 2022-04-26T14:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2022-with-covid-19-after-effects-growth-drivers-top-key-players-industry-segments-and-forecast-to-2028-2022-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI-Enabled Testing Tools Market 2022 | Scope of Current and Future Industry 2030"
     excerpt: "AI-Enabled Testing Tools Market is predicted to be valued at 1.27 Bn in the year 2030 and exhibiting a remarkable 16.9% CAGR during the forecast period 2022-2030. Telecom companies are leveraging the potential of AI to manage and assess big importance of ..."

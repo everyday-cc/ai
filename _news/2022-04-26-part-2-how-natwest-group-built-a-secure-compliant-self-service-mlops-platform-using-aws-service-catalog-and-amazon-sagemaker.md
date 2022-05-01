@@ -113,20 +113,6 @@ related:
         width: 1536
         height: 768
         isCached: true
-  - title: "Accelerate data preparation with data quality and insights in Amazon SageMaker Data Wrangler"
-    excerpt: "Amazon SageMaker Data Wrangler is a new capability of Amazon SageMaker that helps data scientists and data engineers quickly and easily prepare data for machine learning (ML) applications using a visual interface. It contains over 300 built-in data transformations so you can quickly normalize, transform,"
-    publishedDateTime: 2022-04-26T14:56:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-data-preparation-with-data-quality-and-insights-in-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/accelerate-data-prep-data-wrangler.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "j9GLXtTmbZ5+723vTKQ7MzNb0coavsLXZCSbdeOAnpfpzHf3vcf74ISm/vzcBEhkhEqPvnJ7tBBbCCVbO0IZ+Y5tFDO/6cB/H9kMqIVZTDYBdcssS+num2MeIVOU8XxtcIxtxInBL8nxQnX8HrGUb1wtirdCISDmT8Og26GK+/VrVxfOdhNzxL2kfF5kultv/EPGeZIhkXb2MCtHy35r4Eqbuf1v3k4ouwylmjMfFUvFokYvzvHdtBsbzTh++xhGQszDbZnm5b/naRpbPIE520s7MXjb+6Jci0LZz5N+XrUhJ6nsZn2O5003cnk/QsVZBYyTsAYLatbIeKekEZEsmd4wz4jZ64fDBJyC+ZFsd7s=;Aa9lbSoR34hwfaDPDTz8zw=="
 ---

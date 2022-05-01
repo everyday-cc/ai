@@ -2,9 +2,9 @@
 category: news
 title: "Motorists urged to keep ‘duty of care’ with self-driving cars or face blame for accidents"
 excerpt: "You can unsubscribe at any time. More info Earlier this month, the Department for Transport set out plans to move Britain closer to a “self-driving revolution”. This included proposals to change the Highway Code to ensure the first self-driving ..."
-publishedDateTime: 2022-05-01T04:58:00Z
-originalUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive?fr=operanews"
-webUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive?fr=operanews"
+publishedDateTime: 2022-05-01T03:00:00Z
+originalUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive"
+webUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive"
 ampWebUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
 type: article
@@ -69,6 +69,6 @@ related:
       domain: news.cn
     quality: 0
 
-secured: "IS3H/8TyG8c0hzguNThEh6WmSX7du02Q3OGJue3jPRJ3tAxBwzLfgHF+cPbYkeUPLMNNrHPduuBEz0evekl1ojn9bU6C/eAMId5f3dH1LOIyg8wgutPQi9uW2uOFI8xCKDzxmFgGB0WTikYTnol6faD8T7CReva7pJwgWcH/BDHklpICY39i3IjJBUV9cuw49T4xninffcPfxqfpgOQQ5TmhUVi/9tgKmntoEWMkK9dqmo4tZMQzrH4Jebwxu9AUnByCYmmKf9C/oIV1nASmH7Pv0qS8Ic0dntF9VbeeG4z6+KP3UC7B4BAYR6yZoptiYpHDHQAY4fm+r24DNCiEjocDmdus9QSdxOIff+ZGuI8=;SAD6O1SDXChykg8wswYhtA=="
+secured: "FJlBgQ7C1vNm5E35j+ebX6HpPaZhHwq8rqj1F0I3loVivC83qY5exqOYQZQBGa0yRTSihl52h5AlhH0rxJxYa5zxocmJFVF47Vm7bw/0PuaptCIWjD+/nkFMO6i/UvtICKscbOf7VFNxJfjCqxRPUReS4Z9FBAkN8a8ICG9/nEs3cy3fF/79NxlzCl36kX4X5dTE47Rp9EXUQXgDGKyk11PlEd3EZFd4a/cD829QJeoxjG4oS8NwvuUFlrOZe1IJ10RN34Qh25wYsASM4EIiOFxk8fGjc0Ux3Q2XoyL/DonrzuMjupBTFbds/gLyh4hykL2fTx7OBCm8tVzbgtxjAdaTWFjdhEMLOVlRD1poR4Y=;8txveakr89cSGWPPnO62Eg=="
 ---
 

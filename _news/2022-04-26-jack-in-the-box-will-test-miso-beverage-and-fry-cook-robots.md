@@ -53,15 +53,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Miso Robotics In Pilot With Jack In The Box"
-    excerpt: "Pasadena-based restaurant robotics startup Miso Robotics said this morning that it has inked a partnership with Jack in the Box, the pilot the use of its Flippy 2 and Sippy robots at the fast food chain."
-    publishedDateTime: 2022-04-26T13:44:00Z
-    webUrl: "https://www.socaltech.com/miso_robotics_in_pilot_with_jack_in_the_box/s-0082430.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 34
 
 secured: "mYFq8LKjS39sPUOpv6x1Hsmfk4TQJU/s4PmNpfmUHAaBIGN18sA81XOYXD2VJ+BLbWHFxGn8KAx4DV+AhLHhKePT8em7OpslLY0jc/6HD2KsYXkcW+2I71upYGQjTI2xH0qAp8WlkrT53keER/U/51WUMZhLatqYheiG5W98CIcjF5giDryLwpTTny3RTzYkO08pu4p+uvLVeqbmkJ7WBdnIFCdAqnfQFuTmENF5cMEmyZ42X6Pjk8556R4EKhTVfoPBecKETaccxx3TKTYSM7C6RX30uUleuRtgX1n3NIlTD/+V15blXUrnrKcjOdzhoO0kQrANOzh0N+R3UTQhvcz0VR5xWxshIVIBeu+EAxla10rIP/r8EYlHJ/ED7/pSygoZAJ55eoWyBOjHs04h1Q6cTeawUgzkA9nfr5qEHcoZkUeXUeTuUSA88BxPVf5I4rwL5wy0mc3qEf8cky7/io1IhbnPnFBHPGvrhzJeUf3SORtSFu/NbHRNUrYd0xRsoZbaacpYK6zCdr6hibGRLQ==;dNoqvwPNhsAeB9Q2ZNd6NA=="
 ---

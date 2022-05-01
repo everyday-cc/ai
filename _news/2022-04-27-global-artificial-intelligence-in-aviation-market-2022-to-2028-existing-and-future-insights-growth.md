@@ -28,33 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning Market Report Shows Demand to Boost Industry Growth from 2022 to 2028"
-    excerpt: "Apr 25, 2022 (CDN Newswire via Comtex) -- MarketsandResearch.biz offers a newly added report titled Global Deep Learning Market 2022 by Company, Regions, Type and Application, Forecast to 2028 ..."
-    publishedDateTime: 2022-04-26T14:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2028-2022-04-25"
+  - title: "AI in Healthcare Market Size 2022 to 2030 – Increasing Dependency on Data to Facilitate Better Healthcare Services"
+    excerpt: "Revenue growth of the market is additionally being driven by increasing dependency on clinical data to facilitate better healthcare services and rapid advancements in specialized AI chips for faster processing of health-related data and information."
+    publishedDateTime: 2022-04-29T15:24:00Z
+    webUrl: "https://techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/"
+    ampWebUrl: "https://techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Service Robotics Market to grow with 24.6% CAGR from 2022-2027"
-    excerpt: "Global Service Robotics Market by Segments (Transportation & Logistics, Professional Cleaning, Medical Robotics, Hospitality"
-    publishedDateTime: 2022-04-27T10:58:00Z
-    webUrl: "https://menafn.com/1104102162/Global-Service-Robotics-Market-to-grow-with-246-CAGR-from-2022-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?320558"
-        width: 375
-        height: 250
+      - url: "https://techbullion.com/wp-content/uploads/2022/04/anatomy-g8187785d0_640.png"
+        width: 640
+        height: 544
         isCached: true
   - title: "Machine Learning Market size Witness a Healthy Growth during 2022 to 2028 with Fastest Growing Regions and Countries Data"
     excerpt: "Machine Learning Market - Insights: Based In the end-use industry, “Machine Learning Market\" 2022 is segmented into"
@@ -70,48 +58,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cooking Robot Market Size, Scope, Booming Worldwide By Global Demand Analysis & Opportunity Outlook 2028"
-    excerpt: "Research Nester has released a report titled “ Cooking Robot Market – Global Demand Analysis & Opportunity Outlook 2028″ which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
-    publishedDateTime: 2022-04-27T22:57:00Z
-    webUrl: "https://menafn.com/1104105515/Cooking-Robot-Market-Size-Scope-Booming-Worldwide-By-Global-Demand-Analysis-Opportunity-Outlook-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?639480"
-        width: 443
-        height: 250
-        isCached: true
-  - title: "Machine Learning In The Pharmaceutical Industry Market To Witness Growth By A Robust CAGR Throughout 2022 2030"
-    excerpt: "Research Nester published a report titled “Machine Learning in the Pharmaceutical Industry Market : Global Demand Analysis & Opportunity Outlook 2030” which delivers a detailed overview of the ..."
-    publishedDateTime: 2022-04-29T10:17:00Z
-    webUrl: "https://menafn.com/1104126321/Machine-Learning-In-The-Pharmaceutical-Industry-Market-To-Witness-Growth-By-A-Robust-CAGR-Throughout-2022-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?716071"
-        width: 305
-        height: 250
-        isCached: true
-  - title: "Speech Recognition Market: Top Manufacturers, Consumption, Sales, Demand, Revenue, and Business Development Strategies by Top Industry Players-2026"
-    excerpt: "The Speech Recognition Market report by Allied Market Research, includes the study of dynamic factors that directly impact the market growth, which involves drivers, restraints, challenges, and opportunities. The report offers a detailed study of market ..."
-    publishedDateTime: 2022-04-28T04:51:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-top-manufacturers-consumption-sales-demand-revenue-and-business-development-strategies-by-top-industry-players-2026"
+  - title: "Artificial Intelligence in Medicine Market Set for Rapid Growth during 2021 – 2031"
+    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
+    publishedDateTime: 2022-04-27T07:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-set-for-rapid-growth-during-2021-2031"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 18
+    quality: 33
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/fa4c0760de3f034ce8080d4a1b7c66b9b5a100c8-1-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Size 2022-2030 | Industry Trends –Increased Adoption Of Advanced Technologies In Healthcare"
+    excerpt: "Rising volume of complex data and reduction in hardware costs is projected to drive growth of the artificial intelligence in healthcare market. The global artificial intelligence"
+    publishedDateTime: 2022-04-27T15:02:00Z
+    webUrl: "https://www.medgadget.com/2022/04/artificial-intelligence-in-healthcare-market-size-2022-2030-industry-trends-increased-adoption-of-advanced-technologies-in-healthcare.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 1
 
 secured: "bpwxGa/Joq4Ud+bH1rEY09RM9rIXzVx9AskjKiRgLCoEKYoft+sCn8upaIq5VY8PBi7O4UFN1xHrU2hTfsJMQeS1XjInsfT9XRR+0SSZuOFUaPwF87mdtQsR12R24SPAn0jWxle/LNsCrmCJTy5vSqUW4JvJiChoZ1YXyl027u86LXnWiKKc8QAIcQiM2oqCQOtOLAkF+NPIKJUNYIoVtFDOFpMA/INa6j7m4k6I93lmWM+i+/Jsos3FXY09VQm+nMFe+gSuTrNxowAnpn37MRKK8JCo3pUsvagEeF0t44r6Uh9vCDhkatyvF88TOu3HPMqKmKDFdugZ/CCwXLN25nBIeUBAAxxZuQicp8dyQEk=;05JgsBlYoqpnKqYGExyr1w=="
 ---

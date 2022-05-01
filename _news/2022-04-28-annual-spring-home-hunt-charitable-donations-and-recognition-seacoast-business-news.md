@@ -41,6 +41,20 @@ related:
         width: 870
         height: 489
         isCached: true
+  - title: "Debunking Myths Around Facial Recognition: What Government Agencies Need to Know"
+    excerpt: "In spite of the recent controversy surrounding facial recognition, it’s important to recognize that the technology has real, tangible benefits in the government sector. Consider examples like the U.S. Customs and Border Protection service which ..."
+    publishedDateTime: 2022-04-29T17:00:00Z
+    webUrl: "https://www.nextgov.com/ideas/2022/04/debunking-myths-around-facial-recognition-what-government-agencies-need-know/366313/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 34
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/04/29/042922facialrecognitionNG/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Meet 4 common requests to increase facial recognition trust, financial inclusion group says"
     excerpt: "The success of facial recognition depends on both the public and private sectors working hard to engender trust in AI tools."
     publishedDateTime: 2022-04-28T17:51:00Z

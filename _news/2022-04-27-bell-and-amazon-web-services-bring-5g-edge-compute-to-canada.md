@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/370e783a745aec6c0098558a9faf5594.jpg?t=20220428_002442"
         width: 752
         height: 408
-        isCached: true
-  - title: "Bell partners with AWS on 5G multi-access edge computing for Canadian businesses"
-    excerpt: "Canadian telecommunications provider BCE Inc., better known as Bell Canada, said today it’s partnering with Amazon Web Services Inc. to bring lower-latency connectivity to its 5G network. Bell said it’s launching the first public multi-access edge computing platform with AWS Wavelength in Canada."
-    publishedDateTime: 2022-04-26T15:00:00Z
-    webUrl: "https://siliconangle.com/2022/04/26/bell-partners-aws-5g-multi-access-edge-computing-canadian-businesses/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/172857438_4272236166129236_6561864523636608312_n.jpg"
-        width: 882
-        height: 486
         isCached: true
   - title: "Bell announces the first AWS Wavelength Zone in Canada"
     excerpt: "with AWS Wavelength embeds AWS compute and storage services at the edge of the Bell 5G network. The service targets 5G applications including visual data processing, AR/VR, artificial intelligence, and robotics, in industries such as manufacturing ..."

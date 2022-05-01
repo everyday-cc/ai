@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-3-how-natwest-g
 webUrl: "https://aws.amazon.com/blogs/machine-learning/part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/22/Featured-images-for-ML-8208.jpg"
         width: 1536
         height: 768
-        isCached: true
-  - title: "Accelerate data preparation with data quality and insights in Amazon SageMaker Data Wrangler"
-    excerpt: "Amazon SageMaker Data Wrangler is a new capability of Amazon SageMaker that helps data scientists and data engineers quickly and easily prepare data for machine learning (ML) applications using a visual interface. It contains over 300 built-in data transformations so you can quickly normalize, transform,"
-    publishedDateTime: 2022-04-26T14:56:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-data-preparation-with-data-quality-and-insights-in-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/accelerate-data-prep-data-wrangler.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Part 2: How NatWest Group built a secure, compliant, self-service MLOps platform using AWS Service Catalog and Amazon SageMaker"
     excerpt: "This is the second post of a four-part series detailing how NatWest Group, a major financial services institution, partnered with AWS Professional Services to build a new machine learning operations (MLOps) platform. In this post, we share how the NatWest Group utilized AWS to enable the self-service"

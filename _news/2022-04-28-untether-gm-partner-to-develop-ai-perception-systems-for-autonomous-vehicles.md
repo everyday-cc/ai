@@ -36,15 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Salesloft Launches New AI-Powered Sales Tool For More Accurate Forecasting"
-    excerpt: "Sales engagement software vendor Salesloft has announced a new feature for its Forecast by Salesloft platform, dubbed the \"Modern evenue"
-    publishedDateTime: 2022-04-26T13:52:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/salesloft-launches-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 32
 
 secured: "EsSqgizPnp/djovjBo6wHDcrmlaopNBAnOxIHv+kSmrWJQTXBs6L/lNBJUtg2BRADQ2Pp76ZkMCWJsRfmsd1Dv25PzZROkii3Fd2p837FwLmWBQwwLSuco3f1G6tP7ZaiDpVwlzEX9pVbBmPAFyLsFP+8WcCIuKP9oOSJfTUiaCAmq8hEF56Qtjeuqgh1ePqyFOgvhiQq4T2Z+ZHM4aFx5TcR1OQN+rrerMDObBXgnogCFoQ3TEE/ft6sLXSZRvTInXGKmj8Qc0YN+7NM/e3K5Y1zDXczDHjKlWuDcxqQEasP6sft+GC5k7I4l5FVKscUuVjsWECLs0IeWjDv9xVKBi6Ea/yaL2B0k5gDO92+3lp7YbQl3QswVTdl2HlI/9xT5KkygZrcfLf6zJ2/oOY17nCV2+lP5NptjSLZNyAwZYdVHsHylBLQzvFtQtOYBNxJo2gKiYbcLjeFRGOFQ3m6423sV5j9rUgdSY8Ihh5Jy1ROvEMgsZhEVWBBHNGQeDSGtwZYGCG3hdWgI2aKQfuyA==;/bKbNjJam4UcaqljB293bw=="
 ---

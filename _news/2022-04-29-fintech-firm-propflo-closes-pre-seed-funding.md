@@ -74,20 +74,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Skipping Square One: Where Reusable AI Models Are Finding a Foothold in E-Discovery"
-    excerpt: "E-discovery practitioners have increasingly used machine learning algorithms to cut down the time and money needed for review. Now, some are wondering just how well those algorithms can be applied across multiple matters."
-    publishedDateTime: 2022-04-26T13:42:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/04/26/skipping-square-one-where-reusable-ai-models-are-finding-a-foothold-in-e-discovery/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 31
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/02/Artificial-intelligence-767x633-1.jpg"
-        width: 768
-        height: 633
-        isCached: true
 
 secured: "RtnE59DHBYHpR9LHVfmBS15i+vzOcGvbO3khQQtblECLycPn/XyPV/a1snVeymexwFKa9JnbYcI60V49aYn+uVw8uJvM5qixr4+toZ2mJryvnjubfjgv4rkffmfYGlQmJA/tKqkGgtC45SHJinitnI+y7j9soSLgyPpL2DH5EsOBrKz9O/fW9HxvM5ZWFt14Qv11bHq39iwSEDIg8nPHcR/q4OtTQlqtp6k5822/ExP3JBacZptTLgeevPtP1bDXUTV0AlQLIi2PQp+Bz2ZAlx/3Fev2Usd0KKaFqkpD5s4RQIvvPbw4vnI53YJ5KWB6CRGEYKUBPFuH7vSTFx3A1H5z9lAriM9OgFqGcxhFFOCESKKXRcbh3rb9u7grsLPQ2EtxsQ8wzgEOKQa9ouYTu/l8h5V97yk1Jv0Lt+YTWaty5tKp4XKnm897oRqWheVPXdd/zzM0OI3UlaXYIZCy5zj+tImRMevlVCpzrS/HX/DtyF1v3xEohTFKFLv4Htnawvn5pOOVysixyaO7kOdraw==;QU5ZPnLsa5j7X3XdJvtl6A=="
 ---

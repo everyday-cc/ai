@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
         width: 878
         height: 495
         isCached: true
-  - title: "Salesloft Launches New AI-Powered Sales Tool For More Accurate Forecasting"
-    excerpt: "Sales engagement software vendor Salesloft has announced a new feature for its Forecast by Salesloft platform, dubbed the \"Modern evenue"
-    publishedDateTime: 2022-04-26T13:52:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/salesloft-launches-new-ai-powered-sales-tool-for-more-accurate-forecasting/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 32
 
 secured: "Pllp3+3FUIKL3S2+QVBooeXg8U7oz7ov2cO5suD9Rq5q0e8By6k10Kc8YPoJYGZooaM9jSZpSPGF3uI4Y2NelXiItJWK26VftBa64qMrOcJ/8+mjXunzGVLTWD26Q+bKmrLhbNSXp8GNN4MfYtkaPNarUcYCxNhSSZylbz92cXuGAlBneb4Wd6NH1Ka5uURdCTziabezSRgFrl4S1q51DHwXHK3v5Sc7tYgylM/zUP3E2nlB54lyICRmfHpFZZaKz2w6kWLLUPcC9fjbdglEEk9clu3Ur4Jz0tqzzpDEymqkZC5t9YiTdNIlsl+JTjfC0vwzETdWIW+ar0Cn8cZuYZj+a1ItT9ynoaDtxpM0plvvIRTaJR5lGW1U+oUoWT3jjLdGp4wPfcvlswmNCQRjwzVoh8XwAJEZxge9hQBSso6WiFzh/w93e4cDlJPc03nDwYZbmTm0PxaR99/OfpespFlZbC/StM8KB3iUEey/zcMdVVtTDsiVGI/i0jZ4VBg0086Bf/lqXV1Y8icw+jQVuQ==;D3ITjFkmarQ2OT0YJHRjCA=="
 ---

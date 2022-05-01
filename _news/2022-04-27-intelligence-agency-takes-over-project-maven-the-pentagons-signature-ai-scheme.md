@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Combining Intelligence: How People And AI Can Collaborate"
-    excerpt: "To support the collaboration with AI effectively, leaders must also reimagine their business processes, redefine individual positions and rethink operating models altogether."
-    publishedDateTime: 2022-04-26T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/26/combining-intelligence-how-people-and-ai-can-collaborate/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Future intelligence: AI and the gambling industry"
     excerpt: "One of the fastest-growing areas is artificial intelligence, a process in which software is programmed to perform human tasks."
     publishedDateTime: 2022-04-27T09:38:00Z

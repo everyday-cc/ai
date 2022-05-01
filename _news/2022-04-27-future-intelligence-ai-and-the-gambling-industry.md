@@ -7,7 +7,7 @@ originalUrl: "https://igamingbusiness.com/ai-gambling-industry/"
 webUrl: "https://igamingbusiness.com/ai-gambling-industry/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Combining Intelligence: How People And AI Can Collaborate"
-    excerpt: "To support the collaboration with AI effectively, leaders must also reimagine their business processes, redefine individual positions and rethink operating models altogether."
-    publishedDateTime: 2022-04-26T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/26/combining-intelligence-how-people-and-ai-can-collaborate/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Intelligence agency takes over Project Maven, the Pentagon’s signature AI scheme"
     excerpt: "Project Maven is the Department of Defense’s most visible artificial intelligence tool, designed to process imagery and full-motion video from drones and automatically detect potential targets."
     publishedDateTime: 2022-04-27T13:50:00Z

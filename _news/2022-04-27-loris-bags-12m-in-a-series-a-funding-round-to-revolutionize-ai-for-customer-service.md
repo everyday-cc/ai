@@ -238,15 +238,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 17
-  - title: "Altis Closes $10.5 Million Seed Round, Increasing Financing by 50% for its AI Personal Trainer"
-    excerpt: "Altis, an AI personal trainer powered by the world's first Movement Operating System (\"Movement OS\"), announces that it has secured over $3 million in financing, bringing its total financing to date to $10."
-    publishedDateTime: 2022-04-26T14:00:00Z
-    webUrl: "https://wgntv.com/business/press-releases/cision/20220426CL35284/altis-closes-10-5-million-seed-round-increasing-financing-by-50-for-its-ai-personal-trainer/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 5
 
 secured: "qbUdg34nZfY0rpk8+G+MODA6zTCUsTnSAB15uAGMB/C1+6EmdE/bS8S1dvSUuik2ErFpWwvNiFiC8F77p3thC+an3/fZ8gj8pO/d8dnxxLUmr/DAmmrGdlHK+1ifKKlx5lMw4GWLAWuOlO30zFrYKXmV1SPjD/Y8z0ZY7wUjPuun92tez6T02OYGGxeDtjxwPlstb5RwXLy1meI0fRtRmVuFNAn5/TjUm86mzjbz5EFK67Dk7uN3SMzH1YKDJK/lyrPFTu95cAUvKUtWl7aV57PvQtikdRx7lj/MF/cIQbjJzBgo3mNVheU12xKphhjVnL/kudKxqMnnLKhNEB/k7W8VAHPwIpOByjPYISbBkrtpEaZddZ7gYnlHuR9/eX/exr9vTR7YktVE1I8zvnrQ/gMZaT7O+w+NxA4XXEJOqxPx+35dsSXf9bIoWV2a7fVUvPWNTVOItzrosxgxU6zvEa1EC+nwZ5Ai781ceFfMJ6/D44fC7Pu5ic9W86OJ8QI0ZP8fZVJEng6DlenVbyFyiQ==;f/N9BRnyyz6eI0nmtRx8LQ=="
 ---

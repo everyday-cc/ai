@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mit
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/amp/"
 type: article
 quality: 103
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: TechCrunch
@@ -30,24 +30,6 @@ images:
     width: 1024
     height: 535
     isCached: true
-
-related:
-  - title: "Final week to buy 2-for-1 passes to TC Sessions: Robotics 2022"
-    excerpt: "Who’s ready for a full day dedicated to robots, the people who build them, fund them and envision new possibilities? Would that be you? Then get ready for TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston,"
-    publishedDateTime: 2022-04-26T15:00:00Z
-    webUrl: "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/"
-    ampWebUrl: "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628-1-1.png?w=1024"
-        width: 1022
-        height: 535
-        isCached: true
 
 secured: "JtKGzujk+N8HdqVFQREDDujbmRoh3bOun/lzpQBqL/Xox88anQS9fyldntB7EhdYMVhbQkff5vPbl/4dC/t4h4s7jU/LWaWh/y2VQrDfP+MB4svC9TKKA+gIQfpavucuWXxfka1z7HO4L7083Xh6/TIezkPjWKGGPFwOsMeJ57bFutoPPNdd8lLYoVAJpNU6dCSLZiNjBDSQTtw4dOgyVVUnL+5C1ZUO74OmhfzpWzBsbpkTbRJclv8GoU8CVh2WMjA2Y6a+FOhFGV1hddAL81PEIOeVaUVIQuYlL5URaunnYgHKRdIYXjl4L+o9vny8jIBdrVXIduAU9/nbWILovsrTcxvqVdVFlt2GBjwPsLdfB8oC1P357W4SvqaStKf52M2xx7AyIKqHASaq+nZlC/UaFMqi2uQGps6ri9INZA8Zje5dF5BsWjDkL+qc/93GmXWG6clddFi+PoZogpJywhkyhLnIF1K+JiWgh4XiLXBMZLlxPFZzmirodGsFY03542t3jNo36v8uIGyJLau/Gw==;huFf74lRkp0ExF0P0kGA5Q=="
 ---

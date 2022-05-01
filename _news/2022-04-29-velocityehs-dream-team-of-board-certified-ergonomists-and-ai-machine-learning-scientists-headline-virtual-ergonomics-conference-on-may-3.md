@@ -26,24 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "VelocityEHS® Industrial Ergonomics Solution Harnesses AI and Machine Learning to Drive Intuitive Risk Assessments on the Accelerate Platform"
-    excerpt: "VelocityEHS, the global leader in cloud-based environmental, health, safety (EHS) and environmental, social, and corporate governance (ESG) software, announced the latest"
-    publishedDateTime: 2022-04-26T13:41:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26813207/velocityehs-industrial-ergonomics-solution-harnesses-ai-and-machine-learning-to-drive-intuitive-ri"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26813207"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26813207"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-
 secured: "8HKk2iAKZfQw1numNxPY38EwS9TKHSa5NKFTPnyQ2S/ZT9lzkvnc2NBCHLopRjPnMMxsDdrvosrqP5qGUpC3RPTdcFSp6RAseT/P9NuBGw2qR2a2Y+23G+ia32LUqwM4ydVReAW9Otj+Lx8tv6WKMZbZiD7UKOXVznzIwl7ssRgpca2S4d3J+SSpp9k2RxELa+LDnsumevq1ZPqzyDE1RFFk5IQlwxmOsterMHeVdgeP6bCe7klgrke5ytoSudGVUVl1oJ64TTy9eWHI5f5FLoE90es2GPdJV1ahu/eVhLGGKPfAf2UGey1Hx9gbmvdCeUdRwmY3SvbyyRdMAJzP+5IGZ4lV3obZxtO2rnE9rdd1x6w/hk0tdf4eXgMebiM9Z7uQ68TB4QtRv6HQAWvdbJKlN2XtQDC0lqb3jlYMBQ1xg6bxiVcPc+ZS6sTfddZBBNH2AFNRPdjVA/5+jJX3zDodAc50tqyICLXBuU8Pa/ajeP5cZZcxr6zxVM9EDqTaMdY/CKjiiTX8z7WBSXJt6w==;59EgZP3fDBdxSivW/VTNvg=="
 ---
 

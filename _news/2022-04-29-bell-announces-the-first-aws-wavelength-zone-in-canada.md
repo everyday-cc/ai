@@ -63,20 +63,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Bell partners with AWS on 5G multi-access edge computing for Canadian businesses"
-    excerpt: "Canadian telecommunications provider BCE Inc., better known as Bell Canada, said today it’s partnering with Amazon Web Services Inc. to bring lower-latency connectivity to its 5G network. Bell said it’s launching the first public multi-access edge computing platform with AWS Wavelength in Canada."
-    publishedDateTime: 2022-04-26T15:00:00Z
-    webUrl: "https://siliconangle.com/2022/04/26/bell-partners-aws-5g-multi-access-edge-computing-canadian-businesses/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/172857438_4272236166129236_6561864523636608312_n.jpg"
-        width: 882
-        height: 486
-        isCached: true
 
 secured: "EbziBYWGMNu22SWFQja0RfMMsTLlYHZwWszPT5RrheU7ks6PbpxERqYFhvQ4sLXJ1NDZ24lpkQUGLoBnWHfEkWMj0aVajhTruq2i1cyS2jQyr9D+JSqaquyPlJSnCg5w7+1UqTb0eRX3DppjG6gNm3xfmjrjGcMq5HHy0zKMfrgA5M/nlO905CljGBtY53AYYUJ3xtiTiGl8OSXHsSvtHsugux/6sDzSRxUs/GG7oy+Mph1NvptZrry+M6BlNt9CzVgGQaHcSTtg8tHP0WTXpurZOjM7j/0jTWeu7oJhNd4lN9kRGAUaogmIfj7w7LrN2Yn4IAG0iMUymfeuV+SULStN2cMd9PuTz3twWY6YSheQtmosnS5J4abEjfB6K3vEwfNArjjv3LQuCeqUppiBdYkS+6aSjg0JVgdvYPYg9rkY4rO6juF1EnSCNF0XDGNpe5Cj4x3UnnPh1beNZpXk7puD4Xb30+tQgs5WEU9hQaz9dWLxHGvXJgfWZgPZZcy5QL5gaKreMXh4/AVvvkOAyg==;kLYxqTaCjDaFRkkRlfMJ/w=="
 ---

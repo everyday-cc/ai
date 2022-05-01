@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Impact Accelerator Launches with $30 Million for Startups Led by Underrepresented Founders"
-excerpt: "(NASDAQ: AMZN), today announced it has committed more than $30 million to early stage startups led by Black, Latino, LGBTQIA+, and women founders as part of its new AWS Impact Accelerator. Over the three-year commitment,"
-publishedDateTime: 2022-04-20T12:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html"
+excerpt: "Each startup receives $125,000 cash, up to $100,000 in AWS Activate credits, business and technical guidance, a peer community, and ongoing support to help accelerate their growth Amazon Web Services,"
+publishedDateTime: 2022-04-20T00:00:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/04/20/aws-impact-accelerator-launches-with-30-million-for-startups-led-by"
+webUrl: "https://stockhouse.com/news/press-releases/2022/04/20/aws-impact-accelerator-launches-with-30-million-for-startups-led-by"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
-    isCached: true
-
-secured: "Wd9B7VpQQgMUwMY6A/+0qOm7iW1ov8Qbz/GzgCq2T4Ft4HmFIUE6gRglItBkhUaOZFCihju5dl8nv/vfwG7cv0f77ESAjO+rcGrw2Fl6cGdIhiB6aiS8cX+s1DWGNgJp1tSPdRteuD+85Fg6Ve7gAE3GEUvH7BcG7XH8wGf2iYw9xN/FIoAAarm7hwU+3/54Ir7XvR/uNki1wm2a3KMxY04EvRqIJKHfeycEPmR7JJYB3dUff0GsBFp+u4OBkUq3liDcylOUTeHW2TjOSoWlHODnG8Ta8NOFUvNyQ0D0ORneSA2qTDeBOA11m16nF7giE2U6f/KF+dcW6Bo7rhy6iEBE9ObtStaXCV37Uq59KbaZLeHq6qUKAAAu93a1XJAWh8LglNJ3sEv7eAdhMVe2PenZs6ty/40J8R//qJWbpESgV6/z9d2o1PU5xwN9gSFNgqmE+HL0IAUOOdjpvkgvxpJqph6nPs+Kzco7ZDo/CW/blNGN5dcSXJAPaRqbDlqAEzx9hej/Vbdsd10cKHlN7w==;yOfBzCD8e7kVlJJ9FznRuA=="
+secured: "Pyz9glF3/gOpA591xRhzMuzpJBHv5f8+lX5P+xNV+e5m4PKVHcZHHrnTtIfACNUuB/iXwmdqanYV1NAUgMkEKfunmhLWsUl6ArESl7dotaScdHHnjRoePBTH7o7w8X4a0Eg9fmSxJhxfL6MMgjCBnlGu/N6U9ag2AgpQEIea90s8gfWc+X6HuS56Y7XdrH+F3yGjURhz0+mYbmmxK5zMq5bg2pzxYI+icREN30UQJziJLDzkVeWd7Q8FJBLs7EmQd8Kt+Uhv+aME6G3CZ6xdSUFkEsExgrWBxWZdWPeqZgwuzSzjsPJpYZXzCyeAPTGqn6RTLW0SyfFe7v6ufCWaEJd3puRm3AHYE5KzSQgKr0HafHxLaSDtKCrRsPs6rld0V2Sp83VN/VYjPQwaRJ6musNaassxROYvXRzw6dNyBl7QhcVUiuZBXV01aFRo+vMgym6wiGnTbCPRDytC0lgRtzY1bW5o4YGoD9UQxW5jHPm5cpwcwG/OYEFh9l4cDN4YY0wiPK5bEiSbWaRWrAqUaA==;XzAuQMxCawOSPEkd8bnC0g=="
 ---
 

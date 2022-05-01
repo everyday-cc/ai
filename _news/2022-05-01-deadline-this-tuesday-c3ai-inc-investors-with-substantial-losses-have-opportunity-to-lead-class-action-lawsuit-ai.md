@@ -1,21 +1,29 @@
 ---
 category: news
 title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
-excerpt: "SAN DIEGO, April 30, 2022 /PRNewswire/ --Robbins Geller Rudman & Dowd LLPannounces that purchasers of C3.ai, Inc. (NYSE: AI): (a) Class A common stock pursuant and/or traceable to the offering documents issued in connection with C3.ai's initial public ..."
-publishedDateTime: 2022-04-30T22:05:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/04/30/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have"
-webUrl: "https://stockhouse.com/news/press-releases/2022/04/30/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have"
+excerpt: "Please visit http://www.rgrdlaw.com for more information. (PRNewsFoto/Robbins Geller Rudman & Dowd LLP)\"> The C3.ai class action lawsuit alleges that the IPO's offering documents were negligently prepared and, as a result, contained untrue statements of ..."
+publishedDateTime: 2022-04-30T22:03:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26919198/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-a"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26919198/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-a"
+ampWebUrl: "https://www.benzinga.com/amp/content/26919198"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26919198"
 type: article
-quality: 0
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
@@ -88,6 +96,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "vtMgTiUlTCLBOe4jIIjq0y3pJHS/yR/MsCDlbHdeuDz9lM22J9HnS7NnQKu2uX1r246fuaDvrQbiIbhSl984IspZbmt/4cYK6kgpsIS5tTkfTrzlyoVMETdy8KIfXYhPjWTcDvnE9P6TsjUpGn/4Ei0omJRN+pRXKa4o3iXm97QP8lzS/AG+Ur+OTm4iVaikHiuSSUr2yAn7iZj897Jl7c2/3V3eOQK2iXycPlxMkhBaASmhWCNOFyjp6QTCiT7pO7TUsC3iQeA1SKo4usJjudJCnfD7F+tCtYVgHI2wivYZ/2xaWJjW+uRE+8aUhX+plUBWdgnqaAL4+NWcMbkuQlfx9TkIkboCN4rYFL+sVjrtgzhR3BZb+PlWUUgithvaljH20Mk8XAD1EAlrA20B3xUqfwBaA2e6mR5HDSlnR4dUnf5nkNTAOAVcCUDh+HBBjeBL9CPhW2ybL1M2MMKxyawWRf1o9XKt7PseprtvfFPrczp4aqCaY488i8fn3AceaxMbpReUjWUe+8k8rq4DIA==;Ly9zCqGUWCmLmZOcTxLCcw=="
+secured: "KrQgcswaVA/gXYLTvqgIAZCIoqaJGwfHm1C7ltWF1VvlPkc+CG2UCjpLscy7b19Wict6vy1JUUnmMMb6g6IQGf0hX6NF9pHFPTQjrcWFukeJGtv9WPpD8EMjaUEpwPgF0geNgFOsrj9DwxJVdZc0v6k/SKU8pzEvAWrabN/eRZPI9X0+wSspur6cD7W2ZMdGyTVdrl+NV4I0kX9kKvZdwsn+gSXf6XJe0+cJ+wzyauvNKjWrpwzr9zpuRYbxirmZMlPaPTZnbOIsPDaeiYQosEREjveuFxrGbakCCT4hbQkcqlZRgnThXhz8RREm3ngbM0cf373whYZzlM7liKuX7m+gkdkxvvcOic+u3LLbtvc=;dHDlUdK29y9AHhEkGWJ01g=="
 ---
 

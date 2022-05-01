@@ -239,16 +239,7 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 10
-  - title: "Altis Closes $10.5 Million Seed Round, Increasing Financing by 50% for its AI Personal Trainer"
-    excerpt: "Altis, an AI personal trainer powered by the world's first Movement Operating System (\"Movement OS\"), announces that it has secured over $3 million in financing, bringing its total financing to date to $10."
-    publishedDateTime: 2022-04-26T14:00:00Z
-    webUrl: "https://wgntv.com/business/press-releases/cision/20220426CL35284/altis-closes-10-5-million-seed-round-increasing-financing-by-50-for-its-ai-personal-trainer/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 5
 
-secured: "B+L2KX4VMFmoyB0cW14D2LH1tQkk4twBoaNb1jNXsHC+xMkvyE302nHca8dhZnuQioa+rF/A8S6ibQidA4Ja5bagf7Iqtfq2n81PSxKI5pRtYGJPw+K2lkF/DZJvFyp5wTOvxEgNRCzv6e6xn6icoOHfyXuwg7tgUQSOmpTJxP8Zh3DBRP0+Bf6UKwSHFboYdpNLq0/kMcRaDhTAejLzcEniygfYMCcqtODwx1vGueN8FjgYu4nCxAxAzDEWwtdqGRwogsnNz+nBygfAKtwhQlHhpaA6uy58uOd+7+i+ALlpkF4ar2/ON1QyLFIUQn/PZdT6QjWXeQlsfXNhQmgWJvMAZGXeXlcApWlB2ZNpi18=;/CedSzfYnFG0Lae17OAfyg=="
+secured: "+gyESleLgBfzlRlAkrRShvSbNl18+OrXlPOLQ6mKdtrKqQ1siTG4CwlTJU9d+z70/4da9CIpCWPIMoArzyNY/2n3AQ12flZNUMCLtYvWJhE4uGbMnM1tn3ZTMEeU8iByX9VbJfbzR1cRdlHYfZ0bZ25HwLRRS6ckqcccW4s7m1pgWEAC4mYDNBG1dPCQifOz67LVKXukF38ergB0pjbvSydBdHeovci+GtiZLgsAEOlp2/0BAouHj1ia/IXWMOeDwIYveoyALZShxVQHXiH1rWRdMq3NFLgilx7HYunN2XXvHAGEqmAO5fQMf2kMCKI0QC2tEmiwbT5nkny1VoKEMFCsexcdyhLy0w3GoLDApyU=;rIqEM/wC5dTSy7KJYUv0/Q=="
 ---
 

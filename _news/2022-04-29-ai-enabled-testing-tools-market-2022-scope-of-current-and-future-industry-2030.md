@@ -94,20 +94,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Computer Vision Market 2022 with COVID-19 After Effects Growth Drivers, Top Key Players, Industry Segments and Forecast to 2028"
-    excerpt: "Apr 25, 2022 (CDN Newswire via Comtex) -- Global Computer Vision Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is considered to be inquisitive and holistic accumulating a ..."
-    publishedDateTime: 2022-04-26T14:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2022-with-covid-19-after-effects-growth-drivers-top-key-players-industry-segments-and-forecast-to-2028-2022-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Size, Share, Global Industry Outlook by Types, Applications, and End-User Analysis Industry Growth Forecast to 2022-2027"
     excerpt: "The\"Facial Recognition Market\"(2022-2027) research provides an outline of the business with key insights, applications"
     publishedDateTime: 2022-04-27T05:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-usin
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Skipping Square One: Where Reusable AI Models Are Finding a Foothold in E-Discovery"
-    excerpt: "E-discovery practitioners have increasingly used machine learning algorithms to cut down the time and money needed for review. Now, some are wondering just how well those algorithms can be applied across multiple matters."
-    publishedDateTime: 2022-04-26T13:42:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/04/26/skipping-square-one-where-reusable-ai-models-are-finding-a-foothold-in-e-discovery/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 31
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/02/Artificial-intelligence-767x633-1.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Fintech firm Propflo closes pre-seed funding"
     excerpt: "The business has a strong advisory team including the chief executive of Yopa and ex-Purplebricks managing director Verona Frankish, and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage ..."
     publishedDateTime: 2022-04-29T13:00:00Z
