@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in
 webUrl: "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rapyuta Robotics Secures USD 51 Million in Series C Funding Led by Goldman Sachs"
-    excerpt: "Rapyuta Robotics, Co., Ltd., a leading developer of collaborative pick-assist robots (Rapyuta PA-AMR), or warehouse robots, and pioneers of Cloud Robotics, today announced USD 51 Million (JPY6.4 billion) in Series C funding led by Goldman Sachs to accelerate the expansion of robotics solutions and artificial intelligence technologies."
-    publishedDateTime: 2022-04-26T11:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-artificial-intelligence-889170ee356a42b5b7f59b8b398edd66"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "VisionNav Robotics Raises $80M in Series C+ Funding"
     excerpt: "Founded in 2016 and led by Li Luyang, CEO, VisionNav Robotics is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial vehicles, providing autonomous vehicles ..."
     publishedDateTime: 2022-04-30T12:13:00Z

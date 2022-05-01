@@ -3,8 +3,8 @@ category: news
 title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
 excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
 publishedDateTime: 2022-04-28T12:47:00Z
-originalUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
-webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
+originalUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
+webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef"
 type: article
 quality: 34
 heat: -1
@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-    publishedDateTime: 2022-04-29T12:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
-        width: 400
-        height: 215
-        isCached: true
   - title: "Pony.ai to launch robotaxi fleet in Guangzhou, China"
     excerpt: "Pony.ai will integrate its autonomous technology into GAC vehicles, which can be hailed using Ontime's platform or Pony.ai's PonyPilot+ app."
     publishedDateTime: 2022-04-26T15:10:00Z
@@ -124,6 +110,20 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ap22118230409001-sixteen_nine.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+    publishedDateTime: 2022-04-29T12:01:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 66
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
@@ -220,20 +220,6 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 46
-  - title: "Self-driving startup Pony.ai bags commercial taxi licence in China"
-    excerpt: "Chinese startup Pony.ai, established in 2018, has been running a robotaxi service in Beijing after it received a permit in November 2021. Now, it has received a commercial taxi licence, a first for an autonomous driving company in China,"
-    publishedDateTime: 2022-04-26T09:51:00Z
-    webUrl: "https://www.cnbctv18.com/auto/self-driving-startup-ponyai-bags-commercial-taxi-licence-in-china-13279512.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 39
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/04/PonyAlpha-in-Shanghai-1019x573.png"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Pony.ai to Launch Robotaxis in China With Ontime, the Ride-Hailing App of Automaker GAC Group"
     excerpt: "Autonomous driving technology developer Pony.ai is expanding its presence in China in a new partnership with automaker GAC, which is China’s fifth largest carmaker and a longtime Pony.ai partner. As part of the close collaboration with GAC,"
     publishedDateTime: 2022-04-26T15:30:00Z
@@ -291,6 +277,6 @@ related:
         height: 720
         isCached: true
 
-secured: "4nMGY57rABDiuStpi+0DLQBvYTy751AlNfpVE73iqUl8GdC6H15VSqdYgiQb/NRGUdxu/YtYLWBwjVpvZUm+luHagCAjg90P/vhKFdz2Mu+AGchCmSjcJcu+FJMS2v84ZTFOft04bUwL9t61+DxcNunfa1UB7OEHAnXLZbG6g4AhugKLFG6U7Sof/alnt8ehTA7B8AxrpsX/RdFoBMlxig3dw7+YH15WxVgFz10W/M6pYQuFxOAtob6v5JwXuIYFdLwA32H4CKvvh+ctZN9GwX73Y07SYejN85wMvxCXeIUK6L2L+FNfx32HlJ9fqmY29S0ldrbJSMhxVu1O102FDWXsybKOZpE3mNK70nfC2QVzFnGsVMAKha6XfLu6CZDdscAkYHYGfEwgOX3OqaS6BBl4DRvcsETvvkvacEaQrm2wN+PUWwe5sv4oSU7p1DsPb6WqOG2ADWS7GQ88jpmiCKyOcE+a1QttZ+UIgKh7S69LpfOw6qfoZ55HGlZERNsK4aXMICCJmmxFhKk/vcrdnw==;nUMYPrH9f6AmaG9M0I52Iw=="
+secured: "2QaF+50rTQISkRTb5S5zzZsSCnDk1kcO3DRs8zt6U+e+JZH30Rz6hT2IldzSTMyipfKoOOat54x2SU/kX+zQmpsFSs9lNDRdi2mwzD6V7nvYDuBNbq1/eIlUpOBH0ZoLdgeqwDzj4n4g3Q7sKdj/UQIju5b/KYYitUzVZd7vzmJLrp1i0Yqc3AJCTIG9BsfNXcPdthepGb6dOUWo4WDqh/j+sqKLRcEjfRfum/d+I/25gozNOPGYKed5ReYgez3oRaWA7eJspbwkk8ZfBe16ipciTEo2Pf2I1rUUJ+P6vXmAGGZOVxjrR83UaCmuNFAV1LXOKfbZRgMeymYTfk49vkeCTcfsQbkevtjAKRV2L4C9/To4z72giJibJpvYMHGWAtY4kgTQ897pjqtL2BDTTRLEEuczVqUWUiRlsKzx8sNE772E8vuaSIutt+RlvUO4PNxc8C2a7ZF1raYKyOGzPYT3GllzFMvPIV+K31DzHRWmistSxsdnLC0D54/Evaua1n2YXx6U6Lg+6glP+Igx3w==;XxstbIaZACERHG00UkHqdQ=="
 ---
 

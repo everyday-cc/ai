@@ -7,7 +7,7 @@ originalUrl: "https://www.navytimes.com/intel-geoint/2022/04/27/intelligence-age
 webUrl: "https://www.navytimes.com/intel-geoint/2022/04/27/intelligence-agency-takes-over-project-maven-the-pentagons-signature-ai-scheme/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,37 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon shifting Project Maven, marquee artificial intelligence initiative, to NGA"
-    excerpt: "The National Geospatial-Intelligence Agency is evaluating the progress of “Project Maven” as it prepares to take over the artificial intelligence initiative and integrate it with a broader range of efforts to apply machine learning to geospatial intelligence."
-    publishedDateTime: 2022-04-26T21:43:00Z
-    webUrl: "https://federalnewsnetwork.com/intelligence-community/2022/04/pentagon-shifting-project-maven-marquee-artificial-intelligence-initiative-to-nga/"
+  - title: "Combining Intelligence: How People And AI Can Collaborate"
+    excerpt: "To support the collaboration with AI effectively, leaders must also reimagine their business processes, redefine individual positions and rethink operating models altogether."
+    publishedDateTime: 2022-04-26T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/26/combining-intelligence-how-people-and-ai-can-collaborate/"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 31
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Future intelligence: AI and the gambling industry"
+    excerpt: "One of the fastest-growing areas is artificial intelligence, a process in which software is programmed to perform human tasks."
+    publishedDateTime: 2022-04-27T09:38:00Z
+    webUrl: "https://igamingbusiness.com/ai-gambling-industry/"
+    type: article
+    provider:
+      name: igamingbusiness.com
+      domain: igamingbusiness.com
+    quality: 39
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo.png"
+      - url: "https://igamingbusiness.com/wp-content/uploads/2022/04/16-18_TI_Can-AI-revolutionise-gaming_mainimage-1.png"
         width: 1200
-        height: 883
+        height: 675
         isCached: true
-  - title: "Pentagon’s flagship AI effort, Project Maven, moves to NGA"
-    excerpt: "Vice Adm. Robert Sharp, outgoing NGA director, said the fusion of Project Maven with his agency's current AI efforts will \"give us our millions of eyes to see the unseen.\""
-    publishedDateTime: 2022-04-27T19:50:00Z
-    webUrl: "https://breakingdefense.com/2022/04/pentagons-flagship-ai-effort-project-maven-moves-to-nga/"
+  - title: "Vic.ai Announces Spend Intelligence for Prescriptive Cost Optimization"
+    excerpt: "Vic.ai, the artificial intelligence (AI) platform for autonomous accounting and real-time insights, today announced it has broken ground on Vic.ai Spend Intelligence, a first-of-its-kind prescriptive AI technology for advanced enterprise-grade cost optimization."
+    publishedDateTime: 2022-04-28T12:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-8bbf3842fe2aa578bcfbc38f3a7f3f7e"
     type: article
     provider:
-      name: Breaking Defense
-      domain: breakingdefense.com
-    quality: 17
-  - title: "NGA will take over Pentagon’s flagship AI program"
-    excerpt: "Robert Sharp, said Monday. Referring to the Pentagon’s most recent budget request, Sharp pointed out that “NGA gains operational control of Project Maven’s [geographical intelligence] AI services and capabilities from the office of undersecretary ..."
-    publishedDateTime: 2022-04-29T11:59:00Z
-    webUrl: "https://defensesystems.com/ai-analytics/2022/04/nga-will-take-over-pentagons-flagship-ai-program/366227/"
-    type: article
-    provider:
-      name: Defense Systems
-      domain: defensesystems.com
+      name: Associated Press
+      domain: apnews.com
     quality: 17
 
 secured: "sN+Hmbqolrp1MHfREhXz2naALp4RZ8Z3J3r7fBHFD9U+IZmg24xIpYkqEB5DDGJeLDo/xKyen0jLSUkxvVTxXWIqUqdPaYXjkr4UeqYuJGD1CoyepauTzlqDOO+86+/0QFPxeOZsLNO5wofBaouTsIwlOBQ0ufUOxMIP14s5nqvTKdNLKlX6r1yMwMOKkL2xksQqSIfZnediP543cwXiCKnnYBFD9PuSXIlVLSLqMvr9WDmHrXH6j2hBZG0/x7izJFQ76i4aTt9/4QOiyHWFxAmryMJ821UnVd+VM6kVXtBURAiQIsvXhr5WNNFBC0gd7B1a+U0TJ+PIycmldI1yKV3S9nkBhLkxEw19PR/eBaw=;fAMGIlUdL96HSSUSPqrYcw=="

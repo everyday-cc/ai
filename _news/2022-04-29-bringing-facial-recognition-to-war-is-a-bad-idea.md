@@ -7,7 +7,7 @@ originalUrl: "https://www.japantimes.co.jp/opinion/2022/04/29/commentary/world-c
 webUrl: "https://www.japantimes.co.jp/opinion/2022/04/29/commentary/world-commentary/facial-tech-war/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "How Facial Recognition Tech Made Its Way to the Battlefield in Ukraine"
-    excerpt: "He used facial recognition software to identify the men in the video through images in Russian social media, and found that most of the men were indeed sailors from Sevastopol, the town the ship was operating out of."
-    publishedDateTime: 2022-04-26T09:45:00Z
-    webUrl: "https://slate.com/technology/2022/04/facial-recognition-ukraine-clearview-ai.html"
+  - title: "Annual Spring Home Hunt, charitable donations and recognition: Seacoast business news"
+    excerpt: "ROCHESTER — Strafford County Board of Realtors’ community service committee has chosen Waypoint as one of its charitable partners in 2022. Through a series of community events"
+    publishedDateTime: 2022-04-28T15:29:00Z
+    webUrl: "https://www.seacoastonline.com/story/business/2022/04/28/names-know-home-hunt-charitable-donations-awards-community-service/9570362002/"
+    ampWebUrl: "https://amp.seacoastonline.com/amp/9570362002"
+    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/9570362002"
     type: article
     provider:
-      name: Slate
-      domain: slate.com
-    quality: 54
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 37
     images:
-      - url: "https://compote.slate.com/images/dbb98a1a-570e-4364-9c04-4341ad94f821.jpeg?width=780&height=520&rect=5510x3673&offset=0x0"
-        width: 780
-        height: 520
+      - url: "https://www.gannett-cdn.com/presto/2022/04/28/NPOH/d6736bce-0fb4-4a54-9147-8cd0a85df261-post.jpg?auto=webp&crop=639,360,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Meet 4 common requests to increase facial recognition trust, financial inclusion group says"
+    excerpt: "The success of facial recognition depends on both the public and private sectors working hard to engender trust in AI tools."
+    publishedDateTime: 2022-04-28T17:51:00Z
+    webUrl: "https://www.biometricupdate.com/202204/meet-4-common-requests-to-increase-facial-recognition-trust-financial-inclusion-group-says"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/03145243/DHS-PII-access-management.jpg"
+        width: 1280
+        height: 854
         isCached: true
 
 secured: "38E2v3dbTWkHYlk1JCH0b7WiGRm1aIXn3/hYfOheaDkpQUTvy7TepY7ZbYnalIdmPjCHT4YZoS9C/+oJGQzf2vqMrGBcIQ6d3VOUjpfmlXO8hTLkocH/RB6ITjXA7NAlMP+U6hRrVkEwPHM6AilkO7dE998/X4zhg5/Edj2S0nPI/KzVZ3Cu4BGjMXdOTQCmtQivpsXgRtLQuUJEkKj2VRNwLHV9bgvpW0ALpNq/SSPsNA+KWtlVaZ25/PFBn0KR4w7yBtJdfkqvjsa9OAx7ozxTe3stHTuEgSLF+eqB4BNR0PLF/NujWWlXN3k9/g7TD+koStFkJ9zRurrhQdKSaf4ZnNVlns9bGCsd2bjspTArHmN7qfyNvMU0jCdhTCbugNKw14bdhCfH5a0LUWv1teEEWDABC570dwZdmhR/DRyc79wBEXhnc8sMEfGyPYPstQHwkmDu7nITbTBDDCZB2fjRQWJVn8FIw6tspwqAtXFBRPpdX82MtAa1tedpkQw7DjDtx3KiTGhNu16w5YNNzA==;qDfzZeN58ZX9cmwOMm3MQg=="

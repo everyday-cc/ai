@@ -133,6 +133,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-20-soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging.md",
+      "title": "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging",
+      "excerpt": "and more and Soft Robotics' mGripAI platform that uses ultra-fast 3D vision, artificial intelligence, and soft robotic grasping to enable picking of irregular and delicate food items directly from ...",
+      "sourceUrl": null,
+      "webUrl": "https://pix11.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
+      "originalUrl": "https://pix11.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2022/04/foreo.jpg?w=2000&#038;ssl=1",
+          "width": 425,
+          "height": 523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPIX",
+        "domain": "pix11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation.md",
       "title": "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation",
       "excerpt": "\"We are excited to have GrayMatter's Smart Robotic Sanding solution selected for the RBR50 award\" said Ariyan Kabir, CEO. \"With a global shortage in surface finishing labor, manufacturing reshoring in the U.",
@@ -215,40 +258,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging.md",
-      "title": "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging",
-      "excerpt": "Today Soft Robotics Inc. announced it has teamed with Quest and Ossid to offer a robotic handling and packaging solution to the food industry powered by Soft Robotics' mGripAI ™ technology. The total solution includes Quest's primary product handling system utilizing a FANUC robot designed to load,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wjbf.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
-      "originalUrl": "https://www.wjbf.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WJBF",
-        "domain": "wjbf.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -736,10 +745,10 @@
     {
       "path": "_news/2022-04-20-nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing.md",
       "title": "NVIDIA RTX 40-Series 'Ada' AD102 GPU Enters Phase of Testing",
-      "excerpt": "Nvidia's next-generation GPU family, codenamed Ada Lovelace ... and artificial intelligence (AI) applications. Nvidia's GeForce RTX 4000-series 'Ada Lovelace' GPUs are planned to be manufactured ...",
+      "excerpt": "Nvidia's next-generation GPU family, codenamed Ada Lovelace, is anticipated to ship this autumn, and it's about time for the firm and its partners to begin testing the new graphics",
       "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing,10.html",
-      "originalUrl": "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing,10.html",
+      "webUrl": "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing.html",
+      "originalUrl": "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -749,7 +758,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T02:03:00-07:00",
+      "publishedDateTime": "2022-04-20T00:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Guru3D.com",

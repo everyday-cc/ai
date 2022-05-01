@@ -41,20 +41,6 @@ related:
         width: 1023
         height: 576
         isCached: true
-  - title: "Chinese self-driving company licensed to provide taxi service"
-    excerpt: "BEIJING - Pony.ai, a self-driving start-up in the southern city of Guangzhou, has become the first entity of its kind in China to receive a taxi license. Beginning in May, the license allows the company to operate 100 autonomous vehicles as taxis in the city's Nansha district over an area of more than 800 square km,"
-    publishedDateTime: 2022-04-26T09:25:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202204/26/WS62678dbda310fd2b29e5967b.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202204/26/62678dbda310fd2bec859027.jpeg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "leYKV/h9iQQ+ZKmFINm9jZrXndRmsAcml/u/i1eLZZttbZUyUoqWw0HiFbH8q3H7+/mU/Jm3K+7XBMOOfh/3njP+dJRdY19t67AsXnapZb9RlEzXnyY1VmibcNtEOpZDn2aYnqjjbi4+8CJmb0t0pwZHa+XQSiPpLfmOv1QFqR/F18AaLgnqNyazdTfAz08LHtQYCGW2RY5w0u3M6O9dVp/lzil66qrxSpKgGqgm1cJ0wUWv1CMurm5tL8nQd0hulEplHEf1xLlN5n2YMY6tBxn3YI5QR7EFeh3UOm+1qRuucIsXXNL3FaaLSYZJPEHTKK2NQBH+XyMKlqJEr++iftmuHrttrmjvxIBzm+yuN5leSeCIGakvd8mLdtwF67zb4vJz4srI5YU8WfJg1j08w5nca66+vn5MblLb1bClooFkD+z2luwwUJbOlp/wQFX46RFnARRVdpjvwksXu2hCoqAD0/dnZ2sazGaQiVJYftudYc22VD0V7+OvIav4tDMYslhGojpzL56M81dZjX54BQ==;85GpKwSEwey9FXCf2vxDcA=="
 ---

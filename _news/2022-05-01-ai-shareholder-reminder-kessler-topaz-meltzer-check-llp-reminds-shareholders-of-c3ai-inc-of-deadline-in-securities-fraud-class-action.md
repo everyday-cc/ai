@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
-excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
-publishedDateTime: 2022-04-30T21:00:00Z
-originalUrl: "https://www.keloland.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
-webUrl: "https://www.keloland.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
+excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+publishedDateTime: 2022-04-30T20:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/g26918993/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadl"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/g26918993/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadl"
+ampWebUrl: "https://www.benzinga.com/amp/content/26918993"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26918993"
 type: article
-quality: 0
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: KELOLAND News
-  domain: keloland.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.keloland.com/wp-content/uploads/sites/103/2019/06/KELO-sitelogo.png"
-    width: 800
-    height: 340
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -38,20 +40,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "C3.AI DEADLINE ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action Lawsuit Has Been Filed Against C3.ai, Inc. and Encourages Inve"
-    excerpt: "NEW YORK--(BUSINESS WIRE)--#Action--Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, reminds investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) in the ..."
-    publishedDateTime: 2022-04-29T12:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=655992"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Bronstein, Gewirtz & Grossman, LLC Reminds c3.ai, Inc. (AI) Shareholders of Class Action Deadline and Encourages Investors to Actively Participate"
     excerpt: "Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC notifies investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3&CloseCurlyDoubleQuote; or “the Company&CloseCurlyDoubleQuote;) (NYSE: AI) and certain of its officers ..."
     publishedDateTime: 2022-04-29T18:01:00Z
@@ -62,6 +50,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "ZvOanlQkWhFEK/B/OkLnF2oUhHTAwA+XaNYBrHnk6gSJqeIcgoUbUNocMTJZWZnIc5y0b/Sh+vKyTsqk0I4Y6+dAKBdvO5bqcxyaDTaBUankVgoEk43A0hKYorQLNnQ8ZaCEVG0Moc2rrUHULI4DJDbH66pYWK9Rtce8BU0IVh76mhZ4iJbYivy+EWMSrhlr35Y8vzCP8/Dj9bPKg5wMwWn+i0c5OlxAeK26hgKH2pa1ouHuctdub9W/qOuMvBo6InI3NwfxrTz5wdBDoX2E5nLYhT3DeIrP2NoKO9gAXe3s0GcYzKAFdqIzjrPpR3BbxEQO8a1BeRI3woHS+10n9/2ISuGm4l4h/pkNRMODP2c=;3prnTk31OBsVHK9rRNF0+A=="
+secured: "c6SX/hWA3MM9sIONf/BiFErIxjciBq73jrdKqmkqwlPtoBGQ4TY8ZPbNnWd+WZFf6QSJYC+s8E0+2MMYfBNlrQEBqf80NGBX3fY6LDmM5snzq1bG57ihORvurRGPNx+C8OtEeBOdIDiGhi1pkeppu4u6rZOPvsFzxY7BQUVp/PjWwFbDOdaL5N33AxJXIi3Rv7of1ggH1flRIZRUhjnRCR/68iK6bHhZ36rh3CIt33KCdKVtjljqNzYyXWy/ag5BEt6c0joDyNlpynJ1lcSrTfNs/uQPPCcxT4QU1JvOUS8GIEN6P6Asey/sCskBEVqYFv9Pfu147XCwl/myZ4hu7CO05U3tOrBBiimgRt1DWs4=;Zs+/Y0VQ0zMX+/XhKdKD0w=="
 ---
 

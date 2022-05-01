@@ -1,22 +1,30 @@
 ---
 category: news
-title: "GLOBALink | Two companies licensed to provide self-driving pilot services in Beijing"
-excerpt: "The first group of two companies on Thursday were licensed to provide self-driving pilot services in Beijing without the presence of safety drivers. The two companies are China's tech giant Baidu and self-driving start-up Pony."
-publishedDateTime: 2022-04-28T13:04:00Z
-originalUrl: "https://english.news.cn/20220428/209a270c607546c4a712569e161b6419/c.html"
-webUrl: "https://english.news.cn/20220428/209a270c607546c4a712569e161b6419/c.html"
+title: "Motorists urged to keep ‘duty of care’ with self-driving cars or face blame for accidents"
+excerpt: "You can unsubscribe at any time. More info Earlier this month, the Department for Transport set out plans to move Britain closer to a “self-driving revolution”. This included proposals to change the Highway Code to ensure the first self-driving ..."
+publishedDateTime: 2022-05-01T03:00:00Z
+originalUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive"
+webUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive"
+ampWebUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
+cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
 type: article
-quality: 0
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: China
-  domain: news.cn
+  name: Daily Express
+  domain: express.co.uk
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-vehicles-liability-warning-exclusive-1602808.jpg?r=1651360423936"
+    width: 590
+    height: 350
+    isCached: true
 
 related:
   - title: "AI Ethics Wrestling With The Inevitably Of AI Accidents, Which Looms Over Autonomous Self-Driving Cars Too"
@@ -51,23 +59,16 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Motorists urged to keep ‘duty of care’ with self-driving cars or face blame for accidents"
-    excerpt: "You can unsubscribe at any time. More info Earlier this month, the Department for Transport set out plans to move Britain closer to a “self-driving revolution”. This included proposals to change the Highway Code to ensure the first self-driving ..."
-    publishedDateTime: 2022-05-01T03:00:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
+  - title: "GLOBALink | Two companies licensed to provide self-driving pilot services in Beijing"
+    excerpt: "The first group of two companies on Thursday were licensed to provide self-driving pilot services in Beijing without the presence of safety drivers. The two companies are China's tech giant Baidu and self-driving start-up Pony."
+    publishedDateTime: 2022-04-28T13:04:00Z
+    webUrl: "https://english.news.cn/20220428/209a270c607546c4a712569e161b6419/c.html"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 35
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-vehicles-liability-warning-exclusive-1602808.jpg?r=1651360423936"
-        width: 590
-        height: 350
-        isCached: true
+      name: China
+      domain: news.cn
+    quality: 0
 
-secured: "hk/AfWwkashCwJ3aVFYD3wGdGqntUETcQkLCh3pPgzVWMjbx0bA5rdkl+IqR0pg3Nv5uMUboDUrbnvfFobTPPij3H8D6D48DPvIUhedmg6xK9H5TXiBrx2ZW9UxvLp7Jon63dKJCc05ubunXNm7iocLvqzwibHRYUdk17q29gTTh1+x7wTEi/OtcK0OMe7zz7vK4JJ/gv67drP2s265Ros8Se9WZcLPsWfEZIG3rLBgY+95b98EaFPyIKNe00Z5mT7gcQZoSRIhgrYyVrEDWeDy41huquUPDjCKDVXGxoWGydL8j9yojsfv2kFKH3GUHuHTQ+X5xaX+TwY+cSrlfx90jqm1TeN8qD+3wqMUdJD8=;voFUak7Ttntx7UWLzw/H7Q=="
+secured: "hCffTmi+57r3K6/4fGX0YrXVOcckx6vQ9nsSFgN8KqzWhFC+RXzOGXcxhiXhGxzDG0bKCrDTQsErKep0Lae6PJZEX5Q5LhADCAlln0qyOAjHB6H8/q0advNhIDDlArWfq04WjDJVdk+V+GwTsUIzNF+AwyPEaJ4Ikc+j8TWln+W9UG7Yfi3Ai9hJtkpk6cXkkoaerKa1khYAp9yXrMMAHstKNn4zIZpbrcM8r4GvkXg2Z9bNB61e1iuXeAnj4kBniJCB2Nmz4xX6XZ194iwvZb4x9R2l8f3DnO0ArtZ+JaYfAnAY3bfOYoRD3YTBphaVS0X28vXAWGo0icjAriooEeZ7Y/d+pyyI2asmgP6yjO4=;9OJgmSLtX/28IxMu8bC52w=="
 ---
 

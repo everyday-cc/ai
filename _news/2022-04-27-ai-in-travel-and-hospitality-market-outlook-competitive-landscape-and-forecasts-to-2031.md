@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Manufacturing Market Research Analysis: 2021 – 2030 Growing Demand and Competitive Outlook"
+    excerpt: "Quadintel published the latest research report on the AI in Manufacturing market. In order to comprehend a market holistically, a variety of factors must be evaluated, including demographics, business cycles, and microeconomic requirements that pertain ..."
+    publishedDateTime: 2022-04-29T06:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-research-analysis-2021-2030-growing-demand-and-competitive-outlook"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Mariupol-AFP-1k-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence (AI) in HIV and AIDS Market, Global Outlook and Forecast 2022-2028"
     excerpt: "This report contains market size and forecasts of Artificial Intelligence (AI) in HIV and AIDS in Global, including the following market information: Global Artificial Intelligence (AI) in HIV and AIDS Market Revenue, 2017-2022, 2023-2028, ($ millions ..."
     publishedDateTime: 2022-04-30T12:55:00Z

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Motorists urged to keep ‘duty of care’ with self-driving cars or face blame for accidents"
+    excerpt: "You can unsubscribe at any time. More info Earlier this month, the Department for Transport set out plans to move Britain closer to a “self-driving revolution”. This included proposals to change the Highway Code to ensure the first self-driving ..."
+    publishedDateTime: 2022-05-01T03:00:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 35
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-vehicles-liability-warning-exclusive-1602808.jpg?r=1651360423936"
+        width: 590
+        height: 350
+        isCached: true
   - title: "GLOBALink | Two companies licensed to provide self-driving pilot services in Beijing"
     excerpt: "The first group of two companies on Thursday were licensed to provide self-driving pilot services in Beijing without the presence of safety drivers. The two companies are China's tech giant Baidu and self-driving start-up Pony."
     publishedDateTime: 2022-04-28T13:04:00Z
