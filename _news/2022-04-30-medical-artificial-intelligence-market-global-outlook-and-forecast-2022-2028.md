@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Chip Market Size, Industry Share, Growth, Trends, Analysis, Key Players and Forecast by 2022-27"
-    excerpt: "As a result, AI chips find extensive applications in intelligent robots, smartphones, autonomous vehicles, voice recognition, and smart hardware. Artificial Intelligence Chip Market Trends and Drivers: The global artificial intelligence chip market is ..."
-    publishedDateTime: 2022-04-27T18:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Software Market Size, Share Growth, and Forecast 2021-2027"
     excerpt: "It is a system that puts Edge Computing and Artificial Intelligence (AI) together. AI is a machine made to performs tasks that otherwise require human intelligent. Together Edge computing and AI brings many breakthrough advancements like self-driving cars ..."
     publishedDateTime: 2022-04-29T10:35:00Z
@@ -44,20 +30,6 @@ related:
     quality: 39
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/151736a6e2eb8d12cc67e3bed8e4ef2d99f0efcc-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI-Enabled Testing Tools Market 2022 | Scope of Current and Future Industry 2030"
-    excerpt: "AI-Enabled Testing Tools Market is predicted to be valued at 1.27 Bn in the year 2030 and exhibiting a remarkable 16.9% CAGR during the forecast period 2022-2030. Telecom companies are leveraging the potential of AI to manage and assess big importance of ..."
-    publishedDateTime: 2022-04-29T05:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-testing-tools-market-2022-scope-of-current-and-future-industry-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/ebe5b747afe7cfbf0a1e1519928035692096bc87-600x337.jpg"
         width: 600
         height: 337
         isCached: true
@@ -75,6 +47,29 @@ related:
         width: 305
         height: 250
         isCached: true
+  - title: "Telepresence Robots Market Size, Share, Top Companies, New Technology, Demand and Forecast 2021-2026"
+    excerpt: "According to IMARC Group’s latest report, titled “Telepresence Robots Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-04-28T06:42:00Z
+    webUrl: "https://www.digitaljournal.com/pr/telepresence-robots-market-size-share-top-companies-new-technology-demand-and-forecast-2021-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnVPKPv1UfMgrZcoDe9rnNLsDVledex_1nB6lxv8VAr1xYYx0LHNzjmg0bBZHLUVuTqjyJ2OH0pqHs3sc7-NnYKWXmVy3YaVcYP3XglplruNb-xCig8JlcAKnI68GESZFMmW9nsUV4OlOehZmMFnU1JowvdlCNL7Qq6ybfvQilt1M7a3-U1oLIuAk/s320/Telepresence%20Robots%20Market.jpg"
+        width: 320
+        height: 240
+        isCached: true
+  - title: "Artificial Intelligence (AI) in HIV and AIDS Market, Global Outlook and Forecast 2022-2028"
+    excerpt: "This report contains market size and forecasts of Artificial Intelligence (AI) in HIV and AIDS in Global, including the following market information: Global Artificial Intelligence (AI) in HIV and AIDS Market Revenue, 2017-2022, 2023-2028, ($ millions ..."
+    publishedDateTime: 2022-04-30T12:55:00Z
+    webUrl: "https://galleonnews.com/uncategorized/255465/artificial-intelligence-ai-in-hiv-and-aids-market-global-outlook-and-forecast-2022-2028/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 24
   - title: "Explainable AI Market Size 2022, Share, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 28, 2022 (The Expresswire) -- Global \"Explainable AI Market\" Research Report provides a wide range analysis of market dynamics like current trend, size, share ..."
     publishedDateTime: 2022-04-28T18:49:00Z
@@ -95,6 +90,20 @@ related:
     quality: 13
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Event-Based Vision Systems Market Study Reveals Growth Factors Size, Share, and Competitive Outlook for Future 2021-2030"
+    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially ..."
+    publishedDateTime: 2022-05-02T05:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/event-based-vision-systems-market-study-reveals-growth-factors-size-share-and-competitive-outlook-for-future-2021-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cd9543b3ef41b34c81c8ea127008874018421dea-600x337.jpg"
         width: 600
         height: 337
         isCached: true

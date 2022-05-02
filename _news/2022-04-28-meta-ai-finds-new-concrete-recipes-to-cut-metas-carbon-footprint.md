@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-ai-finds-new-concrete-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 36
-  - title: "Meta is using AI to create low-carbon concrete for its data centres"
-    excerpt: "Meta has used AI to develop concrete that emits 40 per cent less carbon, but researchers say that other concrete mixtures can already achieve that"
-    publishedDateTime: 2022-04-27T19:00:00Z
-    webUrl: "https://www.newscientist.com/article/2317122-meta-is-using-ai-to-create-low-carbon-concrete-for-its-data-centres/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
 
 secured: "Zi8o5cSHYPAYDmt40fqy1E1zu96u4sXHecZgZXal7yzWs91gTnaa6OIoIkOjs5+1rNav1hxfwO31zeZnM58WsvymDt3f+qlHXQYYueA2Ji+HDoI3CoFQ940GyBVNSK4Z3eThmqvrvb+ImhWg/DKobNbrOyS5KaNdnXlZPseo2So6yCdct/Yjc3xuIDDhjrU2LzeAp9N4+VkPLMl/mM4Ctq5p4FX10BypXikC9yV8b8cp2RzqoRYPXfncnMcCayeEMQHRNLcYTlytkTHGZFBgxVDRasrxv18K58l7DSJ9hGuEy1rpZmM2+IulRTkQ7bCCjqRfBLivDP5npQi/NBLf+YrUmYZKrMHVtDBjFWFeni0=;MTN8umdlqLIGGea+dNba6Q=="
 ---

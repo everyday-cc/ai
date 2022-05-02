@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-pr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/amp/"
 type: article
 quality: 65
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -145,6 +145,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Finbots.AI raises USD 3m from Accel in Series A round"
+    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, recently announced it has raised a successful Series A round of USD 3 Million. This round saw the participation of a single investor – Accel."
+    publishedDateTime: 2022-05-02T11:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/finbots-ai-raises-usd-3m-from-accel-in-series-a-round/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/FinTech-Week-London_July2022_MPU.jpg"
+        width: 600
+        height: 500
         isCached: true
   - title: "News: AI-powered interviewing platform BarRaiser raises $4.2 Mn"
     excerpt: "Bengaluru-based AI-powered smart interviewing platform, BarRaiser has announced raising $4.2 Mn in seed funding round led by 021 Capital and Global Founders Capital with participation from other angel investors. BarRaiser’s AI-powered platform ..."

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving lane on I-94 gets $130M from Ford and others"
-    excerpt: "The road to an autonomous commute is underway and Ford has stepped up to help pave it. Michigan’s first connected and automated vehicle corridor received $130 million in capital funding, led by Ford and Sidewalk Infrastructure Partners."
-    publishedDateTime: 2022-04-27T17:56:00Z
-    webUrl: "https://www.mlive.com/public-interest/2022/04/self-driving-lane-on-i-94-gets-130m-from-ford-and-others.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2022/04/self-driving-lane-on-i-94-gets-130m-from-ford-and-others.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2022/04/self-driving-lane-on-i-94-gets-130m-from-ford-and-others.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 44
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ITBW2M2XONCQBDUP6BKA4PMJGI.png"
-        width: 3840
-        height: 2160
-        isCached: true
   - title: "Ford-backed Cavnue plans dedicated lane for self-driving cars on Michigan's I-94"
     excerpt: "A startup by the name of Cavnue is working with the Michigan Department of Transport to build a lane dedicated to self-driving cars along a 25-mile stretch of I-94. Washington, D.C.-based Cavnue, which raised $130 million in its most recent round of ..."
     publishedDateTime: 2022-04-29T12:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
         width: 2048
         height: 1423
         isCached: true
-  - title: "The key to lowering colonoscopy screening cost could be AI, study says"
-    excerpt: "The use of artificial intelligence detection tools has the potential to save the U.S. millions of dollars annually, according to a study published in The Lancet Digital Health. The study administered the Markov model microsimulation of conducting colonoscopy with and without AI for colorectal cancer screening."
-    publishedDateTime: 2022-04-27T18:09:00Z
-    webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/the-key-to-lowering-colonoscopy-screening-cost-could-be-ai-study-says.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 17
 
 secured: "VDsc2n/eHjira+S/HUweWVrsn1QGBsQKKoO5FBWiCN6SRJpo0J5pcQZv/lldR3BBokn9PuDh9zLvob9huwztZfZYlJlDh/kujRmgPdrm3oUWqqCcdttLwccc8XUcYfXOubG11wbytpZt2Br7uCy+GfWBqtmx5P2rJDn4QBDKKgFDN3wFsxbbkkULlAbdpajLI5XLP0l4hV/QwSKY6ZStzk89FU3SNwGsfhbkPBMtyqCqEXmNOSbL4cmqPheDOdiow9905uZEddJH2qef+GTCcToJkuki3fjxS/4qr7fJO44qu4y76rp+1SqvTEYZyuvcUfn/cOexmuuTq2mwc9oQDCf5sZ7Irw3h9g/O928MItXwcehOaHaWgYnfCWDbWXZVRP9b9aXA2q+fORKsDKwM3rfKtxHjTmhM1KIsDQA0quRBakEnFgxmJAxax5cs3ShBrit1V9lxNcPNIchgRupAz0apO1oItI7/WbM4dciKBM0FqCczZEy32Any2vk+vpwnwi0C4ZQ3ZWp1Z/K2CCgbyQ==;8YPI8nKRcPZMCxju4Pje2g=="
 ---

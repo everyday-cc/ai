@@ -80,15 +80,6 @@ related:
         width: 1129
         height: 635
         isCached: true
-  - title: "Meta is using AI to create low-carbon concrete for its data centres"
-    excerpt: "Meta has used AI to develop concrete that emits 40 per cent less carbon, but researchers say that other concrete mixtures can already achieve that"
-    publishedDateTime: 2022-04-27T19:00:00Z
-    webUrl: "https://www.newscientist.com/article/2317122-meta-is-using-ai-to-create-low-carbon-concrete-for-its-data-centres/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
 
 secured: "D3qp009WZXrUYn0L1E4LlczpbJU4dizR1DDb321Lb3IR5+NTHypjLoOSxQFiQzrKV5qFaX/BXkDcsrnzgtVL7uS5RCrTL5vhlR3NFbXyKDEvDF+y7Xn4KyMIhztKDHiXWGrKzyCF3d/qdJ4ZQfJSjstPnT7inxpmhbW5qC6ez6ac+HvByeq1/GilzyYuzA8DtJZZSGeoMXFXLXsUJX69WCx7luCw13bI+o2l9QP9WN7EvNTiQH0QybLsz7JqhTz6kCR3/N1co37QyRLLEZpFlJDRbZULWrxorWw8dGTWhD3GCKbG/AdvFDkzROVyDnMEuj7E222WhSZt9uB9QgGDjTj3DeweYoELxYk//Mu/FgmeowaA3eSZfOyhPWi7gzn5tTbDaioZOZlB/CYZnQvVIIGV/S0fFUljRKYps6KFCKWH5UXCn75KLwIoA2jlAx95b2zbAkJyUsNQ1TuykjqyaAcKpz5CjSzvb6DZoybCKm56OSNHUx5VL0BNH/aZsxXvQpk4q+RBMxjMryPzvR1I9g==;JYvNh0UsH5X0jtu+zXhVEA=="
 ---

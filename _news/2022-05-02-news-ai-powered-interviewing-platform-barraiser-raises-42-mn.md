@@ -159,6 +159,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Finbots.AI raises USD 3m from Accel in Series A round"
+    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, recently announced it has raised a successful Series A round of USD 3 Million. This round saw the participation of a single investor – Accel."
+    publishedDateTime: 2022-05-02T11:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/finbots-ai-raises-usd-3m-from-accel-in-series-a-round/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/FinTech-Week-London_July2022_MPU.jpg"
+        width: 600
+        height: 500
+        isCached: true
   - title: "ICON Corporate Finance Advises AI Platform-as-a-Service Provider ForePaaS on its Acquisition"
     excerpt: "ForePaaS offers a unified platform specialising in data analytics, machine learning, and artificial intelligence for ... Acquiring ForePaaS further propels OVHcloud’s Platform-as-a-Service strategy and reinforces its position as a leading global player ..."
     publishedDateTime: 2022-04-29T12:49:00Z

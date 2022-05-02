@@ -82,15 +82,6 @@ related:
         width: 2048
         height: 1423
         isCached: true
-  - title: "The key to lowering colonoscopy screening cost could be AI, study says"
-    excerpt: "The use of artificial intelligence detection tools has the potential to save the U.S. millions of dollars annually, according to a study published in The Lancet Digital Health. The study administered the Markov model microsimulation of conducting colonoscopy with and without AI for colorectal cancer screening."
-    publishedDateTime: 2022-04-27T18:09:00Z
-    webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/the-key-to-lowering-colonoscopy-screening-cost-could-be-ai-study-says.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 17
 
 secured: "TciV/U7r+830rWdP/FqAWZjy/EdBBxRxCVIRcAgt4f3tMHSp2B0Cp7YmKYrSGDTtXV09jWsqGlGvV201VcNhJOV4pJ3qHAPEVS0Ng48F13+/QnwKKO+BbYP/g6idroL2WQHmhrjLuStISyJbNkBb+qs+ZcpcZTKLE22ZSsHWp+Bh0d8oJvMnQhhQbspPBBGKRqhWompW2Jxgh/9RI7zs2IlRuRe7pubeopdDFd8SftDng6nbPTMCR9k4gFyFAvO07F7fHVcT1+9OT5NhGZ5BAJPJF0UzkJZ412bU5YAM5n9vn2p6R+UevQch0iDqTQAldszXERxbPe1Zogzos15a9n+liPgG2v3t1OReVyVpga8=;aMduC6EF5HOOpzb3tcP3hA=="
 ---

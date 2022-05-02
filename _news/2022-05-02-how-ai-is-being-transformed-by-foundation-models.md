@@ -8,8 +8,8 @@ webUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-mo
 ampWebUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/?amp"
 cdnAmpWebUrl: "https://www-thebulwark-com.cdn.ampproject.org/c/s/www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.thebulwark.com/wp-content/uploads/2022/05/ai-face.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1250
     isCached: true
 
-secured: "uElvvr8aoeWIihTeXEYWzuPEbyQGZSxlofJCdFw+P+IGxGLe3QxylkYz/1ylZlm07pYLBoBvkH6Q7KBK+Eck9WdL8SrsMt7BXYZPk8GWhDpd5Xcmmc9wIZXBxPb/bCRm6uC2D/7eQ1H2NOuKWtoCzUyMpq7XCngGJWCS1v5vklllp2hXjDAs8zl887aMNhX+53hOMq2/eXO6sztjtI10Eha41Welrl4KA+Xi9oTtHit0fWrgehO5J6zQ3Z0rXnPZ48QnF1nVMfta/RG0p7DtTU+vLdhPN/I/AeG83oRFO/m2eck3Fn931XrWlGuZtRPh24eYISC1ITZv2bCqrVvG80l9dtp5wzsxbZbIy4dvw5I=;UTVdN4NQzSp5OnRibeRCew=="
+secured: "CleFCohZKOPkycO/zqGIeaMacIsAUrE6+SZB/EJDbwb9SRcwjJOI0PIIlHBZEsi70EyGDKtwDnTPlrECvvjRJeJVPeU7Sp30hIz7y3ib16QT+GRzCtWldBY6cSo7TfVGrGTv+KJUd128ZACBMl9xE8vGRiZy2JY6ZvTjOWjOANI5P7s604ECsyuaUqm6Jt/nGWaIeySxzgwulACMD3Cahtm6ha8GlAUs9lv8u6CMFC4VL6YslLAldzld74h797gdzPTwvCg2cjOWiRGki3wfNsd8moh0dUWcjBMK23FKQQREkFWXSVK4+wRuPVMpT1imbdmw6O7OE9GfAXspkcY+tlKDPBpw1WX7D/VHsAqNsr3YEge5jIE0FVYqKIhMJmVPzqE4HRfXM+6RFuYD2lbG04xa0uOQMzn02UtlTGKE1E93SoeHlXDxpbj4smAV8ck8f0h3yCKp6RUMYR4ru0gl3FXYYd/cNOz0QA0qpoFyYPBnyii6zhUDn2YDs7aPDz63PT3Gy8Xj7uIvS4dEEmN4VQ==;DzmjwX4XZgpEqAA7AW3M5A=="
 ---
 

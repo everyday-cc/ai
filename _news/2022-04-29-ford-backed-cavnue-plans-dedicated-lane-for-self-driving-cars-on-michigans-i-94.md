@@ -35,22 +35,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Self-driving lane on I-94 gets $130M from Ford and others"
-    excerpt: "The road to an autonomous commute is underway and Ford has stepped up to help pave it. Michigan’s first connected and automated vehicle corridor received $130 million in capital funding, led by Ford and Sidewalk Infrastructure Partners."
-    publishedDateTime: 2022-04-27T17:56:00Z
-    webUrl: "https://www.mlive.com/public-interest/2022/04/self-driving-lane-on-i-94-gets-130m-from-ford-and-others.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2022/04/self-driving-lane-on-i-94-gets-130m-from-ford-and-others.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2022/04/self-driving-lane-on-i-94-gets-130m-from-ford-and-others.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 44
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ITBW2M2XONCQBDUP6BKA4PMJGI.png"
-        width: 3840
-        height: 2160
-        isCached: true
 
 secured: "9st+OlCjY0toI6GVtSUM3gxu35v0pR6ZbJKlFEXkXVMscCzneXqwzjidK1QVdKQA/neFv6YPtP7XJxtDRYEVqjvn6Lfs5VzxHCqinFkmkCB5TYr6OwPHPIjNZyfgOdoJTTQyOts7qlmztHDiQuBAV5Uv1YmqDKqw16Thbuk9OGUQ8zlUN0sBZ155Mljxfy6lHRDmTxHXLO0YpYO6rvyXEy0U+iS+CUe3ce4oQzulKGpMrTLh/3FDmqKEVcTg52YJMqzRKtR5iDFtUodkN65lygIJCHgLbeEs6JcTE3H9LA/m5ZLFggttJP1NEWLfFObbgj4qnZooRQaLW29ywXdqQCcoE4R+oEPLh5bgvoXrBPhP6H364bpSSyt6LKRT8udl9p5ADc99jOGb9/6gEpkEw8IJ8CZ03SiQ93R0w43urxc7DG0Q0c9COoKXVz0JEXxVNBgq06VYakhM8UqzvnMbBs+xKm9GKHuqM3DGAwlDIu4fJjwJLeANAvC508t50WDLcH8ua/XoPMwnLtScEDHR+g==;kPNnZJPKjaJaZpFpPklPQw=="
 ---

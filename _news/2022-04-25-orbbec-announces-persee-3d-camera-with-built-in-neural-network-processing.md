@@ -1,45 +1,26 @@
 ---
 category: news
 title: "Orbbec Announces Persee+ 3D Camera With Built-In Neural Network Processing"
-excerpt: "World's First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning. TROY,"
-publishedDateTime: 2022-04-25T13:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588595.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588595.htm"
+excerpt: "World’s First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning. TRO"
+publishedDateTime: 2022-04-25T13:14:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-40ccfbb4ae2b6864e7b327d36ba0ed72"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-40ccfbb4ae2b6864e7b327d36ba0ed72"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1802685/Orbbec_Logo_Logo.jpg"
-    width: 400
-    height: 218
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-related:
-  - title: "Orbbec upgrades 3D camera with built-in AI for advanced applications, facial recognition"
-    excerpt: "The company claims a ten-times improvement in processing power to support advanced 3D applications like facial recognition."
-    publishedDateTime: 2022-04-25T16:46:00Z
-    webUrl: "https://www.biometricupdate.com/202204/orbbec-upgrades-3d-camera-with-built-in-ai-for-advanced-applications-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 47
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/25124004/Orbbec-Persee-3D-camera.png"
-        width: 1576
-        height: 887
-        isCached: true
-
-secured: "2QMfsUYBO+7vaNX06tuzZZD9ooP7OdZ0WeoHGNUEeTUVI8AEku6UYtrYMw8RaG3ebJaQPjE1RMJILnvWafRyumv/+FThDTeReDAaDQDIOulY2lBWJ0QXj8N2HcRhILtsZNjtrZgFswabN7RZkiOcL2RAugGvMHIq6b/syPaOhlU1oMRtVI0X75dwSLQyv9rbHzIDPb+pJls6niBtvbNLPuDzrgeEWfXqKDLY8Q8dY8jOnDta3yqZr8Rf8VCwXsigz4yGn9FLKOhQsBHYf+QElSGUXBxVA642IrEMDPJuW3AiotgccEp1Ee+2h5ajeO4XFbhSTYusRmXN70XMXprSmtZjNF21iv2XowZJHlqhkVkgBE5tq1NC/wRemsBbypBI5u4OWYpfDu8/VjWvPklUtpwIOWhCkMBqBfB2ipm1pSmsze03pIiiVmbyugAK9VJ59+qWsyBrhtxv6+VhG6I1f38xPWvZHJtVcAcEjbTnUa7BoJPNDyHA/dIOqYQkRIQjPrKBeqr236hSQT6tK4XM4w==;nZCAYU3iSzBRVzgtESzvQw=="
+secured: "1OJf6Olul9eXYbs/NIK5DcF2zS1hd/qlp2+1ABuoukx1RmCzXAmfJQZ0u6n3xWTK3re6kkg76ykxUAUpGKpKEZfet9fPfcj/pymyIzrknJQwNK9+1wTeBrUhWkriHtvZjTU4CWKnC/8ZYUqv1HzJzR5HN90s+cPhlWYzqmjMA0o9aFFcfhkysZ4poDi2EFF2Pt0ky6qolBd6NYQ2snkDPgcZy4Z3a9lLCl2zs2hDSz910DJFLPpqQwYOQEDLuLPbfpK50h5RV16zooJf1EA3E6f0tSAEA76abO6d9GQCEWzyMTHhIUoayieGvNf781z+4uCQJbhH1xxTp1yMLmhnh3DQ66T/pnMxhTiTUzaUyP8=;VEyvv50kfpknkxQyGxq/Bg=="
 ---
 

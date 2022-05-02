@@ -1,29 +1,20 @@
 ---
 category: news
 title: "The Lithuanian collaboration of iDenfy and Alternative Payments – a safer future for the Fintech industry"
-excerpt: "Alternative Payments integrated iDenfy’s full-stack, multilingual ID verification to secure their customers’ dataThe digital platform for identity"
-publishedDateTime: 2022-04-26T22:15:00Z
-originalUrl: "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
-webUrl: "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
+excerpt: "The digital platform for identity verification, fraud prevention and compliance, iDenfy, partnered with Alternative Payments, the Lithuanian-based Fintech specializing in simple,"
+publishedDateTime: 2022-04-27T00:12:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry"
 type: article
-quality: 7
-heat: 7
-published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/62f3176d37ba280c92a61ff52f74655b8a7c7f4b-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "BAR/JJU+uQUPWuqukTEOz0FWVkoxNTGzJPdAtIwvs3ueOSNg4NO5cSJRVBv5JJMKjlWOp+/AUjSoeIZ5q1DRevAG1t0y7PTNKd5AzydrSl7nTMIMJ3MKrG2Xb1z+9x0R312lzjWQBP7rv3l8Y53T3l86M3wTEj+buMfAZRr4kCauNW67lUrLluaagqU8jaT/XphV8FbgXYKM0KIyXba1Q++Sv9uGfFgnIhSZAlvbMSvUkF6rY80ds1NLa2zWWrUfOpCul5ehKw41rD273j5+n05QGzTn5pT9B8IkBrIYPP0Gw7NeScDTYNT43dm25XoR/czcebt4bar+dOpQKH0XrYyVTA8WxpMi7TdZa9Vv8TU=;c5EnrC0CrUX5AwxVKHw+/w=="
+secured: "/U/oSUAe3JuJQPD+Xu/HHn3slxZNIxcCr63zMv19K//VMWjmuPsUgahnKNvTKlsXwHZ5E5eKo7+WBgZHlEqEnnFyP5ZgsQl5/rbhPaMFM85jARKpkRwv21O95aJJ80Cg48ybEC/xeVGsEciwFOISr0PRr9U4ysImEAmgojruT1s5t3i98BKOdIgNoe7od7jDl68xJghs1sGvAQnZSrKIFMToPTpdvEYcqR+TkaJJ/ouL4ClCw0IAWZPaAzygFY0hVGH6u7MKXxUktS+n6Xl7WlmTvzl24Gnnxr9UsBfHcMSj4iBko8H7jSrdpoF7bL7vEYair4wYXeVofotJib9cAP9EpF3q0in91YvLG4cRv7U=;XDPRMXgPJwPDur91isFMqQ=="
 ---
 

@@ -62,15 +62,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AiM Future Joins the Edge AI and Vision Alliance"
-    excerpt: "The company will demonstrate its edge AI accelerator and software technologies at the upcoming Embedded Vision Summit AiM Future, a leader in embedded machine learning intellectual property (IP) for edge computing devices,"
-    publishedDateTime: 2022-04-27T17:48:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-28-aim-future-joins-the-edge-ai-and-vision-alliance"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
   - title: "Ways AI Improves Online Learning Process"
     excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
     publishedDateTime: 2022-04-29T13:35:00Z

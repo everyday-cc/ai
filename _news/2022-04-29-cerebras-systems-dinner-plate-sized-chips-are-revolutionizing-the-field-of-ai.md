@@ -59,15 +59,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AiM Future Joins the Edge AI and Vision Alliance"
-    excerpt: "The company will demonstrate its edge AI accelerator and software technologies at the upcoming Embedded Vision Summit AiM Future, a leader in embedded machine learning intellectual property (IP) for edge computing devices,"
-    publishedDateTime: 2022-04-27T17:48:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-28-aim-future-joins-the-edge-ai-and-vision-alliance"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
   - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
     excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
     publishedDateTime: 2022-04-28T13:17:00Z

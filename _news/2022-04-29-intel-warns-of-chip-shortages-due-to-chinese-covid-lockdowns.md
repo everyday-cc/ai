@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/695670/intel-warns-of-chip-shortages
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 696
         height: 436
         isCached: true
+  - title: "Chinese AI taxi startup Pony.ai gains license"
+    excerpt: "The company said it will start charging fares in the entire 800 square km of the Nanshadistrict with driverless cars. Passengers can hail and pay for rides with the Pony.ai app. The plan is to initially operate such cars with safety drivers. But ..."
+    publishedDateTime: 2022-05-02T10:59:00Z
+    webUrl: "https://www.pcquest.com/chinese-ai-taxi-startup-pony-ai-gains-license/"
+    ampWebUrl: "https://www.pcquest.com/chinese-ai-taxi-startup-pony-ai-gains-license/amp/"
+    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/chinese-ai-taxi-startup-pony-ai-gains-license/amp/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 37
 
 secured: "1E939TfwIkv+XNyUHUlC+4rZlxCBttHbu8iyOMjxTY29eQYTiDCg5AGGqOcbZpWgq1aULWx6jRLzhCzaNEVtegeKt/znZALz4eaLnO1RxM1J1bBTrc9bCHm+NXLtCQ9HWvpiIcsAKU9m1zhVqWeQXen3j4Wrj7YQsVXRYjvn4OjtTWe2nDCxElCPLRotWPZZsBDu4f/hdgPH0oAi33zYyvpj1z0DDHWi9Y4TyqaD7WiPC9r75uP65UGlCaTL6rbssRj9UzCqa+rMbm/6gNSBhPX2vNGY40lyS7My8u/8VtS66mcncrypUJtdA6AonfX6ZtBuP0Pwvmmaiq4/mbqmUYmvlbd2n6UbeQUMmkMsnZfL2r9q5IQzXAhei6B5eXz7iCJuHVSMk4SEyF7g4AtJqvgu46FRl4cbdfGra/IA5BVISCFP+Qaz0lwiuQz3vAHfyQDr33qeMwOPM40Cq6cUudVTafoWlZtqFHCXYagnIM4yXTY5HIdYj/RFlBeRT0yM9HeIzubhi2Ux5b1CrnPHpg==;Q8vC71neeNCCY+5PWVv2MA=="
 ---
