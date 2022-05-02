@@ -2,7 +2,7 @@
 name: "ISEE"
 overview: "iSee, an MIT spin-off, is paving the way for autonomous vehicles that can deal with unfamiliar situations and complex interactions on the road. Inspired by computational cognitive science, our humanistic artificial intelligence will seamlessly integrate into society and benefit human lives."
 type: "profile"
-heat: 72
+heat: 57
 
 website: https://www.isee.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "isee_ai"
   url: "https://twitter.com/isee_ai"
-  followers: 218
+  followers: 219
 
 size: 11-50 employees
 yearFounded: 2016
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "ISEE"
 
-secured: "7+KMvBKNgkTWwoX14TjBeEmCvoi0M+5ceGCP5IJtdjJyoHP30vhKpUZIkNnaFEiB6OtRXLqn6JYB3ogXcMMHoGT2FQjtx3Pklm3fyyRUQXQ6p1rpJ5mlEbwIY9Risse369Lzkge3pcOctX5Z7+h4MoLa2gnNmTXfdk8HO/5grNMCg4wJB+h+SuwUL/QC8rZnoIEoT9GZESLLjNKBVsev42SAzfWfrSo9vFYF7AV6ju69iZ2HGxUyQ0Jm8ULjw0XDV0jgcfYJQnWYR2wqk5Ffrs3Ud81qzcBKZokgRdI+qAgxMNmFxsoRFYJJ4GOMYYEtbZxo1GsFEGOpziUHPmEmoicuLD87DsTVDjKjVAJWz0Nnx//Do1lZWUtiEf91wB5C3TUPZImSIIzMz/rAHjA6Uw==;pFrpqrFD7cwyr5ZNSlH+WA=="
+secured: "vJRy4PxKLi4ZUrUKD3DckZ5r6wsDHEqo6pfIrQrKX7hYjXI6ML32dcGwJE/JYKYktHX7N/P/Uv6zjJ090aOknor6S0+wB2+2VvsVWT0L4a0OJujd5/AdBXVbtPBfIQSVbvQHXx/xETBhij0e0eINC43JgXcnIXgWEFGkTCLq0n3NDM81PLRXmP92bGJPrJYPpNSox+VVBZVpipSWQDKsv7Jh7hfzP0zc9ZUgTmxQx1K/PGfVErs6+cDZqn6xhQyYoY9gqZ3ttQeBeAHuLAg0ch7B6C5a0LzIIXfNSCZGtZ2nnPHanZqMh7WXI/LLjR+Tn5zQbsGq9yPYkJlbtSKlzq+qfXfA6wZmKbXQ/wRm3iGIwb58p3ZeCQs7AtTP4WQyYUL4FZZzl3nZrgQ49/K26Q==;c5nB4JXl4Nn3VPRii3Tg8A=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "signifyd"
   url: "https://twitter.com/signifyd"
-  followers: 1826
+  followers: 1827
 
 size: 201-500 employees
 yearFounded: 2011
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "hqVJCDpdq8VWlnoWo0PEL3Z6OA/udXFMIgVAvuGYfv3WFRLRZK50yreWFwOORVIJso7cTN4TMI7SVTVDgxXcm7FsgkjfRkdRx5EGWSs2VEA0IfHFHsdgPn/TZlvkAiTl2ylXZyjPCLiBs/c5g8cStxZIJLCiHe9WJH3lHYLlAqGNXrUEkdicVRtmJkbfGWLdTCUSegrd0aDbjw5REm4mEpXpK+q5gVQVtgKPvFWuXN3awBCj7912bcAkEw5V9RwoqHQneSfRwPVJL1jCU9qqJbBd5/Iek5WC1YrZ76dY70WUbZ65DT/L1s50CUxBlWYw0WbAOAP92jx/+8tUz4CqW0IYypM1xepiYbFn+lRiScExguJkTtFIk+mTBmir01H1Yd4rTBxXFro/22yz0+PRVcpZP1tNt1yvicRUd/ZAyMM=;dRYWNmln6kfCL2JTo2kaPQ=="
+secured: "wIdNkl061CorQEOAwk94SU7MCMHWp198tz7crnLXtv3BwWu1olBTlMX1YrEtP+42iRtdp1Bv3IBkgSWK6mzw62xmU5DyHF9C574sUNX3qbQqwRXrrewuqQwFgii9oWuiC/2SDc+IdBG8mEpVBoYr9Byk9Oha1kdwLSNo5rZdmAxR7QczBewpZcbFrpsSh1Paibt7SvY5TVGLZ/2Fry/1o+A3MZ2yHr//YhTqC9iCL0kL31CNGQMAxkb5r7doWwVoMFmNdXUw2UmVi3iIJCl32XIi5pswKsZHi9qNJSoIzE7lMuqQ4zutJzVIj1en/VGWv9iroc7vtUo2Mh9YbF9aFfWG3inFnX2uuA3nVQW5ld0nFGjxyQayvK3rkPhfgn0pZpu8sR4LqW8kZwku/HoHQZQDC9W86sfLTkvSZo08L90=;AmapbPCuUFJrDObgdjSUZA=="
 ---
 
