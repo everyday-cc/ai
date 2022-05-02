@@ -25,35 +25,14 @@ images:
 
 related:
   - title: "Financial-Technology Firms Tap AI to Reach More Borrowers"
-    excerpt: "Rather than relying on traditional credit scores, many fintech lenders are feeding a wider range of data into platforms powered by artificial intelligence to present a broader picture of applicants who might otherwise be turned away by banks."
+    excerpt: "Nearly every big fintech company has to rely on bank partners for regulated tasks such as holding customers’ deposits and issuing debit cards. LoanSnap Inc., a five-year-old startup based in San Francisco, uses AI to scan financial information such as a ..."
     publishedDateTime: 2022-05-02T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
-    ampWebUrl: "https://www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
+    webUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 89
-    images:
-      - url: "https://images.wsj.net/im-535177/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Supercharging customer experience for financial services with Voice AI technology"
-    excerpt: "AI Rudder can make this vision a reality through advanced Voice AI technology. Our Voice AI uses automatic speech recognition (ASR) and natural language understanding (NLU) to process human conversations. Our machines can receive and interpret customer ..."
-    publishedDateTime: 2022-05-02T07:57:00Z
-    webUrl: "https://www.business-reporter.co.uk/finance/supercharging-customer-experience-for-financial-services-with-voice-ai-technology"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 34
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/014/AI_Rudder_-_Main_Image_iStock_-_Thumb_-1049719076.jpg"
-        width: 600
-        height: 400
-        isCached: true
+    quality: 49
 
 secured: "4TqMkdnepPiL2rJqnUAa3/yQApoT3f01M5FMr0boF9BG+NtDS+kPhYKgWllkxU3W2M/vKb3FFfrg1FPP9rJaVNyPBe/mqgyD0QjAx/E1W7+Gsul8nTZqipkL/chxWjpxb5d8ysOWNKwDKtTgZlYmZP6mJ0i/CVigztUEbueCZ1syYQH4QMU3PUS8J3LR4ho2DEtlzQZEfSPrKQu5knvkqRyXqv1EM3ebURhu2Gze/kNCEZh5T8npw7E+MXjVdDPn/IUxY+9TQQOQdQ4bDcvQ0RN8B+W8bjkCuwbIDCpNUpmmEr9uM1varvCm8ZRjvhT1WPffvL2XnnsSAGwS9WF9wYkNZAoB8xnL/BDwQ00t3Qs=;S7n9DqU7mof+3Xj6C3gPRQ=="
 ---

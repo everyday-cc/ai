@@ -25,59 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "Meta AI Finds New Concrete Recipes to Cut Meta's Carbon Footprint"
-    excerpt: "Meta, Facebook's parent company, has used AI to create new formulas for concrete, which emit up to 40% less carbon dioxide. Why it matters. Cutting carbon dioxid"
-    publishedDateTime: 2022-04-27T20:18:00Z
-    webUrl: "https://www.cnet.com/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-ai-finds-new-concrete-recipes-to-cut-metas-carbon-footprint/"
+  - title: "Meta building AI that processes speech & text as humans do"
+    excerpt: "New Delhi: Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with ..."
+    publishedDateTime: 2022-05-02T09:30:00Z
+    webUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do"
+    ampWebUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 59
     images:
-      - url: "https://www.cnet.com/a/img/resize/f90c437da867007039ebc2649c5df6aea79d8aa0/2022/04/27/02359d41-3b42-41f0-923c-6b131481e2fb/facebook-meta-sustainable-concrete.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Meta-building-AI-that-processes-speech-text-as-humans-do-831x450.jpg"
+        width: 831
+        height: 450
         isCached: true
-  - title: "Meta Using AI to Create Greener Concrete for its Data Centers"
-    excerpt: "Can the servers inside a data centers make the walls and floors greener? That's the focus of researchers at Meta and University of Illinois at Urbana-Champaign, who are using artificial intelligence to reduce the environmental impact of concrete."
-    publishedDateTime: 2022-04-27T20:29:00Z
-    webUrl: "https://datacenterfrontier.com/meta-using-ai-to-create-greener-concrete-for-its-data-centers/"
+  - title: "Building AI That Processes Language as People Do"
+    excerpt: "Our researchers discovered that while the brain anticipates words far ahead in time, most language models typically predict just the very next word."
+    publishedDateTime: 2022-04-28T13:00:00Z
+    webUrl: "https://about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/"
+    ampWebUrl: "https://about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/amp/"
     type: article
     provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 39
+      name: Facebook Live
+      domain: fb.com
+    quality: 57
     images:
-      - url: "https://datacenterfrontier.com/wp-content/uploads/2022/04/Sustainable-concrete-meta-floor.jpg"
-        width: 740
-        height: 460
+      - url: "https://about.fb.com/wp-content/uploads/2022/04/Building-AI-That-Processes-Language-as-People-Do_1.png?w=1200"
+        width: 1198
+        height: 671
         isCached: true
-  - title: "Meta Tests AI-Developed Lower-Carbon Concrete on Data Center Project"
-    excerpt: "While Facebook parent company Meta has drawn attention ... Meta said in a blog post written by Sudhalkar and research scientist Julius Kusuma. The AI generated dozens of potential concrete formulas much faster than would have otherwise been possible ..."
-    publishedDateTime: 2022-04-28T22:04:00Z
-    webUrl: "https://www.enr.com/articles/54024-meta-tests-ai-developed-lower-carbon-concrete-on-data-center-project"
+  - title: "Meta AI announces long-term study on human brain and language processing"
+    excerpt: "Researchers at Meta AI have embarked on one such initiative. The research arm of Facebook’s parent company today announced a long-term study to better understand how the human brain processes ..."
+    publishedDateTime: 2022-04-28T18:57:00Z
+    webUrl: "https://venturebeat.com/2022/04/28/meta-ai-announces-long-term-study-on-human-brain-and-language-processing/"
     type: article
     provider:
-      name: Engineering News-Record
-      domain: enr.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
+  - title: "Meta Building Artificial Intelligence That Processes Speech & Text Just Like Humans Do"
+    excerpt: "Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with neuroimaging ..."
+    publishedDateTime: 2022-05-02T12:21:00Z
+    webUrl: "https://www.techshout.com/meta-building-artificial-intelligence-that-processes-speech-text-just-like-humans-do/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 33
     images:
-      - url: "https://www.enr.com/ext/resources/2022/04/28/Meta_Data_Center_Conrete_ENRwebready.JPG?height=635&t=1651181863&width=1200"
-        width: 1129
-        height: 635
+      - url: "https://www.techshout.com/wp-content/uploads/2021/11/meta-logo.jpg"
+        width: 690
+        height: 548
         isCached: true
-  - title: "Meta AI and university researchers discover stronger, more carbon-friendly concrete formulas"
-    excerpt: "Researchers from the University of Illinois have teamed up with Meta AI to develop an artificial intelligence to create, refine, and test new formulas resulting in higher concrete strengths while simultaneously lowering carbon requirements. The team's ..."
-    publishedDateTime: 2022-04-30T13:45:00Z
-    webUrl: "https://www.techspot.com/news/94413-meta-ai-university-researchers-discover-stronger-more-carbon.html"
+  - title: "To build better AI, Meta is studying how human brains process language"
+    excerpt: "“Artificial neural networks for language are getting closer and closer to mimicking the activity of the human brain, and thereby shedding new light on how thought might be implemented in neural ..."
+    publishedDateTime: 2022-04-28T17:37:00Z
+    webUrl: "https://siliconangle.com/2022/04/28/build-better-ai-meta-studying-human-brains-process-language/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 36
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "7rn+Fse3LVlQWRmCe8n//JHr3oCXEGyCKg2NUkPOA4sdhM/AQ0oNpm3uCktdm8dO9kg8MloBqQqTKRjT7iiT0Jxy7SJyPq/rq4wZtCM/1Gm5deeAUCtBbe2uBDmR9RCkqsYipkrVWKIBTdF+/S3Q2I7FscTaj0FgJv9fWv6qDaYaZjFcJf0H7VYJ242qcTpw1mJSsiCxw+7VCxHZHL+zIbjvlLZv3ZDDoJezKeJ+0mJjSteP8AagTu4qaC/dbUv4iWf27Ki7/y8LS5ECkxqoLDN9/YGKhjfn9HiE79dqq/tIfdfHf4sFUUvGWuqIs2m74ThUITg2k9FbtORCMtUVTaPRxtx7QsqIMLKw1c2IKVg4AAu1jrk0bYsPVOTHL+/496Srw2sbnM5nryzsQSlzxS3XFk41xqkw4wWNrzJQhGFBsAc5GZDC8bPZMr8SBVCGRqwAfVaB+C0YPRjezoJtkj8X23snsNhot1RoMxbR1P5pSXBZZuKXYZkOmYCuYsmC5KDmcOxMUA2yCxT0kL5q8w==;t27tfeU8oX7Zw5fV+ABueg=="
 ---

@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Some self-driving taxi services lose safety driver in Beijing"
+    excerpt: "Two companies developing self-driving cars in China were given permission last week to remove the safety driver from behind the steering wheel for the first time. The permission was granted by officials in Beijing to technology giant Baidu and Toyota ..."
+    publishedDateTime: 2022-05-02T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135737_some-self-driving-taxi-services-lose-safety-driver-in-beijing"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "GLOBALink | Two companies licensed to provide self-driving pilot services in Beijing"
     excerpt: "The first group of two companies on Thursday were licensed to provide self-driving pilot services in Beijing without the presence of safety drivers. The two companies are China's tech giant Baidu and self-driving start-up Pony."
     publishedDateTime: 2022-04-28T13:04:00Z

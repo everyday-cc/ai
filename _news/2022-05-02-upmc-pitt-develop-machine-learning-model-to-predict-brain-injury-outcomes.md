@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/upmc-pitt-develop-machine-learning-model-to-predict-brain-injury-outcomes"
 webUrl: "https://healthitanalytics.com/news/upmc-pitt-develop-machine-learning-model-to-predict-brain-injury-outcomes"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Analytics

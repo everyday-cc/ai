@@ -85,15 +85,15 @@ related:
         width: 1280
         height: 854
         isCached: true
-  - title: "Clearview CEO argues for facial recognition regulation and education in live interview"
-    excerpt: "To ensure ethical deployment, Clearview encourages customers to establish facial recognition policies, including oversight mechanisms and audit trails."
-    publishedDateTime: 2022-04-27T19:28:00Z
-    webUrl: "https://www.biometricupdate.com/202204/clearview-ceo-argues-for-facial-recognition-regulation-and-education-in-live-interview"
+  - title: "Ontario's privacy commissioner joins national call for legal limits on the use of facial recognition technology by police"
+    excerpt: "TORONTO, May 2, 2022 /CNW/ - Ontario's Information and Privacy Commissioner, Patricia Kosseim, and Canada's federal, provincial, and territorial privacy commissioners issued a joint statement and guidance on the use of facial recognition technology by law ..."
+    publishedDateTime: 2022-05-02T15:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ontarios-privacy-commissioner-joins-national-call-legal-limits-/2022/05/02/9593508.htm"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Og7PqnMGbL/BxUkD3fgsYHjK6abaW46LVlmB0ivwZ0LSThMzB16jJGRCQTOACM4fe2LhIb9LdAeKGAb6pX9qL+/rbbWxXKJbM6ISkLIE/UvkgPPHez6t1YV/kbwx4FlqpTITOBqzMBXEyiCYMdPq6m+ztoMkE3oVXgIIuF2m/Q4JWEE3H8JacqPiwAyn9v7YCcAlskuAhQCap3sFWuETO65bhxqcy/3dcX7iqV/Fo/DqXkMmryc2gRvUmc9yH3EYFFDgd6ZbFnKqF1ecgkMiPk3HZ5gPezsj3k5BXW6NyoMZSudQQLw6jVxVg3smnQbkNtoAYq5+kKpX61MhqOu1N5XPPl6d2m6VnfmZKz/9ZqGBgElxwKqaOoB3qrQVzUvM9hRP76bPz9ER95WkwYheEcbyRQ+eAGnx0BLzECE2ZasibijIVRzP7jBXasZllZmv6j08TZ4l66S9jSVrJCKyyH1bXfM//Rtzdz6GHDRUo/vf5J4o5ve/CLm0D/ez3IAF+IV7Gq6aQRU++E9gyO+9EA==;vLcBLzfqp5AEkaTB7liQ8w=="
 ---

@@ -1,34 +1,26 @@
 ---
 category: news
 title: "Enzolytics, Inc. Reports Progress and Future Plans"
-excerpt: "COLLEGE STATION, TX / ACCESSWIRE / April 25, 2022 / Enzolytics, Inc. (OTC PINK:ENZC) ( continues to make significant"
-publishedDateTime: 2022-04-25T11:04:00Z
-originalUrl: "https://www.digitaljournal.com/pr/enzolytics-inc-reports-progress-and-future-plans"
-webUrl: "https://www.digitaljournal.com/pr/enzolytics-inc-reports-progress-and-future-plans"
+excerpt: "COLLEGE STATION, TX / ACCESSWIRE / April 25, 2022 / Enzolytics, Inc. (OTC PINK:ENZC) (  ). Enzolytics continues to make significant progress in its multiple"
+publishedDateTime: 2022-04-25T11:01:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-d4bde18f7f9ef6081beb09b33233e7bd"
+webUrl: "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-d4bde18f7f9ef6081beb09b33233e7bd"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "CORRECTION: Enzolytics, Inc. Reports Progress and Future Plans"
-    excerpt: "COLLEGE STATION, TX / ACCESSWIRE / April 25, 2022 / Enzolytics, Inc. (OTC PINK:ENZC) (  Enzolytics continues to make significant progress in its multiple therapeutic platforms and outlines here the technical aspects of the implementation of those programs and the Company’s plans for the future."
-    publishedDateTime: 2022-04-25T19:01:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-7ba55e738ac3da7ad07b5070c5704c53"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "iO42mqFoHEJ3hj6w9lRsLP5CmSWPowpbB/gBpacbIYmq9gNNJFF21T8QaocP/jw9bYKXawcw9hhT3EdVcWMQ6sNvwb77qk7S55L674b12W0LQMRZrfdHar2lQEtJDK07ZnOob1Lr6s42AMDwnMaivNOYAfgCQI73Prq+LtB1JA3dzywtNpsWhVCu7ijArrCPBFSicgp8oUNJZydnahPKn6bMvMZh0uojn1zdmoPsbJiPf0Q5008Y8enhdhCUhH3TeXqAUguZ+99GTvpt00b4Mdj8HuGfYU5zmale9Iei2OQSGjIqO0dpeIKG9CbYGfGrMee+kwCRyUFd6Od/xFvT1trbAczz/iZLFqDWpe70Xvsi5ksij684d990NIWC1vcicWrTUWbNT/WXmOJHzmzH4oWLzY1W0Do2Yy+3iuXruU9KQbUqshNV5qhoZcAlURCJmLLpd+GpxX8s4Bf3LVmk3etpe7sX4A3aJP0+6erCnQvVWiXmVAoE+Jjz6G8ZKRJnQ1tTzJ2omtjCS2TXIUXanA==;QbJGKhhwGVoS8MWzUsQ5QQ=="
+secured: "YC1Xidjxr/vlALtcSuY98dxFOVQM5Yb/8goSugUS4aq2+PYanTq/9z0agnUoq7aU/6PcEzh2l31jaZr/xSuHS1zPYjoGgJ9/eUvilumvaGtRu/HWMbufbT3v7b+fUjx5EpiIo4g+K7bqM+CHIJje1kMpfDoFgZ25F2jgy9rzP7mdYEN/6y1+9545xk/b6aM94ETRQO1g7OWnmUuIzHfsiKOv2Dn196QXhApNhSjwoOrbHW8xTGohz3woDMzRP/EPsbO2QJVaaboLgqr5D+Mh1n304i8dmHwTr5RDcUUhzq2Sa8GJmbe01P0Ei2r6AZ4ZpPL+AFookMYOzpOx4Zb0Ux+PJXTv4P+tTma0q1fuMsU=;m1lhPH2MSXgKvJCXuhelSg=="
 ---
 

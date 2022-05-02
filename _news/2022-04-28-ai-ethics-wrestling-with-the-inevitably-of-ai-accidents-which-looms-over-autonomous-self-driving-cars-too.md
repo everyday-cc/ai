@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too/amp/"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-vehicles-liability-warning-exclusive-1602808.jpg?r=1651360423936"
         width: 590
         height: 350
+        isCached: true
+  - title: "Some self-driving taxi services lose safety driver in Beijing"
+    excerpt: "Two companies developing self-driving cars in China were given permission last week to remove the safety driver from behind the steering wheel for the first time. The permission was granted by officials in Beijing to technology giant Baidu and Toyota ..."
+    publishedDateTime: 2022-05-02T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135737_some-self-driving-taxi-services-lose-safety-driver-in-beijing"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "GLOBALink | Two companies licensed to provide self-driving pilot services in Beijing"
     excerpt: "The first group of two companies on Thursday were licensed to provide self-driving pilot services in Beijing without the presence of safety drivers. The two companies are China's tech giant Baidu and self-driving start-up Pony."

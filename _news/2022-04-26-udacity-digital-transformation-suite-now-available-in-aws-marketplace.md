@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "nP5AsJQn6Yz0APQGsuC6AGlhP58aIQ1XLNkKRNPCsKYdLUnUQ52rP6U8uP9L1qFhs2aEii/7W3Jn7K07SXBGiksO+GAFKdar2373JB0D4NHamNDN6xtAjblbWWJ109glRhI11+xFpVx5wbP68mV0xxmbEckuyDp6cFd96zC1uqIthYLIry4i+41G+Ax+K57dSK9fCm0+Gps1QS8BLGp3bsb52XmY8kyMwwv4bS8MEHEYLkXHaq4yMlz6iIkApvhpWDy88syo6t9C9JxgExARTV/PY5DmReAw8IhLgBSr5f8yC8LiBFtpXDC+1zNFj4nfzToEgces3wc+G0ZDdSOrqbnc17HbhBbS5J/XWVge5Pg=;QVBUbqmXilioD+oqVSl/FQ=="
+images:
+  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+    width: 800
+    height: 340
+    isCached: true
+
+secured: "lRR4y2czTkh5/r76oEeZg8O6+rN9FzRmf673y3BkbhEwXvChDAuoGTkL6gUyHbjo8OzoNHBQDpVyPKsuJrLw5ZxMgqbJ7smJ+9rgcqvjciC5Br6TiWOFQpnw5Gl18XBOTjlV8vMuvUqYgdWhieAFhY25TZoK6zRv5rcTDn2voSggIigTB1sukhV/+EQpjXSYySn3k1KtQdC2OX4mFb/9t9nMIn1BAjzRh0eUFn82oagtlBkE25h7mhIAsyTv7zYAWTU9MqXHTfaE6aQ0MvTFbl7ypOGzQbLIXTl8/sEN9kddzafrwOw7NYWRwvY7DpLLEOU03zlzBQyKEIocQxV3USP8zWqcpZq+UIzhIg2f4y0=;rvfMc+qWgqRR7s7qBPZMWg=="
 ---
 

@@ -76,6 +76,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Accern lands $20M for AI that analyzes financial documents on the web"
+    excerpt: "Accern, which uses AI to analyze online conversations around particular companies, trends, and industries, today announced that it raised $20 million in a Series B round led by Mighty Capital ..."
+    publishedDateTime: 2022-05-02T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/05/02/accern-lands-20m-for-ai-that-analyzes-financial-documents-on-the-web/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Finbots.AI raises Series A funding for AI credit risk platform"
     excerpt: "Singaporean AI-powered credit risk specialist company Finbots.AI has raised $3 million in Series A round from sole investor Accel. The transaction marks the first external investment raised by Finbots."
     publishedDateTime: 2022-04-28T13:58:00Z
@@ -182,6 +191,20 @@ related:
         width: 990
         height: 550
         isCached: true
+  - title: "Supercharging customer experience for financial services with Voice AI technology"
+    excerpt: "AI Rudder can make this vision a reality through advanced Voice AI technology. Our Voice AI uses automatic speech recognition (ASR) and natural language understanding (NLU) to process human conversations. Our machines can receive and interpret customer ..."
+    publishedDateTime: 2022-05-02T07:57:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/supercharging-customer-experience-for-financial-services-with-voice-ai-technology"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 34
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/014/AI_Rudder_-_Main_Image_iStock_-_Thumb_-1049719076.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Finbots.AI Raises $3M From Accel In Series A"
     excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
     publishedDateTime: 2022-04-30T19:27:00Z
@@ -190,6 +213,15 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
+    quality: 17
+  - title: "Finbots.AI raises US USD 3 million from Accel in Series A round"
+    excerpt: "New Delhi/ Bengaluru (Karnataka) [India], May 2 (ANI/PNN): Finbots.AI, an AI-led, innovations-driven venture targeted at banks and financial institutions, today announced it has raised US USD 3 million in a Series A round from Accel. The investment by ..."
+    publishedDateTime: 2022-05-02T12:48:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272536132/finbotsai-raises-us-usd-3-million-from-accel-in-series-a-round"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 17
 
 secured: "k6vYyD3H7Wi6VgdUDMjlisEgkizKoJOzTedHGbo/kJdi3KYyso19hmjISXMa1A4CjYCh2/s0NgAd/qOYKP8JPOxb9+vxIMaHKb675GOwfKgJV/jOR9+nHP5lHlAQIZyLLOFJE9FvkMFmK041ElRoLaCfMje0EMdfsDRfp08yOBAmBwpKnl6duORaGAFM53Cmu5hgST4jV4PWB8d+WbC8PJd5tH08GgkQqjZFp6q4iPsmbd78O9ZhpewrZa8e2DWX2vQChCBgQiPiXnsxeEYMIdA2pcvB82rch5dFVdNgMXboJb81qaf4KEydQqv6vAA9keuUJFXi8xe2mzt+E5HClrSIbnAMk2an+qIyTXk6c98=;euhMOdZGJ3JKZM4UnSTbxg=="

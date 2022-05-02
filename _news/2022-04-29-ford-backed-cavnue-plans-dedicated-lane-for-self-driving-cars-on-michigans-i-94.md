@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1135720_ford-backed-cavnue-pla
 webUrl: "https://www.motorauthority.com/news/1135720_ford-backed-cavnue-plans-dedicated-lane-for-self-driving-cars-on-michigan-s-i-94"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Mich.'s Self-Driving Car Lane Gets $130M from Ford, Others"
-    excerpt: "Michigan's groundbreaking connected and automated vehicle lane will run between Detroit and Ann Arbor. Ford will provide not only financial support but also infrastructure support to ensure connectivity for vehicles."
-    publishedDateTime: 2022-04-27T21:49:00Z
-    webUrl: "https://www.govtech.com/fs/mich-s-self-driving-car-lane-gets-130m-from-ford-others"
-    ampWebUrl: "https://www.govtech.com/fs/mich-s-self-driving-car-lane-gets-130m-from-ford-others?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/mich-s-self-driving-car-lane-gets-130m-from-ford-others?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/dcdb42e/2147483647/strip/true/crop/1000x521+0+20/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F5d%2Fe7%2F09061403c5c197cf547127226e4a%2Fhighway-aerial.jpg"
-        width: 840
-        height: 438
-        isCached: true
 
 secured: "9st+OlCjY0toI6GVtSUM3gxu35v0pR6ZbJKlFEXkXVMscCzneXqwzjidK1QVdKQA/neFv6YPtP7XJxtDRYEVqjvn6Lfs5VzxHCqinFkmkCB5TYr6OwPHPIjNZyfgOdoJTTQyOts7qlmztHDiQuBAV5Uv1YmqDKqw16Thbuk9OGUQ8zlUN0sBZ155Mljxfy6lHRDmTxHXLO0YpYO6rvyXEy0U+iS+CUe3ce4oQzulKGpMrTLh/3FDmqKEVcTg52YJMqzRKtR5iDFtUodkN65lygIJCHgLbeEs6JcTE3H9LA/m5ZLFggttJP1NEWLfFObbgj4qnZooRQaLW29ywXdqQCcoE4R+oEPLh5bgvoXrBPhP6H364bpSSyt6LKRT8udl9p5ADc99jOGb9/6gEpkEw8IJ8CZ03SiQ93R0w43urxc7DG0Q0c9COoKXVz0JEXxVNBgq06VYakhM8UqzvnMbBs+xKm9GKHuqM3DGAwlDIu4fJjwJLeANAvC508t50WDLcH8ua/XoPMwnLtScEDHR+g==;kPNnZJPKjaJaZpFpPklPQw=="
 ---

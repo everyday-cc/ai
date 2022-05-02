@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T12:57:00Z
 originalUrl: "https://www.appliedclinicaltrialsonline.com/view/wcg-and-deep-6-ai-announce-partnership"
 webUrl: "https://www.appliedclinicaltrialsonline.com/view/wcg-and-deep-6-ai-announce-partnership"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: AppliedClinicalTrial
@@ -13,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Ticketing and cashless payments solution Oveit announces partnership with deep-tech company Humans.ai"
+    excerpt: "Oveit, ticketing and cashless payments company headquartered in Austin TX, USA, has partnered with Romanian deep-tech startup Humans.ai, for the development of artificial intelligence powered NFTs for live stream shopping. The partnership is the next step ..."
+    publishedDateTime: 2022-05-02T09:09:00Z
+    webUrl: "https://business-review.eu/tech/ticketing-and-cashless-payments-solution-oveit-announces-partnership-with-deep-tech-company-humans-ai-230421"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 22
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2022/05/Humans.ai-Oveit.jpeg"
+        width: 1400
+        height: 674
+        isCached: true
 
 secured: "e9V6qCbCor27NlNzplDDWNTDD32WmeFcdwKFGQ37CeSRjKGl2a7xFJV5yhE/NEWd6kVXfwMXRmqmHg8tXtkf5jUL5Cfp6908C060fmCg6OdHticMB3fXxF+s3HmvKtmxpyJZF42+wEqMafJlnLKHtwALRh03yS51OVortKb4V2ZjQYRaSyeT0fw0kOgPeYeqYHx21OdmNLtsC/OSRXHhTTrVC+ABzstEzbrhTnh8gzp1C8Qx2lJFpVbZERwtdYR2S1oWEqM33E2FnQDvk2ozkKfIKJ26LeJYWZmk7X+uVeSGtK4FSj20JALkWNP34kg20KFgWg3xTDtHT1L+YHzcNrgT/2T/lmv44NLTI8mrHmVC0UY9Y70ShtEbkbyOovfZyAV2ySQVslAumwokwSwDChapPsa5ji9cQWtqL3mfWvHNH5ioeIkfPgDM3Q6iVEHmbbOgWwj7mwTUHcvFOsTT6tCAAHwGJ/gPxrXjsLRypPnuRpHeoLfxReNwqS8i7alpymEypOOEhW/woAE+5BTQbA==;NZaMLoVjNVxGyLdaHFlq0A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T12:56:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/monsters-superheroes-and-video-games-is-ai-even-real/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/monsters-superheroes-and-video-games-is-ai-even-real/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: India Times

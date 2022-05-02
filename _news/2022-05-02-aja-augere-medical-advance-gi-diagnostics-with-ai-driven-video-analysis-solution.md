@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T12:51:00Z
 originalUrl: "https://www.avnetwork.com/news/aja-augere-medical-advance-gi-diagnostics-with-ai-driven-video-analysis-solution"
 webUrl: "https://www.avnetwork.com/news/aja-augere-medical-advance-gi-diagnostics-with-ai-driven-video-analysis-solution"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: AV Network

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T13:32:00Z
 originalUrl: "https://sporttechie.com/pga-tour-gets-equity-stake-in-ar-startup-quintar-in-expanded-deal"
 webUrl: "https://sporttechie.com/pga-tour-gets-equity-stake-in-ar-startup-quintar-in-expanded-deal"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: SportTechie

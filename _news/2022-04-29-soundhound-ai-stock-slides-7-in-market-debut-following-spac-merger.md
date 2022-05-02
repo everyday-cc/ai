@@ -9,8 +9,8 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Seeking Alpha
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Is SoundHound AI (SOUN) Stock Up 30% Today?"
+    excerpt: "SoundHound AI (NASDAQ:SOUN) stock is soaring 30% in early trading. The California-based company “develops voice-enabled artificial intelligence (AI) and conversational intelligence technology ..."
+    publishedDateTime: 2022-05-02T15:05:00Z
+    webUrl: "https://investorplace.com/2022/05/why-is-soundhound-ai-soun-stock-up-30-today/"
+    ampWebUrl: "https://investorplace.com/2022/05/why-is-soundhound-ai-soun-stock-up-30-today/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/05/why-is-soundhound-ai-soun-stock-up-30-today/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 57
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2022/05/soun-stock-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Newly public SoundHound AI stock declines for second day, shares down 15%"
     excerpt: "SoundHound AI (SOUN), which went public on Thursday, saw its shares slide for a second day following its merger with Archimedes Tech SPAC Partners (ATSPU). Shares of the voice AI platform provider ..."
     publishedDateTime: 2022-04-29T19:13:00Z

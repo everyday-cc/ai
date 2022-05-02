@@ -30,15 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and Robotics are Enhancing the Guest Experience"
-    excerpt: "As technology trickles down, Castiglia predicts industry-wide adoption in five years. This week, robotics, artificial intelligence, and automation are gaining press and popularity in the restaurant industry. From robots flipping burgers and perfecting ..."
-    publishedDateTime: 2022-04-27T21:17:00Z
-    webUrl: "https://marketscale.com/industries/food-and-beverage/how-ai-and-robotics-are-enhancing-the-guest-experience/"
+  - title: "WCG and Deep 6 AI Announce Best-In-Class Partnership to Enable Faster, Smarter Clinical Trial Patient Recruitment"
+    excerpt: "May 2, 2022 /PRNewswire/ -- WCG and Deep 6 AI today announced that they are working together to drive more targeted patient recruitment in clinical trials and accelerate enrollment in vital ..."
+    publishedDateTime: 2022-05-02T12:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wcg-and-deep-6-ai-announce-best-in-class-partnership-to-enable-faster-smarter-clinical-trial-patient-recruitment-1031408265"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 49
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "DZKSgxurfidfTRnls2O0dGHwUZyi3nHeYtz+FiKv40ppw+SZUW1SyqywNtLWHN16/FD2gZ7h/VnvcMfPmtEJVZ1daC0p1VLWheX6oh/VwpLJIcO7SvGll2iLgtX2Oz2mx5UmaWAxtiSDQ5Q8v1RaWXP6ZSEq6h4ovTwpXK0QM4I+2FyqJjccG0nYD4xU95BnNfU8atWGlrDiynyAgWpB/fyDC0Gjd+FRodnuUqhb4Z6uukemGLXQ4uhMgkutS5K5BEPHchz5ECgScALHYWhVg4+DjU+0MxlySbieu71Yu4D4+olxmdbgwwZvV1IX8v8LZ3yw5PnbR1XBDFH5+lNyrFwsQp+fBX0pQqYQZKKkd3Y=;Cgp7OO411IcaP23kvSYsrQ=="
 ---

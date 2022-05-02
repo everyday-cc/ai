@@ -7,7 +7,7 @@ originalUrl: "https://www.news10.com/business/press-releases/cision/20220428PH39
 webUrl: "https://www.news10.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Attention Investors: What’s Really Happening To C3.ai Inc. (NYSE: AI)"
+    excerpt: "Smart investors will not be hesitating on this one! C3.ai Inc., which has a market valuation of $1.90 billion, is expected to release its quarterly earnings report Feb 28, 2022 – Mar 04, 2022. Analysts tracking AI have forecast the quarterly EPS to ..."
+    publishedDateTime: 2022-05-02T13:41:00Z
+    webUrl: "https://stocksregister.com/2022/05/02/attention-investors-whats-really-happening-to-c3-ai-inc-nyse-ai/"
+    type: article
+    provider:
+      name: stocksregister
+      domain: stocksregister.com
+    quality: 17
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
     excerpt: "If you wish to serve as lead plaintiff of the C3.ai lawsuit, you can submit your contact information at www.glancylaw.com/cases/c3ai-inc/. You can also contact Charles H. Linehan, of GPM at 310-201-9150, Toll-Free at 888-773-9224, or via email at ..."
     publishedDateTime: 2022-04-29T17:00:00Z
@@ -27,15 +36,6 @@ related:
       name: WGN Radio
       domain: wgnradio.com
     quality: 15
-  - title: "AI LAWSUIT: The Law Offices of Vincent Wong Notify Investors of a Class Action Lawsuit Involving C3.ai, Inc."
-    excerpt: "New York, New York--(Newsfile Corp. - April 29, 2022) - The Law Offices of Vincent Wong announce that a class action lawsuit has commenced in the on behalf of investors who purchased C3.ai, Inc. (\"C3.ai, Inc.\") (NYSE: AI). This lawsuit is on behalf of a ..."
-    publishedDateTime: 2022-04-29T18:02:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/29/ai-lawsuit-the-law-offices-of-vincent-wong-notify-investors-of-a-class-action"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "rdz5WpYuHje2Ma4H/3W3+eElhrF3qn6fpn/um5EE4cv8dyM8ZCN/9lHcNxzdWf+uSird47sGclDdY1H+59JnOJC/s/3cflDEnkNcgzn/9IIMQvff3wl1zBoaMcUgfeUfuxmXcxq2hEOwQZ0Z3InmKASKeVGRKFSQWLA3eh9TTchKzJPyMCduLYMHBNIhNdgdzc+hbk7+UYF4FwXY3S1YXGDSuZxoDqirhVL8FAAP2klWMPQ2NYKym3Hlf8tLzqeWbv84gtCydZEeTZYvFzWynoQJpFVBdCks2+MUbnanLHokDCpCuUjQJMZtBQ/kNFz0/JuKFW6Ygfvsm1CPnQz/81cNpqH45446OXWaxYy6xVE=;UnU/OljDW92Ui7TWAfEZ7A=="
 ---

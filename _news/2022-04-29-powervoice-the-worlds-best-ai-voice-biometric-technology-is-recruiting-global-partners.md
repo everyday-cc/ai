@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-28T18:46:00Z
 originalUrl: "https://www.digitaljournal.com/pr/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
 webUrl: "https://www.digitaljournal.com/pr/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Digital Journal

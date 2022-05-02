@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "HPE Swarm Learning Increases Accuracy and Reduces Biases in AI Model Training"
-    excerpt: "Hewlett Packard Enterprise is unveiling HPE Swarm Learning, a breakthrough AI solution to accelerate ... while protecting patient information. Banking and financial services can fight the expected global loss of more than $400 billion in credit card ..."
-    publishedDateTime: 2022-04-28T19:04:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/HPE-Swarm-Learning-Increases-Accuracy-and-Reduces-Biases-in-AI-Model-Training-152689.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 18
   - title: "University of Michigan: New language-learning algorithms risk reinforcing inequalities, social fragmentation, per U-M study"
     excerpt: "They are more advanced than previous natural language processing efforts because they can complete many types of tasks without being specifically trained for each, which makes any single LLM widely applicable. Numerous factors create the circumstances for ..."
     publishedDateTime: 2022-05-02T04:51:00Z

@@ -1,19 +1,28 @@
 ---
 category: news
 title: "Swiss Startup Vidby.com Helps Achieve Up to 99% Accuracy in Video Translation Thanks to Artificial Intelligence"
-excerpt: "ROTKREUZ, SWITZERLAND / ACCESSWIRE / May 2, 2022 / vidby AG has created a service that translates and voices videos in 70 languages in a couple of minutes and costs from $0.9 per minute of the original video. vidby empowers bloggers, media ..."
+excerpt: "ROTKREUZ, SWITZERLAND / ACCESSWIRE / May 2, 2022 / vidby AG has created a service that translates and voices videos in 70 languages ??in a couple of minutes and costs from $0.9 per minute of the original video. vidby empowers bloggers, media, international ..."
 publishedDateTime: 2022-05-02T13:45:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-2-swiss-startup-vidbycom-helps-achieve-up-to-99-accuracy-in-video-translation-thanks-to-artificial-intelligence"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-2-swiss-startup-vidbycom-helps-achieve-up-to-99-accuracy-in-video-translation-thanks-to-artificial-intelligence"
+originalUrl: "https://www.baystreet.ca/viewarticle.aspx?id=699654"
+webUrl: "https://www.baystreet.ca/viewarticle.aspx?id=699654"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: BayStreet
+  domain: baystreet.ca
 
 topics:
   - AI
 
-secured: "8A+RNvWTA6xTvRASS4jr85wJ8WoMOdLnd0GgO/1z8MUq2KDkP7CWXJSpCTTNF1c2XeoHnnAZDrz2F+YtrWtoLH6UpcnIdPSmjnVliGfu+GqapvFVTIK2TjbRc+0u3Vx6mFZGLJ1cAGNFH5GCoQuw8N+HZxMUu3ZjkcjTtkLZEwwjVh7xsjRFQx6tjR1K4nifwEE2LEeA/aszd2q3L5yhkO2AVt0RTXt6d3Eu6FfALLhFZtFR06/USTNk5nsyQpX3/9je1fHmf4hDRreM3TCWr12BnwwTvk7NtRO4zXGIvVWnIdDCjye3didC9EOQR+G+M1+gNRoqIj9mW/LRfKpnTAfMXP1lbb+hhNJkg9S8YgE=;IW6poK36hZEfPolfA/Pdfg=="
+images:
+  - url: "https://www.accesswire.com/users/newswire/images/699654/realac937062-8989-4ea8-8541-5b76d98599b91.jpeg"
+    width: 2160
+    height: 2160
+    isCached: true
+
+secured: "kIa0dKc2oKpYGoKyfY4rHW+7TTfWIwbDZyehiIlQQjjSk/r/yxHAE17E/3goHx/1jV/PsgfTJ1lKlGdAkmN+6wiSFcJLZu4ag0bl9rkfhQM7ei5/fMLS7lm2i19tW3h6eG/m+6mC7/B7JFFBJBdqUfwCRYe5VmfEbbSJRndyboB92t8Ti6sDeRyNCJTjp60M+JJfhSeN9pcs4cIhoW9YD8NIXk88lZhbi5rrfxrePUcnjqLRqEbWx3XzyANctcg/A0O3tB19gjF1RN45jMkgS79CLaE/HaD/Apz6tuDPuv8q0JE6e9RDjaHp9lyU+DIIWxL14p00fXnKnGWVBwIp1o5T1fp1g02EkF0kOUlBocs=;bRYGfV32kTdq2+ytUP8ATw=="
 ---
 

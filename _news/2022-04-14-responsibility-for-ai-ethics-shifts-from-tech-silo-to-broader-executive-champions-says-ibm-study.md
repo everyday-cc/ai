@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study'"
-excerpt: "80% of respondents in this year's survey pointed to a non-technical executive as the primary advocates for AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ..."
-publishedDateTime: 2022-04-14T07:13:00Z
-originalUrl: "https://menafn.com/1104018925/Responsibility-for-AI-Ethics-Shifts-from-Tech-Silo-to-Broader-Executive-Champions-says-IBM-Study"
-webUrl: "https://menafn.com/1104018925/Responsibility-for-AI-Ethics-Shifts-from-Tech-Silo-to-Broader-Executive-Champions-says-IBM-Study"
+title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
+excerpt: "When asked which function is primarily accountable for AI ethics, 80% of respondents pointed to a non-technical executive, such as a CEO, as the primary \"champion\" for AI ethics, a sharp uptick ..."
+publishedDateTime: 2022-04-14T06:03:00Z
+originalUrl: "https://www.asiaone.com/business/responsibility-ai-ethics-shifts-tech-silo-broader-executive-champions-says-ibm-study"
+webUrl: "https://www.asiaone.com/business/responsibility-ai-ethics-shifts-tech-silo-broader-executive-champions-says-ibm-study"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?698264"
-    width: 375
-    height: 250
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/pr-newswire_500_4_744.jpg?h=7de12b8a&itok=1ipjVXxk"
+    width: 600
+    height: 316
     isCached: true
 
-secured: "dkEHlr45xk764u0z4+m0x7TwO36Z9HhGd2TpORbsypqQzvw+h6s9gjsUgzidmtFfGmTkblniWS8yY/PEbBoJmNWRoVEtbalp8Fw6ClVmisi9ydkVHdj786f6dO126KqwqbJUp+yFTsZh4SqH8lSU/jI1w+aJLIcoJz/Ee9tf/tXCej2kZZ7e9KOpKyYcU0K/D1xhIxr+L7rCiBS1fcAHcKpo+YisHeT6kJjRWVY6Eyx3wI0izWWR9q2oYvk4FMv4DP9xZksUV85gfhx0HLwVyf4nbpqvhteTbIU0L8YMwBPey2p0B/++PaZdQvUhwwuXk2IY7lOp3Zh3YZ1hWAtTewLsFp5Hdkj6rDx7ECyJWbM=;Vkm140LAAuufTRO3hK8yKw=="
+secured: "fGENNaeBMdVljNRz4SDMt1JIG60Pl7Hu82XucRTnAIWXc2GIKc/nFIL6VY/nTh/Yz46VpYfUEk2lnAYcb0HPUupzN+LVmuLnvhDZb3Tr4IkAHJ7V1VH92JoWN/K46WqLDHuPc4t86CByrhgnMX1WhxLNEpjbkbZ6Ai0/XVMluLy06bSX4v0Otv0Qmr9Ma3NPQGWpCtMcf9vlncQGhg2GRDQWxYmvYMvxTeZSRnTzXF/iiYscc42r+LY53Tg5ekJBPzN3jpV5MgMwmidrgwXtwg0ZJ2ZnKpszK0hx2m+OC0AM8Miva4hSJ61yWhC5LyvYeLqN03aRUPKGTgx6gCVCa23x4P14tLBG5TUv2MMXtUQ=;Ar4+w4JZ4qqDr5xGpgRdqA=="
 ---
 

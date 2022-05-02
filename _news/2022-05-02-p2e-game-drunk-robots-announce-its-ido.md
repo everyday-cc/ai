@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T10:04:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/g26923823/p2e-game-drunk-robots-announce-its-ido"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/g26923823/p2e-game-drunk-robots-announce-its-ido"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Benzinga.com

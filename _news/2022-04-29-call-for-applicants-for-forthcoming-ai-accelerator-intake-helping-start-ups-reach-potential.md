@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Ethics Battling Stubborn Myth That AI Is Infallible, Including That Autonomous Self-Driving Cars Are Going To Be Unfailing And Error-Free"
+    excerpt: "AI must always be right. Wait for a second, does that sentence mean that AI is in fact always right, or does it suggest that if we are going to be making use of AI we ought to make darned sure that it is indeed right all of the time? Let’s focus on the ..."
+    publishedDateTime: 2022-05-02T15:33:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6268a6c11d002698b15a6d82/0x0.jpg?format=jpg&crop=1989,1373,x211,y124,safe&width=1200"
+        width: 1200
+        height: 828
+        isCached: true
   - title: "Everything You Need To Know About Artificial Intelligence Marketing"
     excerpt: "This is where artificial intelligence comes into play. Thanks to sophisticated tracking tools, it is now easier than ever to track visitors' actions on your website and use those business intelligence insights to reach out to potential customers."
     publishedDateTime: 2022-04-29T00:00:00Z

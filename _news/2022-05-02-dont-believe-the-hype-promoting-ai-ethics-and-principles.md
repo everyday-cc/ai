@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T00:00:00Z
 originalUrl: "https://www.technologynetworks.com/informatics/articles/dont-believe-the-hype-promoting-ai-ethics-and-principles-360377"
 webUrl: "https://www.technologynetworks.com/informatics/articles/dont-believe-the-hype-promoting-ai-ethics-and-principles-360377"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: technologynetworks

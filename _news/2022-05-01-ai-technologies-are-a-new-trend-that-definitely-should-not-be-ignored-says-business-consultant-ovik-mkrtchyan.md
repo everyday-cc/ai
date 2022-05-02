@@ -18,6 +18,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "“AI technologies are a new trend that definitely should not be ignored,” says business consultant Ovik Mkrtchyan"
+    excerpt: "AI technologies are a new promising trend that definitely should not be ignored.” Delfast is a US-Ukrainian e-bike startup on an environmental mission to stop climate change..."
+    publishedDateTime: 2022-05-02T12:05:00Z
+    webUrl: "https://techbullion.com/ai-technologies-are-a-new-trend-that-definitely-should-not-be-ignored-says-business-consultant-ovik-mkrtchyan-2/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
+
 secured: "d0kj9Q60okIQGk5liaBkSsjZR6uOAqgWesiExK/mvAoDit7MS95wPlk2VtqJZr9MR+edvZrcVDV2XS3pcqjX5oqkj5YiPdT0SwO3yJ0wvK3TyXDQAEWKJ/L8khw0nXjtDpmtlCbFYUUyTQ2MpplzXbhfDNJJoJAKXAEqgEltyl1PLRgwGECRhmqVs/BGpsSUkAtya6AJJJ0ZSU6pM+77FSL+scvO/w2tzsW3V1ZMLAjInKI+gKjt7Qbdf/ZiNSWKY/5aLws48sUKGjU90FPmlaVQ3JiZhG7ZLozOEjkxdiWq58f2rGuLjZtfaHrBIm19RF6RLqgUTkgFFKLhA2BIAw8NCVmc0GfLLBin0DQ1tREpLa6K2H31kl+tL2fLu+whdm9X1jXlPRzen9K+6Sw53ijIn8TmfVr77OuOQqVdhKHWCZjyOIT70ud2tkruJeEZkuLBOer0TlUraFxke6SKq6gjwwglt1JoIHgbDWMyoxra1qZ0GBudEyYxoK1xhZJb4eTp5r7rSaW5f2hE8xI6ng==;roXJgxKw/G47eB/tL6sDgQ=="
 ---
 

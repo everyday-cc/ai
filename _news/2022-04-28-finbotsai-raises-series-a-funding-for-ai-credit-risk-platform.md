@@ -82,6 +82,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Accern lands $20M for AI that analyzes financial documents on the web"
+    excerpt: "Accern, which uses AI to analyze online conversations around particular companies, trends, and industries, today announced that it raised $20 million in a Series B round led by Mighty Capital ..."
+    publishedDateTime: 2022-05-02T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/05/02/accern-lands-20m-for-ai-that-analyzes-financial-documents-on-the-web/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Finbots.AI Secures US$3 Million in Series A Funding Round From Accel"
     excerpt: "Finbots.AI, an AI-powered credit scoring software provider, announced it has raised a US$3 million Series A funding round."
     publishedDateTime: 2022-04-28T04:02:00Z
@@ -174,6 +183,20 @@ related:
         width: 990
         height: 550
         isCached: true
+  - title: "Supercharging customer experience for financial services with Voice AI technology"
+    excerpt: "AI Rudder can make this vision a reality through advanced Voice AI technology. Our Voice AI uses automatic speech recognition (ASR) and natural language understanding (NLU) to process human conversations. Our machines can receive and interpret customer ..."
+    publishedDateTime: 2022-05-02T07:57:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/supercharging-customer-experience-for-financial-services-with-voice-ai-technology"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 34
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/014/AI_Rudder_-_Main_Image_iStock_-_Thumb_-1049719076.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "ICON Corporate Finance Advises AI Platform-as-a-Service Provider ForePaaS on its Acquisition"
     excerpt: "ForePaaS offers a unified platform specialising in data analytics, machine learning, and artificial intelligence for ... Acquiring ForePaaS further propels OVHcloud’s Platform-as-a-Service strategy and reinforces its position as a leading global player ..."
     publishedDateTime: 2022-04-29T12:49:00Z
@@ -191,6 +214,15 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
+    quality: 17
+  - title: "Finbots.AI raises US USD 3 million from Accel in Series A round"
+    excerpt: "New Delhi/ Bengaluru (Karnataka) [India], May 2 (ANI/PNN): Finbots.AI, an AI-led, innovations-driven venture targeted at banks and financial institutions, today announced it has raised US USD 3 million in a Series A round from Accel. The investment by ..."
+    publishedDateTime: 2022-05-02T12:48:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272536132/finbotsai-raises-us-usd-3-million-from-accel-in-series-a-round"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 17
 
 secured: "70GF6b5yC7RROPC6/J2OzRvpDQslA/tZT/E9vQyZG39rHfTy3zVCcKHnsvlIqGDlcJ6TsSHES3lqnd2J9TdJOb4OzEWFJSCT3GART17eBV0gtRkekh2bZveNHU6ZS4ugiSY9r2T63JolsTE6si2p4kFuMKQvB/6wTDvsnXFqpz8G3HY5DXQha3TaEB0xrwPdrTEdjPUcSVZ9bQ+g2UiydM5WqwRvUZbNdZEefBtYem+aYlciqN1OTKxjzyJnArzB2uAx08h2OkPvWdyiCLSOIKfub1icE65asSbgt3XmWY9/uGDtdNf4Sgw1UUE7/hVnBq6CbBwcfUV5/uqeKNOWdfCVyGNwbww++1r69T9HEqSRgFrsUUSEV4lX0sLLzIIRCHXHI1oSsU//HJRlp42Luf/vA71FtZxI8tUksiQSJWzPimPsgROXaZFTYs6A7TDCJDSgk/kE/yfrsE+kabw3CIGo3AOc0ChkUwKsF69cXpgVZ7j/UNKlqAWNN1s+wFgtTHPHAIqBE8u90zySTdpWdA==;08fjhL8eGoBnX8NdfciO4A=="

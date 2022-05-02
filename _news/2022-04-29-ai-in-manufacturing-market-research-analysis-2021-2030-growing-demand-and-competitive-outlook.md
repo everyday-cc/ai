@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cooking Robot Market Size, Scope, Booming Worldwide By Global Demand Analysis & Opportunity Outlook 2028"
-    excerpt: "Research Nester has released a report titled “ Cooking Robot Market – Global Demand Analysis & Opportunity Outlook 2028″ which delivers detailed overview of the global cooking robot market in terms of market segmentation by robot type,"
-    publishedDateTime: 2022-04-27T22:57:00Z
-    webUrl: "https://menafn.com/1104105515/Cooking-Robot-Market-Size-Scope-Booming-Worldwide-By-Global-Demand-Analysis-Opportunity-Outlook-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?639480"
-        width: 443
-        height: 250
-        isCached: true
   - title: "Speech Recognition Market: Top Manufacturers, Consumption, Sales, Demand, Revenue, and Business Development Strategies by Top Industry Players-2026"
     excerpt: "The Speech Recognition Market report by Allied Market Research, includes the study of dynamic factors that directly impact the market growth, which involves drivers, restraints, challenges, and opportunities. The report offers a detailed study of market ..."
     publishedDateTime: 2022-04-28T04:51:00Z
