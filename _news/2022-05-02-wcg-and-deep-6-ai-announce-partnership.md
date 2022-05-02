@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Ticketing and cashless payments solution Oveit announces partnership with deep-tech company Humans.ai"
-    excerpt: "Oveit, ticketing and cashless payments company headquartered in Austin TX, USA, has partnered with Romanian deep-tech startup Humans.ai, for the development of artificial intelligence powered NFTs for live stream shopping. The partnership is the next step ..."
-    publishedDateTime: 2022-05-02T09:09:00Z
-    webUrl: "https://business-review.eu/tech/ticketing-and-cashless-payments-solution-oveit-announces-partnership-with-deep-tech-company-humans-ai-230421"
+  - title: "Meta Announces Research To Create Human-Level AI"
+    excerpt: "Facebook parent Meta announced they are launching a long-term research project to build a next-generation AI that can learn and process speech and text in the same way the human brain does. Meta described an effort to create a human-level AI. Meta is ..."
+    publishedDateTime: 2022-04-29T09:17:00Z
+    webUrl: "https://www.searchenginejournal.com/human-level-ai/448006/"
     type: article
     provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 22
+      name: Search Engine Journal
+      domain: searchenginejournal.com
+    quality: 39
     images:
-      - url: "https://business-review.eu/wp-content/uploads/2022/05/Humans.ai-Oveit.jpeg"
-        width: 1400
-        height: 674
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/human-level-ai-626b9fb53ed3b-sej.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "e9V6qCbCor27NlNzplDDWNTDD32WmeFcdwKFGQ37CeSRjKGl2a7xFJV5yhE/NEWd6kVXfwMXRmqmHg8tXtkf5jUL5Cfp6908C060fmCg6OdHticMB3fXxF+s3HmvKtmxpyJZF42+wEqMafJlnLKHtwALRh03yS51OVortKb4V2ZjQYRaSyeT0fw0kOgPeYeqYHx21OdmNLtsC/OSRXHhTTrVC+ABzstEzbrhTnh8gzp1C8Qx2lJFpVbZERwtdYR2S1oWEqM33E2FnQDvk2ozkKfIKJ26LeJYWZmk7X+uVeSGtK4FSj20JALkWNP34kg20KFgWg3xTDtHT1L+YHzcNrgT/2T/lmv44NLTI8mrHmVC0UY9Y70ShtEbkbyOovfZyAV2ySQVslAumwokwSwDChapPsa5ji9cQWtqL3mfWvHNH5ioeIkfPgDM3Q6iVEHmbbOgWwj7mwTUHcvFOsTT6tCAAHwGJ/gPxrXjsLRypPnuRpHeoLfxReNwqS8i7alpymEypOOEhW/woAE+5BTQbA==;NZaMLoVjNVxGyLdaHFlq0A=="

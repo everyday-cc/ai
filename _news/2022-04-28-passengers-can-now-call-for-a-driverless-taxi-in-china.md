@@ -108,7 +108,7 @@ related:
   - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
     excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
     publishedDateTime: 2022-04-29T12:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
     type: article
     provider:
       name: Associated Press

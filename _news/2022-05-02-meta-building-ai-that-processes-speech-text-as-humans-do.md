@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Meta building AI that processes speech & text as humans do"
-excerpt: "New Delhi: Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with ..."
-publishedDateTime: 2022-05-02T09:30:00Z
-originalUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do"
-webUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do"
-ampWebUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
-cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
+excerpt: "Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with neuroimaging ..."
+publishedDateTime: 2022-05-02T10:20:00Z
+originalUrl: "https://www.canindia.com/meta-building-ai-that-processes-speech-text-as-humans-do/"
+webUrl: "https://www.canindia.com/meta-building-ai-that-processes-speech-text-as-humans-do/"
 type: article
-quality: 59
-heat: 109
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: Canindia.com
+  domain: canindia.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Meta-building-AI-that-processes-speech-text-as-humans-do-831x450.jpg"
-    width: 831
-    height: 450
+  - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+    width: 696
+    height: 436
     isCached: true
 
 related:
@@ -52,20 +50,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
-  - title: "Meta Announces Research To Create Human-Level AI"
-    excerpt: "Facebook parent Meta announced they are launching a long-term research project to build a next-generation AI that can learn and process speech and text in the same way the human brain does. Meta described an effort to create a human-level AI. Meta is ..."
-    publishedDateTime: 2022-04-29T09:17:00Z
-    webUrl: "https://www.searchenginejournal.com/human-level-ai/448006/"
-    type: article
-    provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
-    quality: 39
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/human-level-ai-626b9fb53ed3b-sej.jpg"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Meta Building Artificial Intelligence That Processes Speech & Text Just Like Humans Do"
     excerpt: "Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with neuroimaging ..."
     publishedDateTime: 2022-05-02T12:21:00Z
@@ -90,6 +74,6 @@ related:
       domain: siliconangle.com
     quality: 19
 
-secured: "kzqWN7rtnnjcocEOs0TD9r/GLTOoZ8hW6AWp2T8oeoRViYXWQPVD7vxMd0ZKk9Ipga4kpTEPmugOuxSXDsVJAgreXhj22PWHcKX0QrdOfbynVaQappQul4S2uCzUbhK7L8olCyJ3sDERYLGnwztSROGctFSoGJOjYSJeAEbs5GRwNFPrfYdwbH9NBEqCtrSNDS25NPAK1/IeDB8pT2emuwfeXKcG7Y+ndMWeZDICBaFNCuV3GG1nzmXsnzhB0lekzoHp5wymq+3y0Uqtp0uYQO/AU5Q5e34bSeRitKDQm7z7BfDvOzXYIZ6Biwm6weAAfs/F0kw1PKra1U5RDxE5zEyCVH2GTnKWJCt7ud/pnSJy2Cr9h1QZTykcuGk0a5fOWQl6K09qn4aKFr4L2KMZE7huIDiqGC/pqbeMeWEH3/gflh+4S/K9BkDr7WjVmAhpZozXROnYJw+jcf8BsjqMNLJws+Ym11UUMNBT8Obprw45aonIdGOLoeH06pEYxJor0oPC8ru/xn6gnyy4FYPg/A==;+L9pYiNYrp/TeuYJg8W2bg=="
+secured: "Mla4hv2P1O2K7qsACNWIGRRtqGdsXAormg0CjzCP2iUnRAtmyBW4ytyJdpmfJftFHrG2/SVPzvhnFrh2S8ehY83AFjBPHauzrmmZA27tL1rpFpvpzWwnbCXgsk4fzTxWJXFGomlRM/mVfMxBb+sgVnzK8ZgHQayLdQY+y0QaPobKPTUOIxSFxcu27MAUuXXylvNHuWrnU/ye2agDG6uNW8K/gRaJ0AuOUCd4+PonpyM6s2zmDN2R08JXBSBG/lo7UGRecSyWZz5KnMx1qQCcF7UZg/B/FsE3KiH52J1963R9YZCBrQs8yt1Le4Q5OorX/uZHz/98UushpcCtBru25s1a1lw3ipXHEzuZiA6xaoM=;5lxTGmcdf8hETe0uN86SMw=="
 ---
 

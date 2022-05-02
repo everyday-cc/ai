@@ -25,80 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "Why you should be using AI for hiring"
-    excerpt: "Advanced AI allows researchers to parse and score unstructured data such as resumes, typed responses, and interviews, and it’s game changing."
-    publishedDateTime: 2022-04-27T23:10:00Z
-    webUrl: "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/"
-    ampWebUrl: "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1288853231.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI Ethics Battling Stubborn Myth That AI Is Infallible, Including That Autonomous Self-Driving Cars Are Going To Be Unfailing And Error-Free"
-    excerpt: "AI must always be right. Wait for a second, does that sentence mean that AI is in fact always right, or does it suggest that if we are going to be making use of AI we ought to make darned sure that it is indeed right all of the time? Let’s focus on the ..."
-    publishedDateTime: 2022-05-02T15:33:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/amp/"
+  - title: "The AI Learning Revolution And The End Of One-Size-Fits-All Learning"
+    excerpt: "As we enter an era of more effective and efficient learning, asynchronously delivered, individually personalized and at scale, we are looking at the AI learning revolution."
+    publishedDateTime: 2022-04-28T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 69
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6268a6c11d002698b15a6d82/0x0.jpg?format=jpg&crop=1989,1373,x211,y124,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,998,x0,y84,safe&width=1200"
         width: 1200
-        height: 828
+        height: 800
         isCached: true
-  - title: "Everything You Need To Know About Artificial Intelligence Marketing"
-    excerpt: "This is where artificial intelligence comes into play. Thanks to sophisticated tracking tools, it is now easier than ever to track visitors' actions on your website and use those business intelligence insights to reach out to potential customers."
-    publishedDateTime: 2022-04-29T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/everything-you-need-to-know-about-artificial-intelligence-marketing-nid-9798.html"
+  - title: "Cerebras Systems’ dinner plate-sized chips are revolutionizing the field of AI"
+    excerpt: "When big isn't big enough, you go bigger. And when that isn't big enough, you go Cerebras Systems big. But how much does size matter?"
+    publishedDateTime: 2022-04-28T17:21:00Z
+    webUrl: "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 80
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fcerebras-chip.jpg&signature=33b94c65c924c926aa93ff8a248753b1"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Mobile AI Market Size, Share and Growth"
+    excerpt: "Market Highlights Market Research Future (MRFR), in its recently published research report, asserts that the global mobile AI market 2020 is booming and"
+    publishedDateTime: 2022-04-28T09:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-ai-market-size-share-and-growth"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 43
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
+    excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
+    publishedDateTime: 2022-04-28T13:17:00Z
+    webUrl: "https://stratechery.com/2022/meta-earnings-meta-spending-ai-costs-and-moats/"
+    type: article
+    provider:
+      name: Stratechery
+      domain: stratechery.com
+    quality: 17
+  - title: "Ways AI Improves Online Learning Process"
+    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
+    publishedDateTime: 2022-04-29T13:35:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
     type: article
     provider:
       name: CIO Applications
       domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/iqr56cioappli450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "AI for the Trades"
-    excerpt: "Anmol Bhasin, chief technology officer for ServiceTitan, said he previously worked with AI at Salesforce.com Inc. and Groupon Inc., and his goal is to bring the same types of services that those ..."
-    publishedDateTime: 2022-05-02T07:05:00Z
-    webUrl: "https://labusinessjournal.com/featured/ai-for-the-trades/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/04/PG01_ServiceTitan_Event-for-AI5-1-e1651267189431.jpg"
-        width: 1799
-        height: 1200
-        isCached: true
-  - title: "Call for applicants for forthcoming AI Accelerator intake helping start-ups reach potential"
-    excerpt: "Katy Guthrie, programme leader of the AI Accelerator, said it is supporting wider economic growth as well as helping innovative start-ups achieve global success. “Our commitment to promoting AI for good is aimed at encouraging and supporting ..."
-    publishedDateTime: 2022-04-29T08:10:00Z
-    webUrl: "https://www.scotsman.com/business/call-for-applicants-for-forthcoming-ai-accelerator-intake-helping-start-ups-reach-potential-3672799?itm_source=parsely-api"
-    type: article
-    provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 27
-    images:
-      - url: "https://www.scotsman.com/webimg/b25lY21zOjM5Nzk2MTk4LTY5ODUtNGNjOC1iMjFjLWZiMGEyNWE0NWQ1YTpiNjU1NzM3Zi1lY2VhLTQwZDYtYjc3MC02OWE4ODRhYmYwNTQ=.jpg?width=2048&enable=upscale"
-        width: 2048
-        height: 1423
-        isCached: true
+    quality: 17
 
 secured: "yPY5tOKT1tGvprB2Ol1yVV7NmS06x9yQTv/f8lymtNWTloSp/s2sKEXBdbxdu88ElzmDHV2nmrauIPpN9/n/Oqmpi51Id8Kpbt1DxAEzpH31y6qgcPhi+pHPXL/5377pVy1Y0Z4NwTT9gchSJiQ5R9PhzDMzO0mxA9SwlNyrz3YPYechsFLXcKx7JFcPlZvcWdh+AyUgec7+va8boCny8V8Uj0sAdStEt1aKswdNrrOaVa9Hwa5W7n0QpSMEDGVweTTMoU2udKishpnJ5ZlyHPric7tpYi9spzEiA/siFIZETimEuUn+qka88+V9G2tXA7tfnMXnjjTuIq8RtX2U8qwtsV6N318KMXf7I1Wal5iTjSEq+LCq6jnhN37wpV3QYcRgRoBtIO9KXI1Na4L2ryoMjl4GNmDGmQvdyuTLG5V/fbd9t5XnapGE/eQAKc7habo58NuyMPCq8C5TGrrc5mGPLRBrKTNDVXJwDxFuTPRQ66fx/cg9ts716o1HIXLOgPopovvMRjB4wZmP2apoJQ==;r31nfn/WPeIe819BQURkTQ=="
 ---

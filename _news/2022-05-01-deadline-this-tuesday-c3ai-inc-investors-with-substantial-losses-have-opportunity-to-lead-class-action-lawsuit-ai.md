@@ -54,6 +54,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "The Law Offices of Frank R. Cruz Reminds Investors of Looming Deadline in the Class Action Lawsuit Against C3.ai, Inc. (AI)"
+    excerpt: "The Law Offices of Frank R. Cruz reminds investors of the upcoming May 3, 2022 deadline to file a lead plaintiff motion in the class action filed on behalf of investors of C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) who purchased or otherwise ..."
+    publishedDateTime: 2022-05-02T16:46:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-lawsuits-los-angeles-initial-public-offerings-class-action-8bc5ecaf918b4562beabfde47bb39fe5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
     excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
     publishedDateTime: 2022-05-01T16:39:00Z

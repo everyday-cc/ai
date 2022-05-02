@@ -1,27 +1,26 @@
 ---
 category: news
-title: "UAE vows 'responsible' artificial intelligence rollout"
-excerpt: "The world's first minister for artificial intelligence says the United Arab Emirates isn't only looking for economic benefits as it seeks to become a leading nation in the sector."
-publishedDateTime: 2022-04-27T08:40:00Z
-originalUrl: "https://techxplore.com/news/2022-04-uae-vows-responsible-artificial-intelligence.html"
-webUrl: "https://techxplore.com/news/2022-04-uae-vows-responsible-artificial-intelligence.html"
-ampWebUrl: "https://techxplore.com/news/2022-04-uae-vows-responsible-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-uae-vows-responsible-artificial-intelligence.amp"
+title: "UAE vows ‘responsible’ artificial intelligence rollout"
+excerpt: "aims to have a quarter of its transport driverless by 2030. Abu Dhabi’s Mohamed bin Zayed University of Artificial Intelligence, touted as the world’s first graduate-level AI university ..."
+publishedDateTime: 2022-04-27T03:15:00Z
+originalUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
+webUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/a-two-seater-a-prototy.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/UAE-artificial-intelligence-AFP-1K-04.jpg"
     width: 1024
     height: 670
     isCached: true
 
-secured: "UeUiseIvGHHzb8qf7kkOueorxIrspf1Us1dQcahK1IODA6CUFbbFun4F+zIyqTbd2bgmZsxVBxomF6ddcOhigerYg645ouXepII5i6UlwkwBVhtLHFYMXleqO0iME9w8BbpFvTDnl/jaTL/wOxfNePXyJTUdLDxgwBQEPR2kbPiuTDOEQKXYiGCscocLOIlx6GqGS9YzoGe7eegvhPaNC9XPGd1zSr5+nRHWuBSb5tuWzIaIL40z0jhbYxWGkgdi8C+MCrgn8Zo3pnPoUuRgkNQLtA/BMUFbxjttNimx5WmxisY2Nz/F6CqMEExq79wD/p8ze7h4BL4Icqd4aM9qrMjCKGKelE5s9MIxAsa67AU=;/GAKkFrS7Dk4GOC3EerUTg=="
+secured: "OtbZlB9OuCJryR6aYWkWPRFh+KPO8FNmhC/Vd/9T3EswZ6ekQj0h3GWbyfTlsRMASnuPha7Y6M0IHZiozVt0lvBnNRCy6RYWcntGbu0+kxRMo6VTZ2Be6skaJjJ8CdK3MCd1kV7UzQJMHMXsLfptDflt/8hl3pc5fkERa0hu/SyI46wL799WqlrGGeDj0FX53EpugkMQBVGU9XPxxx6ddQlAQ41z4YqL4lRJwA2Yf8Y3iIcpwE4iIwxKy+L42HQkO3yM89rgEXgFQxIE7tqMzwFIGBnqMaIDHO5bs80vNtfCfes0QclDCugJhCbXsw+ExaMru+Ste6NOSNCBR6UbQ8B2JDXNbS+57uUzlvvy900=;8bBShPf2Qw6ogFhpgn2nYA=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-
 ampWebUrl: "https://www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-ml-risks/480367?amp=1"
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-ml-risks/480367?amp=1"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-1244482898-1.jpg"
@@ -26,6 +27,6 @@ images:
     height: 438
     isCached: true
 
-secured: "6AikSEPEZEbGA1C/OGO5XND134iDm81GKbJ3BfPexgwo84sdYz7xiD1Z8KQbW+ptw06bm2HtZhHVNQYMO7eJsi8zr6Elbv+pT2lrMoIwJe9Abu3K+4+gd8NuBdx1ePcZa6BFkOT8vlcrxPLhpeLsgLyDKTQP13RWxx71Cf+E8DD4QDLx58ijiiV9YE2k00mZLB0MrhER3fwjzlKOrdasEpMkaHG2PmAeuqbHG5of26BTe5EEbN4vZiTvGqR2Ykq+w3MyPFfj7BrSGFGGTpEEQ3mebFBvdSOYE3j/qvYme+1s4wmu+VPSXGLH7P5YLDCDOBAw/cexkH3JmtoiZkJV7+lAHqi/wFIwE2ef51rbaXM=;VZxo8HYxDmStzcKi+LxAgQ=="
+secured: "5InMLmI7l/GhwdLMjaribeyba6Igl8QGl6huS+eSFmgjWOxjnrom3TILepAJHbPWcjIxYDWO9zWJEuhD0b5MxUizT8BqCO4JKUedxeP4Mmqn8mClnnSmTMoznhM1+UrI8qyxxOC676nnVYVmdxxDSk6wUseC6qBU7onalljRJNOsRFE8K+eSS1L7+NgRzjDtMvuqmu8OHm0IMi1qUaJGCxI2K2AyPHDc+XupykntZjZq8FZKpK8xA3fseir3YZ728CCaLRBrfFWNxzlc01hvWLVlVKLEzdhhvMlzHl78UYngbbTQgsSMMAU/hJQ6V59cLmhUalNQuTihiBe4hPjoQZw4ZDUV4+GRtGhoBBwmTbwWRIr0pgx+FiB5ArAZ4lXTDj5phpLkugGhfWfwcoPiT6vCv9tj169XjBu1jOY/gzLWPVmgRDg12pspYbvVZD6NEqYGbVMWxMfEFhBUHHRGWiDlA3oGDnyg8WXpwpAaK0Im3vjQIC9bSjYlYe/4Ga0LrolMXz7iXrrUVkx0hx/+3g==;n0fE/X5x3MjuYXvxlAXtvA=="
 ---
 

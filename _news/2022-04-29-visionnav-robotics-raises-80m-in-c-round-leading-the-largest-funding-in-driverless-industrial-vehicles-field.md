@@ -3,8 +3,8 @@ category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
 excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
 publishedDateTime: 2022-04-29T12:01:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
 type: article
 quality: 66
 heat: -1
@@ -279,6 +279,6 @@ related:
         height: 720
         isCached: true
 
-secured: "wR7DRIn7jctykCCzkqagqit8FIvTQpSQ1XLPpxk25kChfjeykeNn72RvjI8LBcUVPkVi0NqqcCkodxQzhJovR+OXe4sqR+gQtSL5R0q4R+3F09fh3M5zfUTatr6zZM+/26lxmKEhmH3iXTiw/8Uvi0/isSfcp/s/vNtUdb+sNVlyNH7unEgX8c/5TYHImy5cNYGGoZW0sR9FFbJAEawQ0/2sddQKT/nhj0pCQQtBtiJ237iH/cqySohWjIcJObn2t1LBFW3ShS3Tg3ZMtT3exlDeDEJR4G7nQ8US4gNTK69jPCkOcOu/uO3ZGand9liQQIxjoFBycUqRqC+KWy/OqCqTj9YRmXwzPrBbsTBh6SY=;7sAczceemr1TePSoQxgCKg=="
+secured: "r2fB4jToQHOyToqubds8ilv2a6CKyhdSTBtHEvoFhaVS6NCHXfTCUFisk1BFCH3d8yIDfCs9F4WrMcRbIl9YYnF3gfOrYclReOGx2yfIKJV+EHYGAnF4b1jwG873RDrjw3ZwnRYYuKd2JcuPiKYS5BsT0KipMmBuc2oyIwqTfngdyr/z18rUVJSrCs0G91iEHiLVhSt6C4pVx4cesTgg+kQupD6+eXJ+MW4DaDCzy8NST5vCTEuQdqErX/WtohWaIfGNJwf6DNTKryrCIz5U/cl7rwPPfxQcP+CubOisJ0hJG1aqP8F/stpm/6s/tF8zqXsY1mAMYXhI1MNLihzN10CrlnMRti+E2uQ6iVQjSv8=;U9sfLDgMu4yblFffAbnZ/A=="
 ---
 

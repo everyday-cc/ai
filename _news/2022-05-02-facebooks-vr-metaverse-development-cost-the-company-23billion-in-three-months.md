@@ -48,20 +48,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Meta shares surge after Facebook ekes out user growth"
-    excerpt: "Facebook rebounded from a drop in users early this year and its parent Meta posted a profit ahead of Wall Street targets, defying low investor expectations with a quarterly report that sent shares up 20 per cent."
-    publishedDateTime: 2022-04-27T23:48:00Z
-    webUrl: "https://www.todayonline.com/world/meta-shares-surge-after-facebook-ekes-out-user-growth-1885226"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 24
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--7cniZpdh--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/04/28/20220428_afp_fb.jpg?itok=eQ1B0EQo"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Facebook’s VR metaverse development cost the company £2.3billion in three months"
     excerpt: "The losses reflect Meta’s increasing focus on CEO Mark Zuckerberg’s vision of the metaverse, which he revealed alongside Facebook’s Meta rebrand in October 2021. Since then, the company has announced that it is working on a “massive AI research ..."
     publishedDateTime: 2022-04-29T10:05:00Z

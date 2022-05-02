@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-04-ai-powered-board-game-social-iso
 ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-powered-board-game-social-isolation.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-powered-board-game-social-isolation.amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-powered-board-game.jpg"

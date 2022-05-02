@@ -57,6 +57,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "City official says Cleveland police have facial recognition tech. How it's being used is unclear"
+    excerpt: "A Cleveland surveillance camera at the Cudell Recreation Center on the West Side. The city's Safe Smart CLE program started with the installation of cameras at the city's rec centers. Based on publicly available records and a recent comment from a ..."
+    publishedDateTime: 2022-05-02T16:01:00Z
+    webUrl: "https://www.wksu.org/government-politics/2022-05-02/city-official-says-cleveland-police-have-facial-recognition-tech-how-its-being-used-is-unclear"
+    ampWebUrl: "https://www.wksu.org/government-politics/2022-05-02/city-official-says-cleveland-police-have-facial-recognition-tech-how-its-being-used-is-unclear?_amp=true"
+    cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/government-politics/2022-05-02/city-official-says-cleveland-police-have-facial-recognition-tech-how-its-being-used-is-unclear?_amp=true"
+    type: article
+    provider:
+      name: WKSU
+      domain: wksu.org
+    quality: 46
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/29a245d/2147483647/strip/true/crop/4092x2303+4+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F3f%2Ffadd1cf64f5bb5df7832311251fb%2Fviland-confirmation2.jpg"
+        width: 430
+        height: 242
+        isCached: true
   - title: "Debunking Myths Around Facial Recognition: What Government Agencies Need to Know"
     excerpt: "In spite of the recent controversy surrounding facial recognition, it’s important to recognize that the technology has real, tangible benefits in the government sector. Consider examples like the U.S. Customs and Border Protection service which ..."
     publishedDateTime: 2022-04-29T17:00:00Z

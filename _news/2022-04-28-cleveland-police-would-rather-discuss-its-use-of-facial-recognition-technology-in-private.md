@@ -9,8 +9,8 @@ ampWebUrl: "https://www.clevescene.com/news/cleveland-police-would-rather-discus
 cdnAmpWebUrl: "https://www-clevescene-com.cdn.ampproject.org/c/s/www.clevescene.com/news/cleveland-police-would-rather-discuss-its-use-of-facial-recognition-technology-in-private-38828899?media=AMP+HTML"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 80
+published: true
 
 provider:
   name: Cleveland Scene
@@ -27,6 +27,31 @@ images:
     isCached: true
 
 related:
+  - title: "Force 5 Launches Facial Recognition Technology for Utility Industry"
+    excerpt: "Force 5 announced the launch of facial recognition technology, which the company says significantly improves identity authentication of the employees, workers, and visitors entering a power utility's facilities."
+    publishedDateTime: 2022-04-28T14:04:00Z
+    webUrl: "https://www.utilityproducts.com/safety/article/14275603/force-5-launches-facial-recognition-technology-for-utility-industry"
+    type: article
+    provider:
+      name: Utility Products
+      domain: utilityproducts.com
+    quality: 39
+    images:
+      - url: "https://img.utilityproducts.com/files/base/ebm/up/image/2022/04/force5_logo.626a9b99177c5.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Canada should limit police use of facial recognition technology, say privacy commissioners"
+    excerpt: "Parliament should limit Canadian police use of facial recognition technology to closely defined circumstances such as serious crimes, the country’s federal, provincial, and territorial privacy commissioners said today. Their statement was released as ..."
+    publishedDateTime: 2022-05-02T17:36:00Z
+    webUrl: "https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311"
+    ampWebUrl: "https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 29
   - title: "City Briefing: Northampton councilors to revisit facial recognition technology ordinance"
     excerpt: "NORTHAMPTON — As local activists continue their push to strip funding from the Northampton Police Department, the City Council plans to meet Monday night to begin its review of the ordinance that bans the use of facial recognition technology. During the ..."
     publishedDateTime: 2022-04-30T18:02:00Z

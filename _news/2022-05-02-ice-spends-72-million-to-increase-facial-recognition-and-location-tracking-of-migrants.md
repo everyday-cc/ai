@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-f
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
 type: article
 quality: 80
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media.12news.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "City official says Cleveland police have facial recognition tech. How it's being used is unclear"
+    excerpt: "A Cleveland surveillance camera at the Cudell Recreation Center on the West Side. The city's Safe Smart CLE program started with the installation of cameras at the city's rec centers. Based on publicly available records and a recent comment from a ..."
+    publishedDateTime: 2022-05-02T16:01:00Z
+    webUrl: "https://www.wksu.org/government-politics/2022-05-02/city-official-says-cleveland-police-have-facial-recognition-tech-how-its-being-used-is-unclear"
+    ampWebUrl: "https://www.wksu.org/government-politics/2022-05-02/city-official-says-cleveland-police-have-facial-recognition-tech-how-its-being-used-is-unclear?_amp=true"
+    cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/government-politics/2022-05-02/city-official-says-cleveland-police-have-facial-recognition-tech-how-its-being-used-is-unclear?_amp=true"
+    type: article
+    provider:
+      name: WKSU
+      domain: wksu.org
+    quality: 46
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/29a245d/2147483647/strip/true/crop/4092x2303+4+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F3f%2Ffadd1cf64f5bb5df7832311251fb%2Fviland-confirmation2.jpg"
+        width: 430
+        height: 242
         isCached: true
   - title: "Bringing facial recognition to war is a bad idea"
     excerpt: "Chief among the concerns is that facial recognition makes mistakes. It is bad enough when that leads police to make a wrongful arrest. In a war zone, there are even greater life and death consequences. There is evidence that front-line users of facial ..."

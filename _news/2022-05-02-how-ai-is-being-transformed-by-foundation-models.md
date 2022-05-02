@@ -1,23 +1,31 @@
 ---
 category: news
-title: "How AI is being transformed by ‘foundation models’"
-excerpt: "Such bright-line professional norms, if they can be put in place relatively quickly, might stop certain kinds of problems in AI before they start. With enough self-policing, the world might buy the time needed to develop more detailed ethical exploration ..."
-publishedDateTime: 2022-05-02T14:24:00Z
-originalUrl: "https://www.aei.org/op-eds/how-ai-is-being-transformed-by-foundation-models/"
-webUrl: "https://www.aei.org/op-eds/how-ai-is-being-transformed-by-foundation-models/"
+title: "How AI Is Being Transformed by ‘Foundation Models’"
+excerpt: "The current state of AI ethics development, Reich said, was like that of a teenage brain: full of a sense of its own power in the world but lacking the developed frontal cortex needed to restrain its less-considered impulses. Government regulation ..."
+publishedDateTime: 2022-05-02T09:30:00Z
+originalUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/"
+webUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/"
+ampWebUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/?amp"
+cdnAmpWebUrl: "https://www-thebulwark-com.cdn.ampproject.org/c/s/www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/?amp"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: American Enterprise Institute
-  domain: aei.org
+  name: The Bulwark
+  domain: thebulwark.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
-secured: "CWL1PtCSZ80txNM5hAWe6GtD5BOPrpZDOdc7s599ScpECyZfN2WTegGuBn7uBmLvVHnl931OnIBu4epm+BU7hDd14yuplGAAVeUc608g5SQipJPEUotRr4VNMXyUAg4w602NvFQE56GxIW5rw0KOx07zvvY8B3c0HPhQGCVYuPKbOidFq8KQtogsqZB5iwNBSdV6koHzRmsuyMU1NDhoUXM9Kxph8jtU8tLH9fHhkVKGlW+0NSdjHqPdlRkwSmxl1utMF1itTPEF5lrNbm1vfgXOVjysy85muXsPquJpoVWRUx1t2EMefFGfOu0dQYsvZSy8VLRGtXlixAKAmVjG/g1JZx3nlb1n0zp4RNDyzvM=;tzTdyhDKbffdwd5b5PshTw=="
+images:
+  - url: "https://www.thebulwark.com/wp-content/uploads/2022/05/ai-face.jpg"
+    width: 1600
+    height: 1250
+    isCached: true
+
+secured: "grGVSgMryQ1f9g5viq5oLr3BXd3szEnZhRGfxu0UkvxgviW8CR9frY1x+8MCzTH6IfUISdtfpgv3Vk9RqPPTv+OpLQmCSxpnHC67TX4BNWX9Omw8cfSqay+r6iJ6rzSj/rM1x4KrNtpJtVLcIU3CVx3S7OWq7Xlrm49+1VBe6QlcfhXj0cNeYIzUX5Cy3ZXX2ugznSmEt9VNip5flpCvvGLs0tSXiyIJll3JP+tr5t8JJYc6wFmyZALexfkRFvO0IrqL2E2MS9z0LkpufAuLd25MMPzUpV0ltFxSNzK3+so//aB6ZRwxy0s0nU3vAO28kABmqIm1lJmwL89XgzKXQ4uQuGVY4aEMLsjT3vahCI8=;W+KQG7IYzm/MQkLfxJb/Dg=="
 ---
 

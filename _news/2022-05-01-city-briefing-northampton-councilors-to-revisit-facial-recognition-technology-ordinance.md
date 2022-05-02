@@ -35,6 +35,31 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Force 5 Launches Facial Recognition Technology for Utility Industry"
+    excerpt: "Force 5 announced the launch of facial recognition technology, which the company says significantly improves identity authentication of the employees, workers, and visitors entering a power utility's facilities."
+    publishedDateTime: 2022-04-28T14:04:00Z
+    webUrl: "https://www.utilityproducts.com/safety/article/14275603/force-5-launches-facial-recognition-technology-for-utility-industry"
+    type: article
+    provider:
+      name: Utility Products
+      domain: utilityproducts.com
+    quality: 39
+    images:
+      - url: "https://img.utilityproducts.com/files/base/ebm/up/image/2022/04/force5_logo.626a9b99177c5.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Canada should limit police use of facial recognition technology, say privacy commissioners"
+    excerpt: "Parliament should limit Canadian police use of facial recognition technology to closely defined circumstances such as serious crimes, the country’s federal, provincial, and territorial privacy commissioners said today. Their statement was released as ..."
+    publishedDateTime: 2022-05-02T17:36:00Z
+    webUrl: "https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311"
+    ampWebUrl: "https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 29
 
 secured: "Yv6MQ0vnrVVaDpD8mHQSBL3kkcmzRp3A0TEhqTdEAk4kJb3MRE/Bt+UzfdVKwTqNl1TfkPdsSa2BHfCBfcfhKIW6/0d+w/L+xZjQ1b/qnqcj0UOvwcJ/7AkbQpizXwJtFUDAjHbAvu+fo/3O3nj4m+YTIpsg13cWROyUzOfsjFtE1+RLt51hnBvDvfV+yFU/ozOjn28/hy+i4AW/QAIPPcMMt5wQR5/4JChP7+HY8dcjEuOLAvL1mO72N0AP2zfe270p2YPexM2EmlHqL3ajATN/cNz+4/yPm+xmhv9D2cNXD0kilLxDWmS2WFXduVsZTxMT/RUGY34TgS0SgB9p9BhdekOzUx8NUMfCHuJ2LYe2xFRFtcjhkZEwu4iCfdHAMPcgiSKu/DSpUuVrm6tRLwjK/yPTfZm21z2uI7OHpJAgfwcHWeC3yevkaiBONFuoOJgo6c4Yvlk1M6lHBJCxlh80xOeTbtGD/2G/SkMa2s6YwJ7aMp0sOmPdj7xWmWFU9S1O+aR0YwBfH0XK8GYQEw==;wi85VORqHa42lGXWRoqCyw=="
 ---

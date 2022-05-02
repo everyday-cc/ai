@@ -48,20 +48,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Meta shares surge after Facebook ekes out user growth"
-    excerpt: "Facebook rebounded from a drop in users early this year and its parent Meta posted a profit ahead of Wall Street targets, defying low investor expectations with a quarterly report that sent shares up 20 per cent."
-    publishedDateTime: 2022-04-27T23:48:00Z
-    webUrl: "https://www.todayonline.com/world/meta-shares-surge-after-facebook-ekes-out-user-growth-1885226"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 24
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--7cniZpdh--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/04/28/20220428_afp_fb.jpg?itok=eQ1B0EQo"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Meta materials: Facebook using AI to design green concrete"
     excerpt: "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ..."
     publishedDateTime: 2022-04-29T15:30:00Z

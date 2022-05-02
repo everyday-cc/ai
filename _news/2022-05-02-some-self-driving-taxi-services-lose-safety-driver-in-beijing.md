@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Ethics Battling Stubborn Myth That AI Is Infallible, Including That Autonomous Self-Driving Cars Are Going To Be Unfailing And Error-Free"
+    excerpt: "AI must always be right. Wait for a second, does that sentence mean that AI is in fact always right, or does it suggest that if we are going to be making use of AI we ought to make darned sure that it is indeed right all of the time? Let’s focus on the ..."
+    publishedDateTime: 2022-05-02T15:33:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6268a6c11d002698b15a6d82/0x0.jpg?format=jpg&crop=1989,1373,x211,y124,safe&width=1200"
+        width: 1200
+        height: 828
+        isCached: true
   - title: "Self-driving tractors plowing ahead in the marketplace"
     excerpt: "While there is a farmer sitting in the cab, the vehicle might be driving itself. That tractor is often operating on auto pilot using semi-autonomous, self-driving technology. While the tractor plows along thanks to features like autosteer and computer ..."
     publishedDateTime: 2022-04-30T14:00:00Z
@@ -115,6 +131,6 @@ related:
       domain: news.cn
     quality: 0
 
-secured: "wUgRWz0IOMWbK9+uB6SRBjME/CyTrI8U0JiS4TfFBMmHlNvZMh8DH1Y+KhBpvVOvd41Fw2LzE0HjFIzLLgZwM1El7Z1KRywVJNSWXONeOmJ8rbzQGJGN0hPmAwmNuMqEXFR3bo53xjcYuqJvl96xvKyXLWTVDBG35xgYERvP5Cr/O0Y3weQzaqaGVv5Jq6XE0r3/AYWX5aBDZQvaR1ZcQm6CY58A5EUcDylXp5kh+L4CF91J8feyJ0RH8fEomG3E6tuib375QjK6OjdvXr8xdIMxD6qrRcvmAxb4JTkzGlYODygRRvqNBPdUyu5Rql+5/uOxZJmBkuOeGIXyHM55d32QoL7T/7sNnob5gijvIxg=;iAq5YblA+dAifFbUfCwxBA=="
+secured: "++4pVn7QY2Q2JulLfIM8OmK5PoFrW1pDTM9xlbYi4gdltHczYN2VKqhYR+9RrgFjvmQxemeihg29eLXQDkYWTt1NDpuvPTh/QFta4WiET3UPNcMdDQfWOmoz5oXWDSxVTb34cGkMxYHnHfYx3BmjULEIgIp1vCt5uq2regMvGqKMjSWUepGbA7cIhG7qzh1/zwvLZf6awNUxQMzH5IBpclZw3WFnTW9uUR8JW7Iwf8yWcb1dmn3kQboBexOpJovPieOVrvu+M6z5tm4Qexl++f7Fyj+qgNimsNlfYkhp2I1AF8f1pWhQElXeX1FPPSlP0AP2AIahoa5cvJY9zK+gd7WsD1omJm6fXtZbVynZXwUON2UjIljtBFF923tznYw5iztCqtPXASQLImXfvjxaLUcRoeIG10BL56TJSm14c37hMJD3OgY1AobnmI6tGyHTTaGvIf3Jii0KNV0C330eGsO2UqElSRR4KOtb02VLsfDpcaKJKarLYjTUj1kbvAs8J7WgJ2/ss72wtjOrvnZjew==;tomHCNhd15nE2K+Je++oNA=="
 ---
 

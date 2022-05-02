@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Using AI and Machine Learning to Reduce Wastewater Flooding and Pollution"
+    excerpt: "As part of the endeavor, Rockwell teams specializing in network and cybersecurity, AI, and machine learning applications are providing guidance as well as counsel and support on other emerging technologies. Rockwell software and hardware will also be part ..."
+    publishedDateTime: 2022-04-29T14:27:00Z
+    webUrl: "https://www.csrwire.com/press_releases/743181-using-ai-and-machine-learning-reduce-wastewater-flooding-and-pollution"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 53
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/Utility_Rockwell_042522.png"
+        width: 737
+        height: 438
+        isCached: true
   - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
     excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
     publishedDateTime: 2022-04-28T13:17:00Z
