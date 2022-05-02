@@ -50,15 +50,6 @@ related:
       name: Law
       domain: law.com
     quality: 15
-  - title: "i-PRO EMEA raises the industry standard by adding high resolution combined with Edge AI Analytics to its mid-range camera line-up"
-    excerpt: "PRO EMEA sets a new benchmark in the AI-fication of the security industry with the addition of 34 new high-resolution camera models to its Standard line-up. The new 4K, 6MP, and 5MP"
-    publishedDateTime: 2022-04-27T11:32:00Z
-    webUrl: "https://www.sourcesecurity.com/news/i-pro-emea-raises-industry-standard-adding-co-1584600779-ga-npr.1651034581.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 0
 
 secured: "1aGkmG1+NWHjGa2LGo7Xjas+MjVgoIBnP0vWrfbAvneTsPbRbIvahdEm5ZqIqBjpBh8rtU/+kE/6JJvC3EUnQY1yqcbomkEr+GpPAdUO+D7xaoIhUxMO7me7+VFPEFj+15i0WCHiZaQUDnQ1pJkZRavtvhMtPm/ncVeCPewaklREBoaoHCZLyWa6xNxFj/+tLsGj+qKhL6b8hvnmaUzWtt35eLsEu4GEGU9pbacVpX7wZOLzJieO845IaWuNoTtj3/bj26ZAOM73+hXFIN9jMK0l0s+YtykAFTRImw0AigfOd0dq9ai19BJk003bf7ArOvPwDQjzNLxbUEkdEaf3DIRrlC4pVkCmfzg2VsakR1A=;QNv/wZGf29wWhlxEaR3tAQ=="
 ---

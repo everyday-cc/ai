@@ -162,15 +162,6 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 23
-  - title: "Loris Bags $12m in a Series A Funding Round to Revolutionize AI for customer service"
-    excerpt: "Loris today announced its $12 million Series A funding round. The series was led by Bow Capital, with participation from ServiceNow Ventures"
-    publishedDateTime: 2022-04-27T12:37:00Z
-    webUrl: "https://enterprisetalk.com/news/loris-bags-12m-in-a-series-a-funding-round-to-revolutionize-ai-for-customer-service/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 10
 
 secured: "xVzTnJEfCQmfkX/9mDPyM6WemIqrt/yFQdKIzBb2azX4krJfXTWvLTcfH/zWiHL/0PzQUExJ6Arvo6Rq6be9BlPJQtM2Hewbfx9B6/GWCpjqSJNHUG9rzcMWbs4CgcbT/AoGJsHwhDfF/IZCyqp5MTHXYvw4l1kML1FEOA3JbvAPaCQMdXB+QT5XVmBJnxiuFvzJljXe8HKgsfN4pf5cEuISKE3r5p5vKR4+RTaDCZnOB3ooyBMRc/gs7i7bxP4HzyVdoAQIuEd50et6IKe8wtqeHFfgaPJtPbkJWdF3MAJNK3+oDS//anqve8vKkk7Wk0mvECsdBs1S4Mm57071/zcAJfOLqnSR8wSwdPOR6cbifu4TdZMKrgWAiZoWbBue7h/ihsiZyx1+B2BLxavIqNpYbR3ensJgon9lmyySKvcjWDGSEk0EgkDEcjo1ME36U1+GQ2cLNcr7cjK/gth5AZ980KlsKQUBXeb9WChAVTiRrWA/GBflAEsbLMuqCrcfQsuinLGAU0Gd/iycrxZY8w==;hRrmUJwQO8VSlSKVMdtQ+g=="
 ---

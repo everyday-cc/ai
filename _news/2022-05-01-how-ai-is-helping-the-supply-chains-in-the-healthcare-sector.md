@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/how-a
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/14dbeUntitled-450.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "Real AI is shaping our future"
-    excerpt: "Artificial intelligence is here, and it’s real – transforming our world in ways both seen and unseen. We experience it when we use navigation on our phones, write emails at work or when we pick TV"
-    publishedDateTime: 2022-04-27T12:50:00Z
-    webUrl: "https://news.microsoft.com/en-ca/2022/04/27/real-ai-is-shaping-our-future/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/67/2021/09/Title-Slate-Square.png"
-        width: 1079
-        height: 1079
         isCached: true
 
 secured: "4HBDxku6X7baA5RIzrzOT0iw3OhDo3zd5roNhIwM3qNr8UQHuz/jbo8FjfmEhyHkoodEv4R6RrBiblTqTFD/p2mEHJLIee28glUk+ZmJ0dVDd7BFldLj3/lYP2MVx2fLyKwbeQMHtQjEQNAo2+wyshmPMc6b0yRsLgCF2GWiA/tgOVjdU0Y0JCv2jdTHIV9kjVXbs5e45P/rssb5SDxwGQXltkNG6YpLyLS4Whh9xOgRT9YhifmaeBAeFL5Z/6x3aOVfbaeRHUcAeDD6AulkxWvRh04hI816qA09HCR8h8aMw93WomLXDohw8+gDZ8NJkLtMMTVzyK2VEMsPPOjkj8IRpAL/DH0yONqV6GMlnyo=;EwIaoRXM39wOvk5pfLOU1A=="

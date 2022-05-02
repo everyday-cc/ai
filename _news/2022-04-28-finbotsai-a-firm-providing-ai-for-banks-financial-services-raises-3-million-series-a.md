@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-pr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/amp/"
 type: article
 quality: 65
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -164,15 +164,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 17
-  - title: "Loris Bags $12m in a Series A Funding Round to Revolutionize AI for customer service"
-    excerpt: "Loris today announced its $12 million Series A funding round. The series was led by Bow Capital, with participation from ServiceNow Ventures"
-    publishedDateTime: 2022-04-27T12:37:00Z
-    webUrl: "https://enterprisetalk.com/news/loris-bags-12m-in-a-series-a-funding-round-to-revolutionize-ai-for-customer-service/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 10
 
 secured: "2wciMjUfqWRY/COzQ1H1/NK9j+q93kTA8MnLKUtrdEcNtsn1AXzF7htwFTm0seI9Z370d6n/EMTTWHMjlhqCdUJZdSMjLtVBPxt/z6j2ZUMUi48HdDTWvS0ORXLJpFOyhSXunhnWkM6oEwYycx8Wk3hqQJgljNtRSbxSVIEpua0Dr+XTVdWwfUZB5JSRsFJAdKAFlJS0inHgCou7Ww5YH2eS/LPvnYRsCYy79qoM7tmWyCsqaM6P2IgcpAo9mV8UCFq5KNjv6lUL2GHTi43gWL0CnaudkBrI0yIGHnfKenGphe7kBNOMr2HSUDKxoi02lGIYzkYSWLQ9BEiEgtqNr10cZF5AsAQTMHCIp44G3Wp0PQ9tqxz1t04EeKPot6gpJNVrbEH95Pbq/o15he/2txr7OmaBp+MuInASHOBcIcnPP76mq9adS/BHB65e4GW57ECt2bHMTc1JTiMGUs11114UQ0mLS/p1wmj6RdA4+wh5HMCPUZx5mk8uMOVok9eADEyLuBmBufVR3OWLnyVdsA==;+wRU5Q8gkONr+Re1y6STAA=="
 ---

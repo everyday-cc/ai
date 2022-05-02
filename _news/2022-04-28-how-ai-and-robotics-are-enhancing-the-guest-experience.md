@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 850
         isCached: true
-  - title: "Arize introduces AI bias tracing to pinpoint and address causes"
-    excerpt: "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Arize, a maker of artificial intelligence (AI) observability tools, has introduced Bias Tracing, a new tool for identifying the root cause of bias in machine learning (ML) pipelines."
-    publishedDateTime: 2022-04-27T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/04/27/arize-introduces-ai-bias-tracing-to-pinpoint-cause/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "YzfPdC4vaFlFMgwcU7zqMGLJ46X0PglGXeC6W6O4yGDSMdCmGmRabfq3mK2c0jgMG75FoMdWI24FB6oLjwKDJWccVlAvUxCrhi8jMywTp6h6MBJbLIJrpOA/9k8q5wz5FM8ldxaKfHjzVIeFkA36qX1IecKyAK0iMhKMeqRTZQt4PicYPwsECDFK4P2Mdn5NxnoZnWETSG+6xqBz4V/F+Nn1T+ZNH9Vn8DBjCfGAmDmDpCtOcLke3MhIon/v33aAlhcdAaqcAcqiPGxZ1M7MJ8+s2Gr16dUdUiqDk24tdG6oDy17XFUwT3s8uH+U0by0Sf6Ol+DxW4dV0+7JoKkD5yh0m3dsz90VK5cYKnpBJgih17LwP2oKtt9Nwt84t9Eu6n1CSSVCX2KjHpCJpo7HwH5jRzOpvrlkxJTjuF6G+LXLLkTQoz9llc/kpVf4fmYa+enNSQjShaUC4vbepx5agKvYJHeodfjzydM3PWH/XzeQw1rqryKMLcaum/w8sFVQC57ahOb8tvNahMLo57OOmg==;tGDInrn2LhlOxhXzqABzJg=="
 ---

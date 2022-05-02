@@ -47,15 +47,6 @@ related:
         width: 648
         height: 429
         isCached: true
-  - title: "HPE looks to deliver the power of ‘swarm learning’"
-    excerpt: "When applied to intelligent devices operating in the real world, “swarm learning” refers to decentralization. This means that users can share learnings at the edge, or at distributed sites, without moving or exposing data."
-    publishedDateTime: 2022-04-27T12:00:00Z
-    webUrl: "https://venturebeat.com/2022/04/27/__trashed-32/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
 
 secured: "qP8GhhLEuAdGStdMpvGen3UzrBSIQO1DMa7K9VWe3/zj5tG+hZtDQedS62b+w0yoM3sB6WFKrM5QHJCw1y0m9GkxLk6zJEZAnoRZAQmsyQmwLIlvQBdFOh0NRZ2zmdZ9DnrNYHXHLpvW45NTScndWRpETCw6y7HGRnOFzHBCufaQ/oJGSf8ExXufE5TwT2z3qsaPWHq2zWFbr2Hj/aWQ/9s0zOBM5AaFJGFGabXXFEg3L03AwKzdN/jlLLlE+wY7pCUJ1gj2YGzoXi+41P0ZGLzrkcA9g8yVp6tFzgQN+ef8YZa5SrRc0TrxDUEfYA9YFWn9VyjHvaBasGdVlzaqYiP5eVAw4/T28Ek02rjV7og=;efBjxyPywLtqcle+pYSFtw=="
 ---

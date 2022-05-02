@@ -101,15 +101,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Healthcare Logistics Market To Reflect Tremendous Growth Potential and Forecast Till 2022-2030"
-    excerpt: "The global Healthcare Logistics market research report offers extensive statistical analysis to impart a deeper understanding of the Healthcare"
-    publishedDateTime: 2022-04-27T12:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-logistics-market-to-reflect-tremendous-growth-potential-and-forecast-till-2022-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 7
   - title: "Yogurt Market From 2022-2032: Growth Analysis By Manufacturers, Regions, Types And Applications"
     excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032. The global yoghurt industry is fueled primarily by the health benefits of yoghurt intake and a growing public awareness of the need for weight loss."
     publishedDateTime: 2022-04-27T15:10:00Z

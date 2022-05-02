@@ -99,14 +99,19 @@ related:
         height: 576
         isCached: true
   - title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
-    excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders ..."
-    publishedDateTime: 2022-04-30T23:00:00Z
-    webUrl: "https://ktla.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
+    excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-04-30T20:00:00Z
+    webUrl: "https://www.nbc4i.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
+      name: NBC4i
+      domain: nbc4i.com
     quality: 0
+    images:
+      - url: "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/05/Ronald-McDonald-House.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "C3.AI 48 HOUR DEADLINE ALERT: ClaimsFiler Reminds Investors With Losses in Excess Of $100,000 of Deadline in Class Action Lawsuit Against C3.ai, Inc."
     excerpt: "NEW ORLEANS, La.--(BUSINESS WIRE)--ClaimsFiler, a FREE shareholder information service, reminds investors that they have only until May 3, 2022 to file lead plaintiff applications in a securities class action lawsuit against C3.ai, Inc. (“C3” or the ..."
     publishedDateTime: 2022-05-02T00:51:00Z

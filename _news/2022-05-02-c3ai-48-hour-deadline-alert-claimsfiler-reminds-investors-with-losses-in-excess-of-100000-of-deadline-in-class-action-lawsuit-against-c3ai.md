@@ -113,14 +113,19 @@ related:
         height: 339
         isCached: true
   - title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
-    excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders ..."
-    publishedDateTime: 2022-04-30T23:00:00Z
-    webUrl: "https://ktla.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
+    excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-04-30T20:00:00Z
+    webUrl: "https://www.nbc4i.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
+      name: NBC4i
+      domain: nbc4i.com
     quality: 0
+    images:
+      - url: "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/05/Ronald-McDonald-House.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "xJBH9Hcj8s5+6Y6SMVkTLWT188awiB/qNIWgsaYVW+L1V7OtJf8GKtPU+DiNySopm58aoZbkyxXX6F2jTQ3S0jC1W60Qpu/fePeApUyOv0KwNOWGr+GRQYvQGmV4mfknlKqSePn1bLxlJrPKfbwaYrRbisPHwYaeWVUD/wrZXyG2/3RP7Gu2imtdeaY7htgjUf3+sLyiUOoVhYs6NRya3OV7FqWAE219cdv+z7jUqrdOYIZYxkxNwF3JS0SgTDfDgiJFW8GZtHmuuRFmI2kMVdEBN8vgijOinIkqgenTF+DW4xvLJVGyEhAzgMW/Bp8sYI6T46yciCBh5Sk1XjCNSzPFrd8wN61B0JXGxT63+so=;i66+SXLs1rY5PbSCxuuakA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 49
-  - title: "Arize introduces AI bias tracing to pinpoint and address causes"
-    excerpt: "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Arize, a maker of artificial intelligence (AI) observability tools, has introduced Bias Tracing, a new tool for identifying the root cause of bias in machine learning (ML) pipelines."
-    publishedDateTime: 2022-04-27T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/04/27/arize-introduces-ai-bias-tracing-to-pinpoint-cause/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "DZKSgxurfidfTRnls2O0dGHwUZyi3nHeYtz+FiKv40ppw+SZUW1SyqywNtLWHN16/FD2gZ7h/VnvcMfPmtEJVZ1daC0p1VLWheX6oh/VwpLJIcO7SvGll2iLgtX2Oz2mx5UmaWAxtiSDQ5Q8v1RaWXP6ZSEq6h4ovTwpXK0QM4I+2FyqJjccG0nYD4xU95BnNfU8atWGlrDiynyAgWpB/fyDC0Gjd+FRodnuUqhb4Z6uukemGLXQ4uhMgkutS5K5BEPHchz5ECgScALHYWhVg4+DjU+0MxlySbieu71Yu4D4+olxmdbgwwZvV1IX8v8LZ3yw5PnbR1XBDFH5+lNyrFwsQp+fBX0pQqYQZKKkd3Y=;Cgp7OO411IcaP23kvSYsrQ=="
 ---

@@ -164,15 +164,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 17
-  - title: "Loris Bags $12m in a Series A Funding Round to Revolutionize AI for customer service"
-    excerpt: "Loris today announced its $12 million Series A funding round. The series was led by Bow Capital, with participation from ServiceNow Ventures"
-    publishedDateTime: 2022-04-27T12:37:00Z
-    webUrl: "https://enterprisetalk.com/news/loris-bags-12m-in-a-series-a-funding-round-to-revolutionize-ai-for-customer-service/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 10
 
 secured: "ZayaAJPxpzyEj7Hv16ZH0HOMEf3qCValc/2+3SLhd30e6LiEqRxhEqfBFrC1mkVA2W7F2jmr/CuxrPkmLZqLnAURISYhBxBcTSeCTPd9xMXIQY2fxTsrYRJpY9IXafhBrPpkRpOP/0YsaoXIMEsCpO7aSdJnWSIixSWu1uy3jGIJESm/K6R/4M4dOS853eRhtU1ba/Vo9R0UATJmxSI9OIdW6Ejpe5MuAxddoZGuNPypEyP54Br3mLqfjagPvlXlMOt7BcorFZIMS8ZWtXBehxd0CbTLGYAIwtoH+GJ3JdGARRDWUrlxGPO8hjpRLwhcIbWxVTwjHRqZPMoZTPupzkxLo7K5KmeBkimRyJJicsvde5nEOUlcLUDDxhneYXHVuHBDs0r70QJB0uCCqsD+ak/lWN10m34/e7kLBOqNPTVp4yozq54PZx7RJuOW0x6ADekLhblUc95Bf/GTi0yU8VkHlqgVC8uHRBuS5pHCvUim/D63esDibR602KnjZliZ6FiECcG9GdILNH1Qumy+9Q==;usMkIMkTd7FGu43GIIiwLg=="
 ---

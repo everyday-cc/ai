@@ -52,6 +52,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Event-Based Vision Systems Market Study Reveals Growth Factors Size, Share, and Competitive Outlook for Future 2021-2030"
+    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially ..."
+    publishedDateTime: 2022-05-02T05:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/event-based-vision-systems-market-study-reveals-growth-factors-size-share-and-competitive-outlook-for-future-2021-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cd9543b3ef41b34c81c8ea127008874018421dea-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "1XNk81Eb3leCQNVLu5KrODIxskLFpXZm945FQhHW56HojMUIrfQO3xj/c/4VJI28swmwcOIoKQfVCaZsGoVqVkfs7XbLdbXURt6zgkL3M0YgpFmVzWUB/zLW4xzcvX9Sz4A3iQ+ZCtV79kFdyjDRS3kegMpiDv8LIcumSvr5K3Dl1KU8y+IZP+sFvvrGfOTW221vZvrWLjhOomKbZd9rYTVt8iCGmlL6LhK70nnasYgfiYkGmIDFF+1mnhO4BJGKxN7u/GTtSv90yakp6EIsPh41JT8tNCsOZIOtCda+uqVqXuGrUhrTYZRR8WW+OJQ8jBjxSHU46I6BPj8GwzP/WW6T+ICp48UJCxK6fzTv1uEHB0BCvdQ8IZiv43BlqDKFWle2w6/C+sjc7uRc0s/gj5dUTmrk31ske2X2AuiU5nLJDNEYyQFSpmtjplIcJXyGz9Uh096Zh12XiMvWHXvTJneXd1dKX9Ig6NkBwkU4s0YJDloM4VzrgZj4RnPcIZKds+xCv6vDgyO7FJMcfQUrHQ==;Csjhx2me3yFb/Sw49DYmlw=="
 ---

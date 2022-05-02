@@ -7,7 +7,7 @@ originalUrl: "https://socaltech.com/cujo_ai_names_new_ceo/s-0082433.html"
 webUrl: "https://socaltech.com/cujo_ai_names_new_ceo/s-0082433.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "CUJO AI Announces Remko Vos as New CEO"
-    excerpt: "Remko Vos has been appointed as the new chief executive officer of CUJO AI to drive product innovation and growth. LOS ANGELES, April 27, 2022"
-    publishedDateTime: 2022-04-27T12:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-announces-remko-vos-as-new-ceo-1031390675"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "YfNdPIn3ix1Q+pIGVMxWX0uYV5TIZBdhVqcBxkjeWwkpNUcpxI1rZfsl1kqD02L8Ncv5Am3QXW/C3Yu2USCxX/TsmlyOf4XjDL22B/X7VfaLYVXO3Z5gdxHk/dVBYGA8ispryhVP82pczRP3rlTGTxFOw5pp58ufCGn7BNvc6xVaXwJEegDb3Zzmw7Br8FvfdrTCHjbj00lTUK1jaflxwZbbmGQYOvF1wJ67/onXsCSVPLJANuc9sIA6NrTxRIgCBkydxsamGeHq5H2s2NI1YcAhl/O5qvk+y3FigREwSwDHg8lDFA/8Nm/9JrZJJ8hNFnGhRaNYk8x7rfUaiCG+Kov1SBVy9LxUQbyx0i9SVBY=;XnEa7xfbvVzkmbCQHY+gsQ=="
 ---

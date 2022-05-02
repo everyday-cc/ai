@@ -57,15 +57,6 @@ related:
         width: 705
         height: 410
         isCached: true
-  - title: "How neobanks are set to disrupt $31 billion Indian fintech market"
-    excerpt: "As the third largest fintech ecosystem in the world after the US and China, the Indian fintech market is poised for further disruption with the emergence of neobanks"
-    publishedDateTime: 2022-04-27T11:53:00Z
-    webUrl: "https://www.business-standard.com/article/economy-policy/how-neobanks-are-set-to-disrupt-31-billion-indian-fintech-market-122042700634_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 19
   - title: "CIIE CO's Flagship Program Bharat Inclusion Initiative invites application from FinTech Startups for its 6th Financial Inclusion Lab Cohort"
     excerpt: "CIIE.CO's Bharat Inclusion Initiative (BII) invites applications from startups for the sixth cohort of Financial Inclusion (FI) Lab to support innovations that aid in making mainstream financial"
     publishedDateTime: 2022-04-28T16:01:00Z

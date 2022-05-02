@@ -43,15 +43,6 @@ related:
         width: 750
         height: 420
         isCached: true
-  - title: "How neobanks are set to disrupt $31 billion Indian fintech market"
-    excerpt: "As the third largest fintech ecosystem in the world after the US and China, the Indian fintech market is poised for further disruption with the emergence of neobanks"
-    publishedDateTime: 2022-04-27T11:53:00Z
-    webUrl: "https://www.business-standard.com/article/economy-policy/how-neobanks-are-set-to-disrupt-31-billion-indian-fintech-market-122042700634_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 19
   - title: "FinTech to rule the job market in India with 87 percent adoption of FinTech services"
     excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenanceregulation, innovationtransformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
     publishedDateTime: 2022-04-30T07:55:00Z

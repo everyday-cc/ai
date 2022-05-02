@@ -107,15 +107,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Healthcare Logistics Market To Reflect Tremendous Growth Potential and Forecast Till 2022-2030"
-    excerpt: "The global Healthcare Logistics market research report offers extensive statistical analysis to impart a deeper understanding of the Healthcare"
-    publishedDateTime: 2022-04-27T12:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-logistics-market-to-reflect-tremendous-growth-potential-and-forecast-till-2022-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 7
 
 secured: "8PBML3Fkopwqv+ZJBGXmoATuXbjFmlbwAIceMif10CIDjDXeU7E/6FdlYjbu0nKwfGv6btGzpnc/OyazFLEgqfosOJSqMqwwnA0K034dLAvmB6i0BU7ZbkotJDm0wVVI+my4nGfs3bLTkaAyC8v4bhJ738uJTbUQ54sD43FNPoTCo7qTkda0J78Sj4zn1ptFafjrTCt0eHzHOobJrOY+e2Bef6ErqN0T+ZXkMK+fnnsZidrTEiTJ1R92ITxLrkLNoVYJxMaWNOkcYiQTAp9NvgmCdnX4zhZqYc/bjD3FTbiMu500ogwa7UAPVdLQSrQZYG8Vx46dXAWVyhgBSJWqpaI7FHf3NhF7va49h0Q8HMY=;uFn4q6t5HzZGV7MiEaWzIg=="
 ---

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
-excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders ..."
-publishedDateTime: 2022-04-30T23:00:00Z
-originalUrl: "https://ktla.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
-webUrl: "https://ktla.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
+excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+publishedDateTime: 2022-04-30T20:00:00Z
+originalUrl: "https://www.nbc4i.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
+webUrl: "https://www.nbc4i.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: NBC4i
+  domain: nbc4i.com
 
 topics:
   - AI
+
+images:
+  - url: "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/05/Ronald-McDonald-House.jpg?w=2000&#038;ssl=1"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "C3.AI 48 HOUR DEADLINE ALERT: ClaimsFiler Reminds Investors With…"
@@ -121,6 +127,6 @@ related:
         height: 339
         isCached: true
 
-secured: "PYou9H0ygIAK4gLt7JQRWYN1jOZgPtCBZ8+6vQeceanOWIk9VhGRfHYynT0Qe8d43a/D2YaEPDGfg/igkk/tzqa5E1Ue9dpKUUa3w+PTXE8KrRJOs4xo2mBKDlTn3ymPmkfo8PluzclPB+soDvKht7yHJBmPdE5qRp9BCvfMazAVOe5VaAOXD2zcRcU+vSaBV4aBDwFRmy4V0RwoqWNVeutdx1xxmqMsL1gHJqGM1Jov2GLkm3QeKBlUMYSqEC0UDgvWvRgEBbAgqxChZnJFv/82L2sAEY6ZEnOsZKJKzuJIJ6xWMWjKOD+fZarKJS4KjYxT9WtLJoDSeZXNj7HO69jHPCSre3f1w1GInG3gw7o=;gTcF5C69rXyA0qmsRZXWdQ=="
+secured: "utsGqIPib0VmYt4uuHowhdQTFZaeu5DcCl0Yq8K3DZdQC9PRMAeze75kvEtUvCU0wsx3At+za5y8mRLGsl/pipypAcVJDQIm1tvNVzc6sj91J5CQ5yDfhmbdoF59kiOTS0qkWL8eUb9ob61dmczRRnCJ3oErKyZb8/jYEk+ftvFrqFvCOTETAaUk+vJSkJ4u+Q40+PwFxgM4MPdmt91AQSqbQbYensbjxVV/S+ua77ErQyrpT3VDmnq9AofuTM1+8CEWfsaNrSjK07lyGxGj4tAtpegFCYbEi6zJcm76q2P0FKuR5saY0x51BsKCaie/gxpx+V7dXcDgG81udRNiMiViw0DmLz9FnjQT8Ejx3/8=;o5yTjn0GqmLwLnoPZggbhA=="
 ---
 

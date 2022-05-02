@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/why-you-should-be-using-ai-for-hiring/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 131
 published: true
 
 provider:
@@ -59,34 +59,6 @@ related:
       - url: "https://back.3blmedia.com/sites/default/files/inline-images/Utility_Rockwell_042522.png"
         width: 737
         height: 438
-        isCached: true
-  - title: "Writing for the World: Using AI to Help Publish on a Global Scale"
-    excerpt: "Little Black Book, Brunswick Group’s partner, and global technology lead, James McCobb details how he is helping small teams publish content on a global scale with the help of AI"
-    publishedDateTime: 2022-04-27T11:53:00Z
-    webUrl: "https://www.lbbonline.com/news/writing-for-the-world-using-ai-to-help-publish-on-a-global-scale"
-    type: article
-    provider:
-      name: lbbonline.com
-      domain: lbbonline.com
-    quality: 41
-    images:
-      - url: "https://d3bzyjrsc4233l.cloudfront.net/news/Writing_for_the_World.png"
-        width: 925
-        height: 521
-        isCached: true
-  - title: "Farming sector welcomes lifting of AI housing measures in May"
-    excerpt: "With avian Influenza (AI) measures to be lifted on May 2, the Ulster Farmers’ Union (UFU) is urging members to put appropriate biosecurity measures in place in preparation for releasing their flock into controlled outdoor areas."
-    publishedDateTime: 2022-04-27T11:45:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/business/ulstergrocer/food-and-drink/farming-sector-welcomes-lifting-of-ai-housing-measures-in-may-41592875.html"
-    type: article
-    provider:
-      name: Belfast Telegraph
-      domain: belfasttelegraph.co.uk
-    quality: 37
-    images:
-      - url: "https://www.belfasttelegraph.co.uk/business/ulstergrocer/food-and-drink/8b3d3/41592874.ece/AUTOCROP/w1240h700/UFU_hen.jpg"
-        width: 1240
-        height: 700
         isCached: true
   - title: "Call for applicants for forthcoming AI Accelerator intake helping start-ups reach potential"
     excerpt: "Katy Guthrie, programme leader of the AI Accelerator, said it is supporting wider economic growth as well as helping innovative start-ups achieve global success. “Our commitment to promoting AI for good is aimed at encouraging and supporting ..."
