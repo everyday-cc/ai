@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Orbbec Announces Persee+ 3D Camera With Built-In Neural Network Processing"
-excerpt: "World’s First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning. TRO"
-publishedDateTime: 2022-04-25T13:14:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-40ccfbb4ae2b6864e7b327d36ba0ed72"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-40ccfbb4ae2b6864e7b327d36ba0ed72"
+excerpt: "World's First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning. TROY,"
+publishedDateTime: 2022-04-25T13:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588595.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/04/25/9588595.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "1OJf6Olul9eXYbs/NIK5DcF2zS1hd/qlp2+1ABuoukx1RmCzXAmfJQZ0u6n3xWTK3re6kkg76ykxUAUpGKpKEZfet9fPfcj/pymyIzrknJQwNK9+1wTeBrUhWkriHtvZjTU4CWKnC/8ZYUqv1HzJzR5HN90s+cPhlWYzqmjMA0o9aFFcfhkysZ4poDi2EFF2Pt0ky6qolBd6NYQ2snkDPgcZy4Z3a9lLCl2zs2hDSz910DJFLPpqQwYOQEDLuLPbfpK50h5RV16zooJf1EA3E6f0tSAEA76abO6d9GQCEWzyMTHhIUoayieGvNf781z+4uCQJbhH1xxTp1yMLmhnh3DQ66T/pnMxhTiTUzaUyP8=;VEyvv50kfpknkxQyGxq/Bg=="
+secured: "PhbtuQEiVBKmMzoL7rgrgNwLARyj2sZvFcczTpOZkgScqtpJ90Jw3QhrTPHZ40WBx1/zppIMQooZuXSfQ8gIG0J6ogxAgkxopNyIBF9gLledcd1PIqUqJgfYUf6VPPIDcQiw6sQOD2ZMAB4EBZF3ne2PVrqZsK1VzmMTzl1yVQiU78sOIRbAWV9vS1cEWIGDSEOxNvFc9goidfzRUd2eRhpBXAeZhKtfo8qukCD2G8G98EA6XCfhQAjz0VZKggCgw9m+e7m8zXoU5z8+5x2ObxvNHePz/36U5LTgxvcsZvxouiVxdIaUD8pYlflroSPg0UIzL7zeZAVj2dQjdyClZUt6I4CSS2jkD5xjh1HXLNWJFU98L6OVLOOdvLcWdVunhca+bQXvcKQda8T2gZbbv/CzWFX3doJntdhATza0IIk0quJwrb/nAn7aw8L4lJXxoR1wt5Isjvz4XFGLnQevV3Avh5wcAFzAuipN4j4w6pca8OHFEdvLWnD7gWin2Oaxu48eFyUwIgNi0XYnTY9pPA==;85fCuUCKIVVDej3SQibL4w=="
 ---
 

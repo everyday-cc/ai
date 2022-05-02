@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
-    isCached: true
-
-secured: "9uxmjMBhXbjkgQg3Yd0Sjfc9G77c9/d6zglQtl3Y7aRDM9ddR4eHK6ZAEnaN32wMm4LM5WB0kREWEmUWd1tgixB7yd/zrq6pWc4Pgp7tCiTrVesXz9RlJI53qw1IwwHIB7hfWm36RaVVIWS3zkkrPUHazpldwIDQRRpCk0QyPa9Hm4FV6vU/fXv/ka2JwLN/UZSqMwxAgjPn4YDd3VJTxJAvD3FssRYEjYeb3YkGy/G3gcRyuERRd0ERPOXw0KINmpUz5iTZaQrvpkszl0Wf3WmyWxBMqWSdFLfjz0sWzf0GwqTocYfJ5d6vzzLUxt7PGYNF5DDFMuy8bqJiKXmZhpqW6q/l6r4gF1i9H0bmHlw=;Kn9PDb3hu386vbdXTlcSBg=="
+secured: "nP5AsJQn6Yz0APQGsuC6AGlhP58aIQ1XLNkKRNPCsKYdLUnUQ52rP6U8uP9L1qFhs2aEii/7W3Jn7K07SXBGiksO+GAFKdar2373JB0D4NHamNDN6xtAjblbWWJ109glRhI11+xFpVx5wbP68mV0xxmbEckuyDp6cFd96zC1uqIthYLIry4i+41G+Ax+K57dSK9fCm0+Gps1QS8BLGp3bsb52XmY8kyMwwv4bS8MEHEYLkXHaq4yMlz6iIkApvhpWDy88syo6t9C9JxgExARTV/PY5DmReAw8IhLgBSr5f8yC8LiBFtpXDC+1zNFj4nfzToEgces3wc+G0ZDdSOrqbnc17HbhBbS5J/XWVge5Pg=;QVBUbqmXilioD+oqVSl/FQ=="
 ---
 
