@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
-    isCached: true
-
-secured: "7xC+HgFBo6WnmYNnyq8RNq51gZeukirf9YyUM97tuRK/WG+/UKy8LPVL0sF3stFMimjBidPlLB0P2CNwCmzkUapYxhraCOs8GVlkNiljz6/6DvPsqo1mmpTKnu8LCsy2T1o0hKExIiqkJ0X21x50lpb4AcidoeCinOfK1lW0NIaibrdTVewtvxGW19iOzpFE4CzwJXVSB/cqdnQ5kieaUGnH/CCKnwtVil8VpQz5VltAFoZiZbJqGtvCGvOanT8jkcHhs0QYIMsIn3JuiPnaGKlg7GXq+nSxlt+g3eN0fBFBT+VnoXnVR+B+WBEhXpgm6MxIFdQx5Rib4kTR+NcVhHOG2gXja3kdj5b+Krg5rCo=;xldN6ZYSqGOmb5xMoVvAoQ=="
+secured: "rvBLmjEojI6iXZA0iQAq2lpHtNtW+Wkeh7BrnFpCsNHln68CczpML+cXhB6mVoMSI990uxu86yonR8jcP/e541/+EP7mQEZOw9/X9qjNY41FF6pRdoFq2KY81gmQypCwgADNN/wb9Pi6PkqS1D6871NGwFlzhslMae/gayy1e6ChfDatuB82xYQbZ/M5XHF7yU0QBOjtJCaJbS3cB9qb/EKzJNtA4y90X77LSt2LhdnW7uHtZW+cg8X714d+tRMLcVGJ4g4ZG4yt627RmuTYwKD5/3sO8T9XzwhiLrma9OCHCwei4K6WKLvuW1aJ8ZO5WBQmUIIWfZ9l/3t4eTLfKRdlsUcC5LIQHQcqTDevMwA=;sWqj+Ev5Mm2WxlgEgOi2AQ=="
 ---
 

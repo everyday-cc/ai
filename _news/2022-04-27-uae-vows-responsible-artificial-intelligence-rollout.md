@@ -1,26 +1,20 @@
 ---
 category: news
-title: "UAE vows ‘responsible’ artificial intelligence rollout"
-excerpt: "aims to have a quarter of its transport driverless by 2030. Abu Dhabi’s Mohamed bin Zayed University of Artificial Intelligence, touted as the world’s first graduate-level AI university ..."
-publishedDateTime: 2022-04-27T03:15:00Z
-originalUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
-webUrl: "https://www.digitaljournal.com/tech-science/uae-vows-responsible-artificial-intelligence-rollout/article"
+title: "UAE vows 'responsible' artificial intelligence rollout"
+excerpt: "The world's first minister for artificial intelligence says the United Arab Emirates isn't only looking for economic benefits as it seeks to become a leading nation in the sector."
+publishedDateTime: 2022-04-27T03:14:00Z
+originalUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+webUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: France 24
+  domain: france24.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/UAE-artificial-intelligence-AFP-1K-04.jpg"
-    width: 1024
-    height: 670
-    isCached: true
-
-secured: "OtbZlB9OuCJryR6aYWkWPRFh+KPO8FNmhC/Vd/9T3EswZ6ekQj0h3GWbyfTlsRMASnuPha7Y6M0IHZiozVt0lvBnNRCy6RYWcntGbu0+kxRMo6VTZ2Be6skaJjJ8CdK3MCd1kV7UzQJMHMXsLfptDflt/8hl3pc5fkERa0hu/SyI46wL799WqlrGGeDj0FX53EpugkMQBVGU9XPxxx6ddQlAQ41z4YqL4lRJwA2Yf8Y3iIcpwE4iIwxKy+L42HQkO3yM89rgEXgFQxIE7tqMzwFIGBnqMaIDHO5bs80vNtfCfes0QclDCugJhCbXsw+ExaMru+Ste6NOSNCBR6UbQ8B2JDXNbS+57uUzlvvy900=;8bBShPf2Qw6ogFhpgn2nYA=="
+secured: "wVeEi0kb+xkG75Ox5161dnA9ythmplMVAXRv0Zq6m7avSZAlRKLuF4LGIbnwyboplgXQacD4RiJ/LMQVWoBE2oiZoL+meNpPm+5qCV3xgMhbohUWarqTOmWLPOV3fP0ZxahlIqPWNKR7D/9uIYpue1/Rzn2DEduCwpX2iOLKUDph9k09Hx9A9ozxGwVzunLFbgm1JRUESRp1QIWfgNDHYUTFanmHnNGvbQklehGLVXsKToKxMvmf1Xg1A1trrp5Yu7hpOpKtHz3sOR2itn7oW8rkd6Jc7PAZl54g46dhhACEccA6KN2lFkXU+mJ8So295MQsu+df78jMfi5TWUwjiPGga3ZCdWuVKaiJf6bn1MxF4DBdkz5BAxmwTRw7wSdMmSawZfDmtVcmkiaSBaG96qbiUTgRAJN+WtVou2KEx3+IHMvXEM6sCYGIDttoZT8pZ16P2Hyqw+lqOLwPrd4yTWhNd/zerIezhjFtaJXjZUmNPjGlXRNmPXl2Rz8Lw8nz1s1kQ3yZo8hbkzBoTJPxRg==;bWZD2R3AdGVzHd/YXFSRpQ=="
 ---
 

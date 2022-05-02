@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg"
@@ -23,6 +24,6 @@ images:
     height: 208
     isCached: true
 
-secured: "pxdsYiR/SlHairVaV3GTOHLwurK+bS8NfsS8fBx+4o64F20Z2afzSVzBl1XnP51YA0TuTjY80YgyNMYhpkBFbz2x45wQLIkpSWaLkpFtEbrSDQEZpQp4FTd/8NoMsdWSsej3kSXy56JJLDTHGoEvSPYSDS912Crui8DKd5rrBZ/pVe+GFA4RldGlwMcvtWyrSV1pI6m6nRcq6l+4t4VI1KfcplQn9UpEsFKCBfmFOouIjvS6DhAe5OT/2PC40Qr4fTmbstzgJaU2iJI8C6XA13AhW9CYSLEf0LzBSawsrsqFkxjHY51qCx7mIA33Ml+AiAoIYU0s9KYvgYbSVQQAGy+uIwO2/znpQTvXBJGBMGg=;1kg8YyI0B3e04uF3QOE27g=="
+secured: "IdJWQNJ6/Z/a8YUp6OcZrHDG8zopEhoFdUFTZ1liCl1nSVDvHCFff5C7mUTawaFWDhKTXHTbsV4IpgSEnTcFFTD3EHgUi4WwG1LIjCiCSCXY6Fl2ezgwlBAbVJZC3Ou3tSOouCsfY/tUXI8fC0q9s6E/syuy4o9uiN+aN6BOqpSZAG/+g9wd8csbMXWXtpSDLwlIkI/5rc/JaFvL3svm2yYDH0KoiUqjDKN+L2UdIbe7gTaY324TR5Kv5juCHG+Dg9k3JNJobnbcG+Vp5/Zhmg4w6CYStQRUzrgFlU5HDWvUreSDsTmG+L+s41KWGKTYHGHLBcwF0UZtkgUJES4S4Zpe5TAONA+Vzc3QhVnSdbESOHeRDbnrI8BOps9OHwyouuhOcWvEM+6ZQMfTmYR5zp0U4V6KKLBQ3agwJxR8TU5hj5toYingfDMHDDrDWUdbJTwA8Go1vg5aZLYloIrn8FoY9yDAecTw4a+0/ADF2gbTksSakR5D6GD2sGUoWp+dG5P6wrd3VTxTnqDAzXWVFg==;NwVT5Ut0gTEn7zqF113cAA=="
 ---
 
