@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
-excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
-publishedDateTime: 2022-04-28T12:39:00Z
-originalUrl: "https://wgnradio.com/business/press-releases/cision/20220428DC39024/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai/"
-webUrl: "https://wgnradio.com/business/press-releases/cision/20220428DC39024/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai/"
+excerpt: "Led by 468 Capital, the investment will drive team and product growth to further establish Synthesis AI as the leader in synthetic dataSAN"
+publishedDateTime: 2022-04-28T12:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+webUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
 type: article
-quality: 18
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -95,20 +99,6 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "Navikenz, a differentiated Artificial Intelligence focused services company raises $4M in seed fund"
-    excerpt: "Navikenz, a consulting-led Artificial Intelligence (AI) services company, raised $4M in seed funding from several HNIs led by Sudip Nandy, ex-CEO Aricent and Sekar PRC ex-CEO Hexaware. The investment comes at a time when the firm is aiming to expand and further strengthen its position in the"
-    publishedDateTime: 2022-04-27T06:20:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=952262"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 38
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Mak_feb_sq_1.jpg"
-        width: 280
-        height: 254
-        isCached: true
   - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
     excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
     publishedDateTime: 2022-04-29T20:53:00Z
@@ -159,31 +149,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Navikenz, a differentiated Artificial Intelligence focused services company raises $4M in seed funding"
-    excerpt: "Navikenz, a consulting-led Artificial Intelligence (AI) services company, raised $4M in seed funding from several HNIs led by Sudip Nandy, ex-CEO Aricent and Sekar PRC ex-CEO Hexaware. The investment comes at a time when the firm is aiming to expand and further strengthen its position in the industry."
-    publishedDateTime: 2022-04-27T06:20:00Z
-    webUrl: "https://menafn.com/1104102613/Navikenz-a-differentiated-Artificial-Intelligence-focused-services-company-raises-4M-in-seed-funding&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/27/I_bff00image_story.jpg"
-        width: 400
-        height: 220
-        isCached: true
-  - title: "Navikenz, a differentiated AI focused services company raises $4M in seed funding"
-    excerpt: "Navikenz has raised $4M in seed funding from several HNIs led by Sudip Nandy, ex-CEO Aricent and Sekar PRC ex-CEO Hexaware."
-    publishedDateTime: 2022-04-27T06:36:00Z
-    webUrl: "https://www.ciol.com/navikenz-differentiated-ai-focused-services-company-raises-4m-seed-funding/"
-    ampWebUrl: "https://www.ciol.com/navikenz-differentiated-ai-focused-services-company-raises-4m-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/navikenz-differentiated-ai-focused-services-company-raises-4m-seed-funding/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 32
   - title: "ICON Corporate Finance Advises AI Platform-as-a-Service Provider ForePaaS on its Acquisition"
     excerpt: "ForePaaS offers a unified platform specialising in data analytics, machine learning, and artificial intelligence for ... Acquiring ForePaaS further propels OVHcloud’s Platform-as-a-Service strategy and reinforces its position as a leading global player ..."
     publishedDateTime: 2022-04-29T12:49:00Z
@@ -212,6 +177,6 @@ related:
       domain: enterprisetalk.com
     quality: 10
 
-secured: "aXn3JD2fNogDVENFAyZzKJozlFa+hblaFiLsk4JzNy5LScb/a9y697T0tVK2y7nXI+0rQTK6223xyh5OkHYYSK2q3o3cmwedorGnZO5j6/nNpYY9wwyLSRbBSh3v3d5VNBmMnWEX7imNp6CF7n3K33EVb5oseOhnasJR4mwnZTUJb8OYSviBOwYsl+r4Ho7rV4P0AluMxojhhVH1vD+oHe1s3lkleluEVpUkxvoYW5TfnSulg4QtsCwJVEw8P2whoQlwDy8T0n2xM15aBEjsh+CzUOdqJGcq791+X23hnlcVELDPL1vp7LOjy55M1RpQWI9pta7xs4k5LAKETtaSBZC+ygl1LjNHllI0mwdS2NY=;s1aRuXzSHFQHtC5Tdd/lJQ=="
+secured: "9I50Ek6DoZjBtspaPJcG2LY8W9f7Bt8FKk429m0eI9FvBaEh57lpFp2HjQVruzMq80dFTskYv9VStMGJxLrv1qM2QZTiAMGaiUDW3TxlWZ7GC86NAIUZe3a1kqDodHZPsMuhhY8r0Jp4SBjigH3cq1GgI1rXyRKesT5SJ5kAQ4RfkV4FSOW59V1YlsLp0uLtLRMtmqZCwEERNy6sfNz73xalWrl287SJ2hgGpGFEgWNfxLOB3SDGwnCUe/Px+j99OywA3Cx9W/fr8GLys0RxZnfLM9s1y4BXC8s29gyr//xO9FMlP8HHHgKsVzbu4nre8HNwxa4Qq/ikPVfm5+tpmuAbQkBSHqScuZ1mlcnM4MI=;VyOJfHkNNOHIBHRnRv7X1g=="
 ---
 

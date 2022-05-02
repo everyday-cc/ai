@@ -28,21 +28,63 @@ images:
     isCached: true
 
 related:
-  - title: "Radically Human: How AI-Powered And New Technologies Are Shaping Our Future"
-    excerpt: "The latest book co-authored by Accenture CTO and futurist Paul Daugherty, Radically Human, examines the intersection between humanity and machines in the era of digital transformation and the implications it has for business and society."
-    publishedDateTime: 2022-04-27T05:45:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/27/radically-human-how-ai-powered-and-new-technologies-are-shaping-our-future/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/27/radically-human-how-ai-powered-and-new-technologies-are-shaping-our-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/27/radically-human-how-ai-powered-and-new-technologies-are-shaping-our-future/amp/"
+  - title: "How AI is helping the supply chains in the healthcare sector"
+    excerpt: "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to comprehend and decipher. It can also be fed ..."
+    publishedDateTime: 2022-05-01T08:56:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6268d7f02ca67ab6115a6d82/0x0.jpg?format=jpg&width=1200"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91232124,imgsize-24178,width-1200,height-628,overlay-ethealthworld/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.jpg"
         width: 1200
-        height: 750
+        height: 628
+        isCached: true
+  - title: "Top Applications of Machine Learning in the Healthcare Sector"
+    excerpt: "The expanding number of machine learning applications in healthcare enables the healthcare industry to manage data and improve services properly. Fremont, CA: The healthcare business is critical since it provides treatment to millions of people while ..."
+    publishedDateTime: 2022-04-29T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/top-applications-of-machine-learning-in-the-healthcare-sector-nid-9775.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 56
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/w7d65450308appcio.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "AI Making Groundbreaking Changes in the Healthcare Sector"
+    excerpt: "Fremont, CA: Artificial intelligence is transforming our lives in a variety of ways, none more so than in the healthcare industry. For instance, there has been an explosion of innovation in digital healthcare technologies over the last decade. Medical ..."
+    publishedDateTime: 2022-04-29T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/ai-making-groundbreaking-changes-in-the-healthcare-sector-nid-9816.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/eo09n450308cioappli.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "How Advanced Technology Trends are Reshaping Healthcare Sector"
+    excerpt: "Diagnostics, therapy management, and other aspects of healthcare are altered due to AI advancements. Fremont, CA: Artificial intelligence has carved out a strong presence in human civilization and our daily lives during the last two decades. Most of us are ..."
+    publishedDateTime: 2022-04-29T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/how-advanced-technology-trends-are-reshaping-healthcare-sector-nid-9815.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/14dbeUntitled-450.jpg"
+        width: 450
+        height: 308
         isCached: true
 
 secured: "yAUPCC3aRc5Ihpi9ql9JbFJsQb5dtrEZIMwRPWA1TNMBMCEA5iU1+3y2yoeoc83pGrkcZtQrFiKDt722AWbDc4qnnmUHy/VxydmjedL2Q3kVBtPdcjETvyZ2rq+84oVMOABbS001r0SswJmxZpx/ww2AFjF0I68kb7STarlZXpHwreVEWs4eCUufwveBMcnxhbk99AgbNEC7eM74coR8wlxVOUQobmJRHfXi+n4d+ac60PDHYOkX1fR189T9P/bDslEFXd+VK9mF2Rd8QAqbwXoxy46aglo9/BViKWhb6Mn/k6j/NZyi5cR987poM4Ds5QkezXMUB6vTuFYDzSL/SqNJ4H+X7KwPfCAXgkknJYYuhlEu4lHXMN52a7FipJndav75NFA8VImlyBRxbuKu5GcHfX0r1+3C4nvVUS8bYPDDPhnn29VCJ+CbsrLgyudDp1jybBzt4/1DSHS0UVXBw2VdspNJaIGUqYNyOPENDaUEe2sL/nkOcpEznqyPEfdeVF7JoNEt/7aDNSAlayUYmw==;hh+DsYoTJCYOEbC/UADHSQ=="

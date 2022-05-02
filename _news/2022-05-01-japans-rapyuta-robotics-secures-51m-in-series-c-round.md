@@ -39,15 +39,6 @@ related:
         width: 333
         height: 333
         isCached: true
-  - title: "VisionNav Robotics Raises $80M in Series C+ Funding"
-    excerpt: "Founded in 2016 and led by Li Luyang, CEO, VisionNav Robotics is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial vehicles, providing autonomous vehicles ..."
-    publishedDateTime: 2022-04-30T12:13:00Z
-    webUrl: "https://www.finsmes.com/2022/04/visionnav-robotics-raises-80m-in-series-c-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 49
 
 secured: "oJEqWYlaIb4kVyUhDChviC0ghY3arJeRtMuQm9EZUuzG8SzpoFm9Y7d+TdhAj5sxMi1LK6JMzEcHdcvJcugoBcWwuPbNjE6Njfx0J7N/Ju8Blp6O+dm0w/OhYrIJ2KRjkz0afHk8xeZg7ufCen9IiiEa4TwLJ2vR9pdxerpsqgoD2VM8mqZ4TMbde6RpyzddZWf+tCFwkO1M0Q9LoOvN7rfJIGooBvWxuRJnG+jZdzQoTlttjmpOhFRv2tImCzIKz78tXyjAju1CKkPTpxe+Y0v6Y+Dcsxt3GuXEN+on2ezNbzi2m4Rwi0DB1cke0+MpEqNvOBjgkmPLPPkCuwpHaMwCTfEqYjtG/qzC8frqoyDgxQ/AENZxQPvJVKO/0TnqODW2yScqA7sZflWxVDrELmwYG2c3aIx1++OhywoF10bjpNKrJ1gOSzxC/8TMhmm6sn8kiSDoP5g5EHHJ1z4Fg6rsqwIlNJqw84sfmO02TB3ue8yJdlr5juY8R6HdSqzqyGfdx88H50j53isojrEgSg==;vQpQw3FE6vRqZs2T1Qz38w=="
 ---

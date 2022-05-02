@@ -66,6 +66,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
+    excerpt: "Led by 468 Capital, the investment will drive team and product growth to further establish Synthesis AI as the leader in synthetic dataSAN"
+    publishedDateTime: 2022-04-28T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Finbots.AI raises Series A funding for AI credit risk platform"
     excerpt: "Singaporean AI-powered credit risk specialist company Finbots.AI has raised $3 million in Series A round from sole investor Accel. The transaction marks the first external investment raised by Finbots."
     publishedDateTime: 2022-04-28T13:58:00Z
@@ -93,20 +102,6 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/04/The-Insurance-Sectors-Digital-Overhaul_Site-1.png?x82653&x82653"
         width: 600
         height: 500
-        isCached: true
-  - title: "Navikenz, a differentiated Artificial Intelligence focused services company raises $4M in seed fund"
-    excerpt: "Navikenz, a consulting-led Artificial Intelligence (AI) services company, raised $4M in seed funding from several HNIs led by Sudip Nandy, ex-CEO Aricent and Sekar PRC ex-CEO Hexaware. The investment comes at a time when the firm is aiming to expand and further strengthen its position in the"
-    publishedDateTime: 2022-04-27T06:20:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=952262"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 38
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Mak_feb_sq_1.jpg"
-        width: 280
-        height: 254
         isCached: true
   - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
     excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
@@ -158,31 +153,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Navikenz, a differentiated Artificial Intelligence focused services company raises $4M in seed funding"
-    excerpt: "Navikenz, a consulting-led Artificial Intelligence (AI) services company, raised $4M in seed funding from several HNIs led by Sudip Nandy, ex-CEO Aricent and Sekar PRC ex-CEO Hexaware. The investment comes at a time when the firm is aiming to expand and further strengthen its position in the industry."
-    publishedDateTime: 2022-04-27T06:20:00Z
-    webUrl: "https://menafn.com/1104102613/Navikenz-a-differentiated-Artificial-Intelligence-focused-services-company-raises-4M-in-seed-funding&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/27/I_bff00image_story.jpg"
-        width: 400
-        height: 220
-        isCached: true
-  - title: "Navikenz, a differentiated AI focused services company raises $4M in seed funding"
-    excerpt: "Navikenz has raised $4M in seed funding from several HNIs led by Sudip Nandy, ex-CEO Aricent and Sekar PRC ex-CEO Hexaware."
-    publishedDateTime: 2022-04-27T06:36:00Z
-    webUrl: "https://www.ciol.com/navikenz-differentiated-ai-focused-services-company-raises-4m-seed-funding/"
-    ampWebUrl: "https://www.ciol.com/navikenz-differentiated-ai-focused-services-company-raises-4m-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/navikenz-differentiated-ai-focused-services-company-raises-4m-seed-funding/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 32
   - title: "ICON Corporate Finance Advises AI Platform-as-a-Service Provider ForePaaS on its Acquisition"
     excerpt: "ForePaaS offers a unified platform specialising in data analytics, machine learning, and artificial intelligence for ... Acquiring ForePaaS further propels OVHcloud’s Platform-as-a-Service strategy and reinforces its position as a leading global player ..."
     publishedDateTime: 2022-04-29T12:49:00Z
@@ -192,15 +162,6 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 23
-  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
-    excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
-    publishedDateTime: 2022-04-28T12:39:00Z
-    webUrl: "https://wgnradio.com/business/press-releases/cision/20220428DC39024/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 18
   - title: "Finbots.AI Raises $3M From Accel In Series A"
     excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
     publishedDateTime: 2022-04-30T19:27:00Z

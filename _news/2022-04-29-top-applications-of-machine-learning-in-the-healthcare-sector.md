@@ -70,6 +70,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Real AI is shaping our future"
+    excerpt: "Artificial intelligence is here, and it’s real – transforming our world in ways both seen and unseen. We experience it when we use navigation on our phones, write emails at work or when we pick TV"
+    publishedDateTime: 2022-04-27T12:50:00Z
+    webUrl: "https://news.microsoft.com/en-ca/2022/04/27/real-ai-is-shaping-our-future/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/67/2021/09/Title-Slate-Square.png"
+        width: 1079
+        height: 1079
+        isCached: true
 
 secured: "K3vB1oOEqdI3/TTqFosryjx36enjHBPRcVD8O1gJM+Lmg9GxQAEbdIOFuxtmongYz+7V9cyr5Hrc/VXduYcphpKHVX84LCqw/b2T9+txxdxKjb7UiVxLzDHHFQ1c7QSJDJl+6j3RZkKcTPBsL8hZxMvegebvszFr65LHWsH1X6WGjF8Ap0bz/gzr/s7zF6PH1iSdK4RUUoWi+BeC5A2WBknIwMNFSx6vhM7y+EPcXw4xuFzemvUJ3jA5yOxAcLx2PBp/pkn6GY+TB47GZkiZcAqtR2bsBG44InfmzTRuYETN740oGgfgXPffQzcK0uSn6z4LSfQeyF+b61a2Kj5H0ZN0BqFKqm6NOKjCsW3U/0bpCRlEFz5QP94MPMV6r+/vz6lEpV+iI/U+dA4whNxV5YQf1MHFacx6ooGRlQA7mcW6od0G6UUIEKMjOgsLgQGrbrSX/xBhAvwBs1q77ElMhTR7fiW0w2SMVTaX4dNKsXvQ2pOvn195Y8xhy6OufIa1nq6OfApJvx4z4DhFDUlpRg==;NQ7jZxM0MO2Leh+enFNCPw=="
 ---

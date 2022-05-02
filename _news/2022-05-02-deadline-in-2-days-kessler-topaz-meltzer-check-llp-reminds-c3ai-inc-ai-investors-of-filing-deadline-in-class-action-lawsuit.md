@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
-excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
-publishedDateTime: 2022-05-01T19:50:00Z
-originalUrl: "https://www.kget.com/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
-webUrl: "https://www.kget.com/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
+excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders ..."
+publishedDateTime: 2022-05-01T23:46:00Z
+originalUrl: "https://whnt.com/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
+webUrl: "https://whnt.com/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
 type: article
-quality: 0
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: KGET.com
-  domain: kget.com
+  name: WHNT
+  domain: whnt.com
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1219383/KTMC_Logo.jpg?p=publish"
+    width: 1612
+    height: 541
+    isCached: true
 
 related:
   - title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
@@ -106,6 +112,6 @@ related:
       domain: stockhouse.com
     quality: 0
 
-secured: "4DKPwM2RV5Xqf82zTsFVUPvclDpsG9l3ntIQH4URZNOdwtA2qbTzm+lGRkf8Ms/rrJx8E/fo8rOYGYPfVW39e3gvcCeABXeIqXE6VtIUUKLUZpjNp6OmTVhV6w54UZMNk5TjQaZXe7xb85ssT+q44OqDk3GMOT/Zyv0N50TkI7g2c6v1S6G2S5L9lHm//5R+7sqVEnpylRoOcUGTc5+CuPcD3c7d8Tojo3JUjbM0CKkd/p9Lwx3u56fqVOzhwmD0VjbctbIQeF+3vjS7lYLnrpsLgDlJwpl96zpcjwEuRs37UKca+z0btRfQvTHL6OXCkAMkfIGyDMiFEdeH+R/jDEu7dsZKSRqHN8gwWbCe35I=;0RYTFcoO1PfnNlklCawOKw=="
+secured: "j1bmxYigkfACrBnMFWzbg+3XyzMSP0G8iQydeE7YPCPap6ETG2ihW/K+TfME/6v3MFJPLx8TqKrJXeEFb3jAEKnA6zTYT7AqJ19aSctJ94lIseMiwGyatDtVvwIbW/gggsL5OqFpGI8Ag6Y7qr3lJ2e4y5SB6XUmGRrVOWeTdbKInHEV3miwbsHpKtQAV874SQx5MT4qLWWze/IIvo9McDCjasLbkgWlpqj6wylTx7ED3zcBwZpg86zk6gwWbeEkWzxZN/JOcOAOxlqW1qTYiBes5Cb3UnZqWT6Xudcv8fvLKXYUvP4iO1yVKAxYTy8rzsOw5UVavoWvwCao6eHVveK7O+7dOE3OBily20/Ua/c=;LXxmvf9Al0+HSirorvFgKg=="
 ---
 

@@ -53,20 +53,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "AI in Social Media Market 2022: Demand, Market Share, Trend, Business Growth, Prime Key Players Analysis and Forecast by 2028"
-    excerpt: "Global“AI in Social Media”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various research sources to provide specific and reliable analysis."
-    publishedDateTime: 2022-04-27T05:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-social-media-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2028-2022-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-Enabled Testing Tools Market 2022 | Scope of Current and Future Industry 2030"
     excerpt: "AI-Enabled Testing Tools Market is predicted to be valued at 1.27 Bn in the year 2030 and exhibiting a remarkable 16.9% CAGR during the forecast period 2022-2030. Telecom companies are leveraging the potential of AI to manage and assess big importance of ..."
     publishedDateTime: 2022-04-29T05:25:00Z
@@ -81,20 +67,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Facial Recognition Market Size, Share, Global Industry Outlook by Types, Applications, and End-User Analysis Industry Growth Forecast to 2022-2027"
-    excerpt: "The\"Facial Recognition Market\"(2022-2027) research provides an outline of the business with key insights, applications"
-    publishedDateTime: 2022-04-27T05:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-share-global-industry-outlook-by-types-applications-and-end-user-analysis-industry-growth-forecast-to-2022-2027-2022-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Neural Network Market With Industry Share Growth Swot Key Players And Forecast 2028"
     excerpt: "CRIFAX added a report on 'Global Artificial Neural Network Market, 2020-2028' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth ..."
     publishedDateTime: 2022-04-29T10:47:00Z
@@ -108,20 +80,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?716071"
         width: 305
         height: 250
-        isCached: true
-  - title: "Edge AI hardware Market Analysis Report , Types, Growth, Industry Analysis, Opportunity and Forecast 2020-2027"
-    excerpt: "The global edge AI hardware market registered a transaction of 532.4 million units in 2018 and is expected to reach 1,681.8 million units by the end of forecast period with a CAGR of 21.72%. Growth in Artificial Intelligence (AI) has created huge opportunities for semiconductor companies."
-    publishedDateTime: 2022-04-27T05:28:00Z
-    webUrl: "https://galleonnews.com/electric-vehicles/251485/edge-ai-hardware-market-analysis-report-types-growth-industry-analysis-opportunity-and-forecast-2020-2027/"
-    type: article
-    provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 17
-    images:
-      - url: "https://galleonnews.com/wp-content/uploads/2021/12/logo_orbis-390x220.jpg"
-        width: 390
-        height: 220
         isCached: true
   - title: "Explainable AI Market Size 2022, Share, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 28, 2022 (The Expresswire) -- Global \"Explainable AI Market\" Research Report provides a wide range analysis of market dynamics like current trend, size, share ..."

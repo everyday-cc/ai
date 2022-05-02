@@ -74,6 +74,20 @@ related:
       name: WGN Radio
       domain: wgnradio.com
     quality: 15
+  - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
+    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders ..."
+    publishedDateTime: 2022-05-01T23:46:00Z
+    webUrl: "https://whnt.com/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
+    type: article
+    provider:
+      name: WHNT
+      domain: whnt.com
+    quality: 6
+    images:
+      - url: "https://mma.prnewswire.com/media/1219383/KTMC_Logo.jpg?p=publish"
+        width: 1612
+        height: 541
+        isCached: true
   - title: "C3.AI DEADLINE ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action Lawsuit Has Been Filed Against C3.ai, Inc. and Encourages Inve"
     excerpt: "NEW YORK--(BUSINESS WIRE)--#Action--Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, reminds investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) in the ..."
     publishedDateTime: 2022-04-29T12:00:00Z
@@ -96,15 +110,6 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
-    quality: 0
-  - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
-    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
-    publishedDateTime: 2022-05-01T19:50:00Z
-    webUrl: "https://www.kget.com/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
-    type: article
-    provider:
-      name: KGET.com
-      domain: kget.com
     quality: 0
 
 secured: "U4xprEJDjZbmz4WWR2q8eoanawYjFAH9ntDu4NDbQvQVkxpwxDEmkbboWR3Zx1efpxdXvROnL6pwklqHal5S23TSd5u+qYwYvTSh5kzXJhCssAk3E4f5INcBvuyugtEOYT/H21Qx3bqR455xiIL8jgfJoTwqQ/qUb56n2tgTPjrzPzIZFJA+tUyGIl+fjYdMpt+20Jk698yiHFM2qeAzbZb0eJyP7IBe8LcGPt3CaCAYq4rUjaOCByRt5e5Mq5kGzEDlekGMBHDQ5M89jb1mduNyY3pDCeslGLWOXtcXDWp2+rVw8080GpqcZSDiBVVbs1uy0JnUoW+42UHscra6osVmfzmYkY1P4CjZ/tJSEvQ=;bsmyiVklNqCiFuZv917nPQ=="

@@ -2,6 +2,102 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-02-09-komprise-partners-with-microsoft-to-support-azure-file-data-migration-program.md",
+      "title": "Komprise partners with Microsoft to support Azure File Data Migration program",
+      "excerpt": "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. Krishna Subramanian, President and COO of Komprise says, “By working closely with the Microsoft Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "originalUrl": "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/import/2016/01/handshake.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
+      "publishedDateTime": "2022-02-08T21:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine.md",
+      "title": "2022 Healthcare trends will be driven by AI, wearables and virtual medicine",
+      "excerpt": "Tech like AI, advanced telehealth systems and remote devices will be change healthcare for physicians and patients alike in the coming year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/",
+      "originalUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/02/AdobeStock_476627816.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/amp/",
+      "publishedDateTime": "2022-02-08T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-deloitte-expands-converge-platform-to-consumer-and-financial-services-markets.md",
       "title": "Deloitte expands Converge platform to consumer and financial services markets",
       "excerpt": "Building on this growth, Deloitte today announced Converge by Deloitte, which brings ConvergeHealth to the consumer and financial services ... presented by AI and machine learning, as well as ...",
@@ -1052,103 +1148,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-spell-graphcore-partner-to-build-next-gen-ai-infrastructure.md",
-      "title": "Spell, Graphcore partner to build next-gen AI infrastructure",
-      "excerpt": "“We had the opportunity to highlight Spell.ml’s capabilities in a recent Cool Vendor research note, “Cool Vendors in Enterprise AI Operationalization and Engineering,” Dekate said.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
-      "publishedDateTime": "2022-02-08T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report.md",
-      "title": "Apple buys artificial intelligence music startup for undisclosed sum: report",
-      "excerpt": "Apple (NASDAQ:AAPL) has acquired a London-based startup known as AI Music to help generate customized music, Bloomberg reports. According to the news outlet, Apple could use the technology to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
-      "originalUrl": "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1048245156/image_1048245156.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
-      "publishedDateTime": "2022-02-08T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

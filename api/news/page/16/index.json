@@ -2,6 +2,101 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-04-14-machine-learning-for-biology-is-starting-to-move-towards-retail.md",
+      "title": "Machine Learning For Biology Is Starting To Move Towards Retail",
+      "excerpt": "It is clear that the growth of the skincare segment provides yet another opportunity for machine learning to be used as part of a market solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y24,safe&width=1200",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/amp/",
+      "publishedDateTime": "2022-04-14T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-self-driving-taxis-txai-to-transport-passengers-on-yas-island.md",
+      "title": "Self-driving taxis 'TXAI' to transport passengers on Yas Island",
+      "excerpt": "Bayanat, which specialises in geospatial systems, data analysis and artificial intelligence, recently announced its new fleet of driverless vehicles under the TXAI brand, which represents the first fully-automated taxis in the UAE.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/self-driving-taxis-txai-to-transport-passengers-on-yas-island-r712qtb8",
+      "originalUrl": "https://www.zawya.com/en/business/self-driving-taxis-txai-to-transport-passengers-on-yas-island-r712qtb8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:NmM1ZGI0Y2EtYmMxZi00:MGI5ODlk/190918054509fqnb-jpg.jpg?f=16%3A9&q=0.75&w=3840",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-acing-cx-with-smart-self-service-through-ai-automation-and-analytics.md",
       "title": "Acing CX With Smart Self-Service Through AI, Automation And Analytics",
       "excerpt": "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ...",
@@ -1035,100 +1130,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-watch-this-driverless-car-get-pulled-over-then-bolt-for-it.md",
-      "title": "Watch this driverless car get pulled over, then bolt for it",
-      "excerpt": "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kare11.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
-      "originalUrl": "https://www.kare11.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kare11.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
-      "cdnAmpWebUrl": "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
-      "publishedDateTime": "2022-04-13T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KARE 11",
-        "domain": "kare11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-zipyai-which-accelerates-software-debugging-for-enterprises-raises-28m.md",
-      "title": "Zipy.ai, which accelerates software debugging for enterprises, raises $2.8M",
-      "excerpt": "San Francisco-based Zipy.ai, which accelerates software debugging for enterprises, today raised $2.8 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/",
-      "originalUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/VishaliniApril2022-e1649864412499.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/",
-      "publishedDateTime": "2022-04-13T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

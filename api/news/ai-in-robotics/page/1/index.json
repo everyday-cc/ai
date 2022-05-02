@@ -88,6 +88,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-30-visionnav-robotics-closes-80m-for-agvs.md",
+      "title": "VisionNav Robotics closes $80M for AGVs",
+      "excerpt": "... based company that develops logistics robots, raised more than $80 million in Series C+ funding. VisionNav is committed to providing automated material handling systems with visual artificial intelligence navigation technology. VisionNav’s automated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/visionnav-robotics-closes-80m-for-agvs/",
+      "originalUrl": "https://www.therobotreport.com/visionnav-robotics-closes-80m-for-agvs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-visionnav.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-festo-massrobotics-to-celebrate-healthcare-robotics-innovation.md",
       "title": "Festo, MassRobotics to celebrate healthcare robotics innovation",
       "excerpt": "The Festo-MassRobotics Healthcare Robotics Startup Catalyst program will celebrate the ... Eureka Robotics develops and commercializes cutting-edge robotics and artificial intelligence (AI) technologies to automate high-accuracy, high-agility tasks.",
@@ -229,6 +272,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
+      "title": "Pittsburgh welcomes Plus One Robotics",
+      "excerpt": "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
+      "originalUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-procreating-robots-the-next-big-thing-in-cognitive-automation.md",
       "title": "Procreating Robots: The Next Big Thing In Cognitive Automation?",
       "excerpt": "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence.",
@@ -289,7 +375,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -386,7 +472,7 @@
       "originalUrl": "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1308,92 +1394,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging.md",
-      "title": "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging",
-      "excerpt": "and more and Soft Robotics' mGripAI platform that uses ultra-fast 3D vision, artificial intelligence, and soft robotic grasping to enable picking of irregular and delicate food items directly from ...",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
-      "originalUrl": "https://pix11.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2022/04/foreo.jpg?w=2000&#038;ssl=1",
-          "width": 425,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPIX",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation.md",
-      "title": "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation",
-      "excerpt": "\"We are excited to have GrayMatter's Smart Robotic Sanding solution selected for the RBR50 award\" said Ariyan Kabir, CEO. \"With a global shortage in surface finishing labor, manufacturing reshoring in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.krqe.com/business/press-releases/cision/20220420LA30271/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/",
-      "originalUrl": "https://www.krqe.com/business/press-releases/cision/20220420LA30271/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.krqe.com/wp-content/uploads/sites/12/2022/04/cc802004e8fb4dbcb43175fa890288d0-2.jpg?w=2000&#038;ssl=1",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRQE",
-        "domain": "krqe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:
