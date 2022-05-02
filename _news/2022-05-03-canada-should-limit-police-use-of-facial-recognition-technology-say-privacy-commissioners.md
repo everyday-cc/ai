@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Privacy watchdogs call for laws limiting police use of facial recognition"
+    excerpt: "Canada’s privacy commissioners called Monday for clear laws putting in place limits on the use of facial recognition technology by police. Federal privacy commissioner Daniel Therrien told MPs ..."
+    publishedDateTime: 2022-05-02T20:54:00Z
+    webUrl: "https://calgaryherald.com/news/politics/privacy-watchdogs-call-for-laws-limiting-police-use-of-facial-recognition/wcm/f47510ac-0a9b-4e06-a632-a4ed5f66efc5"
+    type: article
+    provider:
+      name: Calgary Herald
+      domain: calgaryherald.com
+    quality: 38
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2022/05/facial-recognition.jpg"
+        width: 957
+        height: 718
+        isCached: true
   - title: "City Briefing: Northampton councilors to revisit facial recognition technology ordinance"
     excerpt: "NORTHAMPTON — As local activists continue their push to strip funding from the Northampton Police Department, the City Council plans to meet Monday night to begin its review of the ordinance that bans the use of facial recognition technology. During the ..."
     publishedDateTime: 2022-04-30T18:02:00Z

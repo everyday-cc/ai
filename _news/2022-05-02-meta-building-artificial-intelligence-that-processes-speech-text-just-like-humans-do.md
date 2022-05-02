@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta building AI that processes speech & text as humans do"
+    excerpt: "New Delhi: Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with ..."
+    publishedDateTime: 2022-05-02T09:30:00Z
+    webUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do"
+    ampWebUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 59
+    images:
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Meta-building-AI-that-processes-speech-text-as-humans-do-831x450.jpg"
+        width: 831
+        height: 450
+        isCached: true
   - title: "Building AI That Processes Language as People Do"
     excerpt: "Our researchers discovered that while the brain anticipates words far ahead in time, most language models typically predict just the very next word."
     publishedDateTime: 2022-04-28T13:00:00Z
@@ -51,19 +67,19 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
-  - title: "Meta building AI that processes speech & text as humans do"
-    excerpt: "Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with neuroimaging ..."
-    publishedDateTime: 2022-05-02T10:20:00Z
-    webUrl: "https://www.canindia.com/meta-building-ai-that-processes-speech-text-as-humans-do/"
+  - title: "Meta Announces Research To Create Human-Level AI"
+    excerpt: "Facebook parent Meta announced they are launching a long-term research project to build a next-generation AI that can learn and process speech and text in the same way the human brain does. Meta described an effort to create a human-level AI. Meta is ..."
+    publishedDateTime: 2022-04-29T09:17:00Z
+    webUrl: "https://www.searchenginejournal.com/human-level-ai/448006/"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
+      name: Search Engine Journal
+      domain: searchenginejournal.com
     quality: 39
     images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
-        width: 696
-        height: 436
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/human-level-ai-626b9fb53ed3b-sej.jpg"
+        width: 1600
+        height: 840
         isCached: true
   - title: "To build better AI, Meta is studying how human brains process language"
     excerpt: "“Artificial neural networks for language are getting closer and closer to mimicking the activity of the human brain, and thereby shedding new light on how thought might be implemented in neural ..."

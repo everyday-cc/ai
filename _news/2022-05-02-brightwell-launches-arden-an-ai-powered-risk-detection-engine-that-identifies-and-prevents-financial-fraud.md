@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T13:02:00Z
 originalUrl: "https://fox59.com/business/press-releases/cision/20220502NY39554/brightwell-launches-arden-an-ai-powered-risk-detection-engine-that-identifies-and-prevents-financial-fraud/"
 webUrl: "https://fox59.com/business/press-releases/cision/20220502NY39554/brightwell-launches-arden-an-ai-powered-risk-detection-engine-that-identifies-and-prevents-financial-fraud/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: FOX59 News

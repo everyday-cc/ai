@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-02-google-fires-another-researcher-as-it-confronts-challlenges-with-ai.md",
-      "title": "Google fires another researcher as it confronts challlenges with AI",
-      "excerpt": "Another staffer who questioned research ethics has been stood down Google's Cambridge ... fight about when it comes to how the chips — and any wares derived from artificial intelligence itself — are made.",
+      "path": "_news/2022-05-03-is-it-ethical-to-use-ai-generated-content-without-crediting-the-machine.md",
+      "title": "Is it ethical to use AI-generated content without crediting the machine?",
+      "excerpt": "Considering that computers can’t taste booze, this makes for a curious use-case for machine learning. The AI sommelier was trained on a database containing hundreds of thousands of beer and wine ...",
       "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challlenges-with-ai/",
-      "originalUrl": "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challlenges-with-ai/",
+      "webUrl": "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine",
+      "originalUrl": "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 75,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/google-boston-2018.jpg",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challlenges-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challlenges-with-ai/amp/",
-      "publishedDateTime": "2022-05-02T09:34:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T12:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Machine Learning",
         "AI",
-        "AI Hardware"
+        "AI Ethics"
       ]
     },
     {

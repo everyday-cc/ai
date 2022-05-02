@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Searchable.ai announces Constellation, a Unified Data Platform for productivity workers and their teams"
-    excerpt: "Searchable.ai announces Constellation, their unified data platform that brings together all the data and information that knowledge workers need, in one place. Searchable.ai launched in 2019 as a search company that enabled users to simultaneously search across all their cloud and local files."
-    publishedDateTime: 2022-04-28T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-searchableai-announces-constellation-unified-data-platform-productivity-workers-/2022/04/28/9592071.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
   - title: "DC-based Startup Public Spend Forum Successfully Transitions to Phase III SBIR, Providing AI-Enabled Market Intelligence for Government Agencies"
     excerpt: "By applying Natural Language Processing and Artificial Intelligence across program requirements and industry data, we are using advanced AI-enabled methods to match demand and supply.\" Under the Phase III IDIQ award, PSF will provide data solutions and ..."
     publishedDateTime: 2022-05-02T13:58:00Z

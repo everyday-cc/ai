@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-lea
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Using AI and Machine Learning to Reduce Wastewater Flooding and Pollution"
-    excerpt: "As part of the endeavor, Rockwell teams specializing in network and cybersecurity, AI, and machine learning applications are providing guidance as well as counsel and support on other emerging technologies. Rockwell software and hardware will also be part ..."
-    publishedDateTime: 2022-04-29T14:27:00Z
-    webUrl: "https://www.csrwire.com/press_releases/743181-using-ai-and-machine-learning-reduce-wastewater-flooding-and-pollution"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 53
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/Utility_Rockwell_042522.png"
-        width: 737
-        height: 438
-        isCached: true
   - title: "Mobile AI Market Size, Share and Growth"
     excerpt: "Market Highlights Market Research Future (MRFR), in its recently published research report, asserts that the global mobile AI market 2020 is booming and"
     publishedDateTime: 2022-04-28T09:59:00Z
@@ -72,15 +58,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
-    excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
-    publishedDateTime: 2022-04-28T13:17:00Z
-    webUrl: "https://stratechery.com/2022/meta-earnings-meta-spending-ai-costs-and-moats/"
-    type: article
-    provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 17
   - title: "Ways AI Improves Online Learning Process"
     excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
     publishedDateTime: 2022-04-29T13:35:00Z

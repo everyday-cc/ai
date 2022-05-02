@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T19:30:00Z
 originalUrl: "https://www.freightwaves.com/news/locomation-poised-to-start-rolling-out-autonomous-trucking-technology-at-scale-in-2023"
 webUrl: "https://www.freightwaves.com/news/locomation-poised-to-start-rolling-out-autonomous-trucking-technology-at-scale-in-2023"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: freightwaves.com

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-usin
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
 type: article
 quality: 68
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: Outlookindia
@@ -28,20 +28,17 @@ images:
     isCached: true
 
 related:
-  - title: "AI bot takes moving-making to a new level"
-    excerpt: "Writer’s block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the first film written by a Japanese AI bot is aiming to demonstrate what it can do at a major short film festival this year."
-    publishedDateTime: 2022-04-30T01:00:00Z
-    webUrl: "https://www.japantimes.co.jp/culture/2022/04/30/films/ai-bot-boy-sprouted/"
+  - title: "How Fintech Can Help You Manage Your Personal Finances"
+    excerpt: "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions."
+    publishedDateTime: 2022-05-02T20:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
     type: article
     provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 37
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_155778-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Seven Unique Risks Of Investing In Fintech Startups"
     excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."
     publishedDateTime: 2022-04-29T13:11:00Z
@@ -51,21 +48,33 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Hashtag Trending May 2 – Stop using Internet Explorer; AI tool to detect deep fakes; cryptomining in Texas rivals Hustan energy use"
-    excerpt: "One computer scientist from Singapore bested 469 other teams from around the world in a gruelling 5-month-long AI competition. The competition was held to develop the best AI model for detecting deep fakes. The one-man team, Wang Meiming, built a deep fake ..."
-    publishedDateTime: 2022-05-02T09:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263?amp=1"
+  - title: "29/04 – Weekly Fintech Recap"
+    excerpt: "Fintech Lender Sonovate Launches New Platform to Enhance Embedded ... Alex Preece, CEO of digital gift card provider Tillo, has joined Network B's advisory board The AI-based personalized offers platform Network B has recently enhanced its advisory board ..."
+    publishedDateTime: 2022-04-29T09:43:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2904-weekly-fintech-recap"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 27
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
-        width: 1500
-        height: 1500
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_9.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why Gig Economy Has Become a New Trend in Fintech"
+    excerpt: "Fintech startups are more suitable for this job ... Ventures, such as B9, Chime, Earnin, and Brigit, are able to calculate risks with the help of AI at incredible speed. They use it to provide gig workers with quick access to advances on paychecks with ..."
+    publishedDateTime: 2022-05-02T08:00:00Z
+    webUrl: "https://fintechmagazine.com/digital-payments/why-gig-economy-has-become-a-new-trend-in-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/ab450196b08dde36e9abdde7a8dbf64c:0c06a3e68bc9800bf851df4cc1523005/gettyimages-1154103460-1.jpg.jpg"
+        width: 1800
+        height: 1011
         isCached: true
   - title: "Fintech firm Propflo closes pre-seed funding"
     excerpt: "The business has a strong advisory team including the chief executive of Yopa and ex-Purplebricks managing director Verona Frankish, and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage ..."

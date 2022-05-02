@@ -51,6 +51,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Inworld AI Launches Inworld Studio, a Revolutionary Platform that Enables Developers and Creators to Build Intelligent Virtual Characters"
+    excerpt: "Based on the personalities and cognitive profiles defined by developers ... CRV, Meta, and M12, Microsoft’s Venture Fund. For more information, visit https://inworld.ai."
+    publishedDateTime: 2022-04-28T12:47:00Z
+    webUrl: "https://www.eagletribune.com/region/inworld-ai-launches-inworld-studio-a-revolutionary-platform-that-enables-developers-and-creators-to-build/article_95dc5f3b-1a9f-516e-96b2-58c29e8c7b41.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 6
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+        width: 600
+        height: 333
+        isCached: true
 
 secured: "1O66XB8MvBAdxSIbXpUcMjSxBw3m3QeO4crbp3SsAEPZa4n4DYc1JvZZklLV+CB7aWTuM+d8wrvE0OZUzlbsQmOZqzFwVIV3Vr/utxLt/bhEaczHTN/OGfwIocNeCqh8dio1RHdceHUcwuSffvqyoJhQghwl4e5WnrCKELbzl2cx2i0JSUidcv+81I7Su4/YhNYzN4dY5tibNuq2Ust6PLnbcZNpnWItXL73jU0DFBLn3Bf4BwsJBH1OJAkpuUylNsAMQF9tHgu58WRd2T++8/5sxWnR/+Iby0yf7eQo7jOvGFFchk8bOoox41RxTrlwvRaf+0DvT/bHQ+bFB6mRQoGQFcLLtiVVCXHncgfrqjI=;PVZ/0KdgmY5f7g6+p/E6ig=="
 ---

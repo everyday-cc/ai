@@ -7,7 +7,7 @@ originalUrl: "https://www.chicagotribune.com/suburbs/post-tribune/opinion/ct-ptb
 webUrl: "https://www.chicagotribune.com/suburbs/post-tribune/opinion/ct-ptb-davich-mailed-political-fliers-effectiveness-st-0502-20220429-eab7eo7xyza2bdz3hfs6usm5gm-story.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Local suicide prevention coalition wins state recognition for work toward a suicide-free Brazos Valley"
-    excerpt: "The Brazos Valley Coalition on Suicide Prevention has a goal of talking about suicide prevention, developing a suicide prevention plan and ending suicide in the Brazos Valley."
-    publishedDateTime: 2022-04-28T04:45:00Z
-    webUrl: "https://theeagle.com/news/local/local-suicide-prevention-coalition-wins-state-recognition-for-work-toward-a-suicide-free-brazos-valley/article_dadf58aa-c557-11ec-bd3e-37edff373c47.html"
-    type: article
-    provider:
-      name: The Eagle
-      domain: theeagle.com
-    quality: 8
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/d/ad/dadf58aa-c557-11ec-bd3e-37edff373c47/6269f98da11a4.preview.jpg?crop=864%2C454%2C0%2C61&resize=864%2C454&order=crop%2Cresize"
-        width: 864
-        height: 454
-        isCached: true
 
 secured: "yoZmnEoQa7NBOfB13Yrv+pt81SJEj4fvzu0OYTldijv76nbeuC52atwxj50+c3HHPsJIjc4xDaUv2E7uEJgCd44gTkFu/Q/tfQLv4h8FNsbt46MWqqrzfWFhdnNjMGHuSBWScbLuHt25brR1ULdqivZt45D6nVqPZFCBS/DEvQRC1B02Q8KUHC2txcY4mbdysTq07ZUBEXwvSxMQVVdp75Zm8iYJ6FcNVyyM4H0U7OJb+3TdKcpW12hACQKUE0L6tzlC+WLvl5/c0yre2oTsmec+khUg5FcuZ+0ykAxrNFv/V6Y1v/DIdW4O7iTPMvutjHTAvWwuVEbB9IthRt17tIqA9cCJwmgIAXu9a8b1sGRRKARQPqGCAjEWq8FGndGLPk6r6fV+AJ7sczzEITyEbm8wgoIJAp8hbFQCDMG9kgfh6EVupSOIckWJWQt4vPb/iD92HuKxLflVp8eUESM/a7Zxxm3bx47sitpgMHRkVmqT7VUUY+0AD192QzsAxCpwesgI0iSQCT9D6moxuKlxHg==;y/PfwsuNiE4Eti/9WS0IJg=="
 ---

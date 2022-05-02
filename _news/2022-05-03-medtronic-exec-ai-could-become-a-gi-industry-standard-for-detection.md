@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T17:04:00Z
 originalUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/medtronic-exec-ai-could-become-a-gi-industry-standard-for-detection.html?tmpl=component"
 webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/medtronic-exec-ai-could-become-a-gi-industry-standard-for-detection.html?tmpl=component"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Becker's ASC

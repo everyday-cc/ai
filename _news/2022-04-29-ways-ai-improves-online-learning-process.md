@@ -48,20 +48,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Using AI and Machine Learning to Reduce Wastewater Flooding and Pollution"
-    excerpt: "As part of the endeavor, Rockwell teams specializing in network and cybersecurity, AI, and machine learning applications are providing guidance as well as counsel and support on other emerging technologies. Rockwell software and hardware will also be part ..."
-    publishedDateTime: 2022-04-29T14:27:00Z
-    webUrl: "https://www.csrwire.com/press_releases/743181-using-ai-and-machine-learning-reduce-wastewater-flooding-and-pollution"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 53
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/Utility_Rockwell_042522.png"
-        width: 737
-        height: 438
-        isCached: true
   - title: "Mobile AI Market Size, Share and Growth"
     excerpt: "Market Highlights Market Research Future (MRFR), in its recently published research report, asserts that the global mobile AI market 2020 is booming and"
     publishedDateTime: 2022-04-28T09:59:00Z
@@ -76,15 +62,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
-    excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
-    publishedDateTime: 2022-04-28T13:17:00Z
-    webUrl: "https://stratechery.com/2022/meta-earnings-meta-spending-ai-costs-and-moats/"
-    type: article
-    provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 17
 
 secured: "XH+HcR1SSNbv1V18Oh+HBt1430nGCSJqW+Q/4u4lG3TmD7rQdOINYptRAcZ/H3bXKAbWtlw8wcn1qfKTTb8VC87/10bUHYOmzT7z9+oZm/NXZ/yUpa3ZcjpHwYX3i544FOjlrvSy5puIOPcHUzLyXuMoyFp2uwG1TsKtLTFICtntdcuKB1vfmTGVAgHFEq5zD3LVK5QGC4TVTH+kCrSofMda33sZzRVTjfjPgI/zYwGwO9a4YvT//X451rYxgjjbsnqv08OizT4/PkDn9IxjDtBNoyCiSl814RiI1JoR/pEvms22oAtaRRAfSFVpOjVBY5xeNWyjioCur6UGb0eYmfilh+soJ8F/6IT3EQH9hS6ON2t9pgTmevh0IbYQXfVcq39PxxewfcTXpg+ABNdrzuHPefeGR2WI370RWP97PCQvAaG8Vr35hsg7rB5EpMumf1988TB7+wgns1QlvjU+e+REWPNlLQwReLB3jmu4XQrcU+I+yJ9Z99M2SbJIwPmFJW0L9NomlvFQuCoQ7QOUDA==;sNoKqrh3PWgJQxfbMq9P3A=="
 ---

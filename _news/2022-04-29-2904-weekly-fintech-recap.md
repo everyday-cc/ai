@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/artificial-intelligence/2904-weekly-f
 webUrl: "https://financialit.net/news/artificial-intelligence/2904-weekly-fintech-recap"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,42 @@ images:
     isCached: true
 
 related:
+  - title: "How Fintech Can Help You Manage Your Personal Finances"
+    excerpt: "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions."
+    publishedDateTime: 2022-05-02T20:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "How Fintech Companies Are Using AI, Machine Learning To Create Alternate Lending Score"
+    excerpt: "One may well credit Artificial Intelligence and Machine Learning, which help in creating a favourable credit environment for a broader range of users, thus, providing means of an alternative lending score that doesn’t rely solely only on an individual ..."
+    publishedDateTime: 2022-04-30T02:34:00Z
+    webUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058"
+    ampWebUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 68
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1651242910.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Seven Unique Risks Of Investing In Fintech Startups"
+    excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."
+    publishedDateTime: 2022-04-29T13:11:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/04/29/seven-unique-risks-of-investing-in-fintech-startups/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "Why Gig Economy Has Become a New Trend in Fintech"
     excerpt: "Fintech startups are more suitable for this job ... Ventures, such as B9, Chime, Earnin, and Brigit, are able to calculate risks with the help of AI at incredible speed. They use it to provide gig workers with quick access to advances on paychecks with ..."
     publishedDateTime: 2022-05-02T08:00:00Z
@@ -39,6 +75,15 @@ related:
         width: 1800
         height: 1011
         isCached: true
+  - title: "Fintech firm Propflo closes pre-seed funding"
+    excerpt: "The business has a strong advisory team including the chief executive of Yopa and ex-Purplebricks managing director Verona Frankish, and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage ..."
+    publishedDateTime: 2022-04-29T13:00:00Z
+    webUrl: "https://www.mortgagefinancegazette.com/fintech/fintech-firm-propflo-closes-pre-seed-funding-29-04-2022/"
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 4
 
 secured: "kDmoZZpxmojXuUFq8bSCUJ6bjPVhotAMqg6uae/0gXhHdh+pdUoAd53GlXeDUGb9kb6lusZL7VXHxU/l7xqVoW4PHeqhegVWrx7qyWrpEPz6RtROhqGWJ+RmbjRJCzG6d8M4kZ0ChBzRVFP/Y2KTH94NLyW9LxfoO+ghkmCBLK+Dn2T07SJD/QXdWyiUHkPq3YCHWAoX5M4PHQyuAKJLM2RjeA/08+jmc8cjuHqaU3e3W/lfv0RpadtmdpC1+t4/2AfudewAmPIl2EEkjqFh1lty2LN5laNREE8bQ2C59LHKetOX8fklYM/5uAODoOqXHNJcKrbS4Nu2zjdlrcyG+FnTBd1Rh247HgUNatpEVj0=;ZFeeTgx84eRwACb03iqWdw=="
 ---

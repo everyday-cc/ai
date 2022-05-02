@@ -2,21 +2,29 @@
 category: news
 title: "Dell Technologies Expands Multi-Cloud Experiences Across Cyber Recovery, Data Analytics and Partner Ecosystem"
 excerpt: "The new service will join a broad portfolio of Dell offerings available through Microsoft Azure Marketplace and will allow organizations ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose and speed ..."
-publishedDateTime: 2022-05-02T17:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/05/02/dell-technologies-expands-multi-cloud-experiences-across-cyber-recovery-data"
-webUrl: "https://stockhouse.com/news/press-releases/2022/05/02/dell-technologies-expands-multi-cloud-experiences-across-cyber-recovery-data"
+publishedDateTime: 2022-05-02T17:19:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/n26940023/dell-technologies-expands-multi-cloud-experiences-across-cyber-recovery-data-analytics-and-partner"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/n26940023/dell-technologies-expands-multi-cloud-experiences-across-cyber-recovery-data-analytics-and-partner"
+ampWebUrl: "https://www.benzinga.com/amp/content/26940023"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26940023"
 type: article
-quality: 0
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Dell Launches New AWS, Azure Multi-Cloud Security Solutions"
@@ -34,6 +42,6 @@ related:
         height: 426
         isCached: true
 
-secured: "kJLJ9sEovqL+lsb+KGbo2/2yR5HBi8Eglm+VEcwZl/PnSmK3yMwkoGA2pd3zAVZl3v0ABe0AXMuL9gE57GTKMPaAMxmxTMLC7GfWDy3UYbuzhYCPpt4cnl4QLuTboGJi8McNxn4OzsBtIBVoZLHPt0wwjmgGic5l/h0tCl2HOTLAEsSPmyUPgbhp5EHDvegb2TnORpJBcO8/fZO9118GOQm8PPMwQG4d6sFdDhyeAlPplCt5DTuP9p5wtpg7CwsyyYzTaJ3PD9UX3DZ5gT9ogJkTpvrx/iW6/fAFfQri0P1q9yZuXBstHsGdXGv+nCzxDvNOL9v6Fdr39y5X4s5iOwBvDXw6vRXI30QB2IWO42qQznsWzKPoB6qDUOyemGb+VIt22as+m6FxqEPZfQOQMEcrV0bG5xyaS+veIIW2SYBI2o+4imxr3NhslIDk29+D/59rnNSRw48S7DmqhhbQbkJ+i/V/Gtz9mPgTmTzHzGdYG8Zq/ODlmfvCEdC6ojyqWzgpT4QhF7aoWaRRyyXr/Q==;sqe4Q3nNuOjIsit/GITzeg=="
+secured: "Ti4G1MRVSz8a/0dyC44V5bqRQeRNt4t8kr3waWJnYWpjAwFUeyGbizVAW3w4FDw+P3FX8/fGH75J4HAs4cKsUXvF+RZmDBwwKMHlFAAm0S6QmwfDudepFfX/rBhnzUgDgAp7Xq6y59ZWNjoVQunBJun9eM1zSssV1n1G3szwt3NqOPpVk13/adVoNyPH0ZOZlVCYjLHwklFyokT/nwN7LggTtCWhZ4zV+un0TsgOMJCYIeGwzgp3nGkRdBUKFAjZQhystMatMihbz/fOIkvWgC/lLp2+fw5R7qPhpQSaJURNWxwHnKCboMllv6otnuznw+EZPXA501FOiry9cjcSxQRc3Yc/hPnlDyEybOvxDXE=;7Y7BIarBAxICCs8kqAfCCg=="
 ---
 

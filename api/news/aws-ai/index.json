@@ -108,7 +108,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -357,19 +357,19 @@
     {
       "path": "_news/2022-04-26-udacity-digital-transformation-suite-now-available-in-aws-marketplace.md",
       "title": "Udacity Digital Transformation Suite Now Available in AWS Marketplace",
-      "excerpt": "AWS customers can use their existing AWS ... Programs include real world content for job-ready competencies in artificial intelligence (AI), machine learning (ML), data science, autonomous systems ...",
+      "excerpt": "Programs include real world content for job-ready competencies in artificial intelligence (AI), machine learning (ML), data science, autonomous systems, cloud computing, among other disciplines. The listing in AWS Marketplace builds on a 2021 AWS AI & ML ...",
       "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/cision/20220426SF35946/udacity-digital-transformation-suite-now-available-in-aws-marketplace/",
-      "originalUrl": "https://fox8.com/business/press-releases/cision/20220426SF35946/udacity-digital-transformation-suite-now-available-in-aws-marketplace/",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/udacity-digital-transformation-suite-now-available-in-aws-marketplace/article_b619ef03-944f-58bc-9123-a1f5b2cae897.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/udacity-digital-transformation-suite-now-available-in-aws-marketplace/article_b619ef03-944f-58bc-9123-a1f5b2cae897.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -379,11 +379,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T07:41:00-07:00",
+      "publishedDateTime": "2022-04-26T07:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

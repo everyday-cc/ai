@@ -51,6 +51,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Increase your content reach with automated document-to-speech conversion using Amazon AI services"
+    excerpt: "Reading the printed word opens up a world of information, imagination, and creativity. However, scanned books and documents may be difficult for people with vision impairment and learning disabilities to consume. In addition, some people prefer to listen to text-based content versus reading it. A document-to-speech"
+    publishedDateTime: 2022-05-02T18:40:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/increase-your-content-reach-with-automated-document-to-speech-conversion-using-amazon-ai-services/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 56
   - title: "City official says Cleveland police have facial recognition tech. How it's being used is unclear"
     excerpt: "A Cleveland surveillance camera at the Cudell Recreation Center on the West Side. The city's Safe Smart CLE program started with the installation of cameras at the city's rec centers. Based on publicly available records and a recent comment from a ..."
     publishedDateTime: 2022-05-02T16:01:00Z
@@ -109,6 +118,15 @@ related:
         width: 1280
         height: 854
         isCached: true
+  - title: "Time to talk specifics of new facial recognition legislation, Canadian privacy authorities say"
+    excerpt: "Lawmakers in Canada are being urged by privacy authorities to pass new laws to protect people from the risks associated with facial recognition, while also allowing it to be used by police in certain situations. Canadian Privacy Commissioner Daniel ..."
+    publishedDateTime: 2022-05-02T18:20:00Z
+    webUrl: "https://www.biometricupdate.com/202205/time-to-talk-specifics-of-new-facial-recognition-legislation-canadian-privacy-authorities-say"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 7
 
 secured: "Ot1/wRmx9QlHDoqKZZ//k5ruwi+RABOWHQCEp6KFbx6hDXDa9RD2i8XpfQkCd/RxsQ6S1Ev3BzfChpLXEbjybTOOzuF/xnM8ETMYPgU200RSgKCY3IoUqfMkmHnK6U6c4eSb/Al3rTuUfW2WZLT8LJSW1y3O+lqKm+UCOCaMs6/Uqo/EY2XHI4muOt6MsKUM78eP0r2UESuchewEydfH9y8pazILc5QSFHlfTfy/lVwBWYXXItkkGQyPL77fjumz8ZEhC0+OtAlEgMMhg5e1repdbHPFXIeAOg248tC8VGbDAmcZIYWocL5mGwxEXTmwFLsCzo10RwL9NiiJ0ahZWJH2nJsotCZFOZA1JnmPZbgd1uGW6x9oYHw8+SX79QDyt4vFpM44e2YHV3/aPQWSU3QXA3dU1c42DaB6tEukcNAFwG760tvx0uL86CQHsPVmom/53mWPdzJym1WPrzy+uVaWvJL5IhlMpUhXvFQWoQOmRq/2T5JTv2bzfT1mHhfxg6+23KknwUc22bXyyygsBw==;pPqagodaPLCjjYcR++PQWg=="
 ---

@@ -57,6 +57,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Increase your content reach with automated document-to-speech conversion using Amazon AI services"
+    excerpt: "Reading the printed word opens up a world of information, imagination, and creativity. However, scanned books and documents may be difficult for people with vision impairment and learning disabilities to consume. In addition, some people prefer to listen to text-based content versus reading it. A document-to-speech"
+    publishedDateTime: 2022-05-02T18:40:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/increase-your-content-reach-with-automated-document-to-speech-conversion-using-amazon-ai-services/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 56
   - title: "City official says Cleveland police have facial recognition tech. How it's being used is unclear"
     excerpt: "A Cleveland surveillance camera at the Cudell Recreation Center on the West Side. The city's Safe Smart CLE program started with the installation of cameras at the city's rec centers. Based on publicly available records and a recent comment from a ..."
     publishedDateTime: 2022-05-02T16:01:00Z
@@ -101,6 +110,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Time to talk specifics of new facial recognition legislation, Canadian privacy authorities say"
+    excerpt: "Lawmakers in Canada are being urged by privacy authorities to pass new laws to protect people from the risks associated with facial recognition, while also allowing it to be used by police in certain situations. Canadian Privacy Commissioner Daniel ..."
+    publishedDateTime: 2022-05-02T18:20:00Z
+    webUrl: "https://www.biometricupdate.com/202205/time-to-talk-specifics-of-new-facial-recognition-legislation-canadian-privacy-authorities-say"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 7
   - title: "Ontario's privacy commissioner joins national call for legal limits on the use of facial recognition technology by police"
     excerpt: "TORONTO, May 2, 2022 /CNW/ - Ontario's Information and Privacy Commissioner, Patricia Kosseim, and Canada's federal, provincial, and territorial privacy commissioners issued a joint statement and guidance on the use of facial recognition technology by law ..."
     publishedDateTime: 2022-05-02T15:38:00Z

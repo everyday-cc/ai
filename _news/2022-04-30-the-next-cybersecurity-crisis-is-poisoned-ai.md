@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can close gaps in cybersecurity tech stacks"
-    excerpt: "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments."
-    publishedDateTime: 2022-04-28T04:01:00Z
-    webUrl: "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/"
-    ampWebUrl: "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all"
-        width: 1200
-        height: 618
-        isCached: true
   - title: "AI, ML, & Cybersecurity: Here’s What FDA May Soon Be Asking"
     excerpt: "These include Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan, published in January 2021; Good Machine Learning Practice for Medical Device Development: Guiding Principles, published in October 2021 ..."
     publishedDateTime: 2022-04-29T22:09:00Z
@@ -53,6 +37,20 @@ related:
       - url: "https://www.designnews.com/sites/designnews.com/files/AI-ML-Cybersecurity-RNG74N.jpg"
         width: 770
         height: 400
+        isCached: true
+  - title: "AI-Powered Cybersecurity Protects Businesses from the Inside Out"
+    excerpt: "Accordingly, new AI-powered cybersecurity and threat intelligence software solutions have emerged to help enterprises secure their assets at scale and keep up with the ever-changing threatscape."
+    publishedDateTime: 2022-05-02T21:11:00Z
+    webUrl: "https://labusinessjournal.com/business-journal-events/ai-powered-cybersecurity-protects-businesses-from-the-inside-out/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/01/LABJ-placeholder-logos-1.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "+P+a9oLWuVsvDbWd9OKXYcmrw3D5FnD/XW5xt2X8zy5MbEY0d9+kPiYkO+ASpd+WorV3d2igoWUd0OvWVclQZdNOSVyuwdQmKMY9ywgRnEju7DutcmGkCngd+wIRvtQmKU1UKEldR8/VQ3gTQnIgg0MugqPp8MPwFK7/l5PRMJRzZgCAPjmE+cNY5mGbcH8RFgFx6yUiDiEZVz4RVtM+zkYeUm9x+HbHvk+zPC12OOaeKLNrCMPc2JrMXk8MRd/mTOg0q7rkJzeYa01+FhC0V4kz0++Cv/pLVcXhTvBpVISIfnjP3AF6/JnZtSYKFmdbWArhPpifBGSfq7sjUAqFXnMOlbtlXKWp5vAgvaClvuI=;7Cnakh/zeOoQbDucCJXDMw=="

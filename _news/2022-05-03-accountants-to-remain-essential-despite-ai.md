@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T19:22:00Z
 originalUrl: "https://www.accountantsdaily.com.au/business/16951-accountants-to-remain-essential-despite-ai"
 webUrl: "https://www.accountantsdaily.com.au/business/16951-accountants-to-remain-essential-despite-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: accountantsdaily.com.au

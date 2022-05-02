@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T17:59:00Z
 originalUrl: "https://www.biometricupdate.com/202205/ireland-to-share-face-biometrics-with-eu-to-tackle-crime-on-wider-scale"
 webUrl: "https://www.biometricupdate.com/202205/ireland-to-share-face-biometrics-with-eu-to-tackle-crime-on-wider-scale"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Biometric Companies

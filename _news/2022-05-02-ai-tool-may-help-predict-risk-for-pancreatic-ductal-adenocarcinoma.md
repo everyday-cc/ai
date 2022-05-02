@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T16:03:00Z
 originalUrl: "https://billingsgazette.com/lifestyles/health-med-fit/ai-tool-may-help-predict-risk-for-pancreatic-ductal-adenocarcinoma/article_f49478d9-cbcd-5d27-a615-2c4e53d8964d.html"
 webUrl: "https://billingsgazette.com/lifestyles/health-med-fit/ai-tool-may-help-predict-risk-for-pancreatic-ductal-adenocarcinoma/article_f49478d9-cbcd-5d27-a615-2c4e53d8964d.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Billings Gazette

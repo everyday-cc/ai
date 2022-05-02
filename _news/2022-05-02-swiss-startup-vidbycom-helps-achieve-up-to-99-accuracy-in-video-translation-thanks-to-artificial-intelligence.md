@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T13:45:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-2-swiss-startup-vidbycom-helps-achieve-up-to-99-accuracy-in-video-translation-thanks-to-artificial-intelligence"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-2-swiss-startup-vidbycom-helps-achieve-up-to-99-accuracy-in-video-translation-thanks-to-artificial-intelligence"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

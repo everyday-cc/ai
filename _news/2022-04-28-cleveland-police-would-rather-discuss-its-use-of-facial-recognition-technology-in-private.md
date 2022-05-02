@@ -9,7 +9,7 @@ ampWebUrl: "https://www.clevescene.com/news/cleveland-police-would-rather-discus
 cdnAmpWebUrl: "https://www-clevescene-com.cdn.ampproject.org/c/s/www.clevescene.com/news/cleveland-police-would-rather-discuss-its-use-of-facial-recognition-technology-in-private-38828899?media=AMP+HTML"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://img.utilityproducts.com/files/base/ebm/up/image/2022/04/force5_logo.626a9b99177c5.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Privacy watchdogs call for laws limiting police use of facial recognition"
+    excerpt: "Canada’s privacy commissioners called Monday for clear laws putting in place limits on the use of facial recognition technology by police. Federal privacy commissioner Daniel Therrien told MPs ..."
+    publishedDateTime: 2022-05-02T20:54:00Z
+    webUrl: "https://calgaryherald.com/news/politics/privacy-watchdogs-call-for-laws-limiting-police-use-of-facial-recognition/wcm/f47510ac-0a9b-4e06-a632-a4ed5f66efc5"
+    type: article
+    provider:
+      name: Calgary Herald
+      domain: calgaryherald.com
+    quality: 38
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2022/05/facial-recognition.jpg"
+        width: 957
+        height: 718
         isCached: true
   - title: "Canada should limit police use of facial recognition technology, say privacy commissioners"
     excerpt: "Parliament should limit Canadian police use of facial recognition technology to closely defined circumstances such as serious crimes, the country’s federal, provincial, and territorial privacy commissioners said today. Their statement was released as ..."

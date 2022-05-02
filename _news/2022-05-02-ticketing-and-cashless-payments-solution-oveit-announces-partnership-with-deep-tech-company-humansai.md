@@ -23,6 +23,17 @@ images:
     height: 674
     isCached: true
 
+related:
+  - title: "WCG and Deep 6 AI Announce Partnership"
+    excerpt: "WCG and Deep 6 AI announced that they are working together to drive more targeted patient recruitment in clinical trials and accelerate enrollment in vital medical research. The relationship brings together WCG's market position, and their investigative ..."
+    publishedDateTime: 2022-05-02T12:57:00Z
+    webUrl: "https://www.appliedclinicaltrialsonline.com/view/wcg-and-deep-6-ai-announce-partnership"
+    type: article
+    provider:
+      name: AppliedClinicalTrial
+      domain: appliedclinicaltrialsonline.com
+    quality: 17
+
 secured: "0e2XIzWyV1eeTQ9o4tYccaREFDOJ6/9s9dYKgFtnwerg+BN8/xKd7bEaMgVr+z5M+95QpcQ6s254BpXcrh8f+g2gINAkjZnE6TMAGLrda+8CznAw6F67TF6cwJ1OPRPsGjkjtsu8dvFbcrKFxUY6xmfB8sZrmSL/YdwdgPCMLOuN/tTt9w5HaRExwDKZOJmSP3PX+jDaTm+uQfdl6haSlS7cwaK83ohMN0101JtvdLuFZkK4WZ/FhUMKcc1WRKTCjJID8UqpZFzT3Q8yjc9xsLTCTXq1Px5z5dH36sifWbvJ7e1imYwsad6khcq3Iw5AJWxFORb0fpFmu4LckW7xzHRR8znRVdrZRJfFqsjbNfA=;C6ap7njQILzZRLlyKsr7iA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T17:50:00Z
 originalUrl: "https://www.digitaljournal.com/pr/financial-influencer-links-media-with-artificial-intelligence-for-stock-markets"
 webUrl: "https://www.digitaljournal.com/pr/financial-influencer-links-media-with-artificial-intelligence-for-stock-markets"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Digital Journal

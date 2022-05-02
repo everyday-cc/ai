@@ -27,15 +27,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 17
-  - title: "Searchable.ai announces Constellation, a Unified Data Platform for productivity workers and their teams"
-    excerpt: "Searchable.ai announces Constellation, their unified data platform that brings together all the data and information that knowledge workers need, in one place. Searchable.ai launched in 2019 as a search company that enabled users to simultaneously search across all their cloud and local files."
-    publishedDateTime: 2022-04-28T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-searchableai-announces-constellation-unified-data-platform-productivity-workers-/2022/04/28/9592071.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "rYhlczQCYqaLqQatV0BgVdgDZ/DiWMhq7REf12ZatY78RP5mW4aax+x68LRYfPxC0qqmzRpZ5RToTcqlKUL3siat7RKzRjkqEzL1YuSzfkKLtlzWFp+dv69CoUH8CMUGXjmgHhWr6WOCSC5gTYNjNlwBEJgCemyc03djMG4fKoqIo6zWdJbIjffTY3sxcF0uKRpw5w6fScPIFIXR+y2eSWQt5QKyGocBeb9BPhiAYUWOwTUOEi1ymLFtIl2NeowJY7bAPrzaaMOsNLWf+WI/kZiOtNKdvjrKQbktOF6NXSCRPpvi3LarsshvtpreXnxS+NMr3EuqMVGWwhdMIgchK9uVraZhVCmMqyckhpRAnL8=;5QyVPc6qBvlSeTZ+e26EiQ=="
 ---

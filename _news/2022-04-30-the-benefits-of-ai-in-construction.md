@@ -42,6 +42,22 @@ related:
         width: 876
         height: 494
         isCached: true
+  - title: "Advice for deploying AI in production environments"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-02T21:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/"
+    ampWebUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "SwiL4agAn+GVvNifiD899QzbzPyBu2x7zQwzDTIPI0xF40gwVCxvDaibQRvk+4WmVqPq86rpFEuJx578OyRAldscX2s2NKCy3zOWwaOd/DYqRbQtNf/hawX1wB50MjJ3vi4q9MphY2wbXb/rn7NJ4F/5Lh+2hhMsgJXXFyDU69NytFgaK0dapDzSc66Oopzb3zv/FhURxzXSc1iwYfekKOAS86v9p9hIySbxstB1Bwnmn2Eef5/Nnu/TWz9h3KLGSnBOd+vWbv383lI+XoR2KsgUxYOuw4N86Ume+CSMIWDZoRkVudiKKfooMu/cFkw4zKJY0i+CEyuitEud9XRVgy2U3of2civTl6fVWp61D08=;GUpJsCab40gCBcr3qhOAWQ=="
 ---

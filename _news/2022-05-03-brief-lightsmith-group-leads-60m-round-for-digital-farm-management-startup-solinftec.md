@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T19:36:00Z
 originalUrl: "https://agfundernews.com/brief-lightsmith-group-leads-60m-round-for-digital-farm-management-startup-solinftec"
 webUrl: "https://agfundernews.com/brief-lightsmith-group-leads-60m-round-for-digital-farm-management-startup-solinftec"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Ag Funder News

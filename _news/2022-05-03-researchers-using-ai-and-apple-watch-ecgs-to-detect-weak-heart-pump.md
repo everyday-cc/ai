@@ -7,7 +7,7 @@ originalUrl: "https://www.macrumors.com/2022/05/02/apple-watch-ecg-weak-heart-pu
 webUrl: "https://www.macrumors.com/2022/05/02/apple-watch-ecg-weak-heart-pump/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use AI to detect weak heart pump via patients' Apple Watch ECGs"
+    excerpt: "Single-lead ECG tracings from an Apple Watch interpreted by an artificial intelligence (AI) algorithm developed at Mayo Clinic effectively identified patients with a weak heart pump. Patients were ..."
+    publishedDateTime: 2022-05-02T20:56:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg"
+        width: 2880
+        height: 1907
+        isCached: true
   - title: "Mayo Clinic’s new Apple Watch app uses AI to detect left-ventricular dysfunction"
     excerpt: "The Mayo Clinic developed a new app that transmits ECG signals from Apple Watches for AI analysis to identify heart disease. The application transmits ECG (electrocardiograms) signals recorded in non-clinical environments seamlessly and securely to a ..."
     publishedDateTime: 2022-05-02T17:41:00Z

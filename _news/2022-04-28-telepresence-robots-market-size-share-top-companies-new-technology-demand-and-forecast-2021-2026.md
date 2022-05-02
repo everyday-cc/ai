@@ -94,6 +94,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Deep Learning Market Size, Share, Trends, Growth Status & Industry Analysis And Forecast 2022-2031"
+    excerpt: "A report on Deep Learning Market was recently added by Kenneth Research into its database, which is aimed at providing the clients with the business growth and investment opportunities present in ..."
+    publishedDateTime: 2022-04-29T17:24:00Z
+    webUrl: "https://menafn.com/1104132253/Global-Deep-Learning-Market-Size-Share-Trends-Growth-Status-Industry-Analysis-And-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
   - title: "Event-Based Vision Systems Market Study Reveals Growth Factors Size, Share, and Competitive Outlook for Future 2021-2030"
     excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially ..."
     publishedDateTime: 2022-05-02T05:39:00Z

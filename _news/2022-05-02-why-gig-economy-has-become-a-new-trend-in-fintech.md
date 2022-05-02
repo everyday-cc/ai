@@ -25,6 +25,42 @@ images:
     isCached: true
 
 related:
+  - title: "How Fintech Can Help You Manage Your Personal Finances"
+    excerpt: "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions."
+    publishedDateTime: 2022-05-02T20:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "How Fintech Companies Are Using AI, Machine Learning To Create Alternate Lending Score"
+    excerpt: "One may well credit Artificial Intelligence and Machine Learning, which help in creating a favourable credit environment for a broader range of users, thus, providing means of an alternative lending score that doesn’t rely solely only on an individual ..."
+    publishedDateTime: 2022-04-30T02:34:00Z
+    webUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058"
+    ampWebUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 68
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1651242910.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Seven Unique Risks Of Investing In Fintech Startups"
+    excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."
+    publishedDateTime: 2022-04-29T13:11:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/04/29/seven-unique-risks-of-investing-in-fintech-startups/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "29/04 – Weekly Fintech Recap"
     excerpt: "Fintech Lender Sonovate Launches New Platform to Enhance Embedded ... Alex Preece, CEO of digital gift card provider Tillo, has joined Network B's advisory board The AI-based personalized offers platform Network B has recently enhanced its advisory board ..."
     publishedDateTime: 2022-04-29T09:43:00Z
@@ -39,6 +75,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fintech firm Propflo closes pre-seed funding"
+    excerpt: "The business has a strong advisory team including the chief executive of Yopa and ex-Purplebricks managing director Verona Frankish, and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage ..."
+    publishedDateTime: 2022-04-29T13:00:00Z
+    webUrl: "https://www.mortgagefinancegazette.com/fintech/fintech-firm-propflo-closes-pre-seed-funding-29-04-2022/"
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 4
 
 secured: "rcwWDNrX4cO7UnuFE5iR/z84pTJTQ0FXQ6SE8Iy4y2zl27CiugUAnYZY88S9gfiQ9Y4NeiQbuQQTzVWnDtoZRIaxoprzC+QOwuDG6Ux4aZyzh8YI3UAt2XhdyKJrSIuxo3qaWhZ+CI7kYZBg3/lDek6epY/WNsgmnhysesXuCBCOd+xGImjH/KQyLM2EyrJZ+a/unRA1o9d/u6vFsQntaVUCn+9FT2d2NV1qm9ITt8zhaqQF8uZgCD5PeeFjbiZqjVFg043zW9mx0lFkFpaTv+zl5yHc0dwzqX44MOZi7bOjDKsWGUVuKT2sPXmaCBr69MgXT1P25FUz86cQJH0evK0faJzf38jl+OGnuQkSkwXxuhfUEuUeO45wnbbAeEYJ7Oq1Uh1XFXKvDeNv8C9mlzevdQNFbh/QWglBusigNIqfyZwYYRzt/jE9vdkI6F5VhKtVA2APiD7kSrp8mSn4FLMTmeBf9WSgoROFeZ7OClBIhO12OtNsosJ7aOgZs4B4bb5zQuxUgWQIwgZvHCsQmA==;bT9w/B6zh3JK11MgPLJXug=="
 ---

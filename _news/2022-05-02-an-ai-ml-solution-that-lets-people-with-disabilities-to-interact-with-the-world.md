@@ -52,6 +52,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 7
+  - title: "Inworld AI Launches Inworld Studio, a Revolutionary Platform that Enables Developers and Creators to Build Intelligent Virtual Characters"
+    excerpt: "Based on the personalities and cognitive profiles defined by developers ... CRV, Meta, and M12, Microsoft’s Venture Fund. For more information, visit https://inworld.ai."
+    publishedDateTime: 2022-04-28T12:47:00Z
+    webUrl: "https://www.eagletribune.com/region/inworld-ai-launches-inworld-studio-a-revolutionary-platform-that-enables-developers-and-creators-to-build/article_95dc5f3b-1a9f-516e-96b2-58c29e8c7b41.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 6
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+        width: 600
+        height: 333
+        isCached: true
 
 secured: "8y2vCqqNYl1HESFJiTR476cG+rJmxkQouHa4siam0iz/44F3g46T5EtgwtHLcGmSLuRplsmp/fg8XUPIeRdebDtdWZebCG48stw8Dk7SJbu/eH9FoVsv6VQuJBx6Qm2Ri89uYEGuVic3qZuRnlTqwmsl5+0ntPYSrEBAmkBUELFwvFrJchqBz2bepDXAPxxCjUBDHWVfnJV6xharIZttZeiUK/uYtMMUSPOpgbwhbMjl9UCPAwW8zv8bVnEKmaR7BayYArlG1FZxD1wJNzVkZ23dAmG26YmeigGfOmnmRav1X1pam4DdB5o1gXRKZG6lRgu3tIEvzszEb7Cs4SCJ9M7mfLocWmJuR4oi7kiV8aE=;5ZqjQZRK9hOM0Bs3A5d0jQ=="
 ---
