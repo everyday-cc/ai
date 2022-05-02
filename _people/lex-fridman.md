@@ -18,7 +18,7 @@ website: https://lexfridman.com/
 twitter:
   username: LexFridman
   url: https://twitter.com/LexFridman
-  followers: 1342006
+  followers: 1342817
 
 googleScholar:
   url: https://scholar.google.com/citations?user=wZH_N7cAAAAJ
