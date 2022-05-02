@@ -43,20 +43,6 @@ related:
         width: 750
         height: 420
         isCached: true
-  - title: "How neobanks are set to disrupt $31 bn Indian fintech market"
-    excerpt: "The $31 billion fintech market in India is set for a disruption with the emergence of neobanks and to scale and secure a foothold, these digital-only banks should acquire primary bank accounts, a new report said on Wednesday."
-    publishedDateTime: 2022-04-27T10:32:00Z
-    webUrl: "https://daijiworld.com/index.php/news/newsDisplay?newsID=952375"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/arun_270422_bnlk.jpg"
-        width: 500
-        height: 400
-        isCached: true
   - title: "How neobanks are set to disrupt $31 billion Indian fintech market"
     excerpt: "As the third largest fintech ecosystem in the world after the US and China, the Indian fintech market is poised for further disruption with the emergence of neobanks"
     publishedDateTime: 2022-04-27T11:53:00Z

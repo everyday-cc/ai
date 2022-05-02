@@ -8,8 +8,8 @@ webUrl: "https://www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-de
 ampWebUrl: "https://www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai/amp"
 cdnAmpWebUrl: "https://www-ifa-com-au.cdn.ampproject.org/c/s/www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai/amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.ifa.com.au/images/News/Catriona_Wallace_ifa.jpg"
@@ -43,6 +44,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "0sFud6QQtqavGKGjFIs3i6EnQj2jDHoQk4lj5F+La7uKD0Js/RYJKAV+ZEHGqyvGa/4Hq3J3TfZ+XxKaCjuSk8NOE3NqvceB0GoS6cNCLLOb+a1ncuaVjFbeowcQoSIr7nhIqfsVagsuuR+wK38jGgHOWwZCHsIAs4tfrh92JdBCwrT1sxMhD4/IO8Uc6mbFiLQNEQTzlgo6U4GBNNn44lTgLWkIUOMxKGFpNi56cqOizARmgJccAYPRh6Q5RAxJr+AVWDhzZoaHvHnNz0+FoJrxl/WVXBlX8fuuWG5AM+RPzjrHWrRhGKiWtbjLAT2594NnB3c+ANTKhgUEvrju5lcHBT1XtOnM5QaT0h9GUhk=;UtR3m/QQmrZwtGHX/iy0mQ=="
+secured: "SspAId1baZnJnA3yKWGWQgUQAnKf68YZ1KVH3msuS2XXvW2uXjETpkzOTgkt0jQZou/6303zH/cYEzZrvGp31XDAVPxnPNsjcOOFa3/yaYVWHDwqTWL9mGlqGxJT8FhS0h6nySiKHk8p40UqoklFsEbqYW50HqIvjMoc9s+C5ykGhnQH7XfConrG/um9QUFtmbsl+crHyq55uhyqA3FCJW+VcGX7BcMtpESqH/Z8HUZy+pV1wqtNRYbyq8LZPDuQyEJL5AVLeNY8UVAb3mE+7LRJhF13KpQRvAdGYdOaWuANYES5lohc6L4Nd2t4Qdd/HG3ofW4c8+mV9nE/YlwkIiBmOWSFA8OLF5s2m7vbYLinQmeb+o9F7Ifk2znQ+glp4SXwEoggtZIOitvgyHQOoRJ6VmKQSU9icu68BND/vfU4RuHaf/MSVnTMyBIZ72pGXKrOLUJ37sQipA7p1B13lzBKJjhjHoHpTPLaC70Ia+S5a1wSJWic3zL1Vx5Z0y2qy7X5j79+NJdcEU+OqRrmlQ==;+jbI4SgnxGWiC4XmfMV+ZA=="
 ---
 

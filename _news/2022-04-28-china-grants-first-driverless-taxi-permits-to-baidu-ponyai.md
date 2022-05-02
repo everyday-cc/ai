@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
+    publishedDateTime: 2022-04-29T12:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
+        width: 400
+        height: 215
+        isCached: true
   - title: "Beijing grants Baidu, Pony.ai new driverless robotaxi permits"
     excerpt: "FILE PHOTO: A logo of Pony.ai is seen on a Lexus vehicle equipped with the company's autonomous driving system, which will serve as a robotaxi, in Beijing, China May 13, 2021. REUTERS/Tingshu Wang HONG KONG (Reuters) - UBS Group's China country head David ..."
     publishedDateTime: 2022-04-28T05:27:00Z
@@ -103,20 +117,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ap22118230409001-sixteen_nine.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
-    publishedDateTime: 2022-04-29T12:01:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 66
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
@@ -222,6 +222,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Baidu and Pony.ai are operating first self-driving cars without drivers in Beijing"
+    excerpt: "China’s Baidu and Pony.ai are operating the first autonomous vehicles in Beijing without any safety drivers. Technically a driver is not required for the vehicle, a supervisor will be present during the rides somewhere or the other within the vehicle."
+    publishedDateTime: 2022-05-02T02:36:00Z
+    webUrl: "https://techstory.in/baidu-and-pony-ai-first-to-operate-self-driving-cars-without-drivers-in-beijing/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 33
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fad892af2965d0d226f47c4781e86afd8100481f/2022/04/28/91b6e013-2d7f-4256-a0a2-4ff6c79c7a35/baidu-apollo-passenger-ride.jpg?fit=bounds&auto=webp"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ditch the driver: U.S. and China race to make self-driving taxis a reality"
     excerpt: "China has passed a major mile marker on the road to commercializing self-driving technology: On Thursday, Beijing granted internet giant Baidu the country's first license to operate fully autonomous taxi services."
     publishedDateTime: 2022-04-28T21:00:00Z

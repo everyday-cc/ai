@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Arm expands IoT solutions and adds to virtual hardware platform"
-    excerpt: "Arm announcements as part of its Total Solutions for IoT include new Corstone subsystems, new Cortex-M processor, new products supported on virtual hardware platform, and new Open IoT SDK Framework as part of Project Centauri."
-    publishedDateTime: 2022-04-27T10:47:00Z
-    webUrl: "https://www.embedded.com/arm-expands-iot-solutions-and-adds-to-virtual-hardware-platform/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 24
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2022/04/Arm-Total-Solutions-for-IoT-image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "/q7MJiDEWqDVGtOrna9aa1ZnpYlGsmBQbTbal/jqzL4+ujybPpkykJJUKy5IWt/tk0RFho+nVe+BZLiYrD8TxWDQW2ZB1IYlkfLuY5o06eSLjKuP8VBYLEd5tIjL5k7w5e0AcV6FllTcMzQyE0FK3puHzNe1/B/C0ep3NEmQgOocR9aIPa+o/RDMrYKts4yvVjQd/5dDnDYQFNBI9uWxDpRTS4B9ZF0fyNyPjQHm3LT6dT3LlEIrykc780NPmLyVoIFxMpunOa9b9N1hYSF99bdon6i5HpHg0ugJMMYqqfZUT2yxTB+cxOhwI8SuckYqCw2rStJWV7rE2PPqFWv7Oqyk5HtDlGVQeFWH51o7qqPVLj44VP381HgldprkWt0oHhZ9u3ijeNAS6WQkET+2ojntxUfSnW4GAC/zuYpVxHXUF3qsrAuVAnfQJErE9qD241ra1FiCnCsECyWZpYxB5Khv8mA7YVBmR8z4UGoAcRX83tpVGdX80P8FOhfcc80QlBhJv9YPsBfOXT0c0MxY5A==;D1+queJU27tf9K9s52Fg1Q=="
 ---

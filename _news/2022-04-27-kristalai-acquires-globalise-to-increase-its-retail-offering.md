@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Kristal.AI acquires Globalise, looks to enhance retail offerings"
-    excerpt: "As per Kristal.AI, the strategic acquisition of Globalise will enable retail investors to invest in global products via fractional investments"
-    publishedDateTime: 2022-04-27T09:57:00Z
-    webUrl: "https://www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings-11651052946321.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings/amp-11651052946321.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings/amp-11651052946321.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2022/04/27/600x338/tax_1648487569837_1651053401689.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Investment Tech Startup Kristal.AI Acquires Globalise To Widen Offerings"
     excerpt: "AI-powered asset management startup Kristal.AI has acquired global investment platform Globalise that offers access to US stocks, and ETFs."
     publishedDateTime: 2022-04-28T05:17:00Z

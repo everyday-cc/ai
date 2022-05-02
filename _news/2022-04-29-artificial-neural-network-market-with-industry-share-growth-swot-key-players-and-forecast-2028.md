@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Chip Market : Prospects, Trends Analysis, Market Size & Forecast 2030"
-    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
-    publishedDateTime: 2022-04-27T11:02:00Z
-    webUrl: "https://menafn.com/1104104053/AI-Chip-Market-Prospects-Trends-Analysis-Market-Size-Forecast-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 53
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?320558"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Edge AI Software Market Size, Share Growth, and Forecast 2021-2027"
     excerpt: "It is a system that puts Edge Computing and Artificial Intelligence (AI) together. AI is a machine made to performs tasks that otherwise require human intelligent. Together Edge computing and AI brings many breakthrough advancements like self-driving cars ..."
     publishedDateTime: 2022-04-29T10:35:00Z

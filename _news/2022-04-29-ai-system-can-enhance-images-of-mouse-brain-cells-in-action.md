@@ -46,12 +46,12 @@ related:
     quality: 17
   - title: "From blurry to bright: AI tech helps researchers peer into the brains of mice"
     excerpt: "Johns Hopkins biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes,"
-    publishedDateTime: 2022-04-28T14:45:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-blurry-bright-ai-tech-peer.html"
+    publishedDateTime: 2022-04-28T14:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/951096"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 14
 
 secured: "eYXx5iWJJ+Yxtz7sG7CxgoRPPKfPRuyi1YMtD+0zK+fN16kFYQm2Tp5/fgfeG6iyhJMTLHNVh88zfJD6YHwkTQo40Q9AFO4ani/RVZI1BRA3DJAZ8JJR8W2O84l6H+pRAgfpXO7A+kbcsYJrDyQ/Ue6C4orQcAJ1IS/dqDLejJH+s1dFfeKLQc860rMf9WTcC5q752qP8Vv/PAO9cD2CMF+I9YVMpphtc/uonv9zUOHupaRrlyISOUvIsptmuB/UfNepWocqHcfsrTZlnvdWhhnBlqqXq2chMMOo+IPbyypkNemNdg7ZglfHJfqrLa1Nn9AHnOuHdk8+XnFFhqMLLWT8Ba5yiP1sSrg/Qm+Zkb0=;19T8nElCVpo6Qx6vfHuChw=="

@@ -71,6 +71,20 @@ related:
       name: theregister
       domain: theregister.com
     quality: 19
+  - title: "Facebook’s VR metaverse development cost the company £2.3billion in three months"
+    excerpt: "The losses reflect Meta’s increasing focus on CEO Mark Zuckerberg’s vision of the metaverse, which he revealed alongside Facebook’s Meta rebrand in October 2021. Since then, the company has announced that it is working on a “massive AI research ..."
+    publishedDateTime: 2022-05-02T02:04:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/facebooks-vr-metaverse-development-cost-the-company-2-3billion-in-three-months-3216274"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 19
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/01/Person-wearing-VR-googles-to-explore-Metaverse.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
 
 secured: "FwUmm0qdWIogWnNKB46tWjlAbK5QtvLp3G+Wa/rkWv4R30/VJzaAugTVIwVI4/JB3QSoNeX3wPAGN22l5azseiUrauwslxt8UxeN1wuupfdRB2X+tEpmxV42PPSEWg0ml1YOvOzfb5R9LAQbqNx17aivIwcjJklEpiJuj+DCJTY1LQChoo94cIn3kAJAuXR2zoxt/JgL6gb6VwYkHrK9L6rm6BPUnAd6P/XTf9kN+EOGchnXHMRrefzMmvhFdGhJPEB1GtFS8lz8WplOCbFTGFn+Et9tRgXXVwYA+JapTk+jpy5/iQR3sTn5C5j3Ih0mUK+KCikY9lkfQH03lKRzedlsFVFIsm3rqlroWXRCFhqRP38/68S4efKwD5y0SuJSxR1IoNTvutS8V0eQfFGJWXOKlFQ8kgxHpGXxMKft6jJzGlIjai+hUgK3K/EsibQ0UIj4oUFRw7Azq59QIMf306TdUpcPo+H5O24lzCfPbwXXqSdigMjBMWFkQFq2toQSSBf8Y1/G9eiG6y5otvWIWA==;Ayf5zduSQ6GgBubUqkWdgQ=="
 ---

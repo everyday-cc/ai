@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
-excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
-publishedDateTime: 2022-04-28T12:39:00Z
-originalUrl: "https://wgnradio.com/business/press-releases/cision/20220428DC39024/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai/"
-webUrl: "https://wgnradio.com/business/press-releases/cision/20220428DC39024/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai/"
+excerpt: "Led by 468 Capital, the investment will drive team and product growth to further establish Synthesis AI as the leader in synthetic dataSAN"
+publishedDateTime: 2022-04-28T12:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
+webUrl: "https://markets.businessinsider.com/news/stocks/synthesis-ai-raises-a-17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
 type: article
-quality: 18
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -173,6 +177,6 @@ related:
       domain: enterprisetalk.com
     quality: 10
 
-secured: "UAsJsJ3IxmpnoRiHUCkOCJUAiH11jBlYDHTcOiYBAeiwmRO8MW4D7vWe9d9YCwTihO8mU+QpwZBdJLJUpSVMrW23T1ooxkUVzKARQ1CoAx9aCcybRhBacKl5GGxVHVTtOZidRy6W4PxJPyLtoQ3GyXJVPXkg5jG4P9Qg/Ismm3f1VPBIG8iyD6mL4OV1hAXhJHGX5Ss0vOHsNCo4H1dek2WplWPtfp+0zzOvjZatB4/5glWVTdmM4zaXxESqxgOJMTuq5ecyCVEpPeVixWbRkqsr+re9H8y9RrvWrhbpALIqZJyf7pzlUdT2KyxsE/GEqy7xhYBh7JNJrW4ikwtmyQEl+dLDymciytVv06LJMBs=;S0MhM64yQYTLQNsCtvHQoQ=="
+secured: "RD7lspqms2UosLqzzx9Idrj7w3jVTgC4Naj4b41LFfZVcbyjEL4/sb31uffJ/Rx6hIGa8kXXgPYpzw5wDCCQHq2J6mMApGxFfTyaQ+hQbbndo/SxakCX9DLzdDFUcItv45SYs+eoOcSYevhZ1blzbmVfIhhnJ9TDMboL6OMDGxwt8PDFPDbucynTQKvFXjeMgb+fngbWFtEQtIzdHIsUXainUPKHGDE6aa4hCP9hgmZFMlmtsv/IKcfr9RMx5co9o8q8vYwvQDP0hWXPGjNf1R07LOzCCXpzQCMK7iaaRqmNB8IcZ0abYE3ds09zl5tAKLb4Jdp32NO4Ds2YCJpx5Fr34Hkb5++jRrwh+Eihdmo=;GZd7EUd/f1WdDqi2RQ2VGg=="
 ---
 

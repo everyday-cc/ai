@@ -37,7 +37,7 @@ related:
     provider:
       name: Independent Financial Adviser
       domain: ifa.com.au
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.ifa.com.au/images/News/Catriona_Wallace_ifa.jpg"
         width: 600

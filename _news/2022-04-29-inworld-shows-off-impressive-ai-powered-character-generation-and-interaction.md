@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-po
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "An AI-ML solution that lets people with disabilities to interact with the world"
+    excerpt: "They find it tough to access digital content and services and communicate too on the online platforms. Here’s a start-up, DeepVisionTech.AI, which builds a digital interpreter solutions, using artificial intelligence and machine learning solutions."
+    publishedDateTime: 2022-05-02T03:48:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 70
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/ef95ah/article65372881.ece/alternates/LANDSCAPE_615/letstalk.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Untether AI and General Motors to Develop Next-Generation Autonomous Vehicle Perception Systems"
     excerpt: "With funding from the Government of Ontario through the Ontario Vehicle Innovation Network (OVIN), the project aims to increase autonomous vehicle performance by providing faster and more accurate vision response."
     publishedDateTime: 2022-04-28T12:00:00Z

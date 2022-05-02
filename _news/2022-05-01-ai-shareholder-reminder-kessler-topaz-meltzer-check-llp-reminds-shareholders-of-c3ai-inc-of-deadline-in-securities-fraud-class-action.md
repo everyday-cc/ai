@@ -18,29 +18,108 @@ topics:
   - AI
 
 related:
-  - title: "Bronstein, Gewirtz & Grossman, LLC Reminds c3.ai, Inc. (AI) Shareholders of Class Action Deadline and Encourages Investors to Actively Participate"
-    excerpt: "Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC notifies investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3” or “the Company”) (NYSE: AI) and certain of its officers, on behalf of all persons and entities that ..."
-    publishedDateTime: 2022-04-29T15:02:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/bronstein-gewirtz-grossman-llc-reminds-c3-ai-inc-ai-shareholders-of-class-action-deadline-and/article_a3a49384-7dc2-5595-ab7c-db1dd7417045.html"
+  - title: "C3.AI 48 HOUR DEADLINE ALERT: ClaimsFiler Reminds Investors With…"
+    excerpt: "NEW ORLEANS, La.–(BUSINESS WIRE)–ClaimsFiler, a FREE shareholder information service, reminds investors that they have only until May 3, 2022 to file lead plaintiff applications in a securities class action lawsuit against C3.ai, Inc. (“C3” or the ..."
+    publishedDateTime: 2022-05-02T02:04:00Z
+    webUrl: "https://www.lawyer-monthly.com/2022/05/c3-ai-48-hour-deadline-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100000-of-deadline-in-class-action-lawsuit-against-c3-ai-inc-ai/"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
+      name: Lawyer Monthly
+      domain: lawyer-monthly.com
+    quality: 37
+    images:
+      - url: "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2020/01/SLJ-PAA.jpg"
+        width: 300
+        height: 350
+        isCached: true
+  - title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
+    excerpt: "Please visit http://www.rgrdlaw.com for more information. (PRNewsFoto/Robbins Geller Rudman & Dowd LLP)\"> The C3.ai class action lawsuit alleges that the IPO's offering documents were negligently prepared and, as a result, contained untrue statements of ..."
+    publishedDateTime: 2022-04-30T22:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26919198/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-a"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26919198"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26919198"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
+    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-05-01T16:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n26921512/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadli"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26921512"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26921512"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
+    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
+    publishedDateTime: 2022-04-28T10:45:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220428NY39116/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1687309/LK_1920x1080_Logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
+    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
+    publishedDateTime: 2022-05-02T02:52:00Z
+    webUrl: "https://www.mypanhandle.com/news/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
+    type: article
+    provider:
+      name: WMBB
+      domain: mypanhandle.com
+    quality: 6
+    images:
+      - url: "https://i0.wp.com/www.mypanhandle.com/wp-content/uploads/sites/88/2022/04/DeSantisAP22055692316089.jpg?w=2000&#038;ssl=1"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "C3.AI DEADLINE ALERT: Bragar Eagel & Squire, P.C. Reminds Investors that a Class Action Lawsuit Has Been Filed Against C3.ai, Inc. and Encourages Inve"
+    excerpt: "NEW YORK--(BUSINESS WIRE)--#Action--Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, reminds investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) in the ..."
+    publishedDateTime: 2022-04-29T12:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=655992"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
     quality: 0
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
-  - title: "Bronstein, Gewirtz & Grossman, LLC Reminds c3.ai, Inc. (AI) Shareholders of Class Action Deadline and Encourages Investors to Actively Participate"
-    excerpt: "Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC notifies investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3&CloseCurlyDoubleQuote; or “the Company&CloseCurlyDoubleQuote;) (NYSE: AI) and certain of its officers ..."
-    publishedDateTime: 2022-04-29T18:01:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/29/bronstein-gewirtz-grossman-llc-reminds-c3-ai-inc-xa0-ai-shareholders-of-class"
+  - title: "C3.AI 48 HOUR DEADLINE ALERT: ClaimsFiler Reminds Investors With Losses in Excess Of $100,000 of Deadline in Class Action Lawsuit Against C3.ai, Inc."
+    excerpt: "NEW ORLEANS, La.--(BUSINESS WIRE)--ClaimsFiler, a FREE shareholder information service, reminds investors that they have only until May 3, 2022 to file lead plaintiff applications in a securities class action lawsuit against C3.ai, Inc. (“C3” or the ..."
+    publishedDateTime: 2022-05-02T00:51:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=656041"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "PYou9H0ygIAK4gLt7JQRWYN1jOZgPtCBZ8+6vQeceanOWIk9VhGRfHYynT0Qe8d43a/D2YaEPDGfg/igkk/tzqa5E1Ue9dpKUUa3w+PTXE8KrRJOs4xo2mBKDlTn3ymPmkfo8PluzclPB+soDvKht7yHJBmPdE5qRp9BCvfMazAVOe5VaAOXD2zcRcU+vSaBV4aBDwFRmy4V0RwoqWNVeutdx1xxmqMsL1gHJqGM1Jov2GLkm3QeKBlUMYSqEC0UDgvWvRgEBbAgqxChZnJFv/82L2sAEY6ZEnOsZKJKzuJIJ6xWMWjKOD+fZarKJS4KjYxT9WtLJoDSeZXNj7HO69jHPCSre3f1w1GInG3gw7o=;gTcF5C69rXyA0qmsRZXWdQ=="
 ---

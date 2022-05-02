@@ -7,7 +7,7 @@ originalUrl: "https://www.navytimes.com/intel-geoint/2022/04/27/intelligence-age
 webUrl: "https://www.navytimes.com/intel-geoint/2022/04/27/intelligence-agency-takes-over-project-maven-the-pentagons-signature-ai-scheme/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,37 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Future intelligence: AI and the gambling industry"
-    excerpt: "One of the fastest-growing areas is artificial intelligence, a process in which software is programmed to perform human tasks."
-    publishedDateTime: 2022-04-27T09:38:00Z
-    webUrl: "https://igamingbusiness.com/ai-gambling-industry/"
+  - title: "Pentagon’s flagship AI effort, Project Maven, moves to NGA"
+    excerpt: "Vice Adm. Robert Sharp, outgoing NGA director, said the fusion of Project Maven with his agency's current AI efforts will \"give us our millions of eyes to see the unseen.\""
+    publishedDateTime: 2022-04-27T19:50:00Z
+    webUrl: "https://breakingdefense.com/2022/04/pentagons-flagship-ai-effort-project-maven-moves-to-nga/"
     type: article
     provider:
-      name: igamingbusiness.com
-      domain: igamingbusiness.com
-    quality: 39
-    images:
-      - url: "https://igamingbusiness.com/wp-content/uploads/2022/04/16-18_TI_Can-AI-revolutionise-gaming_mainimage-1.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Artificial Intelligence Is Transforming Israeli Intelligence Collection"
-    excerpt: "Intelligence is a profession as old as time, but new advances in artificial intelligence and machine learning are changing it like never before."
-    publishedDateTime: 2022-04-28T13:00:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/how-artificial-intelligence"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
+      name: Breaking Defense
+      domain: breakingdefense.com
     quality: 17
-  - title: "Vic.ai Announces Spend Intelligence for Prescriptive Cost Optimization"
-    excerpt: "Vic.ai, the artificial intelligence (AI) platform for autonomous accounting and real-time insights, today announced it has broken ground on Vic.ai Spend Intelligence, a first-of-its-kind prescriptive AI technology for advanced enterprise-grade cost optimization."
-    publishedDateTime: 2022-04-28T12:32:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-8bbf3842fe2aa578bcfbc38f3a7f3f7e"
+  - title: "NGA will take over Pentagon’s flagship AI program"
+    excerpt: "Robert Sharp, said Monday. Referring to the Pentagon’s most recent budget request, Sharp pointed out that “NGA gains operational control of Project Maven’s [geographical intelligence] AI services and capabilities from the office of undersecretary ..."
+    publishedDateTime: 2022-04-29T11:59:00Z
+    webUrl: "https://defensesystems.com/ai-analytics/2022/04/nga-will-take-over-pentagons-flagship-ai-program/366227/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Defense Systems
+      domain: defensesystems.com
     quality: 17
 
 secured: "sN+Hmbqolrp1MHfREhXz2naALp4RZ8Z3J3r7fBHFD9U+IZmg24xIpYkqEB5DDGJeLDo/xKyen0jLSUkxvVTxXWIqUqdPaYXjkr4UeqYuJGD1CoyepauTzlqDOO+86+/0QFPxeOZsLNO5wofBaouTsIwlOBQ0ufUOxMIP14s5nqvTKdNLKlX6r1yMwMOKkL2xksQqSIfZnediP543cwXiCKnnYBFD9PuSXIlVLSLqMvr9WDmHrXH6j2hBZG0/x7izJFQ76i4aTt9/4QOiyHWFxAmryMJ821UnVd+VM6kVXtBURAiQIsvXhr5WNNFBC0gd7B1a+U0TJ+PIycmldI1yKV3S9nkBhLkxEw19PR/eBaw=;fAMGIlUdL96HSSUSPqrYcw=="

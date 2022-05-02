@@ -43,20 +43,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Ford-backed Cavnue seeks to rewire I-94 for self-driving cars"
-    excerpt: "Washington, D.C.-based Cavnue LLC, which is focused on designing roads for the future, was tapped by state officials in August 2020 to develop a \"first-of-its-kind connected and autonomous vehicle (CAV) corridor\" in Southeast Michigan."
-    publishedDateTime: 2022-04-27T11:00:00Z
-    webUrl: "https://www.crainsdetroit.com/mobility/cavnue-seeks-rewire-i-94-self-driving-cars"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/Upscaled_stills_Highway_Cavnue_smaller-Main_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ford-backed Cavnue seeks to rewire I-94 in Detroit area for self-driving cars"
     excerpt: "While autonomous vehicles do already operate in limited capacity in Michigan, Cavnue's development plan revolves around creating a dedicated lane with the necessary infrastructure in place."
     publishedDateTime: 2022-04-27T15:00:00Z

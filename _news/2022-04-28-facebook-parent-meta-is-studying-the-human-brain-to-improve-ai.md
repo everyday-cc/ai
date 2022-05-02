@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-
 webUrl: "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/"
 type: article
 quality: 51
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       name: theregister
       domain: theregister.com
     quality: 19
+  - title: "Facebook’s VR metaverse development cost the company £2.3billion in three months"
+    excerpt: "The losses reflect Meta’s increasing focus on CEO Mark Zuckerberg’s vision of the metaverse, which he revealed alongside Facebook’s Meta rebrand in October 2021. Since then, the company has announced that it is working on a “massive AI research ..."
+    publishedDateTime: 2022-05-02T02:04:00Z
+    webUrl: "https://www.nme.com/en_asia/news/gaming-news/facebooks-vr-metaverse-development-cost-the-company-2-3billion-in-three-months-3216274"
+    type: article
+    provider:
+      name: NME
+      domain: nme.com
+    quality: 19
+    images:
+      - url: "https://www.nme.com/wp-content/uploads/2022/01/Person-wearing-VR-googles-to-explore-Metaverse.jpg"
+        width: 2000
+        height: 1270
+        isCached: true
 
 secured: "UqjBIzWyE5iTFTYn0K0uM5XbklzQpAgLhG4rBvKP4dq9ru6a2hVH136yawwkSE85ZSxthw2xRdAIiXbHMICt3tYdfGZvZoPqpAkzJiguLoSd9Swj4AsbzlMV42JZsaXLBPsldCCRz3KECuZOaquWwFv6Nl0ydG+OuSCCnMEgQAdN2X38FApgasdBis6xzpm37T8YuMJBwzZVTr5b4v4AA0SZIFEu2O3sQ7Cd2pGV7EwZCwNMadd6rbncGhydVvZsOetmmFyH6YfjtnTFAzgVDRGr12vBj+AFb6BUUV03QokYnFwzeBA+/omvlsPTSK4q9zDSva5GgLAIP61j6FJUdEwqg3Clcd0mzdJFbRSQO40JWaIKkowMA+RqYxC/5QQUEBMCXE1gNeXAmZkBHkqYMPXYM1fmYn8ZjJrzQF+suCRW5wOmSA6xitLAOrUHHjEetgq+8PR9jNZektZlDmdKxuus+FpVYGeNl7Fl6LZUi0dQvR89WVopc5B/QDqvFSg+AB50d9FzcScKJhafMkPaJQ==;wKqG8bCAeAmpXA/4cKQdTQ=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Service Robotics Market to grow with 24.6% CAGR from 2022-2027"
-    excerpt: "Global Service Robotics Market by Segments (Transportation & Logistics, Professional Cleaning, Medical Robotics, Hospitality"
-    publishedDateTime: 2022-04-27T10:58:00Z
-    webUrl: "https://menafn.com/1104102162/Global-Service-Robotics-Market-to-grow-with-246-CAGR-from-2022-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?320558"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence (AI) Market To Witness A Outstanding CAGR Of 48% By 2027"
     excerpt: "Market Highlights Artificial intelligence can possibly switch the world up us by modernizing the manner in which we convey, work, and direct our everyday"
     publishedDateTime: 2022-04-28T09:49:00Z

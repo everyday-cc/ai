@@ -32,15 +32,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
-    excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders ..."
-    publishedDateTime: 2022-04-30T23:00:00Z
-    webUrl: "https://ktla.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 0
 
 secured: "sDCWoKXbzIWkE1UkSvf6O2VWrYqXA6fkPJiYp4lSjAd/qyarBeB3mglkHdjTN8QdZPByOVw+Pfi5NS8VQ0sK/obsLAzX7lKalx/cSmEU0x4i4AczBjBUK9vx2q2j7v+fM8xeWEAdm2NxT44eMnJ6wNVCytfLTEWiajC0CtPk+R2yL+mYQHDzwk4siOVhqIb8M7S/9uMaXPibMxmTJSTthmGIcEcKNajzbeBwJAdq+/WmTaJbcUOBiW0zABXZywG/p3l+3kSmNYWKpF593/8fhje9i+4N414Jfzi73+iFE0cNGjenwF+NuL25kQBpVPlYlEnDq0wYb1RypqOgWDj6UklFT+FFa+TNDpZxpx6GF+ie6PFT4A6Ta4EkxBCslHFF/s0JBbFG94a7ZUiotR5kKEJ39MEaJ8Jw2x2MrV7xhF52QkBG6q2CEWx1sxN/e1rfIuIpZjwKxE4rbLFQiWnj+hnZhBNjakkwUrIeA4AGatrDSkMIM+0OTxZoWnRIdlZwy+HKECk9F39QsFcQ/C0whQ==;1d9Mh8AZy2+eVhvOE3Lk/A=="
 ---

@@ -1,48 +1,29 @@
 ---
 category: news
-title: "Pittsburgh Welcomes Plus One Robotics"
-excerpt: "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ..."
-publishedDateTime: 2022-04-28T00:00:00Z
-originalUrl: "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles"
-webUrl: "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles"
+title: "Pittsburgh welcomes Plus One Robotics"
+excerpt: "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas."
+publishedDateTime: 2022-04-28T00:40:00Z
+originalUrl: "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/"
+webUrl: "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: The Robot Report
+  domain: therobotreport.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg"
+    width: 770
+    height: 500
     isCached: true
 
-related:
-  - title: "Argo AI expanding global headquarters in Pittsburgh"
-    excerpt: "Argo AI is expanding its global. The company is planning to take over almost all of a five-story building in the Three Crossings Development in th"
-    publishedDateTime: 2022-04-27T09:15:00Z
-    webUrl: "https://www.cbsnews.com/pittsburgh/news/argo-ai-expanding-global-headquarters-in-pittsburgh/"
-    ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/argo-ai-expanding-global-headquarters-in-pittsburgh/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/argo-ai-expanding-global-headquarters-in-pittsburgh/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/07/16/75b57101-add6-4933-8986-e1ff8ad817c4/thumbnail/1200x630/06355532a3a715d63d2c611317dcb9f8/argo-ai-strip-distrit.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "LOfWSZoTPvnhn6wGwRj9YWMS2EIKcVdoqCUl+HzY3Wx55xzQqjjftaz6vr9wc98o/XtFObfjEYMxJrJRmVxwF1sZDi399YDY6ifUmsQfyYHf9j/V6cWwxQN6nxqwI9HZuuwzqG4TywaA8ezxUq1vSq6ksrFhmctVW4oGeFk4A/n4crBrvh2NqWXA5DEANj0HZjEXbRzCOFWkeaWdipi9IgurV3eLo7if17Fx5fUnqDkSDjt0U1BF2iPPK/3Hda2cop/2qe86lVCs4vkE0gtZiXiSScznREg8MpVTxwOqlbVRZradtm8Zz2AHZ6hJCMDaKF81/d8vKx9uqzCmvEXvc0qIgElYkHp5YnpboKweq2I=;fdj2k8GHaIHxN+rINXo6pQ=="
+secured: "iags0QYl1v5Tem12OTirkQH4EyiGzKgHlddwCkF/xhZT+JPdId8FhRMqzN6aP1bo4s1YjA/KMn8tQP+3fTI5PGjy6/QZPN+qRL7xDx+DBDSPhZE/rc41eibiEr6b8bfaLfil73vuoBfMQqNCSq8S9R9JOeXEdTnQ6S3f7i3ORMWE8n5o4Ym3eOWDTVGuhbolrmRi+rjFzuHwnXfv3QWMKRtrn1Mo/ze1iBA9IHRvNo2BaxbpXy/7mroiY3YdYT+MwTGqddWLblzcgVojwCwKjL5ufC/dx0J3RszLjeqBYH9xAkD++XNE88xlJa4BsjWWGsuoKDo6CeFFVPCb9j/N3Ev1lvVHtzaK6D13mP+JbZ8=;3siOXmFQfkFrRP/L8hgDKA=="
 ---
 

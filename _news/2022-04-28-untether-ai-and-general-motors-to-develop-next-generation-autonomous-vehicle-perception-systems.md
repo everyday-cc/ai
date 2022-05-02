@@ -35,6 +35,22 @@ related:
         width: 1024
         height: 541
         isCached: true
+  - title: "An AI-ML solution that lets people with disabilities to interact with the world"
+    excerpt: "They find it tough to access digital content and services and communicate too on the online platforms. Here’s a start-up, DeepVisionTech.AI, which builds a digital interpreter solutions, using artificial intelligence and machine learning solutions."
+    publishedDateTime: 2022-05-02T03:48:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 70
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/ef95ah/article65372881.ece/alternates/LANDSCAPE_615/letstalk.jpg"
+        width: 615
+        height: 383
+        isCached: true
 
 secured: "1O66XB8MvBAdxSIbXpUcMjSxBw3m3QeO4crbp3SsAEPZa4n4DYc1JvZZklLV+CB7aWTuM+d8wrvE0OZUzlbsQmOZqzFwVIV3Vr/utxLt/bhEaczHTN/OGfwIocNeCqh8dio1RHdceHUcwuSffvqyoJhQghwl4e5WnrCKELbzl2cx2i0JSUidcv+81I7Su4/YhNYzN4dY5tibNuq2Ust6PLnbcZNpnWItXL73jU0DFBLn3Bf4BwsJBH1OJAkpuUylNsAMQF9tHgu58WRd2T++8/5sxWnR/+Iby0yf7eQo7jOvGFFchk8bOoox41RxTrlwvRaf+0DvT/bHQ+bFB6mRQoGQFcLLtiVVCXHncgfrqjI=;PVZ/0KdgmY5f7g6+p/E6ig=="
 ---

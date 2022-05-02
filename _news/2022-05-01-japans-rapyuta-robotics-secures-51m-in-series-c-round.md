@@ -7,7 +7,7 @@ originalUrl: "https://thebridge.jp/en/2022/04/rapyuta-jpy6-4b-funding"
 webUrl: "https://thebridge.jp/en/2022/04/rapyuta-jpy6-4b-funding"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1240
     height: 780
     isCached: true
-
-related:
-  - title: "Rapyuta Robotics Raises USD 51M in Series C Funding"
-    excerpt: "its cloud robotics platform, rapyuta.io, utilizes advanced control and artificial intelligence technologies to improve the efficiency and safety of warehouse operations, enable multiple robots to work harmoniously together, and create a remote-controlled ..."
-    publishedDateTime: 2022-04-27T09:20:00Z
-    webUrl: "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 69
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/rapyuta.jpeg"
-        width: 333
-        height: 333
-        isCached: true
 
 secured: "oJEqWYlaIb4kVyUhDChviC0ghY3arJeRtMuQm9EZUuzG8SzpoFm9Y7d+TdhAj5sxMi1LK6JMzEcHdcvJcugoBcWwuPbNjE6Njfx0J7N/Ju8Blp6O+dm0w/OhYrIJ2KRjkz0afHk8xeZg7ufCen9IiiEa4TwLJ2vR9pdxerpsqgoD2VM8mqZ4TMbde6RpyzddZWf+tCFwkO1M0Q9LoOvN7rfJIGooBvWxuRJnG+jZdzQoTlttjmpOhFRv2tImCzIKz78tXyjAju1CKkPTpxe+Y0v6Y+Dcsxt3GuXEN+on2ezNbzi2m4Rwi0DB1cke0+MpEqNvOBjgkmPLPPkCuwpHaMwCTfEqYjtG/qzC8frqoyDgxQ/AENZxQPvJVKO/0TnqODW2yScqA7sZflWxVDrELmwYG2c3aIx1++OhywoF10bjpNKrJ1gOSzxC/8TMhmm6sn8kiSDoP5g5EHHJ1z4Fg6rsqwIlNJqw84sfmO02TB3ue8yJdlr5juY8R6HdSqzqyGfdx88H50j53isojrEgSg==;vQpQw3FE6vRqZs2T1Qz38w=="
 ---

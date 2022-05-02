@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Chip Market : Prospects, Trends Analysis, Market Size & Forecast 2030"
-    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
-    publishedDateTime: 2022-04-27T11:02:00Z
-    webUrl: "https://menafn.com/1104104053/AI-Chip-Market-Prospects-Trends-Analysis-Market-Size-Forecast-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 53
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?320558"
-        width: 375
-        height: 250
-        isCached: true
   - title: "AI-Enabled Testing Tools Market 2022 | Scope of Current and Future Industry 2030"
     excerpt: "AI-Enabled Testing Tools Market is predicted to be valued at 1.27 Bn in the year 2030 and exhibiting a remarkable 16.9% CAGR during the forecast period 2022-2030. Telecom companies are leveraging the potential of AI to manage and assess big importance of ..."
     publishedDateTime: 2022-04-29T05:25:00Z
