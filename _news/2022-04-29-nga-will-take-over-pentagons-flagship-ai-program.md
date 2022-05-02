@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Intelligence agency takes over Project Maven, the Pentagon’s signature AI scheme"
-    excerpt: "Project Maven is the Department of Defense’s most visible artificial intelligence tool, designed to process imagery and full-motion video from drones and automatically detect potential targets."
-    publishedDateTime: 2022-04-27T13:50:00Z
-    webUrl: "https://www.navytimes.com/intel-geoint/2022/04/27/intelligence-agency-takes-over-project-maven-the-pentagons-signature-ai-scheme/"
-    type: article
-    provider:
-      name: Navy Times
-      domain: navytimes.com
-    quality: 32
-    images:
-      - url: "https://www.navytimes.com/resizer/1TgZGDO-QxWmwXPhm39RiFmrMOg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/LFVFZSZNRZHIHKMH6KS5KOZSMY.jpeg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Pentagon’s flagship AI effort, Project Maven, moves to NGA"
     excerpt: "Vice Adm. Robert Sharp, outgoing NGA director, said the fusion of Project Maven with his agency's current AI efforts will \"give us our millions of eyes to see the unseen.\""
     publishedDateTime: 2022-04-27T19:50:00Z

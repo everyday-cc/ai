@@ -1,20 +1,26 @@
 ---
 category: news
 title: "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022"
-excerpt: "Varma will chair the session and discuss how artificial intelligence (AI ... IMPLICITY® develops AI and knowledge based algorithms to reduce healthcare professionals workload and allow to potentially predict patient health status. The IMPLICITY ..."
-publishedDateTime: 2022-04-19T13:30:00Z
-originalUrl: "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
-webUrl: "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+excerpt: "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research."
+publishedDateTime: 2022-04-19T12:30:00Z
+originalUrl: "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+webUrl: "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
 type: article
 
 provider:
-  name: CBS 42
-  domain: cbs42.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "Pd2xDdMXi/pfWFuLgCrmJtbpU58hM+V2KTPaUGub7iGahvfHE5rnZz/QRzk5gNkAxperzCfQqsNyqwsBupHcg64a6HHgMMfBbpWYQJK8SpEcAc45fOCsOG4/1Wv2W6eOlK22eSKKmrZSAbuh5Hpkkhm6lf4qMD4o6ewRPNUNRfmeA20OD/ewhfItFVdCDmEe3jIjDy6xA/zSUa8Xiz+g59NecPYSr8RJw9l4LMMnPuyEXXJb+liqjdQy+rZ5RCH8SQOM/PxrYZsi3AToumsXDzePCOgVhbXI7xpWb9rz8ND/UEgFvKy+2R95XYdg8D9eZZWVav3CRxIMBvEVnH8b++DnWnUe3JZ8jis3GorZfzg=;6mxeCSsveniIZU/uMkPJbw=="
+images:
+  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+    width: 800
+    height: 340
+    isCached: true
+
+secured: "Vs4zl4jTH42qN1cE7OXBXCc9bLQJ0B8UE9DqmRt/NiXZcdCQRIVH2eLLPHby9JZwuKifrmk4CnfDQ5ig+Q6UdrzkBhapfc39WqW9/Hvm8DBskE0CkA2XWDdKulZOAchDhfbjtW3HehM2lC7Pm3oOOBq+SN0xJyFVYvYRRyqfnseWfR5dmrzv7dIm0sD6P37F6dRAD5J1TAL7wGJI/J9PVyrwdsi5IHoaypM/wVep7++kwl/mVjolq04CZ0IJKLVBP240pLFh7l1M5es0o9mx838RdI3wxXvYLznLstNLe/lVer4NImnCzo0LuZweNo6zrnAFSeAv8FkofjT5jtzaDgk1FJprkd6JnkyUS9JgIeo=;U81iV5JmqzgGRZ0ipzBvFg=="
 ---
 

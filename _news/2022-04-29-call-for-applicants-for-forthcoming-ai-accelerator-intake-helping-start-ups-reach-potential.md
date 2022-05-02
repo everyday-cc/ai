@@ -68,6 +68,20 @@ related:
         width: 737
         height: 438
         isCached: true
+  - title: "AI for the Trades"
+    excerpt: "Anmol Bhasin, chief technology officer for ServiceTitan, said he previously worked with AI at Salesforce.com Inc. and Groupon Inc., and his goal is to bring the same types of services that those ..."
+    publishedDateTime: 2022-05-02T07:05:00Z
+    webUrl: "https://labusinessjournal.com/featured/ai-for-the-trades/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/04/PG01_ServiceTitan_Event-for-AI5-1-e1651267189431.jpg"
+        width: 1799
+        height: 1200
+        isCached: true
   - title: "The key to lowering colonoscopy screening cost could be AI, study says"
     excerpt: "The use of artificial intelligence detection tools has the potential to save the U.S. millions of dollars annually, according to a study published in The Lancet Digital Health. The study administered the Markov model microsimulation of conducting colonoscopy with and without AI for colorectal cancer screening."
     publishedDateTime: 2022-04-27T18:09:00Z

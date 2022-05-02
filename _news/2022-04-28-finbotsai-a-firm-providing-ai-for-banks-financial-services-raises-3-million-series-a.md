@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-pr
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/amp/"
 type: article
 quality: 65
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -145,6 +145,34 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "News: AI-powered interviewing platform BarRaiser raises $4.2 Mn"
+    excerpt: "Bengaluru-based AI-powered smart interviewing platform, BarRaiser has announced raising $4.2 Mn in seed funding round led by 021 Capital and Global Founders Capital with participation from other angel investors. BarRaiser’s AI-powered platform ..."
+    publishedDateTime: 2022-05-02T06:05:00Z
+    webUrl: "https://www.peoplematters.in/news/funding-investment/ai-powered-interviewing-platform-barraiser-raises-42-mn-33839"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1651124684/ad-drezxt5v.png"
+        width: 990
+        height: 550
+        isCached: true
+  - title: "Supercharging customer experience for financial services with Voice AI technology"
+    excerpt: "AI Rudder can make this vision a reality through advanced Voice AI technology. Our Voice AI uses automatic speech recognition (ASR) and natural language understanding (NLU) to process human conversations. Our machines can receive and interpret customer ..."
+    publishedDateTime: 2022-05-02T07:57:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/supercharging-customer-experience-for-financial-services-with-voice-ai-technology"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 34
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/014/AI_Rudder_-_Main_Image_iStock_-_Thumb_-1049719076.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "ICON Corporate Finance Advises AI Platform-as-a-Service Provider ForePaaS on its Acquisition"
     excerpt: "ForePaaS offers a unified platform specialising in data analytics, machine learning, and artificial intelligence for ... Acquiring ForePaaS further propels OVHcloud’s Platform-as-a-Service strategy and reinforces its position as a leading global player ..."

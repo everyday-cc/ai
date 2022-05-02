@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Udacity Digital Transformation Suite Now Available in AWS Marketplace"
-excerpt: "Programs include real world content for job-ready competencies in artificial intelligence (AI), machine learning (ML), data science, autonomous systems, cloud computing, among other disciplines. The listing in AWS Marketplace builds on a 2021 AWS AI & ML ..."
-publishedDateTime: 2022-04-26T14:34:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/udacity-digital-transformation-suite-now-available-in-aws-marketplace/article_b619ef03-944f-58bc-9123-a1f5b2cae897.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/udacity-digital-transformation-suite-now-available-in-aws-marketplace/article_b619ef03-944f-58bc-9123-a1f5b2cae897.html"
+excerpt: "AWS customers can use their existing AWS ... Programs include real world content for job-ready competencies in artificial intelligence (AI), machine learning (ML), data science, autonomous systems ..."
+publishedDateTime: 2022-04-26T14:41:00Z
+originalUrl: "https://fox8.com/business/press-releases/cision/20220426SF35946/udacity-digital-transformation-suite-now-available-in-aws-marketplace/"
+webUrl: "https://fox8.com/business/press-releases/cision/20220426SF35946/udacity-digital-transformation-suite-now-available-in-aws-marketplace/"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+    width: 800
+    height: 340
     isCached: true
 
-secured: "4eQBtleYc168kcVpkWL9f8H7490vS4rE/ocnDuMgwwlHb0/S7+A8uEtAsP+1IiNijpBD7uhW66joOcbIsUlnL3yb4aL+QBzd/3dWQluIrxLuyZMFCBDMhXdp+ocyn5D9Nn0AiAhUBJrCnGpbK+4/ZkVAAqKVcZql7EBKgS2bTt3pOyLq3cddYH/lMkVPFrq0PxTfKY1sjLtSKQtexi20TlvO6XgXJ2sDgpLSiKZDspj9gm72mg7fi9bBmEWo5MFJz4af+SpMuQVfR3oZ9/twrZCPWBlai9a2dC8Q2sIOfy+sBnpZkzcj6pNd3IKQnfL6b/YmfyTe+rrjeAX7NJPxtwvJgysCa1huyUl4NcOH/T+PZCtUvemSbwzClMfEoH4I8XweJ6KM8UJpY+fvJ1ujUstSR867SiIdOZblR4AhP/aJtn7DQauK7t1LeDm8G0w9sbhavwrWWl7mOSEebSzcWvReJ43blyGOAt7UdoWqNUL3iJqVPNM7MfXAtsGzvI+cmYNnyPZL17STpS9emg64zg==;opvLaLpETh6oaX+nEJUnNg=="
+secured: "44e1/8P6wvN1xD9+qFAKiIAB/iqRLc+5uaSB5TJ40TXX41B+1z+T/H+WNjmA5SSxrVCQblaEU8gRcqMRwm9Z3FK3l7t9m2eSHUegUWCAGcoE3xEuSot+JwQMOkDDB8+9K3B/z+01G7ZdPxtVJUXSJ2O0uhsYq2VZr/iRqAG+2ddQoEyz/WZAJ0TFDhGM68Z0cXEjXZ7VTIi6s+HKSa0oWnxyxQhKMRWy0Yyzh0+mT9Qtjwbydkt8YvbO4JRSV/5QADF5FcyCitL1LmBLvUbR1bE+lFiPUXBcMkTVjKCMTO8LsWSEK6OfZ0qTmhueUM1pbhgv7iaTYOcTIuZkrXYBKRWjEUzmvsS0sWbdiQWuuDg=;uZuORLj5QcCN6E3qeDlwzw=="
 ---
 

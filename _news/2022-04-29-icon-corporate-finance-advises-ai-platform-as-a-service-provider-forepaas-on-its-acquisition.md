@@ -154,6 +154,34 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "News: AI-powered interviewing platform BarRaiser raises $4.2 Mn"
+    excerpt: "Bengaluru-based AI-powered smart interviewing platform, BarRaiser has announced raising $4.2 Mn in seed funding round led by 021 Capital and Global Founders Capital with participation from other angel investors. BarRaiser’s AI-powered platform ..."
+    publishedDateTime: 2022-05-02T06:05:00Z
+    webUrl: "https://www.peoplematters.in/news/funding-investment/ai-powered-interviewing-platform-barraiser-raises-42-mn-33839"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1651124684/ad-drezxt5v.png"
+        width: 990
+        height: 550
+        isCached: true
+  - title: "Supercharging customer experience for financial services with Voice AI technology"
+    excerpt: "AI Rudder can make this vision a reality through advanced Voice AI technology. Our Voice AI uses automatic speech recognition (ASR) and natural language understanding (NLU) to process human conversations. Our machines can receive and interpret customer ..."
+    publishedDateTime: 2022-05-02T07:57:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/supercharging-customer-experience-for-financial-services-with-voice-ai-technology"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 34
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/014/AI_Rudder_-_Main_Image_iStock_-_Thumb_-1049719076.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Finbots.AI Raises $3M From Accel In Series A"
     excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
     publishedDateTime: 2022-04-30T19:27:00Z

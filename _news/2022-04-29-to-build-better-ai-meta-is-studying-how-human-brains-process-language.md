@@ -44,6 +44,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
+  - title: "Meta building AI that processes speech & text as humans do"
+    excerpt: "New Delhi, May 2 (IANS): Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In ..."
+    publishedDateTime: 2022-05-02T06:57:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=953987"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/royalepage_square1.jpg"
+        width: 280
+        height: 250
+        isCached: true
 
 secured: "pWY9+65/0/6XdXhcmNFS8/Gxcs/RU0hZyAY0709dURPkYdsP+7sCkAoVPTWZu6FQ5e2ru+mQ5j8gtTgTHUR33QTC21r03aObk3QEk02HgLUFWDvMjiYtmMOd98qr4OpmjAnJnTsnFtiEJhQNttCjgNxPEXC7MYrexmtETf0AzgXr+kGp/7KTkBPb4y4VZpxJinMJHWrJVMuaFYKoHCPrLjlJdppo9v9xdJiyIohuDp4xqIBNAzEilSCdwgm7BFADY6HI08CGuwHU60XxZ1YUSTMdrB7OWEuep1KxsbXt1CxACHKoEcfwjhZCsOc3qKrsVjIZAo1zApupS3RGSzp1uHHv63yxftY7hgkWksg/YAc42WhDZZnZG6zmz0jADpRKmDifQ2zq89inw/MPjLEj5SIK1gHlWfW4El87BuKI6iMa+vuZ97blfuyKh3uUHB0XdYHYogrVE+X6swxmHCUR5HNazqVmdVJxAQa/F/8DyIUkTSwxUygiQ9cMUiX5St0k6+ghQyfmkQcYFhY76zsmWA==;3x7uwJ17NfRq44S5bJtnzg=="
 ---

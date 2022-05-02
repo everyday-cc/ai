@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://localnews8.b-cdn.net/2022/04/shutterstock335123117UTON_0.jpg"
         width: 1010
         height: 720
-        isCached: true
-  - title: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform"
-    excerpt: "Digital.ai Unveils the Future of Software Delivery with New Release of Its Leading AI-Powered DevOps Platform. Digital.ai today announced it has reimagined the future of software"
-    publishedDateTime: 2022-04-27T13:25:00Z
-    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/27/9590771.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-        width: 252
-        height: 335
         isCached: true
   - title: "JOINT ARTIFICIAL INTELLIGENCE CENTER"
     excerpt: "Prior to joining the CIA, Mulchandani most recently served as the CTO and Acting Director of DoD's Joint Artificial Intelligence Center. He also co-founded and was CEO of several successful startups- Oblix (acquired by Oracle), Determina (acquired by ..."

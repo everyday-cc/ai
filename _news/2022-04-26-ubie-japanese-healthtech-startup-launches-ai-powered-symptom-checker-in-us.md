@@ -2,24 +2,24 @@
 category: news
 title: "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S."
 excerpt: "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,"
-publishedDateTime: 2022-04-26T09:00:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+publishedDateTime: 2022-04-26T07:00:00Z
+originalUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
+webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/"
 type: article
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WTVW
+  domain: tristatehomepage.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
+  - url: "https://i0.wp.com/www.tristatehomepage.com/wp-content/uploads/sites/92/2022/05/angel-mounds.jpg?w=2000&#038;ssl=1"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "vDAAxEG4yXuuYJPxmatIXrxtQwN9a/GWq/buJDy+tzn8YwLyJPdH9Ii+LY9wJ9D2OqzDdls88NAvFRODcobcgaM+LMZ3Dt51O2TL7DfycuqApUo6i1l+GR39yxFzQNBFa9nowWXxjaXoZ+BBlwqu8fJxW32pQkgULO2hVmGvbHjEemEKWelt5woqfBxBR1Yf5ULVa7XUObqc1otRS68a238juMpAi4wwEdWeYGPIir8P4jIYkxMtuckes3qXHk4A9wBZKz2PJexB09MZnTR/RuL2fGEL002SyZWeqSg0buxegBCImXe3MaBce95CjKwIrOKAwycekYMaBdu1ZZ9fe8IwyvtxBIn6TmxIMsN4HaY=;LFTfF8PndR63I08v/7m0qQ=="
+secured: "kYKZiTS61jvzNZ74qFcUE5XCHGsYORxYgdde0igORpOlDBbCI6aj8eLQjp32QqI+nl0ObwGKvRL0EDQScqnIIrkRlNm1kMG+oiHSQN3+jDi4QllvqkgOpuynJZO4fpkodCVXy6J5xuQcrKtw68bzafLGCuZqed1CmSjNiCQo1v9rd2GRyuBNeaccwZLhoXb5b7qdpqZO0YDnoMKG4sDFnLV+XPAR1nnfhuQpYpU9kKIK1oI7DgoRHFTDUm0JYcxCEtv/tV+mL07dWk4o6aUtN1LlFKDg0nvN09OwtjZXFgEHcjsTNl82WhM7cHyZoaYGIDObGd3m4K/fIkkeu/g9FOu/ZorWOrBBLAthNNHcxzk=;jwHhVvwKQovcL1yqnhK6AQ=="
 ---
 

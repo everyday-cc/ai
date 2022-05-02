@@ -65,15 +65,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "Kraft Heinz taps Microsoft to boost supply chain visibility"
-    excerpt: "The company will use digital twins and control towers to help gain visibility and get products to market faster, a company executive said."
-    publishedDateTime: 2022-04-27T13:14:00Z
-    webUrl: "https://www.ciodive.com/news/Kraft-Heinz-Microsoft-partnership-supply-chain-tech-investment/622736/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
 
 secured: "XZyg1Wl/q1v95f3J6wStu8Duy0dz9mpqkg29qSYjjF7AtRG5NegRvlMs1IqLNXEkPzRIXN7KHuGPYd1bFa4AgBl3wZk7rlcmBeKVw3eKktvH7o/Hl25Zla5zDVmtdq3RI0ZcjInL4eZPBXf1seqeLkfcqTfKGV1dhTDOn0wR2qUKvmsNlJfJV2mgRE8tyZhWyJVwcXpjZxd9nT+iYJJI9gxJMXNWHAJ20oDmjx4LJxJ92R+zzsX6uTLPMkmva4N5d2+uX+ZbfPwS9CaGw4+fVN9Cam+SBb8j0LEkb2ZrHGNUBA9J6MIXLNW3T0dHxjeL5k4aGoQTGyzmhh79S53Yop9xWLL0/wp+ozplb7wUKwS3yc1888PqGhQqrp6HG7hkvUOqbojN41cvMq3nd4MeVOWJgMjM01MExjfNfTH53FgsqH407IGYS7dkEZH/7BFQxn06n00pVemZT7Q/ad42jxW/ZnPx9rtpA+SPOXuzMafpNvG8E8uGNONwmI61QrYh/HvCjeHDk+W/ukBaIeR8Xg==;3cITlNL5gvUq32IZKWoL+w=="
 ---

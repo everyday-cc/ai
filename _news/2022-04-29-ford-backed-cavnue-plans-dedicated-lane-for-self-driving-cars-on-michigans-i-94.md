@@ -51,20 +51,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Ford-backed Cavnue seeks to rewire I-94 in Detroit area for self-driving cars"
-    excerpt: "While autonomous vehicles do already operate in limited capacity in Michigan, Cavnue's development plan revolves around creating a dedicated lane with the necessary infrastructure in place."
-    publishedDateTime: 2022-04-27T15:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/ford-backed-cavnue-seeks-rewire-i-94-detroit-area-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Upscaled_stills_Highway_Cavnue_smaller-Main_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9st+OlCjY0toI6GVtSUM3gxu35v0pR6ZbJKlFEXkXVMscCzneXqwzjidK1QVdKQA/neFv6YPtP7XJxtDRYEVqjvn6Lfs5VzxHCqinFkmkCB5TYr6OwPHPIjNZyfgOdoJTTQyOts7qlmztHDiQuBAV5Uv1YmqDKqw16Thbuk9OGUQ8zlUN0sBZ155Mljxfy6lHRDmTxHXLO0YpYO6rvyXEy0U+iS+CUe3ce4oQzulKGpMrTLh/3FDmqKEVcTg52YJMqzRKtR5iDFtUodkN65lygIJCHgLbeEs6JcTE3H9LA/m5ZLFggttJP1NEWLfFObbgj4qnZooRQaLW29ywXdqQCcoE4R+oEPLh5bgvoXrBPhP6H364bpSSyt6LKRT8udl9p5ADc99jOGb9/6gEpkEw8IJ8CZ03SiQ93R0w43urxc7DG0Q0c9COoKXVz0JEXxVNBgq06VYakhM8UqzvnMbBs+xKm9GKHuqM3DGAwlDIu4fJjwJLeANAvC508t50WDLcH8ua/XoPMwnLtScEDHR+g==;kPNnZJPKjaJaZpFpPklPQw=="
 ---

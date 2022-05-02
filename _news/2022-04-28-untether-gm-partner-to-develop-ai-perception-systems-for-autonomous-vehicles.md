@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Artificial Intelligence Advisory Service Market to Witness Huge Growth by 2030 | Google, Salesforce, Intel, Fair Isaac"
+    excerpt: "Artificial intelligence advisory service help companies to improve ... Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others) Get Up to 10-25% Discount on Various License ..."
+    publishedDateTime: 2022-05-02T07:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-advisory-service-market-to-witness-huge-growth-by-2030-google-salesforce-intel-fair-isaac"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cd9543b3ef41b34c81c8ea127008874018421dea-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "EsSqgizPnp/djovjBo6wHDcrmlaopNBAnOxIHv+kSmrWJQTXBs6L/lNBJUtg2BRADQ2Pp76ZkMCWJsRfmsd1Dv25PzZROkii3Fd2p837FwLmWBQwwLSuco3f1G6tP7ZaiDpVwlzEX9pVbBmPAFyLsFP+8WcCIuKP9oOSJfTUiaCAmq8hEF56Qtjeuqgh1ePqyFOgvhiQq4T2Z+ZHM4aFx5TcR1OQN+rrerMDObBXgnogCFoQ3TEE/ft6sLXSZRvTInXGKmj8Qc0YN+7NM/e3K5Y1zDXczDHjKlWuDcxqQEasP6sft+GC5k7I4l5FVKscUuVjsWECLs0IeWjDv9xVKBi6Ea/yaL2B0k5gDO92+3lp7YbQl3QswVTdl2HlI/9xT5KkygZrcfLf6zJ2/oOY17nCV2+lP5NptjSLZNyAwZYdVHsHylBLQzvFtQtOYBNxJo2gKiYbcLjeFRGOFQ3m6423sV5j9rUgdSY8Ihh5Jy1ROvEMgsZhEVWBBHNGQeDSGtwZYGCG3hdWgI2aKQfuyA==;/bKbNjJam4UcaqljB293bw=="
 ---

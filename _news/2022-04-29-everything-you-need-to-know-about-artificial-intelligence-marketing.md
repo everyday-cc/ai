@@ -55,6 +55,20 @@ related:
         width: 737
         height: 438
         isCached: true
+  - title: "AI for the Trades"
+    excerpt: "Anmol Bhasin, chief technology officer for ServiceTitan, said he previously worked with AI at Salesforce.com Inc. and Groupon Inc., and his goal is to bring the same types of services that those ..."
+    publishedDateTime: 2022-05-02T07:05:00Z
+    webUrl: "https://labusinessjournal.com/featured/ai-for-the-trades/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/04/PG01_ServiceTitan_Event-for-AI5-1-e1651267189431.jpg"
+        width: 1799
+        height: 1200
+        isCached: true
   - title: "Call for applicants for forthcoming AI Accelerator intake helping start-ups reach potential"
     excerpt: "Katy Guthrie, programme leader of the AI Accelerator, said it is supporting wider economic growth as well as helping innovative start-ups achieve global success. “Our commitment to promoting AI for good is aimed at encouraging and supporting ..."
     publishedDateTime: 2022-04-29T08:10:00Z

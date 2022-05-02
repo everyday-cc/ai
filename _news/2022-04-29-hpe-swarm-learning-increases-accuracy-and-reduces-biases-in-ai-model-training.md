@@ -20,22 +20,68 @@ topics:
   - AI Ethics
 
 related:
-  - title: "HPE Creates Its Own AI Stack For Large Enterprises"
-    excerpt: "While the hyperscalers have been running AI workloads against vast datasets in production for a decade and a half, many large enterprises have lots of"
-    publishedDateTime: 2022-04-27T15:00:00Z
-    webUrl: "https://www.nextplatform.com/2022/04/27/hpe-creates-its-own-ai-stack-for-large-enterprises/"
-    ampWebUrl: "https://www.nextplatform.com/2022/04/27/hpe-creates-its-own-ai-stack-for-large-enterprises/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/04/27/hpe-creates-its-own-ai-stack-for-large-enterprises/amp/"
+  - title: "HPE looks to deliver the power of ‘swarm learning’"
+    excerpt: "When applied to intelligent devices operating in the real world, “swarm learning” refers to decentralization. This means that users can share learnings at the edge, or at distributed sites, without moving or exposing data."
+    publishedDateTime: 2022-04-27T19:00:00Z
+    webUrl: "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/"
+    ampWebUrl: "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/amp/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/hpe-logo.jpg"
-        width: 819
-        height: 511
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/swarm.jpg?fit=800%2C531&strip=all"
+        width: 800
+        height: 531
         isCached: true
+  - title: "HPE's new platform lets customers build machine learning models quickly and at scale"
+    excerpt: "The company is also making it easier for businesses to share information from their AI models with each other, without compromising data"
+    publishedDateTime: 2022-04-28T16:21:00Z
+    webUrl: "https://www.itpro.co.uk/technology/machine-learning/367521/hpe-machine-learning-development-models-quickly-at-scale"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 64
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1617805906/Deep_learning_Shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "Researchers test the power of machine learning to unravel long Covid’s mysteries"
+    excerpt: "Supporting more targeted recruitment is what Pfaff calls the project’s “sweet spot.” She and her colleagues hope that machine learning models could help identify potential participants who would otherwise be missed or underrepresented in prospective ..."
+    publishedDateTime: 2022-04-29T08:44:00Z
+    webUrl: "https://www.statnews.com/2022/04/29/long-covid-machine-learning-n3c/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 34
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2021/04/AdobeStock_177688581-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "How Amazon Uses Machine Learning?"
+    excerpt: "Amazon SageMaker is another groundbreaking machine learning tool developed by the ML team in the AWS department. The Amazon SageMaker is responsible for caring for the environment by choosing the most effective sized cardboard packaging for its delivery to ..."
+    publishedDateTime: 2022-04-30T19:37:00Z
+    webUrl: "https://www.geeksforgeeks.org/how-amazon-uses-machine-learning/"
+    type: article
+    provider:
+      name: GeeksforGeeks
+      domain: geeksforgeeks.org
+    quality: 21
+  - title: "Swarm Learning Models to Predict Cancer Biomarkers Outperform Other AI"
+    excerpt: "A new study suggests that the high performance and increased data efficiency of swarm learning models to predict cancer biomarkers could overcome issues with current predictive analytics methods."
+    publishedDateTime: 2022-04-28T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/swarm-learning-models-to-predict-cancer-biomarkers-outperform-other-ai"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 17
 
 secured: "0BvBZ+g0ChdImp03/8OgPdeUUrEqss72JD8DNCydD80k3PIIbBn3e7jR54Wu+Fv6dXyQDtit0EWI/ewBzdzOURYcDzhGeTVET/zf8IFcs7SbPDa8aP6xb8cZyXV917QPuakkZADLy+SCP5Dl5MRJ1AVCsptwKgLshk56zya/9lYNieYBR4xHUyXlTSdN2C4Np2qnpPHdW0LvNvaWDrm1SOnN127sOD9IL5VEZge6R1iyHBdOwbL7Vm2pml+utkN5pzh9TMCLEPEruTsH+iPfJDmvTuLbFb1RtS5a2Ix1w5by6L5+Y02bb7x/f45OoLjDcWAZS+wWKqg5jVSpgBkF+/0hgCysoqNi1aTCu8HlCuA=;gq+T3/RMPaPwMU6rr4SVAQ=="
 ---

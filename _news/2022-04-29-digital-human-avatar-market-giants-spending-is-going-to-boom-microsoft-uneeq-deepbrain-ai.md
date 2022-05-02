@@ -57,15 +57,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "Kraft Heinz taps Microsoft to boost supply chain visibility"
-    excerpt: "The company will use digital twins and control towers to help gain visibility and get products to market faster, a company executive said."
-    publishedDateTime: 2022-04-27T13:14:00Z
-    webUrl: "https://www.ciodive.com/news/Kraft-Heinz-Microsoft-partnership-supply-chain-tech-investment/622736/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
   - title: "For only $39, you can learn all you need to know about Microsoft Azure"
     excerpt: "For those who prefer project-based learning, there’s a whole course devoted to Azure management and architectural issues. Also included is an introduction to Azure Machine Learning, which may be used to automate difficult or repetitive cloud concepts and ..."
     publishedDateTime: 2022-05-01T14:10:00Z

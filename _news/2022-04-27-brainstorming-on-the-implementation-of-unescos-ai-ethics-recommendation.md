@@ -7,7 +7,7 @@ originalUrl: "https://www.unesco.org/en/articles/brainstorming-implementation-un
 webUrl: "https://www.unesco.org/en/articles/brainstorming-implementation-unescos-ai-ethics-recommendation"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1350
     height: 765
     isCached: true
-
-related:
-  - title: "Biden administration trying to find happy medium when it comes to facial recognition"
-    excerpt: "Can the government safely and equitably use facial recognition for identity proofing? That is the question the General Services Administration’s Technology Transformation Service is asking. In a new request for information,"
-    publishedDateTime: 2022-04-27T14:35:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-newscast/2022/04/biden-administration-trying-to-find-happy-medium-when-it-comes-to-facial-recognition/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 32
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/04/Congress_Facial_Recognition_84056-400x270.jpg"
-        width: 400
-        height: 270
-        isCached: true
 
 secured: "CzMYRu1yRZNwA1aCysMqNabQK5hGz6rayOgVaOjiQ9kZ5pWTvwplMfMNbji6HomTQOayRxI9nsXb1VGlojCyqi2CLi1HHdrqZ6bRElXqIMxk01HgTzxvNTojCHZU7dYVIaW6K9Y7dRYIo784kv5pz7QD85PNtJIcfBIfKjak2cLWxLthM7wpxqGc00m8fasH9znmZ4TeqPpnB5FwIk2HaXqjCFxZLmVOS0ypOfBqDUl8f/n/9ZvGUh5glfk0TQcP+DntBbTPthPbk8PGMpzdpWYL6LzToWw8s6Jlg1l0B61+SqkffpRm1X1qr7sdQxPChvtLlNYuB3fig5i0VjZHoulHEulY/FURdieO7WitrqU=;4PLjxlZti5YaVkzOJuzkYw=="
 ---

@@ -2,27 +2,25 @@
 category: news
 title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
 excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
-publishedDateTime: 2022-05-01T16:04:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/n26921512/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadli"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/n26921512/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadli"
-ampWebUrl: "https://www.benzinga.com/amp/content/26921512"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26921512"
+publishedDateTime: 2022-05-01T16:39:00Z
+originalUrl: "https://www.localsyr.com/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
+webUrl: "https://www.localsyr.com/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
 type: article
-quality: 26
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: LocalSYR
+  domain: localsyr.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/1219383/KTMC_Logo.jpg?p=publish"
+    width: 1612
+    height: 541
     isCached: true
 
 related:
@@ -127,6 +125,6 @@ related:
         height: 339
         isCached: true
 
-secured: "U4xprEJDjZbmz4WWR2q8eoanawYjFAH9ntDu4NDbQvQVkxpwxDEmkbboWR3Zx1efpxdXvROnL6pwklqHal5S23TSd5u+qYwYvTSh5kzXJhCssAk3E4f5INcBvuyugtEOYT/H21Qx3bqR455xiIL8jgfJoTwqQ/qUb56n2tgTPjrzPzIZFJA+tUyGIl+fjYdMpt+20Jk698yiHFM2qeAzbZb0eJyP7IBe8LcGPt3CaCAYq4rUjaOCByRt5e5Mq5kGzEDlekGMBHDQ5M89jb1mduNyY3pDCeslGLWOXtcXDWp2+rVw8080GpqcZSDiBVVbs1uy0JnUoW+42UHscra6osVmfzmYkY1P4CjZ/tJSEvQ=;bsmyiVklNqCiFuZv917nPQ=="
+secured: "nZSSy8WPajkmae//wR2OQjTlAJ+TB1FEzH0q9Nn5Sv0uFJQLDtiOJkatRn7TUMpPoAVVC1gfrOkrXUFwFl/EPXV8OhZl1765tGu0iwtQqqruBYr1Zh0vgdWaQONmUoOUlwdVOf2vkHSzdXuJXwcm8wdPGCFlLnZH6TAdGiF8dqfPIdQsbu5tNfI2mvKbHs/4iRGgVgvZB/rlL9pDu4F8tvEtRoTLC/JykO0amqYf1tMSL8mdxoxbG4B49SS1in3lyfsmp0odWZm5k8An3dHoBs7Gxi3eyfqgGh2OzdS3MNaCVl5uOwjqq7uFQC8oXKwc17RZKTlq02kZe25fLqnBEBPvmJFRuG2XKsZjK9dkIHU=;yAjarwuzQWS81WJdCwhftQ=="
 ---
 

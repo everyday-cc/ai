@@ -44,15 +44,6 @@ related:
         width: 640
         height: 544
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size 2022-2030 | Industry Trends –Increased Adoption Of Advanced Technologies In Healthcare"
-    excerpt: "Rising volume of complex data and reduction in hardware costs is projected to drive growth of the artificial intelligence in healthcare market. The global artificial intelligence"
-    publishedDateTime: 2022-04-27T15:02:00Z
-    webUrl: "https://www.medgadget.com/2022/04/artificial-intelligence-in-healthcare-market-size-2022-2030-industry-trends-increased-adoption-of-advanced-technologies-in-healthcare.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 1
 
 secured: "bpwxGa/Joq4Ud+bH1rEY09RM9rIXzVx9AskjKiRgLCoEKYoft+sCn8upaIq5VY8PBi7O4UFN1xHrU2hTfsJMQeS1XjInsfT9XRR+0SSZuOFUaPwF87mdtQsR12R24SPAn0jWxle/LNsCrmCJTy5vSqUW4JvJiChoZ1YXyl027u86LXnWiKKc8QAIcQiM2oqCQOtOLAkF+NPIKJUNYIoVtFDOFpMA/INa6j7m4k6I93lmWM+i+/Jsos3FXY09VQm+nMFe+gSuTrNxowAnpn37MRKK8JCo3pUsvagEeF0t44r6Uh9vCDhkatyvF88TOu3HPMqKmKDFdugZ/CCwXLN25nBIeUBAAxxZuQicp8dyQEk=;05JgsBlYoqpnKqYGExyr1w=="
 ---

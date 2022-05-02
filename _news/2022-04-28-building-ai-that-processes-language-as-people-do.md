@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2022/04/building-ai-that-processes-languag
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
+  - title: "Meta building AI that processes speech & text as humans do"
+    excerpt: "New Delhi, May 2 (IANS): Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In ..."
+    publishedDateTime: 2022-05-02T06:57:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=953987"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/royalepage_square1.jpg"
+        width: 280
+        height: 250
+        isCached: true
   - title: "To build better AI, Meta is studying how human brains process language"
     excerpt: "“Artificial neural networks for language are getting closer and closer to mimicking the activity of the human brain, and thereby shedding new light on how thought might be implemented in neural ..."
     publishedDateTime: 2022-04-28T17:37:00Z

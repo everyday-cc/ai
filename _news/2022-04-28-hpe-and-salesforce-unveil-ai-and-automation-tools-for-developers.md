@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://www.autoremarketing.com/sites/default/files/styles/story_page_main_image/public/Untitled_86.png?itok=wGIdPP3R"
         width: 878
         height: 495
+        isCached: true
+  - title: "Artificial Intelligence Advisory Service Market to Witness Huge Growth by 2030 | Google, Salesforce, Intel, Fair Isaac"
+    excerpt: "Artificial intelligence advisory service help companies to improve ... Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others) Get Up to 10-25% Discount on Various License ..."
+    publishedDateTime: 2022-05-02T07:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-advisory-service-market-to-witness-huge-growth-by-2030-google-salesforce-intel-fair-isaac"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cd9543b3ef41b34c81c8ea127008874018421dea-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "Pllp3+3FUIKL3S2+QVBooeXg8U7oz7ov2cO5suD9Rq5q0e8By6k10Kc8YPoJYGZooaM9jSZpSPGF3uI4Y2NelXiItJWK26VftBa64qMrOcJ/8+mjXunzGVLTWD26Q+bKmrLhbNSXp8GNN4MfYtkaPNarUcYCxNhSSZylbz92cXuGAlBneb4Wd6NH1Ka5uURdCTziabezSRgFrl4S1q51DHwXHK3v5Sc7tYgylM/zUP3E2nlB54lyICRmfHpFZZaKz2w6kWLLUPcC9fjbdglEEk9clu3Ur4Jz0tqzzpDEymqkZC5t9YiTdNIlsl+JTjfC0vwzETdWIW+ar0Cn8cZuYZj+a1ItT9ynoaDtxpM0plvvIRTaJR5lGW1U+oUoWT3jjLdGp4wPfcvlswmNCQRjwzVoh8XwAJEZxge9hQBSso6WiFzh/w93e4cDlJPc03nDwYZbmTm0PxaR99/OfpespFlZbC/StM8KB3iUEey/zcMdVVtTDsiVGI/i0jZ4VBg0086Bf/lqXV1Y8icw+jQVuQ==;D3ITjFkmarQ2OT0YJHRjCA=="
