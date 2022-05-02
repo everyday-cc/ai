@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-02-financial-technology-firms-tap-ai-to-reach-more-borrowers.md",
+      "title": "Financial-Technology Firms Tap AI to Reach More Borrowers",
+      "excerpt": "Rather than relying on traditional credit scores, many fintech lenders are feeding a wider range of data into platforms powered by artificial intelligence to present a broader picture of applicants who might otherwise be turned away by banks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
+      "originalUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-535177/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
+      "publishedDateTime": "2022-05-02T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-30-how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score.md",
       "title": "How Fintech Companies Are Using AI, Machine Learning To Create Alternate Lending Score",
       "excerpt": "One may well credit Artificial Intelligence and Machine Learning, which help in creating a favourable credit environment for a broader range of users, thus, providing means of an alternative lending score that doesn’t rely solely only on an individual ...",
@@ -99,7 +151,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -745,33 +797,24 @@
     {
       "path": "_news/2022-04-19-even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated.md",
       "title": "Even Financial's Embedded Finance Marketplaces Surpass $5 Billion in Credit Facilitated",
-      "excerpt": "Leveraging machine learning and advanced data science, Even solves a significant pain point in financial services customer acquisition by seamlessly bridging financial service providers and channel partners via its industry-leading API and embedded finance ...",
+      "excerpt": "Even Financial (\"Even\"), the category-leading embedded finance marketplace and independent subsidiary of MoneyLion, Inc. (NYSE: ML), has announced it has now facilitated over $5 billion in consumer credit,",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated/article_dab178ba-e2bf-5aca-8da1-ec3c829808fd.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated/article_dab178ba-e2bf-5aca-8da1-ec3c829808fd.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-even-financials-embedded-finance-marketplaces-surpass-5-billion-/2022/04/19/9585308.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-even-financials-embedded-finance-marketplaces-surpass-5-billion-/2022/04/19/9585308.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/0a/40a77029-ab72-5293-9a7a-85d19c7f6454/6076f5942ed8c.image.jpg?crop=1486%2C780%2C507%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:36:00-07:00",
+      "publishedDateTime": "2022-04-19T07:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1272,58 +1315,6 @@
         "name": "Morningstar%2c Inc.",
         "domain": "morningstar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-blockchain-to-revolutionize-the-lending-space-in-the-fintech-industry.md",
-      "title": "Blockchain To Revolutionize the Lending Space In the Fintech Industry",
-      "excerpt": "With increasing focus on the payments segment and closely followed by securities and trade finance, blockchain will focus on evolving complexity and delivery time frame",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/424530",
-      "originalUrl": "https://www.entrepreneur.com/article/424530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1649746958-Myproject199.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

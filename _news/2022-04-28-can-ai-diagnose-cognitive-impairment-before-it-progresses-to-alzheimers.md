@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/neuroscience/news/can-ai-diagno
 webUrl: "https://www.technologynetworks.com/neuroscience/news/can-ai-diagnose-cognitive-impairment-before-it-progresses-to-alzheimers-361043"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to diagnose mild cognitive impairment that progresses to Alzheimer's"
-    excerpt: "Alzheimer's disease is the main cause of dementia worldwide. Although there is no cure, early detection is considered crucial for being able to develop effective treatments that act before its progress is irreversible."
-    publishedDateTime: 2022-04-27T16:49:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/brain-mri.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market, Global Outlook and Forecast 2022-2028"
     excerpt: "This is also an ideal application of artificial intelligence, because it is particularly good at discovering very subtle but decentralized processes. This report contains market size and forecasts of Artificial Intelligence (AI) in Alzheimer’s ..."
     publishedDateTime: 2022-04-30T12:56:00Z

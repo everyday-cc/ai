@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "The U.S. and China Need Ground Rules for AI Dangers"
-    excerpt: "Argument: The U.S. and China Need Ground Rules for AI Dangers The U.S. and China Need Ground Rules for A... | View Comments () The threats are bigger, the stakes are higher, and the level of trust between the United States and China is lower today than it was in 2014,"
-    publishedDateTime: 2022-04-27T15:57:00Z
-    webUrl: "https://foreignpolicy.com/2022/04/27/us-china-artificial-intelligence-dangers/"
+  - title: "Vic.ai Announces Spend Intelligence for Prescriptive Cost Optimization"
+    excerpt: "Vic.ai, the artificial intelligence (AI) platform for autonomous accounting and real-time insights, today announced it has broken ground on Vic.ai Spend Intelligence, a first-of-its-kind prescriptive AI technology for advanced enterprise-grade cost optimization."
+    publishedDateTime: 2022-04-28T12:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-8bbf3842fe2aa578bcfbc38f3a7f3f7e"
     type: article
     provider:
-      name: Foreign Policy
-      domain: foreignpolicy.com
-    quality: 39
-    images:
-      - url: "https://foreignpolicy.com/wp-content/uploads/2022/04/CHINA-AI-US-GettyImages-1392925380.png?w=1000"
-        width: 1000
-        height: 666
-        isCached: true
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
 
 secured: "0HnPH/w6L1Jo8K/yAizQyltoHbgj/uYpAU7HCE4/sSnA0Y4kvVE8W81YVJdCn7QNCR114lJMPMvC1Desp7HVnUkq7QfwE1tkubvZHKCa9H1I7fd54rzSiYCmldmOdoBdCqthJ9AIKYijD63eL/H0lpsOVXP0AS9eivvUD/gqeQpiut/Mm0/0Mc88p85bwXeVkqKdt3BHPjRztf6vptz4iBcCcRtPxeSXgHgTsv7U98FXVHv0U0/HONJANSkJpta8uN8iENYv+v2eg7HUST88xpX50l7AqZBx1Zio/n4+VtDAi+GwWSoeozerCGf8AcIeNc2azZvPjmHfBGuQKWvQyhENQuWBgWtInqyZOyRi/IWeNwbUQuYmiQMro8OCQbQsUkFdqW++U+OZ/b+pwDgOgBcIfYn7Low12pFmeRUiI013hKcOI9l51cGPl97hJPe8U6qb7/EHgqj3YKWgJCVimP6bPT0XkzBw0ejIZz7aRnbiLmFn/Lm1GrGWQqtetJ2rqLuI5tW2wxJs921LZaFk2Q==;X0k+H8h5Zud/JjLXyew/fA=="
 ---

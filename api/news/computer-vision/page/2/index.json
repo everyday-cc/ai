@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-09-best-smart-robot-vacuums.md",
+      "title": "Best smart robot vacuums",
+      "excerpt": "Shop our top robot vacuum picks, some of which include AI object recognition, Wi-Fi compatibility, mapping sensors and even the ability to avoid pet waste (a must in pet households), not to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-smart-robot-vacuums/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-smart-robot-vacuums/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/04/07/e3fee72c-dc32-49c4-8e79-fb673fd7499a/thumbnail/1200x630/543193c804ff31d26a1ca1be53622f97/robot-vacuum.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-smart-robot-vacuums/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-smart-robot-vacuums/",
+      "publishedDateTime": "2022-04-08T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-nopd-pushes-for-facial-recognition-software.md",
+      "title": "NOPD pushes for facial recognition software",
+      "excerpt": "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on",
+      "sourceUrl": null,
+      "webUrl": "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/",
+      "originalUrl": "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgno.com/wp-content/uploads/sites/2/2022/04/nopd-camera.png?w=1280",
+          "width": 668,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/",
+      "cdnAmpWebUrl": "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/",
+      "publishedDateTime": "2022-04-08T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGNO",
+        "domain": "wgno.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-ukraine-uses-facial-recognition-software-to-spot-russian-spies.md",
       "title": "Ukraine uses facial recognition software to spot Russian spies",
       "excerpt": "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,",
@@ -1225,110 +1312,6 @@
         "name": "The Boston Globe",
         "domain": "bostonglobe.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-clearview-ai-unveils-version-20-of-its-facial-recognition-software.md",
-      "title": "Clearview AI unveils version 2.0 of its facial recognition software",
-      "excerpt": "Clearview 2.0 also features reporting and workflow enhancements that provide a more comprehensive overview of a case, limiting privacy invasion and police overreach. “Clearview",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367222/clearview-ai-version-20-facial-recognition",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367222/clearview-ai-version-20-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
-      "title": "Facial Recognition, Climate Change, And Dumplings",
-      "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
-      "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

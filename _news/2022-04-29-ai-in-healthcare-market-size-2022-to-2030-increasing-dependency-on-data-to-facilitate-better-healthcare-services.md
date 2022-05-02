@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/ai-in-healthcare-market-size-2022-to-2030-in
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-in-healthcare-market-size-2022-to-2030-increasing-dependency-on-data-to-facilitate-better-healthcare-services/amp/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 640
     height: 544
     isCached: true
-
-related:
-  - title: "Global Artificial Intelligence in Aviation Market 2022 to 2028 Existing and Future Insights Growth"
-    excerpt: "Apr 27, 2022 (CDN Newswire via Comtex) -- MarketsandResearch.biz has recently published a report titled Global Artificial Intelligence in Aviation Market 2022 by Company, Regions, Type and Application, Forecast to 2028 which assesses dynamic factors ..."
-    publishedDateTime: 2022-04-27T16:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-aviation-market-2022-to-2028-existing-and-future-insights-growth-2022-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2XzaHI72vzdcJ1P7EKl8X4QZlWx9NQc99K5ZbeNHeFZ5yP4elSHCmm0pXbxqcxK1JOqbav6Q6+ijQFFiBFl5sFuIpJvmM0uvyAkuYBi2n/ukVdK7w3jEya+In6qUt2zYAStTuVxbonzWrsdY6xggmIsX0VVEkHvFQWJldTzXtyGS7cc4Xm8j8T3PCm2H4z3s5hXtbwoRhcRZHBDho3Qs+9Yokx6QfjoiDxw2U9Bma299a/RXbCO2DTqSWIW3TxVL90PJzogamvaF1ktwY//5iJlclZV6JuOzdr9HYWhSvSSnx15mI50nVv1do+hyNiuidfxyT2aImmK3ySFBKSnk8g0zc4nT0/4Uo/LlZeRADGY+Z/MKu2aSyu550PxvXgVj5dz1dqA8mrbYSAXFIf/uQeuqp+PjMDPCvfPLP8SpF+Kygl1toEkwRBBHRnhDpTtp/T+Jw1dpUnJtS14+BSaZCcOybGwfYT9eiqMnYaomhcAS7gHyN9EHUAYYKYi1Sj0kHUBPFymKF2QoQVoULw/cBQ==;7gpiMIlxhCK8aNPqRj7hCg=="
 ---

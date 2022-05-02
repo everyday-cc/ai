@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-28-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
+      "title": "People in Beijing can now book a taxi with no one at the wheel",
+      "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "originalUrl": "https://www.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220428000058-01-baidu-apollo-0422-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "publishedDateTime": "2022-04-28T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers.md",
+      "title": "HPE and Salesforce unveil AI and automation tools for developers",
+      "excerpt": "HPE has launched its Swarm Learning and Machine Learning Development System whilst Salesforce announced further integration with Slack, Tableau, and Mulesoft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "originalUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
+      "publishedDateTime": "2022-04-27T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-how-ai-can-close-gaps-in-cybersecurity-tech-stacks.md",
       "title": "How AI can close gaps in cybersecurity tech stacks",
       "excerpt": "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments.",
@@ -164,7 +258,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -247,49 +341,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
-      "title": "Pittsburgh welcomes Plus One Robotics",
-      "excerpt": "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
-      "originalUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -605,7 +656,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1166,48 +1217,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-tech-mahindra-launches-ai-solution-for-business-automation.md",
-      "title": "Tech Mahindra launches AI solution for business automation",
-      "excerpt": "Tech Mahindra on Wednesday announced the launch of TechM amplifAI 0->∞  - a suite of Artificial Intelligence (AI) offerings and solutions to democratize and scale the deployment of AI in a responsible manner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/incoming/ksef8a/article65359726.ece/alternates/LANDSCAPE_615/4763_27-8-2020_15-33-55_1_TECHMAHINDRALOGO_27.JPG",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece/amp/",
-      "publishedDateTime": "2022-04-27T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

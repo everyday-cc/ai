@@ -238,6 +238,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage.md",
+      "title": "Hospitals turn to artificial intelligence to help patients while addressing worker shortage",
+      "excerpt": "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
+      "originalUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a70b74b/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F39%2F0d%2Fd723ccff45b991094268f06a22e3%2Fhospital-doctor-generic.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
+      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
+      "publishedDateTime": "2022-04-25T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WXYZ Detroit",
+        "domain": "wxyz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-healthcare-natural-language-processing-market-is.md",
       "title": "Healthcare Natural Language Processing Market Is...",
       "excerpt": "Companies Profiled in Healthcare Natural Language Processing Market are Apple Inc, NLP Technologies, NEC Corporation, Microsoft Corporation, IBM Corporation NEWARK, N.J., April 25, 2022 (GLOBE NEWSWIR",
@@ -277,6 +320,41 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry.md",
+      "title": "Computer Vision Startup Encord Launches DICOM Image Annotation Tool To Eradicate Manual Data Labelling for Healthcare Industry",
+      "excerpt": "Encord's platform empowers some of the world's leading companies building computer vision models for medical imaging including Kings College London, Memorial Sloan Kettering Cancer Center and Stanford Medical Centre The first dedicated Digital Imaging and Communications in Medicine (DICOM) tool provides 3D annotation for modalities such as CT,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI",
         "AI in Healthcare"
       ]
@@ -458,33 +536,24 @@
     {
       "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
       "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
-      "excerpt": "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research.",
+      "excerpt": "Varma will chair the session and discuss how artificial intelligence (AI ... IMPLICITY® develops AI and knowledge based algorithms to reduce healthcare professionals workload and allow to potentially predict patient health status. The IMPLICITY ...",
       "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "originalUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "webUrl": "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "originalUrl": "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:30:00-07:00",
+      "publishedDateTime": "2022-04-19T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
+        "name": "CBS 42",
+        "domain": "cbs42.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1222,92 +1291,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-an-ai-model-can-help-predict-adverse-events-from-new-drug-combinations.md",
-      "title": "An AI model can help predict adverse events from new drug combinations",
-      "excerpt": "Preliminary data from an artificial intelligence model could potentially ... making it difficult to decide whether a new combination therapy would risk their health,\" Westerman said.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/drug-1.jpg",
-          "width": 2880,
-          "height": 1923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.amp",
-      "publishedDateTime": "2022-04-08T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-aacr22-artificial-intelligence-predicts-side-effects-of-combination-therapies.md",
-      "title": "AACR22: Artificial intelligence predicts side effects of combination therapies",
-      "excerpt": "Researchers at the Cancer Center Amsterdam (Netherlands) report their preliminary findings using artificial intelligence to predict the adverse ... making it difficult to decide whether a new combination therapy would risk their health,” explains Bart ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.biotechniques.com/cancer-research/artificial-intelligence-predicts-side-effects-of-combination-therapies/",
-      "originalUrl": "https://www.biotechniques.com/cancer-research/artificial-intelligence-predicts-side-effects-of-combination-therapies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.biotechniques.com/wp-content/uploads/2022/04/Drug-combination-therapeis.png",
-          "width": 802,
-          "height": 344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioTechniques",
-        "domain": "biotechniques.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

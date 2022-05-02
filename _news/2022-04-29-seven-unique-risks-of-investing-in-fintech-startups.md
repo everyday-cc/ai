@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New deep learning techniques lead to materials imaging breakthrough"
-    excerpt: "Supercomputers help researchers study the causes and effects—usually in that order—of complex phenomena. However, scientists occasionally need to deduce the origins of scientific phenomena based on observable results."
-    publishedDateTime: 2022-04-27T15:20:00Z
-    webUrl: "https://techxplore.com/news/2022-04-deep-techniques-materials-imaging-breakthrough.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-deep-techniques-materials-imaging-breakthrough.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-deep-techniques-materials-imaging-breakthrough.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-deep-learning-tech.jpg"
-        width: 533
-        height: 515
-        isCached: true
   - title: "AI bot takes moving-making to a new level"
     excerpt: "Writer’s block may become a thing of the past as artificial intelligence is increasingly harnessed in the creative arts, and the first film written by a Japanese AI bot is aiming to demonstrate what it can do at a major short film festival this year."
     publishedDateTime: 2022-04-30T01:00:00Z
@@ -68,6 +52,22 @@ related:
       - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_155778-870x489.jpeg"
         width: 870
         height: 489
+        isCached: true
+  - title: "Hashtag Trending May 2 – Stop using Internet Explorer; AI tool to detect deep fakes; cryptomining in Texas rivals Hustan energy use"
+    excerpt: "One computer scientist from Singapore bested 469 other teams from around the world in a gruelling 5-month-long AI competition. The competition was held to develop the best AI model for detecting deep fakes. The one-man team, Wang Meiming, built a deep fake ..."
+    publishedDateTime: 2022-05-02T09:00:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 27
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
         isCached: true
   - title: "Fintech firm Propflo closes pre-seed funding"
     excerpt: "The business has a strong advisory team including the chief executive of Yopa and ex-Purplebricks managing director Verona Frankish, and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage ..."

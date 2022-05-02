@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-    publishedDateTime: 2022-04-29T12:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
-        width: 400
-        height: 215
-        isCached: true
   - title: "Baidu, Pony.ai first to receive driverless taxi permits in Beijing"
     excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
     publishedDateTime: 2022-04-28T09:07:00Z
@@ -106,6 +92,20 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ap22118230409001-sixteen_nine.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+    publishedDateTime: 2022-04-29T12:01:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-robotics-fc46607db5abcdc9cc0c41482668872a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 66
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."

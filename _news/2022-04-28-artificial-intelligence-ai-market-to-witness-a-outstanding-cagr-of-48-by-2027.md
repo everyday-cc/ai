@@ -39,6 +39,20 @@ related:
         width: 305
         height: 250
         isCached: true
+  - title: "Image Recognition Market Predicted to Grow at CAGR of 21.8% By 2025 with Revenue $86 Billion"
+    excerpt: "Growing popularity of media cloud services and increasing pace of technological advancements in facial recognition technology drive the growth of the global image recognition market. Moreover, surge in the number of mobile devices equipped with cameras and ..."
+    publishedDateTime: 2022-05-02T08:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-predicted-to-grow-at-cagr-of-21-8-by-2025-with-revenue-86-billion"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cd9543b3ef41b34c81c8ea127008874018421dea-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "g1GDru1QEK+qHW3paXcp+I+vERm5QW6+yJUAOqYAjfUyvDaSYJo99kKsVQgURppDWRWTyq/03Wdn77JEaPw50oiO88N4KYYXRls4QKADLzU4b3FAtCf52m2TStuKKNJuSfiS66LHOQWaznjWqm6N2kGPBhtk2/lyXe7MjtMmQYDB5f5jk5Q/vUAOu07UDoUueNwHuOklmq83dPBMkwyo7nFxuG+yB4r6kAe/F20bUN5SwJg/f0T2GNJMusXEnjAX0D4aqniYk/8AID4Ex2N+g4yCbTW+pvFmUp2klrnkGCo+mdwIHOxnlCdK363r0sL3FewesufuP5XM4MCvk8ONUmBSoY3TnhxRFu2wdid6CqQ=;yqR7hGB02o5/tnTqmGSTNA=="
 ---

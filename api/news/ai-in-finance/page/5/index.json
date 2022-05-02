@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-23-how-a-financial-planner-went-from-broke-to-generating-85-million.md",
+      "title": "How A Financial Planner Went From Broke To Generating $8.5 Million",
+      "excerpt": "Failure is a great teacher. When a financial manager went into debt, she took her own advice to manage her business, wealth and investments better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
+      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62159857d3e152c3f3c0952c/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
+      "publishedDateTime": "2022-02-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-digital-twins-ai-ml-transforming-the-fintech-landscape.md",
       "title": "Digital Twins: AI & ML Transforming the Fintech Landscape",
       "excerpt": "As emerging technologies of AI and ML get weaved into the fintech fabric, the industry will have to prep up to address an avalanche of new use-cases",
@@ -1345,50 +1397,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-the-ai-technology-revolution-in-practical-data-protection-in-finance.md",
-      "title": "The AI technology revolution in practical data protection in Finance",
-      "excerpt": "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential.",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "originalUrl": "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "publishedDateTime": "2022-02-03T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -168,20 +168,6 @@ related:
         width: 990
         height: 550
         isCached: true
-  - title: "Supercharging customer experience for financial services with Voice AI technology"
-    excerpt: "AI Rudder can make this vision a reality through advanced Voice AI technology. Our Voice AI uses automatic speech recognition (ASR) and natural language understanding (NLU) to process human conversations. Our machines can receive and interpret customer ..."
-    publishedDateTime: 2022-05-02T07:57:00Z
-    webUrl: "https://www.business-reporter.co.uk/finance/supercharging-customer-experience-for-financial-services-with-voice-ai-technology"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 34
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/014/AI_Rudder_-_Main_Image_iStock_-_Thumb_-1049719076.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Finbots.AI Raises $3M From Accel In Series A"
     excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
     publishedDateTime: 2022-04-30T19:27:00Z

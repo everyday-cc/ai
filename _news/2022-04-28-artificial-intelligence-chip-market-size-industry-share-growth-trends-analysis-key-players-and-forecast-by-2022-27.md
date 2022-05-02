@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27"
 type: article
 quality: 62
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -104,15 +104,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Yogurt Market From 2022-2032: Growth Analysis By Manufacturers, Regions, Types And Applications"
-    excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032. The global yoghurt industry is fueled primarily by the health benefits of yoghurt intake and a growing public awareness of the need for weight loss."
-    publishedDateTime: 2022-04-27T15:10:00Z
-    webUrl: "https://www.fmiblog.com/2022/04/27/yogurt-market-from-2022-2032-growth-analysis-by-manufacturers-regions-types-and-applications/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "zamG6WxfMtu0aQbjh7vmXnVtqM5za/wp53GxZN9Qx86qIwvO0e0cJ55rhHNLeNHZfSgX1yORHgPB4UNXJPrqyTV14po7W0r5SyCOvWt67SXKy9bqlahEUv2IdkOyhuHd1X2XS7Ze3tykby8wjBhN76Sk+FOKVLzNulGOaXy/Yp69j7zvVZirHf2gR7CgGaNSvM1sHibG8Q5hwIneua9d37c+N11qD7GFykgwdIDBAEsGqL4yhQEqev3Fb6/192kf88dN8BsoU+1cJsMBWf0BxUjO/wA2eRRJMW77SlMahETL0yrjFesj18awXNg+5St6Pwu2luSBmw+8r3mf2DpAaBqnlz76lZ1gmVREjHcx3z4=;UiTQ8jf+bTglXdVvIa1aWA=="
 ---

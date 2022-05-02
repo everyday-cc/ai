@@ -19,12 +19,12 @@ topics:
   - AI
 
 related:
-  - title: "Best Cloud Computing Stocks To Buy Right Now? 3 To Know"
-    excerpt: "Trending Cloud Computing Stocks To Watch In May 2022. Cloud computing stocks have seen their ups and downs over the past few years. For obvious reasons, many cloud computing com"
-    publishedDateTime: 2022-04-27T16:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/best-cloud-computing-stocks-to-buy-right-now-3-to-know"
-    ampWebUrl: "https://www.nasdaq.com/articles/best-cloud-computing-stocks-to-buy-right-now-3-to-know?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-cloud-computing-stocks-to-buy-right-now-3-to-know?amp"
+  - title: "2 Top Growth Stocks to Buy Now and Hold Through Any Market Crash"
+    excerpt: "Yes, its product portfolio is built around the graphics processing unit (GPU), a chip designed for visual effects and ... of subscription software products for artificial intelligence (AI) and 3D design. That comprehensive approach has made the Nvidia ..."
+    publishedDateTime: 2022-04-29T11:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-top-growth-stocks-to-buy-now-and-hold-through-any-market-crash?time=1651231501"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-top-growth-stocks-to-buy-now-and-hold-through-any-market-crash?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-growth-stocks-to-buy-now-and-hold-through-any-market-crash?amp"
     type: article
     provider:
       name: Nasdaq

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-12-8-predictions-for-the-future-of-kyc-compliance.md",
+      "title": "8 Predictions for the Future of KYC Compliance",
+      "excerpt": "1. Artificial intelligence and machine learning Artificial intelligence and machine learning are being leveraged across every industry in order to provide more personalized services for customers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/8-predictions-for-the-future-of-kyc-compliance",
+      "originalUrl": "https://www.nasdaq.com/articles/8-predictions-for-the-future-of-kyc-compliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/8-predictions-for-the-future-of-kyc-compliance?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/8-predictions-for-the-future-of-kyc-compliance?amp",
+      "publishedDateTime": "2022-03-11T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-aci-worldwide-introduces-aci-fraud-scoring-for-financial-institutions.md",
       "title": "ACI Worldwide Introduces ACI Fraud Scoring for Financial Institutions",
       "excerpt": "has announced the launch of Fraud Scoring Services—which is a fraud scoring platform offering next-gen machine learning capabilities for financial institutions of all sizes “to deliver real ...",
@@ -1334,58 +1368,6 @@
         "name": "Impacts",
         "domain": "techbullion.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-how-a-financial-planner-went-from-broke-to-generating-85-million.md",
-      "title": "How A Financial Planner Went From Broke To Generating $8.5 Million",
-      "excerpt": "Failure is a great teacher. When a financial manager went into debt, she took her own advice to manage her business, wealth and investments better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
-      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62159857d3e152c3f3c0952c/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/02/23/how-a-financial-planner-went-from-broke-to-generating-85-million/amp/",
-      "publishedDateTime": "2022-02-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

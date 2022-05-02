@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-25-ai-increasing-transparency-in-used-car-sales.md",
+      "title": "AI increasing transparency in used car sales",
+      "excerpt": "Jim O’Brien, general manager, Americas at RAVIN.AI, discusses how AI can be used as a tool to increase transparency in used car sales",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/ai-increasing-transparency-in-used-car-sales-123499239/",
+      "originalUrl": "https://www.information-age.com/ai-increasing-transparency-in-used-car-sales-123499239/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/04/how-the-online-safety-bill-can-make-internet-safer-for-all-512x220.jpeg.optimal.jpeg",
+          "width": 512,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-how-much-does-an-ai-based-recommendation-engine-cost.md",
       "title": "How much does an AI-based recommendation engine cost",
       "excerpt": "Just like any other AI project, the cost of the recommendation engine depends on many factors like the business goal, data availability, data complexi..",
@@ -1105,58 +1148,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-cool-or-creepy-video-shows-ai-robot-taught-how-to-open-doors.md",
-      "title": "Cool or Creepy? Video Shows AI Robot Taught How to Open Doors",
-      "excerpt": "Opening doors is a complex task for robots. Using a deep learning approach, researchers taught one to open a door with a 96.8% success rate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050",
-      "originalUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2024457/robot-opening-door.png",
-          "width": 1696,
-          "height": 1036,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-ai-robot-taught-open-doors-japan-deep-learning-1700050?amp=1",
-      "publishedDateTime": "2022-04-22T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Seven Hardware Advances We Need to Enable the AI Revolution"
-    excerpt: "AI will change our lives, but will require new processors and hardware to meet new standards for affordability, performance, and power."
-    publishedDateTime: 2022-04-27T15:07:00Z
-    webUrl: "https://www.arm.com/blogs/blueprint/seven-advances-ai"
-    type: article
-    provider:
-      name: ARM architecture
-      domain: arm.com
-    quality: 39
-    images:
-      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2022/04/magicball.jpg"
-        width: 1940
-        height: 980
-        isCached: true
   - title: "AiM Future Joins the Edge AI and Vision Alliance"
     excerpt: "The company will demonstrate its edge AI accelerator and software technologies at the upcoming Embedded Vision Summit AiM Future, a leader in embedded machine learning intellectual property (IP) for edge computing devices,"
     publishedDateTime: 2022-04-27T17:48:00Z

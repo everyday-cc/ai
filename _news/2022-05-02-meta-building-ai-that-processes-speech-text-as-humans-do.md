@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Meta building AI that processes speech & text as humans do"
-excerpt: "New Delhi, May 2 (IANS): Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In ..."
-publishedDateTime: 2022-05-02T06:57:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=953987"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=953987"
+excerpt: "New Delhi: Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with ..."
+publishedDateTime: 2022-05-02T09:30:00Z
+originalUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do"
+webUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do"
+ampWebUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
+cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/royalepage_square1.jpg"
-    width: 280
-    height: 250
+  - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Meta-building-AI-that-processes-speech-text-as-humans-do-831x450.jpg"
+    width: 831
+    height: 450
     isCached: true
 
 related:
@@ -59,6 +62,6 @@ related:
       domain: siliconangle.com
     quality: 19
 
-secured: "zC4hT70yOmhltZUidYwuCGix+ZmUbn987CiiE3VW8dXdRINtkzg7Bz/tFRPa83XPDjRXi1GS4M86TRRwNuMWY3Cd+sKYPicOBegVcwBL/6rQ9dRFzWjgtV3/Wblfin3yM8uEmRuwDbX58Zp5VCI85uQPZloouA8qxrSmSf20ZcdkTG1opEQsX/FGDpIHmN/0PBXyys2WC7oj44GjdsPAP4As3/HPRXjVbAFfitWdqe4EZREzDc2BkMt/zYSJqaRAwqw0tPm1IbEWV41I6ukCcSy1ypWekjYOLEDIgOcQszM3uL5njzckKfNbeqgbr4MnxddrFhfQvErS+6RRTdOos4y44FaQstaeZYnKtJhIKrQ=;h1el+h9rWemcdc1zJqXZwA=="
+secured: "dwg5yGmveQiY0ccU6fe/1Q00qA0q4mzdIolA+u3k/Yhgn1HMJdceJrmefD2vWeWRVsGd5/sglrHszQEFXkhqa6tKc9aLpgoZUuVbtNZOizDhQZwgM9+kFEK2cLxt4tr7ImWflLSlKSN/Pxwbj6f8cSa0sVkMsRPGsh+oj3Skr8yEnm5Vah+cCf4oDJ228eT6IpH98XghxFHoe7UZdCS5ei5ryK5esmacWjEgRNGpIVyQPubS/afey02pP44XoPAF7g6DyOM7b54UTaLnSj+mAhAoqCIi7n9BO4YNEPoQUv0zmpgTW6BqXy7QlLS1goJyTJal8O+cDKgApl9EBpvtpzlmJkq5S8/Kr6k/WyhSHCg=;Sp7nj5APZF9yusWeivbyXw=="
 ---
 

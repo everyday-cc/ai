@@ -2,6 +2,82 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-20-cathie-wood-on-twitter-europe-in-recession.md",
+      "title": "Cathie Wood On Twitter Europe In Recession",
+      "excerpt": "Magnifi is a fintech platform that uses artificial intelligence so individuals and advisors can instantly search stocks, ETFs, mutual funds and model portfolios and trade based on their preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22",
+      "originalUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
+      "title": "Artificial Intelligence Is Creating a New Colonial World Order",
+      "excerpt": "My husband and I love to eat and to learn about history. So shortly after we married, we chose to honeymoon along the southern coast of Spain. The region, historically ruled by Greeks, Romans,",
+      "sourceUrl": null,
+      "webUrl": "https://pulitzercenter.org/fr/node/26547",
+      "originalUrl": "https://pulitzercenter.org/fr/node/26547",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/shutterstock_2122981079.jpg?h=790be497&itok=juXEcP9M",
+          "width": 768,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pulitzer Center",
+        "domain": "pulitzercenter.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing.md",
       "title": "Integrate ServiceNow with Amazon Lex chatbot for ticket processing",
       "excerpt": "Conversational interfaces (or chatbots) can provide an intuitive interface for processes such as creating and monitoring tickets. Let’s consider a situation in which a recent hire on your team is required to cut tickets for office equipment. To do so, they have to interact with a ticketing software that",
@@ -206,49 +282,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated.md",
-      "title": "Even Financial's Embedded Finance Marketplaces Surpass $5 Billion in Credit Facilitated",
-      "excerpt": "Leveraging machine learning and advanced data science, Even solves a significant pain point in financial services customer acquisition by seamlessly bridging financial service providers and channel partners via its industry-leading API and embedded finance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated/article_dab178ba-e2bf-5aca-8da1-ec3c829808fd.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated/article_dab178ba-e2bf-5aca-8da1-ec3c829808fd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/0a/40a77029-ab72-5293-9a7a-85d19c7f6454/6076f5942ed8c.image.jpg?crop=1486%2C780%2C507%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -616,6 +649,40 @@
       ]
     },
     {
+      "path": "_news/2022-04-19-even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated.md",
+      "title": "Even Financial's Embedded Finance Marketplaces Surpass $5 Billion in Credit Facilitated",
+      "excerpt": "Even Financial (\"Even\"), the category-leading embedded finance marketplace and independent subsidiary of MoneyLion, Inc. (NYSE: ML), has announced it has now facilitated over $5 billion in consumer credit,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-even-financials-embedded-finance-marketplaces-surpass-5-billion-/2022/04/19/9585308.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-even-financials-embedded-finance-marketplaces-surpass-5-billion-/2022/04/19/9585308.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-encores-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round.md",
       "title": "Encore’s Backend Development Engine for the Cloud Transforms Developer Experience, Attracts $3m in Seed Round",
       "excerpt": "Encore comes out of Beta as it announces seed round, enabling more developers than ever to build and deploy new cloud backends in minutes while keeping control of their data. STOC",
@@ -767,6 +834,40 @@
       ]
     },
     {
+      "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
+      "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
+      "excerpt": "Varma will chair the session and discuss how artificial intelligence (AI ... IMPLICITY® develops AI and knowledge based algorithms to reduce healthcare professionals workload and allow to potentially predict patient health status. The IMPLICITY ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "originalUrl": "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS 42",
+        "domain": "cbs42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-the-great-recognition-achievers-report-reveals-recognition-reduces-turnover.md",
       "title": "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover",
       "excerpt": "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,",
@@ -904,49 +1005,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
-      "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
-      "excerpt": "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research.",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "originalUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-19-bioxcel-therapeutics-announces-formation-of-onkosxcel-therapeutics-to-develop-medicines-focused-in-oncology.md",
       "title": "BioXcel Therapeutics Announces Formation of OnkosXcel Therapeutics to Develop Medicines Focused in Oncology",
       "excerpt": "OnkosXcel, a Company subsidiary, to utilize proprietary AI-powered platform to progress therapies to address difficult-to-treat cancers with high unmet need New structure to unlock growth opportunities and maximize value of neuroscience and immuno-oncology franchises Lead pipeline asset,",
@@ -1020,91 +1078,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-afraid-of-public-speaking-this-ai-can-help.md",
-      "title": "Afraid of public speaking? This AI can help",
-      "excerpt": "There's that old Seinfeld joke, the one about public speaking ranking higher than death on people's list of top fears. Seinfeld points out with characteristic deadpan that most funeral attendees would rather be in the casket than give the eulogy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "originalUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ab11aa2d2cce15188b0059a1b92241d6a95f41d9/2022/04/18/55457513-6ed6-4049-9e30-6b232f760de9/conference-crowd.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "publishedDateTime": "2022-04-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services.md",
-      "title": "Microsoft Azure UAE Regions launches four new key services",
-      "excerpt": "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE regions. These latest services mean that regional Microsoft Cloud customers now have access to almost all of Azure’s tools,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-uae-regions-launches-four-new-key-services-b3b680ui",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-uae-regions-launches-four-new-key-services-b3b680ui",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

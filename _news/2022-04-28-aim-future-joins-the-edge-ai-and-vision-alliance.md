@@ -63,20 +63,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Seven Hardware Advances We Need to Enable the AI Revolution"
-    excerpt: "AI will change our lives, but will require new processors and hardware to meet new standards for affordability, performance, and power."
-    publishedDateTime: 2022-04-27T15:07:00Z
-    webUrl: "https://www.arm.com/blogs/blueprint/seven-advances-ai"
-    type: article
-    provider:
-      name: ARM architecture
-      domain: arm.com
-    quality: 39
-    images:
-      - url: "https://www.arm.com/blogs/blueprint/wp-content/uploads/2022/04/magicball.jpg"
-        width: 1940
-        height: 980
-        isCached: true
   - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
     excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
     publishedDateTime: 2022-04-28T13:17:00Z

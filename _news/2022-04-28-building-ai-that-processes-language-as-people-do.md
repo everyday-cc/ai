@@ -9,8 +9,8 @@ ampWebUrl: "https://about.fb.com/news/2022/04/building-ai-that-processes-languag
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/amp/"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Facebook Live
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta building AI that processes speech & text as humans do"
+    excerpt: "New Delhi: Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with ..."
+    publishedDateTime: 2022-05-02T09:30:00Z
+    webUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do"
+    ampWebUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 59
+    images:
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Meta-building-AI-that-processes-speech-text-as-humans-do-831x450.jpg"
+        width: 831
+        height: 450
+        isCached: true
   - title: "Meta AI announces long-term study on human brain and language processing"
     excerpt: "Researchers at Meta AI have embarked on one such initiative. The research arm of Facebook’s parent company today announced a long-term study to better understand how the human brain processes ..."
     publishedDateTime: 2022-04-28T18:57:00Z
@@ -35,20 +51,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
-  - title: "Meta building AI that processes speech & text as humans do"
-    excerpt: "New Delhi, May 2 (IANS): Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In ..."
-    publishedDateTime: 2022-05-02T06:57:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=953987"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/royalepage_square1.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "To build better AI, Meta is studying how human brains process language"
     excerpt: "“Artificial neural networks for language are getting closer and closer to mimicking the activity of the human brain, and thereby shedding new light on how thought might be implemented in neural ..."
     publishedDateTime: 2022-04-28T17:37:00Z
