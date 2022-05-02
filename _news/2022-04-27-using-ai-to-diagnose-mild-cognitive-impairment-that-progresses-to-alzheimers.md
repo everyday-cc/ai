@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.amp"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence aids to diagnose mild cognitive impairment that progresses to Alzheimer's"
-    excerpt: "Alzheimer's disease is the main cause of dementia worldwide. Although there is no cure, early detection is considered crucial for being able to develop effective treatments that act before its progress is irreversible. \"We first compared MRIs from patients ..."
-    publishedDateTime: 2022-04-27T07:42:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/220453"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 39
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/c65469bd-d0a7-45b1-8890-5276674dca9d-ogers20cover.jpg"
-        width: 400
-        height: 599
-        isCached: true
   - title: "Can AI Diagnose Cognitive Impairment Before It Progresses to Alzheimer's?"
     excerpt: "An artificial intelligence system has been used to distinguish between stable and progressive cognitive impairment from MRI images with 85% accuracy."
     publishedDateTime: 2022-04-28T08:49:00Z

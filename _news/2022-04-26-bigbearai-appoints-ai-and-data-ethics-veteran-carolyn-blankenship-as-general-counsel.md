@@ -1,34 +1,20 @@
 ---
 category: news
 title: "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel"
-excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has appointed Carolyn Blankenship as General Counsel. In this role, Blankenship will develop and lead corporate legal strategy supporting BigBear."
-publishedDateTime: 2022-04-26T12:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm"
+excerpt: "Blankenship brings decades of experience in artificial intelligence, data ethics, intellectual property, litigation, risk management, and M&A to BigBear.ai. BigBear.ai (NYSE: BBAI"
+publishedDateTime: 2022-04-26T12:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI Ethics
   - AI
 
-related:
-  - title: "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel"
-    excerpt: "Blankenship brings decades of experience in artificial intelligence, data ethics, intellectual property, litigation, risk management, and M&A to BigBear.ai. BigBear.ai (NYSE: BBAI"
-    publishedDateTime: 2022-04-26T18:01:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/26/bigbear-ai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 27
-
-secured: "Lx3iT+Gn5mwLAWhQn+Nj7MgRZkm1L0iPzxF2gx4YHlWasZMunOFn1voLXd9NTcW/68/x8aLSFVpGHPZSg1L5LLCwUSGxxLRdlvTzlQv6P/e+wUi+XxUFFnP4GYp+oMYbuxJadrZ6Wc7BZkAYsOQPYZkiM3tsb2mxHe92b796N+e1m84yEJxSo5bzMIcw3a3Z3GUICPYw2YFSe9dRkRJk+XGWKTsZvZe2qACuJdLML6Ldy2RNziQY2oYi4huQXbQYRICz2K+ATKx/EFksp53tKv9hwOmSHFyrjsLNBtuzzuq+JQUBnTQKfP87shQtsxv0s+RO1FneHS2ilNDk0LmzUF+0NvzicpzZ54aXg01qjzIuTxGBZBEA531yoQiZ9W2xRapmTkBfkys35OM+dTSxHJ4WHpvfPqQjfSgUZWaN+htwM5LBvZRBwBto19vSdlbe1G4J8KFigtzzvNZEJuRmcpl6rbZQq40CH1VOZE4F0ZiTUoTZPFZjnC05eqYXcrkLzQ0BLZiXvVAfuwFv2zyaTw==;4LnI630R+omErF+NvBd25g=="
+secured: "luzh4205aiHrNhF/J5SSDwp4RO0YCVhO97tl1n5k1lXQmro8TpDnc+BeUdXAwnDlzmQ1msUAf3JshUBJdeLwi/Wen6ybK/mLkv0n0IyQhWCuSCT71crPI8GVitAy5j1ygD5ik5Ax7G7qgCyJpbFYNFi3zVojSmNuTskyHzOuZ/QN4gFMLZLVNOk7Q9fql5aPIYdbzRToYtLfyNHbuMYORgyzAdyeyH9lEBiBoNVuR5xFYOgEsG/Gn3U/A0TuY4z0vxxIS8Gj+/vHiCUNzfs5Gab6BTcdxoSFjzNLUYUT1qfTL649vMxoMfgOq3lMxgoo3Ix8T8tzB13HcnB9kmVGzp5dMrOCulkqbATrpQo6ZF+z3UItqhAjkwHGIN/ymO0VxTdvB69kmVHaAgQbFwi5z9ZxuRT/TTW5oPT+ySZI8/cX63E+YG22tDH8S9SEI1S5mvUCqQjBNUC5Xi+Ui8McyIDHzvod8cYgiBx82HWVNqqiikQEvgvu8+zW72mzCx2Q+dQwogDfpGxjMZMI1vBHmA==;PFcxwDNCiLlV/SMt2v8erw=="
 ---
 

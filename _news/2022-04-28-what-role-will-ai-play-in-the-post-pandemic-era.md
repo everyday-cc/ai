@@ -24,22 +24,6 @@ images:
     height: 422
     isCached: true
 
-related:
-  - title: "Over two-thirds of UAE workers believe AI and data science will impact their role in the next five years"
-    excerpt: "The YouGov study commissioned by Dataiku reveals the country to be pro-AI and ahead of its EMEA peers on awareness and action, but work still needs to be done to democratize the use of data and AI"
-    publishedDateTime: 2022-04-27T07:30:00Z
-    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/over-two-thirds-of-uae-workers-believe-ai-and-data-science-will-impact-their-role-in-the-next-five-years-biyy9nnd"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 20
-    images:
-      - url: "https://static.zawya.com/version/c:OWJiNzcxMTgtNTIyMS00:MTUyZTE3/owres-jpg.jpg"
-        width: 900
-        height: 1350
-        isCached: true
-
 secured: "yQ0sk5Va4jjkGhcZ+lPm7nVxuo3kM8G+Cc0tSvDiPcxFyjgEnocDmO1l7Egv6DoaUJDOTTOMq0D2bw1Cxf/uvUXSKPnelRFIo9FDeMZbkba9SN+JuUc/U6BuRhu+3VRgFAZeDjKU402v13o5Jo+VBCo6AnBvKsPJs7VaeJWhIQomIuw6elWGH9IQRK8tnrifJZf3uhkdxdcfByHht8W0GCAMCeVEYpnDfUa2P5IM2ND0RpJj2wRNOrkM1mtgeMtPCYX1N0idQuj+xMdZrfAz7oxknSNHOoJznM7bF5Y//Nx/mwOOPuij11xPonDAfwXq5gLxYud9hJJEnbCLgq/FCnaPggntB+eKO4JGOKMF5AYsuid9yWsWoujp4ox1xwJ++w40oDuek4YpQ/uI8NCtrCdAGTrp17KwducbvhPEBQ011b41IjDa2gc5rGBWjAv1RG4KO1xcCMNvjYRqT+HjF9s/9qRfa5eZty3gAn+6UmlXqil9etmoc6i3knU8ofFOuUg5L5ZjL2co1b9Yze9HHA==;s3+04Ly3KIrBqkbr2FSyDA=="
 ---
 

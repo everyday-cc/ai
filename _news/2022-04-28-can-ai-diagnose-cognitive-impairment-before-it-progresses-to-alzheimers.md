@@ -40,20 +40,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Artificial Intelligence aids to diagnose mild cognitive impairment that progresses to Alzheimer's"
-    excerpt: "Alzheimer's disease is the main cause of dementia worldwide. Although there is no cure, early detection is considered crucial for being able to develop effective treatments that act before its progress is irreversible. \"We first compared MRIs from patients ..."
-    publishedDateTime: 2022-04-27T07:42:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/220453"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 39
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/c65469bd-d0a7-45b1-8890-5276674dca9d-ogers20cover.jpg"
-        width: 400
-        height: 599
-        isCached: true
   - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market, Global Outlook and Forecast 2022-2028"
     excerpt: "This is also an ideal application of artificial intelligence, because it is particularly good at discovering very subtle but decentralized processes. This report contains market size and forecasts of Artificial Intelligence (AI) in Alzheimer’s ..."
     publishedDateTime: 2022-04-30T12:56:00Z

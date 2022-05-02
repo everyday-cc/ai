@@ -1,31 +1,45 @@
 ---
 category: news
-title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
-excerpt: "Please visit http://www.rgrdlaw.com for more information. (PRNewsFoto/Robbins Geller Rudman & Dowd LLP)\"> The C3.ai class action lawsuit alleges that the IPO's offering documents were negligently prepared and, as a result, contained untrue statements of ..."
-publishedDateTime: 2022-04-30T22:03:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26919198/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-a"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/n26919198/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-a"
-ampWebUrl: "https://www.benzinga.com/amp/content/26919198"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26919198"
+title: "C3.AI 48 HOUR DEADLINE ALERT: ClaimsFiler Reminds Investors With Losses in Excess Of $100,000 of Deadline in Class Action Lawsuit Against C3.ai, Inc."
+excerpt: "NEW ORLEANS, La.--(BUSINESS WIRE)--ClaimsFiler, a FREE shareholder information service, reminds investors that they have only until May 3, 2022 to file lead plaintiff applications in a securities class action lawsuit against C3.ai, Inc. (“C3” or the ..."
+publishedDateTime: 2022-05-02T00:51:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=656041"
+webUrl: "https://us.acrofan.com/detail.php?number=656041"
 type: article
-quality: 33
-heat: 33
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
+  - title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
+    excerpt: "Please visit http://www.rgrdlaw.com for more information. (PRNewsFoto/Robbins Geller Rudman & Dowd LLP)\"> The C3.ai class action lawsuit alleges that the IPO's offering documents were negligently prepared and, as a result, contained untrue statements of ..."
+    publishedDateTime: 2022-04-30T22:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26919198/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-a"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26919198"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26919198"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
     excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
     publishedDateTime: 2022-05-01T16:04:00Z
@@ -111,21 +125,7 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 0
-  - title: "C3.AI 48 HOUR DEADLINE ALERT: ClaimsFiler Reminds Investors With Losses in Excess Of $100,000 of Deadline in Class Action Lawsuit Against C3.ai, Inc."
-    excerpt: "NEW ORLEANS, La.--(BUSINESS WIRE)--ClaimsFiler, a FREE shareholder information service, reminds investors that they have only until May 3, 2022 to file lead plaintiff applications in a securities class action lawsuit against C3.ai, Inc. (“C3” or the ..."
-    publishedDateTime: 2022-05-02T00:51:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=656041"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
-secured: "n63wJdSqPwX+VmYOxoKCFeGhcDPJp7KYYBNodVEdtbeUWMzjbZgeUAtZHhXWSAHENRHzL7R7n3ecLObnsTof7XVTCbozrtuE7lCqMweFdb1U1qcfKSzf55QeUiDSAQhn8yENmvECX0YDRsJ6c3ndMBcvq1wIFiL35fevawJAewRFahXGg2VFM1VpxJYUBNhvzwnUwrr1VfPu6qQwMVhwpIQduxA7JVuZj06J5l04Mz22Df7Wl0yKPzCrPVBzQ0/AXr4Y3t/qFvtUEwzGaGx86roteQpfOdgPm4LbZ7Xr1OKmCLP18WEAl5xz3atMD2Zg4Sp9isXHVaQhYEBY1vJd34IYZ4WU81YNaqpIspcuJUYQBjKqUrkpLI0FKajSWsEpSYZJZOLFfxwG9rgl3n+0cwD/bneEJX1I3HtdOoPxUZr4SxUkDu1WEZqFHfQChiqXun5GRBBqj/RgLEMwuNbFr6CIXsO/eJUMI4Z7wl+cRLhAAyelxsttJ9ldLcIkinUEBO81zlc+dPDYggY2PwE1pQ==;S1Qm2G/BK5Uh/Jjf/EEHNQ=="
+secured: "xJBH9Hcj8s5+6Y6SMVkTLWT188awiB/qNIWgsaYVW+L1V7OtJf8GKtPU+DiNySopm58aoZbkyxXX6F2jTQ3S0jC1W60Qpu/fePeApUyOv0KwNOWGr+GRQYvQGmV4mfknlKqSePn1bLxlJrPKfbwaYrRbisPHwYaeWVUD/wrZXyG2/3RP7Gu2imtdeaY7htgjUf3+sLyiUOoVhYs6NRya3OV7FqWAE219cdv+z7jUqrdOYIZYxkxNwF3JS0SgTDfDgiJFW8GZtHmuuRFmI2kMVdEBN8vgijOinIkqgenTF+DW4xvLJVGyEhAzgMW/Bp8sYI6T46yciCBh5Sk1XjCNSzPFrd8wN61B0JXGxT63+so=;i66+SXLs1rY5PbSCxuuakA=="
 ---
 

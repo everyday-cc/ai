@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging"
-excerpt: "Together addressing the most pressing problems plaguing the food industry BEDFORD, Mass., April 20, 2022 /PRNewswire/ -- Today Soft Robotics Inc. announced it has teamed with Quest and Ossid to offer a robotic handling and packaging solution to the food industry powered by Soft Robotics’ mGripAI™ technology."
-publishedDateTime: 2022-04-20T15:26:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-health-robotics-artificial-intelligence-85b26bfab892e7e36dfb69ec1d0e1e10"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-health-robotics-artificial-intelligence-85b26bfab892e7e36dfb69ec1d0e1e10"
+excerpt: "and more and Soft Robotics' mGripAI platform that uses ultra-fast 3D vision, artificial intelligence, and soft robotic grasping to enable picking of irregular and delicate food items directly from ..."
+publishedDateTime: 2022-04-20T15:51:00Z
+originalUrl: "https://pix11.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/"
+webUrl: "https://pix11.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WPIX
+  domain: pix11.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2022/04/foreo.jpg?w=2000&#038;ssl=1"
+    width: 425
+    height: 523
     isCached: true
 
-secured: "sgwzc6lktY9Q0mOatGZsBauVOqDvpG2kyx8ulc0PDpk0c232v53i2zdf8EoC9aOGOUy/NButkEFNhbws8rDuMHxCzGpauHfN9P7NMTaMPVrdp9Y5TKi1pXzIfEn3f1ts7Zm23nLbSB+Bu+MhNVI0NZmgsNSMkOSN2a6cOgDwaqktBojmaTF6yGDNWX3IUMWt6hXdxafTA+lkJGz4sOhjkXIi8EQUI8hKrKIZqmixcP8Wppli/3r+1Ug7xUVjHCEhh7y5+1HlkEi1CiZa/0ZpLpm8Ry5RhPcTcplFEjfbHmcvO8C5o20lKckT3NF/mmBKyP3EdWxTP4bvsYDcL2rP+WzrmOZ9eNxYGt3zrkxG5PY=;DfdZbf/5nSs3z9Mt9JRonA=="
+secured: "bfTMg173N3xLdwZCIMSXO1+yHOaNFp3AhEfmZH3qqSV0/j956rd8NN0Gi8X8g7XJiWkkVpQI7CWLBO5itpDq569v65S1j2lhy5/s3pSF//cEwvq3ev02GXDCyD+37Y0khL8MI6xIGmgQT2kRQhq4hymmFJTTA5z4vP9svM6HxoWOvuTs+mXxu2q+IxgXX9Uv4aNCrEf7u/y4gdVYidvKihEvHWlzxlXLi3w7UR3XQJNFQ0cJ4fiDozCiwWaIDKXauGAyXrIE5GbkQV68RuqIpb0fCJve5gUIS+Oy+5wKFngCGb7PcQ/9YHsoSlRhixgEkgG7FrqdsjYO2To6AXRSDclVueSdKWRFgW3q6nq1824=;tB75eiePXH7hl4mHOzTY9w=="
 ---
 

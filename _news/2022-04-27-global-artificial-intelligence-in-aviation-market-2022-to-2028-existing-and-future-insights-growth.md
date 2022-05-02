@@ -44,34 +44,6 @@ related:
         width: 640
         height: 544
         isCached: true
-  - title: "Machine Learning Market size Witness a Healthy Growth during 2022 to 2028 with Fastest Growing Regions and Countries Data"
-    excerpt: "Machine Learning Market - Insights: Based In the end-use industry, “Machine Learning Market\" 2022 is segmented into"
-    publishedDateTime: 2022-04-27T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-witness-a-healthy-growth-during-2022-to-2028-with-fastest-growing-regions-and-countries-data-2022-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market Set for Rapid Growth during 2021 – 2031"
-    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
-    publishedDateTime: 2022-04-27T07:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-set-for-rapid-growth-during-2021-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/87636c7ff7b49abf28cf979ca6b1bb55fd665cb9-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size 2022-2030 | Industry Trends –Increased Adoption Of Advanced Technologies In Healthcare"
     excerpt: "Rising volume of complex data and reduction in hardware costs is projected to drive growth of the artificial intelligence in healthcare market. The global artificial intelligence"
     publishedDateTime: 2022-04-27T15:02:00Z

@@ -111,6 +111,20 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 0
+  - title: "C3.AI 48 HOUR DEADLINE ALERT: ClaimsFiler Reminds Investors With Losses in Excess Of $100,000 of Deadline in Class Action Lawsuit Against C3.ai, Inc."
+    excerpt: "NEW ORLEANS, La.--(BUSINESS WIRE)--ClaimsFiler, a FREE shareholder information service, reminds investors that they have only until May 3, 2022 to file lead plaintiff applications in a securities class action lawsuit against C3.ai, Inc. (“C3” or the ..."
+    publishedDateTime: 2022-05-02T00:51:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=656041"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "j1bmxYigkfACrBnMFWzbg+3XyzMSP0G8iQydeE7YPCPap6ETG2ihW/K+TfME/6v3MFJPLx8TqKrJXeEFb3jAEKnA6zTYT7AqJ19aSctJ94lIseMiwGyatDtVvwIbW/gggsL5OqFpGI8Ag6Y7qr3lJ2e4y5SB6XUmGRrVOWeTdbKInHEV3miwbsHpKtQAV874SQx5MT4qLWWze/IIvo9McDCjasLbkgWlpqj6wylTx7ED3zcBwZpg86zk6gwWbeEkWzxZN/JOcOAOxlqW1qTYiBes5Cb3UnZqWT6Xudcv8fvLKXYUvP4iO1yVKAxYTy8rzsOw5UVavoWvwCao6eHVveK7O+7dOE3OBily20/Ua/c=;LXxmvf9Al0+HSirorvFgKg=="
 ---

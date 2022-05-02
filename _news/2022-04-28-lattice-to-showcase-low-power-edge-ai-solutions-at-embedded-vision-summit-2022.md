@@ -55,20 +55,6 @@ related:
         width: 2354
         height: 1067
         isCached: true
-  - title: "Tech Mahindra launches TechM amplifAI0->∞ to democratize Artificial Intelligence (AI) Technology for enterprises"
-    excerpt: "Tech Mahindra announced the launch of TechM amplifAI0->∞ – a suite of Artificial Intelligence (AI) offerings and solutions to democratize and scale the deployment of AI in a responsible manner. Through these offerings & solutions,"
-    publishedDateTime: 2022-04-27T07:18:00Z
-    webUrl: "https://www.crn.in/news/tech-mahindra-launches-techm-amplifai0-∞-to-democratize-artificial-intelligence-ai-technology-for-enterprises/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 31
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2020/05/12140219/Artificial-intelligence-HR.jpg"
-        width: 750
-        height: 430
-        isCached: true
 
 secured: "W3adjZxQUd7e5DZUNp4u8KJRc7qiPdGJ57utZ5IHXDMZn2FRMf0JjZVnNyQ8eUmpaostwAMxJo85PsaDaC9PVkIdIjFTRGBXpDTd7BbIOHxBPeZ2iPiuWaANxk9kBMHCylAD5sKJerlvHxduOb8qT4oY4GGzwNfpXpehyLEuC9y9YUjj/AEiAhNkSBEMO3vS2Wv0YndCRQpMU0FRPgA0Ih1g9JrS0yswCrxzr2qTNZHmivarTwLAZ89bsx7nNzedcWUan5Wpi9I60//alXZy6BpkFPU9N9NsxtY+LPnoMh339EB9e0HFjPt4QW2WPLv2vMD5DQHJ26pAbX3UYC0YAvaNLRpEWzMn3Za87CP1zPs=;3S+oM/Qrs4/tLoq6VcV22g=="
 ---

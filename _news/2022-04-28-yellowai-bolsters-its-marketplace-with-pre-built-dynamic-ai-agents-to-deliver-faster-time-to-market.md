@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26859419"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26859419"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Advisers to act faster, make better decisions with AI"
+    excerpt: "Dr Catriona Wallace, founder and CEO of ASX-listed company and cognitive virtual assistance provider Flamingo AI, said artificial intelligence holds potential to increase efficiencies and productivity in advice businesses by making them highly automated."
+    publishedDateTime: 2022-05-02T00:14:00Z
+    webUrl: "https://www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai"
+    ampWebUrl: "https://www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai/amp"
+    cdnAmpWebUrl: "https://www-ifa-com-au.cdn.ampproject.org/c/s/www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai/amp"
+    type: article
+    provider:
+      name: Independent Financial Adviser
+      domain: ifa.com.au
+    quality: 57
+    images:
+      - url: "https://www.ifa.com.au/images/News/Catriona_Wallace_ifa.jpg"
+        width: 600
+        height: 398
+        isCached: true
 
 secured: "1naczRW8muFq+fTyhW8StnSMCHtakigZgLr35TZ2wq/T1KA+xmnwfDpEj9t5TD/aa6l/CSWy/ZvlHqwYzrrV4OAVmKoXiNhpZkvawtxx76c9L4KiR65/di52sm5ZGsge31VhrFfkGfd/MBaHAljDrl/I6MmUC+5AkVJwxoIsg/Fqf/TxnhAE+K36c+SEKZZGHl8fBs7RwpSVG7Nti0ZODw/fbHzdb0Lkt2+FdfCu2znxGrNHn6s54IYLsPAPZCa5Iko/oudL3p3ChhAPaup8Zk0timNfCSw79lDSlMpCHnYuvef01A7kIsTJ/o4Ky+jRsHHLT+t9T5pL3jKW4J+ZDfp2su8cYVbd8XNJokHOWW4KMv6fMqf7rkRzLK1CjUjGfQS8aCBR1m6XZP8R74mhUxGp7gIC0N4n3UTUXex1NkR49naHkh2ptjPsuSyYOXCbB9yhPsN+i1mOf6q3BTK1u8cdZ5OD8UHRga6Lymjr25G+OE4r2NGvftSLj90z1mbym+rnGsKY8e8yFVtboJWptg==;3OKHA4zUuPnYAGG00gwPzg=="
 ---

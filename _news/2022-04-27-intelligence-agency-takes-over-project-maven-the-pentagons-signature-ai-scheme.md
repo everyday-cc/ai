@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Is Transforming Israeli Intelligence Collection"
+    excerpt: "Intelligence is a profession as old as time, but new advances in artificial intelligence and machine learning are changing it like never before."
+    publishedDateTime: 2022-04-28T13:00:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/how-artificial-intelligence"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 17
   - title: "Vic.ai Announces Spend Intelligence for Prescriptive Cost Optimization"
     excerpt: "Vic.ai, the artificial intelligence (AI) platform for autonomous accounting and real-time insights, today announced it has broken ground on Vic.ai Spend Intelligence, a first-of-its-kind prescriptive AI technology for advanced enterprise-grade cost optimization."
     publishedDateTime: 2022-04-28T12:32:00Z

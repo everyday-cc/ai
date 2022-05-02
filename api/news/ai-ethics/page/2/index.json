@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-06-artificial-intelligence-is-already-upending-geopolitics.md",
+      "title": "Artificial intelligence is already upending geopolitics",
+      "excerpt": "Angela Kane Contributor Share on Twitter Angela Kane is vice president, International Institute for Peace, Vienna and the former under-secretary-general of the United Nations. Wendell Wallach Contributor Share on Twitter Wendell Wallach is a Carnegie-Uehiro Fellow at Carnegie Council for Ethics in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/",
+      "originalUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/AI_geopolitics.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/",
+      "publishedDateTime": "2022-04-06T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-monitaur-releases-ai-governance-platform.md",
       "title": "Monitaur releases AI governance platform",
       "excerpt": "73% have struggled to get executive support for efforts to make AI ethics and responsible practices a priority and only 20% actively monitor their models in production for fairness and ethics.",
@@ -1354,40 +1406,6 @@
       "provider": {
         "name": "cmo.com.au",
         "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-psee-faculty-talk-ai-ethics-with-mae-prof-ani-majumdar.md",
-      "title": "PSEE Faculty Talk: AI Ethics with MAE Prof. Ani Majumdar",
-      "excerpt": "PM next Friday, March 18 for a talk on AI Ethics to be given by Prof. Ani Majumdar from MAE @ Princeton! Till now, we used to have discussions between students thinking about ethical issues and dilemmas in engineering and scientific work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.princeton.edu/events/2022/psee-faculty-talk-ai-ethics-mae-prof-ani-majumdar",
-      "originalUrl": "https://www.princeton.edu/events/2022/psee-faculty-talk-ai-ethics-mae-prof-ani-majumdar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Princeton University",
-        "domain": "princeton.edu",
         "images": null,
         "publishers": null,
         "authors": null

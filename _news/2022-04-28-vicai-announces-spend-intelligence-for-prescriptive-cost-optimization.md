@@ -46,6 +46,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "How Artificial Intelligence Is Transforming Israeli Intelligence Collection"
+    excerpt: "Intelligence is a profession as old as time, but new advances in artificial intelligence and machine learning are changing it like never before."
+    publishedDateTime: 2022-04-28T13:00:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/how-artificial-intelligence"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 17
 
 secured: "67XVGzY2n24jOeUMBlys31gqKjoyBeZzQPDdQMLLZrkHUmkN+osVbH4P+/swru+d/c5IwyCzRtfN2tteuwYwJl9i85dps6OkwTSnx6VmzbDf1CkR5Wd6fRzL34sxnKamgnomq1zukD9KNTzbKhhEHDd+3m34XJ+ZCw82UjcJFVmYzqMezBS+P1Ui74FN6wOy461BkNC53spujhGQZAB1xB+Ftj/6PiDBNqouKN++cOAnjFDKEx/IR5LKNcH1GEssvuZONHSdiYOlu/FxNe/L2nleJi4XP2haO6OKil0cXOBuBECMtqWfSG6O3Uaca8PdHcms4yDjVhcc7p7GTHlELKuVmcwZppmg5PShHDOo/TE=;Px39x7P6t9LEZcrHbG4dAw=="
 ---

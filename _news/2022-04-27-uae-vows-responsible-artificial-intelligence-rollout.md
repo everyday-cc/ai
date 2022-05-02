@@ -1,28 +1,27 @@
 ---
 category: news
 title: "UAE vows 'responsible' artificial intelligence rollout"
-excerpt: "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university, opened to students last year, and the country has launched a number ..."
-publishedDateTime: 2022-04-27T03:34:00Z
-originalUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout"
-webUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout"
-ampWebUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout?amp"
-cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout?amp"
+excerpt: "The world's first minister for artificial intelligence says the United Arab Emirates isn't only looking for economic benefits as it seeks to become a leading nation in the sector."
+publishedDateTime: 2022-04-27T08:40:00Z
+originalUrl: "https://techxplore.com/news/2022-04-uae-vows-responsible-artificial-intelligence.html"
+webUrl: "https://techxplore.com/news/2022-04-uae-vows-responsible-artificial-intelligence.html"
+ampWebUrl: "https://techxplore.com/news/2022-04-uae-vows-responsible-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-uae-vows-responsible-artificial-intelligence.amp"
 type: article
 
 provider:
-  name: Al-Monitor
-  domain: al-monitor.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-04/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg?h=a31d927f&itok=yIzQoqk4"
-    width: 1200
-    height: 628
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/a-two-seater-a-prototy.jpg"
+    width: 1024
+    height: 670
     isCached: true
 
-secured: "jD+7WRsNH0iipFTNu8yKpnYmRLMOhzMlWprc8OOXP5MSVlaqDcUCNQJqGPcSnML6Yfv3yIDhKcoQiJX0AOPT5TJ1FL3dvus76iUHvZWkp5sQJ927ikZ4i7Z6rIOMq5CBlzknSQnyi/oqw+6xLWokvGTStFxVF2mu9mL8I50+MOhlOYvyDaQeR1b/k7bSZKcpyf8Kyvo0JMhgx+muf9wss36UciNqFO+87kcYuidiGdXsoVCFwvRp8uqeOaZ8EJx6eNPEmL0o1PoCCeGcsAOlDA/HVvILU7EZAWEpygwUHKm2V/yElldqa2eLlnGhkJtIRzXWrdv8GsZMutiv3T7ljA0RtWM0wVzh+HnVfiqYDDs=;/jaxhQ/+fDrXd+dz9Ipi3w=="
+secured: "CVfsub616WTLYfJI4VGRR9yJnaXqjhPKoGMxdQtdZjg32F4H3ShLHHKZ6/ZDwQb7IZsF+fdFqQXYEGcDn2YDdGoXiT5QmPWi+d6mHIfiPoGmXBVTQRXVRkuR2jiZqhr1SEQaH0iso8R5uZfnEu5lsd5yKHBbqvEBl/JYdBPswvPQUqPJsPNk0SIaoYTpSWnoW6FkmUEqXUrP6bfbEuK1+3rnfnpPOlDZVEYx+bvUq2vx33CUhOE7DfMYIYw3V8GSHh827OZ8kwAkKxKXKpjHvkB/WtUrJiUCsxjLdOzk3XfdSYdInI4D8iOuP0dIzjhgoHU6LrauAoX3kmCUpjAg4T8a+mUtip6ur9Xn7F2vz+A=;diDD0aTeupYI18gl8BukyQ=="
 ---
 
