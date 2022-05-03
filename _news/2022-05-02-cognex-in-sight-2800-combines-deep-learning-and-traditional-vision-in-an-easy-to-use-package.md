@@ -2,9 +2,9 @@
 category: news
 title: "Cognex In-Sight 2800 Combines Deep Learning and Traditional Vision in an Easy-to-Use Package"
 excerpt: "\"It has never been easier to apply deep learning to a production line,\" said Carl Gerst, Executive Vice President of Products, Platforms and Solutions. \"The In-Sight 2800 system can be trained ..."
-publishedDateTime: 2022-05-01T18:35:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250413&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250413&cat=PR News Wire"
+publishedDateTime: 2022-05-01T18:36:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250413&cat=PRN"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250413&cat=PRN"
 type: article
 quality: 28
 heat: 28
@@ -35,6 +35,6 @@ related:
       domain: webindia123.com
     quality: 8
 
-secured: "5nVqgeXo2vj6ZQkYxgISUUfCmUayk9FopHQsqlJwqDezEUGF93njpvZi48ixp1qbYaoTR+O56mX5BLMZbszLcp6ceJexqWlWUUEkdlb+aWoeJR5Mbe6Wve3i7gjrrvzShzURqf5Dqc6d7LAJ2LVJvtvOPKqlNSiJi87ar8mN9qxoqyfjQZM+IspUOeMl+n3gYO1/nxfQdgN4SZyehWKhUmzrcOfkbom4TSWck586XKr67br3rUg5RD1UyrXE9SsrUER81CdWNQmh3eeWJgzdmttVF4Zkjd0T3X8myWfH7L2c6FHfyRhGr6nQNUBU1C4B1KBDOgkbpx5lZFmgHgJZpgbUSWdMk46fP0XPHFi+ISo=;S4MK7k1DZvYRmT70m2HMsQ=="
+secured: "JYtcpP3MgXg34wj6+9Xyq5KvoE9jDsHBYuPxixMlFyz/c3jTHC0MdgedCNDgO4iPNJZyxEJXSd0JlQaaSZzvaOkHKpDQDuSCGE5kKpHjuFKSrlZGhAbTB3dErUgAMonIDtQg9TPzZq1+mPHZ7OgDfCZ85bIjd9WQsL2mEAvdn9FmOPfGxwY9cawEARJ9iFSwmc0I3DNXMiIToOMzhALaW2p7hA/DWX0plDTB1+n01NqZCyFKZhF8FEX+K59Y6B8TePYQ9BZgqn26IqVSjQgaNDSiKrZEOkeKFzUVBls5yELe354wj+cztp0wy0Yt9C5yF7pMWNJ30pyIaHF+mI80DRnk7Ui/PxQCR0/7yJORe58=;OwxbkK8E1zWwqg3o05OAlg=="
 ---
 

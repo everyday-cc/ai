@@ -3,11 +3,13 @@ category: news
 title: "Meta materials: Facebook using AI to design green concrete"
 excerpt: "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ..."
 publishedDateTime: 2022-04-29T15:30:00Z
-originalUrl: "https://www.theregister.com/2022/04/29/meta_ai_green_concrete/"
-webUrl: "https://www.theregister.com/2022/04/29/meta_ai_green_concrete/"
+originalUrl: "https://www.theregister.com/2022/04/29/meta_ai_green_concrete/?td=keepreading-top"
+webUrl: "https://www.theregister.com/2022/04/29/meta_ai_green_concrete/?td=keepreading-top"
+ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
 type: article
-quality: 19
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://regmedia.co.uk/2022/04/29/shutterstock_cement.jpg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Meta Tests AI-Developed Lower-Carbon Concrete on Data Center Project"
@@ -33,16 +41,7 @@ related:
         width: 1129
         height: 635
         isCached: true
-  - title: "Meta AI and university researchers discover stronger, more carbon-friendly concrete formulas"
-    excerpt: "Researchers from the University of Illinois have teamed up with Meta AI to develop an artificial intelligence to create, refine, and test new formulas resulting in higher concrete strengths while simultaneously lowering carbon requirements. The team's ..."
-    publishedDateTime: 2022-04-30T13:45:00Z
-    webUrl: "https://www.techspot.com/news/94413-meta-ai-university-researchers-discover-stronger-more-carbon.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 36
 
-secured: "bB1up1HqjGc8g8dhPvCjoGR2rpjr/BiO5mTCm7Ct0fQJXjWLAf+n4NTJJqvb4wYwv4xJZMrwXS3x89v3bYkPLnboskGDgPF0qSJHEDkB82EVb4+9L6bffjhIIsYsQW6CbJKPn6NFAau/5P7McJ/QwIHEImS9X1c6S/iy5pIRKeU6pWWX14FkdmRZYeYmkFMp06uLRPElCY/ZevGsSmg8ik+CRxzgmvHschoV36SKcInZR/n2XcN12NXPzGrCchP7c6n7zDM8szcuBq431eUR5CEZEV7Hstd48c4/ccYpasJdCrKuG/qP5noKvq5oEJYSwnXk9SbPTbgFLkgKF7+orbytumdHCn1RZgRAr9f2kMkzuKlLd23NILws+MoLruw6yl3ACaj2D2hJ4GZLt2+A0myt9wsvP1uhUN9VNAYjD4u2NGMuE7sfzpJ0rHiGrQSkLyu4VV4w0kxdHHXOowPMq6vAccZMR/JXKtFyXucWWx+YiJMyAoip4In7C6Wz/b4m4KDlf21vChPIWYgKbfSFGQ==;dELkEe3FZ/Fhtaz3Z9NZnw=="
+secured: "eKJGXpoLAMMk1mSMuSsXwOsiY1qk1GdcOkix7i48BHpXIAzaBxHKNHk19cvBsJQl7dKDXtekrgGbyXUigL85czfv0icm6n6voCocrztaOm8TOmz6O21PRI4bAvF1NwXJN73tkSpZTtlmUsLYXdf+JvIbMj+JnqaOr9DKPcUA5zZMKYiWrBNL6rmw8ydVGu3ZMuVYDrZbjjC6d7wsb3lRxunw8MIySX91tiihjTs8WYj1tno1/JidHkEXu6ktFFSBEDHqkaDd7Gj9Kg+JZI9nLOlbrFhjr9U8V+vJknDZZHA3gG1g+oXgC/BgpzLZRVDrajhBzKM1d4pP1SNpUKUzDqaNfavZHmOCsSNr63Pzjoo=;crpf4TsrSSKD7CASTj0XZA=="
 ---
 

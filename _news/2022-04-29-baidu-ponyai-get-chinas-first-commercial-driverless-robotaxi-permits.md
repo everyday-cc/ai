@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-comm
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1"
 type: article
 quality: 103
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -114,20 +114,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F7%252F3%252F0%252F40150377-1-eng-GB%252F%25E5%2590%258D%25E7%25A7%25B0%25E6%259C%25AA%25E8%25A8%25AD%25E5%25AE%259A%25202.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
-        isCached: true
-  - title: "China's Baidu Receives the First-Ever Permit to Operate its ‘Apollo Go' Robotaxi Service in Beijing Without Safety Drivers Onboard"
-    excerpt: "China's Baidu Inc. has received the first-ever permits in China authorizing the company to provide fully-driverless ride-hailing services to the public in Beijing, meaning that no safety drivers will be present in the vehicles."
-    publishedDateTime: 2022-04-28T15:30:00Z
-    webUrl: "https://www.futurecar.com/5372/China’s-Baidu-Receives-the-First-Ever-Permit-to-Operate-its-‘Apollo-Go’-Robotaxi-Service-in-Beijing-Without-Safety-Drivers-Onboard"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 9
-    images:
-      - url: "https://img.futurecar.com/202204/28/l_626aabe3ccdb3.jpeg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "rgWxyK3wxbjnEvGTCQgtp5o0jcGqsH/iu465r4rggumAfKEEx+f1VXvndxsrfixF8a7DXmp5LwlHri1r8hHYGD9W3PgYcaS28ZkFuJ/1qE8q6/FJf2prWh0xv/hns2KChdjFn8m3NlgtvxiS0pdOP5I396OHtpxgvia4M8CrfCWKbrr7LgVlri96o9gOKmtIYrLnta1UpRIz7KQjsa7oABu5LpUOmbdvnBdJt68jk+sSPk+/Dcu8Rulvjf7Dgs16ozaIwaA2nLoKwXaVmqFNHK90ER0bpLtt2jH5tRbyjq4zbwTW1EKeDKMWTkEJ7RfLNGkRMH8Q5y6aUN9OLbjjJRCtp19QuGKEcdDO20eRPHQSvvm/ZdiYpZcq8kDHkPANM5oNBKbysGqZSP3vw5Eb4Qwwpglfu0OL/VyJP+3ES0QClbEH8/bFpY5RirJZYKqsQX6iCot4e2SARAu5mhvyqX+nXfy0UefLQFOSdkcuDgWuhSFoyfz8D6FoCBEgTA1HI2J7wJVtDCYde9XrnvC9zA==;EBxGAwP41YlwwOmhEIJHrg=="

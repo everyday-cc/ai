@@ -111,20 +111,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "China's Baidu Receives the First-Ever Permit to Operate its ‘Apollo Go' Robotaxi Service in Beijing Without Safety Drivers Onboard"
-    excerpt: "China's Baidu Inc. has received the first-ever permits in China authorizing the company to provide fully-driverless ride-hailing services to the public in Beijing, meaning that no safety drivers will be present in the vehicles."
-    publishedDateTime: 2022-04-28T15:30:00Z
-    webUrl: "https://www.futurecar.com/5372/China’s-Baidu-Receives-the-First-Ever-Permit-to-Operate-its-‘Apollo-Go’-Robotaxi-Service-in-Beijing-Without-Safety-Drivers-Onboard"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 9
-    images:
-      - url: "https://img.futurecar.com/202204/28/l_626aabe3ccdb3.jpeg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "mKlCOuB8ruX08+s7mU6ei+JzMAqCT4pOh70q9D9ZNvr2hKl19oRHAjR+thakNbYaRGwtaEGP1qzqGsQv/cY4PltpJIx3IHMokz3XYo3D3K0KM8481+LaZc0p6+1IlnymhDjPW4Loh1iPh88SuV/BknqebIG1GQnjEywXCvJuMUye8r7XfSJCVBbc0lJ2cS+vIZGln2dHoqAWXzZ/1bz7vdgpnO8Qde+bd/L6y9dsMCOjgxrh0AvXg5tDFgS8U0cJrH65WcwOTRuQGiirMH9g1+ii30jQXwRSrOQ4HEEdteXgI2l/As7IlCpYQ0FJGLgRQ5412+hitT7GP0Qd59o+Z4Ttf5Rk1hGwROgJojPG6ulu10InlFDMx1p9dYsOb8VTMjMicjVoAts8rnUwLm5gHPm9Xs9Qm8n24k6GoDqRyuUiOnwupPgpmuc+QChvcbNPl+299znulOGBPK08abtxNR7doFuROjmLXORwA38Fb7Xl8cUNWOvB1cbSvHJ9WOMKVQyDHhjivwuM+NKNequgpg==;Co9vYOaLHts8VX1pCpFz3Q=="
 ---

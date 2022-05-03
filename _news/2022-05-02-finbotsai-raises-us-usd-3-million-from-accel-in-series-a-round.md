@@ -119,15 +119,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 17
-  - title: "Searchable.ai announces Constellation, a Unified Data Platform for productivity workers and their teams"
-    excerpt: "Searchable.ai announces Constellation, their unified data platform that brings together all the data and information that knowledge workers need, in one place. Searchable.ai launched in 2019 as a search company that enabled users to simultaneously search across all their cloud and local files."
-    publishedDateTime: 2022-04-28T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-searchableai-announces-constellation-unified-data-platform-productivity-workers-/2022/04/28/9592071.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "7rp8tBsQgI2oV1inKW5Dts2yBJXdjseWzVRLZwInwuAFa1SdRg5aGyRE0AvexS7zXyuFrdmEHKh8F4S/EDk14UzVFlBg0ObT0VaWmXqKLAfPfeY4xgra8RrUN92C+KP0dob1XbRIeFSp/6Lk7gq7F/W5WyMVekk4gt8H8GJ1qX1Qy0odi1bpoialfPTjlwU3LaQ684RF9Y0Vff4UsY73ALqBzApeq//nxADDyFbQCDayktWm4TuksckGYj0ZE8aK173v6rAOXLq7NdxdbnVv1TChhsic7bNeJx7Qp1G3vTYRH7Dsms6U3M1u09Sw//xmXYGZXbq+XQxBvLBL/YpzSM8YTk5KQrpaKePsbmUs6AFXvAWP5GnC/sbHwObpVcwnfIQp9gjpJ5VC/wtOT1T/G5qLuKP07FgY9X41JAgWm53VgVdjNre1+3+6F30z3Z8JZ8H8SMm6XWtvoDwltsBW3bE4TNvwblBv+WataS4HXILKvbE62rnnD3LajMMlYV1kd3tnTxS70QE/iznzr38ZLw==;Yb4ngVKYe0j6xiItiPPEeQ=="
 ---

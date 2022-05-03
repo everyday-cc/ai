@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Cognex In-Sight 2800 Combines Deep Learning and Traditional Vision in an Easy-to-Use Package"
     excerpt: "\"It has never been easier to apply deep learning to a production line,\" said Carl Gerst, Executive Vice President of Products, Platforms and Solutions. \"The In-Sight 2800 system can be trained ..."
-    publishedDateTime: 2022-05-01T18:35:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250413&cat=PR News Wire"
+    publishedDateTime: 2022-05-01T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250413&cat=PRN"
     type: article
     provider:
       name: Webindia 123

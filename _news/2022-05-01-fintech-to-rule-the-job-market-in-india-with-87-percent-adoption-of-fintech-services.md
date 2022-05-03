@@ -81,22 +81,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "CIIE CO's Flagship Program Bharat Inclusion Initiative invites application from FinTech Startups for its 6th Financial Inclusion Lab Cohort"
-    excerpt: "CIIE.CO's Bharat Inclusion Initiative (BII) invites applications from startups for the sixth cohort of Financial Inclusion (FI) Lab to support innovations that aid in making mainstream financial"
-    publishedDateTime: 2022-04-28T16:01:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/ciie-co-s-flagship-program-bharat-inclusion-initiative-invites-application-from-fintech-startups-for-its-6th-financial-inclusion-lab-cohort-122042801343_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ciie-co-s-flagship-program-bharat-inclusion-initiative-invites-application-from-fintech-startups-for-its-6th-financial-inclusion-lab-cohort-122042801343_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ciie-co-s-flagship-program-bharat-inclusion-initiative-invites-application-from-fintech-startups-for-its-6th-financial-inclusion-lab-cohort-122042801343_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 10
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/28/full/20220428194524.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "sohTcKLSytAU2CtF5U52VaMruaPyVOg0Dn6mXGvd8vAb3IHtqLboBKkb72fCqEBJUHpTk9MkbSpKaduYp6yQWqXjWBpkTbAv+GUVzYbTBO0Hv8WCqD4VSzieauoVC/aErGT0sJxWQB0uH9kJSyRKcyYFNGTWFvKDJNNfOoTBwyBFsskQw30UmaQcpYC4p/s510st7fGTkJHzs5X6A0rf3zAaDAmdvH7lY5U4TsIJHUG4LxmRY0GvOB8B2M322rG+u5oOztdZ/3VXu5yKPXr+h+AYFviUuZJPOP3VOgPH+CekS4eBT7PoFRMVZh9pTXfvBEt9J4wemQ+OiTCOU74b1irFQeB6dgyYRF4nV//3nhM=;z3UzdX/ZXKkhINVI2KsZKQ=="
 ---

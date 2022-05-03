@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-03T06:37:00Z
 originalUrl: "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html"
 webUrl: "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://img.digitimes.com/newsshow/20220503vl202_files/5_b.jpg"
@@ -40,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "B6s7rPuUgnxpG1P71JxgifvvytjEkFmlv/i+u5zsdSnFJvXsqHdSw6jClHElWc4K+GVrpuWC3GDL/JdpOvp4Z9YYc8akWUTPh7YriMkf68LGR3ttF8YL/f80AgoW6BpgWCDoXEYRKJraLi5UIRN+5Uw+1LWQ48jhRmaeuDSGzS0dngT696aM03JnYp0ycSIBPBzjqedLLPEjYkC15wlor1jPjp6LKAa7I2FpFlBaVr3Zo4/dEQMcrPubs/MmVkDHoS2AitjrOGI4phRRNR5h1hDkTf+PF4YcuhvXYr0s2yXcshIS7m7TOv//K/kHe8lW/L+W2G9J9EcBzGN2oNPATHrTn8aK/hGfaGlKyCo75OI=;Lva88lFQVQVeGAxmjq0qLw=="
+secured: "CO9fcfIUFPTqJBjUBqjupeE485yurG7Xd5xEEuckdMENsD9JoiP9ummlLqr9pgw0q+eI9ALBpF//ETgSlV83B54oVyuWSuNpFbzJAx3mFjdvPlddwkHC44VnWVWz+yPMy0sMrGCBPHUj1lVUa9H6fROJsMefj+bO7YH/EmGikBSqEC0QDxFcGl+TKXeL0wLFP9g2MR6qVx7iWjjTLyLOUmahZLgjfNY7uYuiMZjjJTgUstC7/Zhggxc1DL3euNGfXJjsKDru8oOXqmlcMsp/jS20H+xJe1i/ODd4T7lp+++FqgqLZKfh2Hgj63Wipe7tiQzzn9SqK6mWHXUpm74quZ0TEVEsYdgkVg6F5Ly5zZDJelRFIjFGS1KvTez0u0tO8BuTn+l1l24ITkHnkNtjsquWFD0PE2935r1L+46jPWlSQO46d0UFEzNCXCPjqM/Ig8tE8VDnW6Z5P3PiOob9KNY9CPJIOTvCEIE3rV07RhsGlj+pvt6fw+3DnNpFH/IsTyFhru/ljmNSOz4zn2wkwg==;3stqcuOMDy6p+v6WGNmfmA=="
 ---
 

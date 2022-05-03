@@ -3,8 +3,8 @@ category: news
 title: "Swiss Startup Vidby.com Helps Achieve Up to 99% Accuracy in Video Translation Thanks to Artificial Intelligence"
 excerpt: "Rotkreuz, Switzerland , May 03, 2022 (GLOBE NEWSWIRE) -- vidby AG has created a service that translates and voices videos in 70 languages ??in a couple of minutes and costs from $0.9 per minute of the original video. vidby empowers bloggers, media ..."
 publishedDateTime: 2022-05-03T06:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-swiss-startup-vidbycom-helps-achieve-up-99-accuracy-/2022/05/03/9593829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-swiss-startup-vidbycom-helps-achieve-up-99-accuracy-/2022/05/03/9593829.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/03/9593829.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/03/9593829.htm"
 type: article
 quality: 17
 heat: 17
@@ -34,6 +34,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "zAIMu9LXpjwHT5o/DlKmQQ/WsQxnIN58FJJrdDqRyBq0VdEMuCBXOSf3Re9YInSxxZUFvQdlwGmjqvYcD1xpXl8TuS4DjMoz1uc4UWkCF7rSyVopeOQwRpDT0Nbr451yv0GVa/SFUoQAR1S1C0hiH3X7FLz1fLIGCNp3o1JUQ9WTmx0keyzWbjWB1JWEFllVp2++Gi9YLLTOg4ojRMc44iv7f0ckoGGiefqP1TELjZqpOTW0PU9Ceri/pvWeRabrjQw6En/8U2UtbqhHrh64u35wOfyNDwAnmj0AXe1iXH4A8xFpW6Kj7VB46cgMeBIAWnqBMToCRmLmGovagMW0PiCbokg4IA1cCsdZ9FH86O0=;2o4LsxV25Bvo0GKIT9vFUg=="
+secured: "HqSE22d9GQGfcG3ZN3QwrcNx5m2b6ylxhckZhVqOI9wPJAzgjmzvWfFN8wTKslvLK0At6USN3DiDDdX9VkXh3VQ9iD3N8Vqc7N3Z/Oe+iK3owD4DVkpZFq2i22Ne6iDa0AFR8A+z7qgcPtIzwRjH+UG7J+UEvtvZjI2+7XcDs8nq9Yopu8f8/9gdNDfmNPaXIJ9rEgMrpB0ONC4aRId7Fd0eQwB9VSw5PpAZlPZSCtnRuJ94txoUM7xxozlxEL2fB8kGZPvpERwan9R9qC/N1+xh8pyUA5RtPjj/qewR3+08ekr/ShgDbEv0LnksV9oVVRhGQyyn+/lrRNTRMzB4dV6NDeVBIIrY95ZDzgLHUg0=;OL/JWoshLBzQriajA1rT7Q=="
 ---
 

@@ -120,15 +120,6 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 17
-  - title: "Searchable.ai announces Constellation, a Unified Data Platform for productivity workers and their teams"
-    excerpt: "Searchable.ai announces Constellation, their unified data platform that brings together all the data and information that knowledge workers need, in one place. Searchable.ai launched in 2019 as a search company that enabled users to simultaneously search across all their cloud and local files."
-    publishedDateTime: 2022-04-28T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-searchableai-announces-constellation-unified-data-platform-productivity-workers-/2022/04/28/9592071.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "W9RLiL7Q/EtzPBh7mzzKCZ9JGygaXpl6J+TFKyQjLsHbjxwbSh3Q/Nl+609a2rX5HQzZHuDhQEjMIbjapyho7zEf60mVYlV+eEEiKCr8HWBrtd+rkzIf6y5F0SKIXMVx0h86THFGyheBhENy/ICrfc4U7PieUpABit3zya0NT8FPSpwTGXosOCfFhIeBBndiAz5SSnO9wPskul842qvGzLvSfQA5nHdEGWSE03ORplMq6IVdzWeJTui2JDRX4KmOICPaltXQ9ubHPHRoRbT8AOpiR5qVqy4MYqHBG8f2RH87GPxb44AoAdUGI1L9+U0vHPlEkPvVDU3S3/3u6bZUjzAcCk7Xl2NqGqk765IgNC1SJF47lEAoBYYEmNm8LgqfpXhEPCO9rfIxFhbTxkzEkkYO3tRo5SLiTwYi6VXbPil1SZ5yiIonS1xxiucbY1ly47HA2QuGDrgaEOZKorus2aJWvKIax3wu8R8eyRaR0fICx8DN4Yw3hQ6h1ZaUJGYSbgL4xxYG1FCxMH6cIIkhYw==;FjopAYIXOiT6UOyr70jR0Q=="
 ---

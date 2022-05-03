@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-seri
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
 type: article
 quality: 51
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -121,15 +121,6 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 17
-  - title: "Searchable.ai announces Constellation, a Unified Data Platform for productivity workers and their teams"
-    excerpt: "Searchable.ai announces Constellation, their unified data platform that brings together all the data and information that knowledge workers need, in one place. Searchable.ai launched in 2019 as a search company that enabled users to simultaneously search across all their cloud and local files."
-    publishedDateTime: 2022-04-28T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-searchableai-announces-constellation-unified-data-platform-productivity-workers-/2022/04/28/9592071.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "ZayaAJPxpzyEj7Hv16ZH0HOMEf3qCValc/2+3SLhd30e6LiEqRxhEqfBFrC1mkVA2W7F2jmr/CuxrPkmLZqLnAURISYhBxBcTSeCTPd9xMXIQY2fxTsrYRJpY9IXafhBrPpkRpOP/0YsaoXIMEsCpO7aSdJnWSIixSWu1uy3jGIJESm/K6R/4M4dOS853eRhtU1ba/Vo9R0UATJmxSI9OIdW6Ejpe5MuAxddoZGuNPypEyP54Br3mLqfjagPvlXlMOt7BcorFZIMS8ZWtXBehxd0CbTLGYAIwtoH+GJ3JdGARRDWUrlxGPO8hjpRLwhcIbWxVTwjHRqZPMoZTPupzkxLo7K5KmeBkimRyJJicsvde5nEOUlcLUDDxhneYXHVuHBDs0r70QJB0uCCqsD+ak/lWN10m34/e7kLBOqNPTVp4yozq54PZx7RJuOW0x6ADekLhblUc95Bf/GTi0yU8VkHlqgVC8uHRBuS5pHCvUim/D63esDibR602KnjZliZ6FiECcG9GdILNH1Qumy+9Q==;usMkIMkTd7FGu43GIIiwLg=="
 ---

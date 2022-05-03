@@ -73,22 +73,6 @@ related:
         width: 705
         height: 410
         isCached: true
-  - title: "CIIE CO's Flagship Program Bharat Inclusion Initiative invites application from FinTech Startups for its 6th Financial Inclusion Lab Cohort"
-    excerpt: "CIIE.CO's Bharat Inclusion Initiative (BII) invites applications from startups for the sixth cohort of Financial Inclusion (FI) Lab to support innovations that aid in making mainstream financial"
-    publishedDateTime: 2022-04-28T16:01:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/ciie-co-s-flagship-program-bharat-inclusion-initiative-invites-application-from-fintech-startups-for-its-6th-financial-inclusion-lab-cohort-122042801343_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ciie-co-s-flagship-program-bharat-inclusion-initiative-invites-application-from-fintech-startups-for-its-6th-financial-inclusion-lab-cohort-122042801343_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ciie-co-s-flagship-program-bharat-inclusion-initiative-invites-application-from-fintech-startups-for-its-6th-financial-inclusion-lab-cohort-122042801343_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 10
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/28/full/20220428194524.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "FinTech to rule the job market in India with 87 percent adoption of FinTech services"
     excerpt: "Today, FinTech applications and services have captured ... The desire for domain-specific skills like Data Architecture, Analysis, AI, APIs, Full-Stack Development, and more are now primary."
     publishedDateTime: 2022-04-30T19:54:00Z

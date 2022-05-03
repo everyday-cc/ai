@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1135720_ford-backed-cavnue-pla
 webUrl: "https://www.motorauthority.com/news/1135720_ford-backed-cavnue-plans-dedicated-lane-for-self-driving-cars-on-michigan-s-i-94"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,102 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Autonomous race car sets new self-driving land speed record"
+    excerpt: "On the other hand, this is racing as technological development, in its purest form. Self-driving street cars might drive fairly cautiously, but there will always be times when these machines ..."
+    publishedDateTime: 2022-05-01T00:00:00Z
+    webUrl: "https://newatlas.com/automotive/autonomous-land-speed-record/"
+    ampWebUrl: "https://newatlas.com/automotive/autonomous-land-speed-record/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/autonomous-land-speed-record/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 74
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/aaaf4a0/2147483647/strip/true/crop/1488x992+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcf%2Ffd%2F48b995e947efa96a6c8263ae61bf%2Fpolimoverecord-twitter.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI Ethics Battling Stubborn Myth That AI Is Infallible, Including That Autonomous Self-Driving Cars Are Going To Be Unfailing And Error-Free"
+    excerpt: "AI must always be right. Wait for a second, does that sentence mean that AI is in fact always right, or does it suggest that if we are going to be making use of AI we ought to make darned sure that it is indeed right all of the time? Let’s focus on the ..."
+    publishedDateTime: 2022-05-02T15:33:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/02/ai-ethics-battling-stubborn-myth-that-ai-is-infallible-including-that-autonomous-self-driving-cars-are-going-to-be-unfailing-and-error-free/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6268a6c11d002698b15a6d82/0x0.jpg?format=jpg&crop=1989,1373,x211,y124,safe&width=1200"
+        width: 1200
+        height: 828
+        isCached: true
+  - title: "World speed record for a self-driving car"
+    excerpt: "192.2 mph/309.3 kph... never before has a car driven by artificial intelligence alone been this fast. On 27 April on the straight of the Space Shuttle airstrip at NASA's Kennedy Space Center in Cape Canaveral, the car created by the Politecnico di Milano ..."
+    publishedDateTime: 2022-04-29T14:01:00Z
+    webUrl: "https://techxplore.com/news/2022-04-world-self-driving-car.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-world-self-driving-car.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-world-self-driving-car.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/world-speed-record-for.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving tractors plowing ahead in the marketplace"
+    excerpt: "While there is a farmer sitting in the cab, the vehicle might be driving itself. That tractor is often operating on auto pilot using semi-autonomous, self-driving technology. While the tractor plows along thanks to features like autosteer and computer ..."
+    publishedDateTime: 2022-04-30T14:00:00Z
+    webUrl: "https://www.thestar.com/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace.html"
+    ampWebUrl: "https://www.thestar.com/amp/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 44
+    images:
+      - url: "https://images.thestar.com/gO5t4872uV1IKEn1S7e0f8hn69g=/1200x675/smart/filters:cb(1651257101548)/https://www.thestar.com/content/dam/thestar/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace/_1wh_autotractor_main_april30.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Motorists urged to keep ‘duty of care’ with self-driving cars or face blame for accidents"
+    excerpt: "You can unsubscribe at any time. More info Earlier this month, the Department for Transport set out plans to move Britain closer to a “self-driving revolution”. This included proposals to change the Highway Code to ensure the first self-driving ..."
+    publishedDateTime: 2022-05-01T04:58:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive?fr=operanews"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 35
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-vehicles-liability-warning-exclusive-1602808.jpg?r=1651360423936"
+        width: 590
+        height: 350
+        isCached: true
+  - title: "Some self-driving taxi services lose safety driver in Beijing"
+    excerpt: "Two companies developing self-driving cars in China were given permission last week to remove the safety driver from behind the steering wheel for the first time. The permission was granted by officials in Beijing to technology giant Baidu and Toyota ..."
+    publishedDateTime: 2022-05-02T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135737_some-self-driving-taxi-services-lose-safety-driver-in-beijing"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "9st+OlCjY0toI6GVtSUM3gxu35v0pR6ZbJKlFEXkXVMscCzneXqwzjidK1QVdKQA/neFv6YPtP7XJxtDRYEVqjvn6Lfs5VzxHCqinFkmkCB5TYr6OwPHPIjNZyfgOdoJTTQyOts7qlmztHDiQuBAV5Uv1YmqDKqw16Thbuk9OGUQ8zlUN0sBZ155Mljxfy6lHRDmTxHXLO0YpYO6rvyXEy0U+iS+CUe3ce4oQzulKGpMrTLh/3FDmqKEVcTg52YJMqzRKtR5iDFtUodkN65lygIJCHgLbeEs6JcTE3H9LA/m5ZLFggttJP1NEWLfFObbgj4qnZooRQaLW29ywXdqQCcoE4R+oEPLh5bgvoXrBPhP6H364bpSSyt6LKRT8udl9p5ADc99jOGb9/6gEpkEw8IJ8CZ03SiQ93R0w43urxc7DG0Q0c9COoKXVz0JEXxVNBgq06VYakhM8UqzvnMbBs+xKm9GKHuqM3DGAwlDIu4fJjwJLeANAvC508t50WDLcH8ua/XoPMwnLtScEDHR+g==;kPNnZJPKjaJaZpFpPklPQw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/how-a
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124"
 type: article
 quality: 74
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -83,6 +83,29 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "How startups are applying AI to ease supply chain disruptions"
+    excerpt: "Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have combined to delay deliveries of everything from bicycles to pet food. In ..."
+    publishedDateTime: 2022-05-03T08:30:00Z
+    webUrl: "https://insideretail.com.au/technology/how-startups-are-applying-ai-to-ease-supply-chain-disruptions-202205"
+    type: article
+    provider:
+      name: insideretail.com.au
+      domain: insideretail.com.au
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/insideretail.com.au/wp-content/uploads/2022/05/Startup-using-AI-.jpg?fit=720%2C400&#038;ssl=1"
+        width: 720
+        height: 400
+        isCached: true
+  - title: "Best Practices for Health Care AI Selection"
+    excerpt: "Researchers at the Duke-Margolis Center for Health Policy explored how health care systems choose which specific artificial intelligence tools they use for improving population and individual health. Duke-Margolis’ Digital Health Policy Fellow describes ..."
+    publishedDateTime: 2022-05-02T13:03:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0139"
+    type: article
+    provider:
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 19
 
 secured: "4HBDxku6X7baA5RIzrzOT0iw3OhDo3zd5roNhIwM3qNr8UQHuz/jbo8FjfmEhyHkoodEv4R6RrBiblTqTFD/p2mEHJLIee28glUk+ZmJ0dVDd7BFldLj3/lYP2MVx2fLyKwbeQMHtQjEQNAo2+wyshmPMc6b0yRsLgCF2GWiA/tgOVjdU0Y0JCv2jdTHIV9kjVXbs5e45P/rssb5SDxwGQXltkNG6YpLyLS4Whh9xOgRT9YhifmaeBAeFL5Z/6x3aOVfbaeRHUcAeDD6AulkxWvRh04hI816qA09HCR8h8aMw93WomLXDohw8+gDZ8NJkLtMMTVzyK2VEMsPPOjkj8IRpAL/DH0yONqV6GMlnyo=;EwIaoRXM39wOvk5pfLOU1A=="
 ---

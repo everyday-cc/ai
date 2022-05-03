@@ -7,7 +7,7 @@ originalUrl: "https://hoopshype.com/rumor/1705837/"
 webUrl: "https://hoopshype.com/rumor/1705837/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 512
     height: 512
     isCached: true
-
-related:
-  - title: "Meta Is Investing in AI and Video to Defeat the Existential Threat of TikTok"
-    excerpt: "Meta is taking the threat of TikTok seriously, investing in short-form video content and artificial intelligence to improve its recommendation algorithm."
-    publishedDateTime: 2022-04-28T16:23:00Z
-    webUrl: "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/"
-    ampWebUrl: "https://observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2022/04/meta-is-investing-in-ai-and-video-to-defeat-the-existential-threat-of-tiktok/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 56
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2022/04/GettyImages-1239915488.jpg?quality=80&strip"
-        width: 5000
-        height: 3333
-        isCached: true
 
 secured: "qMRxesbK8ry9md7iN+rlbRaHWx4i9xQrpjTqZRoobSWb1Rk5CTTKNeoPJaeJAxz7CM+6Oz3iWSFOqomRnjnXAHqSKKFxrAS211t9HdS9MuZBHvCaLT8GZVQYzdOXOJuTjo/47WZ4VAMxcuXO95IGu96HTK73Ieiozby7dVtoNQD9Rk2tAILbLHtZx/U50Ny7sGUlMTqhN/IMEOt8eK0yTDBHvi1xiDNCnMQd5kHItxtuUAYLTQ/CVbWuP0myA8Nhv1EJW/mBjazWbn6AhgOX5gMOQ37KU7L7bsilIOvCfQ9DNWz91Ba5tfX5NLeheff5Ey3tJjxgsMYfxiZPI6LMktb0auuTdzC5bfgStZk/6VA=;VDJwev1EVD3HEiUU7r7W0w=="
 ---

@@ -21,7 +21,7 @@ related:
   - title: "Swiss Startup Vidby.com Helps Achieve Up to 99% Accuracy in Video Translation Thanks to Artificial Intelligence"
     excerpt: "Rotkreuz, Switzerland , May 03, 2022 (GLOBE NEWSWIRE) -- vidby AG has created a service that translates and voices videos in 70 languages ??in a couple of minutes and costs from $0.9 per minute of the original video. vidby empowers bloggers, media ..."
     publishedDateTime: 2022-05-03T06:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-swiss-startup-vidbycom-helps-achieve-up-99-accuracy-/2022/05/03/9593829.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/03/9593829.htm"
     type: article
     provider:
       name: TMCnet

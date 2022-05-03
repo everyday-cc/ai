@@ -43,16 +43,16 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google faces internal battle over research on AI to speed chip design"
-    excerpt: "Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial intelligence software he had been trying to discredit, accused him of harassing behavior. By Paresh Dave OAKLAND ..."
-    publishedDateTime: 2022-05-03T02:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
-    ampWebUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?amp"
+  - title: "Google Faces Internal Battle Over Research on AI to Speed Chip Design"
+    excerpt: "Google Faces Internal Battle Over Research on AI to Speed Chip Design By Paresh Dave OAKLAND, Calif. (Reuters) - Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial ..."
+    publishedDateTime: 2022-05-03T02:36:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 84
   - title: "Google fires another AI researcher who reportedly challenged findings (updated)"
     excerpt: "Google is still firing AI researchers amid criticism of its work. The New York Times has learned Google fired machine learning scientist Satrajit Chatterjee in March, soon after it refused to publish a paper Chatterjee and others wrote challenging earlier ..."
@@ -182,6 +182,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20220503pd207_files/1_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Google keeps firing people who question its AI"
+    excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."
+    publishedDateTime: 2022-05-03T09:46:00Z
+    webUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "NCCgIQY/Ull2DtSipEXlGfK4HkxIzXVu1YNlGJOECMnJVqNCjxROimtB62nphvpGM1m6oyVDzHVpVW6SFgeR+xp77xALOEp8dLjwsz1cr43W7uO0z5lpB8j/iP1XtVuXKg6Ot+3hZpi/qZsiRldUbqCRfFIn0oVOl6E3obxaL9tPmYtP1BSaME+dAy8ijtR5D2aT+L86AX3gYl8DlqlhOXxqorixBbaXpsCQ2jturVfoGfaZP9aopxVDVvjFKJrNiutqobt6uQC24PFSruwxGooWpEp3sXHndsifRqFQMpSWUeipzZhD3J+tu4E7MqToJVzpJRQ4KHMf8A30nE7r3pUXIRigdR8SVYw9H82KnxsNmJTE7HlQWynbk+VEyF52C18un3RxaBWM7kb+Q8a4JwFTCtwVhZvT2Diln/G1x+++1uE89+VcpL45yS+y1p4ZcOj3RnX9JgW5cgo8pvAyPL8Yn3qYtpalzO282Mv5izIaLy8zN5IWW/4i/fAhnnlTIhaNU8oMLfDHASqnIosdKg==;IZ63KhBR9WUn7Cctlgi8Ww=="

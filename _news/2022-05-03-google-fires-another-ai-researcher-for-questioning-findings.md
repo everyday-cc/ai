@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-another-ai-researc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings/"
 type: article
 quality: 89
-heat: 200
+heat: 210
 published: true
 
 provider:
@@ -31,16 +31,16 @@ images:
     isCached: true
 
 related:
-  - title: "Google faces internal battle over research on AI to speed chip design"
-    excerpt: "Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial intelligence software he had been trying to discredit, accused him of harassing behavior. By Paresh Dave OAKLAND ..."
-    publishedDateTime: 2022-05-03T02:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
-    ampWebUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?amp"
+  - title: "Google Faces Internal Battle Over Research on AI to Speed Chip Design"
+    excerpt: "Google Faces Internal Battle Over Research on AI to Speed Chip Design By Paresh Dave OAKLAND, Calif. (Reuters) - Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial ..."
+    publishedDateTime: 2022-05-03T02:36:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 84
   - title: "Google fires another AI researcher who reportedly challenged findings (updated)"
     excerpt: "Google is still firing AI researchers amid criticism of its work. The New York Times has learned Google fired machine learning scientist Satrajit Chatterjee in March, soon after it refused to publish a paper Chatterjee and others wrote challenging earlier ..."
@@ -186,6 +186,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20220503pd207_files/1_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Google keeps firing people who question its AI"
+    excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."
+    publishedDateTime: 2022-05-03T09:46:00Z
+    webUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "R4qFhDs67ukmfWslw0e98BpNHAHntgv0rl+WKf/UX/9z3giH8Tg+9Tsw7npQIMryWKCyRYHeXyrsQQqU+VbFm5mex4Fw6gfkZJ2GNqUijWai2d7K6+8hqCfvxOhZfnEv8r/EOb6jCa+CnppOcre+kwGKdvB7xcBBPc3VaoQauomysM/1p5fL29K2vm55JC0SIaqnU+CzU2BRZD9xj6BaSp1TjYcdeIFcubfr/Xmh5GqDse8/F0Hafnj0YB90sXwqQYKEPH0VebR9Z/UObI/qwzzMEzt+GTAQ98e2a7CXJp7I6z1LMJLhqWgCnWaBOeE43GizVqCp3WpBUCq8SfGhE7/dQxcZXpZi5l4nLhh7cn95YCugaZvTg4y1VqiJVQEnpheiugO8bcXs/QcoWwlML+pPCQ5v/wMSJgCqCf372XW8kov+Pr8FPUngi/ZDvv3FwuVmB3eWW8Undbr2ocOw98vEwQ8g2d+sduVBr6NC7GNaq0OvaazNx8CjqooeVuhS9Q9xijXEVaUdTRQqdNBz1Q==;6mAKvzQp9kZTD65MT3NLpQ=="

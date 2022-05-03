@@ -32,7 +32,7 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://img.digitimes.com/newsshow/20220503vl202_files/5_b.jpg"
         width: 640

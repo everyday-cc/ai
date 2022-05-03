@@ -26,38 +26,40 @@ images:
     isCached: true
 
 related:
-  - title: "“The Business Case For AI” Is A Good Management Introduction To Real-World Artificial Intelligence"
-    excerpt: "The book doesn’t delve deeply into algorithms or other details that don’t matter to management, while it does provide a framework to look at AI projects through a business lens that integrates the technology into organizations in a way that doesn’t leave everything to technologist."
-    publishedDateTime: 2022-04-28T15:20:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/28/the-business-case-for-ai-is-a-good-management-introduction-to-real-world-artificial-intelligence/amp/"
+  - title: "AI system can enhance images of mouse brain cells in action"
+    excerpt: "Johns Hopkins biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes, make it possible ..."
+    publishedDateTime: 2022-04-28T23:14:00Z
+    webUrl: "https://www.news-medical.net/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,494,x0,y21,safe&width=1200"
-        width: 876
-        height: 494
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "Advice for deploying AI in production environments"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-05-02T21:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/"
-    ampWebUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
+  - title: "From blurry to bright: AI tech helps researchers peer into the brains of mice"
+    excerpt: "Biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes,"
+    publishedDateTime: 2022-04-28T17:24:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220428103943.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
+  - title: "Johns Hopkins Engineers Use AI for Deeper Look Into Brains of Mice"
+    excerpt: "A group of biomedical engineers at Johns Hopkins has developed an artificial intelligence (AI) training strategy to gain a deeper understanding of the brains of mice. The new strategy captures images of mouse brain cells as they are active. According to ..."
+    publishedDateTime: 2022-05-01T18:57:00Z
+    webUrl: "https://www.unite.ai/johns-hopkins-engineers-use-ai-for-deeper-look-into-brains-of-mice/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 17
 
 secured: "SwiL4agAn+GVvNifiD899QzbzPyBu2x7zQwzDTIPI0xF40gwVCxvDaibQRvk+4WmVqPq86rpFEuJx578OyRAldscX2s2NKCy3zOWwaOd/DYqRbQtNf/hawX1wB50MjJ3vi4q9MphY2wbXb/rn7NJ4F/5Lh+2hhMsgJXXFyDU69NytFgaK0dapDzSc66Oopzb3zv/FhURxzXSc1iwYfekKOAS86v9p9hIySbxstB1Bwnmn2Eef5/Nnu/TWz9h3KLGSnBOd+vWbv383lI+XoR2KsgUxYOuw4N86Ume+CSMIWDZoRkVudiKKfooMu/cFkw4zKJY0i+CEyuitEud9XRVgy2U3of2civTl6fVWp61D08=;GUpJsCab40gCBcr3qhOAWQ=="
 ---

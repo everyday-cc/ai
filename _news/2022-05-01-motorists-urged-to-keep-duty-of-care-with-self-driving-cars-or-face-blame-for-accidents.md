@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics Wrestling With The Inevitably Of AI Accidents, Which Looms Over Autonomous Self-Driving Cars Too"
-    excerpt: "AI accidents of all kinds are coming and we need to anticipate the impacts, along with trying to mitigate the adverse outcomes. Examples shown via autonomous self-driving cars."
-    publishedDateTime: 2022-04-28T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6255c7180f31c688bd22a946/0x0.jpg?format=jpg&crop=1910,1433,x148,y0,safe&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Autonomous race car sets new self-driving land speed record"
     excerpt: "On the other hand, this is racing as technological development, in its purest form. Self-driving street cars might drive fairly cautiously, but there will always be times when these machines ..."
     publishedDateTime: 2022-05-01T00:00:00Z
@@ -75,6 +59,22 @@ related:
         width: 1200
         height: 828
         isCached: true
+  - title: "World speed record for a self-driving car"
+    excerpt: "192.2 mph/309.3 kph... never before has a car driven by artificial intelligence alone been this fast. On 27 April on the straight of the Space Shuttle airstrip at NASA's Kennedy Space Center in Cape Canaveral, the car created by the Politecnico di Milano ..."
+    publishedDateTime: 2022-04-29T14:01:00Z
+    webUrl: "https://techxplore.com/news/2022-04-world-self-driving-car.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-world-self-driving-car.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-world-self-driving-car.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/world-speed-record-for.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-driving tractors plowing ahead in the marketplace"
     excerpt: "While there is a farmer sitting in the cab, the vehicle might be driving itself. That tractor is often operating on auto pilot using semi-autonomous, self-driving technology. While the tractor plows along thanks to features like autosteer and computer ..."
     publishedDateTime: 2022-04-30T14:00:00Z
@@ -88,22 +88,6 @@ related:
     quality: 44
     images:
       - url: "https://images.thestar.com/gO5t4872uV1IKEn1S7e0f8hn69g=/1200x675/smart/filters:cb(1651257101548)/https://www.thestar.com/content/dam/thestar/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace/_1wh_autotractor_main_april30.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ford driving program explores challenges to and on the road for drivers with autism"
-    excerpt: "This would help to keep students focused and driving on roads that they are more comfortable with. With existing and developing technologies helping drivers to stay safe on the road — from lane-keeping assistance and self-driving cars — the ..."
-    publishedDateTime: 2022-05-02T10:04:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/2022/05/02/driving-program-explores-challenges-driving-those-autism/7356511001/"
-    ampWebUrl: "https://amp.freep.com/amp/7356511001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7356511001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 38
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/04/25/PDTF/73a57755-9bb5-4843-81c7-56fd9f58325f-042422_ASD_driving_prog6.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -121,6 +105,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Ford-backed Cavnue plans dedicated lane for self-driving cars on Michigan's I-94"
+    excerpt: "A startup by the name of Cavnue is working with the Michigan Department of Transport to build a lane dedicated to self-driving cars along a 25-mile stretch of I-94. Washington, D.C.-based Cavnue, which raised $130 million in its most recent round of ..."
+    publishedDateTime: 2022-04-29T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135720_ford-backed-cavnue-plans-dedicated-lane-for-self-driving-cars-on-michigan-s-i-94"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 0
 
 secured: "pk+5maAijmFOaYPtJV3ONcPAIdCqlT1VEHB0YgRe4TF7KlJTAyZsYc1zsE3P0LaQ5Y8DCw/Xs26NEZRDxxLBVV46lJRaU66CcO53ELAjgy7cf3zOSIbRxV1BoMGOHV4+R2zqaasT95gai9fjP7Y4QmzVHSOQqrFmiU6QpzNHzbW/rTAQgH+VN2T0x8CUrrqUjqJXIA3maY8mWSTtm00nG8o6fLYtO4TLCcB8rPvs9FyBU3fbPltUlhTk/8WF8t48TWSrbrP1/TeGYWxZKeEWTGrxmkwW53JD7EeRZQvPo1111yqhaKeaXeDafSKOcBdm96YXjtvW4Lmd41GwEkYpq3Oy7ZHEMJYoK5qos3t9PbE=;z4cO6C+nPn330T4neV1N8w=="
 ---

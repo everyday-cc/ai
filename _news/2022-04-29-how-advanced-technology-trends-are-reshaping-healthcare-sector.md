@@ -83,6 +83,29 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "How startups are applying AI to ease supply chain disruptions"
+    excerpt: "Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have combined to delay deliveries of everything from bicycles to pet food. In ..."
+    publishedDateTime: 2022-05-03T08:30:00Z
+    webUrl: "https://insideretail.com.au/technology/how-startups-are-applying-ai-to-ease-supply-chain-disruptions-202205"
+    type: article
+    provider:
+      name: insideretail.com.au
+      domain: insideretail.com.au
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/insideretail.com.au/wp-content/uploads/2022/05/Startup-using-AI-.jpg?fit=720%2C400&#038;ssl=1"
+        width: 720
+        height: 400
+        isCached: true
+  - title: "Best Practices for Health Care AI Selection"
+    excerpt: "Researchers at the Duke-Margolis Center for Health Policy explored how health care systems choose which specific artificial intelligence tools they use for improving population and individual health. Duke-Margolis’ Digital Health Policy Fellow describes ..."
+    publishedDateTime: 2022-05-02T13:03:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0139"
+    type: article
+    provider:
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 19
 
 secured: "ScdB7tsiXVLAXD4eB0fdp+hGAfP8rJ/5OdyvieTs/sZiRFp44Pl8VBoIOzv1TyPSrlGTEE5dEEZiFkkTASZD1RWLvr0W4a+oeckUPHRIaWda8fXmqZyBp1HcifDEJl1+hatMSRL3mRTLu8yWK8LbE1aRcskze8LyPxImPV68BL50QC149TP9XgYOZsDKj8s/Kq0IfecJk4j6TDYdTLlBGdI0QLsEROHlketFXcYElVFHMhgjyWQS+db8HA3Fdh4Xqswp1CHBgykicz2U8mkipwYlvEahx2h/mu/OXSvphgFOvHpi4+3vZveRE7eepPObr2ehkkEBdULIqiEWNBcYrIRleENBwYBxoLJ0m4JjM+2k4y+M2rcQvZaSP6GOR19zcJtOT9bo/3V9rTyKNC4a58ZXbWLXv3Bhoxv4zTZKIYywUqChcFjlc1XRarhHbrTEQvDv/S+r+fVAX9LMGyCHbLwMi0Y2/4y7Qq7laZEjck9KigI/oyTTz1cD/Q58otX0XZCS/WIcgJaNDVsMF60XJA==;Zz/4er6ZeEpXMmanhAc65w=="
 ---

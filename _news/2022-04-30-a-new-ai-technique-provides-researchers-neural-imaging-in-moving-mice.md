@@ -43,16 +43,16 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google faces internal battle over research on AI to speed chip design"
-    excerpt: "Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial intelligence software he had been trying to discredit, accused him of harassing behavior. By Paresh Dave OAKLAND ..."
-    publishedDateTime: 2022-05-03T02:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
-    ampWebUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?amp"
+  - title: "Google Faces Internal Battle Over Research on AI to Speed Chip Design"
+    excerpt: "Google Faces Internal Battle Over Research on AI to Speed Chip Design By Paresh Dave OAKLAND, Calif. (Reuters) - Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial ..."
+    publishedDateTime: 2022-05-03T02:36:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 84
   - title: "Google fires another AI researcher who reportedly challenged findings (updated)"
     excerpt: "Google is still firing AI researchers amid criticism of its work. The New York Times has learned Google fired machine learning scientist Satrajit Chatterjee in March, soon after it refused to publish a paper Chatterjee and others wrote challenging earlier ..."
@@ -183,7 +183,21 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Google keeps firing people who question its AI"
+    excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."
+    publishedDateTime: 2022-05-03T09:46:00Z
+    webUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
-secured: "Y54FUTOMOsBAR9n2YtzG2t1Uc3bCG+Y+cbOgRh4VtCm1h7G5ZLlEoxHYRgu5T/ETkaBNsT8t8siia6p9yOiwUO7o0Jj/erRLhBY3blRIftNMoM/5xjvzAJ334vjiUjnLL/E+qRTVpwmPhur5pNu5woJrCf56PkLi2EneNZCpTFNSC1QxNwJ85U5IRv/6kWZyDd90oh1z8RwxXjV0M4vvHqN6w/MAOKMp469Z57vGvwHcFwW/H5MpLtWMrhaV7cAFeVDqs8LHj3kE4cGcK2qV/8jSLpR32Ug/Fs23yygUtoK5JRKf5tUZEHP2Bt7dMBRYnnCVjwg+OW+uIfwUfLe81MB62K9T9uqJLaanVs+/GBQ=;qAxopKl3bZtFu605AjOecg=="
+secured: "XYuwgcF+ruA29dg7FklOoKkXs6VgELmV9fTv+AecoF8azQKljPfoxfugsUQfQsknJFf0OOq78mcty8VnPesCXPSPcPBcjTXj3Ctz7rT77uY8Z6p610CLvxrJ6W6hy4HZAVBDVLmVUTTBuTAFSCS2QejDsQLERNZTA6PU0zNfkyWpZyDlFn+sk2u3Al+IQSPDfr/W5PMjLXy1e0LPdhWXra+8KF9EVaAzLQk5HFNSiG9WPmOhQdz6JFmGqhLaYlwqR+gzlRSJ7aKshW4ZNHw+Hn6N2PJ9DY1+OQ/JKwsWMLB8V9dgNrCk9dInmfmedj1YBMmVVfySfFSdBFmcPzun9MLPkaRONz1VWDIy2xOx89OEC9BESKN/nCEeffWtNYJrrOlstINMAsCAb1+I+Ua0VEALtU1AvO8MXzI2ABga4lAOY4fwWruUjowQro5BUg2CDGAREaS2D9RHkR+ygLeMujMgsEBe0tIbeOHcrV/KskavNy0C40b6bRWHHQ9VyEdssLvDg1Q1z7XHfYu/XqxRLg==;zMZBQqA7ebte5yeB4LFueQ=="
 ---
 

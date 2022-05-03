@@ -38,6 +38,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "The Benefits of AI In Construction"
+    excerpt: "Historical data such as planned start and end dates are used by predictive models ... intelligence company launched in 2017 with the promise that its robots and artificial intelligence hold the key to solving late and over budget construction projects."
+    publishedDateTime: 2022-04-29T20:41:00Z
+    webUrl: "https://www.enr.com/articles/54037-the-benefits-of-ai-in-construction"
+    type: article
+    provider:
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 41
+    images:
+      - url: "https://www.enr.com/ext/resources/2022/04/29/The-Benefits-of-AI-In-Construction-cover-image.jpg?height=635&t=1651260664&width=1200"
+        width: 900
+        height: 550
+        isCached: true
   - title: "Johns Hopkins Engineers Use AI for Deeper Look Into Brains of Mice"
     excerpt: "A group of biomedical engineers at Johns Hopkins has developed an artificial intelligence (AI) training strategy to gain a deeper understanding of the brains of mice. The new strategy captures images of mouse brain cells as they are active. According to ..."
     publishedDateTime: 2022-05-01T18:57:00Z

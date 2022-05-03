@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Google faces internal battle over research on AI to speed chip design"
-excerpt: "Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial intelligence software he had been trying to discredit, accused him of harassing behavior. By Paresh Dave OAKLAND ..."
-publishedDateTime: 2022-05-03T02:30:00Z
-originalUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
-webUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
-ampWebUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?amp"
+title: "Google Faces Internal Battle Over Research on AI to Speed Chip Design"
+excerpt: "Google Faces Internal Battle Over Research on AI to Speed Chip Design By Paresh Dave OAKLAND, Calif. (Reuters) - Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial ..."
+publishedDateTime: 2022-05-03T02:36:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 related:
   - title: "Google Fires Another AI Researcher For Questioning Findings"
@@ -182,7 +186,21 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Google keeps firing people who question its AI"
+    excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."
+    publishedDateTime: 2022-05-03T09:46:00Z
+    webUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
-secured: "4vftnhQuXnYXWe/lzx2veePXLjrwAJhE0WeLqzNgO4fi0XFcvk5IDcJUcAlgblqpp9/P4tef+q+UaJ5nAaFge6W9BiLcK1I8aZxnlBTcy5B611EplKLmsNv619IEN2pWfm7pumTxnxyYbV6lZ27J8dZXQqqUVurn5oT0XAMKMHCdBilr3xtzo3012hMPQ/ILUcQtS979CuiJcN47KMLFt9GRzaiwS4Mmv9QM0UkEcmBkbTxJSs/Q4ESVFy21rYdwOgkM68PTXZZiXktdDTu+7EaT600GwW/+oMehyoek8JpUxQ2A0nS/k8K5EmegZgY6ut6b4hU6h960gWBUyPnSGkntrnBJjA3uyL3B/GN7+oCD0M7RuT5VZUYz2L2Xc5Y/QF4LXXM4G2au/9fZD6c+256vx3Az819c1tteaLXu1yPRmso/5r1WpIoGAkJf9RaEAsy2v2zcN+A3Yn346+jM+Xqj6HXbJmE0X63/xO3+hdGWAtsgV1A7rKuCjLexHgFnje+HeMa3RBtOkkgBuTHRoA==;9j7U1zsQPvfNR5ClCAInTw=="
+secured: "GZI8Pg6wGizqbBhvT9ND9gld5+cwNMz8XxDeO53Csge/k74N0lo+CVLeERpYCfZruKUWBXRq0FkJZmhPZgHexCPxiAdTLeHHLzP7n+5o/oCcKl8mBNAvULb8mBWEPCKBXBKp9ZjNFus5pHtJnF2JDdm3ZNQD73n7dtR6FhToha3StgGJQMsIoM+OvBs9+Ogdl+mBWqLYAFk++UgNAbuG71nOdCbrpGY+Ike4oG03uOZejbJI4IGJ2SNlO6v82b8lQd7VJA1Zpj5nl4isrA17aoBLwZmNVuwd9gf1REidF/1D/Q5W/h08zEyHreYfdxB8PB31YtXmyVl19jC55MuT8SGcNOZ5LKYj+z2qGngpLvk3PFit7BTLgIhrdMdEc0RmY22U/mohvGxjSSvoXDv1yUk+QAvglvsHE1owUYkkipxl9RaVdrOF0LIwOGuygscDKHNSrStm9XqN3D/8DrGASwQR8/PLYs1wcpryByqqJAC1PrV4bnXpY1j4DOTAhdC5FqJ6Y2rHt/e4u6Pw/UxLUQ==;Ka1VFHQD/RH8jw0umqhnKw=="
 ---
 

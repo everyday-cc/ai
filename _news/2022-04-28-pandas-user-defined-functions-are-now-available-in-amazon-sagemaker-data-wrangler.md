@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 99
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Identify paraphrased text with Hugging Face on Amazon SageMaker"
-    excerpt: "Identifying paraphrased text has business value in many use cases. For example, by identifying sentence paraphrases, a text summarization system could remove redundant information. Another application is to identify plagiarized documents. In this post, we fine-tune a Hugging Face transformer on Amazon"
-    publishedDateTime: 2022-04-28T16:56:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/identify-paraphrased-text-with-hugging-face-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/12/ML-5880-image001.jpg"
-        width: 415
-        height: 281
-        isCached: true
-  - title: "How Moovit turns data into insights to help passengers avoid delays using Apache Airflow and Amazon SageMaker"
-    excerpt: "This is a guest post by Moovit’s Software and Cloud Architect, Sharon Dahan. Moovit, an Intel company, is a leading Mobility as a Service (MaaS) solutions provider and creator of the top urban mobility app. Moovit serves over 1.3 billion riders in 3,500 cities around the world. We help people everywhere"
-    publishedDateTime: 2022-04-28T16:45:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-moovit-turns-data-into-insights-to-help-passengers-avoid-delays-using-apache-airflow-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/19/ai_lake_architecture-whitebackground-696x630.png"
-        width: 696
-        height: 630
-        isCached: true
   - title: "Achieve hyperscale performance for model serving using NVIDIA Triton Inference Server on Amazon SageMaker"
     excerpt: "Machine learning (ML) applications are complex to deploy and often require multiple ML models to serve a single inference request. A typical request may flow across multiple models with steps like preprocessing, data transformations, model selection logic, model aggregation, and postprocessing. This"
     publishedDateTime: 2022-05-02T20:30:50Z

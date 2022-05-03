@@ -83,6 +83,29 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "How startups are applying AI to ease supply chain disruptions"
+    excerpt: "Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have combined to delay deliveries of everything from bicycles to pet food. In ..."
+    publishedDateTime: 2022-05-03T08:30:00Z
+    webUrl: "https://insideretail.com.au/technology/how-startups-are-applying-ai-to-ease-supply-chain-disruptions-202205"
+    type: article
+    provider:
+      name: insideretail.com.au
+      domain: insideretail.com.au
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/insideretail.com.au/wp-content/uploads/2022/05/Startup-using-AI-.jpg?fit=720%2C400&#038;ssl=1"
+        width: 720
+        height: 400
+        isCached: true
+  - title: "Best Practices for Health Care AI Selection"
+    excerpt: "Researchers at the Duke-Margolis Center for Health Policy explored how health care systems choose which specific artificial intelligence tools they use for improving population and individual health. Duke-Margolis’ Digital Health Policy Fellow describes ..."
+    publishedDateTime: 2022-05-02T13:03:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0139"
+    type: article
+    provider:
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 19
 
 secured: "rEcex8VjiDHuwzU7M7mQ6ZIpxlT5PGvxiJRXkKPlxFTZOgtS930P5yRFwpIoJ9ytVy380XwOZdR+l8moWLqKDK7PZ5D/1zV07+yAy2x7vLfzWUR+YFB72M/8lhnfmf008ur8bM9QxA1/ayU1xWTLOunADkcIIEZBHxEtq30GlBJSiRQ46dhOlh5Mpccny4H2PUlXWYeCAKMSAkZ3a9yCSmc7S5Ad/dyihpW8EWpJEjxZsilSE4mDMkd/PyCbm8BLfjRpggQ+xO6V2QF5ZluNt6m+RstfxCBQAIf/VTdDq2sviPjiAcRclVHNjM3T5QqSJeT02znAXD/s2QPX80RPd6C7+bPPm7kQwn+cnb7coUfK+E4+FfWi1CRcRpDfqP/jodPNTPC8hJQjiszHmdB5tXyMu08b85J11D0csbSFfw3QlUxcUXKgT7HJhu3lxYtJWm+sACEbGEpw+ko2R40+ZT5dILP5aEx0ptVeBwPg57643EEARok0mqFYJhvvx4jVby61HFwjeGuba+sdj02VGA==;5gwni93vkPsASZ0L91LHyA=="
 ---
