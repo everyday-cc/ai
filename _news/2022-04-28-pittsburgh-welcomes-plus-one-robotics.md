@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
-    isCached: true
-
-secured: "wYd0zkgGnmdcVmruZxDgsML2B8xN/fOebobmWCc9gVhIKbvXTMy0JeRe/YH07YZ+XdmfCOqaKEalXF4eedz1sxFFRTgFeh8Gvooa3GUdkk1MxG2FGKR4cFS1CqsTF+kSFm2ZcKOHwOfAeGtxZX1SAbLbJY86XEGrnipp1GsCmFrl/Wb0L3ICjGkyalgPevZRqcm/7IKAEx4Yg6JxW5aM2t47XBDJ7O7jdqZGcnnr+RvRd60rVldryFKuURlBd9Ik+fqV7pL2Yl9Ga/TSt0C3qFonkfiiprbwoO1wwuMA9rP3yTZfTzsF04MhvYiODknccRPoclBbfq3ndVu3HONFkrlFGihoS/EkKbY99e+2HxE=;ZZ9+gGC17Ixihs9bmU87og=="
+secured: "11i+Ajnhb3ALMoiuy2rozUdEDvyktz6WLv7ETbBPwftv8PzZymX8shavPLyLJ+RZvUWweDuqdAGJUAnXFJLI5g04+VHccJH6ELeC8d2vlKaak1+9/F5kMc4yOW/ixqCTzxzio5sGo/e48gtaT4kmSSTcyCGYLaZB9/j0YupxHD308zxbarZ4nHmHV2PPunzhw+8UnuonE89RItI7W17d/cmnM+EO4ECXhwIVKe53yrM6SI/ILF0Bgc70Xa5XF2s7/8JKjb6J4CNUta+C07MxwUITovh6fS6liFsY34TPTHqR13KjzPgHR5a0IT8A4uMvejDlnzumXo7H3pncFpPFX2WPRwTzEY+krwf9S7b5GjwHBlh8GE3MI1PrVT20Oy3MacL7LzaILY4jhGB2hmu1XgVLs4vNPPOJItkalKtmmSqNMd0/1S0LpiSAVn/u8L5+GrQ/+slY7ORY6qFG2AzvmOmNgBpcJgnzPWgJOtecNU4O5zVzsqZruuKZ5KYLtTtTuojHTddjYf1jCsGYxCo28w==;t/njcTFQJZSRYyR+D7+H1A=="
 ---
 

@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "6+DLmGeWFXP2soLNjryMtSvXqDWGt1nBnA9nIVV2oUupx/MA7OzecAxhidNzmsvY+y+FV6OnIfv5r96lEeNvKDWO6t0p3DmYAYvKQSRAubiex/zDki3jQ+LkUjS5vlPYtuHWrCvk/9QGDFss90nKPY/UKOAfQQJMDgtfP/3d8esff+B0sM+DrlyKL7tGoVdgQJe0EPyR4xdMLrjSA46QbYuYR7YpNE42qQOrJ8Rolzo/13yHkNEefFSSbZXffjwmm/vyfutUHhfN8LCUd6/ngKC68CspRWVH76r9kaTSyPPjgqtNhCn586IhBpDdu0x/o5oPmK4u0xDxfkfQm62e3Zgtsw21y0Fojl5+LlJyRHw=;vPcbKeLqtFimTKX6Fm/okg=="
+secured: "xeAO/pl22+1H3OFisgbq8Tay0A/qAXOC1NKc5w6oK0qcgNMbUU3jltiN7TJRGLfVXJ/S0wkbRGtT2LqRVotMmH/AZgdjn6unK32RdrdBFx2pl96FXTdG82gy9CPXeKy+54NLD77NEJHcosUyGuZ6f44Ick7JdUceMDcZguPYu1r2IMYrwi5Yxl4rrUpe3jtups4bA5fHm3NaVbcwXcFdjW/V2B2TceAdo16qDc33FFCPRFvKFO6ZR7E+wJp56OzWyE9bdGm2+x6HoZrZYkkaTQg9qjftu/biZwu8N1jwprRV5w+2JCGvVhWWUv9Jwi40qPs1L/4TfhMdw68sDkD3s9d54A1X78GwLrWrlsAR/i0=;GYIFvwA4BGFFtkMf/2Ac2g=="
 ---
 
