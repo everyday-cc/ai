@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "movairobots"
   url: "https://twitter.com/movairobots"
-  followers: 172
+  followers: 173
 
 size: 11-50 employees
 yearFounded: 2016
