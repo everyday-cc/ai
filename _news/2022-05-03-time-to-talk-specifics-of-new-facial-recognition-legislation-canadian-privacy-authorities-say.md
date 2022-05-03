@@ -134,20 +134,6 @@ related:
         width: 1280
         height: 1024
         isCached: true
-  - title: "Meet 4 common requests to increase facial recognition trust, financial inclusion group says"
-    excerpt: "The success of facial recognition depends on both the public and private sectors working hard to engender trust in AI tools."
-    publishedDateTime: 2022-04-28T17:51:00Z
-    webUrl: "https://www.biometricupdate.com/202204/meet-4-common-requests-to-increase-facial-recognition-trust-financial-inclusion-group-says"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/03145243/DHS-PII-access-management.jpg"
-        width: 1280
-        height: 854
-        isCached: true
   - title: "Ontario's privacy commissioner joins national call for legal limits on the use of facial recognition technology by police"
     excerpt: "TORONTO, May 2, 2022 /CNW/ - Ontario's Information and Privacy Commissioner, Patricia Kosseim, and Canada's federal, provincial, and territorial privacy commissioners issued a joint statement and guidance on the use of facial recognition technology by law ..."
     publishedDateTime: 2022-05-02T15:38:00Z

@@ -2,6 +2,124 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-26-renderedai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content.md",
+      "title": "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content",
+      "excerpt": "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training. BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rend",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-nvidias-push-for-ai-innovation-could-propel-this-etf-higher.md",
+      "title": "Nvidia’s Push for AI Innovation Could Propel This ETF Higher",
+      "excerpt": "In particular, artificial intelligence (AI) investment is driving innovation for the next wave of disruptive technology. Chip maker Nvidia is doing just that. It's evolving from its identification as a semiconductor producer and focusing on growing its AI technology to remain competitive in its respective marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
+      "publishedDateTime": "2022-04-25T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely.md",
+      "title": "Artificial Intelligence (AI) Helps Detect Cancer from Patient Data Securely",
+      "excerpt": "Researchers developed a novel way of using artificial intelligence (AI) to predict cancer from patient data without putting personal information at risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "publishedDateTime": "2022-04-25T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings.md",
       "title": "Can Strength in Azure Cloud Aid Microsoft's (MSFT) Q3 Earnings?",
       "excerpt": "Azure’s revenue growth is likely to reflect continued strength ... Microsoft also completed the acquisition of Nuance Communications, a leader in conversational AI and ambient intelligence across industries like healthcare, financial services, retail ...",
@@ -997,162 +1115,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-commerces-bis-can-help-stop-chinas-quest-for-ai-dominance.md",
-      "title": "Commerce’s BIS Can Help Stop China’s Quest For AI Dominance",
-      "excerpt": "AI will transform militaries through innovations in intelligence, surveillance, reconnaissance, logistics, command and control capabilities, weapons systems, and so on. Last year a landmark U.S. National Security Commission on Artificial Intelligence (NSCAI) report found,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/",
-      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62642f15dba64174ee30febc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/",
-      "publishedDateTime": "2022-04-23T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai.md",
-      "title": "The Innovative Ways The United States Space Force Is Leveraging Data And AI",
-      "excerpt": "Speaking at an upcoming AI in Government event on May 19, 2022, Dr. Lisa Costa, Chief Technology & Innovation Officer of the United States Space Force will be sharing insights in how the US Space Force is delivering the first fully digital service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6264256f61e2dd81de312206/0x0.jpg?format=jpg&crop=2400,1350,x0,y240,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "publishedDateTime": "2022-04-23T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022.md",
-      "title": "AWS CMO Rachel Thornton on the future of customer-obsessed marketing in 2022",
-      "excerpt": "Customer obsession is core to AWS, and being data-driven in everything ... Experimenting with technology, such as machine learning (ML) or artificial intelligence (AI), in marketing can help ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1364769258-coffeekai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "publishedDateTime": "2022-04-23T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

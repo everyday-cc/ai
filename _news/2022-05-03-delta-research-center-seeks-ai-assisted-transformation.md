@@ -190,7 +190,7 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
         width: 620

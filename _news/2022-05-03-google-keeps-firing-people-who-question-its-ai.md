@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-03T09:46:00Z
 originalUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
 webUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
@@ -197,6 +198,6 @@ related:
         height: 853
         isCached: true
 
-secured: "l9e2u58AgyATY/X43YIl9ilhTnHaPIOr7Fw5VHXHkle2aa8JFNazPq1XT0iU9EInU58VKpEqbZTrmZhYB63BFfxulwoVd2IMdfH+J8RbrNUcMNRZPV/rpd93HdFxJ9uWPor3u/rxLvZiOQBbmsB5MLx68KtbBFZGtiYTynaOwaMLF+K0695spjGW5J3GG3t2qfmF1jp+KiW+yZOCbpYqNWSbnbm+g2ylGEWeCbGPuVGYksFhbeCQiiFcPm5HAKahMyWRCahMX322GD7guaOfWy+c8dIgRZgCesCAIjPnLrIEwkDiWOrP8H6bUK5RnwuNlpnnr8Sh4Qmx5kU7N6oQ27RjBiladfDy3KyeIOuC8js=;AFsWJAOUQh0R5sCwnfUPrg=="
+secured: "wS5b0bc8w3CsfZcSJpQzdl5HRzf3BzhzMni5mE3vF4vG5suajNV0iqGW16k8zC6WnmKeqflc+e9858wzDzc9xupmLgw4sWUX8fkEQxMENrHJDU2wk9Zhj3k49IH+OPx72DUUmS3VC9CjU824ohztiOzC5vq1YKj7EN6cWK1T+b/BAPTgCu8ZC1SomX3ilSzW9+rS0wsa8Ho0Wb96JmE73bKJVAyGZ8wB7HqR47qWOh7CMglHp+2HsT59gMxZm/xm/9WEm/nIa6rjyI9UEaI65Zj+XfHGzOtLQSkVa6PJO81rca3OSLeKrTl3+cInnwtLjJjKXhNuEmiBIWsP1i1PvgQvD+AsEU9Vw5AmUlYszqJ+pp3cWC+EL76mz7Bcswv+6Q8oiiIoHQJA5jsKfXo2u9c4h0FqGLd/JDbXH2kqvVvFA84adZWND6QWXv+pKfTZiN3ICCbsv/nQi1pOddy4MEbD8QU75cObz+WcQXODx+R4xLMK8hpIFq5okoKSQITgOVQWuEHYTCVGLwkYpoqL3g==;vbMACgQN6qZPpmUFrtRz6g=="
 ---
 

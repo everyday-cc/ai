@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Wedbush Lowers C3.ai (NYSE:AI) to Neutral"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) was downgraded by stock analysts at Wedbush from an “outperform” rating to a “neutral” rating in a research note issued on Tuesday, Briefing.com reports. They currently have a $16.00 price objective on the stock ..."
+    publishedDateTime: 2022-05-03T11:18:00Z
+    webUrl: "https://www.defenseworld.net/2022/05/03/wedbush-lowers-c3-ai-nyseai-to-neutral.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
     excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ..."
     publishedDateTime: 2022-04-29T06:40:00Z

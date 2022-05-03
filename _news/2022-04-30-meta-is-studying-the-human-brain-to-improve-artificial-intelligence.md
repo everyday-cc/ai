@@ -40,15 +40,6 @@ related:
         width: 831
         height: 450
         isCached: true
-  - title: "Meta AI announces long-term study on human brain and language processing"
-    excerpt: "Researchers at Meta AI have embarked on one such initiative. The research arm of Facebook’s parent company today announced a long-term study to better understand how the human brain processes ..."
-    publishedDateTime: 2022-04-28T18:57:00Z
-    webUrl: "https://venturebeat.com/2022/04/28/meta-ai-announces-long-term-study-on-human-brain-and-language-processing/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
   - title: "Meta Announces Research To Create Human-Level AI"
     excerpt: "Facebook parent Meta announced they are launching a long-term research project to build a next-generation AI that can learn and process speech and text in the same way the human brain does. Meta described an effort to create a human-level AI. Meta is ..."
     publishedDateTime: 2022-04-29T09:17:00Z
@@ -77,15 +68,6 @@ related:
         width: 690
         height: 548
         isCached: true
-  - title: "To build better AI, Meta is studying how human brains process language"
-    excerpt: "“Artificial neural networks for language are getting closer and closer to mimicking the activity of the human brain, and thereby shedding new light on how thought might be implemented in neural ..."
-    publishedDateTime: 2022-04-28T17:37:00Z
-    webUrl: "https://siliconangle.com/2022/04/28/build-better-ai-meta-studying-human-brains-process-language/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "HCXV0lKn6Rf55q400jDSaqDc/SLVsF/wXTHf18zs2KkXWQFy2ydwjET5JFEBc0PXUXJ5RCVKdGmi6NmxvfHvJIWYrG32HWtKhiwObLVJ9VRvpUUJMu5jXKU9AECqIkf7QQrpGFPKg3/I8EBqdg0MWDrRnBcoTf3Y3W2dXlDy6Dposj42e6KYDbwN32k315Py+Q/f94qChqc/5fVqHjFlOdSLNhHTiNmq2OYF3cK3yGJrOlf4ioXKkTytP7hsLWJqBdZnVth79kf/lra2WJDUEWug3a8PAuJZFDxvqgRffFnRXk2gvOda3RhWgWXi1vmympBWJPD1uNJP/h33hL9PesTL/pDQ9cwC2MjPUlQ9MCE=;L/OIdpxJCFOdrMHVDxoYxQ=="
 ---

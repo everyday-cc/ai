@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-27-nvidia-said-to-be-testing-an-rtx-40-series-gpu-that-needs-up-to-900-watts.md",
+      "title": "Nvidia said to be testing an RTX 40 series GPU that needs up to 900 watts",
+      "excerpt": "With the RTX 3090 Ti graphics card, Nvidia squeezed the last bit of performance it could from the Ampere architecture by raising the power limit to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "originalUrl": "https://www.techspot.com/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-27-image-12.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
+      "publishedDateTime": "2022-04-27T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street.md",
+      "title": "2 AI Growth Stocks With 101% to 339% Upside, According to Wall Street",
+      "excerpt": "According to some estimates, the AI industry could be worth $1.8 trillion annually by 2030, but that doesn't count the enormous value organizations will unlock by using it -- that number is almost impossible to quantify.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street",
+      "originalUrl": "https://www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street?amp",
+      "publishedDateTime": "2022-04-27T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-hewlett-packard-enterprise-ushers-in-next-era-in-ai-innovation-with-swarm-learning-solution-built-for-the-edge-and-distributed-sites.md",
+      "title": "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites",
+      "excerpt": "News HighlightsHPE Swarm Learning, a privacy-preserving, decentralized machine learning solution, allows users to share learnings at the edge, or distributed sites, without compromising data privacyThe solution increases accuracy and reduces biases in AI model training by enabling access to larger datasetsNew solution delivers AI for greater good by fostering collaboration across organizations,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=653783",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=653783",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://us.acrofan.com/img/noImg.jpg",
+          "width": 500,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-fiture-interactive-fitness-mirror-features-ai-movement-tracking.md",
       "title": "Fiture Interactive Fitness Mirror Features AI Movement Tracking",
       "excerpt": "The $1,495 Fiture leverages AI and smart motion sensors to track your movements, provide real-time form feedback, and count your reps as you follow workouts on its integrated display.",
@@ -1036,136 +1165,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-pentagon-taps-lyfts-machine-learning-chief.md",
-      "title": "Pentagon Taps Lyft’s Machine-Learning Chief",
-      "excerpt": "Craig Martell was named as the Defense Department’s first chief digital and artificial intelligence officer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "originalUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-532029/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "publishedDateTime": "2022-04-26T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-space-discoveries-that-will-blow-your-mind.md",
-      "title": "Space discoveries that will blow your mind",
-      "excerpt": "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from",
-      "sourceUrl": null,
-      "webUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
-      "originalUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WJTV",
-        "domain": "wjtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment.md",
-      "title": "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment",
-      "excerpt": "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
-      "originalUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/04/image-82.png?fit=604%2C340&ssl=1",
-          "width": 604,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
-      "publishedDateTime": "2022-04-26T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

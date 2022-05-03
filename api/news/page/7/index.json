@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel.md",
+      "title": "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel",
+      "excerpt": "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has appointed Carolyn Blankenship as General Counsel. In this role, Blankenship will develop and lead corporate legal strategy supporting BigBear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-how-we-can-use-ai-to-help-achieve-sustainability-goals.md",
+      "title": "How We Can Use AI To Help Achieve Sustainability Goals",
+      "excerpt": "Coincidentally, in between these fascinating trips, I was asked to participate in an AI and sustainability panel at our Imagine Cup Junior 2022 girls' edition. I received the panel questions only 48 hours beforehand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6255864cad3a5bbbc0404a9c/0x0.jpg?format=jpg&crop=3003,2002,x0,y97,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/amp/",
+      "publishedDateTime": "2022-04-26T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-how-banks-can-embrace-open-banking-with-regulatory-compliance.md",
+      "title": "How Banks Can Embrace Open Banking With Regulatory Compliance",
+      "excerpt": "Over the last several years, organizations, including banks, have learned plenty of lessons from their experiences of migrating existing applications, data and other enterprise systems to the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266a4046d73c134e2109d5b/0x0.jpg?format=jpg&crop=5728,3223,x1969,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
+      "publishedDateTime": "2022-04-26T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-the-looming-board-challenge-oversight-of-artificial-intelligence.md",
       "title": "The Looming Board Challenge: Oversight Of Artificial Intelligence",
       "excerpt": "With the competing interests of the societal benefits of AI and the need to monitor its risk hurtling at each other at hypersonic speed, the need for boards to address the challenge is urgent.",
@@ -994,133 +1131,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-renderedai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content.md",
-      "title": "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content",
-      "excerpt": "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rendered.ai ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1803989/ArcGIS_Channel_Training_Chips.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-nvidias-push-for-ai-innovation-could-propel-this-etf-higher.md",
-      "title": "Nvidia’s Push for AI Innovation Could Propel This ETF Higher",
-      "excerpt": "In particular, artificial intelligence (AI) investment is driving innovation for the next wave of disruptive technology. Chip maker Nvidia is doing just that. It's evolving from its identification as a semiconductor producer and focusing on growing its AI technology to remain competitive in its respective marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
-      "publishedDateTime": "2022-04-25T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely.md",
-      "title": "Artificial Intelligence (AI) Helps Detect Cancer from Patient Data Securely",
-      "excerpt": "Researchers developed a novel way of using artificial intelligence (AI) to predict cancer from patient data without putting personal information at risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
-      "publishedDateTime": "2022-04-25T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
         "images": null,
         "publishers": null,
         "authors": null

@@ -34,15 +34,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "From blurry to bright: AI tech helps researchers peer into the brains of mice"
-    excerpt: "Biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes,"
-    publishedDateTime: 2022-04-28T17:24:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220428103943.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
   - title: "The Benefits of AI In Construction"
     excerpt: "Historical data such as planned start and end dates are used by predictive models ... intelligence company launched in 2017 with the promise that its robots and artificial intelligence hold the key to solving late and over budget construction projects."
     publishedDateTime: 2022-04-29T20:41:00Z

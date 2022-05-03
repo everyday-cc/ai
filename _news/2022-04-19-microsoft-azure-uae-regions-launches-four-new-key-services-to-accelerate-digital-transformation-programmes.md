@@ -1,84 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes"
-excerpt: "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE Regions. These latest services mean that"
-publishedDateTime: 2022-04-19T08:50:00Z
-originalUrl: "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-webUrl: "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
+title: "Microsoft Azure UAE Regions launches four new key services to accelerate digital transformation programmes"
+excerpt: "and Azure Machine Learning in our Azure UAE Regions . Governance, multi-cloud, open communications, and Artificial Intelligence are vital components of the post-COVID rush in digitisation and we are pleased to provide our regional customers with four ..."
+publishedDateTime: 2022-04-19T08:02:00Z
+originalUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes-d1mvrciz"
+webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes-d1mvrciz"
 type: article
-quality: 56
-heat: 96
-published: true
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/Microsoft%20Portraits%20Jan%202018%20-%20PR%20Size%20-%2066.jpg?itok=RhaGUWpG"
-    width: 960
-    height: 540
+  - url: "https://static.zawya.com/version/c:N2NhNWExODAtYmJhMi00:Y2UwYzYx/necipozyucel-director-azurebusinessgrouplead-microsoftuae-jpg.jpg"
+    width: 683
+    height: 1024
     isCached: true
 
-related:
-  - title: "Stripe hires James Phillips from Microsoft to lead financial services biz"
-    excerpt: "Phillips joins Stripe after a decade at Microsoft where he helped scale the Digital Transformation Platform Group. The business intelligence product team employed over 15,000 staf"
-    publishedDateTime: 2022-04-19T09:39:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40085/stripe-hires-james-phillips-from-microsoft-to-lead-financial-services-biz"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 40
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/stripe-phillips.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Kraft Heinz, Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
-    excerpt: "The Kraft Heinz Company and Microsoft Corp. are joining forces to develop solutions designed to accelerate the consumer goods giant’s transformation and enable a more resilient supply chain."
-    publishedDateTime: 2022-04-21T16:21:00Z
-    webUrl: "https://www.foodengineeringmag.com/articles/100231-kraft-heinz-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation"
-    type: article
-    provider:
-      name: Food Engineering
-      domain: foodengineeringmag.com
-    quality: 32
-    images:
-      - url: "https://www.foodengineeringmag.com/ext/resources/2022/04/21/KraftHeinz-Microsoft-logos.jpg?height=635&t=1650557798&width=1200"
-        width: 900
-        height: 550
-        isCached: true
-  - title: "Kraft Heinz and Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
-    excerpt: "Multiyear cloud and AI agreement will focus on joint innovations across Kraft Heinz operations and product portfolio, representing one of the company's largest technology investments to date"
-    publishedDateTime: 2022-04-21T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader/article_ae96bef3-472e-55be-b401-9f2d7740dfd5.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/7d/27da7c2d-dbb9-5236-bcc9-a55fc34f7427/626156208540d.image.jpg?resize=1072%2C1072"
-        width: 1072
-        height: 1072
-        isCached: true
-  - title: "Flutura accelerates Lupin to digitally transform their operations using AI"
-    excerpt: "Flutura Business Solutions LLC, an Industrial IoT Intelligence provider, is collaborating with global pharma major Lupin Limited (Lupin) to accelerate its digital transformation and automation journey."
-    publishedDateTime: 2022-04-21T08:54:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220421/3933653.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 15
-
-secured: "DEjwqicygDP8pklAKSxN4wK8aNwAp40ozylLBVlR1XqcRComDd+meZEqLjvnBycLtdkVkaR43Zpr5Gg09Bbw5NKd6d+5H9UzfY8pjeHpJ3GEOft05Di703QKWMYJ0guBZiGOE8gzIWKht/3EHZv8z6gtP8RlhgFEbhksz8cUwsls13fuS4Bl+qIZKscnoYK3goLaunqVwnJbax94ZQMYxrY2buDBfzjIRggOXs/CWDZ9BlzZjeeKHKP7+M5SYiOsi7CBTfl1H8BRyhpIZ6M7lgd9HmIcbvlOZtDfu6pu7m0x9qLtFR2KG4+0Gr3/XBsVyMTWNJRM/oU/q7QeQ2uHTu8e0oC9a0/dYEXTfRTfX6YD+D8G9j+4yoGU9uWM7ooET+O9K/GzLDOyvyUAUSUK713KnFYxQGtrs4N0rGLab7onwUvNfSwZpUPQ5Hvp5G3vapjoEwHtSyOjCiOBdywqFfVlBSRvw9TA0ZN0ql2UnkswxlcBBkzTWIFirPAz7ZH/kbeU1m2vuZqVH75YI0jKxQ==;M8IsluOPHUe6chsD1AfN+A=="
+secured: "+VEQOcLoAEO6zJvEnhmG90x1vARQF2qYdqjd6FKP0DBbloBsgRXKgF7J0QtK6tJI1G0Q2d9u+x9nTRKCD6BpetdxZ8PqGpLAYHUasPMqbd6w28SVfmDiPO9LrptYsbdSEYNFVbKgFyZpIDxbFyjHHiOZti91slE/v6HRkDwtgAmP1NW94fP8CGAIEXWW/MnKSqrbomx+7sVDU9QPhQbcgAghUYCSZ+dnrPbc4CmZtStO3mP25BAxoRgUhcix8/acjV+R3ztiA3C1uerRiwi3jT0MNNL5lPwsHg9WU1yu6LhFOh+b5BTq3Ff7AIkOK7UdWTE/O3Ac3wTT/HQqG2HqOm/YSTJNvfLvDxjAV7nbYik=;uwKMzIle5wWB8PCmhVUZ9Q=="
 ---
 

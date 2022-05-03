@@ -173,6 +173,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Google keeps firing people who question its AI"
+    excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."
+    publishedDateTime: 2022-05-03T09:46:00Z
+    webUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Delta Research Center seeks AI-assisted transformation"
     excerpt: "DIGITIMES is hosting 2022 Taiwan AI Expo in Taipei from May 4-6. Prior to the event's opening, Delta Research Center (DRC) director-general Chiueh Tzi-cker shared the center's plans in an interview. Founded in 2013, the center is affiliated to Delta ..."
     publishedDateTime: 2022-05-03T07:06:00Z
@@ -186,20 +200,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20220503pd207_files/1_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Google keeps firing people who question its AI"
-    excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."
-    publishedDateTime: 2022-05-03T09:46:00Z
-    webUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
-        width: 620
-        height: 465
         isCached: true
 
 secured: "Vy31SyOVOn2uLdH6d5pXLOtFMmSnKFq5SANLOYnLgHqNSfO/8VXbkRD779Ap/Y+bOCZ8bm0sE6ZE2pVrzxd2prQkMpCV3tZifWnV/oAglMLsQIOg4+ylsmcpdPFzeNF2Rv7HbtiulonWEAwYpbTGzzpnnDzolJNsEIv/aHIDiGNQwjNrym4byAHMN4Bg4/nkxizgz53oXKo90TSdH65gXFcoB+a8eSK8+ma057/lV/ygC3/jRSTfH3pGTI2F+CyhTFUOoWZHGqTYOvH8pxEZh7SpnPtJpWi2kj+B/SwEjWASQOF3KOUlzOpUBvAMLJL7DVABXcwurrNp3Qlj8+jmgxPWrONVseMBmshP/1umabQ=;BK0ubLlivmoTOUgO04Ug4Q=="

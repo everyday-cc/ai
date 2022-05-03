@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1651242910.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Payroll fintech Symmetrical.ai raises $18.5m"
+    excerpt: "According to the company blurb for the payroll tech provider, its mission is to “help employees retain control over their personal finances”. Image source: Payroll/Pixabay. A fintech, whose vision is to “make payroll invisible\", has raised $18.5m."
+    publishedDateTime: 2022-05-03T10:42:00Z
+    webUrl: "https://www.altfi.com/article/9187_payroll-fintech-symmetricalai-raises-185m"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://www.altfi.com/images/featured/payroll-fintech-symmetricalai-raises-185m.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Seven Unique Risks Of Investing In Fintech Startups"
     excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."

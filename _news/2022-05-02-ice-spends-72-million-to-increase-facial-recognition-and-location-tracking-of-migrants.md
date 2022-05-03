@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-f
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
 type: article
 quality: 80
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -129,20 +129,6 @@ related:
       - url: "https://images.thestar.com/EuDDSHJOF_nmqiCpMx8umPgaht4=/1280x1024/smart/filters:cb(1651534260489)/https://www.thepeterboroughexaminer.com/content/dam/thestar/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs/20220502120516-627003f6a6c9640b6653e736jpeg.jpg"
         width: 1280
         height: 1024
-        isCached: true
-  - title: "Meet 4 common requests to increase facial recognition trust, financial inclusion group says"
-    excerpt: "The success of facial recognition depends on both the public and private sectors working hard to engender trust in AI tools."
-    publishedDateTime: 2022-04-28T17:51:00Z
-    webUrl: "https://www.biometricupdate.com/202204/meet-4-common-requests-to-increase-facial-recognition-trust-financial-inclusion-group-says"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/03145243/DHS-PII-access-management.jpg"
-        width: 1280
-        height: 854
         isCached: true
   - title: "Time to talk specifics of new facial recognition legislation, Canadian privacy authorities say"
     excerpt: "Lawmakers in Canada are being urged by privacy authorities to pass new laws to protect people from the risks associated with facial recognition, while also allowing it to be used by police in certain situations. Canadian Privacy Commissioner Daniel ..."

@@ -1,0 +1,29 @@
+---
+category: news
+title: "India and Germany agree to work together with focus on Artificial Intelligence…"
+excerpt: "New Delhi: India and Germany have agreed to work together with focus on Artificial Intelligence (‘AI’) StartUps as well as AI research and its application in Sustainability and Health care, said Dr Jitendra Singh, Minister for Science & Technology and ..."
+publishedDateTime: 2022-05-03T05:57:00Z
+originalUrl: "https://indiaeducationdiary.in/india-and-germany-agree-to-work-together-with-focus-on-artificial-intelligence-ai-start-ups-as-well-as-ai-research-and-its-application-in-sustainability-and-health-care/"
+webUrl: "https://indiaeducationdiary.in/india-and-germany-agree-to-work-together-with-focus-on-artificial-intelligence-ai-start-ups-as-well-as-ai-research-and-its-application-in-sustainability-and-health-care/"
+type: article
+quality: 35
+heat: 35
+published: false
+
+provider:
+  name: India Education Diary
+  domain: indiaeducationdiary.in
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+    width: 534
+    height: 462
+    isCached: true
+
+secured: "ecefxK1RPFglGYjPK9ib54t31CGcSx/j7COPlTS4Xh7yj9xTk06z072ZTG7UEU8HGc/DpQiAhmusCJHZ4hv4MeDIbszTqp3F6bDZSJ5UiedP7ABdX/TIf/40fOUQuFTi8vB9TTA/+NlIV2PJNikgFzwRX/UJw8g0CiX3xrT90J4dHJjGVOAr3Blz8whOuhC/Zo3BZ6F70FgWtnvOo1rVBQvIcZCKhdns1Trctu3f2hV5qWMspPTpQKy8ya8SQkWZt6JxXpUD3Hbdbek/e26UT3QSBA2aIlQApM9A+6gsp/y9aY2Uw+qWjY22UV3OpjiJ8NOB8gEg/E+vxFuTMxHLYF874DDm0EWdo4xIbBULTgU=;2NXDSnucppWt0G+BexPLiA=="
+---
+

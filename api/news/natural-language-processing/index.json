@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short.md",
+      "title": "How To Adopt AI-Based Business Intelligence Solutions When Traditional Dashboards Fall Short",
+      "excerpt": "Business leaders must consider leveraging AI to monitor and learn the behavior of data in real ... The right product manager will be able to align with data scientists and translate expectations and results to management, bridging the gap between the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60ca10c91854bb852614d23b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/",
+      "publishedDateTime": "2022-05-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston.md",
       "title": "Unanimous Supreme Court Flies Flag for Free Speech in Case Against City of Boston",
       "excerpt": "Despite the court’s recognition of Lemon’s many problems ... participate in this term’s remaining high-profile cases on abortion, free exercise, free speech, and the Second Amendment. Have an opinion about this article? To sound off, please email ...",
@@ -1312,51 +1364,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-17-internet-aghast-at-ai-facial-recognition-used-to-identify-dead-russian-soldiers.md",
-      "title": "Internet Aghast at AI Facial Recognition Used to Identify Dead Russian Soldiers",
-      "excerpt": "Reporters and readers reacted to the news that Ukraine is using facial recognition AI software to identify dead soldiers Russia left behind.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions",
-      "originalUrl": "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/04/ukrainian-ai-software-dead-soldiers-reactions-600x315.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp",
-      "publishedDateTime": "2022-04-16T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2022-02-09-raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.md",
-      "title": "Raquel Urtasun’s tech company develops self-driving vehicle simulator",
-      "excerpt": "TORONTO - One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away",
-      "sourceUrl": null,
-      "webUrl": "https://www.therecord.com/ts/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html",
-      "originalUrl": "https://www.therecord.com/ts/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thestar.com/j-LCDvx0Et6fcBec6MzWhz1IcJ0=/1280x1024/smart/filters:cb(1644443122032)/https://www.therecord.com/content/dam/thestar/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/2022020809028-adb8b8e5fa05bb3f4168d0080253787490ef3e8a1262f68c164b8cb064b57338.jpg",
-          "width": 1280,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waterloo Region Record",
-        "domain": "therecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-09-tesla-cut-a-steering-component-from-some-cars-to-deal-with-chip-shortage-sources-say.md",
       "title": "Tesla cut a steering component from some cars to deal with chip shortage, sources say",
       "excerpt": "Tesla omitted one of two electronic control units in the cars' electrical power assisted steering systems. Tens of thousands of cars are affected, sources say.",
@@ -1424,6 +1381,58 @@
         "name": "WKOW",
         "domain": "wkow.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-artificial-intelligence-the-3-big-trends-to-watch-in-2017.md",
+      "title": "Artificial intelligence: The 3 big trends to watch in 2017",
+      "excerpt": "Artificial intelligence: The 3 big trends to watch in 2017 Your email has been sent AI is now woven into our lives at work and home, and 2016 saw major advancements in driverless technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/",
+      "originalUrl": "https://www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2013/12/iStock_000009058764Medium.jpg",
+          "width": 2052,
+          "height": 936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/3-major-ai-trends-to-watch-in-2017/amp/",
+      "publishedDateTime": "2022-01-30T22:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

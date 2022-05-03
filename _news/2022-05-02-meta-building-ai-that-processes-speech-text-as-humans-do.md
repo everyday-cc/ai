@@ -9,7 +9,7 @@ ampWebUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-te
 cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta AI announces long-term study on human brain and language processing"
-    excerpt: "Researchers at Meta AI have embarked on one such initiative. The research arm of Facebook’s parent company today announced a long-term study to better understand how the human brain processes ..."
-    publishedDateTime: 2022-04-28T18:57:00Z
-    webUrl: "https://venturebeat.com/2022/04/28/meta-ai-announces-long-term-study-on-human-brain-and-language-processing/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
   - title: "Meta Announces Research To Create Human-Level AI"
     excerpt: "Facebook parent Meta announced they are launching a long-term research project to build a next-generation AI that can learn and process speech and text in the same way the human brain does. Meta described an effort to create a human-level AI. Meta is ..."
     publishedDateTime: 2022-04-29T09:17:00Z
@@ -78,15 +69,6 @@ related:
         width: 690
         height: 548
         isCached: true
-  - title: "To build better AI, Meta is studying how human brains process language"
-    excerpt: "“Artificial neural networks for language are getting closer and closer to mimicking the activity of the human brain, and thereby shedding new light on how thought might be implemented in neural ..."
-    publishedDateTime: 2022-04-28T17:37:00Z
-    webUrl: "https://siliconangle.com/2022/04/28/build-better-ai-meta-studying-human-brains-process-language/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "mGOQnnOAJJqJrWzdoTk7lf1YsdOrKnEbCJQDbNBTESRW2nMLDzP83Ko2rSu3xUDwLbux3r8RJRteei05TgQ/C0nWIEFbtkT48ZmelJmuxl6XjFdb1/G0K3xhHZ5OexrfG7SHExR80TlHMIo8hmZiGQ/7bhdBnxmVuD2jRG/708U57C9lxet77PVzPoCxjzA58X9puyZXBOuAkRtrkPEuLn8UarffslPTqWuNMcDCwuzQsoy3lP3sjnBsbMkaS5/Y8kAPY6z1v+Bt5mWvUgpukNhh3AQBZj5+4KpArrWrqgOZa3QZLsCp5z+/0JDqioT8mKumLn8/Gem8LG+ZAKyIaMB/eyOD3rBtFalI0nxg1sJnhPL2b0soo5Z3gArTRDR+9CRPAXU7eDTwvCGzNbLDKTGDmRBCbcf4HKkbXFMc4v5kbSFD501ayfH4m5abf6j5zKKLBlMMzYNmlLooWrU/BhhUzVD0an1VXoL/v2n3hMjK0DGqMEZliP+sP5A6+TLIE03g/DwsgSfO/aU555++rw==;mOZ2/wGkJTyqyHQDFicHPQ=="
 ---

@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-11-how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly.md",
+      "title": "How Süddeutsche Zeitung optimized their audio narration process with Amazon Polly",
+      "excerpt": "This is a guest post by Jakob Kohl, a Software Developer at the Süddeutsche Zeitung. Süddeutsche Zeitung is one of the leading quality dailies in Germany when it comes to paid subscriptions and unique users. Its website, SZ.de, reaches more than 15 million monthly unique users as of October 2021. Thanks",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/tts-architecture-ml-blog.drawio-002-1260x479.png",
+          "width": 1260,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T10:37:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-portworx-by-pure-storage-announces-strategic-engagement-with-aws.md",
       "title": "Portworx by Pure Storage Announces Strategic Engagement with AWS",
       "excerpt": "Also Read: Recognizing and Eliminating Bias in Artificial Intelligence As part of its work with AWS, Portworx has also announced an Early Access Programme for Portworx Backup as-a-Service (BaaS) on AWS. Portworx BaaS introduces a modern data protection ...",
@@ -1403,58 +1456,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector.md",
-      "title": "How Clearly accurately predicts fraudulent orders using Amazon Fraud Detector",
-      "excerpt": "This post was cowritten by Ziv Pollak, Machine Learning Team Lead, and Sarvi Loloei, Machine Learning Engineer at Clearly. The content and opinions in this post are those of the third-party authors and AWS is not responsible for the content or accuracy of this post. A pioneer in online shopping, Clearly",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/26/ML-7595-image001-new.png",
-          "width": 671,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T09:46:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

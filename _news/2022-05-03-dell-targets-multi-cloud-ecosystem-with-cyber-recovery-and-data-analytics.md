@@ -73,6 +73,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Dell anchors multi-cloud cyber recovery to APEX"
+    excerpt: "Notably, the release of Dell PowerProtect Cyber Recovery for Microsoft Azure will aim to allow businesses opportunity ... as well as implementing machine learning and forensic tools to \"detect, diagnose and speed up\" data recovery. This also extends ..."
+    publishedDateTime: 2022-05-03T11:16:00Z
+    webUrl: "https://www.arnnet.com.au/article/697764/dell-anchors-multi-cloud-cyber-recovery-apex/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shant_soghomonian_dell_1.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "Cyber-resilient Dell brings the cloud to its customers and their data to the clouds"
     excerpt: "A second example could be using Azure compute to train a machine learning model with Dell file services in Azure. We hear that, maybe, Pure Storage and Snowflake will be announcing a similar deal shortly. All of Dell’s mainstream competitors are focusing ..."
     publishedDateTime: 2022-05-02T17:00:00Z

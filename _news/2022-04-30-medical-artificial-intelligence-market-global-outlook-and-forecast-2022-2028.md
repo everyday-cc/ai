@@ -56,15 +56,6 @@ related:
       name: Galleon News
       domain: galleonnews.com
     quality: 24
-  - title: "Explainable AI Market Size 2022, Share, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 28, 2022 (The Expresswire) -- Global \"Explainable AI Market\" Research Report provides a wide range analysis of market dynamics like current trend, size, share ..."
-    publishedDateTime: 2022-04-28T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/explainable-ai-market-size-2022-share-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2029-2022-04-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
   - title: "Global Deep Learning Market Size, Share, Trends, Growth Status & Industry Analysis And Forecast 2022-2031"
     excerpt: "A report on Deep Learning Market was recently added by Kenneth Research into its database, which is aimed at providing the clients with the business growth and investment opportunities present in ..."
     publishedDateTime: 2022-04-29T17:24:00Z
@@ -85,6 +76,20 @@ related:
     quality: 0
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cd9543b3ef41b34c81c8ea127008874018421dea-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI in Infrastructure Market Analysis Size, Share, Growth, Demand, Outlook By- Trends, Opportunities, Challenges, And Investment Feasibility 2029"
+    excerpt: "The new study report titled “Ai In Infrastructure Market” comprises a thorough coverage and essential advancements in the market based on analysis conducted by our research analysts. The information was developed with a fantastic combination of ..."
+    publishedDateTime: 2022-05-03T11:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-infrastructure-market-analysis-size-share-growth-demand-outlook-by-trends-opportunities-challenges-and-investment-feasibility-2029"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Qantas-Airbus-A350-1000-AFP-1K-01-600x337.jpg"
         width: 600
         height: 337
         isCached: true

@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-02-machine-learning-improves-human-speech-recognition.md",
+      "title": "Machine learning improves human speech recognition",
+      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-impro.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-machine-human-speech-recognition.amp",
+      "publishedDateTime": "2022-03-01T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-corticalio-adds-contract-intelligence-to-document-processing.md",
       "title": "Cortical.io adds contract intelligence to document processing",
       "excerpt": "This technology leverages such tools as computer vision, machine learning, natural language processing, and optical character recognition. But when it comes to delving deeper into more complex ...",
@@ -1421,58 +1465,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-this-wearable-smart-camera-can-detect-voice-commands-without-a-sound.md",
-      "title": "This Wearable Smart Camera Can Detect Voice Commands Without a Sound",
-      "excerpt": "Here’s to hoping the researchers continue to develop the technology, because with more advanced speech recognition capabilities, the world would be a more peaceful place where no one had to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
-      "originalUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655ba50d6201fb981d11ac499e741434.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
-      "publishedDateTime": "2022-02-16T18:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
