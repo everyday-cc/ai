@@ -17,6 +17,8 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Google AI
+  - AI in Autos
 
 images:
   - url: "https://dl.acm.org/cms/attachment/67d9f517-267f-411b-83dd-f38fb1bbb22d/ins01.gif"

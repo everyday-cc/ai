@@ -18,6 +18,7 @@ topics:
   - AI
   - Machine Learning
   - AI Ethics
+  - AI Hardware
 
 related:
   - title: "New HPE offerings aim to turbocharge machine-learning implementation"

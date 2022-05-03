@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
@@ -23,6 +24,6 @@ images:
     height: 338
     isCached: true
 
-secured: "qm9ZnTt6esmoITYAzB3bUPCp9J/1fvZJHFwtIorWdXy17blW5J18igfugWN5OUEop0bpOyS24lQngBQ5/FR8+I7r8Eh2sDzYWZVDGbNGAw9xHzKGAy7/RBqjjDQen7UqSNRM/4t+wyuA6PHeJTzNuIr/V6PXdl+qMbjLZvb+QUFpq+ddpbzhEzGStbwvRWIHhWwFdN0VUDraIovGvzetbN6u8ImBhx4z/EHOj+wkpx52aYdhY6LPEmp81fpNRZJUVZozRLAOZ5QkVdZT4xEC7EjSQcZxNc5042lOWrF05EkiE5kt4jHdTYi2hRhCqliQAOjgdDLkeVNS1yQWYbzIJ4BFVfCzy/CAkYuXlTtyL6c=;lnuS9fnNmpVqxkyiE0h3BQ=="
+secured: "OuhCNjM4d8Li4LoCvicPICLHIQwqfpJpY3MMhV65VBMHWZt3tnfnihT+Xx/Bn5PIBjY5JgjH1oPPI2X8Zc2/UHvobtsjCRlwPhSOy9Qj94gbBu6vhoscjFLeNbWKm3Kdyb0Ht+TfEF6oqwwEtVw1tMytMbmg4zaBD1Z4/PadGwb3RYDEWEQZ4EalsA30CHQZLqpq+sL8eeIruOLr0ZpnUnYxXIFnS0SE9ZQJhCmQT4CI09JO5hZEV57oWK5G2jrqNkQwcO05/SoXT5FQRkfSiUnCgUgfqQG373LTZCDj7saEj7amudIpYZWM/yNttDykwWTEcihl7UJ9STZGXt2cZS4Bed8MDFaDWcpWTVthRUM3n839A87i10kDPjap2E/ctWXWir7MaPVACL8FiAopJCtcifSbx9/xYmusxgawXASOXyFKGWAYsqEr+qlhuYdbMGgp7JjyrGdkMujtFi2wDyut266AlefgQDzGuCvmzJC+o+CGXA0HpHFCemVslE2gTA9jzNH1TbkVzg4DlB4hOA==;7ckNoxGWxqFXLgDRllCvrg=="
 ---
 
