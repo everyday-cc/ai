@@ -46,19 +46,21 @@ related:
         width: 1200
         height: 774
         isCached: true
-  - title: "This AI-enabled robotic boat cleans up harbors and rivers to keep plastic trash out of the ocean"
-    excerpt: "Hong Kong-based startup, Open Ocean Engineering, has developed Clearbot Neo, an AI-enabled robotic boat that autonomously collects trash in rivers and industrial waterways."
-    publishedDateTime: 2022-04-28T06:49:00Z
-    webUrl: "https://news.microsoft.com/apac/features/this-ai-enabled-robotic-boat-cleans-up-harbors-and-rivers-to-keep-trash-out-of-the-ocean/"
+  - title: "AI helps scientists design novel plastic-eating enzyme"
+    excerpt: "The team believes production and usage of the AI-designed enzyme can be scaled up to industrial levels, providing a new and affordable way to get rid of the world's thrown-away plastic. Generally speaking, biological approaches to breaking up waste ..."
+    publishedDateTime: 2022-05-02T23:01:00Z
+    webUrl: "https://www.theregister.com/2022/05/02/ai_in_brief/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/02/ai_in_brief/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/02/ai_in_brief/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
+      name: theregister
+      domain: theregister.com
+    quality: 57
     images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/clearbotresize4_1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://regmedia.co.uk/2018/04/17/plasticwaste.jpg"
+        width: 648
+        height: 432
         isCached: true
 
 secured: "cw686Tz59ZZUFpI5eH3qLNQOHoN79IU1h+8PcvAgEl0FaKOsg7FWhK2xfHm4zM7w4rMER5D6maYNEZg03uYVyPgnfbcP6aA1DIaeo7+Y0hUX7N4g7TfFcjLIRyIxTNbjE36JVYGgfxoAs7ncdDnbjx6IncUucpDn9B1ImkPgX/JrNPSBGQWxeqH7TFr9C6pt7GWyp2pIdhkmcXvqTur3wqssD5xR90gsv/q5ESy0NrpaMB3p4aFHbY1ddiWZMw0dvHdjdpiqWhoSsqv+7uo99PljAle/ocx8bNFgv2T6tEKltJvYl1KDsPrR44tfqHFNSRx19cE1SH3KrVBZVS4EfORm8JdZmuyfRvMGYR3xx0a4vc8xNnNBkMgD2B87kdZm+s8H4jpCJEgAqfvyqNrUJe9aS8N/Rt7QdQonSQC9Au4c3NjYt2WkAP+/yXzAOi4AWPHSwcRKqQaH8mmx8mpHuVYc9BRnqnmoZgF9urwem6v8SpGifC8exs7P4xGb9CN61EsZKGYq3pk3u0sUQH/tMA==;RN5QY9PsTO5DY9NDJbIb+Q=="

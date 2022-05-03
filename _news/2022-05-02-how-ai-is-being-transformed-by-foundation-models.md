@@ -1,31 +1,22 @@
 ---
 category: news
-title: "How AI Is Being Transformed by ‘Foundation Models’"
-excerpt: "The current state of AI ethics development, Reich said, was like that of a teenage brain: full of a sense of its own power in the world but lacking the developed frontal cortex needed to restrain its less-considered impulses. Government regulation ..."
-publishedDateTime: 2022-05-02T09:30:00Z
-originalUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/"
-webUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/"
-ampWebUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/?amp"
-cdnAmpWebUrl: "https://www-thebulwark-com.cdn.ampproject.org/c/s/www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/?amp"
+title: "How AI is being transformed by ‘foundation models’"
+excerpt: "These models can be thought of as meta-AI—but not Meta-AI, if you see what I mean—systems that incorporate vast neural networks with even bigger datasets. They are able to process a lot but, more importantly, they are easily adaptable across ..."
+publishedDateTime: 2022-05-02T14:24:00Z
+originalUrl: "https://www.aei.org/op-eds/how-ai-is-being-transformed-by-foundation-models/"
+webUrl: "https://www.aei.org/op-eds/how-ai-is-being-transformed-by-foundation-models/"
 type: article
-quality: 59
-heat: 59
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: The Bulwark
-  domain: thebulwark.com
+  name: American Enterprise Institute
+  domain: aei.org
 
 topics:
-  - AI Ethics
   - AI
 
-images:
-  - url: "https://www.thebulwark.com/wp-content/uploads/2022/05/ai-face.jpg"
-    width: 1600
-    height: 1250
-    isCached: true
-
-secured: "SgKwh3TX2Mju6xorPxy8xKe32HDLD7an1xm9S6JvdD90+sADG2/hDG3NaEvti+iloL2y0X93bREJW9NtWjkhTIk2Gj2wjVHfXKrx6atNmk2uln/yi81++bGuTBp+oFr0Y7obYZXapy9hBW6oHyjfIgpOsUFLvK7iQbMSsUyrS+1qxRr4VMInOch6CUnapwb/7BBVILWC+ms2z42ue+1gIZxXGD57MoagCS/nWNebcLcriC439PF9q5PR4huQuosoIvzumJDqWFlAW1MAWWRdQJRyZ4YeHiRPxZl4w3QTnRtCYBZoIlVw2TTQW3RQ4G2q39uMUTsmZfX2NcOR3xsvRTmJ0f2+XkD8Wi48QL/5bxSIAzSzUBVxSgH4ZkshEMp/r3o4NOXY77wls+g2Olyicml0Bwi6SN4442v+NbzJxOO20cSLGATLQAnr+2ACTRz6l3Ewtrg7OjDAlrwC+kCcMc8MCoasWAo78GceqGqUEjrsYzbp7K0rlZQ9xqhZhYRwSIoWXlZgRxennLlqjTs1aw==;qCo27iTX8XX7awjIzRGrbw=="
+secured: "TgK0EQzvacDiKDSc1HRqjX9cqp2ZB9hhopOO9tHFE44GNTFwgYCkdUrWBIXJfndWxZBpy3fbERnrfX/JF4i+I00wYaLGppFSAQlNByUheCg2wI7yLej5QxHNCBmDzNJ5TQiF5xz7EeoQhugscGDb1E8dMrmrYjqO73wm0Vk20jxHAtB+MzSpfMkFTJgg+ghhyEcZaEL2kuGuTYG0+vleH0AA+TbO3IxFtdR6XdrOj1HVL7nCmZ1iywlAXZrzrvwNZPQnBGuUVEYHzK+9KOiF3PoDXhkBdOuDaZVrMmpds8uCbkAay1x/Lt8+mJRzOmhtYgWTW9MsuwAkdaXNZT8HmEDSIQ0aNyPQbJDqXsUUXUU=;mvRfQvAJ1OhBMEvDF75TGw=="
 ---
 

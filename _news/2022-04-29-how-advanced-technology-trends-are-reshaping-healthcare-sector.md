@@ -69,6 +69,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "How AI is helping to address staffing shortages in healthcare"
+    excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
+    publishedDateTime: 2022-05-02T22:25:00Z
+    webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
+        width: 724
+        height: 483
+        isCached: true
 
 secured: "ScdB7tsiXVLAXD4eB0fdp+hGAfP8rJ/5OdyvieTs/sZiRFp44Pl8VBoIOzv1TyPSrlGTEE5dEEZiFkkTASZD1RWLvr0W4a+oeckUPHRIaWda8fXmqZyBp1HcifDEJl1+hatMSRL3mRTLu8yWK8LbE1aRcskze8LyPxImPV68BL50QC149TP9XgYOZsDKj8s/Kq0IfecJk4j6TDYdTLlBGdI0QLsEROHlketFXcYElVFHMhgjyWQS+db8HA3Fdh4Xqswp1CHBgykicz2U8mkipwYlvEahx2h/mu/OXSvphgFOvHpi4+3vZveRE7eepPObr2ehkkEBdULIqiEWNBcYrIRleENBwYBxoLJ0m4JjM+2k4y+M2rcQvZaSP6GOR19zcJtOT9bo/3V9rTyKNC4a58ZXbWLXv3Bhoxv4zTZKIYywUqChcFjlc1XRarhHbrTEQvDv/S+r+fVAX9LMGyCHbLwMi0Y2/4y7Qq7laZEjck9KigI/oyTTz1cD/Q58otX0XZCS/WIcgJaNDVsMF60XJA==;Zz/4er6ZeEpXMmanhAc65w=="
 ---

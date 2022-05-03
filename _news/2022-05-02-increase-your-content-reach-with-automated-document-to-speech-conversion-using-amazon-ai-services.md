@@ -99,6 +99,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "New legal restrictions needed on police use of facial recognition: privacy watchdogs"
+    excerpt: "OTTAWA - Canada’s privacy commissioners say it should be illegal for police to use facial recognition technology to monitor people involved in peaceful protest. In a joint statement today, federal, provincial and territorial privacy watchdogs also call ..."
+    publishedDateTime: 2022-05-02T16:40:00Z
+    webUrl: "https://www.thepeterboroughexaminer.com/ts/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs.html"
+    type: article
+    provider:
+      name: Peterborough Examiner
+      domain: thepeterboroughexaminer.com
+    quality: 32
+    images:
+      - url: "https://images.thestar.com/EuDDSHJOF_nmqiCpMx8umPgaht4=/1280x1024/smart/filters:cb(1651534260489)/https://www.thepeterboroughexaminer.com/content/dam/thestar/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs/20220502120516-627003f6a6c9640b6653e736jpeg.jpg"
+        width: 1280
+        height: 1024
+        isCached: true
   - title: "Meet 4 common requests to increase facial recognition trust, financial inclusion group says"
     excerpt: "The success of facial recognition depends on both the public and private sectors working hard to engender trust in AI tools."
     publishedDateTime: 2022-04-28T17:51:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/business-61255405"
 webUrl: "https://www.bbc.com/news/av/business-61255405"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "All about Pentagon’s new AI chief"
-    excerpt: "The US Department of Defense has appointed Dr. Craig Martell as Chief Digital and Artificial Intelligence Officer (CDAO). “With Craig’s appointment, we hope to see the department increase the speed at which we develop and field advances in AI,"
-    publishedDateTime: 2022-04-28T05:36:00Z
-    webUrl: "https://analyticsindiamag.com/all-about-pentagons-new-ai-chief/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/27apr-8.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AI for the Trades"
     excerpt: "Anmol Bhasin, chief technology officer for ServiceTitan, said he previously worked with AI at Salesforce.com Inc. and Groupon Inc., and his goal is to bring the same types of services that those ..."
     publishedDateTime: 2022-05-02T07:05:00Z

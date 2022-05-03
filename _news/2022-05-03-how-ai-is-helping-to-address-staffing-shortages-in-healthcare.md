@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AI Making Groundbreaking Changes in the Healthcare Sector"
-excerpt: "Fremont, CA: Artificial intelligence is transforming our lives in a variety of ways, none more so than in the healthcare industry. For instance, there has been an explosion of innovation in digital healthcare technologies over the last decade. Medical ..."
-publishedDateTime: 2022-04-29T00:00:00Z
-originalUrl: "https://www.cioapplications.com/news/ai-making-groundbreaking-changes-in-the-healthcare-sector-nid-9816.html"
-webUrl: "https://www.cioapplications.com/news/ai-making-groundbreaking-changes-in-the-healthcare-sector-nid-9816.html"
+title: "How AI is helping to address staffing shortages in healthcare"
+excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
+publishedDateTime: 2022-05-02T22:25:00Z
+originalUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
+webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: CIO Applications
-  domain: cioapplications.com
+  name: MedCity News
+  domain: medcitynews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.cioapplications.com/newstransfer/upload/eo09n450308cioappli.jpg"
-    width: 450
-    height: 308
+  - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
+    width: 724
+    height: 483
     isCached: true
 
 related:
@@ -55,19 +55,19 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "How AI is helping to address staffing shortages in healthcare"
-    excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
-    publishedDateTime: 2022-05-02T22:25:00Z
-    webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
+  - title: "AI Making Groundbreaking Changes in the Healthcare Sector"
+    excerpt: "Fremont, CA: Artificial intelligence is transforming our lives in a variety of ways, none more so than in the healthcare industry. For instance, there has been an explosion of innovation in digital healthcare technologies over the last decade. Medical ..."
+    publishedDateTime: 2022-04-29T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/ai-making-groundbreaking-changes-in-the-healthcare-sector-nid-9816.html"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
+      name: CIO Applications
+      domain: cioapplications.com
     quality: 54
     images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
-        width: 724
-        height: 483
+      - url: "https://www.cioapplications.com/newstransfer/upload/eo09n450308cioappli.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "How Advanced Technology Trends are Reshaping Healthcare Sector"
     excerpt: "Diagnostics, therapy management, and other aspects of healthcare are altered due to AI advancements. Fremont, CA: Artificial intelligence has carved out a strong presence in human civilization and our daily lives during the last two decades. Most of us are ..."
@@ -84,6 +84,6 @@ related:
         height: 308
         isCached: true
 
-secured: "bM6UEdEM6L7ZTdzm7StFj1Y1cnNAkJV5HNvIpIyIqV9gsflnuHD2q22z6zeMo2BNCyPvKvSVELE71AdSVB/2WWKcYU6pUl3tGMC/1u4h/9ZCFYe11EAhXsfc7MsIgxcOAjERaZNk2hlJaMxFoxjgd/NTcCcX+PCpcQ7C3yDChGexhX4nzzzRY9sYrAYqbr3SKAICRPZ66brY0wEsrh5UI1kOSvxxoaLw/VVafKjZ5de2wmRzV0EW7OgJepCpHSJ7a5Sy5LKBf9UiXFyZqDYti20/x9Gw+dm9HimB6t+WX7k9AqIyeMVFZ0vvHjZI3Sm59J6fKyB/P3hCaG5TaR5E6j/ppuReaZHMCOf15owJfTs4zohILMJt7dD1XBZp6+OaGOCkGGme28T+o4C2mbBMTyakLtDuTrX/AfhEXtontbx7PekmbmQZXqElTEeKWDdAP1klwA6tYJaMwUAJc5vp5r1/KmaUnW9p9XW667WwUW24MEy3fRnyyAkkQy2gQYSRCzdPKPnPEkzc/lRkQCOVUg==;CxJLVH64Fz5okMbFdwB4sQ=="
+secured: "fZI0G2okq10qGv/yD6GS6Cexj0ZdO5273W74kazMlUYS1Q8NAdPGXzEHqqRdd5d0nnu4rAwS6QgE5Bfb7wtLE4MZLp9C5xhb7JyVkI26S+Liod5Iq1GnVomphA7dzPK++C/Bq5rKv1B6RR/vzHHtd8N/6rLBbUnWXXBGM/TplgUXjh2ERDKdddjWUS0+jWfnyxkLpLBqtoqS18gVb3q8NFVT6qRMCS/lLEC1qzPrKSMTeso9p46gkA/DrEsFaK3GAUgD9+05t031tvBrxNDLgat3YMRdKF15OUulk+6lNhBy1HfWzI7errHGXMidstHfc856beRpcmRB26ea/ic2Uvl0iJorkkdH7kDKdfXgye8=;9YJDM3HLcGdVZw5rjbouiA=="
 ---
 

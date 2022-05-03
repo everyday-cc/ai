@@ -38,6 +38,20 @@ related:
         width: 764
         height: 399
         isCached: true
+  - title: "Verily invests in startup building AI for health system call centers"
+    excerpt: "Healthcare automation startup Syllable on April 25 closed a $40 million series C funding round. The funding round was led by growth equity firm TCV with participation from existing investors, including Verily, Alphabet's life sciences arm, according to a ..."
+    publishedDateTime: 2022-05-02T21:41:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/verily-invests-in-startup-building-ai-for-health-system-call-centers.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Kpt1VomP0gF6f4+xfCYltRJx9At+i8uaE29na6aE/hnXX6G+RN5lFoH+1D/t7nPVIk4tRJGKxmayU05Wz3BUJvQ+j7S5xQnC+CAu3dynwI0Dc0ITo84g67IBC6eUNq8wapKzkiuPjMC72nMDUU2usFPPqkIslETtiaqA6wKBYSkOH5dfLPmlL9DnIil1g7By9bQ/1cAtES2DGEmbnwRQgwel6f9DJHBoJPd3b2qUTUot09Go8/DgU2M3t90tQMxNVoooByWdwO0ikkjku9B+QGY6iTACVbmuSmZV3TRETFtF5RMMAxap8WGw82YaLGWO6WoqfuZraFHYSfxNC/MJw9004FWLzbe7uRmcVaYsVMVpxu9+ePEnAlY/UqucFBTOvG1HXQgEbgAw/DO2H67HVXCIgvCGmPSgRXnEy9TvQm6yaMtoxYpRCArjR6s82ZXTNUwJk9302Axba8vG2SLoH9SgO1PjG61yFrlEEuAXdNu3b3Yw63OlsPWOENAczszQaNcHHB62AqzYO9vvnNTYNw==;LnF9cXzkJ7N6OI7YlwSAyg=="
 ---

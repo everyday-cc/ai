@@ -1,36 +1,46 @@
 ---
 category: news
-title: "ICE spends $7.2 million to increase facial recognition and location tracking of migrants"
-excerpt: "The contract, which was extended last month, is for surveillance software including facial recognition and GPS check-in. The tech is part of ICE's Alternatives to Detention program, which has been heavily criticized by some lawmakers. US Immigration and ..."
-publishedDateTime: 2022-05-02T09:27:00Z
-originalUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5"
-webUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5"
-ampWebUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
+title: "New legal restrictions needed on police use of facial recognition: privacy watchdogs"
+excerpt: "OTTAWA - Canada’s privacy commissioners say it should be illegal for police to use facial recognition technology to monitor people involved in peaceful protest. In a joint statement today, federal, provincial and territorial privacy watchdogs also call ..."
+publishedDateTime: 2022-05-02T16:40:00Z
+originalUrl: "https://www.thepeterboroughexaminer.com/ts/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs.html"
+webUrl: "https://www.thepeterboroughexaminer.com/ts/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs.html"
 type: article
-quality: 80
-heat: 170
-published: true
+quality: 32
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Peterborough Examiner
+  domain: thepeterboroughexaminer.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.insider.com/626c55a886fa90001905e9fe?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://images.thestar.com/EuDDSHJOF_nmqiCpMx8umPgaht4=/1280x1024/smart/filters:cb(1651534260489)/https://www.thepeterboroughexaminer.com/content/dam/thestar/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs/20220502120516-627003f6a6c9640b6653e736jpeg.jpg"
+    width: 1280
+    height: 1024
     isCached: true
 
 related:
+  - title: "ICE spends $7.2 million to increase facial recognition and location tracking of migrants"
+    excerpt: "The contract, which was extended last month, is for surveillance software including facial recognition and GPS check-in. The tech is part of ICE's Alternatives to Detention program, which has been heavily criticized by some lawmakers. US Immigration and ..."
+    publishedDateTime: 2022-05-02T09:27:00Z
+    webUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5"
+    ampWebUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/626c55a886fa90001905e9fe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "House lawmakers investigating gov't use of facial recognition software"
     excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
     publishedDateTime: 2022-05-01T16:58:00Z
@@ -100,20 +110,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "New legal restrictions needed on police use of facial recognition: privacy watchdogs"
-    excerpt: "OTTAWA - Canada’s privacy commissioners say it should be illegal for police to use facial recognition technology to monitor people involved in peaceful protest. In a joint statement today, federal, provincial and territorial privacy watchdogs also call ..."
-    publishedDateTime: 2022-05-02T16:40:00Z
-    webUrl: "https://www.thepeterboroughexaminer.com/ts/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs.html"
-    type: article
-    provider:
-      name: Peterborough Examiner
-      domain: thepeterboroughexaminer.com
-    quality: 32
-    images:
-      - url: "https://images.thestar.com/EuDDSHJOF_nmqiCpMx8umPgaht4=/1280x1024/smart/filters:cb(1651534260489)/https://www.thepeterboroughexaminer.com/content/dam/thestar/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs/20220502120516-627003f6a6c9640b6653e736jpeg.jpg"
-        width: 1280
-        height: 1024
-        isCached: true
   - title: "Meet 4 common requests to increase facial recognition trust, financial inclusion group says"
     excerpt: "The success of facial recognition depends on both the public and private sectors working hard to engender trust in AI tools."
     publishedDateTime: 2022-04-28T17:51:00Z
@@ -147,6 +143,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "yUM08/ihbEyfms/gXbt8w7NvcCVdXgtArIkP2WLGpAbLM5dZ/z1V+wLxDSGTKUPtYOPrKwu7skIebhLg5pg9qUiYaJsL8+5eKXrenjjd/zwa6YLTi1Uoh63h3eID2/20fWU5nLCTLfzV+Io3dJONjHYVoIyLVTwA8U40bFRL/oQWgGcWEIviMUTzKy/cO4VW0jrDkdfN1WkxquDb5sXmH9ZHFKb18Qjd5ft49LyStbNYXwsRIQR9iK5KJLbIBIR7eBf/6Q5nxCllDVcwefjXQfbh6OJb6q8YLVyII3PqnzotcgneR9vOkIDTeok3W0H3mrG9UMTdWg38OlgW/lh9SQsu4GxZxRZEnD1HdXJa3Tc=;x8qpn6MkcQW0S3Q6H8G1Xw=="
+secured: "x4jqaDnsYDyhVfBy0VDIBnH4f7kUOnmpDNtLlKpokwrN+7HqN+MP8T5vjHGoYF7W2dJyJimJ9bxex/Ar+xOpTezWC7Kom4Jb3LpPmtwJAWkWBIYZKbqMvI3JZIFGVkWytfMlwWqd9D6Wq6AEQSkdvN5lca4sGkzecZiJcgA3VeSEBnxMk3J9apT4ebx5k2Kjst5a4JtLfxODM//FD/GESnzHuYcgDgJ4i0bL20iQhlrmRUX/WU0l27PCkmr+UgAq+zBZEUFpYeiYbpdgVSMZHHQUyD8/trOa1uCGumDhN+JywVj/+sZjpudMhQxX5JrrdgF9BtbeLmaryHJ5MtA75PsZX5qNElik0NYYN0AfMDY=;t4iJC+Qcq0Hi69zbwiMZ2w=="
 ---
 

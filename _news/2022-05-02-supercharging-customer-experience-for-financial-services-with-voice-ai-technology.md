@@ -25,28 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Financial-Technology Firms Tap AI to Reach More Borrowers"
-    excerpt: "Nearly every big fintech company has to rely on bank partners for regulated tasks such as holding customers’ deposits and issuing debit cards. LoanSnap Inc., a five-year-old startup based in San Francisco, uses AI to scan financial information such as a ..."
-    publishedDateTime: 2022-05-02T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc"
+  - title: "PowerVoice, the world's best AI voice biometric technology, is recruiting global partners"
+    excerpt: "Recently it ventured into the fintech and AI markets, which are spotlighted as the 4th industrial revolution sectors. As we enter the era of using home appliances with voice, remittance and payment, instead of controlling the product via touch screens ..."
+    publishedDateTime: 2022-04-28T18:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26880195"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26880195"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
-  - title: "How does AI help improve hearing aid technology?"
-    excerpt: "Hearing loss research has seen significant advancements from the use of artificial intelligence (AI). AI is a system that uses data to recognize patterns, which can then be applied to solve problems."
-    publishedDateTime: 2022-05-01T07:06:00Z
-    webUrl: "https://vancouversun.com/sponsored/news-sponsored/how-does-ai-help-improve-hearing-aid-technology"
-    type: article
-    provider:
-      name: The Vancouver Sun
-      domain: vancouversun.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2022/04/1-3.jpg"
-        width: 1000
-        height: 750
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "sJt/SIC9AJLVgheJiEZOp2HCy9QcJiWCU5f9drblGHceFJmXUiv23BSJ0S8CtCrFaHrXAN3YBn5zMYrVGnQHLoNScG2/jqeknEIvC2yd8n1aFs+ULpcztpZQvsRAUJFw1zNI/Y2L37MkV8jyxz30k3cyPw4/FPICxqUDxdC+vzw+/5tj+OoMyc5RQ1XOpf9iTxdkWW4s0Kb9dN7L78RUPhqRAbRVOMpcL45r5sx/L1sib2/uWU0/ll6eiBDw8NXCR8mA0/Hh9rKxDXlGP7SSzx5/QfNXRVMQxPOw5R1PSmtfgqA++cK7gM4IiEPC3Z25ek28pP9E2za0A+vfW9k91QqIU6lUpaaMvHaYkxb+uddRogH4RvA/M1twPp510+SVP5OrvpS25t8Hgi7IFtiNHAS5L4hkCSJFwnkDO93dprR+SZEow+eRI8vIkNbqK7XDhOsnFM8ACgn0BuLJOuWoWrxdcx7Ol33OAB7KAxN3M8sgNGO/fmR1L1d6gVlJYPJVoL99NWU0CjONlON9zqyXzw==;BZ0wovEVpavOMchWhZJgaA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/world/2022/5/2/1_5885195.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/world/2022/5/2/1_5885195.amp.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1020
     height: 574
     isCached: true
+
+related:
+  - title: "Unanimous Supreme Court Flies Flag for Free Speech in Case Against City of Boston"
+    excerpt: "Despite the court’s recognition of Lemon’s many problems ... participate in this term’s remaining high-profile cases on abortion, free exercise, free speech, and the Second Amendment. Have an opinion about this article? To sound off, please email ..."
+    publishedDateTime: 2022-05-02T23:50:00Z
+    webUrl: "https://www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/"
+    ampWebUrl: "https://www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/amp/"
+    cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/amp/"
+    type: article
+    provider:
+      name: The Daily Signal
+      domain: dailysignal.com
+    quality: 54
+    images:
+      - url: "https://www.dailysignal.com/wp-content/uploads/220502_BrettKavanaugh-scaled.jpg"
+        width: 2560
+        height: 1331
+        isCached: true
 
 secured: "h9lAnL53afENHP4M4r15ff9py1GX834/f1eK4n1csvSp4tGS6X9DkP/IU3vrHiuPhPNSgb9eI3d2UNymLgsSZTF3pV9yLGR6pBXU3Mhf73eYRLMqnTLt5m63I/Ln13to8h0X6OeMl+MrUEqtzJGR2wGQpurxbxFSReyBijHePg1OwIHWevkfyl+1WBCyFL8FRw8rL/F0h+bX9IGMduKL/ymk2By7dcq9/cg4iDq8zshdgg6rLTF4EfCjjkgIfYeyosxw4Hbo79buYEuVagt12qpOVTR5GcnBSYedAgJgoVH1DOqMHB6F1LIm1yEZE3COcUgiHrUSRkW4oJsVGGkF0/0ViaiwErxHI1eT1BBbzSk=;VT+nRvYRZZBTY7H+8UlYDA=="
 ---

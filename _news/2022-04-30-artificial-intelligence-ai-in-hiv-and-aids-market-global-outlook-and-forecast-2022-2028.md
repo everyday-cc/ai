@@ -47,20 +47,6 @@ related:
         width: 305
         height: 250
         isCached: true
-  - title: "Telepresence Robots Market Size, Share, Top Companies, New Technology, Demand and Forecast 2021-2026"
-    excerpt: "According to IMARC Group’s latest report, titled “Telepresence Robots Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-04-28T06:42:00Z
-    webUrl: "https://www.digitaljournal.com/pr/telepresence-robots-market-size-share-top-companies-new-technology-demand-and-forecast-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnVPKPv1UfMgrZcoDe9rnNLsDVledex_1nB6lxv8VAr1xYYx0LHNzjmg0bBZHLUVuTqjyJ2OH0pqHs3sc7-NnYKWXmVy3YaVcYP3XglplruNb-xCig8JlcAKnI68GESZFMmW9nsUV4OlOehZmMFnU1JowvdlCNL7Qq6ybfvQilt1M7a3-U1oLIuAk/s320/Telepresence%20Robots%20Market.jpg"
-        width: 320
-        height: 240
-        isCached: true
   - title: "Explainable AI Market Size 2022, Share, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 28, 2022 (The Expresswire) -- Global \"Explainable AI Market\" Research Report provides a wide range analysis of market dynamics like current trend, size, share ..."
     publishedDateTime: 2022-04-28T18:49:00Z

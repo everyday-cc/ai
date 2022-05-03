@@ -1,29 +1,29 @@
 ---
 category: news
-title: "FinTech to Rule the Job Market in India with 87 percent Adoption of FinTech Services"
-excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenance & regulation, innovation & transformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
-publishedDateTime: 2022-04-29T10:22:00Z
-originalUrl: "https://www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/"
-webUrl: "https://www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/"
-ampWebUrl: "https://www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/?amp=1"
-cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/?amp=1"
+title: "India Has More Fintech Adopters At 87% Compared To Global Average Of 64%: Report"
+excerpt: "The fintech market is estimated to grow $150 Bn ... Artificial Intelligence (AI), Application Programming Interfaces (APIs), Full-Stack Development, among others, in their employees."
+publishedDateTime: 2022-05-02T07:10:00Z
+originalUrl: "https://inc42.com/buzz/india-has-more-fintech-adopters-at-87-compared-to-global-average-of-64-report/"
+webUrl: "https://inc42.com/buzz/india-has-more-fintech-adopters-at-87-compared-to-global-average-of-64-report/"
+ampWebUrl: "https://inc42.com/buzz/india-has-more-fintech-adopters-at-87-compared-to-global-average-of-64-report/amp/"
+cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/india-has-more-fintech-adopters-at-87-compared-to-global-average-of-64-report/amp/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: easternherald.com
-  domain: easternherald.com
+  name: inc42.com
+  domain: inc42.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.newsvoir.com/images/article/image1/20202_manipal%20image.JPG"
-    width: 705
-    height: 410
+  - url: "https://inc42.com/wp-content/uploads/2022/05/xiomi-social-1.png"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -43,21 +43,21 @@ related:
         width: 750
         height: 420
         isCached: true
-  - title: "India Has More Fintech Adopters At 87% Compared To Global Average Of 64%: Report"
-    excerpt: "The fintech market is estimated to grow $150 Bn ... Artificial Intelligence (AI), Application Programming Interfaces (APIs), Full-Stack Development, among others, in their employees."
-    publishedDateTime: 2022-05-02T07:10:00Z
-    webUrl: "https://inc42.com/buzz/india-has-more-fintech-adopters-at-87-compared-to-global-average-of-64-report/"
-    ampWebUrl: "https://inc42.com/buzz/india-has-more-fintech-adopters-at-87-compared-to-global-average-of-64-report/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/india-has-more-fintech-adopters-at-87-compared-to-global-average-of-64-report/amp/"
+  - title: "FinTech to Rule the Job Market in India with 87 percent Adoption of FinTech Services"
+    excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenance & regulation, innovation & transformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
+    publishedDateTime: 2022-04-29T10:22:00Z
+    webUrl: "https://www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/"
+    ampWebUrl: "https://www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/?amp=1"
+    cdnAmpWebUrl: "https://www-easternherald-com.cdn.ampproject.org/c/s/www.easternherald.com/2022/04/29/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services/?amp=1"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 39
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 37
     images:
-      - url: "https://inc42.com/wp-content/uploads/2022/05/xiomi-social-1.png"
-        width: 1200
-        height: 628
+      - url: "https://www.newsvoir.com/images/article/image1/20202_manipal%20image.JPG"
+        width: 705
+        height: 410
         isCached: true
   - title: "FinTech to rule the job market in India with 87 percent adoption of FinTech services"
     excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenanceregulation, innovationtransformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
@@ -99,6 +99,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "ov/u1nyGPH4WiSsrcgETdkkR7I5ZGh1ryWj02NBJ310xPQ71fgSaP5DWY4bP6Nu2nweOBuTqv1kcnuXxe/o5QB/jV2pKdLgeFQol/EmSn7oqiocOEYHICF1Po6o9+KQjPS//Y7896ejDuLi3VdzPgaXfUn3U5T96PiYlXr7a0pQTw9TxMlBb80r3yC4CasEdCRs5x86K4jBqqHn9sxDEc85+HoL4AJPVT9VW9+wtEj7brwch2WLvDk18LOCf/2d77chkLgvlxOdyREMgrWKGr6h4//Y/S7Fhi5GnC0ngH4xxcHOWj7GskOWJhXl1kdqgZG2w36zVheYkR5BdWLKP02PzEqT8wpnQvTd/VV8IZRlrhflYKuVOoUAxfrmuHPoL2Jya442ir3zG5rKFfQxlaRH6RQDIQI7ck1VVtBr/7fxnKe8eZLpG9/NsIS4D0XsHFdExUJal5Wwysk8+Gtk+E7+7J30SxvhnHQ3e1KHPpwPxwqY9/9qc2idHZan06wm3o4PzIHlgAvKle7zWjBR3jg==;1Yfjq1mAeaklH2cSKJ4rZA=="
+secured: "y0xQ+IViHkGQG/0YK71ARoDyKF9g48WjseFHXB/9/qkRpKadCWFTxdfmurGZH6T8w3j2JI5pcVkZ4YLt3NYcIcfoOyQSHUhA9adZswdnit8UcBsFcypr0MeUI0V23FPY1UXbp2AygM0ChsrAHB0S3vxgtIJyO9RA3xGzhq9GVcWKaDhq5Q/eVGoafNdzyaqdeg2pSRaxbdj9IbCPov0j6wtUXSL/OdLfSxNBStumk35NLWUUwm9YCDOA4HNIxZp6v+pH0IQ6r8Q4gG1djjDK38phz6+VCAjSddZsZm7LSQhpSHotB2bXqS+roExEZp7cH0LDFi0qUwbkyyO3EnIKbg2iCf7DEZaMKC0mqbKHiP0=;DMnO72cdNpKJzGz9x3L5og=="
 ---
 

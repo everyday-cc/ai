@@ -41,6 +41,22 @@ related:
         width: 750
         height: 420
         isCached: true
+  - title: "India Has More Fintech Adopters At 87% Compared To Global Average Of 64%: Report"
+    excerpt: "The fintech market is estimated to grow $150 Bn ... Artificial Intelligence (AI), Application Programming Interfaces (APIs), Full-Stack Development, among others, in their employees."
+    publishedDateTime: 2022-05-02T07:10:00Z
+    webUrl: "https://inc42.com/buzz/india-has-more-fintech-adopters-at-87-compared-to-global-average-of-64-report/"
+    ampWebUrl: "https://inc42.com/buzz/india-has-more-fintech-adopters-at-87-compared-to-global-average-of-64-report/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/india-has-more-fintech-adopters-at-87-compared-to-global-average-of-64-report/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 39
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/05/xiomi-social-1.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "FinTech to Rule the Job Market in India with 87 percent Adoption of FinTech Services"
     excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenance & regulation, innovation & transformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
     publishedDateTime: 2022-04-29T10:22:00Z
