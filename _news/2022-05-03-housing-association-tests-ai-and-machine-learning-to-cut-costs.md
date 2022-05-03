@@ -25,29 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Is it ethical to use AI-generated content without crediting the machine?"
-    excerpt: "Considering that computers can’t taste booze, this makes for a curious use-case for machine learning. The AI sommelier was trained on a database containing hundreds of thousands of beer and wine ..."
-    publishedDateTime: 2022-05-02T19:26:00Z
-    webUrl: "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine"
+  - title: "The robots aren’t coming for your jobs — at least according to these AI and robotics leaders"
+    excerpt: "(GeekWire Photo / Todd Bishop) PITTSBURGH — There are no shortage of headlines about automation, artificial intelligence and robotics wiping out large swaths of employment, from truck drivers to painters to food service workers. But opinions are mixed on ..."
+    publishedDateTime: 2022-05-03T17:52:00Z
+    webUrl: "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/"
+    ampWebUrl: "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-  - title: "Everything You Need To Know About Artificial Intelligence Marketing"
-    excerpt: "This is where artificial intelligence comes into play. Thanks to sophisticated tracking tools, it is now easier than ever to track visitors' actions on your website and use those business intelligence insights to reach out to potential customers."
-    publishedDateTime: 2022-04-29T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/everything-you-need-to-know-about-artificial-intelligence-marketing-nid-9798.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/iqr56cioappli450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
+      name: GeekWire
+      domain: geekwire.com
+    quality: 88
 
 secured: "n+t/jQ5p+SldXv+thepL9lHN5ipZTGPUdnA6HLJKrgn7SZPVW/TeVjpr9xjH14JS93UFNC4mksf4dkEXDsEVS46NgT+82E5Qz5g2Li8GJ9+T1RC5Jfox+spZO8eD0sfwla1twRxtCETaDN0Cpxiiur4sNJcpkXo79C4HUV9nNbBcHgu/cauWLQZG7qeD4s2e8VPAIdrVfyVhfZB31RQvVmxiNYDbZ5jh+4wsvKybcYfFeI0p/o+NHhssCoZ1J/jwhJ61n4ErrDRpx6ArV0BmLOASXyP9w7CSm8Fda+fGgDUMxzzfu0Vqx+8xyHRNY3EA1mcmiXPNU8oW8qKF1eP21TTHbnhNJ3bXvTou4+HqIyEgCLDztiv2WJBXYeemKEqcen2wMQjkuGseasddpblndR7M1cSYypuSV2sfSeuWn7XiJmT42RddbYRITNSlPzV5u0HySimQIHcb074nrM20Me4H0qwjaJnZSjXmiZQGPxWRzsmicuu+tn6RmMKM9mK+TglX8s1McHgGTu8z8+qoog==;NVDnucXEgW2GPuulkwVzAw=="
 ---

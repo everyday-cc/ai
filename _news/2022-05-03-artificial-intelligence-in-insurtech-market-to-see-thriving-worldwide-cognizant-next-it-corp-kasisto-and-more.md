@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-03T14:14:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-to-see-thriving-worldwide-cognizant-next-it-corp-kasisto-and-more"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-to-see-thriving-worldwide-cognizant-next-it-corp-kasisto-and-more"
 type: article
-quality: 16
-heat: 16
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/3b8fb7cc1d2863b9364a41eafd9673b156ec2e5d-600x337.jpg"
@@ -23,6 +24,6 @@ images:
     height: 337
     isCached: true
 
-secured: "bq/tBWb5pepPIfhiNv0WKsUF+1FJwBiuWXTrNxoObaP9ThoMfbAqXDM+cr9hnlecOZFYb4jr0Ud4PRZ7bRKU4k9WUkizOindpSYFqMIRD3P65axBSmHFd1dZZaG+/8g7HTGN6IfgKOcoRXHWWA75xFrRbPuRSyi/0y4x3RHjs9/kAVeVl5Zk4TAQKNQeC0px47ZnKYI6TQ8xfdhYtq3Wj4TgGmk970ULT7RanIsPO/EHB/isB+7zWszNdk/nDlguFE+32bryr7WHyV791sa5TdK0GORRorD5TQm1nyC6QTSy9jxRJUwZipifYuJlGE53Q/8GZo471ovMz30jvK814tbgluwxjGhR2+Kbm3aIiQE=;BTIe+PASZmMOZj4aqMr+rw=="
+secured: "Hjq5iz5JKL8c5axnzar8ACWC7h5Nd0ri01PA6MpNKGWcQ8VYljMyWG2/n960O6niTFnAPUbtMnMBW1UM8leh7ST5f/9JNPanKq2O5Ib+Zc4gEifeUMZeNOxTPRgApmjxs+sOrRRLySn0BSK7zR8V/2ceen1pkFuU88a2Zcc9iv8rD6mpxif7algvom+3Kgot6iWJEQE3EZJETOtm8yZLCXUb9NUwpyl8rsKnLabiJYVg+2fTK3TCS8tjOlKCJzWjT7juTnVtDYa9ycJIyqmjdToRHyTgKZCborAQNzbmYnZ98W1nz6RwkdlA97acpzb65GcYeECq9Q8ME6HVpfEuJ+Bj/Q+kCrOipTl8tuxIRlB26Dt0U/Q0OIRP+n+q2As3Zy49q0VVJATyuG58ewZap1Agb5PT4LkdFnWwgIxpE/Lmj+CWSr9A3Pd+EIqItlNiRskTuZJta2gkw9cNzxpnfnHoPVmw3bb9qlV7qQ60gj+4pNl0WCHUCpbJbRp2YrseJ3oxEXAKWGQGGDdI04NsfQ==;WvpNAHl+DNUtW0f1Tw6W6g=="
 ---
 

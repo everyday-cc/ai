@@ -34,34 +34,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Top Applications of Machine Learning in the Healthcare Sector"
-    excerpt: "The expanding number of machine learning applications in healthcare enables the healthcare industry to manage data and improve services properly. Fremont, CA: The healthcare business is critical since it provides treatment to millions of people while ..."
-    publishedDateTime: 2022-04-29T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/top-applications-of-machine-learning-in-the-healthcare-sector-nid-9775.html"
+  - title: "Startups Apply Artificial Intelligence to Supply Chain Disruptions"
+    excerpt: "LONDON (Reuters) - Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have ..."
+    publishedDateTime: 2022-05-03T06:21:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 56
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/w7d65450308appcio.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "AI Making Groundbreaking Changes in the Healthcare Sector"
-    excerpt: "Fremont, CA: Artificial intelligence is transforming our lives in a variety of ways, none more so than in the healthcare industry. For instance, there has been an explosion of innovation in digital healthcare technologies over the last decade. Medical ..."
-    publishedDateTime: 2022-04-29T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/ai-making-groundbreaking-changes-in-the-healthcare-sector-nid-9816.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/eo09n450308cioappli.jpg"
-        width: 450
-        height: 308
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "How AI is helping to address staffing shortages in healthcare"
     excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
     publishedDateTime: 2022-05-02T22:25:00Z
@@ -75,20 +56,6 @@ related:
       - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
         width: 724
         height: 483
-        isCached: true
-  - title: "How Advanced Technology Trends are Reshaping Healthcare Sector"
-    excerpt: "Diagnostics, therapy management, and other aspects of healthcare are altered due to AI advancements. Fremont, CA: Artificial intelligence has carved out a strong presence in human civilization and our daily lives during the last two decades. Most of us are ..."
-    publishedDateTime: 2022-04-29T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/how-advanced-technology-trends-are-reshaping-healthcare-sector-nid-9815.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/14dbeUntitled-450.jpg"
-        width: 450
-        height: 308
         isCached: true
   - title: "How startups are applying AI to ease supply chain disruptions"
     excerpt: "Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have combined to delay deliveries of everything from bicycles to pet food. In ..."

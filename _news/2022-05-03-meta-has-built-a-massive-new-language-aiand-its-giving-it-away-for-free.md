@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-langu
 ampWebUrl: "https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/amp/"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/tiles2-1.jpeg?w=3000"
@@ -26,6 +27,6 @@ images:
     height: 1688
     isCached: true
 
-secured: "ZmX3Nc4XiEw9lsjf6fQ9pKwjS0QCzYl+UMdpskkaPBgmqOcccQdsAX6VnyVDIxygO5t6bMzFRkESWWTf5K4Usp4u3h/9qlo6tb2HYVeJYHiGWtrxhaA0dc0T44+7WGMsNb+/duyueC+QfWonTn4O1kXaXhDUD6OcezGRJN0A7YaItvh2dVIUL1LVmlBe/DOg0QdwU3pEBFCRwI4bhGG6/IaLq+SP5TigzvB1w4YKFPpOc6MFSThSWpxvGrrSsY/dm4/MvFen7P+H9T1S04dExr6ZUWzUv1lu4XEd/bMexV5IVQVeHpX+TQi9LE9utW1yqmX53GUJ5fybquL3Vt4dCahIUZe9bVKsNFQ/0+zDxWQ=;Q5/MC3fei2L6oZ1S8sAdFg=="
+secured: "ujLOjZQMlnJkBeWBvTVE58z+hxjGitqfmM9hKCuKy5KEbKSmWY8vOJh0T6amC9GwvZvAhqoH/dnkd4TrLcNwh6IEjGDnfjVuiAjSTDyZ2h64KI4HMucqHN9XTjwtTfujOu4YcTNQYotn5io9q234eONDPn3JvFwQOL7TUyHkAijIOEabQ8+e6asEr3IyQR/pNE/TCyWTQQVJoLsxSyawz8A4wAbarv+EYecBrBZ+jwaH7TL0622WZ/ftFiMp2WhWbP5O3y4gMiRBD94Esz3V4BGs8ghV9Tamb56hdBVqixmNLtdrPKw6ElXPlMQ5mnxjQ0MHFP5shQyBZdBRjOMG/IddilBpjM1v1cHhLv/YlKn+A5lQry410NUEu0PLY9mvWjS+Ny/EO4rehnSCrFjcOO25pT92IMrTUuBIEnRIYIBOhS+G8kZ6h2otmjvPajgt2cB86fk8fFDPrfkOQfG5pl4oqrbJtk/f89XGJh7mEb/vIlUEiDOpKxGHel+ctEtnhLs+PCTubvLz++cUsQ5ehg==;3z2LIpT/LoKIwep1gk4ndw=="
 ---
 

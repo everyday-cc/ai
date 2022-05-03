@@ -80,6 +80,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI in Infrastructure Market Analysis Size, Share, Growth, Demand, Outlook By- Trends, Opportunities, Challenges, And Investment Feasibility 2029"
+    excerpt: "The new study report titled “Ai In Infrastructure Market” comprises a thorough coverage and essential advancements in the market based on analysis conducted by our research analysts. The information was developed with a fantastic combination of ..."
+    publishedDateTime: 2022-05-03T11:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-infrastructure-market-analysis-size-share-growth-demand-outlook-by-trends-opportunities-challenges-and-investment-feasibility-2029"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Qantas-Airbus-A350-1000-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "7FU4tcG8gIlZcRjgVEpY1VRl5yqLjEMBMzOFw1Zk43R5LVT3TIr4udlAsiI1jp8s6dQ1fn7ziEkVIMtV6wvaIDwj6V2JYZNMBGifkGA8ASQ7A4380XmVnwVNHGHEc5RkbFeTVOFKFClHEKnYeKZdHW9jGfRv9Oh4tjsdkQtRKp3AMYglzK97+l5q5h99vMd707mBSAAw2NehM+gzwVmzRhS+Jwak+rJw9Ii/Pv0QnsUtNgi5myyLahQflEPBM+iMxhysr5OrbG/p1elwbpSgBetGRSwzkQkrUtF4BF62h0TgittYZjOnNsG3YhmPDXrnFnWbX13ImtxcqYK7YvxdS3ncx1Qo6wf3E3PIEgKaPgI=;5ypaI5uThF9RnDZEJJoYBQ=="
 ---

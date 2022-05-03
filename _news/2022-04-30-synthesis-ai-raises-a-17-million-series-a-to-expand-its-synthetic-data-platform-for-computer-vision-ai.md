@@ -51,20 +51,6 @@ related:
         width: 2048
         height: 1280
         isCached: true
-  - title: "Symmetrical.ai Raises $18.5M in Series A Funding"
-    excerpt: "Symmetrical.ai, a Warsaw, Poland- London, UK- and Barcelona, Spain-based global payroll company serving international companies, raised $18.5M in Series A funding. The round was led by Target Global with participation from Global Founders Capital ..."
-    publishedDateTime: 2022-04-28T23:12:00Z
-    webUrl: "https://www.finsmes.com/2022/04/symmetrical-ai-raises-18-5m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2020/01/life-house-440x293.jpg"
-        width: 440
-        height: 293
-        isCached: true
   - title: "Finbots.AI raises USD 3m from Accel in Series A round"
     excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, recently announced it has raised a successful Series A round of USD 3 Million. This round saw the participation of a single investor – Accel."
     publishedDateTime: 2022-05-02T11:24:00Z

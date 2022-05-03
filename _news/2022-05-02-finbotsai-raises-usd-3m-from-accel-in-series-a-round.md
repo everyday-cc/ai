@@ -65,20 +65,6 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 38
-  - title: "Symmetrical.ai Raises $18.5M in Series A Funding"
-    excerpt: "Symmetrical.ai, a Warsaw, Poland- London, UK- and Barcelona, Spain-based global payroll company serving international companies, raised $18.5M in Series A funding. The round was led by Target Global with participation from Global Founders Capital ..."
-    publishedDateTime: 2022-04-28T23:12:00Z
-    webUrl: "https://www.finsmes.com/2022/04/symmetrical-ai-raises-18-5m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2020/01/life-house-440x293.jpg"
-        width: 440
-        height: 293
-        isCached: true
   - title: "News: AI-powered interviewing platform BarRaiser raises $4.2 Mn"
     excerpt: "Bengaluru-based AI-powered smart interviewing platform, BarRaiser has announced raising $4.2 Mn in seed funding round led by 021 Capital and Global Founders Capital with participation from other angel investors. BarRaiser’s AI-powered platform ..."
     publishedDateTime: 2022-05-02T06:05:00Z

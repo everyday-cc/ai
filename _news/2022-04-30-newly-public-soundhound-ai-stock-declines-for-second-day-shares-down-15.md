@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoundHound AI stock slides 7% in market debut following SPAC merger"
-    excerpt: "Newly public SoundHound AI (SOUN) saw its shares slide 7% during their market debut on Thursday following the company’s merger with SPAC Archimedes Tech SPAC Partners. Shares of SoundHound ..."
-    publishedDateTime: 2022-04-29T00:31:00Z
-    webUrl: "https://seekingalpha.com/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 57
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1332332945/image_1332332945.jpg?io=getty-c-w750"
-        width: 750
-        height: 463
-        isCached: true
   - title: "Why Is SoundHound AI (SOUN) Stock Up 30% Today?"
     excerpt: "SoundHound AI (NASDAQ:SOUN) stock is soaring 30% in early trading. The California-based company “develops voice-enabled artificial intelligence (AI) and conversational intelligence technology ..."
     publishedDateTime: 2022-05-02T15:05:00Z

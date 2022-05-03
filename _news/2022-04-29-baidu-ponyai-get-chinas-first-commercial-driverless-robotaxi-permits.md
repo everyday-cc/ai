@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-comm
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1"
 type: article
 quality: 103
-heat: 153
+heat: 133
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Beijing approves driverless taxi permits for Baidu and Pony.ai"
-    excerpt: "China’s capital city granted permits to auto startup Pony.ai and Chinese internet giant Baidu to offer self-driving car services to the general public, both companies announced today."
-    publishedDateTime: 2022-04-28T23:32:00Z
-    webUrl: "https://www.engadget.com/beijing-approves-driverless-taxi-permits-for-baidu-and-ponyai-232843455.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 84
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-04/44979e90-c749-11ec-bf77-cd96ab6d2c48"
-        width: 6555
-        height: 4480
-        isCached: true
   - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
     excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
     publishedDateTime: 2022-05-01T16:22:00Z
@@ -72,20 +58,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/d1c_0h9xpKmxVJOGcXaYX-YMwW8=/0x152:2110x1257/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23428528/Baidu_Apollo_Autonomous_Driving_Car_Open_Roads_Beijing.jpeg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-    excerpt: "China has granted Chinese internet services company Baidu and a rival autonomous car company, Pony.ai, permits to provide driverless ride-hailing services to the public in Beijing, a significant regulatory step in the country's pursuit of driverless ..."
-    publishedDateTime: 2022-04-28T23:28:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/7f/57f67885-70b8-5cef-a28e-a3cc1e5e6e85/626a3f1052c4b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Baidu and Pony.ai are operating first self-driving cars without drivers in Beijing"
     excerpt: "China’s Baidu and Pony.ai are operating the first autonomous vehicles in Beijing without any safety drivers. Technically a driver is not required for the vehicle, a supervisor will be present during the rides somewhere or the other within the vehicle."

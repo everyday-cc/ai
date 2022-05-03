@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Known_Ai Film Festival First to Offer All-Artificial Intelligence-Enhanced Film Slate May 6th"
-excerpt: "Ai Cinematics, a producer of artificial intelligence (Ai) assisted films, has created the World's first Ai-specific film Festival Director and Ai Cinematics CEO, Kevin Page is an NFT artist, curator and founder of the AI NFT Consortium, a regular Twitter ..."
-publishedDateTime: 2022-05-03T12:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html"
+excerpt: "LONDON, May 3, 2022 /PRNewswire/ -- The Metaverse – Ai Cinematics, a producer of artificial intelligence (Ai) assisted films and theatrical shorts, has created the World’s first Ai-specific film festival and awards show. Partnering with the UK-based ..."
+publishedDateTime: 2022-05-03T13:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-lifestyle-film-festivals-artificial-intelligence-1ff54804ee8f75ca3ea1b91444ffd3dd"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-lifestyle-film-festivals-artificial-intelligence-1ff54804ee8f75ca3ea1b91444ffd3dd"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e6/de656e1a-d5ad-5194-afed-dc1fd48b2aca/627120f525d65.image.jpg?crop=1888%2C991%2C0%2C40&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "rJ9RXyPklOqptGKDgIXQedwuTGBvIhs8bFK22AkVEclOGG3P8L0v7hwLYKd48VECSRBcF6cS15RLaqrrgfIyDxIiCNEC+jZngfxVVjaNpnmSJ/Yw6mzF5SRPrjMLxKyzSlzPol3HQFwdeIu/1bGkNpjjOfixB75XMF6ccNxHKLXB5LM6WwSIlYPZK4iIUlCKb5RlWjreXBDej8bc/RmuEEjViRlQkeU39kQpSF9y8q+QLQU2v1ESNFPzpKdIgTtiJC2Xl/hVj/2W2eudoEALf0/AKQcC5uRpZ0Z1axZrrTzYiJkbW2RkjhtD8aTdeEzK+5o2hBl3LT+bokXD7ZTSeZsm0bZZWKCjtw0Nx1eNz2k=;Bc1rHbS4190zmAPRcNezoQ=="
+secured: "z4cR3kwCLKrpFGGyNn/NBarOTLp9Ce+zCyhc47IWowqjMZYQtH6a4vJIy/Bfkue8w4r7vjx8eGKCIRM360LvPQIc2H29VnAhL/jMVQEzCjBOboM41qjTsqudgN/qCDXJUKLUEEq3RL3xurcZ0eGxf6GG1JhT4S2UkFU6DxS4fYVxKbzvHQQ5Ctvz+R0p/l1044qZHKQgLio9dJnCsNtMb2i9v7jNKr3KLUm6obkBW9wdyovx36RexsZl2Py702J1oClztyBg0Jt/kaRE8d7bc0RluorvZPGMGiC1UZaO4OXeBc4czIQK75Fu1EDMWwjrSGzlv2a4brFMWcFQLw4tVWCABb+nlmr8F9tAqPFUspE=;R6UBIxWxJx6qv3DjeOxnxQ=="
 ---
 

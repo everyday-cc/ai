@@ -136,6 +136,22 @@ related:
         width: 4032
         height: 3024
         isCached: true
+  - title: "Google fires another AI scientist who challenged its findings: NYT"
+    excerpt: "Google fired AI scientist Satrajit Chatterjee in March after he reportedly challenged a paper by the company, which had claimed that computers could design some chip components better than humans. As per New York Times, Google confirmed that Chatterjee was ..."
+    publishedDateTime: 2022-05-03T17:30:00Z
+    webUrl: "https://inshorts.com/en/news/google-fires-another-ai-scientist-who-challenged-its-findings-nyt-1651599027167"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-fires-another-ai-scientist-who-challenged-its-findings-nyt-1651599027167"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-fires-another-ai-scientist-who-challenged-its-findings-nyt-1651599027167"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/05_may/3_tue/img_1651597873197_322.jpg?"
+        width: 1080
+        height: 721
+        isCached: true
   - title: "Using AI and Machine Learning to Reduce Wastewater Flooding and Pollution"
     excerpt: "As part of the endeavor, Rockwell teams specializing in network and cybersecurity, AI, and machine learning applications are providing guidance as well as counsel and support on other emerging technologies. Rockwell software and hardware will also be part ..."
     publishedDateTime: 2022-04-29T14:27:00Z
@@ -214,6 +230,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20220503pd207_files/1_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Researchers Are Using AI And Apple Watches To Check For Weak Heart Pumps"
+    excerpt: "We took advantage of those data to see whether we could identify a weak heart pump with AI analysis of the watch ECG. While our data are early, the test had an area under the curve of 0.88, meaning it is as good as or slightly better than a medical ..."
+    publishedDateTime: 2022-05-03T17:12:00Z
+    webUrl: "https://www.redmondpie.com/researchers-are-using-ai-and-apple-watches-to-check-for-weak-heart-pumps/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 36
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2019/03/apple-watch-ecg-02.jpg"
+        width: 600
+        height: 429
         isCached: true
 
 secured: "Vy31SyOVOn2uLdH6d5pXLOtFMmSnKFq5SANLOYnLgHqNSfO/8VXbkRD779Ap/Y+bOCZ8bm0sE6ZE2pVrzxd2prQkMpCV3tZifWnV/oAglMLsQIOg4+ylsmcpdPFzeNF2Rv7HbtiulonWEAwYpbTGzzpnnDzolJNsEIv/aHIDiGNQwjNrym4byAHMN4Bg4/nkxizgz53oXKo90TSdH65gXFcoB+a8eSK8+ma057/lV/ygC3/jRSTfH3pGTI2F+CyhTFUOoWZHGqTYOvH8pxEZh7SpnPtJpWi2kj+B/SwEjWASQOF3KOUlzOpUBvAMLJL7DVABXcwurrNp3Qlj8+jmgxPWrONVseMBmshP/1umabQ=;BK0ubLlivmoTOUgO04Ug4Q=="
