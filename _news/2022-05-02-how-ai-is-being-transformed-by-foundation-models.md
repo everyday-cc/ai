@@ -1,22 +1,31 @@
 ---
 category: news
-title: "How AI is being transformed by ‘foundation models’"
-excerpt: "These models can be thought of as meta-AI—but not Meta-AI, if you see what I mean—systems that incorporate vast neural networks with even bigger datasets. They are able to process a lot but, more importantly, they are easily adaptable across ..."
-publishedDateTime: 2022-05-02T14:24:00Z
-originalUrl: "https://www.aei.org/op-eds/how-ai-is-being-transformed-by-foundation-models/"
-webUrl: "https://www.aei.org/op-eds/how-ai-is-being-transformed-by-foundation-models/"
+title: "How AI Is Being Transformed by ‘Foundation Models’"
+excerpt: "The current state of AI ethics development, Reich said, was like that of a teenage brain: full of a sense of its own power in the world but lacking the developed frontal cortex needed to restrain its less-considered impulses. Government regulation ..."
+publishedDateTime: 2022-05-02T09:30:00Z
+originalUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/"
+webUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/"
+ampWebUrl: "https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/?amp"
+cdnAmpWebUrl: "https://www-thebulwark-com.cdn.ampproject.org/c/s/www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/?amp"
 type: article
-quality: 17
-heat: 17
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: American Enterprise Institute
-  domain: aei.org
+  name: The Bulwark
+  domain: thebulwark.com
 
 topics:
+  - AI Ethics
   - AI
 
-secured: "TgK0EQzvacDiKDSc1HRqjX9cqp2ZB9hhopOO9tHFE44GNTFwgYCkdUrWBIXJfndWxZBpy3fbERnrfX/JF4i+I00wYaLGppFSAQlNByUheCg2wI7yLej5QxHNCBmDzNJ5TQiF5xz7EeoQhugscGDb1E8dMrmrYjqO73wm0Vk20jxHAtB+MzSpfMkFTJgg+ghhyEcZaEL2kuGuTYG0+vleH0AA+TbO3IxFtdR6XdrOj1HVL7nCmZ1iywlAXZrzrvwNZPQnBGuUVEYHzK+9KOiF3PoDXhkBdOuDaZVrMmpds8uCbkAay1x/Lt8+mJRzOmhtYgWTW9MsuwAkdaXNZT8HmEDSIQ0aNyPQbJDqXsUUXUU=;mvRfQvAJ1OhBMEvDF75TGw=="
+images:
+  - url: "https://www.thebulwark.com/wp-content/uploads/2022/05/ai-face.jpg"
+    width: 1600
+    height: 1250
+    isCached: true
+
+secured: "jiYVuNJpuwQokBK4Pgo1guq45WTPgEOzqESMTGZi7IPf80rtbBVAqyYc/j2V2FLUwLKLYSHQ8vRX71FAgMzxGYVpUFCPXXvBJo8HTv3JgrNcNcc9wBNkxaBKOHYv3Rcm0EbeqLVPWMmqwMPQ9DYjF4RBBHIIOKz9QHPUOHQY75wLBV6I9pLAUXz6HiCfufHLeCUN6Wz8+55H6jlZXh6pDyetQ5mjbFFW1oq4bPgUR6GwhY1OUAr59HWmurQ3/f1tRqqoMN/9q1lAOqAZFAgqD7dojOJVIuLyFg+uUqyVBELC3SsRIcwsbnsjr/cARRx8oiLxYERvZidpTFkywmJmB9qgXuPTkFrKZ+9qDSVQ4Ds=;F4Zfm88XhY63JJwQQL23og=="
 ---
 

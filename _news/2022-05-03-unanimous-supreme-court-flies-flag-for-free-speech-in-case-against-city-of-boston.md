@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies
 cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/amp/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Daily Signal
@@ -43,7 +43,23 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Supreme Court Rules Boston ‘Violated The Free Speech Clause’ In Refusing To Fly Christian Flag"
+    excerpt: "Writing for the court, Justice Stephen Breyer said that Boston “violated the Free Speech Clause of the First ... the Court’s decision and its recognition of city governments’ authority ..."
+    publishedDateTime: 2022-05-02T15:55:00Z
+    webUrl: "https://boston.cbslocal.com/2022/05/02/supreme-court-boston-christian-flag-ruling/"
+    ampWebUrl: "https://boston.cbslocal.com/2022/05/02/supreme-court-boston-christian-flag-ruling/?amp"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2022/05/02/supreme-court-boston-christian-flag-ruling/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 32
+    images:
+      - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2022/05/camp-constitution-flag.jpg?w=420"
+        width: 420
+        height: 316
+        isCached: true
 
-secured: "6n0PZbz5p9ficVWashqakyvKeSKLN7aQ3Mhk2M+Z15LFtfWCiJ+CNQo1wYd18b8M6JoRtYv3bzjw2DBRN+oZVM/BLb4QF1/fVwqW1LbRCxxOFh9scOkspsBcTfdawLPhRvYPRx/j57YC5XSQruKnV/PD5v5sVGgy/ZNvgByhTtZMLQt/djgui6N0gyONGcStaCyYiOfkh5WGTnp2Y8iwoNxKzRLtmlgfw+F5wIyYMPWVDGl5ZUhu1OeqXMB5+gbTDcdDatL5t+/14MOy2qgGEB/ACMrAv4mo2CZDLTawic48O0vOz1T6ul0FVdhM61c7dYZyJsTXfumUm+87qu9VV1CKfDVeMTygjoVitzDMNHs=;mUjiDB8JIWfYpubM4TorBQ=="
+secured: "AtpnLFYaVw0XfrJUS7DNQ1HAfJmaffw+UlZkM/BRuIDdJEMQkqB7CDNdugs2EXTYc8J5Ffq+kMw2yQzdFgfSosLleMOiqtH5GtMmY4QhwwzjZPN0NbbUhB9BvK9B4vtcsgUoARma7VobOZnN1p0SV1qWHb0pArtJwhJCr3lW3mxSB6fWv15fCXwzwjErz6h8/7WHX+QIF8+bz8qbqFwtR3bWdd2qTtZ3871Fybnn+u7Y+pYNG5dRX7bT1GFWhlC+uztsjAekiyZfBEXyFHb49j2UYDRd9fuAHd+jaxd0qAnDpmHb0Wh51JyKKWIEpg+80IWkynBx04vWYcdYnRpNk7DcKfclhGnAbe1C/TiD80aSCehDBX1Gzd4X+qXEvLcZhMn0gNSfz0aTTSkdPaaFwVVirzY9ISR0KGQ60mI1d7/GbQX41Re23jKXX0kmlGi0bMxhR4Uk8kk2T0n5IjuTNoAGIEohVdRViRWkmoBzScEVgeQQjcTTTj9WoQkyGuFjCErlgWW5F11vez40zRegEQ==;yYef4RFO25oyE634kYoymA=="
 ---
 

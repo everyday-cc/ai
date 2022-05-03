@@ -44,17 +44,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "China Grants First Driverless Taxi Permits to Baidu, Pony.ai"
-    excerpt: "China Grants First Driverless Taxi Permits to Baidu ... has in recent years invested heavily in autonomous driving and artificial intelligence technology, including automated personal assistants ..."
-    publishedDateTime: 2022-04-28T07:05:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 84
   - title: "Beijing approves driverless taxi permits for Baidu and Pony.ai"
     excerpt: "China’s capital city granted permits to auto startup Pony.ai and Chinese internet giant Baidu to offer self-driving car services to the general public, both companies announced today."
     publishedDateTime: 2022-04-28T23:32:00Z
@@ -84,6 +73,20 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ap22118230409001-sixteen_nine.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+    publishedDateTime: 2022-04-29T12:00:00Z
+    webUrl: "https://www.newswit.com/en/LcAi"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 66
+    images:
+      - url: "https://www.newswit.com/img/f/20220429/3ac32c48c06b55032f81de486a571b3c-0.jpg"
+        width: 800
+        height: 430
         isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."

@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google fires another AI researcher who reportedly challenged findings (updated)"
+    excerpt: "Google is still firing AI researchers amid criticism of its work. The New York Times has learned Google fired machine learning scientist Satrajit Chatterjee in March, soon after it refused to publish a paper Chatterjee and others wrote challenging earlier ..."
+    publishedDateTime: 2022-05-03T00:38:00Z
+    webUrl: "https://www.engadget.com/google-fires-ai-researcher-over-paper-challenge-132640478.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 63
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/279d0180-9a68-11ec-bff7-019e5671d63d"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Google fires another researcher as it confronts challlenges with AI"
     excerpt: "Another staffer who questioned research ethics has been stood down Google's Cambridge ... fight about when it comes to how the chips — and any wares derived from artificial intelligence itself — are made."
     publishedDateTime: 2022-05-02T16:34:00Z
@@ -99,20 +113,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Fireworks’ AI Researchers make history as they combine AI with human cognition"
-    excerpt: "BEIJING, May 02, 2022 (GLOBE NEWSWIRE) -- In a move that is sure to shake up the gaming industry, Firework Games AI labs has announced the completion of its first milestone, on its aggressive expansion of the Metaverse. By using artificial intelligence to ..."
-    publishedDateTime: 2022-05-02T19:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-lifestyle-artificial-intelligence-virtual-worlds-c1b509e6944ae6e9afb6861a700c3091"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
     excerpt: "Often, capturing neural activity in mice requires restraints ... with the assistance of DNNs,” the researchers wrote. In artificial intelligence, a generative adversarial network (GAN) is a deep learning network that generates output that has similar ..."

@@ -26,6 +26,22 @@ images:
     height: 463
     isCached: true
 
+related:
+  - title: "Cyber-resilient Dell brings the cloud to its customers and their data to the clouds"
+    excerpt: "A second example could be using Azure compute to train a machine learning model with Dell file services in Azure. We hear that, maybe, Pure Storage and Snowflake will be announcing a similar deal shortly. All of Dell’s mainstream competitors are focusing ..."
+    publishedDateTime: 2022-05-02T17:00:00Z
+    webUrl: "https://blocksandfiles.com/2022/05/02/cyber-resilient-dell-brings-the-cloud-to-its-customers-and-their-data-to-the-clouds/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 18
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2019/04/michael_dell2_photo_dell.jpg"
+        width: 648
+        height: 486
+        isCached: true
+
 secured: "4cfWrZjUSoBEg0e+01YGxEUm0tfylU5bpAVQyGpZbYCCb4RuIYWulw9ZT+89pV6dMK4oW7eOmlJoI7E92KSc1TQxtJZ4swHv0vTSq68azfX8ctewpPMu/4ee6cMv6AXy/xVv7C8pT0aTeG4PfzUoXjFnx1OdifBpXHNn9qv4hvvD4O85vdKbmEKUUG3ZZylJkAJGPmtm1jo0VXUl+7uIOYkatmiHKPBd5DNKpy55hOzwfCFs9gE/XRZyB260y8/YZITNMhelqTdCNVCTPYdJNreH8/V6fKCLTaMuwCke93ExP46UwxN7dZyZ+Xp3OLrnMXQBrkXAYb09wrQj3kgQWi4ykF9ug6yZnD+ZtzGLPBo=;+5c/x3t9hVl3KbrGsV6Kcg=="
 ---
 

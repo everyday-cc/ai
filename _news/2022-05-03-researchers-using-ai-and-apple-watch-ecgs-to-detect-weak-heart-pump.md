@@ -41,6 +41,20 @@ related:
         width: 2880
         height: 1907
         isCached: true
+  - title: "Mayo Clinic uses AI and Apple Watch to detect weak heart pump"
+    excerpt: "Researchers at the Mayo Clinic used AI and an Apple Watch to detect a weak heart pump. The researchers developed an algorithm that used the signal from an Apple Watch ECG to detect the condition. The study's accuracy was \"as good as or slightly better than ..."
+    publishedDateTime: 2022-05-03T00:14:00Z
+    webUrl: "https://www.imore.com/mayo-clinic-uses-ai-and-apple-watch-detect-weak-heart-pump"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 37
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/12/apple-watch-ecg-app-hero.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Mayo Clinic’s new Apple Watch app uses AI to detect left-ventricular dysfunction"
     excerpt: "The Mayo Clinic developed a new app that transmits ECG signals from Apple Watches for AI analysis to identify heart disease. The application transmits ECG (electrocardiograms) signals recorded in non-clinical environments seamlessly and securely to a ..."
     publishedDateTime: 2022-05-02T17:41:00Z
