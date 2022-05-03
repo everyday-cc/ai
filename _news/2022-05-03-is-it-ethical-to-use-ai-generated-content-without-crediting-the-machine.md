@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/is-ethical-use-ai-generated-content-wi
 webUrl: "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI Ethics
 
 related:
+  - title: "Everything You Need To Know About Artificial Intelligence Marketing"
+    excerpt: "This is where artificial intelligence comes into play. Thanks to sophisticated tracking tools, it is now easier than ever to track visitors' actions on your website and use those business intelligence insights to reach out to potential customers."
+    publishedDateTime: 2022-04-29T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/everything-you-need-to-know-about-artificial-intelligence-marketing-nid-9798.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/iqr56cioappli450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Housing association tests AI and machine learning to cut costs"
     excerpt: "Jointly developed by the University of Bradford and the housing association, Incommunities, the two-year project will use machine learning to predict things such as boiler checks, general maintenance, and housing repairs, and could also be used to help ..."
     publishedDateTime: 2022-05-03T11:11:00Z

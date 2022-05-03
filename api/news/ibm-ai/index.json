@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai.md",
+      "title": "IBM Watson Health’s Challenges Tell Us More About Healthcare Data Than It Does About AI",
+      "excerpt": "CEO of 1upHealth, a cloud-based data interoperability platform built on FHIR that unlocks healthcare data to help improve outcomes. IBM Watson Health started its “life” with big aspirations, great intent and a lot of fanfare. After years of effort with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-ibm-to-make-watson-orchestrate-generally-available.md",
       "title": "IBM to make Watson Orchestrate generally available",
       "excerpt": "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv",
@@ -1331,49 +1375,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-c3ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-telecom-conference.md",
-      "title": "C3.ai's (AI) CEO Tom Siebel on Morgan Stanley Technology, Media & Telecom Conference",
-      "excerpt": "I’m super thrilled to have Tom Siebel, CEO of C3.ai, looking forward to having a conversation ... So the alternative to us early on would have been IBM Watson, which is now, I think, shut ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "originalUrl": "https://seekingalpha.com/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "publishedDateTime": "2022-03-10T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T13:16:00Z
 originalUrl: "https://www.waste360.com/recycling/machinexs-jonathan-mnard-sees-ai-gamechanger-waste-and-recycling"
 webUrl: "https://www.waste360.com/recycling/machinexs-jonathan-mnard-sees-ai-gamechanger-waste-and-recycling"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Waste360

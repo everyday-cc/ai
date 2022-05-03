@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:10:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/n26958177/lawfully-adds-a-fee-free-remittance-service-to-all-in-one-platform-for-u-s-immigrants"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/n26958177/lawfully-adds-a-fee-free-remittance-service-to-all-in-one-platform-for-u-s-immigrants"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

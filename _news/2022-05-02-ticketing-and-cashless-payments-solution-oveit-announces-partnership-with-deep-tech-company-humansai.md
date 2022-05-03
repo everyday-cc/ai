@@ -7,7 +7,7 @@ originalUrl: "https://business-review.eu/tech/ticketing-and-cashless-payments-so
 webUrl: "https://business-review.eu/tech/ticketing-and-cashless-payments-solution-oveit-announces-partnership-with-deep-tech-company-humans-ai-230421"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "WCG and Deep 6 AI Announce Best-In-Class Partnership to Enable Faster, Smarter Clinical Trial Patient Recruitment"
+    excerpt: "May 2, 2022 /PRNewswire/ -- WCG and Deep 6 AI today announced that they are working together to drive more targeted patient recruitment in clinical trials and accelerate enrollment in vital ..."
+    publishedDateTime: 2022-05-02T12:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wcg-and-deep-6-ai-announce-best-in-class-partnership-to-enable-faster-smarter-clinical-trial-patient-recruitment-1031408265"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
   - title: "WCG and Deep 6 AI Announce Partnership"
     excerpt: "WCG and Deep 6 AI announced that they are working together to drive more targeted patient recruitment in clinical trials and accelerate enrollment in vital medical research. The relationship brings together WCG's market position, and their investigative ..."
     publishedDateTime: 2022-05-02T12:57:00Z

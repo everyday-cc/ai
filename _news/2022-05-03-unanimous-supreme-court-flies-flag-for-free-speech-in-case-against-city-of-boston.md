@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies
 cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/amp/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 420
         height: 316
         isCached: true
+  - title: "Unanimous SCOTUS Flies Flag for Free Speech in Case Against City of Boston"
+    excerpt: "It may not exclude speech based on ‘religious viewpoint;' doing so ... only chaos — and “new business for lawyers and judges.” Despite the court’s recognition of Lemon’s many problems, and what Gorsuch called the court’s abandonment ..."
+    publishedDateTime: 2022-05-03T15:40:00Z
+    webUrl: "https://www.cnsnews.com/commentary/sarah-parshall-perry/unanimous-scotus-flies-flag-free-speech-case-against-city-boston"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 17
 
 secured: "AtpnLFYaVw0XfrJUS7DNQ1HAfJmaffw+UlZkM/BRuIDdJEMQkqB7CDNdugs2EXTYc8J5Ffq+kMw2yQzdFgfSosLleMOiqtH5GtMmY4QhwwzjZPN0NbbUhB9BvK9B4vtcsgUoARma7VobOZnN1p0SV1qWHb0pArtJwhJCr3lW3mxSB6fWv15fCXwzwjErz6h8/7WHX+QIF8+bz8qbqFwtR3bWdd2qTtZ3871Fybnn+u7Y+pYNG5dRX7bT1GFWhlC+uztsjAekiyZfBEXyFHb49j2UYDRd9fuAHd+jaxd0qAnDpmHb0Wh51JyKKWIEpg+80IWkynBx04vWYcdYnRpNk7DcKfclhGnAbe1C/TiD80aSCehDBX1Gzd4X+qXEvLcZhMn0gNSfz0aTTSkdPaaFwVVirzY9ISR0KGQ60mI1d7/GbQX41Re23jKXX0kmlGi0bMxhR4Uk8kk2T0n5IjuTNoAGIEohVdRViRWkmoBzScEVgeQQjcTTTj9WoQkyGuFjCErlgWW5F11vez40zRegEQ==;yYef4RFO25oyE634kYoymA=="
 ---

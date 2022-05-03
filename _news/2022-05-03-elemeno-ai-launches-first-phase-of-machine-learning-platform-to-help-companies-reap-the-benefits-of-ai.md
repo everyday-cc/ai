@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:00:00Z
 originalUrl: "https://www.digitaljournal.com/pr/elemeno-ai-launches-first-phase-of-machine-learning-platform-to-help-companies-reap-the-benefits-of-ai"
 webUrl: "https://www.digitaljournal.com/pr/elemeno-ai-launches-first-phase-of-machine-learning-platform-to-help-companies-reap-the-benefits-of-ai"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Digital Journal

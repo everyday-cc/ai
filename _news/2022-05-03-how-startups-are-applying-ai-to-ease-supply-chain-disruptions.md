@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "FOCUS-Startups apply artificial intelligence to supply chain disruptions"
+    excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
+    publishedDateTime: 2022-05-03T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-0"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 61
   - title: "Top Applications of Machine Learning in the Healthcare Sector"
     excerpt: "The expanding number of machine learning applications in healthcare enables the healthcare industry to manage data and improve services properly. Fremont, CA: The healthcare business is critical since it provides treatment to millions of people while ..."
     publishedDateTime: 2022-04-29T00:00:00Z
@@ -96,15 +105,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Best Practices for Health Care AI Selection"
-    excerpt: "Researchers at the Duke-Margolis Center for Health Policy explored how health care systems choose which specific artificial intelligence tools they use for improving population and individual health. Duke-Margolis’ Digital Health Policy Fellow describes ..."
-    publishedDateTime: 2022-05-02T13:03:00Z
-    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0139"
-    type: article
-    provider:
-      name: The New England Journal of Medicine
-      domain: nejm.org
-    quality: 19
 
 secured: "BF3Zvqm7XvL2LEi3ro1YBOp52wdwtybOmtuZrJ4cXCc6zssWVAB9zsxxNs5jY+Y2vQ0ZQsdhrfxlr40F4g/zISlA5/NjrK91T1qr5gAe4OFP0AFHUqJ8ZarXOdQ+achZ2al68onLqZLsYjHtaIVFzkL6P/P8TmDHJB/mV8iak9Q+qqex27ZMdTagzxPOZcUqpCzRYwuCO/0UnaF0JReFx0xakUuHrEURPnv9KsFK2nykzwEnizVRdnGpJUbNvx4DJEIgHk7zDQRPF9rcrKiTVQ6lV62MmbH1WnEJslFoiBLiX72sgacn1XTv8hmi9vtdRUqOaL9bzVvNbih+GkaW/NCYNJsyyiARi4HMaEtVTTE=;6ZqSt4i82QZgPTUUwVttwA=="
 ---

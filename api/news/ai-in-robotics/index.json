@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-elon-musk-boasts-teslas-optimus-robots-will-have-full-artificial-intelligence.md",
+      "title": "Elon Musk boasts Tesla's 'Optimus' robots will have full artificial intelligence",
+      "excerpt": "But according to Tesla boss Elon Musk, his humanoid robot, Optimus, is coming soon – and it might also contain the first true Artificial Intelligence. “Tesla AI might play a role in AGI,” the multi-billionaire tweeted, “given that it trains against ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543",
+      "originalUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dailystar.co.uk/incoming/article26859846.ece/ALTERNATES/s615/0_FILE-PHOTO-Tesla-CEO-Elon-Musk-reveals-the-Tesla-Energy-Powerwall-Home-Battery-during-an-event-in-H.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543.amp",
+      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543.amp",
+      "publishedDateTime": "2022-05-03T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Star",
+        "domain": "dailystar.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-the-rise-of-artificial-intelligence-will-robots-actually-replace-people.md",
+      "title": "The Rise Of Artificial Intelligence: Will Robots Actually Replace People?",
+      "excerpt": "Robots and artificial intelligence (AI) are expected to permeate our daily lives by 2025. This could have huge implications on several business sectors, most notably health care, customer service, and logistics. Already, AI is responsible for medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
+      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e432e1ba854780006b10cf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
+      "publishedDateTime": "2022-05-03T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
       "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
       "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics, artificial intelligence, and healthcare technology.",
@@ -10,18 +108,9 @@
       "originalUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 105,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-426610.jpeg",
-          "width": 3001,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -51,8 +140,7 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Healthcare",
-        "Facebook AI"
+        "AI in Healthcare"
       ]
     },
     {
@@ -1312,110 +1400,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-24-leave-space-exploration-to-the-robots-says-new-book.md",
-      "title": "Leave Space Exploration To The Robots, Says New Book",
-      "excerpt": "Compelling new book argues that we really need to forget about astronauts and instead renew our focus on robotics for the continued exploration of space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
-      "originalUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6264f17889d41edd0830febc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
-      "publishedDateTime": "2022-04-23T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-how-to-protect-ai-from-cyberattacks-start-with-the-data.md",
-      "title": "How to protect AI from cyberattacks – start with the data",
-      "excerpt": "AI is a digital technology, which means it can be compromised particularly when confronted by an intelligent attack",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/",
-      "originalUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/Ai-Security.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/amp/",
-      "publishedDateTime": "2022-04-22T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

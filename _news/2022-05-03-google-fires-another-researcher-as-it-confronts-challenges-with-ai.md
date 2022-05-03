@@ -169,6 +169,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Google is embroiled in internal struggle over AI research"
+    excerpt: "The current episode began when Google scientists Azalia Mirhoseini and Anna Goldie published “A graph placement methodology for fast chip design” in the scientific journal Nature in June. They observed that AI could perform a critical phase in the ..."
+    publishedDateTime: 2022-05-03T13:29:00Z
+    webUrl: "https://www.techzine.eu/news/devops/78179/google-is-embroiled-in-internal-struggle-over-ai-research/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/google1.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Google keeps firing people who question its AI"
     excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."
     publishedDateTime: 2022-05-03T09:46:00Z

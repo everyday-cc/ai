@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-24-leave-space-exploration-to-the-robots-says-new-book.md",
+      "title": "Leave Space Exploration To The Robots, Says New Book",
+      "excerpt": "Compelling new book argues that we really need to forget about astronauts and instead renew our focus on robotics for the continued exploration of space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
+      "originalUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6264f17889d41edd0830febc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucedorminey/2022/04/24/leave-space-exploration-to-the-robots-says-new-book/amp/",
+      "publishedDateTime": "2022-04-23T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-how-to-protect-ai-from-cyberattacks-start-with-the-data.md",
+      "title": "How to protect AI from cyberattacks – start with the data",
+      "excerpt": "AI is a digital technology, which means it can be compromised particularly when confronted by an intelligent attack",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/",
+      "originalUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/Ai-Security.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/amp/",
+      "publishedDateTime": "2022-04-22T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-gist-researchers-teach-robots-to-identify-partially-hidden-objects.md",
       "title": "GIST researchers teach robots to identify partially hidden objects",
       "excerpt": "Typically, when AI is presented with a scene of cluttered objects, the system will try to identify each item based only on its visible parts.",
@@ -227,6 +331,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-20-soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging.md",
+      "title": "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging",
+      "excerpt": "Soft Robotics is an industry-leading and award-winning technology company that designs and builds automated picking solutions using proprietary soft robotic grippers, 3D machine perception, and artificial intelligence. The company's transformational ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wate.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
+      "originalUrl": "https://www.wate.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.wate.com/wp-content/uploads/sites/42/2022/05/Just-Homes-Group-realty.jpg?w=2000&#038;ssl=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WATE 6 On Your Side",
+        "domain": "wate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation.md",
       "title": "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation",
       "excerpt": "\"We are excited to have GrayMatter's Smart Robotic Sanding solution selected for the RBR50 award\" said Ariyan Kabir, CEO. \"With a global shortage in surface finishing labor, manufacturing reshoring in the U.",
@@ -256,49 +403,6 @@
       "provider": {
         "name": "KRQE",
         "domain": "krqe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging.md",
-      "title": "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging",
-      "excerpt": "Today Soft Robotics Inc. announced it has teamed with Quest and Ossid to offer a robotic handling and packaging solution to the food industry powered by Soft Robotics' mGripAI ™ technology. The total solution includes Quest's primary product handling system utilizing a FANUC robot designed to load,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wjbf.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
-      "originalUrl": "https://www.wjbf.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1485833/SR_Logo_Bold_RGB_Logo.jpg?p=publish",
-          "width": 1449,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WJBF",
-        "domain": "wjbf.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1263,92 +1367,6 @@
       "provider": {
         "name": "CMS Wire",
         "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.md",
-      "title": "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'",
-      "excerpt": "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
-      "originalUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2022/04/932/470/GettyImages-1386927042.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp",
-      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp",
-      "publishedDateTime": "2022-04-14T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 5 NY",
-        "domain": "fox5ny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-ai-robots-deployed-to-fill-void-in-senior-care-but-can-they.md",
-      "title": "AI robots deployed to fill void in senior care. But can they?",
-      "excerpt": "To fill this void in senior care, authorities and institutions have deployed companion robots. These care machines with artificial intelligence have been billed as an example of the pandemic ...",
-      "sourceUrl": null,
-      "webUrl": "https://koreaherald.com/view.php?ud=20220414000682",
-      "originalUrl": "https://koreaherald.com/view.php?ud=20220414000682",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F04%2F14%2F20220414000800_0.jpg",
-          "width": 630,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20220414000682",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220414000682",
-      "publishedDateTime": "2022-04-14T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
         "images": null,
         "publishers": null,
         "authors": null

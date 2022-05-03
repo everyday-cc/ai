@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:55:00Z
 originalUrl: "https://www.dailystar.co.uk/tech/news/japanese-train-company-unveils-terrifying-26859051"
 webUrl: "https://www.dailystar.co.uk/tech/news/japanese-train-company-unveils-terrifying-26859051"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Daily Star

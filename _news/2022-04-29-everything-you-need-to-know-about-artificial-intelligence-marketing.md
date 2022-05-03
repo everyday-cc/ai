@@ -25,81 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "What You Need To Know Before You Start Working With Artificial Intelligence"
-    excerpt: "The first principle is to start with a strategy. Simply put, this means understanding what you are trying to achieve. AI technologies are tools that are deployed tactically to achieve strategic objectives. Your strategy should be in line with your business ..."
-    publishedDateTime: 2022-05-03T04:47:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/"
+  - title: "Is it ethical to use AI-generated content without crediting the machine?"
+    excerpt: "Considering that computers can’t taste booze, this makes for a curious use-case for machine learning. The AI sommelier was trained on a database containing hundreds of thousands of beer and wine ..."
+    publishedDateTime: 2022-05-02T19:26:00Z
+    webUrl: "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6270afa356fe8039a23aa466/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Intel Arc GPU: What you need to know"
-    excerpt: "Besides these, Intel is planning to launch Arc series of desktop GPUs in 2022. The Arc GPUs are built using X HPG architecture that features Xe cores with built-in XMX AI capabilities and 3D acceleration hardware for enhanced gaming performance."
-    publishedDateTime: 2022-04-29T05:08:00Z
-    webUrl: "https://www.91mobiles.com/hub/intel-arc-gpu-what-you-need-to-know/"
-    ampWebUrl: "https://www.91mobiles.com/hub/intel-arc-gpu-what-you-need-to-know/amp/"
-    cdnAmpWebUrl: "https://www-91mobiles-com.cdn.ampproject.org/c/s/www.91mobiles.com/hub/intel-arc-gpu-what-you-need-to-know/amp/"
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
+  - title: "Housing association tests AI and machine learning to cut costs"
+    excerpt: "Jointly developed by the University of Bradford and the housing association, Incommunities, the two-year project will use machine learning to predict things such as boiler checks, general maintenance, and housing repairs, and could also be used to help ..."
+    publishedDateTime: 2022-05-03T11:11:00Z
+    webUrl: "https://www.bimplus.co.uk/housing-association-tests-ai-and-machine-learning-to-cut-costs/"
     type: article
     provider:
-      name: 91mobiles
-      domain: 91mobiles.com
-    quality: 59
-    images:
-      - url: "https://www.91-cdn.com/hub/wp-content/uploads/2022/03/rtx.jpg?tr=w-217,h-115,c-force,dpr-2/"
-        width: 434
-        height: 230
-        isCached: true
-  - title: "How to Put AI Ethics into Practice at Your Company"
-    excerpt: "In recent years, there's been a shift in companies, from simply considering the technical implications of their technology to now acknowledging and attempting to advance solutions that ensure their technologies, including artificial intelligence (AI), act ..."
-    publishedDateTime: 2022-04-30T11:15:00Z
-    webUrl: "https://www.inc.com/francesca-rossi-christina-montgomery/artificial-intelligence-ethics-strategy-ai-innovation.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
+      name: bimplus.co.uk
+      domain: bimplus.co.uk
     quality: 54
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1389264868_501535_hxfpvz.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "What Privacy Professionals Need To Know Before Investing in Federated Learning"
-    excerpt: "... thought about using Machine Learning or is already using Machine Learning today. If your company is rooted in product or marketing, this could be for personalization; in financial services, fraud detection; or in healthcare, precision medicine. 2."
-    publishedDateTime: 2022-05-02T11:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/what-privacy-professionals-need-to-know-before-investing-in-federated-learning/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/what-privacy-professionals-need-to-know-before-investing-in-federated-learning/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/what-privacy-professionals-need-to-know-before-investing-in-federated-learning/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 40
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/05/what-privacy-professionals-need-to-know-before-investing-in-federated-learning_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
-  - title: "How AI predicts what you’ll buy"
-    excerpt: "It’s a jungle out there—few places so much so as the world of “smart” advertising. There, marketing geniuses have developed increasingly sophisticated algorithms that take all the ..."
-    publishedDateTime: 2022-04-30T10:42:00Z
-    webUrl: "https://localnews8.com/stacker-news/2022/04/29/how-ai-predicts-what-youll-buy/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 37
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/04/shutterstock335123117UTON_0.jpg"
-        width: 1010
-        height: 720
+      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/04/img94joktmu7877.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "HihpiCT3enyehd4M4Cv8B4UD1qtwMIQ/GeCfP91AEKd02oep3WcKFEEbgZNAsf4Is6a2TLq/Xzxz2zWgFsQrDP2129ntK+lbmfOPVIESb83y6/udUyIE8/Wfm6Oe4kVCQl5BEBhf5nxxaYwIC3I25fIpm31o7R4WdyjiHwRxC+jbS7JNB56p9Zezmlcu7cWFN/3qDKyJu+LN5BHETTQvssrlwLQqTF0YGYO58zfWjoCc14MFb8x2lEkAdSSQuJTagd4hM+ki/NGibE+jgzCDEATPb26zflZIcQ3ZvuGaUuoUqM7t+Ql4k9klHVYZHmolJxLW5Nw6MJUrqYz+pTU9Qel/1ESCS4GDbGs1daW9yQUZiJus7JppuY7QHfZjtiDIInn1W8ZWiCyfEGMOE7zKmum8jIbO6f6y8trNonqVpiB9VZTPvgm0nLNC+kyElxIkLyhDx+XSCblNuT2dfstdB8iA0MBv19bSk2/W4wczkr/0OazUu0jlN+TRZgEdq6xUniwillkyLhIDSSpfQqxrmg==;wp7nkv7JXNp5lYe3KDTLsQ=="

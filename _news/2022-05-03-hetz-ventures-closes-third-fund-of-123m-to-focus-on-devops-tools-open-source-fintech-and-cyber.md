@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/amp/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: TechCrunch
@@ -29,6 +29,17 @@ images:
     width: 1024
     height: 765
     isCached: true
+
+related:
+  - title: "Funding from Hetz Ventures’ third round, totaling $123 million, will go into DevOps tools, Open Source, Fintech, and Cybersecurity initiatives"
+    excerpt: "Hetz has previously invested in Granulate (bought by Intel last month), Trigo, Retrain.ai, Blink Ops, and Velocity ... Its concentration is on DevOps & Dev Tools, Open Source, Enterprise & Data, Fintech and Cybersecurity. In the first quarter of 2022 ..."
+    publishedDateTime: 2022-05-03T13:20:00Z
+    webUrl: "https://bestgamingpro.com/funding-from-hetz-ventures-third-round-totaling-123-million-will-go-into-devops-tools-open-source-fintech-and-cybersecurity-initiatives/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 0
 
 secured: "kVsaVD0UiGlFrGy/PK5Em7Qv+RDxEugKPFPtz1oF6cN4HD93w1skexYFIWR9Wlsi8jYZL2FfkqDXxi2FOgrzZevuEOVqmjYnVR5xVHk6ErOkH//Sy0GRR0TuuKTSzfAmJAB/KeMCvI7RriISNdm2DuuCD4pOdNsb8W8ypGY6qhtM4Zl4ndH5tLqFC5HS6hLrApp8S/2Mb6r6xwJfthGhOvbngZs/N4rqcoTNwDPBgTWtxBOMIYYkC3/t3MvoT0x06LLR/9Oy8kJ3/yQCVI6uZCRcTxNIc9xNhjcG8gKZtHqhLnW0v4Dkq4HW6kCYtPcVtP6PeUvNn7jMhhsWiWK4HXgq/zL1Q1ofmHC4031uWR7j26sNBV6PV/L54gJ/u+XWP/OzJ1WgCrHs15rC7nCosapwpHo6jG4UJsNyCrX4h9f0ImULgsBY7NbF9E8hTvufaG2C44g+2erRQ7d+PIynVXZvvG2LwFKAHsje9+EvrKAIhXJjVIOKan985ckFoolSnqqSwae4bTiGKpFOTpgvqg==;ne+guLp+VD9X7FxGxIq10w=="
 ---

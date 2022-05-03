@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-05-tech-roundup-pizza-chains-put-robots-on-the-phone.md",
+      "title": "Tech roundup: Pizza chains put robots on the phone",
+      "excerpt": "Marco’s and Jet’s are testing artificial intelligence to take calls and texts. Also, Brinker expands its use of drone delivery and",
+      "sourceUrl": null,
+      "webUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "originalUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2022-04/background/tech-roundup_1626880425.gif?VersionId=a3EXtwkfUCrhVtJBTO6Ib_6aflhWEk8w",
+          "width": 903,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "cdnAmpWebUrl": "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "publishedDateTime": "2022-04-04T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Restaurant Business",
+        "domain": "restaurantbusinessonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-humanoid-robot-paints-portraits-with-ai.md",
+      "title": "Humanoid robot paints portraits with AI",
+      "excerpt": "Da. This robot is dubbed the “world’s first ultra-realistic humanoid robot artist” by its creators. Ai-Da was built in 2019, and the robot now features an upgraded r",
+      "sourceUrl": null,
+      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
+      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wane.com/wp-content/uploads/sites/21/2022/04/robot-painter.jpg?w=1280",
+          "width": 1280,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
+      "publishedDateTime": "2022-04-04T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wane",
+        "domain": "wane.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist.md",
       "title": "‘Mind-blowing’: Ai-Da becomes first robot to paint like an artist",
       "excerpt": "AI algorithms prompt robot to interrogate, select, decision-make to create a painting",
@@ -1315,93 +1401,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-microsofts-dynamics-365-creates-peace-of-mind-for-business.md",
-      "title": "Microsoft’s Dynamics 365 creates peace of mind for business",
-      "excerpt": "Wide-ranging benefits range from modernising sales and customer service to creating intelligent supply chain operations and e-commerce platforms",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesspost.ie/commercial-reports/microsofts-dynamics-365-creates-peace-of-mind-for-business-89879d0f",
-      "originalUrl": "https://www.businesspost.ie/commercial-reports/microsofts-dynamics-365-creates-peace-of-mind-for-business-89879d0f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTI5Y2MyN2FkLTBlMjUtNTU1NC04NjlkLTg1MDIzNzc4OWUyOSZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MTY1OS4yNjk2NjI5MjEzJndpZHRoPTI5NTMmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA0MTE5ODUwMTg3MjY1OTE3JmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjg0MjY5NjYxOTIxMzQ4XCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJ1c2luZXNzcG9zdC5pZVxcXC9zYnAtbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjljNmNhMTI3MjJjZjJjZTI3OTQzYjViN2QyZTUzNjMyYWMzN2U2ZGQifQ==/microsoft-s-dynamics-365-creates-peace-of-mind-for-business.84269661921348",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sunday Business Post",
-        "domain": "businesspost.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-pu.md",
-      "title": "Are dystopian societies always flawless and meant to introduce a rebellious character who will pu...",
-      "excerpt": "Are dystopian societies always flawless and meant to introduce a rebellious character who will put an end to it ? by Ana Goerrian 1. Types of Dystopias 1.1. Animal Farm. 1.1.1. bu",
-      "sourceUrl": null,
-      "webUrl": "https://www.mindmeister.com/2231619053/are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-put-an-",
-      "originalUrl": "https://www.mindmeister.com/2231619053/are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-put-an-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mindmeister.com/export/image/2231619053?height=600&t=4RmeP3jIMT&variable_size=1&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-26T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MindMeister",
-        "domain": "mindmeister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

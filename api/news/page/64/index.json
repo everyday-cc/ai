@@ -2,6 +2,282 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-03-08-im-the-operator-the-aftermath-of-a-self-driving-tragedy.md",
+      "title": "‘I’m the Operator’: The Aftermath of a Self-Driving Tragedy",
+      "excerpt": "In 2018, an Uber autonomous vehicle fatally struck a pedestrian. In a WIRED exclusive, the human behind the wheel finally speaks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/uber-self-driving-car-fatal-crash/",
+      "originalUrl": "https://www.wired.com/story/uber-self-driving-car-fatal-crash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6227f004f48a924e02bd4ee5/master/pass/Backchannel_fall_girl_new-7.jpg",
+          "width": 2400,
+          "height": 1801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/uber-self-driving-car-fatal-crash/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/uber-self-driving-car-fatal-crash/amp",
+      "publishedDateTime": "2022-03-08T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-storage-news-ticker-8-march.md",
+      "title": "Storage news ticker – 8 March",
+      "excerpt": "Real-time data company DataStax has announced a new Operator for K8ssandra, the cloud-native, open-source distribution of Apache Cassandra on Kubernetes. It supports multiple Kubernetes clusters, enabling organisations to easily deploy critical,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/cloud/learn/block-storage",
+      "originalUrl": "https://blocksandfiles.com/2022/03/08/storage-news-ticker-8-march/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1.cms.s81c.com/sites/default/files/styles/ibm_cloud_wide_background/public/2019-12-12/003_1.jpg?itok=75eiZEG1",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "blocksandfiles",
+        "domain": "blocksandfiles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-treasure-data-cdp-now-available-in-aws-marketplace.md",
+      "title": "Treasure Data CDP Now Available in AWS Marketplace",
+      "excerpt": "Treasure Data announced its availability in AWS Marketplace, a digital catalog with thousands of software listings from independent software",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/",
+      "originalUrl": "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Treasure-Data-CDP-Now-Available-in-AWS-Marketplace-To-Meet-Growing-Customer-Demand-Globally-01.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/treasure-data-cdp-now-available-in-aws-marketplace/amp/",
+      "publishedDateTime": "2022-03-08T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.md",
+      "title": "Clearview AI commercialization of facial recognition raises concerns, risks",
+      "excerpt": "Facial recognition as a service has caught the attention of regulators and litigators. CISOs at companies considering the technology need strong privacy protections in place.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.html",
+      "originalUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/facial_recognition_technology_thinkstock_851960116-100749431-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html",
+      "publishedDateTime": "2022-03-08T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-technical-leaders-agree-ai-is-now-a-necessity-to-compete.md",
+      "title": "Technical leaders agree: AI is now a necessity to compete",
+      "excerpt": "AI is enabling new experiences everywhere. When people watch a captioned video on their phone, search for information online, or receive customer assistance from a virtual agent, AI is at the heart of those experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/",
+      "originalUrl": "https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fb25dda4-b8d3-4d62-8dbc-25a2ed930d44.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T01:00:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-womens-careers.md",
+      "title": "Gender bias in recruitment: How AI hiring tools are hindering women’s careers",
+      "excerpt": "The odds are still stacked against women's success in the workplace, and artificial intelligence (AI ... and LinkedIn and on social media like Facebook and Twitter. The algorithms on these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/03/08/gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-women-s-careers",
+      "originalUrl": "https://www.euronews.com/next/2022/03/08/gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-women-s-careers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/06/52/72/56/1000x563_cmsv2_28da973d-aa24-5c95-8360-eaf4435011aa-6527256.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2022/03/08/gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-women-s-careers",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/03/08/gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-women-s-careers",
+      "publishedDateTime": "2022-03-07T23:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-baidu-head-stresses-innovation-in-autonomous-driving-policies.md",
       "title": "Baidu head stresses innovation in autonomous driving policies",
       "excerpt": "China should speed up the innovation of autonomous driving policies and promote the popularization of smart transport to alleviate road congestion and reduce carbon emissions, said Robin Li, co-founder and CEO of Chinese tech giant Baidu Inc.",
@@ -859,308 +1135,6 @@
         "AI",
         "AI in Marketing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-amplitudes-digital-optimization-system-launches-in-aws-marketplace.md",
-      "title": "Amplitude’s Digital Optimization System Launches in AWS Marketplace",
-      "excerpt": "(Nasdaq: AMPL), the pioneer in digital optimization, today announced the availability of Amplitude in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find,",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/amplitude-s-digital-optimization-system-launches-in-aws-marketplace/article_71efa47c-5fde-53b8-91fb-f089e6c5a6b9.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/amplitude-s-digital-optimization-system-launches-in-aws-marketplace/article_71efa47c-5fde-53b8-91fb-f089e6c5a6b9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-how-wrongful-arrests-based-on-ai-derailed-3-mens-lives.md",
-      "title": "How Wrongful Arrests Based on AI Derailed 3 Men's Lives",
-      "excerpt": "Critics say police rely too heavily on the technology, particularly since research has shown it misidentifies ... impact immigrants and communities of color. Search our artificial intelligence database and discover stories by sector, tech, company, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/",
-      "originalUrl": "https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6222a5af850ca1019a6d9e82/master/pass/security-facial-ai.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/wrongful-arrests-ai-derailed-3-mens-lives/amp",
-      "publishedDateTime": "2022-03-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-the-hidden-role-of-facial-recognition-tech-in-many-arrests.md",
-      "title": "The Hidden Role of Facial Recognition Tech in Many Arrests",
-      "excerpt": "The technology is spreading fast among police, and often wrong. But people charged with crimes are rarely told they were fingered by an algorithm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/hidden-role-facial-recognition-tech-arrests/",
-      "originalUrl": "https://www.wired.com/story/hidden-role-facial-recognition-tech-arrests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61789281300796688742b837/191:100/w_1280,c_limit/Business-Police-Face-Recognition-1128869156.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-fintech-startup-credavenue-turns-unicorn-with-137-million-funding.md",
-      "title": "Fintech Startup CredAvenue Turns Unicorn With $137 Million Funding",
-      "excerpt": "Fintech startup CredAvenue has joined the unicorn club with a Series B fundraising round of $137 million, led by New York-based global private equity and venture capital firm Insi",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/421553",
-      "originalUrl": "https://www.entrepreneur.com/article/421553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1646651575-new79.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization.md",
-      "title": "Do You Need To Build Or Buy AI-Based Solutions For Your Organization?",
-      "excerpt": "Business leaders face a common dilemma in deciding between building and buying enterprise AI solutions while they plan to adopt AI for their organizations. They need to consider several factors about AI technology to make an informed decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d5c7c54cb1e138c0952e/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 921,
-          "height": 915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/amp/",
-      "publishedDateTime": "2022-03-07T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-grunt-of-the-litter-scientists-use-ai-to-decode-pig-calls.md",
-      "title": "Grunt of the litter: scientists use AI to decode pig calls",
-      "excerpt": "Researchers say algorithm that translates acoustic signatures could be developed to automatically monitor animal wellbeing",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
-      "originalUrl": "https://www.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/66c7f6e26abf00ae5c2fe46d7c7e1db80b7c385c/0_0_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=9afbc63d0a27ac5a1fe87e5e9b41a7f5",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
-      "publishedDateTime": "2022-03-07T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,60 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-03-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
-      "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
-      "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics, artificial intelligence, and healthcare technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
-      "originalUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-426610.jpeg",
-          "width": 3001,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-02-meta-building-ai-that-processes-speech-text-as-humans-do.md",
       "title": "Meta building AI that processes speech & text as humans do",
       "excerpt": "New Delhi: Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with ...",
@@ -313,6 +259,58 @@
         "name": "NDTV",
         "domain": "ndtv.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-16-the-metaverse-space-race-will-be-visible-from-wall-street.md",
+      "title": "The metaverse space race will be visible from Wall Street",
+      "excerpt": "As Joelle Pineau, co-managing director of Facebook AI Research, acknowledged that big data and AI will need to work extremely hard to create a mass distributed seamless experience for the huge ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/16/the-metaverse-space-race-will-be-visible-from-wall-street/",
+      "originalUrl": "https://venturebeat.com/2022/04/16/the-metaverse-space-race-will-be-visible-from-wall-street/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1379108916.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/16/the-metaverse-space-race-will-be-visible-from-wall-street/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/16/the-metaverse-space-race-will-be-visible-from-wall-street/amp/",
+      "publishedDateTime": "2022-04-16T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

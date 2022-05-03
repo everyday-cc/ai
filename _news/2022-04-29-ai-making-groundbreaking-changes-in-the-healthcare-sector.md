@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "FOCUS-Startups apply artificial intelligence to supply chain disruptions"
+    excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
+    publishedDateTime: 2022-05-03T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-0"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 61
   - title: "Top Applications of Machine Learning in the Healthcare Sector"
     excerpt: "The expanding number of machine learning applications in healthcare enables the healthcare industry to manage data and improve services properly. Fremont, CA: The healthcare business is critical since it provides treatment to millions of people while ..."
     publishedDateTime: 2022-04-29T00:00:00Z
@@ -97,15 +106,6 @@ related:
         width: 720
         height: 400
         isCached: true
-  - title: "Best Practices for Health Care AI Selection"
-    excerpt: "Researchers at the Duke-Margolis Center for Health Policy explored how health care systems choose which specific artificial intelligence tools they use for improving population and individual health. Duke-Margolis’ Digital Health Policy Fellow describes ..."
-    publishedDateTime: 2022-05-02T13:03:00Z
-    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0139"
-    type: article
-    provider:
-      name: The New England Journal of Medicine
-      domain: nejm.org
-    quality: 19
 
 secured: "bM6UEdEM6L7ZTdzm7StFj1Y1cnNAkJV5HNvIpIyIqV9gsflnuHD2q22z6zeMo2BNCyPvKvSVELE71AdSVB/2WWKcYU6pUl3tGMC/1u4h/9ZCFYe11EAhXsfc7MsIgxcOAjERaZNk2hlJaMxFoxjgd/NTcCcX+PCpcQ7C3yDChGexhX4nzzzRY9sYrAYqbr3SKAICRPZ66brY0wEsrh5UI1kOSvxxoaLw/VVafKjZ5de2wmRzV0EW7OgJepCpHSJ7a5Sy5LKBf9UiXFyZqDYti20/x9Gw+dm9HimB6t+WX7k9AqIyeMVFZ0vvHjZI3Sm59J6fKyB/P3hCaG5TaR5E6j/ppuReaZHMCOf15owJfTs4zohILMJt7dD1XBZp6+OaGOCkGGme28T+o4C2mbBMTyakLtDuTrX/AfhEXtontbx7PekmbmQZXqElTEeKWDdAP1klwA6tYJaMwUAJc5vp5r1/KmaUnW9p9XW667WwUW24MEy3fRnyyAkkQy2gQYSRCzdPKPnPEkzc/lRkQCOVUg==;CxJLVH64Fz5okMbFdwB4sQ=="
 ---

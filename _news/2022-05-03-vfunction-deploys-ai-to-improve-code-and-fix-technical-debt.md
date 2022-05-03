@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:00:00Z
 originalUrl: "https://venturebeat.com/2022/05/03/vfunction-deploys-ai-to-improve-code-and-fix-technical-debt/"
 webUrl: "https://venturebeat.com/2022/05/03/vfunction-deploys-ai-to-improve-code-and-fix-technical-debt/"
 type: article
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -17,6 +20,56 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Advice for deploying AI in production environments"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-02T21:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/"
+    ampWebUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Benefits of AI In Construction"
+    excerpt: "Historical data such as planned start and end dates are used by predictive models ... intelligence company launched in 2017 with the promise that its robots and artificial intelligence hold the key to solving late and over budget construction projects."
+    publishedDateTime: 2022-04-29T20:41:00Z
+    webUrl: "https://www.enr.com/articles/54037-the-benefits-of-ai-in-construction"
+    type: article
+    provider:
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 41
+    images:
+      - url: "https://www.enr.com/ext/resources/2022/04/29/The-Benefits-of-AI-In-Construction-cover-image.jpg?height=635&t=1651260664&width=1200"
+        width: 900
+        height: 550
+        isCached: true
+  - title: "Best Practices for Health Care AI Selection"
+    excerpt: "Researchers at the Duke-Margolis Center for Health Policy explored how health care systems choose which specific artificial intelligence tools they use for improving population and individual health. Duke-Margolis’ Digital Health Policy Fellow describes ..."
+    publishedDateTime: 2022-05-02T13:03:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0139"
+    type: article
+    provider:
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 19
+  - title: "Being AI SAVY drives exceptional service in a digital environment"
+    excerpt: "When it comes to customer service, expectations have never been higher, said IBM AI expert Brian Loveys. “Nobody wants to wait,” he said of today’s self-serve, do-it-yourself consumer. “But the hard reality is that there are simply not enough ..."
+    publishedDateTime: 2022-04-29T19:27:00Z
+    webUrl: "https://www.itworldcanada.com/article/being-ai-savy-drives-exceptional-service-in-a-digital-environment/481115"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 17
 
 secured: "z3OF7silp7xXvbn2YfQbnEwgsYuV+QsMdUikq1Z/Hieto+QfwmGxMrxIZwx9KYQ0JYMYTs/+Y+VwuNQdW7STC6PjUW24MFuc+yk8zY2ebt1bwwotJ6Qinr6AYMyN+HCNHLV3qj0R/SsXSmv2BVxs106bgLSVDQtB3lzlff1zc15byF1Lm4juzSA+5pJ24UBQcd5nLEI4DcQ9Y6/g1if0qbs9zJsb/a/9Lh4SoQXENp8t5Ta/IQCUoDw1H144cGkUIDrSjhdm9kAOf006GGU05g6sFFjq2gNj5Bl4kbvf7G6IAK3sp8DfNAAJtImAdNkvuQfQ3CpOjNOaFnn/h3oRl7fxyjWXYg7O1YHtt9sTG9xgDnm+xbfrsRWztOHA4I0/TmM/lThzEWN5Gqh06lYSTVUf0fgJJltmvDmzlyDITRYYr1yRu2zSUBEISC1kToipJWKPi7rWOpTG/N85wlUgIsba+/Tf5BiJNA4C+DKbDhRfDxg9fkJZyjHuFVBKOWr0KYz4ZIeZCsHjPPgKZG5SPQ==;kW2iICB1TkE8P6uhtld+eg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:45:00Z
 originalUrl: "https://www.tvtechnology.com/news/ai-carves-an-easier-path-for-media-creators"
 webUrl: "https://www.tvtechnology.com/news/ai-carves-an-easier-path-for-media-creators"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: TV Technology
@@ -14,7 +17,15 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AWS AI
+  - Machine Learning
 
-secured: "UCyktj7Z5iZkRsfxxS3zUuqy2WUMSxz9P1T4yhOQtJ00WY5fh2ZZ93jp0i45S59VN73CdagWKAhclqVmk0f+oxO8saGyAKzPA469Aa6yr86DL8YelwZqkuRtWTxprpoJ/tn7HTZLwWPCL88EnbaiZz8zshfnTVu8Q2aZGf/E3+PvkO0LocNNrEp6nrMQb6bByLclJeF1dRvHe2kLWs2U+zCtQlJyJrJSOsgJVlmKOUzygDzVN5xXFXpkvIJoXJom/YMF5dFk8mSlU4tiNBdc1nPJGzWgY7AnGQ+CaX23XKUAXvYgLjoErFBYGM8ckAndNH2zAph7ILxuI6LYKj7Rd4JrXeFSX9KDg1gj3RcVRm0VLdPvZiaKAjUlcaut6r5JFzFWyuVTV9qDhSovx405VaS5UxXufDUOpQjP0bTZjf/FiHhIzmkw+onWhNynZ7/fS1//WvyA41GhHC/73k8JR65vMuFwQozeNhoK94gCFvoE4Eux4GoirpGHT4x0NIileJjhjtqeq03RNeO8Uw1OxA==;60zRbJWHwDD6S9K3WY5P6w=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/A89qDFQSheec7vTBDNJc4d-1200-80.jpg"
+    width: 1000
+    height: 618
+    isCached: true
+
+secured: "5NfOUgZ1Fs0/IjMVvRz17hRaU6ws1lUEYj5jos/EtRONH0V4S31w7h94PgxIu36N/9ss3vZWsv7yXO/PODWs288hn7or1wkf69w6sGS9kUoAV3abIbqTnl9dGbVlNv0Z9uwLgB6ZFoGwEelA1aLwu/3/bp+PjaXgL2tXgbUyYb4i6PdOh8Oy/8qBeuFUHZpIO9IqMT1Uz9rNEObnOhh1ceYvuapdT2jRldx/ERbpeUrv+wxOM9FO2mCigPiVmOA5rQLkRzQgGCR11wfUeH+giWPvWc4sHc+RS4ChaH0MJiwlWMAc/iOvxEesTuHJL0pBPJQ7+6x/hPaM9bYMJdTgx8jpirztSosrJiLLgSXZEzc=;PDJ1IPD1DbdTJVF6n8k1uw=="
 ---
 

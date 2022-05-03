@@ -2,6 +2,250 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-building-the-future-of-ai-powered-retail-starts-with-trust.md",
+      "title": "Building The Future Of AI-Powered Retail Starts With Trust",
+      "excerpt": "This must give you a unique vantage point on data-centric AI, per your recent blog ... At the outset, I always start with the question: do we need machine learning at all to solve this problem, or is there an easier way to fix it that we should implement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62704c8d931d4d3a63b1ef88/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
+      "publishedDateTime": "2022-05-03T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-soundcloud-acquires-musiio-an-ai-music-curator-to-improve-discovery.md",
+      "title": "SoundCloud acquires Musiio, an AI music curator, to improve discovery",
+      "excerpt": "An online audio sharing platform and streamer, SoundCloud has acquired Musiio, an AI music curation company. With Musiio’s team and technology, SoundCloud plans to strengthen its music discovery ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
+      "originalUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
+      "publishedDateTime": "2022-05-03T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-elon-musk-boasts-teslas-optimus-robots-will-have-full-artificial-intelligence.md",
+      "title": "Elon Musk boasts Tesla's 'Optimus' robots will have full artificial intelligence",
+      "excerpt": "But according to Tesla boss Elon Musk, his humanoid robot, Optimus, is coming soon – and it might also contain the first true Artificial Intelligence. “Tesla AI might play a role in AGI,” the multi-billionaire tweeted, “given that it trains against ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543",
+      "originalUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dailystar.co.uk/incoming/article26859846.ece/ALTERNATES/s615/0_FILE-PHOTO-Tesla-CEO-Elon-Musk-reveals-the-Tesla-Energy-Powerwall-Home-Battery-during-an-event-in-H.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543.amp",
+      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543.amp",
+      "publishedDateTime": "2022-05-03T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Star",
+        "domain": "dailystar.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai.md",
+      "title": "IBM Watson Health’s Challenges Tell Us More About Healthcare Data Than It Does About AI",
+      "excerpt": "CEO of 1upHealth, a cloud-based data interoperability platform built on FHIR that unlocks healthcare data to help improve outcomes. IBM Watson Health started its “life” with big aspirations, great intent and a lot of fanfare. After years of effort with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-the-rise-of-artificial-intelligence-will-robots-actually-replace-people.md",
+      "title": "The Rise Of Artificial Intelligence: Will Robots Actually Replace People?",
+      "excerpt": "Robots and artificial intelligence (AI) are expected to permeate our daily lives by 2025. This could have huge implications on several business sectors, most notably health care, customer service, and logistics. Already, AI is responsible for medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
+      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e432e1ba854780006b10cf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
+      "publishedDateTime": "2022-05-03T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short.md",
       "title": "How To Adopt AI-Based Business Intelligence Solutions When Traditional Dashboards Fall Short",
       "excerpt": "Business leaders must consider leveraging AI to monitor and learn the behavior of data in real ... The right product manager will be able to align with data scientists and translate expectations and results to management, bridging the gap between the ...",
@@ -54,6 +298,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-03-hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber.md",
+      "title": "Hetz Ventures closes third fund of $123M to focus on DevOps tools, Open Source, Fintech and Cyber",
+      "excerpt": "Focusing on seed and pre-seed investments, Hetz has previously backed Granulate (acquired by Intel last month), Trigo, Retrain.ai, Blink Ops ... Enterprise/Data Software, Fintech and Cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/",
+      "originalUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Hetz-Ventures-Full-Team-April-2022.jpg?w=1024",
+          "width": 1024,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/amp/",
+      "publishedDateTime": "2022-05-03T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
       "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
       "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics, artificial intelligence, and healthcare technology.",
@@ -62,18 +358,9 @@
       "originalUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 105,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-426610.jpeg",
-          "width": 3001,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -103,8 +390,7 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Healthcare",
-        "Facebook AI"
+        "AI in Healthcare"
       ]
     },
     {
@@ -148,58 +434,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-what-you-need-to-know-before-you-start-working-with-artificial-intelligence.md",
-      "title": "What You Need To Know Before You Start Working With Artificial Intelligence",
-      "excerpt": "The first principle is to start with a strategy. Simply put, this means understanding what you are trying to achieve. AI technologies are tools that are deployed tactically to achieve strategic objectives. Your strategy should be in line with your business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6270afa356fe8039a23aa466/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-05-02T21:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -262,7 +496,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/02/2307940/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -469,7 +703,7 @@
       "originalUrl": "https://www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -500,6 +734,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-advice-for-deploying-ai-in-production-environments.md",
+      "title": "Advice for deploying AI in production environments",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/",
+      "originalUrl": "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/",
+      "publishedDateTime": "2022-05-02T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -607,7 +892,7 @@
       "originalUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -693,7 +978,7 @@
       "originalUrl": "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -915,274 +1200,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-healthcare-ethics-in-ai-can-software-make-ethical-decisions.md",
-      "title": "Healthcare Ethics In AI: Can Software Make Ethical Decisions?",
-      "excerpt": "they must abide by basic principles of medical ethics. Can machines behave ethically, either with or without human oversight? It's a question without an easy answer. To facilitate discussion, let's explore a few topics related to AI-based clinical tools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f4e47455e0c17f79712a595/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/amp/",
-      "publishedDateTime": "2022-05-02T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-can-standards-help-a-cio-address-aiml-risks.md",
-      "title": "Can standards help a CIO address AI/ML risks?",
-      "excerpt": "As more and more organizations develop and implement Artificial Intelligence (AI) or Machine Learning (ML) applications, questions about the reliability of the results are increasing. Some high-profile AI/ML lapses risk giving this technology a bad name.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-ml-risks/480367",
-      "originalUrl": "https://www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-ml-risks/480367",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-1244482898-1.jpg",
-          "width": 797,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-ml-risks/480367?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/can-standards-help-a-cio-address-ai-ml-risks/480367?amp=1",
-      "publishedDateTime": "2022-05-02T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount.md",
-      "title": "AI-powered voice solutions provider for healthcare Suki to double India headcount",
-      "excerpt": "“We have to be very, very highly efficient and accurate for healthcare. We ended up actually building a medically tuned speech recognition system, a medically tuned command, understander or intent recognizer. Our goal is to make healthcare ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/companies/9gvchh/article65375375.ece/alternates/LANDSCAPE_615/Punit%20Soni.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece/amp/",
-      "publishedDateTime": "2022-05-02T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-c3ai-is-this-artificial-intelligence-stock-a-buy.md",
-      "title": "C3.ai: Is This Artificial Intelligence Stock A Buy?",
-      "excerpt": "C3.ai is showing substantial revenue and customer growth. The company is doing a great job at penetrating its existing consumer base. Industry growth trends look favorable but short-term market ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "originalUrl": "https://seekingalpha.com/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319573751/image_1319573751.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "publishedDateTime": "2022-05-02T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-ai-the-somnium-files-nirvana-initiative-new-characters-shared.md",
-      "title": "AI: The Somnium Files – nirvanA Initiative New Characters Shared",
-      "excerpt": "This marked the start of the “Half-Body Serial Killings ... She is a returning character from AI: The Somnium Files. She belongs to the talent agency Lemniscate and has a love of the occult and urban legends. Like Kizuna, she is a senior at Sekiba ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/",
-      "originalUrl": "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3fd5j8wprxn3h.cloudfront.net/wp-content/uploads/2022/05/AI-The-Somnium-Files-nirvanA-Initiative-New-Characters.png",
-          "width": 710,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/amp/",
-      "cdnAmpWebUrl": "https://www-siliconera-com.cdn.ampproject.org/c/s/www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/amp/",
-      "publishedDateTime": "2022-05-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Siliconera",
-        "domain": "siliconera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-meta-building-ai-that-processes-speech-text-as-humans-do.md",
-      "title": "Meta building AI that processes speech & text as humans do",
-      "excerpt": "New Delhi: Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with ...",
-      "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do",
-      "originalUrl": "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://telanganatoday.com/wp-content/uploads/2022/05/Meta-building-AI-that-processes-speech-text-as-humans-do-831x450.jpg",
-          "width": 831,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp",
-      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp",
-      "publishedDateTime": "2022-05-02T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

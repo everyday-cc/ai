@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-produc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: VentureBeat
@@ -30,39 +30,46 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and video are redefining talent recruitment"
+  - title: "VFunction deploys AI to improve code and fix technical debt"
     excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-04-28T21:00:00Z
-    webUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/"
-    ampWebUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
+    publishedDateTime: 2022-05-03T12:00:00Z
+    webUrl: "https://venturebeat.com/2022/05/03/vfunction-deploys-ai-to-improve-code-and-fix-technical-debt/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 47
+  - title: "The Benefits of AI In Construction"
+    excerpt: "Historical data such as planned start and end dates are used by predictive models ... intelligence company launched in 2017 with the promise that its robots and artificial intelligence hold the key to solving late and over budget construction projects."
+    publishedDateTime: 2022-04-29T20:41:00Z
+    webUrl: "https://www.enr.com/articles/54037-the-benefits-of-ai-in-construction"
+    type: article
+    provider:
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 41
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design8.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
+      - url: "https://www.enr.com/ext/resources/2022/04/29/The-Benefits-of-AI-In-Construction-cover-image.jpg?height=635&t=1651260664&width=1200"
+        width: 900
+        height: 550
         isCached: true
-  - title: "WCG and Deep 6 AI Announce Best-In-Class Partnership to Enable Faster, Smarter Clinical Trial Patient Recruitment"
-    excerpt: "May 2, 2022 /PRNewswire/ -- WCG and Deep 6 AI today announced that they are working together to drive more targeted patient recruitment in clinical trials and accelerate enrollment in vital ..."
-    publishedDateTime: 2022-05-02T12:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wcg-and-deep-6-ai-announce-best-in-class-partnership-to-enable-faster-smarter-clinical-trial-patient-recruitment-1031408265"
+  - title: "Best Practices for Health Care AI Selection"
+    excerpt: "Researchers at the Duke-Margolis Center for Health Policy explored how health care systems choose which specific artificial intelligence tools they use for improving population and individual health. Duke-Margolis’ Digital Health Policy Fellow describes ..."
+    publishedDateTime: 2022-05-02T13:03:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0139"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
-  - title: "JOINT ARTIFICIAL INTELLIGENCE CENTER"
-    excerpt: "Prior to joining the CIA, Mulchandani most recently served as the CTO and Acting Director of DoD's Joint Artificial Intelligence Center. He also co-founded and was CEO of several successful startups- Oblix (acquired by Oracle), Determina (acquired by ..."
-    publishedDateTime: 2022-05-01T15:34:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/joint-artificial-intelligence-center"
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 19
+  - title: "Being AI SAVY drives exceptional service in a digital environment"
+    excerpt: "When it comes to customer service, expectations have never been higher, said IBM AI expert Brian Loveys. “Nobody wants to wait,” he said of today’s self-serve, do-it-yourself consumer. “But the hard reality is that there are simply not enough ..."
+    publishedDateTime: 2022-04-29T19:27:00Z
+    webUrl: "https://www.itworldcanada.com/article/being-ai-savy-drives-exceptional-service-in-a-digital-environment/481115"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: IT World Canada
+      domain: itworldcanada.com
     quality: 17
 
 secured: "ykvP261pm1UHVSJPAnAUndtpqwEZlXK9cG+1xyQhFc97JGuts4oZEGfM4utY6lEkAakHr3mcVqbdUyFcNsVa15fvYwvfbGi40ktuaYAW+SVt+2s057Id/g04H1jjIvfZt7x546upZfwfUB7YOWfT7sRNGh2XDJnvtxDvNOjtha4hlBAPIzB9z0k/Kh6jqR29rTZ8IJ9uo3DzEWj+QbNjcxbgd2+zWniHLWAcnRmmi0NsgVx2iPrXP57JIPkMA5OL3+x0ZeDKxwwb2l2Yxciw0KIi1/lTjRfSc3wqfRDH1jjVHb3Fi8ZRBuHE66DjNpA0J6MoE39iPJAtiWJfZMG7/dGVD8CToBSVL3wNjOJ+rEkj6N0Al1t16BWGasovPskI5QaNAGYYIFEp5bSe+zZKFBR8xm4bOhPDRtsKc5jGUyivfEBWFLSDn7CX4lvoxCLO2bf9VUSOl4nGpONJd4CezEt1DzbezJM7kuvmffEAURgQFjDhc9c5Rh/kqT8dmLtx2AOvMkpoS61BPRRxYLWmIw==;ILN+5rm8o/Ze8Y+Cn2Txeg=="

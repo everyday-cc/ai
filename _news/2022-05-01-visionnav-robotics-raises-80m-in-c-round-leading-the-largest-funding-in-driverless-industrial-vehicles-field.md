@@ -98,20 +98,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Ditch the driver: U.S. and China race to make self-driving taxis a reality"
-    excerpt: "China has passed a major mile marker on the road to commercializing self-driving technology: On Thursday, Beijing granted internet giant Baidu the country's first license to operate fully autonomous taxi services."
-    publishedDateTime: 2022-04-28T21:00:00Z
-    webUrl: "https://asia.nikkei.com/Business/Business-Spotlight/Ditch-the-driver-U.S.-and-China-race-to-make-self-driving-taxis-a-reality"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 22
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F7%252F3%252F0%252F40150377-1-eng-GB%252F%25E5%2590%258D%25E7%25A7%25B0%25E6%259C%25AA%25E8%25A8%25AD%25E5%25AE%259A%25202.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "ZheAM4bfMtKiUGmSykOFzdrxydjAJRVvz9ir2IhCL8PVj9Dby7UP9lrZYar/e4KFZyl85rmCcBDWyL7aHaI+pn1CZ/8MRPvW8Z/yzTV5o2rRIRg04S+2LIZStPMYJiB5lmyuakhgfSnk4TaCEL8G6u2dz/n7Qk0Ru7ztIvtipht2mB1LY9OT2qXxo/F5GjnJqzj04YJRpgk/X9trdvgLJPNwkANYVranNx1PqQfornahXolvR2NmVp8gRpDfiJrgzswU2as2lPE27oCBZJPv0dj5A28PrhQf9ZTMY6y+pzHBd8X1mzJMm574S0znsxR11RQpKlIYoep68HLETKJUYnnA2KEvxO/01vAEJkRpj34=;u8KlIeKJgCwNjb2b4kr1wg=="
 ---

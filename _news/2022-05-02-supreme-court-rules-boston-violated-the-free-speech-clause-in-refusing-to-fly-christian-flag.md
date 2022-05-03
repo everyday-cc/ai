@@ -59,6 +59,15 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Unanimous SCOTUS Flies Flag for Free Speech in Case Against City of Boston"
+    excerpt: "It may not exclude speech based on ‘religious viewpoint;' doing so ... only chaos — and “new business for lawyers and judges.” Despite the court’s recognition of Lemon’s many problems, and what Gorsuch called the court’s abandonment ..."
+    publishedDateTime: 2022-05-03T15:40:00Z
+    webUrl: "https://www.cnsnews.com/commentary/sarah-parshall-perry/unanimous-scotus-flies-flag-free-speech-case-against-city-boston"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 17
 
 secured: "npKuxt2I9JLhe2QkxpbL89RXNPNgNAuas+BcFHgM96WO9v2IzVSVA7r3bLuGcpZ/5lyi2Y3uxi6ooi+VbHSyF2ZAaJ4LL+V0K3uFvcqnx/HeIXeGNQu2Fnwv2wH7zb11hJNqWZZNrm64mteLEGO45b4FaQ9F8LQNZ6BHgWJcDuuDSGFFQUFMyOWFzpSTZM5Cc/6KVPeZ6Dw4U/WspqNs7dWKDBoSCGRJq1S02KNYaq6FQ/uj/vFyu6YwZZcLwhx4MYyiUOdCKu6efViqOZlkuMhObl9VRkAo9Zl0NhV3Ox7uVOmn6HiJqGNIG+JTCc1Niq/GBvl3gkAGfY4h6cYS0H6c+zmnIEaTDZVUEceZD8bXZmmodjF9aoB4N81u9Z8szOndvB2OkBG0zsyTMLLJTV/xx79BeVrXGZUqApCV1g7xxjN3Zq2lpwnCVf71jvubW11PYmpE4pvAjUCQBBcwzGC6jRWYRE+zvRf5fcyFvbqi8sixHXQqIhv8XgHC2pljTs9BQyVvdA64UzJTNlEv+g==;m9D1it0WnqKhsx5l30T/9A=="
 ---

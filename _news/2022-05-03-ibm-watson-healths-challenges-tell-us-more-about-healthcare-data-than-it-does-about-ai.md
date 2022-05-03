@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:38:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai/"
 type: article
+quality: 73
+heat: 73
+published: true
 
 provider:
   name: Forbes

@@ -2,6 +2,292 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-04-15-ai-is-mastering-language-should-we-trust-what-it-says.md",
+      "title": "A.I. Is Mastering Language. Should We Trust What It Says?",
+      "excerpt": "OpenAI’s GPT-3 and other neural nets can now write original prose with mind-boggling fluency — a development that could have profound implications for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
+      "originalUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/04/17/magazine/17mag-openai-promo/17mag-openai-promo-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/15/magazine/ai-language.amp.html",
+      "publishedDateTime": "2022-04-15T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-ai-in-ctv-adtech-streamlining-the-ad-bidding-process.md",
+      "title": "AI In CTV AdTech: Streamlining The Ad Bidding Process",
+      "excerpt": "AI already plays an integral role in advertising technology, facilitating processes that human marketers are incapable of performing themselves at the scale modern marketing platforms require.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60351bd94012479d5761ba1e/0x0.jpg?format=jpg&width=1200",
+          "width": 612,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/amp/",
+      "publishedDateTime": "2022-04-15T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-how-fintech-can-help-you-manage-your-personal-finances.md",
+      "title": "How Fintech Can Help You Manage Your Personal Finances",
+      "excerpt": "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/424896",
+      "originalUrl": "https://www.entrepreneur.com/article/424896",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg",
+          "width": 1024,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-kin-carta-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization.md",
+      "title": "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization",
+      "excerpt": "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-cloud-computing-78e77dddf76e28b21fd46088650e9fba",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-cloud-computing-78e77dddf76e28b21fd46088650e9fba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-15T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station.md",
+      "title": "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station",
+      "excerpt": "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial recognition security software, FaceMe® Security. FaceMe Security now integrates with AXIS Communications’ AXIS Camera Station VMS (video management software),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-software-cddd904b0d6b46ecb76b17445e7e171a",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-software-cddd904b0d6b46ecb76b17445e7e171a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-15T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-ai-helps-teachers-spot-students-with-learning-difficulties.md",
+      "title": "AI Helps Teachers Spot Students With Learning Difficulties",
+      "excerpt": "Artificial intelligence helps teachers identify which of their students have learning difficulties, according to a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/",
+      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62587506d54fb4ce7f4f6c3f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/amp/",
+      "publishedDateTime": "2022-04-15T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit.md",
       "title": "FLEX LOGIX TO SPEAK ON AI INFERENCE AT THE LINLEY SPRING PROCESSOR CONFERENCE AND COMPUTER VISION SUMMIT",
       "excerpt": "Flex Logix is a reconfigurable computing company providing AI inference and eFPGA solutions based on software, systems and silicon. Its InferX X1 is the industry's most-efficient AI edge ...",
@@ -869,275 +1155,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-ai-week-brings-together-the-world-ai-community.md",
-      "title": "AI Week brings together the world AI community",
-      "excerpt": "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
-      "originalUrl": "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wfla.com/wp-content/uploads/sites/71/2022/04/Truck-explosion.jpg?w=2000&#038;ssl=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFLA",
-        "domain": "wfla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-has-this-startup-cracked-the-code-on-ai-powered-design.md",
-      "title": "Has this startup cracked the code on AI-powered design?",
-      "excerpt": "AI is coming to the design industry. Actually, it’s already here. The past few years have seen a range of players, from small startups to big institutions,",
-      "sourceUrl": null,
-      "webUrl": "https://businessofhome.com/articles/has-this-startup-cracked-the-code-on-ai-powered-design",
-      "originalUrl": "https://businessofhome.com/articles/has-this-startup-cracked-the-code-on-ai-powered-design",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/editoratlarge-production/images/11413/large169/Screen_Shot_2022-04-14_at_5.46.45_PM.png?1649973138",
-          "width": 1220,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business of Home",
-        "domain": "businessofhome.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-house-panels-probe-government-use-of-facial-recognition-software-following-security-concerns.md",
-      "title": "House panels probe government use of facial recognition software following security concerns",
-      "excerpt": "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "originalUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "cdnAmpWebUrl": "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "publishedDateTime": "2022-04-14T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCCI Des Moines",
-        "domain": "kcci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml.md",
-      "title": "Upshot Deepens Data and Machine Learning Bench, Hires Head of Data & ML",
-      "excerpt": "The blockchain-based, machine learning-powered NFT appraisal platform raised a $22M Series A2 round last month to fund R&D at the intersection of NFTs & DeFi NEW YORK–(BUSINESS WIRE)–Upshot, a blockchain-based protocol providing industry-leading non ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/",
-      "originalUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/amp/",
-      "publishedDateTime": "2022-04-14T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-show-us-your-robots-at-tc-sessions-robotics-2022.md",
-      "title": "Show us your robots at TC Sessions: Robotics 2022",
-      "excerpt": "It’s time to gather your robots and get ready for a high-tech show-and-tell at TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston, Massachusetts. Join more than 2,000 other brilliant,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/",
-      "originalUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628-1.png?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/",
-      "publishedDateTime": "2022-04-14T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people.md",
-      "title": "If You Want to Succeed With Artificial Intelligence in Marketing, Invest in People",
-      "excerpt": "While AI offers benefits, optimizing automation is only half the job. Marketing won’t deliver on AI’s promise unless the human side of the equation is given equal attention. Because business value increasingly depends on human factors including agility,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/014241e84a4e44bd907eb47e9b299287.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/",
-      "publishedDateTime": "2022-04-14T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],

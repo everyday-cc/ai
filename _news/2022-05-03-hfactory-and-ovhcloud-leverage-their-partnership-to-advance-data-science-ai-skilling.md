@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-03T09:15:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hfactory-and-ovhcloud-leverage-their-partnership-to-advance-data-science-ai-skilling/article_6b28fe33-fe89-5b64-b3ec-5b7863233884.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hfactory-and-ovhcloud-leverage-their-partnership-to-advance-data-science-ai-skilling/article_6b28fe33-fe89-5b64-b3ec-5b7863233884.html"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:

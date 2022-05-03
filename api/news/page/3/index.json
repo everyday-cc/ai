@@ -2,6 +2,290 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-29-breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai.md",
+      "title": "Breaking Down Silos To Create A 360-Degree Total Experience Strategy Through Conversational AI",
+      "excerpt": "Raghu Ravinutala is CEO of leading CX automation platform Yellow.ai, writing about customer experience (CX), AI, conversational AI and more. Over the past two years, we have seen customer experience management become a primary barometer of business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626a938f149fc7a7c9b6f347/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/amp/",
+      "publishedDateTime": "2022-04-29T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-meet-flamingo-deepminds-latest-open-ended-ai.md",
+      "title": "Meet Flamingo, Deepmind's latest open-ended AI",
+      "excerpt": "Google's Deepmind has published a paper proposing a family of machine learning models with the aim of doing more work with far less costly and time-consuming training. The upside of that is, the tech giant claims, massive cost savings as training is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/29/flamingo_deepmind_ai/",
+      "originalUrl": "https://www.theregister.com/2022/04/29/flamingo_deepmind_ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/29/shutterstock_flamingo2.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/",
+      "publishedDateTime": "2022-04-29T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-enterprise-use-cases-for-computer-vision.md",
+      "title": "Enterprise Use Cases For Computer Vision",
+      "excerpt": "Manish Garg is the Co-founder and Chief Product Officer at Skan.ai, a computer-vision-based process intelligence platform. Computer vision conjures up thoughts of autonomous vehicles and facial recognition for many of us. Indeed, billions of dollars have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,3375,x0,y240,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "publishedDateTime": "2022-04-29T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-baidu-ponyai-get-chinas-first-commercial-driverless-robotaxi-permits.md",
+      "title": "Baidu & Pony.AI get China’s first commercial driverless robotaxi permits",
+      "excerpt": "Baidu and Pony.ai are two Chinese companies that have been ... Previous permits relate to testing the self-driving vehicles without a safety driver in the vehicle. China has seen a raft of self-driving services in several cities across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/",
+      "originalUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/01/Baidu-Apollo.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1",
+      "publishedDateTime": "2022-04-29T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-soundhound-ai-stock-slides-7-in-market-debut-following-spac-merger.md",
+      "title": "SoundHound AI stock slides 7% in market debut following SPAC merger",
+      "excerpt": "Newly public SoundHound AI (SOUN) saw its shares slide 7% during their market debut on Thursday following the company’s merger with SPAC Archimedes Tech SPAC Partners. Shares of SoundHound ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
+      "originalUrl": "https://seekingalpha.com/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1332332945/image_1332332945.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
+      "publishedDateTime": "2022-04-28T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-robotics-in-early-education-is-important-for-a-stem-future.md",
+      "title": "Robotics in Early Education is Important for a STEM Future",
+      "excerpt": "QTrobot, created by AI startup LuxAI, is specifically designed for autism students to impart knowledge through engagement sessions. Someday, Artificially Intelligent Robots may be able to decipher their language and enable meaningful learning patterns in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioapplications.com/news/robotics-in-early-education-is-important-for-a-stem-future-nid-9812.html",
+      "originalUrl": "https://www.cioapplications.com/news/robotics-in-early-education-is-important-for-a-stem-future-nid-9812.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/4xm0r450308cioapp.jpg",
+          "width": 450,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.md",
       "title": "Intel warns of chip shortages due to Chinese COVID lockdowns",
       "excerpt": "Intel’s Datacenter and AI Group, its second largest business group ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite.",
@@ -50,48 +334,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-ai-system-can-enhance-images-of-mouse-brain-cells-in-action.md",
-      "title": "AI system can enhance images of mouse brain cells in action",
-      "excerpt": "Johns Hopkins biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes, make it possible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx",
-      "publishedDateTime": "2022-04-28T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -975,258 +1217,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022.md",
-      "title": "CMU’s Matt Johnson-Roberson and MIT’s Daniela Rus will talk higher-education at TC Sessions: Robotics 2022",
-      "excerpt": "Robotics technology, currently a $45.5 billion global market, has had an enormous impact on countless industries, including agtech, automotive, healthcare, labor, warehousing and logistics. Thanks to advances in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Johnson_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/amp/",
-      "publishedDateTime": "2022-04-28T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-emotion-ais-risks-and-rewards-4-tips-to-use-it-responsibly.md",
-      "title": "Emotion AI’s risks and rewards: 4 tips to use it responsibly",
-      "excerpt": "Over the past two weeks, emotions have run high around the evolution and use of emotion AI, which includes technologies such as voice-based emotion analysis and computer vision-based facial expression detection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1198221768.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/amp/",
-      "publishedDateTime": "2022-04-28T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-facebook-parent-meta-is-studying-the-human-brain-to-improve-ai.md",
-      "title": "Facebook Parent Meta Is Studying the Human Brain to Improve AI",
-      "excerpt": "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
-      "originalUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-trades-union-chief-warns-on-ai-workplace-changes.md",
-      "title": "Trades union chief warns on AI workplace changes",
-      "excerpt": "The general secretary of the UK Trades Union Congress (TUC) has told the BBC that with the rise of Artificial Intelligence in the workplace, employment rights have to keep pace with big changes. \"So often we see those big decisions being taken by [employment] software that has discrimination written in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/business-61255405",
-      "originalUrl": "https://www.bbc.com/news/av/business-61255405",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1F44/production/_124340080_p0c3qnf1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-payroll-provider-symmetricalai-nabs-185m-to-streamline-employee-payouts.md",
-      "title": "Payroll provider Symmetrical.ai nabs $18.5M to streamline employee payouts",
-      "excerpt": "Symmetrical.ai, a payroll provider developing a platform to streamline processes around employee payouts, has raised $18.5 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-874346900.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/amp/",
-      "publishedDateTime": "2022-04-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

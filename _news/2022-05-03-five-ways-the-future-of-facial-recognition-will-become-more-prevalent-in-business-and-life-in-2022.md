@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/five-ways-the-future-of-facial-recognition-will-become-more-prevalent-in-business-and-life-in-2022/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/five-ways-the-future-of-facial-recognition-will-become-more-prevalent-in-business-and-life-in-2022/"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Forbes

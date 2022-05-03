@@ -33,6 +33,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Microsoft to ax Azure Video Analyzer in November"
+    excerpt: "Microsoft's Azure Video Analyzer service is being put out to pasture, with its termination notice arriving less than a year after the preview was unveiled at the company's 2021 Build event. The shutters will be pulled down for good on November 30 and ..."
+    publishedDateTime: 2022-05-03T15:00:00Z
+    webUrl: "https://www.theregister.com/2022/05/03/azure_video_analyzer_retired/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/03/azure_video_analyzer_retired/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/03/azure_video_analyzer_retired/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 74
+    images:
+      - url: "https://regmedia.co.uk/2021/05/25/azure.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Digital Human Avatar Market Giants Spending Is Going To Boom | Microsoft, UneeQ, DeepBrain AI"
     excerpt: "On 16th September 2021, Deepbrain AI (formerly Moneybrain), a conversational AI startup based in Seoul, South Korea, raised USD44 million in a Series B round led by Korea Development Bank at a post-money valuation of USD180 million. and In August 2021 ..."
     publishedDateTime: 2022-04-29T08:25:00Z

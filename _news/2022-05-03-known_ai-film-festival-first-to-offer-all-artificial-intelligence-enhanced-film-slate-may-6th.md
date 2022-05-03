@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:30:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: WFMZ-TV
@@ -14,6 +17,12 @@ provider:
 topics:
   - AI
 
-secured: "lV+Wr7t1DC9+cV4405xqK7KyvqcI6J9l9zKuSph3ETjlVSwnWFvG7M11dwyRht9DygYBuuLW6k1D+1iESWERM5Zj5hqHz4nCCgadzFdv8ou5QypJF7zM/FNC6VDBriSBNY3Vl9pxJ/VUdU18CTIMKLeh5dggZAFMysEXAxAZGWpdy8try8Z7x9MAs3xSs3lmh9KpP+qek3aivdZ+uUyXRQqxwe5PGMhSNFbkFRPgaOh6+8V0/cMCoNgm/yy2p7IOS4NxGMyoYt73W/VI5exDhasjaQl4qAmEfohAOABxBqAKHg0Mtt+nnY3thUly3SrYJVsVz4J6mIlyGLpOSmu3ZbYTi+DExk2vEjfdiIj47g4wUkKbFzE+tOaz6FY3FPL7xRjkErQK7rz3tddp7kF/S0CvYW+OCQsRjZ5pjf/akjCWyxofPDjBVbp6orzqtWOjicqwwWSz1wO2UYHnghx8Ube+PDxg18SkjM3IUC/cdVNgzb4QSTA+wLJu84WGLQlfUB9p7gbzD2Qqzvnqlx5L2A==;o1rQmrAId7DvWO+NFd79cg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e6/de656e1a-d5ad-5194-afed-dc1fd48b2aca/627120f525d65.image.jpg?crop=1888%2C991%2C0%2C40&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "rJ9RXyPklOqptGKDgIXQedwuTGBvIhs8bFK22AkVEclOGG3P8L0v7hwLYKd48VECSRBcF6cS15RLaqrrgfIyDxIiCNEC+jZngfxVVjaNpnmSJ/Yw6mzF5SRPrjMLxKyzSlzPol3HQFwdeIu/1bGkNpjjOfixB75XMF6ccNxHKLXB5LM6WwSIlYPZK4iIUlCKb5RlWjreXBDej8bc/RmuEEjViRlQkeU39kQpSF9y8q+QLQU2v1ESNFPzpKdIgTtiJC2Xl/hVj/2W2eudoEALf0/AKQcC5uRpZ0Z1axZrrTzYiJkbW2RkjhtD8aTdeEzK+5o2hBl3LT+bokXD7ZTSeZsm0bZZWKCjtw0Nx1eNz2k=;Bc1rHbS4190zmAPRcNezoQ=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T13:36:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-high-speed-package-inspection-startup-spectrohm-raises-2-/2022/05/03/9594534.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-high-speed-package-inspection-startup-spectrohm-raises-2-/2022/05/03/9594534.htm"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: TMCnet

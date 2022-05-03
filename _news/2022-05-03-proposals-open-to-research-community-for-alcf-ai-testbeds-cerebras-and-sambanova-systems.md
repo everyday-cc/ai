@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-02T19:41:00Z
 originalUrl: "https://insidehpc.com/2022/05/proposals-open-to-research-community-for-alcf-ai-testbeds-cerebras-and-sambanova-systems/"
 webUrl: "https://insidehpc.com/2022/05/proposals-open-to-research-community-for-alcf-ai-testbeds-cerebras-and-sambanova-systems/"
 type: article
-quality: 8
-heat: 8
+quality: 10
+heat: 10
 published: false
 
 provider:

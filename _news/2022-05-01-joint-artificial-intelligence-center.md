@@ -18,47 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "How AI and video are redefining talent recruitment"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-04-28T21:00:00Z
-    webUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/"
-    ampWebUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
+  - title: "Advisers to act faster, make better decisions with AI"
+    excerpt: "Dr Catriona Wallace, founder and CEO of ASX-listed company and cognitive virtual assistance provider Flamingo AI, said artificial intelligence holds potential to increase efficiencies and productivity in advice businesses by making them highly automated."
+    publishedDateTime: 2022-05-02T00:14:00Z
+    webUrl: "https://www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai"
+    ampWebUrl: "https://www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai/amp"
+    cdnAmpWebUrl: "https://www-ifa-com-au.cdn.ampproject.org/c/s/www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Independent Financial Adviser
+      domain: ifa.com.au
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design8.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
+      - url: "https://www.ifa.com.au/images/News/Catriona_Wallace_ifa.jpg"
+        width: 600
+        height: 398
         isCached: true
-  - title: "Advice for deploying AI in production environments"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-05-02T21:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/"
-    ampWebUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "WCG and Deep 6 AI Announce Best-In-Class Partnership to Enable Faster, Smarter Clinical Trial Patient Recruitment"
-    excerpt: "May 2, 2022 /PRNewswire/ -- WCG and Deep 6 AI today announced that they are working together to drive more targeted patient recruitment in clinical trials and accelerate enrollment in vital ..."
-    publishedDateTime: 2022-05-02T12:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wcg-and-deep-6-ai-announce-best-in-class-partnership-to-enable-faster-smarter-clinical-trial-patient-recruitment-1031408265"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
 
 secured: "lXCaIhEtALz7ZBgXfYysBCYthcF6cIn0lOlyVVLL1zEZ73ewBUXIlWcYy6tgnNKX9is5LHANvvk6qOgqS2VckmRt9q9zvxrjz6iwgdBwHV4NMwLYeZ1p4PrFxgmozl2ZQrnjUKogXmb11yxrlCbCqhSRbd+LoR4FEOpidKjoc3ntasrXIzySnrIyE0bwKO7MdMPvEvlwkeyp9+DOc9WrobZSqgMivmxwrJBNqbAp6beUyTaGrjBQ42FAdTiO3ApkG4kyOpUlcZmPk+fq87P1eQlveNSwrv69hHzKmAzOLMqH0YNYcE8BZMxr1lwNPbhx+lR78hNTa9GpeIHWAk6lbx5Vywhw3/bA+8W+9C2cesI=;PuCWLQ1OIfUWM4vbqnJGGw=="
 ---

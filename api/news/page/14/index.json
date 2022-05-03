@@ -2,6 +2,229 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-04-19-hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities.md",
+      "title": "Hyundai chooses IonQ's quantum tech to improve its vehicles' object recognition capabilities",
+      "excerpt": "The automaker hopes the quantum machine learning services of IonQ can help it improve its 3D object detection safety systems for drivers and autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
+      "originalUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-afraid-of-public-speaking-this-ai-can-help.md",
+      "title": "Afraid of public speaking? This AI can help",
+      "excerpt": "There's that old Seinfeld joke, the one about public speaking ranking higher than death on people's list of top fears. Seinfeld points out with characteristic deadpan that most funeral attendees would rather be in the casket than give the eulogy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
+      "originalUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ab11aa2d2cce15188b0059a1b92241d6a95f41d9/2022/04/18/55457513-6ed6-4049-9e30-6b232f760de9/conference-crowd.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/",
+      "publishedDateTime": "2022-04-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services.md",
+      "title": "Microsoft Azure UAE Regions launches four new key services",
+      "excerpt": "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE regions. These latest services mean that regional Microsoft Cloud customers now have access to almost all of Azure’s tools,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-uae-regions-launches-four-new-key-services-b3b680ui",
+      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-uae-regions-launches-four-new-key-services-b3b680ui",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-turnbulls-ai-robotics-bet-taps-investors-for-blockbuster-raising.md",
+      "title": "Turnbull’s AI robotics bet taps investors for blockbuster raising",
+      "excerpt": "AI robotics innovator Advanced Navigation has had no trouble finding its path to market. The company, which counts former Prime Minister Malcolm Turnbull as a director, is tapping investors this month to raise between $80 million and $135 million and is expected to have no trouble getting the raise away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.afr.com/street-talk/turnbull-s-ai-robotics-bet-taps-investors-for-blockbuster-raising-20220419-p5aegf",
+      "originalUrl": "https://www.afr.com/street-talk/turnbull-s-ai-robotics-bet-taps-investors-for-blockbuster-raising-20220419-p5aegf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_0.5828%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_405%2C$y_518/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/deb6deddee4d769777d4d19f8c52a0e5d693186d",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-unlearnai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m.md",
+      "title": "Unlearn.AI, a startup developing a ‘digital twin’ service for clinical trials, raises $50M",
+      "excerpt": "That’s perhaps why Unlearn.AI, a startup which today announced that it raised $50 million in a Series B funding round, started with clinical trials. Unlearn’s digital twin product replicates ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/",
+      "originalUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1266157000.webp?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/",
+      "publishedDateTime": "2022-04-19T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-jio-institute-invites-applications-for-pg-courses-in-ai-data-sciences-digital-marketing.md",
       "title": "Jio Institute invites applications for PG courses in AI, data sciences, digital marketing",
       "excerpt": "Jio Institute is a multi-disciplinary higher education institute set up as a philanthropic initiative by Mukesh Ambani's Reliance Industries Ltd. and Reliance Foundation",
@@ -919,241 +1142,6 @@
         "AI",
         "AI Hardware",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
-      "title": "SAS data ethics head named to National AI Advisory Committee",
-      "excerpt": "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg",
-          "width": 320,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-elon-musk-there-will-likely-be-a-humanoid-robot-in-every-home-by-2050.md",
-      "title": "Elon Musk: There will likely be a humanoid robot in every home by 2050",
-      "excerpt": "Tesla CEO Elon Musk thinks that the company will have an interesting prototype sometime this year and something interesting within at least two years.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/robots-musk-in-homes",
-      "originalUrl": "https://interestingengineering.com/robots-musk-in-homes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Xm6lJ5z0OD/sizes/tesla-bot_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/robots-musk-in-homes",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/robots-musk-in-homes",
-      "publishedDateTime": "2022-04-18T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-how-speech-recognition-technology-can-help-providers-achieve-the-quadruple-aim.md",
-      "title": "How Speech Recognition Technology Can Help Providers Achieve the Quadruple Aim",
-      "excerpt": "As healthcare organizations seek to achieve the Quadruple Aim framework, they can rely on speech recognition tools to improve clinicians’ experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim",
-      "originalUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/nurse%20with%20patient.jpg?itok=zutJSDjG",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp",
-      "publishedDateTime": "2022-04-18T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars.md",
-      "title": "AI Ethics And The Acclaimed AI Uncanny Valley, Which Also Rattles AI-Based Self-Driving Cars",
-      "excerpt": "AI ethics has a love-hate relationship with the famous or infamous uncanny valley, which can be particularly explored via the advent of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621d3f718d137bada9d5d84a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-04-18T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-using-an-ai-startup-logistical-problems-may-be-alleviated.md",
-      "title": "Using an AI startup, logistical problems may be alleviated",
-      "excerpt": "Since the start of the Covid-19 outbreak ... There are no easy remedies to the global supply chain issue, of course. AI-powered company Optimal Dynamics secured $33 million in series B funding last week headed by the Westly Group, which is helping ...",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/using-an-ai-startup-logistical-problems-may-be-alleviated/",
-      "originalUrl": "https://bestgamingpro.com/using-an-ai-startup-logistical-problems-may-be-alleviated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/04/AI-startup-helps-tackle-logistics-nightmares.png",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

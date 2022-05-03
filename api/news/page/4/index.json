@@ -2,6 +2,258 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-28-cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022.md",
+      "title": "CMU’s Matt Johnson-Roberson and MIT’s Daniela Rus will talk higher-education at TC Sessions: Robotics 2022",
+      "excerpt": "Robotics technology, currently a $45.5 billion global market, has had an enormous impact on countless industries, including agtech, automotive, healthcare, labor, warehousing and logistics. Thanks to advances in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/",
+      "originalUrl": "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Johnson_1200x628.png?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022/amp/",
+      "publishedDateTime": "2022-04-28T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-emotion-ais-risks-and-rewards-4-tips-to-use-it-responsibly.md",
+      "title": "Emotion AI’s risks and rewards: 4 tips to use it responsibly",
+      "excerpt": "Over the past two weeks, emotions have run high around the evolution and use of emotion AI, which includes technologies such as voice-based emotion analysis and computer vision-based facial expression detection.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1198221768.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/amp/",
+      "publishedDateTime": "2022-04-28T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-facebook-parent-meta-is-studying-the-human-brain-to-improve-ai.md",
+      "title": "Facebook Parent Meta Is Studying the Human Brain to Improve AI",
+      "excerpt": "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
+      "originalUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-trades-union-chief-warns-on-ai-workplace-changes.md",
+      "title": "Trades union chief warns on AI workplace changes",
+      "excerpt": "The general secretary of the UK Trades Union Congress (TUC) has told the BBC that with the rise of Artificial Intelligence in the workplace, employment rights have to keep pace with big changes. \"So often we see those big decisions being taken by [employment] software that has discrimination written in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/business-61255405",
+      "originalUrl": "https://www.bbc.com/news/av/business-61255405",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1F44/production/_124340080_p0c3qnf1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-payroll-provider-symmetricalai-nabs-185m-to-streamline-employee-payouts.md",
+      "title": "Payroll provider Symmetrical.ai nabs $18.5M to streamline employee payouts",
+      "excerpt": "Symmetrical.ai, a payroll provider developing a platform to streamline processes around employee payouts, has raised $18.5 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/",
+      "originalUrl": "https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-874346900.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/amp/",
+      "publishedDateTime": "2022-04-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-synthesis-ai-raises-17m-to-generate-synthetic-data-for-computer-vision.md",
       "title": "Synthesis AI raises $17M to generate synthetic data for computer vision",
       "excerpt": "Synthesis AI, a platform that generates synthetic data primarily for computer vision applications, has raised $17 million in venture funding.",
@@ -945,257 +1197,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-coherent-raises-75m-series-b-to-enable-hybrid-work-era-development.md",
-      "title": "Coherent raises $75M series B to enable hybrid-work era development",
-      "excerpt": "Coherent Spark’s no-code app provides in a few minutes what can take days or weeks using a conventional business software development cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341846254-e1651015028230.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/coherent-raises-75m-series-b-to-enable-hybrid-work-era-development/amp/",
-      "publishedDateTime": "2022-04-27T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-hpe-looks-to-deliver-the-power-of-swarm-learning.md",
-      "title": "HPE looks to deliver the power of ‘swarm learning’",
-      "excerpt": "When applied to intelligent devices operating in the real world, “swarm learning” refers to decentralization. This means that users can share learnings at the edge, or at distributed sites, without moving or exposing data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/swarm.jpg?fit=800%2C531&strip=all",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/hpe-looks-to-deliver-the-power-of-swarm-learning/amp/",
-      "publishedDateTime": "2022-04-27T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27.md",
-      "title": "Artificial Intelligence Chip Market Size, Industry Share, Growth, Trends, Analysis, Key Players and Forecast by 2022-27",
-      "excerpt": "As a result, AI chips find extensive applications in intelligent robots, smartphones, autonomous vehicles, voice recognition, and smart hardware. Artificial Intelligence Chip Market Trends and Drivers: The global artificial intelligence chip market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-industry-share-growth-trends-analysis-key-players-and-forecast-by-2022-27-2022-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.md",
-      "title": "New HPE offerings aim to turbocharge machine-learning implementation",
-      "excerpt": "Machine Learning Development System and Swarm Learning address implementation pain points for enterprise users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
-      "originalUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/17/21/ai_machine-learning_analytics_data-scientist-100777422-large-100914304-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
-      "publishedDateTime": "2022-04-27T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-using-ai-to-diagnose-mild-cognitive-impairment-that-progresses-to-alzheimers.md",
-      "title": "Using AI to diagnose mild cognitive impairment that progresses to Alzheimer's",
-      "excerpt": "Alzheimer's disease is the main cause of dementia worldwide. Although there is no cure, early detection is considered crucial for being able to develop effective treatments that act before its progress is irreversible.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/brain-mri.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-mild-cognitive-impairment-alzheimer.amp",
-      "publishedDateTime": "2022-04-27T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

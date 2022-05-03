@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-03T10:31:00Z
 originalUrl: "https://cacm.acm.org/magazines/2022/5/260356-a-data-driven-exploration-of-the-race-between-human-labor-and-machines-in-the-21st-century/fulltext?mobile=true?mobile=true?mobile=false"
 webUrl: "https://cacm.acm.org/magazines/2022/5/260356-a-data-driven-exploration-of-the-race-between-human-labor-and-machines-in-the-21st-century/fulltext?mobile=true?mobile=true?mobile=false"
 type: article
-quality: 14
-heat: 14
+quality: 18
+heat: 18
 published: false
 
 provider:

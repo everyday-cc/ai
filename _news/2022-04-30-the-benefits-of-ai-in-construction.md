@@ -26,30 +26,48 @@ images:
     isCached: true
 
 related:
-  - title: "AI system can enhance images of mouse brain cells in action"
-    excerpt: "Johns Hopkins biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes, make it possible ..."
-    publishedDateTime: 2022-04-28T23:14:00Z
-    webUrl: "https://www.news-medical.net/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx"
+  - title: "Advice for deploying AI in production environments"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-02T21:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/"
+    ampWebUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Johns Hopkins Engineers Use AI for Deeper Look Into Brains of Mice"
-    excerpt: "A group of biomedical engineers at Johns Hopkins has developed an artificial intelligence (AI) training strategy to gain a deeper understanding of the brains of mice. The new strategy captures images of mouse brain cells as they are active. According to ..."
-    publishedDateTime: 2022-05-01T18:57:00Z
-    webUrl: "https://www.unite.ai/johns-hopkins-engineers-use-ai-for-deeper-look-into-brains-of-mice/"
+  - title: "VFunction deploys AI to improve code and fix technical debt"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-03T12:00:00Z
+    webUrl: "https://venturebeat.com/2022/05/03/vfunction-deploys-ai-to-improve-code-and-fix-technical-debt/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Best Practices for Health Care AI Selection"
+    excerpt: "Researchers at the Duke-Margolis Center for Health Policy explored how health care systems choose which specific artificial intelligence tools they use for improving population and individual health. Duke-Margolis’ Digital Health Policy Fellow describes ..."
+    publishedDateTime: 2022-05-02T13:03:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0139"
+    type: article
+    provider:
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 19
+  - title: "Being AI SAVY drives exceptional service in a digital environment"
+    excerpt: "When it comes to customer service, expectations have never been higher, said IBM AI expert Brian Loveys. “Nobody wants to wait,” he said of today’s self-serve, do-it-yourself consumer. “But the hard reality is that there are simply not enough ..."
+    publishedDateTime: 2022-04-29T19:27:00Z
+    webUrl: "https://www.itworldcanada.com/article/being-ai-savy-drives-exceptional-service-in-a-digital-environment/481115"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
     quality: 17
 
 secured: "SwiL4agAn+GVvNifiD899QzbzPyBu2x7zQwzDTIPI0xF40gwVCxvDaibQRvk+4WmVqPq86rpFEuJx578OyRAldscX2s2NKCy3zOWwaOd/DYqRbQtNf/hawX1wB50MjJ3vi4q9MphY2wbXb/rn7NJ4F/5Lh+2hhMsgJXXFyDU69NytFgaK0dapDzSc66Oopzb3zv/FhURxzXSc1iwYfekKOAS86v9p9hIySbxstB1Bwnmn2Eef5/Nnu/TWz9h3KLGSnBOd+vWbv383lI+XoR2KsgUxYOuw4N86Ume+CSMIWDZoRkVudiKKfooMu/cFkw4zKJY0i+CEyuitEud9XRVgy2U3of2civTl6fVWp61D08=;GUpJsCab40gCBcr3qhOAWQ=="

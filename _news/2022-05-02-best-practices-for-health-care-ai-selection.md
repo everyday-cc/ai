@@ -19,92 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "How AI is helping the supply chains in the healthcare sector"
-    excerpt: "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to comprehend and decipher. It can also be fed ..."
-    publishedDateTime: 2022-05-01T08:56:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124"
+  - title: "Advice for deploying AI in production environments"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-02T21:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/"
+    ampWebUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
     type: article
     provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91232124,imgsize-24178,width-1200,height-628,overlay-ethealthworld/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "Top Applications of Machine Learning in the Healthcare Sector"
-    excerpt: "The expanding number of machine learning applications in healthcare enables the healthcare industry to manage data and improve services properly. Fremont, CA: The healthcare business is critical since it provides treatment to millions of people while ..."
-    publishedDateTime: 2022-04-29T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/top-applications-of-machine-learning-in-the-healthcare-sector-nid-9775.html"
+  - title: "VFunction deploys AI to improve code and fix technical debt"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-03T12:00:00Z
+    webUrl: "https://venturebeat.com/2022/05/03/vfunction-deploys-ai-to-improve-code-and-fix-technical-debt/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 56
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/w7d65450308appcio.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "AI Making Groundbreaking Changes in the Healthcare Sector"
-    excerpt: "Fremont, CA: Artificial intelligence is transforming our lives in a variety of ways, none more so than in the healthcare industry. For instance, there has been an explosion of innovation in digital healthcare technologies over the last decade. Medical ..."
-    publishedDateTime: 2022-04-29T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/ai-making-groundbreaking-changes-in-the-healthcare-sector-nid-9816.html"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "The Benefits of AI In Construction"
+    excerpt: "Historical data such as planned start and end dates are used by predictive models ... intelligence company launched in 2017 with the promise that its robots and artificial intelligence hold the key to solving late and over budget construction projects."
+    publishedDateTime: 2022-04-29T20:41:00Z
+    webUrl: "https://www.enr.com/articles/54037-the-benefits-of-ai-in-construction"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 41
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/eo09n450308cioappli.jpg"
-        width: 450
-        height: 308
+      - url: "https://www.enr.com/ext/resources/2022/04/29/The-Benefits-of-AI-In-Construction-cover-image.jpg?height=635&t=1651260664&width=1200"
+        width: 900
+        height: 550
         isCached: true
-  - title: "How AI is helping to address staffing shortages in healthcare"
-    excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
-    publishedDateTime: 2022-05-02T22:25:00Z
-    webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
+  - title: "Being AI SAVY drives exceptional service in a digital environment"
+    excerpt: "When it comes to customer service, expectations have never been higher, said IBM AI expert Brian Loveys. “Nobody wants to wait,” he said of today’s self-serve, do-it-yourself consumer. “But the hard reality is that there are simply not enough ..."
+    publishedDateTime: 2022-04-29T19:27:00Z
+    webUrl: "https://www.itworldcanada.com/article/being-ai-savy-drives-exceptional-service-in-a-digital-environment/481115"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
-        width: 724
-        height: 483
-        isCached: true
-  - title: "How Advanced Technology Trends are Reshaping Healthcare Sector"
-    excerpt: "Diagnostics, therapy management, and other aspects of healthcare are altered due to AI advancements. Fremont, CA: Artificial intelligence has carved out a strong presence in human civilization and our daily lives during the last two decades. Most of us are ..."
-    publishedDateTime: 2022-04-29T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/how-advanced-technology-trends-are-reshaping-healthcare-sector-nid-9815.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/14dbeUntitled-450.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "How startups are applying AI to ease supply chain disruptions"
-    excerpt: "Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have combined to delay deliveries of everything from bicycles to pet food. In ..."
-    publishedDateTime: 2022-05-03T08:30:00Z
-    webUrl: "https://insideretail.com.au/technology/how-startups-are-applying-ai-to-ease-supply-chain-disruptions-202205"
-    type: article
-    provider:
-      name: insideretail.com.au
-      domain: insideretail.com.au
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/insideretail.com.au/wp-content/uploads/2022/05/Startup-using-AI-.jpg?fit=720%2C400&#038;ssl=1"
-        width: 720
-        height: 400
-        isCached: true
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 17
 
 secured: "aMzIMt3TiG39YrDwYgynpqRWtbacOFXT09sLsRnzsEM4rBPViF/dufpppgrbllCyQUWar/Ha2dwvmzrLCldYLfS4q7Jdhn7E0cMW9zYnGXw1fPniykvDzpHTFyUM4uQGR6tpmCyy14op+s0cvOxgY6SIWhfCfqSZKqBGtXIsUjqSk36MoaRE2jzGnx6BLIBe7nmYjeQqe3BwLybdB0ZupIPZto2l70WPKrmjRg+RdRKfzVgWbi+8e/SbY26zWj601L2O9nQhxULGac+3K/F5Z2aJD3xChDEmD0zLx5EZzqB5R5FtU0c9zmNqDyQUosOJZQlSnXnLLqA+UG2v6sku/n8Z6kH/4+FDwqo2GMybbYU=;ArAkPhJt4JsZAJALOpLLnw=="
 ---

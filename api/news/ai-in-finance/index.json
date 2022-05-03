@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber.md",
+      "title": "Hetz Ventures closes third fund of $123M to focus on DevOps tools, Open Source, Fintech and Cyber",
+      "excerpt": "Focusing on seed and pre-seed investments, Hetz has previously backed Granulate (acquired by Intel last month), Trigo, Retrain.ai, Blink Ops ... Enterprise/Data Software, Fintech and Cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/",
+      "originalUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Hetz-Ventures-Full-Team-April-2022.jpg?w=1024",
+          "width": 1024,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/amp/",
+      "publishedDateTime": "2022-05-03T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-how-fintech-can-help-you-manage-your-personal-finances.md",
       "title": "How Fintech Can Help You Manage Your Personal Finances",
       "excerpt": "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions.",
@@ -1271,49 +1323,6 @@
         "name": "아크로팬",
         "domain": "acrofan.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe.md",
-      "title": "A future without fraud: The latest advances in fintech that keep your money safe",
-      "excerpt": "Technological security advances are being used to fight fraud in the financial industry including AI, biometrics, and virtual credit cards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/17/a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe/",
-      "originalUrl": "https://venturebeat.com/2022/04/17/a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

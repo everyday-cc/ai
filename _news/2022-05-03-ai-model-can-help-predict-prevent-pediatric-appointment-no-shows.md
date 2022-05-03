@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/ai-model-can-help-predict-prevent-pediatric-appointment-no-shows"
 webUrl: "https://healthitanalytics.com/news/ai-model-can-help-predict-prevent-pediatric-appointment-no-shows"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Analytics

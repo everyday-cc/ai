@@ -28,6 +28,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Microsoft to ax Azure Video Analyzer in November"
+    excerpt: "Microsoft's Azure Video Analyzer service is being put out to pasture, with its termination notice arriving less than a year after the preview was unveiled at the company's 2021 Build event. The shutters will be pulled down for good on November 30 and ..."
+    publishedDateTime: 2022-05-03T15:00:00Z
+    webUrl: "https://www.theregister.com/2022/05/03/azure_video_analyzer_retired/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/03/azure_video_analyzer_retired/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/03/azure_video_analyzer_retired/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 74
+    images:
+      - url: "https://regmedia.co.uk/2021/05/25/azure.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "AWS bags victory over Microsoft in fight for $10bn NSA contract"
     excerpt: "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ..."
     publishedDateTime: 2022-04-29T13:11:00Z

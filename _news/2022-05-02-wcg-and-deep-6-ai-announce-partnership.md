@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "WCG and Deep 6 AI Announce Best-In-Class Partnership to Enable Faster, Smarter Clinical Trial Patient Recruitment"
+    excerpt: "May 2, 2022 /PRNewswire/ -- WCG and Deep 6 AI today announced that they are working together to drive more targeted patient recruitment in clinical trials and accelerate enrollment in vital ..."
+    publishedDateTime: 2022-05-02T12:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wcg-and-deep-6-ai-announce-best-in-class-partnership-to-enable-faster-smarter-clinical-trial-patient-recruitment-1031408265"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
   - title: "Ticketing and cashless payments solution Oveit announces partnership with deep-tech company Humans.ai"
     excerpt: "Oveit, ticketing and cashless payments company headquartered in Austin TX, USA, has partnered with Romanian deep-tech startup Humans.ai, for the development of artificial intelligence powered NFTs for live stream shopping. The partnership is the next step ..."
     publishedDateTime: 2022-05-02T09:09:00Z

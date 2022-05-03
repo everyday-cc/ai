@@ -5,7 +5,12 @@ excerpt: "Robots and artificial intelligence (AI) are expected to permeate our d
 publishedDateTime: 2022-05-03T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/"
 webUrl: "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/"
+ampWebUrl: "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/"
 type: article
+quality: 107
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -19,7 +24,14 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
-secured: "YV5qVdFCJmIRSZfcpospk3Lk4s3FbIHGFcabgVn9DD/H4fc5pO/Lu8PSlqjxw4GhvjIyESidxx461d/wBvT46vvG+Ne3Dxm+cnbUeJcdHBLoCifmGricrNBOaeZBcA4OliNv9rYDUk8fcqO982/YQ36EpC29RC8x8X2FI8VVzLS6TX3SGUVK1ihOJgi+nCD+34tY/elVaCKP93dBG5kbL41/xJeXydsmWRZFR2fDrZ0sJPbZhvHu1mXHibuN1OX+bR54Y+T6Rg0XhzcROYkEmD1RbhcHjR0aY2YVIABS9WBIx81we32bkAZpeBYO0pCa6Z3xTt3KqRVGsHZnQWz194Ayiv0ndajEi1zEwIw0bWP7EVwBSz/273/wbMDt5ak7MADLAnfn0quzh3VcQbDgP5LegByeltLt1LISmTPrAuoxAHLM81AHWbPGaMMI2QmRzw0p0+G9+iDdTA3zEz7DBvVd29QUtCQc8juIsIRucShKd3iNYkzdmLaVd9H9EIlMNKj8pHikawinugSXao7YiQ==;mAZmVAHdBiKSX3QkiaFJWg=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/5e432e1ba854780006b10cf4/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 673
+    isCached: true
+
+secured: "aahclsMkbTttwwc9H3HvdkbnRSv2S3gKFOwDUSy+HidlK8pI56cFlHTx6jKQUnX0uoV1AD2xXmwX+2nQSgAY9oyeRYLT+e54BXufY6xxo9BcQjb13BFl9miZLumobWXrd5bCkBztQWqHZbJuAn88ih3AQRmnZYAzmwZ6pV19kbKRClN1moRhY6SBiL46nrE7JA2s2wzMBHrx/f4tmPp6aqyPPUWPLYOi657HNOennD19f95KezQDpRVNl05fGKgrypuj3XCrA3IC/DujRJqWhy4HD4N3kQJ7FRtZc4s2EWZ2wO/dq6UkisWCKPucRJ0vY+xsy4NMIRCO8YNDzWeUD1vXbZkz1BkbGsYQqprUQaU=;quVrCSesSHa0zO6DZr4ksg=="
 ---
 

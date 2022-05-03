@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:32:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-manhattan-associates-inc-8398c579b5e994d6cd540842d0d917a0"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-manhattan-associates-inc-8398c579b5e994d6cd540842d0d917a0"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Associated Press

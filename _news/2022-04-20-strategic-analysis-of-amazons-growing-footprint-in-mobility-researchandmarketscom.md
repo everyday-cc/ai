@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "acvs9wDLdb+vIgk3wirLzzVO9DT0rRDZ9dl+53ffa9bh0UbezLIGCMKoBTHm/vxt8BwFu0VNw5m98wM6ech7OdRFueX+kLgU7k0N4ZDLU/yMW7NKC17K2wveZJ+Y7oLvkuRQpEIp5GBVhIQY5yPj3YgijLSDuLDoq7tgLPI91T8SHm16Qj6uF4U5HUksSspWNBLLe0Ld6GCxzsGIFgqR+vm7S/ZGrk4Fs9w0Dds2YXw7IhrYnrYAdC3pmxK5m6hhFLocdUvgwIZNAaIzMT9M5jCgF1E9aqmBhuCTsgOjw5YBgJ5AlMsQijC8a8LbqeRtP0p5c5HqELWyXUENXLn8135xUlA/FQYnGGQmlCD3VgA=;45LqqTB+FXRZinxBVTCbOQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "Ib7cDjJcneJ9LeAeQZrHfyHh6LoNAo2KqSYrDqb7SBBgoKAHeiUkPG2CzDWZ0sCh4bpiYsmlHoAXwLqAImOly17VTzeR4MCNrny6/FwrWefH1+AR+NNCwsZ7htq7rPCjezanb7xj9kJz7jWv1WRc4q5Wf9jajQj2Dlgtrv9WwpvvJnHCy7Xm/3v2K3zybpqIN76D8YrC+XTQgKA2by6BPer2RDhdK6nek/uM0eGR2KhHhJJRs6Fn3i9I/O6dSalxaZh2hLJdstomTBhf1Y6NHsB12AJ3ttQaaBjXPuRSAnRNZjerQwRBOpHptWPaq0171TIy7rRqjSH9tdicl2bzVoI32ALfhXibhTks51vQqmo=;HetCze3vEXIjcqydeuDGFA=="
 ---
 

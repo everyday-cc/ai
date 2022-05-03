@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/autonomous-land-speed-record/?amp=tr
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/autonomous-land-speed-record/?amp=true"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://images.thestar.com/gO5t4872uV1IKEn1S7e0f8hn69g=/1200x675/smart/filters:cb(1651257101548)/https://www.thestar.com/content/dam/thestar/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace/_1wh_autotractor_main_april30.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "South Africa to introduce new rules for self-driving cars"
+    excerpt: "The Department of Transport plans to formalise rules around self-driving vehicles in South Africa as part of an official policy push. Presenting its department performance and strategic plans to ..."
+    publishedDateTime: 2022-05-03T14:39:00Z
+    webUrl: "https://businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/"
+    ampWebUrl: "https://businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 44
+    images:
+      - url: "https://i.ytimg.com/vi/m0na9x4C9q4/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
   - title: "Motorists urged to keep ‘duty of care’ with self-driving cars or face blame for accidents"
     excerpt: "You can unsubscribe at any time. More info Earlier this month, the Department for Transport set out plans to move Britain closer to a “self-driving revolution”. This included proposals to change the Highway Code to ensure the first self-driving ..."

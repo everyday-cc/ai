@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T13:19:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-trufflez-launches-nft-project-allowing-fans-partner-a-/2022/05/03/9594493.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-trufflez-launches-nft-project-allowing-fans-partner-a-/2022/05/03/9594493.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

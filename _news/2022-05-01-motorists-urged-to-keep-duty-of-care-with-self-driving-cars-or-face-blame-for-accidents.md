@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "South Africa to introduce new rules for self-driving cars"
+    excerpt: "The Department of Transport plans to formalise rules around self-driving vehicles in South Africa as part of an official policy push. Presenting its department performance and strategic plans to ..."
+    publishedDateTime: 2022-05-03T14:39:00Z
+    webUrl: "https://businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/"
+    ampWebUrl: "https://businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 44
+    images:
+      - url: "https://i.ytimg.com/vi/m0na9x4C9q4/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Some self-driving taxi services lose safety driver in Beijing"
     excerpt: "Two companies developing self-driving cars in China were given permission last week to remove the safety driver from behind the steering wheel for the first time. The permission was granted by officials in Beijing to technology giant Baidu and Toyota ..."
     publishedDateTime: 2022-05-02T14:00:00Z

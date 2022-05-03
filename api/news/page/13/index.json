@@ -2,6 +2,254 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-04-20-designing-a-soft-robot-to-improve-lung-examinations.md",
+      "title": "Designing a soft robot to improve lung examinations",
+      "excerpt": "Seniors in the Department of Mechanical Engineering at the University of Colorado Boulder are designing a new soft robot to improve physicians' ability to examine the deepest part of a patient's lung.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/mechanical-engineering-2.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-soft-robot-lung.amp",
+      "publishedDateTime": "2022-04-19T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-cathie-wood-on-twitter-europe-in-recession.md",
+      "title": "Cathie Wood On Twitter Europe In Recession",
+      "excerpt": "Magnifi is a fintech platform that uses artificial intelligence so individuals and advisors can instantly search stocks, ETFs, mutual funds and model portfolios and trade based on their preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22",
+      "originalUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
+      "title": "Artificial Intelligence Is Creating a New Colonial World Order",
+      "excerpt": "My husband and I love to eat and to learn about history. So shortly after we married, we chose to honeymoon along the southern coast of Spain. The region, historically ruled by Greeks, Romans,",
+      "sourceUrl": null,
+      "webUrl": "https://pulitzercenter.org/fr/node/26547",
+      "originalUrl": "https://pulitzercenter.org/fr/node/26547",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/shutterstock_2122981079.jpg?h=790be497&itok=juXEcP9M",
+          "width": 768,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pulitzer Center",
+        "domain": "pulitzercenter.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing.md",
+      "title": "Integrate ServiceNow with Amazon Lex chatbot for ticket processing",
+      "excerpt": "Conversational interfaces (or chatbots) can provide an intuitive interface for processes such as creating and monitoring tickets. Let’s consider a situation in which a recent hire on your team is required to cut tickets for office equipment. To do so, they have to interact with a ticketing software that",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-3932-image005-500.jpg",
+          "width": 500,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T09:55:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit.md",
+      "title": "Amazon taps former Attorney General Loretta Lynch to run racial equity audit",
+      "excerpt": "related to harassment and discrimination And an independent study of Rekognition, a facial recognition system that Amazon Web Services markets and sells to government and shareholders say is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/",
+      "originalUrl": "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/?amp=1",
+      "publishedDateTime": "2022-04-19T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator.md",
+      "title": "Hayden AI Accepted into AWS GovTechStart, Amazon Web Services (AWS) Government Technology Accelerator'",
+      "excerpt": "Hayden AI, an emerging leader in smart enforcement technologies powered by artificial intelligence is excited to announce that it has been officially been accepted into AWS GovTechStart, the Amazon Web Services (AWS) government technology (GovTech) accelerator,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104051443/Hayden-AI-Accepted-into-AWS-GovTechStart-Amazon-Web-Services-AWS-Government-Technology-Accelerator",
+      "originalUrl": "https://menafn.com/1104051443/Hayden-AI-Accepted-into-AWS-GovTechStart-Amazon-Web-Services-AWS-Government-Technology-Accelerator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?550194",
+          "width": 444,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-cheap-robot-vacuums-roomba-shark-robovacs-on-sale-from-180.md",
       "title": "Cheap robot vacuums: Roomba, Shark robovacs on sale from $180",
       "excerpt": "If you're on the hunt for a robot vacuum, you should take advantage of Best Buy's offers for various models from iRobot's Roomba and Shark, starting at $180.",
@@ -197,49 +445,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-hayden-ai-accepted-into-aws-govtechstart-amazon-web-services-aws-government-technology-accelerator.md",
-      "title": "Hayden AI Accepted into AWS GovTechStart, Amazon Web Services (AWS) Government Technology Accelerator",
-      "excerpt": "Hayden AI, an emerging leader in smart enforcement technologies powered by artificial intelligence is excited to announce that it has been officially been accepted into AWS GovTechStart, the Amazon Web Services (AWS) government technology (GovTech) accelerator,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -891,229 +1096,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities.md",
-      "title": "Hyundai chooses IonQ's quantum tech to improve its vehicles' object recognition capabilities",
-      "excerpt": "The automaker hopes the quantum machine learning services of IonQ can help it improve its 3D object detection safety systems for drivers and autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
-      "originalUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-afraid-of-public-speaking-this-ai-can-help.md",
-      "title": "Afraid of public speaking? This AI can help",
-      "excerpt": "There's that old Seinfeld joke, the one about public speaking ranking higher than death on people's list of top fears. Seinfeld points out with characteristic deadpan that most funeral attendees would rather be in the casket than give the eulogy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "originalUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ab11aa2d2cce15188b0059a1b92241d6a95f41d9/2022/04/18/55457513-6ed6-4049-9e30-6b232f760de9/conference-crowd.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "publishedDateTime": "2022-04-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services.md",
-      "title": "Microsoft Azure UAE Regions launches four new key services",
-      "excerpt": "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE regions. These latest services mean that regional Microsoft Cloud customers now have access to almost all of Azure’s tools,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-uae-regions-launches-four-new-key-services-b3b680ui",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-uae-regions-launches-four-new-key-services-b3b680ui",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-turnbulls-ai-robotics-bet-taps-investors-for-blockbuster-raising.md",
-      "title": "Turnbull’s AI robotics bet taps investors for blockbuster raising",
-      "excerpt": "AI robotics innovator Advanced Navigation has had no trouble finding its path to market. The company, which counts former Prime Minister Malcolm Turnbull as a director, is tapping investors this month to raise between $80 million and $135 million and is expected to have no trouble getting the raise away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/street-talk/turnbull-s-ai-robotics-bet-taps-investors-for-blockbuster-raising-20220419-p5aegf",
-      "originalUrl": "https://www.afr.com/street-talk/turnbull-s-ai-robotics-bet-taps-investors-for-blockbuster-raising-20220419-p5aegf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_0.5828%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_405%2C$y_518/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/deb6deddee4d769777d4d19f8c52a0e5d693186d",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-unlearnai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m.md",
-      "title": "Unlearn.AI, a startup developing a ‘digital twin’ service for clinical trials, raises $50M",
-      "excerpt": "That’s perhaps why Unlearn.AI, a startup which today announced that it raised $50 million in a Series B funding round, started with clinical trials. Unlearn’s digital twin product replicates ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/",
-      "originalUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1266157000.webp?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/",
-      "publishedDateTime": "2022-04-19T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

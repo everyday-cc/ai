@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:29:00Z
 originalUrl: "https://www.engadget.com/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html?src=rss"
 webUrl: "https://www.engadget.com/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html?src=rss"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Engadget

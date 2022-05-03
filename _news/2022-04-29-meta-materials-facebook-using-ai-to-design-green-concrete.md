@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Meta Tests AI-Developed Lower-Carbon Concrete on Data Center Project"
-    excerpt: "While Facebook parent company Meta has drawn attention ... Meta said in a blog post written by Sudhalkar and research scientist Julius Kusuma. The AI generated dozens of potential concrete formulas much faster than would have otherwise been possible ..."
-    publishedDateTime: 2022-04-28T22:04:00Z
-    webUrl: "https://www.enr.com/articles/54024-meta-tests-ai-developed-lower-carbon-concrete-on-data-center-project"
-    type: article
-    provider:
-      name: Engineering News-Record
-      domain: enr.com
-    quality: 39
-    images:
-      - url: "https://www.enr.com/ext/resources/2022/04/28/Meta_Data_Center_Conrete_ENRwebready.JPG?height=635&t=1651181863&width=1200"
-        width: 1129
-        height: 635
-        isCached: true
 
 secured: "VgZt3b1wy/j5ycqxnDAmTwnLNVh0YPB4PLdBBuQo+3GAqLHpV6TiSiKNSRkCZwMh6X7XSqDGcz2oNn6orOXAe+VDn1wyVLUVQ/6nwr30u1eO4XPXDE+DQdEJderH52sSsE9cQvNNbr2gThFc3Y/KYxas4klIqWjzo0v5BmV99KChLOQ5bcw8RSf9Es/9fMUBZel5yFIdwQ0dflQ4lB6XLV7DWx/GpJ8DqEnazz5PPn5QIp3uQN7GDBVRD3Jg+whGC4C6rWYHXx1SWOC19DaTSFWI080I5M9wOfyxrak6SEt5K0swI775TX8sC9uQ5A42AxPAz6ww+ChT+KGt+60OF582Z2BJdtwx1rq1DbmXR9Y=;JyjbqGSEvq72f8NR1kssCQ=="
 ---

@@ -26,6 +26,17 @@ images:
     height: 740
     isCached: true
 
+related:
+  - title: "Orgenesis Led Consortium Awarded €4M European Innovation Council Pathfinder Grant"
+    excerpt: "The grant is aimed at the development of technologies enabling production of autologous induced pluripotent stem cells (iPSCs) using microfluidic technologies and artificial intelligence ... cancer therapy associated disease and defective tissues."
+    publishedDateTime: 2022-05-03T10:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/covid-technology-science-business-health-113832ee455962cde4d5441ada625067"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+
 secured: "Ed6A5RJa34hAbGq6rGk+n7MZFxhh+LyYRIsua+ery8aImApg0WE13//ueaMjFWI4PEzBxu/vnlzCsbSgDUQ/u8im6SGxuWf7ajx7chWc7cnA7VuQ0yn45UifLuujC0qDgVX3h8E1fWrMrQ84x1Eclj+qqT1j9Afa2uORFgEx7CvO35PyIp3fIWVNqMbRKea9Q7cCE6D594/nHMZjH2SF4xGBJxuujDgbMAie7y22geZUn1PWmmz4qllSl8mh1DLbvD4EXnhvZkquhIlbsxEOPIZMakFkg3QlNm7891XkPsqN5BgRp4cMVmC+129EaXLTsrcLLJBRw08p5o6Wgn9qU59JIueTzoyg53vO+U+r0Ew=;b5UwUr0ENLY9qNgglzkGCA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/wcg-and-deep-6-ai-
 webUrl: "https://markets.businessinsider.com/news/stocks/wcg-and-deep-6-ai-announce-best-in-class-partnership-to-enable-faster-smarter-clinical-trial-patient-recruitment-1031408265"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -22,46 +22,28 @@ topics:
   - AI
 
 related:
-  - title: "How AI and video are redefining talent recruitment"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-04-28T21:00:00Z
-    webUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/"
-    ampWebUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
+  - title: "Ticketing and cashless payments solution Oveit announces partnership with deep-tech company Humans.ai"
+    excerpt: "Oveit, ticketing and cashless payments company headquartered in Austin TX, USA, has partnered with Romanian deep-tech startup Humans.ai, for the development of artificial intelligence powered NFTs for live stream shopping. The partnership is the next step ..."
+    publishedDateTime: 2022-05-02T09:09:00Z
+    webUrl: "https://business-review.eu/tech/ticketing-and-cashless-payments-solution-oveit-announces-partnership-with-deep-tech-company-humans-ai-230421"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 22
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design8.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
+      - url: "https://business-review.eu/wp-content/uploads/2022/05/Humans.ai-Oveit.jpeg"
+        width: 1400
+        height: 674
         isCached: true
-  - title: "Advice for deploying AI in production environments"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-05-02T21:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/"
-    ampWebUrl: "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/"
+  - title: "WCG and Deep 6 AI Announce Partnership"
+    excerpt: "WCG and Deep 6 AI announced that they are working together to drive more targeted patient recruitment in clinical trials and accelerate enrollment in vital medical research. The relationship brings together WCG's market position, and their investigative ..."
+    publishedDateTime: 2022-05-02T12:57:00Z
+    webUrl: "https://www.appliedclinicaltrialsonline.com/view/wcg-and-deep-6-ai-announce-partnership"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "JOINT ARTIFICIAL INTELLIGENCE CENTER"
-    excerpt: "Prior to joining the CIA, Mulchandani most recently served as the CTO and Acting Director of DoD's Joint Artificial Intelligence Center. He also co-founded and was CEO of several successful startups- Oblix (acquired by Oracle), Determina (acquired by ..."
-    publishedDateTime: 2022-05-01T15:34:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/joint-artificial-intelligence-center"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
+      name: AppliedClinicalTrial
+      domain: appliedclinicaltrialsonline.com
     quality: 17
 
 secured: "h1NQm49bzeTCf9xR5VA8qRliQRxGv/25W9/e2GK5Cdikm9zsV75feVfh7YRd6WY/y6Zhjm53Oxt6viHQVppEFmab0uJdiKI5oBmFpV+l9+kKJUOVEuxJmAx5jvNJSy0mt+xEgXtFnhh7vmarHgIsMdVZcT9jyS+ISfLmmaNPA0BMhrKyC5w9zM2lG/s1uXnjAh8clcGiWB8Z7+/33CH9ogM8yU/760T5tzusRPCbhDnGU0RanksMpq1B5j4MyhCIRomD5OAJ5bDLRDvOmJX4BO1gAD69HZezF4t9NRqxqAK3zL7tCQvBmLjal6nvfj4zw306lsVkYNwBITeRyI78xbSL7aM1aSlGbf61+5lWIbrEo8Wy/c5UMBiBZd8EApAnny4kMx0F309JnkFJUNbLSoCst1ZVARfcncyyMD9MJmapPOLMk/IEELaXCaA1bmpgUrwBudawnOwTWXLbkw1Xfpe2X0TXMIV+t+QkM2I9U/gmI09+kEu1nK4HmpbK3M68PoyY+dqLIMHeWBBwd7NA5w==;aEcSRXGcAPKzRYIhtGU86A=="

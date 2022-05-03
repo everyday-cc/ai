@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T10:57:00Z
 originalUrl: "https://www.electronicsforu.com/special/cool-stuff-misc/a-deep-dive-into-ai-processing"
 webUrl: "https://www.electronicsforu.com/special/cool-stuff-misc/a-deep-dive-into-ai-processing"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Electronics For You
