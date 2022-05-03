@@ -52,6 +52,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "W-S startup Salem Cyber, promising ‘a paradigm shift’ in cybersecurity, raises $250K seed round"
+    excerpt: "WINSTON-SALEM – The Winston-Salem-based cybersecurity startup Salem Cyber has closed ... Salem Cyber’s product, Salem, is best thought of as an AI cybersecurity analyst, according to the ..."
+    publishedDateTime: 2022-05-03T18:31:00Z
+    webUrl: "https://wraltechwire.com/2022/05/03/w-s-startup-salem-cyber-promising-a-paradigm-shift-in-cybersecurity-raises-250k-seed-round/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 5
 
 secured: "c1pcoRUZNFfqyXyVTGziXK3gAeutTKd/0bkd/uwbve55InqQdKUnmVPFDcFPpzkMoLgD9HAiQM+1Ldigcwzjl/DnW0U5EmYxsh/4cvCL/8haoFanYtxLDMH3avpJFche95M9dPuEkJWLVRFsxEFeUnzSbYQt8Bszbfbj++CGCDX8uwNsFY+zULWCJCctN5eu2EZA8r/MRdot51ckWCCShCdrfTj6UcwlNUsXyYlK8WppYZeulBuivsWzlCHR5RCxw1KapBd5FNTxtzatW+3+D+QTByQhqRvq41W0KzN7kncgga5CTojnVmpNMlRakU+ERK4jGWlrg7DXD22QQDphjcz1iv8zJo/bb5XRZcMaKsg=;cX2+LzoQlR/oCr0QkcYC3A=="
 ---

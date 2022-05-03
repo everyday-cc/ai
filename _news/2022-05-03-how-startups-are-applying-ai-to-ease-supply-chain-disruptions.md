@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startups apply artificial intelligence to supply chain disruptions"
+    excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
+    publishedDateTime: 2022-05-03T10:00:00Z
+    webUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How AI is helping the supply chains in the healthcare sector"
     excerpt: "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to comprehend and decipher. It can also be fed ..."
     publishedDateTime: 2022-05-01T08:56:00Z
@@ -40,15 +54,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Startups Apply Artificial Intelligence to Supply Chain Disruptions"
-    excerpt: "LONDON (Reuters) - Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have ..."
-    publishedDateTime: 2022-05-03T06:21:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "FOCUS-Startups apply artificial intelligence to supply chain disruptions"
     excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
     publishedDateTime: 2022-05-03T11:00:00Z
@@ -58,20 +63,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 61
-  - title: "How AI is helping to address staffing shortages in healthcare"
-    excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
-    publishedDateTime: 2022-05-02T22:25:00Z
-    webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
+  - title: "RPT-FOCUS-Startups apply artificial intelligence to supply chain disruptions"
+    excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
+    publishedDateTime: 2022-05-03T10:00:00Z
+    webUrl: "https://www.reuters.com/article/tech-supplychain-idUKL2N2WV0DC"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
-        width: 724
-        height: 483
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 59
 
 secured: "BF3Zvqm7XvL2LEi3ro1YBOp52wdwtybOmtuZrJ4cXCc6zssWVAB9zsxxNs5jY+Y2vQ0ZQsdhrfxlr40F4g/zISlA5/NjrK91T1qr5gAe4OFP0AFHUqJ8ZarXOdQ+achZ2al68onLqZLsYjHtaIVFzkL6P/P8TmDHJB/mV8iak9Q+qqex27ZMdTagzxPOZcUqpCzRYwuCO/0UnaF0JReFx0xakUuHrEURPnv9KsFK2nykzwEnizVRdnGpJUbNvx4DJEIgHk7zDQRPF9rcrKiTVQ6lV62MmbH1WnEJslFoiBLiX72sgacn1XTv8hmi9vtdRUqOaL9bzVvNbih+GkaW/NCYNJsyyiARi4HMaEtVTTE=;6ZqSt4i82QZgPTUUwVttwA=="
 ---

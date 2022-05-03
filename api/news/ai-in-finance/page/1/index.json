@@ -219,6 +219,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-28-how-can-saudi-arabia-unleash-national-success-in-fintech.md",
+      "title": "How can Saudi Arabia unleash national success in fintech?",
+      "excerpt": "Abdullah Al Othman is the founder and chairman of Geidea, a Saudi Arabia-based fintech specialised in payments. It works with over",
+      "sourceUrl": null,
+      "webUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
+      "originalUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wamda.com/feature-images/e6f54b2845e1e60.png",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wamda",
+        "domain": "wamda.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-hpe-looks-to-deliver-the-power-of-swarm-learning.md",
       "title": "HPE looks to deliver the power of ‘swarm learning’",
       "excerpt": "When applied to intelligent devices operating in the real world, “swarm learning” refers to decentralization. This means that users can share learnings at the edge, or at distributed sites, without moving or exposing data.",
@@ -539,6 +582,41 @@
         "AI in Finance",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-us-bank-launches-nations-first-spanish-language-voice-assistant-for-banking.md",
+      "title": "U.S. Bank Launches Nation’s First Spanish-Language Voice Assistant for Banking",
+      "excerpt": "U.S. Bank is the first financial institution in the United States to offer an experience Spanish-speaking customers have never had before: the ability to bank via mobile app in their preferred language – just by speaking it.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1245,83 +1323,6 @@
       "provider": {
         "name": "fintechmagazine",
         "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-how-the-banking-sector-can-use-ai-for-risk-mitigation-and-revenue-generation.md",
-      "title": "How the Banking Sector Can Use AI for Risk Mitigation and Revenue Generation",
-      "excerpt": "According to Open Text, “the world’s most successful Financial Services organizations are already considering AI and machine learning to help them address” such issues and functions as payment processing; personalization of customer experiences ...",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation",
-      "originalUrl": "https://biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202204/GettyImages-1225376448.jpg?itok=ipPUXu3Q",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation?amp",
-      "publishedDateTime": "2022-04-13T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-alpha-fintech-by-ppro-announces-launch-of-fi911s-intelligent-saas-dispute-processing-for-financial-institutions-in-asia-pacific.md",
-      "title": "Alpha Fintech by PPRO Announces Launch of Fi911’s Intelligent SaaS Dispute Processing for Financial Institutions in Asia Pacific",
-      "excerpt": "Fi911, the leading dispute specialists and sister brand of Chargebacks911, today announces its partnership with Alpha Fintech ( a fintech pioneer aiming to evolve and simplify payments. APAC regional acquirers and PSPs will be able to leverage the unrivaled Fi911 SaaS dispute management p.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=646511",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=646511",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
         "images": null,
         "publishers": null,
         "authors": null

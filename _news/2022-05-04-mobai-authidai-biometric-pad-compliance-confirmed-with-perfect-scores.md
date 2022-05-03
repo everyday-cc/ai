@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T18:39:00Z
 originalUrl: "https://www.biometricupdate.com/202205/mobai-authid-ai-biometric-pad-compliance-confirmed-with-perfect-scores"
 webUrl: "https://www.biometricupdate.com/202205/mobai-authid-ai-biometric-pad-compliance-confirmed-with-perfect-scores"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: Biometric Companies
@@ -13,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "authID.ai achieves perfect score for ISO Level 2 biometric presentation attack detection"
+    excerpt: "LONG BEACH, NY , May 03, 2022 (GLOBE NEWSWIRE) -- authID.ai [Nasdaq: AUID], a leading provider of secure, mobile, biometric identity authentication solutions,has announced that the company’s Verified™ platform has achieved conformance with ISO ..."
+    publishedDateTime: 2022-05-03T21:52:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/press-release/21266498/authidai-authidai-achieves-perfect-score-for-iso-level-2-biometric-presentation-attack-detection"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 28
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/05/AuthID_logo_tagline_2022_web_color.62719e93ba99f.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rwYvq5Ja6XW22XX3TpucGRBV1UnsCu/fyP/xOhjFCjZnkF2nRZNGkXEDNy8fcpzMW/wpppQiyZowBQwsGKfhalZSRLkQrKWW3x/5DbUuig2c2ixgjwtG6EIAN1ljY/k/wwEo/El8+TKDAPNo3k37w6p7R7YbCUQ297IhoMwbfHFp/KjzYsO5oCPr8QWMDChBvo+QRwkgc/gj/2EUqktgO3ski3bUsVfviAvSHQVmjbw+G/Ga2h2MUBKgphS4UzsCgASJDLIZtj9PFXGluJAqGQkPdyoj9RzWRETOIYeuqp9vyi7F9eWisYpEE2oC8XRQcHWOK2F8jk+1ePQIf1NdFAqZQgEx1a1CaPRA62rtyUAqAf0jZXQqcXt11O5sxYb0RmJzLtOt3o51T0bAV0w7UXEITPbqyBEsJlIT9V94RJgBYMuaSrSfQT14JyejiwGzhTviqcCceLPAdXNx7eNWyntNcNS7V3Oh2yqyJDZa6rWvZN+hw/n/zgxFBW1Dc+BSCn4ZLjD036a7tdCwjoeCcg==;pia97Rvbl08xPYdKXwUTQw=="
 ---

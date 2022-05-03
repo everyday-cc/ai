@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:30:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: WFMZ-TV

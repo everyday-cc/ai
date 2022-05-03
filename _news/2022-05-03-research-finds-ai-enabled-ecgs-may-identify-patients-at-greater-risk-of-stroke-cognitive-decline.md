@@ -51,15 +51,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "Ways AI Improves Online Learning Process"
-    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
-    publishedDateTime: 2022-04-29T13:35:00Z
-    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 17
 
 secured: "5Ypl/WJhkUdXMHYLABrNi0IxmqRQFCYslUmp50nfsty9kH9nYbwRD2obq9kL//qbYce7wI8IUH1A0I+SoI9vLjLGeysAqIAcxoFKTuUtT1AxvqtmlbAmekIfd5/e2W8sRmcbnJSM571kujaJh0QXWeUSoGn1WIHFpUwwYrroY9wwA1s3ZID9DFsDDJkelFtExO0eCUyko5IFyAEeRWQkRxr2XmaJoFZDeV8NZjNdO1MuVukYqIMWZey8XPA0aDLeEPdo58VMq50hV5RLT3i/a1qKXxDCWadciQMREaL0nxdqDooeYWz9d2fX7BXWNzcC7wZATBj2chi3DZcoL6wFkCTXlc+0zvaFu/+WNE+HDiAN7AgLXQI2Eg69F5Cfvwwsnw7KQ6+UyMJPfOgrlRL8F6ir+Iz23EtpD2TTqw6LiI5CKfdpdlv72J8+7D7oy+f2J+Duv8qa54mx04TRsInzmOlXAeQaBuA7gx1LlbGqrmXrDixi4I9AsmMzS8aq2gFRUpw68JPfEPxGAL3TMBiRHg==;AmNXPtF7ORn+OD0zXu9lsQ=="
 ---

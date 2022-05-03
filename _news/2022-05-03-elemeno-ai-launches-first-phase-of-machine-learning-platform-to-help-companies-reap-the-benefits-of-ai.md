@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Elemeno AI Launches First Phase of Machine Learning Platform to Help Companies Reap the Benefits of AI"
-excerpt: "The ready-to-use, highly scalable software infrastructure helps companies accelerate their time-to-market and improve the quality of their machine learning (ML) models Elemeno AI, a cloud-based machine learning company, today announces the launch of its ..."
-publishedDateTime: 2022-05-03T12:00:00Z
-originalUrl: "https://www.digitaljournal.com/pr/elemeno-ai-launches-first-phase-of-machine-learning-platform-to-help-companies-reap-the-benefits-of-ai"
-webUrl: "https://www.digitaljournal.com/pr/elemeno-ai-launches-first-phase-of-machine-learning-platform-to-help-companies-reap-the-benefits-of-ai"
+excerpt: "Elemeno AI, a cloud-based machine learning company, today announces the launch of its machine learning operations (ML-Ops) platform to help companies leverage the benefits of artificial intelligence (AI). It offers intuitive user experience (UX ..."
+publishedDateTime: 2022-05-03T12:02:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-3-elemeno-ai-launches-first-phase-of-machine-learning-platform-to-help-companies-reap-the-benefits-of-ai"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-3-elemeno-ai-launches-first-phase-of-machine-learning-platform-to-help-companies-reap-the-benefits-of-ai"
 type: article
 quality: 18
 heat: 18
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "9wHx8Um6O+dPqJeEivJ+bEtg1IpdDjcmh1+9H9frmS6+QbbeV6owlTR5vl0C5WpBGtHHVPtSuOOAmCvsV1yUGtD4U4u2m8vxXMhmZSI9HV/pdqFWAlyEVdIZf1creVLjIWlBw2BNDBA1D7J1j3LPZ4Asrt7CBc7i4lO1DuSEUG6kg6PHyyVL3lwc07wDDVAAmlHe9Xqw5vecJk1oKooHSwaBAyDqhC2OL7G86gMlPOtOCciwxjTOgw6ABId0bk6k0en1/M4lGPDDLjk5d1ivQZPVobx7SD5lEZ9i/LrPOOzE+t7MdeCkS9cF4qTDpaTh+bh1TYaZJlIoWuMEsXp1+FF6UUcfUlREmfqP0QQKz2g=;19un5/1GaEYq4TR472tDfQ=="
+secured: "L2PdzoIRmlB25UME5tcxr94CkO23A1JHLGrMzqvLH2w1VicBMxE77g1o1VjvSzMiYCk/uYebN6ymQ27CeWBM2ld8BE2euSohLMddh/L342bgwBIOmhlqFEgWgPV9c5cnTnZvoedKw6ZtX8DbSaHm48YjuUpsbzmxbHqOh8kU5aqLQ2eNy2BLCp7Z6bNlePe+xpyjqnsS//bXdTvAPcKrW2dhYD2H5jZmjXZQmcTk/n0WnlzJ6ZJ1qYEUgqWGBOZ9sflw9xTgJgiXKZ0PY9ZV1IdXzjU+9/S6OU73wJjeP6w7alkOS7IuF/9MH4DPsp8TTNaNsO8Tq4N8XGi6TlbMuUwLBorXauWJoO91/aPoMo4=;YfwKd1z59UMlhtYBZ491jw=="
 ---
 

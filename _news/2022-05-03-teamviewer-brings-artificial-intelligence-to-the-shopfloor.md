@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T14:13:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-teamviewer-brings-artificial-intelligence-the-shopfloor-/2022/05/03/9594602.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-teamviewer-brings-artificial-intelligence-the-shopfloor-/2022/05/03/9594602.htm"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -13,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "TeamViewer adds AI to AR"
+    excerpt: "Remote connectivity and workplace digitalisation provider TeamViewer has launched AiStudio to add image and object recognition to Frontline, its enterprise AR platform. AiStudio does not require ..."
+    publishedDateTime: 2022-05-03T01:53:00Z
+    webUrl: "https://itwire.com/business-it-news/business-software/teamviewer-adds-ai-to-ar.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/859a06c194a087f54c810f2a0b161f69_M.jpg"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "aVdxKjMo095QQSbG3rGentI+e6XNIKz3dopWYo5b2EMgrQh/09BLszzRZ/FTgxIAK2s1djLgJa9wAEYNXure1mRNNXVRJT808nDIu7MQsonbBrI1jlf1ek2VquZil/y8LNaDTsE8BgnMlYkXU3VJA3DydGz6drDAnNJlg3oE9p7w8oAHoZFDp64PgT/QptCzSGKxj4A7+fnFhT78XWm5T4FYlhK/8AyUeEIKZP0begFMfjbtgpRZl7Bn0uei9DAuRc56ab5OKHKVM4Msz0d+aBfzSjpdFoHd+vOaYYbsITS6gc4bB2wSuxILJeyfDNsDYzmHmxCdY8Y9T/v44wo4U4yUSUJiyF7/IIt+crIHS39RhaYTprBPHtLMEHreZDc2uXNghsJPJ0tmjXAQKT6gioNqAACMyY5wTXJs3eeRFcI5PlwJdmG2EHoXQFZ0PGMvqxCAQIaAMcsp07hxofOX1fzY8GHYoDO0yjzDolLfNvDgDVGyOFJnQTVvqDxugRg1Pjwz71jx/sDu7eDRMSkbrQ==;XcgySvAcVV3sEh3lrr3eVw=="
 ---

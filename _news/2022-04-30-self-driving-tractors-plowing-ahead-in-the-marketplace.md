@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 828
         isCached: true
+  - title: "Tesla Still Has Significant Self-Driving Potential"
+    excerpt: "Self-driving and autonomous vehicle technologies aren’t necessarily elusive today, but there’s still progress to be made on these fronts. As that progress is made, it wouldn’t be surprising to see Elon Musk’s Tesla (NASDAQ:TSLA) participate ..."
+    publishedDateTime: 2022-05-03T15:21:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-still-has-significant-self-driving-potential"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-still-has-significant-self-driving-potential?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-still-has-significant-self-driving-potential?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "World speed record for a self-driving car"
     excerpt: "192.2 mph/309.3 kph... never before has a car driven by artificial intelligence alone been this fast. On 27 April on the straight of the Space Shuttle airstrip at NASA's Kennedy Space Center in Cape Canaveral, the car created by the Politecnico di Milano ..."
     publishedDateTime: 2022-04-29T14:01:00Z

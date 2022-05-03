@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/02/2307940/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/02/2307940/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -45,6 +45,29 @@ related:
         width: 1024
         height: 628
         isCached: true
+  - title: "API Security Company Traceable AI Lands $60 Million Series B"
+    excerpt: "SAN FRANCISCO, May 3, 2022 — Traceable AI, the API security & observability company, today announced it has raised $60 million in Series B funding. This new funding values Traceable AI at more than $450 million. This investment round was led by ..."
+    publishedDateTime: 2022-05-03T21:49:00Z
+    webUrl: "https://www.darkreading.com/application-security/api-security-company-traceable-ai-lands-60-million-series-b"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
+  - title: "Traceable AI Raises An Additional $60M For Deployment Of API Security Product"
+    excerpt: "[RELATED STORY: Security Startup Traceable Gets Funding From CISO Group] In a press ... In an interview with CRN, Jyoti Bansal, co-founder and CEO of Traceable AI, wouldn’t disclose how much of the company’s sales are currently through the channel."
+    publishedDateTime: 2022-05-03T18:53:00Z
+    webUrl: "https://www.crn.com/news/security/traceable-ai-raises-an-additional-60m-for-deployment-of-api-security-product"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 31
 
 secured: "e/kZ2XKVABwjJ2cXAVAGnrTRXxSL0tt8mGL+Mwp2umWOTnp9+zyhcfhMyeapZRkh8fiB3ssTN8x/CFTeefetKbDOY4+H1tkMYUNRndCNETLs/x+pLF1L6C+Wny5G3K8roKvBUDLsgCdy1m2EK4FQXK6EobVvRs+/mClr0DGN2wvgSFORy3VqoAYI4rfNGcB6SqGMf0w2FuZxD2heHQ0yQWO0+GorFbwtMTXqcUTpdc7IYeBMl4OWMMY/NYbZCXxcdYkdeK4L3bWUyg9HodveCPcY8TgyW2HH8ORvtuhKNOeb3YVyoyl4uRgG3SF65WZUIYSMId7iYhq+EbHZTrid65zCuvqzSSg6oGcoc0XGCcxuZUrX5QAzE4f5r56BEerkFADDbMy2ihN+qEOZRvMhL1X30bdYdlyEemdNPovv8SnVzZzwKhon2+GPFSgIyxO5OJQZ/0lKquDZ0gRmyMgtCYb7LA+XKcuMD0rK7f55KxginNisrO7upmjVqa8hDR8EBARBtEDVDEIdyZXz1BEgeg==;iICG54cwahKLlwrsuwMu1w=="
 ---

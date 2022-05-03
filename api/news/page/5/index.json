@@ -2,6 +2,283 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-28-raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live.md",
+      "title": "Raising monster rounds for self-driving mobility startups on TechCrunch Live",
+      "excerpt": "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
+      "originalUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TCL-2022-05-11-featured-1920x1080-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
+      "publishedDateTime": "2022-04-27T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-how-can-saudi-arabia-unleash-national-success-in-fintech.md",
+      "title": "How can Saudi Arabia unleash national success in fintech?",
+      "excerpt": "Abdullah Al Othman is the founder and chairman of Geidea, a Saudi Arabia-based fintech specialised in payments. It works with over",
+      "sourceUrl": null,
+      "webUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
+      "originalUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wamda.com/feature-images/e6f54b2845e1e60.png",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wamda",
+        "domain": "wamda.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
+      "title": "Pittsburgh welcomes Plus One Robotics",
+      "excerpt": "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
+      "originalUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-procreating-robots-the-next-big-thing-in-cognitive-automation.md",
+      "title": "Procreating Robots: The Next Big Thing In Cognitive Automation?",
+      "excerpt": "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6239d5f9bb19be620488f0de/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/amp/",
+      "publishedDateTime": "2022-04-27T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-the-power-of-deep-learning.md",
+      "title": "The power of deep learning",
+      "excerpt": "Machine learning isn’t the only term getting all the buzz. Deep learning, or a class of machine learning algorithms, is showing great promise, primarily because it’s getting results.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/power-deep-learning/",
+      "originalUrl": "https://sdtimes.com/ai/power-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/04/artificial-intelligence-2228610_960_720.jpg",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-three-stocks-to-profit-from-the-robot-revolution.md",
+      "title": "Three stocks to profit from the robot revolution",
+      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-why-you-should-be-using-ai-for-hiring.md",
       "title": "Why you should be using AI for hiring",
       "excerpt": "Advanced AI allows researchers to parse and score unstructured data such as resumes, typed responses, and interviews, and it’s game changing.",
@@ -292,6 +569,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-global-artificial-intelligence-in-healthcare-market-2022-key-players-insights-growth-challenges-and-forecast-to-2028.md",
+      "title": "Global Artificial Intelligence in Healthcare Market 2022 Key Players Insights, Growth Challenges and Forecast to 2028",
+      "excerpt": "Apr 27, 2022 (Concur Wire via Comtex) -- A recently uploaded market research study on Global Artificial Intelligence in Healthcare Market 2022 by Company, Regions, Type and Application, Forecast to 2028 from MarketsandResearch.biz focuses on industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-2022-key-players-insights-growth-challenges-and-forecast-to-2028-2022-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-2022-key-players-insights-growth-challenges-and-forecast-to-2028-2022-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -804,255 +1133,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-27-crowdstrike-unveils-tools-to-fight-threats-to-cloud-native-applications.md",
-      "title": "CrowdStrike unveils tools to fight threats to cloud-native applications",
-      "excerpt": "CrowdStrike has unveiled new capabilities for its adversary-focused cloud-native application protection platform (CNAPP).",
+      "path": "_news/2022-04-27-sensiml-delivers-new-ai-accelerator-core-support-for-silicon-labs-mg24-and-bg24-series-2-bluetooth-wireless-socs.md",
+      "title": "SensiML Delivers New AI Accelerator Core Support for Silicon Labs MG24 and BG24 Series 2 Bluetooth® Wireless SoCs",
+      "excerpt": "Integrates New SiLabs SoC AI Accelerated SoCs in SensiML Analytics Toolkit Design FlowSpeeds Processing and Reduces Power Consumption for AI/ML Applications",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensiml-delivers-new-ai-accelerator-core-support-for-silicon-labs-mg24-and-bg24-series-2/article_16a6d568-d9f1-50af-a134-ad85a26129b9.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensiml-delivers-new-ai-accelerator-core-support-for-silicon-labs-mg24-and-bg24-series-2/article_16a6d568-d9f1-50af-a134-ad85a26129b9.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2012/01/ss-cloud-security-lock.jpg?w=1200&strip=all",
-          "width": 350,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/amp/",
-      "publishedDateTime": "2022-04-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-global-service-robotics-market-to-grow-with-246-cagr-from-2022-2027.md",
-      "title": "Global Service Robotics Market to grow with 24.6% CAGR from 2022-2027",
-      "excerpt": "Global Service Robotics Market by Segments (Transportation & Logistics, Professional Cleaning, Medical Robotics, Hospitality",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104102162/Global-Service-Robotics-Market-to-grow-with-246-CAGR-from-2022-2027",
-      "originalUrl": "https://menafn.com/1104102162/Global-Service-Robotics-Market-to-grow-with-246-CAGR-from-2022-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?320558",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-career-roadmap-machine-learning-scientist.md",
-      "title": "Career roadmap: Machine learning scientist",
-      "excerpt": "Data scientists and machine learning scientists have similar roles, but a machine learning scientist specializes in researching and implementing complex algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.html",
-      "originalUrl": "https://www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/03/career-roadmap-primary-100647810-large.jpg?auto=webp&quality=85,70",
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/60/660a00f8-eb0c-5ffb-b1ec-44cba6f4b9ee/605c8a0b40a02.image.jpg?crop=1979%2C1039%2C7%2C0&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.amp.html",
-      "publishedDateTime": "2022-04-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-tech-mahindra-launches-ai-solution-for-business-automation.md",
-      "title": "Tech Mahindra launches AI solution for business automation",
-      "excerpt": "Tech Mahindra on Wednesday announced the launch of TechM amplifAI 0->∞  - a suite of Artificial Intelligence (AI) offerings and solutions to democratize and scale the deployment of AI in a responsible manner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/incoming/ksef8a/article65359726.ece/alternates/LANDSCAPE_615/4763_27-8-2020_15-33-55_1_TECHMAHINDRALOGO_27.JPG",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/tech-mahindra-launches-ai-solution-for-business-automation/article65359677.ece/amp/",
-      "publishedDateTime": "2022-04-27T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-kristalai-acquires-globalise-looks-to-enhance-retail-offerings.md",
-      "title": "Kristal.AI acquires Globalise, looks to enhance retail offerings",
-      "excerpt": "As per Kristal.AI, the strategic acquisition of Globalise will enable retail investors to invest in global products via fractional investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings-11651052946321.html",
-      "originalUrl": "https://www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings-11651052946321.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/04/27/600x338/tax_1648487569837_1651053401689.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings/amp-11651052946321.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/kristalai-acquires-globalise-looks-to-enhance-retail-offerings/amp-11651052946321.html",
-      "publishedDateTime": "2022-04-27T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-rapyuta-robotics-raises-usd-51m-in-series-c-funding.md",
-      "title": "Rapyuta Robotics Raises USD 51M in Series C Funding",
-      "excerpt": "its cloud robotics platform, rapyuta.io, utilizes advanced control and artificial intelligence technologies to improve the efficiency and safety of warehouse operations, enable multiple robots to work harmoniously together, and create a remote-controlled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html",
-      "originalUrl": "https://www.finsmes.com/2022/04/rapyuta-robotics-raises-usd-51m-in-series-c-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/04/rapyuta.jpeg",
-          "width": 333,
-          "height": 333,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1062,11 +1157,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T02:20:00-07:00",
+      "publishedDateTime": "2022-04-27T05:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1076,105 +1171,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-amazon-invests-in-israeli-robotics-firm-bionichive.md",
-      "title": "Amazon invests in Israeli robotics firm BionicHIVE",
-      "excerpt": "E-commerce giant backs Israeli startup developing an autonomous warehouse robot that can work on shelving racks to retrieve and return boxes and packages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.israel21c.org/amazon-invests-in-israeli-robotics-firm-bionichive/",
-      "originalUrl": "https://www.israel21c.org/amazon-invests-in-israeli-robotics-firm-bionichive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.israel21c.org/wp-content/uploads/2022/04/BionicHIVE2.jpeg",
-          "width": 1600,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Israel21c",
-        "domain": "israel21c.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-eden-ai-unifies-ml-apis-from-several-cloud-vendors.md",
-      "title": "Eden AI unifies ML APIs from several cloud vendors",
-      "excerpt": "French startup Eden AI has raised a $1.6 million pre-seed round (€1.5 million) to build a programming interface that lets you access AI engines from multiple vendors. The company unifies those APIs and offers a simple way to try them out,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/",
-      "originalUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Eden-AI.jpeg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/",
-      "publishedDateTime": "2022-04-27T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Machine Learning",
-        "Microsoft AI",
-        "Natural Language Processing"
+        "AI"
       ]
     }
   ],

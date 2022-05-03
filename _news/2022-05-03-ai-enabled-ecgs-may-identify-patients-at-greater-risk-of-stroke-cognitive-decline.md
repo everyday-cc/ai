@@ -54,15 +54,6 @@ related:
         width: 1920
         height: 1289
         isCached: true
-  - title: "Ways AI Improves Online Learning Process"
-    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
-    publishedDateTime: 2022-04-29T13:35:00Z
-    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 17
 
 secured: "OxE6JeWlXOhHRqCGAGR3JWrNECpYPGuIPH1Gxoa31mc6ZjgtVpYWR6cpO7MwV/SIoVC4+wGfy2JscSkdF/OUl20AVI3p8s7+5c2HZQY353Bal4HCxuZy2zj7yVIuHtWudsGCWCcXkh6VFfcppWk0andRaQVppG4522AcBGT+Ahe1ApQ+41lCJwjZpPxjkO6+hxml2GAG+Hdq0BEHeNgZeLAYDEbzgcOzwCqxYK8ZNDKoN0tBxjG0Q1xsdnaLjR2XcxUULCybg+24t+Hq/Trximczh1t5ubvTZ5QAJeJfifiRYdZRVM/nRrVMmk1lbGacaR34MhEENvyDMk2+u/pWIFcMBxC/6N6cIqsnD0MbILw=;9S8Q8Bzup/16M4gnXQaBUw=="
 ---

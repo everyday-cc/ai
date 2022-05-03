@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 828
         isCached: true
+  - title: "Tesla Still Has Significant Self-Driving Potential"
+    excerpt: "Self-driving and autonomous vehicle technologies aren’t necessarily elusive today, but there’s still progress to be made on these fronts. As that progress is made, it wouldn’t be surprising to see Elon Musk’s Tesla (NASDAQ:TSLA) participate ..."
+    publishedDateTime: 2022-05-03T15:21:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-still-has-significant-self-driving-potential"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-still-has-significant-self-driving-potential?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-still-has-significant-self-driving-potential?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Self-driving tractors plowing ahead in the marketplace"
     excerpt: "While there is a farmer sitting in the cab, the vehicle might be driving itself. That tractor is often operating on auto pilot using semi-autonomous, self-driving technology. While the tractor plows along thanks to features like autosteer and computer ..."
     publishedDateTime: 2022-04-30T14:00:00Z

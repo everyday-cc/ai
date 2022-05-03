@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-29-meet-flamingo-deepminds-latest-open-ended-ai.md",
-      "title": "Meet Flamingo, Deepmind's latest open-ended AI",
-      "excerpt": "Google's Deepmind has published a paper proposing a family of machine learning models with the aim of doing more work with far less costly and time-consuming training. The upside of that is, the tech giant claims, massive cost savings as training is ...",
+      "path": "_news/2022-05-02-how-an-engineer-at-googles-deepmind-ai-lab-pulled-off-a-career-pivot-from-marketing-into-machine-learning-without-a-phd.md",
+      "title": "How an engineer at Google's DeepMind AI lab pulled off a career pivot from marketing into machine learning without a Ph.D.",
+      "excerpt": "The rise of artificial intelligence has prompted a boom in demand for machine-learning expertise. Ivan Lobov, an engineer at DeepMind, worked in marketing before pivoting to AI. Insider sat down ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/29/flamingo_deepmind_ai/",
-      "originalUrl": "https://www.theregister.com/2022/04/29/flamingo_deepmind_ai/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://regmedia.co.uk/2022/04/29/shutterstock_flamingo2.jpg",
+          "url": "https://i.insider.com/62668db69f65660019066e1c?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/",
-      "publishedDateTime": "2022-04-29T04:32:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T07:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,10 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Marketing",
+        "Google AI"
       ]
     },
     {

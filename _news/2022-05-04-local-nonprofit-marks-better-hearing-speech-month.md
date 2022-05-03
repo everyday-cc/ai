@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T18:44:00Z
 originalUrl: "https://www.chattanoogan.com/2022/5/3/448484/Local-Nonprofit-Marks-Better-Hearing.aspx"
 webUrl: "https://www.chattanoogan.com/2022/5/3/448484/Local-Nonprofit-Marks-Better-Hearing.aspx"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Chattanoogan.com

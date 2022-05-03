@@ -51,6 +51,36 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 84
+  - title: "Google Fires Another AI Researcher for Questioning Findings, Company Says Otherwise"
+    excerpt: "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ..."
+    publishedDateTime: 2022-05-03T20:35:00Z
+    webUrl: "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 83
+    images:
+      - url: "https://www.cnet.com/a/img/resize/6f9f38ebe51de141ba324517208291b9c98e6e51/2022/05/02/b1c01638-c17e-462e-80eb-3428354a9ae9/gettyimages-1233383030.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI research is a dumpster fire and Google’s holding the matches"
+    excerpt: "The company made headlines around the globe after firing Timnit Gebru, a researcher it’d hired to help lead its AI ethics division, in December of 2020. Just a few months later it fired another ..."
+    publishedDateTime: 2022-05-03T21:25:00Z
+    webUrl: "https://thenextweb.com/news/ai-research-dumpster-fire-and-googles-holding-the-matches"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Fgoogledumpsterfire.jpg&signature=206ea5a750dc650bd0c30fbd18f9f7ea"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google fires another AI researcher who reportedly challenged findings (updated)"
     excerpt: "Google is still firing AI researchers amid criticism of its work. The New York Times has learned Google fired machine learning scientist Satrajit Chatterjee in March, soon after it refused to publish a paper Chatterjee and others wrote challenging earlier ..."
     publishedDateTime: 2022-05-03T00:38:00Z

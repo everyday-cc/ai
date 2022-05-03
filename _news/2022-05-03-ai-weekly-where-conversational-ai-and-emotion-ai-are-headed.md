@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T19:41:00Z
 originalUrl: "https://venturebeat.com/2022/05/02/ai-weekly-where-conversational-ai-and-emotion-ai-are-headed/"
 webUrl: "https://venturebeat.com/2022/05/02/ai-weekly-where-conversational-ai-and-emotion-ai-are-headed/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

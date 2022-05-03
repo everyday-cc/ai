@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T12:00:00Z
 originalUrl: "https://techcrunch.com/2022/05/03/sleuth-wants-to-use-ai-to-measure-software-developer-productivity/"
 webUrl: "https://techcrunch.com/2022/05/03/sleuth-wants-to-use-ai-to-measure-software-developer-productivity/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

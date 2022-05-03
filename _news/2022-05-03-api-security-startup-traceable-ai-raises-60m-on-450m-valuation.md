@@ -41,6 +41,29 @@ related:
         width: 3838
         height: 2026
         isCached: true
+  - title: "API Security Company Traceable AI Lands $60 Million Series B"
+    excerpt: "SAN FRANCISCO, May 3, 2022 — Traceable AI, the API security & observability company, today announced it has raised $60 million in Series B funding. This new funding values Traceable AI at more than $450 million. This investment round was led by ..."
+    publishedDateTime: 2022-05-03T21:49:00Z
+    webUrl: "https://www.darkreading.com/application-security/api-security-company-traceable-ai-lands-60-million-series-b"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
+  - title: "Traceable AI Raises An Additional $60M For Deployment Of API Security Product"
+    excerpt: "[RELATED STORY: Security Startup Traceable Gets Funding From CISO Group] In a press ... In an interview with CRN, Jyoti Bansal, co-founder and CEO of Traceable AI, wouldn’t disclose how much of the company’s sales are currently through the channel."
+    publishedDateTime: 2022-05-03T18:53:00Z
+    webUrl: "https://www.crn.com/news/security/traceable-ai-raises-an-additional-60m-for-deployment-of-api-security-product"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 31
 
 secured: "ZdPWJYsFSAqWfoXtT0prxQ+m/mMH/8FrSI3APErTyELkui8RudbSV3s72/+SQtNvPpCRToFSOgTI7XGAp/hnu7Z+pm8/0F+X5Wjto4oDTnJ5QDYa4fFBh7+LUZH0V/WL4iz54feFp8ORTjR6cNDo6g9PTbYuLsjECTWgx8QTiyWaRT3AljaBv6+5fYg0+fGz6gGP+2N8Ph7Xz5LZmdoSjux09J9IHPliHxF1k/eyGbHfVPwngbg4XgsUnsVzbrIsbZuUZDIzQL256f4ESye3jE+PpZsPbAiDfxKcXJCemQLaTt/lieqduZJdGitWe3PTx7/rbf7KuojjLVRI4P26os8hnwRHRvmEe023LTYce94=;0H1bEOJ29Bl5NJrRUSS3gw=="
 ---

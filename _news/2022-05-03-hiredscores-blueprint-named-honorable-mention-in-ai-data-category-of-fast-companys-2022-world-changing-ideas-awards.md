@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/hiredscore-s-bluep
 webUrl: "https://markets.businessinsider.com/news/stocks/hiredscore-s-blueprint-named-honorable-mention-in-ai-data-category-of-fast-company-s-2022-world-changing-ideas-awards-1031412949"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "GLYNT.AI Honored with Awards from Fast Company"
+    excerpt: "MOUNTAIN VIEW, Calif., May 3, 2022 /PRNewswire-PRWeb/ -- The winners of Fast Company's 2022 World Changing Ideas Awards were announced today, and GLYNT.AI was selected as an honorable mention in two categories, AI & Data, and World Changing Ideas."
+    publishedDateTime: 2022-05-03T19:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n26974045/glynt-ai-honored-with-awards-from-fast-company"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26974045"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26974045"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Smarter Sorting Named Winner in the AI and Data Category of Fast Company's 2022 World Changing Ideas Awards"
     excerpt: "From a 3D printed vaccine patch to an electric truck, a seawater-powered lamp to using data and math to eliminate testing on animals, the sixth annual awards honor the products, concepts ..."
     publishedDateTime: 2022-05-03T11:31:00Z

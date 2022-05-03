@@ -18,17 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Ai Chipset Market to Witness Huge Growth from 2022 to 2027: Xilinx, Google, Micron Technology, Qualcomm Technologies"
-    excerpt: "New Jersey, NJ — (SBWIRE) — 04/29/2022 — The Worldwide Ai Chipset Market has witnessed continuous growth in past few years and is projected to grow at good pace during the forecast period of 2022-2027. The exploration provides a 360° view and ..."
-    publishedDateTime: 2022-04-29T21:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-chipset-market-to-witness-huge-growth-from-2022-to-2027-xilinx-google-micron-technology-qualcomm-technologies"
+  - title: "AI in Computer Vision Market Research Status, Business Growth Analysis by Top Countries Data and Segments Insights 2021 – 2030"
+    excerpt: "The market study incorporates an in-depth analysis of the AI in Computer Vision Market based on the key parameters that take in the drives, sales inquiry, market extents & share. Moreover ..."
+    publishedDateTime: 2022-05-02T11:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-research-status-business-growth-analysis-by-top-countries-data-and-segments-insights-2021-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 14
+    quality: 26
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7375b70c7f3e94b282b4caaf5e6c8b29921701b5-600x337.jpg"
+      - url: "https://amarketplaceresearch.com/wp-content/uploads/2022/05/AI-in-Computer-Vision-Market.jpeg"
+        width: 790
+        height: 466
+        isCached: true
+  - title: "AI in Manufacturing Market Research Analysis: 2021 – 2030 Growing Demand and Competitive Outlook"
+    excerpt: "Quadintel published the latest research report on the AI in Manufacturing market. In order to comprehend a market holistically, a variety of factors must be evaluated, including demographics, business cycles, and microeconomic requirements that pertain ..."
+    publishedDateTime: 2022-04-29T06:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-manufacturing-market-research-analysis-2021-2030-growing-demand-and-competitive-outlook"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Mariupol-AFP-1k-600x337.jpg"
         width: 600
         height: 337
         isCached: true

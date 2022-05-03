@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-nat
 webUrl: "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/"
 type: article
 quality: 50
-heat: 70
+heat: 90
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Finbots.AI raises USD 3m from Accel in Series A round"
+    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, recently announced it has raised a successful Series A round of USD 3 Million. This round saw the participation of a single investor – Accel."
+    publishedDateTime: 2022-05-02T11:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/finbots-ai-raises-usd-3m-from-accel-in-series-a-round/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/FinTech-Week-London_July2022_MPU.jpg"
+        width: 600
+        height: 500
+        isCached: true
   - title: "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists"
     excerpt: "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ..."
     publishedDateTime: 2022-05-02T13:34:00Z
@@ -48,6 +62,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Finbots.AI Raises $3M From Accel In Series A"
+    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
+    publishedDateTime: 2022-04-30T19:27:00Z
+    webUrl: "https://menafn.com/1104139051/FinbotsAI-Raises-3M-From-Accel-In-Series-A&source=138"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
 
 secured: "KopQxZtLjV9P8NncyKsWLwedLkrFUINuZMb/T/mCgUR0nhNa5AcE0G8N9o8clxt4iFbIhZ6XlFVhdrxGJJr7OE35hBjHmQchKR+iAkWy38amaGZUJQAl657DgJg8fZEPoyVQf7fATyesDlOpZ0LsXAcpkkooDPKRZvOareHesKLjkSv4yr1G8YdKqBO95IVuybLnxshY4Ga9dFMm4FgrIBVLs8A10CkkDylRxGO4hOcLkD6EcjI5qQBURk8nLSUs1f8zHiEL0UhJ2EgE5BI5Mr/9AFTxMkFcoWBL6pv8R0S7TL862e1saiL1VgalLvyBkc8FpI5ebhVLBmPBiFO+05isV6keHzGQjl7ctR/XXMM/RD/n1gL6EX4sxAyMLi+PLTJ0vOXYA2ztwHJ8rAy1dvjn2G8bdnNzdfw1SFXCpkMwdyUgzA8f0IDE0zO8BMsAHueVZzl7YfvuS7OgA+2CYtrpbO4rrZq6EcSANRipRO7luBHIe+ogW3OpIdznLDDDvSsNKMZqOJRsJIU9Qy2pnw==;gqjz6OnwyMgrnVK9iF1WOQ=="
 ---

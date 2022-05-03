@@ -36,6 +36,20 @@ related:
         width: 1061
         height: 581
         isCached: true
+  - title: "Finbots.AI raises USD 3m from Accel in Series A round"
+    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, recently announced it has raised a successful Series A round of USD 3 Million. This round saw the participation of a single investor – Accel."
+    publishedDateTime: 2022-05-02T11:24:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/finbots-ai-raises-usd-3m-from-accel-in-series-a-round/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/FinTech-Week-London_July2022_MPU.jpg"
+        width: 600
+        height: 500
+        isCached: true
   - title: "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists"
     excerpt: "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ..."
     publishedDateTime: 2022-05-02T13:34:00Z
@@ -50,6 +64,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Finbots.AI Raises $3M From Accel In Series A"
+    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
+    publishedDateTime: 2022-04-30T19:27:00Z
+    webUrl: "https://menafn.com/1104139051/FinbotsAI-Raises-3M-From-Accel-In-Series-A&source=138"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
 
 secured: "ZIsma/H6kWeHIIHkcRmSZP3vzL6b55eYOaWhb8ecVVAR4Jympdd5jPyWZ6snz3B8PmHzl/wP4aubgfWs2RlnyJloG6GL3+ikEwNMm/dMnGkZeWOdPdHHXC6PZfziFOv7tf7/QAfCmU3SHIisdjY0kHK+vfdhuPap7IctFIAMaEuXqCp+lRd+ACYS5rzK6AbHtxJP+bOd/U0Suug5GLfA4n8TlqL4SD6acuoSX4O7Rmx/N6CfLlyvp0K04Kryu3JvrXWFLiqbGRPhRF2ca1w31qKJQsMrfmKPjElAit2Kz+6v/6iRKLaxqEHfH/4A+NffUt/qMMVWDR4kmxTiqt7GT/Bt6rtMDAsHU/bVDbgM+LwRXBVnipSdQwtU0cWu5lTUIBEzDVZpcb/0YTRTyMaUFWlv9nRS3N+MuFzZNcJHqRuUiEB6nmQPfEMNoN1SHHtfNRYX32m/jjYuqqhAjyCwWWTDP00fpcsqyHgB4p55xUk6ukSGhQvandTrytdYOG++AopAhYVXiqXXACRnpCZ5Mg==;wHv+RfkC1sE8u+/PUJgYBg=="
 ---

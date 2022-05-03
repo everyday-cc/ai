@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T19:58:00Z
 originalUrl: "https://apnews.com/press-release/PRNewswire/los-angeles-563b3eb0da9170763fa349d0495111e6"
 webUrl: "https://apnews.com/press-release/PRNewswire/los-angeles-563b3eb0da9170763fa349d0495111e6"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-seri
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
 type: article
 quality: 51
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: enterprisetalk
@@ -27,44 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Synthetic AI startup raises $17M to train facial recognition with digitally-rendered people"
-    excerpt: "Startup Synthesis AI has raised $17 million in Series A funding from a number of funders to back its synthetic AI platform that generates a wide range of people to teach visual AI models like facial recognition. Synthesis AI, founded and led by CEO Yashar ..."
-    publishedDateTime: 2022-04-29T17:26:00Z
-    webUrl: "https://www.biometricupdate.com/202204/synthetic-ai-startup-raises-17m-to-train-facial-recognition-with-digitally-rendered-people"
+  - title: "AI enhanced Smart Interviewing Platform BarRaiser Finalizes $4.2M Seed Round"
+    excerpt: "BarRaiser, which claims to be a “groundbreaking” AI-enhanced smart interviewing platform, has announced that it acquired $4.2 million in seed financing. The firm’s investment round was “led by 021 Capital and Global Founders Capital, with ..."
+    publishedDateTime: 2022-05-03T16:18:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/05/190571-ai-enhanced-smart-interviewing-platform-barraiser-finalizes-4-2m-seed-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/190571-ai-enhanced-smart-interviewing-platform-barraiser-finalizes-4-2m-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190571-ai-enhanced-smart-interviewing-platform-barraiser-finalizes-4-2m-seed-round/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 44
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
-        isCached: true
-  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
-    excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
-    publishedDateTime: 2022-04-29T20:53:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 38
-  - title: "Finbots.AI raises USD 3m from Accel in Series A round"
-    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, recently announced it has raised a successful Series A round of USD 3 Million. This round saw the participation of a single investor – Accel."
-    publishedDateTime: 2022-05-02T11:24:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/finbots-ai-raises-usd-3m-from-accel-in-series-a-round/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/FinTech-Week-London_July2022_MPU.jpg"
-        width: 600
-        height: 500
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg"
+        width: 1080
+        height: 810
         isCached: true
   - title: "News: AI-powered interviewing platform BarRaiser raises $4.2 Mn"
     excerpt: "Bengaluru-based AI-powered smart interviewing platform, BarRaiser has announced raising $4.2 Mn in seed funding round led by 021 Capital and Global Founders Capital with participation from other angel investors. BarRaiser’s AI-powered platform ..."
@@ -80,33 +57,6 @@ related:
         width: 990
         height: 550
         isCached: true
-  - title: "ICON Corporate Finance Advises AI Platform-as-a-Service Provider ForePaaS on its Acquisition"
-    excerpt: "ForePaaS offers a unified platform specialising in data analytics, machine learning, and artificial intelligence for ... Acquiring ForePaaS further propels OVHcloud’s Platform-as-a-Service strategy and reinforces its position as a leading global player ..."
-    publishedDateTime: 2022-04-29T12:49:00Z
-    webUrl: "https://financialit.net/news/banking/icon-corporate-finance-advises-ai-platform-service-provider-forepaas-its-acquisition"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 23
-  - title: "Finbots.AI Raises $3M From Accel In Series A"
-    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
-    publishedDateTime: 2022-04-30T19:27:00Z
-    webUrl: "https://menafn.com/1104139051/FinbotsAI-Raises-3M-From-Accel-In-Series-A&source=138"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
-  - title: "Finbots.AI raises US USD 3 million from Accel in Series A round"
-    excerpt: "New Delhi/ Bengaluru (Karnataka) [India], May 2 (ANI/PNN): Finbots.AI, an AI-led, innovations-driven venture targeted at banks and financial institutions, today announced it has raised US USD 3 million in a Series A round from Accel. The investment by ..."
-    publishedDateTime: 2022-05-02T12:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272536132/finbotsai-raises-us-usd-3-million-from-accel-in-series-a-round"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 17
 
 secured: "ZayaAJPxpzyEj7Hv16ZH0HOMEf3qCValc/2+3SLhd30e6LiEqRxhEqfBFrC1mkVA2W7F2jmr/CuxrPkmLZqLnAURISYhBxBcTSeCTPd9xMXIQY2fxTsrYRJpY9IXafhBrPpkRpOP/0YsaoXIMEsCpO7aSdJnWSIixSWu1uy3jGIJESm/K6R/4M4dOS853eRhtU1ba/Vo9R0UATJmxSI9OIdW6Ejpe5MuAxddoZGuNPypEyP54Br3mLqfjagPvlXlMOt7BcorFZIMS8ZWtXBehxd0CbTLGYAIwtoH+GJ3JdGARRDWUrlxGPO8hjpRLwhcIbWxVTwjHRqZPMoZTPupzkxLo7K5KmeBkimRyJJicsvde5nEOUlcLUDDxhneYXHVuHBDs0r70QJB0uCCqsD+ak/lWN10m34/e7kLBOqNPTVp4yozq54PZx7RJuOW0x6ADekLhblUc95Bf/GTi0yU8VkHlqgVC8uHRBuS5pHCvUim/D63esDibR602KnjZliZ6FiECcG9GdILNH1Qumy+9Q==;usMkIMkTd7FGu43GIIiwLg=="
 ---

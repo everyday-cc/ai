@@ -24,70 +24,43 @@ images:
     isCached: true
 
 related:
-  - title: "Synthesis AI Bags $17 Million in Series A Funding Round To Extend Its Synthetic Data Platform for Computer Vision AI"
-    excerpt: "Synthesis AI, a pioneer in synthetic data technologies to build advanced computer vision AI models, today announced it has closed $17 million in Series A financing led by new investor 468 Capital, with additional participation from Sorenson Ventures ..."
-    publishedDateTime: 2022-05-01T10:31:00Z
-    webUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/"
-    ampWebUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
+  - title: "Accern raises $20M to simplify natural language processing for financial firms"
+    excerpt: "Accern Corp., a natural language processing startup focused on the financial services sector, today announced that it has closed a $20 million funding round co-led by Mighty Capital and Fusion Fund."
+    publishedDateTime: 2022-05-02T20:46:00Z
+    webUrl: "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 51
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Synthesis-AI-Bags-_17-Million-in-Series-A-Funding-Round-To-Extend-Its-Synthetic-Data-Platform-for-Computer-Vision-AI-01.jpg"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/accern-1.png"
+        width: 1061
+        height: 581
+        isCached: true
+  - title: "Accern lands $20M for AI that analyzes financial documents on the web"
+    excerpt: "Accern, which uses AI to analyze online conversations around particular companies, trends, and industries, today announced that it raised $20 million in a Series B round led by Mighty Capital ..."
+    publishedDateTime: 2022-05-02T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/05/02/accern-lands-20m-for-ai-that-analyzes-financial-documents-on-the-web/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists"
+    excerpt: "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ..."
+    publishedDateTime: 2022-05-02T13:34:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
-        height: 400
+        height: 450
         isCached: true
-  - title: "Synthetic AI startup raises $17M to train facial recognition with digitally-rendered people"
-    excerpt: "Startup Synthesis AI has raised $17 million in Series A funding from a number of funders to back its synthetic AI platform that generates a wide range of people to teach visual AI models like facial recognition. Synthesis AI, founded and led by CEO Yashar ..."
-    publishedDateTime: 2022-04-29T17:26:00Z
-    webUrl: "https://www.biometricupdate.com/202204/synthetic-ai-startup-raises-17m-to-train-facial-recognition-with-digitally-rendered-people"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 44
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
-        isCached: true
-  - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
-    excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."
-    publishedDateTime: 2022-04-29T20:53:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/synthesis-ai-raises-a-$17-million-series-a-to-expand-its-synthetic-data-platform-for-computer-vision-ai-1031396993"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 38
-  - title: "News: AI-powered interviewing platform BarRaiser raises $4.2 Mn"
-    excerpt: "Bengaluru-based AI-powered smart interviewing platform, BarRaiser has announced raising $4.2 Mn in seed funding round led by 021 Capital and Global Founders Capital with participation from other angel investors. BarRaiser’s AI-powered platform ..."
-    publishedDateTime: 2022-05-02T06:05:00Z
-    webUrl: "https://www.peoplematters.in/news/funding-investment/ai-powered-interviewing-platform-barraiser-raises-42-mn-33839"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1651124684/ad-drezxt5v.png"
-        width: 990
-        height: 550
-        isCached: true
-  - title: "ICON Corporate Finance Advises AI Platform-as-a-Service Provider ForePaaS on its Acquisition"
-    excerpt: "ForePaaS offers a unified platform specialising in data analytics, machine learning, and artificial intelligence for ... Acquiring ForePaaS further propels OVHcloud’s Platform-as-a-Service strategy and reinforces its position as a leading global player ..."
-    publishedDateTime: 2022-04-29T12:49:00Z
-    webUrl: "https://financialit.net/news/banking/icon-corporate-finance-advises-ai-platform-service-provider-forepaas-its-acquisition"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 23
   - title: "Finbots.AI Raises $3M From Accel In Series A"
     excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
     publishedDateTime: 2022-04-30T19:27:00Z
@@ -96,15 +69,6 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 17
-  - title: "Finbots.AI raises US USD 3 million from Accel in Series A round"
-    excerpt: "New Delhi/ Bengaluru (Karnataka) [India], May 2 (ANI/PNN): Finbots.AI, an AI-led, innovations-driven venture targeted at banks and financial institutions, today announced it has raised US USD 3 million in a Series A round from Accel. The investment by ..."
-    publishedDateTime: 2022-05-02T12:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272536132/finbotsai-raises-us-usd-3-million-from-accel-in-series-a-round"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
     quality: 17
 
 secured: "W9RLiL7Q/EtzPBh7mzzKCZ9JGygaXpl6J+TFKyQjLsHbjxwbSh3Q/Nl+609a2rX5HQzZHuDhQEjMIbjapyho7zEf60mVYlV+eEEiKCr8HWBrtd+rkzIf6y5F0SKIXMVx0h86THFGyheBhENy/ICrfc4U7PieUpABit3zya0NT8FPSpwTGXosOCfFhIeBBndiAz5SSnO9wPskul842qvGzLvSfQA5nHdEGWSE03ORplMq6IVdzWeJTui2JDRX4KmOICPaltXQ9ubHPHRoRbT8AOpiR5qVqy4MYqHBG8f2RH87GPxb44AoAdUGI1L9+U0vHPlEkPvVDU3S3/3u6bZUjzAcCk7Xl2NqGqk765IgNC1SJF47lEAoBYYEmNm8LgqfpXhEPCO9rfIxFhbTxkzEkkYO3tRo5SLiTwYi6VXbPil1SZ5yiIonS1xxiucbY1ly47HA2QuGDrgaEOZKorus2aJWvKIax3wu8R8eyRaR0fICx8DN4Yw3hQ6h1ZaUJGYSbgL4xxYG1FCxMH6cIIkhYw==;FjopAYIXOiT6UOyr70jR0Q=="

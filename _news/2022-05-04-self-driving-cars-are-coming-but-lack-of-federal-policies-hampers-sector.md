@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T18:59:00Z
 originalUrl: "https://www.bondbuyer.com/news/lack-of-autonomous-vehicle-regulation-a-problem-in-the-u-s"
 webUrl: "https://www.bondbuyer.com/news/lack-of-autonomous-vehicle-regulation-a-problem-in-the-u-s"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: The Bond Buyer

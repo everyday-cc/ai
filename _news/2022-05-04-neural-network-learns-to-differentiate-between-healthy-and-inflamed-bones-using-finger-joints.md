@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T19:37:00Z
 originalUrl: "https://medicalxpress.com/news/2022-05-neural-network-differentiate-healthy-inflamed.html"
 webUrl: "https://medicalxpress.com/news/2022-05-neural-network-differentiate-healthy-inflamed.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Medical Xpress

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T19:41:00Z
 originalUrl: "https://betakit.com/untether-ai-secures-1-million-for-partnership-with-general-motors/"
 webUrl: "https://betakit.com/untether-ai-secures-1-million-for-partnership-with-general-motors/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: BetaKit

@@ -26,14 +26,21 @@ images:
 
 related:
   - title: "Financial-Technology Firms Tap AI to Reach More Borrowers"
-    excerpt: "Nearly every big fintech company has to rely on bank partners for regulated tasks such as holding customers’ deposits and issuing debit cards. LoanSnap Inc., a five-year-old startup based in San Francisco, uses AI to scan financial information such as a ..."
+    excerpt: "He said smaller online lenders are benefiting from a head start in the use of AI and machine-learning models, digital document management and customer services designed around mobile devices—though many banks are catching up, he added. The global fintech ..."
     publishedDateTime: 2022-05-02T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc"
+    webUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
+    ampWebUrl: "https://www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 49
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-535177/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "How does AI help improve hearing aid technology?"
     excerpt: "Hearing loss research has seen significant advancements from the use of artificial intelligence (AI). AI is a system that uses data to recognize patterns, which can then be applied to solve problems."
     publishedDateTime: 2022-05-01T07:06:00Z

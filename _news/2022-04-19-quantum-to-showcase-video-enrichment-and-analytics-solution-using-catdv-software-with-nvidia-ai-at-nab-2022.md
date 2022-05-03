@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
-excerpt: "Customers can automate common content-tagging and enhancement tasks such as object recognition within video frames, speech-to-text transcription, video and audio super-resolution, and other tools ..."
-publishedDateTime: 2022-04-19T07:00:00Z
-originalUrl: "https://www.victoriaadvocate.com/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_ecf6c7b5-417f-5347-937f-7fa51934f2b8.html"
-webUrl: "https://www.victoriaadvocate.com/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_ecf6c7b5-417f-5347-937f-7fa51934f2b8.html"
+excerpt: "Customers can automate common content-tagging and enhancement tasks such as object recognition within video frames, speech-to-text transcription, video and audio super-resolution, and other tools to add valuable metadata to video and image files ..."
+publishedDateTime: 2022-04-19T12:42:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/04/19/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software"
+webUrl: "https://stockhouse.com/news/press-releases/2022/04/19/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/e/60/e606b659-a940-5f38-be30-04aa8f639840/625ea81644068.image.jpg?crop=909%2C477%2C0%2C66&resize=909%2C477&order=crop%2Cresize"
-    width: 909
-    height: 477
+  - url: "https://mma.prnewswire.com/media/1799283/NVIDIA_AI_Hero_Image.jpg"
+    width: 400
+    height: 269
     isCached: true
 
-secured: "nPNg7TY444ozZPKQqbtODVXIkry36ELVYDt51OmwYSbGa5S1Nkg0oxynMBocQKluRStrivWjL0g+SrjXE61UIgEs3VTLiKEJ5kizQLfxdogBVxeI01qFx7LyX85QV4wwQChtHxXLc5zvn9Z4E0+QmEyCsKuYraSnhX+FtOyLL3Fv93vbbT+v5GdqpCb7zJTGFVuMCAj8BAEpuod1VSbipw4gnjbivV9rxRyZ7u9OW3LHzkgNz429z7fB2+zJDnYJMcn7Q8QSGknma6wlh79eqbPZWUrw2XSgK8i1FxBEujyPfDH7xjZzvmECJRn3n493KwLmmOz7VRZl8vTFSRg5a6uxS9E0kPoxrDM3whofcOE=;FDGGEgOodJ/jzla0NIXKXA=="
+secured: "fVHjqM+J6/HLnL9/8SbxN77b6eqz9U7Viz1HNPTUG5onSGrreA2EvvUqmUnVTXeFXmMIJjcsydxm0Dmo6E2oyLpfxFN6q/h7F+6F6qo2JTP+rtjVH7dx69f6c1TAz0JIVgKzh37OfdZ3TBqZkFDsdL7uZTPPCALDxvF6LU6v0YVDLjqlFyS2bTHwsRysUMRG6v7Jdx4kf/isrqrfahVE3jvNsHocBndex4DWd8t3dDQvdvoc5y3gDbiPWKu2elLvVM44lggZ34uLB+XTBnf/hhV6g+/UvLg/wLEL3RvXgnuwL+rhmLCqmTJEOlOkaNSWpKYiwA0NuYzPczX00ZLNCJwMRta76v1SbciW6NxohsU=;in1aWIuydIvn2vLyZOnSbw=="
 ---
 

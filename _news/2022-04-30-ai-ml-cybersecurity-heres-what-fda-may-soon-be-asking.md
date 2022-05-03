@@ -7,7 +7,7 @@ originalUrl: "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecu
 webUrl: "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "W-S startup Salem Cyber, promising ‘a paradigm shift’ in cybersecurity, raises $250K seed round"
+    excerpt: "WINSTON-SALEM – The Winston-Salem-based cybersecurity startup Salem Cyber has closed ... Salem Cyber’s product, Salem, is best thought of as an AI cybersecurity analyst, according to the ..."
+    publishedDateTime: 2022-05-03T18:31:00Z
+    webUrl: "https://wraltechwire.com/2022/05/03/w-s-startup-salem-cyber-promising-a-paradigm-shift-in-cybersecurity-raises-250k-seed-round/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 5
 
 secured: "44OvyEuSukw/DeHXEQ7QVVD/WWAJ4ar0qBsCxvMzUH78LuL5KGaBoPBIWebKwP7smiCQZdOCHXbxyAljXkM/ndFlzm0mUhqhc8LKRMnNrtRtRO4x60jMHQXSVWAQHlo58Kzon+Ot7yB5IO5sYp78wvdtCUSopFfeqlDA3NiyxrtB0WRRtPaenUYrEqFaaeSF+Lizjl6sIHA6c6cumkP1t7hWLfyArIBHqmLl1jfsuzpADKTN7sL+oNERuHiKqQqPpmGhOb1VSa11gZCVWz+pKZK2vn7tlEFmye9afz6xSNTAcvcAuo5yJxGvtRchJnFMB7ztVNOPoElR/3NEJwVPraUrrvAuTxSagNDOF460gSVs4vG1cPhE9JJnzrIJVtpywbhD6LDdl+qF+QqWg3HvdKcjiuIjaSWztkmc3tKXXzlBMsxA4r8yTNPvE4yyuMQLMf0J4xEeVTdsBokvWxolrqysVzbL8iLk1IxTYdWrgCaNeyCjwXHAt9EYlk5Z5Tj4KSifj1Re+9VR/3dJTdhP+w==;gjA6mmTI+VBmUVGHvR2boQ=="
 ---
