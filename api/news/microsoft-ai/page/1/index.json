@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-03-developer-experience-doesnt-have-to-stop-at-the-front-end.md",
+      "title": "Developer experience doesn’t have to stop at the front end",
+      "excerpt": "While learning to build machine learning models, he saw data scientists spending ... Developers can then deploy to AWS, Azure, or Google Cloud. The project was founded in 2021 by ex-Spotify engineers André Eriksson, Marcus Kohlberg, and Horia Jurcu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html",
+      "originalUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/ladder_escape-100714285-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.amp.html",
+      "publishedDateTime": "2022-05-02T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-dell-launches-new-aws-azure-multi-cloud-security-solutions.md",
       "title": "Dell Launches New AWS, Azure Multi-Cloud Security Solutions",
       "excerpt": "or in an unimpacted Azure environment. Dell’s new CyberSense for Dell PowerProtect Cyber Recovery for AWS offering allows customers to use adaptive analytics, scan metadata and complete files, as well as implement machine learning and forensic tools to ...",
@@ -620,6 +672,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-ascriptivism-and-cognitive-development.md",
+      "title": "Ascriptivism and Cognitive Development",
+      "excerpt": "In the first chapter of this book, I contrasted the first-order subjective experience of understanding, the “A ha!” experience of making sense, with the objective valid ascription of understanding that had long been the concern of analytical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/making-sense/ascriptivism-and-cognitive-development/88532B1D5176D16D101BD72545D7539A",
+      "originalUrl": "https://www.cambridge.org/core/books/making-sense/ascriptivism-and-cognitive-development/88532B1D5176D16D101BD72545D7539A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1260,92 +1355,6 @@
       "provider": {
         "name": "India Times",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-bengaluru-airport-announces-winners-of-bial-genie-hackathon.md",
-      "title": "Bengaluru Airport announces winners of BIAL Genie Hackathon",
-      "excerpt": "The winners of the 'BIAL Genie Hackathon,' which was hosted in conjunction with Microsoft, were announced today at Bengaluru Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735.html",
-      "originalUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/04/13/1600x900/fahim-muntashir-F1PCLT669UU-unsplash_1649842544676_1649842564578.jpg",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html",
-      "publishedDateTime": "2022-04-13T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-cognitive-computing-market-projected-to-775-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
-      "title": "Cognitive Computing Market projected to $77.5 billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The report includes the study of the key players offering cognitive computing solutions and services. The major vendors Microsoft (US), Google (US), IBM (US), Numenta (US), SAS Institute (US), AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104000062/Cognitive-Computing-Market-projected-to-775-billion-by-2025-Exclusive-Report-by-MarketsandMarkets™&source=139",
-      "originalUrl": "https://menafn.com/1104000062/Cognitive-Computing-Market-projected-to-775-billion-by-2025-Exclusive-Report-by-MarketsandMarkets™&source=139",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-04/12/EP_2d3d0image_story.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

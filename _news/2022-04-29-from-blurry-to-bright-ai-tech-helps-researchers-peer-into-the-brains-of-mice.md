@@ -47,15 +47,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 17
-  - title: "From blurry to bright: AI tech helps researchers peer into the brains of mice"
-    excerpt: "Johns Hopkins biomedical engineers have developed an artificial intelligence (AI) training strategy to capture images of mouse brain cells in action. The researchers say the AI system, in concert with specialized ultra-small microscopes,"
-    publishedDateTime: 2022-04-28T14:14:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/951096"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 14
 
 secured: "z6U9mI/zPyPtpLoAKGblsM2qyV8Zw3J1j/Wy6Cgy6chxy30hBk4zIUTySWrg2cF7YySNBi0RgPR3XEccs7PwNaVBci8WcU72YQJXAVitfR1yziHmOsmcIxmyNfZv9/WCGBy/0N0n+c4Y6pbq65zLK8d+v4RpvogoBwyEBA4lLs5FgyJDIZ+2Lyjt/ILfHgAjGSxc2GM/bHCxeSgUEzn80csmmtGl4OX6zPUd9JBkSwgkndhsR7DT6foeEwFwHpEkL0Vplaf6i1pnCngHnRGdEccPA6XLEhAnKGQpVVs7Cs1Xs3ZJoQqOY9YAezkwnDzCuJoSy0g0ze9DFNUo+JQyA0otbSbuq+W43ZTGz0pcPwc=;lt4dqtvIf7qppP0+OkKGIQ=="
 ---

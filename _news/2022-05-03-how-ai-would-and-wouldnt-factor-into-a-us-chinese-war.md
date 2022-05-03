@@ -1,0 +1,28 @@
+---
+category: news
+title: "How AI Would — and Wouldn’t — Factor Into a U.S.-Chinese War"
+excerpt: "In March, a largely overlooked, 90-page Government Accountability Office study revealed something interesting: This summer, the Pentagon is getting a new AI Strategy. Between shaping ethical norms for AI and establishing a new Chief Data and AI Officer ..."
+publishedDateTime: 2022-05-03T07:55:00Z
+originalUrl: "https://warontherocks.com/2022/05/how-ai-would-and-wouldnt-factor-into-a-u-s-chinese-war/"
+webUrl: "https://warontherocks.com/2022/05/how-ai-would-and-wouldnt-factor-into-a-u-s-chinese-war/"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: War on the Rocks
+  domain: warontherocks.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://warontherocks.com/wp-content/uploads/2022/05/armored-vehicles.jpg"
+    width: 1330
+    height: 888
+    isCached: true
+
+secured: "4mYzQRwnJaETWPF1prbVaZ3HC0SnEiKgfhUWtDEj3L58z7iT000VEedvPzqLgQ+AX+XAtlHpm0IGweFUGyOV08c+lsbmqLPFLz4Que2pmQD1xXm4DTeQmgqYJ/JYaz/lZE+6a/nvVKk/gsBDNJqatZoQuANxkLNzV4GhDReyVIPwLMN+67OrFFLn7YHK2vsbIoe1m7d4V2r7rujRw1+W0ZhCoWdJH0jpVsFsaFcIy/GnoL/NR/qz8+T0N76qGB/IhQxoIxOxd3SgwaYNEUDFl9FMyVUMk+lYdnonZNOJcz/DcGMnQ9h/E+yeEIAp0TrQoz8A50bRFoS3JafDG6fBtVHKBCg/wGO+3GOCsDiPRy8=;k0ED3bK3XYHgvSJUflx08A=="
+---
+

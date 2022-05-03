@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-e
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "Explainable AI for Fraud Prevention"
-    excerpt: "As the use of AI- and ML-driven decision-making draws transparency concerns, the need increases for explainability especially when machine learning models appear in high-risk environments."
-    publishedDateTime: 2022-04-28T14:00:00Z
-    webUrl: "https://www.darkreading.com/analytics/explainable-ai-for-fraud-prevention"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 37
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9794957fc4f27cb5/6269914029646968ff703a13/Fraud_Wavebreakmedia_Ltd_UC6_Alamy.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "thMbIOhqwcOrhdqC0DmYv45Q5dGRU8KR+xTIhMQnVXoSsYSOR9zPkUG9CMNBxWnp+Rhr+IgH3wxvl1VOPEywWa4q6d2B/psGHS3Z6+NLIU624V0K4GbqGGLbxW4LTf65/7ntMlwyeLL0OdAE4VMSaVDOEPbLR2xDJ0pQ466fcaGEuwy9NeyKSW8bXw1dJfOUqZ1oiDPSF9rbRHxQi4x49YGku2WEYHCs5ncfS6g+dVNnyhnDCCMMC4QyzGmuOEMd4UK1ix627T1fNeZhwdHru5qU/M8yPbxvcrD3SVY/W5A3TX2N9/HEdxTbGjwhDhjgBtO1TcSxZSmJxa89mLhZlDTTEMfn0h+yCsjsYmXF1Mti+wsj/tCxq92SFIwAqCqZ2Zgi8Jv6wqB4ijD2D2Wx5+dKTE1P1WjmTHfql+clZ0HEdAARI87eqcuO32dO7ikGV60njZ8c0Y96x2JcEiKdCj5cNX1afAxQBe4NgxvAlpRCiRj9X6YhVayAwfUovbUyYYKFgbrtnpgOqDCUWLsBYA==;jORV0MqlpptM3j+5ANgkHg=="
 ---

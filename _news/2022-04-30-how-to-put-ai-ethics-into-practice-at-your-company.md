@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6270afa356fe8039a23aa466/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -86,6 +86,20 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2022/05/what-privacy-professionals-need-to-know-before-investing-in-federated-learning_1500.jpg"
         width: 1500
         height: 860
+        isCached: true
+  - title: "How AI predicts what you’ll buy"
+    excerpt: "It’s a jungle out there—few places so much so as the world of “smart” advertising. There, marketing geniuses have developed increasingly sophisticated algorithms that take all the ..."
+    publishedDateTime: 2022-04-30T10:42:00Z
+    webUrl: "https://localnews8.com/stacker-news/2022/04/29/how-ai-predicts-what-youll-buy/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 37
+    images:
+      - url: "https://localnews8.b-cdn.net/2022/04/shutterstock335123117UTON_0.jpg"
+        width: 1010
+        height: 720
         isCached: true
 
 secured: "uFQFaU8V5PZsVaaB9taVbJ6OGK3IZvuXqUHmQDcy2ViY7V32J1FeXVRpIsfDBIMQ0djaJvCAW2O0f1hTuCkvR2nYOYtV4LXc0RzBE05Jg03+a9uFOv9wEl0WK3hQTUb22HM6188qAh4zP9ROMK74od0i9sJtfQlapIbSzTiiis4wEFIocOwqjT6tXSigrgr25rnm0XBLxRqI05viPNsv9msavSIppfcBvSwKGCNXnWVkr/4Ef3zTI9sm4yojl0IARSLRyrrcr0S38ZktBE0qEhoDbF2avF7YdlZbOaOhUP8kOp7Y1NKxLXQhWAr6ocwTBTHTu567mc9svbb4gRUzZDngEtY7QGTymlR2YpsMkkI=;sliiSoxnC9nb5vRxLqBNVw=="

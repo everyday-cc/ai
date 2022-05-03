@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-what-you-need-to-know-before-you-start-working-with-artificial-intelligence.md",
+      "title": "What You Need To Know Before You Start Working With Artificial Intelligence",
+      "excerpt": "The first principle is to start with a strategy. Simply put, this means understanding what you are trying to achieve. AI technologies are tools that are deployed tactically to achieve strategic objectives. Your strategy should be in line with your business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6270afa356fe8039a23aa466/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-02T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-healthcare-ethics-in-ai-can-software-make-ethical-decisions.md",
       "title": "Healthcare Ethics In AI: Can Software Make Ethical Decisions?",
       "excerpt": "they must abide by basic principles of medical ethics. Can machines behave ethically, either with or without human oversight? It's a question without an easy answer. To facilitate discussion, let's explore a few topics related to AI-based clinical tools ...",
@@ -421,49 +473,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-26-hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage.md",
-      "title": "Hospitals turn to artificial intelligence to help patients while addressing worker shortage",
-      "excerpt": "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
-      "originalUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a70b74b/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F39%2F0d%2Fd723ccff45b991094268f06a22e3%2Fhospital-doctor-generic.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
-      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
-      "publishedDateTime": "2022-04-25T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WXYZ Detroit",
-        "domain": "wxyz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-04-25-healthcare-natural-language-processing-market-is.md",
       "title": "Healthcare Natural Language Processing Market Is...",
       "excerpt": "Companies Profiled in Healthcare Natural Language Processing Market are Apple Inc, NLP Technologies, NEC Corporation, Microsoft Corporation, IBM Corporation NEWARK, N.J., April 25, 2022 (GLOBE NEWSWIR",
@@ -548,6 +557,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-computer-vision-in-healthcare-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis.md",
+      "title": "Computer Vision in Healthcare Market Research Report 2022 – Industry Environment, Supply Side and Demand Side Analysis",
+      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis-2022-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-report-2022-industry-environment-supply-side-and-demand-side-analysis-2022-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -773,17 +835,17 @@
       "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
       "excerpt": "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research.",
       "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
-      "originalUrl": "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "webUrl": "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "originalUrl": "https://www.mystateline.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
+          "url": "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2022/01/3d2613b2e9264cc5a94c0da6b805f92c.jpg?w=2000&#038;ssl=1",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -793,11 +855,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:30:00-07:00",
+      "publishedDateTime": "2022-04-19T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
+        "name": "WTVO",
+        "domain": "mystateline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1252,49 +1314,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-11T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-how-artificial-intelligence-is-enabling-t-cell-receptor-screening-for-cell-therapy-discovery.md",
-      "title": "How artificial intelligence is enabling T cell receptor screening for cell therapy discovery",
-      "excerpt": "Exogene has combined artificial intelligence (AI) with cutting-edge lab-based technologies to create a fast, scalable TCR screening platform to identify TCRs for cell therapy applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d43747-022-00114-5",
-      "originalUrl": "https://www.nature.com/articles/d43747-022-00114-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw800/magazine-assets/d43747-022-00114-5/d43747-022-00114-5_20301090.png",
-          "width": 800,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nature",

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-kn
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/"
 type: article
-quality: 85
-heat: 125
+quality: 87
+heat: 137
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6270afa356fe8039a23aa466/0x0.jpg?format=jpg&width=1200"
@@ -90,7 +91,21 @@ related:
         width: 1500
         height: 860
         isCached: true
+  - title: "How AI predicts what you’ll buy"
+    excerpt: "It’s a jungle out there—few places so much so as the world of “smart” advertising. There, marketing geniuses have developed increasingly sophisticated algorithms that take all the ..."
+    publishedDateTime: 2022-04-30T10:42:00Z
+    webUrl: "https://localnews8.com/stacker-news/2022/04/29/how-ai-predicts-what-youll-buy/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 37
+    images:
+      - url: "https://localnews8.b-cdn.net/2022/04/shutterstock335123117UTON_0.jpg"
+        width: 1010
+        height: 720
+        isCached: true
 
-secured: "fKGPwhPvKuXFs6FjOfcDo9UPl3mh9ErO9qVu+hI2tuy1NY302QWtOYwsxyX8sgfiaB8DBR4FWXF5TMSWu2Stxu6DZ62/1j/RrXJbafvxmfo2RBGQt8HZtkGxFxw0S8uFaXmbzYqiufYWgEuDvvaL1EnNc1cJappRPy/4F3CxnnztKss4bgjXUJI/DuGK6c1BijXXABbCcUmo1UHpNzu5E3EGrG1cDNwMGI8mDoqn0/O6toxP0anKGoIziOkKOuiZ7XmlkStF5r+BOZYN4RtjbEZcjCkNixWB/taANGt60T1L5yoWZFvw66BrF34VDm6/nIsFqB80T3CCMoU4zbtAZdQFzoYicQgH2j7CMD6dQJI=;lKW68Vl+DQErER49m+WgTw=="
+secured: "GqoAYuBbis0qVJTnpYNBAIbNTF1RU7PgY5ujSR/+toH2x51D2lnyZZqUpdE+fu/saYA2cTirvf7LFK2YKVGk+qN7b6rOKDVC6bcnhkWxzXy1rRSv6KKpp1z0zKM7tIwOCKCySA4z7PXXLGAI3qqVnIhFZLO95V9UDcrMwywN/9/noMLMpb4eLOyTRL8sseyGI6n04C8BQwLUYKNE5/mwx3r0CZnf1rCVcdFSu36cWwg5fdgbFSI86e3eEoMoPKHQgYt3F0UdZA1fF/UYMDsFzDFp/BBmCwAAwTmrWogOOIQw6PjTcaVnLNIsM6B92q8JLY6U5zmLn6eOOxIGRzymTWQ7ApCQZwcmFxnLrD+2eqQfsxjp0xSe7dBw2vrtEgIpRZ1TQD/zQMfjyJzCDG4ejs7+R/k3S4Tr3NujoNdJuWzG0e/MGkXZ7TG0oUXrf9O4NEHSK7HJWZd5w6hVdwRRkCX9B3PdlSowkKNjhStlLhdeYYEHlprDTCJneYRwEkYBg+jZQspsWMNxY1h2UhOCZg==;UMOUUzcR20lOYcSl+1ubjA=="
 ---
 

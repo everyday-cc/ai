@@ -82,6 +82,22 @@ related:
         width: 4032
         height: 3024
         isCached: true
+  - title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
+    excerpt: "Often, capturing neural activity in mice requires restraints ... with the assistance of DNNs,” the researchers wrote. In artificial intelligence, a generative adversarial network (GAN) is a deep learning network that generates output that has similar ..."
+    publishedDateTime: 2022-04-29T20:14:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/picl2887.jpg?itok=BuzpjY5z"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Another Firing Among Google’s AI Brain Trust, and More Discord"
     excerpt: "Tension among Google’s AI researchers reflects much larger struggles across the ... which the paper said could improve the design of computer chips. The technology was hailed as a breakthrough for artificial intelligence and a vast improvement to ..."
     publishedDateTime: 2022-05-02T16:13:00Z
@@ -130,22 +146,6 @@ related:
         width: 4032
         height: 3024
         isCached: true
-  - title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
-    excerpt: "A new study by researchers at Johns Hopkins University shows how artificial intelligence (AI) machine learning can improve the accuracy and speed of mouse brain imaging in action—a breakthrough that one day could help accelerate neuroscience research for ..."
-    publishedDateTime: 2022-04-29T20:14:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/picl2887.jpg?itok=BuzpjY5z"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Google fires another AI researcher who reportedly challenged findings"
     excerpt: "Google is still firing AI researchers amid criticism of its work. The New York Times has learned Google fired machine learning scientist Satrajit Chatterjee in March, soon after it refused to publish a paper Chatterjee and others wrote challenging earlier ..."
     publishedDateTime: 2022-05-02T14:08:00Z
@@ -169,15 +169,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
-    excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
-    publishedDateTime: 2022-04-28T13:17:00Z
-    webUrl: "https://stratechery.com/2022/meta-earnings-meta-spending-ai-costs-and-moats/"
+  - title: "Delta Research Center seeks AI-assisted transformation"
+    excerpt: "DIGITIMES is hosting 2022 Taiwan AI Expo in Taipei from May 4-6. Prior to the event's opening, Delta Research Center (DRC) director-general Chiueh Tzi-cker shared the center's plans in an interview. Founded in 2013, the center is affiliated to Delta ..."
+    publishedDateTime: 2022-05-03T07:06:00Z
+    webUrl: "https://www.digitimes.com/news/a20220503PD207/ai-smart-applications.html"
     type: article
     provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 17
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220503pd207_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "yPY5tOKT1tGvprB2Ol1yVV7NmS06x9yQTv/f8lymtNWTloSp/s2sKEXBdbxdu88ElzmDHV2nmrauIPpN9/n/Oqmpi51Id8Kpbt1DxAEzpH31y6qgcPhi+pHPXL/5377pVy1Y0Z4NwTT9gchSJiQ5R9PhzDMzO0mxA9SwlNyrz3YPYechsFLXcKx7JFcPlZvcWdh+AyUgec7+va8boCny8V8Uj0sAdStEt1aKswdNrrOaVa9Hwa5W7n0QpSMEDGVweTTMoU2udKishpnJ5ZlyHPric7tpYi9spzEiA/siFIZETimEuUn+qka88+V9G2tXA7tfnMXnjjTuIq8RtX2U8qwtsV6N318KMXf7I1Wal5iTjSEq+LCq6jnhN37wpV3QYcRgRoBtIO9KXI1Na4L2ryoMjl4GNmDGmQvdyuTLG5V/fbd9t5XnapGE/eQAKc7habo58NuyMPCq8C5TGrrc5mGPLRBrKTNDVXJwDxFuTPRQ66fx/cg9ts716o1HIXLOgPopovvMRjB4wZmP2apoJQ==;r31nfn/WPeIe819BQURkTQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-cos
 ampWebUrl: "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?w=1024"

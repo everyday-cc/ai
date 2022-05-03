@@ -18,59 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Digital.ai’s AI-powered devops platform offers predictive insights"
-    excerpt: "Digital.ai's new toolset lets IT managers use automation to connect agile development practices at the portfolio, team and individual levels."
-    publishedDateTime: 2022-04-28T14:42:00Z
-    webUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/"
-    ampWebUrl: "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/"
+  - title: "How AI and video are redefining talent recruitment"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-04-28T21:00:00Z
+    webUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/"
+    ampWebUrl: "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354729632-1-e1651100896311.png?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
+      - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design8.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
         isCached: true
-  - title: "Vic.ai debuts AI-powered tool to optimize costs for enterprises"
-    excerpt: "Accounting automation startup Vic.ai today announced a spend intelligence solution to help enterprises optimize their costs."
-    publishedDateTime: 2022-04-28T13:42:00Z
-    webUrl: "https://venturebeat.com/2022/04/28/vic-ai-debuts-ai-powered-tool-to-optimize-costs-for-enterprises/"
+  - title: "WCG and Deep 6 AI Announce Best-In-Class Partnership to Enable Faster, Smarter Clinical Trial Patient Recruitment"
+    excerpt: "May 2, 2022 /PRNewswire/ -- WCG and Deep 6 AI today announced that they are working together to drive more targeted patient recruitment in clinical trials and accelerate enrollment in vital ..."
+    publishedDateTime: 2022-05-02T12:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wcg-and-deep-6-ai-announce-best-in-class-partnership-to-enable-faster-smarter-clinical-trial-patient-recruitment-1031408265"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "How AI predicts what you’ll buy"
-    excerpt: "It’s a jungle out there—few places so much so as the world of “smart” advertising. There, marketing geniuses have developed increasingly sophisticated algorithms that take all the ..."
-    publishedDateTime: 2022-04-30T10:42:00Z
-    webUrl: "https://localnews8.com/stacker-news/2022/04/29/how-ai-predicts-what-youll-buy/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 37
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/04/shutterstock335123117UTON_0.jpg"
-        width: 1010
-        height: 720
-        isCached: true
-  - title: "Axiomtek Unveils AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform for 5G and AIoT Applications"
-    excerpt: "The advanced edge AI computing platform supports high-speed networking capability functions such as the 5G module to drive AIoT innovation. The NVIDIA Jetson Xavier NX-based AIE900-XNX is suitable for vision AI applications including computer vision ..."
-    publishedDateTime: 2022-05-03T04:30:00Z
-    webUrl: "https://www.kron4.com/business/press-releases/cision/20220502HK44322/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform-for-5g-and-aiot-applications/"
-    type: article
-    provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1809632/AIE900_XNX__Fanless_Edge_AI_System_NVIDIA__Jetson_Xavier__NX.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "lXCaIhEtALz7ZBgXfYysBCYthcF6cIn0lOlyVVLL1zEZ73ewBUXIlWcYy6tgnNKX9is5LHANvvk6qOgqS2VckmRt9q9zvxrjz6iwgdBwHV4NMwLYeZ1p4PrFxgmozl2ZQrnjUKogXmb11yxrlCbCqhSRbd+LoR4FEOpidKjoc3ntasrXIzySnrIyE0bwKO7MdMPvEvlwkeyp9+DOc9WrobZSqgMivmxwrJBNqbAp6beUyTaGrjBQ42FAdTiO3ApkG4kyOpUlcZmPk+fq87P1eQlveNSwrv69hHzKmAzOLMqH0YNYcE8BZMxr1lwNPbhx+lR78hNTa9GpeIHWAk6lbx5Vywhw3/bA+8W+9C2cesI=;PuCWLQ1OIfUWM4vbqnJGGw=="
 ---

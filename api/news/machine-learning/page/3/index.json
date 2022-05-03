@@ -2,6 +2,127 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-12-machine-learning-predicts-conduct-disorder-in-kids.md",
+      "title": "Machine learning predicts conduct disorder in kids",
+      "excerpt": "Now, a new study uses a machine-learning approach for the first time to assess risk factors across all three domains in combination and predict later development of CD with high accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-machine-disorder-kids.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-machine-disorder-kids.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/rowdy-children.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-machine-disorder-kids.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-disorder-kids.amp",
+      "publishedDateTime": "2022-04-12T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-mission-cloud-services-wins-techtarget-award-for-its-innovative-aws-machine-learning-work-with-jibjab.md",
+      "title": "Mission Cloud Services Wins TechTarget Award for its Innovative AWS Machine Learning Work with JibJab",
+      "excerpt": "Amazon Rekognition, and Facebook’s Detectron2. This work has resulted in a seamless self-service experience for JibJab customers, who can upload their photos and have final, book-ready images ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8520279/mission-cloud-services-wins-techtarget-award-for-its-innovative-aws-machine-learning-work-with-jibjab",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8520279/mission-cloud-services-wins-techtarget-award-for-its-innovative-aws-machine-learning-work-with-jibjab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-lambda-teams-up-with-razer-to-launch-the-worlds-most-powerful-laptop-for-deep-learning.md",
+      "title": "Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning",
+      "excerpt": "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world’s most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-780635102efe4ed898292ce9d3aeb3f7",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-780635102efe4ed898292ce9d3aeb3f7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-when-it-comes-to-ai-can-we-ditch-the-datasets-using-synthetic-data-for-training-machine-learning-models.md",
       "title": "When It Comes to AI, Can We Ditch the Datasets? Using Synthetic Data for Training Machine-Learning Models",
       "excerpt": "A machine-learning model for image classification that’s trained using synthetic data can rival one trained on the real thing, a study shows. Huge amounts of data are needed to train machine-learning models to perform image classification tasks,",
@@ -1216,156 +1337,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-massaging-ai-language-models-for-fun-profit-and-ethics.md",
-      "title": "Massaging AI language models for fun, profit and ethics",
-      "excerpt": "For applications where there is lots of data, such as natural language processing (NLP), the amount of domain knowledge injected into the system has gone down over time. In the early days of deep learning, people would routinely train a small deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
-      "originalUrl": "https://www.zdnet.com/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
-      "publishedDateTime": "2022-04-04T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-australian-football-uses-machine-learning-to-block-abusive-social-media-posts.md",
-      "title": "Australian Football Uses Machine Learning To Block Abusive Social Media Posts",
-      "excerpt": "Australia's A-Leagues and players’ union Professional Footballers Australia (PFA) are taking their own steps against online abuse by filtering player's social media proactively.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624ac2971a063eb15f547a08/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/amp/",
-      "publishedDateTime": "2022-04-04T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-career-roadmap-machine-learning-engineer.md",
-      "title": "Career roadmap: Machine learning engineer",
-      "excerpt": "As organizations worldwide adopt machine learning across virtually every industry, the demand for machine learning engineers is on the rise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
-      "originalUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/03/nkridler-career-roadmaps-100923109-medium.jpg?auto=webp&quality=85,70",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html",
-      "publishedDateTime": "2022-04-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

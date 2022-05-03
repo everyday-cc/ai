@@ -41,20 +41,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Force 5 Launches Facial Recognition Technology for Utility Industry"
-    excerpt: "Force 5 announced the launch of facial recognition technology, which the company says significantly improves identity authentication of the employees, workers, and visitors entering a power utility's facilities."
-    publishedDateTime: 2022-04-28T14:04:00Z
-    webUrl: "https://www.utilityproducts.com/safety/article/14275603/force-5-launches-facial-recognition-technology-for-utility-industry"
-    type: article
-    provider:
-      name: Utility Products
-      domain: utilityproducts.com
-    quality: 39
-    images:
-      - url: "https://img.utilityproducts.com/files/base/ebm/up/image/2022/04/force5_logo.626a9b99177c5.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Canada should limit police use of facial recognition technology, say privacy commissioners"
     excerpt: "Parliament should limit Canadian police use of facial recognition technology to closely defined circumstances such as serious crimes, the country’s federal, provincial, and territorial privacy commissioners said today. Their statement was released as ..."
     publishedDateTime: 2022-05-02T17:36:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
-excerpt: "A new study by researchers at Johns Hopkins University shows how artificial intelligence (AI) machine learning can improve the accuracy and speed of mouse brain imaging in action—a breakthrough that one day could help accelerate neuroscience research for ..."
+excerpt: "Often, capturing neural activity in mice requires restraints ... with the assistance of DNNs,” the researchers wrote. In artificial intelligence, a generative adversarial network (GAN) is a deep learning network that generates output that has similar ..."
 publishedDateTime: 2022-04-29T20:14:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -168,16 +169,21 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
-    excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
-    publishedDateTime: 2022-04-28T13:17:00Z
-    webUrl: "https://stratechery.com/2022/meta-earnings-meta-spending-ai-costs-and-moats/"
+  - title: "Delta Research Center seeks AI-assisted transformation"
+    excerpt: "DIGITIMES is hosting 2022 Taiwan AI Expo in Taipei from May 4-6. Prior to the event's opening, Delta Research Center (DRC) director-general Chiueh Tzi-cker shared the center's plans in an interview. Founded in 2013, the center is affiliated to Delta ..."
+    publishedDateTime: 2022-05-03T07:06:00Z
+    webUrl: "https://www.digitimes.com/news/a20220503PD207/ai-smart-applications.html"
     type: article
     provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 17
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220503pd207_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
-secured: "RJhqoJlqU1dHx74bMYkYxO4xJuFXf7Sb4qaHyhh44WKCGsgoF1m4nCQgKi7eP5Gm+/MHI/AIL2ZUywuvp/HVqOPPDWSjEEkxZE54U28b11psqT09uAm9pXvOoMiDfoxisDt1sZnj4RPrLb4LBQHyTPhXfFrEhAJFOnnPHChFzXvEGIy/pOpwOS7Iiut4mDiSbl0YcuuTV9ybXn3rAMUGC5j6zq8MZX5XrJr2SZG6MQ8X7ZmK3ygLNEQxyiGFmBjO5/V/ZjeN1LKW2KjrLVM+Ca9jLmwysoTXTt4+HrRPcOuctAUe9SfiNbxGpiZtGGIWKHTFBeln9ty9pSJxflrO5mZ9TAH8sK6Rgtnu7mono4M=;P2KtPpT42ZxQZOYHB0khsw=="
+secured: "Y54FUTOMOsBAR9n2YtzG2t1Uc3bCG+Y+cbOgRh4VtCm1h7G5ZLlEoxHYRgu5T/ETkaBNsT8t8siia6p9yOiwUO7o0Jj/erRLhBY3blRIftNMoM/5xjvzAJ334vjiUjnLL/E+qRTVpwmPhur5pNu5woJrCf56PkLi2EneNZCpTFNSC1QxNwJ85U5IRv/6kWZyDd90oh1z8RwxXjV0M4vvHqN6w/MAOKMp469Z57vGvwHcFwW/H5MpLtWMrhaV7cAFeVDqs8LHj3kE4cGcK2qV/8jSLpR32Ug/Fs23yygUtoK5JRKf5tUZEHP2Bt7dMBRYnnCVjwg+OW+uIfwUfLe81MB62K9T9uqJLaanVs+/GBQ=;qAxopKl3bZtFu605AjOecg=="
 ---
 

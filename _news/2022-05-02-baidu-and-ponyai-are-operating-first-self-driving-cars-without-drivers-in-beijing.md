@@ -55,6 +55,20 @@ related:
         width: 6555
         height: 4480
         isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+    publishedDateTime: 2022-05-01T16:22:00Z
+    webUrl: "https://www.thaipr.net/en/business_en/3185480"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 66
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2022/05/image_5015562_22125589.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Baidu and Pony.ai become first robotaxi services to operate without safety drivers in Beijing"
     excerpt: "Baidu and Pony.ai have been given permission to operate their autonomous vehicles without safety drivers in Beijing, a first for robotaxi services in China (via CNBC). Although both companies now no longer need a staff member in the driver’s seat ..."
     publishedDateTime: 2022-04-30T17:22:00Z
@@ -83,15 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
-    publishedDateTime: 2022-04-30T19:01:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/visionnav-robotics-raises-$80m-in-c+-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 46
   - title: "Ditch the driver: U.S. and China race to make self-driving taxis a reality"
     excerpt: "China has passed a major mile marker on the road to commercializing self-driving technology: On Thursday, Beijing granted internet giant Baidu the country's first license to operate fully autonomous taxi services."
     publishedDateTime: 2022-04-28T21:00:00Z

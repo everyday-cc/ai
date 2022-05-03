@@ -9,7 +9,7 @@ ampWebUrl: "https://www.clevescene.com/news/cleveland-police-would-rather-discus
 cdnAmpWebUrl: "https://www-clevescene-com.cdn.ampproject.org/c/s/www.clevescene.com/news/cleveland-police-would-rather-discuss-its-use-of-facial-recognition-technology-in-private-38828899?media=AMP+HTML"
 type: article
 quality: 50
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Force 5 Launches Facial Recognition Technology for Utility Industry"
-    excerpt: "Force 5 announced the launch of facial recognition technology, which the company says significantly improves identity authentication of the employees, workers, and visitors entering a power utility's facilities."
-    publishedDateTime: 2022-04-28T14:04:00Z
-    webUrl: "https://www.utilityproducts.com/safety/article/14275603/force-5-launches-facial-recognition-technology-for-utility-industry"
-    type: article
-    provider:
-      name: Utility Products
-      domain: utilityproducts.com
-    quality: 39
-    images:
-      - url: "https://img.utilityproducts.com/files/base/ebm/up/image/2022/04/force5_logo.626a9b99177c5.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Privacy watchdogs call for laws limiting police use of facial recognition"
     excerpt: "Canada’s privacy commissioners called Monday for clear laws putting in place limits on the use of facial recognition technology by police. Federal privacy commissioner Daniel Therrien told MPs ..."
     publishedDateTime: 2022-05-02T20:54:00Z

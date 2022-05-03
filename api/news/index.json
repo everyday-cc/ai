@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-one-platform-to-ai-it-all-google-vertex-ai-makes-aiml-simple-in-sa.md",
+      "title": "One platform to AI it all: Google Vertex AI makes AI/ML simple in SA",
+      "excerpt": "Says Van Schalkwyk: “For companies that aren’t ready to build their own custom models just yet, Google offers AutoML as part of VertexAI. AutoML allows you to create high quality custom ML models from your data, whether it’s image data, tabular ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
+      "originalUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/Wza03qX-xmJUelSFZnXHTeP9yo1B46ikfxMDhAlMZI8WgCmyGGoGl_beifZkPUon4b-XWbgvFpbMxhroGzZyvGBv7uautu21Vfs=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/Pero3MZ3A4wqQb6m",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ3A4wqQb6m",
+      "publishedDateTime": "2022-05-02T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-what-you-need-to-know-before-you-start-working-with-artificial-intelligence.md",
       "title": "What You Need To Know Before You Start Working With Artificial Intelligence",
       "excerpt": "The first principle is to start with a strategy. Simply put, this means understanding what you are trying to achieve. AI technologies are tools that are deployed tactically to achieve strategic objectives. Your strategy should be in line with your business ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -34,6 +77,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-ai-delivers-real-time-data-for-smarter-farming.md",
+      "title": "AI delivers real-time data for smarter farming",
+      "excerpt": "Its operation management software, powered by an AI platform called Alice AI, allows customers to optimally schedule and plan their farming operations and to make real-time decisions and adjustments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/",
+      "originalUrl": "https://venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1318237749.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/ai-delivers-real-time-data-for-smarter-farming/amp/",
+      "publishedDateTime": "2022-05-02T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -204,6 +299,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-developer-experience-doesnt-have-to-stop-at-the-front-end.md",
+      "title": "Developer experience doesn’t have to stop at the front end",
+      "excerpt": "While learning to build machine learning models, he saw data scientists spending ... Developers can then deploy to AWS, Azure, or Google Cloud. The project was founded in 2021 by ex-Spotify engineers André Eriksson, Marcus Kohlberg, and Horia Jurcu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html",
+      "originalUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/ladder_escape-100714285-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.amp.html",
+      "publishedDateTime": "2022-05-02T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -992,7 +1139,7 @@
       "originalUrl": "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1024,145 +1171,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-01-how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.md",
-      "title": "How AI is helping the supply chains in the healthcare sector",
-      "excerpt": "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to comprehend and decipher. It can also be fed ...",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91232124,imgsize-24178,width-1200,height-628,overlay-ethealthworld/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124",
-      "publishedDateTime": "2022-05-01T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "health.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-01-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large drop in short interest in the month of April. As of April 15th, there was short interest totalling 8,800 shares, a drop of 47.6% from the March 31st total ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
-      "originalUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks8.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
-      "publishedDateTime": "2022-04-30T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-perceptron-ai-mixes-concrete-designs-molecules-and-thinks-with-space-lasers.md",
-      "title": "Perceptron: AI mixes concrete, designs molecules, and thinks with space lasers",
-      "excerpt": "This column aims to collect some of the most interesting recent discoveries and papers in the field of artificial intelligence ... the team created a neural network that could predict material ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
-      "originalUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Step-6_AI-Sustainable-Concrete-Project-Image.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
-      "publishedDateTime": "2022-04-30T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

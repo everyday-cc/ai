@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://holycitysinner.com/wp-content/uploads/2022/04/owen-beard-K21Dn4OVxNw-unsplash-1000x600.jpg"
@@ -40,6 +41,6 @@ related:
         height: 576
         isCached: true
 
-secured: "yjw7SnFSbMGSs9jly7ncJ8ez0d5+ag6ndw+JWd8p3caHT0SdZ6izwlqEQsF6NUsEPwAuIj2+E3gg133qVjplmAjqsebJfgShz8HUpVtgx7Guw46fw/VQXl+WMJUuxnDQq2Egu+x/gub1a7fxYpBiXIhIZuUvdSmNuEGJ9lB+lbbTOXQjjU97z/kpW7aQamROgxaQQqJrU/cPcfDU6Zd9TJ3z2q7vfPcvJ2jGITmTxNoTcbaX0KB/lqsd1M0RgIGf6I5Lnpz+aHbopOzc37+XCsCMTuu6UOfb0WWcUR4iZ/fK/8IkZXPYxdDPnT2LMCvI0Fo5a+gFYfhw46QL4x60ihAWpkw7PJ0FlBFH9Wfll+A=;XaYyS8RpDgyeoFOwhX2GzQ=="
+secured: "Zr60wFGD06Q78KvpmBbSMRqDd8d+duy+tS7uiMaiOiHz1qnyIUqQDIxsPEip/mwBJjx4mJy9eGYDC8/biNRhLgch+s5Lef6LWA5/krJ8BNqYo/u7fhGAxABGzTPZm6KNxEcU7ggruvbiqGTNQlxtUnfuaqCafE0gZQKbuVRrsG96rX9hIkcAEyujcj0p5hP6mOuq3W4WaPJr/n/iwtUaAFlYVEqNWh+rtvVLDRKvVI7Vg5yPRmxu5XhO5mCjt6CtiXA4u6N4EFJ4MGoGUWf5W2igeiYPKgr5x69ovy/ZMlr4/CGj453B3kR9UARZHglPgakDbuUl9U6B8f1pzg9Ne4K0F7EvN2H+HQtiTxhndpQcqOReBZDjFnx7R+lYQrEV7TymsDM3o7pMeZDd28ucbdL75RZU3+LqrQPkJckrlQP8a2mvSaU0I8TY9yIQCJgydQaEWLR/q90KulFzPfwjV2fqfwGNhBeIbNsPm23u4cCKpFsPfBBW141zQKoW35Yt0dlIH+N2noyPYl9Sd88HMg==;vrpwjrLW/EgqVOJ5YES5AA=="
 ---
 

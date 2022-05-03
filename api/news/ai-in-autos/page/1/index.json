@@ -454,35 +454,26 @@
       ]
     },
     {
-      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
-      "title": "Pittsburgh Welcomes Plus One Robotics",
-      "excerpt": "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ...",
+      "path": "_news/2022-04-28-three-stocks-to-profit-from-the-robot-revolution.md",
+      "title": "Three stocks to profit from the robot revolution",
+      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
       "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
+      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
       "publishedDateTime": "2022-04-27T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
         "images": null,
         "publishers": null,
         "authors": null

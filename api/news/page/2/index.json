@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-01-how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.md",
+      "title": "How AI is helping the supply chains in the healthcare sector",
+      "excerpt": "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to comprehend and decipher. It can also be fed ...",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91232124,imgsize-24178,width-1200,height-628,overlay-ethealthworld/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91232124",
+      "publishedDateTime": "2022-05-01T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-01-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large drop in short interest in the month of April. As of April 15th, there was short interest totalling 8,800 shares, a drop of 47.6% from the March 31st total ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
+      "originalUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks8.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/30/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-2/amp/",
+      "publishedDateTime": "2022-04-30T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-30-perceptron-ai-mixes-concrete-designs-molecules-and-thinks-with-space-lasers.md",
+      "title": "Perceptron: AI mixes concrete, designs molecules, and thinks with space lasers",
+      "excerpt": "This column aims to collect some of the most interesting recent discoveries and papers in the field of artificial intelligence ... the team created a neural network that could predict material ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
+      "originalUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Step-6_AI-Sustainable-Concrete-Project-Image.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/30/perceptron-ai-news-roundup/amp/",
+      "publishedDateTime": "2022-04-30T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-30-why-companies-should-stop-trying-to-be-ai-first.md",
       "title": "Why companies should stop trying to be “AI-first”",
       "excerpt": "Artificial intelligence has become a buzzword in the tech industry. Companies are eager to present themselves as “AI-first” and use the terms “AI,” “machine learning,” and “deep ...",
@@ -52,6 +191,50 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-30-internship-in-the-area-of-logistic-robotics-computer-vision-fmd.md",
+      "title": "Internship in the area of Logistic Robotics Computer Vision (f/m/d)",
+      "excerpt": "We, the (COMPANY NAME), offer you an interesting and various internship in the area of Logistic Robotics Computer Vision. At BMW, we develop a variety of robots that support our internal logistics processes in the production plants. For each robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.absolventa.de/stellenangebote/5241598-b-internship-in-the-area-of-logistic-robotics-computer-vision-f-m-d",
+      "originalUrl": "https://www.absolventa.de/stellenangebote/5241598-b-internship-in-the-area-of-logistic-robotics-computer-vision-f-m-d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uno-production.imgix.net/og_images/trans.png?w=1200&h=628&bg=e8f8f0&fit=crop&auto=format&q=60&fm=jpg&mark64=aHR0cHM6Ly91bm8tcHJvZHVjdGlvbi5pbWdpeC5uZXQvfnRleHQ_dz0xMDAwJnR4dDY0PWFVRm5iM0poSUVWMWNtOXdZUSZ0eHRjbHI9MTBiZjlkJnR4dHNpemU9NjAmdHh0cGFkPTUwJnR4dGZpdD1tYXgmdHh0Zm9udDY0PVNHVnNkbVYwYVdOaExDQkNiMnhrJnR4dGFsaWduPWNlbnRlcg&markalign=middle%2Ccenter&markfit=crop&blend64=aHR0cHM6Ly91bm8tcHJvZHVjdGlvbi5pbWdpeC5uZXQvb2dfaW1hZ2VzL2Fic29sdmVudGEvbG9nby5wbmc_dz0yMTgmaD00MCZmaXQ9Y3JvcCZmbT1wbmc&bw=218&bh=40&bx=942&by=557&bm=normal&bf=crop",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-30T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Absolventa",
+        "domain": "absolventa.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -200,7 +383,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -789,7 +972,7 @@
       "originalUrl": "https://www.news-medical.net/news/20220428/AI-system-can-enhance-images-of-mouse-brain-cells-in-action.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -831,7 +1014,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1027,212 +1210,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler.md",
-      "title": "Pandas user-defined functions are now available in Amazon SageMaker Data Wrangler",
-      "excerpt": "Amazon SageMaker Data Wrangler reduces the time to aggregate and prepare data for machine learning (ML) from weeks to minutes. With Data Wrangler, you can select and query data with just a few clicks, quickly transform data with over 300 built-in data transformations, and understand your data with built-in",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Featured-images-for-ML-9272-new.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T10:38:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-the-field-of-ai.md",
-      "title": "Cerebras Systems’ dinner plate-sized chips are revolutionizing the field of AI",
-      "excerpt": "When big isn't big enough, you go bigger. And when that isn't big enough, you go Cerebras Systems big. But how much does size matter?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai",
-      "originalUrl": "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fcerebras-chip.jpg&signature=33b94c65c924c926aa93ff8a248753b1",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-this-ai-designed-enzyme-can-devour-plastic-trash-in-hours-video.md",
-      "title": "This AI-Designed Enzyme Can Devour Plastic Trash In Hours: Video",
-      "excerpt": "A new enzyme developed by researchers in Texas has raised hopes of a viable method to break down and recycle some of the millions of tons of waste plastic polluting the Earth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/",
-      "originalUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626917e9bf251683c124e08a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/amp/",
-      "publishedDateTime": "2022-04-28T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-inworld-shows-off-impressive-ai-powered-character-generation-and-interaction.md",
-      "title": "Inworld shows off impressive AI-powered character generation and interaction",
-      "excerpt": "Characters in games and other digital experiences tend to be rather static, working from a set of lines and responses written long ago. But the future of games could be more responsive, generative, and of course AI-powered — something Inworld AI is attempting to enable with a newly available beta",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/inworld.jpg?w=1024",
-          "width": 1024,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/",
-      "publishedDateTime": "2022-04-28T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,98 +1,26 @@
 ---
 category: news
 title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
-excerpt: "The new solution provides customizable AI using Quantum CatDV software, which leverages NVIDIA DeepStream, NVIDIA Riva, and NVIDIA Maxine SDKs to enrich video content used in broadcast, post-production,"
-publishedDateTime: 2022-04-19T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_fbaae364-b92a-5e7d-9716-a185c5048f89.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_fbaae364-b92a-5e7d-9716-a185c5048f89.html"
+excerpt: "Customers can automate common content-tagging and enhancement tasks such as object recognition within video frames, speech-to-text transcription, video and audio super-resolution, and other tools ..."
+publishedDateTime: 2022-04-19T07:00:00Z
+originalUrl: "https://www.victoriaadvocate.com/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_ecf6c7b5-417f-5347-937f-7fa51934f2b8.html"
+webUrl: "https://www.victoriaadvocate.com/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_ecf6c7b5-417f-5347-937f-7fa51934f2b8.html"
 type: article
-quality: 21
-heat: -1
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/cc/dcc3f818-5f9a-5151-b9d3-8c4b422ce53f/625ea4cfb483f.image.jpg?resize=744%2C500"
-    width: 744
-    height: 500
+  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/e/60/e606b659-a940-5f38-be30-04aa8f639840/625ea81644068.image.jpg?crop=909%2C477%2C0%2C66&resize=909%2C477&order=crop%2Cresize"
+    width: 909
+    height: 477
     isCached: true
 
-related:
-  - title: "Nvidia wants to use GPUs and AI to accelerate and improve future chip design"
-    excerpt: "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using"
-    publishedDateTime: 2022-04-20T22:37:00Z
-    webUrl: "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 116
-    images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg"
-        width: 800
-        height: 560
-        isCached: true
-  - title: "Nvidia's GPU-powered AI is creating chips with 'better than human design'"
-    excerpt: "However, it has also found many uses for AI in its silicon development process and, as Nvidia's chief scientist Bill Dally said in a GTC conference, even designing new hardware. Dally outlines a few use cases for AI in its own development process of the latest and greatest graphic cards (among other things),"
-    publishedDateTime: 2022-04-20T16:36:00Z
-    webUrl: "https://www.pcgamer.com/au/nvidias-gpu-powered-ai-is-creating-chips-with-better-than-human-design/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 68
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/bBRYUinrgcCUgH3RN4UXaR-1200-80.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Nvidia’s next GPUs will be designed partially by AI"
-    excerpt: "Nvidia has talked about the use of machine learning and AI in upcoming graphics cards. It plans to use AI to increase the efficiency of next-gen GPUs."
-    publishedDateTime: 2022-04-21T19:16:00Z
-    webUrl: "https://www.digitaltrends.com/computing/nvidia-lovelace-gpus-are-designed-partially-by-ai/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 64
-  - title: "Nvidia turns to AI for design process improvements"
-    excerpt: "Better than humans Nvidia expects the complexity of integrated circuit design to increase exponentially in the coming years, and is looking to AI to help out. During a talk at this year's GPU Technology Conference,"
-    publishedDateTime: 2022-04-21T10:43:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/54732-nvidia-turns-to-ai-for-design-process-improvements"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/05ffc05d3104a90a87bfa4f3347badda_L.jpg"
-        width: 620
-        height: 388
-        isCached: true
-  - title: "How to Improve Corporate Culture with Artificial Intelligence"
-    excerpt: "Contrary to press-propagated blames on rapid industry changes, unforeseen circumstances and uncontrollable crises, most business failures boil down to poor corporate culture. Interestingly, how corporate culture is perceived has changed just as rapidly as industries have evolved in recent times."
-    publishedDateTime: 2022-04-21T21:00:00Z
-    webUrl: "https://www.chron.com/business/article/How-to-Improve-Corporate-Culture-with-Artificial-17117085.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/32/53/22391490/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-
-secured: "Zavmhh5iaa7s1yyx8jtYguPuqyS+LlkWwD3S+1Hy9jAdEADLcAFNoRjqepz2uiFPDKz/JWxI2qi6W2NDOw7kpFDALswk7VmvubTzYyZMz4JU+j+ujYBRASKiCdIWq5n1JcXvvJVhwU9gy6PizCy6FIrs12QeOAOQ2byY3gXErOZs1AWl9KeipmYCaw0yI1k9p+cEJULHNus0erFCS48wAnD3+LAxUWOusEUuNqZaIL1RJMEeKt6OLEXbd2Oq+gID1WGVDsKAsoZSCer1mlhkGrhe3b4Qg+NjXnIyJpr0r6E+AM2K+tkb1pMdkR/xV7l3Ayw9fixkvTQ5Hdak4nTRlnh1j30jl38A6VOdQYUixUo=;yG2zrUNb1CUjDN/2CBN5zQ=="
+secured: "nPNg7TY444ozZPKQqbtODVXIkry36ELVYDt51OmwYSbGa5S1Nkg0oxynMBocQKluRStrivWjL0g+SrjXE61UIgEs3VTLiKEJ5kizQLfxdogBVxeI01qFx7LyX85QV4wwQChtHxXLc5zvn9Z4E0+QmEyCsKuYraSnhX+FtOyLL3Fv93vbbT+v5GdqpCb7zJTGFVuMCAj8BAEpuod1VSbipw4gnjbivV9rxRyZ7u9OW3LHzkgNz429z7fB2+zJDnYJMcn7Q8QSGknma6wlh79eqbPZWUrw2XSgK8i1FxBEujyPfDH7xjZzvmECJRn3n493KwLmmOz7VRZl8vTFSRg5a6uxS9E0kPoxrDM3whofcOE=;FDGGEgOodJ/jzla0NIXKXA=="
 ---
 

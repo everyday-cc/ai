@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-seri
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
 type: article
 quality: 51
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
         width: 2048
         height: 1280
-        isCached: true
-  - title: "Finbots.AI raises Series A funding for AI credit risk platform"
-    excerpt: "Singaporean AI-powered credit risk specialist company Finbots.AI has raised $3 million in Series A round from sole investor Accel. The transaction marks the first external investment raised by Finbots."
-    publishedDateTime: 2022-04-28T13:58:00Z
-    webUrl: "https://www.bobsguide.com/articles/finbots-ai-raises-series-a-funding-for-credit-risk-platform/"
-    type: article
-    provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 39
-    images:
-      - url: "https://www.bobsguide.com/wp-content/uploads/2017/03/73696-1.jpg"
-        width: 300
-        height: 240
         isCached: true
   - title: "Synthesis AI Raises a $17 Million Series A To Expand Its Synthetic Data Platform for Computer Vision AI"
     excerpt: "The new funds will allow Synthesis AI to grow its world-class team and introduce new products to enable companies to build more advanced computer vision models faster. The company also plans to expand research surrounding the intersection of CGI and AI ..."

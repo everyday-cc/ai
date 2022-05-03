@@ -84,6 +84,22 @@ related:
         width: 4032
         height: 3024
         isCached: true
+  - title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
+    excerpt: "Often, capturing neural activity in mice requires restraints ... with the assistance of DNNs,” the researchers wrote. In artificial intelligence, a generative adversarial network (GAN) is a deep learning network that generates output that has similar ..."
+    publishedDateTime: 2022-04-29T20:14:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/picl2887.jpg?itok=BuzpjY5z"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Another Firing Among Google’s AI Brain Trust, and More Discord"
     excerpt: "Tension among Google’s AI researchers reflects much larger struggles across the ... which the paper said could improve the design of computer chips. The technology was hailed as a breakthrough for artificial intelligence and a vast improvement to ..."
     publishedDateTime: 2022-05-02T16:13:00Z
@@ -115,22 +131,6 @@ related:
       - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/google-boston-2018.jpg"
         width: 4032
         height: 3024
-        isCached: true
-  - title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
-    excerpt: "A new study by researchers at Johns Hopkins University shows how artificial intelligence (AI) machine learning can improve the accuracy and speed of mouse brain imaging in action—a breakthrough that one day could help accelerate neuroscience research for ..."
-    publishedDateTime: 2022-04-29T20:14:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/picl2887.jpg?itok=BuzpjY5z"
-        width: 1528
-        height: 800
         isCached: true
   - title: "Using AI and Machine Learning to Reduce Wastewater Flooding and Pollution"
     excerpt: "As part of the endeavor, Rockwell teams specializing in network and cybersecurity, AI, and machine learning applications are providing guidance as well as counsel and support on other emerging technologies. Rockwell software and hardware will also be part ..."
@@ -169,16 +169,21 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Meta Earnings, Meta Spending, AI Costs and Moats"
-    excerpt: "Meta’s earnings weren’t that great, but expectations were worse. Then, why Meta and Google are well-positioned for a future with less data."
-    publishedDateTime: 2022-04-28T13:17:00Z
-    webUrl: "https://stratechery.com/2022/meta-earnings-meta-spending-ai-costs-and-moats/"
+  - title: "Delta Research Center seeks AI-assisted transformation"
+    excerpt: "DIGITIMES is hosting 2022 Taiwan AI Expo in Taipei from May 4-6. Prior to the event's opening, Delta Research Center (DRC) director-general Chiueh Tzi-cker shared the center's plans in an interview. Founded in 2013, the center is affiliated to Delta ..."
+    publishedDateTime: 2022-05-03T07:06:00Z
+    webUrl: "https://www.digitimes.com/news/a20220503PD207/ai-smart-applications.html"
     type: article
     provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 17
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220503pd207_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
-secured: "nLkyJ3J4iABvcc0Iuqx6djOwpoLDv+uL/pZ8jnLpFCT6itBEUnlgCttjeUhyqxPb6F80sz+nZ3NfYQlywqqZjDBqQ+CClhLugCy7jE02HWTyyBraFABvesbHxfJc1kNli+MSx6VFjFtEKCc3q8XkmN6y4m6XS3uyfIPuBfbGhyU4EJwzfedi1IcUr6UyxJpE4byhzv5rPNqbFM8iUfLVOCilswhd51wsg9HAmNVC4untpqfP1ua9EqsCybUiNnsnrB0PuyK7mJ0RR/l96Tc11fEfV5/4s4e7KE1zo5INUy+yTxIFPmL6iP+a0jGRPck2/CFIYYd82UAwLNT3bo4AvjIZEbsLkjFyRg73GCMOcl0=;3kCk7Zhl3zn2iBBhU3RKyQ=="
+secured: "NCCgIQY/Ull2DtSipEXlGfK4HkxIzXVu1YNlGJOECMnJVqNCjxROimtB62nphvpGM1m6oyVDzHVpVW6SFgeR+xp77xALOEp8dLjwsz1cr43W7uO0z5lpB8j/iP1XtVuXKg6Ot+3hZpi/qZsiRldUbqCRfFIn0oVOl6E3obxaL9tPmYtP1BSaME+dAy8ijtR5D2aT+L86AX3gYl8DlqlhOXxqorixBbaXpsCQ2jturVfoGfaZP9aopxVDVvjFKJrNiutqobt6uQC24PFSruwxGooWpEp3sXHndsifRqFQMpSWUeipzZhD3J+tu4E7MqToJVzpJRQ4KHMf8A30nE7r3pUXIRigdR8SVYw9H82KnxsNmJTE7HlQWynbk+VEyF52C18un3RxaBWM7kb+Q8a4JwFTCtwVhZvT2Diln/G1x+++1uE89+VcpL45yS+y1p4ZcOj3RnX9JgW5cgo8pvAyPL8Yn3qYtpalzO282Mv5izIaLy8zN5IWW/4i/fAhnnlTIhaNU8oMLfDHASqnIosdKg==;IZ63KhBR9WUn7Cctlgi8Ww=="
 ---
 

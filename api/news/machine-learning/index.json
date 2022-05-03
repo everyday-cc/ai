@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-one-platform-to-ai-it-all-google-vertex-ai-makes-aiml-simple-in-sa.md",
+      "title": "One platform to AI it all: Google Vertex AI makes AI/ML simple in SA",
+      "excerpt": "Says Van Schalkwyk: “For companies that aren’t ready to build their own custom models just yet, Google offers AutoML as part of VertexAI. AutoML allows you to create high quality custom ML models from your data, whether it’s image data, tabular ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
+      "originalUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/Wza03qX-xmJUelSFZnXHTeP9yo1B46ikfxMDhAlMZI8WgCmyGGoGl_beifZkPUon4b-XWbgvFpbMxhroGzZyvGBv7uautu21Vfs=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/Pero3MZ3A4wqQb6m",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ3A4wqQb6m",
+      "publishedDateTime": "2022-05-02T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-traceable-ai-nabs-60m-to-secure-app-apis-using-machine-learning.md",
       "title": "Traceable AI nabs $60M to secure app APIs using machine learning",
       "excerpt": "Businesses need machine learning here. To have zero trust you need API clarity. You can no longer easily buy or hire security people, so you need to solve these vulnerabilities via technology.”",
@@ -345,6 +388,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-28-the-power-of-deep-learning.md",
+      "title": "The power of deep learning",
+      "excerpt": "Machine learning isn’t the only term getting all the buzz. Deep learning, or a class of machine learning algorithms, is showing great promise, primarily because it’s getting results.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/power-deep-learning/",
+      "originalUrl": "https://sdtimes.com/ai/power-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/04/artificial-intelligence-2228610_960_720.jpg",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-hpe-releases-ml-development-system-to-help-companies-deploy-ai-at-scale.md",
       "title": "HPE releases ML development system to help companies deploy AI at scale",
       "excerpt": "HPE today released a new Machine Learning Development System. The ready-to-use system allows users to immediately build and train AI models at scale and realize faster value.",
@@ -621,6 +716,58 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-global-deep-learning-market-size-growth-statistics-industry-demand-top-players-business-boosting-strategies-revenue-and-forecast-2022-2031.md",
+      "title": "Global Deep Learning Market Size Growth Statistics, Industry Demand, Top Players Business Boosting Strategies, Revenue and Forecast 2022-2031",
+      "excerpt": "Apr 27, 2022 (AmericaNewsHour) -- The report titled Global Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-size-growth-statistics-industry-demand-top-players-business-boosting-strategies-revenue-and-forecast-2022-2031-2022-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-size-growth-statistics-industry-demand-top-players-business-boosting-strategies-revenue-and-forecast-2022-2031-2022-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1293,154 +1440,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028.md",
-      "title": "Deep Learning in Manufacturing Market 2022, Overview, Size, Share, Demand, Segment, Applications, sales Market, Forecast 2028",
-      "excerpt": "Apr 21, 2022 (The Expresswire) -- Global“Deep Learning in Manufacturing”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-design-is-merging-with-machine-learning-in-home-decor.md",
-      "title": "Design Is Merging With Machine Learning In Home Décor",
-      "excerpt": "The blend of human and machine knowledge to address the sales challenge of home design is an interesting application of AI and other tools, a blend that can help both the businesses and the end customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&width=1200",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
-      "publishedDateTime": "2022-04-21T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022.md",
-      "title": "Machine learning hiring levels in the air force industry rose in March 2022",
-      "excerpt": "The proportion of air force equipment and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 48.5% of the companies included in our analysis recruiting for at least one such position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
-      "originalUrl": "https://www.airforce-technology.com/analysis/machine-learning-hiring-levels-in-the-air-force-industry-rose-in-march-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/04/IS9OI-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Airforce Technology",
-        "domain": "airforce-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

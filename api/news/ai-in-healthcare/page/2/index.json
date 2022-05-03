@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-11-how-artificial-intelligence-is-enabling-t-cell-receptor-screening-for-cell-therapy-discovery.md",
+      "title": "How artificial intelligence is enabling T cell receptor screening for cell therapy discovery",
+      "excerpt": "Exogene has combined artificial intelligence (AI) with cutting-edge lab-based technologies to create a fast, scalable TCR screening platform to identify TCRs for cell therapy applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d43747-022-00114-5",
+      "originalUrl": "https://www.nature.com/articles/d43747-022-00114-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw800/magazine-assets/d43747-022-00114-5/d43747-022-00114-5_20301090.png",
+          "width": 800,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-artificial-intelligence-systems-spending-market-notable-developments-geographical-outlook-2022-to-2027.md",
       "title": "Artificial Intelligence Systems Spending Market : Notable Developments & Geographical Outlook 2022 to 2027",
       "excerpt": "The global artificial intelligence systems spending market is estimated to be valued at US$ 11.7 Bn in the year 2017 and is slated to touch a value of US$ 516.2 Bn by the end of the year 2027, exhibiting a CAGR of 46.",
@@ -1291,49 +1334,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions.md",
-      "title": "Roche announces collaboration with Bristol Myers Squibb to advance personalised healthcare through digital pathology solutions",
-      "excerpt": "Collaboration builds on commitment to advance personalised healthcare by helping to improve access to new treatment options for patients with solid tumoursAdvances in computation and artificial intell",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

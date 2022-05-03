@@ -2,6 +2,163 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-31-watch-out-for-the-facial-recognition-overlords.md",
+      "title": "Watch Out for the Facial Recognition Overlords",
+      "excerpt": "More technology companies are becoming gatekeepers to our identities and ‘faceprints.’ That could get messy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY64pWg9Fj8U/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-30T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot.md",
+      "title": "Why IBM’s speech recognition breakthrough matters for AI and IoT",
+      "excerpt": "SEE: How we learned to talk to computers, and how they learned to answer back Reaching human-level performance in AI tasks such as speech or object recognition remains a scientific challenge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/",
+      "originalUrl": "https://www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/03/istock-645609770.jpg",
+          "width": 800,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/why-ibms-speech-recognition-breakthrough-matters-for-ai-and-iot/amp/",
+      "publishedDateTime": "2022-01-30T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-facial-recognition-for-all-online-irs-accounts-whats-up-with-idme.md",
+      "title": "Facial recognition for all online IRS accounts: What's up with ID.me?",
+      "excerpt": "Soon, all IRS accounts will require ID.me registration with a \"video selfie.\" Learn how it works and what the risks are.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/taxes/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/",
+      "originalUrl": "https://www.cnet.com/personal-finance/taxes/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/-Y2FC1FfYakP-RnZZ6IzirC829w=/1200x630/2020/07/14/b34e2000-8454-4185-8032-4c6e8a9f54f3/yt-vs-selfie-camera-3.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/",
+      "publishedDateTime": "2022-01-30T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-30-the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account.md",
       "title": "The IRS website will soon require facial recognition to log in to your account",
       "excerpt": "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. (Will Lanzoni, CNN) WASHINGTON ...",
@@ -1221,137 +1378,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-ambientai-emerges-from-stealth-with-sights-set-on-remaking-physical-security.md",
-      "title": "Ambient.ai emerges from stealth with sights set on remaking physical security",
-      "excerpt": "Second-generation object recognition systems can identify people and things but lack context for observed behavior. In contrast, Ambient.ai’s technology understands the context of the scene and ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/01/19/ambient-ai-emerges-stealth-sights-set-remaking-physical-security/",
-      "originalUrl": "https://siliconangle.com/2022/01/19/ambient-ai-emerges-stealth-sights-set-remaking-physical-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/poster3.jpg",
-          "width": 2880,
-          "height": 1622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-ambientai-emerges-from-stealth-introduces-computer-vision-intelligence-platform-for-physical-security-industry.md",
-      "title": "Ambient.ai Emerges from Stealth, Introduces Computer Vision Intelligence Platform for Physical Security Industry",
-      "excerpt": "Ambient.ai today emerged from stealth to introduce the first computer vision intelligence platform. The company has raised $52 million in venture funding led by a16z and launches with five of the largest US tech companies by market capitalization and multiple Fortune 500 customers across a variety of other industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ambientai-emerges-from-stealth-introduces-computer-vision-intelligence-/2022/01/19/9528985.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ambientai-emerges-from-stealth-introduces-computer-vision-intelligence-/2022/01/19/9528985.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns.md",
-      "title": "Ambient’s computer vision detects dangerous behaviors, but raises privacy concerns",
-      "excerpt": "Ambient, which is using computer vision to develop security systems, is emerging from stealth. But its software raises privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
-      "originalUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1134171213.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
-      "publishedDateTime": "2022-01-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

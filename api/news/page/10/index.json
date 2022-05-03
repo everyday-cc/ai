@@ -2,6 +2,415 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-22-aws-announces-general-availability-of-amazon-aurora-serverless-v2.md",
+      "title": "AWS Announces General Availability of Amazon Aurora Serverless v2",
+      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26746332/aws-announces-general-availability-of-amazon-aurora-serverless-v2",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26746332/aws-announces-general-availability-of-amazon-aurora-serverless-v2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-aws-announces-general-availability-of-aws-iot-twinmaker.md",
+      "title": "AWS Announces General Availability of AWS IoT TwinMaker",
+      "excerpt": "AWS IoT TwinMaker makes it easy for developers ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-twinmaker-2022-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-twinmaker-2022-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-specify-and-extract-information-from-documents-using-the-new-queries-feature-in-amazon-textract.md",
+      "title": "Specify and extract information from documents using the new Queries feature in Amazon Textract",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. Amazon Textract now offers the flexibility to specify the data you need to extract from documents using the new Queries feature within the Analyze Document API. You don’t",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/specify-and-extract-information-from-documents-using-the-new-queries-feature-in-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/specify-and-extract-information-from-documents-using-the-new-queries-feature-in-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/21/specify-extract-textract.jpg",
+          "width": 1000,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T10:32:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads.md",
+      "title": "SageMaker Serverless Inference illustrates Amazon’s philosophy for ML workloads",
+      "excerpt": "Amazon SageMaker Serverless Inference's goal is to serve use cases with infrequent traffic patterns, lowering TCO and improving ease of use.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/",
+      "originalUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1256860094-e1650552562873.png?fit=800%2C551&strip=all",
+          "width": 800,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/amp/",
+      "publishedDateTime": "2022-04-21T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-eleutherai-introduces-gpt-neox-20b-the-worlds-largest-and-most-performant-publicly-available-dense-language-model.md",
+      "title": "Eleuther.AI Introduces GPT-NeoX-20B: The World’s Largest and Most Performant Publicly Available Dense Language Model",
+      "excerpt": "natural language processing tasks, mathematical tasks, and advanced knowledge-based tasks. In the experiments, GPT-NeoX-20B bettered FairSeq13B on 22 of 32 natural language evaluation tasks; significantly outperformed GPT-3 and FairSeq models on ...",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/04/21/eleuther-ai-introduces-gpt-neox-20b-the-worlds-largest-and-most-performant-publicly-available-dense-language-model/",
+      "originalUrl": "https://syncedreview.com/2022/04/21/eleuther-ai-introduces-gpt-neox-20b-the-worlds-largest-and-most-performant-publicly-available-dense-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028.md",
+      "title": "Deep Learning in Manufacturing Market 2022, Overview, Size, Share, Demand, Segment, Applications, sales Market, Forecast 2028",
+      "excerpt": "Apr 21, 2022 (The Expresswire) -- Global“Deep Learning in Manufacturing”Market Research Report 2022 - Impact of COVID-19 on the Market: The report contains financial data achieve from various ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-manufacturing-market-2022-overview-size-share-demand-segment-applications-sales-market-forecast-2028-2022-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-polyn-technology-delivers-nasp-test-chip-for-tiny-ai.md",
+      "title": "POLYN Technology Delivers NASP Test Chip For Tiny AI",
+      "excerpt": "POLYN Technology has announced that its first Neuromorphic Analog Signal Processor (NASP) chip is packaged and evaluated, demonstrating proof of the technology's brain-mimicking architecture. It is the first Tiny AI true analog design to be used next to sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconsemiconductor.net/article/114634/POLYN_Technology_Delivers_NASP_Test_Chip_for_Tiny_AI",
+      "originalUrl": "https://siliconsemiconductor.net/article/114634/POLYN_Technology_Delivers_NASP_Test_Chip_for_Tiny_AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=shutterstock_376500043.jpg",
+          "width": 655,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "siliconsemiconductor",
+        "domain": "siliconsemiconductor.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-design-is-merging-with-machine-learning-in-home-decor.md",
+      "title": "Design Is Merging With Machine Learning In Home Décor",
+      "excerpt": "The blend of human and machine knowledge to address the sales challenge of home design is an interesting application of AI and other tools, a blend that can help both the businesses and the end customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&width=1200",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/21/design-is-merging-with-machine-learning-in-home-dcor/amp/",
+      "publishedDateTime": "2022-04-21T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-fintech-market-size-to-reach-usd-16652680-million-by-2028-at-a-cagr-of-139-valuates-reports.md",
+      "title": "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports",
+      "excerpt": "The global fintech market size is projected to reach USD 16652680 Million by 2028 from USD 6588780 Million in 2021 at a Compound Annual Growth Rate (CAGR) of 13.9% during the fore",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-fintech-market-size-reach-usd-16652680-million-2028-/2022/04/21/9587422.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-fintech-market-size-reach-usd-16652680-million-2028-/2022/04/21/9587422.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-braincube-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Braincube Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Braincube, a leading global IIoT platform and advanced business app suite dedicated to manufacturers, today announced the availability of Braincube’s ready-to-use Data Visualization app package suite as an offering within the Microsoft Azure Marketplace.",
@@ -735,455 +1144,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-nvidia-wants-to-use-gpus-and-ai-to-accelerate-and-improve-future-chip-design.md",
-      "title": "Nvidia wants to use GPUs and AI to accelerate and improve future chip design",
-      "excerpt": "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
-      "originalUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
-      "publishedDateTime": "2022-04-20T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-ais-future-is-packed-with-promise-and-potential-pitfalls.md",
-      "title": "AI’s future is packed with promise and potential pitfalls",
-      "excerpt": "Foundation models are based on deep neural networks and self-supervised learning that accepts unlabeled or partially labeled raw data. Algorithms then use small amounts of identified data to determine correlations,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/",
-      "originalUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/future_AI.jpg?fit=800%2C449&strip=all",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/amp/",
-      "publishedDateTime": "2022-04-20T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines.md",
-      "title": "AMD Targets High-End Signal Processing With New Versal Premium With AI Engines",
-      "excerpt": "When compared to the previous generation Virtex UltraScale+ VU13, the Versal Premium VP2802 ACAP increases performance by 3.3x for RF signal processing, 4.7x for Radar data cube processing, and 5.8x for AI/ML inference processing while reducing the number of FPGAs needed for a design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62607d24b1c8ce336e10875f/0x0.jpg?format=jpg&width=1200",
-          "width": 764,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/amp/",
-      "publishedDateTime": "2022-04-20T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-an-inventor-resurrected-his-imaginary-friend-with-ai-then-it-tried-to-murder-him.md",
-      "title": "An inventor resurrected his imaginary friend with AI — then it tried to murder him",
-      "excerpt": "As a kid, Lucas Rizzotto had an imaginary friend: a talking microwave. As an adult, Rizzotto resurrected his pal — with tragic consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave",
-      "originalUrl": "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-7.jpg&signature=8dc3c8edb07603857914fc06fe201aaf",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas.md",
-      "title": "Billionaire CEO’s US Senate run focuses on one issue: Banning ‘self-driving’ Teslas",
-      "excerpt": "Dan O’Dowd, the billionaire founder of The Dawn Project and Green Hills Software, is running for U.S. Senate on a single issue. It’s not unemployment or inflation or even education. It’s about making computers safer for humans,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/",
-      "originalUrl": "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/",
-      "publishedDateTime": "2022-04-20T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-alphamountainai-raises-27m-to-launch-ai-driven-threat-intelligence-feeds.md",
-      "title": "AlphaMountain.ai raises $2.7M to launch AI-driven threat intelligence feeds",
-      "excerpt": "AlphaMountain.ai’s solution offers coverage against malicious threats and provides access to high quality domain and intelligence feeds.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/20/alphamountain-ai-raises-2-7m-to-launch-ai-driven-threat-intelligence-feeds/",
-      "originalUrl": "https://venturebeat.com/2022/04/20/alphamountain-ai-raises-2-7m-to-launch-ai-driven-threat-intelligence-feeds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1180780724.jpg?fit=800%2C422&strip=all",
-          "width": 800,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/20/alphamountain-ai-raises-2-7m-to-launch-ai-driven-threat-intelligence-feeds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/20/alphamountain-ai-raises-2-7m-to-launch-ai-driven-threat-intelligence-feeds/amp/",
-      "publishedDateTime": "2022-04-20T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-microsoft-unifies-large-scale-data-management-under-purview-framework.md",
-      "title": "Microsoft unifies large-scale data management under Purview framework",
-      "excerpt": "The new “Microsoft Purview” brings company’s large organization-focused data management tools under one roof, and includes a host of new features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html",
-      "originalUrl": "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/05/software_development_lifecycle_developers_programmers_coding_code_by_roman_samborskyi_shutterstock_1536573386_royalty-free_digital-only_2400x1600-100890352-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html",
-      "publishedDateTime": "2022-04-20T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-ais-acquires-xgility-leading-microsoft-azure-cloud-focused-firm-buys-microsoft-gold-partner.md",
-      "title": "AIS Acquires Xgility: Leading Microsoft Azure Cloud Focused Firm Buys Microsoft Gold Partner",
-      "excerpt": "AIS (Applied Information Sciences), a leading Microsoft cloud services firm, announced today its acquisition of Xgility, a Microsoft Gold Partner with a mission to help clients rethink, reimagine, and transform their business with end-to-end Microsoft cloud solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=650120",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=650120",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-student-body-language.md",
-      "title": "Intel Sparks AI Ethics Uproar Over Tech That Deciphers Student Body Language",
-      "excerpt": "Intel is testing new AI software that will detect the emotions of students while they are in an online classroom setting, and some are not happy about it",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-body-language",
-      "originalUrl": "https://hothardware.com/news/intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-body-language",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58318/content/class-ai.jpg",
-          "width": 708,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-body-language",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-sparks-ai-ethics-uproar-over-tech-that-deciphers-body-language",
-      "publishedDateTime": "2022-04-20T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

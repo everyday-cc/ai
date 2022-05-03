@@ -37,7 +37,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6270afa356fe8039a23aa466/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -86,6 +86,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1389264868_501535_hxfpvz.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "How AI predicts what you’ll buy"
+    excerpt: "It’s a jungle out there—few places so much so as the world of “smart” advertising. There, marketing geniuses have developed increasingly sophisticated algorithms that take all the ..."
+    publishedDateTime: 2022-04-30T10:42:00Z
+    webUrl: "https://localnews8.com/stacker-news/2022/04/29/how-ai-predicts-what-youll-buy/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 37
+    images:
+      - url: "https://localnews8.b-cdn.net/2022/04/shutterstock335123117UTON_0.jpg"
+        width: 1010
+        height: 720
         isCached: true
 
 secured: "hiGGrFUvuM5nWyPFTo3nW9OIazMxHoXcb+nQj5nSQl4PEn5r3eG6td01fBoLU+qCRZEyxS4ADngvJy5VxmgI8mG6Je730IgyMlsIEC/kqwk+aW3IJ5SKexIOZF58ygSr3yJjj8+KTKtkIDgMhV3ELlYmEONOTRrHDQgCefw9T/TzAFdZB8L7FHVm9g3vE5Bh1/6IxjIUcg2FjT6wzkhYmj0AYSoWGsTNNMUpUyaIrTtzIkHzta9WNfvadz8WaBEDNHke8JCYL7SCIJB2sfKijNv/RXomK4n1lDPEUf9pxiVqOKI2nZkXWdiGoOeyLUcWI0xBsEd5orB79+7CTsortFXgpeSV/barNjh8eNfrPrVzB5nTaoWlkSyOO07qeDs/dnMBBCgq01fl6wcjF2zfBLS44sPftsbelRWP3YGzOsM9koH2B8d/l8oQBTdYh2lZJNie/rDSZkdei5NCjxHy45LNSwR2rO5WwIoHiigemBZXySaQIN4c9Ikr1Lew9mV3y6cqrTktCTFwODRNVoMgbQ==;XFifDB1RqlfEePtreIbxJw=="

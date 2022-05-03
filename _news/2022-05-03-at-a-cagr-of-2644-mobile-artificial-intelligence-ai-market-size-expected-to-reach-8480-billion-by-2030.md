@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-03T05:21:00Z
 originalUrl: "https://www.digitaljournal.com/pr/at-a-cagr-of-26-44-mobile-artificial-intelligence-ai-market-size-expected-to-reach-84-80-billion-by-2030"
 webUrl: "https://www.digitaljournal.com/pr/at-a-cagr-of-26-44-mobile-artificial-intelligence-ai-market-size-expected-to-reach-84-80-billion-by-2030"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/f1653d2b223a6200f45edb7f55c9ffc64fd662bb-600x337.jpg"
@@ -39,6 +40,6 @@ related:
         height: 278
         isCached: true
 
-secured: "+Wrj1ery2cxCpOy++vsDjMLcPKXEyKTujPGq8L9FXQPkOumQvglF8CtiqygBqfd22RxfFkIJUK2aaNpSExzGiLw/IoZPauRgQtZcCxTbGevUhf0rYZhZ/lWNnkIYa+/aruXhjVepZT3l/H+3Y5bFUgtpBzGNWki2pl001vPUn7TVTtR2/ekvSDbkAPxz3ZjfCiNRQsZTmdqdOysvZo086RNlDz4q6sGJdf5l/1jUEQtjsUfefmbZ/MV68mYxlKpraVD72zhubY1NSna653XN9SjwFt/M82wDycQqLHhpViSxUhsdHvSdI/6tJqtpztJ/TpvPzhZVlI2SF5odqcKS5baE8KkcL7HDJ6VjJIicT/Q=;6y9L6vsYhvBE6aLlX4l+xA=="
+secured: "pEBSITpsyrQdxYNNkC1L+ut7sPYabIsj4l93QWhr1T7KXZowt/NhneqtKh6hXmP/E3h/ur9DwXMJnq+GGhQ9Fw+uGLxwoKV2sEgVZnyY4S/PKD8oZk58jBt1JwJE0gEO2+XQcFV0BLh53zLW60RqZfp7Yo31SQ/m+Tts3MDZZ3GEdl8eFvMW2pYgSzOXpp0CgMsq+QvxNH/nPMf85lNByH21X2HheaY553VXcOxttlaWGMlLOvzELJsEFb8jkNtbJ19Y9RuPBecYzsN9KHPr/WJzyT8FqfF6sqn3kUkzjH5mDDKa2URxzUOpZ+3VIYSoFjrJnj3rrQDFhHTiI/0sPol39aOV4Xs0zBdUU6/0hUDoq2RkzPCdqLGiRUCKKIWZDwvrBn9xc9Srls+IzZJPdHtNDSB66E0J7yiVOdkRuxRBNkpciYRiJt0EXnVDKLwPeiijaJOcq2cychVKWKZ9LxAH5VmBygmmz/MvFFO4wvgBq5mwlmpS1RC5e6fI7W7M1DWOFwF5yDJO5FV/A2s2uA==;QL3Ws1F+gcBQefsJq2RRiw=="
 ---
 
