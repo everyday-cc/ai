@@ -14,11 +14,11 @@ website: http://yann.lecun.com/
 twitter:
   username: ylecun
   url: https://twitter.com/ylecun
-  followers: 318013
+  followers: 318022
 
 googleScholar:
   url: https://scholar.google.com/citations?user=WLN3QrAAAAAJ
-  citations: 242632
+  citations: 243107
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Yann_LeCun
