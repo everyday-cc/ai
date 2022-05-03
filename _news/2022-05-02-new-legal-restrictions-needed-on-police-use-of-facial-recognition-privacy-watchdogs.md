@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'Unnecessary, Wasteful;\" Rights Groups Balk at ICE's New $7.2 Million Migrant Facial Recognition Contract"
+    excerpt: "New documents reveal a $7.2 million contract with Trust Stamp to provide facial recognition monitoring tools to track up to 10,000 migrants. U.S. border agents at this point have a long history of ..."
+    publishedDateTime: 2022-05-03T03:10:00Z
+    webUrl: "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395"
+    ampWebUrl: "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 72
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/234056fd009408ddcfb396ddb431dac8.jpg"
+        width: 800
+        height: 451
+        isCached: true
   - title: "House lawmakers investigating gov't use of facial recognition software"
     excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
     publishedDateTime: 2022-05-01T16:58:00Z

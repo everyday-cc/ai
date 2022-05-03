@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-28-exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware.md",
+      "title": "Exafunction aims to reduce AI dev costs by abstracting away hardware",
+      "excerpt": "The most sophisticated AI systems today are capable of impressive feats, from directing cars through city streets to writing human-like prose. But they share a common bottleneck: hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/",
+      "originalUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/",
+      "publishedDateTime": "2022-04-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters.md",
+      "title": "Richard Bartle and Richard Garriott: How humans should treat advanced AI characters",
+      "excerpt": "Richard Bartle and Richard Garriott talked at GamesBeat Summit 2022 about being new citizens of the metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
+      "originalUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/garriott-bartle.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
+      "publishedDateTime": "2022-04-28T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too.md",
       "title": "AI Ethics Wrestling With The Inevitably Of AI Accidents, Which Looms Over Autonomous Self-Driving Cars Too",
       "excerpt": "AI accidents of all kinds are coming and we need to anticipate the impacts, along with trying to mitigate the adverse outcomes. Examples shown via autonomous self-driving cars.",
@@ -545,7 +648,7 @@
       "originalUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -576,49 +679,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method.md",
-      "title": "IIT-Jodhpur Researchers Come Up With Deep Learning-based Cataract Detection Method",
-      "excerpt": "Researchers at the Indian Institute of Technology (IIT) in Jodhpur have formulated a deep learning-based cataract detection method that is inexpensive and offers very high levels of accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html",
-      "originalUrl": "https://www.republicworld.com/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/kpc9tzjqgm9sw4tm_1651145153.jpeg",
-          "width": 768,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html",
-      "publishedDateTime": "2022-04-28T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1111,21 +1171,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-28-procreating-robots-the-next-big-thing-in-cognitive-automation.md",
-      "title": "Procreating Robots: The Next Big Thing In Cognitive Automation?",
-      "excerpt": "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence.",
+      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
+      "title": "Pittsburgh welcomes Plus One Robotics",
+      "excerpt": "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/",
+      "webUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
+      "originalUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239d5f9bb19be620488f0de/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg",
+          "width": 770,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1133,23 +1193,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/amp/",
-      "publishedDateTime": "2022-04-27T17:30:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1160,50 +1211,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
-      "title": "Pittsburgh Welcomes Plus One Robotics",
-      "excerpt": "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

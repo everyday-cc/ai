@@ -24,38 +24,107 @@ images:
     isCached: true
 
 related:
-  - title: "IIT-Jodhpur Researchers Come Up With Deep Learning-based Cataract Detection Method"
-    excerpt: "Researchers at the Indian Institute of Technology (IIT) in Jodhpur have formulated a deep learning-based cataract detection method that is inexpensive and offers very high levels of accuracy."
-    publishedDateTime: 2022-04-28T11:26:00Z
-    webUrl: "https://www.republicworld.com/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html"
+  - title: "AI algorithm detects asymptomatic heart disease from Apple Watch ECG data"
+    excerpt: "To transform that Apple Watch ECG data into something clinically useful researchers must turn to AI algorithms, designed to identify tiny signals in the data that can correspond with heart problems."
+    publishedDateTime: 2022-05-03T02:50:00Z
+    webUrl: "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/"
+    ampWebUrl: "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 53
+      name: New Atlas
+      domain: newatlas.com
+    quality: 86
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/kpc9tzjqgm9sw4tm_1651145153.jpeg"
-        width: 768
-        height: 437
+      - url: "https://assets.newatlas.com/dims4/default/55cfbb8/2147483647/strip/true/crop/3000x2000+0+500/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F23%2F9b%2Fcc2d0fae4ba695ae56da6485c343%2Fapple-watchseries6-ecg-heartrate-050121.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "IIT Jodhpur propose AI algorithm to detect cataracts via near-infrared eye images"
-    excerpt: "The AI based solution with low-cost imaging devices can make it more accessible and inexpensive A team of researchers from the Indian Institute of Technology Jodhpur has found that eye images acquired by low-cost near-infrared (NIR) cameras can aid in low ..."
-    publishedDateTime: 2022-04-29T09:20:00Z
-    webUrl: "https://www.expresshealthcare.in/news/iit-jodhpur-propose-ai-algorithm-to-detect-cataracts-via-near-infrared-eye-images/434795/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/iit-jodhpur-propose-ai-algorithm-to-detect-cataracts-via-near-infrared-eye-images/434795/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/iit-jodhpur-propose-ai-algorithm-to-detect-cataracts-via-near-infrared-eye-images/434795/"
+  - title: "Researchers use AI to detect weak heart pump via patients' Apple Watch ECGs"
+    excerpt: "Single-lead ECG tracings from an Apple Watch interpreted by an artificial intelligence (AI) algorithm developed at Mayo Clinic effectively identified patients with a weak heart pump. Patients were ..."
+    publishedDateTime: 2022-05-02T20:56:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.amp"
     type: article
     provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 52
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 55
     images:
-      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/04/29151802/eye-care-5016078_640-1.jpg"
-        width: 750
-        height: 400
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg"
+        width: 2880
+        height: 1907
         isCached: true
+  - title: "Researchers Using AI and Apple Watch ECGs to Detect Weak Heart Pump"
+    excerpt: "Paul Friedman, chair of the Department of Cardiovascular Medicine at the Mayo Clinic in Rochester, Minnesota, said that it is \"absolutely remarkable\" that AI is able to use a consumer watch ECG to detect the condition, as it is normally something that ..."
+    publishedDateTime: 2022-05-02T17:10:00Z
+    webUrl: "https://www.macrumors.com/2022/05/02/apple-watch-ecg-weak-heart-pump/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 39
+    images:
+      - url: "https://images.macrumors.com/t/brN80nA8bKQHR8Boyfcf0HYHy9I=/1600x/article-new/2021/02/apple-watch-ecg-wrist.jpg"
+        width: 1600
+        height: 901
+        isCached: true
+  - title: "Mayo Clinic uses AI and Apple Watch to detect weak heart pump"
+    excerpt: "Researchers at the Mayo Clinic used AI and an Apple Watch to detect a weak heart pump. The researchers developed an algorithm that used the signal from an Apple Watch ECG to detect the condition. The study's accuracy was \"as good as or slightly better than ..."
+    publishedDateTime: 2022-05-03T00:14:00Z
+    webUrl: "https://www.imore.com/mayo-clinic-uses-ai-and-apple-watch-detect-weak-heart-pump"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 37
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2018/12/apple-watch-ecg-app-hero.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Mayo Clinic’s new Apple Watch app uses AI to detect left-ventricular dysfunction"
+    excerpt: "The Mayo Clinic developed a new app that transmits ECG signals from Apple Watches for AI analysis to identify heart disease. The application transmits ECG (electrocardiograms) signals recorded in non-clinical environments seamlessly and securely to a ..."
+    publishedDateTime: 2022-05-02T17:41:00Z
+    webUrl: "https://www.massdevice.com/mayo-clinics-new-apple-watch-app-uses-ai-to-detect-left-ventricular-dysfunction/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 32
+    images:
+      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Mayo-developed AI detects heart condition from Apple Watch ECGs"
+    excerpt: "The AI algorithm developed at Mayo Clinic correctly identified 13 of 16 patients who had a weak heart pump from Apple Watch data during a six-month study period, researchers shared in a presentation at the Heart Rhythm Society conference in San Francisco."
+    publishedDateTime: 2022-05-01T13:01:00Z
+    webUrl: "https://www.modernhealthcare.com/patients/mayo-study-ai-can-detect-heart-condition-apple-watch-ecgs"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 17
+  - title: "Mayo researchers use AI to detect weak heart pump via patients’ Apple Watch ECGs"
+    excerpt: "ROCHESTER, Minn. — Single-lead ECG tracings from an Apple Watch interpreted by an artificial intelligence (AI) algorithm developed at Mayo Clinic effectively identified patients with a weak heart pump. Patients were enrolled by email in a decentralized ..."
+    publishedDateTime: 2022-05-02T17:10:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/951446"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 12
+  - title: "Apple Watch ECG App, Still Experimental, Reveals Asymptomatic Low LVEF"
+    excerpt: "An app researchers designed for the Apple Watch allows patients to transmit electrocardiograms to a central processing center, where analysis driven by artificial intelligence ... had been adapted from a neural network trained to look for signs of LV ..."
+    publishedDateTime: 2022-05-02T18:59:00Z
+    webUrl: "https://www.medscape.com/viewarticle/973276"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 4
 
 secured: "kPf9iRbK0QnQeMFqklQ2PsxejYQEBY5STdFCkamdDmY4r42Hv1UM0hqG+ToQaaAQzVm1oORF72laPXl2ZSpth8R7Mx3HjAf+w7IwyCmMkG9PitPmcJvB34Lu+uXqw7wJ8MSdUrB17n+5hMBk+v+N32z4QBhg6sA3juqNRBdOdNh01qzN47jAhxhOOmODsYvkcv9EINhxJ7saFwR2ZVSTR/Tav5Ei0qob/xLlxR6A0BuzdezDAmqr5ytV02ea9iqxaqSuWIv2jOX7IZobHkSkmCb0AGdasThnTSiYQ+JPOYt7K931vSWMeL804nK78J5q66UcLQWW5Orol4gKI8RsLVuQXaybsZfD3H2mgWj57as=;KqmkYjBe5HkRy/n7lVONrQ=="
 ---

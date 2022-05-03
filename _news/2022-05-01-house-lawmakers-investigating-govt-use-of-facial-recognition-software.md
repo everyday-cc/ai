@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'Unnecessary, Wasteful;\" Rights Groups Balk at ICE's New $7.2 Million Migrant Facial Recognition Contract"
+    excerpt: "New documents reveal a $7.2 million contract with Trust Stamp to provide facial recognition monitoring tools to track up to 10,000 migrants. U.S. border agents at this point have a long history of ..."
+    publishedDateTime: 2022-05-03T03:10:00Z
+    webUrl: "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395"
+    ampWebUrl: "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 72
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/234056fd009408ddcfb396ddb431dac8.jpg"
+        width: 800
+        height: 451
+        isCached: true
   - title: "Increase your content reach with automated document-to-speech conversion using Amazon AI services"
     excerpt: "Reading the printed word opens up a world of information, imagination, and creativity. However, scanned books and documents may be difficult for people with vision impairment and learning disabilities to consume. In addition, some people prefer to listen to text-based content versus reading it. A document-to-speech"
     publishedDateTime: 2022-05-02T18:40:37Z

@@ -42,20 +42,6 @@ related:
         width: 768
         height: 437
         isCached: true
-  - title: "IIT Jodhpur team develops AI algorithm to detect cataracts"
-    excerpt: "A team of researchers from the Indian Institute of Technology (IIT) Jodhpur has found that eye images acquired by low-cost near-infrared (NIR) cameras can aid in low design costs, ease of use, and practical solutions for cataract detection."
-    publishedDateTime: 2022-04-28T11:56:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=952811"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Arun_270422_sch4.jpg"
-        width: 600
-        height: 372
-        isCached: true
 
 secured: "A6SFp7g359JOk3XwZ6QZvOszsXDF85uiBw4feMt7frBmwsIHIZZvqVjo/KlVHHSNEeWck0eFXDJRzAt9LxZBzKpaym+z0b935cnFjRkHeGVJYk6QXQxTpjplUOu3ToWsHosEPWpvGN0Fnk8npFm0p+LzEgxXz5CpOWPssRzSLH1yjLpgPYy99vn+ZLWGG12ja5qBFkB6bO5Fc34KcgCjyv6NNk4UZgOpRiAuLeGajHmpHbHS//4EjyRhkTNWw4KUyUpDQmdCElJH+KqfSsTcuQ2Tba6ZGH8qM6nLpjZEtYHLoK8+nCDlOQgBWQXp1eIzCKwEiXOtiZpRwU77/x726snQe+UGslPzPzSBFySQ6lA=;mPDDHfCHVNapgtk3/0Sc4w=="
 ---

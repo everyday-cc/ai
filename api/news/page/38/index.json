@@ -2,6 +2,58 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-03-29-report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models.md",
+      "title": "Report: 68% of orgs rely on in-house evaluation to tune AI models",
+      "excerpt": "The addition of data annotation to this list of popular AI technologies indicates more sophisticated use cases are on the way as AI matures.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/",
+      "originalUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1296686780-e1648496481937.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/amp/",
+      "publishedDateTime": "2022-03-28T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-stem-programs-launch-at-the-county-library-for-robotics-month.md",
       "title": "STEM programs launch at the county library for Robotics Month",
       "excerpt": "Did you know that April is Robotics Month? Jeff Buydos, from the county library, joined us on the show to share what kind of programs are offered. Kids can learn all about engineering, robotics,",
@@ -1101,49 +1153,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal.md",
-      "title": "Border Patrol adds artificial intelligence cameras to security arsenal",
-      "excerpt": "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop",
-      "sourceUrl": null,
-      "webUrl": "https://wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
-      "originalUrl": "https://wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wreg.com/wp-content/uploads/sites/18/2022/03/CBP-IMAGE-ASTs.png?w=1280",
-          "width": 896,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
-      "cdnAmpWebUrl": "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
-      "publishedDateTime": "2022-03-27T19:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WREG",
-        "domain": "wreg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

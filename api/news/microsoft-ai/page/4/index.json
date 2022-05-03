@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-17-tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services.md",
+      "title": "TCS Recognized as a Leader in Gartner® Magic Quadrant™ for Global Outsourced Digital Workplace Services",
+      "excerpt": "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) has been positioned as a Leader in the Gartner Magic Quadrant for Outsourced Digital Workplace Services (ODWS) .The report evaluates the Ability",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services/",
+      "originalUrl": "https://indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-recognized-as-a-leader-in-gartner-magic-quadrant-for-global-outsourced-digital-workplace-services/amp/",
+      "publishedDateTime": "2022-03-16T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-microsoft-surface-hub-2-smart-camera-with-laptop-grade-chip-12mp-ai-cam-launched.md",
       "title": "Microsoft Surface Hub 2 Smart Camera with laptop-grade chip, 12MP AI cam launched",
       "excerpt": "Microsoft has just unveiled its Surface Hub 2 Smart Camera which boasts of some highly impressive features and capabilities. The Microsoft Surface Hub 2 Smart Camera is not just an everyday webcam and it does not come cheap – it is priced at $800.",
@@ -1318,58 +1361,6 @@
         "name": "India Infoline",
         "domain": "indiainfoline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-microsoft-celebrates-cognitive-services-milestones-with-new-ai-capabilities.md",
-      "title": "Microsoft celebrates Cognitive Services milestones with new AI capabilities",
-      "excerpt": "Microsoft announced new vision and search AI-based capabilities are now available as part of Microsoft Cognitive Services. Microsoft Cognitive Services is a collection of cloud-hosted APIs that ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
-      "originalUrl": "https://sdtimes.com/artificial-intelligence/microsoft-adds-new-ai-capabilities-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/03/6ac62fdd-6877-41b3-96b3-97f906a0f773.png",
-          "width": 1024,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

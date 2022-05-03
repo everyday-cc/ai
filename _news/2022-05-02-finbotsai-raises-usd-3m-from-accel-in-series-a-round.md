@@ -68,20 +68,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Singapore-based Finbots.AI raises $3 million"
-    excerpt: "Singapore-based Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of USD 3 Million."
-    publishedDateTime: 2022-04-28T09:14:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92450/singapore-based-finbotsai-raises-3-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Finbots.AI Raises $3M From Accel In Series A"
     excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
     publishedDateTime: 2022-04-30T19:27:00Z

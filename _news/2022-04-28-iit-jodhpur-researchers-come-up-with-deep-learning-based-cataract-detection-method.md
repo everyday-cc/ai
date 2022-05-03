@@ -9,8 +9,8 @@ ampWebUrl: "https://www.republicworld.com/amp/technology-news/science/iit-jodhpu
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/science/iit-jodhpur-researchers-come-up-with-deep-learning-based-cataract-detection-method-articleshow.html"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: RepublicWorld
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/04/29151802/eye-care-5016078_640-1.jpg"
         width: 750
         height: 400
-        isCached: true
-  - title: "IIT Jodhpur team develops AI algorithm to detect cataracts"
-    excerpt: "A team of researchers from the Indian Institute of Technology (IIT) Jodhpur has found that eye images acquired by low-cost near-infrared (NIR) cameras can aid in low design costs, ease of use, and practical solutions for cataract detection."
-    publishedDateTime: 2022-04-28T11:56:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=952811"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Arun_270422_sch4.jpg"
-        width: 600
-        height: 372
         isCached: true
 
 secured: "Z0a4OzaPmqabNrW9SBY4ES8AP07wleY+f2ksVWKg8KieGTX6PDKavokPCjC/oWn1BG51zwNO+Uqj8M6zJWUL2LcAO8jraKuK5By70hyFIVB+H31CxDY4QC/uAdclMrYuDOH2rT674+Ym8DEbFKJmx+dWGE44lVRl4NNkOillfQj6abK7UnUSC+0QuvL/SZWY70DuAluofJbEHr8HQr82btDpe7CnfCDWNi8d2XclnndSaWmjewDFWMveymOXHMYtdisShSjuBm2B2cjPgnShFpBynAxJtPpOi1sz/XRfiT/nZKGpiuESbbSqHO+hC6rjIQ4Jneyq6bl3no3CDeLYUFwrJiIjRt466DJrcddDtWjZg1TZvywYk1c0VXkvaq6vcTOQUCc6MHdlHUs1ewapztbi2rvDd0HPz5XxgK2gfjCnP00/HCqwpLLBSldfqDziZL8nL5tjl+59vOR2Y7PHVLlSyNgnRYMey+bLIyHJcn5vlIULf4d0yq6EttjD8hjcbRxnTnh/DqJqRwXbLSnFhA==;GNrXR6Cr+w+uFYXyUSFxWA=="

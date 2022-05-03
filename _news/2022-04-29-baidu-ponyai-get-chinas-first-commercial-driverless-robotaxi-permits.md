@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-comm
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/?amp=1"
 type: article
 quality: 103
-heat: 223
+heat: 193
 published: true
 
 provider:
@@ -44,36 +44,6 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-04/44979e90-c749-11ec-bf77-cd96ab6d2c48"
         width: 6555
         height: 4480
-        isCached: true
-  - title: "Baidu, Pony.ai first to receive driverless taxi permits in Beijing"
-    excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
-    publishedDateTime: 2022-04-28T09:07:00Z
-    webUrl: "https://www.businesstoday.in/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
-    ampWebUrl: "https://www.businesstoday.in/amp/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 74
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ap22118230409001-sixteen_nine.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
-    publishedDateTime: 2022-04-29T12:00:00Z
-    webUrl: "https://www.newswit.com/en/LcAi"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 66
-    images:
-      - url: "https://www.newswit.com/img/f/20220429/3ac32c48c06b55032f81de486a571b3c-0.jpg"
-        width: 800
-        height: 430
         isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
@@ -178,20 +148,6 @@ related:
       - url: "https://img.futurecar.com/202204/28/l_626aabe3ccdb3.jpeg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Baidu, Pony AI granted China's first robotaxi permits in Beijing Baidu, Pony AI granted China's first robotaxi permits in Beijing"
-    excerpt: "Beijing took the lead in China by issuing its first batch of permits to allow Baidu and Pony AI to serve the public with autonomous taxis, or robotaxis, on Thursday."
-    publishedDateTime: 2022-04-28T09:10:00Z
-    webUrl: "https://news.cgtn.com/news/2022-04-28/Baidu-Pony-AI-granted-China-s-first-robotaxi-permits-in-Beijing-19B6sPRz30s/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 8
-    images:
-      - url: "https://news.cgtn.com/news/2022-04-28/Baidu-Pony-AI-granted-China-s-first-robotaxi-permits-in-Beijing-19B6sPRz30s/img/7431862626c445b6a2903c88bc8cf8e9/7431862626c445b6a2903c88bc8cf8e9-1280.png"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "rgWxyK3wxbjnEvGTCQgtp5o0jcGqsH/iu465r4rggumAfKEEx+f1VXvndxsrfixF8a7DXmp5LwlHri1r8hHYGD9W3PgYcaS28ZkFuJ/1qE8q6/FJf2prWh0xv/hns2KChdjFn8m3NlgtvxiS0pdOP5I396OHtpxgvia4M8CrfCWKbrr7LgVlri96o9gOKmtIYrLnta1UpRIz7KQjsa7oABu5LpUOmbdvnBdJt68jk+sSPk+/Dcu8Rulvjf7Dgs16ozaIwaA2nLoKwXaVmqFNHK90ER0bpLtt2jH5tRbyjq4zbwTW1EKeDKMWTkEJ7RfLNGkRMH8Q5y6aUN9OLbjjJRCtp19QuGKEcdDO20eRPHQSvvm/ZdiYpZcq8kDHkPANM5oNBKbysGqZSP3vw5Eb4Qwwpglfu0OL/VyJP+3ES0QClbEH8/bFpY5RirJZYKqsQX6iCot4e2SARAu5mhvyqX+nXfy0UefLQFOSdkcuDgWuhSFoyfz8D6FoCBEgTA1HI2J7wJVtDCYde9XrnvC9zA==;EBxGAwP41YlwwOmhEIJHrg=="

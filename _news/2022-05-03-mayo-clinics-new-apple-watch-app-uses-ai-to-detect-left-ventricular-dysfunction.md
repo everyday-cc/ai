@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI algorithm detects asymptomatic heart disease from Apple Watch ECG data"
+    excerpt: "To transform that Apple Watch ECG data into something clinically useful researchers must turn to AI algorithms, designed to identify tiny signals in the data that can correspond with heart problems."
+    publishedDateTime: 2022-05-03T02:50:00Z
+    webUrl: "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/"
+    ampWebUrl: "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 86
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/55cfbb8/2147483647/strip/true/crop/3000x2000+0+500/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F23%2F9b%2Fcc2d0fae4ba695ae56da6485c343%2Fapple-watchseries6-ecg-heartrate-050121.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Researchers use AI to detect weak heart pump via patients' Apple Watch ECGs"
     excerpt: "Single-lead ECG tracings from an Apple Watch interpreted by an artificial intelligence (AI) algorithm developed at Mayo Clinic effectively identified patients with a weak heart pump. Patients were ..."
     publishedDateTime: 2022-05-02T20:56:00Z
@@ -53,6 +69,20 @@ related:
       - url: "https://images.macrumors.com/t/brN80nA8bKQHR8Boyfcf0HYHy9I=/1600x/article-new/2021/02/apple-watch-ecg-wrist.jpg"
         width: 1600
         height: 901
+        isCached: true
+  - title: "IIT Jodhpur team develops AI algorithm to detect cataracts"
+    excerpt: "A team of researchers from the Indian Institute of Technology (IIT) Jodhpur has found that eye images acquired by low-cost near-infrared (NIR) cameras can aid in low design costs, ease of use, and practical solutions for cataract detection."
+    publishedDateTime: 2022-04-28T11:56:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=952811"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Arun_270422_sch4.jpg"
+        width: 600
+        height: 372
         isCached: true
   - title: "Mayo Clinic uses AI and Apple Watch to detect weak heart pump"
     excerpt: "Researchers at the Mayo Clinic used AI and an Apple Watch to detect a weak heart pump. The researchers developed an algorithm that used the signal from an Apple Watch ECG to detect the condition. The study's accuracy was \"as good as or slightly better than ..."
@@ -86,6 +116,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 12
+  - title: "Apple Watch ECG App, Still Experimental, Reveals Asymptomatic Low LVEF"
+    excerpt: "An app researchers designed for the Apple Watch allows patients to transmit electrocardiograms to a central processing center, where analysis driven by artificial intelligence ... had been adapted from a neural network trained to look for signs of LV ..."
+    publishedDateTime: 2022-05-02T18:59:00Z
+    webUrl: "https://www.medscape.com/viewarticle/973276"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 4
 
 secured: "TMcLYgukbP8Ik5APNEwrS7NZ8T9FyBpAgq0NRmD00BUgYNhMnbQij3E4jWD9+MaiSwrAt8PTxZLGxviIc9pCr6wYkbVqaCK6wDN3+om95U44wE7/+DkBe5Fz6xpNQEtGPxGTDBKB1ZvsOH0JveWzVcokgCw9aO+mFa6386mmNel1/9gAbrhYnDAnGTu1GSKC9Ehc0mc3Je3Kxf4ShEHFi8lfdALaUdElY5lCeiLHu8EtkFc64ggvk5mJ/k4+3QKj9kfqv5WDUnz2lRdQUOG7yTYCnZHdinkT+/CCV8u3W+j783IqhnBFN7IGgF+nJPvLm49mDFugZku4dqrIJQaD/nz+jC49EMaJzRmCdYGt6DK36gi1LFOcLgobxp4M/ILusYP8o5PNWAEubQCt/6IthlqrXC7YR14+vHUBTNK3zEgamj8oXRZyt7KZ+OF4Gg9wbHPYa9SI1hYSI3N4q5/ElrBR/omyUd+a5IoJmD22UBrZWR5ZcT5qB7wZedFysFlbJEZkD+yi/TVr1JH9ekI5Bw==;gyYWA0gdbBmMlD3eV2+kvQ=="
 ---

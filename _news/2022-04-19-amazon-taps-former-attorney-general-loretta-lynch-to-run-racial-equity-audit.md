@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Amazon taps former Attorney General Loretta Lynch to run racial equity audit"
-excerpt: "related to harassment and discrimination * And an independent study of Rekognition, a facial recognition system that Amazon Web Services markets and sells to government and shareholders say is \"worse at identifying Black women than white men and misgenders ..."
-publishedDateTime: 2022-04-19T16:07:00Z
-originalUrl: "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html"
-webUrl: "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html"
+excerpt: "related to harassment and discrimination And an independent study of Rekognition, a facial recognition system that Amazon Web Services markets and sells to government and shareholders say is ..."
+publishedDateTime: 2022-04-19T16:51:00Z
+originalUrl: "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/"
+webUrl: "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/"
+ampWebUrl: "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/?amp=1"
 type: article
 
 provider:
-  name: Finger Lakes Times
-  domain: fltimes.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/d/24/d24e04b0-93fb-5777-a31f-327a60cd2465/625ee11e2085e.image.jpg?crop=1600%2C840%2C0%2C134&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "kVhtYqiNUSrapgQjsUgcxte04AwLOF3wUWQwyRVyzMAnJaYe5PBuvPsbTETonSRCZ2M/Vuodxrwgu3ZOGrBCPiPzkTIUW5tOFr+bmcDHDNJ5Gug9GeaUUW4vkMp6O9VlroYEqf+d6Z+M5Q/+sWva52x7qYR3qNrkddc2x8QQESYnuY+qB+N25Gap4zUKwLJVm2ZtuMa7Vn5K1flqrYWcYrX5wZoEidTRyxoIk+C78DhoSNpdRLftGBQtAJzvznqzmjyBorUo47fqe3oAuOXguYvCaMZ7LmUrO4PU18SKdLSfrj4HbVGIKoSx2kv3kbLRLft634hWDj1MzSb4M7jBuxdx/VdsBC25WfG7nUHEn4c=;/vmUWqtlGD6+mG4B7OjyKA=="
+secured: "V4RFLHucFfahUOtrOK/5HSrfVHK9uqJQCw5zq0SinXHcdDx9Aj9AlrfK1giE74NRcD+hHpdEezW66/z2liT8eeIFX0w0KGTKnJ6aqyFrqH0XeAWtvaej0JSN9TqjdV3FN4g5CBjPiZzyVw/wvXECAuwtPmcadZtwli0ZmMVUK5EIlUlYSELue1xitWEdeGnG4kN0gbcKZnSPgDHZN5VdwmADGJfKxGLGrO/0ru/Q7fqSUj5LV+m5uF7cSILndQJzr1qYzuiIL5TQWr53/D57Q3SN8zDzL5i98HDAZaK2+/3X6Mt0O9rfX3xREIE5ydfn8FRaxBsdPzVSyjGdy0ig2/xBfthZBHFWRHxmn6Sym3w=;m6zGR2yw6XKGJlidOPDFow=="
 ---
 

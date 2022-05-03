@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-05-artificial-intelligence-students-tools
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-artificial-intelligence-students-tools-success.amp"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
+  - title: "Ways AI Improves Online Learning Process"
+    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
+    publishedDateTime: 2022-04-29T13:35:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 17
 
 secured: "9GkEGMAv6xh6zobHFgKMUwM0w8PtywNgXNm9Zpqrm+Vl23c+VWCLOvPK6+IOxT5Ip2ftBwRr5UPBZespNKcXsSy+92iZlojYbYomFhzcFLmg5lXTlEa4rLOkHGjpkU7h97DVXMcGAUqcATULN86vuZWZ/fvBAJ65/d5ZgqeKnxtXq7NoXl9Zu4q68447otQ04O2xBEI9drIQqRtrcyM17puP9P5bHgSIV59K/T/OZa+qgqhgjF5FB1i5DMTn6P9KduuR4uPZG4ErplG7LkGu3QiwQKJ6y2OPK5owSfMobF4ZZgQ7KPIMLf5f+nUhmhhIkej0Uj9m7B5GfMds1Ei34j33mdTuPN1/ZG3Ou9DIGK56z9LeUL7yNQoOlAgmtPJJRYI8zP6dS109zs1Gh5vUs/o2kVpe4SLaG0kbLLSFQ38Fzem4Ai7b8mAmSGqSzPDzQItYO9wtG93xgucP2QUjEl8fRDwwFETpdk8aoiYMAQNc+G01jxn5vpabcvVGbBRlqURtvnnNsNohSVAxA8BVoQ==;sKJavVRFF2GrMkhp03UqCg=="
 ---

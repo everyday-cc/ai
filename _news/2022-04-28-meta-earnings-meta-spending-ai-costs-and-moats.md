@@ -42,7 +42,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/279d0180-9a68-11ec-bff7-019e5671d63d"
         width: 5472
@@ -79,6 +79,38 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2021/11/Google_EU.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Google fires another researcher as it confronts challenges with AI"
+    excerpt: "The methods described in the Nature paper are touted to generate chip floorplans in under 6 hours as opposed to the months it takes for humans to do the same. But while the results have yet to speak for themselves in wider practice, it's pretty clear that ..."
+    publishedDateTime: 2022-05-02T23:34:00Z
+    webUrl: "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challenges-with-ai/"
+    ampWebUrl: "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challenges-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challenges-with-ai/amp/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 59
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/google-boston-2018.jpg"
+        width: 4032
+        height: 3024
+        isCached: true
+  - title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
+    excerpt: "A new study by researchers at Johns Hopkins University shows how artificial intelligence (AI) machine learning can improve the accuracy and speed of mouse brain imaging in action—a breakthrough that one day could help accelerate neuroscience research for ..."
+    publishedDateTime: 2022-04-29T20:14:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/picl2887.jpg?itok=BuzpjY5z"
+        width: 1528
+        height: 800
         isCached: true
   - title: "Using AI and Machine Learning to Reduce Wastewater Flooding and Pollution"
     excerpt: "As part of the endeavor, Rockwell teams specializing in network and cybersecurity, AI, and machine learning applications are providing guidance as well as counsel and support on other emerging technologies. Rockwell software and hardware will also be part ..."
@@ -117,15 +149,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
-    excerpt: "Often, capturing neural activity in mice requires restraints ... with the assistance of DNNs,” the researchers wrote. In artificial intelligence, a generative adversarial network (GAN) is a deep learning network that generates output that has similar ..."
-    publishedDateTime: 2022-04-29T20:14:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
 
 secured: "OD9uK1wUS5DYqx4L/2MbLwmIgwxayIDDi5sZvB9uNyWa/g72nEMN9XXu/F/rVCyXNvr9yPY1iiKdzPRMj/6fwor7s/Wdk5zSyjW11BjjOH7zIXJUpecOYxuyBEQn6dSnW9lSEvyJtiF1ENXlJg5BVNvtjGJzCUJ9J8y7tP7znEz/38xJR5gh9gn6JdSzLeKFLscgmZ+4pFfN8nxTifd/wun+SoeUfL0EJDQUXbivYjKMn+TB39QLbm9dn63d9SqPSGlTgxCVsmSpqqQDD8UITl53dV76prB1kfxVWDb3DZ01Zrl1DWYo1LjuLVDvidBWfqqORKwIOYhnoSb6jxuQHg4SEvBvnVf3siV4ywr9CQ7jwO0yG802iJJNPaj85Y+kAs1waNKwjzz7FEbq10s2p0a27tJLWZRQyAJP7iPnIWRLu0Xs2kXR/6KCXmeSjrXnYjmqfH7JDUaLNfqRhzFtvqhAef/xx4hy8BDr4lku3C7TU5Gh9kSQN53+TvYUyffIihm/X2rUqnKepQSAG16Few==;vNTc2DtFpwG1yaKNBwR96A=="
 ---

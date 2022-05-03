@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform.md",
+      "title": "Dell adds cyber recovery (and more) to APEX storage cloud platform",
+      "excerpt": "Dell PowerProtect Cyber Recovery for Microsoft Azure will join other Dell offerings ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/",
+      "originalUrl": "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/amp/",
+      "publishedDateTime": "2022-05-02T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-ai-algorithm-detects-asymptomatic-heart-disease-from-apple-watch-ecg-data.md",
+      "title": "AI algorithm detects asymptomatic heart disease from Apple Watch ECG data",
+      "excerpt": "To transform that Apple Watch ECG data into something clinically useful researchers must turn to AI algorithms, designed to identify tiny signals in the data that can correspond with heart problems.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/",
+      "originalUrl": "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/55cfbb8/2147483647/strip/true/crop/3000x2000+0+500/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F23%2F9b%2Fcc2d0fae4ba695ae56da6485c343%2Fapple-watchseries6-ecg-heartrate-050121.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true",
+      "publishedDateTime": "2022-05-02T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston.md",
       "title": "Unanimous Supreme Court Flies Flag for Free Speech in Case Against City of Boston",
       "excerpt": "Despite the court’s recognition of Lemon’s many problems ... participate in this term’s remaining high-profile cases on abortion, free exercise, free speech, and the Second Amendment. Have an opinion about this article? To sound off, please email ...",
@@ -41,48 +144,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-researchers-use-ai-to-detect-weak-heart-pump-via-patients-apple-watch-ecgs.md",
-      "title": "Researchers use AI to detect weak heart pump via patients' Apple Watch ECGs",
-      "excerpt": "Single-lead ECG tracings from an Apple Watch interpreted by an artificial intelligence (AI) algorithm developed at Mayo Clinic effectively identified patients with a weak heart pump. Patients were ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg",
-          "width": 2880,
-          "height": 1907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.amp",
-      "publishedDateTime": "2022-05-02T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -138,7 +199,7 @@
       "originalUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -268,7 +329,7 @@
       "originalUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -310,7 +371,7 @@
       "originalUrl": "https://www.crn.com/news/cloud/dell-launches-new-aws-azure-multi-cloud-security-solutions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -344,6 +405,57 @@
         "AI",
         "AI in Security",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects.md",
+      "title": "Square Enix Sells Deus Ex, Tomb Raider Studios to Fund Blockchain, AI Projects",
+      "excerpt": "Game publisher Square Enix is selling off the studios behind the Tomb Raider and Deus Ex franchises in an effort to streamline its business and fund new AI and blockchain investments. The deal, announced today, is valued at $300 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects",
+      "originalUrl": "https://www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00CgQX9YmOiuE3CVNmOjegm-1.fit_lim.size_1200x630.v1651503896.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects?amp=true",
+      "publishedDateTime": "2022-05-02T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -623,7 +735,7 @@
       "originalUrl": "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -1033,92 +1145,6 @@
       "provider": {
         "name": "motorbiscuit",
         "domain": "motorbiscuit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking.md",
-      "title": "AI, ML, & Cybersecurity: Here’s What FDA May Soon Be Asking",
-      "excerpt": "These include Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan, published in January 2021; Good Machine Learning Practice for Medical Device Development: Guiding Principles, published in October 2021 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking",
-      "originalUrl": "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/AI-ML-Cybersecurity-RNG74N.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-visionnav-robotics-closes-80m-for-agvs.md",
-      "title": "VisionNav Robotics closes $80M for AGVs",
-      "excerpt": "... based company that develops logistics robots, raised more than $80 million in Series C+ funding. VisionNav is committed to providing automated material handling systems with visual artificial intelligence navigation technology. VisionNav’s automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/visionnav-robotics-closes-80m-for-agvs/",
-      "originalUrl": "https://www.therobotreport.com/visionnav-robotics-closes-80m-for-agvs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-visionnav.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

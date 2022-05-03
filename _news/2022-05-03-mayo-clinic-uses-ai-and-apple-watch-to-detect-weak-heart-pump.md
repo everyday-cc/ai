@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI algorithm detects asymptomatic heart disease from Apple Watch ECG data"
+    excerpt: "To transform that Apple Watch ECG data into something clinically useful researchers must turn to AI algorithms, designed to identify tiny signals in the data that can correspond with heart problems."
+    publishedDateTime: 2022-05-03T02:50:00Z
+    webUrl: "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/"
+    ampWebUrl: "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 86
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/55cfbb8/2147483647/strip/true/crop/3000x2000+0+500/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F23%2F9b%2Fcc2d0fae4ba695ae56da6485c343%2Fapple-watchseries6-ecg-heartrate-050121.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Researchers use AI to detect weak heart pump via patients' Apple Watch ECGs"
     excerpt: "Single-lead ECG tracings from an Apple Watch interpreted by an artificial intelligence (AI) algorithm developed at Mayo Clinic effectively identified patients with a weak heart pump. Patients were ..."
     publishedDateTime: 2022-05-02T20:56:00Z
@@ -53,6 +69,20 @@ related:
       - url: "https://images.macrumors.com/t/brN80nA8bKQHR8Boyfcf0HYHy9I=/1600x/article-new/2021/02/apple-watch-ecg-wrist.jpg"
         width: 1600
         height: 901
+        isCached: true
+  - title: "IIT Jodhpur team develops AI algorithm to detect cataracts"
+    excerpt: "A team of researchers from the Indian Institute of Technology (IIT) Jodhpur has found that eye images acquired by low-cost near-infrared (NIR) cameras can aid in low design costs, ease of use, and practical solutions for cataract detection."
+    publishedDateTime: 2022-04-28T11:56:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=952811"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Arun_270422_sch4.jpg"
+        width: 600
+        height: 372
         isCached: true
   - title: "Mayo Clinic’s new Apple Watch app uses AI to detect left-ventricular dysfunction"
     excerpt: "The Mayo Clinic developed a new app that transmits ECG signals from Apple Watches for AI analysis to identify heart disease. The application transmits ECG (electrocardiograms) signals recorded in non-clinical environments seamlessly and securely to a ..."
@@ -86,7 +116,16 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 12
+  - title: "Apple Watch ECG App, Still Experimental, Reveals Asymptomatic Low LVEF"
+    excerpt: "An app researchers designed for the Apple Watch allows patients to transmit electrocardiograms to a central processing center, where analysis driven by artificial intelligence ... had been adapted from a neural network trained to look for signs of LV ..."
+    publishedDateTime: 2022-05-02T18:59:00Z
+    webUrl: "https://www.medscape.com/viewarticle/973276"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 4
 
-secured: "JE1Gjg5XmX95NEntso7maLxpP7EILBZtjHS0McGeC/GfGTjm1tJJSGMUtLp0GrTQF2Fce0m9AnwFiUOWah5q0+M5F5HdDOU4gguZSjHVZmkhnnUBz+x83QfvXA1e1ymSdOPKHpEGwWv7PMzTX+92rBDOYgcP/lwDQR0FJDesiQmSJ5DD2Gz4itIgbkuMGV62H9ZdimVsNK7YMrnKoqtacgCmC8AjIxhLXyWKaRj3PZTSH6HUoClXzxdayQjarCZ5Wx53EsU61OLGWb/p4n3i3T5cnQ+KW/ReGLDbvHnA89mU1xxM2V0VYZabGVvGizP6Aouk3RTCNUpCGKzpwYxNXU7MuFa4k7ivhfH5DF48Qg8=;PWsa+Ii+ek6QcLa9MRo5ng=="
+secured: "TBWpT6u9cHVh1hQXnPEGTHOniuJdKXzDTr7oiweRar71GfUsZcvU3Pi8m/B+wHiKLuRAThn/O6NG+sSRljC5+Bj4wn6f2iSGzIJYf2DvQnx/ykHpzeQurs4yC9o2il5sS88DvbrJ/oSzZvoJdIKbnkVGNQ24UJTkmPD7QUNOAv7a3cQXZIZM76lSlElOsG+/xEr6r4fCok6X1femeo9RNpj2CMYNLJTS+O3H6EcIvsOWXO3g+F5i/W7LrFu+RskDhLYwtduUY1sm0S4vqgbwXfUSDW3aQX1FDy9b6pdvEtVTtix98huDh+CuiM3VBJOMA5mVLLrPstQwOKGe6Iyth8IEdWGYewDUlVLy48q+hWFX559GM7ZRFKmL67mySIXhk7sQWmJME2n29pjpMN78r24wfIQc3k9s6p52FvwVn63JEkaJGezNhwr5GKS7pdQV9m9o3iHCyGVO2rr5K+7uAhcY2WRIQSeeL0Fw5Hh7ZV1KcehouysiCnaI6cUMO8MQpLrZqcHuM+S521cmHzgkog==;/NDEEpTETchlmKDU2fcpgQ=="
 ---
 

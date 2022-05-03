@@ -1,12 +1,14 @@
 ---
 category: news
 title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
-excerpt: "Often, capturing neural activity in mice requires restraints ... with the assistance of DNNs,” the researchers wrote. In artificial intelligence, a generative adversarial network (GAN) is a deep learning network that generates output that has similar ..."
+excerpt: "A new study by researchers at Johns Hopkins University shows how artificial intelligence (AI) machine learning can improve the accuracy and speed of mouse brain imaging in action—a breakthrough that one day could help accelerate neuroscience research for ..."
 publishedDateTime: 2022-04-29T20:14:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
 type: article
-quality: 19
+quality: 57
 heat: -1
 published: false
 
@@ -15,8 +17,13 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Machine Learning
   - AI
+
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/picl2887.jpg?itok=BuzpjY5z"
+    width: 1528
+    height: 800
+    isCached: true
 
 related:
   - title: "Google Fires Another AI Researcher For Questioning Findings"
@@ -43,7 +50,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/279d0180-9a68-11ec-bff7-019e5671d63d"
         width: 5472
@@ -80,6 +87,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2021/11/Google_EU.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Google fires another researcher as it confronts challenges with AI"
+    excerpt: "The methods described in the Nature paper are touted to generate chip floorplans in under 6 hours as opposed to the months it takes for humans to do the same. But while the results have yet to speak for themselves in wider practice, it's pretty clear that ..."
+    publishedDateTime: 2022-05-02T23:34:00Z
+    webUrl: "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challenges-with-ai/"
+    ampWebUrl: "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challenges-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challenges-with-ai/amp/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 59
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/google-boston-2018.jpg"
+        width: 4032
+        height: 3024
         isCached: true
   - title: "Using AI and Machine Learning to Reduce Wastewater Flooding and Pollution"
     excerpt: "As part of the endeavor, Rockwell teams specializing in network and cybersecurity, AI, and machine learning applications are providing guidance as well as counsel and support on other emerging technologies. Rockwell software and hardware will also be part ..."
@@ -128,6 +151,6 @@ related:
       domain: stratechery.com
     quality: 17
 
-secured: "06GLOD8pcRoB32ejMnJqHMZcXpzENGashha0xrhTfyd2uVujbUmFrGy5cbhwdFRH6KBJjyJZC3jElyayo9ecB4sZGfmtYoshxAswBrWDKzmsXiNdY6KON8uom5IMyBDGVv9Zcj42q0DvNif+mBh5sOuDdJHPUX/FTsIz2KWIpH4oqsqdAq+5Jtj0fE3Rm/FtZ+A5HIHSIaibQ2wl9prGg6yaLnmaexKyYjdIB5BkBqaddJBKvZ8eSU+4q8u03NFzXWVDzlgrl1W3j0B+h0Fg8Fc4Uv52jLmfESJ/4duXB4maPYxsHMH/GmBdL4mTgjeOdhXzEFd4BTjNrEsUSBTOw41meVqSiAm+egltJb8DRQ2kCHPb9ADfPgj8RYdSn7NfE7c9HqnD8uazuH9wAXZG3jQkWJDH5ekVi0htigKEtHxoftgTK0uZEVaFAj01k7fdPK9fDadipqfnw6yMzw+5A0MuD2cAhHQZFRpb6rTN5xfE2Jhz7ojxf/jeUhqPJWb/3ZMdW1b7g3Y20b1kW6vNZA==;j/KK6wWo57w2pT8Si2teHA=="
+secured: "CdoWA+rzqaMPaF8ISs950MUz+1s20joGdg/xdOxIeLkrJGADvXZV6kSam38gtmf8egtGo45l9O9wc4tzyw3PUodODK8OC6GPvgXYjUB6EB1QJbPKUrTQJvCjhFteQD1osEzFQzzK3Ak69q0w39pdY3K2MCocPUrreRGkf30spjn5k3FNl9KBDFal4Bbshmmc6bvMi88e5fgTBRoTa++CBLIcWh6orTN6nDzfNvpAlFj2qyKvrfR/t8hZS1cpY0i9PnCuOkfPv9GXlS7xnd2199LR7O76WfD+MUQRErM0yURkP9fLOhZY4eegm0Teg6l0nyD+oEIQCWHLIjUP530G8Rlki5x5lPNykv8/PtkEq18=;SbLmet1hlJAOlT+ajPnuzg=="
 ---
 

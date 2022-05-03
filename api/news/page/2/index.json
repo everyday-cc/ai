@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-30-ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking.md",
+      "title": "AI, ML, & Cybersecurity: Here’s What FDA May Soon Be Asking",
+      "excerpt": "These include Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan, published in January 2021; Good Machine Learning Practice for Medical Device Development: Guiding Principles, published in October 2021 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking",
+      "originalUrl": "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/AI-ML-Cybersecurity-RNG74N.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-anthropics-quest-for-better-more-explainable-ai-attracts-580m.md",
       "title": "Anthropic’s quest for better, more explainable AI attracts $580M",
       "excerpt": "Less than a year ago, Anthropic was founded by former OpenAI VP of research Dario Amodei, intending to perform research in the public interest on making AI more reliable and explainable.",
@@ -202,29 +245,38 @@
       ]
     },
     {
-      "path": "_news/2022-04-29-11-key-ai-areas-relevant-to-todays-sales-leaders.md",
-      "title": "11 Key AI Areas Relevant To Today's Sales Leaders",
-      "excerpt": "Personalized Sales Offers Our customer success teams use Drift, a cloud-based automated sales process solution, to help us connect with potential customers using an AI-powered chatbot. Drift helps us segment customers, start conversations and serve ...",
+      "path": "_news/2022-04-29-visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field.md",
+      "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
+      "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/04/29/11-key-ai-areas-relevant-to-todays-sales-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/04/29/11-key-ai-areas-relevant-to-todays-sales-leaders/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 116,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg",
+          "width": 400,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T05:15:00-07:00",
+      "publishedDateTime": "2022-04-29T05:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -240,8 +292,9 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI",
-        "AI in Sales"
+        "AI in Robotics"
       ]
     },
     {
@@ -399,7 +452,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -883,6 +936,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-29-cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-the-field-of-ai.md",
+      "title": "Cerebras Systems’ dinner plate-sized chips are revolutionizing the field of AI",
+      "excerpt": "When big isn't big enough, you go bigger. And when that isn't big enough, you go Cerebras Systems big. But how much does size matter?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai",
+      "originalUrl": "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fcerebras-chip.jpg&signature=33b94c65c924c926aa93ff8a248753b1",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-this-ai-designed-enzyme-can-devour-plastic-trash-in-hours-video.md",
       "title": "This AI-Designed Enzyme Can Devour Plastic Trash In Hours: Video",
       "excerpt": "A new enzyme developed by researchers in Texas has raised hopes of a viable method to break down and recycle some of the millions of tons of waste plastic polluting the Earth.",
@@ -1122,109 +1227,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware.md",
-      "title": "Exafunction aims to reduce AI dev costs by abstracting away hardware",
-      "excerpt": "The most sophisticated AI systems today are capable of impressive feats, from directing cars through city streets to writing human-like prose. But they share a common bottleneck: hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/",
-      "publishedDateTime": "2022-04-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters.md",
-      "title": "Richard Bartle and Richard Garriott: How humans should treat advanced AI characters",
-      "excerpt": "Richard Bartle and Richard Garriott talked at GamesBeat Summit 2022 about being new citizens of the metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
-      "originalUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/garriott-bartle.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
-      "publishedDateTime": "2022-04-28T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

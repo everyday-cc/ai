@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-03-17-what-impact-will-the-ai-revolution-have-on-your-practice.md",
+      "title": "What impact will the AI revolution have on your practice?",
+      "excerpt": "Once thought of as a timepoint in the distant future, healthcare has already entered the artificial intelligence era and it will have a transformative impact across the spectrum of medical practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.urologytimes.com/view/what-impact-will-the-ai-revolution-have-on-your-practice",
+      "originalUrl": "https://www.urologytimes.com/view/what-impact-will-the-ai-revolution-have-on-your-practice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/urologytimes/0757c66511f9d4fcacf768d0ff1dc3640c3b9757-4800x3000.jpg?fit=crop&auto=format",
+          "width": 4800,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "urologytimes",
+        "domain": "urologytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-harness-the-power-of-artificial-intelligence-fueled-by-first-party-data.md",
       "title": "Harness the power of artificial intelligence fueled by first-party data",
       "excerpt": "Own paid channels, own the competition Advertising consistently struggles to engage customers with relevant messages that are delivered when and where they’re likely to convert. Traditional advertisin",
@@ -1038,49 +1081,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-breakthrough-study-validates-artificial-intelligence-as-a-novel-biomarker-in-predicting-immunotherapy-response-published-in-journal-of-clinical.md",
-      "title": "Breakthrough Study Validates Artificial Intelligence as a Novel Biomarker in Predicting Immunotherapy Response - Published in Journal of Clinical Onco",
-      "excerpt": "Lunit's latest study provides evidence for Lunit SCOPE IO's ability to predict immunotherapy response This is the first study that adopted AI technology to define the tumor immune phenotype and to demonstrate its ability in predicting treatment outcomes of anti-PD-L1 therapy SEOUL,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=632521",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=632521",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://us.acrofan.com/img/noImg.jpg",
-          "width": 500,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -54,20 +54,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
-    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
-    publishedDateTime: 2022-04-28T10:45:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220428NY39116/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1687309/LK_1920x1080_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
     excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
     publishedDateTime: 2022-05-01T16:39:00Z

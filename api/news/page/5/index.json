@@ -2,6 +2,60 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-27-eden-ai-unifies-ml-apis-from-several-cloud-vendors.md",
+      "title": "Eden AI unifies ML APIs from several cloud vendors",
+      "excerpt": "French startup Eden AI has raised a $1.6 million pre-seed round (€1.5 million) to build a programming interface that lets you access AI engines from multiple vendors. The company unifies those APIs and offers a simple way to try them out,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/",
+      "originalUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Eden-AI.jpeg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/",
+      "publishedDateTime": "2022-04-27T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance.md",
       "title": "Eurora raises $40M for its AI-based system to automate EU e-commerce shipping compliance",
       "excerpt": "The e-commerce market has boomed in the last several years, and with that so has the appetite of tax collectors to do their bidding: make rules that make sure their countries are getting a cut. That’s spelled more red tape and more customs hoops (and costs) for those shipping and receiving",
@@ -1101,58 +1155,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-tomahawk-robotics-expands-global-coverage-to-europe-and-australasia-markets.md",
-      "title": "Tomahawk Robotics Expands Global Coverage to Europe and Australasia Markets",
-      "excerpt": "Tomahawk Robotics, the leading innovator of common control solutions, is proud to announce that they have expanded their offering of Kinesis software and tactical products to the global market. The rapid growth of Tomahawk Robotics' customer base both within the United States and internationally has been driven by its passion to deliver cutting-edge technology to end-users to reduce physical and cognitive burdens for warfighters and elevate the capabilities of their currently fielded unmanned systems through networking and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-expands-global-coverage-to-europe-and-australasia-markets-1031385644",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-expands-global-coverage-to-europe-and-australasia-markets-1031385644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1804822/Tomahawk_Robotics_KxM_and_MxC.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

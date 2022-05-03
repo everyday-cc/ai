@@ -45,36 +45,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Baidu, Pony.ai first to receive driverless taxi permits in Beijing"
-    excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
-    publishedDateTime: 2022-04-28T09:07:00Z
-    webUrl: "https://www.businesstoday.in/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
-    ampWebUrl: "https://www.businesstoday.in/amp/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/trends/story/baidu-ponyai-first-to-receive-driverless-taxi-permits-in-beijing-331610-2022-04-28"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 74
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202204/ap22118230409001-sixteen_nine.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
-    publishedDateTime: 2022-04-29T12:00:00Z
-    webUrl: "https://www.newswit.com/en/LcAi"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 66
-    images:
-      - url: "https://www.newswit.com/img/f/20220429/3ac32c48c06b55032f81de486a571b3c-0.jpg"
-        width: 800
-        height: 430
-        isCached: true
   - title: "Passengers Can Now Call For A Driverless Taxi In China"
     excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
     publishedDateTime: 2022-04-28T12:34:00Z
@@ -178,20 +148,6 @@ related:
       - url: "https://img.futurecar.com/202204/28/l_626aabe3ccdb3.jpeg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Baidu, Pony AI granted China's first robotaxi permits in Beijing Baidu, Pony AI granted China's first robotaxi permits in Beijing"
-    excerpt: "Beijing took the lead in China by issuing its first batch of permits to allow Baidu and Pony AI to serve the public with autonomous taxis, or robotaxis, on Thursday."
-    publishedDateTime: 2022-04-28T09:10:00Z
-    webUrl: "https://news.cgtn.com/news/2022-04-28/Baidu-Pony-AI-granted-China-s-first-robotaxi-permits-in-Beijing-19B6sPRz30s/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 8
-    images:
-      - url: "https://news.cgtn.com/news/2022-04-28/Baidu-Pony-AI-granted-China-s-first-robotaxi-permits-in-Beijing-19B6sPRz30s/img/7431862626c445b6a2903c88bc8cf8e9/7431862626c445b6a2903c88bc8cf8e9-1280.png"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "oZhBTcqT1RQ3utZgCxnhUr9vD5ykcuazkE1esq1BxIqcLIbb1UBROHswFmfbzZ9DK8aXanFaOmT1gd635I3FaxJ8rbSiAQToVpETgRV6ghP1T1FtQQZbMMfRT0Cz2qICee9RwDV/XYSXlxYNwdbdnnF+pMyPdWBLBEi2yRs6LkpVcB2nza841rbDd+C30USWvLyWraFRCwVzhe7zuw32QlRVLu/b+ZXZ8VwxVo8MbfMFB2zsAgrwV2FP2bZSkup33uWc4V570X8k5Xx6V9y3nlsFnQTz55fQSnMANU3HSVhC9is2hZ7WKacBMljPYBxIh9F3QCaEqaYIpcCzm4dCrTzfEYaUw8hIyf074O/nOXs=;pQaAlCSqcAflcNmPw+1hhw=="

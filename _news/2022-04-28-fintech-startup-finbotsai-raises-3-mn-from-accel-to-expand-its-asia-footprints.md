@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-a
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/finbots.ai_.jpg"
         width: 2240
         height: 1260
-        isCached: true
-  - title: "Singapore-based Finbots.AI raises $3 million"
-    excerpt: "Singapore-based Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of USD 3 Million."
-    publishedDateTime: 2022-04-28T09:14:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92450/singapore-based-finbotsai-raises-3-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
   - title: "Finbots.AI raises USD 3m from Accel in Series A round"
     excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, recently announced it has raised a successful Series A round of USD 3 Million. This round saw the participation of a single investor – Accel."

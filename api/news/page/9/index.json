@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-22-roborock-launches-q-series-robot-vacuums-expanding-the-convenience-of-its-award-winning-automated-cleaning-tech-into-most-us-households.md",
+      "title": "Roborock Launches Q-Series Robot Vacuums, Expanding the Convenience of its Award-Winning Automated Cleaning Tech into Most U.S. Households",
+      "excerpt": "Roborock makes auto-emptying a staple in robotic cleaning in the US with new mid-range offering led by the immediate release of the Q5+ HONG KONG, April 22, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/roborock-launches-q-series-robot-vacuums-expanding-convenience-its-award-winning-automated",
+      "originalUrl": "https://www.asiaone.com/business/roborock-launches-q-series-robot-vacuums-expanding-convenience-its-award-winning-automated",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2022/Q5_0.jpg?itok=rH_gvu2l",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry.md",
       "title": "Computer Vision Startup Encord Launches DICOM Image Annotation Tool To Eradicate Manual Data Labelling for Healthcare Industry",
       "excerpt": "Encord is backed by CRV, Y Combinator, WndrCo and Crane Venture Partners and trusted by the likes of world-leading healthcare institutions including Kings College London where it",
@@ -1112,58 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-mits-newest-computer-vision-algorithm-identifies-images-down-to-the-pixel.md",
-      "title": "MIT's newest computer vision algorithm identifies images down to the pixel",
-      "excerpt": "But for artificial intelligence and computer vision systems, developing a high-fidelity understanding of their surroundings takes a bit more effort. Well, a lot more effort. Around 800 hours of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/mit-computer-vision-algorithm-identifies-images-down-to-the-pixel-130051112.html",
-      "originalUrl": "https://www.engadget.com/mit-computer-vision-algorithm-identifies-images-down-to-the-pixel-130051112.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/bb03e290-c00b-11ec-9656-f63c96120141",
-          "width": 6468,
-          "height": 4329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
