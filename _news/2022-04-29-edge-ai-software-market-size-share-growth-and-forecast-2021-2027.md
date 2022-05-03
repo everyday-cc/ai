@@ -66,20 +66,6 @@ related:
       name: Galleon News
       domain: galleonnews.com
     quality: 16
-  - title: "Artificial Intelligence Market Analysis Report, Size, Share, Growth, Applications, Technology, Types, and Forecasts Report 2027"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing"
-    publishedDateTime: 2022-04-28T11:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-analysis-report-size-share-growth-applications-technology-types-and-forecasts-report-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Japan-Hiroshima-bomb-anniversary-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Deep Learning Market Size, Share, Trends, Growth Status & Industry Analysis And Forecast 2022-2031"
     excerpt: "A report on Deep Learning Market was recently added by Kenneth Research into its database, which is aimed at providing the clients with the business growth and investment opportunities present in ..."
     publishedDateTime: 2022-04-29T17:24:00Z

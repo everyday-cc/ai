@@ -39,22 +39,6 @@ related:
         width: 831
         height: 450
         isCached: true
-  - title: "Building AI That Processes Language as People Do"
-    excerpt: "Our researchers discovered that while the brain anticipates words far ahead in time, most language models typically predict just the very next word."
-    publishedDateTime: 2022-04-28T13:00:00Z
-    webUrl: "https://about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/"
-    ampWebUrl: "https://about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/04/building-ai-that-processes-language-as-people-do/amp/"
-    type: article
-    provider:
-      name: Facebook Live
-      domain: fb.com
-    quality: 57
-    images:
-      - url: "https://about.fb.com/wp-content/uploads/2022/04/Building-AI-That-Processes-Language-as-People-Do_1.png?w=1200"
-        width: 1198
-        height: 671
-        isCached: true
   - title: "Meta Announces Research To Create Human-Level AI"
     excerpt: "Facebook parent Meta announced they are launching a long-term research project to build a next-generation AI that can learn and process speech and text in the same way the human brain does. Meta described an effort to create a human-level AI. Meta is ..."
     publishedDateTime: 2022-04-29T09:17:00Z

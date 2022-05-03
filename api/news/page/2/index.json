@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-30-why-companies-should-stop-trying-to-be-ai-first.md",
+      "title": "Why companies should stop trying to be “AI-first”",
+      "excerpt": "Artificial intelligence has become a buzzword in the tech industry. Companies are eager to present themselves as “AI-first” and use the terms “AI,” “machine learning,” and “deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
+      "originalUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FAI-first-def3.jpg&signature=be9017619396bbe48941e1ffd9fe74d5",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-30-3-lessons-learned-from-building-a-software-startup.md",
+      "title": "3 lessons learned from building a software startup",
+      "excerpt": "Startup founders must ask themselves ... world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/",
+      "originalUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/amp/",
+      "publishedDateTime": "2022-04-29T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-30-do-your-kids-likes-cars-buy-this-ai-robot-lego-compatible-toy.md",
+      "title": "Do Your Kids Likes Cars? Buy This AI Robot Lego Compatible Toy",
+      "excerpt": "Yes, this is motorized, but it also is like an artificial intelligence robot, and it’s programmable. It is billed as “the world’s most powerful robotic car.” And, it is compatible with the hugely popular LEGO blocks. Plus, just as with modern cars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/",
+      "originalUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motorbiscuit.com/wp-content/uploads/2022/04/M1-STEM-Car-STEMHUB-4.jpeg",
+          "width": 1920,
+          "height": 1086,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/?amp",
+      "cdnAmpWebUrl": "https://www-motorbiscuit-com.cdn.ampproject.org/c/s/www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/?amp",
+      "publishedDateTime": "2022-04-29T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "motorbiscuit",
+        "domain": "motorbiscuit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-30-ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking.md",
       "title": "AI, ML, & Cybersecurity: Here’s What FDA May Soon Be Asking",
       "excerpt": "These include Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan, published in January 2021; Good Machine Learning Practice for Medical Device Development: Guiding Principles, published in October 2021 ...",
@@ -452,7 +599,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/04/29/baidu-pony-ai-china-first-commercial-driverless-robotaxi-permits/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -735,7 +882,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -788,7 +935,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1047,7 +1194,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1087,146 +1234,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-snap-is-fueling-our-selfie-obsessions-with-a-flying-camera.md",
-      "title": "Snap Is Fueling Our Selfie Obsessions With a Flying Camera",
-      "excerpt": "Snap is mostly known for its sticky social network consisting of fleeting messages and legitimately impressive augmented reality filters. But every so often Snap, which calls itself a “camera company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/snap-pixy-drone-camera/",
-      "originalUrl": "https://www.wired.com/story/snap-pixy-drone-camera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/snap-pixy-drone-camera/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snap-pixy-drone-camera/amp",
-      "publishedDateTime": "2022-04-28T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-self-driving-tesla-crashes-into-15-million-private-jet-while-being-summoned.md",
-      "title": "Self-driving Tesla crashes into £1.5 million private jet while being ‘summoned’",
-      "excerpt": "One of the self-driving features on a Tesla car is known as ‘smart summon’ and allows the owner to call the car remotely from around 200 feet. Unfortuantely, there’s sometimes an expensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
-      "originalUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_101095692.jpg?quality=90&strip=all&zoom=1&resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
-      "publishedDateTime": "2022-04-28T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few.md",
-      "title": "Federal banking agencies trying to ensure AI, ML benefit most rather than the few",
-      "excerpt": "Measuring risks and setting benchmarks for emerging fintech is top of mind for NIST and the Commerce Department.",
-      "sourceUrl": null,
-      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
-      "originalUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2022/04/stanfordpanel.jpg",
-          "width": 1555,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

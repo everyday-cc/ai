@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-what-you-need-to-know-before-you-start-working-with-artificial-intelligence.md",
+      "title": "What You Need To Know Before You Start Working With Artificial Intelligence",
+      "excerpt": "The first principle is to start with a strategy. Simply put, this means understanding what you are trying to achieve. AI technologies are tools that are deployed tactically to achieve strategic objectives. Your strategy should be in line with your business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6270afa356fe8039a23aa466/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-02T21:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-traceable-ai-nabs-60m-to-secure-app-apis-using-machine-learning.md",
+      "title": "Traceable AI nabs $60M to secure app APIs using machine learning",
+      "excerpt": "Businesses need machine learning here. To have zero trust you need API clarity. You can no longer easily buy or hire security people, so you need to solve these vulnerabilities via technology.”",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/02/2307940/",
+      "originalUrl": "https://techcrunch.com/2022/05/02/2307940/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/traceable_all_threats_of_threat_actor.png",
+          "width": 3838,
+          "height": 2026,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/02/2307940/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/02/2307940/amp/",
+      "publishedDateTime": "2022-05-02T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform.md",
       "title": "Dell adds cyber recovery (and more) to APEX storage cloud platform",
       "excerpt": "Dell PowerProtect Cyber Recovery for Microsoft Azure will join other Dell offerings ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose ...",
@@ -10,7 +113,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -62,7 +165,7 @@
       "originalUrl": "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -199,7 +302,7 @@
       "originalUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -277,29 +380,38 @@
       ]
     },
     {
-      "path": "_news/2022-05-03-is-it-ethical-to-use-ai-generated-content-without-crediting-the-machine.md",
-      "title": "Is it ethical to use AI-generated content without crediting the machine?",
-      "excerpt": "Considering that computers can’t taste booze, this makes for a curious use-case for machine learning. The AI sommelier was trained on a database containing hundreds of thousands of beer and wine ...",
+      "path": "_news/2022-05-03-6-must-see-indie-games-we-saw-at-pax-east-2022.md",
+      "title": "6 must-see indie games we saw at PAX East 2022",
+      "excerpt": "In combat, for instance, players can call on their manager to apply a buff or debuff, and players have to mind a hype meter ... is that players pretty much control two characters instead of just one. The first is a giant robot armed with a sword that ...",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine",
-      "originalUrl": "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine",
+      "webUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cult-of-the-lamb-featured.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T12:26:00-07:00",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/missed-games-pax-east-2022/?amp",
+      "publishedDateTime": "2022-05-02T12:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -315,9 +427,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -692,7 +803,7 @@
       "originalUrl": "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -873,6 +984,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-01-synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai.md",
+      "title": "Synthesis AI Bags $17 Million in Series A Funding Round To Extend Its Synthetic Data Platform for Computer Vision AI",
+      "excerpt": "Synthesis AI, a pioneer in synthetic data technologies to build advanced computer vision AI models, today announced it has closed $17 million in Series A financing led by new investor 468 Capital, with additional participation from Sorenson Ventures ...",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/",
+      "originalUrl": "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/Synthesis-AI-Bags-_17-Million-in-Series-A-Funding-Round-To-Extend-Its-Synthetic-Data-Platform-for-Computer-Vision-AI-01.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/",
+      "publishedDateTime": "2022-05-01T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-01-how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.md",
       "title": "How AI is helping the supply chains in the healthcare sector",
       "excerpt": "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to comprehend and decipher. It can also be fed ...",
@@ -1009,153 +1163,6 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-why-companies-should-stop-trying-to-be-ai-first.md",
-      "title": "Why companies should stop trying to be “AI-first”",
-      "excerpt": "Artificial intelligence has become a buzzword in the tech industry. Companies are eager to present themselves as “AI-first” and use the terms “AI,” “machine learning,” and “deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
-      "originalUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FAI-first-def3.jpg&signature=be9017619396bbe48941e1ffd9fe74d5",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-3-lessons-learned-from-building-a-software-startup.md",
-      "title": "3 lessons learned from building a software startup",
-      "excerpt": "Startup founders must ask themselves ... world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/",
-      "originalUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/amp/",
-      "publishedDateTime": "2022-04-29T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-do-your-kids-likes-cars-buy-this-ai-robot-lego-compatible-toy.md",
-      "title": "Do Your Kids Likes Cars? Buy This AI Robot Lego Compatible Toy",
-      "excerpt": "Yes, this is motorized, but it also is like an artificial intelligence robot, and it’s programmable. It is billed as “the world’s most powerful robotic car.” And, it is compatible with the hugely popular LEGO blocks. Plus, just as with modern cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/",
-      "originalUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motorbiscuit.com/wp-content/uploads/2022/04/M1-STEM-Car-STEMHUB-4.jpeg",
-          "width": 1920,
-          "height": 1086,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/?amp",
-      "cdnAmpWebUrl": "https://www-motorbiscuit-com.cdn.ampproject.org/c/s/www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/?amp",
-      "publishedDateTime": "2022-04-29T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "motorbiscuit",
-        "domain": "motorbiscuit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,228 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-02-25-maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences.md",
+      "title": "Maple Leaf Sports & Entertainment leverages AWS AI infrastructure to power next gen experiences",
+      "excerpt": "Maple Leaf Sports & Entertainment services (MLSE) has announced that it will be leveraging Amazon Web Services (AWS) to enable next-generation entertainment experiences for Maple Leafs, Raptors, Toronto Football Club,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338",
+      "originalUrl": "https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/02/hockey-feature-image.jpg",
+          "width": 1076,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/maple-leaf-sports-entertainment-leverages-aws-ai-infrastructure-to-power-next-gen-experiences/474338?amp=1",
+      "publishedDateTime": "2022-02-24T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-plant-based-milk-uses-ai-to-formulate-the-perfect-sip.md",
+      "title": "Plant-based milk uses AI to formulate the perfect sip",
+      "excerpt": "Sustaining life for nearly eight billion people is a heavy task for any planet, as Mother Earth is repeatedly reporting. When it comes to food production for the masses, we’ve got to start being more conservative,",
+      "sourceUrl": null,
+      "webUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/",
+      "originalUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2022/02/1616698769484-889x592.jpg",
+          "width": 889,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/?amp",
+      "cdnAmpWebUrl": "https://inhabitat-com.cdn.ampproject.org/c/s/inhabitat.com/plant-based-milk-uses-ai-to-formulate-the-perfect-sip/?amp",
+      "publishedDateTime": "2022-02-24T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inhabitat",
+        "domain": "inhabitat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-mercedes-benz-to-offer-hands-free-traffic-jam-assist-in-us-this-year.md",
+      "title": "Mercedes-Benz to Offer Hands-Free Traffic Jam Assist in US This Year",
+      "excerpt": "The German automaker's Drive Pilot offers Level 3 conditional autonomy that works at low speeds in heavy congestion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/4uJmfPjtw5_jInExXeyBGsNsUBY=/2022/02/24/6ac5ea1c-fa4f-43a9-b849-389ed7854931/mercedes-benz-drive-pilot-hands-free-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mercedes-benz-drive-pilot-hands-free-driving-traffic-jam-assist/",
+      "publishedDateTime": "2022-02-24T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-new-acm-techbrief-spotlights-privacy-ethics-problems-with-facial-recognition-technology.md",
+      "title": "New ACM TechBrief spotlights privacy, ethics problems with facial recognition technology",
+      "excerpt": "The Association for Computing Machinery’s global Technology Policy Council (ACM TPC) today released, “ACM TechBrief: Facial Recognition,” a concise overview of an increasingly-used application which relies heavily on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/944603",
+      "originalUrl": "https://www.eurekalert.org/news-releases/944603",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-24T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-mage-launches-low-code-ai-dev-tool-into-general-availability.md",
+      "title": "Mage launches low-code AI dev tool into general availability",
+      "excerpt": "California-based startup Mage released to general availability its prize low-code AI tool for product developers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/",
+      "originalUrl": "https://venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/low_code-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/amp/",
+      "publishedDateTime": "2022-02-24T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation.md",
       "title": "IBM, NVIDIA and Bloomberg tout KServe becoming incubation project for LF AI & Data Foundation",
       "excerpt": "IBM and Bloomberg announced on Thursday that KServe is joining the LF AI & Data Foundation as its latest incubation project. KServe provides a Kubernetes Custom Resource Definitio",
@@ -913,222 +1135,6 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-the-complementary-strengths-of-ai-and-human-intelligence.md",
-      "title": "The complementary strengths of AI and human intelligence",
-      "excerpt": "Kathy Peach, director at Nesta’s Centre for Collective Intelligence Design, describes projects the organisation supports that explore the interaction between artificial and human intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/opinion/The-complementary-strengths-of-AI-and-human-intelligence",
-      "originalUrl": "https://www.computerweekly.com/opinion/The-complementary-strengths-of-AI-and-human-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/opinion/The-complementary-strengths-of-AI-and-human-intelligence?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-complementary-strengths-of-AI-and-human-intelligence?amp=1",
-      "publishedDateTime": "2022-02-23T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-meta-plans-ai-driven-universal-translator.md",
-      "title": "Meta plans AI-driven universal translator",
-      "excerpt": "Facebook parent company Meta on Wednesday detailed several research efforts that it insists are key to its project of building a metaverse. The big picture: While some of the work, like a new type of haptic gloves,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "originalUrl": "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/NxzBynvHAAjmzngPOi3qiO5XJM8=/0x0:2635x1482/1366x768/2022/02/24/1645664901557.png",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "publishedDateTime": "2022-02-23T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback.md",
-      "title": "IRS will allow taxpayers to forgo facial recognition amid blowback",
-      "excerpt": "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1",
-      "publishedDateTime": "2022-02-23T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-facebooks-hyped-new-ai-concept-looks-busted-as-hell.md",
-      "title": "Facebook's hyped new 'AI concept' looks busted as hell",
-      "excerpt": "The biggest stories of the day delivered to your inbox.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot",
-      "originalUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00WJ1YKZuWlWoFBX77qQhh3/hero-image.fill.size_1200x675.v1645662499.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-meta-ai-builder-bot?amp",
-      "publishedDateTime": "2022-02-23T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028.md",
-      "title": "Cognitive Systems Spending Market Global Outlook, Demand and Scope 2021 to 2028",
-      "excerpt": "Feb 24, 2022 (AmericaNewsHour) -- Key Companies Covered in the Cognitive Systems Spending Market Research HP, IBM, Microsoft ... and reliability of their services. Ranging from artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028-2022-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028-2022-02-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T17:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

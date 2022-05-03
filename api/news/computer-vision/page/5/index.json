@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-02-doorcounts-selects-alwaysai-as-its-computer-vision-partner-for-real-time-retail-analytics.md",
+      "title": "Doorcounts™ Selects alwaysAI® as Its Computer Vision Partner for Real-Time Retail Analytics",
+      "excerpt": "SAN DIEGO, March 01, 2022 (GLOBE NEWSWIRE) -- Doorcounts™, an Oregon-based SaaS company, and computer vision platform leader, alwaysAI ®, announced a strategic partnership to provide ground ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/g25926731/doorcounts-selects-alwaysai-as-its-computer-vision-partner-for-real-time-retail-analytics",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/g25926731/doorcounts-selects-alwaysai-as-its-computer-vision-partner-for-real-time-retail-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25926731",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25926731",
+      "publishedDateTime": "2022-03-01T17:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-global-face-mask-detection-market-by-component-by-application-by-technology-by-regional-outlook-industry-analysis-report-and-forecast-2021.md",
       "title": "Global Face Mask Detection Market By Component, By Application, By Technology, By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027",
       "excerpt": "Reportlinker.com announces the release of the report \"Global Face Mask Detection Market By Component, By Application,",
@@ -1250,49 +1293,6 @@
       "provider": {
         "name": "Hackaday",
         "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-19-global-market-for-ai-in-computer-vision-to-reach-737-billion-by-2027-researchandmarketscom.md",
-      "title": "Global Market for AI in Computer Vision to Reach $73.7 Billion by 2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"AI in Computer Vision Market by Technology, Solutions, Use Cases, Deployment Model and Industry Verticals 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25717133",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133",
-      "publishedDateTime": "2022-02-18T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

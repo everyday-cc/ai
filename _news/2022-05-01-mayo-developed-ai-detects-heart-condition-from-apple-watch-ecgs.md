@@ -64,20 +64,6 @@ related:
         width: 1600
         height: 901
         isCached: true
-  - title: "IIT Jodhpur team develops AI algorithm to detect cataracts"
-    excerpt: "A team of researchers from the Indian Institute of Technology (IIT) Jodhpur has found that eye images acquired by low-cost near-infrared (NIR) cameras can aid in low design costs, ease of use, and practical solutions for cataract detection."
-    publishedDateTime: 2022-04-28T11:56:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=952811"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Arun_270422_sch4.jpg"
-        width: 600
-        height: 372
-        isCached: true
   - title: "Mayo Clinic uses AI and Apple Watch to detect weak heart pump"
     excerpt: "Researchers at the Mayo Clinic used AI and an Apple Watch to detect a weak heart pump. The researchers developed an algorithm that used the signal from an Apple Watch ECG to detect the condition. The study's accuracy was \"as good as or slightly better than ..."
     publishedDateTime: 2022-05-03T00:14:00Z

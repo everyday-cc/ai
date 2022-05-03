@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-03-is-it-ethical-to-use-ai-generated-content-without-crediting-the-machine.md",
-      "title": "Is it ethical to use AI-generated content without crediting the machine?",
-      "excerpt": "Considering that computers can’t taste booze, this makes for a curious use-case for machine learning. The AI sommelier was trained on a database containing hundreds of thousands of beer and wine ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine",
-      "originalUrl": "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2022-05-02-healthcare-ethics-in-ai-can-software-make-ethical-decisions.md",
       "title": "Healthcare Ethics In AI: Can Software Make Ethical Decisions?",
       "excerpt": "they must abide by basic principles of medical ethics. Can machines behave ethically, either with or without human oversight? It's a question without an easy answer. To facilitate discussion, let's explore a few topics related to AI-based clinical tools ...",
@@ -248,7 +204,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -401,10 +357,10 @@
     {
       "path": "_news/2022-04-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel.md",
       "title": "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel",
-      "excerpt": "Blankenship brings decades of experience in artificial intelligence, data ethics, intellectual property, litigation, risk management, and M&A to BigBear.ai. BigBear.ai (NYSE: BBAI",
+      "excerpt": "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has appointed Carolyn Blankenship as General Counsel. In this role, Blankenship will develop and lead corporate legal strategy supporting BigBear.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel",
+      "webUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -414,11 +370,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T05:00:00-07:00",
+      "publishedDateTime": "2022-04-26T05:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1449,6 +1405,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute.md",
+      "title": "AI Visionary And A Prominent Ethics Leader Beena Ammanath Of Deloitte AI Institute",
+      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Beena Ammanath.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624fa29fef1ef8b65b4ebda9/0x0.jpg?format=jpg&crop=1777,999,x0,y139,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/amp/",
+      "publishedDateTime": "2022-04-07T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

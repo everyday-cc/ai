@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-03-15-whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist.md",
-      "title": "What's on Your Artificial Intelligence Compliance, Privacy and Ethics Checklist?",
-      "excerpt": "CIO Anthony McMahon of Target State Consulting suggests in a recent #CIOChat on Twitter that ethical and privacy issues are not unique to artificial intelligence (AI). “Every decision on how to use data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
-      "originalUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/ebd30967e58445b583d6aaf1a1c58b13.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
-      "publishedDateTime": "2022-03-15T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-15-ai-ethics-part-2-mitigating-bias-in-our-algorithms.md",
       "title": "AI Ethics Part 2: Mitigating bias in our algorithms",
       "excerpt": "In first part of this article series, we explored the various forms of AI bias, ways to understand and identify them. This second part will cover various tangible measures that can be undertaken to control,",
@@ -1381,6 +1338,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-21-tips-to-build-ethical-ai-models.md",
+      "title": "Tips to build ethical AI models",
+      "excerpt": "In such a case, formulating an ethics board or appointing an AI governance officer helps the business building ethical AI and ML models. This is the reason UiPath has launched the UiPath ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/tips-to-build-ethical-ai-models/89714643",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/tips-to-build-ethical-ai-models/89714643",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89714643,imgsize-24970,width-1200,height-628,overlay-etcio/tips-to-build-ethical-ai-models.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/tips-to-build-ethical-ai-models/89714643",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/tips-to-build-ethical-ai-models/89714643",
+      "publishedDateTime": "2022-02-20T19:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

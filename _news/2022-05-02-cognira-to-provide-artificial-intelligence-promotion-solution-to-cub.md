@@ -2,21 +2,27 @@
 category: news
 title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
 excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
-publishedDateTime: 2022-05-02T12:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-2-cognira-to-provide-artificial-intelligence-promotion-solution-to-cub"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-2-cognira-to-provide-artificial-intelligence-promotion-solution-to-cub"
+publishedDateTime: 2022-05-02T12:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-97abe10ac884456eb71ab9f17222cf17"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-97abe10ac884456eb71ab9f17222cf17"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "vBZwGh48oEisY6dt72y64gbLRp6uu0EO/dA0WWcjyeuzHG3+6QkpKUw6+JBtQo2PCXk5NNq1U8ASRITIDbVpcuN+8zHDeCfqxMQTVOmpyBGumai563qpJOkdCfHjMo8GZ07f9BIEDsYWD9/4tl/5bPrEBJqXBjCxAGlSaifo/KtQ0l6JUqXLvNdnr1w3JNrUUZw1Q2FcfZeIndp/73xMOx29SgWf+/EdhINb4QSzl89gLmz5R7da6yzvQq7YytIkh/r77T6UPSFZso80hbHaYw8Pz+mky/Hpp6JnIdtUJKsWLBjQgKUfK2hWcZDUYolUYvcHL6j6C2HUgm2/LyjEBE+DuKkmiauSkm8mtD6UrVU=;BhODg4RZ+4V5KodBb22r1Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "KkWryJdKa3xVldgvfwV4egHy4Mp8RkV1l+BJxuVjrI0Q3FgKzXp/Gq1nmOhX+2gsi/oTSCTre36RHfyPJXu+MBagy+cJKIrHDn3BwhKtzXdxokJTEuuwOjjWHRsbrrd02jB0OKbB1UnxatfWsa/yO1vGLKa2gXiVjUDXHbJiZfXtYHpz7RN8XoAhbHWlr4YAxjTirB9Ct+rvY11+D6uUvTYHNhtCMvtbuIVEKj6Z6ksRw5byqWsLJX86aFvMmNTBIEXG1JXjmexl3vDRi8v9kUFQZmk0R6GMAZ9v0J2eKeNtUrW6S/vpu6g8/wROJ0o4JQ0rchfhge2IWr/CCVepLPr3YFiT5vCGLcs4xnM1ab4=;xvYNo8JGQUJJusSMmN3Zmg=="
 ---
 

@@ -121,15 +121,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "GLOBALink | Two companies licensed to provide self-driving pilot services in Beijing"
-    excerpt: "The first group of two companies on Thursday were licensed to provide self-driving pilot services in Beijing without the presence of safety drivers. The two companies are China's tech giant Baidu and self-driving start-up Pony."
-    publishedDateTime: 2022-04-28T13:04:00Z
-    webUrl: "https://english.news.cn/20220428/209a270c607546c4a712569e161b6419/c.html"
-    type: article
-    provider:
-      name: China
-      domain: news.cn
-    quality: 0
 
 secured: "n+/zYP8qRHOzxurj9nloq4QOri1QqDCU48AxCbjjxTw/p066X0VSZRagBNyzeJf9I1Qz7u2Ju1vFMTfTIb0Gqrf+JyHyOUNX35Tiu+8Nd9oV6LZGjINHDaHm2Qj20hxYLla9AK72qenOZ5+zdJ5rgz/cPT8xof62KDFAuXQwHu5WJc2ZEjJOyCquxpW83Jrxt5k9Ue7ur5YAyfE0L5tUZvWSa6c9IY7s2yp5FaHH3vdGyCJg7Mw/8h5aQerDCIee2vLZuym5svoijvHpmejhIXhj3IDcdUr+rz4OHnx27drHwD/UYBz9aWzzZ1zEAQJCVgB7ceq48ajE0jy1BCh+6F6iluuYpCJ+qLjSqPvu9w4U1RLNW7QkLurNZVXAl8yIOAl5R76bJT4JEJXK2l6ltZY0eRF0b2tWwRMCEg01axChTf1h5NiCzgl8IoFmNc1Ae6HZHelHQv+PZeFVqbWXY7h+wM+UJETdmQn++eF8iJz0l7ddfc0bvlJnO37yWLiHvQunvI+t+FVJ/1qEj7ZGGg==;sCduRadSlPf0wGjYKQv56A=="
 ---

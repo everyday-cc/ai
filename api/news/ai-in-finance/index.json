@@ -405,33 +405,24 @@
     {
       "path": "_news/2022-04-27-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry.md",
       "title": "The Lithuanian collaboration of iDenfy and Alternative Payments – a safer future for the Fintech industry",
-      "excerpt": "Alternative Payments integrated iDenfy’s full-stack, multilingual ID verification to secure their customers’ dataThe digital platform for identity",
+      "excerpt": "The digital platform for identity verification, fraud prevention and compliance, iDenfy, partnered with Alternative Payments, the Lithuanian-based Fintech specializing in simple,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry",
-      "originalUrl": "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Confederate-statues-AFP-1K-02-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T15:15:00-07:00",
+      "publishedDateTime": "2022-04-26T17:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1216,6 +1207,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-how-the-banking-sector-can-use-ai-for-risk-mitigation-and-revenue-generation.md",
+      "title": "How the Banking Sector Can Use AI for Risk Mitigation and Revenue Generation",
+      "excerpt": "According to Open Text, “the world’s most successful Financial Services organizations are already considering AI and machine learning to help them address” such issues and functions as payment processing; personalization of customer experiences ...",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation",
+      "originalUrl": "https://biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202204/GettyImages-1225376448.jpg?itok=ipPUXu3Q",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation?amp",
+      "publishedDateTime": "2022-04-13T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-alpha-fintech-by-ppro-announces-launch-of-fi911s-intelligent-saas-dispute-processing-for-financial-institutions-in-asia-pacific.md",
       "title": "Alpha Fintech by PPRO Announces Launch of Fi911’s Intelligent SaaS Dispute Processing for Financial Institutions in Asia Pacific",
       "excerpt": "Fi911, the leading dispute specialists and sister brand of Chargebacks911, today announces its partnership with Alpha Fintech ( a fintech pioneer aiming to evolve and simplify payments. APAC regional acquirers and PSPs will be able to leverage the unrivaled Fi911 SaaS dispute management p.",
@@ -1280,49 +1314,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-how-is-ai-helping-to-transform-the-finance-industry.md",
-      "title": "How is AI helping to transform the finance industry?",
-      "excerpt": "Companies in the financial sector are leveraging artificial intelligence to analyse and manage their data, here we look at how AI can transform FinTech",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/how-is-ai-helping-to-transform-the-finance-industry",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/how-is-ai-helping-to-transform-the-finance-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1800/639523f2fe059fecbaf19b19e4229d27:52c6854f2cf421a7f0acf4e0746803dd/gettyimages-1163919598.jpg.jpg",
-          "width": 1800,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

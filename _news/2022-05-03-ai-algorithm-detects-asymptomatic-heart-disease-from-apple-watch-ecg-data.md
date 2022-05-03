@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true"
 type: article
 quality: 86
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://images.macrumors.com/t/brN80nA8bKQHR8Boyfcf0HYHy9I=/1600x/article-new/2021/02/apple-watch-ecg-wrist.jpg"
         width: 1600
         height: 901
-        isCached: true
-  - title: "IIT Jodhpur team develops AI algorithm to detect cataracts"
-    excerpt: "A team of researchers from the Indian Institute of Technology (IIT) Jodhpur has found that eye images acquired by low-cost near-infrared (NIR) cameras can aid in low design costs, ease of use, and practical solutions for cataract detection."
-    publishedDateTime: 2022-04-28T11:56:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=952811"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Arun_270422_sch4.jpg"
-        width: 600
-        height: 372
         isCached: true
   - title: "Mayo Clinic uses AI and Apple Watch to detect weak heart pump"
     excerpt: "Researchers at the Mayo Clinic used AI and an Apple Watch to detect a weak heart pump. The researchers developed an algorithm that used the signal from an Apple Watch ECG to detect the condition. The study's accuracy was \"as good as or slightly better than ..."
@@ -130,6 +116,6 @@ related:
       domain: medscape.com
     quality: 4
 
-secured: "Wwog2oKFq/2jMNvYaJFEf67XAisgHGZu7NfEScY/Xnzjl6oMPS0X3BRgluc+x5nA03vk0rOpLeBx57E4789CrJ36DGrnM2s73JHeYsT+WLiEdO+BklH5M1Ad9mMB6vJi/Onuk88D6c1X4zA6wn/wB9SO9tJZk3Oj9uzZ7DBStZxpImh7y7XIqvdssZqtXjgtI4Xn6rF29X8ptFR0Sm4PAssr3uHeGd8P8bRhGW7Z9nc9xYadCaX0WLAkBXClB+nZmEaSb5r/cEFNjFQP/b22eVwjb9FstegCfcAH3aznFxNfxKg4PiggaPHZnbs8fXgqL8zQaVyuV7zyKwhhtlfkfMJzLYYnMgSMex730oWvt1w=;QQ4jJSA4VmAnf1apFsEPkA=="
+secured: "EUsgSJd6APTP6A2eGw6YIV4vPiIZN3pD9lehkWRzkm4HDUrruHx6Qf+ifzzhP/cQTCqwNGCOG8Ms1NDNIyVTHV5BwkVkIZydA3L2eMnFscLaMmCEHt4mi72p1vQ9CiFEISOnzHFcxanOATlzlnobny4aAkc1v2ciqK3lUW1w7FgrQ6pDzZjwsGhLXLaKmPOEdpKiSWhhuGl12hlgdkTwmP1V8JMWGJFjifqghtELayqHuVJ/lMJqW7QwLxdggvYFVhPjKsf7SJ35JmE6zdECSJMv+gNkY3mSWi9U8Njs8gGFrJCMeL1HjNXwmSAK4aixv7i0Ao4qEYIFP1kbh7r3CXeDQFrfb07m5XdpuJG8ao3+4azwD/y8OwHPOf0hnXUo6DpMYVuDoCFRE7IoxkEH+jEQ5M6fpHbK0+0mSCqVroiBpCaqw7ruJvZOjBMZ5dHvW5o9JuiVd5jdIKDZlhoiGEbDPtygq8bLGFqyP7xHB0f0OWS+6EhqJrgQ5BAym23yoube+XcSXYlIqyYXQEtn8A==;OO3T3lUYEc2qkr7eaDYfbw=="
 ---
 

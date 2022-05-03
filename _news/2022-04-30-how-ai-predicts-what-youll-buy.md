@@ -58,6 +58,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 17
+  - title: "Axiomtek Unveils AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform for 5G and AIoT Applications"
+    excerpt: "The advanced edge AI computing platform supports high-speed networking capability functions such as the 5G module to drive AIoT innovation. The NVIDIA Jetson Xavier NX-based AIE900-XNX is suitable for vision AI applications including computer vision ..."
+    publishedDateTime: 2022-05-03T04:30:00Z
+    webUrl: "https://www.kron4.com/business/press-releases/cision/20220502HK44322/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform-for-5g-and-aiot-applications/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/1809632/AIE900_XNX__Fanless_Edge_AI_System_NVIDIA__Jetson_Xavier__NX.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "0mhuPDzVSq9mJ0tRZt5H7icCAmOPGwFD8wiZ4kA/+lCXDeUR71kM6JxjCas0OZQQRWhZjPwM/Uz98phHw8HFOQ3A51XPby1SCvXMCtBMUES3zLTlhefXYjJ+hP/8x2B0BFSLq2dAO/Pp4PCdqWocfGCqQjzUtvLFJLcXHLPJj8p9C7HX5VoTimfehVXAbi3kTEs/WrIltJ+P0xDzx5j8BlTqdNgVqWLHHUdMAiR46h3RLMlA24SIB5GfvHYCoibv8JmGL8bzOrl/UG4VXrhZd0qsAFfJHX388DaB0O/hCTC0uUvcEkncKHlj8SNEaHo8Re0qhyoJVQuq7l2qExNtdPjet5qcXP109XSBDc6/dP6n5f4bTFfpnsjuUxFv6LFan8cqrK7GVEEGB2Kv9xu5GquMjtGnNxlog5dgf78nM2NreTEWwQlBxJa2MsPgARtgd2g2SxsEVObVCo94m5B40haPdz/lB+Evf/8aDU7/ZnnGZenKg8sMmS2IxKkyDz+qmxREY96s133pMchHduuUVQ==;eSmvdzTRWaDMJrdh7RD1Sg=="
 ---

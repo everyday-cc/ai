@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-01-synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai.md",
+      "title": "Synthesis AI Bags $17 Million in Series A Funding Round To Extend Its Synthetic Data Platform for Computer Vision AI",
+      "excerpt": "Synthesis AI, a pioneer in synthetic data technologies to build advanced computer vision AI models, today announced it has closed $17 million in Series A financing led by new investor 468 Capital, with additional participation from Sorenson Ventures ...",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/",
+      "originalUrl": "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/Synthesis-AI-Bags-_17-Million-in-Series-A-Funding-Round-To-Extend-Its-Synthetic-Data-Platform-for-Computer-Vision-AI-01.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/",
+      "publishedDateTime": "2022-05-01T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-arm-announces-new-iot-hardware.md",
       "title": "Arm announces new IoT hardware",
       "excerpt": "As part of Arm’s roadmap, the company is also working on Total Solutions for vision, object recognition and smart sensor fusion. The first one will be addressed by Cortex-A53, while the latter ...",
@@ -219,7 +262,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1343,49 +1386,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-computer-vision-development-market-swot-analysis-face-sensetime-yitu.md",
-      "title": "Computer Vision Development Market SWOT Analysis – Face++, SenseTime, YITU",
-      "excerpt": "Apr 12, 2022 (Heraldkeepers) -- New Jersey, N.J., April 11, 2022 – The Computer Vision Development Market research report provides all the information related to the industry. It gives the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

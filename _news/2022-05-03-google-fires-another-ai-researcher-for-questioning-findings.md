@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-another-ai-researc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings/"
 type: article
 quality: 89
-heat: 179
+heat: 200
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Google faces internal battle over research on AI to speed chip design"
+    excerpt: "Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial intelligence software he had been trying to discredit, accused him of harassing behavior. By Paresh Dave OAKLAND ..."
+    publishedDateTime: 2022-05-03T02:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
+    ampWebUrl: "https://www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Google fires another AI researcher who reportedly challenged findings (updated)"
     excerpt: "Google is still firing AI researchers amid criticism of its work. The New York Times has learned Google fired machine learning scientist Satrajit Chatterjee in March, soon after it refused to publish a paper Chatterjee and others wrote challenging earlier ..."
     publishedDateTime: 2022-05-03T00:38:00Z
@@ -76,6 +87,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2021/11/Google_EU.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Another firing among Google’s AI Brain trust, and more discord"
+    excerpt: "Tension among Google’s AI researchers reflects much larger struggles across the ... which the paper said could improve the design of computer chips. The technology was hailed as a breakthrough for artificial intelligence and a vast improvement to ..."
+    publishedDateTime: 2022-05-03T04:33:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/another-firing-among-google-ai-brain-trust-and-more-discord-7898856/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/another-firing-among-google-ai-brain-trust-and-more-discord-7898856/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/another-firing-among-google-ai-brain-trust-and-more-discord-7898856/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2022/05/Google_Campus_NYT-1.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "Google fires another researcher as it confronts challenges with AI"
     excerpt: "The methods described in the Nature paper are touted to generate chip floorplans in under 6 hours as opposed to the months it takes for humans to do the same. But while the results have yet to speak for themselves in wider practice, it's pretty clear that ..."

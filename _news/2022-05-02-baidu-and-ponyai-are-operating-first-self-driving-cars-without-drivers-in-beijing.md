@@ -55,22 +55,6 @@ related:
         width: 6555
         height: 4480
         isCached: true
-  - title: "Passengers Can Now Call For A Driverless Taxi In China"
-    excerpt: "The official Baidu Inc. account on Twitter wrote “And ... China has often been used as a testing ground for several self-driving vehicles. According to CNN, companies keep making more ambitious ..."
-    publishedDateTime: 2022-04-28T12:34:00Z
-    webUrl: "https://www.ndtv.com/world-news/passengers-can-now-a-call-for-a-driverless-taxi-in-china-2928975"
-    ampWebUrl: "https://www.ndtv.com/world-news/passengers-can-now-a-call-for-a-driverless-taxi-in-china-2928975/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/passengers-can-now-a-call-for-a-driverless-taxi-in-china-2928975/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2022-04/7hcnce9o_self-driving-taxis-china_625x300_28_April_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Baidu and Pony.ai become first robotaxi services to operate without safety drivers in Beijing"
     excerpt: "Baidu and Pony.ai have been given permission to operate their autonomous vehicles without safety drivers in Beijing, a first for robotaxi services in China (via CNBC). Although both companies now no longer need a staff member in the driver’s seat ..."
     publishedDateTime: 2022-04-30T17:22:00Z
@@ -108,15 +92,6 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 46
-  - title: "Beijing grants first driverless robotaxi licenses to Baidu and Pony.ai"
-    excerpt: "Chinese regulators have given the green light to more robotaxis operated by online search company Baidu and Toyota-backed Pony.ai A safety supervisor must sit in the c"
-    publishedDateTime: 2022-04-28T12:47:00Z
-    webUrl: "https://www.ft.com/content/de57cadc-3622-4ae0-8b7d-ef0bf31395ef?curator=biztoc.com"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Ditch the driver: U.S. and China race to make self-driving taxis a reality"
     excerpt: "China has passed a major mile marker on the road to commercializing self-driving technology: On Thursday, Beijing granted internet giant Baidu the country's first license to operate fully autonomous taxi services."
     publishedDateTime: 2022-04-28T21:00:00Z

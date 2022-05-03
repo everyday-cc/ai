@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-03-6-must-see-indie-games-we-saw-at-pax-east-2022.md",
+      "title": "6 must-see indie games we saw at PAX East 2022",
+      "excerpt": "In combat, for instance, players can call on their manager to apply a buff or debuff, and players have to mind a hype meter ... is that players pretty much control two characters instead of just one. The first is a giant robot armed with a sword that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cult-of-the-lamb-featured.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/missed-games-pax-east-2022/?amp",
+      "publishedDateTime": "2022-05-02T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-01-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
       "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large drop in short interest in the month of April. As of April 15th, there was short interest totalling 8,800 shares, a drop of 47.6% from the March 31st total ...",
@@ -282,49 +334,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
-      "title": "Pittsburgh welcomes Plus One Robotics",
-      "excerpt": "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
-      "originalUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-28-procreating-robots-the-next-big-thing-in-cognitive-automation.md",
       "title": "Procreating Robots: The Next Big Thing In Cognitive Automation?",
       "excerpt": "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence.",
@@ -374,6 +383,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
+      "title": "Pittsburgh Welcomes Plus One Robotics",
+      "excerpt": "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1360,49 +1413,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-guardforce-ai-announces-initial-us-robotics-solutions-rollout.md",
-      "title": "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout",
-      "excerpt": "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited ('Guardforce AI' or the 'Company') (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272502602/guardforce-ai-announces-initial-us-robotics-solutions-rollout",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272502602/guardforce-ai-announces-initial-us-robotics-solutions-rollout",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1650525227063.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

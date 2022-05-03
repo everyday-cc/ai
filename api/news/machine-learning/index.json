@@ -2,29 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-03-is-it-ethical-to-use-ai-generated-content-without-crediting-the-machine.md",
-      "title": "Is it ethical to use AI-generated content without crediting the machine?",
-      "excerpt": "Considering that computers can’t taste booze, this makes for a curious use-case for machine learning. The AI sommelier was trained on a database containing hundreds of thousands of beer and wine ...",
+      "path": "_news/2022-05-03-traceable-ai-nabs-60m-to-secure-app-apis-using-machine-learning.md",
+      "title": "Traceable AI nabs $60M to secure app APIs using machine learning",
+      "excerpt": "Businesses need machine learning here. To have zero trust you need API clarity. You can no longer easily buy or hire security people, so you need to solve these vulnerabilities via technology.”",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine",
-      "originalUrl": "https://thenextweb.com/news/is-ethical-use-ai-generated-content-without-crediting-the-machine",
+      "webUrl": "https://techcrunch.com/2022/05/02/2307940/",
+      "originalUrl": "https://techcrunch.com/2022/05/02/2307940/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 104,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/traceable_all_threats_of_threat_actor.png",
+          "width": 3838,
+          "height": 2026,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T12:26:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/05/02/2307940/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/02/2307940/amp/",
+      "publishedDateTime": "2022-05-02T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,8 +50,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {

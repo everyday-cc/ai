@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/28/ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too/amp/"
 type: article
 quality: 88
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -126,15 +126,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "GLOBALink | Two companies licensed to provide self-driving pilot services in Beijing"
-    excerpt: "The first group of two companies on Thursday were licensed to provide self-driving pilot services in Beijing without the presence of safety drivers. The two companies are China's tech giant Baidu and self-driving start-up Pony."
-    publishedDateTime: 2022-04-28T13:04:00Z
-    webUrl: "https://english.news.cn/20220428/209a270c607546c4a712569e161b6419/c.html"
-    type: article
-    provider:
-      name: China
-      domain: news.cn
-    quality: 0
 
 secured: "GxXO6o/Peh0erJL2aYB2vUPRTkGs8lQizXP5v9mizJBq2rH3gR0iFwIGfjBh6EfNS1+QFgWc4RoVxVzTyOec4Scn/MoaP3znU07UfxH7TbnWrUhhH/ZEZVnUqEwKLUwbluRKaAd4SaB680+FfdAZktRtusUlAmb295QzC8f3CexLbdHug6KSWNZCp0Fn/7TXPSSUzZug1laLpkesfU7JroLQJc2PN/Vff2BFOFg5cV4bjJ3tI2DDGO8N/F6C94ZFe0UpzB9071v0z3LTSh++pxiyZKeHmYKGrTdwmtq1YdgCGIObRVwpWGod8q7H73LdzejOhvrjq2t28jXVHTo5jSGGsHRCXAZmKFJpAdg7H1M9A/XXsXROfUFe1HrUG1ZySZHbGXRTWOeK5HhPPZAFtcW7t9Qhbg7+pSzubDRuRSg5i9NyoQuOhTXD9mO9otiYTxOJWUE2itTa9Rp8scDxNTLV11sPZH8TYKe/TtMnXpyqnZ8487IzoI83unAIxRYctOazipem8Y5E1dj7A7LD0g==;CEGGjAss86muXOYu1flOZg=="
 ---

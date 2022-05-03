@@ -2,21 +2,21 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-04-20-soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging.md",
-      "title": "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging",
-      "excerpt": "and more and Soft Robotics' mGripAI platform that uses ultra-fast 3D vision, artificial intelligence, and soft robotic grasping to enable picking of irregular and delicate food items directly from ...",
+      "path": "_news/2022-04-20-ai-literacy-for-finance-professionals-three-things-you-need-to-know.md",
+      "title": "AI Literacy For Finance Professionals - Three Things You Need To Know",
+      "excerpt": "An overview of AI Literacy for Finance Professionals. Key things you need to know to apply AI effectively in finance.",
       "sourceUrl": null,
-      "webUrl": "https://pix11.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
-      "originalUrl": "https://pix11.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2022/05/dental.jpg?w=2000&#038;ssl=1",
-          "width": 678,
-          "height": 381,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626034b223d534de5d19bee8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 806,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,57 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:51:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/04/20/ai-literacy-for-finance-professionalsthree-things-you-need-to-know/amp/",
+      "publishedDateTime": "2022-04-20T09:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WPIX",
-        "domain": "pix11.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows.md",
+      "title": "Koïos Intelligence and Applied to Further Digitize Sales and Service Workflows",
+      "excerpt": "Applied Systems today announced a new collaboration with Koïos Intelligence to optimize and simplify insurance sales and service processes with artificial intelligence and natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8525727/koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows/",
+      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8525727/koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +84,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -127,6 +172,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging.md",
+      "title": "Soft Robotics Teams with Quest and Ossid to Offer One-of-a-Kind Robotic Solution for Primary Food Packaging",
+      "excerpt": "Today Soft Robotics Inc. announced it has teamed with Quest and Ossid to offer a robotic handling and packaging solution to the food industry powered by Soft Robotics' mGripAI ™ technology. The total solution includes Quest's primary product handling system utilizing a FANUC robot designed to load,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wjbf.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
+      "originalUrl": "https://www.wjbf.com/business/press-releases/cision/20220420NE28289/soft-robotics-teams-with-quest-and-ossid-to-offer-one-of-a-kind-robotic-solution-for-primary-food-packaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1485833/SR_Logo_Bold_RGB_Logo.jpg?p=publish",
+          "width": 1449,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJBF",
+        "domain": "wjbf.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -611,6 +699,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-20-strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom.md",
+      "title": "Strategic Analysis of Amazon's Growing Footprint in Mobility - ResearchAndMarkets.com",
+      "excerpt": "The \"Strategic Analysis of Amazon's Growing Footprint in Mobility\" report has been added to ResearchAndMarkets.com's offering. Amazon, the eCommerce behemoth, has been making steady strides in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.enidnews.com/region/strategic-analysis-of-amazons-growing-footprint-in-mobility---researchandmarkets-com/article_40fbcd74-44c5-5e8d-8225-51f74285828c.html",
+      "originalUrl": "https://www.enidnews.com/region/strategic-analysis-of-amazons-growing-footprint-in-mobility---researchandmarkets-com/article_40fbcd74-44c5-5e8d-8225-51f74285828c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/custom/image/274f102e-c5aa-11e8-8594-87a63e6d4522.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Enid News & Eagle",
+        "domain": "enidnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-ucl-and-deepmind-improving-representation-in-artificial-intelligence-education.md",
       "title": "UCL and DeepMind: improving representation in artificial intelligence education",
       "excerpt": "Global artificial intelligence (AI) company DeepMind is working with UCL to open up scholarships to underrepresented students.",
@@ -775,6 +906,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-20-wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-artificial-intelligence.md",
+      "title": "Wm Pawn's newly released \"Sielink Five\" is a fascinating fantasy tale that explores the world of artificial intelligence",
+      "excerpt": "Wm Pawn shares, \"There's one common threat to both humans and artificial intelligence. \"That is a virus ... \"Lilly has stepped out of the computer into a robot and finds the world to be all she hoped and more. With her natural wonder, wit, and love ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26705094/wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-arti",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26705094/wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-arti",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26705094",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26705094",
+      "publishedDateTime": "2022-04-19T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-softbank-robotics-invests-in-hong-kong-startup-avalon-steritech.md",
       "title": "SoftBank robotics invests in Hong Kong startup Avalon SteriTech",
       "excerpt": "SoftBank Group's robotics arm has agreed to buy a minority stake in cleaning technology startup Avalon SteriTech, marking the company's first investment in Hong Kong. Read more at The Business Times.",
@@ -934,195 +1108,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics.md",
-      "title": "2022 ACM Awardee Prof Abbeel For Top Work In AI And Robotics",
-      "excerpt": "ACM announced in April 2022, Pieter Abbeel awarded the 2021 ACM Prize in Computing for pioneering work in robot learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625efcae4bd40464b7f75a4b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/",
-      "publishedDateTime": "2022-04-19T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-how-to-defend-the-financial-sector-against-cybersecurity-threats.md",
-      "title": "How To Defend the Financial Sector Against Cybersecurity Threats",
-      "excerpt": "By Moshe Hayun, threat intelligence team leader at Deep Instinct The financial sector is going through a period of rapid innovation. Crypto, open banking and the digital payments revolution are reshaping the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
-      "originalUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/04/iStock-1346676529.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/",
-      "publishedDateTime": "2022-04-19T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-pricey-ai-apps-drive-up-cloud-computing-spending.md",
-      "title": "Pricey AI Apps Drive Up Cloud-Computing Spending",
-      "excerpt": "Companies world-wide this year are expected to spend nearly $500 billion on cloud computing, up 20% from last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
-      "originalUrl": "https://www.wsj.com/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-527450/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pricey-ai-apps-drive-up-cloud-computing-spending-11650402645",
-      "publishedDateTime": "2022-04-19T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-intel-promotes-graphics-chief-raja-koduri-weeks-after-arc-discrete-gpu-reveal.md",
-      "title": "Intel promotes graphics chief Raja Koduri weeks after Arc discrete GPU reveal",
-      "excerpt": "Exclusive Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/19/intel_koduri_gpu/",
-      "originalUrl": "https://www.theregister.com/2022/04/19/intel_koduri_gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/08/13/koduri.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/",
-      "publishedDateTime": "2022-04-19T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

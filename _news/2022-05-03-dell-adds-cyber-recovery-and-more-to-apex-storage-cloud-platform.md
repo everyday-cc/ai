@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Dell targets multi-cloud ecosystem with cyber recovery and data analytics"
+    excerpt: "metadata and machine learning to proactively detect, diagnose and speed up data recovery when an attack has occurred, as well as identify the last known uncorrupted copy of data to recover from. Both PowerProtect Cyber Recovery for Microsoft Azure and ..."
+    publishedDateTime: 2022-05-03T05:08:00Z
+    webUrl: "https://www.zdnet.com/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 53
   - title: "Dell brings data recovery tools to Apex and the cloud"
     excerpt: "The software is designed to isolate and protect data from ransomware and other threats, including using analytics and machine learning techniques to monitor ... Now Dell will make the software available on Azure, so the recovery options also will include ..."
     publishedDateTime: 2022-05-02T17:05:00Z
@@ -78,6 +89,6 @@ related:
         height: 486
         isCached: true
 
-secured: "BYUi3sMCKIP7W8AUkU/QF8fqtK6/KPe96b/dJVbA1aqR62diA/mRba4wKjBtkIbnGk1WPqzSMhiJeX10K7UEzOwA6O9pr4UhVrlL36fgcI/2P2Y/13I8mMiDwcZ7Ro4ebdeNvgqNGFUm7i6UzwEAUjF9X4FIhlGWq9DZ+rkoTlM/K5wvoY71gGwA6MiGcXmtLMzg74dqQx+viijppoftao1X+yxwLkvul3exfKmgNyz0M4tAqEFG/bDmmjxy12LeLqIHFz8zBnZffLO+hClumtBQMYn3angSbS6+vPmGH2C1ymw8rM0Hc/WZX9SBOIRqJ0PP5TpKu9/i4na5s2MI/DqWVOzjNs0wAA1bMoMhkEU=;9pICJoWrdzuM2tG4Rlcpsg=="
+secured: "9ufT4BA7NA4lYni9tmibwtmMtd3tvsuw+H0mtDOk1rbEVjg9ti0saEZpkoQ0Ia2Lo1e4IZcRMcG5p52JmXOtEe5XYp3NwJZU3VEnkvMH/HzY+Vn5ENmOzWAbcw1P1bm8yVHEFoSucYCD7xgcOghEmNWWJ0rezS7E0w6tuAKfj8qvh19gs5fQJBsZagPyAGD840/ZPbXMLghI2o83QYD6eDbXIrPi39D8ZT90be8jPK6ByjXLAMwK+SPcZWF7AOO7yF4+uO1rs0FnobhYTU8FhFapuE5PqPY+Hy2hI2yuAuulJIFkEQaNLkeN2KiY5+fdX4/o5vFzztBb3It4lB6jFWfzL5tAKVMtqt73lRxDb5tkEhNWql8SG1cemzwFi2M8fp+x1xWDpux2CSJTEFuoFNNp4/2QKkUc+OC0tlMcpemxPt7BfpT5z3DLgOphrGQgGxTITQ6SfFlr5KEinszZ+plEfOWMW/ZbmY+mzSk+qWl/GKps07eFFgArjy4l+dHBbG3yvdsh1W6/iOeG/f0gDQ==;92SGir88AMMJCKKi/oPdgw=="
 ---
 

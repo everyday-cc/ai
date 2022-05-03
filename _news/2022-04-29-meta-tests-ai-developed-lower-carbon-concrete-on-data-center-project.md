@@ -34,6 +34,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 36
+  - title: "Meta materials: Facebook using AI to design green concrete"
+    excerpt: "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ..."
+    publishedDateTime: 2022-04-29T15:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/29/meta_ai_green_concrete/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 19
 
 secured: "RrSZIc6FoQ40INZCV11WJGw/cOqNWVF8X04EzAy+hZgtWd6+xJSlDh+oTOs+OhUwvRGJoUp0veYH7xDBfln9+gvNMumWSdxO73okcC3aoOLY4lEhdSSgRwHxVPK5JHCBdS3LzxeQnVju/bsOAO6OOj2OEE0xqhGK2ctHTRRvSJjvxu2cSjF10xDX7LxEesD+ZJiELs8sL11HYx0gsHRMa0POb8aoEHSE0RstVW2jFgG/kvirAAVkHe0Z3hVWckR+40ANYcDnxG9uKjKtkmcWxVM+xURVr3+uTAV/6rw6VxUy7amPHOoQewCzEYS2O/2p+awolHBVR2WOVRWLv66FkgCerwHBVYEiv8oY6evlKC7DSA8r11FKI2dTiTieh5xZ1e++GZsHF2oIPzajFF0VqUaxwp0AL47SQ/uliFA0BJJN4T3CrtOCrTUDulynLHK9ceFtuIeJAs6NUzEzxZ2kUZOWMIzWA7BBJDj2LD36eIDALwKqmcZXJjEJfubt7KtwBmDw0iLCH1rG4pmvm3gveg==;slmni827dV5jzRjeRxdI2A=="
 ---

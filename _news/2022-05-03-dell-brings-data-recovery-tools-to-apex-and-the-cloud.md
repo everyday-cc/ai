@@ -43,6 +43,17 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Dell targets multi-cloud ecosystem with cyber recovery and data analytics"
+    excerpt: "metadata and machine learning to proactively detect, diagnose and speed up data recovery when an attack has occurred, as well as identify the last known uncorrupted copy of data to recover from. Both PowerProtect Cyber Recovery for Microsoft Azure and ..."
+    publishedDateTime: 2022-05-03T05:08:00Z
+    webUrl: "https://www.zdnet.com/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 53
   - title: "Dell Technologies Expands Multi-Cloud Experiences Across Cyber Recovery, Data Analytics and Partner Ecosystem"
     excerpt: "The new service will join a broad portfolio of Dell offerings available through Microsoft Azure Marketplace and will allow organizations ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose and speed ..."
     publishedDateTime: 2022-05-02T17:19:00Z
