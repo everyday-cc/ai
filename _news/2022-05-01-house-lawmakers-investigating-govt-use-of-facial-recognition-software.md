@@ -84,20 +84,6 @@ related:
         width: 430
         height: 242
         isCached: true
-  - title: "Bringing facial recognition to war is a bad idea"
-    excerpt: "Chief among the concerns is that facial recognition makes mistakes. It is bad enough when that leads police to make a wrongful arrest. In a war zone, there are even greater life and death consequences. There is evidence that front-line users of facial ..."
-    publishedDateTime: 2022-04-29T07:10:00Z
-    webUrl: "https://www.japantimes.co.jp/opinion/2022/04/29/commentary/world-commentary/facial-tech-war/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/04/np_file_152826-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
   - title: "Debunking Myths Around Facial Recognition: What Government Agencies Need to Know"
     excerpt: "In spite of the recent controversy surrounding facial recognition, it’s important to recognize that the technology has real, tangible benefits in the government sector. Consider examples like the U.S. Customs and Border Protection service which ..."
     publishedDateTime: 2022-04-29T17:00:00Z

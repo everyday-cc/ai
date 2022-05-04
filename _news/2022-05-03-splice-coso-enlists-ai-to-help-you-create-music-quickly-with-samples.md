@@ -1,14 +1,16 @@
 ---
 category: news
 title: "Splice CoSo enlists AI to help you create music quickly with samples"
-excerpt: "CoSo allows you to you stack up to eight samples based on genre or instrument type to quickly create loops, with a big assist from AI. Everything stays in key, beats per minute (BMP) are synced, and you can swipe to delete a sample or swap in a new one ..."
-publishedDateTime: 2022-05-03T12:29:00Z
-originalUrl: "https://www.engadget.com/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html?src=rss"
-webUrl: "https://www.engadget.com/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html?src=rss"
+excerpt: "CoSo allows you to you stack up to eight samples based on genre or instrument type to quickly create loops, with a big assist from AI. Everything stays (more or less) in key and in time, and you can swipe to delete a sample or swap in a new one automatically."
+publishedDateTime: 2022-05-03T12:33:00Z
+originalUrl: "https://www.engadget.com/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html"
+webUrl: "https://www.engadget.com/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html"
+ampWebUrl: "https://www.engadget.com/amp/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Engadget
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "sKFNp+XSjwRL3a47o0sFaHsaXVdiiA+XKY2b4CX032ILoiHoYmFj+uK9ut2YQWDaupjz5d9zMlIwQ1fz/W6te+w2bk6xLKDxEIiraAO4rrlavaLNG3Gsec6btEqJMifyvhf83wABDh5QSNLOhoy4pyMJlEqv1bY3c3OAJqfM8+9BJHCbkrsFbeKfdH/JUM8WZBRfqnD+DiQwfzww0OM3rucUB6TgrTg3o+dtEdvsETagYq8o8vVxVL53ZWgQ20cEaJ5FzUYpwoeIiv7dp9OqwyEwkzc/QnTk0eNarA9nkSOAFLwg3rySEcwkl49qwygaXCXECFDuiB+fKC8USckvlHlNYvf0bGRT9kLX3N05TKD6JfhW49sVg5hqFlrmvyIMJWxMl3a2Lyhczuf/d4EOTRwUf4k/TVLFfnpsdqw5X7JQ6z7eh0E+AgPMWKUPtBsruGGSwRb8nam3WPzsmhxSkFSiRlbhnuQNVaoymIxGKp7rNX3Sx9rjITrSKqauIQK3oZ0KI2dWPqZogjN0QsMPxQ==;mop/jje9y8KepfEddwEWdw=="
+images:
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/1e78c790-cac6-11ec-8fe7-3029bdd57b8e"
+    width: 1098
+    height: 655
+    isCached: true
+
+secured: "hHnVoWE8e4RpcXbehdrzRPc87/K5ASO1adKZ5epr6IYvjHMd1tMxvh02WTdD1/P05iNslcvxWis1VYwue9sHFehZ7vbAqVaWMR2pPz3svvaeo1qyXx89dG+ME9taf+lLcFD7Jnfomo1f1erHSuqgRaYAxTXXtbwN5X1sm175hauPPlE2RHBY/Q2nLMYPS5633bacokAIqTWWty8W99VIB43TGwsB2HXJba+L1nmyTVnNdGreF+sGZt1bvj7/hDU2B88F5jHC3wUDF0OxfVUic/hCAps3Se7BgcHgDXFn7KHzwXmBreQXeUx0DRKndar0f0i9ezlvQb3IcY0P1KIVLjsFfnXQPfHQB+v4DTLYrNw=;cBGHhG3/lnjpgKV/t/tEUA=="
 ---
 

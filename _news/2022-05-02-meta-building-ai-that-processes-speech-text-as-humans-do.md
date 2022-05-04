@@ -9,7 +9,7 @@ ampWebUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-te
 cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta is studying the human brain to improve artificial intelligence"
-    excerpt: "CNET reports Meta is embarking on a long-term research effort in an attempt to compare the ways humans learn language with how AI processes information. Get up-to-the-minute news sent straight to your device."
-    publishedDateTime: 2022-04-29T17:30:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/meta-is-studying-the-human-brain-to-improve-artificial-intelligence/video_c50116b7-000d-5654-861a-a22311371ede.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 52
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/50/c50116b7-000d-5654-861a-a22311371ede/626c12b018674.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta Announces Research To Create Human-Level AI"
     excerpt: "Facebook parent Meta announced they are launching a long-term research project to build a next-generation AI that can learn and process speech and text in the same way the human brain does. Meta described an effort to create a human-level AI. Meta is ..."
     publishedDateTime: 2022-04-29T09:17:00Z

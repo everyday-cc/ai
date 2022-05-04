@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/startups-apply-artificial-intel
 webUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
 type: article
 quality: 82
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://i0.wp.com/insideretail.com.au/wp-content/uploads/2022/05/Startup-using-AI-.jpg?fit=720%2C400&#038;ssl=1"
         width: 720
         height: 400
+        isCached: true
+  - title: "Two sisters create a startup that puts sustainability into global supply chains"
+    excerpt: "Built on the cloud and using AI, it processes mountains of unstructured and uncleansed ... But as is the case with any startup, the journey taken by Atkins and Vowels has not been easy or straightforward. The pair have had to work doubly hard to establish ..."
+    publishedDateTime: 2022-05-04T01:01:00Z
+    webUrl: "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/givvable_main_2000.jpg"
+        width: 2000
+        height: 1332
         isCached: true
 
 secured: "/z0rTWuyEz5DfCxfbgpAi3dCrTh6v9zCR/OPOKsWUm8zo4RwyBu/HUhl3lQMnfw984zvS3JG3W2LeO5CI7OzVGY1S8zHg99LS3v6mL/ZhZrLYyfNAJ37LYLoRMM3teZwpNf1vaRYj4mM6SFdJ8Lo4KIt10FHJLeJxEt5dOxL+xUY7MQosTEf1Gc91ZZGbhMDI3dgo8dE2anNcnrpGjw6XihE9yLl4ifzDj8nlg/Ap0nBqX/mvCBgtnle/7A+sgivV+ZkRfDXtOq456WeD+WnmrCqyvKXjEuekyJO9AC/1aU0iYDzKJ/R/3BGkGbNyBLS2iHnTOlaNm9fA4D4WqLcFV3YOD7qyAFXSbSvDTXRxEc=;zXK7dlmWsGVYqutYLobzuA=="

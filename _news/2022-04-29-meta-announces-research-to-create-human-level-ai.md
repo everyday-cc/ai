@@ -41,20 +41,6 @@ related:
         width: 831
         height: 450
         isCached: true
-  - title: "Meta is studying the human brain to improve artificial intelligence"
-    excerpt: "CNET reports Meta is embarking on a long-term research effort in an attempt to compare the ways humans learn language with how AI processes information. Get up-to-the-minute news sent straight to your device."
-    publishedDateTime: 2022-04-29T17:30:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/meta-is-studying-the-human-brain-to-improve-artificial-intelligence/video_c50116b7-000d-5654-861a-a22311371ede.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 52
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/50/c50116b7-000d-5654-861a-a22311371ede/626c12b018674.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta Building Artificial Intelligence That Processes Speech & Text Just Like Humans Do"
     excerpt: "Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with neuroimaging ..."
     publishedDateTime: 2022-05-02T12:21:00Z

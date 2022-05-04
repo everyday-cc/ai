@@ -2,26 +2,28 @@
 category: news
 title: "Orgenesis Led Consortium Awarded €4M European Innovation Council Pathfinder Grant"
 excerpt: "The grant is aimed at the development of technologies enabling production of autologous induced pluripotent stem cells (iPSCs) using microfluidic technologies and artificial intelligence ... cancer therapy associated disease and defective tissues."
-publishedDateTime: 2022-05-03T10:32:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/covid-technology-science-business-health-113832ee455962cde4d5441ada625067"
-webUrl: "https://apnews.com/press-release/globe-newswire/covid-technology-science-business-health-113832ee455962cde4d5441ada625067"
+publishedDateTime: 2022-05-03T10:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/g26954843/orgenesis-led-consortium-awarded-4m-european-innovation-council-pathfinder-grant"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/g26954843/orgenesis-led-consortium-awarded-4m-european-innovation-council-pathfinder-grant"
+ampWebUrl: "https://www.benzinga.com/amp/content/26954843"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26954843"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 740
         isCached: true
 
-secured: "hZsZ89SUKdwxEktHfB4Fx75ot0VIQcMBQ5DIU8WlEDllSfOXoGj1Tpqj+tkM5cuNA7MFv2bZ208AWUm3GSuglmMPOu8Jqwn2ISGYiMbE8RM+Vfpe3lQffELH+5161Fd0AHxLOTjSys1XvMmuwOnV14s29BwcG5zu7CAa9YijYlFc/+dKseY4RLt0ZpkbmmBsDj+yhMf/xdqNOQXV6bKZ6LKzagGYYw3CxBbq1EMXUtwR+UjwdF1MQvVBBDO6JCk/ICh43OHq7RKQ6xlG9y43zLx+m7r1UTpb+SqAY0BUkOgS4JuK0cxIxi+qvjtXqKOs6i8usuP0xLmqN41EvJrsCjaQsOcPy6cCiLEX4nyOuzM=;jkxNuloX9sahwFlO3KRwWg=="
+secured: "WQUatEbXOkj6+h2NRxvtYIWwz7XJMogEl6mzy+qkzDBze9ZxeJ3ARkbe3lcyJLRvcWqUIp9nOK07qo9mYeyLFIzwqYPFg4mMBvjA8F3zYE6M/GUz2hbWYpFQsjiuHTIhuKWb5E5HhXG2268iiGIpzC37vPVGA+gD7QpE8QarzIJLg+nzFxm7dgKESqs3CnvRAbiQHZwzfLXjIRSGo8Xezw/ZXl96jun8In0DQ5DKUkvFGdLmc6VMnuDrDzzzFrmisEqToeOmy9NNNygNGKLTafZrIav9a4XnRsYvqfpmsSP/b5ktaMqAoYUnqRfUeHnrfBJWnoe6pV0LXmWjmfOaZDcEEXUa57hQsvotHYL8UwQ=;xVEH062j25EonLYWVJMb7Q=="
 ---
 

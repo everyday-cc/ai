@@ -3,8 +3,8 @@ category: news
 title: "SoundCloud acquires AI music company Musiio"
 excerpt: "Co-founded by Hazel Savage, who has previously worked at the likes of Shazam, Pandora and Universal Music, the company claims to have built AI that can “listen” to music at scale. Speaking to MBW in December 2020, Savage explained that Musiio’s ..."
 publishedDateTime: 2022-05-03T15:30:00Z
-originalUrl: "https://www.musicbusinessworldwide.com/soundcloud-acquires-ai-music-company-musiio1/"
-webUrl: "https://www.musicbusinessworldwide.com/soundcloud-acquires-ai-music-company-musiio1/"
+originalUrl: "https://www.musicbusinessworldwide.com/soundcloud-acquires-ai-music-company-musiio123/"
+webUrl: "https://www.musicbusinessworldwide.com/soundcloud-acquires-ai-music-company-musiio123/"
 type: article
 quality: 37
 heat: -1
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FeI8Bf+EZgg0xuGhT85OF+7/tXjvR4XSoDhknKASJBhFdC/Z9oX3y8eB/Mu8b9lBK+/um1rOwfTgMM8i4X0Vm86VImq/OAH1Lr8KSYcw1os2gI6lf1ybiy9Y/sC53+MxKOU+sj+rAYOd8aJm7NNjaIM2i5UbaP4rgAXYk0nQkZlJH2PTDtdD9ix3PvejP1vrIOUSNbdHBAETnUPKSgW7RkFJ1eRNfE93jBSfmfi8I/C8DMaaALYv+cOKRtElh1sqJAQu5fq6DxdaLwMcHQhKPeow68AaykXxScqGAm8oUnk368bY5m9CMSYcvI4gMACQzhyVXsZCntaXP/mG+Pxvl+u9iaAVvyi3qT4FhzBCg5z4SWMA2OBLJMZ/icdVv9k5BO8dc+gU9eehh6tOH0wfsaZHKln8DQN+JP3oW+V3b8zeHgYo6VWjmlXVnYsYnrs1zQcEdP+n7947q+RNhb7VGHpjMy+wfMPvPXOAuf71Q6CdhsmT7X0+v93+bEbH+/8QfJGT8T0lHOLcR4/V0oxpVg==;78OoyR38DxiZk1BmbPBA6Q=="
+secured: "u9VYwsSLcO9w+5pyUhwAleR76V7/xwkD0DUq1W9+wCYVSigtXSufbQR68tOsQuSQOjNtxiZfV2i52eOXVeC4Gie4seraXJ048ODFArS0kGLVN9SN9t31S49GwyuK2g+WEUf4CtG1HSBOZtYR4Qr0AbqO7a6eJh1dqhOCAhnHmWzNVhvsZ6ZVhoLvXwrpqzLbrFEiXi/3P0e9ZER1QguLbhlXv/0+dF110kiwqFwqGX4517lpUgvmiUbnj8UrtCFVFav3CUa8HVmMrB/4OzKnAgveypUbcQv/27ajGAkSeWsojxgyBZc5Wu2EppLsBCQf11Y3TF+QBNVJFwx8LxPLbJYgZeOA+6bxzoCYd9+EIdc=;KgsdX1mXTuQaC4OP0qvxBg=="
 ---
 

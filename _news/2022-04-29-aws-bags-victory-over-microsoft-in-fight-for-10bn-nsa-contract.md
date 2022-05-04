@@ -2,13 +2,13 @@
 category: news
 title: "AWS bags victory over Microsoft in fight for $10bn NSA contract"
 excerpt: "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ..."
-publishedDateTime: 2022-04-29T13:11:00Z
-originalUrl: "https://www.techradar.com/sg/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract"
-webUrl: "https://www.techradar.com/sg/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract"
+publishedDateTime: 2022-04-29T12:22:00Z
+originalUrl: "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract"
+webUrl: "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 86
+heat: 126
+published: true
 
 provider:
   name: TechRadar
@@ -22,6 +22,12 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/8oGbNhHrdUVzT8e8dns8dE-1200-80.jpg"
+    width: 970
+    height: 545
+    isCached: true
 
 related:
   - title: "Dell forms security partnerships with major cloud providers AWS, Microsoft Azure"
@@ -63,34 +69,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Dell Launches New AWS, Azure Multi-Cloud Security Solutions"
-    excerpt: "or in an unimpacted Azure environment. Dell’s new CyberSense for Dell PowerProtect Cyber Recovery for AWS offering allows customers to use adaptive analytics, scan metadata and complete files, as well as implement machine learning and forensic tools to ..."
-    publishedDateTime: 2022-05-02T17:00:00Z
-    webUrl: "https://www.crn.com/news/cloud/dell-launches-new-aws-azure-multi-cloud-security-solutions"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 73
-    images:
-      - url: "https://www.crn.com/resources/0275-150cb8ccdb09-0e58e7a5dff5-1000/aws_oj_story.jpg"
-        width: 599
-        height: 426
-        isCached: true
-  - title: "Dell Technologies World 2022: Dell unveils security offerings for major cloud providers"
-    excerpt: "Dell PowerProtect Cyber Recovery for Microsoft Azure' and 'CyberSense for Dell PowerProtect ... which will be supported with adaptive analytics, machine learning, and forensic tools. CyberSense for Dell PowerProtect Cyber Recovery for AWS is expected ..."
-    publishedDateTime: 2022-05-03T08:56:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/public-cloud/367553/dell-world-2022-security-offerings-for-major-cloud-providers"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 63
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1651532398/itpro/michael_dell_2022_delltechworld.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "For only $39, you can learn all you need to know about Microsoft Azure"
     excerpt: "For those who prefer project-based learning, there’s a whole course devoted to Azure management and architectural issues. Also included is an introduction to Azure Machine Learning, which may be used to automate difficult or repetitive cloud concepts and ..."
     publishedDateTime: 2022-05-01T14:10:00Z
@@ -101,6 +79,6 @@ related:
       domain: bestgamingpro.com
     quality: 34
 
-secured: "QhtKoaneExBgPvo5jynO/ceHwGQc5repA/P/lukP4d+VaQq1X0VzHbu5EAE42gAeMW4PZtLPNhSYIhZzFjH1C25h/GrTbpqBOpDZYlZxYTMf8Z6PGUEoYFn+7HtBbinK2zK49TrAWebH/ExuukHw7Y7IaKj0Qxzkvo83ymIi/7Vhx2eXrcJegzNN+A5aa3tvAdDt66CScKXN1afcbhjR2ZJHxzkITtyvDQUyV8I7Bp79ApNkL35pbFOqD8S9J3nTnYPQXKE2JnDk4eb7bI8t7SWDJ6gqkAdK80kXFBi1Aldo4yUgFdgM6hkPCFUwl6CMACUJ7nIUH8RSMogOnPhFzEoBu6dgjWeKKBjjJ9qpMGpsxqdVCVcmqtxq6Wr7bPAjmg2yhog/drD2iXR0j4uA6nI7Mt8GPYk1UIT1rqr24Wx4qdFEqek0BT/z4X+L7AzrYzME7LiPDJq66Z2j9P4RbFco7NiquWAipuhuaYEG6hEYYEjDxHKsoscSJ0yyZrwsHunMzeEEW3oXBJAVV0q9JA==;WpN9meYkKkgWrrB/o4vtWA=="
+secured: "NzawZiaESiLqDr03cMyB1lG4+kQv9uvCI1s/LWaMVtWKqxPEnPGj66YVbgbKkuZjCWgcK/RRmgvTpRvO4IJgNH2D4ouh061rjF6x/mNRPWELYnWGKOKcbIU2xBFyiwLK31aG2jB6aTtT6XWY4PxCK+/6Te9jBUJJKMRihjabe6C5OdPk27byE+e2vS9uJHg4oefbKy8mBp1EuV5s3UkJJSHtE7OWeN3cZ0wYdj31I+LqEndZjXTiHJHujCnu4D3UbjNUMP2TO4uT4nyFAMdZR2gdOA1iq6VxgHrCbFYXdpLlSVeZ8RaAqL/DQ3YYOegqwseTQBdPbOG8+m2upK9WlEhXcaSymz1hpKft7bQ7Zas=;ewGBZ7imIvePfFavOD967g=="
 ---
 

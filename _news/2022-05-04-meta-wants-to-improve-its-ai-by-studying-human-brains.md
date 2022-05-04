@@ -8,9 +8,9 @@ webUrl: "https://www.popsci.com/technology/meta-ai-language-models/"
 ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
   name: Popular Science
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.popsci.com/uploads/2022/05/03/patrick-tomasso-Oaqk7qqNh_c-unsplash-scaled.jpg?auto=webp"
@@ -26,6 +27,31 @@ images:
     height: 1707
     isCached: true
 
-secured: "qp+xWPnfB3utl1LhM+c+EfTg9L3YS8X+HWwCOFJFZM4V/7eD9qh17H08YyWTuwQojN2veUa2maYBbmmuQgXdltuGLvf+oCxBaKyLqTW5DIhJlzvs9x2ZS38pwzE7Ir/ltA1dfn9qOSn6GzoiX3YD7KcC4Dfm07yUYHAYgiSm/1NTASjSEfKlxFTFBLoKe8wiMHF/RNBnTUMXATC1xQs4FL4evtmNFwJGONs07baFXm7e+Nll3Cd0ubfec7DyJYUyRNd0Xjd5Hf4ZDtvSuWLIT2EOcJ7MpMiDHPqyRGjshHQHLzBf2eKuOri/qO6Li6uIFPOS9qTRm6GzsF0v42La4GD7cA8NEy0qiAPgFKBNk90=;KBiTfWVclYG8gHSsL3qKYg=="
+related:
+  - title: "Meta is studying the human brain to improve artificial intelligence"
+    excerpt: "CNET reports Meta is embarking on a long-term research effort in an attempt to compare the ways humans learn language with how AI processes information. Get up-to-the-minute news sent straight to your device."
+    publishedDateTime: 2022-04-29T17:30:00Z
+    webUrl: "https://www.stltoday.com/lifestyles/technology/meta-is-studying-the-human-brain-to-improve-artificial-intelligence/video_c50116b7-000d-5654-861a-a22311371ede.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/50/c50116b7-000d-5654-861a-a22311371ede/626c12b018674.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ways AI Improves Online Learning Process"
+    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
+    publishedDateTime: 2022-04-29T13:35:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 17
+
+secured: "L/F1dYVfYm38sFsjgSYrtJlXniQSAUBafh3cjNVPvQarwIS7q18rO1ogGMRTcQbYkyn3Lsp44+lkAVE5PlYLbes1+qyyW6M5N4mJC99ZxylgN/Zl59uCYtzuKjLxg+YyVRU4pRs20eQ9HDJWnj4Ezys/9ZOH29AOy22FNmhtKUkepvXqrwC2j9V8b8DPMoet5ELcBApAArkAlDGQRDMFjj4/apTqywdgBmngQ8fTf95gP82w4lOl/OoiHar8ZS2ZuegbhvScmx6Z8v0ehzycSQMcaquQbrySPzrU1If8N8LqbbEFrwK71gc52yiuwAQzz3xwRiyXZPx/Ax/5cWaon3NFGMrE1DNX7QmNlZtWWQEe9G57R48ss3MFjZHImyduqV+DZk2aGj1it4drmSr1MRXwem6xM+GHfy/clArcpkz61O/SEYSRVK4r9zxMQaCkWyriNj9zFvpvyxw2+dlC8bWZ3BgGtNsUPZiUwVrNTMj0xJoq3QaDUolG2acfjKKRvVrWA/Q4KKCAHvOeeXqShg==;FKl2q2ZTTiELZrgSA1ziRg=="
 ---
 

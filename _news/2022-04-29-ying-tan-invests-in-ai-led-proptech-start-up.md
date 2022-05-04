@@ -7,7 +7,7 @@ originalUrl: "https://www.mortgagesolutions.co.uk/news/2022/04/29/ying-tan-inves
 webUrl: "https://www.mortgagesolutions.co.uk/news/2022/04/29/ying-tan-invests-in-ai-led-proptech-start-up/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: Ying Tan invests in AI start up Propflo"
-    excerpt: "Bristol-based start-up Propflo has confirmed it has successfully closed its ... and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage strategic investors with relevant experience to accelerate ..."
-    publishedDateTime: 2022-04-29T07:32:00Z
-    webUrl: "https://www.mortgagestrategy.co.uk/news/exclusive-ying-tan-invests-in-ai-start-up-propflo/"
-    type: article
-    provider:
-      name: Mortgage Strategy
-      domain: mortgagestrategy.co.uk
-    quality: 37
-    images:
-      - url: "https://cdn.mortgagestrategy.co.uk/content/uploads/2022/04/PR-Photo.jpg"
-        width: 1536
-        height: 2048
-        isCached: true
   - title: "Verily invests in startup building AI for health system call centers"
     excerpt: "Healthcare automation startup Syllable on April 25 closed a $40 million series C funding round. The funding round was led by growth equity firm TCV with participation from existing investors, including Verily, Alphabet's life sciences arm, according to a ..."
     publishedDateTime: 2022-05-02T21:41:00Z

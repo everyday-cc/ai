@@ -27,18 +27,16 @@ related:
   - title: "GLYNT.AI Honored with Awards from Fast Company"
     excerpt: "MOUNTAIN VIEW, Calif., May 3, 2022 /PRNewswire-PRWeb/ -- The winners of Fast Company's 2022 World Changing Ideas Awards were announced today, and GLYNT.AI was selected as an honorable mention in two categories, AI & Data, and World Changing Ideas."
     publishedDateTime: 2022-05-03T19:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n26974045/glynt-ai-honored-with-awards-from-fast-company"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26974045"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26974045"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/glynt-ai-honored-with-awards-from-fast-company/article_f40b44ef-641b-5cb5-8d01-d4650b7ef2aa.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
   - title: "HiredScore's Blueprint Named Honorable Mention in AI & Data Category of Fast Company's 2022 World Changing Ideas Awards"
     excerpt: "Now in its sixth year, the World Changing Ideas Awards showcase 39 winners, 350 finalists, and more than 600 honorable mentions—with climate, social justice, and AI and data among the most ..."

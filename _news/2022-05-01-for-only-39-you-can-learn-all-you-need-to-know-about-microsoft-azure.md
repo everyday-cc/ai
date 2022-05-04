@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AWS bags victory over Microsoft in fight for $10bn NSA contract"
+    excerpt: "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ..."
+    publishedDateTime: 2022-04-29T12:22:00Z
+    webUrl: "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 86
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8oGbNhHrdUVzT8e8dns8dE-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Dell forms security partnerships with major cloud providers AWS, Microsoft Azure"
     excerpt: "and they are now expanding it to the public cloud with Azure and expanding features with advanced capabilities with AWS (corruption detection, analytics and machine learning). \"These options provide a robust vault/recovery solution at scale for enterprises ..."
     publishedDateTime: 2022-05-03T21:30:00Z
@@ -57,43 +71,6 @@ related:
       - url: "https://regmedia.co.uk/2021/05/25/azure.jpg"
         width: 1000
         height: 666
-        isCached: true
-  - title: "Dell Launches New AWS, Azure Multi-Cloud Security Solutions"
-    excerpt: "or in an unimpacted Azure environment. Dell’s new CyberSense for Dell PowerProtect Cyber Recovery for AWS offering allows customers to use adaptive analytics, scan metadata and complete files, as well as implement machine learning and forensic tools to ..."
-    publishedDateTime: 2022-05-02T17:00:00Z
-    webUrl: "https://www.crn.com/news/cloud/dell-launches-new-aws-azure-multi-cloud-security-solutions"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 73
-    images:
-      - url: "https://www.crn.com/resources/0275-150cb8ccdb09-0e58e7a5dff5-1000/aws_oj_story.jpg"
-        width: 599
-        height: 426
-        isCached: true
-  - title: "AWS bags victory over Microsoft in fight for $10bn NSA contract"
-    excerpt: "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ..."
-    publishedDateTime: 2022-04-29T13:11:00Z
-    webUrl: "https://www.techradar.com/sg/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 66
-  - title: "Dell Technologies World 2022: Dell unveils security offerings for major cloud providers"
-    excerpt: "Dell PowerProtect Cyber Recovery for Microsoft Azure' and 'CyberSense for Dell PowerProtect ... which will be supported with adaptive analytics, machine learning, and forensic tools. CyberSense for Dell PowerProtect Cyber Recovery for AWS is expected ..."
-    publishedDateTime: 2022-05-03T08:56:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/public-cloud/367553/dell-world-2022-security-offerings-for-major-cloud-providers"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 63
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1651532398/itpro/michael_dell_2022_delltechworld.jpg"
-        width: 1260
-        height: 710
         isCached: true
 
 secured: "XZyg1Wl/q1v95f3J6wStu8Duy0dz9mpqkg29qSYjjF7AtRG5NegRvlMs1IqLNXEkPzRIXN7KHuGPYd1bFa4AgBl3wZk7rlcmBeKVw3eKktvH7o/Hl25Zla5zDVmtdq3RI0ZcjInL4eZPBXf1seqeLkfcqTfKGV1dhTDOn0wR2qUKvmsNlJfJV2mgRE8tyZhWyJVwcXpjZxd9nT+iYJJI9gxJMXNWHAJ20oDmjx4LJxJ92R+zzsX6uTLPMkmva4N5d2+uX+ZbfPwS9CaGw4+fVN9Cam+SBb8j0LEkb2ZrHGNUBA9J6MIXLNW3T0dHxjeL5k4aGoQTGyzmhh79S53Yop9xWLL0/wp+ozplb7wUKwS3yc1888PqGhQqrp6HG7hkvUOqbojN41cvMq3nd4MeVOWJgMjM01MExjfNfTH53FgsqH407IGYS7dkEZH/7BFQxn06n00pVemZT7Q/ad42jxW/ZnPx9rtpA+SPOXuzMafpNvG8E8uGNONwmI61QrYh/HvCjeHDk+W/ukBaIeR8Xg==;3cITlNL5gvUq32IZKWoL+w=="

@@ -72,6 +72,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 59
+  - title: "Two sisters create a startup that puts sustainability into global supply chains"
+    excerpt: "Built on the cloud and using AI, it processes mountains of unstructured and uncleansed ... But as is the case with any startup, the journey taken by Atkins and Vowels has not been easy or straightforward. The pair have had to work doubly hard to establish ..."
+    publishedDateTime: 2022-05-04T01:01:00Z
+    webUrl: "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/givvable_main_2000.jpg"
+        width: 2000
+        height: 1332
+        isCached: true
 
 secured: "BF3Zvqm7XvL2LEi3ro1YBOp52wdwtybOmtuZrJ4cXCc6zssWVAB9zsxxNs5jY+Y2vQ0ZQsdhrfxlr40F4g/zISlA5/NjrK91T1qr5gAe4OFP0AFHUqJ8ZarXOdQ+achZ2al68onLqZLsYjHtaIVFzkL6P/P8TmDHJB/mV8iak9Q+qqex27ZMdTagzxPOZcUqpCzRYwuCO/0UnaF0JReFx0xakUuHrEURPnv9KsFK2nykzwEnizVRdnGpJUbNvx4DJEIgHk7zDQRPF9rcrKiTVQ6lV62MmbH1WnEJslFoiBLiX72sgacn1XTv8hmi9vtdRUqOaL9bzVvNbih+GkaW/NCYNJsyyiARi4HMaEtVTTE=;6ZqSt4i82QZgPTUUwVttwA=="
 ---

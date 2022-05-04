@@ -71,6 +71,20 @@ related:
         width: 720
         height: 400
         isCached: true
+  - title: "Two sisters create a startup that puts sustainability into global supply chains"
+    excerpt: "Built on the cloud and using AI, it processes mountains of unstructured and uncleansed ... But as is the case with any startup, the journey taken by Atkins and Vowels has not been easy or straightforward. The pair have had to work doubly hard to establish ..."
+    publishedDateTime: 2022-05-04T01:01:00Z
+    webUrl: "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/givvable_main_2000.jpg"
+        width: 2000
+        height: 1332
+        isCached: true
 
 secured: "prZx7elkuNeVk03xtXcLQpRpmvt/iSOIrfZO1F+HfTkAnN8UCe6re4QALV5kpM5o6kCQMsPcco1CSgd2ICIbcvNqTpMD6No9YK9lNRQC4955f9RU3JTW0S7qpYSkK4/OvdyrarNfjA56HxpoGqHMZDXEvUjjZeSvay6KXxSEhLBTdYIAJRsbL2ChR+NuKMxTWd6/0eE1Q7kgqMMf0RRkZyHjuNGvPKjPBSJEGoGSsl6Pn3AipC2pP0jJh9G6FUyLYR5ZuAJVTaJ3N9JpQLYeAJB6rs/AVaeD5b+YqF2HTClshP/dffMPFRxcMvA0YVAMXfXhiQw0ljHcRI4e2o9pSyi3SqPTXJ/cHymsR4j6KLHqSz5lOseI2XX5FoXF3F42Y8fh5S1QSZFV1rtVYlEFUgzPXn5fE//ipq3R6Ksq5E4R3piK0jPrtgCV7+PmxXmd9Cm6u/ehi14ZyVhrkKpV39hHT2Fn6Oih4NPRV+56r7XVeDaoU+67etRP147+WQeAXMqCvxO4DR+zs9pseEXglQ==;ZAwIGtRsMOe4/xWUg+fAMg=="
 ---

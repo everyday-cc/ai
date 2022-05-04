@@ -41,6 +41,22 @@ related:
         width: 3838
         height: 2026
         isCached: true
+  - title: "Traceable AI Announces $60 Million Series B,"
+    excerpt: "Traceable AI, a firm that “protects APIs from the inside” has raised a $60 million Series B round at a valuation of around $450 million. The funding was led by Institutional Venture Partners (IVP), and includes the participation of Tiger Global ..."
+    publishedDateTime: 2022-05-03T13:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/05/190562-190562/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/190562-190562/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190562-190562/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 57
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Security-Lock-Door-Deadbolt.jpeg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "API security startup Traceable AI raises $60M on $450M valuation"
     excerpt: "Application programming interface security startup Traceable Inc. announced ... The round values Traceable AI at $450 million. Including the new funding, Traceable AI has raised $80 million ..."
     publishedDateTime: 2022-05-03T13:00:00Z

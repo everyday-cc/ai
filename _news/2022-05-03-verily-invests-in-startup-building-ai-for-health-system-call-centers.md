@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: Ying Tan invests in AI start up Propflo"
-    excerpt: "Bristol-based start-up Propflo has confirmed it has successfully closed its ... and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage strategic investors with relevant experience to accelerate ..."
-    publishedDateTime: 2022-04-29T07:32:00Z
-    webUrl: "https://www.mortgagestrategy.co.uk/news/exclusive-ying-tan-invests-in-ai-start-up-propflo/"
-    type: article
-    provider:
-      name: Mortgage Strategy
-      domain: mortgagestrategy.co.uk
-    quality: 37
-    images:
-      - url: "https://cdn.mortgagestrategy.co.uk/content/uploads/2022/04/PR-Photo.jpg"
-        width: 1536
-        height: 2048
-        isCached: true
   - title: "Ying Tan invests in AI-led proptech start-up"
     excerpt: "Mortgage industry professional and angel investor Ying Tan has invested in a property data platform. The Bristol-based Propflo recently closed its pre-seed funding round of £180,000, led by Tan, for the platform which aims to give sellers and buyers ..."
     publishedDateTime: 2022-04-29T10:47:00Z

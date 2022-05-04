@@ -24,50 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Meta building AI that processes speech & text as humans do"
-    excerpt: "New Delhi: Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with ..."
-    publishedDateTime: 2022-05-02T09:30:00Z
-    webUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do"
-    ampWebUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
-    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
+  - title: "Meta wants to improve its AI by studying human brains"
+    excerpt: "“Within the past decade, there has been tremendous progress in AI on a wide variety of tasks from object recognition to automatic translation. But when it comes to tasks which are perhaps not super well defined or need to integrate a lot of ..."
+    publishedDateTime: 2022-05-03T23:00:00Z
+    webUrl: "https://www.popsci.com/technology/meta-ai-language-models/"
+    ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 59
+      name: Popular Science
+      domain: popsci.com
+    quality: 61
     images:
-      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Meta-building-AI-that-processes-speech-text-as-humans-do-831x450.jpg"
-        width: 831
-        height: 450
+      - url: "https://www.popsci.com/uploads/2022/05/03/patrick-tomasso-Oaqk7qqNh_c-unsplash-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Meta Announces Research To Create Human-Level AI"
-    excerpt: "Facebook parent Meta announced they are launching a long-term research project to build a next-generation AI that can learn and process speech and text in the same way the human brain does. Meta described an effort to create a human-level AI. Meta is ..."
-    publishedDateTime: 2022-04-29T09:17:00Z
-    webUrl: "https://www.searchenginejournal.com/human-level-ai/448006/"
+  - title: "Ways AI Improves Online Learning Process"
+    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
+    publishedDateTime: 2022-04-29T13:35:00Z
+    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
     type: article
     provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
-    quality: 39
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/human-level-ai-626b9fb53ed3b-sej.jpg"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "Meta Building Artificial Intelligence That Processes Speech & Text Just Like Humans Do"
-    excerpt: "Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with neuroimaging ..."
-    publishedDateTime: 2022-05-02T12:21:00Z
-    webUrl: "https://www.techshout.com/meta-building-artificial-intelligence-that-processes-speech-text-just-like-humans-do/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 33
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/11/meta-logo.jpg"
-        width: 690
-        height: 548
-        isCached: true
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 17
 
 secured: "HCXV0lKn6Rf55q400jDSaqDc/SLVsF/wXTHf18zs2KkXWQFy2ydwjET5JFEBc0PXUXJ5RCVKdGmi6NmxvfHvJIWYrG32HWtKhiwObLVJ9VRvpUUJMu5jXKU9AECqIkf7QQrpGFPKg3/I8EBqdg0MWDrRnBcoTf3Y3W2dXlDy6Dposj42e6KYDbwN32k315Py+Q/f94qChqc/5fVqHjFlOdSLNhHTiNmq2OYF3cK3yGJrOlf4ioXKkTytP7hsLWJqBdZnVth79kf/lra2WJDUEWug3a8PAuJZFDxvqgRffFnRXk2gvOda3RhWgWXi1vmympBWJPD1uNJP/h33hL9PesTL/pDQ9cwC2MjPUlQ9MCE=;L/OIdpxJCFOdrMHVDxoYxQ=="
 ---
