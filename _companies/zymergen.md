@@ -2,7 +2,7 @@
 name: "Zymergen"
 overview: "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible."
 type: "profile"
-heat: 50
+heat: 31
 
 website: https://www.zymergen.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=658kvYgrJBE"
 
-secured: "a72WxAEdTOlDCQgauMfu98QRVIIK2GaNS3T8fwLpCXo7WnVbjHlqtqhFtb6O5ltdBAi41QMC8NsmuuQTaoJQX753tWp9H1uHs94piSLzLvG9Ysa+4aatxMwwcYVQBX4YfA5FlXIrT+p0x2+tuUxPot6TJoeHdkPgh3Qfdqa7DwjnoBGfNquNo5q9YyVY6pLwCmSrFkQhYeQUgYXD1r93HmM7f5T298AXCmeoRGRMjauUVlkyThI5WBNREet21ie/RbrC0sDMB7POXbhKgcX35C/zIvGy7+NEz1tuvPDysDIF4e4iwGpHspVjs0Tao5/4UyCHrrpgejheWxAihjgdAwHxP9YHqpqF1e53ulYsktzq1r11lk9UuOLev/CcMwQBhEWYR1iQFSbl1Ec2SFevKlemNIfDeYLA2K3jhD0RGnA=;jJEtR7RmX2GQnw589IXXsQ=="
+secured: "8bH3MKj4Q25QIGfrDIA593vQQSrxUOBfmXsCWnuGXTGmWsjnpfPrIWfjNLfSSPvOEtliGmZVF1X5doJPMkQvaop2iI1X0q3mLmV7tYfATb/PkY8WurXyESCB7KF+hlZU5T7gg0jiJQIrZ7E3JvbnEu1DgfyU7mx3nQpJU3R7mqHnHiAybM91/uKO56rbdCF6tK3wp89JAc8ZHA1asPBvB+7xsY4DgPjhNQ3ckHVuxVKQXTILFxHiIHegYnGwsvbOOh8Iv10KsH+/t9KNfg7Dj0so4IUk2J92K4W8L8kZGK0UtXSfQbJBcIs0CjTD72cZLpcqMZado1xMaMfslgCjgl5V3GdAKswgA26W4JoZejh7xGOnGF4IDbqvh5oP4kdYT3JQaverPLwPtnhi/SKzNLtt8lIfLfB0zr59jW1QZkM=;/5SK8aLrb4bhW7k8QFhbyA=="
 ---
 

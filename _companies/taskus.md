@@ -2,7 +2,7 @@
 name: "TaskUs"
 overview: "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology."
 type: "profile"
-heat: 32
+heat: 83
 
 website: https://www.taskus.com/
 
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=W1V6Id1VrqU"
 
-secured: "t2oZaemt0dujaGdRRp+8537//lvyYLVSIGc12uamrPvIv7e8ot/aik3RQSLQ9AFl6YTIvkvGmio7qIkBTzIz+W2gpJhLHqhePDGckKF/cky0hqnyyPSyM796PRJdEveEQ4+WoSdFwf3y1WpSbuZV1u20X98KKzwo7Ciw7V8Q76CAOoonvWk1Za2NIarpcS6wBCHT3bc8jKpDejdftVWC/Ku0RGXwode7dlYKm5fSn8WnejJ6lcR3ar8VJXzlCKnmlgj1FrCUo9bZ14KOkfExINdR+PXK2//PVcjuVt4Y8wt0zoAeIUOI0/9JFjfMpuHqcqnBu/xEPByiPGjPlvdavcc++IGg4Qw1lPQAOu88tJ2oKKJ7e/UGfAa5K3XM7Gw/zQAtPMZAbpa1bV/xbXSgLYYkQbqy+66x0pehmEtz55U=;riJsuxQB2k1sG+netiSNUQ=="
+secured: "Ik56fCS/PQZ8ixeyseUB3Y2E6TsUKnm10VmtJK6JbjraThEqoFeax6zgyfezMa499FbqoczJIx0ctGCLtR9MxZwNgUE+rvXiEM1EYSO9KlhFNNCElwrq/r0VJYMCwuQbO9wamIhhK7RJE0JRr37JigxGhwBRZ3zxsFbKA/8wka2KTnn1b+/0+A1TrUTYqlW+ffYWEuLSSdeogTyox1+d4Oa+dudfMKQpZ6C81px/ygIgyBhtXw4O7VuRGXIeO/NvrGSPyWDe6tggdnsBGtm8HXOq7sj5RqwXE35xjHfFD1NiHVMzvBqCN5C3B+9DQXO8Vfpk7gs91yZwFhHZ+WCVBpsmq754KBh1BgsM5+NFDYZ2/sDyKVqpxgoWSPHn2LmCZBP4coZcmLenxuc9BP35o8kghiBTR9+3ICYj3hUJQ8I=;ux4kRhX0P7/vWDxksFdFWQ=="
 ---
 
