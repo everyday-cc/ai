@@ -38,15 +38,6 @@ related:
         width: 1150
         height: 515
         isCached: true
-  - title: "Is AWS SageMaker’s serverless inference worth exploring?"
-    excerpt: "SageMaker, Amazon’s fully managed ML service, aims to help in use cases where traffic patterns are unreliable. The big claim that SageMaker has is that it reduces the total cost of ownership (TCO) involved. When users deploy machine learning models for ..."
-    publishedDateTime: 2022-04-29T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/is-aws-sagemaker/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
 
 secured: "TvZU10kKMVX8dMadYnm5PgNZNsGJCVC9m9X7rnmfccLeZzY5/jCWIF256AJVeC2v3MBzuIhPSvXLIZFWhkB0+C+3QibwhlX8uTd+CFbQxevyBfEKwxrLAdgPKNSCe9jfHKr1sHUsxaqVw4TaFvGO3s/ThZWxNWFYOpo4fuYpBMXXE5ubpyeIZIQqeb3X79ibTWg/LeYvom2DXlvhSInqACy5Rj0rSxlgPOHkWy7KwYV0DtIiJh/yqHwOfUqYQIgiJG8LA7uTwodHcz4FNjbVV1rMZXXz0bhqFHPOTc8YPOKE9rijd+5GqjyEnADLVKdNPcAWZ/J3veUF9wmBPExuP2nJrB26VSCNuhRqhyVIuJ4=;GTXGGrnv34/9nken4emfZg=="
 ---

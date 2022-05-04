@@ -7,8 +7,8 @@ originalUrl: "https://www.scmagazine.com/news/cloud-security/dell-forms-security
 webUrl: "https://www.scmagazine.com/news/cloud-security/dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: SC Media
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS bags victory over Microsoft in fight for $10bn NSA contract"
-    excerpt: "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ..."
-    publishedDateTime: 2022-04-29T12:22:00Z
-    webUrl: "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 86
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8oGbNhHrdUVzT8e8dns8dE-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Get up to speed with Microsoft Azure with over 50 hours of training for $39"
     excerpt: "In addition, there's a complete course dedicated to project-based learning, so you'll get familiar with Azure through real-life architectural and administration problems. Finally, you'll also get an introduction to machine learning with Azure Machine ..."
     publishedDateTime: 2022-05-01T13:25:00Z
@@ -65,6 +51,34 @@ related:
       - url: "https://regmedia.co.uk/2021/05/25/azure.jpg"
         width: 1000
         height: 666
+        isCached: true
+  - title: "Dell Launches New AWS, Azure Multi-Cloud Security Solutions"
+    excerpt: "or in an unimpacted Azure environment. Dell’s new CyberSense for Dell PowerProtect Cyber Recovery for AWS offering allows customers to use adaptive analytics, scan metadata and complete files, as well as implement machine learning and forensic tools to ..."
+    publishedDateTime: 2022-05-02T17:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/dell-launches-new-aws-azure-multi-cloud-security-solutions"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 73
+    images:
+      - url: "https://www.crn.com/resources/0275-150cb8ccdb09-0e58e7a5dff5-1000/aws_oj_story.jpg"
+        width: 599
+        height: 426
+        isCached: true
+  - title: "Dell Technologies World 2022: Dell unveils security offerings for major cloud providers"
+    excerpt: "Dell PowerProtect Cyber Recovery for Microsoft Azure' and 'CyberSense for Dell PowerProtect ... which will be supported with adaptive analytics, machine learning, and forensic tools. CyberSense for Dell PowerProtect Cyber Recovery for AWS is expected ..."
+    publishedDateTime: 2022-05-03T08:56:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/public-cloud/367553/dell-world-2022-security-offerings-for-major-cloud-providers"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 63
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1651532398/itpro/michael_dell_2022_delltechworld.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "For only $39, you can learn all you need to know about Microsoft Azure"
     excerpt: "For those who prefer project-based learning, there’s a whole course devoted to Azure management and architectural issues. Also included is an introduction to Azure Machine Learning, which may be used to automate difficult or repetitive cloud concepts and ..."

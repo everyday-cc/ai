@@ -274,6 +274,20 @@ related:
         width: 600
         height: 429
         isCached: true
+  - title: "Apple staff decry hybrid pilot as driven by fear; Google fires another AI researcher; Zepto, Traceable, Toplyne, and Kaleidofin raise funding"
+    excerpt: "Google has sacked another AI researcher for questioning its science, NYT reports. And investors pour hundreds of millions more into Indian startups"
+    publishedDateTime: 2022-05-04T05:27:00Z
+    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/apple-staff-decry-hybrid-pilot-as-driven-by-fear-google-fires-another-ai-researcher-zepto-traceable-toplyne-and-kaleidofin-raise-funding/75917"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 2
+    images:
+      - url: "https://www.forbesindia.com/media/audio/2022/May/forbesindiatechbriefingpodcast_800x600_logo.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "/9jZJXg+aBv85qDeKImzOzzqlSVUK2gd0jsmnI3cZyvplg6qLJVZd4GaCZD+j2PXVp9p9Jr0CljvlGZF3lGuo1bACLUxAyFIZLjY4aap8/pDvSQKQ5ZI7lUa/FF+kfT1kPteJdVyfAtTSDeM97EA91tV0LL2SbWbbthWQio+2xQL8pL7/fVV5CKT/JLNhTP9O8XHxff3CXe9Tm97NxegsGQb4rMtouMTYsmbeCjmwX1TnMGjww8/aBGUtcuTOCzIWfFXq59w7LRW9VYl8nu2kz4256V/cXcsSx+2hVspPgUSsA8e68NAAJi418XmlcGwZorJh75yAYCMjwVHRwIHzYgiPHxG/UdPETe7euhbacI=;7VNN8SLt8yTX+NtMSfibiQ=="
 ---

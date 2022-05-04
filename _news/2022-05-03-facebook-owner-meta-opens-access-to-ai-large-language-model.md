@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -28,7 +28,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
         width: 1200

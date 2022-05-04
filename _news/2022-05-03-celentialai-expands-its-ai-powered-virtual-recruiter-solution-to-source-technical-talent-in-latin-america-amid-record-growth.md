@@ -24,15 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Shifting Expectations of AI Potential in Care Delivery"
-    excerpt: "While AI implementation has grown and will continue to do so, the most notable shift is in organizations’ expectations of AI from transformational to incremental change. From the NEJM Catalyst event AI and Machine Learning for Health Care Delivery ..."
-    publishedDateTime: 2022-04-29T13:02:00Z
-    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0137"
-    type: article
-    provider:
-      name: The New England Journal of Medicine
-      domain: nejm.org
-    quality: 17
   - title: "Pokemon GO Former Chief Scientist & 6waves Co-founder Join AnChain.AI In Leading the $17 Billion Web3 Revolution"
     excerpt: "At his first startup, he architected a graphics engine that, through acquisition, powered Google Earth. His consulting firm advised on emerging visual computing, computer vision, and AI technologies at some of the largest tech companies in the world ..."
     publishedDateTime: 2022-05-03T13:13:00Z

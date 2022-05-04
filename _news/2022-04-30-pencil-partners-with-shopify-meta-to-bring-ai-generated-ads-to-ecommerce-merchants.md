@@ -24,22 +24,6 @@ images:
     height: 324
     isCached: true
 
-related:
-  - title: "Pencil partners with Shopify & Meta to bring AI-generated ads to ecommerce merchants"
-    excerpt: "Creative AI company Pencil has partnered with the No. 1 ecommerce platform for businesses Shopify to provide their merchants with the latest innovation in online advertising for ecommerce, AI-generated ads. Rather than spending hours in video editing ..."
-    publishedDateTime: 2022-04-29T12:05:00Z
-    webUrl: "https://apnews.com/press-release/NewsDirectCorporation/technology-business-5cb7ec915436edb3fd76562161cbbc85"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "AXJ+XNlYiu7CwkjDkH6VWPDKUkivGFFdaQG/3BSEGlHcNgNNesFIGV61fqflAZ0bcE1KMwx6PSxjv62KKj0m5mLYwg1sFmXdWmLji8EaFlXn0Hn9+IjObnRvjMTlDgwmSyMpO3lZ2lG227tG1288jv2qjDGv+No7QqB0Wq9U8MQYskl/agKm98Xz0n0am/R122QnJUBkl9CIhUcP3xKCbqLq271RuMlvh6TUWea753eB/pGc0pgvybjkJpc5ULScj8x2bCVgsiowWfI/cB0yL7J+2KjB9JUgyOv8p7myE7tpo3TsD/jfnpJToTRNs3T7E8u9o0krRHiHDlzm2Im8OQKtKlw9fKnNOe2R1SRxxzo=;pbFeS1dBzQqMsmchAZfuTQ=="
 ---
 

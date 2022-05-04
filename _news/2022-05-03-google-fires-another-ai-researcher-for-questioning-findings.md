@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-another-ai-researc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings/"
 type: article
 quality: 89
-heat: 260
+heat: 270
 published: true
 
 provider:
@@ -277,6 +277,20 @@ related:
       - url: "https://cdn.redmondpie.com/wp-content/uploads/2019/03/apple-watch-ecg-02.jpg"
         width: 600
         height: 429
+        isCached: true
+  - title: "Apple staff decry hybrid pilot as driven by fear; Google fires another AI researcher; Zepto, Traceable, Toplyne, and Kaleidofin raise funding"
+    excerpt: "Google has sacked another AI researcher for questioning its science, NYT reports. And investors pour hundreds of millions more into Indian startups"
+    publishedDateTime: 2022-05-04T05:27:00Z
+    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/apple-staff-decry-hybrid-pilot-as-driven-by-fear-google-fires-another-ai-researcher-zepto-traceable-toplyne-and-kaleidofin-raise-funding/75917"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 2
+    images:
+      - url: "https://www.forbesindia.com/media/audio/2022/May/forbesindiatechbriefingpodcast_800x600_logo.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "R4qFhDs67ukmfWslw0e98BpNHAHntgv0rl+WKf/UX/9z3giH8Tg+9Tsw7npQIMryWKCyRYHeXyrsQQqU+VbFm5mex4Fw6gfkZJ2GNqUijWai2d7K6+8hqCfvxOhZfnEv8r/EOb6jCa+CnppOcre+kwGKdvB7xcBBPc3VaoQauomysM/1p5fL29K2vm55JC0SIaqnU+CzU2BRZD9xj6BaSp1TjYcdeIFcubfr/Xmh5GqDse8/F0Hafnj0YB90sXwqQYKEPH0VebR9Z/UObI/qwzzMEzt+GTAQ98e2a7CXJp7I6z1LMJLhqWgCnWaBOeE43GizVqCp3WpBUCq8SfGhE7/dQxcZXpZi5l4nLhh7cn95YCugaZvTg4y1VqiJVQEnpheiugO8bcXs/QcoWwlML+pPCQ5v/wMSJgCqCf372XW8kov+Pr8FPUngi/ZDvv3FwuVmB3eWW8Undbr2ocOw98vEwQ8g2d+sduVBr6NC7GNaq0OvaazNx8CjqooeVuhS9Q9xijXEVaUdTRQqdNBz1Q==;6mAKvzQp9kZTD65MT3NLpQ=="

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Elemeno AI Launches First Phase of Machine Learning Platform to Help Companies Reap the Benefits of AI"
-excerpt: "Elemeno AI, a cloud-based machine learning company, today announces the launch of its machine learning operations (ML-Ops) platform to help companies leverage the benefits of artificial intelligence (AI). It offers intuitive user experience (UX ..."
-publishedDateTime: 2022-05-03T12:02:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-3-elemeno-ai-launches-first-phase-of-machine-learning-platform-to-help-companies-reap-the-benefits-of-ai"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-3-elemeno-ai-launches-first-phase-of-machine-learning-platform-to-help-companies-reap-the-benefits-of-ai"
+excerpt: "The ready-to-use, highly scalable software infrastructure helps companies accelerate their time-to-market and improve the quality of their machine learning (ML) models Elemeno AI, a cloud-based machine learning company, today announces the launch of its ..."
+publishedDateTime: 2022-05-03T12:00:00Z
+originalUrl: "https://www.digitaljournal.com/pr/elemeno-ai-launches-first-phase-of-machine-learning-platform-to-help-companies-reap-the-benefits-of-ai"
+webUrl: "https://www.digitaljournal.com/pr/elemeno-ai-launches-first-phase-of-machine-learning-platform-to-help-companies-reap-the-benefits-of-ai"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "goVo23jmy1chYR8OxkQtT8Weg6id7AsEna/iMlF3IUBWMCWN38bzWJQN45k3t1Kgh7U3zoSeK/HI6scV1LvdtubQLBdue4Yk9DK5omia0hmPBgMoAGNFhoiTqSEHzCaHsNNadEae//0CCBaHfn/BWnef6qSDrWsWfRjM+DRMk3G44R4J9EKtoDrtZkm10yJACHFRBMwpIkncjZ3kiM5ardq6N1n0b2YXis+ahprwtYLLrV6SHxtg7j62D/CIqt5ozWQU8GJbMBWRrsan4AG5kPsm+LXVjDIZ04q5RmSOc+LulLBpqxB1AEqqmYVYR1GDVIgKGsrwpELqHwmw3+tBgaZesU5mXWKtrNYkUq4EbTI=;K3DsT38Y+UCd06X86YltjA=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "2/IPH7S6t1eLEOyW746/sam+bpIaDOW1/Z/L5WO0sCON3oAekDK8Z7Ea2NdqAx1tFoV15eWMaEfRXGDFRGfBHQHizmpHF0Sr6r+v1a0/ZUGdCqjJRCjwd4bHX5PfKeK0eqeX7aSvs32je5KIGbuFIspdN5gWWComvgL/8BaZZssYi6x5yiIJjD7VeP1eNZnkFSLiB+P6+Cn7ZInJlafhtiU7cpR3gGC/XcRiek8YkC3jhb2avq69jOPkqoWLgxyFKzTHnxJujA9QtVczxMTXMyqzBZnWd7ifomxZjLV0EZqbV4p4PfQQr3j4V/0Vdzd5CrrJ2jKTIidJ02b34OPytO8PcC4gtvRYBndgyBQFIWA=;n7eHyKDs2UkZDr/OsLW5FA=="
 ---
 

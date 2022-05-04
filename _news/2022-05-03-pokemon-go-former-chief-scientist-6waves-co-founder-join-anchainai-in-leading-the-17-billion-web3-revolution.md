@@ -35,15 +35,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
-  - title: "Shifting Expectations of AI Potential in Care Delivery"
-    excerpt: "While AI implementation has grown and will continue to do so, the most notable shift is in organizations’ expectations of AI from transformational to incremental change. From the NEJM Catalyst event AI and Machine Learning for Health Care Delivery ..."
-    publishedDateTime: 2022-04-29T13:02:00Z
-    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0137"
-    type: article
-    provider:
-      name: The New England Journal of Medicine
-      domain: nejm.org
-    quality: 17
 
 secured: "zcoUqAZ2wrjUqLyQsNkL6z3eB6QrR98I4cks0NH5wt4VFjU5dIgrg+jULiuc2aekeeAXzgAXQulSG7C2KYEdO8LWeloy4KTr+GYAEkqvATFMVgFXrstnNIE0tLwceykfyTXJa9K6ituhPsvo36nmNfMHCL0cWRA0bHjEC58Tqr6z1+mCU8v+wI+zaTjxoBL7pwW49CZWzVcJAz+UV8oyKHABmW7kizsviRjJ3vvPS6/sw+0LzqMHJETbkob0eHuZVRX7m6ij9dIsG3R8kabSwts+rLlhjqHWXqp+sPayFksV+PKo6U5TGu7P6K6mUAdWC2NfNC1Ls+EGtyTj1bm9pxYccyPHaYnBKKZd8qsamnI=;f+FCBBe0fX5qXoQsufO1YQ=="
 ---

@@ -6,9 +6,9 @@ publishedDateTime: 2022-05-03T21:22:00Z
 originalUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
 webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 69
+heat: 99
+published: true
 
 provider:
   name: Reuters
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
@@ -70,6 +71,6 @@ related:
         height: 316
         isCached: true
 
-secured: "k67QHwTjiAiFLP9i6MOTtGdjKu5qhMygeVo6OASLr3004isuMjJhPMOlegoM44faBb+gvoeU5rBNVbV/+b20OYOA3n2zPU0EpHyCWdsQtxwRVz9VMWnLweLvcISmxv2/eUFkkcJTyJJzOI69ZaITDsHwQRj1NoI+3T+4uGT7wix8IpYjM/yTRhnHzXJ2wA04zy5O2c60f3eePcyCm9lRkHNfrWSTf/PgcsvFIela74dOZKp4zsEA0mtiiz4GOMLrIcT9IHl+AAMyZr21W57tFfaDjzta3HZe0/qM6Hfn4Rwjmgj9Dol40SNvnUi2e5HyKQWkSIi5hXV6IsEKtaPk9lF83C6c6eP5FgQy5kGV228=;7bgq6b7vzbcKEr2nu/XTHg=="
+secured: "FczAb7dMN+cjBHeVzDCJA7in0qBx9L02YtusGjJ9qtU3bRKI3OjiDMkt0+uGmJrXgOjPFtqP+0NlUuG4CaI2l62vY3tiKoLDVgqb3na4BgH56JmS/TAs340mEK47vGqLQEjxZ9mEVfqqCJPuGkzT2RTQq6jDxiFW7J5S8l9ueavmhDffWNgurn3UbLZN3dhJ9m6NCmnXgDCkAhhm5JH/u5/AlryyoEDofzj3lQWN55uYZt/E9e72uOutlrfMZfzIgUVSYxvtRg5IK3yCp5Ao8R3lwvKw56Q7gHfwqv2rKdmvCRWASLAf81vu2H1j20I4Xk7Jn4yQXOlQDpBUtUdqPnFSpVkcvPn0MGXcQi3XTuFAieW6iyhS+DWOnFDjI77te4Tq4rEM3qcN1+9JnfnkaHuA6DYQiaVqcTqafJU2jVu50fcnqd2Ueod3QvnAzNURirRYmSohglh4qjVrHXjf9HgYEzqezQXE9g7xlopyrlsbwUkkHOr3CcZP4XsF8Uds8EIZo7/dJnFlBSH0o3VHCw==;YJiT39/aQDjcXuH5P8yXAw=="
 ---
 

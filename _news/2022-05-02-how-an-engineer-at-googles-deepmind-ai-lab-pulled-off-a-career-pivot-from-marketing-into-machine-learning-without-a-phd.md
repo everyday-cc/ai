@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-this-engineer-
 webUrl: "https://markets.businessinsider.com/news/stocks/how-this-engineer-pulled-off-a-career-pivot-from-marketing-into-ai-2022-4"
 type: article
 quality: 92
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Meet Flamingo, Deepmind's latest open-ended AI"
-    excerpt: "Google's Deepmind has published a paper proposing a family of machine learning models with the aim of doing more work with far less costly and time-consuming training. The upside of that is, the tech giant claims, massive cost savings as training is ..."
-    publishedDateTime: 2022-04-29T11:32:00Z
-    webUrl: "https://www.theregister.com/2022/04/29/flamingo_deepmind_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/flamingo_deepmind_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 74
-    images:
-      - url: "https://regmedia.co.uk/2022/04/29/shutterstock_flamingo2.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "+ImVxelrh3FhsBozt6tKFuJHMkwfze1AKJqICte46FCHw/xUyp78Q2NY8dKRbW+vH/Xt91S5arq7QeakTrQywzzP9sz07tVn3Z09SdSzel7tfWZeMUryhQkbffEK/OnV9yoWzHVN6CXN5iqQpQZUOBSlqEVTji+Nd7u37M650Mfxz/a5Tips/er5rE6ca/sH79ZyDxSezqLxy38cP+jOpm68zmdHc0VlEh31CpLL2W4y+u8FWsqpsP7HBnOKZ7BCMmFAauuRAb9OaaboIisAepIkHt6GFeygcR48cvKoO6xYWnoBUaZI1zK2nbtcD6a2ZhixFIymZiBluCjcKAqZQGN0/p1JBLxcTQ8lFRygGkr+tN9RZZ279SzNeE5eNWr87cq1eKpDhmHB5xEQGkA2GNlPLoW4it/mC7xfh1xWf1gfd4oYkjXgNWYoqvUK5q4/zTZzh3Qkq+dyrB3Yr5gR7iiy/pme6JDOnM5A0ntQCUaAPqE49HV0U94AhGmv8WjuWmb8gX3pwSVO2lVvW9RFFA==;tEhYKEiJ8zvoiobSQ/l9FQ=="
 ---

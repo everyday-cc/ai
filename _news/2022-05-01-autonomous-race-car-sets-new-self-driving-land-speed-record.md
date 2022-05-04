@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/autonomous-land-speed-record/?amp=tr
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/autonomous-land-speed-record/?amp=true"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -150,15 +150,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Ford-backed Cavnue plans dedicated lane for self-driving cars on Michigan's I-94"
-    excerpt: "A startup by the name of Cavnue is working with the Michigan Department of Transport to build a lane dedicated to self-driving cars along a 25-mile stretch of I-94. Washington, D.C.-based Cavnue, which raised $130 million in its most recent round of ..."
-    publishedDateTime: 2022-04-29T12:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1135720_ford-backed-cavnue-plans-dedicated-lane-for-self-driving-cars-on-michigan-s-i-94"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 0
 
 secured: "Pt4N0xhOL5eGTWWXOCQWM4vvVB/MTFyEne5hdNaqQxHmTCQrIkl6FE8r60B1Ry+Jb7DmwGIczCeO8iCJlxlitYACsJvDdWIaLmALjOWnJCiCOV00+AwWZtTf36oMrlb0kbhCUiXT1DdqE9v8xHDuqMPCOB4Ct3OBqqnA7uKMmYRTbS1sxo1wvSW5JxdeuFDx2wBYA7NvgilQ60YL9nu3OgzHWUZgiOK1rb36udJ1JW4f0zYKxs9yi9NStnB1NsE1+eYlxbL+wDOrDcFu2F8Ydni2gGuoJVeD8qg9qzHx27OX05e2Ye+uaFI0pyFjtdn9zjOU6Qa0f23r0aQEuleIq4ZEpyVZz+EDubSKo24UO0Ojmy/4oHBdKQXD6sEQaIvK9+HNHyuCYPU8dDUFygqLWafnMyBVU9cM/52lOaXQf/xLTP+hYDaDVGP0Ww97xOUy8cGfEcaeHWSznOx8XrBj7SJvX/wRtfqYY9lfR/IaTjJo/YRslX2KI4WZLIpsKv6wja8ouCCgwm9XZfwF7yTq3Q==;VSO0uLNg+Tc47UCFVvsMdQ=="
 ---

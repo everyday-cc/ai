@@ -75,15 +75,6 @@ related:
         width: 1800
         height: 1011
         isCached: true
-  - title: "Fintech firm Propflo closes pre-seed funding"
-    excerpt: "The business has a strong advisory team including the chief executive of Yopa and ex-Purplebricks managing director Verona Frankish, and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage ..."
-    publishedDateTime: 2022-04-29T13:00:00Z
-    webUrl: "https://www.mortgagefinancegazette.com/fintech/fintech-firm-propflo-closes-pre-seed-funding-29-04-2022/"
-    type: article
-    provider:
-      name: Mortgage Finance Gazette
-      domain: mortgagefinancegazette.com
-    quality: 4
 
 secured: "3y8OiRPtretvpteCqDNCAIlzHWdbs7Xmmhv3Xv1f4w2gee6c4JY7pAITbXr4ttzLSSwog9ZrdPf/fN7US/cITntTOLkc9h/rfEmgtunbQhCGcc7dX7YKbHtDAF6DbBD3WzVkCNhlsEqZlj0SP6XInm7rcgd9gBpCQ/OwJs3oz95syH2IOcw6o0SyLZa68BZb5+PjIOE03IWGOHV9gsTDFT8OVrhqb7P5TOrF+OrasZmZqDf4dd+515lH0DeoLwbKHZQKr7aKF6OzKpguDszaRz7xIwOyUxK1ftuTWq5G14lNfS49B+ztSwHt59FOnzxdfjDN5gKVxwZ5h5aZjJlYBWh3AtHsbTNNCwNzXOHV2Q20+Z8WamXWltqB9xCU+XdfYM5cNY6fP/GTd172F6KWVQOXupI7YloFlTLO7Gg+L669v4TQKxEqge2bWPDt9CCZbjlv0eU662ZNMZNYHGHH5xhuWZ+aAYYRqSmF3GcPY6BQjJHk4r5aDPKXtd7Grif0mSXjqOHPzo1HZHlDKqNlLA==;BoD9Y0IYyLQKOCo/qgJFSw=="
 ---

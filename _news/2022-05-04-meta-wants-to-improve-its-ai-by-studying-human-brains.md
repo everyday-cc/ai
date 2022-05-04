@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
 type: article
 quality: 61
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ways AI Improves Online Learning Process"
-    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
-    publishedDateTime: 2022-04-29T13:35:00Z
-    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 17
 
 secured: "L/F1dYVfYm38sFsjgSYrtJlXniQSAUBafh3cjNVPvQarwIS7q18rO1ogGMRTcQbYkyn3Lsp44+lkAVE5PlYLbes1+qyyW6M5N4mJC99ZxylgN/Zl59uCYtzuKjLxg+YyVRU4pRs20eQ9HDJWnj4Ezys/9ZOH29AOy22FNmhtKUkepvXqrwC2j9V8b8DPMoet5ELcBApAArkAlDGQRDMFjj4/apTqywdgBmngQ8fTf95gP82w4lOl/OoiHar8ZS2ZuegbhvScmx6Z8v0ehzycSQMcaquQbrySPzrU1If8N8LqbbEFrwK71gc52yiuwAQzz3xwRiyXZPx/Ax/5cWaon3NFGMrE1DNX7QmNlZtWWQEe9G57R48ss3MFjZHImyduqV+DZk2aGj1it4drmSr1MRXwem6xM+GHfy/clArcpkz61O/SEYSRVK4r9zxMQaCkWyriNj9zFvpvyxw2+dlC8bWZ3BgGtNsUPZiUwVrNTMj0xJoq3QaDUolG2acfjKKRvVrWA/Q4KKCAHvOeeXqShg==;FKl2q2ZTTiELZrgSA1ziRg=="
 ---

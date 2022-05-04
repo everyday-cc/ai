@@ -18,36 +18,45 @@ topics:
   - AI
 
 related:
-  - title: "Meta wants to improve its AI by studying human brains"
-    excerpt: "“Within the past decade, there has been tremendous progress in AI on a wide variety of tasks from object recognition to automatic translation. But when it comes to tasks which are perhaps not super well defined or need to integrate a lot of ..."
-    publishedDateTime: 2022-05-03T23:00:00Z
-    webUrl: "https://www.popsci.com/technology/meta-ai-language-models/"
-    ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
+  - title: "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events"
+    excerpt: "BigBear.ai executives slated to address conferences across the world, emphasizing the importance of emerging AI/ML technologies and responsible deployment BigBear.ai BBAI, a leader in AI-powered analytics and cyber engineering solutions, announced company ..."
+    publishedDateTime: 2022-05-03T20:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/b26976772/bigbear-ai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-indu"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26976772"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26976772"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 61
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 72
     images:
-      - url: "https://www.popsci.com/uploads/2022/05/03/patrick-tomasso-Oaqk7qqNh_c-unsplash-scaled.jpg?auto=webp"
-        width: 2560
-        height: 1707
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Meta is studying the human brain to improve artificial intelligence"
-    excerpt: "CNET reports Meta is embarking on a long-term research effort in an attempt to compare the ways humans learn language with how AI processes information. Get up-to-the-minute news sent straight to your device."
-    publishedDateTime: 2022-04-29T17:30:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/meta-is-studying-the-human-brain-to-improve-artificial-intelligence/video_c50116b7-000d-5654-861a-a22311371ede.html"
+  - title: "O’Reilly Announces Remaining 2022 Radar Event Schedule Including Cloud, AI, and Security Sessions"
+    excerpt: "O’Reilly, the premier source for insight-driven learning on technology and business, today announced its 2022 schedule of Radar events including sessions on cloud, AI, and security-focused topics. O’Reilly Radar events explore the most pressing issues ..."
+    publishedDateTime: 2022-05-02T13:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-14b0f0271a65478195647a310810c10f"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 52
+      name: Associated Press
+      domain: apnews.com
+    quality: 41
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/50/c50116b7-000d-5654-861a-a22311371ede/626c12b018674.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Machinex’s Jonathan Ménard Sees AI as a Gamechanger in Waste and Recycling"
+    excerpt: "“Leading on to participating in startup and performance tests of new facilities ... The upcoming, industry technology that has Menard excited is the almost infinite power AI will have on sorting processes. “AI is a powerful tool to extract, archive ..."
+    publishedDateTime: 2022-05-03T13:16:00Z
+    webUrl: "https://www.waste360.com/recycling/machinexs-jonathan-mnard-sees-ai-gamechanger-waste-and-recycling"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 15
 
 secured: "XH+HcR1SSNbv1V18Oh+HBt1430nGCSJqW+Q/4u4lG3TmD7rQdOINYptRAcZ/H3bXKAbWtlw8wcn1qfKTTb8VC87/10bUHYOmzT7z9+oZm/NXZ/yUpa3ZcjpHwYX3i544FOjlrvSy5puIOPcHUzLyXuMoyFp2uwG1TsKtLTFICtntdcuKB1vfmTGVAgHFEq5zD3LVK5QGC4TVTH+kCrSofMda33sZzRVTjfjPgI/zYwGwO9a4YvT//X451rYxgjjbsnqv08OizT4/PkDn9IxjDtBNoyCiSl814RiI1JoR/pEvms22oAtaRRAfSFVpOjVBY5xeNWyjioCur6UGb0eYmfilh+soJ8F/6IT3EQH9hS6ON2t9pgTmevh0IbYQXfVcq39PxxewfcTXpg+ABNdrzuHPefeGR2WI370RWP97PCQvAaG8Vr35hsg7rB5EpMumf1988TB7+wgns1QlvjU+e+REWPNlLQwReLB3jmu4XQrcU+I+yJ9Z99M2SbJIwPmFJW0L9NomlvFQuCoQ7QOUDA==;sNoKqrh3PWgJQxfbMq9P3A=="
 ---

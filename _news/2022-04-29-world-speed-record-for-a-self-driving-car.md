@@ -146,15 +146,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Ford-backed Cavnue plans dedicated lane for self-driving cars on Michigan's I-94"
-    excerpt: "A startup by the name of Cavnue is working with the Michigan Department of Transport to build a lane dedicated to self-driving cars along a 25-mile stretch of I-94. Washington, D.C.-based Cavnue, which raised $130 million in its most recent round of ..."
-    publishedDateTime: 2022-04-29T12:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1135720_ford-backed-cavnue-plans-dedicated-lane-for-self-driving-cars-on-michigan-s-i-94"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 0
 
 secured: "wrutUrZcUUuEF9FtUXMwVtQasWzm7osBtOPglfiz2CMA2HZY3j8lAAD6GBiHMX5BebxZ6pl5LbAkTsofxcQ/LX+li0vGn/ehRRS/twgYSNGo1Vdrpd4v/A3QUPt04iDVoyqxvAs/da7Hkdkg49k5cdXMnHPxGGPDMLuyGAOeYadjgAuOrAveVWA106C1N5vTYkJj9EhAC7qQP1qwvReKS5gwEGpNzZpqYIHJQIGX3EfXZusVncvFGCjVthnxDkl7ojfMU76AqWUYaSI1DIoWOU+g5JZ8FQCKXIgvnP3Yktfgaptpp9f7O4EHvgRSLQeHbocv45dzj7UW4UxuFoMoGHWxJvI7/T1MBQfYPsxPqJyg/UjUa8uWMgbMj7T4qC5peY6439QluACv978ZrMYZrktxm5Yjxj4qr+yx91fhHYo+DSF5IR1FMCTFQNo0ch5ClS13IVAbWxgXyyw+i/5arOcN9SKA2R+1yQ1/GMwZ9nP+gncS2hzEYRE+ZEQd80vqTG5I33IGqyGJf/Y2W4rIKw==;aMlmf42yn+zhuZb8F1hkyA=="
 ---
