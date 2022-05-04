@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62715c96e2864518f941d642/0x0.jpg?format=jpg&width=1200"
@@ -78,6 +79,6 @@ related:
         height: 400
         isCached: true
 
-secured: "minCU7v70rIrvEOqlN1duc9uKfyid/uH26I5aiJyHoYgcoInNZRfoFRGLxAeOjif6u7YOpWGhbuMMsWnzHrHIY8lJt+NcLofBgJ0yEWoWi+tPDmyFOkwkGfWklwH9rjtO4eTbxNzYiwlnWiQaDIfDrOhWtRWevDZHBLVifej6+tR1/YzK7D1xqkazuQJr5jIWdCFJeG9wwVMLfBfFVjplnf9F7lzBRoPBtAjyssTTDqW97+SKtyt2C+KYon8R/VhVaaolg3mAXhYRLM+NLR/v6ArG4h1VZRx5QZqZpWRosZS3SVR76WTOrbW3ymmxouTifc3Ul0PgfWnlt76Tx4OnTL06vXIyF6bgk7HGjdXtM4=;uCc6WO2pJB/1fh9lKDsifQ=="
+secured: "UUbLlnMzeT/AuUMk37H7bFQY8EYYXBiihO9UFZ8bM29n3Y+TowzsgA4uJtwrtON+NbEj+1T/2ZKSdgXklW/APqOqOYwh3DOQeLikQrCosoc4e/wAD3VvThd5DVjX21ZJO/KdKLKz/3HEbUNVM3rz1s+xQ95zq9dlivNPh2pxwvsNYsA/nFxtvj9KZaDWtT1LQfQc9bBM23Vd3mUmlxNApGVkKmWQqkefekCIbMsITzwEYxR2fv2CQcAttfxTWsXULOHWmE9FRpsx19eqtzaw0D2rkjqxdc+j+oAa8Rm8aU9Hr0gmC+cq9woM6e5nPiUXImRIQ8gXuiGylfWnc0Tq0G0rUdGGRzS/78Ep/1BEc8yMyduxF7q8BF04kETi+e82utJp9UPsMau3UxjT42+nm5fDVV8xH1STI8V90EkL22qtwfpqrkjnD0VD9Wj+3JL3upwvbgD0MXnxaVmKXxjq3yczbgRCBaspprXqsXalTwYmSn9Lek6Wbbik6mf+Thc5GMyCWSt7dw4h0slTarylpQ==;kGZ7ek/+HzoJI24wcf1YpA=="
 ---
 

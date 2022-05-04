@@ -1,72 +1,24 @@
 ---
 category: news
 title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\""
-excerpt: "Pioneering AI Vision with AR Experiences META-aivi is an affordable and easy-to-implement solution that reduces frontline errors by combining the benefits of human dexterity with intelligent machine vision. \"In addition, (META-aivi) can optimize the ..."
-publishedDateTime: 2022-05-04T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/article_f3f28fea-a6a2-5e25-8353-959e2bf6fe83.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/article_f3f28fea-a6a2-5e25-8353-959e2bf6fe83.html"
+excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented ..."
+publishedDateTime: 2022-05-04T14:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi-1031420590"
+webUrl: "https://markets.businessinsider.com/news/stocks/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi-1031420590"
 type: article
-quality: 33
-heat: -1
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e389e90d-ab45-5927-a874-22dec71a4aca/627287c5ee1c5.image.jpg?crop=1085%2C570%2C0%2C20&resize=1085%2C570&order=crop%2Cresize"
-    width: 1085
-    height: 570
-    isCached: true
-
-related:
-  - title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
-    excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
-    publishedDateTime: 2022-05-02T12:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-97abe10ac884456eb71ab9f17222cf17"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
-    excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
-    publishedDateTime: 2022-05-03T12:04:00Z
-    webUrl: "https://www.retaildive.com/press-release/20220502-cognira-to-provide-artificial-intelligence-promotion-solution-to-cub/"
-    type: article
-    provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 37
-    images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1651536759/press_release/assets/header_images/Press_Release_Cover_Image_Approved_1_qd5jrm.png"
-        width: 1500
-        height: 700
-        isCached: true
-  - title: "Motion Gestures using AI to enhance camera-based gesture recognition technology"
-    excerpt: "Chris Paine, Motion Gestures' global director of business development, said the founders have backgrounds in utilizing AI and ML in natural language understanding ... It wants to embed its software in semiconductor chips and/or integrate with optical ..."
-    publishedDateTime: 2022-05-03T06:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220503vl202_files/5_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-
-secured: "d3A70vb6HdaVJrrBRy63CZ6s8fDg/75aKXLRzsSTx4ifjd0rET4f0if3Z/Ep2BNMJ3qYK+SsydO6MBqcUYwNCLEvNJCE2hTxd0H+cNCl8EtKwPSgtjkf9n06ffT80m0Zgem6fj2zo8CdWb22UCCMjaHT++MP7zWyQPPCbEyAm3skDo+yaoG7QjCOXzxlt6wrBPFuaqO5wvjPhf/aOAnPwjktBYUJZjNlPyt3xvgnAM4Wd3KC2b8QaFKK3gd7hM7AnQoIokL2ELr3uZjpBQz7whv6k9o7ockjKZuejbXxcZEObvlxGkQrjsaD9MLuZBRpe9kppWbJyCAuonkDS1gDNwgzxTcihLD8+fGkqJpfaCo=;U7teHz6zTdCVoCCldkLfTA=="
+secured: "6fYkak/ap3kIKveKighDCyeeGemXpZuFbCdDyOUBeRVzpG2lVWxWgmubaSDD4sJBlAK/o8zqjWmrr1JxpPPVWoJgm90cjqAZBxazM9nXCuJGiyNOjY2fOTvv51USq7dVc2W2mjlUf7Ozh4/yA49aCIEPkVVy7rZKXf2NEurWhHjn14aG3bxoibfLEmvFmFLsQuCtqQA/7ac3Gv4/9jqWD/jJyenOOKjpZH66IjCtB65q6CanILxxAX3FbKcZGRlh/WRSZTzXsuKDM0+5LJ5qPnejuGN+KsuK+0dOZsMG0Cfb5QLN1SK7hSsNTTnxwKzQWmxrA7Nr2wUIJbwLYO6gbmuphtFSxWMgcusIefAteGk=;1g7ZNGUKr+YWD5pbN5/8DA=="
 ---
 
