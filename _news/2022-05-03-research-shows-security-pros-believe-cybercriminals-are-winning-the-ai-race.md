@@ -47,6 +47,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI for Cybersecurity Shimmers With Promise, But Challenges Abound"
+    excerpt: "Companies see AI-powered cybersecurity tools and systems as the future, but at present nearly 90% of them say they face significant hurdles in making use of them. Companies are quickly adopting cybersecurity products and systems that incorporate artificial ..."
+    publishedDateTime: 2022-05-04T15:01:00Z
+    webUrl: "https://www.darkreading.com/analytics/ai-cybersecurity-promise-challenges"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb6687ab4f4eb2185/62729421726e3315b16b4089/ArtificialIntelligence-MasPix-Alamy.jpg"
+        width: 6000
+        height: 3750
+        isCached: true
   - title: "W-S startup Salem Cyber, promising ‘a paradigm shift’ in cybersecurity, raises $250K seed round"
     excerpt: "WINSTON-SALEM – The Winston-Salem-based cybersecurity startup Salem Cyber has closed ... Salem Cyber’s product, Salem, is best thought of as an AI cybersecurity analyst, according to the ..."
     publishedDateTime: 2022-05-03T18:31:00Z

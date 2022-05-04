@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/autonomous-land-speed-record/?amp=tr
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/autonomous-land-speed-record/?amp=true"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -152,6 +152,20 @@ related:
     excerpt: "One way to speed the adoption of self-driving vehicles is to give them automated express lanes, where they can zip past regular traffic without having to tangle with human-driven cars. Why it matters: For all the billions companies are spending to develop ..."
     publishedDateTime: 2022-05-04T10:58:00Z
     webUrl: "https://www.axios.com/self-driving-cars-will-need-smarter-roadways-486bf308-cd74-44a2-a182-4057d54abbcd.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/JunsvWGOvXMqXer8PkXH6v-iTbU=/0x0:3840x2160/1366x768/2022/05/03/1651599007793.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Self-driving cars will need smarter roadways"
+    excerpt: "One way to speed the adoption of self-driving vehicles is to give them automated express lanes, where they can zip past regular traffic without having to tangle with human-driven cars. Why it matters: For all the billions companies are spending to develop ..."
+    publishedDateTime: 2022-05-04T17:32:00Z
+    webUrl: "https://www.axios.com/2022/05/04/self-driving-cars-will-need-smarter-roadways"
     type: article
     provider:
       name: Axios

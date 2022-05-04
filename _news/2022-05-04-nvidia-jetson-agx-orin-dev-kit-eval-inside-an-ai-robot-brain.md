@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.hothardware.com/reviews/nvidia-jetson-agx-orin-developme
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit"
 type: article
 quality: 78
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: HotHardware
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Experiencing NVIDIA Jetson AGX Orin: The Fascinating Future Of AI-Empowered Robotics"
+    excerpt: "As you can see, NVIDIA’s Riva AI speech recognition engine has no problem keeping ... Various configurations of Jetson AGX Orin production modules above will start shipping in July, with lower cost Jetson Orin NX modules shipping in September."
+    publishedDateTime: 2022-05-04T16:31:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 112
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62715c96e2864518f941d642/0x0.jpg?format=jpg&width=1200"
+        width: 1130
+        height: 690
+        isCached: true
   - title: "Axiomtek Introduces AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform"
     excerpt: "processor and 384-core NVIDIA Volta architecture GPU, delivering up to 21 TOPS accelerated computing performance for running modern AI workloads. The advanced edge AI computing platform supports high-speed networking capability functions such as the 5G ..."
     publishedDateTime: 2022-05-03T10:51:00Z
@@ -43,6 +59,20 @@ related:
     images:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Axiomtek-Introduces-AIE900-XNX-Fanless-AI-Powered-Box-PC-Using-NVIDIA-Jetson-Edge-AI-Platform-01.jpg"
         width: 700
+        height: 400
+        isCached: true
+  - title: "Axiomtek Unveils AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform for 5G and AIoT Applications"
+    excerpt: "processor and 384-core NVIDIA Volta architecture GPU, delivering up to 21 TOPS accelerated computing performance for running modern AI workloads. The advanced edge AI computing platform supports ..."
+    publishedDateTime: 2022-05-03T04:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform-for-5g-and-aiot-applications-1031410891"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://mma.prnewswire.com/media/1809632/AIE900_XNX__Fanless_Edge_AI_System_NVIDIA__Jetson_Xavier__NX.jpg"
+        width: 400
         height: 400
         isCached: true
 

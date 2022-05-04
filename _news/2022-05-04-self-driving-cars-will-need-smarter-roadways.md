@@ -158,6 +158,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Self-driving cars will need smarter roadways"
+    excerpt: "One way to speed the adoption of self-driving vehicles is to give them automated express lanes, where they can zip past regular traffic without having to tangle with human-driven cars. Why it matters: For all the billions companies are spending to develop ..."
+    publishedDateTime: 2022-05-04T17:32:00Z
+    webUrl: "https://www.axios.com/2022/05/04/self-driving-cars-will-need-smarter-roadways"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/JunsvWGOvXMqXer8PkXH6v-iTbU=/0x0:3840x2160/1366x768/2022/05/03/1651599007793.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "H/18+Dk/6p1r63ihALFIYbBEa0fTkOPEykcICCyA2iSjywFLH07EDSXYHMSLLNpt/en1Ue9UOnqKCBow3nwD1NLa12nAbwDcYyU/3MOgAplffP8nMRjs6CJhEZdzJ5/VTGaMKE0yhHoNGtOLRR3KR1WODs9VnB3idV4Bj6Eooz8phlFHl01WtRWL93nRU+ijnkqjnpflld3GEtrEIAJocANGFeBrBKsVT4JvRsQ6PyH5tV19xWewZytPJwUZrg2iFdOYkCcSh/HLKEZpN8vYBr4RPgcrSPSLgz2aZ07cSRWzmCPBm5aO3KM82XtLhqjK3ZGUH7gmKwn2qXtZTl/wXpFkY3WXikiOd4zVQefbvPg=;m6WQBP8CMOHoPmTLqnoQ0Q=="
 ---

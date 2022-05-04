@@ -40,6 +40,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
+    excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
+    publishedDateTime: 2022-05-03T12:04:00Z
+    webUrl: "https://www.retaildive.com/press-release/20220502-cognira-to-provide-artificial-intelligence-promotion-solution-to-cub/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 37
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1651536759/press_release/assets/header_images/Press_Release_Cover_Image_Approved_1_qd5jrm.png"
+        width: 1500
+        height: 700
+        isCached: true
   - title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\""
     excerpt: "Pioneering AI Vision with AR Experiences META-aivi is an affordable and easy-to-implement solution that reduces frontline errors by combining the benefits of human dexterity with intelligent machine vision. \"In addition, (META-aivi) can optimize the ..."
     publishedDateTime: 2022-05-04T14:00:00Z

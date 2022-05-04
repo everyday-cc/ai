@@ -60,6 +60,22 @@ related:
         width: 1008
         height: 672
         isCached: true
+  - title: "SoundCloud snaps up music AI tech firm to bolster music discovery"
+    excerpt: "SoundCloud believes that the next big thing on its platform relies on AI and machine learning, as the company announced it has acquired Musiio, which will help SoundCloud’s existing music ..."
+    publishedDateTime: 2022-05-04T17:44:00Z
+    webUrl: "https://9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/"
+    ampWebUrl: "https://9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 57
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "SoundCloud acquires AI music company Musiio"
     excerpt: "Co-founded by Hazel Savage, who has previously worked at the likes of Shazam, Pandora and Universal Music, the company claims to have built AI that can “listen” to music at scale. Speaking to MBW in December 2020, Savage explained that Musiio’s ..."
     publishedDateTime: 2022-05-03T15:30:00Z
@@ -112,6 +128,6 @@ related:
       domain: musically.com
     quality: 17
 
-secured: "seoWdFZHrNEe805r/KAfIaLHFxhQSGOkzMJA1eqRTXWyQgnZ7udwd9dDiHYAtDWJPC0FjbfE09enM6cZoNVALoCSI7vMBmLKl7MCRS0oU4fgdtJji9a694jKYjZRrby+x27xR4rnTDBRuMB4P/awAG/bcHdtZ13YH6B8G1UwgXXt2s5HH5S+c+/q94a617NCE1sngr/yz7AsI5h/iLGFsvUBNwHYS8heMvYwRx5itnpvMUunZpsBEliW7FOK/uUJrJQX4o1PPy+lYX/eCGkeB4fQDkNtDOd428mrXU/Y9lTfeCab1kgH53uvM4wHnfwSi1oM/bmko3bu5frW6akU6BtK6bal51ams+hXXTUOjqc=;OKiQ2cqwdpMpCK56ew+FmA=="
+secured: "k6jILK+N7gwoESJC9j+dj1/4d9OoZFiJNfDnqINdwVOgpUkoJCM7KOPSE8/iaCS+lHaxzOzyurbkpK9aKj3Qu2ZGL0wfY/qVJyJafRD9JSma00UBRFsJsh31I4LpcmHlog4m/Iul+ZK0ppS0hvlivN05uOT00Sr3oB1XWyo5AjHLh/OxfA4Sx5V6Afb8Y3AVq/P92CFRzdfIVsPdfcVqqxfh4PHY8keCbfsfIyv2ITB2aTnyQEsTrPacLQ+tt+XKOFI4+MsAAGJOpNFFrpJTJCqkYy0mzBOEmPnXMhq11a366ERO++9dEdLF2QDZNeJc+cDpLtuY0/fzI5xBbUR86JXYfDLEthozEMjF7/71gN+2kdbzYwRnjYCzMDIJUMLWTBytNDOUUvx/1Bu9I9k+0lqfui7fUO0TfxRLTonMLntg/utayFXgyt+Zq4Smi2icC63MPcSN/Rm9Jo2crZEBVdw1ZJ+bX4u/B3UuBHEoK9njAe/hBYESH2xhDY8yerx6kg8DxFHLAK1+4/ur57BwPw==;mcYWEmhW5HicK7yfLeoA0A=="
 ---
 

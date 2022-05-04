@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.cioapplications.com/newstransfer/upload/fdoa450308cioapp.jpg"

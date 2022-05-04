@@ -3,8 +3,8 @@ category: news
 title: "TeamViewer Brings Artificial Intelligence to the Shopfloor"
 excerpt: "May 3, 2022 /PRNewswire/ -- TeamViewer, a leading global provider of remote connectivity and workplace digitalization solutions, today announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer's leading ..."
 publishedDateTime: 2022-05-03T14:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/03/9594602.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/03/9594602.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-teamviewer-brings-artificial-intelligence-the-shopfloor-/2022/05/03/9594602.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-teamviewer-brings-artificial-intelligence-the-shopfloor-/2022/05/03/9594602.htm"
 type: article
 quality: 37
 heat: -1
@@ -67,6 +67,6 @@ related:
         height: 630
         isCached: true
 
-secured: "QfucTQd7OEmSF2AbUy0zNNRGGvGKBNGTyQ4jkPQ+5W1cDtG+dg1Lj6PgReNr0boIXYq/7vtwYnJjpjD5Z95OfsNI1Vav+Jy2t3MXccVfzz8c+4tOMFbHnLrZWd6zsrYoAuqg9djpR6lCj1/qIJ2eXrz+QDYW4hsvcos8YuzWDU3brOGslB7EjA86sjQOpDAEXSHJKJGKm9ZWD4DJ4OcYCur/5Gx3dETYqpDrfSu+aNL4KMeIa11cXbSLnoSWNpmgD0q+cfIPnHjziszSgQUoOZYbsGt8AYn0sIWQSalmYs8VrKrWmgwdkHRWQajXeUwJBX1z4lbDmcAec3fhL9eKHOMBHZjTqIiQSlzJKg/KGVc=;4C/r4iqgXQxXr2pB/t82kA=="
+secured: "GZFDMGe/e78VX0Jb3BgswbcxvYXCIvzNWzrmZzbW+9NLMu5soIBQ8rRzgDh0lKaOm9hTugHOfvxSL8RaJUnSLWR89jdpuxNOYGD7C4zyL8iGCeR64tWi6aOQx5oEzmySeiFKcBpYs0T3UaYJ9qPbt1JQ+whIAcW/JuxOOC4bcColFMlJOEUBAH0eoiLDOkuhLca1BhXGBnYWJZGfqWHbwxD/Q+ufSinof4SZJb+JGwFst7nkTQPVlTwC2tb1o08EiIdiiFPIAb86waA+jwGz47stKDWQob0ArmHCPr/vldjO3xSvnEgKPp5IvaqFKFeKXgrTThgENZ60qbArSIGQoHaUEXs1mvQQUkc8W4tJQ3I=;plWET3zF1g9O/0ecjEg1GA=="
 ---
 

@@ -23,6 +23,24 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Global Speech-to-text API Market to 2027 - Size, Share & Industry Trends Analysis Report - ResearchAndMarkets.com"
+    excerpt: "is a programming interface that enables the utilization of speech synthesis and recognition in a variety of devices and applications. Speech-to-text API is a multidisciplinary subject of computational linguistics that explores methods that allow computers ..."
+    publishedDateTime: 2022-05-04T16:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/b26996607/global-speech-to-text-api-market-to-2027-size-share-industry-trends-analysis-report-researchandmar"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26996607"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26996607"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+
 secured: "3KE2gpl1qM5kwCjvZaeFCyuv3lp0yaU8AlxTKbAw/UMPqloT1vHqN/1dhUcx42+2hfm+naB1kmg4RDkZx8la/UjfYX4v/WZn9GoioGAB7rhXunBzo51+DW+9v7VQQmX61LYeGWOOoeiPAYgIEjSI48LNdIK3dWMHZ1/akuU25CycaOrAR72lIXb176LdS8D0gxUKUDyUTO4ERlOIWQZJyAR8Of1Je6ejliN4XTKNwgXYF/mMDmp/NSzfovGtGMUBcsu2rab0w7MMErCCd68Tb9D+aehSH6Ox/vAwvLD+dw79fycZl/oti/6n4no8M0PwjTPe+XBGT8iqeGB7s7FxXFpufW6fc/Nr9QnD75fiOKE=;rBmJwgYGsQuZ6ztSg/XeAQ=="
 ---
 

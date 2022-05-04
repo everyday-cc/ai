@@ -19,45 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events"
-    excerpt: "BigBear.ai executives slated to address conferences across the world, emphasizing the importance of emerging AI/ML technologies and responsible deployment BigBear.ai BBAI, a leader in AI-powered analytics and cyber engineering solutions, announced company ..."
-    publishedDateTime: 2022-05-03T20:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/b26976772/bigbear-ai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-indu"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26976772"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26976772"
+  - title: "Meta wants to improve its AI by studying human brains"
+    excerpt: "“Within the past decade, there has been tremendous progress in AI on a wide variety of tasks from object recognition to automatic translation. But when it comes to tasks which are perhaps not super well defined or need to integrate a lot of ..."
+    publishedDateTime: 2022-05-03T23:00:00Z
+    webUrl: "https://www.popsci.com/technology/meta-ai-language-models/"
+    ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 72
+      name: Popular Science
+      domain: popsci.com
+    quality: 61
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.popsci.com/uploads/2022/05/03/patrick-tomasso-Oaqk7qqNh_c-unsplash-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "O’Reilly Announces Remaining 2022 Radar Event Schedule Including Cloud, AI, and Security Sessions"
-    excerpt: "O’Reilly, the premier source for insight-driven learning on technology and business, today announced its 2022 schedule of Radar events including sessions on cloud, AI, and security-focused topics. O’Reilly Radar events explore the most pressing issues ..."
-    publishedDateTime: 2022-05-02T13:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-14b0f0271a65478195647a310810c10f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Machinex’s Jonathan Ménard Sees AI as a Gamechanger in Waste and Recycling"
-    excerpt: "“Leading on to participating in startup and performance tests of new facilities ... The upcoming, industry technology that has Menard excited is the almost infinite power AI will have on sorting processes. “AI is a powerful tool to extract, archive ..."
-    publishedDateTime: 2022-05-03T13:16:00Z
-    webUrl: "https://www.waste360.com/recycling/machinexs-jonathan-mnard-sees-ai-gamechanger-waste-and-recycling"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 15
 
 secured: "K5qZ1eI9fczMjhoRkV4fBuZYZ8AWFUH5oanX64c+HnCQ3sUQUe74yt1HoBlnkvkJdA0oT+S5t57rqg/N1zx+0A1w5zReoyayZ4NN8XBpDRMHTAWGbXlOZYAN172aq4lqIcthEexCPrP6/ZEYlp/uCzD+fsOi3anap/e11aTBeec3RAfRn1GzCEZ54ULUHxH8aVay2KGsaUfr8rBCwk1e2JFEA+Cq1h3PwdCOGMPa9lxZdrNrgkTYIIbmcS09WUrqCLMm5duLHSMJHTs3OQWQPgThigNsBIVJx+pkmpsTUYr3sD7Sw6EuwORLBMrzcbBVfX5X2IbrnoPJ6h6kZlUYkBgnw/K1cW3bxUL1s8fcafv5fXY1TzHSAhoBpCT2mVuU9aZGbCKkiI+KsnuJeysuTAJcNDO2sAcRjarCcWzFajHvc+Z87Keid35bD6sGcasFWgPkHF2azdmpl++8buWlA7ImXvinh+/VCc5dG7nKScqo19rPHTs0iZqHcs3TAcwLZsLmdhvyiHqPmowq8JtWqQ==;tPfG2Xg2dzKCt0f6UqSgxg=="
 ---

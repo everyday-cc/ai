@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
 type: article
 quality: 61
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Popular Science
@@ -26,6 +26,17 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "Making sense of complaints – using AI to improve learning from patient complaints"
+    excerpt: "Emilie joined techUK in June 2021 as the Programme Manager for Digital Ethics & AI. Prior to techUK, she worked as the Policy Manager at the education charity Teach First and as a Researcher at the Westminster think tank Reform. She is passionate about the ..."
+    publishedDateTime: 2022-05-04T08:50:00Z
+    webUrl: "https://www.techuk.org/resource/making-sense-of-complaints-using-ai-to-improve-learning-from-patient-complaints.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 14
 
 secured: "L/F1dYVfYm38sFsjgSYrtJlXniQSAUBafh3cjNVPvQarwIS7q18rO1ogGMRTcQbYkyn3Lsp44+lkAVE5PlYLbes1+qyyW6M5N4mJC99ZxylgN/Zl59uCYtzuKjLxg+YyVRU4pRs20eQ9HDJWnj4Ezys/9ZOH29AOy22FNmhtKUkepvXqrwC2j9V8b8DPMoet5ELcBApAArkAlDGQRDMFjj4/apTqywdgBmngQ8fTf95gP82w4lOl/OoiHar8ZS2ZuegbhvScmx6Z8v0ehzycSQMcaquQbrySPzrU1If8N8LqbbEFrwK71gc52yiuwAQzz3xwRiyXZPx/Ax/5cWaon3NFGMrE1DNX7QmNlZtWWQEe9G57R48ss3MFjZHImyduqV+DZk2aGj1it4drmSr1MRXwem6xM+GHfy/clArcpkz61O/SEYSRVK4r9zxMQaCkWyriNj9zFvpvyxw2+dlC8bWZ3BgGtNsUPZiUwVrNTMj0xJoq3QaDUolG2acfjKKRvVrWA/Q4KKCAHvOeeXqShg==;FKl2q2ZTTiELZrgSA1ziRg=="
 ---

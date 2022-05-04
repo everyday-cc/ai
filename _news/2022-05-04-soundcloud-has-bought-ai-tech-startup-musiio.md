@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "SoundCloud snaps up music AI tech firm to bolster music discovery"
+    excerpt: "SoundCloud believes that the next big thing on its platform relies on AI and machine learning, as the company announced it has acquired Musiio, which will help SoundCloud’s existing music ..."
+    publishedDateTime: 2022-05-04T17:44:00Z
+    webUrl: "https://9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/"
+    ampWebUrl: "https://9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 57
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "SoundCloud acquires AI music company Musiio"
     excerpt: "Co-founded by Hazel Savage, who has previously worked at the likes of Shazam, Pandora and Universal Music, the company claims to have built AI that can “listen” to music at scale. Speaking to MBW in December 2020, Savage explained that Musiio’s ..."
     publishedDateTime: 2022-05-03T15:30:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Ex-Google, Uber AI heads launch ML error-detection platform"
 excerpt: "Meta releases code for massive language model to AI researchers AMD to offer CPUs with Xilinx AI engine in 2023 Microsoft to ax Azure Video Analyzer in November AI models still racist, even with more balanced training Fixing problems with ML data is the ..."
 publishedDateTime: 2022-05-04T11:13:00Z
-originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/04/galileo_ml_error_detection/"
-webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/04/galileo_ml_error_detection/"
+originalUrl: "https://www.theregister.com/2022/05/04/galileo_ml_error_detection/"
+webUrl: "https://www.theregister.com/2022/05/04/galileo_ml_error_detection/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/04/galileo_ml_error_detection/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/04/galileo_ml_error_detection/"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 562
         isCached: true
 
-secured: "AuQboBJ/q77FqpC2LVmU5aUjH3jrVfnG8F2iJyA3/GxA73EhpnM0REeoc5LgOEl0S3QPNG2p6h2pZ5FTkb7RqMIK6SWBrni4NREGNIyw3871gQ7uqSlrKHF2oDftbxvCeDWhfzXZiT2bRRCJ6DauRiPhwSTCqLcSZslHRxqQkiRAjLVg+NQtCrU1B0ckXudop1xGCEKlNnQkmIW1YdyrTQM703Xg4Hf1wkINDx3O3H7f2PxGpM3sIYUD9hMbw8c8nIHBzhA//gaexK1As7KQjVD8d1me2HfeMIOyYPFqDiM9ERoFxaj/JFnSXmgTiwXiVz+nPvzmJHytDT5VE0sKu3+pxAAFBmbatqos7+rMwiyOZtjcAazaGr2rHSgWXuKRggI2sPJknO/bCF+VAL2ZQZ6SNJ1HKQG/o6nVbJXVN5Cjc+I+xf+m2JetMYcl4WSNbvrTUCQO4R8DnMxoaXqftHGnWvGq2h389TVivE60EEYdgUX4kCtL7GWyJ7RG1ojwCCnPuGgkAEmNIGGZc1x8xw==;EzQP/hPNa5uiYs3xf77BNw=="
+secured: "nyPcJI0/IzHklNUw0gXVZcrwe525fHGtynwPBC8JFQN0bATQUooLDSmdZ9f2Guv0KGJ1cK+fV1SCfB3hzmw0FDQS+kyI7c2l7I0P1i/SPLlX/aFM33MGwsLylR6ThAsEBY3PFlIP82M8+0R0FDSbjv8VY+h+l6YBJ8PcfCtQWVS2a+4WexiveYc0aRtPPS5uegnLOiBvwixSLXAV3FDpk1sCZqGh4yAjksIhbE/YM+nkMrIQGvJJgQePZhgmCrVNO62F1o0BQmYL3LPttI/3c4PTUT4QehxlTFqzkSHSV9S5syINKGItgpx40uGg5LHF34BriZilQK852BCOAqaROmZcOQ+UOdup7+i/0rg8c2s=;eWd/KFlekoOBtxTdkxhmGw=="
 ---
 

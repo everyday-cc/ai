@@ -2,28 +2,28 @@
 category: news
 title: "Healthcare Technology Leader Joins Verantos′ Strategic Advisory Board"
 excerpt: "Frank Williams, co-founder and chairman of Evolent Health, is a value-based healthcare expert ... By incorporating robust clinical narrative data, artificial intelligence technology, and measured validity, Verantos is the first company to generate research ..."
-publishedDateTime: 2022-05-04T15:41:00Z
-originalUrl: "https://www.wate.com/business/press-releases/cision/20220504NY45600/healthcare-technology-leader-joins-verantos′-strategic-advisory-board/"
-webUrl: "https://www.wate.com/business/press-releases/cision/20220504NY45600/healthcare-technology-leader-joins-verantos′-strategic-advisory-board/"
+publishedDateTime: 2022-05-04T15:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/healthcare-technology-leader-joins-verantos-strategic-advisory-board/article_31eb4afd-d0ad-577a-8910-9ea06dfa854f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/healthcare-technology-leader-joins-verantos-strategic-advisory-board/article_31eb4afd-d0ad-577a-8910-9ea06dfa854f.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: WATE 6 On Your Side
-  domain: wate.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.wate.com/wp-content/uploads/sites/42/2022/05/Puppy-Palooza.jpg?w=2000&#038;ssl=1"
-    width: 1920
-    height: 1080
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/ef/fef877d0-ddcb-5d3e-8e07-44721215ce12/6053963eb82b0.image.jpg?crop=1187%2C623%2C756%2C0&resize=1187%2C623&order=crop%2Cresize"
+    width: 1187
+    height: 623
     isCached: true
 
-secured: "U62jUVs9otawJV4Cu1NEXjNa5oxwWo45rcyDt/d+E/q1H84XthfwJ4qYJtr7vdSuwejXshWn38rLMyST7gG40pyfYL27OVqGImKDwDeec2uRn2vNd8LXfa1lY6b9HcP3znlP5HweKBdPirstIJjBSsGZMpOcKNXWQ/sggUW/JNmsj1N/bHcYRgMeFLHpEdCVHpme+R+3tX9sRYtYFznu5s0EYJRB0UFsPNWtTKP19YInpR8+5iAB1rhmiKl3ztVvNjrypkVyhff+5J7PddOIaz4GlqWkdHdOVEbIjcJdEsyy9nz0qOOD/Rfz7CWLs+DmjwxRFavRNi6p/g8v7q8u4WVhi0YNg+6DngWW66Kq5j4=;lnubY0lYd9lk97qTikBquw=="
+secured: "Qi2UrknWBMCJN8yx5exMU28J/aUiVb341BCYsqZw3NInaC0AYKNVUU5OBYyVboaeDvV7RP7hhcu86WexDVzlh5ZVIrY1emTab38IM79xEcIDDtXP8dt/6UG15IK5VW7Soh5SAW502AugkTYEwdXuxBI9al2AtwAx2elMkgiltP0ryKKgJKSm7E0vyr5QfaG1G9d9pAIhR/fVSrT3J1xdNatOY1OIz7Mh/IJ3+NPWYp3HW0RW1cx4/KzzUE4v3Ye/ITClRuCkN2PL2p/uFzBSQJHHlSbBbES2TZ8FiH4/HiFuJIt/dHqyZD/1sE/vdEl/GLhbc73JR8dNpGfiiKyIrhNgH7Rc/fatcnpALSg+eiQ=;Q/oaGR1KUSlVqvfOoUQ5yA=="
 ---
 

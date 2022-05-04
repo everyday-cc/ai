@@ -3,12 +3,12 @@ category: news
 title: "RPT-FOCUS-Startups apply artificial intelligence to supply chain disruptions"
 excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
 publishedDateTime: 2022-05-03T10:00:00Z
-originalUrl: "https://www.reuters.com/article/tech-supplychain-idUKL2N2WV0DC"
-webUrl: "https://www.reuters.com/article/tech-supplychain-idUKL2N2WV0DC"
+originalUrl: "https://www.reuters.com/article/tech-supplychain/rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2WV0DC"
+webUrl: "https://www.reuters.com/article/tech-supplychain/rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2WV0DC"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 79
+heat: 99
+published: true
 
 provider:
   name: Reuters
@@ -20,6 +20,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "How AI is helping the supply chains in the healthcare sector"
@@ -38,20 +44,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How AI is helping to address staffing shortages in healthcare"
-    excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
-    publishedDateTime: 2022-05-02T22:25:00Z
-    webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "How startups are applying AI to ease supply chain disruptions"
     excerpt: "Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have combined to delay deliveries of everything from bicycles to pet food. In ..."
     publishedDateTime: 2022-05-03T08:30:00Z
@@ -66,27 +58,7 @@ related:
         width: 720
         height: 400
         isCached: true
-  - title: "How Artificial Intelligence Can Help Fight Fires in the West"
-    excerpt: "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, Colo., is tapping decades of experience of managing satellites, exploring ..."
-    publishedDateTime: 2022-05-03T20:54:00Z
-    webUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west"
-    ampWebUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 37
-  - title: "How AI and ML can help the public sector push boundaries"
-    excerpt: "In both cases, we worked with Amazon Web Services (AWS) and leveraged Amazon SageMaker, a flexible cloud Machine Learning platform, to develop and deploy elements of the solution. What challenges does the public sector face when it comes to applying ML?"
-    publishedDateTime: 2022-05-04T08:35:00Z
-    webUrl: "https://www.techuk.org/resource/how-ai-and-ml-can-help-the-public-sector-push-boundaries.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 36
 
-secured: "sMz1Ck/B/ENOcxKQnmZ0rIj26yOd9yK5zCnk2AniVvl4/DlzfaryD3McsCfbY8UYZOI1aSIpAcIF24LoEgIdSPilejiLA/qw84KUqa3h7yPGEQdfuToCZngwrcsqOLNX2f21wETD9VBIF+jdDzViGxremvmyQR8bDS5fh7zUaQAh22WYit/LetymseisYCxtdll/Hr90hpQgLBNhvzgnfxeXTRepGNgkhDF003BEvMD1x5W4mYuoAridekbvksd+jbLk+81tFHAH7up5qRR/6OZDIjgq9toJSPOrbOHX2Dt7FaP8URxzNpVgGUY8+cOymqr4rTdJHSdLCAs4q59wTL7PAUrWLFZSTghmdp17SBc=;V1NrJT98LoYOXpFvyzbFqw=="
+secured: "izGo7p5BDDaNlc1MhPmqLAitS7UPQa0P64R2C56LfwiqAZ+CXVwEeB1Iw5syP+kPchQR7Z3Toc/4tnv598113+zrmmOPBs9sxfMWRkWbnuN6vUoowowCA1+hi9d4O95jW9SIcuUxGTm+DCaH7uAPsqspCKMucYXXe6Hpg71Fk4DGns0u5wd3lzaduFzCnL5or372Cz3aRhwTVu4kWigFGPXKDrepITyfYc7T8IqWPOZg+dZB/BfpQWtSxT5LkpBdcgwsLPtkkCgn/jYLiWgVjDkcTkjfcMFKlqKbVVEKqWyVNL1JLaVu9W82QGQrphnyoBEFbAIaVaOLQVDGBJBcIJ5Nlg2Ggd0+83zkdeXR+p0=;WuzoMBoUPbeWD5R5X77LZQ=="
 ---
 

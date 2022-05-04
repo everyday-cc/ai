@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
-excerpt: "Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware,"
-publishedDateTime: 2022-04-20T17:56:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479"
+excerpt: "Industrial robots generate a huge amount of data ... The key players operating in the artificial intelligence in manufacturing market NVIDIA (US), IBM (US), Intel (US), Siemens (Germany), General Electric (US), Google (US), Microsoft Corporation (US ..."
+publishedDateTime: 2022-04-21T02:00:00Z
+originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
+webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "q8yHDWgkIyZ63lqcb6vD7aiCjwFvsFXttMsN2p43xjROJTMRo3bAsFDtKY42deMDHiRStKiGbejDmNev5nLkdKLJjDvYOI1i1jLRILBbyGzkNDqsMV5p1tb+x1VSO/qUt5ECdnAUqNlSurE9L0wwgkZdmbG5sOuwW9vTUhxLfYTHOwCnAFvTXRSXWOsbISHAoUwq8cY7FWBlYPIVdvNAaQTmUGSiUUdp6ZXwtMgw+DepiSfvDejfkuW+di1bouC3n0U5CxXS1NsbOdkTJDx8B3NnOuU8jQRe/IEPbBvZx5ELYLnkM3gAsJYbZPGav/rIWAeqhsGeUcir6xrVeZemLHuu7ushkHNMPzFHLOnvl1BH9F327c3Aq3lUbWiYA0zn20RaQYzY7JRnMXkZwu0Hyq7/kXZpzaDyT6oeUkAXQqkTIg2EMtzYodKVygqaQfxhdNmqbn7MY1RYQJ+1/9qpktEMsAI2GCJ4vaE/x8YRDP2ja0v3rpINSK5jrtV88OPO+XZ75EduUOkLLy2b0obCeA==;z8RqPmyingvygtb/O1/V0A=="
+images:
+  - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg"
+    width: 635
+    height: 347
+    isCached: true
+
+secured: "ZUEcb3L/845qbRJClxtkRZTLzDaxDqdNxKNrAPrjbBqCAsjAEwzBUXiytXO58si9qCsHgoNOwSMGvNCMDLGSCOP3DM59PEMTQBkY4KQkAPNIC4KdOGCX7mEfFI0eozqOHAmVVN5VTCtD0pYCXzc/PBMROA0lYPavrXatqbrJXOORhDaddkWQGUqJ+6L6tJfrqZABVFimPbjy871elogGk+CNmhn85mU/tNGungNc5uiM3BFkY7xKC9inPAv5vdbMJ3dUgL+XDeVvWKPToGkj4QvzeWBs7zr6/GeMDFCxYugdS+YOJB04nlkDv7ioWGFLtFPnZbtdrKnUrNHNRmKOOV3vOPuMXxbfUUqkxgX13jk=;J5mMroGXtU3JdjULh+/+6g=="
 ---
 

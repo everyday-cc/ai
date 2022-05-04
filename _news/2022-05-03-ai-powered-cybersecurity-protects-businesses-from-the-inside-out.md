@@ -38,6 +38,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AI for Cybersecurity Shimmers With Promise, But Challenges Abound"
+    excerpt: "Companies see AI-powered cybersecurity tools and systems as the future, but at present nearly 90% of them say they face significant hurdles in making use of them. Companies are quickly adopting cybersecurity products and systems that incorporate artificial ..."
+    publishedDateTime: 2022-05-04T15:01:00Z
+    webUrl: "https://www.darkreading.com/analytics/ai-cybersecurity-promise-challenges"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb6687ab4f4eb2185/62729421726e3315b16b4089/ArtificialIntelligence-MasPix-Alamy.jpg"
+        width: 6000
+        height: 3750
+        isCached: true
   - title: "Research Shows Security Pros Believe Cybercriminals are Winning the AI Race"
     excerpt: "Findings also reveal the extent to which organizations are struggling to effectively implement AI to aid and augment cybersecurity efforts, with more than 50% having to undertake major changes, or reset and start over. The research, conducted by Wakefield ..."
     publishedDateTime: 2022-05-03T13:03:00Z
