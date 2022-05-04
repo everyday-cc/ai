@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-04-baidu-gets-a-permit-that-tesla-will-envy.md",
+      "title": "Baidu Gets a Permit That Tesla Will Envy",
+      "excerpt": "\"Their self-driving fleet has driven 40 times the distance between San Francisco and New York City.\" Wei Dong, vice president and chief safety operations officer at Baidu Intelligent Driving Business Group, said in a statement that China's regulatory ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "originalUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUzMDgzODMwNjU4OTY3/amd-shares-higher-for-ninth-straight-day-chipmaker-unveils-new-cpu-deals.png",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "publishedDateTime": "2022-05-03T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-elon-musk-boasts-teslas-optimus-robots-will-have-full-artificial-intelligence.md",
       "title": "Elon Musk boasts Tesla's 'Optimus' robots will have full artificial intelligence",
       "excerpt": "But according to Tesla boss Elon Musk, his humanoid robot, Optimus, is coming soon – and it might also contain the first true Artificial Intelligence. “Tesla AI might play a role in AGI,” the multi-billionaire tweeted, “given that it trains against ...",
@@ -54,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -601,6 +644,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
+      "title": "Pittsburgh Welcomes Plus One Robotics",
+      "excerpt": "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1355,93 +1442,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-global-automated-guided-vehicle-market-to-reach-27-billion-by-2026.md",
-      "title": "Global Automated Guided Vehicle Market to Reach $2.7 Billion by 2026",
-      "excerpt": "Automated Guided Vehicles or Automatic Guided Vehicles (AGVs) are computer controlled, wheel-based and driverless vehicles ... embedded artificial intelligence that helps learn and take autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/global-automated-guided-vehicle-market-to-reach-2-7-billion-by-2026/article_751ae8db-79ca-55e5-9929-020e13656bf5.html",
-      "originalUrl": "https://www.victoriaadvocate.com/global-automated-guided-vehicle-market-to-reach-2-7-billion-by-2026/article_751ae8db-79ca-55e5-9929-020e13656bf5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/1/e6/1e691430-2508-509c-bc8a-51d855c1f2f8/625d6b6decec1.image.jpg?crop=1536%2C806%2C0%2C109&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-elon-musk-there-will-likely-be-a-humanoid-robot-in-every-home-by-2050.md",
-      "title": "Elon Musk: There will likely be a humanoid robot in every home by 2050",
-      "excerpt": "Tesla CEO Elon Musk thinks that the company will have an interesting prototype sometime this year and something interesting within at least two years.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/robots-musk-in-homes",
-      "originalUrl": "https://interestingengineering.com/robots-musk-in-homes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Xm6lJ5z0OD/sizes/tesla-bot_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/robots-musk-in-homes",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/robots-musk-in-homes",
-      "publishedDateTime": "2022-04-18T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Autos"
       ]

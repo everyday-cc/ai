@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-19-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
+      "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
+      "excerpt": "The collaboration is a high-profile win for Nvidia Corp`s effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence and high ... a previous deal with Alphabet Inc`s Waymo unit to deploy autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034",
+      "originalUrl": "https://www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034/amp",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/automobile/news-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race-179034/amp",
+      "publishedDateTime": "2022-02-19T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-gm-seeks-us-approval-to-deploy-self-driving-vehicles.md",
+      "title": "GM seeks U.S approval to deploy self-driving vehicles",
+      "excerpt": "WASHINGTON, Feb 18 (Reuters) - General Motors Co (GM.N) and its self-driving technology unit Cruise have petitioned U.S. regulators for permission to build and deploy a self-driving vehicle without human controls like steering wheels or brake pedals ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/gm-seeks-us-approval-deploy-self-driving-vehicle-2022-02-18/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/gm-seeks-us-approval-deploy-self-driving-vehicle-2022-02-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/FsE-kcUYSmJ27scAV9t6fzlptcM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G6UH5UE27JISPBGFO6JPAO5XP4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen.md",
       "title": "China's Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen",
       "excerpt": "Chinese tech firm Baidu launched its self-driving taxi service in downtown Shenzhen on Thursday, marking the company’s first deployment of autonomous vehicles into a densely populated area of China.",
@@ -1316,101 +1411,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.md",
-      "title": "Raquel Urtasun’s tech company develops self-driving vehicle simulator",
-      "excerpt": "TORONTO - One of Canada’s leading autonomous vehicle experts has unveiled a way to help self-driving vehicles develop intuition and experience away",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html",
-      "originalUrl": "https://www.thestar.com/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thestar.com/ad35dWShb618CrELmY2D8mje9ho=/1280x1024/smart/filters:cb(1644443122032)/https://www.thestar.com/content/dam/thestar/business/2022/02/09/raquel-urtasuns-tech-company-develops-self-driving-vehicle-simulator/2022020809028-adb8b8e5fa05bb3f4168d0080253787490ef3e8a1262f68c164b8cb064b57338.jpg",
-          "width": 1280,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-autox-hits-1000-vehicles-milestone-for-its-robo-taxi-fleet-in-china.md",
-      "title": "AutoX hits 1,000 vehicles milestone for its Robo Taxi fleet in China",
-      "excerpt": "In a press statement, the company also states that it has also opened a new Robo Taxi operations center in San Francisco in the United States, to expand self-driving vehicle testing ... vehicle industry leaders like Baidu, Waymo which are both yet to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
-      "originalUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/auto-x.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
-      "publishedDateTime": "2022-02-09T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

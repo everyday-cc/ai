@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Google Faces Internal Battle Over Research on AI to Speed Chip Design"
-excerpt: "Google Faces Internal Battle Over Research on AI to Speed Chip Design By Paresh Dave OAKLAND, Calif. (Reuters) - Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial ..."
-publishedDateTime: 2022-05-03T02:36:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+title: "Google faces internal battle over research on AI to speed chip design"
+excerpt: "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips."
+publishedDateTime: 2022-05-03T16:54:00Z
+originalUrl: "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/"
+webUrl: "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Google Fires Another AI Researcher For Questioning Findings"
@@ -65,7 +69,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Fgoogledumpsterfire.jpg&signature=206ea5a750dc650bd0c30fbd18f9f7ea"
         width: 1280
@@ -275,6 +279,6 @@ related:
         height: 429
         isCached: true
 
-secured: "GZI8Pg6wGizqbBhvT9ND9gld5+cwNMz8XxDeO53Csge/k74N0lo+CVLeERpYCfZruKUWBXRq0FkJZmhPZgHexCPxiAdTLeHHLzP7n+5o/oCcKl8mBNAvULb8mBWEPCKBXBKp9ZjNFus5pHtJnF2JDdm3ZNQD73n7dtR6FhToha3StgGJQMsIoM+OvBs9+Ogdl+mBWqLYAFk++UgNAbuG71nOdCbrpGY+Ike4oG03uOZejbJI4IGJ2SNlO6v82b8lQd7VJA1Zpj5nl4isrA17aoBLwZmNVuwd9gf1REidF/1D/Q5W/h08zEyHreYfdxB8PB31YtXmyVl19jC55MuT8SGcNOZ5LKYj+z2qGngpLvk3PFit7BTLgIhrdMdEc0RmY22U/mohvGxjSSvoXDv1yUk+QAvglvsHE1owUYkkipxl9RaVdrOF0LIwOGuygscDKHNSrStm9XqN3D/8DrGASwQR8/PLYs1wcpryByqqJAC1PrV4bnXpY1j4DOTAhdC5FqJ6Y2rHt/e4u6Pw/UxLUQ==;Ka1VFHQD/RH8jw0umqhnKw=="
+secured: "MY7zdwzvUsvJcMG8ooDNCl16BXg1VfbotWhoZ4V20tyumWgwHqVmZUhHn8nalO/eDAAgPz7y6L5E6kkrxefIoTWosgGtWWKLDkzKEZmXNT+nZ5miuOhouunShNKoS6rTGpKB50rJR/tGMs7bUDTG+rLLOOL0FTT0lGBO1QIlXw9iCkDgH+StJIk8eUonu5mVSvJ0vMvQgzNmVnXjdYfRhsnBfc7iOlaBVAyaE6b3gkKPlLj23mMMUQtUCrWIaM0ChnzksBNLCJikfd4Nk7XHY2KTs+h1IFdMHgVNuJFnsoPdGTLMFHm7soc5s0qFdSwzE77ZLnXtWNtzM8lIV3hIMKiwWG+w929yy5IGu9CFllU=;kAGnZqueYBa4EFkABt7k/A=="
 ---
 

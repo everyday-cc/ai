@@ -34,7 +34,7 @@ related:
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/01/07/regulating_artificial_intelligence_93657_c0-75-3414-2066_s1200x700.jpg?b7a37aeec3c5278444f38d86ead8dfb4efb91640"
         width: 1200

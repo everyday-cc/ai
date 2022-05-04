@@ -2,6 +2,153 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-02-19-global-market-for-ai-in-computer-vision-to-reach-737-billion-by-2027-researchandmarketscom.md",
+      "title": "Global Market for AI in Computer Vision to Reach $73.7 Billion by 2027 - ResearchAndMarkets.com",
+      "excerpt": "The \"AI in Computer Vision Market by Technology, Solutions, Use Cases, Deployment Model and Industry Verticals 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/b25717133/global-market-for-ai-in-computer-vision-to-reach-73-7-billion-by-2027-researchandmarkets-com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25717133",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25717133",
+      "publishedDateTime": "2022-02-18T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-chinas-baidu-launches-self-driving-taxis-in-densely-populated-shenzhen.md",
+      "title": "China's Baidu Launches Self-Driving Taxis in Densely Populated Shenzhen",
+      "excerpt": "Chinese tech firm Baidu launched its self-driving taxi service in downtown Shenzhen on Thursday, marking the company’s first deployment of autonomous vehicles into a densely populated area of China.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493",
+      "originalUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3a3f19bdef62d31e313b4ac74f3f28d7.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/chinas-baidu-launches-self-driving-taxis-in-densely-pop-1848560493/amp",
+      "publishedDateTime": "2022-02-18T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip.md",
+      "title": "Intel to blend CPU, GPU cores into monster supercomputing chip",
+      "excerpt": "“Falcon Shores will bring x86 and Xe GPU acceleration into a Xeon socket ... systems computing large data sets and training gigantic AI models”, he says. Specifically, Intel expects Falcon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
+      "originalUrl": "https://www.techradar.com/au/news/intel-to-blend-cpu-gpu-cores-into-monster-supercomputing-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/PnrNYFJsvBVEdsgUmA2PoE-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022.md",
       "title": "Why AI and machine learning are vital cybersecurity tools for 2022",
       "excerpt": "Fortunately, artificial intelligence and machine learning (AI/ML) technologies can deliver the powerful new cyber security tools ITDMs crave, and offer hope in our ability to keep up with the latest cyber threats. While adoption of AI/ML technologies has ...",
@@ -1071,144 +1218,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-how-to-become-an-ai-engineer.md",
-      "title": "How to become an AI engineer",
-      "excerpt": "They typically use the Python programming language. AI engineers also use platforms ... you may look at projects that specialize in analysis, translation, detection, restoration, and creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/computers-tech/how-to-become-an-ai-engineer/",
-      "originalUrl": "https://www.zdnet.com/education/computers-tech/how-to-become-an-ai-engineer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/be89aae78e1f5f260376d58b9aff0f75aa3f4839/2021/10/29/de4a749d-01fa-4e80-a090-1cd9bc43d406/brian-nichols.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 1104,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-become-an-ai-engineer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-become-an-ai-engineer/",
-      "publishedDateTime": "2022-02-17T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-intel-falcon-shores-puts-an-x86-cpu-and-xe-gpu-in-a-single-xeon-socket-for-supercomputers.md",
-      "title": "Intel Falcon Shores Puts An x86 CPU And Xe GPU In A Single Xeon Socket For Supercomputers",
-      "excerpt": "Falcon Shores will bring x86 and Xe GPU acceleration together into a Xeon ... systems computing large data sets and training gigantic AI models,\" said Raja Koduri, head of Intel's Accelerated ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket",
-      "originalUrl": "https://hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57729/content/small_intel_falcon_shores_raja_koduri.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket",
-      "publishedDateTime": "2022-02-17T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023.md",
-      "title": "Facial recognition firm aims to collect 100 billion photos by 2023",
-      "excerpt": "Clearview AI told investors it would have 100 billion facial photos in its databases by the end of the year. The company claims its \"index of faces\" has grown from 3 billion to 10 billion since 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023",
-      "originalUrl": "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/88a7b6c/2147483647/strip/true/crop/2290x1296+0+15/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcc%2F12%2F115a2d5d4575b9e48cdac542565d%2Ffelicity-ace-photo6.jpeg",
-          "width": 530,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023?_amp=true",
-      "publishedDateTime": "2022-02-17T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

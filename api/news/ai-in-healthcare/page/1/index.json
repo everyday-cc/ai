@@ -54,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -572,49 +572,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-26-hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage.md",
-      "title": "Hospitals turn to artificial intelligence to help patients while addressing worker shortage",
-      "excerpt": "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
-      "originalUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a70b74b/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F39%2F0d%2Fd723ccff45b991094268f06a22e3%2Fhospital-doctor-generic.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
-      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
-      "publishedDateTime": "2022-04-25T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WXYZ Detroit",
-        "domain": "wxyz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-25-healthcare-natural-language-processing-market-is.md",
       "title": "Healthcare Natural Language Processing Market Is...",
       "excerpt": "Companies Profiled in Healthcare Natural Language Processing Market are Apple Inc, NLP Technologies, NEC Corporation, Microsoft Corporation, IBM Corporation NEWARK, N.J., April 25, 2022 (GLOBE NEWSWIR",
@@ -838,6 +795,50 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027.md",
+      "title": "Healthcare Artificial Intelligence Market 2022 Share, Size, Trend, Growth Analysis and Forecast to 2027",
+      "excerpt": "and IBM Watson Health are some top-notch players in the healthcare artificial intelligence market that are listed by MRFR. The healthcare artificial intelligence market can be segmented based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://markettrendandforecast.files.wordpress.com/2022/04/healthcare-artificial-intelligence-market.jpg?w=556",
+          "width": 556,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI",
         "AI in Healthcare"
       ]

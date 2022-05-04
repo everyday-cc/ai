@@ -47,17 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google Faces Internal Battle Over Research on AI to Speed Chip Design"
-    excerpt: "Google Faces Internal Battle Over Research on AI to Speed Chip Design By Paresh Dave OAKLAND, Calif. (Reuters) - Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial ..."
-    publishedDateTime: 2022-05-03T02:36:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+  - title: "Google faces internal battle over research on AI to speed chip design"
+    excerpt: "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips."
+    publishedDateTime: 2022-05-03T16:54:00Z
+    webUrl: "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI research is a dumpster fire and Google’s holding the matches"
     excerpt: "The company made headlines around the globe after firing Timnit Gebru, a researcher it’d hired to help lead its AI ethics division, in December of 2020. Just a few months later it fired another ..."
     publishedDateTime: 2022-05-03T21:25:00Z
@@ -66,7 +69,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Fgoogledumpsterfire.jpg&signature=206ea5a750dc650bd0c30fbd18f9f7ea"
         width: 1280
@@ -276,6 +279,6 @@ related:
         height: 429
         isCached: true
 
-secured: "gkd9DsbcpKbnqTY8MksavacpgNcHQtHC/Fe4nkzOV+Dha30EnSLEBHP1ZUr3nvrJCCVfWB0DSXNdNZVwWmcyoM+2riynAMzr7kGbXSJ1VGTZRBCBCC5qjiXo3dWfDVr+qR2uvykw11+6YhdHVQ9zpxuDWIRlkvsELdXrRR+Y1Y5ZD30H5NJdcLORG9GF4OjhKOY1Ni6dQPaF/JSQbVYMHzxAdtFJo/UcKojt2ibIoaHK3UR9AFKNmnvG6J/JCsBGt7Gpdky8DsUMGzprawpFrD3V89gMIazy/ksQC1d+bj+8MuazVetG+V+Ja14CrmddMEvfDW2VyTuuktXFZ7iwdBKmrTNaT/0+9N9fYLEsqf4=;16lMS6LsBhL6tbCY6try7A=="
+secured: "LIRV3MiG9b1hrJVB1vrlOmKUMq7pXZgA7Fd7Gs2V2yGleRAOF+NTlijJnLv1gMyLGytRYfxML3t2uleQ01FH13fm2uPZg1Fs2JztiWZh2K5yv7vfWo9J6MbPVGexswz+H5V9U2//6cD4kGQFn1+fXcEhFaOG0ugkH3nFqgCcfZPD88yGeZGriO6K5xlUfLFBGUOnrCl+SldpMtyaV+LxQ5rw9uh/ibWdn6kov1JK3euW6I08Z/4bHvTcYkqVNhjJymg9Qvyl5fpBZJSjqJce4hcyeukNuLgL6ezTT2tnK/xHKatKx5x/ROI8XtA2Q2B8kxzltkCAEJzBlEtrVNVPyF3JDUO8uDEYHw8dqucwwK3qaJtgQ5rCa21F1RabsrDnByoKIzl6mwe4DzEsj9Yb3jBIAYnnnwjHiOjMYDQ0zZQIZ0DPIZe/dfV9n1nB7GYo0v8Yn3xQfKTTzTAlfpUuMdnd5N1tNYi82N8hDaF7aJ5M3OoSfPjoAS4FgfAt6oVYAfMQsjDjGvGxL3HQtzFsRg==;9gph+fPJvI8/lVgUZZ5l5g=="
 ---
 

@@ -325,6 +325,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-18-linkedin-creates-pass-to-tailor-graph-neural-networks-for-social-media.md",
+      "title": "LinkedIn creates PASS to tailor graph neural networks for social media",
+      "excerpt": "Join AI and data leaders for insightful talks and ... This makes it difficult for platforms like LinkedIn, Twitter, Facebook and Instagram to make accurate recommendations – a task that is ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/18/linkedin-creates-pass-to-tailor-graph-neural-networks-for-social-media/",
+      "originalUrl": "https://venturebeat.com/2022/04/18/linkedin-creates-pass-to-tailor-graph-neural-networks-for-social-media/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Graph-Neural-Networks-e1634053538551.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/18/linkedin-creates-pass-to-tailor-graph-neural-networks-for-social-media/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/linkedin-creates-pass-to-tailor-graph-neural-networks-for-social-media/amp/",
+      "publishedDateTime": "2022-04-17T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-16-the-metaverse-space-race-will-be-visible-from-wall-street.md",
       "title": "The metaverse space race will be visible from Wall Street",
       "excerpt": "As Joelle Pineau, co-managing director of Facebook AI Research, acknowledged that big data and AI will need to work extremely hard to create a mass distributed seamless experience for the huge ...",
@@ -1370,49 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical.md",
-      "title": "BYJU’S Appoints Former Facebook Tech Lead Majid Yazdani as VP, BYJU’S Lab to Scale Research and Innovation Vertical",
-      "excerpt": "BYJU’S, the world’s leading edtech company, today announced the appointment of Majid Yazdani as Vice President at BYJU’S Lab to propel and further shape the future of education. Working on personalisation and other AI applications to the education sector,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=635287",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=635287",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

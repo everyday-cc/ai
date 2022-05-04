@@ -28,6 +28,20 @@ images:
 
 related:
   - title: "Facebook-owner Meta opens access to AI large language model"
+    excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
+    publishedDateTime: 2022-05-03T21:22:00Z
+    webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Facebook-owner Meta opens access to AI large language model"
     excerpt: "Meta said its model was the first 175-billion-parameter language model to be made available to the broader AI research community. \"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable ..."
     publishedDateTime: 2022-05-03T14:00:00Z
     webUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model"

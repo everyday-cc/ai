@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/05/b26976772/bigbear-ai-to-hi
 ampWebUrl: "https://www.benzinga.com/amp/content/26976772"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26976772"
 type: article
-quality: 70
-heat: 100
+quality: 72
+heat: 102
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
@@ -60,6 +61,6 @@ related:
       domain: waste360.com
     quality: 15
 
-secured: "2WmL6t1nF2wfndbZldhmvaySoquTjTbpF5w1+iHyv8rUOJsXvuuqTAsaERSVIK7oJ7wFwpr1XwGL+0q6stx/66QBj9SDdQvEl92Clb+ErVOcndUMaY/jhF/THnB8u7kjj3btfaKb+deSQbZSPZaS/KgIpYclp9J4ppdkSk+8e81xr+dLgsyI4n2lbi7QbY3DacMMINEqddv/pIiEkohjh51ArbDyUYFrKWsMWkwWo+KY7W288dzju/2SsLoOwlc8K7aeLZpZHi+bYEv8gRJl7Dwu02br+/Af2qldSjOFtvk4+GNQZrucqIDiHJ6NU7SjS96jOeoEzWFNwDJCFajzXF5Fyaa5RgAkm7tAbJzkgcg=;WDzGcowD/lucv9Oc8YFdaQ=="
+secured: "SpOtk2UyhwNpSN/p+acriSuwSEys5bvpbsRKoNUijjQDdwVToh3SvWIghfUMqu/xLvM+a+tgBkZ3LetcxylE+l0e3K9M1bF5HKXCUSZrqKPU5RCWgU1+q77IsfTrIV0EjqC7Xhesb7tzg/nR1E3+DeHMKDvoPYtvOchtxcNbV769YqiE9TvZ01fJv3WpdV6BZM5jjX7KXyIDP4wkLTE0SE2SHiWhQAfiQWJYaGHxYnvIGyGyqYqELOW9Jz834wcl+6UJ8ME1LRrL0iChefhNvma0HQ7SETSFcCTBJUyWgnLsjHDDXd49OlV3m75XjTKJp2FRDS8SDmfxmnNebF2Y8oDLeOxIlbK1kM+mQHTHEmuvWezwNjjpn8JCYpZt+Fv6/xrGxNxDOym+64AD+K8LNh4x9PMhFT04ZpKO1eeemExPUE2uU7HCRBA3c2LZSPEyqIfsmmTOEh76YDv60AnHmioXIuyas0XS7kX2ZxAe5/HgwGWFpXsoX4PHQAeNkRuhZeetK6Wu2+H65LRW795RkQ==;6bUsp+RoxOhslgQcv+4frQ=="
 ---
 

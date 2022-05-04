@@ -46,6 +46,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-21-healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027.md",
+      "title": "Healthcare Artificial Intelligence Market 2022 Share, Size, Trend, Growth Analysis and Forecast to 2027",
+      "excerpt": "and IBM Watson Health are some top-notch players in the healthcare artificial intelligence market that are listed by MRFR. The healthcare artificial intelligence market can be segmented based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://markettrendandforecast.files.wordpress.com/2022/04/healthcare-artificial-intelligence-market.jpg?w=556",
+          "width": 556,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-ibm-to-make-watson-orchestrate-generally-available.md",
       "title": "IBM to make Watson Orchestrate generally available",
       "excerpt": "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv",
@@ -1316,58 +1360,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-conversational-ai-the-future-of-man-machine-singularity.md",
-      "title": "Conversational AI: The Future of Man-Machine Singularity",
-      "excerpt": "The social evolution on this planet has consumed several millennia. The languages we speak globally and interacting with people by understanding the context of discussions have far more refined and polished than what pre-historic humanoids used to practice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
-      "originalUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE_KpyNBndcXg/article-cover_image-shrink_720_1280/0/1647070382704?e=1653523200&v=beta&t=b16PG9_8vOWe-0ixNoRvrp3gxDrSbknDbwr4cIufnqs",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T23:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

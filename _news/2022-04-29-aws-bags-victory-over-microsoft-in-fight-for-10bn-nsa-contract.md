@@ -24,6 +24,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Dell forms security partnerships with major cloud providers AWS, Microsoft Azure"
+    excerpt: "and they are now expanding it to the public cloud with Azure and expanding features with advanced capabilities with AWS (corruption detection, analytics and machine learning). \"These options provide a robust vault/recovery solution at scale for enterprises ..."
+    publishedDateTime: 2022-05-03T21:30:00Z
+    webUrl: "https://www.scmagazine.com/news/cloud-security/dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 83
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2022/02/GettyImages-477611329.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "Get up to speed with Microsoft Azure with over 50 hours of training for $39"
     excerpt: "In addition, there's a complete course dedicated to project-based learning, so you'll get familiar with Azure through real-life architectural and administration problems. Finally, you'll also get an introduction to machine learning with Azure Machine ..."
     publishedDateTime: 2022-05-01T13:25:00Z
@@ -49,33 +63,33 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "Digital Human Avatar Market Giants Spending Is Going To Boom | Microsoft, UneeQ, DeepBrain AI"
-    excerpt: "On 16th September 2021, Deepbrain AI (formerly Moneybrain), a conversational AI startup based in Seoul, South Korea, raised USD44 million in a Series B round led by Korea Development Bank at a post-money valuation of USD180 million. and In August 2021 ..."
-    publishedDateTime: 2022-04-29T08:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/digital-human-avatar-market-giants-spending-is-going-to-boom-microsoft-uneeq-deepbrain-ai"
+  - title: "Dell Launches New AWS, Azure Multi-Cloud Security Solutions"
+    excerpt: "or in an unimpacted Azure environment. Dell’s new CyberSense for Dell PowerProtect Cyber Recovery for AWS offering allows customers to use adaptive analytics, scan metadata and complete files, as well as implement machine learning and forensic tools to ..."
+    publishedDateTime: 2022-05-02T17:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/dell-launches-new-aws-azure-multi-cloud-security-solutions"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 43
+      name: CRN
+      domain: crn.com
+    quality: 73
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/UN-Antonio-Guterres-UKRAINE-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.crn.com/resources/0275-150cb8ccdb09-0e58e7a5dff5-1000/aws_oj_story.jpg"
+        width: 599
+        height: 426
         isCached: true
-  - title: "Report names top Aussie Microsoft partners"
-    excerpt: "Telstra was listed as a leader in managed services for Azure, Microsoft 365 and Power Platform services ... not just cloud that local organisations are looking into, but also machine learning and artificial intelligence (AI) couple with a demand for ..."
-    publishedDateTime: 2022-04-29T06:07:00Z
-    webUrl: "https://www.arnnet.com.au/article/697668/report-names-top-aussie-microsoft-partners/"
+  - title: "Dell Technologies World 2022: Dell unveils security offerings for major cloud providers"
+    excerpt: "Dell PowerProtect Cyber Recovery for Microsoft Azure' and 'CyberSense for Dell PowerProtect ... which will be supported with adaptive analytics, machine learning, and forensic tools. CyberSense for Dell PowerProtect Cyber Recovery for AWS is expected ..."
+    publishedDateTime: 2022-05-03T08:56:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/public-cloud/367553/dell-world-2022-security-offerings-for-major-cloud-providers"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 63
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1_2_1_1_1.jpg"
-        width: 473
-        height: 315
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1651532398/itpro/michael_dell_2022_delltechworld.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "For only $39, you can learn all you need to know about Microsoft Azure"
     excerpt: "For those who prefer project-based learning, there’s a whole course devoted to Azure management and architectural issues. Also included is an introduction to Azure Machine Learning, which may be used to automate difficult or repetitive cloud concepts and ..."

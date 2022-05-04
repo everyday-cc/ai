@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-03T21:25:00Z
 originalUrl: "https://thenextweb.com/news/ai-research-dumpster-fire-and-googles-holding-the-matches"
 webUrl: "https://thenextweb.com/news/ai-research-dumpster-fire-and-googles-holding-the-matches"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Fgoogledumpsterfire.jpg&signature=206ea5a750dc650bd0c30fbd18f9f7ea"
@@ -45,17 +46,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google Faces Internal Battle Over Research on AI to Speed Chip Design"
-    excerpt: "Google Faces Internal Battle Over Research on AI to Speed Chip Design By Paresh Dave OAKLAND, Calif. (Reuters) - Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial ..."
-    publishedDateTime: 2022-05-03T02:36:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+  - title: "Google faces internal battle over research on AI to speed chip design"
+    excerpt: "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips."
+    publishedDateTime: 2022-05-03T16:54:00Z
+    webUrl: "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google Fires Another AI Researcher for Questioning Findings, Company Says Otherwise"
     excerpt: "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ..."
     publishedDateTime: 2022-05-03T20:35:00Z
@@ -276,6 +280,6 @@ related:
         height: 429
         isCached: true
 
-secured: "aq03kRnirQHJnz3GuNz/n8cPjJN9DB4U0MlHEcOyAD+tPpjkXsGcJgTkf/nACvE/EIc7udx5+TVzL9iAOqmqWuZIPGI3cU2KZ8u9baMzqvKVrSXgwDmg/IsYpWMiJGUU5Juf8pPxWnmK4sqfvuCm+IN3vk0NN6lir97VWk2ifDjP7ypBdhvtnLy3E7+3JDyfzFgApW1WdGtTdC8sQmREL2V/JWvqZCRa+1x2Q7MDsq8LLJ8r37eUc+lUGPgI9Y2IpwB641SmU9vTBJzYvoVF25Pz8Pe+pNO8ZiXWFvljLtYCHI5A+FKjCSR592irDqW2rgZuoDfxKOg8S/uNosk9i+esN0Wif/pqiD53AiiGKaI=;LK5wBMpC2Snk2+dJwkPAVg=="
+secured: "ONc/PlhJ2F2+i/gZds6tyKeTymg0tg4fjVdgDBlWI/qWlUtEpLaOUHTRNVtvOl3IGb9Om3SCP7BB/r4OKF3F7WLG8OI53fdoPLwlDnYXvVOKt5YXb6dcHTOwuM9UJdg8VLc8CUnhN3u1WqZAe/tkj4aRuA9K1DB7cxofHPI18qBC29utuO8yGsIbFOVqZNhTgbEWZjaQIHOYOMQ8cXZReWmjX3ogbSD0gTF6ydl40ItqqfCp3enFEv07heZbOGQ8w/5O5GYti63tQoej+cxcyQSvzEQ3dA1XblUtyZZo3s1/GhkC3T3NrmTIGc67hKRX3Xyg2zo/E38g3Usy/Nla1KsDmAdSg3QNSI45N07yypOA24LBNQjLi23eB8tEN17750buwjExaPX3aA+98Gl4UVMjwIuuE3U5f+pgFa1n/+z9mYrBnB3/gYKSly71CZI0lxyWlsGWSvMFRAQhrBsL+5Mviv77vWJ4++D9dlT0rilqIEHvylc/wsATZLbZZoSlPV2ozshTsBEg2eeJraTkkA==;+HkFhlOxCQLlCHR5R98eKg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-arti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:

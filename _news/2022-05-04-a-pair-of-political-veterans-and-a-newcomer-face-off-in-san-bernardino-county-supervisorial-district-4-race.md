@@ -3,29 +3,29 @@ category: news
 title: "A pair of political veterans and a newcomer face off in San Bernardino County Supervisorial District 4 race"
 excerpt: "A prominent incumbent with deep pockets and strong name recognition in Republican circles. A well-liked Democratic legislator with close ties to labor unions. An outsider with no connections to either party and no previous political experience. Voters have ..."
 publishedDateTime: 2022-05-03T21:24:00Z
-originalUrl: "https://www.redlandsdailyfacts.com/2022/05/03/a-pair-of-political-veterans-and-a-newcomer-face-off-in-san-bernardino-county-supervisorial-district-4-race/"
-webUrl: "https://www.redlandsdailyfacts.com/2022/05/03/a-pair-of-political-veterans-and-a-newcomer-face-off-in-san-bernardino-county-supervisorial-district-4-race/"
-ampWebUrl: "https://www.redlandsdailyfacts.com/2022/05/03/a-pair-of-political-veterans-and-a-newcomer-face-off-in-san-bernardino-county-supervisorial-district-4-race/amp/"
-cdnAmpWebUrl: "https://www-redlandsdailyfacts-com.cdn.ampproject.org/c/s/www.redlandsdailyfacts.com/2022/05/03/a-pair-of-political-veterans-and-a-newcomer-face-off-in-san-bernardino-county-supervisorial-district-4-race/amp/"
+originalUrl: "https://www.sbsun.com/2022/05/03/a-pair-of-political-veterans-and-a-newcomer-face-off-in-san-bernardino-county-supervisorial-district-4-race/"
+webUrl: "https://www.sbsun.com/2022/05/03/a-pair-of-political-veterans-and-a-newcomer-face-off-in-san-bernardino-county-supervisorial-district-4-race/"
+ampWebUrl: "https://www.sbsun.com/2022/05/03/a-pair-of-political-veterans-and-a-newcomer-face-off-in-san-bernardino-county-supervisorial-district-4-race/amp/"
+cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2022/05/03/a-pair-of-political-veterans-and-a-newcomer-face-off-in-san-bernardino-county-supervisorial-district-4-race/amp/"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: Redlands Daily Facts
-  domain: redlandsdailyfacts.com
+  name: The San Bernardino Sun
+  domain: sbsun.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.redlandsdailyfacts.com/wp-content/uploads/2022/05/SBS-L-ELX-DISTRICT4-0501-panel-1.jpg?w=1024&h=439"
+  - url: "https://www.sbsun.com/wp-content/uploads/2022/05/SBS-L-ELX-DISTRICT4-0501-panel-1.jpg?w=1024&h=439"
     width: 1024
     height: 439
     isCached: true
 
-secured: "E1BQq7CqKLVOa9AMgkyNaGPzMruYXQvYYpkK+Kw/iq/aDXOFoWGGSVEdse83mSMLpQbfYR2f8RKTeINHfvDKYj5H5bfE4BoMcnmxkuxgMHpADBFDHz1g7LamKA5DSBHquKzmbF8ITIhdme6568Z2PhlSH0oWCvm2z+9gaD/G2OchqprTp82Ns/318Vzlr1597EWYy/OgaATzy4AQf2/GXed618XmJLUfOA9Us/51bpmxzth5AwUUuQVMlfb1eixXF7LDSrtP0TeSSxpOnLv/hm2Bp6rDsB+/XkaGFqtb0ArPcNCRv+eeCuYjkwHgemFMH0uxfhE8DBelZmCb3UzwqLY6lTQJDTxqIV35J78gp28=;9weMKzhPqpNgHMiOSsH91Q=="
+secured: "2CnEalAvC7CaLmuBbkPNCF8Z1VhQg5b8vZRfa36AyN4aqoEBML/xWeBiM58p65/Mu28wq6g21L6ffRj5C0pkBVSANXlKNjlHtKZ/tZTwIMlMaL4SRepvrUbJZLOfvWW7e9mu89OYBsXEyydE4mNz8Amec/SWYoKtoJlZlj1cJewMK7I2n0FDw4JAY6kf8JjytKRLOulo3NIX9CyDzxt38s6Pl/LCb26GZiNOia0GTl4lSm1iJtCD8atoBFXqE4qAi23qX6d9itoH4+NIoelP++ttnp7hyhGrfMngIfLfod4ZC4UWJCaORmy80tE8kqLcDDumgF55tWog9+GYzkF15d+ZCJ1hgyzZt9gBaRZein8=;dzAZcRHhUQIE5QYcikSMXw=="
 ---
 

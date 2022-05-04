@@ -404,6 +404,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-this-ai-based-language-solution-startup-is-helping-businesses-boost-customer-engagement-create-unique-ux.md",
+      "title": "This AI-based language solution startup is helping businesses boost customer engagement, create unique UX",
+      "excerpt": "Currently providing transcription and translation services ... recording or uploading audio files in your native language. Our powerful AI tool ensures that every character’s voice is consistent ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/04/wavel-ai-language-solution-startup-businesses-boost-customer-engagement/amp",
+      "originalUrl": "https://yourstory.com/2022/04/wavel-ai-language-solution-startup-businesses-boost-customer-engagement/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/CopyofImageTaggingNewBrandingEditorialTeamMaster10-1650883381053.jpg ",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/04/wavel-ai-language-solution-startup-businesses-boost-customer-engagement/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/04/wavel-ai-language-solution-startup-businesses-boost-customer-engagement/amp",
+      "publishedDateTime": "2022-04-25T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-novartis-and-snowflake-driving-healthcare-data-innovation.md",
       "title": "Novartis and Snowflake: Driving healthcare data innovation",
       "excerpt": "Novartis recently joined Snowflake’s newly-launched Healthcare Data Cloud, which aims to create an integrated and cross-cloud data platform.",
@@ -736,8 +779,8 @@
       "title": "Hospitals turn to artificial intelligence to help patients while addressing worker shortage",
       "excerpt": "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled.",
       "sourceUrl": null,
-      "webUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
-      "originalUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
+      "webUrl": "https://www.ktnv.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
+      "originalUrl": "https://www.ktnv.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -754,13 +797,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
-      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
+      "ampWebUrl": "https://www.ktnv.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
+      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true",
       "publishedDateTime": "2022-04-25T12:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WXYZ Detroit",
-        "domain": "wxyz.com",
+        "name": "KTNV Las Vegas",
+        "domain": "ktnv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -770,7 +813,6 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1061,49 +1103,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-six-robotics-pioneers-win-2022-engelberger-awards.md",
-      "title": "Six Robotics Pioneers Win 2022 Engelberger Awards",
-      "excerpt": "The event will bring more than 500 companies showcasing the latest in robotics, machine vision, artificial intelligence (AI), motion control, and smart automation—and an expected 20,000 attendees—to the city's Huntington Place center. The Association ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26791476",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26791476",
-      "publishedDateTime": "2022-04-25T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

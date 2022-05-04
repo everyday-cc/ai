@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-16-natural-language-processing-for-finance-market-see-huge-growth-for-new-normal-bloomberg-yahoo-google-finance.md",
+      "title": "Natural Language Processing for Finance Market See Huge Growth for New Normal | Bloomberg, Yahoo, Google Finance",
+      "excerpt": "Mar 16, 2022 (Heraldkeepers) -- Natural Language Processing for Finance Market research is an intelligence report with meticulous efforts undertaken to study the right and valuable information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-finance-market-see-huge-growth-for-new-normal-bloomberg-yahoo-google-finance-2022-03-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-finance-market-see-huge-growth-for-new-normal-bloomberg-yahoo-google-finance-2022-03-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-artificial-intelligence-in-fintech.md",
       "title": "Artificial Intelligence in Fintech",
       "excerpt": "What Is Artificial Intelligence in Fintech As artificial intelligence (AI) starts to enter the financial technology (fintech) sector, there is a lot of buzz and excitement around what it could mean for the future.",
@@ -1308,40 +1361,6 @@
       "provider": {
         "name": "inc42.com",
         "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist.md",
-      "title": "Cheap Stocks To Buy Now? 5 Fintech Stocks For Your March Watchlist",
-      "excerpt": "Do You Have These 5 Fintech Stocks On Your List Going Into March 2022? Those who invested in fintech stocks have been on a roller coaster ride over the past few years. Many fintech companies skyrocketed during the pandemic due to the increasing adoption of their products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
-      "originalUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
-      "publishedDateTime": "2022-02-27T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

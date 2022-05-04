@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-03-developer-experience-doesnt-have-to-stop-at-the-front-end.md",
+      "title": "Developer experience doesn’t have to stop at the front end",
+      "excerpt": "While learning to build machine learning models, he saw data scientists spending ... Developers can then deploy to AWS, Azure, or Google Cloud. The project was founded in 2021 by ex-Spotify engineers André Eriksson, Marcus Kohlberg, and Horia Jurcu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html",
+      "originalUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/ladder_escape-100714285-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.amp.html",
+      "publishedDateTime": "2022-05-02T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston.md",
+      "title": "Unanimous Supreme Court Flies Flag for Free Speech in Case Against City of Boston",
+      "excerpt": "Despite the court’s recognition of Lemon’s many problems ... participate in this term’s remaining high-profile cases on abortion, free exercise, free speech, and the Second Amendment. Have an opinion about this article? To sound off, please email ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/",
+      "originalUrl": "https://www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailysignal.com/wp-content/uploads/220502_BrettKavanaugh-scaled.jpg",
+          "width": 2560,
+          "height": 1331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/amp/",
+      "cdnAmpWebUrl": "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/amp/",
+      "publishedDateTime": "2022-05-02T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Signal",
+        "domain": "dailysignal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-advice-for-deploying-ai-in-production-environments.md",
       "title": "Advice for deploying AI in production environments",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -325,51 +420,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-dell-launches-new-aws-azure-multi-cloud-security-solutions.md",
-      "title": "Dell Launches New AWS, Azure Multi-Cloud Security Solutions",
-      "excerpt": "or in an unimpacted Azure environment. Dell’s new CyberSense for Dell PowerProtect Cyber Recovery for AWS offering allows customers to use adaptive analytics, scan metadata and complete files, as well as implement machine learning and forensic tools to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/dell-launches-new-aws-azure-multi-cloud-security-solutions",
-      "originalUrl": "https://www.crn.com/news/cloud/dell-launches-new-aws-azure-multi-cloud-security-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0275-150cb8ccdb09-0e58e7a5dff5-1000/aws_oj_story.jpg",
-          "width": 599,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security",
-        "AWS AI"
       ]
     },
     {
@@ -800,13 +850,13 @@
     {
       "path": "_news/2022-05-02-financial-technology-firms-tap-ai-to-reach-more-borrowers.md",
       "title": "Financial-Technology Firms Tap AI to Reach More Borrowers",
-      "excerpt": "He said smaller online lenders are benefiting from a head start in the use of AI and machine-learning models, digital document management and customer services designed around mobile devices—though many banks are catching up, he added. The global fintech ...",
+      "excerpt": "Nearly every big fintech company has to rely on bank partners for regulated tasks such as holding customers’ deposits and issuing debit cards. LoanSnap Inc., a five-year-old startup based in San Francisco, uses AI to scan financial information such as a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
-      "originalUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
+      "webUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -820,8 +870,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-02T01:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -845,6 +895,7 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -940,49 +991,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-01-get-up-to-speed-with-microsoft-azure-with-over-50-hours-of-training-for-39.md",
-      "title": "Get up to speed with Microsoft Azure with over 50 hours of training for $39",
-      "excerpt": "In addition, there's a complete course dedicated to project-based learning, so you'll get familiar with Azure through real-life architectural and administration problems. Finally, you'll also get an introduction to machine learning with Azure Machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/get-up-to-speed-with-microsoft-azure-with-over-50-hours-of-training-for-39/",
-      "originalUrl": "https://www.zdnet.com/article/get-up-to-speed-with-microsoft-azure-with-over-50-hours-of-training-for-39/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-01T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {

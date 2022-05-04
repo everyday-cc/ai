@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Facebook-owner Meta opens access to AI large language model"
+    excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
+    publishedDateTime: 2022-05-03T21:22:00Z
+    webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Meta materials: Facebook using AI to design green concrete"
     excerpt: "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ..."
     publishedDateTime: 2022-04-29T15:29:00Z

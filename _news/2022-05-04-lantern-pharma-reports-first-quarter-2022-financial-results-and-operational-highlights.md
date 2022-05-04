@@ -2,26 +2,26 @@
 category: news
 title: "Lantern Pharma Reports First Quarter 2022 Financial Results and Operational Highlights"
 excerpt: "DALLAS, May 3, 2022 /PRNewswire/ -- Lantern Pharma Inc. (NASDAQ: LTRN), a clinical stage biopharmaceutical company using its proprietary RADR ® artificial intelligence (\"A.I ... the potential of combination therapy for these two agents."
-publishedDateTime: 2022-05-03T20:01:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/lantern-pharma-reports-first-quarter-2022-financial-results-and-operational-highlights/article_db5746ec-5e98-531b-860b-6fe07f56f167.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/lantern-pharma-reports-first-quarter-2022-financial-results-and-operational-highlights/article_db5746ec-5e98-531b-860b-6fe07f56f167.html"
+publishedDateTime: 2022-05-03T23:30:00Z
+originalUrl: "https://www.kron4.com/business/press-releases/cision/20220503DA44966/lantern-pharma-reports-first-quarter-2022-financial-results-and-operational-highlights/"
+webUrl: "https://www.kron4.com/business/press-releases/cision/20220503DA44966/lantern-pharma-reports-first-quarter-2022-financial-results-and-operational-highlights/"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: KRON4
+  domain: kron4.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/863d243e-42d9-5678-bcb2-fb436dbe88d9/62668454753c5.image.jpg?crop=939%2C493%2C0%2C100&resize=939%2C493&order=crop%2Cresize"
-    width: 939
-    height: 493
+  - url: "https://mma.prnewswire.com/media/1216507/Lantern_Pharma_Logo.jpg"
+    width: 400
+    height: 296
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "08eu5grZVjysjIDdqP6iBMPjJW0StGI9/1BXZMTTRx4cUmfm1wvfox1EMT/1kho4qSF2IqltSVB3x+zIG1qbFsN/A6bBe5jhHiDlvOJW8DQP/Iifev/KBSwWPkal6jqJVWx2/cihu/JYUqs7Ji3w76XHLTkpe3gy0rS/NPYYTtDzUcHgsTM2Jx3r84JsAmILRqiJsUYMbd4rcCba7LUMvnKtgJlsWcya6dQTB432YePqLEEOhBixHALc6xpIDrDvbM8NPpcoty8WAFwqyE78vXLY5iI8OAhZlWfF4U62tM2yo8NZ0LzDZJ9OCEQ2aIyJB6zDq0AynJ39aQXVizZ4sXnozfspFv1ilOWCKHsiUyk=;dzao2t617YoslZOD895IyQ=="
+secured: "vY/Bb0ONq+Ty9COciva4vGu7tsig2gCoL/U4GBGPL3WQSy8oN4L7W/qQNIDF29dhKpAksU78Kak1LCy0k/jQ4CkgvYbBw7dB6vJlb/+m/Gov+rv/CipjH3KxFNVZlkVXsIRgWwMyS4l7hoJvUsnSAwlkxDFi0Q5pSdRWwAvR3qP8jMpVAJpbvKZcaKSqVWjPzrJWz6aA26Gwb5qVnSQfH7oHszvYBOitk//OlLr3seye6FHdPDn0UybW0L2xOd0FMpfNdarNAdZQFAbN9fYhtH8YIN8YjPKO0bpssD45TjnjE84xHGxlWUVf1V+j5a4pw8P63so94ZibRBR5mf/1lEIHjZK3k4tTzUaqIqU9At8=;WEM3R0GzflkltLvZrVd3lA=="
 ---
 

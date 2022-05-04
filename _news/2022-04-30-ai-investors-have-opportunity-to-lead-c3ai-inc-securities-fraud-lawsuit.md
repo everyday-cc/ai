@@ -36,15 +36,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 17
-  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-    excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw.com. The complaint filed alleges ..."
-    publishedDateTime: 2022-04-29T06:40:00Z
-    webUrl: "https://www.news10.com/business/press-releases/cision/20220428PH39318/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
-    type: article
-    provider:
-      name: WTEN
-      domain: news10.com
-    quality: 15
 
 secured: "lGIb+Ye82aHhmN9s4GKVtsEiKnJjfSlzQRLCM0bYHO+M2JTuZAI4zwbT//BgTL3K8Y7EK+RTmKhDq7epvMG22sIpv50TWkQm5K7kb/R/wU+Fcj8ecYg8O4rokkQGgn/+qasdSoz2g+Z25Oz7NrgwQtFowEMaTG2rL9McYgweNPUJ0+8LdXtZF97YM/bWhR6d1srtdRc5NM80MxaT5GBN35bHdglYGPaDhoK0BYC++KaTUzXvH45Xza91n9hEi3rKep8/ZXrksBOP8qJ8V9zlNslBH7UoTMGdaIv5RVhgDiv9+dUcJD6Er+ONj8w9j9VKN/nEw4osG/TKyarlQTpVvIo+jf2R475zTwgcg4bigyw=;Ay1MUu5HEtQV6wF1Uuj2Rw=="
 ---

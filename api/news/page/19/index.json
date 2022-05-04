@@ -2,6 +2,152 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-04-14-use-automation-to-support-experience-not-to-cut-costs.md",
+      "title": "Use Automation to Support Experience, Not to Cut Costs",
+      "excerpt": "For some this means we've delayed our robot overlords from taking control, to others this means ... Tim Kulp is the Chief Innovation Officer at Mind Over Machines and a member of the Forbes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/",
+      "originalUrl": "https://www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/3aec731273844ef5ad2c77d291e5fa37.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/amp/",
+      "publishedDateTime": "2022-04-14T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-5-things-to-know-about-the-hottest-new-trend-in-ai-foundation-models.md",
+      "title": "5 things to know about the hottest new trend in AI: foundation models",
+      "excerpt": "Machine learning systems like DALL-E impress with their ability to generate creative work. These systems are known as \"foundational models.\"",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-foundation-models",
+      "originalUrl": "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-foundation-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fdalle.png&signature=5c81f4078ee4d3876527977e4ec061de",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-machine-learning-for-biology-is-starting-to-move-towards-retail.md",
+      "title": "Machine Learning For Biology Is Starting To Move Towards Retail",
+      "excerpt": "It is clear that the growth of the skincare segment provides yet another opportunity for machine learning to be used as part of a market solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y24,safe&width=1200",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/04/14/machine-learning-for-biology-is-starting-to-move-towards-retail/amp/",
+      "publishedDateTime": "2022-04-14T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-self-driving-taxis-txai-to-transport-passengers-on-yas-island.md",
       "title": "Self-driving taxis 'TXAI' to transport passengers on Yas Island",
       "excerpt": "Bayanat, which specialises in geospatial systems, data analysis and artificial intelligence, recently announced its new fleet of driverless vehicles under the TXAI brand, which represents the first fully-automated taxis in the UAE.",
@@ -992,145 +1138,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-six-nines-announces-support-for-aws-for-games.md",
-      "title": "Six Nines Announces Support for AWS for Games",
-      "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220413sf22045/six-nines-announces-support-for-aws-for-games",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220413sf22045/six-nines-announces-support-for-aws-for-games",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis.md",
-      "title": "Razer-designed Linux laptop targets AI developers with deep learning emphasis",
-      "excerpt": "Made in collaboration with Lambda, the Linux-based clamshell focuses on deep learning development. Lambda, which has been around since 2012, is a deep learning infrastructure provider used by the US Department of Defense and \"97 percent of the top research universities in the US,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/razer-book-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc.md",
-      "title": "After A 24-Year Absence, Intel Re-Enters The Discrete GPU Market With Arc",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers Intel's launch of its Arc 3,5 and 7 notebook processors for notebook PC gamers and addresses why three vendors is better than one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625700c3f17cd051e0b0c62f/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
-      "publishedDateTime": "2022-04-13T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

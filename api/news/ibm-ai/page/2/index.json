@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-12-conversational-ai-the-future-of-man-machine-singularity.md",
+      "title": "Conversational AI: The Future of Man-Machine Singularity",
+      "excerpt": "The social evolution on this planet has consumed several millennia. The languages we speak globally and interacting with people by understanding the context of discussions have far more refined and polished than what pre-historic humanoids used to practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
+      "originalUrl": "https://www.linkedin.com/pulse/conversational-ai-future-man-machine-singularity-alok-nayak",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE_KpyNBndcXg/article-cover_image-shrink_720_1280/0/1647070382704?e=1653523200&v=beta&t=b16PG9_8vOWe-0ixNoRvrp3gxDrSbknDbwr4cIufnqs",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-c3ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-telecom-conference.md",
       "title": "C3.ai's (AI) CEO Tom Siebel on Morgan Stanley Technology, Media & Telecom Conference",
       "excerpt": "I’m super thrilled to have Tom Siebel, CEO of C3.ai, looking forward to having a conversation ... So the alternative to us early on would have been IBM Watson, which is now, I think, shut ...",
@@ -1316,58 +1368,6 @@
         "name": "Design News",
         "domain": "designnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-is-selling-off-its-watson-health-assets.md",
-      "title": "IBM is selling off its Watson Health assets",
-      "excerpt": "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "publishedDateTime": "2022-01-21T21:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

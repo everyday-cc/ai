@@ -8,8 +8,8 @@ webUrl: "https://www.washingtontimes.com/news/2022/may/3/tech-experts-warn-lawma
 ampWebUrl: "https://amp.washingtontimes.com/news/2022/may/3/tech-experts-warn-lawmakers-us-isnt-par-artificial/"
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/may/3/tech-experts-warn-lawmakers-us-isnt-par-artificial/"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://twt-thumbs.washtimes.com/media/image/2020/01/07/regulating_artificial_intelligence_93657_c0-75-3414-2066_s1200x700.jpg?b7a37aeec3c5278444f38d86ead8dfb4efb91640"
@@ -42,6 +43,6 @@ related:
         height: 4500
         isCached: true
 
-secured: "L2FH0dpxN2j9M7k/zCCCRGlWX7n9sNKgvUwtgqSdkt3FtbpDuFedT6VN+gihHL1yM/Y0esps0vghgJjWDHb6Yiv+m16AGDKtTUJXEm6PlX645Alx8yhqNaudrooUMsUDLTisFoMmy1QF+JogQAEuKoYYWkA6zmsYq7n1RhKtC8vtSjxzkrCB0dog03ZGctmD8KKTzznkHb4N9vf9K3CmdjevWBoZ2BGhkQrOOculcVWbrz7NJatsFV/rKJr1JQMJilianYEZ2nG/VlAzQl1ttvR5u8jiJaixr4AuA8y+a5DRneRvJc480Ki2SniOh20jt9W1OEm5rPB3S+GW8ac4jOQD5Hmp8yyXNcTNVp048Ag=;M6kB9LXsZctS073TmiT5iA=="
+secured: "KK2y1/6Ga6z0+/Vj3go90xPXhHaGiID6otPHIVZIlTtZ3zxJMzh6vfXxWIq9eR08BZX1eVblPb8gp+pK4kCNEIRox34p4h6BOjKtJDASYft4uwb9SWbkvpVacPQOtpZ2qfxhMfcpJWx+69F8523zUCt2GehGhlfPo6NkCeli4rdmZIqEiFHikCKmEUhzwB8UQ3HW//8cyzn7pelH7W/CgOzhzFSPgfrFlK4q9jk3o4iOQe2iJCPy12JZoGqK2o2wsYR9O7xCPRn6KEb0LO9SMsQaWRv10IRj4m6OF1LgKpLFcmkzQeZtMCAP4AUKXYm0+U3XCl6KpIzBSThOYEN31Y4spOsGyofKgwI72Md3g/zNwYeAXRqA4/1EJ+DPasX1eex64HOiZLCHDhwZn/qJ9QVKGRMmoF4RDBJJ9YGaL/6jLPnpH3pVBPLB5ww7byhojxs9bcrn8tDlk7dUs2yNJ/lp0bj0IV1vdhP1cHU6e9jqIntvYKEgsJJB70bIXw7QdfNduu3BoAZsOeI0LSjDtA==;8V1alEuBFJgzOgA+/n08pw=="
 ---
 

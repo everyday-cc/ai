@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-09-elon-musk-says-production-of-teslas-robot-could-start-next-year-but-ai-experts-have-their-doubts.md",
+      "title": "Elon Musk says production of Tesla's robot could start next year, but A.I. experts have their doubts",
+      "excerpt": "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "originalUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107043923-1649419793298-gettyimages-1239825668-AFP_327X2VH.jpeg?v=1649420032",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "publishedDateTime": "2022-04-08T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy.md",
+      "title": "3 Chinese Stocks to Buy on the Dip Amid China Triple Whammy",
+      "excerpt": "However, revenue from non-core businesses, including AI, Baidu Cloud and self-driving cars, soared 63% YOY, compensating for the decline in its advertising business. BIDU stock is down 38% over ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy",
+      "originalUrl": "https://www.nasdaq.com/articles/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy?amp",
+      "publishedDateTime": "2022-04-08T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-google-adds-self-repair-options-for-pixel-phones.md",
       "title": "Google adds self-repair options for Pixel phones",
       "excerpt": "More positive news for phone owners looking to take matters into their own hands. Google this morning announced that it’s teaming with iFixit to offer a suite of tools for fixing Pixel handsets. At launch (later this year),",
@@ -1259,83 +1346,6 @@
       "provider": {
         "name": "FOX 10 Phoenix",
         "domain": "fox10phoenix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-chinas-baidu-exploring-options-after-us-delisting-risk.md",
-      "title": "China's Baidu exploring options after U.S. delisting risk",
-      "excerpt": "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator’s list of companies that face the risk of being delisted.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "originalUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "publishedDateTime": "2022-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymos-self-driving-cars-are-coming-to-downtown-phoenix.md",
-      "title": "Waymo's self-driving cars are coming to downtown Phoenix",
-      "excerpt": "The autonomous car company has already been operating its self-driving vehicles around the East Valley for years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.12news.com/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "originalUrl": "https://www.12news.com/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.12news.com/assets/KPNX/images/7b3c006d-a483-4340-8e5c-9b34900ab441/7b3c006d-a483-4340-8e5c-9b34900ab441_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.12news.com/amp/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "publishedDateTime": "2022-03-30T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPNX",
-        "domain": "12news.com",
         "images": null,
         "publishers": null,
         "authors": null
