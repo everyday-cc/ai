@@ -1,0 +1,1365 @@
+---
+title: "A.I. Every Day (2022-05-04)"
+excerpt: "Experiencing NVIDIA Jetson AGX Orin: The Fascinating Future Of AI-Empowered Robotics / Deploy and manage machine learning pipelines with Terraform using Amazon SageMaker / IT security startup Traceable AI raises USD 60 million from Institutional Venture Partners, others"
+publishedDateTime: 2022-05-04T18:14:10Z
+webUrl: "https://everyday.cc/ai/newsletter/ai-every-day-2022-05-04/"
+type: article
+
+topics:
+  - AI
+
+---
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no">
+  <title>A.I. Every Day (2022-05-04)</title>
+  <meta name="description" content="Experiencing NVIDIA Jetson AGX Orin: The Fascinating Future Of AI-Empowered Robotics / Deploy and manage machine learning pipelines with Terraform using Amazon SageMaker / IT security startup Traceable AI raises USD 60 million from Institutional Venture Partners, others">
+  <!--[if mso]>
+    <style>
+        * {
+            font-family: sans-serif !important;
+        }
+    </style>
+  <![endif]-->
+  <!--[if !mso]><!-->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&amp;display=swap" rel="stylesheet"
+    type="text/css">
+  <!--<![endif]-->
+  <style>
+    html,
+    body {
+      margin: 0 auto !important;
+      padding: 0 !important;
+      height: 100% !important;
+      width: 100% !important;
+    }
+
+    * {
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    div[style*="margin: 16px 0"] {
+      margin: 0 !important;
+    }
+
+    table,
+    td {
+      mso-table-lspace: 0pt !important;
+      mso-table-rspace: 0pt !important;
+    }
+
+    table {
+      border-spacing: 0 !important;
+      border-collapse: collapse !important;
+      table-layout: fixed !important;
+      margin: 0 auto !important;
+    }
+
+    img {
+      -ms-interpolation-mode: bicubic;
+    }
+
+    a[x-apple-data-detectors] {
+      border-bottom: 0 !important;
+      cursor: default !important;
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
+    .im {
+      color: #180b01 !important;
+    }
+
+    @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+      u~div .newsletter-content {
+        min-width: 320px !important;
+      }
+    }
+
+    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+      u~div .newsletter-content {
+        min-width: 375px !important;
+      }
+    }
+
+    @media only screen and (min-device-width: 414px) {
+      u~div .newsletter-content {
+        min-width: 414px !important;
+      }
+    }
+  </style>
+
+  <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+  <![endif]-->
+
+  <style>
+    @media screen and (max-width: 680px) {
+      a {
+        color: {link_color} !important;
+        text-decoration: none !important;
+      }
+
+      .logo {
+        max-width: 80% !important;
+        height: auto !important;
+        max-height: 43px !important;
+      }
+
+      .story-title p {
+        margin: 0 !important;
+      }
+
+      .sm-px-none {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+
+      .sm-p {
+        padding: 20px !important;
+      }
+
+      .sm-pt {
+        padding-top: 20px !important;
+      }
+
+      .sm-px10 {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+
+      .markets {
+        width: 100%;
+        border: 0;
+      }
+
+      .markets td {
+        border-bottom: 1px solid #e6d1c6;
+        padding: 10px 0;
+      }
+
+      .text-left {
+        text-align: left !important;
+      }
+
+      .copyright-area p,
+      .date-area p {
+        text-align: center !important;
+      }
+    }
+  </style>
+  <style>
+    @media only screen and (min-width: 681px) {
+      .template-button {
+        background-color: #2956CD !important;
+        border-radius: 5px !important;
+        font-weight: 700 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 1px !important;
+        padding: 12px 10px !important;
+        color: #fff !important;
+        Margin-left: 0px !important;
+        font-size: 12px !important;
+        line-height: 12px !important;
+        text-decoration: none !important;
+      }
+
+      a {
+        color: {link_color} !important;
+        text-decoration: none !important;
+      }
+
+      .copyright-area p,
+      .date-area p {
+        text-align: left !important;
+      }
+
+      .text-left {
+        text-align: left !important;
+      }
+
+      .story-body p {
+        margin-top: 0 !important;
+      }
+
+      .story-title p {
+        margin: 0 !important;
+      }
+
+      .area-share,
+      .area-content,
+      .ad-image,
+      .social-area,
+      .copyright-area,
+      .date-area,
+      .hidden-area,
+      .network-area {
+        display: table-cell;
+        vertical-align: top;
+      }
+
+      .area-share {
+        width: 55px;
+      }
+
+      .area-content {
+        width: 585px;
+      }
+
+      .network-area {
+        width: 310px;
+      }
+
+      .hidden-area,
+      .date-area {
+        width: 165px;
+      }
+
+      .copyright-area,
+      .social-area {
+        width: 320px;
+      }
+
+      .template-button {
+        color: #FFF !important;
+      }
+
+      .markets {
+        width: 100%;
+        border: 0;
+      }
+
+      .markets td {
+        border-bottom: 1px solid #e6d1c6;
+        padding: 10px 0;
+      }
+    }
+  </style>
+</head>
+
+<body style="margin: 0; padding: 0 !important; mso-line-height-rule: exactly; line-height: .8;" id="body">
+  <center style="width: 100%;">
+    <!--[if mso]>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+    <tr>
+    <td>
+    <![endif]-->
+
+    <!--Header-->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+      style="background-color: #0A0300; width: 100%;">
+      <tr>
+        <td align="ccenter">
+          <div style="font-size: 0; max-width: 640px; margin: 0 auto; line-height: 2;" class="newsletter-content">
+          <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 640px; margin: 0 auto;" align="center">
+          <tr>
+          <td align="center" style="vertical-align: middle; width: 165px; height: 50px; margin: 0 auto;">
+          <![endif]-->
+            <div class="hidden-area"></div>
+          <!--[if mso]>
+          </td>
+          <td align="center" style="vertical-align: middle; width: 310px; height: 50px; margin: 0 auto;">
+          <![endif]-->
+            <div class="network-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; height: 50px;">
+                <tr>
+                  <td>
+                    <p
+                      style="color: #2956CD; text-align: center; text-transform: uppercase; font-size: 12px; letter-spacing: 1px; font-family: Open Sans, Segoe UI, sans-serif;">
+                      Part of Everyday Course Club</p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+                </td>
+                <td align="right" style="vertical-align: middle; width: 165px; height: 50px; margin: right;">
+                <![endif]-->
+
+            <div class="date-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; height: 50px;">
+                <tr>
+                  <td>
+                    <p
+                      style="font-size: 12px; text-align: center; color: #FFFFFF; text-transform: uppercase; letter-spacing: 1px; font-family: Open Sans, Segoe UI, sans-serif;">
+                      <a href="https://everyday.cc/ai/newsletter/ai-every-day-2022-05-04/" style="text-decoration: none; color: #FFFFFF !important;">2022-05-04</a>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!--End of Header-->
+    <!--Content-->
+    <div class="newsletter-content" style="max-width: 680px; margin: 0 auto;">
+      <!--[if mso]>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 680px; margin: 0 auto;" align="center">
+            <tr>
+            <td>
+            <![endif]-->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tr>
+          <td style="padding:70px 0 20px;" align="center">
+            <h1 style="text-align:center; margin: 0;">
+              <span style="vertical-align: middle; font-family: Open Sans, Segoe UI, Tahoma, sans-serif; font-size: 28px">A.I. Every Day<br />
+                <a href="https://everyday.cc/ai/" style="text-decoration: none;vertical-align: middle; display: table-cell;">
+                  <img alt="Logo" src="https://everyday.azureedge.net/ai10/sites/4/2021/04/ai_round_corner.png" border="0" height="43" style="width: auto;" class="logo">
+                </a>
+              </span>
+            </h1>
+          </td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 680px;">
+        <tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>News of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Experiencing+NVIDIA+Jetson+AGX+Orin%3a+The+Fascinating+Future+Of+AI-Empowered+Robotics https%3a%2f%2fwww.forbes.com%2fsites%2fdavealtavilla%2f2022%2f05%2f04%2fexperiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.forbes.com%2fsites%2fdavealtavilla%2f2022%2f05%2f04%2fexperiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/"><img src="https://imageio.forbes.com/specials-images/imageserve/62715c96e2864518f941d642/0x0.jpg?format=jpg&width=1200" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Experiencing NVIDIA Jetson AGX Orin: The Fascinating Future Of AI-Empowered Robotics{% endraw %}</strong> As you can see, NVIDIA’s Riva AI speech recognition engine has no problem keeping ... Various configurations of Jetson AGX Orin production modules above will start shipping in July, with lower cost Jetson Orin NX modules shipping in September.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/"
+                                    style="color: #2956CD; text-decoration: none;">↪ Forbes
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Deploy+and+manage+machine+learning+pipelines+with+Terraform+using+Amazon+SageMaker https%3a%2f%2faws.amazon.com%2fblogs%2fmachine-learning%2fdeploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2faws.amazon.com%2fblogs%2fmachine-learning%2fdeploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker/"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/27/ML4359-architecture-diagram-1.png" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Deploy and manage machine learning pipelines with Terraform using Amazon SageMaker{% endraw %}</strong> AWS customers are relying on Infrastructure as Code (IaC) to design, develop, and manage their cloud infrastructure. IaC ensures that customer infrastructure and services are consistent, scalable, and reproducible, while being able to follow best practices in the area of development operations (DevOps).</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker/"
+                                    style="color: #2956CD; text-decoration: none;">↪ AWS
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057"><img alt="" src="https://everyday.azureedge.net/media/2021/04/3-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=IT+security+startup+Traceable+AI+raises+USD+60+million+from+Institutional+Venture+Partners%2c+others https%3a%2f%2fwww.zeebiz.com%2fsmall-business%2fnews-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.zeebiz.com%2fsmall-business%2fnews-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057"><img src="https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}IT security startup Traceable AI raises USD 60 million from Institutional Venture Partners, others{% endraw %}</strong> IT security startup Traceable AI on Tuesday said it raised USD 60 million, about Rs 460 crore, in a funding round led by Institutional Venture Partners</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057"
+                                    style="color: #2956CD; text-decoration: none;">↪ Zee Business
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/4-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Traversing+The+Great+Uncertainty+With+AI+And+Intelligent+Forecasting https%3a%2f%2fwww.forbes.com%2fsites%2fforbestechcouncil%2f2022%2f05%2f04%2ftraversing-the-great-uncertainty-with-ai-and-intelligent-forecasting%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.forbes.com%2fsites%2fforbestechcouncil%2f2022%2f05%2f04%2ftraversing-the-great-uncertainty-with-ai-and-intelligent-forecasting%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/"><img src="https://imageio.forbes.com/specials-images/imageserve/62711214c63fd2377df98d3a/0x0.jpg?format=jpg&width=1200" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Traversing The Great Uncertainty With AI And Intelligent Forecasting{% endraw %}</strong> AI can provide an agile way to sort through these extensive logs of data to quantify unique sets of market drivers for any given business. Out of thousands—maybe millions—of external market signals, AI can help business leaders identify the top ...</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/"
+                                    style="color: #2956CD; text-decoration: none;">↪ Forbes
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/5-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Why+Focusing+On+User-Centricity+In+AI+Is+The+Best+Move https%3a%2f%2fwww.forbes.com%2fsites%2fforbestechcouncil%2f2022%2f05%2f04%2fwhy-focusing-on-user-centricity-in-ai-is-the-best-move%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.forbes.com%2fsites%2fforbestechcouncil%2f2022%2f05%2f04%2fwhy-focusing-on-user-centricity-in-ai-is-the-best-move%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/"><img src="https://imageio.forbes.com/specials-images/imageserve/5ee37b6f7aa2f00006297975/0x0.jpg?format=jpg&crop=7500,4218,x0,y0,safe&width=1200" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Why Focusing On User-Centricity In AI Is The Best Move{% endraw %}</strong> If you establish a process of evaluating meaningful insights that work within your organization&#39;s context, what can start as surprising consumer sentiments can quickly become opportunities to leverage AI for scalable interventions and results. It&#39;s ...</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/"
+                                    style="color: #2956CD; text-decoration: none;">↪ Forbes
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Learning of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=R+for+Data+Science%3a+Import%2c+Tidy%2c+Transform%2c+Visualize%2c+and+Model+Data https%3a%2f%2fwww.amazon.com%2fData-Science-Transform-Visualize-Model%2fdp%2f1491910399%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.amazon.com%2fData-Science-Transform-Visualize-Model%2fdp%2f1491910399%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}R for Data Science: Import, Tidy, Transform, Visualize, and Model Data{% endraw %}</strong> Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the tidyverse, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/"
+                                    style="color: #2956CD; text-decoration: none;">↪ Amazon
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://www.coursera.org/learn/ml-foundations"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Machine+Learning+Foundations%3a+A+Case+Study+Approach https%3a%2f%2fwww.coursera.org%2flearn%2fml-foundations">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.coursera.org%2flearn%2fml-foundations">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://www.coursera.org/learn/ml-foundations">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Machine Learning Foundations: A Case Study Approach{% endraw %}</strong> Learn Machine Learning Foundations: A Case Study Approach from University of Washington. Do you have data and wonder what it can tell you?  Do you need a deeper understanding of the core ways in which machine learning can improve your business?  ...</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://www.coursera.org/learn/ml-foundations"
+                                    style="color: #2956CD; text-decoration: none;">↪ Coursera
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Companies of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/company/netguardians.ch/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=NetGuardians https%3a%2f%2feveryday.cc%2fai%2fcompany%2fnetguardians.ch%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fcompany%2fnetguardians.ch%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/company/netguardians.ch/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}NetGuardians{% endraw %}</strong> NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/company/netguardians.ch/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Company
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/company/deeplearning.ai/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=deeplearning.ai https%3a%2f%2feveryday.cc%2fai%2fcompany%2fdeeplearning.ai%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fcompany%2fdeeplearning.ai%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/company/deeplearning.ai/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}deeplearning.ai{% endraw %}</strong> deeplearning.ai is making a world-class AI education accessible to people around the globe. deeplearning.ai was founded by Andrew Ng, a global leader in AI.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/company/deeplearning.ai/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Company
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Influencers of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/people/john-carmack/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=John+Carmack https%3a%2f%2feveryday.cc%2fai%2fpeople%2fjohn-carmack%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fpeople%2fjohn-carmack%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/people/john-carmack/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}John Carmack{% endraw %}</strong> Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/people/john-carmack/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Profile
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #2956CD; width: 35px;">
+                                <a href="https://everyday.cc/ai/people/john-krafcik/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-white.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=John+Krafcik https%3a%2f%2feveryday.cc%2fai%2fpeople%2fjohn-krafcik%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fai%2fpeople%2fjohn-krafcik%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/ai/people/john-krafcik/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}John Krafcik{% endraw %}</strong> We&#39;re building the world&#39;s most experienced driver.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/ai/people/john-krafcik/"
+                                    style="color: #2956CD; text-decoration: none;">↪ View Profile
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+
+      </table>
+      <!--[if mso]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+    </div>
+    <!--End of Content-->
+    <!--Footer-->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+      style="width: 100%;">
+      <tr>
+        <td style="padding: 10px;">
+          <div style="font-size: 0; max-width: 640px; margin: 0 auto;" class="newsletter-content">
+            <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" style="width: 640px; margin: 0 auto;">
+          <tr>
+          <td align="left" style="vertical-align: middle; width: 140px;">
+          <![endif]-->
+
+            <div class="social-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                <tr>
+                  <td>
+                    <a clicktracking="off" href="https://twitter.com/everydayfeeds"
+                      style="box-sizing: content-box; display: inline-block; width: 35px; height: 35px; border: 1px solid #200a00; Margin: 10px 16px 10px 0; text-align: center; border-radius: 50%;">
+                      <img alt="Twitter" src="https://everyday.azureedge.net/media/2021/04/twitter-black.png" border="0" height="35" width="35">
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+          </td>
+          <td align="left" style="vertical-align: middle; width: 500px;">
+          <![endif]-->
+
+            <div class="copyright-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
+                <tr>
+                  <td>
+                    <p style="margin: 0; font-size: 12px; font-family: Open Sans, Segoe UI, sans-serif; line-height: 28px"
+                      class="sm-pt">
+                      <a href="mailto:hello@everyday.cc" style="text-decoration: none;">hello@everyday.cc</a><br />
+                      Copyright (c) 2020 Everyday.cc, All rights reserved.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 20px;">
+          <div style="max-width: 640px; margin: 0 auto;" class="newsletter-content">
+            <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 640px; margin: 0 auto" align="center">
+          <tr>
+          <td align="left" style="vertical-align: middle;">
+          <![endif]-->
+
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
+              <tr>
+                <td>
+                  <p
+                    style="text-align: center; text-decoration: none; font-size: 12px; font-family: Open Sans, Segoe UI, sans-serif; line-height: 24px">
+                    {can-spam}
+                  </p>
+                </td>
+              </tr>
+            </table>
+
+            <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!--End of Footer-->
+    <!--[if mso]>
+  </td>
+  </tr>
+  </table>
+  <![endif]-->
+  </center>
+</body>
+
+</html>
+
