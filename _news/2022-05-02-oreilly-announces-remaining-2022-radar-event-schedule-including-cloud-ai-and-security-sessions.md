@@ -41,15 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Ways AI Improves Online Learning Process"
-    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
-    publishedDateTime: 2022-04-29T13:35:00Z
-    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 17
   - title: "Machinex’s Jonathan Ménard Sees AI as a Gamechanger in Waste and Recycling"
     excerpt: "“Leading on to participating in startup and performance tests of new facilities ... The upcoming, industry technology that has Menard excited is the almost infinite power AI will have on sorting processes. “AI is a powerful tool to extract, archive ..."
     publishedDateTime: 2022-05-03T13:16:00Z

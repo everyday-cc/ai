@@ -35,6 +35,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
+  - title: "Mihup, conversational AI Startup records 3x revenue growth"
+    excerpt: "Through its endeavors, Mihup is bringing about true democratization and facilitating the large-scale adoption of voice AI technologies. Recently the company launched its advanced multilingual platform called VIA 2.0, and it is now aiming to double its team ..."
+    publishedDateTime: 2022-05-04T05:49:00Z
+    webUrl: "https://www.crn.in/news/mihup-conversational-ai-startup-records-3x-revenue-growth/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 37
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2020/07/27131448/CRN-Finance-FinTech-Digital-Tech-Growth-696.jpg"
+        width: 696
+        height: 465
+        isCached: true
 
 secured: "zcoUqAZ2wrjUqLyQsNkL6z3eB6QrR98I4cks0NH5wt4VFjU5dIgrg+jULiuc2aekeeAXzgAXQulSG7C2KYEdO8LWeloy4KTr+GYAEkqvATFMVgFXrstnNIE0tLwceykfyTXJa9K6ituhPsvo36nmNfMHCL0cWRA0bHjEC58Tqr6z1+mCU8v+wI+zaTjxoBL7pwW49CZWzVcJAz+UV8oyKHABmW7kizsviRjJ3vvPS6/sw+0LzqMHJETbkob0eHuZVRX7m6ij9dIsG3R8kabSwts+rLlhjqHWXqp+sPayFksV+PKo6U5TGu7P6K6mUAdWC2NfNC1Ls+EGtyTj1bm9pxYccyPHaYnBKKZd8qsamnI=;f+FCBBe0fX5qXoQsufO1YQ=="
 ---

@@ -27,20 +27,6 @@ images:
 
 related:
   - title: "Bronstein, Gewirtz & Grossman, LLC Reminds c3.ai, Inc. (AI) Shareholders of Class Action Deadline and Encourages Investors to Actively Participate"
-    excerpt: "Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC notifies investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3” or “the Company”) (NYSE: AI) and certain of its officers, on behalf of all persons and entities that ..."
-    publishedDateTime: 2022-04-29T15:02:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/bronstein-gewirtz-grossman-llc-reminds-c3-ai-inc-ai-shareholders-of-class-action-deadline-and/article_a3a49384-7dc2-5595-ab7c-db1dd7417045.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 0
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Bronstein, Gewirtz & Grossman, LLC Reminds c3.ai, Inc. (AI) Shareholders of Class Action Deadline and Encourages Investors to Actively Participate"
     excerpt: "Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC notifies investors that a class action lawsuit has been filed against C3.ai, Inc. (“C3&CloseCurlyDoubleQuote; or “the Company&CloseCurlyDoubleQuote;) (NYSE: AI) and certain of its officers ..."
     publishedDateTime: 2022-04-29T18:01:00Z
     webUrl: "https://stockhouse.com/news/press-releases/2022/04/29/bronstein-gewirtz-grossman-llc-reminds-c3-ai-inc-xa0-ai-shareholders-of-class"

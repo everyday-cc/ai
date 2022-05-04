@@ -36,6 +36,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 17
+  - title: "C3.ai (NYSE:AI) Cut to Hold at Zacks Investment Research"
+    excerpt: "Zacks Investment Research lowered shares of C3.ai (NYSE:AI – Get Rating) from a buy rating to a hold rating in a research report released on Tuesday morning, Zacks.com reports. According to Zacks, “C3.ai Inc. is an enterprise AI software provider for ..."
+    publishedDateTime: 2022-05-04T07:24:00Z
+    webUrl: "https://www.defenseworld.net/2022/05/04/c3-ai-nyseai-cut-to-hold-at-zacks-investment-research-2.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
 
 secured: "lGIb+Ye82aHhmN9s4GKVtsEiKnJjfSlzQRLCM0bYHO+M2JTuZAI4zwbT//BgTL3K8Y7EK+RTmKhDq7epvMG22sIpv50TWkQm5K7kb/R/wU+Fcj8ecYg8O4rokkQGgn/+qasdSoz2g+Z25Oz7NrgwQtFowEMaTG2rL9McYgweNPUJ0+8LdXtZF97YM/bWhR6d1srtdRc5NM80MxaT5GBN35bHdglYGPaDhoK0BYC++KaTUzXvH45Xza91n9hEi3rKep8/ZXrksBOP8qJ8V9zlNslBH7UoTMGdaIv5RVhgDiv9+dUcJD6Er+ONj8w9j9VKN/nEw4osG/TKyarlQTpVvIo+jf2R475zTwgcg4bigyw=;Ay1MUu5HEtQV6wF1Uuj2Rw=="
 ---

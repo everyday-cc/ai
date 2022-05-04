@@ -2,49 +2,6 @@
   "page": 64,
   "value": [
     {
-      "path": "_news/2022-03-09-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
-      "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
-      "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26063678",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26063678",
-      "publishedDateTime": "2022-03-09T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-09-ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem.md",
       "title": "AI is helping treat healthcare as if it’s a supply chain problem",
       "excerpt": "Global health groups are turning to supply chain software to help patients get better access to treatment and testing.",
@@ -1160,6 +1117,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-fast-company-names-liveperson-the-1-most-innovative-ai-company-in-the-world.md",
+      "title": "Fast Company names LivePerson the #1 Most Innovative AI Company in the World",
+      "excerpt": "PRNewswire/-- LivePerson (Nasdaq: LPSN), a global leader in Conversational AI, has been named to Fast Company's prestigious annual list of the World's Most Innovative Companies for 2022. Fast Company ranked LivePerson at #1 on its World's Most Innovative Companies in Artificial Intelligence list,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/fast-company-names-liveperson-the-1-most-innovative-ai-company-in-the-world-1031262599",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/fast-company-names-liveperson-the-1-most-innovative-ai-company-in-the-world-1031262599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1761621/LivePerson_Inc_Press_Release_Fast_Company_2x.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

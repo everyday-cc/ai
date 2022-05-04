@@ -192,20 +192,6 @@ related:
         width: 1080
         height: 721
         isCached: true
-  - title: "Using AI and Machine Learning to Reduce Wastewater Flooding and Pollution"
-    excerpt: "As part of the endeavor, Rockwell teams specializing in network and cybersecurity, AI, and machine learning applications are providing guidance as well as counsel and support on other emerging technologies. Rockwell software and hardware will also be part ..."
-    publishedDateTime: 2022-04-29T14:27:00Z
-    webUrl: "https://www.csrwire.com/press_releases/743181-using-ai-and-machine-learning-reduce-wastewater-flooding-and-pollution"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 53
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/Utility_Rockwell_042522.png"
-        width: 737
-        height: 438
-        isCached: true
   - title: "Google researchers fired after questioning AI"
     excerpt: "Google fired a researcher who questioned a paper it published on the abilities of a specialized type of AI used in manufacturing computer chips, making it the third researcher fired after critiquing the company's AI, The New York Times reported May 2."
     publishedDateTime: 2022-05-02T15:49:00Z

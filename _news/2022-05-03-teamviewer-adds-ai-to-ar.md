@@ -39,6 +39,34 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "TeamViewer brings Artificial Intelligence to the Shopfloor"
+    excerpt: "TeamViewer announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer’s leading enterprise Augmented Reality (AR) platform Frontline. AiStudio consists of a self-learning algorithm to train AI models for image ..."
+    publishedDateTime: 2022-05-04T05:38:00Z
+    webUrl: "https://www.crn.in/news/teamviewer-brings-artificial-intelligence-to-the-shopfloor/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 37
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2020/05/12140219/Artificial-intelligence-HR.jpg"
+        width: 750
+        height: 430
+        isCached: true
+  - title: "TeamViewer announces AiStudio add-on to bring AI image and object recognition to its Frontline enterprise Augmented Reality platform"
+    excerpt: "AiStudio consists of a self-learning algorithm to train AI models for image and object recognition. Following TeamViewer’s no-code approach for the Frontline platform, the use of AiStudio does not require any programming skills. According to the company ..."
+    publishedDateTime: 2022-05-04T07:16:00Z
+    webUrl: "https://www.auganix.org/teamviewer-announces-aistudio-add-on-to-bring-ai-image-and-object-recognition-to-its-frontline-enterprise-augmented-reality-platform/"
+    type: article
+    provider:
+      name: auganix
+      domain: auganix.org
+    quality: 23
+    images:
+      - url: "https://i0.wp.com/www.auganix.org/wp-content/uploads/2022/05/TeamViewer-AiStudio.png?fit=900%2C630&ssl=1"
+        width: 900
+        height: 630
+        isCached: true
 
 secured: "9u5Om5i2shSgtWtDPa3tEuCJreOslxkDC4nGQiEjJaj6mbpbMEOBLBSFQKf9cCD2G1qI/ewFdw0bM6g9wupQSSbVs+3MGtpxqooVrF6CpaHFJUdzRH4pENos1pHG9P20DUU9b1e2HM3PnqZtJrOfyIhop7QewzjzsMdmVUzE1qIMRrYEFnlX2i0WCstv9jEB2BoksiQXZTaT3p5FOrX8Ui1plt0FTIavD4gsX9hp95RP2yebxjH37hcFElUW2i6A7dQ9iR5bDbAx+7W7vpHg0jsNaPJyqSdXEaIzNb+05OwOaDEDTDWC2w58XZlWRo5/rJTSc8rNY0fse+9Q8rhhukiOfX0Qj7ReTXbhuFjlVYw=;BmcA8lZCY1664FwqV9Ldtg=="
 ---

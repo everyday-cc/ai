@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-another-ai-researc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings/"
 type: article
 quality: 89
-heat: 270
+heat: 260
 published: true
 
 provider:
@@ -184,20 +184,6 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/05_may/3_tue/img_1651597873197_322.jpg?"
         width: 1080
         height: 721
-        isCached: true
-  - title: "Using AI and Machine Learning to Reduce Wastewater Flooding and Pollution"
-    excerpt: "As part of the endeavor, Rockwell teams specializing in network and cybersecurity, AI, and machine learning applications are providing guidance as well as counsel and support on other emerging technologies. Rockwell software and hardware will also be part ..."
-    publishedDateTime: 2022-04-29T14:27:00Z
-    webUrl: "https://www.csrwire.com/press_releases/743181-using-ai-and-machine-learning-reduce-wastewater-flooding-and-pollution"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 53
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/Utility_Rockwell_042522.png"
-        width: 737
-        height: 438
         isCached: true
   - title: "Google fires another AI researcher who reportedly challenged findings"
     excerpt: "Google is still firing AI researchers amid criticism of its work. The New York Times has learned Google fired machine learning scientist Satrajit Chatterjee in March, soon after it refused to publish a paper Chatterjee and others wrote challenging earlier ..."

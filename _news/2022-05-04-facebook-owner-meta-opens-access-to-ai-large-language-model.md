@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-acces
 webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
     images:
       - url: "https://regmedia.co.uk/2022/04/29/shutterstock_cement.jpg"
         width: 1200
+        height: 600
+        isCached: true
+  - title: "Meta opens access to its large language model for AI researchers"
+    excerpt: "Meta said the scientific community needs to be able to work together to advance AI research and probe for vulnerabilities. Facebook’s parent company Meta said it is sharing its large language model trained with more than 175bn parameters, to be available ..."
+    publishedDateTime: 2022-05-04T07:08:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-large-language-model"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 41
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_465885157_Editorial_Use_Only.jpeg"
+        width: 800
         height: 600
         isCached: true
   - title: "Meta opens access to AI large language model"

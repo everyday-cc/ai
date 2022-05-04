@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?w=1024"

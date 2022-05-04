@@ -2,49 +2,6 @@
   "page": 58,
   "value": [
     {
-      "path": "_news/2022-03-15-giving-a-voice-to-the-community-through-excellence-in-machine-learning-research.md",
-      "title": "Giving a voice to the community through excellence in machine learning research",
-      "excerpt": "One thing that drives each of us forward is the pursuit of our place in the world. It is likely why many of us pursue college degrees and get involved",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyuw.com/news/community/giving-a-voice-to-the-community-through-excellence-in-machine-learning-research/article_d0475226-a2b1-11ec-a341-43c5c28a925d.html",
-      "originalUrl": "https://www.dailyuw.com/news/community/giving-a-voice-to-the-community-through-excellence-in-machine-learning-research/article_d0475226-a2b1-11ec-a341-43c5c28a925d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyuw.com/content/tncms/assets/v3/editorial/5/a1/5a1cba4a-a2b2-11ec-82b7-97988abe8e99/622dbd641e3f6.image.jpg?crop=1762%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dailyUW.com",
-        "domain": "dailyuw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-15-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-in-south-florida.md",
       "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale in South Florida",
       "excerpt": "New collaborations with Uber Health and Silver Sneakers enhance ElliQ's ability to empower South Florida's older adults to live healthier, happier and more independent lives at home Developed with more than five years of cutting-edge research and beta testing with older adults,",
@@ -1140,6 +1097,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-jim-isaak-think-more-click-less-to-thwart-ai-manipulation.md",
+      "title": "Jim Isaak: Think more, click less to thwart AI manipulation",
+      "excerpt": "You can choose whom you do business with” — he points out that private businesses like GoFundMe can establish their own guidelines, in this",
+      "sourceUrl": null,
+      "webUrl": "https://www.unionleader.com/opinion/op-eds/jim-isaak-think-more-click-less-to-thwart-ai-manipulation/article_74fd5148-f1a2-52d0-be5f-c324e731474f.html",
+      "originalUrl": "https://www.unionleader.com/opinion/op-eds/jim-isaak-think-more-click-less-to-thwart-ai-manipulation/article_74fd5148-f1a2-52d0-be5f-c324e731474f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/8/57/857171a0-ad1e-5411-919b-2c7a347aabc5/622f633a9359e.image.jpg",
+          "width": 382,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Hampshire Union Leader",
+        "domain": "unionleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

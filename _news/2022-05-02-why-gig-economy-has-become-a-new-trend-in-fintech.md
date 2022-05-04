@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Seven Unique Risks Of Investing In Fintech Startups"
-    excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."
-    publishedDateTime: 2022-04-29T13:11:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/04/29/seven-unique-risks-of-investing-in-fintech-startups/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "rcwWDNrX4cO7UnuFE5iR/z84pTJTQ0FXQ6SE8Iy4y2zl27CiugUAnYZY88S9gfiQ9Y4NeiQbuQQTzVWnDtoZRIaxoprzC+QOwuDG6Ux4aZyzh8YI3UAt2XhdyKJrSIuxo3qaWhZ+CI7kYZBg3/lDek6epY/WNsgmnhysesXuCBCOd+xGImjH/KQyLM2EyrJZ+a/unRA1o9d/u6vFsQntaVUCn+9FT2d2NV1qm9ITt8zhaqQF8uZgCD5PeeFjbiZqjVFg043zW9mx0lFkFpaTv+zl5yHc0dwzqX44MOZi7bOjDKsWGUVuKT2sPXmaCBr69MgXT1P25FUz86cQJH0evK0faJzf38jl+OGnuQkSkwXxuhfUEuUeO45wnbbAeEYJ7Oq1Uh1XFXKvDeNv8C9mlzevdQNFbh/QWglBusigNIqfyZwYYRzt/jE9vdkI6F5VhKtVA2APiD7kSrp8mSn4FLMTmeBf9WSgoROFeZ7OClBIhO12OtNsosJ7aOgZs4B4bb5zQuxUgWQIwgZvHCsQmA==;bT9w/B6zh3JK11MgPLJXug=="
 ---

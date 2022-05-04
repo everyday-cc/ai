@@ -2,27 +2,21 @@
 category: news
 title: "Brightwell Launches ARDEN, an AI-powered, Risk-Detection Engine That Identifies and Prevents Financial Fraud"
 excerpt: "an AI-powered, risk-detection engine helping fintechs protect their financial assets and cardholders. As fintech platforms expand access to financial services, fraud instances have similarly ..."
-publishedDateTime: 2022-05-02T13:38:00Z
-originalUrl: "https://fox2now.com/business/press-releases/cision/20220502NY39554/brightwell-launches-arden-an-ai-powered-risk-detection-engine-that-identifies-and-prevents-financial-fraud/"
-webUrl: "https://fox2now.com/business/press-releases/cision/20220502NY39554/brightwell-launches-arden-an-ai-powered-risk-detection-engine-that-identifies-and-prevents-financial-fraud/"
+publishedDateTime: 2022-05-02T14:02:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220502NY39554/brightwell-launches-arden-an-ai-powered-risk-detection-engine-that-identifies-and-prevents-financial-fraud/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220502NY39554/brightwell-launches-arden-an-ai-powered-risk-detection-engine-that-identifies-and-prevents-financial-fraud/"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Fox2Now St. Louis
-  domain: fox2now.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/04/400x225-Free-Trip-Tuesday.jpg?w=2000&#038;ssl=1"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "Brightwell launches AI-enabled anti-fraud platform"
@@ -40,6 +34,6 @@ related:
         height: 240
         isCached: true
 
-secured: "/KJanPrtdAPL9mZ0VmMaQHbanc2p5d36QLtG3z/3j4cFX5Fpg4RuqS3gYokWIot86DuuG9Cp4/iqWGYk+t0yIqL3yw2XT/3jW1QWVMqWx/Au+CAqqsI0SNZYEOeHtI34Ivb0Sj1bzNsj+ZN4c+wM0zxyqgaySdSOnIiU2mrTBvcE5egz0e3esilT4e3I1fZ++L0K9og8RU+GojVb0GzervOoRxx5TPpTbwfyTHICzbVDSnw2nmrOAO56OCWt0O6KPb+bGv7xDUYkAGMbcd/MwI9WXqVXJwCWizS8gs89d3jg4XBTqNits7yWI0gpGBfFZCUbtfFO7CdhdUvIrKMQ2ULsgDh3TstsuREFdDNVMRU=;ffLUHCZZvN0J97HiQBHWVQ=="
+secured: "oTpYS7ycPN5qdXPrxlRIeK2tW8/hReZAfBpJqwGSknylYZJh0/AM+8UoKzxpgE+knRuPdufpJ5OCST0IZMBENiZJUqKnpLUd/0nlhUaalH3C26ZfpmRjrdAfI9NhN8arpgJh/Qjv3d03PUGzWe8Gs+stbfF9WklG37D88O1fPLvhmWzg6exOwmz10d9Nm4OBCErKdvsjIVcHV109Hi16fsXrwkxq6Ip071+T4XW+XAzpOWG/McL2zhJEDbASts40iN9kbV8vyBpcNltVCIB37zqhM80Z4uWSyqlGrBmIGpA2IQCV9Wi6mDSUcdpdV4i9MftTPvHxIew7MW2O9d6wQkHKiitxfYIIFmuQs+v/sNM=;F7gVu0vo44tQYjX6U+msew=="
 ---
 

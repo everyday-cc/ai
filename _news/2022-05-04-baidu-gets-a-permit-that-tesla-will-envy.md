@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-t
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

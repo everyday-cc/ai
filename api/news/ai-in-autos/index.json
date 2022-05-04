@@ -10,7 +10,7 @@
       "originalUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -151,7 +151,7 @@
       "originalUrl": "https://newatlas.com/automotive/autonomous-land-speed-record/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -757,8 +757,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout?amp",
-      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout?amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-26T20:34:00-07:00",
       "updatedDateTime": null,
       "provider": {

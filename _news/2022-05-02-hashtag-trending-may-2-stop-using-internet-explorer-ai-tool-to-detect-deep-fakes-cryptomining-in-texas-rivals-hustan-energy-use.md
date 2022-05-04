@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-may-2-stop-us
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263?amp=1"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1500
     height: 1500
     isCached: true
-
-related:
-  - title: "Singaporean wins $100k prize in challenge to build AI models that detect deepfakes"
-    excerpt: "SINGAPORE - A one-man team comprising Singaporean research scientist Wang Weimin beat 469 other teams from around the world in a five-month-long challenge to develop the best artificial intelligence (AI) model for detecting deepfakes, or digitally altered ..."
-    publishedDateTime: 2022-04-29T13:48:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/singaporean-wins-100k-prize-in-challenge-to-build-ai-models-that-detect-deepfakes"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 31
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/04/29/yu_rkai_teams2904.jpg?VersionId=FhES1sxqqxBnwTNSsYLs6uI5IHPfa7G2"
-        width: 860
-        height: 573
-        isCached: true
 
 secured: "mE5brHCKRwgOavitmRcytjYFJzgxraMbnrlaNWv4L440PcXtsC9+i/MqNVpD0aSBGK2omm5m9kRbOaU/0qvCpq1VG6s64NtEtQWJFTwSFR3P67kzvRbLWgg3R0qNWjVOpw1Wl0nR44Y9CN2qv5BzMK0tc7h3wLjyvX7aebfgnlVjD9VvDz8QQJ31bgR7y70UoahPPhkykdpo6cEmbYQ82Spry4wbkZGmP3FvwdlpRNtoN9TiRyTS/BQ5AT8ua9iKZBrGOlc11OrK2XvPharf2EpFwBA+3XZbmBaFVB27ZKYhVc6Jku5a+Jub1Rqlhk7vadTF3pzAaCoka/DYw8mrs3VWYT1cEuFSqm2jPpjR7Us=;nk40WlJxykH7GmzLEqMIKw=="
 ---

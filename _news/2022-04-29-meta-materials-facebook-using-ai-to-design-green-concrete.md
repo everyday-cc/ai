@@ -52,6 +52,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Meta opens access to its large language model for AI researchers"
+    excerpt: "Meta said the scientific community needs to be able to work together to advance AI research and probe for vulnerabilities. Facebook’s parent company Meta said it is sharing its large language model trained with more than 175bn parameters, to be available ..."
+    publishedDateTime: 2022-05-04T07:08:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-large-language-model"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 41
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_465885157_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Meta opens access to AI large language model"
     excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
     publishedDateTime: 2022-05-04T03:20:00Z

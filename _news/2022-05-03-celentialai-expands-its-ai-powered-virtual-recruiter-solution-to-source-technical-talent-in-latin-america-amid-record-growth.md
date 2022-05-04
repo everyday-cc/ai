@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Mihup, conversational AI Startup records 3x revenue growth"
+    excerpt: "Through its endeavors, Mihup is bringing about true democratization and facilitating the large-scale adoption of voice AI technologies. Recently the company launched its advanced multilingual platform called VIA 2.0, and it is now aiming to double its team ..."
+    publishedDateTime: 2022-05-04T05:49:00Z
+    webUrl: "https://www.crn.in/news/mihup-conversational-ai-startup-records-3x-revenue-growth/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 37
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2020/07/27131448/CRN-Finance-FinTech-Digital-Tech-Growth-696.jpg"
+        width: 696
+        height: 465
+        isCached: true
   - title: "Pokemon GO Former Chief Scientist & 6waves Co-founder Join AnChain.AI In Leading the $17 Billion Web3 Revolution"
     excerpt: "At his first startup, he architected a graphics engine that, through acquisition, powered Google Earth. His consulting firm advised on emerging visual computing, computer vision, and AI technologies at some of the largest tech companies in the world ..."
     publishedDateTime: 2022-05-03T13:13:00Z

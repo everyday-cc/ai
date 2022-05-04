@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 828
         isCached: true
-  - title: "World speed record for a self-driving car"
-    excerpt: "192.2 mph/309.3 kph... never before has a car driven by artificial intelligence alone been this fast. On 27 April on the straight of the Space Shuttle airstrip at NASA's Kennedy Space Center in Cape Canaveral, the car created by the Politecnico di Milano ..."
-    publishedDateTime: 2022-04-29T14:01:00Z
-    webUrl: "https://techxplore.com/news/2022-04-world-self-driving-car.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-world-self-driving-car.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-world-self-driving-car.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/world-speed-record-for.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-driving tractors plowing ahead in the marketplace"
     excerpt: "While there is a farmer sitting in the cab, the vehicle might be driving itself. That tractor is often operating on auto pilot using semi-autonomous, self-driving technology. While the tractor plows along thanks to features like autosteer and computer ..."
     publishedDateTime: 2022-04-30T14:00:00Z
@@ -146,6 +130,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "Nze/VT5TONK9BUfXZCsNsaGBHg3eDUnTSlR9RQHCtDuiLpHE9F4tO1tJijbW7YtMOBUAmebmi7XMu3vma3zBXBBSQIZYIHeQ6QZwq8DNzEj41NHZUPVzLG7FSSV3JhHjkJ+2wJJiLDgY/rL4SZaPdbxVV7/CROF4JOgAcle/+aGyyxfhS3T9vO3n2sjQCuXoCheXGccof2CGlHNIFpqSn7KFkh5bo57ZzJ5BABguRZwDiuxpSRclLWYQC7A1uXSCcot9lVrvDzc62aZRQ7x52DsFRZbjPnq/yU30kC8n1XADR0NUf9b8oZqOXzYUcmaRd1mYPYT6Go69oqgu81dQZKYBIQzbyALLVL0cJXLFsNg=;ARlJA96ryQxyoMzkKxAhJg=="
+secured: "KukVpC9Eg8FIOZX3dBCNc1hkxmFhFUQ93DQksNVHfSKXhRaIn5+kA1enXoCNOU35pFKz0lhKqEAipyCOje0DckEre4X5luD3HIFlV3MgF9ZS6mwLYWpFkhYZ4zNV8kq8hl7itl0GZcgoqRNOUS5rPz5LgsppiH4qGkJQTMrVF60+hWSt81wz8g6wr+aKkY+CfpBh0Tl4ic/UctqG7+iQDipQIlXy6qk4DW3hA8h+iBaO8rN1i1v7sLDl7NV/DgXXknhFS0q0CzAIrhgEn8G35a3GeG19fxzHTSnfnE8RhclsWVjWLOSZB41TCr4YgYXeX3ft5+XvHEZUmGLcEh0wUh3Mpqeaf4CD/kKsCLrIb/2ecSexYGhfuZDPVomy0vAMxh5G5C5J94xiKKre8mpw7X7dP+7FCY2CFmm0UlK+vhYnE/b1JGXqKB+r3Yl4KYYllxKr/AAXLhc9wtEyyw+ndIL7/3gN2A6wQhLkKv7zPqUrggtkU68YD7QxINPeXxdvmbhaL9E9AegD19EhUqNXnQ==;sy9A023QtxCCeDc0RyHpSA=="
 ---
 

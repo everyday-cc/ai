@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26976772"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26976772"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Ways AI Improves Online Learning Process"
-    excerpt: "Some colleges are already utilizing AI to extract data value from systems and activity logs to identify areas needing improvement proactively. Fremont, CA: The outbreak of covid-19 has shaken the higher education sector, with many big schools reporting ..."
-    publishedDateTime: 2022-04-29T13:35:00Z
-    webUrl: "https://www.cioapplications.com/news/ways-ai-improves-online-learning-process-nid-9772.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 17
   - title: "Machinex’s Jonathan Ménard Sees AI as a Gamechanger in Waste and Recycling"
     excerpt: "“Leading on to participating in startup and performance tests of new facilities ... The upcoming, industry technology that has Menard excited is the almost infinite power AI will have on sorting processes. “AI is a powerful tool to extract, archive ..."
     publishedDateTime: 2022-05-03T13:16:00Z
@@ -61,6 +52,6 @@ related:
       domain: waste360.com
     quality: 15
 
-secured: "rCC74wyul+aI12BycyjBB7OHWapPyPvrsLYwiCCuC2x+fNPxKcZjlaRGGN20MamprWfX2TgF8ZNk3wqNl3ZviQgy4RBYZqB0mnyrd+Kn6hGifVq19VKp6eXQGSLwaGCgxdSqlFTyiOVIN5THYyx2am4mrGwqOzXS+IqPMbGL361bTCfDdDkGcjJSEfEcFryOmuzLdQLB9assYFn3HwbHPWNUgJ9Vah3sy75Hw+50AhYcuiXhvB13ikChzd678aG9QnVi1PvcS3f77K7LwhMPgNUHublL8/g/Nh5sEHJqa6ZsMP99ljQVW/q6HrAWUTJjWFb3iYwKYK7sY6G+kOb2/2c5obh7RwY0JAApuYCwXh0=;HReIxlpIfj47O+gz0i4z/g=="
+secured: "Kz1wdzpTTW2d/dbE3axKXUEdqKsoFu8ouogbJ7qvbyPEyThgSPIlKxkmX9nrquR1zoxiNLZ5ADQwlLPdLKwLdefVg2Jw4faGcO64WFZ6NcUDHu7mIa3EE2l79NgRMWkQzXFWT4C+AShT6QKKoHtG9m97ZWEj9SVqCx77xu8s5jO5Evd2qobMAc7chkiDdORU2CJkuXAxSTTavkxkzutfILdEVOjGxjpvvjyiIPi/8hKhxkWYplda3jMED6V3iz4AHbNmK5Nq8n8Ka1XMZ7IDYW592qFrZ1GqAG85RAgfo99hZVKatopOCExxWDMMTbcD8/iiWLQp7FItqZSQZbdA5qg3Idvi/bslkU+ppv08dlV0y7HMz8AAGeSga3opENID5Lkar5SOh9bFmpNqbzaiHITdtwce6TkGMzZ5J0RApzzsV/uhUQkIm7gt8tsm7TdE7aM9R97cIYqnHGB0AJkoWc8lTLuXZlHrdl83e5lOt+Wd/N8TdB4GF8b72GAAHFC0EWKMCnlP6Z+8cVPtTP1rYQ==;wWQ9vcsrIPYqvEq578o+qQ=="
 ---
 

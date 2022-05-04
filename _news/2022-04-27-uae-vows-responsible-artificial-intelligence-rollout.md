@@ -5,8 +5,6 @@ excerpt: "aims to have a quarter of its transport driverless by 2030. Abu Dhabi'
 publishedDateTime: 2022-04-27T03:34:00Z
 originalUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout"
 webUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout"
-ampWebUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout?amp"
-cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout?amp"
 type: article
 
 provider:
@@ -23,6 +21,6 @@ images:
     height: 628
     isCached: true
 
-secured: "1YRxWYqYBTjgIy5dlk3SKgWXzMHLbjJ4ypOeKwcEwWEiLN6a9RCRG0CQzfI96oZV7Xp4NdEPDHXu5WuMYKkVYqHc5CuyjI8e8px3DGugq4XieZv3dz6fF3aSTA9uEG0Z47zGrQMfNil/VM7EdEUVNxBhvvgqxI4WR6UIeic3iMRcY+jV4nJXNtinsm4Vo/5WpckHDhCh3GyuCGC+glub64q4OSzoObWS3JqwRVDewIu71oowb4xFl+rT5/2l9DupE/8rKKiU7FJ7aj45zGKqadu2Dktz2+eeh0UXPREcIl9adVhde0BhZrVk2kQUYpkxa+NQt9HMpR7EcD9Ls4ynCkDYI8rrpbL0xmETNY/Y4XE=;mp4kQ7xlOCTTL4/dLfsRbA=="
+secured: "yCndfyF+kODemk78jRv9vqPMv1vW5eqlo6YjK+cjt4X9pY77DGXNdJrI7ctPZ1LHMAx/dI1xlrRB6Vs2ZfV7Qcp4KCNZ+0F3lWBj1az5B0kMncZM0OvoG1i3vgL0kUqeW6NBUg5mt7UE1XuI4dEXEyjThrFfnFr2nE+xxax17gyrCtEYBp/m2EsOpoC5SUQMTcXDu7wP4LQHhViZSFjyXtg8fQj7oyXrn8pfrT0wnNyZJZ2IfvZlHu5vg0tm4QeqTsbEXTPuFlbdSjYKWpMCddUTMd3O4XxwrBMC+vuIQdXMAGIr6HfB/SJUr2yjkUJ/r+8A2R+j3qD4vIKlgpmEH30OtawvK7nXEzZ8OmV9BQ0=;2QZe7KFIVRKrrooYUc4XhQ=="
 ---
 

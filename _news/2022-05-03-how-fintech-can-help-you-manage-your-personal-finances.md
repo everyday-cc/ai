@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Seven Unique Risks Of Investing In Fintech Startups"
-    excerpt: "While conventional banks focus on direct customer services, fintech companies leverage advanced technologies like machine learning (ML) and artificial intelligence (AI) to streamline their services. Additionally, banks are highly regulated. They must be ..."
-    publishedDateTime: 2022-04-29T13:11:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/04/29/seven-unique-risks-of-investing-in-fintech-startups/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Why Gig Economy Has Become a New Trend in Fintech"
     excerpt: "Fintech startups are more suitable for this job ... Ventures, such as B9, Chime, Earnin, and Brigit, are able to calculate risks with the help of AI at incredible speed. They use it to provide gig workers with quick access to advances on paychecks with ..."
     publishedDateTime: 2022-05-02T08:00:00Z
