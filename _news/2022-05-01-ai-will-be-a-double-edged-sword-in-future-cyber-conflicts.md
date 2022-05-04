@@ -23,6 +23,17 @@ images:
     height: 814
     isCached: true
 
+related:
+  - title: "Cyber resilience horizon scanning: AI will be the next frontier"
+    excerpt: "The study also reveals the extent to which organizations are struggling to effectively implement AI to aid and augment cyber security efforts, with more than 50 percent having to undertake major changes, or reset and start over. The report, conducted by ..."
+    publishedDateTime: 2022-05-04T08:56:00Z
+    webUrl: "https://continuitycentral.com/index.php/news/technology/7276-cyber-resilience-horizon-scanning-ai-will-be-the-next-frontier?tmpl=component"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 17
+
 secured: "8EsN+lmM958mtNVFbYJPU0nSEpWvqFd3KtGEcCNdUEHtd/EgXS0zl3wXbhGYRmGZlw0t0lWRJsuyB7CbIthkhKeXKGufSOOoX70d84erfmacfGhOOxDvo2ScJLxZWQc1h14dSXMrl7CiY/sJWA4HmUy3RZ37pf1K0Gbsr3wqqDoz/WafUUCssczrgYQENevQV1NqpraJdPtxZsPAYxdC7zATRZlFjq9DTl8678n9Rn8DoIxNpLuVJUnaEPP6FNffH71ceCHhwyWkCKDDRhWPyy+MZXrWhZnYGElrd/Xifn/zAjhRTrhp64mdiPx3OnyRh4+9egxDusrLeb9jUOy5I2npiNTzWvlS+xePmG6BUrg=;kecorT5xd+QoddctJ5zVWw=="
 ---
 

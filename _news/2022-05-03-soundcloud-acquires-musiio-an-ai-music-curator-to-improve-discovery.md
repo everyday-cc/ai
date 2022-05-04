@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-musi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "http://www.musicweek.com/cimages/487a8841cdb1b8777194542e386ceedd.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "SoundCloud acquires AI-based music curation company Musiio"
+    excerpt: "Online audio sharing and streaming platform SoundCloud has acquired AI music curation company Musiio. With this acquisition, SoundCloud hopes to strengthen its music discovery features and allow the company to leverage Musiio’s vast data to identify the ..."
+    publishedDateTime: 2022-05-04T09:26:00Z
+    webUrl: "https://analyticsindiamag.com/soundcloud-acquires-ai-based-music-curation-company-musiio/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/SOUND-CLOUD-X-MUSIIO.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "8HTYVZUpL7fA7SPxTK74UUsfKC9R0fnefJNxae0fLmPamOLHmeI1DZkwpL5P1u61Xp/8WKC8MGEk18PpubaXCOFpCD8xY12yNvw2LE/qOMOfPJOKwkSaAMVmS0m3JVVWF7YXMtt56k+NwRL/nrgU1whK94PRsVpyDmr2pcTRK5tPWmWUmQVdX3OvulWZBGsWjZBNdGFzcpYEN1011y/9g2AFuYgjI6UAxs775jfGSDyeJ9KCM/2Y3Gjat8TQgFx9GBAVUC514JbkNQuHJCXLguhrSPJp3NA0Gu+ktkI3K37t11qvL+RuVLqt6dw0htfozCTe/mYF/1aidPmHQkczsmvLJhTiAJYQg9erQn42v52j17imb1KN5lMTZhFMBD0Mfkj9Vy/FquX9ycwKms6F5CvYtCMLXqssbh/yfPvU36N498TyTi9+U9E/Z2vXGZlNDDf2/B7v4JxcWVp+U6eNeSObPxuNDEX3JvmNNmLVEZFGDFVtqImThHHzBF2jDTxM3X0GFarhDFpR1N5PmiAKxw==;6COJgxS9i44oRgRWbf2Phg=="

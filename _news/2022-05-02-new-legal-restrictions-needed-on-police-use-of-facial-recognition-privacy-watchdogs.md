@@ -98,20 +98,6 @@ related:
         width: 430
         height: 242
         isCached: true
-  - title: "Debunking Myths Around Facial Recognition: What Government Agencies Need to Know"
-    excerpt: "In spite of the recent controversy surrounding facial recognition, it’s important to recognize that the technology has real, tangible benefits in the government sector. Consider examples like the U.S. Customs and Border Protection service which ..."
-    publishedDateTime: 2022-04-29T17:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/04/debunking-myths-around-facial-recognition-what-government-agencies-need-know/366313/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/04/29/042922facialrecognitionNG/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Time to talk specifics of new facial recognition legislation, Canadian privacy authorities say"
     excerpt: "Lawmakers in Canada are being urged by privacy authorities to pass new laws to protect people from the risks associated with facial recognition, while also allowing it to be used by police in certain situations. Canadian Privacy Commissioner Daniel ..."
     publishedDateTime: 2022-05-02T18:20:00Z

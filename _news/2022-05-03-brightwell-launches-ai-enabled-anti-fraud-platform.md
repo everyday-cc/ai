@@ -27,13 +27,18 @@ images:
 related:
   - title: "Brightwell Launches ARDEN, an AI-powered, Risk-Detection Engine That Identifies and Prevents Financial Fraud"
     excerpt: "an AI-powered, risk-detection engine helping fintechs protect their financial assets and cardholders. As fintech platforms expand access to financial services, fraud instances have similarly ..."
-    publishedDateTime: 2022-05-02T14:02:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220502NY39554/brightwell-launches-arden-an-ai-powered-risk-detection-engine-that-identifies-and-prevents-financial-fraud/"
+    publishedDateTime: 2022-05-02T13:38:00Z
+    webUrl: "https://fox2now.com/business/press-releases/cision/20220502NY39554/brightwell-launches-arden-an-ai-powered-risk-detection-engine-that-identifies-and-prevents-financial-fraud/"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 0
+      name: Fox2Now St. Louis
+      domain: fox2now.com
+    quality: 20
+    images:
+      - url: "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/04/400x225-Free-Trip-Tuesday.jpg?w=2000&#038;ssl=1"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "KkCy2Yz2tWBuEP21Yzf5/KwKb/iqOwzJCkqhEnM9w6NWAPh9vHNeb6gjrDOU8cSvJ9xdO6dcRn06duVdQMkU048BOOQLibOUdh8CcqrEgITTOaNQrqN6R/kK23cwPPybnuBCWxDpVD9B1+/IJSrCX7SIChOOW8+RxuJ/ku4xLXTa0Z82PHjhCsriOWem0xFTnEpyxM+1gMRD0hn38tIhntcshUbOfMRlX2ijNXVxgsHTf7sba+eZh/Z1GyOx1iohDu7Wo42mPIRjJCq8ZEQLH3pSJf0W/cKvsabaa7gDFWNVO95E+tpx757AsTk5QdFieEHId25GX1LzZuIJBGJ5vFmzJuhge6Bs8NEM0TdSUt6AiMlGspEDC4bmWxCzBTm//kfN92lKCPtXPNxgbT6+lM5ZVT0TG1d7EmfGUomWwtXW+++lWGK1ml0QIvQ5q3f0Cdo6fLE+x8n03uqDjHfkf/ekga4EUmwXG/oVti1E9NcDyzHDf0tj8DMrf1kiAffaA2owBtbsgoq9GK0nyfj95A==;xUYocfDozEJF9jZ1HyrlSg=="
 ---

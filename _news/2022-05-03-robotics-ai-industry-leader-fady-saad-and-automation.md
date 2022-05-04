@@ -28,6 +28,20 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 95
+  - title: "Artificial Intelligence In Manufacturing Market- Reshaping the Industries with Speed and Accuracy"
+    excerpt: "The global artificial intelligence in manufacturing market has gathered pace in its growth with rapidly evolving industrial automation and IoT. Artificial intelligence or AI is one of the fastest-growing technologies in the recent years. Artificial ..."
+    publishedDateTime: 2022-05-04T09:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-reshaping-the-industries-with-speed-and-accuracy"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "3/wzEVLJZXf9So/ZJMF5v1S7i+5JKPkRJ0Xi2X/c+XEIy8CapsFzUbfhO2LDxIvb2rGjfeNILUVVU2UBfIKt29LovmalwSbdr183b7c1/3sIHC6DEanbwnJlRCZ3+gAy6U0/RvEXpFi1VqCX8E8xjpHpjTrPtb9n1QVx5NvEg8RbKuyJ/doXXqKsquY61fKInIsiLHnV5fbFjcrVgtx/Psjwm+DBvzjLAabk8v1z78B1ImMowFgM1Qk7TNE0PyFa3Ev/obSfikQOkTAq621RJkKpYhCyVTFCWvwykaCXhGahPbfjYzQETQzi/yJXYv16UREq5EUzsUCWi5juhas0PWqZ8VE/LA5iTNEzu6aX6qJW9vgNrGLhr12dFxYiBI5xYjuVURY5cjyaXRwYrsNn8nHOJtEKASRqOZdqDBo1tACH8/loW3wH28Go4kSNUjFlXNq2rHrwMNf1w3Y01TWjx4wx9mhC0z6un88+Aj4s15IkFd72SIKknqofYct1Z7gxeL6VbOyUqSY4QtlJGiVM2Q==;Vf1Sm2PYFktna3A5vc7EKg=="
 ---

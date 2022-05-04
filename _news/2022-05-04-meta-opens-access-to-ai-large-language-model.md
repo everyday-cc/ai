@@ -50,22 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Meta materials: Facebook using AI to design green concrete"
-    excerpt: "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ..."
-    publishedDateTime: 2022-04-29T15:29:00Z
-    webUrl: "https://www.theregister.com/2022/04/29/meta_ai_green_concrete/?td=keepreading-btm"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/04/29/shutterstock_cement.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Meta opens access to its large language model for AI researchers"
     excerpt: "Meta said the scientific community needs to be able to work together to advance AI research and probe for vulnerabilities. Facebook’s parent company Meta said it is sharing its large language model trained with more than 175bn parameters, to be available ..."
     publishedDateTime: 2022-05-04T07:08:00Z

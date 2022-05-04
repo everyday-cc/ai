@@ -50,6 +50,15 @@ related:
       name: Waste360
       domain: waste360.com
     quality: 15
+  - title: "Making sense of complaints – using AI to improve learning from patient complaints"
+    excerpt: "Emilie joined techUK in June 2021 as the Programme Manager for Digital Ethics & AI. Prior to techUK, she worked as the Policy Manager at the education charity Teach First and as a Researcher at the Westminster think tank Reform. She is passionate about the ..."
+    publishedDateTime: 2022-05-04T08:50:00Z
+    webUrl: "https://www.techuk.org/resource/making-sense-of-complaints-using-ai-to-improve-learning-from-patient-complaints.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 14
 
 secured: "4rZjQb6Gs5Ecc3YfRE7cDM0iA8XBy/fKtdrwmLC83f23Ns2AO7dip5lLNT75+Ulm+F6Uq9UyjG/AkL3tNt/aeetJ21KhDFZYpL37lOcIwCs/ivGTqmdvqNlOcN4KJklPd1IIPD7FRPac531NmXw2tK6FYkSUPxP+5wnGUhjJKWlhRQGsy6QYZnnEJukVSFPFgwtgPGjWslq1ZtV9vzhf3J3RH8ZMOYKYsCWWBtGIFsJ51FFkZAG974zh3EMHBxC0e3AfFrlr4S6Xp1rSRY0GKB0090hYMoSFUuWijfSzFzVLSgbF1a1KKHPwQK6Fv7IvEi0F5RUPQ3pYDd8sA2mU/QmEELynr8b8DW67JAw4NOc=;Jq9Y8wU05vfmoTTkqOjKmg=="
 ---

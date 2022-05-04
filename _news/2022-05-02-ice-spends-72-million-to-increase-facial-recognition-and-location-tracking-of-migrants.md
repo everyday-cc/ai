@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-f
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
 type: article
 quality: 80
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/29a245d/2147483647/strip/true/crop/4092x2303+4+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F3f%2Ffadd1cf64f5bb5df7832311251fb%2Fviland-confirmation2.jpg"
         width: 430
         height: 242
-        isCached: true
-  - title: "Debunking Myths Around Facial Recognition: What Government Agencies Need to Know"
-    excerpt: "In spite of the recent controversy surrounding facial recognition, it’s important to recognize that the technology has real, tangible benefits in the government sector. Consider examples like the U.S. Customs and Border Protection service which ..."
-    publishedDateTime: 2022-04-29T17:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/04/debunking-myths-around-facial-recognition-what-government-agencies-need-know/366313/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/04/29/042922facialrecognitionNG/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "New legal restrictions needed on police use of facial recognition: privacy watchdogs"
     excerpt: "OTTAWA - Canada’s privacy commissioners say it should be illegal for police to use facial recognition technology to monitor people involved in peaceful protest. In a joint statement today, federal, provincial and territorial privacy watchdogs also call ..."

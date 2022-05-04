@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Known_Ai Film Festival First to Offer All-Artificial Intelligence-Enhanced Film Slate May 6th"
-excerpt: "LONDON, May 3, 2022 /PRNewswire/ -- The Metaverse – Ai Cinematics, a producer of artificial intelligence (Ai) assisted films and theatrical shorts, has created the World's first Ai-specific film ..."
-publishedDateTime: 2022-05-03T12:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/known_ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th-1031413493"
-webUrl: "https://markets.businessinsider.com/news/stocks/known_ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th-1031413493"
+excerpt: "Ai Cinematics, a producer of artificial intelligence (Ai) assisted films, has created the World's first Ai-specific film Festival Director and Ai Cinematics CEO, Kevin Page is an NFT artist, curator and founder of the AI NFT Consortium, a regular Twitter ..."
+publishedDateTime: 2022-05-03T12:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html"
 type: article
-quality: 71
-heat: 71
-published: true
+quality: 41
+heat: 41
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1809265/Kevin_Page.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e6/de656e1a-d5ad-5194-afed-dc1fd48b2aca/627120f525d65.image.jpg?crop=1888%2C991%2C0%2C40&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "piFfpPgz66ZnMX9WgfeFDCFjMSymuj5i1OgJcFDR6wZcKOB2RvN1a2G9hNC3I48CFKI0qGduO2UVYF/CQL9Lp8RIPdzzSp6a1fBeMky41a7JDq6qpAjg90dyb1ELGZVba1rbLPFVmIS+IM4el2ijxIxVsKqItN25vVoISitcWXwe9mhvCY5Gtofe+aXpbhIu/HgvyPZ9vY9HtziXEOfLp+zaVhakfLfk5G7ZndDvkj1SU6TVHbnE9rlJpy3HUDYI4lhAP2HF212rzq/f2YpsyFN6B3OcRzU4m/B+4/mw1ebJmz8CZ3xeyj2TRePZlcyLwlbJzOx2A5Wn28GrwbGAvwuB4gbMtcIcABtuHXf8wZteHe9fUU7tcTs0GxhQQYM4iRIGMckRi8EIqGlPMBgDIR36VBTQmPLXvz6TSbp1KAXMxURDfX2ywUjN02DUVf0tOf0ATocCd1M1DVpa1mHl4GaTw0yxMnPoN0KUrgIUe9pmIZtqfEZuqGcPlAD9I3eI+Haf6Qz6ctpib1PQ+yAtKw==;aJvUmuiXo19etbjbxciroA=="
+secured: "SbgJ3Z3DNOJBlfuBxQQ4xEe/s3VJx1+E++Ib8mhzf2fFko5NTiDS2lOWCtoWSxJp6cVi4W93ucIgA99JT7Bybjslnz0Y6XwEcoUyPd++imhgODklq1GnHLVkoxcvWX/k6u9dvp5GPEZJLEst7qMBXXDMrHIHXYjHZmFikALVs8JyMUT/jZn6ATjNkT32DtzZyaZwxVa6yznBEmMy9/2zIV1aaIjLeNpcKh98ngpW7cu7a4P4nvD2XDQIFhylvBk+ahwI8e/ihXiOKXL0IFucpZgOcrCnCGIvl73kIR68/k9+u1lCviKS+0AbihcaUMYlYa7Eg+IPeWcJsuPwwtHcgaC9msA8eMb7MQBbQKKZoNo=;k8IUYakG+Rfvg3tnlIem/Q=="
 ---
 

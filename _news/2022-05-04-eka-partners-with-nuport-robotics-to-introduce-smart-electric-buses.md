@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "EKA Partners with NuPort Robotics to Introduce Smart Electric Buses with Advanced Driver Assistance Systems"
-    excerpt: "was founded in 2019 by leading robotics and artificial intelligence (AI) professionals. Its mission is to improve transportation safety, increase efficiency and reduce costs for clients in retail ..."
-    publishedDateTime: 2022-05-04T07:53:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220504/3937903.html"
+    excerpt: "NuPort Robotics Inc., Canada's first autonomous trucking company, was founded in 2019 by leading robotics and artificial intelligence (AI) professionals. Its mission is to improve transportation safety, increase efficiency and reduce costs for clients in ..."
+    publishedDateTime: 2022-05-04T08:39:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272538938/eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses-with-advanced-driver-assistance-systems"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 16
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 36
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1651652096.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "88KXKYsm9k+a0gb4+e7LsIUCJdg2Qmb8s2RLXvd2FAQbJN3GHLmRYyB4MY71nSUPQk/xH1eSaJFbUOoHkkIYwRPx1YTVpfwnumyt3FavYZlyfzkK3oSRuWb+w6KDh1r5ccj0Ci1p5SrEhriX0JGIJ2Fiby6/WHWRFbekjHRgQfjaCA2+2ySi2hIAvv4aUz7XDdAImOeiOs4MoaRdfUBh8xFRwN/QZFtbuFZNV+3x9nRUaCfiuJHuMIULH0f42+w8IszB97PpcEHrfZoQHZ92o0U0KYjXHdbJHT7pNsOYlZoDCdsDqJGZcA7FaGw5AKPXfv6sRf0xBu2KLMwC/NTiupX8Z29JI3OPx8mIrp/yloQ=;lUsfLaBrtZfzBTj/l0IHKw=="
 ---

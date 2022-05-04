@@ -1,22 +1,28 @@
 ---
 category: news
 title: "EKA Partners with NuPort Robotics to Introduce Smart Electric Buses with Advanced Driver Assistance Systems"
-excerpt: "was founded in 2019 by leading robotics and artificial intelligence (AI) professionals. Its mission is to improve transportation safety, increase efficiency and reduce costs for clients in retail ..."
-publishedDateTime: 2022-05-04T07:53:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20220504/3937903.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20220504/3937903.html"
+excerpt: "NuPort Robotics Inc., Canada's first autonomous trucking company, was founded in 2019 by leading robotics and artificial intelligence (AI) professionals. Its mission is to improve transportation safety, increase efficiency and reduce costs for clients in ..."
+publishedDateTime: 2022-05-04T08:39:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272538938/eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses-with-advanced-driver-assistance-systems"
+webUrl: "https://www.bignewsnetwork.com/news/272538938/eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses-with-advanced-driver-assistance-systems"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1651652096.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "EKA partners with NuPort Robotics to introduce smart Electric Buses"
@@ -34,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "WFD46PDcGGeHc7vDy/m4/qzCBWO/j+U769b+I8JU3pYZQDw7xQzsngkzXzJz4EXH5UXydEbmgxnrhV9Y8tfWvSie7GIOxQlRfsV8Sa2Qzm64Y6/rWQFUe4fBMmk6NF+FugfnJyNLE3Ig0FGbri5EARD4bNC+1242vC2g/AGPw+e76c5xgoC//tnNWjryVsH61HvZtvXg0DYwEkJ7rPqihi00urp13UYsuJwMSkLXLQHnBef1wliaG34SrYwz0GensNXzzzhskXePnaOp/jIPPQB9BNL9iQ75hvXjm8/8tV8KtgkhzLLx9zLOW52thKOw2Dqy4R6vT30b41rNnO+nXiB3RWpx6fLV2NI9gllRo8Y=;qWiKLxbUqhqYZluQ/NS4tA=="
+secured: "11kxy947mEy0ZXVNf8aNeq3zZpOEk084u59RrnM029WyrPOs7wzUN3sBC2/tX/K2fSr49xQQktWjHyEZDHZpCszpoylXC2b0Ut10umYjpiVmmKDY2h0LeOi45231eZUr3FMXqiKu6M/BgkPd78OCy5l9g2Od9HdVwgC/abj0gy070ZiJ8pJMFD5MEOMWasYQ+UOeZRv/AkjDS4oaVVqY5RPASVxfCmx+WaEx76rsuvjHbR5Xf5myXlKjuxi5AznyHj+i26hO5VQjsuZ8wG4J/Pg+LohPSGfyEuCvuFuupjmAQldoVrucXQQGpHjrRm9Tc1/iexYXBXoNoQKqbjFMN9h5pjxWWd5Kvfd31ovX2E4=;M37F5soFyeD5vpYLm3crSg=="
 ---
 

@@ -51,22 +51,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Meta materials: Facebook using AI to design green concrete"
-    excerpt: "Facebook parent company Meta has a new project that's grounded in the physical realm: using artificial intelligence to discover new formulas ... gets $26m in 'other' Meta compensation The research team selected five potential candidates for real-world ..."
-    publishedDateTime: 2022-04-29T15:29:00Z
-    webUrl: "https://www.theregister.com/2022/04/29/meta_ai_green_concrete/?td=keepreading-btm"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/29/meta_ai_green_concrete/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/04/29/shutterstock_cement.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Meta opens access to AI large language model"
     excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
     publishedDateTime: 2022-05-04T03:20:00Z
@@ -82,6 +66,6 @@ related:
         height: 316
         isCached: true
 
-secured: "moCchs65zVzOxenb/K7Jx0XKGBTeIPf17/jpNheYEB6LudL1YFEh3m+PXJQTYzW9TFa7EFmTvjTMIR4EScL36U/dV/DamkwolK3cqKKVybOqE58Bcf5BVBfpD/bFqqEMyq0aNA5eE/UhGO0XuESuarJCJLvTUbp7rQDGWQcbovo3NbwIM4R4YxtMhdWbJckSZwqcmKHvDWNaIb/cVRCNEhf0K/fW1ildI4svXK0v1fpm+LJbwwjCQxve7szIqs0IjKjjeQ8sQAe9CjnofOop4+pjJ6J7/JeTCAFrOEOX2pXeFzmo1e0ONxjeIcSi2B1sjYrThcy9PZ2HB3WErblDG3axFPzZ8CzQgZ+LrFfBIOc=;vjpHozjnx8B2tR7JAtU97w=="
+secured: "42z8wrEBkD/BP3t+UuMw3mHjfQKwbH1Ec8rM7TVn69FfqjHN3v6oZ12Ex/gwvjKG18co7BfwYkWs0P9QQwwb2J3pL4G3AH806ulaiSPxDco3bu0bOwXOQl+JIRhQrVewymHiafgi9M4Abs3hCmxrDj0vqkMbFhsskuGRCxnUKWSq4M6Bxqy9PGW8hM0H1ODXAeIPH+cGLnRnbg4Y5OX0jZMCytsz5wCSkbhxe6a7h4HwWBgOOTu0GrBgLuhUZjCG038f0Ht/YvmnNuWZDZzgHi29dvKFbqk9zl2GdvZ3W8YQFfm11/BMqMBB+bRnIWf3VX4Odv1QUrT3Q+MCUnoC4Vp3pqs3wgUcR9VFLQudidP0jjZ/U9paa8DUOuSzHhboDm0719fu682RtiMeQci7n22yQVF9WCkHzfBl4aczNcmzMqHtVQdu42iTOEIHRSweBdXyc4J3KroJ5kJFyXzzs9gfAQMNCJz9j/L3hY2NsMKRAgzYjRCXdFSXp89yFT4R6P3y70/uQ6GTt9dQRoFovQ==;mPQEcAdXLtFy/yLLEdYFLw=="
 ---
 
