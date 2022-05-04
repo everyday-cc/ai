@@ -1,28 +1,19 @@
 ---
 category: news
 title: "Known_Ai Film Festival First to Offer All-Artificial Intelligence-Enhanced Film Slate May 6th"
-excerpt: "LONDON, May 3, 2022 /PRNewswire/ -- The Metaverse – Ai Cinematics, a producer of artificial intelligence (Ai) assisted films and theatrical shorts, has created the World’s first Ai-specific film festival and awards show. Partnering with the UK-based ..."
-publishedDateTime: 2022-05-03T13:03:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-lifestyle-film-festivals-artificial-intelligence-1ff54804ee8f75ca3ea1b91444ffd3dd"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-lifestyle-film-festivals-artificial-intelligence-1ff54804ee8f75ca3ea1b91444ffd3dd"
+excerpt: "Ai Cinematics, a producer of artificial intelligence (Ai) assisted films, has created the World's first Ai-specific film Festival Director and Ai Cinematics CEO, Kevin Page is an NFT artist, curator and founder of the AI NFT Consortium, a regular Twitter ..."
+publishedDateTime: 2022-05-03T12:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html"
 type: article
-quality: 41
-heat: 41
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "zMyuf4WBdWKFDU9ky4YRhN2uyAtegVqqYh+z/a9WC3YsykG4UTU4MQP+Agkx6kMpB/Z0pnBeWRjwaNwfrae4ZVUJryyimpOCnm/lQZsR3wSWeZzjMYnzKTIosWBtEHSnZkrDpy+ue4oVpRcLj4A+mIhb99ePNkD/UAVu47mWVW2IpBZJdMu85ET8vS5k3u5ECL+2jwl7JTQr9uBJv77GOwZsWDQXOIaqlSQlP1gY19YfA0Qw3DtFpS944kXF+pqmOXlAuUE6TZsso1qI9LH5k7BT+4dRAzp7tinUeb9F6om5PsIamiBmA0l/V5BK4n5rjixGLij3u31yAvvCt1VPbD82BI7i0l9nfqo5psY4oS0=;GnplgVZ1mQ9jbJJ+XpIXtA=="
+secured: "sWj1TZvEEKo/AFBxXapB7UuQMkFl35EWaAkYQ0DRajvloG9KaL/uLD0wFyH3eNzkzt9o4Rv7Ah6zQwpwlMLRl8on5Pczwg3o7YHAE3eiPf8groeyGL3hgobis1LiJAnH4jKBGbDgWsOV9R90rRjRsDEjVfn9Lv2rjG6ODDv0Uq7ShL4a8YHFhcNH7uv13MKkkniXKhvYfojdLiNiJ443BOyQMr2PW+R/8jb/ZL4I1pIZodtxy601XCwhw2sgdMA7JpvuEu1k6zMZvamz/nqSME4k7YicxJX8Chu1bbY9Zk28jM8FfLosG/7jI5ChdVnZI26wYdx/PhonMMl7yAeLw3lyPG67x+jwJyc/ffKVLDw+GThgKGHqHMy/DdWhHjH2N5Kc8nYcEWKWKvuH+hzp9yPNIeB9dOzEjaQT0JHwCnjAv/+FFuer6DQzwskgI2mYgHDwYSvYyH//hNBSbSfCZa0EHUYAQKNKOm2StyMcUheKCBdm6fmipznVuXnf86fReGLcwSH9nb7Mqz5uqH4Upg==;oE3wOqUPf0IK7v7ULUsJ9A=="
 ---
 

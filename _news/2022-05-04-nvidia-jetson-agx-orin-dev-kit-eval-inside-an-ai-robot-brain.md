@@ -19,6 +19,8 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
+  - Microsoft AI
 
 images:
   - url: "https://images.hothardware.com/contentimages/article/3201/content/small_running-nvidia-jetson-agx-orin-devkit.jpg"
@@ -44,6 +46,6 @@ related:
         height: 400
         isCached: true
 
-secured: "xZmRlNYZ7EDFXiGehgk3o3F6OsVCgO3PvNGiOiRx/+2NpkWmPbMzjGFP2kR2K2NxJzG/JjKV309ZEIjsUvhxlbOBirS/bM3LeipguruvPICN+kAYhCiRyUqqZrg4Hd0axCWGe8gRYlgZdUptePQhYe0723LcLDLLKHgkN69e9UoG3HYI5CnCjgZEWDnMW+RR0bFtY6yLsK52W+61u/GBipH2AlFUNDUwNq5YF9pKSRcR/tApmjAM1220bJ0H1/oncTIkAc7qbvPCtYyRORwcgk0+EjaPwq3CIsBg2SAo6vUf2OiVwb4aPwi05LhgVUO/NFgwaBgH7KVnUjAUYIFZzvsRE8wlpCzqQCfCRp3aZ40=;4EBR0+UTVzzx9TS3blokFQ=="
+secured: "Z7rcau3HFa1XPqNllVhLyJCyNJiQjQFHzSPlkl46nxBVPihUp5uNOk8XA0EBRuORlmWYlNVXdXMC2J/iSP9pU89qErZ7Se/JsMG+Pa0lDIxtabHSnDQtdGe+ElqeXKxGpZU9MnPD9uzFPI+pyMdsYaWJaFy37MkUmhKCb4zHGW9G4eOzp6erwK8vWgBKcM8TelcwZPzZShpEceGvqHGJ+XDg2MRVAe/g2Mrfycf0C4jXv55ltlccY/mHKGzuDA0Oy9hMRkxyGJt3Bb7Mnp31Jn48H3Ml6Hu3HmmXvxyPlmTNj5zmtEjOIJow8ACy2LKqHfUt3OVPZx4ej2VMRb3arLXwop6qFeCg6fA/nXjqsEXm59Ni0pLJ79DRugeHIGAmcb8AcBgEqfswUtnxuAuP4Y6B7pISCjJlVij3hhCjNSGp3nzplGsgeSts7MFGjPMyBAeW4G6kCwF6g9DwTEizPx/DlQ7w1qb3qwfPD2IyJot4x+fyl4/QdR7W1Z4M6jGqQUL/LttZYCk+qOWTK8Dv0A==;uhDP7/tQ16dONPsYgtOh4A=="
 ---
 
