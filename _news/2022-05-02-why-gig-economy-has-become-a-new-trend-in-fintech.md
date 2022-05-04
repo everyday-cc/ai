@@ -66,6 +66,45 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Catapult: Kickstarter Fintech Acceleration Programme 2022 for early-stage Fintechs (€50.000 in subsidies)"
+    excerpt: "B2B Fintech companies with solutions in Regtech, Wealthtech, Insurtech and Cybersecurity using Blockchain, AI and Big Data technologies are of particular interest to the Luxembourg financial services ecosystem. When The 2022 Summer edition of Catapult ..."
+    publishedDateTime: 2022-05-04T15:47:00Z
+    webUrl: "https://www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/"
+    ampWebUrl: "https://www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/?amp"
+    cdnAmpWebUrl: "https://www-opportunitiesforafricans-com.cdn.ampproject.org/c/s/www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/?amp"
+    type: article
+    provider:
+      name: Opportunities For Africans
+      domain: opportunitiesforafricans.com
+    quality: 27
+    images:
+      - url: "https://www.opportunitiesforafricans.com/wp-content/uploads/2018/09/catapult-inclusion-africa.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Ten FinTech Trends to Follow in 2022"
+    excerpt: "FinTech is one of the five areas with a high Big Data growth rate. The industry needs a powerful tool to collect, structure and store information. One of these is artificial intelligence (AI). According to McKinsey, every year, it generates up to $1 ..."
+    publishedDateTime: 2022-05-04T14:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/22232/ten-fintech-trends-to-follow-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.researchandmarkets.com/content-images/173/173851/1/global-fintech-market.png"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Upstart: Huge Upside For This Rapidly Growing Fintech"
+    excerpt: "Upstart is a small fintech company focused on using AI to automate the loan approval process. The company has experienced rapid growth, leading to a blow off top in 2021. The froth has come out of ..."
+    publishedDateTime: 2022-05-04T12:00:00Z
+    webUrl: "https://seekingalpha.com/article/4506032-upstart-upside-growing-fintech"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "rcwWDNrX4cO7UnuFE5iR/z84pTJTQ0FXQ6SE8Iy4y2zl27CiugUAnYZY88S9gfiQ9Y4NeiQbuQQTzVWnDtoZRIaxoprzC+QOwuDG6Ux4aZyzh8YI3UAt2XhdyKJrSIuxo3qaWhZ+CI7kYZBg3/lDek6epY/WNsgmnhysesXuCBCOd+xGImjH/KQyLM2EyrJZ+a/unRA1o9d/u6vFsQntaVUCn+9FT2d2NV1qm9ITt8zhaqQF8uZgCD5PeeFjbiZqjVFg043zW9mx0lFkFpaTv+zl5yHc0dwzqX44MOZi7bOjDKsWGUVuKT2sPXmaCBr69MgXT1P25FUz86cQJH0evK0faJzf38jl+OGnuQkSkwXxuhfUEuUeO45wnbbAeEYJ7Oq1Uh1XFXKvDeNv8C9mlzevdQNFbh/QWglBusigNIqfyZwYYRzt/jE9vdkI6F5VhKtVA2APiD7kSrp8mSn4FLMTmeBf9WSgoROFeZ7OClBIhO12OtNsosJ7aOgZs4B4bb5zQuxUgWQIwgZvHCsQmA==;bT9w/B6zh3JK11MgPLJXug=="
 ---

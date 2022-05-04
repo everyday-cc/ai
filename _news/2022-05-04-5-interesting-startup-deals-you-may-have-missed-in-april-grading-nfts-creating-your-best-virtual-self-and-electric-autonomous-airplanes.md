@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T12:30:00Z
 originalUrl: "https://news.crunchbase.com/news/interesting-startups-fungyproof-hourone-babyquip-pyka-pictor/"
 webUrl: "https://news.crunchbase.com/news/interesting-startups-fungyproof-hourone-babyquip-pyka-pictor/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: crunchbase

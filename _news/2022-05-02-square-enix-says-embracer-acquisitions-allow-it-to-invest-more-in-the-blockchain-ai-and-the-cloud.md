@@ -40,6 +40,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "NYU Stern Launches Master In Fintech Teaching Blockchain, Cryptocurrency & AI"
+    excerpt: "The likes of Stripe, Klarna, and Coinbase have developed innovative new financial solutions to turn fintech into a $100 billion+ industry. New York University’s Stern School of Business believes fintech’s soaring influence creates the need to train the ..."
+    publishedDateTime: 2022-05-04T13:01:00Z
+    webUrl: "https://www.businessbecause.com/news/specialized-masters/8176/nyu-stern-masters-in-fintech"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 18
 
 secured: "L2UrXHvFLg4SXln9odTKD4Mbuq27eAHofpmcdYo1k0R4W9G+yhmhO96FabCLbsESszab3xV0iPzmh8biA33fMKMwqIjqVdIwNPPBpRGrU58kQfHh2HNpmda/Ak2Lm9H8n/9BSKenJOFyr0117WW/8A1XQKpmmqB5HG/Gv4hAF/msk0b64q4ptvX8N3lRV9sFH3lioH2NeMZHX73sGrjIRtqPgmOOM7VJ90DoUzvkImpENQDH441YuZ5PZlPw1grQp53MMA9XKMiQDIrQoEeKh2nZDlhQB/Atnjy6RTLReWGrTKRsFemQBq2elUPG6VW8YAW1YBoWIGtn3kFxNysm8uqk9C2c5j+OHc8PcmNxC3zNbqyT+rrX6UMECKndECuXCLrqpGYZWJQsUZ6g+j3UedkWJSvBZ+SqlvrA+HN/uaorcfRluBGzf4QFlFoRz2xyxPHX275iipLdeMj+S9LATAzVQr5LzKx4Clgk3xrbhy5hWxLH0KejBJtYARjAq7w/Dzy00cP1cmQ7k4JwMnrDhg==;1lDT6Eb7PZPMNDFe6C2PHA=="
 ---

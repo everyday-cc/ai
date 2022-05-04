@@ -28,18 +28,13 @@ images:
 related:
   - title: "Lantern Pharma Reports First Quarter 2022 Financial Results and Operational Highlights"
     excerpt: "DALLAS, May 3, 2022 /PRNewswire/ -- Lantern Pharma Inc. (NASDAQ: LTRN), a clinical stage biopharmaceutical company using its proprietary RADR ® artificial intelligence (\"A.I ... the potential of combination therapy for these two agents."
-    publishedDateTime: 2022-05-03T20:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/lantern-pharma-reports-first-quarter-2022-financial-results-and-operational-highlights/article_db5746ec-5e98-531b-860b-6fe07f56f167.html"
+    publishedDateTime: 2022-05-03T23:30:00Z
+    webUrl: "https://www.kron4.com/business/press-releases/cision/20220503DA44966/lantern-pharma-reports-first-quarter-2022-financial-results-and-operational-highlights/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 16
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/63/863d243e-42d9-5678-bcb2-fb436dbe88d9/62668454753c5.image.jpg?crop=939%2C493%2C0%2C100&resize=939%2C493&order=crop%2Cresize"
-        width: 939
-        height: 493
-        isCached: true
+      name: KRON4
+      domain: kron4.com
+    quality: 0
 
 secured: "IAOVYAchBV6m3LgrnsbkJuGbJ2UbGX+CmMIietzgmN8MDxPpFvSZu/yqPzDpnMbIhQNU74Z7OF9sx0122ukbCikwv3TGuYrm5HB+Q5zgLmn5Rk/rGrkygcd+UblwP4YBYombY34j8S7yqTqj5NFoZ6rJElxYLQ3j8oB96p+iPZDxhqrmPO6ApMOP72u/HCpx94FllOo44mTitTwpEmQ5Cb3ttZPlsFPxE/MOxchkhU2S3wXOtRH7luPx7dxh8njAYmJA/h0iRcL5HRyVyXqVXSqxdYLIerwIZuJCOwGMJIspFoQBSyTq8E66DnLCgZevCYB2KUWkXSuvMv6YGnM8aU9D3lcTQWMDbDEC5HWm/JFozOYjQB5gjZaUf1PgZwWwqehn9z0yFqG9U8msuEPDz29K+hPz/SvB698chuh5oq08Vm5HZGcxcY8+DXZBCM59hGFCDT37TyKKfubbbrOiHnJhk8q2vZRHsny0AQwZASQKc8YtFsYphnMpLsqodD1avEMBlYmhthE3UmbYTShQtg==;GA+wehC0+aoAHSUrd9aMkQ=="
 ---

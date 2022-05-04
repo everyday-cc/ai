@@ -25,6 +25,17 @@ images:
     height: 525
     isCached: true
 
+related:
+  - title: "Startup Funding: April 2022"
+    excerpt: "In April, one of the largest funding rounds went to a startup developing chip-to-chip optical I/O. But that wasn’t all. Photonics funding showed up in AI with a photonic Tensor core, in room-temperature quantum computing, and, of course, in lidar and ..."
+    publishedDateTime: 2022-05-04T12:14:00Z
+    webUrl: "https://semiengineering.com/startup-funding-april-2022/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 2
+
 secured: "4e24U9YeD3nEpLbeF90PTHOoJoCuvGZFlbOpqxx5TfwZAT5ISZ8XOYf1xZ/qmRpr3bj3CdAP3hUE0uXA4sXC1gRVdLTyGvftwA2NnEkpsMFeF7qiEQswywJO2JGA83JDr660k+sjH9KL/YHcHv3E0FI/RJwYWDe/NUO/774xJVyqA/EgBtWSbW7uPi1hy9lyNSge263NQnAOVRMsY5JwYhUlaUJfEZxg0Q+vvWQvsJjLKbiuZvQtjNik5zSPDWMBv5njvEyiHJH9SyuNE4J1u2kTydYcMdev9PfEj/MA+zvtDqMYE1lkUNCovyy1VVe6mkeGm8IMtutlEdT1iIVOzZlcI2ibBC3xk81sWpxk0kc=;4Rzvz2ao53z7N1+xIS75oA=="
 ---
 

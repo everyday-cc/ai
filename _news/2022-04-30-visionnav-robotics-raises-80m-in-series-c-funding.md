@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "VisionNav Robotics closes $80M for AGVs"
-    excerpt: "... based company that develops logistics robots, raised more than $80 million in Series C+ funding. VisionNav is committed to providing automated material handling systems with visual artificial intelligence navigation technology. VisionNav’s automated ..."
-    publishedDateTime: 2022-04-29T19:09:00Z
-    webUrl: "https://www.therobotreport.com/visionnav-robotics-closes-80m-for-agvs/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-visionnav.jpg"
-        width: 770
-        height: 500
-        isCached: true
   - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
     excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
     publishedDateTime: 2022-05-01T16:22:00Z

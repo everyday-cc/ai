@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI, ML, & Cybersecurity: Here’s What FDA May Soon Be Asking"
-    excerpt: "These include Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan, published in January 2021; Good Machine Learning Practice for Medical Device Development: Guiding Principles, published in October 2021 ..."
-    publishedDateTime: 2022-04-29T22:09:00Z
-    webUrl: "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/AI-ML-Cybersecurity-RNG74N.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "The next cybersecurity crisis is poisoned AI"
     excerpt: "The very nature of machine learning, a subset of AI, is the target of data poisoning. Given reams of data, computers can be trained to categorize information correctly. A system might not have seen a picture of Lassie, but given enough examples of ..."
     publishedDateTime: 2022-04-30T16:00:00Z
@@ -60,6 +46,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Research Shows Security Pros Believe Cybercriminals are Winning the AI Race"
+    excerpt: "Findings also reveal the extent to which organizations are struggling to effectively implement AI to aid and augment cybersecurity efforts, with more than 50% having to undertake major changes, or reset and start over. The research, conducted by Wakefield ..."
+    publishedDateTime: 2022-05-03T13:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-9eb67165da90b4fd2052ced263756d0c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
 
 secured: "5btyLZf3iEIcItZdstflTsQ0w5vfQHf54CxgF7UyaYhVlcYNz7mMJ5EekRxpFHLZFV5wymwfTgV0ERJP2OH+ixVUI9K6gt2UO/HvzUu+9gJQmQE6bEnwbWbh+oBWGye4cm8HOJbQQ31TFTro2INvM/DydwEgNYzuM8QRXixd1qDaKBuZN+HvTVd5zIYqBbwr+8ukRE0BPTuT/Z1NgTZbIpNGFRNrFlFqouSX++Xg6CM1kKtONJ1cfu2sV47DgoR7S67h5gHKoiugsAyhT2XlRuyjZ5oRmlzU4rutO1P7EFSeHvRxW0TgBMhdrROBUGDYGrCUV/o2LljLagnlqozITGJ8UepIMMUhdG//z5JfRB2obNIgQzP2F7ONWlcqmqPaowmZ8DWaXcvDB5IFyQdm3+KsQzVbvB7CTY9iarE92QvrCVaQ6vYdINqCmhKUNQXll2GwraWqZO0ZrTkK+7i2KNmSs7PWQA7JMkpSKyw/5reR4Jja7jYJ84GhVztnDbFwYsOXruWGRvG1sq80a7rrTw==;UKzPkIIGNa0dWv8zpnJKuQ=="
 ---

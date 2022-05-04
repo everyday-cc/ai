@@ -38,6 +38,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\""
+    excerpt: "Pioneering AI Vision with AR Experiences META-aivi is an affordable and easy-to-implement solution that reduces frontline errors by combining the benefits of human dexterity with intelligent machine vision. \"In addition, (META-aivi) can optimize the ..."
+    publishedDateTime: 2022-05-04T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/article_f3f28fea-a6a2-5e25-8353-959e2bf6fe83.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e389e90d-ab45-5927-a874-22dec71a4aca/627287c5ee1c5.image.jpg?crop=1085%2C570%2C0%2C20&resize=1085%2C570&order=crop%2Cresize"
+        width: 1085
+        height: 570
+        isCached: true
 
 secured: "bsvKkzJs6HUPSe2p1egmopCL8xLXVBVo8MsjFVLGHyU7ksJcRM2fbnSCfOqTjTbiv4FvgkAUHsf21yUiFhKDEDDfNmaabeDl/D8D3+CmaIMC0zRh17/HfuRnFPhaisrB5haxQY7I2fsGZeKQw59R7ByjIBm53KcpiPMitq8wxAB1fCWX+dWKSIFH1qzdesJ9xncTAeuAn5GLjsFCrQ1hUiwA5+vS9BV5GNChD4WOSExIkd4kzik6e/a3oZ1KshLi7B9/I/CXkf0Rzts6q5msE8ugyuoCzFST0hhetbyYjkm1PPpQi4aMKs8Qq96RnpJhrFXUb1DfxEOfNIVjwe4pEBXxI05IDkaLeLKT4XcfznE=;Wqs2y9BhkMmoVoNysZlvww=="
 ---

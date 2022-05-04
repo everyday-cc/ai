@@ -7,8 +7,8 @@ originalUrl: "https://www.thaipr.net/en/business_en/3185480"
 webUrl: "https://www.thaipr.net/en/business_en/3185480"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: thaipr.net
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "VisionNav Robotics closes $80M for AGVs"
-    excerpt: "... based company that develops logistics robots, raised more than $80 million in Series C+ funding. VisionNav is committed to providing automated material handling systems with visual artificial intelligence navigation technology. VisionNav’s automated ..."
-    publishedDateTime: 2022-04-29T19:09:00Z
-    webUrl: "https://www.therobotreport.com/visionnav-robotics-closes-80m-for-agvs/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-visionnav.jpg"
-        width: 770
-        height: 500
-        isCached: true
   - title: "VisionNav Robotics Raises $80M in Series C+ Funding"
     excerpt: "Founded in 2016 and led by Li Luyang, CEO, VisionNav Robotics is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial vehicles, providing autonomous vehicles ..."
     publishedDateTime: 2022-04-30T12:13:00Z

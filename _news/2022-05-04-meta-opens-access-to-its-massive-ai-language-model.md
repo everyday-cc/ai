@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-04T11:54:00Z
 originalUrl: "https://eandt.theiet.org/content/articles/2022/05/meta-opens-access-to-its-massive-ai-language-model/"
 webUrl: "https://eandt.theiet.org/content/articles/2022/05/meta-opens-access-to-its-massive-ai-language-model/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-02T19:42:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-2-financial-influencer-links-media-with-artificial-intelligence-for-stock-markets"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-2-financial-influencer-links-media-with-artificial-intelligence-for-stock-markets"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Daily Herald

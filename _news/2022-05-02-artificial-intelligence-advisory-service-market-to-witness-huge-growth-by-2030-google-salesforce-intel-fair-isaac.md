@@ -24,6 +24,17 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Upstart Announces Upstart AI Lending for Salesforce on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
+    excerpt: "Upstart (NASDAQ: UPST), a leading artificial intelligence (AI) lending platform, today announced Upstart AI Lending for Salesforce on Salesforce AppExchange. Aimed to bring AI-enabled lending to the financial services industry, this integration can help ..."
+    publishedDateTime: 2022-05-04T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-upstart-announces-upstart-ai-lending-salesforce-salesforce-appexchange-/2022/05/04/9595526.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "DthYDt3BXZedqOE4tIdEaiwuLFmQpaGVd2LkB9K5gKDfTMgabNcNvnixvZmqiPOcQqD7ku2gWQjb2JKX+LTaoQm6LFy5H9RYgADDZyTiVGERmpq267ld4r7CF1XaE+ypfL7eDF+XhRUquxSFXiVNHQK9KuB6n9FoxyYW7PmjRvgDJdmjFQuxDir8Sh4rEeKzTjIlFalv8NGbx2SiNMGP+9VfJkiaz2qlF3GFF3vIilePKwcDoQ4v/PyNBbdJI+9ON2ljspBCM7+uyqkztZQroWexgPM2JMqkSbGoAGq73aEzxIp8JSDFDBHxNKNVY2JrBS+AYtl8YZgh4W7UJ3lj04g8BYxVk2TjZRFOaNaErXQ=;tf4/S4Ca/BPa/Fzf+VguMQ=="
 ---
 

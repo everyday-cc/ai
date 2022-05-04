@@ -37,7 +37,7 @@ related:
     provider:
       name: HotHardware
       domain: hothardware.com
-    quality: 74
+    quality: 78
     images:
       - url: "https://images.hothardware.com/contentimages/article/3201/content/small_running-nvidia-jetson-agx-orin-devkit.jpg"
         width: 708

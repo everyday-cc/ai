@@ -24,22 +24,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "Endoluxe and Optimus-ISE Enter Marketing and Development Agreement to Realize Advanced Imaging and Artificial Intelligence in Advanced Operating Rooms"
-    excerpt: "Endoluxe and Optimus-ISE are proud to announce that they have entered into a co-marketing and development agreement to realize the advanced technology synergies of both organizations. With Optimus-ISE focused on safer, more efficient, and improved ..."
-    publishedDateTime: 2022-04-29T19:23:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_1c4b3bfa-3152-52d5-bd2d-1755b1cd09b6.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 16
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-
 secured: "Y8RucHMIl/4dtjPzRhI6rzLRp3V4sNpgDw2+5bAw2U5IoEMhIl9Tzl/sBmLeE40VqvEAJ3q6BQeZ04eKYuktPgyn4jTnUmxHVKqUvYtAN3bZnPxifREQSL9t4e1CwqCSBAjVRL7zTmUieeK+gyQyKxGcXTqfhqxQf66ZaBXBPDgCG2HaaOmfqCUiz1pIRwazkx/DgK1ZV8R8zLBtAeGMjAYqDbw0apoI/mxKymmSrBU8nqFs1qvnj61Eo8WNfKOdpS4B9Eu1x8Nv/GojKohu+/4GVxK4dLkcEDhqLFf3J69wYz/nFqfwJ00chqZvY3NWazM4s55HO1v6+cBaTJHGHdlpYsauSHkmn2kexlK8w6k=;9hH5akUNLg7qmkZ1SqHVMQ=="
 ---
 

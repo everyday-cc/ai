@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T11:02:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-travel-lifestyle-hong-kong-d31df0d858bc2e1b2e374049c28df491"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-travel-lifestyle-hong-kong-d31df0d858bc2e1b2e374049c28df491"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Associated Press

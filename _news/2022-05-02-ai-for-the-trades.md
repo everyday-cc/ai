@@ -23,6 +23,17 @@ images:
     height: 1200
     isCached: true
 
+related:
+  - title: "DHA Streamlines Its Request for Tenancy Approval (RFTA) Process With Artificial Intelligence-Based Platform Bob.Ai"
+    excerpt: "DHA, Housing Solutions for North Texas (DHA) has launched a new artificial-intelligence-based module for Housing Choice Voucher program clients and landlords to manage the Request for Tenancy Approval process and documentation all online via its Bob.Ai ..."
+    publishedDateTime: 2022-05-04T13:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-4-dha-streamlines-its-request-for-tenancy-approval-rfta-process-with-artificial-intelligence-based-platform-bobai"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 10
+
 secured: "TciV/U7r+830rWdP/FqAWZjy/EdBBxRxCVIRcAgt4f3tMHSp2B0Cp7YmKYrSGDTtXV09jWsqGlGvV201VcNhJOV4pJ3qHAPEVS0Ng48F13+/QnwKKO+BbYP/g6idroL2WQHmhrjLuStISyJbNkBb+qs+ZcpcZTKLE22ZSsHWp+Bh0d8oJvMnQhhQbspPBBGKRqhWompW2Jxgh/9RI7zs2IlRuRe7pubeopdDFd8SftDng6nbPTMCR9k4gFyFAvO07F7fHVcT1+9OT5NhGZ5BAJPJF0UzkJZ412bU5YAM5n9vn2p6R+UevQch0iDqTQAldszXERxbPe1Zogzos15a9n+liPgG2v3t1OReVyVpga8=;aMduC6EF5HOOpzb3tcP3hA=="
 ---
 

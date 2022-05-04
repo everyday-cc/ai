@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/article/4505733-c3ai-artificial-intelli
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "8 Analysts Have This to Say About C3.ai"
+    excerpt: "Over the past 3 months, 8 analysts have published their opinion on C3.ai (NYSE:AI) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's ..."
+    publishedDateTime: 2022-05-03T17:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/8-analysts-have-this-to-say-about-c3-ai-1031414656"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_10084.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "8 Analysts Have This to Say About C3.ai"
     excerpt: "Below is a summary of how these 8 analysts rated C3.ai over the past 3 months ... If you are interested in following small-cap stock news and performance you can start by tracking it here. Analysts work in banking and financial systems and typically ..."
     publishedDateTime: 2022-05-03T15:01:00Z

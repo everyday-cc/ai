@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/ai-can-help-brands-connect-with-custom
 webUrl: "https://thenextweb.com/news/ai-can-help-brands-connect-with-customers-empathetic-way"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: The Next Web
@@ -26,19 +26,6 @@ images:
     width: 741
     height: 371
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence Can Help Fight Fires in the West"
-    excerpt: "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, Colo., is tapping decades of experience of managing satellites, exploring ..."
-    publishedDateTime: 2022-05-03T20:54:00Z
-    webUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west"
-    ampWebUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 37
 
 secured: "jGz9zJKnILBxpuw1AC86HWkD0Yprx7Q4M9DhGexKjO/CYEnzTZGP1xUR8ADBbex40RBp1tj8LQC7xAvDLyxIkOXcSUeuN+vYMWf9q1CWHpdvKs3/n3GjPUeQWFyREC0Eezlq14BerLS9cH9XTAFeVwYzIB78D3pCR+p9kSAOxVrEGH0t0692DFYcYwnKZ9Med7OlQL0iREey3Ts6K8owBri1ntdjKUSGlsXB7hF19i0gVWiyt8adGfcogsXWFys7GPsun3jlMUTmguIb0ucjvlMdJkPwpuF/bq6EUq4WNnKctWiwmKxtPwVMmpQ5afloLKOu8xNMFhiBYDLm/1NlhlWxvnD6sYz7ZaPcZGTnjLgvDBunZWx4InGrn57SXs07zGSoTOni+kV64F146cVpBOHvykfgG4Eej3/KlrfuOJ1de/zCVlOBKlfTw3JtPAxsRytP/Za4+zNrSi+qP53qzjJmwLK9SgnrEARWjHDoSJ9seyIi4Wn4SCMStnzVohSsUAlGca+kw3jTTVwvd5Jg+Q==;UfQW1XdDtIjh7effwiaZqg=="
 ---

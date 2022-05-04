@@ -42,6 +42,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "8 Analysts Have This to Say About C3.ai"
+    excerpt: "Over the past 3 months, 8 analysts have published their opinion on C3.ai (NYSE:AI) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's ..."
+    publishedDateTime: 2022-05-03T17:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/8-analysts-have-this-to-say-about-c3-ai-1031414656"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_10084.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "B49xh8QQWTBRLAvOoyR6DbDVjxXyd8jVbtUhIevoy9mCRaViYVD7k3J2AXhIq2X/h7cab1ZdL+GsN2F80Samgefp+HzJC8rhxO+SNUGMwniecE4UZ+qGsrlee0lLWMHcA0CkyPBg0JpaRq8i5gG2Axif2Jp/4uil4bVVDC6EJGghOucvVz1LqrQwVdxWfnwIbXQB6mLajCUgA8wK7re8d/gEjS1PWQiqdrPWdOxD0az7AAzBFWQ38OAhpk/De+c6RLfITB7hOxE898/i8E6jLX9ON9ABgbmDWufVJ6YU4s/PwFPiMypA4WwFmVbO8MwjidaFpEzVQJjeC4Q6X8Ph1pb3iKITmLu0Wqjfbm2LeuJuGraPALkP4UL97oQ9xNcOCAYQ0B/Smu4k9Zz4mDRENsl6P/fQZoPjWDfrstz6ltLPx8io84/Kfu+DMhHPlytljPwYirxcj79o7SNJ7HG9UOyH8Hy1GyTU7O0kdMGzKyBlxBWG8PhnbrMsb19vVfsmf+/D04Hr6EluHdvMp2kvJg==;sB78GhDtq2PfwbE280RpdA=="
 ---

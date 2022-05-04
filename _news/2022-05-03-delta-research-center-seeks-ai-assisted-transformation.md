@@ -40,20 +40,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google faces internal battle over research on AI to speed chip design"
-    excerpt: "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips."
-    publishedDateTime: 2022-05-03T16:54:00Z
-    webUrl: "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/"
+  - title: "Google Faces Internal Battle Over Research on AI to Speed Chip Design"
+    excerpt: "Google Faces Internal Battle Over Research on AI to Speed Chip Design By Paresh Dave OAKLAND, Calif. (Reuters) - Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial ..."
+    publishedDateTime: 2022-05-03T02:36:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google Fires Another AI Researcher for Questioning Findings, Company Says Otherwise"
     excerpt: "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ..."
     publishedDateTime: 2022-05-03T20:35:00Z
@@ -113,22 +110,6 @@ related:
       - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/google-boston-2018.jpg"
         width: 4032
         height: 3024
-        isCached: true
-  - title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
-    excerpt: "Often, capturing neural activity in mice requires restraints ... with the assistance of DNNs,” the researchers wrote. In artificial intelligence, a generative adversarial network (GAN) is a deep learning network that generates output that has similar ..."
-    publishedDateTime: 2022-04-29T20:14:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/picl2887.jpg?itok=BuzpjY5z"
-        width: 1528
-        height: 800
         isCached: true
   - title: "Another Firing Among Google’s AI Brain Trust, and More Discord"
     excerpt: "Tension among Google’s AI researchers reflects much larger struggles across the ... which the paper said could improve the design of computer chips. The technology was hailed as a breakthrough for artificial intelligence and a vast improvement to ..."

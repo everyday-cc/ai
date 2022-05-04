@@ -24,31 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startups apply artificial intelligence to supply chain disruptions"
-    excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
-    publishedDateTime: 2022-05-03T10:00:00Z
-    webUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
-    images:
-      - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "FOCUS-Startups apply artificial intelligence to supply chain disruptions"
-    excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
-    publishedDateTime: 2022-05-03T06:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions"
-    ampWebUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 81
   - title: "How AI is helping the supply chains in the healthcare sector"
     excerpt: "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to comprehend and decipher. It can also be fed ..."
     publishedDateTime: 2022-05-01T08:56:00Z
@@ -74,20 +49,40 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 59
-  - title: "Two sisters create a startup that puts sustainability into global supply chains"
-    excerpt: "Built on the cloud and using AI, it processes mountains of unstructured and uncleansed ... But as is the case with any startup, the journey taken by Atkins and Vowels has not been easy or straightforward. The pair have had to work doubly hard to establish ..."
-    publishedDateTime: 2022-05-04T01:01:00Z
-    webUrl: "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/"
+  - title: "How AI is helping to address staffing shortages in healthcare"
+    excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
+    publishedDateTime: 2022-05-02T22:25:00Z
+    webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 33
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
     images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/givvable_main_2000.jpg"
-        width: 2000
-        height: 1332
+      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
+        width: 724
+        height: 483
         isCached: true
+  - title: "How Artificial Intelligence Can Help Fight Fires in the West"
+    excerpt: "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, Colo., is tapping decades of experience of managing satellites, exploring ..."
+    publishedDateTime: 2022-05-03T20:54:00Z
+    webUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west"
+    ampWebUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 37
+  - title: "How AI and ML can help the public sector push boundaries"
+    excerpt: "In both cases, we worked with Amazon Web Services (AWS) and leveraged Amazon SageMaker, a flexible cloud Machine Learning platform, to develop and deploy elements of the solution. What challenges does the public sector face when it comes to applying ML?"
+    publishedDateTime: 2022-05-04T08:35:00Z
+    webUrl: "https://www.techuk.org/resource/how-ai-and-ml-can-help-the-public-sector-push-boundaries.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 36
 
 secured: "BF3Zvqm7XvL2LEi3ro1YBOp52wdwtybOmtuZrJ4cXCc6zssWVAB9zsxxNs5jY+Y2vQ0ZQsdhrfxlr40F4g/zISlA5/NjrK91T1qr5gAe4OFP0AFHUqJ8ZarXOdQ+achZ2al68onLqZLsYjHtaIVFzkL6P/P8TmDHJB/mV8iak9Q+qqex27ZMdTagzxPOZcUqpCzRYwuCO/0UnaF0JReFx0xakUuHrEURPnv9KsFK2nykzwEnizVRdnGpJUbNvx4DJEIgHk7zDQRPF9rcrKiTVQ6lV62MmbH1WnEJslFoiBLiX72sgacn1XTv8hmi9vtdRUqOaL9bzVvNbih+GkaW/NCYNJsyyiARi4HMaEtVTTE=;6ZqSt4i82QZgPTUUwVttwA=="
 ---

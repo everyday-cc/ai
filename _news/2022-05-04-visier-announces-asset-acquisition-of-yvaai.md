@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T13:09:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/n26989679/visier-announces-asset-acquisition-of-yva-ai-extending-visiers-people-cloud-with-deep-work-and-tea"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/n26989679/visier-announces-asset-acquisition-of-yva-ai-extending-visiers-people-cloud-with-deep-work-and-tea"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Benzinga.com

@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Google faces internal battle over research on AI to speed chip design"
-excerpt: "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips."
-publishedDateTime: 2022-05-03T16:54:00Z
-originalUrl: "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/"
-webUrl: "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/"
+title: "Google Faces Internal Battle Over Research on AI to Speed Chip Design"
+excerpt: "Google Faces Internal Battle Over Research on AI to Speed Chip Design By Paresh Dave OAKLAND, Calif. (Reuters) - Alphabet Inc's Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial ..."
+publishedDateTime: 2022-05-03T02:36:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI Hardware
   - AI
-
-images:
-  - url: "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg"
-    width: 1200
-    height: 628
-    isCached: true
+  - AI Hardware
 
 related:
   - title: "Google Fires Another AI Researcher For Questioning Findings"
@@ -104,22 +100,6 @@ related:
       - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/google-boston-2018.jpg"
         width: 4032
         height: 3024
-        isCached: true
-  - title: "A New AI Technique Provides Researchers Neural Imaging in Moving Mice"
-    excerpt: "Often, capturing neural activity in mice requires restraints ... with the assistance of DNNs,” the researchers wrote. In artificial intelligence, a generative adversarial network (GAN) is a deep learning network that generates output that has similar ..."
-    publishedDateTime: 2022-04-29T20:14:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202204/new-ai-technique-provides-researchers-neural-imaging-in-moving-mice?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/picl2887.jpg?itok=BuzpjY5z"
-        width: 1528
-        height: 800
         isCached: true
   - title: "Another Firing Among Google’s AI Brain Trust, and More Discord"
     excerpt: "Tension among Google’s AI researchers reflects much larger struggles across the ... which the paper said could improve the design of computer chips. The technology was hailed as a breakthrough for artificial intelligence and a vast improvement to ..."
@@ -279,6 +259,6 @@ related:
         height: 600
         isCached: true
 
-secured: "gKNKOt8jNd8zczlPseGcRz8iwOGDcKaNPz81SABPgw7N14FBjMzwFKbQt0vXfwEREf/xFk/2bIIx0RKc8qPJfIhqm6tx8sZbkhNe1i3HsnSXFnpMt6T3mVhVsE8k3IDohxv4vVNc8tgeGyq+QJdnICSJBM0dLGQZOLj2Ktk2IzpQGCoSVYar+AGa5NIcSwIyonMPKahhT8PEd7q4uFJgxnnt7IzaJssAEpeo86jeZY8ykSbFMOdlT/jNkKwAUcxIslJ83IJY4T9jUtIDQ5guAvCKodQwQCx9l3c4RvA1JmMLxloU5nAs+9poi6/6io9yvaaPTr7N6vslSFIb6tqDIrjcVb3QFRGOLMItRQNw9UKHCnGlEWDTRUPoxKlerznMiM1F/miiXha3HMQ2mh5NIB/RiIF6SMgcwhurVXDwZ36yCOYAbHBI6o3GZyvZjF9vvvv6KB0N4Eer/yzcF+S+np7ww4n2a9lF1nv8KZwTejQ3ed4O+7RFPrgna+xYPVl2xfgQiTNfh2NRGtDueOkKfw==;Txre0xxzyRWM16gSQsVZDA=="
+secured: "TxBhd9IOIhpwxcHH2zqDReYjpGVYN/99pOQBiAqQFS33n/h+Te7gle8to7rt09CxN0WCD/Idi2dwPa2BaJmUWfj+oImo0Z4/ljnZHBshtEH2ockSJf4s8ic8JuQSbHOBworh6OZsMhqFpUCzYkjKbeJ3si0cw/jNLD0XmF1RP21QUv/LY3yiIbGZjcKDnJ9BfopayJi3Bfw/lT5+QCTHhVIQcVGlpvKhuT+3yIt5b1P556mB0aHKBbvXlfEuE2m1SODJRtD9sPo8O5pxDKHIylYoniI5ZqhQ0M49y02vAbQKvtnG/9baBkWHRBTdhuCmeRfRpbhfXvAgKkV0jxzxTWf11xl0mDQJBOSMImhLl3W68h+RYfP7lDAsda5E3Cl7WTwViTVkNWnYQNr9qBN9ho2TRPo3tuLcNDvbKnT1xsaoDnf3iqeVIADCzNkJ2setWBN3taRlqzRaZFkqYxztmkgQ5rZT+oHLZ/jAwIObmybHkQyT+7W+Hy2I1kNTjEy71v0LeDFvNsaekkYfXSkYkQ==;Wint2UN0Gy3OKTloD9rj5Q=="
 ---
 

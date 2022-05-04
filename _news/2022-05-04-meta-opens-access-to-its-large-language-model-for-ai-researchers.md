@@ -59,7 +59,7 @@ related:
     provider:
       name: IET
       domain: theiet.org
-    quality: 41
+    quality: 43
     images:
       - url: "https://eandt.theiet.org/media/18218/meta-6946620.jpg?crop=0,0.20708333333333334,0,0.3007291666666666&cropmode=percentage&width=1200&height=450&rnd=132961391880000000"
         width: 1200

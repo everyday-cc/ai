@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -25,6 +25,15 @@ topics:
   - AI
 
 related:
+  - title: "Robots Are The Key To Advancing Artificial Intelligence"
+    excerpt: "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ..."
+    publishedDateTime: 2022-05-04T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Housing association tests AI and machine learning to cut costs"
     excerpt: "Jointly developed by the University of Bradford and the housing association, Incommunities, the two-year project will use machine learning to predict things such as boiler checks, general maintenance, and housing repairs, and could also be used to help ..."
     publishedDateTime: 2022-05-03T11:11:00Z

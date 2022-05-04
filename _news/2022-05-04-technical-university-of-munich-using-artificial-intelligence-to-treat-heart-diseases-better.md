@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T06:40:00Z
 originalUrl: "https://indiaeducationdiary.in/technical-university-of-munich-using-artificial-intelligence-to-treat-heart-diseases-better/"
 webUrl: "https://indiaeducationdiary.in/technical-university-of-munich-using-artificial-intelligence-to-treat-heart-diseases-better/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: India Education Diary

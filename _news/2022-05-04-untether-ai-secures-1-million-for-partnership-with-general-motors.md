@@ -50,6 +50,22 @@ related:
         width: 600
         height: 500
         isCached: true
+  - title: "Funding rundown: Zepto raises $200M at a valuation of $900M; Traceable AI raises $60M in Series B round & GenWorks Health secures Rs 135 crore"
+    excerpt: "Fintech startup Kaleidofin raises additional $15M in Series ... Anicut Capital leads $550K seed round in HuddleUp AI-backed talent retention platform HuddleUp has secured $550,000 in its seed funding round led by Anicut Capital, an alternate asset ..."
+    publishedDateTime: 2022-05-04T15:35:00Z
+    webUrl: "https://www.cnbctv18.com/startup/funding-rundown-startups-zepto-tiger-global-traceable-ai-fintech-13379252.htm"
+    ampWebUrl: "https://www.cnbctv18.com/startup/funding-rundown-startups-zepto-tiger-global-traceable-ai-fintech-13379252.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/funding-rundown-startups-zepto-tiger-global-traceable-ai-fintech-13379252.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 23
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/08/startup_funding1-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Finbots.AI raises US USD 3 million from Accel in Series A round"
     excerpt: "New Delhi/ Bengaluru (Karnataka) [India], May 2 (ANI/PNN): Finbots.AI, an AI-led, innovations-driven venture targeted at banks and financial institutions, today announced it has raised US USD 3 million in a Series A round from Accel. The investment by ..."
     publishedDateTime: 2022-05-02T12:48:00Z

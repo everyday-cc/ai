@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T11:55:00Z
 originalUrl: "https://www.itweb.co.za/content/WnxpEv4YGeZ7V8XL"
 webUrl: "https://www.itweb.co.za/content/WnxpEv4YGeZ7V8XL"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: ITWeb

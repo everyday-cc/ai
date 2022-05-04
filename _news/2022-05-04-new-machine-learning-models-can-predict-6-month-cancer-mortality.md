@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/new-machine-learning-models-can-predict-6-month-cancer-mortality"
 webUrl: "https://healthitanalytics.com/news/new-machine-learning-models-can-predict-6-month-cancer-mortality"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Analytics

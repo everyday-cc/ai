@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "jL/3F5wHENXWo7s+CZHSzp0uYe7zAV+JB3kX/0aHtMSEEGjRPcng36kBIXCvkhYKOhYLiWD1jLAHGsWVIKII86x95H5VR3U3TINTl1YZ06yTYWq35R8CVMN/TiG3IzAAqary37CvX12Lfrn0IfeJHqcJSTB8c/oUUGfM95ZqG70P/33jHgGeBNk56NEmx9Fmgu7l7LAG7QNI7AWBT7wqLYdopFfF3aIwyTaZfr0OBN4nWl5ph/ysq5QVzeDwWT4pNREiyEsRY7nKa3arRCcNDdH8T5OeLZN2w+7ThOHnkbYKFoSCVngzSAVrfXNEGxRBWbdkiDjg+wOlEY05yFRkNxyNEzF40V+Ts4OuU0ydqzA=;Jm393WSkPx2ewhGoX7A8GA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1799283/NVIDIA_AI_Hero_Image.jpg"
+    width: 400
+    height: 269
+    isCached: true
+
+secured: "A9sKFW9NgrJzuHX5Em4jdQOTEolRWILgkwveQxXzg12WemObhCPcJvMmNRwDnKm0CuHoNco/uLh6RHk+lghkY1NrWe63hAdokwAdgKqDwiIqXHoBi8YOuxB/8dG5wrvpyjy9iYszcHVXhhysJzglSAX2WOShqYLo3Y56ZutMHtvk98VTeS1qSK3cRMBidGO9BSCNPhcJjmqlwku78JPCmwXCV2W2YQqq9hZ4omXdiXP/8VidwkTSmihmzUpNF3W+RStUb2ACMsKJQ37X9DPti7EbApi2p2BYTpvnB0yROwG0SAS7RQY3gX23j0ggtcwME2hBRWN9KLXuW4+X2zUUMRnjD+pv01wmE82CH4WSiEY=;iCDSqniwbA6KLZtlU+b0qw=="
 ---
 

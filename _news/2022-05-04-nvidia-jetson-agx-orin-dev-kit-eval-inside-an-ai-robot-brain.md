@@ -8,8 +8,8 @@ webUrl: "https://hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit"
 ampWebUrl: "https://amp.hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit"
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit"
 type: article
-quality: 74
-heat: 84
+quality: 78
+heat: 88
 published: true
 
 provider:

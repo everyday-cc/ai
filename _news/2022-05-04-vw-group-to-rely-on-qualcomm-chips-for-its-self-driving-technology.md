@@ -8,8 +8,8 @@ webUrl: "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-fo
 ampWebUrl: "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/"
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/"
 type: article
-quality: 59
-heat: 89
+quality: 61
+heat: 81
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/08/qualcomm-hq-2-web.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Ai Chipset Market to Witness Huge Growth from 2022 to 2027: Xilinx, Google, Micron Technology, Qualcomm Technologies"
-    excerpt: "New Jersey, NJ — (SBWIRE) — 04/29/2022 — The Worldwide Ai Chipset Market has witnessed continuous growth in past few years and is projected to grow at good pace during the forecast period of 2022-2027. The exploration provides a 360° view and ..."
-    publishedDateTime: 2022-04-29T21:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-chipset-market-to-witness-huge-growth-from-2022-to-2027-xilinx-google-micron-technology-qualcomm-technologies"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 14
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7375b70c7f3e94b282b4caaf5e6c8b29921701b5-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "B596ftNXTtnhL/xyiYQc46o7DTs/nSQynz4rvF9WXxzxKoS3Sv27h98moRHAcBdePB0X2+7ZZEB9dsaT1iStkDcCwcDIxLo6IXJWHnSsIiuD/18w63x2cgwoFl1c5WvhDL202xEWxhquGU/oToqLtBKeVDVhRXqysdDF8v2i7b9VJYvyy4EXmN+9fdV6T6WbcOOd8D5SRnuDFJdkReKTyG/poxqXBhUwD4Mcx9iOhVk82utHg8sTV2AIPdKeO8l+V+dvQtVvugGSfB8o0QbWRGDStK1PkQZuM3WmcE6iHg2Ruxp+499xqpi8hjKxMdTO+jouRsEm38F4QEwO0KrDhrOF2wQTzhSa3zCWEULqy98=;P2DMnBAQ+bYvuxHZtFM78w=="

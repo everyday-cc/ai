@@ -42,6 +42,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "AI in Fashion Market Size 2022 Share, Growth Prospectus, Top Manufactures, Latest Innovation, Key Factors, Company Overview and Forecast till 2029"
+    excerpt: "The AI in Fashion research also includes crucial information on industry segmentation, market share, size and revenue forecasts with geographical representation. Get a Sample Copy of the Report at - https://www.marketresearchguru.com/enquiry/request-sample ..."
+    publishedDateTime: 2022-05-04T09:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-size-2022-share-growth-prospectus-top-manufactures-latest-innovation-key-factors-company-overview-and-forecast-till-2029-2022-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1kaEFVtmKDz/EkgYk34qjsg1azoIH2CA+id/BNwHbvI8YdgPQbpXTrpuKTIOj+i0tDQQXmL73Ivp62rO8X8PCATjJ3EUzbt3RJlwEarsZAxsldfzTa1wGxoUdORlaMrepH+G/shJ7j9EPJkNbRup3BeO/gGw6uA8RFr+UmGJi/9qn9Cqen3bceujF6Hiroe1hEiS+Wci8QqZ6XtAZvHhbMapzHivGbMP5Rkn2vmaqBO9RT9u2BbAKL+t7Gar/hqG0lfv0khCOlLoUBY3ZYeP7ZDktgwiQn72luPjRG9pc3p5IaNJ9Yqbcxdx5sFXnAoYTmz10VWs7XqErl85d9NRHCztUOpiSFgfse1ZHo807LM=;QJ3YeoTw3rjgG5pvhhJrBg=="
 ---

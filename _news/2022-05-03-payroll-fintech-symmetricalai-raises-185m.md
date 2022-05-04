@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Catapult: Kickstarter Fintech Acceleration Programme 2022 for early-stage Fintechs (€50.000 in subsidies)"
+    excerpt: "B2B Fintech companies with solutions in Regtech, Wealthtech, Insurtech and Cybersecurity using Blockchain, AI and Big Data technologies are of particular interest to the Luxembourg financial services ecosystem. When The 2022 Summer edition of Catapult ..."
+    publishedDateTime: 2022-05-04T15:47:00Z
+    webUrl: "https://www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/"
+    ampWebUrl: "https://www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/?amp"
+    cdnAmpWebUrl: "https://www-opportunitiesforafricans-com.cdn.ampproject.org/c/s/www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/?amp"
+    type: article
+    provider:
+      name: Opportunities For Africans
+      domain: opportunitiesforafricans.com
+    quality: 27
+    images:
+      - url: "https://www.opportunitiesforafricans.com/wp-content/uploads/2018/09/catapult-inclusion-africa.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Why Gig Economy Has Become a New Trend in Fintech"
     excerpt: "Fintech startups are more suitable for this job ... Ventures, such as B9, Chime, Earnin, and Brigit, are able to calculate risks with the help of AI at incredible speed. They use it to provide gig workers with quick access to advances on paychecks with ..."
     publishedDateTime: 2022-05-02T08:00:00Z
@@ -66,6 +82,29 @@ related:
         width: 1800
         height: 1011
         isCached: true
+  - title: "Ten FinTech Trends to Follow in 2022"
+    excerpt: "FinTech is one of the five areas with a high Big Data growth rate. The industry needs a powerful tool to collect, structure and store information. One of these is artificial intelligence (AI). According to McKinsey, every year, it generates up to $1 ..."
+    publishedDateTime: 2022-05-04T14:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/22232/ten-fintech-trends-to-follow-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.researchandmarkets.com/content-images/173/173851/1/global-fintech-market.png"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Upstart: Huge Upside For This Rapidly Growing Fintech"
+    excerpt: "Upstart is a small fintech company focused on using AI to automate the loan approval process. The company has experienced rapid growth, leading to a blow off top in 2021. The froth has come out of ..."
+    publishedDateTime: 2022-05-04T12:00:00Z
+    webUrl: "https://seekingalpha.com/article/4506032-upstart-upside-growing-fintech"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "3y8OiRPtretvpteCqDNCAIlzHWdbs7Xmmhv3Xv1f4w2gee6c4JY7pAITbXr4ttzLSSwog9ZrdPf/fN7US/cITntTOLkc9h/rfEmgtunbQhCGcc7dX7YKbHtDAF6DbBD3WzVkCNhlsEqZlj0SP6XInm7rcgd9gBpCQ/OwJs3oz95syH2IOcw6o0SyLZa68BZb5+PjIOE03IWGOHV9gsTDFT8OVrhqb7P5TOrF+OrasZmZqDf4dd+515lH0DeoLwbKHZQKr7aKF6OzKpguDszaRz7xIwOyUxK1ftuTWq5G14lNfS49B+ztSwHt59FOnzxdfjDN5gKVxwZ5h5aZjJlYBWh3AtHsbTNNCwNzXOHV2Q20+Z8WamXWltqB9xCU+XdfYM5cNY6fP/GTd172F6KWVQOXupI7YloFlTLO7Gg+L669v4TQKxEqge2bWPDt9CCZbjlv0eU662ZNMZNYHGHH5xhuWZ+aAYYRqSmF3GcPY6BQjJHk4r5aDPKXtd7Grif0mSXjqOHPzo1HZHlDKqNlLA==;BoD9Y0IYyLQKOCo/qgJFSw=="
 ---

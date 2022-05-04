@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 546
         isCached: true
+  - title: "SoundCloud buys AI that claims to predict hit songs"
+    excerpt: "Though a far cry from the smoky clubs and A&R legends of old, AI is becoming an increasingly critical part of finding up-and-coming artists. Music distribution platform Tunecore announced in February that it is partnering with LA-based music startup Fwaygo ..."
+    publishedDateTime: 2022-05-04T15:47:00Z
+    webUrl: "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/KxExR6HndslDDdlqsMY17wm3MSc=/0x91:2040x1159/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9020373/akrales_170802_1743_0094.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "SoundCloud has bought AI tech startup Musiio"
     excerpt: "SoundCloud has bought Musiio, the startup that focuses on artificial intelligence in ... Read this next: How the first Mixmag cover animated by AI technology was made Using AI to ‘listen’ to tracks, Musiio can identify characteristics that can help ..."
     publishedDateTime: 2022-05-04T10:31:00Z
@@ -84,6 +98,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SoundCloud acquires AI music-tagging startup Musiio"
+    excerpt: "SoundCloud has acquired Musiio, the Singapore-based startup that has developed a service offering AI-powered analysis and tagging of music catalogues. Why? SoundCloud said that it will use the tech to get more insight into the music uploaded to its ..."
+    publishedDateTime: 2022-05-04T12:38:00Z
+    webUrl: "https://musically.com/2022/05/04/soundcloud-acquires-ai-music-tagging-startup-musiio/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 17
 
 secured: "fxpe+4+0q1+3xBEiPErYNYyHFmfo0gfG2tSNFAjbJwlTnLMVEnbjsVR3GsrbGPgBDy6esTl4xNLA4+saDiPI6o7l5q4A5nQZjIihH/lJCvTEjO44NqD8wNe2QHJhXtO7KY+oOHueT7Y3k8/bJXkfBaHfF/msaYvKxkm1vWLNFTJR+mMvNGHvGCjtg9VKVqQgsM0xUR+HdXB5vX+QktVm3BgOGLf3sPZkL3clO+kZMrCvelvCH3N46bRtjajraWkIgAbyrdwOiZRYPoZ/TBXpKodVIIONy6jE1JC/g33wJQ3ZlvsaKigQ8Gk/ZsYHRh6eh64u0TiGl9YArEibpwVhGhJ1U3m90kWg8wWd2nK8Ff0=;NrEK3gpIBAiAl+ga7oQ08Q=="
 ---

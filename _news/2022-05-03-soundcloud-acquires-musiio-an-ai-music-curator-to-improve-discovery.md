@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-musi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "SoundCloud buys AI that claims to predict hit songs"
+    excerpt: "Though a far cry from the smoky clubs and A&R legends of old, AI is becoming an increasingly critical part of finding up-and-coming artists. Music distribution platform Tunecore announced in February that it is partnering with LA-based music startup Fwaygo ..."
+    publishedDateTime: 2022-05-04T15:47:00Z
+    webUrl: "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/KxExR6HndslDDdlqsMY17wm3MSc=/0x91:2040x1159/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9020373/akrales_170802_1743_0094.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "SoundCloud has bought AI tech startup Musiio"
     excerpt: "SoundCloud has bought Musiio, the startup that focuses on artificial intelligence in ... Read this next: How the first Mixmag cover animated by AI technology was made Using AI to ‘listen’ to tracks, Musiio can identify characteristics that can help ..."
     publishedDateTime: 2022-05-04T10:31:00Z
@@ -88,6 +102,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "SoundCloud acquires AI music-tagging startup Musiio"
+    excerpt: "SoundCloud has acquired Musiio, the Singapore-based startup that has developed a service offering AI-powered analysis and tagging of music catalogues. Why? SoundCloud said that it will use the tech to get more insight into the music uploaded to its ..."
+    publishedDateTime: 2022-05-04T12:38:00Z
+    webUrl: "https://musically.com/2022/05/04/soundcloud-acquires-ai-music-tagging-startup-musiio/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 17
 
 secured: "8HTYVZUpL7fA7SPxTK74UUsfKC9R0fnefJNxae0fLmPamOLHmeI1DZkwpL5P1u61Xp/8WKC8MGEk18PpubaXCOFpCD8xY12yNvw2LE/qOMOfPJOKwkSaAMVmS0m3JVVWF7YXMtt56k+NwRL/nrgU1whK94PRsVpyDmr2pcTRK5tPWmWUmQVdX3OvulWZBGsWjZBNdGFzcpYEN1011y/9g2AFuYgjI6UAxs775jfGSDyeJ9KCM/2Y3Gjat8TQgFx9GBAVUC514JbkNQuHJCXLguhrSPJp3NA0Gu+ktkI3K37t11qvL+RuVLqt6dw0htfozCTe/mYF/1aidPmHQkczsmvLJhTiAJYQg9erQn42v52j17imb1KN5lMTZhFMBD0Mfkj9Vy/FquX9ycwKms6F5CvYtCMLXqssbh/yfPvU36N498TyTi9+U9E/Z2vXGZlNDDf2/B7v4JxcWVp+U6eNeSObPxuNDEX3JvmNNmLVEZFGDFVtqImThHHzBF2jDTxM3X0GFarhDFpR1N5PmiAKxw==;6COJgxS9i44oRgRWbf2Phg=="
 ---

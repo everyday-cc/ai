@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Re-Modelling B.Tech - JAIN (Deemed-to-Be University) announces New Program in Artificial Intelligence and Data Engineering"
-excerpt: "programme in Computer Science and Engineering with a specialisation in Artificial Intelligence and Data Engineering. This course will be focused on providing students with a new way of learning ..."
-publishedDateTime: 2022-05-04T11:23:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Business/20220504/3937973.html"
-webUrl: "https://news.webindia123.com/news/articles/Business/20220504/3937973.html"
+excerpt: "programme in Computer Science and Engineering with a specialisation in Artificial Intelligence and Data Engineering. This course will be focused on providing students with a new way of learning through immersive model of teaching!Every medical college in ..."
+publishedDateTime: 2022-05-04T12:59:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272539269/re-modelling-btech---jain-deemed-to-be-university-announces-new-program-in-artificial-intelligence-and-data-engineering"
+webUrl: "https://www.bignewsnetwork.com/news/272539269/re-modelling-btech---jain-deemed-to-be-university-announces-new-program-in-artificial-intelligence-and-data-engineering"
 type: article
-quality: 6
-heat: -1
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1651666542.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "Re-Modelling B.Tech a\" JAIN (Deemed-to-Be University) Announces New Program in Artificial Intelligence and Data Engineering"
@@ -28,6 +34,6 @@ related:
       domain: ians.in
     quality: 6
 
-secured: "a4VEonT+CVV+ZLabd6agQv0fwObM6zBJfTjVxbFpFPjqrr/htLd6j6L6X62UvHZhJvBD2p7M1iUlD8jY0Urv8BqI49EDhAh2CQQz88qqxDAa33Bf8GL5onl+Z/g3jTczBO/IjJh2t2eqewRpxkE2dL/imunTub6Lv61Hellbei7R/Ii/OzDl+i8qJ1yRqNou+/kBIr7rSak9BYW+HX7ldexTaf+ujEob8B9BeSyoeYTuspBEC1qBNDsycCeXHoy2k969lwGyrUkaUCcx83HgmZ5t8RtK60crfysK6TVhKy9w1VZdmRoQN2922Ap1VYkT0M4JFcDAg58e+B9GsJ/HJ32m4VbFSm7Z7PWcHVSwRdA=;llskFIWFpuV1N6L3KlTr/g=="
+secured: "2P52IN79OyoR8n4Uvj9M5pqtS4QRhge75K3A3IWqT0uvqUbCzipQYldaNX0DFm1JNpAgqdgdJAXiYFZonI+xN/7OauvznvLEVQgDjNZ3R0E+cJoDQ+DErkWNM6TMSdJWcV6SF7/aNE2zsQvnrtSZMiayqw9QNYKzsM8S04YTBTs9TDKA9aTsUDRjy1qN5eT+ap+2Kbo3WFdWKYJ0z7NxuffZKMkd5/bROguXww/4Rs2pfzici6Pa4/fORHrO580w0ZiD480fsMzoOy6bAIE3ek4A1Sc2rrJKcvFos0uWs1nc2jlj4edajzrnd1iXX1aAIGhWsvmnf1G86LOH2xP2arM7hSwptfCCvE7s2lmDCz0=;yilIsRY/BnrPwxJKV7+Mhw=="
 ---
 

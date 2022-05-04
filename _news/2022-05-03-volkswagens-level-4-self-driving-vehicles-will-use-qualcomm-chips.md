@@ -39,7 +39,7 @@ related:
     provider:
       name: Carscoops
       domain: carscoops.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.carscoops.com/wp-content/uploads/2022/05/VW-ID.-Buzz-2a-1024x555.jpg"
         width: 1024
@@ -58,20 +58,6 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/08/qualcomm-hq-2-web.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Ai Chipset Market to Witness Huge Growth from 2022 to 2027: Xilinx, Google, Micron Technology, Qualcomm Technologies"
-    excerpt: "New Jersey, NJ — (SBWIRE) — 04/29/2022 — The Worldwide Ai Chipset Market has witnessed continuous growth in past few years and is projected to grow at good pace during the forecast period of 2022-2027. The exploration provides a 360° view and ..."
-    publishedDateTime: 2022-04-29T21:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-chipset-market-to-witness-huge-growth-from-2022-to-2027-xilinx-google-micron-technology-qualcomm-technologies"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 14
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7375b70c7f3e94b282b4caaf5e6c8b29921701b5-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "W4jHbAkpg4uqayqXeTYv3KH3NqMwp+p7WsehAlpMKcEPqaCPVAACtRNGAX6Bmd6UGx1hGqCwVCDF1QudskrbwAStJbLjI7p6h7EIpeYmw1bCkFWds1lq2mkfMt0nM/Jm4fCj+rIkQb+OKBHh1UOLFq1uMUrX0ZQUaACbOIjlBW1wlBdW5YbTxiP9J3lfUPL8cTYzWHDFg4zKylxzNIpoSIaW7ptM9EDJUb9KIKN1HNSqZ9WdOX1L6iDWGZCsI7QmWlh1cRIffR1xLCxD1PRRle8/6Ly5d9Zq/QH9wix7DLRZEEBS1aeckD5LBxrfHmQIZxlbDIfA4lpLiwMOr2/4T3884elif7msHhRJS6ps+9ekU7yTS2ZnmXbS3pJK8pvUakVsAux8kEF66gxl3/pPnvSmCIt0+11lavIAMxgYeaSAoQ+9hSofyZDvxMX5ybhlkXEoBKHiFKIRWkqd6rlFnZuLQWYxK2QKY4SjMhNqcxwl0ILU5WO4I5daspRwNV5TwmY4HNfLQYHlLW8y8ZIjfg==;MKtq5oguwqHt+37+OR7CTQ=="

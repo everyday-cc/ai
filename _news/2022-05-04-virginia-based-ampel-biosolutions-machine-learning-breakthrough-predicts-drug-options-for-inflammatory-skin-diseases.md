@@ -7,7 +7,7 @@ originalUrl: "https://wgnradio.com/business/press-releases/cision/20220503DC4490
 webUrl: "https://wgnradio.com/business/press-releases/cision/20220503DC44909/virginia-based-ampel-biosolutions-machine-learning-breakthrough-predicts-drug-options-for-inflammatory-skin-diseases/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Virginia Based AMPEL BioSolutions' Machine Learning Breakthrough Predicts Drug Options for Inflammatory Skin Diseases"
+    excerpt: "Revealed in the peer-reviewed journal Science Advances, the paper details AMPEL's breakthrough machine learning approach to characterize disease activity from gene expression data obtained from patient skin biopsies. The lab test, only a concept for the ..."
+    publishedDateTime: 2022-05-03T16:44:00Z
+    webUrl: "https://www.nbc4i.com/business/press-releases/cision/20220503DC44909/virginia-based-ampel-biosolutions-machine-learning-breakthrough-predicts-drug-options-for-inflammatory-skin-diseases/"
+    type: article
+    provider:
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 16
+    images:
+      - url: "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/05/alito.jpg?w=2000&#038;ssl=1"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "4ekiB9Hp+jCxftWqeYNrosXlxCJT8pe1dYBiGs1JRpXkKRqos2QujltWcVE+QCviN+bmZdACDcR8RI+vksNBMScr0NePnGBfsYlkrwrPKrDvsYi3jU65wtSA7D6vctG2W22yzb+FzJqQeemdFSalcA9qTTCvQiDksPdRiAypulUrdFSyTGoABqJYQGIgaSjPGAwfEjsiXMFLybwD3z7NXUwow1g0jdiCSWv6O/AQnXObEOe4ElC9FrKpMOLd+UClBEYjsg30Y7FyuRNdofr3HC+AIyiXyKgdEl/r2Qx03i9IoM3WWqIOF4fUoy0ZND5Gqzu06WseHjFti0/eyEv1D66v5ZlVgNhPbPxZxg/HdPM=;quUQpYv0j9olkgMnJIn5Ww=="
 ---
