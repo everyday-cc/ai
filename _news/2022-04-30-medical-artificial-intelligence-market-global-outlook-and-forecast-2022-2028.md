@@ -19,24 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in HIV and AIDS Market, Global Outlook and Forecast 2022-2028"
-    excerpt: "This report contains market size and forecasts of Artificial Intelligence (AI) in HIV and AIDS in Global, including the following market information: Global Artificial Intelligence (AI) in HIV and AIDS Market Revenue, 2017-2022, 2023-2028, ($ millions ..."
-    publishedDateTime: 2022-04-30T12:55:00Z
-    webUrl: "https://galleonnews.com/uncategorized/255465/artificial-intelligence-ai-in-hiv-and-aids-market-global-outlook-and-forecast-2022-2028/"
+  - title: "Global Medical Robotics Market Report 2022: Breakdown by"
+    excerpt: "In 2020, the number was still rising. Robots, drones, and artificial intelligence have all gained popularity due to the new coronavirus. The global epidemic of COVID-19 has consequences for the robotics industry. It promoted the development of professional ..."
+    publishedDateTime: 2022-05-04T11:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-medical-robotics-market-report-2022-breakdown-surgical-/2022/05/04/9595090.htm"
     type: article
     provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 24
-  - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market, Global Outlook and Forecast 2022-2028"
-    excerpt: "This is also an ideal application of artificial intelligence, because it is particularly good at discovering very subtle but decentralized processes. This report contains market size and forecasts of Artificial Intelligence (AI) in Alzheimer’s ..."
-    publishedDateTime: 2022-04-30T12:56:00Z
-    webUrl: "https://galleonnews.com/uncategorized/255467/artificial-intelligence-ai-in-alzheimers-applications-market-global-outlook-and-forecast-2022-2028/"
-    type: article
-    provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 16
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "EviA4g5v7NB3x2S/sgccnHHANSNKNDsSu2svBEVo7+qiKsQnpVUM+QT4SUl90LZKG9dQUVZ/LYnyh8UiugpKpLpWg7Q6eV/8nzDygFIJINvC83MMJtsTB+dUPKHx957tVHRTC7zm4IwoldOB9Jab79KjP1ON/l5N7T26UXlPJur/DfLCo5yb/HW4VUrG1dhrXVyFzluxPGA9oFZJDfQ0LXKnclJOfpdE65UT1sitkJjsM5XNbOJPScfGmf1aeH90Jj953ucy+QJIy77cdHgm6eMglw2jXeLzl8Z80IdyyibIJXsgYwK13u1LmnkSsx87MA1O5nA/ZfPjK2T3dEyhMEYBEBdPGE/U1pIhvNF7hG0=;jHdujv5EP+z/S+ieAoSI9w=="
 ---

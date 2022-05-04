@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Splice CoSo enlists AI to help you create music quickly with samples"
-    excerpt: "CoSo allows you to you stack up to eight samples based on genre or instrument type to quickly create loops, with a big assist from AI. Everything stays (more or less) in key and in time, and you can swipe to delete a sample or swap in a new one automatically."
-    publishedDateTime: 2022-05-03T12:33:00Z
-    webUrl: "https://www.engadget.com/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html"
-    ampWebUrl: "https://www.engadget.com/amp/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/splice-co-so-uses-ai-to-help-you-find-samples-115513908.html"
+  - title: "Ex-Google, Uber AI heads launch ML error-detection platform"
+    excerpt: "Meta releases code for massive language model to AI researchers AMD to offer CPUs with Xilinx AI engine in 2023 Microsoft to ax Azure Video Analyzer in November AI models still racist, even with more balanced training Fixing problems with ML data is the ..."
+    publishedDateTime: 2022-05-04T11:13:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/04/galileo_ml_error_detection/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/04/galileo_ml_error_detection/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/04/galileo_ml_error_detection/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: theregister
+      domain: theregister.com
+    quality: 76
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/1e78c790-cac6-11ec-8fe7-3029bdd57b8e"
-        width: 1098
-        height: 655
+      - url: "https://regmedia.co.uk/2022/05/03/ml_shutterstock.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "M+APDmFHPvSIdDI/85XMSN1AIJTHWTp43jH01iQAhgAtCQjsYmgf0RxpDe19+xZzwA7IPd1dyjIErS+jTppHZCOm78iLG8o+1EQ2hqH8ndR0S7l9O/d0L/E8Y+RA14j8gIANdCLtk1uZVCt1umoUfeFob1qTyrBumlBz8teK8ji/T1xm6AXATxphttuyVJacKQPz3w+xX1q2SID1fq6JEFHIdmTE47Rd6U6BlWO84CgBewyDrD1jkpcrhMrPTG5Vbs9ytvABk8F0ZorH1FYbKH3tsmdGscGpZr5ivd2Oar7zCGyPG4zzs3rVY8MJelg6q3yzJw5gBnjoqPlBa4k9A8UWZufdKeLTyAONtxdpnNs=;3Pa+GpObqkV86OBJPnGTnw=="

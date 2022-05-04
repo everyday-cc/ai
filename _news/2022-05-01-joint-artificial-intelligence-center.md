@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Advisers to act faster, make better decisions with AI"
-    excerpt: "Dr Catriona Wallace, founder and CEO of ASX-listed company and cognitive virtual assistance provider Flamingo AI, said artificial intelligence holds potential to increase efficiencies and productivity in advice businesses by making them highly automated."
-    publishedDateTime: 2022-05-02T00:14:00Z
-    webUrl: "https://www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai"
-    ampWebUrl: "https://www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai/amp"
-    cdnAmpWebUrl: "https://www-ifa-com-au.cdn.ampproject.org/c/s/www.ifa.com.au/news/31101-advisers-to-act-faster-make-better-decisions-with-ai/amp"
+  - title: "Traversing The Great Uncertainty With AI And Intelligent Forecasting"
+    excerpt: "AI can provide an agile way to sort through these extensive logs of data to quantify unique sets of market drivers for any given business. Out of thousands—maybe millions—of external market signals, AI can help business leaders identify the top ..."
+    publishedDateTime: 2022-05-04T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/"
     type: article
     provider:
-      name: Independent Financial Adviser
-      domain: ifa.com.au
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.ifa.com.au/images/News/Catriona_Wallace_ifa.jpg"
-        width: 600
-        height: 398
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62711214c63fd2377df98d3a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "lXCaIhEtALz7ZBgXfYysBCYthcF6cIn0lOlyVVLL1zEZ73ewBUXIlWcYy6tgnNKX9is5LHANvvk6qOgqS2VckmRt9q9zvxrjz6iwgdBwHV4NMwLYeZ1p4PrFxgmozl2ZQrnjUKogXmb11yxrlCbCqhSRbd+LoR4FEOpidKjoc3ntasrXIzySnrIyE0bwKO7MdMPvEvlwkeyp9+DOc9WrobZSqgMivmxwrJBNqbAp6beUyTaGrjBQ42FAdTiO3ApkG4kyOpUlcZmPk+fq87P1eQlveNSwrv69hHzKmAzOLMqH0YNYcE8BZMxr1lwNPbhx+lR78hNTa9GpeIHWAk6lbx5Vywhw3/bA+8W+9C2cesI=;PuCWLQ1OIfUWM4vbqnJGGw=="

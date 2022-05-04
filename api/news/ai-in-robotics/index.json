@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-04-nvidia-jetson-agx-orin-dev-kit-eval-inside-an-ai-robot-brain.md",
+      "title": "NVIDIA Jetson AGX Orin Dev-Kit Eval: Inside An AI Robot Brain",
+      "excerpt": "NVIDIA Jetson AGX Orin: AI And Robotics Developer For All NVIDIA ... 20.04 preinstalled right out of the box, so the initial startup sequence will be familiar to Ubuntu veterans.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit",
+      "originalUrl": "https://hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/article/3201/content/small_running-nvidia-jetson-agx-orin-devkit.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit",
+      "publishedDateTime": "2022-05-03T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-elon-musk-boasts-teslas-optimus-robots-will-have-full-artificial-intelligence.md",
       "title": "Elon Musk boasts Tesla's 'Optimus' robots will have full artificial intelligence",
       "excerpt": "But according to Tesla boss Elon Musk, his humanoid robot, Optimus, is coming soon – and it might also contain the first true Artificial Intelligence. “Tesla AI might play a role in AGI,” the multi-billionaire tweeted, “given that it trains against ...",
@@ -1348,58 +1391,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-as-supply-chains-tighten-logistics-must-optimize-with-ai.md",
-      "title": "As supply chains tighten, logistics must optimize with AI",
-      "excerpt": "Artificial intelligence (AI) is quickly making its way into every supply chain logistics link – from demand forecast to robot delivery and route optimization in the last mile – to meet today ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1341282481.jpg?w=1200&strip=all",
-          "width": 1199,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/01/as-supply-chains-tighten-logistics-must-optimize-with-ai/amp/",
-      "publishedDateTime": "2022-04-25T21:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

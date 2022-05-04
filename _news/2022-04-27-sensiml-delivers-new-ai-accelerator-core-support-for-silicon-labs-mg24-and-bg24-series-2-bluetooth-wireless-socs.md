@@ -1,26 +1,26 @@
 ---
 category: news
 title: "SensiML Delivers New AI Accelerator Core Support for Silicon Labs MG24 and BG24 Series 2 Bluetooth® Wireless SoCs"
-excerpt: "Integrates New SiLabs SoC AI Accelerated SoCs in SensiML Analytics Toolkit Design FlowSpeeds Processing and Reduces Power Consumption for AI/ML Applications"
-publishedDateTime: 2022-04-27T12:35:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensiml-delivers-new-ai-accelerator-core-support-for-silicon-labs-mg24-and-bg24-series-2/article_16a6d568-d9f1-50af-a134-ad85a26129b9.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensiml-delivers-new-ai-accelerator-core-support-for-silicon-labs-mg24-and-bg24-series-2/article_16a6d568-d9f1-50af-a134-ad85a26129b9.html"
+excerpt: "SensiML ™  Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced it has added support for Silicon Labs' new MG24 and BG24 Series 2 Bluetooth® wireless SoCs within its SensiML Analytics Toolkit embedded development software."
+publishedDateTime: 2022-04-27T12:43:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sensiml-delivers-new-ai-accelerator-core-support-silicon-/2022/04/27/9590659.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sensiml-delivers-new-ai-accelerator-core-support-silicon-/2022/04/27/9590659.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/60/660a00f8-eb0c-5ffb-b1ec-44cba6f4b9ee/605c8a0b40a02.image.jpg?crop=1979%2C1039%2C7%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg"
+    width: 400
+    height: 208
     isCached: true
 
-secured: "pmq+srEdCoHD3ktM2eR2mgkRNaSm2l1o+G49DgH7K6oJCrjW+rP/xdzIT5jFGDma0Ep4HbQwo3fxFjv1UG8DcMvwGAO/5j28xLePH9Aqtth9PSS8gTIgOKQADXq3/xHLuUE7WA2DzuQvW6g76z7GxvHvaqdPPRirjhInKaAlCzMg1DAowc8/s+JuhGkSqcMFy3+fCf8DRcSqXn8Q2xlH4eLCDs936yJOwOPzYlwjkdZ1dKSY7/MLBhKh4IlVwN7eA+Z026KYnYJW25Tnc3TvN/eGKdkjmOQh0Yb0vN3ECPynpaRnsa9q7DJ7Yy7N5FlUYVJwj3gtZLyduWYQhnjD++cJaQ72AEsCLmmTbrl+CSWKfcUVbnxhJWXSpkIBdB+QktutjGzitXApmN7M4E+gVKdBrSI6vQwodG8daRVBfnTv+d5zOCO9d2gZcXO3fgBAbSoLZMlJ8V2dB2PCUdEy0HrqBOe/pW53dkSUPxBjCNM9CXi6xT7uHxRswvjJgYjUUJpqa/MLinezBe+XTVVeyQ==;H/Y4ORL19oEq2ileIoFyLQ=="
+secured: "wQsgJOW9X+vXISaBBIcNVEYD+dMV+BOS8tqPLhdsmmShwo/Tzq0le5X0ewfeo+DmI7MTHqFitKVjYL1cxauTxhC++ernQftNXl/PznEghC63B4PBVkqiMo8r+Zbn+97Lq5QvXEAGaWL5WiFlnZFzyVTFpwf/ceu8piQP4R+yhTNlSkmG3gVIMtEgCNpOnu6DhnrDhJHC+8hWvBZVuIh/tEDIld9buiQA+287Yi8NUEObOSKysbs1c/yGrZAOXHlas7MSHi0lUFTOJXxA5nDpSbHzXdsvg+GwEWUFcXtX6WbB25iCDepKTXLBdyou5qkirWY8JA58OMY8Tx0ULGtnpeThc4zwOa0tdZkLE19T5M8=;9nhtLGunI2qr33fE/+D0RA=="
 ---
 

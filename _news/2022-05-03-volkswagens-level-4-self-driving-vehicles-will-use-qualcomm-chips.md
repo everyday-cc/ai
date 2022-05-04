@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/cars-auto/140172/volkswagens-level-4-self-dri
 webUrl: "https://uk.pcmag.com/cars-auto/140172/volkswagens-level-4-self-driving-vehicles-will-use-qualcomm-chips"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "VW Group To Rely On Qualcomm Chips For Its Self-Driving Technology"
+    excerpt: "All VW Group brands will use this chip starting in 2026 in a deal that runs through to ... Instead, it is also working alongside Argo AI and has already partnered with the company to develop an all-autonomous version of the electric ID."
+    publishedDateTime: 2022-05-04T09:58:00Z
+    webUrl: "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/"
+    ampWebUrl: "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/05/VW-ID.-Buzz-2a-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "VW selects Qualcomm to power future automated driving"
     excerpt: "“We are proud to be supporting CARIAD with Snapdragon Ride Platforms to support NCAP, active safety, to Level 4, self-driving, functionality, across the Volkswagen Group vehicles launching from the middle of the decade,” said Enrico Salvatori, SVP ..."
     publishedDateTime: 2022-05-04T07:48:00Z
@@ -42,6 +58,20 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/08/qualcomm-hq-2-web.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Ai Chipset Market to Witness Huge Growth from 2022 to 2027: Xilinx, Google, Micron Technology, Qualcomm Technologies"
+    excerpt: "New Jersey, NJ — (SBWIRE) — 04/29/2022 — The Worldwide Ai Chipset Market has witnessed continuous growth in past few years and is projected to grow at good pace during the forecast period of 2022-2027. The exploration provides a 360° view and ..."
+    publishedDateTime: 2022-04-29T21:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-chipset-market-to-witness-huge-growth-from-2022-to-2027-xilinx-google-micron-technology-qualcomm-technologies"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7375b70c7f3e94b282b4caaf5e6c8b29921701b5-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "W4jHbAkpg4uqayqXeTYv3KH3NqMwp+p7WsehAlpMKcEPqaCPVAACtRNGAX6Bmd6UGx1hGqCwVCDF1QudskrbwAStJbLjI7p6h7EIpeYmw1bCkFWds1lq2mkfMt0nM/Jm4fCj+rIkQb+OKBHh1UOLFq1uMUrX0ZQUaACbOIjlBW1wlBdW5YbTxiP9J3lfUPL8cTYzWHDFg4zKylxzNIpoSIaW7ptM9EDJUb9KIKN1HNSqZ9WdOX1L6iDWGZCsI7QmWlh1cRIffR1xLCxD1PRRle8/6Ly5d9Zq/QH9wix7DLRZEEBS1aeckD5LBxrfHmQIZxlbDIfA4lpLiwMOr2/4T3884elif7msHhRJS6ps+9ekU7yTS2ZnmXbS3pJK8pvUakVsAux8kEF66gxl3/pPnvSmCIt0+11lavIAMxgYeaSAoQ+9hSofyZDvxMX5ybhlkXEoBKHiFKIRWkqd6rlFnZuLQWYxK2QKY4SjMhNqcxwl0ILU5WO4I5daspRwNV5TwmY4HNfLQYHlLW8y8ZIjfg==;MKtq5oguwqHt+37+OR7CTQ=="

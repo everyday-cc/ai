@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving car smashes world record on Space Shuttle airstrip"
+    excerpt: "A car driven by artificial intelligence has beaten the world speed record for a fully autonomous car on a straight. Never before has a car driven by artificial intelligence alone been this fast. On 27 April on the straight of the Space Shuttle airstrip at ..."
+    publishedDateTime: 2022-05-04T10:23:00Z
+    webUrl: "https://www.dpaonthenet.net/article/190639/Self-driving-car-smashes-world-record-on-Space-Shuttle-airstrip.aspx"
+    type: article
+    provider:
+      name: dpaonthenet
+      domain: dpaonthenet.net
+    quality: 39
+    images:
+      - url: "https://www.dpaonthenet.net/global/showimage/Article/201917/"
+        width: 375
+        height: 238
+        isCached: true
   - title: "Motorists urged to keep ‘duty of care’ with self-driving cars or face blame for accidents"
     excerpt: "You can unsubscribe at any time. More info Earlier this month, the Department for Transport set out plans to move Britain closer to a “self-driving revolution”. This included proposals to change the Highway Code to ensure the first self-driving ..."
     publishedDateTime: 2022-05-01T04:58:00Z
@@ -129,6 +143,20 @@ related:
       - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Self-driving cars will need smarter roadways"
+    excerpt: "One way to speed the adoption of self-driving vehicles is to give them automated express lanes, where they can zip past regular traffic without having to tangle with human-driven cars. Why it matters: For all the billions companies are spending to develop ..."
+    publishedDateTime: 2022-05-04T10:58:00Z
+    webUrl: "https://www.axios.com/self-driving-cars-will-need-smarter-roadways-486bf308-cd74-44a2-a182-4057d54abbcd.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/JunsvWGOvXMqXer8PkXH6v-iTbU=/0x0:3840x2160/1366x768/2022/05/03/1651599007793.png"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "JGQT+T8NE5OH/GCJ9tAZPkLGgIN69WGaOBtTG2htsykl0Q9FpHIlJGQqL3FGBadPJrArH/3//376GUgnnlR/57PNVd5bE2o5FrRsGc3WVDlYq8UC0eQ24gUqERfzvdZvSkSQm/TOTrcavsoBUoEViP2kumqsvvL1lbz9MvE9N7jRHgDWgCjQ75NA1BgY4xRAPOYO9tLxanig53pKQBCD/Jz3q2jNKq8hhAI5mqFSCSopA+qJYYxJ483zTA8Z5vpaRh9t6Cmw5H2U7oWXIUcGHMncI+Y357aME3vuxncgfeg0lls6hunMiitInXGeBR4kTDE+qxxBalLy5yXWgiEdNOCnpJf3UDyRFFfAOqABwhjiOGKqqEU4bIv1+yWByNTDPhu6NQIhWJ91S+mvaqraVDodAUnkyOaPvaKll79C5quWNDi8SoJMY+W12V+uhgssYnWtNzsa72b9P6imUkrwTl5jyz+7TP70s+9h+CRDt5+JuEa3/W/NqrmqU2VX3RbNq0RJrXx9WG8UV7iUMIacxw==;hn2kQu7Diu6u7D1Fe3CQVA=="

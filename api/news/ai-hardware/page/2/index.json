@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-13-ai-hardware-pc-gaming-rig-maker-partner-on-powerful-aiml-laptop.md",
+      "title": "AI hardware, PC gaming rig maker partner on powerful AI/ML laptop",
+      "excerpt": "AI hardware company Lambda and PC gaming rig maker Razer are hoping to steal some thunder from Apple's M1 Max-powered MacBook Pro with a new laptop designed explicitly for machine learning engineers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/12/lambda_to_ml_engineers_dont/",
+      "originalUrl": "https://www.theregister.com/2022/04/12/lambda_to_ml_engineers_dont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/12/lambda.jpg",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/12/lambda_to_ml_engineers_dont/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/12/lambda_to_ml_engineers_dont/",
+      "publishedDateTime": "2022-04-12T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead.md",
       "title": "Robot-Run ETF Known For Tesla, Apple Bets Cut Out Chipmakers In March And Bet On This Retail Giant Instead",
       "excerpt": "AMOM Hits Exit Button On Chip Giants: The QRAFT AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM) sold its entire stake in two high-profile chip names — GPU chipmaker Nvidia Corporation ...",
@@ -1346,58 +1390,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-intel-launches-arc-graphics-chips-for-gaming-laptops.md",
-      "title": "Intel launches Arc graphics chips for gaming laptops",
-      "excerpt": "It feels like ages ago when Intel first started working on its discrete graphics chips, which will ship soon under the Intel Arc brand name.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/intel-launches-arc-graphics-chips-for-gaming-laptops/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/intel-launches-arc-graphics-chips-for-gaming-laptops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/intel-arc-6.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/intel-launches-arc-graphics-chips-for-gaming-laptops/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/intel-launches-arc-graphics-chips-for-gaming-laptops/amp/",
-      "publishedDateTime": "2022-03-30T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

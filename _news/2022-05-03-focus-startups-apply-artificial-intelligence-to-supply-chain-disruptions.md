@@ -2,11 +2,13 @@
 category: news
 title: "FOCUS-Startups apply artificial intelligence to supply chain disruptions"
 excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
-publishedDateTime: 2022-05-03T11:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-0"
-webUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-0"
+publishedDateTime: 2022-05-03T06:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions"
+webUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions"
+ampWebUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions?amp"
 type: article
-quality: 61
+quality: 81
 heat: -1
 published: false
 
@@ -86,6 +88,6 @@ related:
         height: 1332
         isCached: true
 
-secured: "prZx7elkuNeVk03xtXcLQpRpmvt/iSOIrfZO1F+HfTkAnN8UCe6re4QALV5kpM5o6kCQMsPcco1CSgd2ICIbcvNqTpMD6No9YK9lNRQC4955f9RU3JTW0S7qpYSkK4/OvdyrarNfjA56HxpoGqHMZDXEvUjjZeSvay6KXxSEhLBTdYIAJRsbL2ChR+NuKMxTWd6/0eE1Q7kgqMMf0RRkZyHjuNGvPKjPBSJEGoGSsl6Pn3AipC2pP0jJh9G6FUyLYR5ZuAJVTaJ3N9JpQLYeAJB6rs/AVaeD5b+YqF2HTClshP/dffMPFRxcMvA0YVAMXfXhiQw0ljHcRI4e2o9pSyi3SqPTXJ/cHymsR4j6KLHqSz5lOseI2XX5FoXF3F42Y8fh5S1QSZFV1rtVYlEFUgzPXn5fE//ipq3R6Ksq5E4R3piK0jPrtgCV7+PmxXmd9Cm6u/ehi14ZyVhrkKpV39hHT2Fn6Oih4NPRV+56r7XVeDaoU+67etRP147+WQeAXMqCvxO4DR+zs9pseEXglQ==;ZAwIGtRsMOe4/xWUg+fAMg=="
+secured: "z7dzuMKR/izLx/yjz2rERJvpb3tDKVXTrl3TJbuOJbGPdultXBdNVk3BBy1G81twC5YUXVXtnBy40gbMyiWayLLR+giBDBfBIYC8EVimVYEdh7iaygDFT+RQJ/shxSnLPGc6wH5exN5ww3Nh30UujpwYOohjS7oNq+5t9JJSIAuAjJRtNdyh8LuAulZoCk7uqHNl2c0i2T/DYiVLUAdBV2chxOL+C5IqFvpsCMWIsUGpPWM9i8n1gONReq80C6TEU0VUVzcXt3Ix1PowlmiLtlSx6Ay0W1zcs8qBlaBEIpba6VMcz2YsdXsQYg2UhIwB+DwEE9VPtnp6sgBmV8fyToT0ekWwRIdjCAYBMrxMHtv1dEJ7jR7ADvld765AoarqtKtMppHs3Tx4t5MFLwvO710MObrkrnXfdGcce+O5ahJbGBxgUptYKDtkU0dg+QmakpcXF/Lr6J0RVHUf9jLC1r8BDisroGVWLAVh7B6jkcgOHEswRQfl7TaK57wHI9cYtdo181Gx93BLlUnhS/oNqQ==;he5LN9E7Zt6TMSBaz7ADxA=="
 ---
 

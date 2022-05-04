@@ -43,13 +43,15 @@ related:
         isCached: true
   - title: "FOCUS-Startups apply artificial intelligence to supply chain disruptions"
     excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
-    publishedDateTime: 2022-05-03T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-0"
+    publishedDateTime: 2022-05-03T06:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions"
+    ampWebUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions?amp"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 61
+    quality: 81
   - title: "RPT-FOCUS-Startups apply artificial intelligence to supply chain disruptions"
     excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
     publishedDateTime: 2022-05-03T10:00:00Z

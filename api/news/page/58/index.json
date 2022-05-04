@@ -2,6 +2,264 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-03-15-runai-raises-75m-to-grow-its-ai-workload-virtualization-platform.md",
+      "title": "Run:ai raises $75M to grow its AI workload virtualization platform",
+      "excerpt": "“Particularly with compute intensive AI model training, greedy data scientists can become GPU hoarders,” he said. So the ability of Run:ai’s GPU abstraction layer and orchestration platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/03/15/runai-raises-75m-grow-ai-workload-virtualization-platform/",
+      "originalUrl": "https://siliconangle.com/2022/03/15/runai-raises-75m-grow-ai-workload-virtualization-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Runai-team.jpg",
+          "width": 4167,
+          "height": 2083,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-photo-or-the-real-thing-mice-can-inherently-recall-and-tell-them-apart-experiments-show.md",
+      "title": "Photo or the real thing? Mice can inherently recall and tell them apart, experiments show",
+      "excerpt": "Findings also provide strong support that the mouse's hippocampus, like that of humans, is required for this form of nonspatial visual recognition memory and picture-object equivalence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220314095740.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220314095740.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-arista-anet-appears-a-smart-investment-bet-now-heres-why.md",
+      "title": "Arista (ANET) Appears a Smart Investment Bet Now: Here's Why",
+      "excerpt": "The company expanded its cognitive campus ... troubleshooting and location services. This supports video conferencing applications like Google Hangouts, Microsoft Teams and Zoom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
+      "originalUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/arista-anet-appears-a-smart-investment-bet-now%3A-heres-why?amp",
+      "publishedDateTime": "2022-03-15T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-you-can-now-unlock-your-iphone-using-face-id-even-if-youre-wearing-a-mask-heres-how-to-do-it.md",
+      "title": "You can now unlock your iPhone using Face ID even if you're wearing a mask. Here's how to do it",
+      "excerpt": "facial recognition. It's become more and more of a mainstay for security firms around the world. But in the age of the covid 19 pandemic, there are some obvious hurdles. And algorithmic based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlky.com/article/you-can-now-unlock-your-iphone-using-face-id-even-if-youre-wearing-a-mask-heres-how-to-do-it/39438966",
+      "originalUrl": "https://www.wlky.com/article/you-can-now-unlock-your-iphone-using-face-id-even-if-youre-wearing-a-mask-heres-how-to-do-it/39438966",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1235464494.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+          "width": 1024,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlky.com/amp/article/you-can-now-unlock-your-iphone-using-face-id-even-if-youre-wearing-a-mask-heres-how-to-do-it/39438966",
+      "cdnAmpWebUrl": "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/you-can-now-unlock-your-iphone-using-face-id-even-if-youre-wearing-a-mask-heres-how-to-do-it/39438966",
+      "publishedDateTime": "2022-03-15T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLKY",
+        "domain": "wlky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist.md",
+      "title": "What's on Your Artificial Intelligence Compliance, Privacy and Ethics Checklist?",
+      "excerpt": "CIO Anthony McMahon of Target State Consulting suggests in a recent #CIOChat on Twitter that ethical and privacy issues are not unique to artificial intelligence (AI). “Every decision on how to use data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
+      "originalUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/ebd30967e58445b583d6aaf1a1c58b13.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
+      "publishedDateTime": "2022-03-15T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes.md",
+      "title": "Running AI workloads is coming to a virtual machine near you, powered by GPUs and Kubernetes",
+      "excerpt": "Run:AI's main technical achievements go by the names of fractional GPU sharing, thin GPU provisioning, and job swapping. Fractional GPU sharing enables running many containers on a single GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes/",
+      "originalUrl": "https://www.zdnet.com/article/running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/921561ee0b007f7c9e3b842e9a08566e3effe571/2019/04/03/ddde131a-b90d-43ef-a19c-ff426d64170d/holger-link-724884-unsplash.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes/",
+      "publishedDateTime": "2022-03-15T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-giving-a-voice-to-the-community-through-excellence-in-machine-learning-research.md",
       "title": "Giving a voice to the community through excellence in machine learning research",
       "excerpt": "One thing that drives each of us forward is the pursuit of our place in the world. It is likely why many of us pursue college degrees and get involved",
@@ -874,273 +1132,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints.md",
-      "title": "AI Chip Startups Pull In Funding as They Navigate Supply Constraints",
-      "excerpt": "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "originalUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-504456/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "publishedDateTime": "2022-03-15T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-kneron-ai-chips-adpoted-by-toyota-supplier-kenwood.md",
-      "title": "Kneron AI chips adpoted by Toyota supplier Kenwood",
-      "excerpt": "Kneron, the San Diego-based full-stack edge AI company, announced last week that its two AI chips M5S and KL520 are used by Japanese auto supplier Kenwood in its latest dashboard camera DRV-EMN5700.",
-      "sourceUrl": null,
-      "webUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
-      "originalUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220315pd213_files/1_2b.jpg",
-          "width": 1280,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-research-snapshot-biometrics-in-cars.md",
-      "title": "RESEARCH SNAPSHOT – Biometrics in cars",
-      "excerpt": "Last year, Hyundai Mobis set about investing some US$5 million in China’s Deep Glint, which has technologies regarding object recognition and behaviour pattern analysis using AI. The technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/features/research-snapshot-biometrics-in-cars/",
-      "originalUrl": "https://www.just-auto.com/features/research-snapshot-biometrics-in-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/2020-09-24-08-59-large34989hyundaimotorrevealsworldsfirstsmartfingerprinttechnologytovehicles1_.jpg",
-          "width": 424,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-iisc-backed-artpark-to-launch-100-mn-venture-fund-for-ai-robotics-startups.md",
-      "title": "IISc-Backed ARTPARK To Launch $100 Mn Venture Fund For AI, Robotics Startups",
-      "excerpt": "AI and Robotics Technology Park (ARTPARK), backed by Indian Institute of Science (IISc), Bengaluru, is going to launch a $100 Mn venture fund, it said.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/iisc-backed-artpark-to-launch-100-mn-venture-fund-for-ai-robotics-startups/",
-      "originalUrl": "https://inc42.com/buzz/iisc-backed-artpark-to-launch-100-mn-venture-fund-for-ai-robotics-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/03/Social-AI.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/iisc-backed-artpark-to-launch-100-mn-venture-fund-for-ai-robotics-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/iisc-backed-artpark-to-launch-100-mn-venture-fund-for-ai-robotics-startups/amp/",
-      "publishedDateTime": "2022-03-14T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-techforceai-raises-15-million-seed-funding.md",
-      "title": "Techforce.ai Raises $1.5 Million Seed Funding",
-      "excerpt": "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru.md",
-      "title": "Country’s first Artificial Intelligence & Robotics Technology Park launched in Bengaluru",
-      "excerpt": "The country’s first Artificial Intelligence & Robotics Technology Park (ARTPARK) was launched in Bengaluru yesterday.  It is promoted by a not-for-profit foundation set up by the Indian Institute of Science (IISc) Bengaluru,",
-      "sourceUrl": null,
-      "webUrl": "https://newsonair.com/2022/03/15/countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru/",
-      "originalUrl": "https://newsonair.com/2022/03/15/countrys-first-artificial-intelligence-robotics-technology-park-launched-in-bengaluru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsonair.com/wp-content/uploads/2022/03/NPIC-20223159221.jpg",
-          "width": 400,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NEWS ON AIR",
-        "domain": "newsonair.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

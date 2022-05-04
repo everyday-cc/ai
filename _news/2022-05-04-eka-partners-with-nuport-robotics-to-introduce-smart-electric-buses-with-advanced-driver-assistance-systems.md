@@ -1,27 +1,27 @@
 ---
 category: news
-title: "EKA Partners with NuPort Robotics to Introduce Smart Electric Buses with Advanced Driver Assistance Systems"
-excerpt: "NuPort Robotics Inc., Canada's first autonomous trucking company, was founded in 2019 by leading robotics and artificial intelligence (AI) professionals. Its mission is to improve transportation safety, increase efficiency and reduce costs for clients in ..."
-publishedDateTime: 2022-05-04T08:39:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272538938/eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses-with-advanced-driver-assistance-systems"
-webUrl: "https://www.bignewsnetwork.com/news/272538938/eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses-with-advanced-driver-assistance-systems"
+title: "EKA partners with NuPort Robotics to introduce smart Electric Buses with advanced driver assistance systems"
+excerpt: "NuPort Robotics, a Canadian company announced its plans earlier ... are not only environmentally friendly but also futuristic through incorporation of Artificial Intelligence thereby making our buses efficient and safer to operate on Indian roads."
+publishedDateTime: 2022-05-04T11:29:00Z
+originalUrl: "https://pragativadi.com/eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses-with-advanced-driver-assistance-systems/"
+webUrl: "https://pragativadi.com/eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses-with-advanced-driver-assistance-systems/"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Pragativadi
+  domain: pragativadi.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1651652096.jpg"
-    width: 630
-    height: 420
+  - url: "https://pragativadi.com/wp-content/uploads/2022/05/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses-with-advanced-driver-assistance-systems.png"
+    width: 640
+    height: 381
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "11kxy947mEy0ZXVNf8aNeq3zZpOEk084u59RrnM029WyrPOs7wzUN3sBC2/tX/K2fSr49xQQktWjHyEZDHZpCszpoylXC2b0Ut10umYjpiVmmKDY2h0LeOi45231eZUr3FMXqiKu6M/BgkPd78OCy5l9g2Od9HdVwgC/abj0gy070ZiJ8pJMFD5MEOMWasYQ+UOeZRv/AkjDS4oaVVqY5RPASVxfCmx+WaEx76rsuvjHbR5Xf5myXlKjuxi5AznyHj+i26hO5VQjsuZ8wG4J/Pg+LohPSGfyEuCvuFuupjmAQldoVrucXQQGpHjrRm9Tc1/iexYXBXoNoQKqbjFMN9h5pjxWWd5Kvfd31ovX2E4=;M37F5soFyeD5vpYLm3crSg=="
+secured: "pbej8gBA/IY95M1fuLmhnPtdK60Qxo6J86EL8/sCxIvZJkQbXFvkSmpn0A5KoSZqiBCah6XJI6qTaia+LOtjmCkVs9T0rwlmDKxCVIkMwW+p9GZjGlnaOlQuEzDDrcwsTDvj/LLoeXHeNwM7hdAwfAvlOZEp735dcHz/gvTnEip6ezB27DUJYp/vFGm10lIeL4LZqa8aiz2ajVTl+jlxbAb+U4mImCDA0kpTi4LBCMS7S9DQSQqbSbQH8TFbr+9G/JJtgkk6pyXma02EunkNEK5PuFyqsx0LITmFGIjJXn3Hq3iAyIEVUJh4QP2Qywr5vtyekFJhYOkQcYqLySoQmrqOJ50udZnMfqTZwosmhIU=;XXOn9FsJY0a3f5V3j7MmYg=="
 ---
 

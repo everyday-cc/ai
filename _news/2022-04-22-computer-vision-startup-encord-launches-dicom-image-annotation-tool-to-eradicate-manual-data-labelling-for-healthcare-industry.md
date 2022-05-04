@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Computer Vision Startup Encord Launches DICOM Image Annotation Tool To Eradicate Manual Data Labelling for Healthcare Industry"
-excerpt: "Encord is backed by CRV, Y Combinator, WndrCo and Crane Venture Partners and trusted by the likes of world-leading healthcare institutions including Kings College London where it"
-publishedDateTime: 2022-04-22T11:16:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_b172b9a2-0d3e-5d97-8ffd-00057a7e1883.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_b172b9a2-0d3e-5d97-8ffd-00057a7e1883.html"
+excerpt: "Encord's platform empowers some of the world's leading companies building computer vision models for medical imaging including Kings College London, Memorial Sloan Kettering Cancer Center and Stanford Medical Centre The first dedicated Digital Imaging and Communications in Medicine (DICOM) tool provides 3D annotation for modalities such as CT,"
+publishedDateTime: 2022-04-22T11:15:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry"
 type: article
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
-secured: "jSaQDCjCvkhYrDT/rAXEKrUJilo3vsOHG+DfL65yi9RFBs8fEF6b65tn8h0DleqQA9m6MAu31E2BSJB9ktNIpT/0S6TDiQmC3aUTvT5cq8fJAdP/6Doh8aMPR6ffnqTGQ/0jjyAfSwIu21GIUH3MlEAFByMD2utGm2Q/K++gAxF6yG1SxjH1PTx/Qs9W1J0Q5reZ60Ff/Q7dQGiDQcFrUoFWw0UbUV5a0L1k5gt/X3tqSxePQgUf59pHOAdEUGQBRNk1LKdI/qqa/LzMNYhevytdPssL/2bAhRqbufl4s6bVYiBihXe4+8qFF2kUEWgO9VddRxNYxHesEPQ24MreIBRwrXFvCvoZPNpss7WiIUGEf/lTIqyHrJDas8Sfl+Ccq08UcxItdWwuKxPfoZDLQCXBZ1GlDi6oN7WSfHCFYeFgsPkD5PUf1MgmN+hNXDNpLCEhgSkqmKyMO6UnNiMORRGXl0aXtrU1dJ/8QalvH/UHaslikfmaEPm7BnnFpfS+zC9rxGWi80C1pUsGhTC1lA==;FCtE1y6CETjOnORj7uIPBA=="
+secured: "i/cd6qvzr4D+MWxZA+8URCaq5Ti3AXPY6+g+UMlF8SlGFtIG+DHvu4w74Vt+GfR0fe8c1LepI4qoqU7pfeYG8kVnSI+ISMPLzK62DHMCxjVUnVkX52fnFyTOMEFeuvRT+9DkCJIOpLet2MPm82qc0DbyYArJVqVsvx+cjw6LT8T4cWHCU/7y+lyQ9C5RxI7b+4UBgdcXmizOCiwmhXhX4Fg/qf5wfhUVRoyiURpwKOL4LwqfLG8KONu8ajtd3LVCzSlD+qRtSvK5gSnqSMY3+idO/693Th8402ZhWZqCQ0cUsvJ+VqVObYGXE2Jok/X5BTyfhfBUtJV+7HGXKXYySar+ZCJ8wMdqxg6Sy1B9aR8=;k93jXj5Usx7aXLNK1shEZg=="
 ---
 

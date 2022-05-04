@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
-excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company's promotions with the help of Cognira's Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores and ..."
-publishedDateTime: 2022-05-02T12:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/02/9593182.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/02/9593182.htm"
+excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
+publishedDateTime: 2022-05-02T12:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-97abe10ac884456eb71ab9f17222cf17"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-97abe10ac884456eb71ab9f17222cf17"
 type: article
-quality: 17
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Motion Gestures using AI to enhance camera-based gesture recognition technology"
@@ -33,6 +39,6 @@ related:
         height: 427
         isCached: true
 
-secured: "EycJsNvAaHQPZmwDc29xdN+vGo8iKr2xYuQlEBAQvuVCOLDL15RgyZyOYS8aVRN5m6wp1P4ppJkr+9kR6NC1TNQDk5TudAqUOdojbXyok6UBTjQcsojTK5L+MvvNSOLpsKNimcEBdvDCuU64Qk8y3xZ4cjJAaHPSoO77fzatkQ9P8EDIunibuKyuDcr5Lnm7bjizLM0VT3pIs/U7Rjy9Bldsid4GnsxodZQmOSXYi4eYl8e41g7AmWWVqZmErnnIR6XtNni+34P15T69VmU6CC7ciCj88r743W8A98Z/uHYvBcrC1s8GY0a/UaXaHBVO9tm9r1m7DujQMEqt+XIgbIwiiUPnQwx7KuCNguVwvGM=;U/YEdvOzCB7Xw23rPV26gA=="
+secured: "bsvKkzJs6HUPSe2p1egmopCL8xLXVBVo8MsjFVLGHyU7ksJcRM2fbnSCfOqTjTbiv4FvgkAUHsf21yUiFhKDEDDfNmaabeDl/D8D3+CmaIMC0zRh17/HfuRnFPhaisrB5haxQY7I2fsGZeKQw59R7ByjIBm53KcpiPMitq8wxAB1fCWX+dWKSIFH1qzdesJ9xncTAeuAn5GLjsFCrQ1hUiwA5+vS9BV5GNChD4WOSExIkd4kzik6e/a3oZ1KshLi7B9/I/CXkf0Rzts6q5msE8ugyuoCzFST0hhetbyYjkm1PPpQi4aMKs8Qq96RnpJhrFXUb1DfxEOfNIVjwe4pEBXxI05IDkaLeLKT4XcfznE=;Wqs2y9BhkMmoVoNysZlvww=="
 ---
 

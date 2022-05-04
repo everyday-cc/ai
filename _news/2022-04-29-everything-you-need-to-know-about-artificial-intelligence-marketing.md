@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - AI in Healthcare
 
 images:
   - url: "https://www.cioapplications.com/newstransfer/upload/iqr56cioappli450308.jpg"

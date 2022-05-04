@@ -41,7 +41,7 @@ related:
   - title: "TeamViewer Brings Artificial Intelligence to the Shopfloor"
     excerpt: "May 3, 2022 /PRNewswire/ -- TeamViewer, a leading global provider of remote connectivity and workplace digitalization solutions, today announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer's leading ..."
     publishedDateTime: 2022-05-03T14:13:00Z
-    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/03/9594602.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/03/9594602.htm"
     type: article
     provider:
       name: TMCnet

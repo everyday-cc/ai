@@ -36,6 +36,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "FOCUS-Startups apply artificial intelligence to supply chain disruptions"
+    excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
+    publishedDateTime: 2022-05-03T06:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions"
+    ampWebUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 81
   - title: "How AI is helping the supply chains in the healthcare sector"
     excerpt: "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to comprehend and decipher. It can also be fed ..."
     publishedDateTime: 2022-05-01T08:56:00Z
@@ -52,15 +63,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "FOCUS-Startups apply artificial intelligence to supply chain disruptions"
-    excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
-    publishedDateTime: 2022-05-03T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 61
   - title: "How startups are applying AI to ease supply chain disruptions"
     excerpt: "Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have combined to delay deliveries of everything from bicycles to pet food. In ..."
     publishedDateTime: 2022-05-03T08:30:00Z

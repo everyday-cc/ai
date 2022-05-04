@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recogniti
 webUrl: "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,14 +27,19 @@ images:
 
 related:
   - title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
-    excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company's promotions with the help of Cognira's Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores and ..."
-    publishedDateTime: 2022-05-02T12:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/02/9593182.htm"
+    excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
+    publishedDateTime: 2022-05-02T12:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-97abe10ac884456eb71ab9f17222cf17"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "CO9fcfIUFPTqJBjUBqjupeE485yurG7Xd5xEEuckdMENsD9JoiP9ummlLqr9pgw0q+eI9ALBpF//ETgSlV83B54oVyuWSuNpFbzJAx3mFjdvPlddwkHC44VnWVWz+yPMy0sMrGCBPHUj1lVUa9H6fROJsMefj+bO7YH/EmGikBSqEC0QDxFcGl+TKXeL0wLFP9g2MR6qVx7iWjjTLyLOUmahZLgjfNY7uYuiMZjjJTgUstC7/Zhggxc1DL3euNGfXJjsKDru8oOXqmlcMsp/jS20H+xJe1i/ODd4T7lp+++FqgqLZKfh2Hgj63Wipe7tiQzzn9SqK6mWHXUpm74quZ0TEVEsYdgkVg6F5Ly5zZDJelRFIjFGS1KvTez0u0tO8BuTn+l1l24ITkHnkNtjsquWFD0PE2935r1L+46jPWlSQO46d0UFEzNCXCPjqM/Ig8tE8VDnW6Z5P3PiOob9KNY9CPJIOTvCEIE3rV07RhsGlj+pvt6fw+3DnNpFH/IsTyFhru/ljmNSOz4zn2wkwg==;3stqcuOMDy6p+v6WGNmfmA=="
 ---

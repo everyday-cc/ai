@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-03T21:22:00Z
 originalUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
 webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
 type: article
-quality: 69
-heat: 99
+quality: 71
+heat: 111
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
@@ -53,6 +54,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_465885157_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Meta opens access to its massive AI language model"
+    excerpt: "Meta’s Open Pretrained Transformer (OPT) model will be the first 175-billion-parameter language model to be made available to the broader AI research community. Facebook-owner Meta Platforms Inc is opening up access to its massive language model for ..."
+    publishedDateTime: 2022-05-04T11:54:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/meta-opens-access-to-its-massive-ai-language-model/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 41
+    images:
+      - url: "https://eandt.theiet.org/media/18218/meta-6946620.jpg?crop=0,0.20708333333333334,0,0.3007291666666666&cropmode=percentage&width=1200&height=450&rnd=132961391880000000"
+        width: 1200
+        height: 450
         isCached: true
   - title: "Meta opens access to AI large language model"
     excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."

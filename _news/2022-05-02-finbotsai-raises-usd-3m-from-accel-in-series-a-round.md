@@ -24,51 +24,39 @@ images:
     isCached: true
 
 related:
-  - title: "Accern raises $20M to simplify natural language processing for financial firms"
-    excerpt: "Accern Corp., a natural language processing startup focused on the financial services sector, today announced that it has closed a $20 million funding round co-led by Mighty Capital and Fusion Fund."
-    publishedDateTime: 2022-05-02T20:46:00Z
-    webUrl: "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/"
+  - title: "IT security startup Traceable AI raises USD 60 million from Institutional Venture Partners, others"
+    excerpt: "IT security startup Traceable AI on Tuesday said it raised USD 60 million, about Rs 460 crore, in a funding round led by Institutional Venture Partners"
+    publishedDateTime: 2022-05-04T10:29:00Z
+    webUrl: "https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057"
+    ampWebUrl: "https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057/amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 60
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/accern-1.png"
-        width: 1061
-        height: 581
-        isCached: true
-  - title: "Accern lands $20M for AI that analyzes financial documents on the web"
-    excerpt: "Accern, which uses AI to analyze online conversations around particular companies, trends, and industries, today announced that it raised $20 million in a Series B round led by Mighty Capital ..."
-    publishedDateTime: 2022-05-02T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/02/accern-lands-20m-for-ai-that-analyzes-financial-documents-on-the-web/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists"
-    excerpt: "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ..."
-    publishedDateTime: 2022-05-02T13:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
         width: 700
-        height: 450
+        height: 394
         isCached: true
-  - title: "Finbots.AI Raises $3M From Accel In Series A"
-    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
-    publishedDateTime: 2022-04-30T19:27:00Z
-    webUrl: "https://menafn.com/1104139051/FinbotsAI-Raises-3M-From-Accel-In-Series-A&source=138"
+  - title: "Untether AI secures $1 million for partnership with General Motors"
+    excerpt: "Founded in 2019, Untether provides high-performance AI chips that can be used in a variety of applications. This includes banking and financial services, as well as natural language processing, autonomous vehicles, smart cities, and retail. Perception ..."
+    publishedDateTime: 2022-05-03T19:41:00Z
+    webUrl: "https://betakit.com/untether-ai-secures-1-million-for-partnership-with-general-motors/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: BetaKit
+      domain: betakit.com
+    quality: 21
+  - title: "Finbots.AI raises US USD 3 million from Accel in Series A round"
+    excerpt: "New Delhi/ Bengaluru (Karnataka) [India], May 2 (ANI/PNN): Finbots.AI, an AI-led, innovations-driven venture targeted at banks and financial institutions, today announced it has raised US USD 3 million in a Series A round from Accel. The investment by ..."
+    publishedDateTime: 2022-05-02T12:48:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272536132/finbotsai-raises-us-usd-3-million-from-accel-in-series-a-round"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 17
 
 secured: "W9RLiL7Q/EtzPBh7mzzKCZ9JGygaXpl6J+TFKyQjLsHbjxwbSh3Q/Nl+609a2rX5HQzZHuDhQEjMIbjapyho7zEf60mVYlV+eEEiKCr8HWBrtd+rkzIf6y5F0SKIXMVx0h86THFGyheBhENy/ICrfc4U7PieUpABit3zya0NT8FPSpwTGXosOCfFhIeBBndiAz5SSnO9wPskul842qvGzLvSfQA5nHdEGWSE03ORplMq6IVdzWeJTui2JDRX4KmOICPaltXQ9ubHPHRoRbT8AOpiR5qVqy4MYqHBG8f2RH87GPxb44AoAdUGI1L9+U0vHPlEkPvVDU3S3/3u6bZUjzAcCk7Xl2NqGqk765IgNC1SJF47lEAoBYYEmNm8LgqfpXhEPCO9rfIxFhbTxkzEkkYO3tRo5SLiTwYi6VXbPil1SZ5yiIonS1xxiucbY1ly47HA2QuGDrgaEOZKorus2aJWvKIax3wu8R8eyRaR0fICx8DN4Yw3hQ6h1ZaUJGYSbgL4xxYG1FCxMH6cIIkhYw==;FjopAYIXOiT6UOyr70jR0Q=="

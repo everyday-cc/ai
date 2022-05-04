@@ -33,7 +33,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
         width: 1200
@@ -63,6 +63,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_465885157_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Meta opens access to its massive AI language model"
+    excerpt: "Meta’s Open Pretrained Transformer (OPT) model will be the first 175-billion-parameter language model to be made available to the broader AI research community. Facebook-owner Meta Platforms Inc is opening up access to its massive language model for ..."
+    publishedDateTime: 2022-05-04T11:54:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/meta-opens-access-to-its-massive-ai-language-model/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 41
+    images:
+      - url: "https://eandt.theiet.org/media/18218/meta-6946620.jpg?crop=0,0.20708333333333334,0,0.3007291666666666&cropmode=percentage&width=1200&height=450&rnd=132961391880000000"
+        width: 1200
+        height: 450
         isCached: true
 
 secured: "nmrgQdB4f+tGYtG1Uj8SCGKOZplBccwX6d/Bnbp+kMFV+INjyAyqrr/SXIal4Iz7X1Mha9GXdBbweA5vi3ZZPReANMmQdHYWHdolLoUvflWPRwV7Zs6nQu0j1HTZ/n+LvEevUFBz7o+bA5YML0yZe9TsZ5vZTeCJgt00GQg7/VubKMd2IzGhHGNYVt/wGT8RJW211cj2vypybqRr+8Ig5NKe0K3Ry7a35HH9fpDgCcdVEQJH1QhNarKOfQQ67OTb8wb5lEGLRVMpRydah88T3i4kvJxoOamSpCn9p4dgpULdsNSYxcu/2V8vysgpE44F50GIeY7ZUL+4Z2WwUlPElgXJs1bU+xKpIBvMiDOn+2M=;GqhrylCMh5J7TcHGoqygYw=="

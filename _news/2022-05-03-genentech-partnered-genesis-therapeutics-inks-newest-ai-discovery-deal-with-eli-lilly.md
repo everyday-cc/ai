@@ -32,6 +32,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Genesis and Lilly partner to discover new drugs for up to five targets"
+    excerpt: "The alliance will leverage the artificial intelligence (AI) drug discovery platform of Genesis ... will use field-leading machine learning models of Genesis to discover the therapy candidates. As per the deal, Genesis and Lilly will collaborate on three ..."
+    publishedDateTime: 2022-05-04T11:25:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/news/genesis-lilly-discover-drugs/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 24
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2022/05/laboratory-6515519_1280-1038x778.jpg"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Genesis Therapeutics Announces Strategic Collaboration with Lilly to Discover Novel Therapies Using the Genesis Molecular AI Platform"
     excerpt: "Genesis Therapeutics, a company pioneering artificial intelligence technologies to create ... which combines 3D structure-aware deep neural networks with cutting-edge molecular simulation. Genesis' field-leading machine learning models will be utilized ..."
     publishedDateTime: 2022-05-03T10:02:00Z

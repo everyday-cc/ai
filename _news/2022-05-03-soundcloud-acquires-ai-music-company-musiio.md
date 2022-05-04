@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 546
         isCached: true
+  - title: "SoundCloud has bought AI tech startup Musiio"
+    excerpt: "SoundCloud has bought Musiio, the startup that focuses on artificial intelligence in ... Read this next: How the first Mixmag cover animated by AI technology was made Using AI to ‘listen’ to tracks, Musiio can identify characteristics that can help ..."
+    publishedDateTime: 2022-05-04T10:31:00Z
+    webUrl: "https://mixmag.net/read/soundcloud-has-bought-ai-tech-startup-musiio-tech"
+    ampWebUrl: "https://mixmag.net/amp/soundcloud-has-bought-ai-tech-startup-musiio"
+    cdnAmpWebUrl: "https://mixmag-net.cdn.ampproject.org/c/s/mixmag.net/amp/soundcloud-has-bought-ai-tech-startup-musiio"
+    type: article
+    provider:
+      name: Mixmag
+      domain: mixmag.net
+    quality: 57
+    images:
+      - url: "https://mixmag.net/assets/uploads/images/_full/soundcloud.jpg"
+        width: 1008
+        height: 672
+        isCached: true
   - title: "SoundCloud acquires AI music tech company Musiio"
     excerpt: "SoundCloud has acquired AI music company Musiio. The start-up has featured on Music Week in recent months as it launched new products and established more partnerships for its machine learning tech, which enables rights-holders to gain greater control over ..."
     publishedDateTime: 2022-05-03T15:53:00Z
