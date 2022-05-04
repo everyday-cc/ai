@@ -2,6 +2,101 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-04-15-upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml.md",
+      "title": "Upshot Deepens Data and Machine Learning Bench, Hires Head of Data & ML",
+      "excerpt": "The blockchain-based, machine learning-powered NFT appraisal platform raised a $22M Series A2 round last month to fund R&D at the intersection of NFTs & DeFi NEW YORK–(BUSINESS WIRE)–Upshot, a blockchain-based protocol providing industry-leading non ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/",
+      "originalUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/amp/",
+      "publishedDateTime": "2022-04-14T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-show-us-your-robots-at-tc-sessions-robotics-2022.md",
+      "title": "Show us your robots at TC Sessions: Robotics 2022",
+      "excerpt": "It’s time to gather your robots and get ready for a high-tech show-and-tell at TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston, Massachusetts. Join more than 2,000 other brilliant,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/",
+      "originalUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628-1.png?w=1024",
+          "width": 1022,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/",
+      "publishedDateTime": "2022-04-14T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people.md",
       "title": "If You Want to Succeed With Artificial Intelligence in Marketing, Invest in People",
       "excerpt": "While AI offers benefits, optimizing automation is only half the job. Marketing won’t deliver on AI’s promise unless the human side of the equation is given equal attention. Because business value increasingly depends on human factors including agility,",
@@ -1058,95 +1153,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-cerebras-wafer-size-ai-chips-play-nice-with-pytorch-tensorflow.md",
-      "title": "Cerebras' wafer-size AI chips play nice with PyTorch, TensorFlow",
-      "excerpt": "Cerebras Systems has expanded support for the popular open-source PyTorch and TensorFlow machine-learning frameworks on the Wafer-Scale Engine 2 processors that power its CS-2 system. The chip designer says the expanded support,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/13/cerebras_wafersized_ai_chips_play/",
-      "originalUrl": "https://www.theregister.com/2022/04/13/cerebras_wafersized_ai_chips_play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/14/cs21_7nm_planview_dinner.jpg",
-          "width": 9144,
-          "height": 6094,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/cerebras_wafersized_ai_chips_play/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/cerebras_wafersized_ai_chips_play/",
-      "publishedDateTime": "2022-04-13T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-self-driving-car-maker-argo-ai-plans-test-facility-in-south-carolina.md",
-      "title": "Self-driving car maker Argo AI plans test facility in South Carolina",
-      "excerpt": "A closed-course track will be built in the South Carolina Technology and Aviation Center for development and testing of self-driving auto technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2022/04/13/self-driving-car-maker-argo-ai-plans-test-facility-south-carolina/7309486001/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2022/04/13/self-driving-car-maker-argo-ai-plans-test-facility-south-carolina/7309486001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/03/PDTN/eda26d69-46d7-464b-8577-50a7a977bdb7-GettyImages-1161596205.jpg?auto=webp&crop=772,434,x61,y249&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/7309486001",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7309486001",
-      "publishedDateTime": "2022-04-13T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

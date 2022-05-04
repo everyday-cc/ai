@@ -122,6 +122,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "SoundCloud Acquires Music AI Software That Claims to Predict Hit Songs"
+    excerpt: "The AI software is capable of “listening” to more tracks than humanly possible, which will allow SoundCloud to make confident trend forecasts that, in turn, increase their “hit-rate” and ..."
+    publishedDateTime: 2022-05-04T19:22:00Z
+    webUrl: "https://hypebeast.com/2022/5/soundcloud-acquires-music-ai-software-predicts-hit-songs"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 17
 
 secured: "Ozdjq3/O/dTOpij1el2zU0FQ/UX6TIhAS4gSB1eCO8MY80QdVfpijCgeEurFccYu3xWYU60pjYbNxBuaa3KTCWkDZtVCIV/51v2tKXz/x+EHrSyhivw9oXyCu2EtzmMkoCzfoY1rb0XtDTtFHEMlI2qz7QrpzxrhqEafI/kvyTAG24KVCxJIolT0QkcSMVNG4Jy/fhPqz7qYf/I1glYS3LLHxQvfBs8DFAziRBGVKSHO3HvWww0g9S2MUY/C46obyOZKTD59T2ZTUrzTZQD9Oolg4sqptVZHurc1VNp+f5WGlpGoMYPCxYgbuudzmF55et6MElu10uVOocqqAHfG25Ee29Kt9eZeEZUaUxpYpCE=;JsctnS/U3hV/2pfazOORhQ=="
 ---

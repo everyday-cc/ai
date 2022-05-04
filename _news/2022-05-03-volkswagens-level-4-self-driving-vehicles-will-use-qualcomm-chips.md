@@ -59,6 +59,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Volkswagen picks San Diego's Qualcomm to supply chips for autonomous driving efforts"
+    excerpt: "The companies haven't said yet which models would be the first to get Qualcomm Snapdragon Ride processors for Advanced Driver Assistance Systems (ADAS) and Level 4 autonomy —which means fully self-driving but with the motorists still behind the wheel to ..."
+    publishedDateTime: 2022-05-04T18:00:00Z
+    webUrl: "https://techxplore.com/news/2022-05-volkswagen-san-diego-qualcomm-chips.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 0
 
 secured: "W4jHbAkpg4uqayqXeTYv3KH3NqMwp+p7WsehAlpMKcEPqaCPVAACtRNGAX6Bmd6UGx1hGqCwVCDF1QudskrbwAStJbLjI7p6h7EIpeYmw1bCkFWds1lq2mkfMt0nM/Jm4fCj+rIkQb+OKBHh1UOLFq1uMUrX0ZQUaACbOIjlBW1wlBdW5YbTxiP9J3lfUPL8cTYzWHDFg4zKylxzNIpoSIaW7ptM9EDJUb9KIKN1HNSqZ9WdOX1L6iDWGZCsI7QmWlh1cRIffR1xLCxD1PRRle8/6Ly5d9Zq/QH9wix7DLRZEEBS1aeckD5LBxrfHmQIZxlbDIfA4lpLiwMOr2/4T3884elif7msHhRJS6ps+9ekU7yTS2ZnmXbS3pJK8pvUakVsAux8kEF66gxl3/pPnvSmCIt0+11lavIAMxgYeaSAoQ+9hSofyZDvxMX5ybhlkXEoBKHiFKIRWkqd6rlFnZuLQWYxK2QKY4SjMhNqcxwl0ILU5WO4I5daspRwNV5TwmY4HNfLQYHlLW8y8ZIjfg==;MKtq5oguwqHt+37+OR7CTQ=="
 ---

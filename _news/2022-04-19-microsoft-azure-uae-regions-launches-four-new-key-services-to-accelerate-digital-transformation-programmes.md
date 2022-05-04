@@ -15,6 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "EsKZuBG+nFXedGp6YDldLcb/ocTxmMLyGyeqlFiEnGjlsy2PuAn9XTwi9S5Rn1LXgLBGccgm3DM8/oaeC0lEP1DO2Nj5q+kRAKyB/HHxTafnolA+Uo4NfyI8ZMQ6Sw2fmlr0awp2C8AmuJdiNgM3lUQlmdLrZ+1zZbdbKcWsUAKJmF/+c/ANoUu7TvsYsR4wpbgHTDToI+ZDilvRWwu7iOmzvvVh2x1wxiU17QC4YH/TLAE6M+QzcbJ1b6FRf5VgBHal4DX0EjvONZUGRUvqRB5cnMeb8uhV7mLoRLOgZd6DiqzngQvRCd3LmfFk+ESQoni6KSEYj+BPNU8HDfOPua1FANyYiZ1SUeuwGxY8Sw8=;pRKitVIa4Hp5zC3eG5yg3g=="
+images:
+  - url: "https://static.zawya.com/version/c:N2NhNWExODAtYmJhMi00:Y2UwYzYx/necipozyucel-director-azurebusinessgrouplead-microsoftuae-jpg.jpg"
+    width: 683
+    height: 1024
+    isCached: true
+
+secured: "8eHsk78C4RFZzvhbmo6rdJfrKJ1g9EXax1PFRHZLcX2mze0djXxBMQ/wAYrfwXAKz2fpGdP4Xk8AKB6d2TG8pu6WPwb3t0PKehMYEYeyCuGbGVRMDU4PpCPu5JuNZGMDgtFfWPLAFWw2JEtm2ywhZA2LowoXREfBlSZZN/1xwr8QZ/6iUKA3v49HCO2tVW43FJGz6+JwuTahGtrPgNNF+JOO4pjWg1t2itRWCVxYYet7mvCS9pAoa/SPIKeQYCID6/lthsMhq/E4UNBqpzqigxCLHSq2tijf94x9+VvEbQ+CG0oTHrVaOM6Gef/f2/HoKE9lLZthQ2UC6ZznfVHNu9PTUWzPvIuG5GheaZ4D8EU=;QmrKdXE6L6XmGwScfasLOg=="
 ---
 

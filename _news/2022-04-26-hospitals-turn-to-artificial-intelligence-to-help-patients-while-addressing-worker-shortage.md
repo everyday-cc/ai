@@ -3,18 +3,25 @@ category: news
 title: "Hospitals turn to artificial intelligence to help patients while addressing worker shortage"
 excerpt: "More industries are embracing artificial intelligence or tech meant to solve problems that humans traditionally have handled."
 publishedDateTime: 2022-04-25T19:14:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
-webUrl: "https://www.thedenverchannel.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+originalUrl: "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+webUrl: "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage"
+ampWebUrl: "https://www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
+cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/hospitals-turn-to-artificial-intelligence-to-help-patients-while-addressing-worker-shortage?_amp=true"
 type: article
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: WXYZ Detroit
+  domain: wxyz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "quUU7srR8eHr/S07+kun58ewi/ASqmk/bLwSj5wKPN1GqLGQXZ7f8VQ6+lXZbWd4aNUBN+cjxHGuanbvcc23SJjSzvUkTynPro0HAhZ2tqaHhSG5FgZFo5xogXLS22CSFMwkflMhYhpBu0bx8cr4wPjYAdCXldw4BEo7edqX44zlT3cFiPj0a4q0/oQRrt7Vm93mszmFdXH0FOKpiMQ6QNMHPwWoVCzuDltpQoyorLo5hbPfqDNktFET4gcCuxR/anXvWoGzhW+GugHO5Z5UEsbJkr7lh1JG7CYkcBnUjHQqRpDNRH+eaiwnEWU3YeQCB6OEq0l/AwPlEtvqUnHn+HE+ZTotsyb4YWigSC+e0xaEuP5i7Dv43aozGz0ycVSgEXJULv7EWS6fmLS3t+/2STSuqI7XkwOfTp5zt4Txt4/RVwftqHb83yKrTag/RrsZc2hPiS3V+PBD6uzsFZtfeAM+zR/j3iqro5PxLdUreWYhkjKaXhbDtcNiyaoGNb3ZajcMg2qSHyGFCFiQvu+T5g==;0EuIx6YcINfPV3mhFbvK5Q=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a70b74b/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F39%2F0d%2Fd723ccff45b991094268f06a22e3%2Fhospital-doctor-generic.png"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "nxNh/4n3YOqmBNpYvCQ2m6/WBkM7fGwX5/pznzJ5YG5PvsSlfL1/k2LhdW7PLxZlH6IcWmBSfAIoBYzeekrJNFE8ZHJ9ziIXi28a1R85Dw747vlpk7jfII/3qA9SXDGfqObfcYLgA/kT4W6SQEDkUZlsEGIbH/5fmxdjPBifcu1Y8zGOmebMc6jqHMxl3AmJcAl4flvSgcjY0EWe4Pn0KOSF8Qp/5d/ePKoArT/OPQ30rVe/lD5Z+LLNAFwG6qzpdel0c+ThJIAY1WJxOpuUZzXF+rg5VpT7vXgu3jGphhnw8gV9NRSc6GoS64Tr5qNKH1cC6scTD2ZNjGbkD0NrL/cLpfoc/x/1VrpvSqqdT20=;FlcdK+o3vULoZQcJSeYlzQ=="
 ---
 

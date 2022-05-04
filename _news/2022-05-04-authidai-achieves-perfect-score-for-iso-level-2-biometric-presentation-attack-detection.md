@@ -24,29 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "FaceTec claims best-ever face biometric authentication accuracy with new model"
-    excerpt: "The Face Recognition Vendor Test (FRVT) from the U.S. National Institute of Standards and Technology (NIST) does not test 3D data, and therefore does not include FaceTec’s algorithms. The developer argues that NIST’s results are irrelevant as 2D facial ..."
-    publishedDateTime: 2022-05-03T22:29:00Z
-    webUrl: "https://www.biometricupdate.com/202205/facetec-claims-best-ever-face-biometric-authentication-accuracy-with-new-model"
+  - title: "Innovators honored for advances in edge AI, biometrics and deepfake detection"
+    excerpt: "Savvides serves as the chief AI scientist for vision AI and face biometrics provider ... Its role in the TraceTogether program involved its Apollo3 Blue system-on-a-chip to enable community contact tracing with COVID-19. “We are passionate about ..."
+    publishedDateTime: 2022-05-04T20:10:00Z
+    webUrl: "https://www.biometricupdate.com/202205/innovators-honored-for-advances-in-edge-ai-biometrics-and-deepfake-detection"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 35
+    quality: 36
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/24181649/awards.png"
+        width: 1140
+        height: 540
         isCached: true
-  - title: "Ireland to share face biometrics with EU to tackle crime on wider scale"
-    excerpt: "McEntee said the exchange of facial images will not mean live facial recognition of crowds in public spaces. Nor is using artificial intelligence for facial comparisons currently contemplated. Moreover, she said, Prum II’s router will hold no data ..."
-    publishedDateTime: 2022-05-02T17:59:00Z
-    webUrl: "https://www.biometricupdate.com/202205/ireland-to-share-face-biometrics-with-eu-to-tackle-crime-on-wider-scale"
+  - title: "Mobai, authID.AI biometric PAD compliance confirmed with perfect scores"
+    excerpt: "Mobai and authID.AI have each received compliance confirmation for the ISO/IEC 30107-3 presentation attack detection (PAD) standard, demonstrating their effectiveness against biometric spoofs with error-free evaluations. Mobai it passed the test with both ..."
+    publishedDateTime: 2022-05-03T18:39:00Z
+    webUrl: "https://www.biometricupdate.com/202205/mobai-authid-ai-biometric-pad-compliance-confirmed-with-perfect-scores"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 4
+    quality: 17
 
 secured: "UGHUHSDhWy8Ct7IU7O+I4CjHZl1E4vSdYR6j9flA+fZEEDfYwtX6vUUjLQyuzL05DAMlEnKJiFONLrcT729dYMeUzlahTIMEhMKWPfFn8Pwzj4nSxv9c7bpls6IVt6/v06SlxxMcJP522okhVW7ZtwgZlP+guaiV3GIwTjlCJI/hLkCQE4UVe4lM5DnTN9BP1kDF2pKOPEMWSExvqMXbAfEyW0jaJQ8A8iGcAaOg2+Sqw16Csm/CMOKByAwVta5TGi2/fIzIF8eX1bpR7ZlNA4n6dyvqtIx9RExqo8Qe7YTMDBjTuVK51WPUkTHgitnB5Su3qDBGll1MoFYqfJYjQ2evyLH1jF0huM1ZEsfKHCY=;y70UKPm3m2+7LZtGpM3X4w=="
 ---

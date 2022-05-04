@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Autos
 
 secured: "a2hGJQqfuERhPkkQq0MDlWyjEgXo9qTm8KeAJUxGPcwSwWT744ukDKf8PYAJPO//HnUP/RJbvy9MhBGd4EE2852mS2Lb1EDhwWAhR5cF2ec18OYsk7/H00AJOxWyv042+HYP3WxRFlqY6x13GdfILpXgBu+c+hFJ1UORjPcYOBnHrglyVdO5FVk146aykDwNCnjGk5d8jQP8u3oihBQ/G8wPMqAE/VrhTTLJxwD9XBNo0XBkABS7/v5179Pybq7PVMhxXBGknRbcrT9k7rJ/9TjoFUe3cry9j+zui07wquM351u5lf+5WHQyHJ1HqUjppBMvkLYDqXnKqi6kLQ9GulT6zzIsdyWr0KbO+C1cXuQ=;W08ay3wHmd35hgo1H8MA8w=="
 ---

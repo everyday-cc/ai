@@ -39,6 +39,15 @@ related:
         width: 730
         height: 400
         isCached: true
+  - title: "EKA Partners with NuPort Robotics to Introduce Smart Electric Buses with Advanced Driver Assistance Systems"
+    excerpt: "was founded in 2019 by leading robotics and artificial intelligence (AI) professionals. Its mission is to improve transportation safety, increase efficiency and reduce costs for clients in retail ..."
+    publishedDateTime: 2022-05-04T19:53:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220504/3937903.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
 
 secured: "pbej8gBA/IY95M1fuLmhnPtdK60Qxo6J86EL8/sCxIvZJkQbXFvkSmpn0A5KoSZqiBCah6XJI6qTaia+LOtjmCkVs9T0rwlmDKxCVIkMwW+p9GZjGlnaOlQuEzDDrcwsTDvj/LLoeXHeNwM7hdAwfAvlOZEp735dcHz/gvTnEip6ezB27DUJYp/vFGm10lIeL4LZqa8aiz2ajVTl+jlxbAb+U4mImCDA0kpTi4LBCMS7S9DQSQqbSbQH8TFbr+9G/JJtgkk6pyXma02EunkNEK5PuFyqsx0LITmFGIjJXn3Hq3iAyIEVUJh4QP2Qywr5vtyekFJhYOkQcYqLySoQmrqOJ50udZnMfqTZwosmhIU=;XXOn9FsJY0a3f5V3j7MmYg=="
 ---

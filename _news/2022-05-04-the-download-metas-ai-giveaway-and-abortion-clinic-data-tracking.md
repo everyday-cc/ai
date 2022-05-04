@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T14:10:00Z
 originalUrl: "https://www.technologyreview.com/2022/05/04/1051755/download-meta-language-ai-giveaway-abortion-clinic-data-tracking-sold/"
 webUrl: "https://www.technologyreview.com/2022/05/04/1051755/download-meta-language-ai-giveaway-abortion-clinic-data-tracking-sold/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MIT Technology Review

@@ -35,6 +35,15 @@ related:
       name: KRON4
       domain: kron4.com
     quality: 0
+  - title: "Asensus Surgical, Inc. Reports Operating and Financial Results for the First Quarter 2022"
+    excerpt: "PGS builds upon the foundation of Digital Laparoscopy by adding machine vision, augmented intelligence, and deep learning capabilities ... and $0.3 million in services. For the three months ended March 31, 2022, total operating expenses were $18.2 million ..."
+    publishedDateTime: 2022-05-04T20:05:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-4-asensus-surgical-inc-reports-operating-and-financial-results-for-the-first-quarter-2022"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "IAOVYAchBV6m3LgrnsbkJuGbJ2UbGX+CmMIietzgmN8MDxPpFvSZu/yqPzDpnMbIhQNU74Z7OF9sx0122ukbCikwv3TGuYrm5HB+Q5zgLmn5Rk/rGrkygcd+UblwP4YBYombY34j8S7yqTqj5NFoZ6rJElxYLQ3j8oB96p+iPZDxhqrmPO6ApMOP72u/HCpx94FllOo44mTitTwpEmQ5Cb3ttZPlsFPxE/MOxchkhU2S3wXOtRH7luPx7dxh8njAYmJA/h0iRcL5HRyVyXqVXSqxdYLIerwIZuJCOwGMJIspFoQBSyTq8E66DnLCgZevCYB2KUWkXSuvMv6YGnM8aU9D3lcTQWMDbDEC5HWm/JFozOYjQB5gjZaUf1PgZwWwqehn9z0yFqG9U8msuEPDz29K+hPz/SvB698chuh5oq08Vm5HZGcxcY8+DXZBCM59hGFCDT37TyKKfubbbrOiHnJhk8q2vZRHsny0AQwZASQKc8YtFsYphnMpLsqodD1avEMBlYmhthE3UmbYTShQtg==;GA+wehC0+aoAHSUrd9aMkQ=="
 ---

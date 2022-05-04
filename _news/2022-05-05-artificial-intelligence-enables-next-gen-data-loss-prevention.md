@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T18:57:00Z
 originalUrl: "https://www.eweek.com/security/artificial-intelligence-data-loss-prevention/"
 webUrl: "https://www.eweek.com/security/artificial-intelligence-data-loss-prevention/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: eWeek

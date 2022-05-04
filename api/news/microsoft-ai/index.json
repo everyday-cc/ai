@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-04-experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics.md",
+      "title": "Experiencing NVIDIA Jetson AGX Orin: The Fascinating Future Of AI-Empowered Robotics",
+      "excerpt": "As you can see, NVIDIA’s Riva AI speech recognition engine has no problem keeping ... Various configurations of Jetson AGX Orin production modules above will start shipping in July, with lower cost Jetson Orin NX modules shipping in September.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62715c96e2864518f941d642/0x0.jpg?format=jpg&width=1200",
+          "width": 1130,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/",
+      "publishedDateTime": "2022-05-04T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-ex-google-uber-ai-heads-launch-ml-error-detection-platform.md",
       "title": "Ex-Google, Uber AI heads launch ML error-detection platform",
       "excerpt": "Meta releases code for massive language model to AI researchers AMD to offer CPUs with Xilinx AI engine in 2023 Microsoft to ax Azure Video Analyzer in November AI models still racist, even with more balanced training Fixing problems with ML data is the ...",
@@ -1362,49 +1415,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-kin-carta-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization.md",
-      "title": "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization",
-      "excerpt": "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-cloud-computing-78e77dddf76e28b21fd46088650e9fba",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-cloud-computing-78e77dddf76e28b21fd46088650e9fba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

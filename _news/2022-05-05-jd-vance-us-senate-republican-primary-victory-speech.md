@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T18:43:00Z
 originalUrl: "https://www.c-span.org/video/?519967-1/jd-vance-wins-ohio-senate-republican-primary#!"
 webUrl: "https://www.c-span.org/video/?519967-1/jd-vance-wins-ohio-senate-republican-primary#!"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: C-SPAN

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T19:26:00Z
 originalUrl: "https://www.hstoday.us/federal-pages/dhs/former-dhs-secretary-napolitano-appointed-to-presidents-intelligence-advisory-board/"
 webUrl: "https://www.hstoday.us/federal-pages/dhs/former-dhs-secretary-napolitano-appointed-to-presidents-intelligence-advisory-board/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Homeland Security Today

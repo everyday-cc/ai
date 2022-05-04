@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T19:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/atos-launches-innovative-edge-to-cloud-5g-and-ai-enabled-solution-1031421473"
 webUrl: "https://markets.businessinsider.com/news/stocks/atos-launches-innovative-edge-to-cloud-5g-and-ai-enabled-solution-1031421473"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider

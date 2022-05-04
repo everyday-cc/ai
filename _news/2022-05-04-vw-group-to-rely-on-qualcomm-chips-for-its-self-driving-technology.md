@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Volkswagen picks San Diego's Qualcomm to supply chips for autonomous driving efforts"
+    excerpt: "The companies haven't said yet which models would be the first to get Qualcomm Snapdragon Ride processors for Advanced Driver Assistance Systems (ADAS) and Level 4 autonomy —which means fully self-driving but with the motorists still behind the wheel to ..."
+    publishedDateTime: 2022-05-04T18:00:00Z
+    webUrl: "https://techxplore.com/news/2022-05-volkswagen-san-diego-qualcomm-chips.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 0
 
 secured: "2vC1QdJytf3dkiDbiqlNNJpUZRnH0Zx1/3jlnFswL8H8IuHeu1cBCXjegN/mqcGzKly8xwQJDn3jZlRkw49d72fIqs4DDozxXeLvW3kjBFr2VToxYuHPLPZg2/p8CWluUX8TlmcvWAQi6xhXjZxRQeboEpgC3nJYgoR0XDthNqbyBnzCp/wwnVQMwTw4HLdG0IsGmszKJxEjkf8TYHfIp+UvhAeJqMO+NOpWjnHEkFbXGlde7DAMoGnmpvVpxm74BOB0lBbqHuvFwPztTvEkwZ6y6t68TFMW3ldaSUTKs0V8ko58hAI2IxnSguFhCGmzodrE8BTRRBkzLIKCoFGWvEWZU4UhbfT8YsC1FXW0x0pLAvH7J/wFETXLlxgwSmec073o6LtwGcvV1lgyY3Thj/IwMdJ/ivJKuQt8Vy0tUFWmFHnRAjVuL8N3b2JGMRmkBU1Q8waxEV1m0JAHPedJ4018sBAwI3o8mtLw+VbifVryoUGIG6kYyn2+W7JR5lby4UTWZg6kb5sZ9KvyzSdPjA==;sOpFlyHuJLrJYQgE6PvxYQ=="
 ---

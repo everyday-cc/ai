@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T18:56:00Z
 originalUrl: "https://www.automationworld.com/factory/motion/video/22210638/beckhoff-compact-motion-control-for-mobile-applications"
 webUrl: "https://www.automationworld.com/factory/motion/video/22210638/beckhoff-compact-motion-control-for-mobile-applications"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Automation World

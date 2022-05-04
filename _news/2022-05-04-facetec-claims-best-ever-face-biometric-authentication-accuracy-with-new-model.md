@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "authID.ai achieves perfect score for ISO Level 2 biometric presentation attack detection"
-    excerpt: "LONG BEACH, NY , May 03, 2022 (GLOBE NEWSWIRE) -- authID.ai [Nasdaq: AUID], a leading provider of secure, mobile, biometric identity authentication solutions,has announced that the company’s Verified™ platform has achieved conformance with ISO ..."
-    publishedDateTime: 2022-05-03T21:52:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/press-release/21266498/authidai-authidai-achieves-perfect-score-for-iso-level-2-biometric-presentation-attack-detection"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 28
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/05/AuthID_logo_tagline_2022_web_color.62719e93ba99f.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ireland to share face biometrics with EU to tackle crime on wider scale"
     excerpt: "McEntee said the exchange of facial images will not mean live facial recognition of crowds in public spaces. Nor is using artificial intelligence for facial comparisons currently contemplated. Moreover, she said, Prum II’s router will hold no data ..."
     publishedDateTime: 2022-05-02T17:59:00Z

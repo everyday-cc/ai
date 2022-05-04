@@ -2,59 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-03-29-cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031.md",
-      "title": "Cognitive Computing in Healthcare Industry Market Growth, Trends, Price, Scope, Competitor Analysis and Forecast 2022 to 2031",
-      "excerpt": "In recent years, the use of big data analytics and cloud services has seen positive growth and has created a platform for cognitive computing ... Google, Microsoft, Palantir, and PTC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031-2022-03-29?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031-2022-03-29?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
       "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
       "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
@@ -1329,6 +1276,49 @@
       "provider": {
         "name": "Le Lézard",
         "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-former-fda-head-scott-gottlieb-md-to-headline-upcoming-artificial-intelligence-in-healthcare-and-diagnostics-conference.md",
+      "title": "Former FDA Head Scott Gottlieb, M.D. to Headline Upcoming Artificial Intelligence in Healthcare and Diagnostics Conference",
+      "excerpt": "Innovative companies bringing artificial intelligence (AI) to hospitals, physicians, and diagnostic providers will gain key insights about the market opportunities to improve patient care and generate more revenue when they hear the keynote address by former Food and Drug Administration (FDA) Commissioner Scott Gottlieb,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/former-fda-head-scott-gottlieb-m-d-to-headline-upcoming-artificial-intelligence-in-healthcare-and/article_80086361-e7d6-56ab-b9d8-8026e9d86631.html",
+      "originalUrl": "https://www.eagletribune.com/region/former-fda-head-scott-gottlieb-m-d-to-headline-upcoming-artificial-intelligence-in-healthcare-and/article_80086361-e7d6-56ab-b9d8-8026e9d86631.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/de/6de880d4-966e-5a77-a86b-9305a9f0f20d/6231fc9d818b4.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null

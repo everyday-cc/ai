@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T19:39:00Z
 originalUrl: "https://www.slashgear.com/852951/ai-technology-was-just-taken-one-step-further-now-with-wine-reviews/"
 webUrl: "https://www.slashgear.com/852951/ai-technology-was-just-taken-one-step-further-now-with-wine-reviews/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: SlashGear

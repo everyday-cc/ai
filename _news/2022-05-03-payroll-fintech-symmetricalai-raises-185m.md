@@ -36,22 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "How Fintech Companies Are Using AI, Machine Learning To Create Alternate Lending Score"
-    excerpt: "One may well credit Artificial Intelligence and Machine Learning, which help in creating a favourable credit environment for a broader range of users, thus, providing means of an alternative lending score that doesn’t rely solely only on an individual ..."
-    publishedDateTime: 2022-04-30T02:34:00Z
-    webUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058"
-    ampWebUrl: "https://www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/how-fintech-companies-are-using-ai-machine-learning-to-create-alternate-lending-score-news-194058/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 68
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1651242910.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Catapult: Kickstarter Fintech Acceleration Programme 2022 for early-stage Fintechs (€50.000 in subsidies)"
     excerpt: "B2B Fintech companies with solutions in Regtech, Wealthtech, Insurtech and Cybersecurity using Blockchain, AI and Big Data technologies are of particular interest to the Luxembourg financial services ecosystem. When The 2022 Summer edition of Catapult ..."
     publishedDateTime: 2022-05-04T15:47:00Z

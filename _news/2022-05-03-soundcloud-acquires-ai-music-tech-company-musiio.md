@@ -123,6 +123,15 @@ related:
       name: Music Ally
       domain: musically.com
     quality: 17
+  - title: "SoundCloud Acquires Music AI Software That Claims to Predict Hit Songs"
+    excerpt: "The AI software is capable of “listening” to more tracks than humanly possible, which will allow SoundCloud to make confident trend forecasts that, in turn, increase their “hit-rate” and ..."
+    publishedDateTime: 2022-05-04T19:22:00Z
+    webUrl: "https://hypebeast.com/2022/5/soundcloud-acquires-music-ai-software-predicts-hit-songs"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 17
 
 secured: "9wle3j2fu+aRXmiiQKzljCknRm+Dx7NIBARee+8TTqnwbrr5ngmbAnPGm9+c1GO4rQwdfjsKI6Ii+ljRor+eDiCUlgWrCoCQFHZMtW7cNvFIfwAzrT5SjRpI3WV8GQQOrbjJXILl/Ubz1D4w8YoRH8zqIck5O0crcR460lzLZPJDR7feoyrIusfRKVv16GolrIKDzUSg45K+9ifNj99MSvqnpaGdXyb1oW65ixxBWgQnA9VhbWkVTb/W1906843L+QpbxLcNi55/duocEzxhZTax2zUjMBIHtaKOTfpHt9aP/uN8OD2T9bm4eKIesKLmUJJQjfOecO4oUtu+CHmP0moYLhLAbPhF8uR06jP5e+0=;UAeqfe8Qmcvgz1DVVerFbA=="
 ---

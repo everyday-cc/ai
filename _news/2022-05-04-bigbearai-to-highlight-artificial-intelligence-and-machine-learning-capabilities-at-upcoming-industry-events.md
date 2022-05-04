@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-03T20:20:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/b26976772/bigbear-ai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-indu"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/b26976772/bigbear-ai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-indu"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Benzinga.com

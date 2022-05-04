@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvid
 ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/"
 type: article
-quality: 112
-heat: 142
+quality: 114
+heat: 144
 published: true
 
 provider:
