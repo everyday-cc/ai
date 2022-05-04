@@ -3,10 +3,10 @@ category: news
 title: "TeamViewer Brings Artificial Intelligence to the Shopfloor"
 excerpt: "May 3, 2022 /PRNewswire/ -- TeamViewer, a leading global provider of remote connectivity and workplace digitalization solutions, today announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer's leading ..."
 publishedDateTime: 2022-05-03T14:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-teamviewer-brings-artificial-intelligence-the-shopfloor-/2022/05/03/9594602.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-teamviewer-brings-artificial-intelligence-the-shopfloor-/2022/05/03/9594602.htm"
+originalUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/03/9594602.htm"
+webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/03/9594602.htm"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1808015/Woman_inspecting_bottling_machine_wearing_smart_glasses_and_safety_helmet_Copyright_TeamViewer.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
 related:
   - title: "TeamViewer adds AI to AR"
@@ -33,6 +39,6 @@ related:
         height: 250
         isCached: true
 
-secured: "aVdxKjMo095QQSbG3rGentI+e6XNIKz3dopWYo5b2EMgrQh/09BLszzRZ/FTgxIAK2s1djLgJa9wAEYNXure1mRNNXVRJT808nDIu7MQsonbBrI1jlf1ek2VquZil/y8LNaDTsE8BgnMlYkXU3VJA3DydGz6drDAnNJlg3oE9p7w8oAHoZFDp64PgT/QptCzSGKxj4A7+fnFhT78XWm5T4FYlhK/8AyUeEIKZP0begFMfjbtgpRZl7Bn0uei9DAuRc56ab5OKHKVM4Msz0d+aBfzSjpdFoHd+vOaYYbsITS6gc4bB2wSuxILJeyfDNsDYzmHmxCdY8Y9T/v44wo4U4yUSUJiyF7/IIt+crIHS39RhaYTprBPHtLMEHreZDc2uXNghsJPJ0tmjXAQKT6gioNqAACMyY5wTXJs3eeRFcI5PlwJdmG2EHoXQFZ0PGMvqxCAQIaAMcsp07hxofOX1fzY8GHYoDO0yjzDolLfNvDgDVGyOFJnQTVvqDxugRg1Pjwz71jx/sDu7eDRMSkbrQ==;XcgySvAcVV3sEh3lrr3eVw=="
+secured: "/m+se6EvFJXyaEbjh/2luEHsX7cXGPeu9p0cnplCGqxj51K4u6znH/W1/Tj+vUjTrEattPBhq2OLh/eX+bh1YViZbrBa2ps52DxRKfwsLwgYKD8mJ/0qh9UnlFp7129a3NQ2Wf8hYv0WPThuEr98zcbUzlQZ2BboQ/Pm26O7ccL1p76E17y3pRVWopXirhdBHKfBB0cMdcboIYe1mGXkz8Ft/OmljTfChSxNRp2gVduf5aFocNeeJDHTy5Z/2PJm7ANDrCFvv0gi8hr3bYDGh1OHAMnvc2Y7BteKBv7WVRAaFtQqBaT1T3soetgqgCskVBWfcaDcbIb7cMLTodTcaeOsGCe/hiVZQ+pl4imxnDQ=;7OzJFB6C1MrGpSJ/0t4+ig=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_news/2022-04-06-ibm-launches-ai-accelerated-quantum-safe-mainframe.md",
-      "title": "IBM launches AI-accelerated, ‘quantum-safe’ mainframe",
-      "excerpt": "IBM’s z16 mainframe is designed for hybrid cloud environments, features an on-chip AI accelerator and what the company calls the industry’s first quantum-safe system.",
-      "sourceUrl": null,
-      "webUrl": "https://gcn.com/cloud-infrastructure/2022/04/ibm-launches-ai-accelerated-quantum-safe-mainframe/364070/",
-      "originalUrl": "https://gcn.com/cloud-infrastructure/2022/04/ibm-launches-ai-accelerated-quantum-safe-mainframe/364070/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.gcn.com/media/img/cd/2022/04/05/IBM_z16_2_GCN_040522/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GCN",
-        "domain": "gcn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-06-monitaur-releases-ai-governance-platform.md",
       "title": "Monitaur releases AI governance platform",
       "excerpt": "73% have struggled to get executive support for efforts to make AI ethics and responsible practices a priority and only 20% actively monitor their models in production for fairness and ethics.",
@@ -1096,6 +1053,58 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-three-former-deepminders-are-developing-ai-to-pick-stocks-and-crypto.md",
+      "title": "Three former DeepMinders are developing A.I. to pick stocks and crypto",
+      "excerpt": "Martin Schmid, Rudolf Kadlec and Matej Moravcik left DeepMind in January to set up EquiLibre Technologies, relocating to Prague in the Czech Republic. The trio used to work at IBM and developed an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "originalUrl": "https://www.cnbc.com/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102035717-72012198.jpg?v=1532564415",
+          "width": 5400,
+          "height": 3300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
+      "publishedDateTime": "2022-04-05T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

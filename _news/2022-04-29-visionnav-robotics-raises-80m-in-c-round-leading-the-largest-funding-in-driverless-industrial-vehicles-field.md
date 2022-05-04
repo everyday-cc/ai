@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics
 webUrl: "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256"
 type: article
 quality: 96
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-visionnav.jpg"
         width: 770
         height: 500
+        isCached: true
+  - title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
+    excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+    publishedDateTime: 2022-05-01T16:22:00Z
+    webUrl: "https://www.thaipr.net/en/business_en/3185480"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 66
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2022/05/image_5015562_22125589.jpg"
+        width: 800
+        height: 430
         isCached: true
   - title: "VisionNav Robotics Raises $80M in Series C+ Funding"
     excerpt: "Founded in 2016 and led by Li Luyang, CEO, VisionNav Robotics is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial vehicles, providing autonomous vehicles ..."

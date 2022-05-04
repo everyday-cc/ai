@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Facebook-owner Meta Opens Access To AI Large Language Model"
+title: "Facebook-owner Meta opens access to AI large language model"
 excerpt: "Meta said its model was the first 175-billion-parameter language model to be made available to the broader AI research community. \"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable ..."
-publishedDateTime: 2022-05-03T22:30:00Z
-originalUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
-webUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
+publishedDateTime: 2022-05-03T21:22:00Z
+originalUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
+webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg"
+  - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
     width: 1200
-    height: 803
+    height: 628
     isCached: true
 
 related:
@@ -51,7 +55,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Meta opens access to AI large language model"
+    excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
+    publishedDateTime: 2022-05-04T03:20:00Z
+    webUrl: "https://www.asiaone.com/digital/meta-opens-access-ai-large-language-model"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/Screenshot%202022-05-04%20at%2010.16.38%20AM.png?h=690322e4&itok=OAImWZns"
+        width: 600
+        height: 316
+        isCached: true
 
-secured: "QbJZm++8IPIfQ6YfsT5tkIQO2p3y93gVQ4WEU9aj66abg2ynjBMN+rPIiXGUcDJL5Qr2LwK4gV6G3VHz8kmfb9rFrbQbFVLq1fHsAjW6Eduo6PWlf/bZeRkwzT5rCVhDCuRQiXgBJhWzbauce+81AbqWD0zxpUcKuNratk2qOVCQz9qoJlMFXsaOTVna4G70Na2+SAP3+ZiQEgQxi0RnoSadHdyMLA0q2dLrpG8B/oSVGkv0JFn4V3Zaqm0IKH5ZlMDVxXghjppPGVQ8gZ4bOtwe3ChF4BE6tDog+UR+zATHYdhtJYhJrQZh8Y2RjWiWMRR/L8Ebe1ABIlUOnldUQ5JLikhNOM1SAfbNiA7M98A=;aETfjiaMZntSY2H0G7kbGQ=="
+secured: "k67QHwTjiAiFLP9i6MOTtGdjKu5qhMygeVo6OASLr3004isuMjJhPMOlegoM44faBb+gvoeU5rBNVbV/+b20OYOA3n2zPU0EpHyCWdsQtxwRVz9VMWnLweLvcISmxv2/eUFkkcJTyJJzOI69ZaITDsHwQRj1NoI+3T+4uGT7wix8IpYjM/yTRhnHzXJ2wA04zy5O2c60f3eePcyCm9lRkHNfrWSTf/PgcsvFIela74dOZKp4zsEA0mtiiz4GOMLrIcT9IHl+AAMyZr21W57tFfaDjzta3HZe0/qM6Hfn4Rwjmgj9Dol40SNvnUi2e5HyKQWkSIi5hXV6IsEKtaPk9lF83C6c6eP5FgQy5kGV228=;7bgq6b7vzbcKEr2nu/XTHg=="
 ---
 

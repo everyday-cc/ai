@@ -2,49 +2,6 @@
   "page": 62,
   "value": [
     {
-      "path": "_news/2022-03-11-c3ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-telecom-conference.md",
-      "title": "C3.ai's (AI) CEO Tom Siebel on Morgan Stanley Technology, Media & Telecom Conference",
-      "excerpt": "I’m super thrilled to have Tom Siebel, CEO of C3.ai, looking forward to having a conversation ... So the alternative to us early on would have been IBM Watson, which is now, I think, shut ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "originalUrl": "https://seekingalpha.com/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4494668-c3-ais-ai-ceo-tom-siebel-on-morgan-stanley-technology-media-and-telecom-conference",
-      "publishedDateTime": "2022-03-10T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-11-self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round.md",
       "title": "Self-learning autonomous driving AI startup Autobrains closes $120M Series C round",
       "excerpt": "Autobrains, a company that’s developing self-learning artificial intelligence technology for assisted and autonomous driving systems, said today it has closed on a $120 million round of funding. The Series C round was led by Temasek and saw participation from existing investors Continental and BMW I Ventures,",
@@ -1158,6 +1115,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-natural-language-processing-nlp-market-is-expected-to-reach-usd-4496-billion-by-2028.md",
+      "title": "Natural Language Processing (NLP) Market is Expected to Reach USD 44.96 Billion By 2028",
+      "excerpt": "Market is Expected to Reach USD 44.96 Billion By 2028 Increasing demand for NLP among various industry verticals is one",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-is-expected-to-reach-usd-44-96-billion-by-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-is-expected-to-reach-usd-44-96-billion-by-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

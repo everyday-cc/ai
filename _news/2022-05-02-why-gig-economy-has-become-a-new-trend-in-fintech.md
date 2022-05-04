@@ -75,20 +75,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "29/04 – Weekly Fintech Recap"
-    excerpt: "Fintech Lender Sonovate Launches New Platform to Enhance Embedded ... Alex Preece, CEO of digital gift card provider Tillo, has joined Network B's advisory board The AI-based personalized offers platform Network B has recently enhanced its advisory board ..."
-    publishedDateTime: 2022-04-29T09:43:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2904-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_9.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Fintech firm Propflo closes pre-seed funding"
     excerpt: "The business has a strong advisory team including the chief executive of Yopa and ex-Purplebricks managing director Verona Frankish, and Dr Mike Tipping – a world-leading AI expert. The main objective of the recent funding round was to engage ..."
     publishedDateTime: 2022-04-29T13:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://enterprisetalk.com/quick-bytes/vic-ai-unveils-ai-powered-t
 webUrl: "https://enterprisetalk.com/quick-bytes/vic-ai-unveils-ai-powered-tool-to-optimise-costs-for-enterprises/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Enterprise Use Cases For Computer Vision"
-    excerpt: "Manish Garg is the Co-founder and Chief Product Officer at Skan.ai, a computer-vision-based process intelligence platform. Computer vision conjures up thoughts of autonomous vehicles and facial recognition for many of us. Indeed, billions of dollars have ..."
-    publishedDateTime: 2022-04-29T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/"
+  - title: "Endoluxe and Optimus-ISE Enter Marketing and Development Agreement to Realize Advanced Imaging and Artificial Intelligence in Advanced Operating Rooms"
+    excerpt: "Endoluxe and Optimus-ISE are proud to announce that they have entered into a co-marketing and development agreement to realize the advanced technology synergies of both organizations. With Optimus-ISE focused on safer, more efficient, and improved ..."
+    publishedDateTime: 2022-04-29T19:23:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_1c4b3bfa-3152-52d5-bd2d-1755b1cd09b6.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Daily News
+      domain: galvnews.com
+    quality: 16
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,3375,x0,y240,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "3o6ZILJPGr9Cxk5vpI9QwLDSJ9inECWRR0/mmRpYhYbm2rjeGuOseTV7mDrHd2zxPDfu4U7m5reyjCC/FWoQEBys/AYNcHBIURr4xmiQzOu0UdMmYRKcqzfzYXSN5396l/z4paQQzyHUI+a96HHmbYBQqS9gESGYh5QGJNKN/OEu+1DCowxtXXFuXG2p+tk++aJhpFiH1+++ztugu/FauKAIoLyXUVD2EnyeN0xa1ggfNyh6RjzOZ3EfUGMZ0O2URBRlCnyad9EJ+DtlK+YmztPGE7fXXBgrxbpVXyr9cmTkQng1k441YpuU0hIqLhlqPzFCaiwNZ0XgCmwrXjC6RzH+entv0yNIsW7MSPr6BdTRWmtTyy1GDEICvN4WmhaIRirycooojwqaVoDlDCQdOSZEgWt39/ymG3XcdBTa1Q3vDPI5iHrkI2mO3OytM5lDowZnHGhYtcW36dI8ues0UfDXkmtOAKokmoceInIAzHy6bFwO8G9tK34PWbMsQOZeOj6OPkS6oC2/xTfGG9kKlg==;43BVWWqO1HMr5sHtb5Jo1g=="

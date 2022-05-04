@@ -1,32 +1,29 @@
 ---
 category: news
 title: "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events"
-excerpt: "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ..."
-publishedDateTime: 2022-05-03T20:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/b26976772/bigbear-ai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-indu"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/b26976772/bigbear-ai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-indu"
-ampWebUrl: "https://www.benzinga.com/amp/content/26976772"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26976772"
+excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, announced company executives are embarking on a thought-leadership campaign across multiple global industry events. The campaign will emphasize how the company’s ..."
+publishedDateTime: 2022-05-03T20:17:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-5c8dd925983047ef8f148449fd6ecd6d"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-5c8dd925983047ef8f148449fd6ecd6d"
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 50
+heat: 50
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Ethics
   - AI
   - Machine Learning
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "xzdUbRfOLOwkQ+dVBfid1feumpsAH4AhKawyWH2FX0DaJ3PQ4S3xc4PYeplvcA76AqeHAnRwTBGE7qZnG5f8Y30Z1LRl4UzZMjqYq5A8V58WwxoHd89K1QQEBM/7Af1cdsPDHgZMQqPsgq9mKUnR/ZNQJjDKOYan3urCEKfNQY8X75pEzQuXp9REUrHhEWgxR5waP/fQ2OiufONmarDcLVcsoAASy288auysVsko+EOb0jWnLL2OLw7iXqusV1ZmAqNSlaAlwvkfpO323q/cTi9q93Gb/zUafl8nx2RgRmSLQYwZjKOhgxCrSaZjkZ73yn6yEVWmyCZ2ml7cQfQrwaUGiJs9vtr6t/OQ+WcyI24=;dXBKEdNq1ke1LQXZmMTOcg=="
+secured: "ypa9iexTJE8rLIQWitBuLpiJ8fAK09fPLqnnFM7hpHj7s7kY6akdXYde1nk6PFZM7t0pWtFWxHPJ4G2ZKKf/2eaz2z9WvegCTV7r9UOrywFJFpb0PSH/tsCbBvfF5Wltg8pJHqHXbuRVmVp36mfrRM3N4BAa9vn6go50hloaN2F8LJ3J0F+1DsB25Xpxz0SV1sc9Bb5GDflxTYLn9svdb7WV+Bc1Y+asHrz68CGFviPsNTeFtjpqjx/O3SkPr7kQIa1Blk3sFLPzFxWkI3ubknUeQixAgcl/0MGMCriYEJbF8Q2KJ6JJQi+OhbYZHc4b4/tHSIwAC5xoUnn34AM++A9mAZ52ksjWyHTkkZgm3vk=;OdNNR/Sr9EX7LWQd4ov/KA=="
 ---
 

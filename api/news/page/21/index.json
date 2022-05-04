@@ -2,40 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2022-04-13-cogniac-deploys-ai-based-machine-vision-at-melcos-city-of-dreams-manila-integrated-resort.md",
-      "title": "Cogniac Deploys AI-Based Machine Vision At Melco's City of Dreams Manila Integrated Resort",
-      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, today announced its partnership with Melco Resorts & Entertainment Limited (“Melco”),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-13-global-artificial-intelligence-in-digital-genome-market-to-2028-size-share-outlook-and-opportunity-analysis-researchandmarketscom.md",
       "title": "Global Artificial Intelligence in Digital Genome Market to 2028 - Size, Share, Outlook, and Opportunity Analysis - ResearchAndMarkets.com",
       "excerpt": "The \"Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has been added to ResearchAndMarkets.com's offering. Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an organism.",
@@ -1107,6 +1073,49 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-unionai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology.md",
+      "title": "Union.ai Raises $10M in Seed Funding for AI and ML Orchestration Technology",
+      "excerpt": "Union.ai offers new services on top of Flyte so that ... here to help them every step of the way through a cloud offering that allows them to start building production-grade ML pipelines in ...",
+      "sourceUrl": null,
+      "webUrl": "https://wgno.com/business/press-releases/cision/20220412SF22410/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/",
+      "originalUrl": "https://wgno.com/business/press-releases/cision/20220412SF22410/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1795027/Union_AI.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGNO",
+        "domain": "wgno.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

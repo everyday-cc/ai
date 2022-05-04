@@ -2,60 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2022-03-17-ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars.md",
-      "title": "AI Ethics Keeps Relentlessly Asking Or Imploring How To Adequately Control AI, Including The Matter Of AI That Drives Self-Driving Cars",
-      "excerpt": "The AI Control Problem is what keeps AI ethics up at night, for which paths to solving the pressing issue are discussed, along with examples from AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/622a4da448f19c30f3859096/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-17T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-03-17-artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet.md",
       "title": "Artificial intelligence Chips Market Is Going To Boom | Baidu, Mythic, Alphabet",
       "excerpt": "Chips has recently been published. The market presents an analysis of the current industry dynamics in the Artificial intelligence (AI) Chips Market arena, as well as what our survey respondents believe the market will look like in 2027.",
@@ -1092,6 +1038,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware.md",
+      "title": "Consumer Rights Day 2022: Livestreaming scams, privacy breaches, malware",
+      "excerpt": "Unlike previous March 15 shows, yesterday’s Consumers Rights Day celebration didn’t single out Apple, Alibaba, Baidu, or any other high-profile companies or brands for reprimands. The offenders this year were little-known small fry. This gala’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/03/16/consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware/",
+      "originalUrl": "https://technode.com/2022/03/16/consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-16-at-7.59.59-PM-e1647433739386.png",
+          "width": 2547,
+          "height": 1408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/03/16/consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/03/16/consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware/",
+      "publishedDateTime": "2022-03-17T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

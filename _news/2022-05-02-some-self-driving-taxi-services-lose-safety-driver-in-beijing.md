@@ -132,6 +132,20 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Baidu and Pony.ai are operating first self-driving cars without drivers in Beijing"
+    excerpt: "China’s Baidu and Pony.ai are operating the first autonomous vehicles in Beijing without any safety drivers. Technically a driver is not required for the vehicle, a supervisor will be present during the rides somewhere or the other within the vehicle."
+    publishedDateTime: 2022-05-02T02:36:00Z
+    webUrl: "https://techstory.in/baidu-and-pony-ai-first-to-operate-self-driving-cars-without-drivers-in-beijing/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 33
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fad892af2965d0d226f47c4781e86afd8100481f/2022/04/28/91b6e013-2d7f-4256-a0a2-4ff6c79c7a35/baidu-apollo-passenger-ride.jpg?fit=bounds&auto=webp"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Ford-backed Cavnue plans dedicated lane for self-driving cars on Michigan's I-94"
     excerpt: "A startup by the name of Cavnue is working with the Michigan Department of Transport to build a lane dedicated to self-driving cars along a 25-mile stretch of I-94. Washington, D.C.-based Cavnue, which raised $130 million in its most recent round of ..."
     publishedDateTime: 2022-04-29T12:00:00Z

@@ -69,20 +69,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "29/04 – Weekly Fintech Recap"
-    excerpt: "Fintech Lender Sonovate Launches New Platform to Enhance Embedded ... Alex Preece, CEO of digital gift card provider Tillo, has joined Network B's advisory board The AI-based personalized offers platform Network B has recently enhanced its advisory board ..."
-    publishedDateTime: 2022-04-29T09:43:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2904-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_9.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Why Gig Economy Has Become a New Trend in Fintech"
     excerpt: "Fintech startups are more suitable for this job ... Ventures, such as B9, Chime, Earnin, and Brigit, are able to calculate risks with the help of AI at incredible speed. They use it to provide gig workers with quick access to advances on paychecks with ..."
     publishedDateTime: 2022-05-02T08:00:00Z
