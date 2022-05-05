@@ -97,7 +97,7 @@
       "originalUrl": "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -610,6 +610,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-27-computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030.md",
+      "title": "Computer Vision Market Trends, Size, Industry Analysis, Top key players, Growth, Opportunities & Forecast to 2030",
+      "excerpt": "Report Ocean published the latest research report on the computer vision market. In order to comprehend a market holistically, a variety of factors must be evaluated, including demographics, business cycles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030-2022-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030-2022-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-computer-system-scrutinizes-video-footage-to-analyze-animal-behavior.md",
       "title": "Computer system scrutinizes video footage to analyze animal behavior",
       "excerpt": "Ordinarily, when studying the behavior of animals, scientists have to watch many hours of video footage of the creatures going about their daily lives. That may soon no longer be necessary, however, thanks to a new critter-watching computer system.",
@@ -803,33 +846,24 @@
     {
       "path": "_news/2022-04-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry.md",
       "title": "Computer Vision Startup Encord Launches DICOM Image Annotation Tool To Eradicate Manual Data Labelling for Healthcare Industry",
-      "excerpt": "Encord is backed by CRV, Y Combinator, WndrCo and Crane Venture Partners and trusted by the likes of world-leading healthcare institutions including Kings College London where it",
+      "excerpt": "Encord's platform empowers some of the world's leading companies building computer vision models for medical imaging including Kings College London, Memorial Sloan Kettering Cancer Center and Stanford Medical Centre The first dedicated Digital Imaging and Communications in Medicine (DICOM) tool provides 3D annotation for modalities such as CT,",
       "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_b172b9a2-0d3e-5d97-8ffd-00057a7e1883.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_b172b9a2-0d3e-5d97-8ffd-00057a7e1883.html",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-computer-vision-startup-encord-launches-dicom-image-annotation-tool-to-eradicate-manual-data-labelling-for-healthcare-industry",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-22T04:16:00-07:00",
+      "publishedDateTime": "2022-04-22T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -927,6 +961,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-indian-origin-engineers-introduce-ai-powered-smart-glasses-for-visually-challenged-people-details-here.md",
+      "title": "Indian-origin engineers introduce AI-powered smart glasses for visually challenged people — details here",
+      "excerpt": "Netherlands-based assistive technology company Envision has unveiled its latest smart glasses that can help with low or no vision to read documents, scan faces, and assist navigation with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/indian-origin-engineers-introduce-ai-powered-smart-glasses-for-visually-challenged-people-details-here/articleshow/90974873.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/indian-origin-engineers-introduce-ai-powered-smart-glasses-for-visually-challenged-people-details-here/articleshow/90974873.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1300,103 +1368,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-17-internet-aghast-at-ai-facial-recognition-used-to-identify-dead-russian-soldiers.md",
-      "title": "Internet Aghast at AI Facial Recognition Used to Identify Dead Russian Soldiers",
-      "excerpt": "Reporters and readers reacted to the news that Ukraine is using facial recognition AI software to identify dead soldiers Russia left behind.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions",
-      "originalUrl": "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/04/ukrainian-ai-software-dead-soldiers-reactions-600x315.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp",
-      "publishedDateTime": "2022-04-16T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-ukraine-is-using-facial-recognition-to-id-dead-russian-soldiers-and-send-photos-of-corpses-home-to-their-moms-report.md",
-      "title": "Ukraine is using facial recognition to ID dead Russian soldiers and send photos of corpses home to their moms: report",
-      "excerpt": "Facial recognition technology, donated by a controversial US firm, is part of a gruesome campaign to shock everyday Russians into opposing the war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "originalUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62598d9c33c02a0018ca1c52?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "publishedDateTime": "2022-04-15T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

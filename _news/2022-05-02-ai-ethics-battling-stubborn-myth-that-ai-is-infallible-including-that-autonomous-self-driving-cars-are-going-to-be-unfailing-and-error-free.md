@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Ethics Is Especially Vexed By That AI Confinement Problem, Including The Knotty Particulars For Confining Autonomous Self-Driving Cars"
+    excerpt: "The AI Confinement Problem is a vexing issue and one that AI Ethics is pushing mightily to solve. We discuss why this is such a tough challenge, along with showcasing examples via the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-05-05T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6272bf58207611e789de7afd/0x0.jpg?format=jpg&crop=2380,1620,x161,y87,safe&width=1200"
+        width: 1200
+        height: 817
+        isCached: true
   - title: "Tesla Still Has Significant Self-Driving Potential"
     excerpt: "Self-driving and autonomous vehicle technologies aren’t necessarily elusive today, but there’s still progress to be made on these fronts. As that progress is made, it wouldn’t be surprising to see Elon Musk’s Tesla (NASDAQ:TSLA) participate ..."
     publishedDateTime: 2022-05-03T15:21:00Z

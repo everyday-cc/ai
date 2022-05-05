@@ -2,18 +2,27 @@
 category: news
 title: "QTT Accelerates Market Expansion with Its AI Oral Care Application, e.apo Mobile"
 excerpt: "QTT Co., a startup of the AI oral care application, has started to accelerate its expansion in the market. This press release features multimedia. View the full release here:  e.apo Mobile, an AI oral care application that allows easy oral examination at home,"
-publishedDateTime: 2022-05-05T13:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-qtt-accelerates-market-expansion-with-its-ai-oral-care-application-eapo-mobile"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-qtt-accelerates-market-expansion-with-its-ai-oral-care-application-eapo-mobile"
+publishedDateTime: 2022-05-05T13:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-health-south-korea-oral-7ef442fa1f1b49e9b3408fca94db8d2a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-south-korea-oral-7ef442fa1f1b49e9b3408fca94db8d2a"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "Gpg7uiYSfZbm95oX04Dwt+4soGwg1DaUBX2qEkntc8lO/W2XLlrcmuD7TbSa+AUv912RtySW/ZoL7vUtkj2Fp5awC/URQKZn5rrFKuuxtJxHBCvkE/BrgwYtXYE8Ahvgy/5eSAtbo931xf3YTbJNrvRHFiaj9R1LKK50O6iP4R9B3SpVZnDxYvT87IFPjGF1LUn5JAGeatpzca1eY+sKhwU6v0cyGtlu33xyFB1KPjZ93hvm9vf4zXvOhgHwDJipcOv4QSiD0MDkLOou3tQ5UU4hpyKwkhug6u9lDONqeHagAMvazrNhE8izuiO3pyl3tQfrTmXGzVIJRGeKowgP7+XjKMtDt+/xRKdDKSbK43s=;Kzq8RDQOyXiQ8D2wwqBiSQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "8decegmMkSw2dV2kDRTPyk76qE1swQfMkX9V+Ip8ndtlewu5MhVN8TlGIiOzQPaaHhqKZX9RCs9xejXuLvmQipRsH0nCSLy3X1UUpWUImonkYZ0O8E/jv/OGEt+JdsPpmF4DAKtmOHyZGyJWiYRmnVQdzFu/yfHGfz/iZ5PJVV7T1b46Psb2+zMh8D56nAX1vZ+H+p0k0o7+87eSNFDYTUOLvsGPJbq6ow9ciNLcreu7e1N+2Hj2M+CLi9k7qQJkwLgORQeu4FjarT0b5RI6AvJFkDiWDWR5wy5TFG4MF9RoTairvmO0ArShtjyWSU2Lrat6LuAiAKeEhkL5QobFHWlYVOjUVX3TT1Pr8hV7nc0=;KX+Iz/rLynZAxZzBzDUAfw=="
 ---
 

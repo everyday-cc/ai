@@ -2,6 +2,113 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-01-08-meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips.md",
+      "title": "Meta claims its AI improves speech recognition quality by reading lips",
+      "excerpt": "People perceive speech both by listening to it and watching the lip movements of speakers. In fact, studies show that visual cues play a key role in language learning. By contrast",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/",
+      "originalUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1351969920.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/",
+      "publishedDateTime": "2022-01-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-blur-faces-in-videos-automatically-with-amazon-rekognition-video.md",
+      "title": "Blur faces in videos automatically with Amazon Rekognition Video",
+      "excerpt": "With the advent of artificial intelligence (AI) and machine learning (ML), customers and the general public have become increasingly aware of their privacy, as well as the value that it holds in today’s data-driven world. Enterprises are actively seeking out and marketing privacy-first solutions, especially",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-5902-image005-new-1260x537.png",
+          "width": 1260,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T11:45:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round.md",
       "title": "AI & Computer Vision platform Avatar raises $45mn in Tiger Global-led round",
       "excerpt": "The Series B round saw co-participation from existing investor Sequoia Capital India. The financing is one of the largest fundraising rounds in the Applied 3D/AR space",
@@ -1303,94 +1410,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-ai-in-computer-vision-market.md",
-      "title": "AI in Computer Vision Market",
-      "excerpt": "The Global AI in Computer Vision Market Report is based on a detailed survey conducted by a team of industry experts. This report summarizes the products or services on the market and their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "originalUrl": "https://www.openpr.com/news/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc29200169_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "publishedDateTime": "2021-12-29T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

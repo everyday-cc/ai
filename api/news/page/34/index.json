@@ -2,6 +2,102 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-04-04-computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028.md",
+      "title": "Computer Vision in Healthcare Market Segments, Growth, Share, Size, 2022 Major Companies Profile, Competitive Landscape and Key Regions 2028",
+      "excerpt": "Apr 04, 2022 (The Expresswire) -- Global “Computer Vision in Healthcare Market” (2022) Gives key measurements on the market status, market size, recent trends of the keyword manufacturers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-04-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-04-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-dbi-and-braintoy-to-bring-machine-learning-solutions-for-bangladeshi-market.md",
+      "title": "DBI and Braintoy to bring machine learning solutions for Bangladeshi market",
+      "excerpt": "Bangladesh-based market research company DBI Research Private Limited and Canada-based technology company Braintoy have announced a partnership to promote and market Machine Learning and Artificial Intelligence-based products and services in the Bangladesh market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/04/04/machine_learning_dbi_braintoy_bangladesh.jpeg?itok=HejUIn11",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp",
+      "publishedDateTime": "2022-04-03T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-ai-music-startup-endel-teams-up-with-artist-james-blake.md",
       "title": "AI music startup Endel teams up with artist James Blake",
       "excerpt": "Artist James Blake had a new track featured on Apple Music’s homepage last week, and there’s an interesting story behind it. ‘Wind Down‘ is billed as an “Endel Soundscape”, reflecting its status as a collaboration with AI-music startup Endel.",
@@ -1039,101 +1135,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-generate-model-interfaces-using-metadata.md",
-      "title": "Generate model interfaces using metadata",
-      "excerpt": "Select the location of your TFLite file. Note that the tooling will configure the module's dependency on your behalf with ML Model binding and all dependencies automatically inserted into your Android module's build.gradle file. Optional: Select the second ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/lite/inference_with_metadata/codegen?authuser=0&hl=nb",
-      "originalUrl": "https://www.tensorflow.org/lite/inference_with_metadata/codegen?authuser=0&hl=nb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png?authuser=0&hl=nb",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-02T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-intel-shows-off-its-first-ever-desktop-gaming-gpu.md",
-      "title": "Intel Shows Off its First Ever Desktop Gaming GPU",
-      "excerpt": "Intel debuted its first Arc GPUs today for laptops, and also gave us a first look at the desktop Arc GPUs via an official teaser image. Perhaps",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/",
-      "originalUrl": "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2022/04/intel-1.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/",
-      "publishedDateTime": "2022-04-02T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

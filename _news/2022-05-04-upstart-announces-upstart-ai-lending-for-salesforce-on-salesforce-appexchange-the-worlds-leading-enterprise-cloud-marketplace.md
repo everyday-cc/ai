@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence (AI) Verticals Market is Booming Worldwide with Uber, Airbnb, Salesforce, etc."
+    excerpt: "Verticals Market has witnessed continuous growth in the past few years and is projected to grow at a good pace during the"
+    publishedDateTime: 2022-05-05T13:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-verticals-market-is-booming-worldwide-with-uber-airbnb-salesforce-etc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence Advisory Service Market to Witness Huge Growth by 2030 | Google, Salesforce, Intel, Fair Isaac"
     excerpt: "Artificial intelligence advisory service help companies to improve ... Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others) Get Up to 10-25% Discount on Various License ..."
     publishedDateTime: 2022-05-02T07:49:00Z

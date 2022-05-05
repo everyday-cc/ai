@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T13:31:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272540485/onesoft-reports-results-of-agsm-and-grant-of-stock-options"
 webUrl: "https://www.bignewsnetwork.com/news/272540485/onesoft-reports-results-of-agsm-and-grant-of-stock-options"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Big News Network.com

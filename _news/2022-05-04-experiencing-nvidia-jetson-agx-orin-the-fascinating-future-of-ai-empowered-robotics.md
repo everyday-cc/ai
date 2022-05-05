@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/"
 type: article
 quality: 114
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet Nvidia's Huge H100 Chip That's Powering Tomorrow's AI"
+    excerpt: "Exclusive: The new chip helps cement Nvidia's lead in technology that's revolutionizing computing challenges like language and self-driving cars."
+    publishedDateTime: 2022-05-05T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 106
+    images:
+      - url: "https://www.cnet.com/a/img/resize/65f9eefdcf0ad8ce01d670618abb267863d6977f/2022/05/04/82b87660-6f44-46d8-b887-3097b1e32a95/20220429-nvidia-h100-hopper-ai-gpu-03.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NVIDIA Jetson AGX Orin Dev-Kit Eval: Inside An AI Robot Brain"
     excerpt: "NVIDIA Jetson AGX Orin: AI And Robotics Developer For All NVIDIA ... 20.04 preinstalled right out of the box, so the initial startup sequence will be familiar to Ubuntu veterans."
     publishedDateTime: 2022-05-03T17:10:00Z

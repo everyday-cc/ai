@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T10:00:00Z
 originalUrl: "https://www.infoworld.com/article/3658909/making-ai-accountable-blockchain-governance-and-auditability.html"
 webUrl: "https://www.infoworld.com/article/3658909/making-ai-accountable-blockchain-governance-and-auditability.html"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: InfoWorld

@@ -51,6 +51,15 @@ related:
         width: 1500
         height: 700
         isCached: true
+  - title: "SOLOMON 3D Introduces Robust Vision Solution “META-aivi”"
+    excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that"
+    publishedDateTime: 2022-05-05T12:45:00Z
+    webUrl: "https://enterprisetalk.com/news/solomon-3d-introduces-robust-vision-solution-meta-aivi/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 19
 
 secured: "6fYkak/ap3kIKveKighDCyeeGemXpZuFbCdDyOUBeRVzpG2lVWxWgmubaSDD4sJBlAK/o8zqjWmrr1JxpPPVWoJgm90cjqAZBxazM9nXCuJGiyNOjY2fOTvv51USq7dVc2W2mjlUf7Ozh4/yA49aCIEPkVVy7rZKXf2NEurWhHjn14aG3bxoibfLEmvFmFLsQuCtqQA/7ac3Gv4/9jqWD/jJyenOOKjpZH66IjCtB65q6CanILxxAX3FbKcZGRlh/WRSZTzXsuKDM0+5LJ5qPnejuGN+KsuK+0dOZsMG0Cfb5QLN1SK7hSsNTTnxwKzQWmxrA7Nr2wUIJbwLYO6gbmuphtFSxWMgcusIefAteGk=;1g7ZNGUKr+YWD5pbN5/8DA=="
 ---

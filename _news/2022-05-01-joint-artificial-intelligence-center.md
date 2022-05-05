@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "15 Exciting Ways To Leverage Artificial Intelligence In Marketing And Advertising"
+    excerpt: "In the world of marketing and advertising, the applications for AI are virtually endless—brands come up with new ideas and innovative ways to leverage it every day."
+    publishedDateTime: 2022-05-05T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
   - title: "Getting comfortable with AI ethics"
     excerpt: "Which is probably just as well: how we as humans are going to interact with AI as it develops is one of the questions of our time. So how do we get people to engage with these uncomfortable conversations?"
     publishedDateTime: 2022-05-05T10:28:00Z

@@ -340,7 +340,7 @@
     {
       "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
       "title": "Pittsburgh Welcomes Plus One Robotics",
-      "excerpt": "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ...",
+      "excerpt": "As the company grows its footprint, Pittsburgh’s expanding robotics ecosystem offers robust opportunities for market growth, recruitment and partnerships with universities. The company, which uses artificial intelligence and 3D vision to automate robots ...",
       "sourceUrl": null,
       "webUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
       "originalUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
@@ -376,9 +376,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

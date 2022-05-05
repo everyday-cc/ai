@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T12:34:00Z
 originalUrl: "https://www.zdnet.com/article/get-fast-and-easy-ai-powered-content-creation-for-40-with-autowriterpro/"
 webUrl: "https://www.zdnet.com/article/get-fast-and-easy-ai-powered-content-creation-for-40-with-autowriterpro/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: ZDNet

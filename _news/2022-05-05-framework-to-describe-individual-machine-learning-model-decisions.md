@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T12:33:00Z
 originalUrl: "https://techxplore.com/news/2022-05-framework-individual-machine-learning-decisions.html"
 webUrl: "https://techxplore.com/news/2022-05-framework-individual-machine-learning-decisions.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: techxplore

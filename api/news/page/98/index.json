@@ -2,6 +2,111 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-02-09-2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine.md",
+      "title": "2022 Healthcare trends will be driven by AI, wearables and virtual medicine",
+      "excerpt": "Tech like AI, advanced telehealth systems and remote devices will be change healthcare for physicians and patients alike in the coming year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/",
+      "originalUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/02/AdobeStock_476627816.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/amp/",
+      "publishedDateTime": "2022-02-08T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-deloitte-expands-converge-platform-to-consumer-and-financial-services-markets.md",
+      "title": "Deloitte expands Converge platform to consumer and financial services markets",
+      "excerpt": "Building on this growth, Deloitte today announced Converge by Deloitte, which brings ConvergeHealth to the consumer and financial services ... presented by AI and machine learning, as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/08/deloitte-expands-converge-platform-to-consumer-and-financial-services-markets/",
+      "originalUrl": "https://venturebeat.com/2022/02/08/deloitte-expands-converge-platform-to-consumer-and-financial-services-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/08/deloitte-expands-converge-platform-to-consumer-and-financial-services-markets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/08/deloitte-expands-converge-platform-to-consumer-and-financial-services-markets/amp/",
+      "publishedDateTime": "2022-02-08T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-irs-does-an-about-face-on-facial-recognition-plans.md",
       "title": "IRS does an about-face on facial recognition plans",
       "excerpt": "The IRS is abandoning plans to require facial recognition to authenticate online access following criticism from politicians, privacy advocates, and tech experts, forcing the agency to look at",
@@ -1056,91 +1161,6 @@
         "Natural Language Processing",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report.md",
-      "title": "Apple buys artificial intelligence music startup for undisclosed sum: report",
-      "excerpt": "Apple (NASDAQ:AAPL) has acquired a London-based startup known as AI Music to help generate customized music, Bloomberg reports. According to the news outlet, Apple could use the technology to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
-      "originalUrl": "https://seekingalpha.com/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1048245156/image_1048245156.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3797106-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report",
-      "publishedDateTime": "2022-02-08T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-vecima-and-bluepeak-announce-industrys-first-cloud-based-distributed-access-architecture-controller-deployed-on-aws.md",
-      "title": "Vecima and Bluepeak Announce Industry's First Cloud-Based Distributed Access Architecture Controller Deployed on AWS",
-      "excerpt": "At the same time, the vast suite of AWS services, such as data lakes, artificial intelligence (AI) and machine learning (ML) services, and data and analytics creation all become native add-ons to this progressive architecture. Many cable operators are ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/vecima-and-bluepeak-announce-industrys-first-cloud-based-distributed-access-architecture-controller-deployed-on-aws",
-      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/vecima-and-bluepeak-announce-industrys-first-cloud-based-distributed-access-architecture-controller-deployed-on-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/03/businesswire2020.png",
-          "width": 596,
-          "height": 252,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

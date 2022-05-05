@@ -82,6 +82,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 56
+  - title: "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022"
+    excerpt: "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ..."
+    publishedDateTime: 2022-05-05T12:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "City official says Cleveland police have facial recognition tech. How it's being used is unclear"
     excerpt: "A Cleveland surveillance camera at the Cudell Recreation Center on the West Side. The city's Safe Smart CLE program started with the installation of cameras at the city's rec centers. Based on publicly available records and a recent comment from a ..."
     publishedDateTime: 2022-05-02T16:01:00Z
@@ -111,6 +125,20 @@ related:
       - url: "https://images.thestar.com/EuDDSHJOF_nmqiCpMx8umPgaht4=/1280x1024/smart/filters:cb(1651534260489)/https://www.thepeterboroughexaminer.com/content/dam/thestar/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs/20220502120516-627003f6a6c9640b6653e736jpeg.jpg"
         width: 1280
         height: 1024
+        isCached: true
+  - title: "'Everyone has good reason to be concerned' about facial-recognition technology"
+    excerpt: "Facial-recognition technology surveillance no-go zones should include peaceful assemblies and public spaces like streets, transit hubs and schools, says the head of the BC Freedom of Information and Privacy Association."
+    publishedDateTime: 2022-05-05T14:00:00Z
+    webUrl: "https://www.nsnews.com/highlights/facial-recognition-technology-bc-privacy-commissioner-weighs-in-5323086"
+    type: article
+    provider:
+      name: News
+      domain: nsnews.com
+    quality: 20
+    images:
+      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/contributed/facialrecognitiontechnology.jpg;w=1200;h=800;mode=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Time to talk specifics of new facial recognition legislation, Canadian privacy authorities say"
     excerpt: "Lawmakers in Canada are being urged by privacy authorities to pass new laws to protect people from the risks associated with facial recognition, while also allowing it to be used by police in certain situations. Canadian Privacy Commissioner Daniel ..."

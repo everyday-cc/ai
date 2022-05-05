@@ -702,6 +702,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-27-computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030.md",
+      "title": "Computer Vision Market Trends, Size, Industry Analysis, Top key players, Growth, Opportunities & Forecast to 2030",
+      "excerpt": "Report Ocean published the latest research report on the computer vision market. In order to comprehend a market holistically, a variety of factors must be evaluated, including demographics, business cycles,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030-2022-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-trends-size-industry-analysis-top-key-players-growth-opportunities-forecast-to-2030-2022-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-radically-human-how-ai-powered-and-new-technologies-are-shaping-our-future.md",
       "title": "Radically Human: How AI-Powered And New Technologies Are Shaping Our Future",
       "excerpt": "The latest book co-authored by Accenture CTO and futurist Paul Daugherty, Radically Human, examines the intersection between humanity and machines in the era of digital transformation and the implications it has for business and society.",
@@ -1130,40 +1173,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-space-discoveries-that-will-blow-your-mind.md",
-      "title": "Space discoveries that will blow your mind",
-      "excerpt": "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from",
-      "sourceUrl": null,
-      "webUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
-      "originalUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WJTV",
-        "domain": "wjtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

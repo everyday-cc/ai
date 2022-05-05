@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "RXn8bwdI51gF1nACeYJ3R1Ok7o5P+YbkKWNo53X007SRDvKEfKywR4fjg7lpimo8wteBLjYSgZb+zPM9MJLp1ZhW9gOKQ9JSqOJC4WeEAxNdmk6CR/pBr5+hl783MWmjoNdvnReLasKkI0iL5WIROBHhWcQ8heimvE2lreIXeIbcs9Jyy53e2w7dowPwbnSX35HbdfbKutixL0uNQZb8Hnh1MPi6/26cFwJpsRsJj49RmThb0iJY4U9HpT/FJTk6UZls58wrGhjk3KnYMevyC/26EJjOwxmHsCc0UPSYkQu9vZQWW411pxnVf26EjKtZC45GZB3NdlvaaLxUsY+Omes5MWIJ02PAV+eNWPw1Pk4=;Wf+0uqpHbUdjMKwHF9Dw0Q=="
+images:
+  - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-04/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg?h=a31d927f&itok=yIzQoqk4"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "8ODqFjVrqVsl/4dFO8Csfj0aBwBj34E2V76nFx6RIiQeoO7Q/n4+C2kb0Tf+fy32RtV/LEgfQDIc5aDndDDjc5cj7cZHrnqODeK/kcQM2uyNqO+pHiPt5ugpaTJBSvV0bA6OJ03KmR4teqypwdB6k8L4xSYrXXaG9dvb4VmiNybAMwQCJEkN8zIKiFm5jf5djxQ7Jx5o+4IedWnT8BcXlHia+1T1bNFbCz6T0nfxPe4WzHedn2u1GCL1Kn1OIE2vT4ZXKBTTsKXwFDYyqJlfTp0XuoMPR5rkc3eF4kbcN4E86i1vSXlamAIDIl5b1gmbY4+/4zw1y6KtZbwh8mPF2zhnNViveq0z/dEC4jQwydc=;ETATLIiexysjSeYeNesknA=="
 ---
 

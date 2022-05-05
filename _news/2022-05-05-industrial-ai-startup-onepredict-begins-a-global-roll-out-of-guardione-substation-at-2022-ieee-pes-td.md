@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T13:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/industrial-ai-startup-onepredict-begins-a-global-roll-out-of-guardione-substation-at-2022-ieee/article_3f844d14-100e-59c7-badd-7d5552144911.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/industrial-ai-startup-onepredict-begins-a-global-roll-out-of-guardione-substation-at-2022-ieee/article_3f844d14-100e-59c7-badd-7d5552144911.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: WFMZ-TV

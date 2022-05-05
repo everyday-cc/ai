@@ -2,6 +2,83 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-03-15-new-robot-with-heart-can-control-your-anger.md",
+      "title": "New Robot With Heart can Control Your Anger",
+      "excerpt": "A new text message mediation robot has been developed to help users control their anger ... The appointment slipped my mind. Can you wait another hour?\" The team found that OMOY was able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/new-robot-with-heart-can-control-your-anger-206092-1.htm",
+      "originalUrl": "https://www.medindia.net/news/new-robot-with-heart-can-control-your-anger-206092-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/new-robot-with-heart-can-control-your-anger-206092-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-robot-with-heart-can-control-your-anger-206092-1.htm",
+      "publishedDateTime": "2022-03-14T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-cloud-based-management-system-helps-energy-companies-with-water-efficiency.md",
+      "title": "Cloud-Based Management System Helps Energy Companies with Water Efficiency",
+      "excerpt": "An intelligent water management system is designed to improve water efficiency and sustainability for energy companies with the possibility of expanding the information across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.environmentalleader.com/2022/03/cloud-based-management-system-helps-energy-companies-with-water-efficiency/",
+      "originalUrl": "https://www.environmentalleader.com/2022/03/cloud-based-management-system-helps-energy-companies-with-water-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s30148.pcdn.co/wp-content/uploads/2022/03/water-gb9fcc0484_1920-1024x546.jpg",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Environmental Leader",
+        "domain": "environmentalleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-photo-or-the-real-thing-mice-can-inherently-recall-and-tell-them-apart.md",
       "title": "Photo or the real thing? Mice can inherently recall and tell them apart",
       "excerpt": "A picture is worth a thousand words, especially when it triggers memories of the pictured object like a vacation photo. 2D visual stimuli, such as pictures seen in print media, television or online, is often how humans acquire knowledge about real-world items.",
@@ -963,101 +1040,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars.md",
-      "title": "AI Ethics And The Riddle Underlying Criminal Accountability Of AI, Including Crimes Committed By Revered AI-Based Self-Driving Cars",
-      "excerpt": "Ethical AI is contending with whether or not AI ought to be criminally accountable, which can be illustrated via crimes potentially committed via AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62203112ed0d0bc76dc90630/0x0.jpg?format=jpg&crop=2218,1248,x0,y162,safe&fit=crop",
-          "width": 2218,
-          "height": 1248,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-the-united-states-has-fallen-behind-china-on-artificial-intelligence.md",
-      "title": "The United States Has Fallen Behind China on Artificial Intelligence",
-      "excerpt": "American officials can’t talk seriously about national security and securing the future if they’re going to continue treating civilian and military applications of AI as an afterthought.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/united-states-has-fallen-behind-china",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/united-states-has-fallen-behind-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/chinaAI_0.jpg",
-          "width": 1222,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

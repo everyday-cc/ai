@@ -23,17 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Japanese firm develops AI system to catch shrine box donation thieves"
-    excerpt: "\"We went through numerous tests to aim for creating a low-cost AI system that is also compatible with other firms' cameras,\" said Takuya Kanematsu, 44, president of the company. A shrine in Nagoya's Minato Ward is considering introducing the system after ..."
-    publishedDateTime: 2022-04-30T21:32:00Z
-    webUrl: "https://japantoday.com/category/crime/japan-firm-develops-ai-system-to-catch-shrine-box-donations-thieves?comment-order=popular"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 17
-
 secured: "Og3BHrLMOLwPv6MrvwX30k5fhTUDrd23MTGds9sDQwVzWsmXs27gOlpOCtf706beFb726/1TX/PkOkov/RCapLow0nnCZ7SdfMdOtgnJM6q3wHYJg/X5V7yqkGxErCdK+C/IvboRvonei4O+2RWALoif/YuyL8Q4qOqLdnl4Z1jU19TQ+x0GZ6eqXW7FpTZRaoqe5b1q4kB/QW/pO59I6WV4vwwSRLQHnObW5QBqMOCbpBUumon3/D+Su5xkQ+kv8FLJc8XC4kL9rDl03UkHgRtqLkOsx3Wy8h6uXagZEIa9gjQGBAgfK2GCaM9Z4aw4QsrzTXoL0Bjq+CelK+8HK8WAdoozziIDIa73TGMfBNMIsjarmFaNNzdMUPRI+zvH74ULQPT17I0meiyZtsYyNPJ8ZRZ8dHrMmnEKUOgoZGijbTS4qo4vzO5+YLnjmcsgmQIqtJcmKILOSW8jyN8QWepI2YjGYhFo0LYROsrbO3yZHhC76aMURyjfM3U5/LKtB1z4e/YUtCKIUv1mVCClGQ==;xDbBH4Aorl30DYN6xQxWGA=="
 ---
 

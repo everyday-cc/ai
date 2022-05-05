@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-26-us-bank-launches-nations-first-spanish-language-voice-assistant-for-banking.md",
+      "title": "U.S. Bank Launches Nation’s First Spanish-Language Voice Assistant for Banking",
+      "excerpt": "U.S. Bank is the first financial institution in the United States to offer an experience Spanish-speaking customers have never had before: the ability to bank via mobile app in their preferred language – just by speaking it.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-how-we-can-use-ai-to-help-achieve-sustainability-goals.md",
       "title": "How We Can Use AI To Help Achieve Sustainability Goals",
       "excerpt": "Coincidentally, in between these fascinating trips, I was asked to participate in an AI and sustainability panel at our Imagine Cup Junior 2022 girls' edition. I received the panel questions only 48 hours beforehand.",
@@ -435,24 +479,15 @@
     {
       "path": "_news/2022-04-26-philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution-for-meetings.md",
       "title": "Philips Speech Teams Up With Sembly AI to Launch a Brand-new Speech Technology Solution for Meetings",
-      "excerpt": "Speech Processing Solutions, the global leader in professional speech-to-text solutions sold under the Philips brand, has teamed up with an exciting American start-up named Sembly AI. Together they’ll unite to provide high-quality microphones and smart meeting technology.",
+      "excerpt": "Together they’ll unite to provide high-quality microphones and smart meeting technology. Sembly goes beyond simple speech recognition and offers users instant searchable meeting transcripts, highlights key discussion moments, and creates summaries.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-0b65f1e285284b51b48fad0ed417319a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-0b65f1e285284b51b48fad0ed417319a",
+      "webUrl": "https://www.valdostadailytimes.com/news/business/philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution/article_94537cff-880a-5ed6-bee0-ce877808d418.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution/article_94537cff-880a-5ed6-bee0-ce877808d418.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -460,8 +495,8 @@
       "publishedDateTime": "2022-04-26T00:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1117,48 +1152,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-untether-ai-and-co-founder-raymond-chik-honored-by-canadian-entrepreneurs-group-for-startup-of-the-year.md",
-      "title": "Untether AI and Co-Founder Raymond Chik Honored by Canadian Entrepreneurs Group for Startup of the Year",
-      "excerpt": "Untether AI co-founder Raymond Chik was honored by the Association of Chinese Canadian Entrepreneurs (ACCE) during a gala dinner hosted by the ACCE in Toronto on April 23, 2022. In 2018, Dr. Chik, Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

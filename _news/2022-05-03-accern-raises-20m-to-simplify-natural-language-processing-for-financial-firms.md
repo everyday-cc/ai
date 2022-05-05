@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-nat
 webUrl: "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Finbots.AI Raises $3M From Accel In Series A"
-    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, today announced it has raised a successful Series A round of $3 million. This round ..."
-    publishedDateTime: 2022-04-30T19:27:00Z
-    webUrl: "https://menafn.com/1104139051/FinbotsAI-Raises-3M-From-Accel-In-Series-A&source=138"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
 
 secured: "KopQxZtLjV9P8NncyKsWLwedLkrFUINuZMb/T/mCgUR0nhNa5AcE0G8N9o8clxt4iFbIhZ6XlFVhdrxGJJr7OE35hBjHmQchKR+iAkWy38amaGZUJQAl657DgJg8fZEPoyVQf7fATyesDlOpZ0LsXAcpkkooDPKRZvOareHesKLjkSv4yr1G8YdKqBO95IVuybLnxshY4Ga9dFMm4FgrIBVLs8A10CkkDylRxGO4hOcLkD6EcjI5qQBURk8nLSUs1f8zHiEL0UhJ2EgE5BI5Mr/9AFTxMkFcoWBL6pv8R0S7TL862e1saiL1VgalLvyBkc8FpI5ebhVLBmPBiFO+05isV6keHzGQjl7ctR/XXMM/RD/n1gL6EX4sxAyMLi+PLTJ0vOXYA2ztwHJ8rAy1dvjn2G8bdnNzdfw1SFXCpkMwdyUgzA8f0IDE0zO8BMsAHueVZzl7YfvuS7OgA+2CYtrpbO4rrZq6EcSANRipRO7luBHIe+ogW3OpIdznLDDDvSsNKMZqOJRsJIU9Qy2pnw==;gqjz6OnwyMgrnVK9iF1WOQ=="
 ---

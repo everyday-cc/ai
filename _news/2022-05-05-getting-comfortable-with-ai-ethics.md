@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "15 Exciting Ways To Leverage Artificial Intelligence In Marketing And Advertising"
+    excerpt: "In the world of marketing and advertising, the applications for AI are virtually endless—brands come up with new ideas and innovative ways to leverage it every day."
+    publishedDateTime: 2022-05-05T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
   - title: "JOINT ARTIFICIAL INTELLIGENCE CENTER"
     excerpt: "Prior to joining the CIA, Mulchandani most recently served as the CTO and Acting Director of DoD's Joint Artificial Intelligence Center. He also co-founded and was CEO of several successful startups- Oblix (acquired by Oracle), Determina (acquired by ..."
     publishedDateTime: 2022-05-01T15:34:00Z

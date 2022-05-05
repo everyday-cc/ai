@@ -34,6 +34,15 @@ related:
         width: 741
         height: 371
         isCached: true
+  - title: "Southwest Airlines is using AI to help attract and retain its customers"
+    excerpt: "CEO Bob Jordan says AI is important \"not because it's hot\" but because \"it can have a business impact.\""
+    publishedDateTime: 2022-05-05T13:32:00Z
+    webUrl: "https://fortune.com/videos/watch/Southwest-Airlines-is-using-AI-to-help-attract-and-retain-its-customers/2e618eb2-0f9e-44de-9ef8-6f74a547bacd"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 47
 
 secured: "pzkO9uIhIvRDXWtU95EsYe84U+OtlETv5RbbVW1jWVZZVHmtTCeDoI2C9bVgRjYI4VXlzQJiufVwqTHnz21/YG1XIzXcpYsXsVRJtvdOdC1L5Jnh+ODfxaMI1gnh/0/mqaBwnQAUM/uR/2rdgI+pxEPhyZubr+RtJpFkfuj7n8inPrSKHJqJgHHUu9AzrDBHqF1nEaXIQDg69Y8+/FMHsgGRvngukfPfbBBmwGcwwVe2gFd6w/i/4Wk122KDH95YTFGPN1GF3Hy3tlTG0bGvBZLRTzGjMyqAcuv/0G0HsaTx1J1tBjYrNp6TEhFYjEzLOm+J9CWOkS2hVBAwmdCkPFNrZdS6XYAurPZGqSe3cqY=;qT7H6Q/JWdMDm9g0YJtbJg=="
 ---

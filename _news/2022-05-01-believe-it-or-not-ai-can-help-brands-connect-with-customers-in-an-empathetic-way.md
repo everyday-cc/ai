@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-can-help-brands-connect-with-custom
 webUrl: "https://thenextweb.com/news/ai-can-help-brands-connect-with-customers-empathetic-way"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Southwest Airlines is using AI to help attract and retain its customers"
+    excerpt: "CEO Bob Jordan says AI is important \"not because it's hot\" but because \"it can have a business impact.\""
+    publishedDateTime: 2022-05-05T13:32:00Z
+    webUrl: "https://fortune.com/videos/watch/Southwest-Airlines-is-using-AI-to-help-attract-and-retain-its-customers/2e618eb2-0f9e-44de-9ef8-6f74a547bacd"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 47
   - title: "How Artificial Intelligence Can Help Fight Fires in the West"
     excerpt: "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, Colo., is tapping decades of experience of managing satellites, exploring ..."
     publishedDateTime: 2022-05-03T20:54:00Z

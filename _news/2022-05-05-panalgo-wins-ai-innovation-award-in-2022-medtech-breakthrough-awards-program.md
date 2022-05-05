@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T12:37:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program-1031425626"
 webUrl: "https://markets.businessinsider.com/news/stocks/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program-1031425626"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Business Insider

@@ -45,6 +45,22 @@ related:
         width: 1130
         height: 690
         isCached: true
+  - title: "Meet Nvidia's Huge H100 Chip That's Powering Tomorrow's AI"
+    excerpt: "Exclusive: The new chip helps cement Nvidia's lead in technology that's revolutionizing computing challenges like language and self-driving cars."
+    publishedDateTime: 2022-05-05T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 106
+    images:
+      - url: "https://www.cnet.com/a/img/resize/65f9eefdcf0ad8ce01d670618abb267863d6977f/2022/05/04/82b87660-6f44-46d8-b887-3097b1e32a95/20220429-nvidia-h100-hopper-ai-gpu-03.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Axiomtek Introduces AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform"
     excerpt: "processor and 384-core NVIDIA Volta architecture GPU, delivering up to 21 TOPS accelerated computing performance for running modern AI workloads. The advanced edge AI computing platform supports high-speed networking capability functions such as the 5G ..."
     publishedDateTime: 2022-05-03T10:51:00Z

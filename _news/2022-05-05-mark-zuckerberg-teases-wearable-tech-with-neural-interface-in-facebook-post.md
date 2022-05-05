@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T17:59:00Z
 originalUrl: "https://wtaq.com/2022/05/04/mark-zuckerberg-teases-wearable-tech-with-neural-interface-in-facebook-post/"
 webUrl: "https://wtaq.com/2022/05/04/mark-zuckerberg-teases-wearable-tech-with-neural-interface-in-facebook-post/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: WTAQ

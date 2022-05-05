@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T13:27:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/lynk-unveils-lynk-circle-to-enable-organizations-to-create-their-own-ai-driven-knowledge-networks/article_92384a90-9544-5233-bbdb-59e3005f923a.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/lynk-unveils-lynk-circle-to-enable-organizations-to-create-their-own-ai-driven-knowledge-networks/article_92384a90-9544-5233-bbdb-59e3005f923a.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Joplin Globe

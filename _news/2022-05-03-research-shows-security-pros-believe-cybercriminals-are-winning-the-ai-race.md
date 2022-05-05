@@ -19,6 +19,15 @@ topics:
   - AI in Security
 
 related:
+  - title: "15 Ways To Leverage And Supplement AI In Your Cybersecurity Efforts"
+    excerpt: "With an increasing number of companies shifting to remote and hybrid work models, cybersecurity must remain a top priority."
+    publishedDateTime: 2022-05-05T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/05/15-ways-to-leverage-and-supplement-ai-in-your-cybersecurity-efforts/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI-Powered Cybersecurity Protects Businesses from the Inside Out"
     excerpt: "Accordingly, new AI-powered cybersecurity and threat intelligence software solutions have emerged to help enterprises secure their assets at scale and keep up with the ever-changing threatscape."
     publishedDateTime: 2022-05-02T21:11:00Z
@@ -47,15 +56,6 @@ related:
         width: 6000
         height: 3750
         isCached: true
-  - title: "AI –powered intelligent security makes the Hybrid Enterprise possible"
-    excerpt: "AI-powered intelligent security makes the hybrid enterprise possible ... Researchers are looking at how the brain and AI language models respond to the same spoken or written sentences. “We’re trying to compare AI systems to the brain, ..."
-    publishedDateTime: 2022-05-03T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-powered-intelligent-security-makes-hybrid-enterprise-akintayo-joda"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 36
   - title: "W-S startup Salem Cyber, promising ‘a paradigm shift’ in cybersecurity, raises $250K seed round"
     excerpt: "WINSTON-SALEM – The Winston-Salem-based cybersecurity startup Salem Cyber has closed ... Salem Cyber’s product, Salem, is best thought of as an AI cybersecurity analyst, according to the ..."
     publishedDateTime: 2022-05-03T18:31:00Z

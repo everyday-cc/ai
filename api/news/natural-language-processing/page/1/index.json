@@ -202,7 +202,7 @@
       "originalUrl": "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -764,24 +764,15 @@
     {
       "path": "_news/2022-04-26-philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution-for-meetings.md",
       "title": "Philips Speech Teams Up With Sembly AI to Launch a Brand-new Speech Technology Solution for Meetings",
-      "excerpt": "Speech Processing Solutions, the global leader in professional speech-to-text solutions sold under the Philips brand, has teamed up with an exciting American start-up named Sembly AI. Together they’ll unite to provide high-quality microphones and smart meeting technology.",
+      "excerpt": "Together they’ll unite to provide high-quality microphones and smart meeting technology. Sembly goes beyond simple speech recognition and offers users instant searchable meeting transcripts, highlights key discussion moments, and creates summaries.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-0b65f1e285284b51b48fad0ed417319a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-0b65f1e285284b51b48fad0ed417319a",
+      "webUrl": "https://www.valdostadailytimes.com/news/business/philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution/article_94537cff-880a-5ed6-bee0-ce877808d418.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution/article_94537cff-880a-5ed6-bee0-ce877808d418.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -789,8 +780,8 @@
       "publishedDateTime": "2022-04-26T00:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null

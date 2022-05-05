@@ -1,20 +1,23 @@
 ---
 category: news
 title: "Illumina and Deerfield Management partner to accelerate drug development"
-excerpt: "First-of-its-kind partnership will identify drug targets and accelerate novel therapy development using genomics and artificial intelligence SAN DIEGO, May 5, 2022 /PRNewswire/ -- Illumina, Inc. (NASDAQ: ILMN), a global leader in DNA sequencing and array ..."
-publishedDateTime: 2022-05-05T13:47:00Z
-originalUrl: "https://wgnradio.com/business/press-releases/cision/20220505LA47235/illumina-and-deerfield-management-partner-to-accelerate-drug-development/"
-webUrl: "https://wgnradio.com/business/press-releases/cision/20220505LA47235/illumina-and-deerfield-management-partner-to-accelerate-drug-development/"
+excerpt: "First-of-its-kind partnership will identify drug targets and accelerate novel therapy development using genomics and artificial intelligence. SAN DIEGO, May 5, 2022 /PRNewswire/ -"
+publishedDateTime: 2022-05-05T14:15:00Z
+originalUrl: "https://www.kxan.com/business/press-releases/cision/20220505LA47235/illumina-and-deerfield-management-partner-to-accelerate-drug-development/"
+webUrl: "https://www.kxan.com/business/press-releases/cision/20220505LA47235/illumina-and-deerfield-management-partner-to-accelerate-drug-development/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: KXAN
+  domain: kxan.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "dE2Ur361AxtiYpteCKnaZeNTfwVGErB9tbyU805wur38evefy7gGK43The601lcsfll5nWEcQf7u5H4srhWZqeidb4Kk7uTiIFbSxQPh4xVdzTg+HZHhr2nxHb3Ww1I7+IvSzxluRiiX9S9jn1W8R7dnEloLG53+nSaqkdckNISKMde2mpTlQLAyRM0zqfwGMAEtG4Y/3Hp8S4cKrUaps7bgIQNIEPyUeoxWUW/6CobaLANIwwka3yKShKW+NzryUL6WZlELXvMVBnW0tFg8NDBFp6WMN65xNqL8ZZlepsNUXtpCqzloFwUonbPON0QM+WTkUV1qEKeqiqUhJybD27lrVj/hxdoRiyojp7WppOBxXlmWp8nXuIdK0qEr4/xKG/vKNiu4RdN6P1g3VxZ1ADLiEyK7kDtHhFKShxkyRVOYlsJEKIuBVXdu8ZrjaHek45MN4L6ZCPAxS+rQL2VuNdYTmgagCTbJaZ3ufZGxWjRZO3IXEDP9ZsUteqRlXXBFGaP/Tcgqkv1KZUGKwXgLUA==;+zjzZvT1fM5XRNYJI5000g=="
+secured: "/75TVJnV7JdXdUOf9mQ7smjaGVB4UQ1PZc0epzNHnnJe0CDMDXJqy/dWs3ZZrsbeY0eVgxd3T7XJ/hAZS5POiLFe43vNuh4rZx39ZJp8rcLJJoEZ3HFb6zoubTsA+KfO2l3z/2lqgZzA9OqxzjYzLfWopmdpMBGADND/dsSXVKDsiu7YAXkmpt4A9gUBnqcRqrzt1YTbKbFjYHzORcm/JlUbVPO4jDgp1vInOxyohW3RR+zUQ10HteTV0rhHuIuZMvvq2KIasoa5qW3Wa7aX5Hd8HbeaV0xxFj861Q/6Oqmb0Lo1AUaU4x2QpAQ+rAU3Lo9r3qXOTDy6DFOsbP0f3AMn4hQqMJkoS3edTBJW+fYwZ67+swGfTDIJre8iIHVIlWySqB0xkoBPJ3gFObq17RBXsC3UJpitR362Rn3ValX1wn+QTJfP3Fvf8AYW6A/nJh2lCtFJDmmfxgFeUKqJkQ9tPGRNGZtgXJGWnGoT4g9djPAgUmJ42uUyiVJEkP1kT6YD1RqlSiGiKnhZXK3FGg==;7JIh2zrQA7GWX47dMWAVaw=="
 ---
 

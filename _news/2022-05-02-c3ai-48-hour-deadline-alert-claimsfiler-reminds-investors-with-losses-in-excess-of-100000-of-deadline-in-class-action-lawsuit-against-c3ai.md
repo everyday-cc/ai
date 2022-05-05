@@ -38,22 +38,6 @@ related:
         width: 300
         height: 350
         isCached: true
-  - title: "DEADLINE THIS TUESDAY: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AI"
-    excerpt: "Please visit http://www.rgrdlaw.com for more information. (PRNewsFoto/Robbins Geller Rudman & Dowd LLP)\"> The C3.ai class action lawsuit alleges that the IPO's offering documents were negligently prepared and, as a result, contained untrue statements of ..."
-    publishedDateTime: 2022-04-30T22:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26919198/deadline-this-tuesday-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26919198"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26919198"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "The Law Offices of Frank R. Cruz Reminds Investors of Looming Deadline in the Class Action Lawsuit Against C3.ai, Inc. (AI)"
     excerpt: "The Law Offices of Frank R. Cruz reminds investors of the upcoming May 3, 2022 deadline to file a lead plaintiff motion in the class action filed on behalf of investors of C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) who purchased or otherwise ..."
     publishedDateTime: 2022-05-02T16:46:00Z
@@ -95,20 +79,6 @@ related:
       - url: "https://i0.wp.com/www.mypanhandle.com/wp-content/uploads/sites/88/2022/04/DeSantisAP22055692316089.jpg?w=2000&#038;ssl=1"
         width: 1024
         height: 576
-        isCached: true
-  - title: "AI Shareholder Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Shareholders of C3.ai, Inc. of Deadline in Securities Fraud Class Action Lawsuit"
-    excerpt: "Kessler Topaz is one of the world’s foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
-    publishedDateTime: 2022-04-30T20:00:00Z
-    webUrl: "https://www.nbc4i.com/business/press-releases/globenewswire/8532374/ai-shareholder-reminder-kessler-topaz-meltzer-check-llp-reminds-shareholders-of-c3-ai-inc-of-deadline-in-securities-fraud-class-action-lawsuit/"
-    type: article
-    provider:
-      name: NBC4i
-      domain: nbc4i.com
-    quality: 0
-    images:
-      - url: "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/05/Ronald-McDonald-House.jpg?w=2000&#038;ssl=1"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "xJBH9Hcj8s5+6Y6SMVkTLWT188awiB/qNIWgsaYVW+L1V7OtJf8GKtPU+DiNySopm58aoZbkyxXX6F2jTQ3S0jC1W60Qpu/fePeApUyOv0KwNOWGr+GRQYvQGmV4mfknlKqSePn1bLxlJrPKfbwaYrRbisPHwYaeWVUD/wrZXyG2/3RP7Gu2imtdeaY7htgjUf3+sLyiUOoVhYs6NRya3OV7FqWAE219cdv+z7jUqrdOYIZYxkxNwF3JS0SgTDfDgiJFW8GZtHmuuRFmI2kMVdEBN8vgijOinIkqgenTF+DW4xvLJVGyEhAzgMW/Bp8sYI6T46yciCBh5Sk1XjCNSzPFrd8wN61B0JXGxT63+so=;i66+SXLs1rY5PbSCxuuakA=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T13:06:00Z
 originalUrl: "https://www.law.com/legaltechnews/2022/05/05/contract-review-startup-termscout-raises-5-million-in-seed-funding/"
 webUrl: "https://www.law.com/legaltechnews/2022/05/05/contract-review-startup-termscout-raises-5-million-in-seed-funding/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Law
