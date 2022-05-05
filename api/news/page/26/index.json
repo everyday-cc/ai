@@ -2,6 +2,48 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-04-11-artificial-intelligence-may-help-trainee-teachers-with-assessments-study.md",
+      "title": "Artificial intelligence may help trainee teachers with assessments – study",
+      "excerpt": "Artificial intelligence (AI) could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, a study suggests. Researchers said it could be an “effective substitute” when personal feedback is not readily available.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
+      "originalUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kentonline.co.uk/_media/img/PNXUYCBHBEQ1IKRA6CE8.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
+      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
+      "publishedDateTime": "2022-04-10T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kent Online",
+        "domain": "kentonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-this-bengaluru-based-ai-enabled-startup-helps-identify-and-remove-fake-users.md",
       "title": "This Bengaluru-based AI-enabled startup helps identify and remove fake users",
       "excerpt": "Founded in 2017, TrustCheckr is an AI-enabled tool that helps identify and remove fake users. The startup has a proprietary algorithm tested on 1 million+ data points and used in AI and ML in ...",
@@ -1139,40 +1181,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy.md",
-      "title": "3 Chinese Stocks to Buy on the Dip Amid China Triple Whammy",
-      "excerpt": "However, revenue from non-core businesses, including AI, Baidu Cloud and self-driving cars, soared 63% YOY, compensating for the decline in its advertising business. BIDU stock is down 38% over ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy",
-      "originalUrl": "https://www.nasdaq.com/articles/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy?amp",
-      "publishedDateTime": "2022-04-08T18:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

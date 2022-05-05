@@ -1,28 +1,22 @@
 ---
 category: news
 title: "New UTS Master of Artificial Intelligence prepares students for future Industry 5.0"
-excerpt: "SYDNEY, May 5, 2022 /PRNewswire/ --The University of Technology Sydney (UTS) has this week announced the launch of two postgraduate courses in artificial intelligence (AI). The Master of Artificial Intelligence at the University of Technology Sydney will ..."
-publishedDateTime: 2022-05-05T00:00:00Z
-originalUrl: "https://www.asiaone.com/business/new-uts-master-artificial-intelligence-prepares-students-future-industry-50"
-webUrl: "https://www.asiaone.com/business/new-uts-master-artificial-intelligence-prepares-students-future-industry-50"
+excerpt: "SYDNEY, May 5, 2022 /PRNewswire/ --The University of Technology Sydney (UTS) has this week announced the launch of two postgraduate courses in artificial intelligence (AI). These courses are ..."
+publishedDateTime: 2022-05-05T03:41:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1251388&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1251388&cat=PR News Wire"
 type: article
-quality: 31
-heat: 31
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/AdobeStock_250767988__1.jpg?h=4c0e7fb6&itok=7AYMLl6u"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "PxGrEVNfu33zfzvjFoXUq2l/LNXHxtDsql0uKWuW15XPJp5ghbZIw3VjAjAcmx1tRnGQRV+ZwD6RXPgG2NqSGCnc3IFWUVj+nx4iYZdJgsJHRvHsn/mefzvvrDKshq/+MhihgJto0zZ7AAvIDtmgGK9F7Ow4hlAdvi5G/ZsMlldYRBmuG1dITemDfs+eUusfPaUksZDE4/sDeL+5V4fYVkRTPgt8Rm2BNkuOvpSTXdVgZitZrOtyYKTZccJNMNwkBWas72UQBDleCUlj5lYKKgGFn36U36WLIeEZ8qsQ1NBS/cpOinHhxbUiOSRZI3NzAv+RHRQemdRZQMJXN6K3XbtL9N1gRQjmC+nO9mbp8Gc=;+HIgwfgp+921Fe70Vcs5NA=="
+secured: "CGx+pTA/s+fdVcsl3XoWWdysgTqs0fQuxKqPEZ+TAKxdYoNZeTFyaN426K3uLqTeBwb4i+GZP5nP65KQp5NGddoUtR4a7REs2cKybOGdADJU+1M1fe5DriTJz+dL9+OZvXAPf8LYXq+eE2IBxyLz6j7toK8E4A/bwqzGByUYmRYmQfDxk++/ePhTUYMMXY9UexTSuUCFWOSWjx+LTNlPww7nrqYwle3kawvjVY6aG0UrOIaVkJ8owTTYkSfbId57z4CI2+EXBA1AAzXq8bcJGS2zbErksqb81AA8cIJzrHk1Z7iJVlXkp6QmyuKFzotF58FKz05tVz7BA+EYoTeYZnWU7k+1oxSvZTSQ0BKG28kLn5+wErSKjOkdjwzr0vOIthKH6bu9SJ3o1ypTYxPc/jSDCp6ZrsTO8VNsFkN7TDbhRkmHHyw6ZfqHgVlSL3ffhKg1X516s2t9hm6E7qlKjniHKo94QHIh+9qd+EvM7lsDR5g9zekKClljTCoBAw5t3BNvwUjHnfkSs3ntLVozlw==;BJUku1sBuc4xCWHydXUQGg=="
 ---
 

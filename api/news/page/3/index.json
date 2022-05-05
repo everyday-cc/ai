@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-03-accern-raises-20m-to-simplify-natural-language-processing-for-financial-firms.md",
+      "title": "Accern raises $20M to simplify natural language processing for financial firms",
+      "excerpt": "Accern Corp., a natural language processing startup focused on the financial services sector, today announced that it has closed a $20 million funding round co-led by Mighty Capital and Fusion Fund.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/",
+      "originalUrl": "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/accern-1.png",
+          "width": 1061,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-google-fires-another-ai-researcher-for-questioning-findings.md",
       "title": "Google Fires Another AI Researcher For Questioning Findings",
       "excerpt": "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ...",
@@ -566,13 +609,13 @@
     {
       "path": "_news/2022-05-02-financial-technology-firms-tap-ai-to-reach-more-borrowers.md",
       "title": "Financial-Technology Firms Tap AI to Reach More Borrowers",
-      "excerpt": "With an uptick in consumer lending, financial-technology companies see a chance to grow by filling gaps for underserved borrowers, online lenders and industry analysts say. Rather than relying on traditional credit scores, many fintech lenders are feeding ...",
+      "excerpt": "Nearly every big fintech company has to rely on bank partners for regulated tasks such as holding customers’ deposits and issuing debit cards. LoanSnap Inc., a five-year-old startup based in San Francisco, uses AI to scan financial information such as a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
-      "originalUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
+      "webUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -586,8 +629,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-02T01:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -611,6 +654,7 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1140,49 +1184,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking.md",
-      "title": "AI, ML, & Cybersecurity: Here’s What FDA May Soon Be Asking",
-      "excerpt": "These include Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan, published in January 2021; Good Machine Learning Practice for Medical Device Development: Guiding Principles, published in October 2021 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking",
-      "originalUrl": "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/AI-ML-Cybersecurity-RNG74N.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

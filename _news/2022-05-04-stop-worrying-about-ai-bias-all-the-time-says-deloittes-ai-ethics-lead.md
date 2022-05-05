@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-26572
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-03-15-whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist.md",
+      "title": "What's on Your Artificial Intelligence Compliance, Privacy and Ethics Checklist?",
+      "excerpt": "CIO Anthony McMahon of Target State Consulting suggests in a recent #CIOChat on Twitter that ethical and privacy issues are not unique to artificial intelligence (AI). “Every decision on how to use data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
+      "originalUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/ebd30967e58445b583d6aaf1a1c58b13.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
+      "publishedDateTime": "2022-03-15T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-running-ai-workloads-is-coming-to-a-virtual-machine-near-you-powered-by-gpus-and-kubernetes.md",
       "title": "Running AI workloads is coming to a virtual machine near you, powered by GPUs and Kubernetes",
       "excerpt": "Run:AI's main technical achievements go by the names of fractional GPU sharing, thin GPU provisioning, and job swapping. Fractional GPU sharing enables running many containers on a single GPU ...",
@@ -1106,49 +1149,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-techforceai-raises-15-million-seed-funding.md",
-      "title": "Techforce.ai Raises $1.5 Million Seed Funding",
-      "excerpt": "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

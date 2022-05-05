@@ -35,6 +35,15 @@ related:
       name: PCQuest
       domain: pcquest.com
     quality: 37
+  - title: "Chinese self-driving company licensed to provide taxi service"
+    excerpt: "Pony.ai, a self-driving start-up in the southern city of Guangzhou ... Along with Chinese tech giant Baidu, it was among the first companies nationwide permitted to launch such pilot services."
+    publishedDateTime: 2022-05-05T02:38:00Z
+    webUrl: "https://ukranews.com/en/news/852744-chinese-self-driving-company-licensed-to-provide-taxi-service"
+    type: article
+    provider:
+      name: Новости Украины
+      domain: ukranews.com
+    quality: 4
 
 secured: "4mYzQRwnJaETWPF1prbVaZ3HC0SnEiKgfhUWtDEj3L58z7iT000VEedvPzqLgQ+AX+XAtlHpm0IGweFUGyOV08c+lsbmqLPFLz4Que2pmQD1xXm4DTeQmgqYJ/JYaz/lZE+6a/nvVKk/gsBDNJqatZoQuANxkLNzV4GhDReyVIPwLMN+67OrFFLn7YHK2vsbIoe1m7d4V2r7rujRw1+W0ZhCoWdJH0jpVsFsaFcIy/GnoL/NR/qz8+T0N76qGB/IhQxoIxOxd3SgwaYNEUDFl9FMyVUMk+lYdnonZNOJcz/DcGMnQ9h/E+yeEIAp0TrQoz8A50bRFoS3JafDG6fBtVHKBCg/wGO+3GOCsDiPRy8=;k0ED3bK3XYHgvSJUflx08A=="
 ---

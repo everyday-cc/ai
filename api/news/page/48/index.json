@@ -2,6 +2,58 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-03-23-cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims.md",
+      "title": "Cloud migration for medical imaging data using Azure Health Data Services and IMS",
+      "excerpt": "This blog is part of a series in collaboration with our partners and customers leveraging the newly announced Azure Health Data Services. Azure Health Data Services, a platform as a service (PaaS) offering designed exclusively to support Protected Health Information (PHI) in the cloud, is a new way of",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
+      "originalUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/787e5f5b-7eca-4ebb-9a78-ff529f3e28ce.png",
+          "width": 640,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T03:00:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai.md",
       "title": "Trustworthy AI: How to ensure trust and ethics in AI",
       "excerpt": "AI we can trust. Oftentimes discussions about ethics and trust in AI have a very narrow focus, limited to fairness and bias, which can be frustrating as a professional in the indu",
@@ -1123,58 +1175,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws.md",
-      "title": "How Amazon Search achieves low-latency, high-throughput T5 inference with NVIDIA Triton on AWS",
-      "excerpt": "Amazon Search’s vision is to enable customers to search effortlessly. Our spelling correction helps you find what you want even if you don’t know the exact spelling of the intended words. In the past, we used classical machine learning (ML) algorithms with manual feature engineering for spelling correction.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/21/ML-8065-image001-feature.png",
-          "width": 612,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T09:47:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

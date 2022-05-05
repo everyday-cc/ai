@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

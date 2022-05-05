@@ -2,6 +2,57 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-04-05-overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence.md",
+      "title": "Overwatch raises $11M for airborne imaging systems with built-in artificial intelligence",
+      "excerpt": "I look forward to working closely with them as we quickly scale our company to support the brave men and women worldwide who rely on intelligence from our systems.” Squandra Ventures managing partner Guy Filippelli and Shield Capital managing partner Raj ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/",
+      "originalUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e-BjvA1zBV8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-04-05T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat.md",
       "title": "Outdoor and Dock Exhibitors Offer Whatever Floats Your Boat",
       "excerpt": "From a Stiletto to a Rekognition Video Analyzer, outdoor and dock exhibitors are giving Sea-Air-Space attendees the opportunity to check out cutting-edge defense technology. The carbon-fiber, 88-foot M-80 Stiletto is a floating platform devoted to",
@@ -1058,58 +1109,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist.md",
-      "title": "‘Mind-blowing’: Ai-Da becomes first robot to paint like an artist",
-      "excerpt": "AI algorithms prompt robot to interrogate, select, decision-make to create a painting",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "originalUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d667f757ead9e72c5c0bb09a2c27e5ce1dff6a67/0_186_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=7763a33c2cde2b46bef7294ee12e40f8",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "publishedDateTime": "2022-04-04T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

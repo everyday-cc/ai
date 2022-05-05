@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-04-how-to-stop-losing-employees-and-start-winning-the-war-for-talent.md",
+      "title": "How To Stop Losing Employees And Start Winning The War For Talent",
+      "excerpt": "But in 2020, the nature of work fundamentally changed. In a digital workplace, companies keep employees engaged with their AI — not their HQ. We went from the physical HQ being the heart of the company, to a digital workplace that dictated the entire ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/",
+      "originalUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627001947b0091949a29d4e8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/amp/",
+      "publishedDateTime": "2022-05-03T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-ai-enhanced-smart-interviewing-platform-barraiser-finalizes-42m-seed-round.md",
       "title": "AI enhanced Smart Interviewing Platform BarRaiser Finalizes $4.2M Seed Round",
       "excerpt": "BarRaiser, which claims to be a “groundbreaking” AI-enhanced smart interviewing platform, has announced that it acquired $4.2 million in seed financing. The firm’s investment round was “led by 021 Capital and Global Founders Capital, with ...",
@@ -1168,49 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-accern-raises-20m-to-simplify-natural-language-processing-for-financial-firms.md",
-      "title": "Accern raises $20M to simplify natural language processing for financial firms",
-      "excerpt": "Accern Corp., a natural language processing startup focused on the financial services sector, today announced that it has closed a $20 million funding round co-led by Mighty Capital and Fusion Fund.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/",
-      "originalUrl": "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/accern-1.png",
-          "width": 1061,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

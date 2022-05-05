@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-04-22-taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing.md",
+      "title": "Taiwan Unicorn Appier Bets On AI-Driven Software For Digital Marketing",
+      "excerpt": "Academics-turned-entrepreneurs Yu Chih-han and Winnie Lee led Appier to become Taiwan’s first listed unicorn. Now they're betting on global demand for the marketing firm’s AI insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62610776ca5e4f77243c3a02/0x0.jpg?format=jpg&crop=2359,1328,x0,y141,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies.md",
       "title": "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies",
       "excerpt": "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,",
@@ -1110,58 +1162,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027.md",
-      "title": "Global AI in Computer Vision Market Future Demand, Top Leading Players, Competitive Situation, Emerging Trends, And Forecast To 2027",
-      "excerpt": "Apr 21, 2022 (Heraldkeepers) -- Global AI in Computer Vision Market: is expected to reach US$ 77.78 Bn by 2027 from US$ 15.6 Bn in 2020 at a CAGR of 25.8% during the forecast period of 2021-2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -34,6 +34,15 @@ related:
         width: 1330
         height: 888
         isCached: true
+  - title: "Chinese self-driving company licensed to provide taxi service"
+    excerpt: "Pony.ai, a self-driving start-up in the southern city of Guangzhou ... Along with Chinese tech giant Baidu, it was among the first companies nationwide permitted to launch such pilot services."
+    publishedDateTime: 2022-05-05T02:38:00Z
+    webUrl: "https://ukranews.com/en/news/852744-chinese-self-driving-company-licensed-to-provide-taxi-service"
+    type: article
+    provider:
+      name: Новости Украины
+      domain: ukranews.com
+    quality: 4
 
 secured: "C5raCqmgmnpq9jTbEc2U9mw3Ph9Ioib5OnAVf6iq+OK3otiyQ8YkbYO+LTuH/XvmRIrXZKJD/0qewS36k5aACsMt24tN+CajqZ0gKcmvmJ9CdjboND0VIBJ+WE6ESm1xr/Rc4HIM+E22gQFP6LCXJoJlybLmgwutcTQ3BSdoOnn2c0mqycSuCHZuXmFdjpp/N8kecv16cAWhHJpdYTe9utIAdqHE1mjvebo1VGDOZ/n2SUkE5L7oNukfla2+d8jCLk04/ULLTLdsNxGiKTNg9NSir+EJBEn7K/X78x/BUZoFl7cwxwhS5VnfOcqXHTP/3rCZU78qwVeVh1pRH8W/6TrGP127grKfGyBMCrLY+LFQ2INtLVSm81nYYIox0tUDTGqM1ctny0o+mQlgVXS3DfJq8OyC4GedViFBrsQoxA7rkmqZG9f3I68Ms81w4MhDgho6d9Pg09vufXGaWSV/zAE+2W32UfNDZgH/ViMZ8a/ez4dcvCYnkunL/76+WXyGEgRmybu/ZcRhXOg9AMorWw==;i+n+hatHtXl00Dcu11U5LA=="
 ---

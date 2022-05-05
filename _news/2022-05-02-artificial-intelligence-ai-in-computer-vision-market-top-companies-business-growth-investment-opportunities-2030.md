@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-co
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-computer-vision-market-top-companies-business-growth-investment-opportunities-2030"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,43 @@ images:
     isCached: true
 
 related:
+  - title: "Global AI based Edge Computing Chip Market 2022: Overview, Manufacturing Cost Structure Analysis, Growth Opportunities"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 04, 2022 (The Expresswire) -- “AI based Edge Computing Chip Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis ..."
+    publishedDateTime: 2022-05-04T08:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities-2022-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Wearable AI Market: Building-up The Next Layer of Development with IoT and Machine Learning"
+    excerpt: "An increase demand for wearable AI is projected to witness significant growth during the course of forecast period from 2018 to 2026. The growing partnership and collaboration for bringing AI functionalities to wearable devices providing new developments ..."
+    publishedDateTime: 2022-05-04T09:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/wearable-ai-market-building-up-the-next-layer-of-development-with-iot-and-machine-learning"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 44
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Medical Robotics Market Report 2022: Breakdown by"
+    excerpt: "In 2020, the number was still rising. Robots, drones, and artificial intelligence have all gained popularity due to the new coronavirus. The global epidemic of COVID-19 has consequences for the robotics industry. It promoted the development of professional ..."
+    publishedDateTime: 2022-05-04T11:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-medical-robotics-market-report-2022-breakdown-surgical-/2022/05/04/9595090.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "AI in Computer Vision Market Research Status, Business Growth Analysis by Top Countries Data and Segments Insights 2021 – 2030"
     excerpt: "The market study incorporates an in-depth analysis of the AI in Computer Vision Market based on the key parameters that take in the drives, sales inquiry, market extents & share. Moreover ..."
     publishedDateTime: 2022-05-02T11:46:00Z
@@ -38,6 +75,59 @@ related:
       - url: "https://amarketplaceresearch.com/wp-content/uploads/2022/05/AI-in-Computer-Vision-Market.jpeg"
         width: 790
         height: 466
+        isCached: true
+  - title: "Artificial Intelligence in Agriculture Market – Global Industry Analysis, Growth, Trends by 2030"
+    excerpt: "The COVID-19 pandemic is expected to moderately impact the global artificial intelligence in agriculture market for a short-term period. The level of investment with regards to AI in agriculture has been reduced due to the lockdown in almost every region ..."
+    publishedDateTime: 2022-05-04T11:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-agriculture-market-global-industry-analysis-growth-trends-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Speech-to-text API Market to 2027 - Size, Share & Industry Trends Analysis Report - ResearchAndMarkets.com"
+    excerpt: "is a programming interface that enables the utilization of speech synthesis and recognition in a variety of devices and applications. Speech-to-text API is a multidisciplinary subject of computational linguistics that explores methods that allow computers ..."
+    publishedDateTime: 2022-05-04T16:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/b26996607/global-speech-to-text-api-market-to-2027-size-share-industry-trends-analysis-report-researchandmar"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26996607"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26996607"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Medical Artificial Intelligence Market, Global Outlook and Forecast 2022-2028"
+    excerpt: "The global key manufacturers of Medical Artificial Intelligence include Ali Health, Ping An Healthcare And Technology Company Limited., Tencent, Tianjin Happy Life Technology Co., Ltd., WeDoctor, Beijing Dongruan Wanghai Technology Co., Ltd., Unisound AI ..."
+    publishedDateTime: 2022-04-30T13:20:00Z
+    webUrl: "https://galleonnews.com/uncategorized/255559/medical-artificial-intelligence-market-global-outlook-and-forecast-2022-2028/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 16
+  - title: "Rising Demand from Industry 4.0 Applications Driving Global Machine Condition Monitoring Market"
+    excerpt: "Industry 4.0 with new technologies like machine learning, artificial intelligence and IoT. Machine condition monitoring is the process of monitoring a particular condition in machinery (such as vibration, temperature, etc.) to identify changes that could ..."
+    publishedDateTime: 2022-05-02T11:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/rising-demand-from-industry-4-0-applications-driving-global-machine-condition-monitoring-market"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 12
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cd9543b3ef41b34c81c8ea127008874018421dea-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "AI in Infrastructure Market Analysis Size, Share, Growth, Demand, Outlook By- Trends, Opportunities, Challenges, And Investment Feasibility 2029"
     excerpt: "The new study report titled “Ai In Infrastructure Market” comprises a thorough coverage and essential advancements in the market based on analysis conducted by our research analysts. The information was developed with a fantastic combination of ..."
@@ -53,15 +143,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI in Medical Hygiene Market 2022 Innovation, Business Strategy, Future Technology, Application, Top Key Companies Analysis to 2028"
-    excerpt: "Intelligence Market Report Publish New Research Report On-“AI in Medical Hygiene 2022 Market Analysis by Key Players, Applications, Growth Trends, Share & Segment Forecast to 2028” London, UK -- (SBWIRE) -- 05/03/2022 -- AI in Medical Hygiene Market ..."
-    publishedDateTime: 2022-05-03T16:47:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-3-ai-in-medical-hygiene-market-2022-innovation-business-strategy-future-technology-application-top-key-companies-analysis-to-2028"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "yjZ/ruBGSm41XL3hSXH7lW0ENIZHql9gj0eh2jXEXGAKDPDXCnmSVQohDieVj9Toj59XQlZN2kvtHLnR0aktybIHVVy7fSEd2AUmDU1tWM8AU3w+BNH1NtfVVPUaztpUW5v8JJp5ri4szR7ohMeMOMwm1Z7H8HmcaOIY1teZGA8S99RqMIDLhAkMh4inFEtj4jUAsbwYiaAnoageax5bM29qM3ZPxNn8Z+uzr2JVmjiUd/hgaiMZFuQDUhRTAPimdZiEYHCEXxywVJ3uZ4k/P/wz+CbH5DglY3WZR21Wl8Y+lRmh9la37wSU31aQQh/p+VjZ3MyziDqbAY7nNPQFq0EEjhE0aRj/kYvI1gVvcMQ=;RtBcoAEe/KCmY6KdtJXg8w=="
 ---

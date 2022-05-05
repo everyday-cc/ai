@@ -2,6 +2,40 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-04-20-cathie-wood-on-twitter-europe-in-recession.md",
+      "title": "Cathie Wood On Twitter Europe In Recession",
+      "excerpt": "Magnifi is a fintech platform that uses artificial intelligence so individuals and advisors can instantly search stocks, ETFs, mutual funds and model portfolios and trade based on their preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22",
+      "originalUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
       "title": "Artificial Intelligence Is Creating a New Colonial World Order",
       "excerpt": "My husband and I love to eat and to learn about history. So shortly after we married, we chose to honeymoon along the southern coast of Spain. The region, historically ruled by Greeks, Romans,",
@@ -1062,49 +1096,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities.md",
-      "title": "Hyundai chooses IonQ's quantum tech to improve its vehicles' object recognition capabilities",
-      "excerpt": "The automaker hopes the quantum machine learning services of IonQ can help it improve its 3D object detection safety systems for drivers and autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
-      "originalUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

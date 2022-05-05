@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-26-artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely.md",
+      "title": "Artificial Intelligence (AI) Helps Detect Cancer from Patient Data Securely",
+      "excerpt": "Researchers developed a novel way of using artificial intelligence (AI) to predict cancer from patient data without putting personal information at risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "publishedDateTime": "2022-04-25T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings.md",
       "title": "Can Strength in Azure Cloud Aid Microsoft's (MSFT) Q3 Earnings?",
       "excerpt": "Azure’s revenue growth is likely to reflect continued strength ... Microsoft also completed the acquisition of Nuance Communications, a leader in conversational AI and ambient intelligence across industries like healthcare, financial services, retail ...",
@@ -1100,57 +1142,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai.md",
-      "title": "The Innovative Ways The United States Space Force Is Leveraging Data And AI",
-      "excerpt": "Speaking at an upcoming AI in Government event on May 19, 2022, Dr. Lisa Costa, Chief Technology & Innovation Officer of the United States Space Force will be sharing insights in how the US Space Force is delivering the first fully digital service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6264256f61e2dd81de312206/0x0.jpg?format=jpg&crop=2400,1350,x0,y240,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "publishedDateTime": "2022-04-23T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

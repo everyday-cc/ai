@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-27-wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings-and-events.md",
+      "title": "Wordly Hits Significant Milestone with One Million Users of AI-Powered Translation at Global Meetings and Events",
+      "excerpt": "Wordly enables people to participate in their native languages across a wide range ... milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings-and-events-301533741.html",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings/article_929f42f0-de77-5a3e-8864-594cde43fa84.html",
+      "originalUrl": "https://www.news-journal.com/wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings/article_929f42f0-de77-5a3e-8864-594cde43fa84.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/9b/09bd2c41-d753-5207-883b-74756558e270/6269420f1250e.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-hpe-uses-blockchain-for-distributed-machine-learning-models.md",
       "title": "HPE uses blockchain for distributed machine learning models",
       "excerpt": "HPE has lifted the lid on two new AI products, one aimed at enterprises wanting to build and train machine learning (ML) models at scale, and a second that introduces a decentralized ML system to enable distributed or edge deployments to share updates to their models.",
@@ -1105,49 +1148,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta.md",
-      "title": "Options AI: 5 Things To Know Into Earnings, Microsoft, Apple, Amazon, Alphabet, Meta",
-      "excerpt": "WikiMedia Commons This post contains sponsored advertising content. This content is for informational purposes only and not intended to be investing advice.   This article originally appeared on Learn",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta",
-      "originalUrl": "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/04/26/untitled_design_74.png?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26821535",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26821535",
-      "publishedDateTime": "2022-04-26T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

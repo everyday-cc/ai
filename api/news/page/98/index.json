@@ -2,6 +2,58 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-02-09-microsoft-open-sources-graph-engine.md",
+      "title": "Microsoft open-sources Graph Engine",
+      "excerpt": "The LIKQ query language is also used by Microsoft inside of its Cognitive Services, specifically its Academic Graph API. Both the LIKQ language and the Graph Engine source codes are available ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/analytics/microsoft-open-sources-graph-engine/",
+      "originalUrl": "https://sdtimes.com/analytics/microsoft-open-sources-graph-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2014/12/HANDYALEX.jpg",
+          "width": 253,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-tesla-cut-a-steering-component-from-some-cars-to-deal-with-chip-shortage-sources-say.md",
       "title": "Tesla cut a steering component from some cars to deal with chip shortage, sources say",
       "excerpt": "Tesla omitted one of two electronic control units in the cars' electrical power assisted steering systems. Tens of thousands of cars are affected, sources say.",
@@ -1098,49 +1150,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-data-integration-remains-essential-for-ai-and-machine-learning.md",
-      "title": "Data integration remains essential for AI and machine learning",
-      "excerpt": "The nature of human consciousness has so far evaded all, from philosophers to neuroscientists. It should therefore be of no surprise that the artificial intelligence (AI) that we can currently build is limited to more basic pattern recognition within sets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning",
-      "originalUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a279596285.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1",
-      "publishedDateTime": "2022-02-08T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
