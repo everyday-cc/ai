@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T18:09:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/55973403-rudhrah-technovations-al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups-296.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/55973403-rudhrah-technovations-al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups-296.htm"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Finanznachrichten
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "AL STOCK TRADES Introduces Efficient Services to Optimize Management and Investment of Money by Low – and Middle-Income Groups"
+    excerpt: "The company endeavors to democratize financial information and introduce efficient money management and investment services with a view to achieving ... software called BrainMachine and other machine learning algorithms, which will offer relevant ..."
+    publishedDateTime: 2022-05-05T18:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "a9Q7C85Cec5vjJ43EhWkfOG4Ich5BhmxBHWCs76Qx1+fflydoFvhTGuFuZo6CcMNUQUD7zkjy95hYdaib7bhrdw8r72YWx/wMrNQlqO/hw0gUiaYIhb3RcP9mGTzc/PO5X864ksr7bQwugl93isQcG9mJusoL9DId329EMm8rP7usmEW2PDNiAjjHZTmPuS/SDpbs+JgBlD+7kCNkjufsWYxsSvKsw5dfwctIdIHRkQeEwK09Xlscv14ialTEMMQMZKmrwh1hhFvrIPuhD9A+R3Db1fnVAK/dCnSS0qdUOQUjKuNQQA+zEAE7JJ9Uis74JvJ6eZLEiUHWRXFWSB2V4X2R6xrusCTyDyNvyMvnzA=;PqXvNY2s0Yz4XNePTperDg=="
 ---

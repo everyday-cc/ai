@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/55968151-inte
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/55968151-international-federation-of-robotics-robots-help-reaching-un-goals-of-sustainable-development-ifr-reports-004.htm"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Robots Help UN Reach Sustainability Goals"
+    excerpt: "May 5, 2022 - The use of robots plays an important role in reaching the sustainable development goals set out by the United Nations (17"
+    publishedDateTime: 2022-05-05T19:01:00Z
+    webUrl: "https://www.automation.com/en-us/articles/may-2022/robots-help-un-goals-sustainable-development"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 34
 
 secured: "FvBjfMq3qq1oVbTAZa1GHlAWGWr/JdMoEf5PPlqVkLoKvYBUHODA3HombwvVoASCGHqUA+6m03Arfef2PHCZ8Qothzgr7XsYxKCobwScPf0sboqR9Hqz+RHkN5Dh7QvnmxRF+LnZ6Z2YnBRBMV2355KZRkLuIfvBWqybYmZiZvLhtJART022RwF8EBIKgoO+8fCFarSRddOsQm2G+atCHYn64yuBV3bPMY2vqADu2b+brAdEeFBXSIHsZLBKvrNETVCmwMRCcM9tgtsGLsM0xFnkLhUOMAI7I/cGncRsmDaRtveXUCoS8LUSZerrGO3h06K5EVlQgs05BybQc1CfjoGmoz00hB11q5XTMT3xi0k=;Er7LX69DPV8Yj9yftzcK9A=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1199
         height: 796
         isCached: true
+  - title: "Face biometrics accuracy over time boosted by adaptive reference gallery: EAB webinar"
+    excerpt: "Adaptive Biometric Systems in the Deep Learning Era was presented by Giulia Orrù of the University of Cagliari’s Pattern Recognition and Applications (PRA) Lab."
+    publishedDateTime: 2022-05-05T20:27:00Z
+    webUrl: "https://www.biometricupdate.com/202205/face-biometrics-accuracy-over-time-boosted-by-adaptive-reference-gallery-eab-webinar"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 17
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "Ireland to share face biometrics with EU to tackle crime on wider scale"
     excerpt: "McEntee said the exchange of facial images will not mean live facial recognition of crowds in public spaces. Nor is using artificial intelligence for facial comparisons currently contemplated. Moreover, she said, Prum II’s router will hold no data ..."
     publishedDateTime: 2022-05-02T17:59:00Z

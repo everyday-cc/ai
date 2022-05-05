@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-03T00:00:00Z
 originalUrl: "https://www.linkedin.com/pulse/ai-powered-intelligent-security-makes-hybrid-enterprise-akintayo-joda"
 webUrl: "https://www.linkedin.com/pulse/ai-powered-intelligent-security-makes-hybrid-enterprise-akintayo-joda"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:

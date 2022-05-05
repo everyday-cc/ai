@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T19:31:00Z
 originalUrl: "https://www.biometricupdate.com/202205/voice-biometrics-to-reach-21b-pindrop-powervoice-pursue-new-partnerships"
 webUrl: "https://www.biometricupdate.com/202205/voice-biometrics-to-reach-21b-pindrop-powervoice-pursue-new-partnerships"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Biometric Companies

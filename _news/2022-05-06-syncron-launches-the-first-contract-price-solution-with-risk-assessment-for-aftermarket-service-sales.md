@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T18:36:00Z
 originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1251437&cat=PRN"
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1251437&cat=PRN"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Webindia 123

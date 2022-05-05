@@ -19,6 +19,15 @@ topics:
 
 related:
   - title: "Using AI to analyze large amounts of biological data"
+    excerpt: "Researchers are applying a form of artificial intelligence (AI) -- previously used to analyze how National Basketball Association (NBA) players move their bodies -- to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
+    publishedDateTime: 2022-05-05T21:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Using AI to analyze large amounts of biological data"
     excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) — previously used to analyze how National Basketball Association (NBA) players move their bodies — to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
     publishedDateTime: 2022-05-05T16:54:00Z
     webUrl: "https://www.eurekalert.org/news-releases/951857"
@@ -26,7 +35,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/aa95ceeb-d67b-4a0b-92e6-70483ee2ce4c/Rendition/low-res/Content/Public"
         width: 500

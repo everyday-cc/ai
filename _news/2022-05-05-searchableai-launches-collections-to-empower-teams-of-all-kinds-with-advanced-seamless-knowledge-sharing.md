@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T12:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/searchable-ai-launches-collections-to-empower-teams-of-all-kinds-with-advanced-seamless-knowledge-sharing-1031425447"
 webUrl: "https://markets.businessinsider.com/news/stocks/searchable-ai-launches-collections-to-empower-teams-of-all-kinds-with-advanced-seamless-knowledge-sharing-1031425447"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Business Insider

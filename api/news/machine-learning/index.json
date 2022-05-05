@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-05-nanomagnetic-computing-can-provide-low-energy-ai-researchers-show.md",
-      "title": "'Nanomagnetic' computing can provide low-energy AI, researchers show",
-      "excerpt": "Researchers have shown it is possible to perform artificial intelligence using tiny nanomagnets that interact like neurons in the brain.",
+      "path": "_news/2022-05-05-artificial-intelligence-computing-using-networks-of-tiny-nanomagnets.md",
+      "title": "Artificial Intelligence Computing Using Networks of Tiny Nanomagnets",
+      "excerpt": "Artificial intelligence that uses ‘neural networks’ aims to replicate the way parts of the brain work, where neurons talk to each other to process and retain information. A lot of the maths used to power neural networks was originally invented by ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-nanomagnetic-low-energy-ai.html",
-      "originalUrl": "https://phys.org/news/2022-05-nanomagnetic-low-energy-ai.html",
+      "webUrl": "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/",
+      "originalUrl": "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/magnetism.jpg",
-          "width": 1280,
-          "height": 1920,
+          "url": "https://scitechdaily.com/images/Human-Brain-Artificial-Intelligence-AI-Illustration-777x518.jpg",
+          "width": 777,
+          "height": 518,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-nanomagnetic-low-energy-ai.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-nanomagnetic-low-energy-ai.amp",
+      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/",
       "publishedDateTime": "2022-05-05T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI",
-        "AI Hardware"
+        "AI in Autos",
+        "Machine Learning"
       ]
     },
     {

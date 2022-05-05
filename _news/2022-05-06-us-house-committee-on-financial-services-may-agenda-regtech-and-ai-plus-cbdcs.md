@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T18:46:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/05/190688-house-committee-for-financial-services-may-agenda-regtech-and-ai-plus-cbdc/"
 webUrl: "https://www.crowdfundinsider.com/2022/05/190688-house-committee-for-financial-services-may-agenda-regtech-and-ai-plus-cbdc/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Crowdfund Insider

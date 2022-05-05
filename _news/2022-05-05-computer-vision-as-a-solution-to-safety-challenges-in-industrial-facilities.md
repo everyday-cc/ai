@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T07:28:00Z
 originalUrl: "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx"
 webUrl: "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Ohsonline.com

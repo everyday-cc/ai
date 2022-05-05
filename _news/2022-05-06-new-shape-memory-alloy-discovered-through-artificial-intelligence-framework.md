@@ -1,28 +1,30 @@
 ---
 category: news
 title: "New shape memory alloy discovered through artificial intelligence framework"
-excerpt: "Funded by the National Science Foundation’s Designing Materials to Revolutionize Our Engineering Future (DMREF) Program, researchers from the Department of Materials Science and Engineering at Texas A&M University used an Artificial Intelligence Materials Selection framework (AIMS) to discover a new shape memory alloy."
-publishedDateTime: 2022-05-05T17:06:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/951862"
-webUrl: "https://www.eurekalert.org/news-releases/951862"
+excerpt: "Researchers from the Department of Materials Science and Engineering at Texas A&M University have used an Artificial Intelligence Materials Selection framework (AIMS) to discover a new shape memory alloy."
+publishedDateTime: 2022-05-05T19:08:00Z
+originalUrl: "https://phys.org/news/2022-05-memory-alloy-artificial-intelligence-framework.html"
+webUrl: "https://phys.org/news/2022-05-memory-alloy-artificial-intelligence-framework.html"
+ampWebUrl: "https://phys.org/news/2022-05-memory-alloy-artificial-intelligence-framework.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-memory-alloy-artificial-intelligence-framework.amp"
 type: article
-quality: 35
-heat: 35
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/04c6e80a-1652-4afe-a6ab-b87b03a32156/Rendition/low-res/Content/Public"
-    width: 700
-    height: 467
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-shape-memory-alloy-1.jpg"
+    width: 1333
+    height: 560
     isCached: true
 
-secured: "JsbYaqhxNof1+MQjsx/+aZhlASfrxdxiMopscsLsIQ0pu6UCjJgQH2Wek5LvVAmDMIwEg9htesrPqzyxBZxNqPS0jT1R5m4h8bcxRL+lrB3cIZqM7dMsX8vFisc1/B01QglYM8MHAjiJnyuhCNL2/1+Z2+ylKUNjsrs77NkIGpumAS6u1aKOZWAijkcFuEsfYEyNE+cpqE3IO1v+T9do2wlrcXA7BwecH2vbSLBPnlGxZPlF/FelC/c0NtEqsExUEWgYuI2dK74brCwcDkyU9VTDi9WK+DVaABCGqD2hjCGMzcAwCRCrt3v57jfzyHpijch8JV6GkCAJFyWdaebro1kDM/o9Xo2IQuv7eJeEpYCzvgiCvHvmju385oIyvQeQWTET62C7O4CmtRy180gifGTOChJLw1LGJI9bY56Q1DmKNyJ2daYhdV4eK3bqwIThas4WKp6a4n/8sRtOz25L7qHyzbx0HmghVgp/HHvqySlsUfR2WKGGtOEPOSXbYyT2fgdMJXr+KCOJHxCm2SpogQ==;2heg0q3A1eol4+ktSOeN5Q=="
+secured: "DvtN8HfNDHF74V5wL27lSQdhyQ5jy2lMdVXl+tlajqPIuaZUwML5cdgz/gWW8tsv28IkanJU/zelBS3haiXBu9ai/0uoH/ot0/hSSrKYDhmw17Fx12jhoxBaXdAalurWqhswcAkDkvmrpo0uugbXOwOmyDrcn+U+zoxJIhgvaJUCEntjQa1AYGlpSf+y7+0c6ALTFteMPBJWAkFuzDQKTOe4fzBVWggen46sZg/L2u3ZXd3XRjWaKQZ5Pz3fVaPQjWpFJW/+Zdf2Jwrkf6QBh8ziU8ucnnpAK1co1YdxQIXKaPiuEbetjScBEKFGm4R6wCfBCzrWzfEcL/+Ggs5s/GKwmkjY5DRovNue8SEEU/k=;iLcGDCsKZmSp8HphlBnEoA=="
 ---
 

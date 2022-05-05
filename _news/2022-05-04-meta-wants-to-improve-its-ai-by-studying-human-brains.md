@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
 type: article
 quality: 61
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robots to improve human mobility"
+    excerpt: "Her research blends two interests: biomechanics and robotics, with a focus on locomotion and balance control. In a nutshell ... Those are important questions the team keeps in mind while investigating how humans move and how robots can improve mobility ..."
+    publishedDateTime: 2022-05-05T13:41:00Z
+    webUrl: "https://www.queensu.ca/gazette/stories/robots-improve-human-mobility"
+    type: article
+    provider:
+      name: Queen's University
+      domain: queensu.ca
+    quality: 39
+    images:
+      - url: "https://www.queensu.ca/gazette/sites/default/files/assets/socialmedia/Walking%20in%20the%20lab%201200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Making sense of complaints – using AI to improve learning from patient complaints"
     excerpt: "Emilie joined techUK in June 2021 as the Programme Manager for Digital Ethics & AI. Prior to techUK, she worked as the Policy Manager at the education charity Teach First and as a Researcher at the Westminster think tank Reform. She is passionate about the ..."
     publishedDateTime: 2022-05-04T08:50:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-05T16:54:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/951857"
 webUrl: "https://www.eurekalert.org/news-releases/951857"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI to analyze large amounts of biological data"
+    excerpt: "Researchers are applying a form of artificial intelligence (AI) -- previously used to analyze how National Basketball Association (NBA) players move their bodies -- to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
+    publishedDateTime: 2022-05-05T21:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "One to Watch Companies - AI, Analgesia, Immunologicals"
     excerpt: "One company, Labstep, aims to help scientists achieve this. Japanese AI specialist Elix is to commence work on a joint research project with Shionogi, leveraging its Elix Synthesize platform. PhoreMost, a UK-based biopharma dedicated to developing drugs ..."
     publishedDateTime: 2022-05-02T09:57:00Z

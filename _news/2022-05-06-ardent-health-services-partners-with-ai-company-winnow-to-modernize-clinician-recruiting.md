@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T18:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27032086/ardent-health-services-partners-with-ai-company-winnow-to-modernize-clinician-recruiting"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/n27032086/ardent-health-services-partners-with-ai-company-winnow-to-modernize-clinician-recruiting"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Benzinga.com

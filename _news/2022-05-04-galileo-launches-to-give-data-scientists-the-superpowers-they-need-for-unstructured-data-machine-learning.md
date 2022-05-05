@@ -49,6 +49,15 @@ related:
         width: 850
         height: 483
         isCached: true
+  - title: "Galileo Emerges from Stealth with its Machine Learning Intelligence Platform for Unstructured Data"
+    excerpt: "Galileo is emerging from stealth with a machine learning (ML) data intelligence platform for unstructured data that gives data scientists the ability to inspect, discover, and fix critical ML data errors fast across the entire ML lifecycle. The platform is ..."
+    publishedDateTime: 2022-05-05T19:04:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Galileo-Emerges-from-Stealth-with-its-Machine-Learning-Intelligence-Platform-for-Unstructured-Data-152802.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 5
 
 secured: "hPNoVv7SXTEiVzIxZ6Kd/i3RJ/bxvOJoRBf5XXWlfKm3kdo2Lw9y9/POn8/a1pCTl9Fzb2QtxDlQ6uSQo8X/OaLWr8UyBMIXuHvB4vUTVcO4oX2Ps4gLOIdP5ZPctr+Cek03PkyRmc7FkwfvhWofTfhdFlRKkYp/+WqQmVXivqqLCPYBt6EBuTkA7TklqO+eSa8hjGnF4sIJdhsyYEaysPB0QNE/OQnfNX0oKP3ZDqiJDzFixxU7HfFonT2QROVu4k3Mq7VEaZUZBdXg8Im0PODWNIJa9PJCLzrFVYem7A3q0bRpjCjtZWKQvFV8OONadltyKZmBfkrGTj3U0Sii74rKQXcmy/CtRTH045tsbQ4=;A6mC3T6ydjVgkdt18t2Wtg=="
 ---

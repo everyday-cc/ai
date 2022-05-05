@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Industrial AI Startup OnePredict Begins a Global Roll-out of GuardiOne Substation at 2022 IEEE PES T&D"
-excerpt: "GuardiOne® Substation, an Industrial AI-based transformer predictive maintenance solution, has presented the future of maintenance at the world's largest electric power trade event."
+excerpt: "GuardiOne® Substation, an Industrial AI-based transformer predictive maintenance solution, has presented the future of maintenance at the world's largest electric power trade event.Setting its sights on further expansion abroad,"
 publishedDateTime: 2022-05-05T13:00:00Z
-originalUrl: "https://www.asiaone.com/business/industrial-ai-startup-onepredict-begins-global-roll-out-guardione-substation-2022-ieee-pes"
-webUrl: "https://www.asiaone.com/business/industrial-ai-startup-onepredict-begins-global-roll-out-guardione-substation-2022-ieee-pes"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/industrial-ai-startup-onepredict-begins-a-global-roll-out-of-guardione-substation-at-2022-ieee/article_3f844d14-100e-59c7-badd-7d5552144911.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/industrial-ai-startup-onepredict-begins-a-global-roll-out-of-guardione-substation-at-2022-ieee/article_3f844d14-100e-59c7-badd-7d5552144911.html"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/May2022/onepredict_s_booth_IEEE_PES_T_D_0.jpg?itok=JHFR2KWR"
-    width: 599
-    height: 456
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/b3/5b3579ca-7752-512b-9064-bac02e020bb3/6273caca34ed5.image.jpg?crop=977%2C513%2C0%2C115&resize=977%2C513&order=crop%2Cresize"
+    width: 977
+    height: 513
     isCached: true
 
-secured: "t9KBlAqazGX2/EzlZrUAMXi4CkC3jIUSKlnGZNUAZZaleBUZXpFKvoeiydcSO5Yj/6N9yz8FkvD27BRVBGWSI2XPH5WEfGlZGcE8smPhlxzlvteiUdngiOOHluyUz9v0VOikBa52rCmy2DFqVbiRA85jaeRSIi7u1XJaoVXAPPLVleIFULV/YpM+d/SiaeRBflmdIxjcWN+3RuGqN1fsjHDkTHhBRy5+oi+5vsz2nFOsPgiPp0XNLeNwJZA5q0z8NjtZ1FJFXb2YIU6nL+D33kEyKqNwPCxxhsUpq4TC174wKQcnoFf5NiZaHgCW1jShE0YmEBQs7KjBK/d+Gx2etkcnIjqmAh086sLgZy/i/hWpBAp3M/EeW/TixqvtMJmrulSH0w9BWlb8vII2gKNXboeaUJBiOqE8YfYLtxGs3JFyENWBEKTyn26RQivOggYPw5WpdSdeI31YQoYIsdjwjqAsElKVyl69R6OmxPBBULrwXZxGOy+oArkOj6PaoVk+LBhyPUQ0eL4pULL/y7bdmA==;QLherFNBxInhug0NrLestg=="
+secured: "YLdl7moBvy2aZwCO1w6Iok3lPmhpX04e4qhWeVMLjpJARI03zwEPKecCT10mRsntRSRXJNCB3DxSMAkbKg75pwycitJb37tMa3PbfXjxW/Qhl89y1KGLwdGHnEuH6QTTzeWsvNBPEBsXfq6/XFWAqT12Aio50mqBPuR/CFdiHR8BurkKV4SO5AT7PnNMR1C8M1VNBgChDbtZo/hgeZq3xZLt0ebjJ+xjdmI8Ec75kC2xymLHSTEJpaYtgnrAR1GzNuCqQrgSJwhBE/7yLtiftz64rYtJR25ZPVe7cM08SfBUigB8QJEpIdFM0e70yk0HgTN/HSD/BPdTRrDJNRbqEVtMNIn8C3oR6e8haoM5Vxs=;11kt3UQeyjMrZNGnqa9gGA=="
 ---
 

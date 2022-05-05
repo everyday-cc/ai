@@ -8,9 +8,9 @@ webUrl: "https://scitechdaily.com/artificial-intelligence-computing-using-networ
 ampWebUrl: "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
   name: SciTech Daily
@@ -44,6 +44,15 @@ related:
         width: 1280
         height: 1920
         isCached: true
+  - title: "'Nanomagnetic' computing can provide low-energy AI"
+    excerpt: "Researchers have shown it is possible to perform artificial intelligence using tiny nanomagnets that interact like neurons in the brain."
+    publishedDateTime: 2022-05-05T20:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/05/220505114646.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
 
 secured: "PWk/NSiJhRQLdsK23bkXNqrqz2XI1QeUmwOMIdYaf19Z4Kw38wKO/C7sVx2ITwk1QpNkO9IYocSs7xC6y/xylAPeQk0nx70M4frfsvnAfL0UnsH770T7YvRF3WFxcH9f5381toixXxfNCXApMYIUvhJ2WklkkYXPND/hMs2kqTMYb+LSx1YceTBf7a7SyB+Skzkss36DIw8fz7M75ZGC0Dm7ZIhOf0FtR+1Z8IDWA6Bfr663PL/6qUIcEdW1phephQniZG4eFUzJFGYQkinA2yVhHA/QCFL3NkLmPMLgHeLKAnZr6MVJEfyEgMypi4M0pVL1o8hl59NuvlszeTgHyAQyEutcZZA1SBP9/ABD4Rz/eCc7e8OVq6gzaZqPLSc1sKOmalldaEjjXVIbWNB/gr1WuxkRuqB5DL0bZ4t0UEXRQq2+e2w0LG6ZTNgMER2GTp1wpZq/bm++QiCPkTPEkBB3xhu22UlmMHZiZ5xZiwE2s/9rxUYLVgIvKd/M7y9jQkN9xyvLsGpl0VLoOAXmIw==;dHlTpJxdKNYmadcDBeu41w=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T19:43:00Z
 originalUrl: "https://www.dailynews.com/2022/05/05/election-2022-this-san-fernando-valley-state-senate-district-is-poised-for-a-fresh-face/"
 webUrl: "https://www.dailynews.com/2022/05/05/election-2022-this-san-fernando-valley-state-senate-district-is-poised-for-a-fresh-face/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Los Angeles Daily News

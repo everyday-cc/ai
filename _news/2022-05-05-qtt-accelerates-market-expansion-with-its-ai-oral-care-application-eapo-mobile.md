@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T13:02:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-south-korea-oral-7ef442fa1f1b49e9b3408fca94db8d2a"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-south-korea-oral-7ef442fa1f1b49e9b3408fca94db8d2a"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Associated Press
