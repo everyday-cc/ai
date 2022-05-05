@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

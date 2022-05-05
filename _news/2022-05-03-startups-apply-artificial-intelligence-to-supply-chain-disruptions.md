@@ -1,31 +1,26 @@
 ---
 category: news
-title: "Startups apply artificial intelligence to supply chain disruptions"
-excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
-publishedDateTime: 2022-05-03T10:00:00Z
-originalUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
-webUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
+title: "Startups Apply Artificial Intelligence to Supply Chain Disruptions"
+excerpt: "LONDON (Reuters) - Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have ..."
+publishedDateTime: 2022-05-03T06:21:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
 type: article
-quality: 82
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Two sisters create a startup that puts sustainability into global supply chains"
@@ -54,6 +49,6 @@ related:
       domain: nasdaq.com
     quality: 81
 
-secured: "duVnjNq1hml5Q33IozYl7cwCJobT/M3XrADXiqmlg/u+Tqo2fmAX3d1jupBNNt/8anc/b1Z7XBn1r/mwcFxkjGle8Cn7jbK6mUZ1rp+CkWlzTJfa9YuH6+fdk5PK0ngxER5G4vG7vWB6sY+qg53QMLf3yr/d0VIGgwG1yqv3dMCRd0Ibfs5KO/IVeDdSjOJwNhz3FXmOBTMU4qPcOUi1uCBVkbPg3hVjOvxp5JUsAi5WdsypxovIydKaV3HjL5OD2AqHfV0lF7eR07R/rBQs1yNklbS9J4DGsJ44XIR2rF5R1CYFXSlrkHhrRk5dkKhN6WM0jGclKVsor/QOebei9BGuUe3D7E1zMcdKskCOdjdQ3WaRmSgFbcc8DsH1yPwPidVTdrpIBN+ju/YULDVhKW3tWOmnsSZeFV0qz3aysZ5K6a1jiSvvl5WH/BmTZtq0T58tpfUtg+0p87So3qiAq+Vv/JNSOTwBWQjx8AtOv5FCCZHQg9/TIkBEIM+Vb419nq6V7nDx7CWS3eFL7zz0TQ==;Ex9chTFw8g+NilKmDH+BjA=="
+secured: "tbn6arZJgkbQDvkQuNObWoOhDyi5iwrthFCrSUqZ7LXePdVV+x+R/FtYistFHh87SZ7CvjeNj+rrgIBWVJgsflXWsynr217KBup0Cp7qtvX49Dn2vKvMfglVAP0QIOH+Eudy5MD7mYZx278nqJZPdrLfa2EPiC88uHXBTMWTCSHWRs4OdIs7YVhfVOywz+MfIifrZzSZFVJGeDbZAJZrxhmQUteE96KPBb0YIkEoMIJOOrJ9k9+oBE3VjNqAut+Lpkx8CVpqwqHcKz2iGXr3OXmZGBSh3IDEBUw/if02xLXkqpq8AhjHtfA1CyZKPWHyLR4snvdH9QiOdhkx9EZM8soJRQpd/RHbmn5ofUnymEz3baGvusJd9UZx95l101XbJcrfrhK5enrlKACQy3ohCe8rc6zESEPKY02xu3Ez0Lhgf25bQothFjFkjcBUgvplSjDHpzD24fX3KDiB8oDKYcjqK3ZANf5/Lfb5n0G7ZEtU9n/0Eto1RIV/iOU8nBpzWOQRjhkWMuuyRlDSDAnxFQ==;b+YC9zG2QC0ZLuKt3saf3g=="
 ---
 
