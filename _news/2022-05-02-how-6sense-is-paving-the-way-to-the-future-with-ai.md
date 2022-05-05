@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Splice just launched an AI-powered app that makes music with you"
+    excerpt: "The company has launched a new artificial intelligence-powered music app called CoSo, which uses what Splice calls its ‘Complementary Sounds’ AI technology to create music “in split-seconds”. The CoSo mobile app, available on Android and IOS ..."
+    publishedDateTime: 2022-05-04T15:57:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/splice-just-launched-an-ai-powered-app-that-makes-music-with-you1/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 37
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2022/05/Coso-copy-e1651618451563.jpg"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "7QohRCN/p40WaBQTZnqhkuGzrgy4gW0RCIFvMqyz8YSQDKmquBW2djAfrdOg7A+7bBMDDBgeaMSGYUTj1Yc6ZsKgOL4SLvVWGQT17P8lK2p/SXg69fzZ0k4ns+x4ElWFuXm0o9eFeZYJR/2Boq7mUxzwwQpNsfcfEM1o20hyHA2kb73KIrIGfeHg1qM1OIuUhyvU/HNcMHhcE7mgzkEyjlUHjh/lMI7reyWYWCdYP1vqseFwwzAXRqSRaA79UGv2TCXKJtrLhBxAQpAtOrk50mW3hNDgwxhFsOW5W2Ut6Y2j9LhUxLFUSMh38ovGHmRuqZu8d92kiN//ey8AhnKHptBCfVWRJwUzgoozz1Nmago=;z4c87/HwAsXnHrutAJ42MQ=="
 ---

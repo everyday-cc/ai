@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2021-03/board-1647323_640.jpg"
         width: 640
         height: 426
+        isCached: true
+  - title: "Splice just launched an AI-powered app that makes music with you"
+    excerpt: "The company has launched a new artificial intelligence-powered music app called CoSo, which uses what Splice calls its ‘Complementary Sounds’ AI technology to create music “in split-seconds”. The CoSo mobile app, available on Android and IOS ..."
+    publishedDateTime: 2022-05-04T15:57:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/splice-just-launched-an-ai-powered-app-that-makes-music-with-you1/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 37
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2022/05/Coso-copy-e1651618451563.jpg"
+        width: 1536
+        height: 864
         isCached: true
 
 secured: "pgBTp05OTgy4IC6mTcy9MRVbkwyrs/x+/M3q03tF3XYhrpoEds1QXw4mHPBgcrz7y6wqsbfr7xWdDcAO+iiCT6vLj7dAdi4G5NWWqSKA12hotEHxr4UfvMe8C0MyTFCog8k7quVdPNe7h9WNkA/tTATittluXJO4CYawTv9TAHhdUwbZOCiI5KxCILP+CgEdWuwsR8c1OWknPhtsINfZcZOeR9s+M8eDGfpXnpnpcKyVi/Gy5FpANA3NZc+TfFIGlQrZ3hKnoctca0IM4PWrpjfGVw1yM8n1AEmFOUDNU66kKZ9ikbn41qUs+nUEfMYIc2EbMwE97d+bs80MCH/W0m9Lp/WraJumUx+ji5sS2lo76obqy62oGUZuUV2kzzZPSJE+p2WBP0rV88fmJv2QcbAzHFbMNKzVhl9AjDXtCG5rLdj3goboyPUVRupAGuN7WYHOiyoO9MIbn3jo4Uen6aT59wCxxmWepZygYJkF/urxfpHtdTAdPB06vuYMhGmX8sYDUpb3gD4/8gpXfeWiUw==;NS4vT2zoiTYBm8hcp38CVg=="

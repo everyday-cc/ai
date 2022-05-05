@@ -54,7 +54,7 @@
       "originalUrl": "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -477,6 +477,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-neuromorphic-sensing-shifts-computer-vision-focus.md",
+      "title": "Neuromorphic sensing shifts computer vision focus",
+      "excerpt": "Is computer vision about to reinvent itself, again? Ryad Benosman, professor of Ophthalmology at the University of Pittsburgh and an adjunct professor at the CMU Robotics Institute, believes that it is. As one of the founding fathers of event–based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/neuromorphic-sensing-shifts-computer-vision-focus/",
+      "originalUrl": "https://www.embedded.com/neuromorphic-sensing-shifts-computer-vision-focus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2022/05/img20220503084934A-Shift-in-Computer-Vision-is-Co_1_w943_h751.jpg",
+          "width": 943,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -949,49 +992,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-19-quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022.md",
-      "title": "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022",
-      "excerpt": "Customers can automate common content-tagging and enhancement tasks such as object recognition within video frames, speech-to-text transcription, video and audio super-resolution, and other tools to add valuable metadata to video and image files ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/04/19/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/04/19/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1799283/NVIDIA_AI_Hero_Image.jpg",
-          "width": 400,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-19-hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities.md",
       "title": "Hyundai chooses IonQ's quantum tech to improve its vehicles' object recognition capabilities",
       "excerpt": "The automaker hopes the quantum machine learning services of IonQ can help it improve its 3D object detection safety systems for drivers and autonomous vehicles.",
@@ -1022,6 +1022,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022.md",
+      "title": "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022",
+      "excerpt": "Customers can automate common content-tagging and enhancement tasks such as object recognition within video frames, speech-to-text transcription, video and audio super-resolution, and other tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_ecf6c7b5-417f-5347-937f-7fa51934f2b8.html",
+      "originalUrl": "https://www.victoriaadvocate.com/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_ecf6c7b5-417f-5347-937f-7fa51934f2b8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/e/60/e606b659-a940-5f38-be30-04aa8f639840/625ea81644068.image.jpg?crop=909%2C477%2C0%2C66&resize=909%2C477&order=crop%2Cresize",
+          "width": 909,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1363,40 +1406,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit.md",
-      "title": "FLEX LOGIX TO SPEAK ON AI INFERENCE AT THE LINLEY SPRING PROCESSOR CONFERENCE AND COMPUTER VISION SUMMIT",
-      "excerpt": "Flex Logix is a reconfigurable computing company providing AI inference and eFPGA solutions based on software, systems and silicon. Its InferX X1 is the industry's most-efficient AI edge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220415sf26541/flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220415sf26541/flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

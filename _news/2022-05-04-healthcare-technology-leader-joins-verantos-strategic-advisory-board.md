@@ -24,6 +24,22 @@ images:
     height: 623
     isCached: true
 
+related:
+  - title: "Healthcare Technology Leader Joins Verantos′ Strategic Advisory Board"
+    excerpt: "Frank Williams, co-founder and chairman of Evolent Health, is a value-based healthcare expert ... By incorporating robust clinical narrative data, artificial intelligence technology, and measured validity, Verantos is the first company to generate research ..."
+    publishedDateTime: 2022-05-04T18:15:00Z
+    webUrl: "https://www.kron4.com/business/press-releases/cision/20220504NY45600/healthcare-technology-leader-joins-verantos′-strategic-advisory-board/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 39
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2019/06/KRON4_Transparent-Equal-Height.png"
+        width: 598
+        height: 208
+        isCached: true
+
 secured: "iI1UQSxhTELVPsJjkwMnRUyvK5f9pwA8Je0adGIGox3tRHXgRkGGx5zep+g/pqVk68QvsVmUpN13rITDoZBAkhC+LwcoVLM0dHvHX6MIpuoR2McucmlThQm9pcCNE561fSumxunUzbQb8/uJv6oja0yM8s8Vl182g7HhXsG4xIV0R5epp7axypBXxK5A32Bv60Ku60JDygOqWult3H+A1umoUf1buKFJVQtWdKl4CP2hlhgy6gafZ7pAEsVyx5q/2WFNLl/pe5f4HmAq2bhEF8Sw4RYc+jWkeCdeM/2Uv0QUQsPWwGjsTQtWSbG6xzJYHECfRGVBOHf6JLOYZRReuy5UFMTofV659hQC+kOQp3RNscRwmnV+ipbrVLpCZTKSAocNX1jh433PnEuyqzPsGlaRwbgmJXz1bxLPN68VSmgI22C7LiwmJEFAQj0AQYUmq88y8YODXYOM0Xauc7pN3TTjjXpdxmmk8Pkh7zGARvA4j8NZbfG74QciyDTt92SGXW7tuEXW2eOMuEz2By2jNg==;S2B3tNsNMP1KO5mqX8D6HA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-f
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
 type: article
 quality: 80
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://images.thestar.com/EuDDSHJOF_nmqiCpMx8umPgaht4=/1280x1024/smart/filters:cb(1651534260489)/https://www.thepeterboroughexaminer.com/content/dam/thestar/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs/20220502120516-627003f6a6c9640b6653e736jpeg.jpg"
         width: 1280
         height: 1024
+        isCached: true
+  - title: "CTC Students Earn Recognition from Toastmaster International"
+    excerpt: "The program was coordinated by Angel Vallejo, a local Toastmaster representative. From the first attempts at public speaking, which was a basic introduction speech, to their final career presentation, there was amazing growth both individually and as a group."
+    publishedDateTime: 2022-05-03T18:56:00Z
+    webUrl: "https://www.cadillacnews.com/news/ctc-students-earn-recognition-from-toastmaster-international/article_b9be2a52-c65b-11ec-ba3a-e3c6301d48cf.html"
+    type: article
+    provider:
+      name: Cadillac Evening News
+      domain: cadillacnews.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/c/c2/cc2f3116-c65d-11ec-b718-236fc8ca52ce/6269954e26712.image.jpg?resize=666%2C500"
+        width: 666
+        height: 500
         isCached: true
   - title: "Time to talk specifics of new facial recognition legislation, Canadian privacy authorities say"
     excerpt: "Lawmakers in Canada are being urged by privacy authorities to pass new laws to protect people from the risks associated with facial recognition, while also allowing it to be used by police in certain situations. Canadian Privacy Commissioner Daniel ..."

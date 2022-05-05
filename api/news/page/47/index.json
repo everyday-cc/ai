@@ -2,6 +2,99 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-03-23-nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office.md",
+      "title": "Nvidia’s Clara Holoscan MGX means to bring high-powered AI to the doctor’s office",
+      "excerpt": "Nvidia, a company best known for its high-powered graphic processing units (GPUs) debuted a platform for the development of AI-powered medical devices. The device, called Clara Holoscan MGX, provides computing power allowing medical sensors to process multiple data streams in parallel,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/",
+      "originalUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/nvidia-clara-holoscan-mgx-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/amp/",
+      "publishedDateTime": "2022-03-23T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-cedars-sinai-says-artificial-intelligence-tool-may-help-predict-heart-attacks.md",
+      "title": "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks",
+      "excerpt": "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/",
+      "originalUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbclosangeles.com/2019/09/Silent_Heart_Attacks_55sec_365_large_448x336.jpg?quality=85&strip=all&fit=448%2C336",
+          "width": 448,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/?amp",
+      "cdnAmpWebUrl": "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/?amp",
+      "publishedDateTime": "2022-03-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Los Angeles",
+        "domain": "nbclosangeles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
       "title": "Delphia Review: Portfolio Management Meets Machine Learning",
       "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
@@ -1069,101 +1162,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions.md",
-      "title": "Resistant AI Partners with ComplyAdvantage Amid New International Sanctions",
-      "excerpt": "Established in 2019, Resistant AI uses AI and machine learning to “provide identity forensic solutions that protect automated financial services from fraud and manipulation, including customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Hands-Up-Arrest-Halt-Stop.jpeg",
-          "width": 1122,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/amp/",
-      "publishedDateTime": "2022-03-22T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-expedite-ivr-development-with-industry-grammars-on-amazon-lex.md",
-      "title": "Expedite IVR development with industry grammars on Amazon Lex",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. With Amazon Lex, you can easily build sophisticated, natural language, conversational bots (chatbots), virtual agents, and interactive voice response (IVR) systems. You can now use industry grammars",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T18:17:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

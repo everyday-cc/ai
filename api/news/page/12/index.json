@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-04-22-ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum.md",
+      "title": "ETHICAL AI GOVERNANCE GROUP (EAIGG) ANNOUNCES FORMAL LAUNCH; UNVEILS ETHICS MATURITY CONTINUUM",
+      "excerpt": "The Ethical AI Governance Group (EAIGG) announced its formal launch yesterday with a mission to promote AI governance, data privacy, and climate technologies. A special event was held in partnership with founding member BGV to celebrate the formation of EAIGG and to formally unveil the Ethics Maturity Continuum,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum-1031373253",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum-1031373253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1802125/EAIGG_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-aws-announces-general-availability-of-amazon-aurora-serverless-v2.md",
+      "title": "AWS Announces General Availability of Amazon Aurora Serverless v2",
+      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26746332/aws-announces-general-availability-of-amazon-aurora-serverless-v2",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26746332/aws-announces-general-availability-of-amazon-aurora-serverless-v2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-aws-announces-general-availability-of-aws-iot-twinmaker.md",
       "title": "AWS Announces General Availability of AWS IoT TwinMaker",
       "excerpt": "AWS IoT TwinMaker makes it easy for developers ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
@@ -1067,92 +1153,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarketscom.md",
-      "title": "Strategic Analysis of Amazon’s Growing Footprint in Mobility – ResearchAndMarkets.com",
-      "excerpt": "DUBLIN–(BUSINESS WIRE)–The “Strategic Analysis of Amazon’s Growing Footprint in Mobility” report has been added to ResearchAndMarkets.com’s offering. Amazon, the eCommerce behemoth, has been making steady strides in the automotive industry and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/",
-      "originalUrl": "https://www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/strategic-analysis-of-amazons-growing-footprint-in-mobility-researchandmarkets-com/amp/",
-      "publishedDateTime": "2022-04-20T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479.md",
-      "title": "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%",
-      "excerpt": "Industrial robots generate a huge amount of data ... The key players operating in the artificial intelligence in manufacturing market NVIDIA (US), IBM (US), Intel (US), Siemens (Germany), General Electric (US), Google (US), Microsoft Corporation (US ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg",
-          "width": 635,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

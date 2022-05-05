@@ -106,6 +106,20 @@ related:
         width: 1280
         height: 1024
         isCached: true
+  - title: "CTC Students Earn Recognition from Toastmaster International"
+    excerpt: "The program was coordinated by Angel Vallejo, a local Toastmaster representative. From the first attempts at public speaking, which was a basic introduction speech, to their final career presentation, there was amazing growth both individually and as a group."
+    publishedDateTime: 2022-05-03T18:56:00Z
+    webUrl: "https://www.cadillacnews.com/news/ctc-students-earn-recognition-from-toastmaster-international/article_b9be2a52-c65b-11ec-ba3a-e3c6301d48cf.html"
+    type: article
+    provider:
+      name: Cadillac Evening News
+      domain: cadillacnews.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/c/c2/cc2f3116-c65d-11ec-b718-236fc8ca52ce/6269954e26712.image.jpg?resize=666%2C500"
+        width: 666
+        height: 500
+        isCached: true
   - title: "Ontario's privacy commissioner joins national call for legal limits on the use of facial recognition technology by police"
     excerpt: "TORONTO, May 2, 2022 /CNW/ - Ontario's Information and Privacy Commissioner, Patricia Kosseim, and Canada's federal, provincial, and territorial privacy commissioners issued a joint statement and guidance on the use of facial recognition technology by law ..."
     publishedDateTime: 2022-05-02T15:38:00Z

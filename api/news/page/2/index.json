@@ -112,7 +112,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -302,7 +302,7 @@
       "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -588,7 +588,7 @@
       "originalUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -706,6 +706,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-dall-e-2-shows-the-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices.md",
+      "title": "DALL-E 2 shows the power of generative deep learning, but raises dispute over AI practices",
+      "excerpt": "DALL-E 2 builds on the success of its predecessor DALL-E and improves the quality and resolution of the output images thanks to advanced deep learning techniques. The announcement of DALL-E 2 was ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
+      "originalUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-84-2.jpg&signature=3681cc767a6d909013fa0af8c6b3a6e3",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
+      "publishedDateTime": "2022-05-02T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1026,7 +1078,7 @@
       "originalUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 250,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -1078,7 +1130,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1152,48 +1204,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-artificial-intelligence-can-identify-students-at-risk-of-failing-and-provide-tools-for-success.md",
-      "title": "Artificial intelligence can identify students at risk of failing and provide tools for success",
-      "excerpt": "Artificial intelligence offers new opportunities to improve university education. This is demonstrated by the Learning Intelligent System (LIS) project, which has been developed by researchers at ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.html",
-      "originalUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/online-learning-2.jpg",
-          "width": 1920,
-          "height": 1222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-artificial-intelligence-students-tools-success.amp",
-      "publishedDateTime": "2022-05-02T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

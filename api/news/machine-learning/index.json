@@ -203,7 +203,7 @@
       "originalUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -270,6 +270,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-dall-e-2-shows-the-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices.md",
+      "title": "DALL-E 2 shows the power of generative deep learning, but raises dispute over AI practices",
+      "excerpt": "DALL-E 2 builds on the success of its predecessor DALL-E and improves the quality and resolution of the output images thanks to advanced deep learning techniques. The announcement of DALL-E 2 was ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
+      "originalUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-84-2.jpg&signature=3681cc767a6d909013fa0af8c6b3a6e3",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp",
+      "publishedDateTime": "2022-05-02T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1398,49 +1450,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-machine-learning-model-can-steer-traumatic-brain-injury-patients-to-life-saving-care.md",
-      "title": "Machine learning model can steer traumatic brain injury patients to life-saving care",
-      "excerpt": "A prognostic model developed by University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons is the first to use automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI).",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/2-brain.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp",
-      "publishedDateTime": "2022-04-26T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

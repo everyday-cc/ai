@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-04T20:10:00Z
 originalUrl: "https://www.biometricupdate.com/202205/innovators-honored-for-advances-in-edge-ai-biometrics-and-deepfake-detection"
 webUrl: "https://www.biometricupdate.com/202205/innovators-honored-for-advances-in-edge-ai-biometrics-and-deepfake-detection"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/24181649/awards.png"
@@ -49,6 +50,6 @@ related:
       domain: biometricupdate.com
     quality: 17
 
-secured: "14i0HQFLYd1+WR7duTmy6OArlCYhNtEW7uIBogUcPqjF0dPAWoIIZH+HsJSOEuNhiI14LW1vQPNqOUlznbcYVxMQzHjJB2AxCBZeoyG0xSNYoE5WPHp90BadyZ8loRH18Qdc61LwQ8WdVX5o70+sew11SYkNo/Hu0jidnrAsuTyNjT0B1Udlw/bW3b+oPM1GKi583Z9ELR0vbJHHsrlWXH6XDcBOsIVMGn7s5ipSO3j6irkibPZPw+iMaJfGiRelf0TNhFM0UXGJIBdtTQmgf0M+2GMq6mZl5X+m4CgrF4l3QaUuvVKwdN6/7Kxo4t0LKNu8nS+O3HTTrWNsNGOn36B2jQfAHrIL0x4Odz1cZFI=;+KUYlBjZlxKzwTUyXqtEDg=="
+secured: "KMn0M0Zm+3KZnO7pY9kcTEZwn3Z6OdupLsUvdHYVzVJUYkGFqzyecvEFI5bV3n0rnZhiUOuKZsvBBjuac5zHAaRHAlY7X0UObWw2OA/tyYeA6XbGcrryGH3m+LWoWOaApKcZGePSKbkqcRHPQlrQx+zfaMAe5r1KyH/2KiGVCDJIMkT4m/dxvkCgHJTAobYlVbjJP/kI9MiVDc7uOopvtNa7USkt0AYklAfWUl5i3+G1HllNqVltH+WZF1ttSXdX+tKIFs7BJixFa/amEpL0oGGXbeVx3wQabTnQRznBoEUI7/bvKYH8rZn71yE8RrwAB5uocZva2XzTK8F7ldOcjXsCN7b+vcAfbbfxT91POWnA6zW6DKmKoX2+L4v6K6qp5C+K1CaVp8MUEZk9fgQifqStT6M0wpizwHKBnppOQjmXu6xc+udY2GXcphO6gLo7MPr5niarZerFkMq4k5IPpeKevTVx3jStkkJq6CKhTwMgss3SqggkE44kJvnI7bDDlCWu63Q1mVqd7NGKaK+nIQ==;Au2CoDbbMS+zPnOX7MmhHg=="
 ---
 

@@ -54,7 +54,7 @@
       "originalUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -141,7 +141,7 @@
       "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -330,17 +330,17 @@
       "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
       "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256",
+      "webUrl": "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
+      "originalUrl": "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg",
+          "url": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/04/400x225-Free-Trip-Tuesday.jpg?w=2000&#038;ssl=1",
           "width": 400,
-          "height": 215,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -350,21 +350,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T05:09:00-07:00",
+      "publishedDateTime": "2022-04-29T05:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Fox2Now St. Louis",
+        "domain": "fox2now.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -526,6 +517,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-28-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
+      "title": "People in Beijing can now book a taxi with no one at the wheel",
+      "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220428000058-01-baidu-apollo-0422-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "publishedDateTime": "2022-04-28T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too.md",
       "title": "AI Ethics Wrestling With The Inevitably Of AI Accidents, Which Looms Over Autonomous Self-Driving Cars Too",
       "excerpt": "AI accidents of all kinds are coming and we need to anticipate the impacts, along with trying to mitigate the adverse outcomes. Examples shown via autonomous self-driving cars.",
@@ -576,58 +619,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
-      "title": "People in Beijing can now book a taxi with no one at the wheel",
-      "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "originalUrl": "https://www.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220428000058-01-baidu-apollo-0422-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "publishedDateTime": "2022-04-28T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -775,6 +766,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
+      "title": "Pittsburgh Welcomes Plus One Robotics",
+      "excerpt": "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1391,40 +1426,6 @@
       "provider": {
         "name": "Daily Express",
         "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-cathie-wood-on-twitter-europe-in-recession.md",
-      "title": "Cathie Wood On Twitter Europe In Recession",
-      "excerpt": "Magnifi is a fintech platform that uses artificial intelligence so individuals and advisors can instantly search stocks, ETFs, mutual funds and model portfolios and trade based on their preferences.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22",
-      "originalUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -66,6 +66,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Fintech Lenders Go Big on Cannabis Industry"
+    excerpt: "Los Angeles investors are puffing up the cannabis fintech industry, providing funding workarounds for companies that have historically been denied access to conventional finance. West Hollywood ..."
+    publishedDateTime: 2022-05-02T07:05:00Z
+    webUrl: "https://labusinessjournal.com/technology/fintech-lenders-go-big-on-cannabis-industry/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 24
+    images:
+      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/04/Screenshot-2022-04-29-155232.jpg"
+        width: 364
+        height: 362
+        isCached: true
   - title: "Ten FinTech Trends to Follow in 2022"
     excerpt: "FinTech is one of the five areas with a high Big Data growth rate. The industry needs a powerful tool to collect, structure and store information. One of these is artificial intelligence (AI). According to McKinsey, every year, it generates up to $1 ..."
     publishedDateTime: 2022-05-04T14:34:00Z

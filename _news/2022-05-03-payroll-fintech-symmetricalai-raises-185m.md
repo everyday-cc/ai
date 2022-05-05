@@ -52,6 +52,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Fintech Lenders Go Big on Cannabis Industry"
+    excerpt: "Los Angeles investors are puffing up the cannabis fintech industry, providing funding workarounds for companies that have historically been denied access to conventional finance. West Hollywood ..."
+    publishedDateTime: 2022-05-02T07:05:00Z
+    webUrl: "https://labusinessjournal.com/technology/fintech-lenders-go-big-on-cannabis-industry/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 24
+    images:
+      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/04/Screenshot-2022-04-29-155232.jpg"
+        width: 364
+        height: 362
+        isCached: true
   - title: "Why Gig Economy Has Become a New Trend in Fintech"
     excerpt: "Fintech startups are more suitable for this job ... Ventures, such as B9, Chime, Earnin, and Brigit, are able to calculate risks with the help of AI at incredible speed. They use it to provide gig workers with quick access to advances on paychecks with ..."
     publishedDateTime: 2022-05-02T08:00:00Z
