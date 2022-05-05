@@ -25,16 +25,14 @@ images:
 
 related:
   - title: "Financial-Technology Firms Tap AI to Reach More Borrowers"
-    excerpt: "With an uptick in consumer lending, financial-technology companies see a chance to grow by filling gaps for underserved borrowers, online lenders and industry analysts say. Rather than relying on traditional credit scores, many fintech lenders are feeding ..."
+    excerpt: "Nearly every big fintech company has to rely on bank partners for regulated tasks such as holding customers’ deposits and issuing debit cards. LoanSnap Inc., a five-year-old startup based in San Francisco, uses AI to scan financial information such as a ..."
     publishedDateTime: 2022-05-02T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
-    ampWebUrl: "https://www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
+    webUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 87
+    quality: 69
     images:
       - url: "https://images.wsj.net/im-535177/social"
         width: 1280

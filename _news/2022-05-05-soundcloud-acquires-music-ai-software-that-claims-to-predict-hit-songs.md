@@ -1,21 +1,28 @@
 ---
 category: news
 title: "SoundCloud Acquires Music AI Software That Claims to Predict Hit Songs"
-excerpt: "The AI software is capable of “listening” to more tracks than humanly possible, which will allow SoundCloud to make confident trend forecasts that, in turn, increase their “hit-rate” and ..."
-publishedDateTime: 2022-05-04T19:22:00Z
-originalUrl: "https://hypebeast.com/2022/5/soundcloud-acquires-music-ai-software-predicts-hit-songs"
-webUrl: "https://hypebeast.com/2022/5/soundcloud-acquires-music-ai-software-predicts-hit-songs"
+excerpt: "Audio artificial intelligence Company Musiio has been acquired by SoundCloud. Musiio is a recognized AI music platform with the focus of “listening” to new music and purportedly identifying the hits. The acquisition which was announced on Tuesday via a ..."
+publishedDateTime: 2022-05-05T06:25:00Z
+originalUrl: "https://www.techbooky.com/soundcloud-acquires-music-ai-software-that-claims-to-predict-hit-songs/"
+webUrl: "https://www.techbooky.com/soundcloud-acquires-music-ai-software-that-claims-to-predict-hit-songs/"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Hypebeast
-  domain: hypebeast.com
+  name: https//www.techbooky.com
+  domain: techbooky.com
 
 topics:
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2022/05/soundcloud.jpg?fit=750%2C400&ssl=1"
+    width: 750
+    height: 400
+    isCached: true
 
 related:
   - title: "SoundCloud acquires Musiio, an AI music curator, to improve discovery"
@@ -146,6 +153,6 @@ related:
       domain: musically.com
     quality: 17
 
-secured: "4o5Ywi/pCx+2rgwWMOulKJJ4CDX2y3/r/RT5CTmsEw1lwCymC44oAHTcCIXIwGIZ8F+hLb18UCljZwMezrU8n3Qy/wTmX3zvS7BF6d9B1KOYFJ+GG1KPsPHCShwjyQa+gdghmM1OzNp/V5Wx4UlxdHW7o5o5/rFQ48xSuYCzbBXR1AjLxkPCtgc0nXwsN2OGCj7guFT1xzs7NlbWukTEgPtbOYfG2jlN+4ViBlPfIplW9GG5XiB/tJ2KihDVOFLf13XIgRCptylm8PXKTwY5dbzYm3Vbf4Ewizcsjzc4sdXCzhMmJ4AnegMy4PZFDclcbokt3jWRStcjdgjsZ1HOfR9/sBp8TenzzLCXOR5G83C9LshCL+2JbIQEZ0RFRTXpPrR+Bppuo5DWoVuVvWUlOH7RejJjWbPRnk36Br/0RFFefk9rUd7vjIUuSwmQK15JosQm/KumrJP8mzHdiLRrErbjT5pKnAWJPDTMHr/65qA1HZG6gVFi43V8v41JSy8Jo0wnOLlF55d7bK+006CqJQ==;ZlZ2aIsgQb8YMDaKIb+IqA=="
+secured: "3Yn7uLqqv67IWvuw+lGmhwoPD9iiIOvIfq8vJpnM76fxNEMMCQkUhFLgvPe4Z2ypcntFNRyydpzp4hbUWAss2+g8xM7aVobuPJLC+k1kUrybeJW47UZaTr895lqguu/ZJ3FR0OEauGVvhUd8NMJ1KRrwfzE0Fw5HYisnUreSSiHHIfr0NEgrO+Rc341q0tb2QIKoPGbp4CGMuMcSUPQImXkNbv+2X74RUxuPikM92OuM/v9KRq5GPgd2fceGd0gvdpUyduXGYK0gFS5DwAsv3wT+0G/nHzm5e8FQnsI3SBCOa/A0tXZcQ2q2vcJzw1qUclBT4+RbKlzBJ3ZLfbR97DMyde1J0VeczNE2hfmGp/s=;8jTbd+wnCqPxrgbb+HrE9w=="
 ---
 

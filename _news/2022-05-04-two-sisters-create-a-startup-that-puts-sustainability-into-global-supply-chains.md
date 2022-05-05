@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startups apply artificial intelligence to supply chain disruptions"
+    excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
+    publishedDateTime: 2022-05-03T10:00:00Z
+    webUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "FOCUS-Startups apply artificial intelligence to supply chain disruptions"
     excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
     publishedDateTime: 2022-05-03T06:00:00Z
@@ -40,15 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 81
-  - title: "Startups Apply Artificial Intelligence to Supply Chain Disruptions"
-    excerpt: "LONDON (Reuters) - Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have ..."
-    publishedDateTime: 2022-05-03T06:21:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
 
 secured: "3ODb2QMOOW7oJVcQmMOzmQHUKLqj6CgohYxXHbvgZJXYOF02vJNDinYclahTWBstX/+5EjkvRRNW0d5nuUg6KkUIpsD48SraUeNT4vzIH6Gf4ScQyDH0Xecgi0FT9Dva5r+cPmcV6Pk1Gy585SI+KuinTLpF+YAvJOyntL8EvPX+Zfqg1AApOHbHIGqALODp5ZN3DkJ0Tr0Lyy19bSXQj8A65cxxXoNjKycEzMwh4akgxm+Ru2ewjTryXrVHys6vkcBTzW8Ta8CzHWXZLyvaUUT4t4Al+O319AD/u8cIK/A2Vsfgu0PTcDLw99J8VQqQpnhsYsC8SKHM92++y81Wm7Y6S5/d8r3nxxOn18e40hvYBbpbYgGl+Cule0h+66S4;Rq8MwcX/P8QpGFYWEmWu7g=="
 ---

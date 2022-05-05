@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/autonomous-land-speed-record/?amp=tr
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/autonomous-land-speed-record/?amp=true"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Self-driving tractors plowing ahead in the marketplace"
-    excerpt: "While there is a farmer sitting in the cab, the vehicle might be driving itself. That tractor is often operating on auto pilot using semi-autonomous, self-driving technology. While the tractor plows along thanks to features like autosteer and computer ..."
-    publishedDateTime: 2022-04-30T14:00:00Z
-    webUrl: "https://www.thestar.com/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace.html"
-    ampWebUrl: "https://www.thestar.com/amp/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 44
-    images:
-      - url: "https://images.thestar.com/gO5t4872uV1IKEn1S7e0f8hn69g=/1200x675/smart/filters:cb(1651257101548)/https://www.thestar.com/content/dam/thestar/autos/2022/04/30/self-driving-tractors-plowing-ahead-in-the-marketplace/_1wh_autotractor_main_april30.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "South Africa to introduce new rules for self-driving cars"
     excerpt: "The Department of Transport plans to formalise rules around self-driving vehicles in South Africa as part of an official policy push. Presenting its department performance and strategic plans to ..."
     publishedDateTime: 2022-05-03T14:39:00Z

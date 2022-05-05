@@ -2,6 +2,59 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-02-09-an-update-on-the-mathematics-of-machine-learning-book.md",
+      "title": "An update on the Mathematics of Machine Learning book",
+      "excerpt": "It's been more than six months since I started to write my Mathematics of Machine Learning book. Recently, I was focusing 100% on writing. So, an update is long overdue. Here is the journey so far and the road ahead. 1. The past. I have always wanted to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/update-mathematics-machine-learning-book-tivadar-danka",
+      "originalUrl": "https://www.linkedin.com/pulse/update-mathematics-machine-learning-book-tivadar-danka",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH7cZahYvyE2Q/article-cover_image-shrink_600_2000/0/1644396933872?e=1649894400&v=beta&t=JO3_43E7bfMO3V0Pk5NwfA3A_q_UCH1de_oY_8fonUg",
+          "width": 955,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-microsoft-open-sources-graph-engine.md",
       "title": "Microsoft open-sources Graph Engine",
       "excerpt": "The LIKQ query language is also used by Microsoft inside of its Cognitive Services, specifically its Academic Graph API. Both the LIKQ language and the Graph Engine source codes are available ...",
@@ -1096,60 +1149,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-a-simple-guide-to-artificial-intelligence-and-machine-learning.md",
-      "title": "A SIMPLE GUIDE TO ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
-      "excerpt": "Artificial Intelligence and Machine Learning have recently become popular topics in the technology industry. But, perhaps more than in our daily lives, Artificial Intelligence (AI) impacts the business world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/simple-guide-artificial-intelligence-machine-learning-",
-      "originalUrl": "https://www.linkedin.com/pulse/simple-guide-artificial-intelligence-machine-learning-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHsBBrN7RjH1A/article-cover_image-shrink_720_1280/0/1644319125783?e=1650499200&v=beta&t=8Os7ITqSx4sx0sTgVqqShaAo_bhOQbbxaituAPq0jRo",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

@@ -120,15 +120,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Medical Artificial Intelligence Market, Global Outlook and Forecast 2022-2028"
-    excerpt: "The global key manufacturers of Medical Artificial Intelligence include Ali Health, Ping An Healthcare And Technology Company Limited., Tencent, Tianjin Happy Life Technology Co., Ltd., WeDoctor, Beijing Dongruan Wanghai Technology Co., Ltd., Unisound AI ..."
-    publishedDateTime: 2022-04-30T13:20:00Z
-    webUrl: "https://galleonnews.com/uncategorized/255559/medical-artificial-intelligence-market-global-outlook-and-forecast-2022-2028/"
-    type: article
-    provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 16
   - title: "AI in Infrastructure Market Analysis Size, Share, Growth, Demand, Outlook By- Trends, Opportunities, Challenges, And Investment Feasibility 2029"
     excerpt: "The new study report titled “Ai In Infrastructure Market” comprises a thorough coverage and essential advancements in the market based on analysis conducted by our research analysts. The information was developed with a fantastic combination of ..."
     publishedDateTime: 2022-05-03T11:49:00Z

@@ -140,6 +140,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-21-artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading.md",
+      "title": "Artificial Intelligence (AI) Market 2021 Witness Widespread Expansion of Industry Growth with leading",
+      "excerpt": "Moreover, developments such as self-driving cars, space exploration, accurate weather predictions, and other prominent developments are boosting the demand for artificial intelligence technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading-2022-04-21?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading-2022-04-21?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-why-c3ai-is-a-long-term-play-at-the-burgeoning-ai-space.md",
       "title": "Why C3.ai Is a Long-Term Play At the Burgeoning AI Space",
       "excerpt": "Enterprise AI software giant C3.ai (NYSE:AI) is part of The Americas’ Fastest Growing Companies 2022 list by the",
@@ -1076,49 +1128,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-trust-stamp-ceo-to-speak-at-rutgers-law-school-fintech-and-blockchain-collaboratory.md",
-      "title": "Trust Stamp CEO to speak at Rutgers Law School FinTech and Blockchain Collaboratory",
-      "excerpt": "The global provider of AI-powered identity services said Gareth Genner will be speaking on the use of identity tokenization for",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/980121/trust-stamp-ceo-to-speak-at-rutgers-law-school-fintech-and-blockchain-collaboratory-980121.html",
-      "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/980121/trust-stamp-ceo-to-speak-at-rutgers-law-school-fintech-and-blockchain-collaboratory-980121.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC9ibG9ja2NoYWluLTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/980121",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/980121",
-      "publishedDateTime": "2022-04-20T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors UK",
-        "domain": "proactiveinvestors.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

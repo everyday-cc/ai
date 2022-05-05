@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "SoundCloud Acquires Music AI Software That Claims to Predict Hit Songs"
+    excerpt: "Audio artificial intelligence Company Musiio has been acquired by SoundCloud. Musiio is a recognized AI music platform with the focus of “listening” to new music and purportedly identifying the hits. The acquisition which was announced on Tuesday via a ..."
+    publishedDateTime: 2022-05-05T06:25:00Z
+    webUrl: "https://www.techbooky.com/soundcloud-acquires-music-ai-software-that-claims-to-predict-hit-songs/"
+    type: article
+    provider:
+      name: https//www.techbooky.com
+      domain: techbooky.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2022/05/soundcloud.jpg?fit=750%2C400&ssl=1"
+        width: 750
+        height: 400
+        isCached: true
   - title: "SoundCloud acquires AI music tech company Musiio"
     excerpt: "SoundCloud has acquired AI music company Musiio. The start-up has featured on Music Week in recent months as it launched new products and established more partnerships for its machine learning tech, which enables rights-holders to gain greater control over ..."
     publishedDateTime: 2022-05-03T15:53:00Z
@@ -136,15 +150,6 @@ related:
     provider:
       name: Music Ally
       domain: musically.com
-    quality: 17
-  - title: "SoundCloud Acquires Music AI Software That Claims to Predict Hit Songs"
-    excerpt: "The AI software is capable of “listening” to more tracks than humanly possible, which will allow SoundCloud to make confident trend forecasts that, in turn, increase their “hit-rate” and ..."
-    publishedDateTime: 2022-05-04T19:22:00Z
-    webUrl: "https://hypebeast.com/2022/5/soundcloud-acquires-music-ai-software-predicts-hit-songs"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
     quality: 17
 
 secured: "trZvpTROTGVJFDMlaAvIldwO0z4agXrAfregpIj78h0oQyoLD4MwnnXIHrsmhAytZIScvFFFBASmkRXQSSt07j1tzsYgoaLJRtGrRH3YXqQjin9CxfD+BUo5l7yxJTfKGfmhQHSFej5z17x9+RZ6X7szmbXslCkIxxIdQLtivMElLdbS9wfRTppy3Fzld8mPaSoQILwCJitHw2wJg1LceJxwYKBrnHegzaJqcUEWYaxXrclR1M3t7SueP3oiMNcRtHbJAmC0rAgf+RNrCpwWZlmprYyFKIWVCo7+E6LPzndCauGJT7AA4iZzFlgjn/FVKD4nWsf/B05nsvk8csYiSb+3L87hrB3ZKa4/D722ziQ=;KgXP93bz+U4xEwQT/wz6WQ=="

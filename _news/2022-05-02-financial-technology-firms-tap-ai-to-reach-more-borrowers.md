@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Financial-Technology Firms Tap AI to Reach More Borrowers"
-excerpt: "With an uptick in consumer lending, financial-technology companies see a chance to grow by filling gaps for underserved borrowers, online lenders and industry analysts say. Rather than relying on traditional credit scores, many fintech lenders are feeding ..."
+excerpt: "Nearly every big fintech company has to rely on bank partners for regulated tasks such as holding customers’ deposits and issuing debit cards. LoanSnap Inc., a five-year-old startup based in San Francisco, uses AI to scan financial information such as a ..."
 publishedDateTime: 2022-05-02T08:30:00Z
-originalUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
-webUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
-ampWebUrl: "https://www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802"
+originalUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc"
+webUrl: "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc"
 type: article
-quality: 87
-heat: 107
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -21,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Finance
   - AI
 
 images:
@@ -59,6 +58,6 @@ related:
         height: 400
         isCached: true
 
-secured: "wTMZt5qdXJze4ChJlEBVpyesbf1ooLZpB7vuZ7NZ4KlPVErFDaZ3OSXkmI7C8T6pJvLGVaERuXOhyIy3CKC0wq3WevrZYizPUtJJTUrnMuxhPQD/5r8GpS1ekmkdMG8YaeKznxwiRW8DgRB3qUyEHr6SQxjSI+6bNSZdJK3TM5Bm7Ha/O86/jHeVE+ADwCA2ozXDS/m/EO7hJOTnyfkfU5BM4PTYa+Mu8am6ynWL0eEv0UxwMSzKpb7xlcIOoKaES2T2vYGzv1Kwuh4bqA0oqkoQV3e6/i7u4lz9IZ6HDV8BF3/aHOv0CQUizjUrrX6G/7F9Htor4Uv+uDrIUhn3UtYO8ThjLWIIvVNvlueFUo4=;UdYJyHOKnaYuU0POU5Gdtg=="
+secured: "bPf1bYapqXv4J4HkPtfHAWjR9DI1E0SzKFsDquyLRRiE9WaVug3umPFZW22R6zwDiClLIjt2z7DE4K1oMiOwTg2nj7LEDA3aoQZOr+WjJaJaCvFcrdBoXyk+xkLAQj/sGhblrsEAxNdihUAPeUBRpG61pQETFmrrvCi44HTibdakCMU6JVLhQ/bZzZwKqW2XTvHgggD2PQOstPaayKHmuo0WSeuygRKIp44sA80xINAYhuzjr7yBV5JjWBHKFOPOfamQhh4fohuagbQctHrDfi+JdeXquSOOFfwiym9I3WyOVTrF2rSdkLX10mC4IrACfuJTUp2QLKhVNbl4SbEZKjZXqzyvvouUXNcWh6A1UZo=;eNTWMxr1GUWx8c/5rUjOIA=="
 ---
 

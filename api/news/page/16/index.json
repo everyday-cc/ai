@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-04-19-imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills.md",
+      "title": "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills",
+      "excerpt": "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities.md",
       "title": "Hyundai chooses IonQ's quantum tech to improve its vehicles' object recognition capabilities",
       "excerpt": "The automaker hopes the quantum machine learning services of IonQ can help it improve its 3D object detection safety systems for drivers and autonomous vehicles.",
@@ -1089,59 +1132,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-the-success-of-ai-lies-in-the-infrastructure.md",
-      "title": "The success of AI lies in the infrastructure",
-      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Artificial intelligence (AI) is bringing many changes to the enterprise, none of which is more vital to its success than infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/AI_infrastructure.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/",
-      "publishedDateTime": "2022-04-18T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
       ]
     }
   ],

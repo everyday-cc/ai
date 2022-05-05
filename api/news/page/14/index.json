@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-04-20-trust-stamp-ceo-to-speak-at-rutgers-law-school-fintech-and-blockchain-collaboratory.md",
+      "title": "Trust Stamp CEO to speak at Rutgers Law School FinTech and Blockchain Collaboratory",
+      "excerpt": "The global provider of AI-powered identity services said Gareth Genner will be speaking on the use of identity tokenization for",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/980121/trust-stamp-ceo-to-speak-at-rutgers-law-school-fintech-and-blockchain-collaboratory-980121.html",
+      "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/980121/trust-stamp-ceo-to-speak-at-rutgers-law-school-fintech-and-blockchain-collaboratory-980121.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC9ibG9ja2NoYWluLTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/980121",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/980121",
+      "publishedDateTime": "2022-04-20T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors UK",
+        "domain": "proactiveinvestors.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m.md",
       "title": "Mutiny, which personalizes website copy and headlines using AI, raises $50M",
       "excerpt": "Mutiny, which leverages an AI platform and OpenAI's GPT-3 to personalize website content, has raised $50 million at a $600 million valuation.",
@@ -1071,49 +1114,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-designing-a-soft-robot-to-improve-lung-examinations.md",
-      "title": "Designing a soft robot to improve lung examinations",
-      "excerpt": "Seniors in the Department of Mechanical Engineering at the University of Colorado Boulder are designing a new soft robot to improve physicians' ability to examine the deepest part of a patient's lung.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/mechanical-engineering-2.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-soft-robot-lung.amp",
-      "publishedDateTime": "2022-04-19T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
