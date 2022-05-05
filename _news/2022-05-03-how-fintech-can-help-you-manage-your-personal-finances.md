@@ -3,8 +3,8 @@ category: news
 title: "How Fintech Can Help You Manage Your Personal Finances"
 excerpt: "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions."
 publishedDateTime: 2022-05-02T20:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
-webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
+originalUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse"
+webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse"
 ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
 type: article
@@ -103,6 +103,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "XCSA1ojGD7a2b7zFmrPcOm6p+9ZoUeTKDsjDK4qQO5hkpb6yYahBtrOOBETvDHp2KU3+cQhwLo0JBLxrkQtEiA+yTQyb5O51QEQdUDURKHxpJhLbJX9siyYmsypqP7P0QzCy2ztNWB+LMtggPq5JocGmKOlZrJf/ZMvne7nNDe4ZuKPJQYuMtOA2wtETMy/kGtzgBvEyQfOKT9lcpckY/fX8XhywfUSQcABvrZxnBpcTumbIKUzYDTLqRrumVi0MlkRFEYujchxLmwXh2mwSsU41uluf7vjpg9MCoFio70qvz5rd+cH9eiQ44MqpfLOX9GopkeEtiMTqGsGF5i4wThvsvxOOz+6THjYT0LxdYWo=;rXpZp3D0Hd0+FKXTkgFSQQ=="
+secured: "lcnzfP8gyfNx61dtDuNBZG3lVddJAr5+y47xxQIQueCCVXfAYUpovDPfuBe+6v6y8eOY/yo3pipOpJ7+R2LemJiF1OUycV8yrBMrUM6YIOXBez1tvZqh8oQda+KgKOTf0m5J9OUhpn+2p5+L9xGUWBjVErK+0R1cTzkBXKSi1x26buwLfbNClEU9dHWsBbDOJoPtc18+/WYLLHKgUhKVr/7SXYUt2rYtIA1sCt+Ta45NHIhJZZaZQhyjPp9y2pf+g0GYo+w+h7EDsdrwdy7RiIn5uvHLHzEgcFCkuJd7WmArkkB7BBb7PhSen03kfVnaL1AazSDzhBsDNMtZpJzVZWA/+dAED8AMjKQkSY2610E=;8CGV1yuX1MTQQLXrc/15zg=="
 ---
 

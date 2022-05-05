@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-12-ai-strikes-again-self-driving-cars-are-already-here.md",
+      "title": "AI Strikes Again – Self Driving Cars Are Already Here",
+      "excerpt": "Artificial Intelligence (AI ... In forty years, it will be sixteen times faster. Self-driving cars are already on our roads. Transportation companies like Uber could increase their profits if the costs of drivers are reduced. Elon Musk has already ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here",
+      "originalUrl": "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/Self_Driving_Cars.jpeg",
+          "width": 877,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving.md",
+      "title": "Tesla fans struggle to get loved ones on board with ‘full self-driving’",
+      "excerpt": "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on “full self-driving.” “I need you to understand that I have complete ...",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/",
+      "originalUrl": "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2022/04/hypatia-h_76fc8d5f09eb04d40e3771d33a9c88b8-h_05c90993896ab07f75425a693e99237b-300.jpg",
+          "width": 2000,
+          "height": 1351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too.md",
       "title": "AI Ethics Welcomes The Prospects Of A Standardized AI Risk Management Framework, Which Could Bolster Autonomous Self-Driving Car Efforts Too",
       "excerpt": "AI Ethics is embracing the efforts to craft an AI Risk Management Framework (AI RMF) that is being formulated as a standard by the NIST, and which will likely aid the advent too of autonomous self-driving cars.",
@@ -1260,92 +1346,6 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
-      "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
-      "excerpt": "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/03/31/kenya-internet-poa",
-      "originalUrl": "https://www.euronews.com/next/2022/03/31/kenya-internet-poa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/wires/841/56/8415664/1000x563_jj5six.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-why-is-baidu-bidu-stock-down-today.md",
-      "title": "Why Is Baidu (BIDU) Stock Down Today?",
-      "excerpt": "Baidu operates the largest internet search engine in China, and in recent years, has become heavily involved in other technologies, including self-driving vehicles and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "originalUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
-      "publishedDateTime": "2022-03-31T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

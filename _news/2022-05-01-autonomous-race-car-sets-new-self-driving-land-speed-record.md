@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/automotive/autonomous-land-speed-record/?amp=tr
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/autonomous-land-speed-record/?amp=true"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -145,6 +145,20 @@ related:
       - url: "https://images.axios.com/JunsvWGOvXMqXer8PkXH6v-iTbU=/0x0:3840x2160/1366x768/2022/05/03/1651599007793.png"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Insurance for self-driving cars"
+    excerpt: "Self-driving cars hold the promise of improved safety, but they're still years away. Learn about insurance for driverless cars."
+    publishedDateTime: 2022-05-05T10:59:00Z
+    webUrl: "https://www.progressive.com/answers/insurance-for-driverless-cars/"
+    type: article
+    provider:
+      name: Progressive
+      domain: progressive.com
+    quality: 24
+    images:
+      - url: "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/bltec8e663876ff93ce/60a526d0e2db156d00f0b7fb/perficient_facebook.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Self-driving cars will need smarter roadways"
     excerpt: "One way to speed the adoption of self-driving vehicles is to give them automated express lanes, where they can zip past regular traffic without having to tangle with human-driven cars. Why it matters: For all the billions companies are spending to develop ..."

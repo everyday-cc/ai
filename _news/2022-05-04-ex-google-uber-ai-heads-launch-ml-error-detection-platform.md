@@ -3,8 +3,8 @@ category: news
 title: "Ex-Google, Uber AI heads launch ML error-detection platform"
 excerpt: "Meta releases code for massive language model to AI researchers AMD to offer CPUs with Xilinx AI engine in 2023 Microsoft to ax Azure Video Analyzer in November AI models still racist, even with more balanced training Fixing problems with ML data is the ..."
 publishedDateTime: 2022-05-04T11:13:00Z
-originalUrl: "https://www.theregister.com/2022/05/04/galileo_ml_error_detection/"
-webUrl: "https://www.theregister.com/2022/05/04/galileo_ml_error_detection/"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/04/galileo_ml_error_detection/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/04/galileo_ml_error_detection/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/04/galileo_ml_error_detection/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/04/galileo_ml_error_detection/"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 562
         isCached: true
 
-secured: "9G+cFmrt9O/9otadgOQzlpMQAggeieXHecc18BYxH3vFGe397i2fhxU1e4p9K87gFrS3DadzSSb43MnYZ7Gt/SuvnoYHgsWaGpTUN2rqQyCm4ZKTQVnXmKUtcae4Wpy9xZgiqr1yaykfKgT5ztCccsU1QdfXOxHPBuX5ZHFrdj/pa5Q56K++dtpiUa9FRQqGXkBrY62GeX8rGf08ayT6TBVGmu0YgiVm0Sl1fsCantSqwc4+LIFSMArhQ4VhYgXnTrzzZAZcaHhhzmrXYGme60Z7r5RrVpSRqjET8A1I/UaLVncC+QV0g1Dkua/v+oHvmnmIlrXh6Z/nxAaVNvDyPnUgEVFpP+Ar426l6kNBkqF1GqcCxPe0YmXvxngZpVvhkaMXQxnms/jER14bUYu4Gpg8JIPtgmLleEMkL74Cl/qr0pa7CC5PhdZP6xiMxf1x2EN8eNURjnDwuSkGkKfPdV1aDKmn/bD3Oiu4skIiAUyNeBb49758hlpntcoP9QFKkXCVtMHMeMYLWqWbP7ssxA==;sZ7KhsxM4idzQTzZ5lizlQ=="
+secured: "v/gcopjKRdoDHJQq8Al4gmygit3VT5YVJaXpXt5W9+pfzbDmZOS+9NTAiBBRWAkjRnGnNbg8l7dUBbhGo4AmQ3xR0iqtrw9NEqpuZ6xOkYR4XSRIIKcG8tjYTGBdJngCmX7CLHh3u0hzS/d7MrwI3tneYsR7nv9JGte/+TK5SLO1I/KGMin9q58F5c1yXiaCz0dNeYLuMYL9iRGTm5EnHVjQ6bj4jVadwInkZHp17GvRY6P8xWPrVnWMgKjYV4zNKYAfZwL5MX+C/M5AmNJFFEhdcmVJKnCRYaDhyrQTCzegMktp5alMAYfe9bel8IWBBx8qPB/PGBwLKJxuCTkdMJ4/RZBt/BidqoFAepoo+rw=;Kc/XBdKaG5Y8xqVA2serJw=="
 ---
 

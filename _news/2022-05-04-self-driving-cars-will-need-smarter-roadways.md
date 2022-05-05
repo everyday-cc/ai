@@ -142,6 +142,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Insurance for self-driving cars"
+    excerpt: "Self-driving cars hold the promise of improved safety, but they're still years away. Learn about insurance for driverless cars."
+    publishedDateTime: 2022-05-05T10:59:00Z
+    webUrl: "https://www.progressive.com/answers/insurance-for-driverless-cars/"
+    type: article
+    provider:
+      name: Progressive
+      domain: progressive.com
+    quality: 24
+    images:
+      - url: "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/bltec8e663876ff93ce/60a526d0e2db156d00f0b7fb/perficient_facebook.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-driving cars will need smarter roadways"
     excerpt: "One way to speed the adoption of self-driving vehicles is to give them automated express lanes, where they can zip past regular traffic without having to tangle with human-driven cars. Why it matters: For all the billions companies are spending to develop ..."
     publishedDateTime: 2022-05-04T17:32:00Z

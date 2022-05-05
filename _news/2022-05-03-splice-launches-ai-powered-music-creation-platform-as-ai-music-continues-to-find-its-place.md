@@ -27,7 +27,7 @@ related:
   - title: "Ex-Google, Uber AI heads launch ML error-detection platform"
     excerpt: "Meta releases code for massive language model to AI researchers AMD to offer CPUs with Xilinx AI engine in 2023 Microsoft to ax Azure Video Analyzer in November AI models still racist, even with more balanced training Fixing problems with ML data is the ..."
     publishedDateTime: 2022-05-04T11:13:00Z
-    webUrl: "https://www.theregister.com/2022/05/04/galileo_ml_error_detection/"
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/05/04/galileo_ml_error_detection/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/04/galileo_ml_error_detection/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/04/galileo_ml_error_detection/"
     type: article

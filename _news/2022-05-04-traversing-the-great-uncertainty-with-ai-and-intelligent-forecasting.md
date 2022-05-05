@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Getting comfortable with AI ethics"
+    excerpt: "Which is probably just as well: how we as humans are going to interact with AI as it develops is one of the questions of our time. So how do we get people to engage with these uncomfortable conversations?"
+    publishedDateTime: 2022-05-05T10:28:00Z
+    webUrl: "https://www.techuk.org/resource/getting-comfortable-with-ai-ethics.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 54
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/3f4a9f73-5300-4cae-9e6cc122189ffb87/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Office-working-251122234-web-1500px.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "JOINT ARTIFICIAL INTELLIGENCE CENTER"
     excerpt: "Prior to joining the CIA, Mulchandani most recently served as the CTO and Acting Director of DoD's Joint Artificial Intelligence Center. He also co-founded and was CEO of several successful startups- Oblix (acquired by Oracle), Determina (acquired by ..."
     publishedDateTime: 2022-05-01T15:34:00Z
