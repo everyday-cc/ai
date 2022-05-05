@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Human-Brain-Artificial-Intelligence-AI-Illustration-777x518.jpg"

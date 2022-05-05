@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Security
+  - Facebook AI
 
 secured: "3HwiOMBwpL4rfR7IVPL53XsseJMpFe8UFE4uSNsqKHkS4LC76wcdSNtyhpZ+m5ykzJlPCagQYRoP/RLnVhSb8PZA3aTlU58BoDEf+RH0VlqTkHbusLYvCYkZOI30i1UWGJaCOESA6wA+wT3ES98oxZacD3Ejh9uE3TkO086Z8MuCS4X/W2ArsYdn0e67YUEIHD9YAXHuMLUSRICMPXwg9kac0g2K/xPnFNTHNrZbUQIhyedylsR0cQgEOWhn1PEl1dknDol6pvEUSaM8wzsB0k8fi0aCgDEo9exfdT4PkMalc8AZsIt46wiLbPwHmmZZd6wQ+UFxTklvUgJFIdooxouxikkm2OVQ1D6Jm22g1Rw=;bTf3jNyU6wHHtddWrEQAmQ=="
 ---

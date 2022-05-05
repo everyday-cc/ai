@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/aa95ceeb-d67b-4a0b-92e6-70483ee2ce4c/Rendition/low-res/Content/Public"
@@ -35,6 +36,6 @@ related:
       domain: thepharmaletter.com
     quality: 17
 
-secured: "HPJvt7lw0QRY4m0bc82L7QXeoig78q26N6hbqk8Y3KLSM/qEpJDdNBwIXsMBM5/yhu8fmj91/650G4kmmq5f+BwI7LYNrdC6PvlWS6oemJuuIN/Eq31dIzbLRb/2zUw4TlBoH/5eXemQCG130hjVCJfqVwe7+Jru6ffUZJYsX4LidZEF142/2vmha4qa5AW4MHJFl8a7gb7xaud1mIMzaW/sI3hvGeAOJEbji9cjsth+EIs8epG8+7wLOWKeAEKFNuAUoz95TmzxluEd3S6vnuX74vizjWZYYd1/gyNHifQHK/LpbviNfAeI5lLAwQ1WUlrmu2OPmyl5EOk/ty/NElJeUaDHr1ApWadzSq0zLLE=;qzMq9kfnKofwdWgM/2+55w=="
+secured: "pAkjEhK4tiWXeUuh+Z19sFsDluQDLktw/yysmfEmpLOKXOJJPSnHQgcpfvmxwmFXbVq30im1WonFRLVnJ9wR3+VCeVy8Nz/EjTNuq8DyrwVi6mvXS2OWf1KmYmuU05NiRhkw5qmH26aoorGHZln+rYtgXM1l13MQaaDJv8CvKJ8dgsLMCZEt3Fqh9oktEQRJnphXtvnYg4rbxKRkENKXaebHnPPPX/YWDK81I+iUiwLZH2GDpZrFdktsyA/9JqStUJfbwk3jzSVEnq5iy0wL044f6sd8SZd1m+66FrMd6Zfypr5LTE46Czo48YRDaXSgxb6R7mIQAkW0TAGEDIP7zVpgK/7C/r8XDt6wwqdIs03wzmLt7lKudRkl9EBHBQQpNN+Y/NaQdZq2OPOOxzxY8pODGLTXCn5ANZy6ouEaEYmA8sxzaYGhOZ4AZQKnkGxjo2a7jntOT6i7zO0JoWRzUFrfU4rdo5Lqb1pZFEy5/8PJ1AiiOHX1VEOvezRoDMLmyw6dULlBmiYtRn8JUGzNCw==;+jHsvmhtDxTH+QIgR6dPww=="
 ---
 
