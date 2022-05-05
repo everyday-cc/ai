@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Philips Speech Teams Up With Sembly AI to Launch a Brand-new Speech Technology Solution for Meetings"
-excerpt: "Speech Processing Solutions, the global leader in professional speech-to-text solutions sold under the Philips brand, has teamed up with an exciting American start-up named Sembly AI. Together they’ll unite to provide high-quality microphones and smart meeting technology."
+excerpt: "Together they’ll unite to provide high-quality microphones and smart meeting technology. Sembly goes beyond simple speech recognition and offers users instant searchable meeting transcripts, highlights key discussion moments, and creates summaries."
 publishedDateTime: 2022-04-26T07:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-0b65f1e285284b51b48fad0ed417319a"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-0b65f1e285284b51b48fad0ed417319a"
+originalUrl: "https://www.valdostadailytimes.com/news/business/philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution/article_94537cff-880a-5ed6-bee0-ce877808d418.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution/article_94537cff-880a-5ed6-bee0-ce877808d418.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Wpazo1EgiYS3Iv/E7hPi07nv0YtitLApAH8pewxR9L/yL1ktKFyEekSipLmdB3b7M2h+GgiwuJ4HGD/nD0XR4pg/wJVRQqFBlxw9tIBPrXWrB9PkbUWzhY14mFnPg/LT8XulbcFGy81XVYgu7z2HLFJ2gKZ5OKZLqHhkx8/BExVlEYhXlmw7IH2ca5CLWS905PJFHiva56EDJ/KZXJEbQ038Nsf5ZmV/6fvF77lXB7CRUZAeJsYCEYhB/twLU14gj/RudKymjEj8KGWSKTMEklostklsW0f4lKjKk5Y3mrN8MMapjVij+6ipIxkC3bmE9qxuoJHebqLBzEvYweB+KNTG/nmp3sPVYq71ujH/HVk=;Ji/L8Aa305FmxS+9p8TOTw=="
+secured: "lVS1d2rwgW31itjigtxg3jqBijMAfeQPge3ZGPG8ig8z1Y6rP8dvcf4wKMhOreJezHZUJsLpz2C2Ru1oGkypiXsDhVxqxBmjepoecKGIcLDC1PQRPMx7norRPa8zSioBSGXC3g6oZ/A05MIN9C/+j6NKe6/41slTF9tuzJ55NfCvG7l6Z6JUNI4jiYIZihAwt2bAwPTPLABBPi9ye82atuoad9v171esfvXlcQJZJQ48VYeET59iQdi13n1I5f2Qm108gg5JvjiFqS2jwfYp6k2JhrPNPCMAHrGt/i9+gSAXgS6KNQZom8wBwUIJt5lJYMT8c4kYUy1onSkD759xq7p2tjZ6DldawQJaCg3ZX/yjx1nylrQ42NKjLPB81SzQA6cQ9Wfe8yCSU4Aibvzd05Z44GGpSyGsjCTm5bjdI6qAtjtRXfy1TjYoxdLc4mfhALpLsoDL8l3EflYRefMU6fDEe4gQlsQFCPCRyvC0X4n/Cp/JFWk3z8QU1oLyGre8ZpPUxlKHX7wZFY0Btr8b+Q==;BibZkDrDY2KC3zZvCLB38Q=="
 ---
 
