@@ -60,18 +60,18 @@ related:
         height: 398
         isCached: true
   - title: "Axiomtek Unveils AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform for 5G and AIoT Applications"
-    excerpt: "processor and 384-core NVIDIA Volta architecture GPU, delivering up to 21 TOPS accelerated computing performance for running modern AI workloads. The advanced edge AI computing platform supports ..."
-    publishedDateTime: 2022-05-03T04:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform-for-5g-and-aiot-applications-1031410891"
+    excerpt: "Advanced Features: NVIDIA® Jetson Xavier™ NX with Volta GPU architecture with 384 NVIDIA CUDA® coresAdvanced edge AI platform for AMR, AGV, and computer visionWide power input ranges from 9 to 36 VDC (ignition power control for option)Supports four GbE ..."
+    publishedDateTime: 2022-05-03T03:55:00Z
+    webUrl: "https://www.djournal.com/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/article_370775ff-0735-57de-a619-c8ff310d7eec.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: Daily Journal
+      domain: djournal.com
+    quality: 15
     images:
-      - url: "https://mma.prnewswire.com/media/1809632/AIE900_XNX__Fanless_Edge_AI_System_NVIDIA__Jetson_Xavier__NX.jpg"
-        width: 400
-        height: 400
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "zdmXjMTqFejzVRXYE1PD7RipOu0AkMYuZU0BBUYovTZPEzYZuZ0Fg0DbZKjyd4QYLLMnDqPXKnWxcNFoQsUp2HNZ4s4z77XrfJ0aFiOUB5/88ZcJTsMOaH9KZxxDP8AMh3/r0MHqAAnOUhk8NmpF4aYcmMoR0zZfmrwV9Qv8gHIXpCN5djDhWY3te8XU+copWcjWxZ6nKrzeGdh1+f9gnxc923VXS1Jf+m+WPdAPnfhp0zmqlgLz2P3ByC8Z8vnhQtE7IwSokFpVGwJDaGaAQriuUtn7rIKe7ccoyDdfMRMaZfPDOeKiy0lr2p0i+39ycyuEULrytdmLx3ygTWXdJfw1o7HLn1HD5fOgzJUA5aqPbjUeM6WgRULC2iQzmZthZWkhMABI68s4wC9CyUIwLWwiSFgxV8jvQmHQCLx0UDNgXPbfq/D3B2TyfPxHJ3q+fi7lb4fWFOibP16WrXpJXZPxqJ/73bDicU3XERGFXmHXjY7c4fOml/ni1P53gIwuXE5O3C/eKm6slwX5NAGr9g==;vt+woFnWK+2NYKIR39bl/A=="

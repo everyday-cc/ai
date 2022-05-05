@@ -7,7 +7,7 @@ originalUrl: "https://labusinessjournal.com/business-journal-events/ai-powered-c
 webUrl: "https://labusinessjournal.com/business-journal-events/ai-powered-cybersecurity-protects-businesses-from-the-inside-out/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The next cybersecurity crisis is poisoned AI"
-    excerpt: "The very nature of machine learning, a subset of AI, is the target of data poisoning. Given reams of data, computers can be trained to categorize information correctly. A system might not have seen a picture of Lassie, but given enough examples of ..."
-    publishedDateTime: 2022-04-30T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2022/05/01/2003777503"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 37
-    images:
-      - url: "https://www.taipeitimes.com/images/2022/05/01/P09-220501-pic9A.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "AI for Cybersecurity Shimmers With Promise, But Challenges Abound"
     excerpt: "Companies see AI-powered cybersecurity tools and systems as the future, but at present nearly 90% of them say they face significant hurdles in making use of them. Companies are quickly adopting cybersecurity products and systems that incorporate artificial ..."
     publishedDateTime: 2022-05-04T15:01:00Z
@@ -52,6 +38,15 @@ related:
         width: 6000
         height: 3750
         isCached: true
+  - title: "AI –powered intelligent security makes the Hybrid Enterprise possible"
+    excerpt: "AI-powered intelligent security makes the hybrid enterprise possible ... Researchers are looking at how the brain and AI language models respond to the same spoken or written sentences. “We’re trying to compare AI systems to the brain, ..."
+    publishedDateTime: 2022-05-03T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-powered-intelligent-security-makes-hybrid-enterprise-akintayo-joda"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 36
   - title: "Research Shows Security Pros Believe Cybercriminals are Winning the AI Race"
     excerpt: "Findings also reveal the extent to which organizations are struggling to effectively implement AI to aid and augment cybersecurity efforts, with more than 50% having to undertake major changes, or reset and start over. The research, conducted by Wakefield ..."
     publishedDateTime: 2022-05-03T13:03:00Z

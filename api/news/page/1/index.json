@@ -391,6 +391,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-04-who-is-ethically-responsible-for-the-actions-of-ai.md",
+      "title": "Who is ethically responsible for the actions of AI",
+      "excerpt": "The work is described in ‘The Dawn of the AI Robots: Towards a New Framework of AI Robot Accountability‘, published in Journal of Business Ethics – available in full, expect much philosophical language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/news/business/ethically-responsible-actions-ai-2022-05/",
+      "originalUrl": "https://www.electronicsweekly.com/news/business/ethically-responsible-actions-ai-2022-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2022/05/04113809/Durhamlogo.jpg",
+          "width": 1024,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-ex-google-uber-ai-heads-launch-ml-error-detection-platform.md",
       "title": "Ex-Google, Uber AI heads launch ML error-detection platform",
       "excerpt": "Meta releases code for massive language model to AI researchers AMD to offer CPUs with Xilinx AI engine in 2023 Microsoft to ax Azure Video Analyzer in November AI models still racist, even with more balanced training Fixing problems with ML data is the ...",
@@ -443,7 +486,7 @@
       "originalUrl": "https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1141,49 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders.md",
-      "title": "The robots aren’t coming for your jobs — at least according to these AI and robotics leaders",
-      "excerpt": "(GeekWire Photo / Todd Bishop) PITTSBURGH — There are no shortage of headlines about automation, artificial intelligence and robotics wiping out large swaths of employment, from truck drivers to painters to food service workers. But opinions are mixed on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/",
-      "originalUrl": "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/",
-      "publishedDateTime": "2022-05-03T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

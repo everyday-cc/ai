@@ -7,7 +7,7 @@ originalUrl: "https://labusinessjournal.com/featured/ai-for-the-trades/"
 webUrl: "https://labusinessjournal.com/featured/ai-for-the-trades/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "DHA Streamlines Its Request for Tenancy Approval (RFTA) Process With Artificial Intelligence-Based Platform Bob.Ai"
-    excerpt: "DHA, Housing Solutions for North Texas (DHA) has launched a new artificial-intelligence-based module for Housing Choice Voucher program clients and landlords to manage the Request for Tenancy Approval process and documentation all online via its Bob.Ai ..."
-    publishedDateTime: 2022-05-04T13:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-4-dha-streamlines-its-request-for-tenancy-approval-rfta-process-with-artificial-intelligence-based-platform-bobai"
+  - title: "Who is ethically responsible for the actions of AI"
+    excerpt: "The work is described in ‘The Dawn of the AI Robots: Towards a New Framework of AI Robot Accountability‘, published in Journal of Business Ethics – available in full, expect much philosophical language."
+    publishedDateTime: 2022-05-04T11:32:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/ethically-responsible-actions-ai-2022-05/"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 10
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/05/04113809/Durhamlogo.jpg"
+        width: 1024
+        height: 395
+        isCached: true
+  - title: "Ethical use of AI in investigations"
+    excerpt: "Ever since laws were first created in ancient cultures, people have been breaking them in increasingly devious ways. This had led to an ongoing cat and mouse game between criminals and those who enforce laws,"
+    publishedDateTime: 2022-05-05T09:08:00Z
+    webUrl: "https://www.techuk.org/resource/ethical-use-of-ai-in-investigations.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 54
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/c7331df0-3b32-4343-bfbf8910480303b1/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Emergency-police-Blue-Light-279456027-web-1500px.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "TciV/U7r+830rWdP/FqAWZjy/EdBBxRxCVIRcAgt4f3tMHSp2B0Cp7YmKYrSGDTtXV09jWsqGlGvV201VcNhJOV4pJ3qHAPEVS0Ng48F13+/QnwKKO+BbYP/g6idroL2WQHmhrjLuStISyJbNkBb+qs+ZcpcZTKLE22ZSsHWp+Bh0d8oJvMnQhhQbspPBBGKRqhWompW2Jxgh/9RI7zs2IlRuRe7pubeopdDFd8SftDng6nbPTMCR9k4gFyFAvO07F7fHVcT1+9OT5NhGZ5BAJPJF0UzkJZ412bU5YAM5n9vn2p6R+UevQch0iDqTQAldszXERxbPe1Zogzos15a9n+liPgG2v3t1OReVyVpga8=;aMduC6EF5HOOpzb3tcP3hA=="
 ---

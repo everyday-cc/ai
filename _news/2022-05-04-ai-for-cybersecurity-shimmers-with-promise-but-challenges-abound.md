@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The next cybersecurity crisis is poisoned AI"
-    excerpt: "The very nature of machine learning, a subset of AI, is the target of data poisoning. Given reams of data, computers can be trained to categorize information correctly. A system might not have seen a picture of Lassie, but given enough examples of ..."
-    publishedDateTime: 2022-04-30T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2022/05/01/2003777503"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 37
-    images:
-      - url: "https://www.taipeitimes.com/images/2022/05/01/P09-220501-pic9A.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "AI-Powered Cybersecurity Protects Businesses from the Inside Out"
     excerpt: "Accordingly, new AI-powered cybersecurity and threat intelligence software solutions have emerged to help enterprises secure their assets at scale and keep up with the ever-changing threatscape."
     publishedDateTime: 2022-05-02T21:11:00Z
@@ -52,6 +38,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI –powered intelligent security makes the Hybrid Enterprise possible"
+    excerpt: "AI-powered intelligent security makes the hybrid enterprise possible ... Researchers are looking at how the brain and AI language models respond to the same spoken or written sentences. “We’re trying to compare AI systems to the brain, ..."
+    publishedDateTime: 2022-05-03T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-powered-intelligent-security-makes-hybrid-enterprise-akintayo-joda"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 36
   - title: "Research Shows Security Pros Believe Cybercriminals are Winning the AI Race"
     excerpt: "Findings also reveal the extent to which organizations are struggling to effectively implement AI to aid and augment cybersecurity efforts, with more than 50% having to undertake major changes, or reset and start over. The research, conducted by Wakefield ..."
     publishedDateTime: 2022-05-03T13:03:00Z

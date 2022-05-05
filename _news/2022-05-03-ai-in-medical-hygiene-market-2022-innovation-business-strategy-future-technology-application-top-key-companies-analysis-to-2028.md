@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "$934.5 Million Worldwide AI In Pharma Industry to 2031 - by Technology, Drug Type and Application - ResearchAndMarkets.com"
-    excerpt: "The “AI In Pharma Global Market Report 2022, By Technology, Drug Type, Application” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need ..."
-    publishedDateTime: 2022-05-03T14:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-business-health-be1a1732783e44aa87e5290ff0b137e9"
+  - title: "AI-based Surgical Robots Market Aims Bigger with Technological Innovations by 2031"
+    excerpt: "Snapshot Increased penetration of diverse advanced technologies such as artificial intelligence (AI) in robotic"
+    publishedDateTime: 2022-05-05T09:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-based-surgical-robots-market-aims-bigger-with-technological-innovations-by-2031"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 48
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "jCKRO+7JEfzOd5XPrca71tQYkGNApeIZ86bpWrziF//qwdS2HK3dt1zsdYXQg8hxMjnYaS87+WFU+9YtYbD5MSiUrWxW89j5rLNbB0OL0ZFFPh8YFDpp+hGyp2JvIO6QVRCkxyypoQuU0mjcvndU4TshG/JT59efA8OM25xe8PFSA6f0xkV1rVu7sqJpFDFTYrAcoU7M8qCC0LpBBuUmy3CtZDFWZur7vo27T94VLAgBFdJCfMQpQigHSF3ITMRxLz1t+MSGZ7GodoZJUpdCwFfJTCDI2gnf3IPGfSn63aX8+16/m5b5b6KjeyTXQUjIcO/+jxH7WNezR1Kp0zUQPtARciIlNgxqN2mLm9VC8jU=;sX1f1Tr4LmjST+rBGxC5yg=="

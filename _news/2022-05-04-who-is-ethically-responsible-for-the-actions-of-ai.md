@@ -7,8 +7,8 @@ originalUrl: "https://www.electronicsweekly.com/news/business/ethically-responsi
 webUrl: "https://www.electronicsweekly.com/news/business/ethically-responsible-actions-ai-2022-05/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Electronics Weekly
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Shared Responsibility: Enacting Military AI Ethics in U.S. Coalitions"
-    excerpt: "America needs to enlist its oldest allies and new partners to build a safer and freer world for the AI era. In March 2021, Google’s Eric Schmidt and former Department of Defense (DoD) deputy ..."
-    publishedDateTime: 2022-04-30T17:00:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/shared-responsibility-enacting"
+  - title: "Ethical use of AI in investigations"
+    excerpt: "Ever since laws were first created in ancient cultures, people have been breaking them in increasingly devious ways. This had led to an ongoing cat and mouse game between criminals and those who enforce laws,"
+    publishedDateTime: 2022-05-05T09:08:00Z
+    webUrl: "https://www.techuk.org/resource/ethical-use-of-ai-in-investigations.html"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
+      name: techUK
+      domain: techuk.org
     quality: 54
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/14071343112_e3b09309b0_k%20%281%29.jpg"
-        width: 1222
-        height: 813
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/c7331df0-3b32-4343-bfbf8910480303b1/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Emergency-police-Blue-Light-279456027-web-1500px.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "AI for the Trades"
+    excerpt: "Anmol Bhasin, chief technology officer for ServiceTitan, said he previously worked with AI at Salesforce.com Inc. and Groupon Inc., and his goal is to bring the same types of services that those ..."
+    publishedDateTime: 2022-05-02T07:05:00Z
+    webUrl: "https://labusinessjournal.com/featured/ai-for-the-trades/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
+    images:
+      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/04/PG01_ServiceTitan_Event-for-AI5-1-e1651267189431.jpg"
+        width: 1799
+        height: 1200
         isCached: true
 
 secured: "T4Mkyv6COGRtODCWZiHSqL5BmRWT/ekoGA+ymsaBhe4jQoh1d9vwXJ8fo33YDPrQnrJzXVN5qovSyQ7MUHGcsV9iMj/tjj3Z0JEj+ZCbb3cFoYLS05eEy10KSJSX8t4EYI5wFdHog5IVv7WhkFTEDA1P8aVgVwd2a9esx+XqmEIfCDrvpdV8ut7dFV7lEgljhQsyowiDKB3QEsic+mgKxpLDe584nlNvJxE46fKIi5/OKmJs916pjPE4PGw56qRMJY+f5YbxUjT3sFKXX5O1FTZvj8uZv2m910m2scmJVi/Hcyp3RXU0fF4KBQU4/mhlzkPywEIoJcEEL56TL3ATRFW9mGyBqkKiiGsfIGSS/Lg=;JCDQLtN5u1uR4puRSS58LA=="

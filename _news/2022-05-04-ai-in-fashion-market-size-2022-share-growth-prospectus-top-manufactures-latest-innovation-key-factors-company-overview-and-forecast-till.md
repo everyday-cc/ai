@@ -47,6 +47,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "Digital Transformation in Healthcare Market: global outlook and overview 2021-2031"
+    excerpt: "Surge in the adoption of advanced technologies such as artificial intelligence across the healthcare sector and growing support by several government authorities for digitalization are some of the prime factors boosting the expansion of the global digital transformation in healthcare market during the forecast period of 2021 to 2031."
+    publishedDateTime: 2022-05-05T09:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/digital-transformation-in-healthcare-market-global-outlook-and-overview-2021-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence In Manufacturing Market- Reshaping the Industries with Speed and Accuracy"
     excerpt: "The global artificial intelligence in manufacturing market has gathered pace in its growth with rapidly evolving industrial automation and IoT. Artificial intelligence or AI is one of the fastest-growing technologies in the recent years. Artificial ..."
     publishedDateTime: 2022-05-04T09:09:00Z

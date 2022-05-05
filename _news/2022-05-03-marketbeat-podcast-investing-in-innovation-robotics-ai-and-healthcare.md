@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/426610?curator=biztoc.com"
 webUrl: "https://www.entrepreneur.com/article/426610?curator=biztoc.com"
 type: article
 quality: 95
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "Digital Transformation in Healthcare Market: global outlook and overview 2021-2031"
+    excerpt: "Surge in the adoption of advanced technologies such as artificial intelligence across the healthcare sector and growing support by several government authorities for digitalization are some of the prime factors boosting the expansion of the global digital transformation in healthcare market during the forecast period of 2021 to 2031."
+    publishedDateTime: 2022-05-05T09:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/digital-transformation-in-healthcare-market-global-outlook-and-overview-2021-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI in Fashion Market Size 2022 Share, Growth Prospectus, Top Manufactures, Latest Innovation, Key Factors, Company Overview and Forecast till 2029"
     excerpt: "The AI in Fashion research also includes crucial information on industry segmentation, market share, size and revenue forecasts with geographical representation. Get a Sample Copy of the Report at - https://www.marketresearchguru.com/enquiry/request-sample ..."
     publishedDateTime: 2022-05-04T09:49:00Z

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Axiomtek Unveils AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform for 5G and AIoT Applications"
-excerpt: "processor and 384-core NVIDIA Volta architecture GPU, delivering up to 21 TOPS accelerated computing performance for running modern AI workloads. The advanced edge AI computing platform supports ..."
-publishedDateTime: 2022-05-03T04:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform-for-5g-and-aiot-applications-1031410891"
-webUrl: "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform-for-5g-and-aiot-applications-1031410891"
+excerpt: "Advanced Features: NVIDIA® Jetson Xavier™ NX with Volta GPU architecture with 384 NVIDIA CUDA® coresAdvanced edge AI platform for AMR, AGV, and computer visionWide power input ranges from 9 to 36 VDC (ignition power control for option)Supports four GbE ..."
+publishedDateTime: 2022-05-03T03:55:00Z
+originalUrl: "https://www.djournal.com/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/article_370775ff-0735-57de-a619-c8ff310d7eec.html"
+webUrl: "https://www.djournal.com/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/article_370775ff-0735-57de-a619-c8ff310d7eec.html"
 type: article
-quality: 45
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1809632/AIE900_XNX__Fanless_Edge_AI_System_NVIDIA__Jetson_Xavier__NX.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -78,6 +74,6 @@ related:
         height: 400
         isCached: true
 
-secured: "J+gx0lvO3lfDrk1b6/fhRfMfVa6CHAnBrXhrxRsnh4ruYxJT+HulDngLr6W1rLHibjwdBSLyXdzaUrM/nF+NCPmTDTnPTSdXLr/x6zXhOELcyGWhYTKEsknwPHl8/BIo9VpZRqY/L4wnhWj8ocDXXBnuB7ZzrnEEtRXbJbgBKpkzcQwit2yYxRmU9bwk+rxW5T4LyVAFgyG3We3ZRNhtm9xR8iGh8sAaVhruYALwAnMKFVLtwdGirxPHmHkq5DlTmLcBHx4rSpm1+MPE5lnTm/R5yG0/6wlgtCaPly5+2OYD/GrWVXhpp0g1hYQBN8Ya/N0an4s7l/sVpZIcKR1lSV50mCIeHt0yHPd8RcvUNuxJ21AYHkGMqBJWHoSGz4PLKmVHtVJ/eBmzzquSSRaNDmwkwjsMnMyW94IVjJvM3bnGWjQRFkRzmVyQhVwo/qfNmtiS28zQB6phO0Zfle2Yp4t+pdueKE8RRCTYwCgDAeSiGrIURVwhiJDN6a0PLURwYN4AghPFjcWctbRnPeHDCQ==;FfcduUeoAacXZwCacHk0lQ=="
+secured: "2GTGV1xHGOJrYsVIGRkMwqtQVYirnqrU41yKCbq8HLB+aOnGfOqTtaRyLeUJ/pf20wLaGp14ucgf69Gdz8VDQ/tumloefvYtvbirNn6Hnvhzt6B4DKxMfbII9XisbMN9odjQZnEIsSpVPBrKywAmsh3sZkFRlW1t9k8omgOahqsMaA0Lq8IgTdwi1j/3YtzZZ5InGT+hHbqEleLlXntDdD383NG2draV0CUV0gTu6tLEnFh/KCe/ty2kt+9aWA02JeWvfUAU/1Hsb8944vga6bYnsHp9WcwNhlOagZbRqfhX7krnyr6Kj4bqKKOKzc/4xgl0IpqUjRwJn+QeHDqKR2hwru2tPgyZoMux7/YMmxQ=;TD8EKi7dZPAAOjiBBS0v1A=="
 ---
 

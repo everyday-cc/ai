@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-4-dha-streamlines-its-request-for-tenancy-approval-rfta-process-with-artificial-intelligence-based-platform-bobai"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI for the Trades"
-    excerpt: "Anmol Bhasin, chief technology officer for ServiceTitan, said he previously worked with AI at Salesforce.com Inc. and Groupon Inc., and his goal is to bring the same types of services that those ..."
-    publishedDateTime: 2022-05-02T07:05:00Z
-    webUrl: "https://labusinessjournal.com/featured/ai-for-the-trades/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/04/PG01_ServiceTitan_Event-for-AI5-1-e1651267189431.jpg"
-        width: 1799
-        height: 1200
-        isCached: true
 
 secured: "1a+s74anfOHseMEFLKjR2WDuMkuJ/xA3IhRoI7UKrBz1dL9g9CzLIx2xELsTAF+FmuKetKjd9yMBXHwG2Q1nEdgd5XtZeq8kq2VR6O4gyiq7jA89HJbQbQRHGUefW0NamdLRQCIYxtgGkvQ2WJL1LsK0xtD5s9YNc9PiT00S943+hsHtbUFsSIp79YNnkfOlSTLxjOXmL2L5K0tNH/5jUDmbxf9qXEKitq8VWbNAA2XGQDaSwMPD3SVN6LVuzbLC+rVY2jn3xFBDab5NYdmfMdDOdjF3QlomU7tnQChpNlV1CJCL/sPuKhgw1qN4vR+bjShMkA8SiGmWtUU7/YnnhYcPc5Ir6pV6tb1tsjzoIR4=;PlzYamXGf4D/dmdsTzt6SA=="
 ---

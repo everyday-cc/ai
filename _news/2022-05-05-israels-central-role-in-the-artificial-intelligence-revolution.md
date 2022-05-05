@@ -8,8 +8,8 @@ webUrl: "https://www.jpost.com/jerusalem-report/article-705919"
 ampWebUrl: "https://m.jpost.com/jerusalem-report/article-705919/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jerusalem-report/article-705919/amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/504140"
@@ -41,6 +42,6 @@ related:
         height: 1400
         isCached: true
 
-secured: "EjAvdPII9pibUz7pnmpgKzNU7F7xAnF2XRChLGjpwMkojtLoeVuBx937JKdrjhKgioYYkDsXAhUhIaJmayMgrVQDUC8SEUJ/xGqZ1o5YTkU8/x1K2oLGwF7wZ0N7gTG5HSfwvzY+K4Ma0+vpsQIyfk51q1CF1DFPqOxCi1be7Te26oxytEbrV3k0L23O/ywgDyYJA3r1jS+u5NspUl6KAbjKWZARgSC8Uxv65+ILWO1aavXCaHI/TCR5O2fpsnazHzjg1u2CxMBP9lGqVQqs4CMjusFVBckQ7Jl4Tj7h7N5TNFufKf3srFmTSxH5l3Rq0C2L/vJ4DLMzFMtC6fREofnCBCCbbbc/0vBeYVuRIEo=;Z23nl/xXAJQqq99uHzdnOA=="
+secured: "TdBOFCYhkWp5jMta9WYSv5ho9YH42d7lIwmtelku2b3ndoHbL7ODnVJTxQ0N0WjJekBKcSdw48z+nVr/ZPbO4a472qRhaPB6MkQziR6fWvkBvLj0Y/eZ58ek87SVJk0xHCXMMrBI03Cu45wMrWBsdDfEUvAgJ5ML4SfmDF6wOgYwwDrH/JUqMgQvJI91TQTrPELql6bpJhejJCB/3BUzJD2c+olO4sWOj4Zw/C5d8py9LAI80k1zXijIzWXx7gZE44ypeKeedLhN7SWgS2bLocpRWPVxLgFtl4VfdJVuvAJKkri4kvmGCXt0KH/xJkwfHi//c5Aa+Q3+aUiMqYdPH9Td33+LuLQ4r7kpPlaW8w/Zi/xO/aGQGMABMYytXQUBz4nUiwog/wUGHarb7O/NB8acJ9L+Zw14B+kU/z/0LGZZYbtzVSlUET2tEO0sduLIGb3sWz+qPoGMvWupd7CM+/wlEOVjQPGCW9Jehywa8LtAttX82wHVng5ZngBKFon+1uXPjoY3IULdmsN/FkGKUw==;FSV198RrrAgn3ple/d3QCg=="
 ---
 

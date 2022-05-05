@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zeebiz.com/small-business/news-it-security-startup-trace
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057/amp"
 type: article
 quality: 60
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Startup FREED Secures Investment From Inflection Point Ventures, Others"
+    excerpt: "Fintech startup, FREED has served over 5000 customers, counseled over 24K customers, and settled with over 55 creditors"
+    publishedDateTime: 2022-05-05T08:16:00Z
+    webUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 40
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/05/FREED-social.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Finbots.AI raises USD 3m from Accel in Series A round"
     excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, recently announced it has raised a successful Series A round of USD 3 Million. This round saw the participation of a single investor – Accel."
     publishedDateTime: 2022-05-02T11:24:00Z

@@ -2,6 +2,48 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-03-28-fetchai-artificial-intelligence-for-everyone.md",
+      "title": "Fetch.ai: Artificial Intelligence for Everyone",
+      "excerpt": "Fetch.ai combines two of the hottest technologies of our generation - blockchain and artificial intelligence - to create a network of self-sufficient, decentralized AI agents. What are agents in this context?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346",
+      "originalUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenewsminute.com/sites/default/files/ArtificialIntelligence_Pixabay_11012022_1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346?amp",
+      "cdnAmpWebUrl": "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346?amp",
+      "publishedDateTime": "2022-03-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News Minute",
+        "domain": "thenewsminute.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-ai-chip-company-syntiant-raises-55-million-to-accelerate-growth.md",
       "title": "AI Chip Company Syntiant Raises $55 Million to Accelerate Growth",
       "excerpt": "Syntiant Corp., a provider of deep learning solutions making edge AI a reality for always-on voice, sensor, audio and image applications, today",
@@ -1129,40 +1171,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-when-the-bad-guys-are-just-a-face-in-the-crowd.md",
-      "title": "When the bad guys are just a face in the crowd",
-      "excerpt": "Last week the commission released its report and, with it, a baker’s dozen recommendations aimed at striking that balance and putting guardrails on the use of facial recognition technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/03/27/opinion/when-bad-guys-are-just-face-crowd/",
-      "originalUrl": "https://www.bostonglobe.com/2022/03/27/opinion/when-bad-guys-are-just-face-crowd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-27T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

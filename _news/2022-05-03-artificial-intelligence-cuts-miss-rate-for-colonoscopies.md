@@ -27,7 +27,7 @@ related:
   - title: "Artificial Intelligence Cuts Miss Rate for Colonoscopies"
     excerpt: "MONDAY, May 2, 2022 (HealthDay News) -- Artificial intelligence cuts the miss rate of colorectal neoplasia nearly in half, according to a study published online March 15 in Gastroenterology. Michael B. Wallace, M.D., from the Mayo Clinic Jacksonville in ..."
     publishedDateTime: 2022-05-02T15:54:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/article_fea534e5-27aa-50d8-b70d-7f865712f3e7.html"
+    webUrl: "https://www.stltoday.com/article_fea534e5-27aa-50d8-b70d-7f865712f3e7.html"
     type: article
     provider:
       name: St. Louis Post-Dispatch

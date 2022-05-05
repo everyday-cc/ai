@@ -34,7 +34,7 @@ related:
     provider:
       name: The Jerusalem Post Blogs
       domain: jpost.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/504140"
         width: 640

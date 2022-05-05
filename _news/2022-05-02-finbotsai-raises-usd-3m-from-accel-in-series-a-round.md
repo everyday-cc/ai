@@ -40,6 +40,22 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Fintech Startup FREED Secures Investment From Inflection Point Ventures, Others"
+    excerpt: "Fintech startup, FREED has served over 5000 customers, counseled over 24K customers, and settled with over 55 creditors"
+    publishedDateTime: 2022-05-05T08:16:00Z
+    webUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 40
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/05/FREED-social.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Funding rundown: Zepto raises $200M at a valuation of $900M; Traceable AI raises $60M in Series B round & GenWorks Health secures Rs 135 crore"
     excerpt: "Fintech startup Kaleidofin raises additional $15M in Series ... Anicut Capital leads $550K seed round in HuddleUp AI-backed talent retention platform HuddleUp has secured $550,000 in its seed funding round led by Anicut Capital, an alternate asset ..."
     publishedDateTime: 2022-05-04T15:35:00Z
