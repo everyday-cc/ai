@@ -36,6 +36,20 @@ related:
         width: 1002
         height: 547
         isCached: true
+  - title: "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas"
+    excerpt: "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and"
+    publishedDateTime: 2022-05-05T16:27:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Achieve hyperscale performance for model serving using NVIDIA Triton Inference Server on Amazon SageMaker"
     excerpt: "Machine learning (ML) applications are complex to deploy and often require multiple ML models to serve a single inference request. A typical request may flow across multiple models with steps like preprocessing, data transformations, model selection logic, model aggregation, and postprocessing. This"
     publishedDateTime: 2022-05-02T20:30:50Z

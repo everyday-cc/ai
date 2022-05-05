@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "Aible to Participate in the ‘Bake-Off’ Session at Gartner Data & Analytics Summit, May 9-11 in London"
-    excerpt: "Aible recently scored highest for the AutoML Use Case in 2021 Gartner® Critical Capabilities Report for Cloud AI Developer Services. Aible is a Silver Sponsor of the Gartner Summit and is one of three data and analytics vendors selected to participate ..."
+    excerpt: "Aible, the only enterprise AI solution that guarantees impact in one month, is proud to announce that it will participate in the “Bake-Off” at the Gartner Data & Analytics Summit, held on May 9-11 in London."
     publishedDateTime: 2022-05-05T13:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-business-europe-london-91b69bab833ac3e4e644f998780349b8"
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-business-europe-london-91b69bab833ac3e4e644f998780349b8"
     type: article
     provider:
       name: Associated Press

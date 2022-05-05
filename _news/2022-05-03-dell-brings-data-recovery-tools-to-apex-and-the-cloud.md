@@ -54,6 +54,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 53
+  - title: "Dell offers data, app recovery support for multicloud assets"
+    excerpt: "The Microsoft Azure recovery environment (or vault ... and complete files, and implement machine learning and forensic tools to detect, diagnose and speed data recovery. It will also monitor databases to trace back to the last uncorrupted copy of the ..."
+    publishedDateTime: 2022-05-05T16:13:00Z
+    webUrl: "https://www.networkworld.com/article/3659834/dell-offers-data-app-recovery-support-for-multicloud-assets.html"
+    ampWebUrl: "https://www.networkworld.com/article/3659834/dell-offers-data-app-recovery-support-for-multicloud-assets.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3659834/dell-offers-data-app-recovery-support-for-multicloud-assets.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 44
+    images:
+      - url: "https://images.techhive.com/images/article/2016/12/hybrid_cloud-100700390-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Dell Technologies Expands Multi-Cloud Experiences Across Cyber Recovery, Data Analytics and Partner Ecosystem"
     excerpt: "The new service will join a broad portfolio of Dell offerings available through Microsoft Azure Marketplace and will allow organizations ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose and speed ..."
     publishedDateTime: 2022-05-02T17:19:00Z

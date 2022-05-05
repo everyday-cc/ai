@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/artificial-intelligence-computing-using-net
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -37,13 +37,13 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 59
+    quality: 61
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/magnetism.jpg"
         width: 1280
         height: 1920
         isCached: true
 
-secured: "h15ylHauskSC/BJriJ7KbWX/mO8FkboG5/Z4i6KBgeqsQ59KXggPnkygOMNyEiaklLjMaSDlb79hXKfQ3sJzqeNjLyM5hSEY1XrtEGykVHkfPDURDTgmfpd1OmM6fi4A2wRToRSIgKBN7h4FS/ZvbWEqBg7bBuv001JzN1Tl0k4QjD2OdjvaUcLiT6gyGTVPjaXVnVBltEfeWcwOBaHOV27AlO51cOxjQsJ7M6ptvsUCyQzQaTnINy853M9+Pj+usmeANf49WdToxVq5CeKJad+qg2+HVlJjXHEdm5+sITzPzv3sAOl1S6tOmGpUjoehcMX2fNim/kHEOazYwalwTi04k49FYOqkKyFq193sahc=;WzDyACOgwfQ5IDQSvqblcQ=="
+secured: "PWk/NSiJhRQLdsK23bkXNqrqz2XI1QeUmwOMIdYaf19Z4Kw38wKO/C7sVx2ITwk1QpNkO9IYocSs7xC6y/xylAPeQk0nx70M4frfsvnAfL0UnsH770T7YvRF3WFxcH9f5381toixXxfNCXApMYIUvhJ2WklkkYXPND/hMs2kqTMYb+LSx1YceTBf7a7SyB+Skzkss36DIw8fz7M75ZGC0Dm7ZIhOf0FtR+1Z8IDWA6Bfr663PL/6qUIcEdW1phephQniZG4eFUzJFGYQkinA2yVhHA/QCFL3NkLmPMLgHeLKAnZr6MVJEfyEgMypi4M0pVL1o8hl59NuvlszeTgHyAQyEutcZZA1SBP9/ABD4Rz/eCc7e8OVq6gzaZqPLSc1sKOmalldaEjjXVIbWNB/gr1WuxkRuqB5DL0bZ4t0UEXRQq2+e2w0LG6ZTNgMER2GTp1wpZq/bm++QiCPkTPEkBB3xhu22UlmMHZiZ5xZiwE2s/9rxUYLVgIvKd/M7y9jQkN9xyvLsGpl0VLoOAXmIw==;dHlTpJxdKNYmadcDBeu41w=="
 ---
 

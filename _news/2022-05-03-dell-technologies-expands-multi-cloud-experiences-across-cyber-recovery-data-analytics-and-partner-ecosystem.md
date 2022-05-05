@@ -70,6 +70,22 @@ related:
         width: 648
         height: 463
         isCached: true
+  - title: "Dell offers data, app recovery support for multicloud assets"
+    excerpt: "The Microsoft Azure recovery environment (or vault ... and complete files, and implement machine learning and forensic tools to detect, diagnose and speed data recovery. It will also monitor databases to trace back to the last uncorrupted copy of the ..."
+    publishedDateTime: 2022-05-05T16:13:00Z
+    webUrl: "https://www.networkworld.com/article/3659834/dell-offers-data-app-recovery-support-for-multicloud-assets.html"
+    ampWebUrl: "https://www.networkworld.com/article/3659834/dell-offers-data-app-recovery-support-for-multicloud-assets.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3659834/dell-offers-data-app-recovery-support-for-multicloud-assets.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 44
+    images:
+      - url: "https://images.techhive.com/images/article/2016/12/hybrid_cloud-100700390-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Dell anchors multi-cloud cyber recovery to APEX"
     excerpt: "Notably, the release of Dell PowerProtect Cyber Recovery for Microsoft Azure will aim to allow businesses opportunity ... as well as implementing machine learning and forensic tools to \"detect, diagnose and speed up\" data recovery. This also extends ..."
     publishedDateTime: 2022-05-03T11:16:00Z

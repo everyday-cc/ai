@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "South Africa to introduce new rules for self-driving cars"
+    excerpt: "The Department of Transport plans to formalise rules around self-driving vehicles in South Africa as part of an official policy push. Presenting its department performance and strategic plans to ..."
+    publishedDateTime: 2022-05-03T14:39:00Z
+    webUrl: "https://businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/"
+    ampWebUrl: "https://businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 44
+    images:
+      - url: "https://i.ytimg.com/vi/m0na9x4C9q4/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "O4o2pznI9a74nZj7b/wK+PxrVE9/qQ9xz4T3Ijhzh11UMKSzg9AeBW6YRv4NpC2YWCeRLQ8DSbdDZ8/i6G4s4riFJz4jnZL3tt8shMyKQRekF6RUCUAUxo60Au/0voJ1nQN0h5KKCiFYTCQtlU8thKPBcMD+i3icr2seTJhaJm03AdHE3p68+gV8+VgqdAaxoUKJHatNTcKvhaOBzIeHKGPcS4Gz96ECyHI/ba7AWOZIF4F8/WSY1B7X2+S2hfrtJX3yigV5bBd+LrFfcATrKlstG6hdaf4qmhjBVfcunNcSr4q7XMfgpn4GIsIlmH7Xup6R6BhBVhQRcSaeKCC7CE5eBq0s0SxkFxuHXiHyxlE=;PW+P+ckul97ayvvOsEVptg=="
 ---

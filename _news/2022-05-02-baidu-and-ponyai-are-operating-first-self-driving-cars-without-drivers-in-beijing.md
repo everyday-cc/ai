@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous race car sets new self-driving land speed record"
-    excerpt: "On the other hand, this is racing as technological development, in its purest form. Self-driving street cars might drive fairly cautiously, but there will always be times when these machines ..."
-    publishedDateTime: 2022-05-01T00:00:00Z
-    webUrl: "https://newatlas.com/automotive/autonomous-land-speed-record/"
-    ampWebUrl: "https://newatlas.com/automotive/autonomous-land-speed-record/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/autonomous-land-speed-record/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/aaaf4a0/2147483647/strip/true/crop/1488x992+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcf%2Ffd%2F48b995e947efa96a6c8263ae61bf%2Fpolimoverecord-twitter.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Ethics Is Especially Vexed By That AI Confinement Problem, Including The Knotty Particulars For Confining Autonomous Self-Driving Cars"
     excerpt: "The AI Confinement Problem is a vexing issue and one that AI Ethics is pushing mightily to solve. We discuss why this is such a tough challenge, along with showcasing examples via the advent of AI-based self-driving cars."
     publishedDateTime: 2022-05-05T15:30:00Z
@@ -73,76 +57,35 @@ related:
         width: 1200
         height: 828
         isCached: true
-  - title: "Tesla Still Has Significant Self-Driving Potential"
-    excerpt: "Self-driving and autonomous vehicle technologies aren’t necessarily elusive today, but there’s still progress to be made on these fronts. As that progress is made, it wouldn’t be surprising to see Elon Musk’s Tesla (NASDAQ:TSLA) participate ..."
-    publishedDateTime: 2022-05-03T15:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-still-has-significant-self-driving-potential"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-still-has-significant-self-driving-potential?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-still-has-significant-self-driving-potential?amp"
+  - title: "Ford driving program explores challenges to and on the road for drivers with autism"
+    excerpt: "This would help to keep students focused and driving on roads that they are more comfortable with. With existing and developing technologies helping drivers to stay safe on the road — from lane-keeping assistance and self-driving cars — the ..."
+    publishedDateTime: 2022-05-02T10:04:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/2022/05/02/driving-program-explores-challenges-driving-those-autism/7356511001/"
+    ampWebUrl: "https://amp.freep.com/amp/7356511001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7356511001"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "South Africa to introduce new rules for self-driving cars"
-    excerpt: "The Department of Transport plans to formalise rules around self-driving vehicles in South Africa as part of an official policy push. Presenting its department performance and strategic plans to ..."
-    publishedDateTime: 2022-05-03T14:39:00Z
-    webUrl: "https://businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/"
-    ampWebUrl: "https://businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/582646/south-africa-to-introduce-new-rules-for-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 44
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 38
     images:
-      - url: "https://i.ytimg.com/vi/m0na9x4C9q4/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://www.gannett-cdn.com/presto/2022/04/25/PDTF/73a57755-9bb5-4843-81c7-56fd9f58325f-042422_ASD_driving_prog6.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Self-driving car smashes world record on Space Shuttle airstrip"
-    excerpt: "A car driven by artificial intelligence has beaten the world speed record for a fully autonomous car on a straight. Never before has a car driven by artificial intelligence alone been this fast. On 27 April on the straight of the Space Shuttle airstrip at ..."
-    publishedDateTime: 2022-05-04T10:23:00Z
-    webUrl: "https://www.dpaonthenet.net/article/190639/Self-driving-car-smashes-world-record-on-Space-Shuttle-airstrip.aspx"
+  - title: "Self-driving vehicle pilot successful in Finland during extreme weather"
+    excerpt: "Finnish self-driving tech company Sensible 4 said today (3 May) it has successfully completed an autonomous driving pilot, despite facing challenging weather conditions. The pilot aimed to see how autonomous vehicles work with public transportation ..."
+    publishedDateTime: 2022-05-03T09:38:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/finland-self-driving-vehicles-weather-sensible-4"
     type: article
     provider:
-      name: dpaonthenet
-      domain: dpaonthenet.net
-    quality: 39
-    images:
-      - url: "https://www.dpaonthenet.net/global/showimage/Article/201917/"
-        width: 375
-        height: 238
-        isCached: true
-  - title: "Motorists urged to keep ‘duty of care’ with self-driving cars or face blame for accidents"
-    excerpt: "You can unsubscribe at any time. More info Earlier this month, the Department for Transport set out plans to move Britain closer to a “self-driving revolution”. This included proposals to change the Highway Code to ensure the first self-driving ..."
-    publishedDateTime: 2022-05-01T04:58:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive?fr=operanews"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1602808/driving-law-changes-self-driving-vehicles-liability-warning-exclusive/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 35
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-vehicles-liability-warning-exclusive-1602808.jpg?r=1651360423936"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "Some self-driving taxi services lose safety driver in Beijing"
-    excerpt: "Two companies developing self-driving cars in China were given permission last week to remove the safety driver from behind the steering wheel for the first time. The permission was granted by officials in Beijing to technology giant Baidu and Toyota ..."
-    publishedDateTime: 2022-05-02T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1135737_some-self-driving-taxi-services-lose-safety-driver-in-beijing"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
+      name: SiliconRepublic
+      domain: siliconrepublic.com
     quality: 24
     images:
-      - url: "https://images.hgmsites.net/hug/baidus-apollo-go-driverless-taxi-service_100790898_h.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/5YM-yazE.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Self-driving cars will need smarter roadways"
     excerpt: "One way to speed the adoption of self-driving vehicles is to give them automated express lanes, where they can zip past regular traffic without having to tangle with human-driven cars. Why it matters: For all the billions companies are spending to develop ..."
@@ -186,6 +129,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Self-driving cars are coming, but lack of federal policies hampers sector"
+    excerpt: "But some senators say they want the U.S. Department of Transportation to take the lead on the issue. Self-driving cars \"are a priority for us, and we are doing what we can with the authorities and flexibilities we have, but we lack a fully established ..."
+    publishedDateTime: 2022-05-03T18:59:00Z
+    webUrl: "https://www.bondbuyer.com/news/lack-of-autonomous-vehicle-regulation-a-problem-in-the-u-s"
+    type: article
+    provider:
+      name: The Bond Buyer
+      domain: bondbuyer.com
+    quality: 3
 
 secured: "TDXN97eVMNfo/XaWFSRno1VSA2r8ElNsgrYnv/vvSL7C4pm3Xj712sMbbS+YAqvZbUasA3QZt+nLNd94cQFUv3B/HpTqtGpCVWoB60LvRGYbK2SXnbmmIYWxJxU/0P+7WFejEQ0RlqZZuAt+GfEOsBhdB6C9LcaY9126E+eL9cQqggVCpOT2bnI/4rZUAfFF7OIaAQ/N+GrhbF43/RSxnZfvZux/vqyfajZH1b3JEOV4fXNPzhjZoq7LP/e4p+edGsxh5Nwsv0HQL6EzadiPFfzMe/CYEjNGmJYU43acghdD8RTuLucvBkV+LSdQXjhmpCvC2rqu0m5iP60sjtXDkbruBUU5rclgk/34qKj41Ik=;Mw8TQMBh78tcvMFBPW2Igw=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1002
         height: 547
         isCached: true
+  - title: "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas"
+    excerpt: "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and"
+    publishedDateTime: 2022-05-05T16:27:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Build a corporate credit ratings classifier using graph machine learning in Amazon SageMaker JumpStart"
     excerpt: "Today, we’re releasing a new solution for financial graph machine learning (ML) in Amazon SageMaker JumpStart. JumpStart helps you quickly get started with ML and provides a set of solutions for the most common use cases that can be trained and deployed with just a few clicks. The new JumpStart solution"
     publishedDateTime: 2022-05-02T18:52:21Z

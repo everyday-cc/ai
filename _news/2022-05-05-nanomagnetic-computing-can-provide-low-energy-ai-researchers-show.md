@@ -8,9 +8,9 @@ webUrl: "https://phys.org/news/2022-05-nanomagnetic-low-energy-ai.html"
 ampWebUrl: "https://phys.org/news/2022-05-nanomagnetic-low-energy-ai.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-nanomagnetic-low-energy-ai.amp"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Phys.org
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/magnetism.jpg"
@@ -44,6 +45,6 @@ related:
         height: 518
         isCached: true
 
-secured: "MdavhSbXqfyNRywgBjew6CKfB9cxz5+ucttXJqmwkCHJsCql3NmOELmawZlUVTokp5DEt4xaXgga+uPFoag8AYn1AOc1IsPgddaVDVUhOfcAtQZme8OVOMFYHFmN2jelApZQXPTZxZN2VgqsSETTkHaYz5l1fG1jnlG9yOFFqIaYrc0gs8GYSI2jAx5Z+7bd4nZ6c1BosQmSHvCSg+WbOoQWobDT/rtGujfkQFd+1xoxTP3xUxut/N5GzvsD0+Acsou/SSVMaWwp3DwrZ/G4IzRhIZcJYJHkK8/ak0/U6tMsqdvlS9r6lE8JEXUcqZ2sbx3AN/xyR8eCUNB2nsmczewz4eykHivKsBaaGUq6lk4=;zcTZ83MXB/qVZDuUMMSXyg=="
+secured: "mhWaGjiq56Pxs1tj1Bo59YaOBCV2ORRbf1ntbRAMkRtObjG1HPy5cYbSBIkStNCQoaNK0KIKrpqw56AezbxClfhdWH7ZsHMvzO7tyBBor86l0hCBMSxo2FJt0Y0PTvufA1IFQ3ARpQdFvCoN88kSkKXK+XhYt16ILXA5smhB8s2wlNHPPZuz6HiEZ6eqd4hpfibDICbBxuIDZ/PF+SptXq+IjKn1UwiOEeyZShPRhFRWTw9ytt712w/u9gA8Disd8k3e2gVzEk6wy7D31clOh/3fg9m4rL8DkVxXTpKzl4EU8ivqUhXmuvynz0j0pNInsEUT6rgu4XwxUKjAq56yEM1/5W1nyPxd5WGN950NEmmcJfeogu8TLxbmvMBEwVefviyvBjtCYQsn8/mvNPqstaY6ROW7v0oQLvlQ9IN/XE+rah61X9jLQ2yYpvS2eTCvdiB9EOX19t0AQgd9wbXsripynBWhVCGw5pXvjK9azbrYgafqkcioWzeD1anHhs1z9dfT5mMSfJPwkq3u8tcyxQ==;LaaEMQjK1n13noJmIYIt1Q=="
 ---
 

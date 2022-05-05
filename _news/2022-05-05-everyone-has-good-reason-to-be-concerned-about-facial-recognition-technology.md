@@ -57,6 +57,22 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "Unionville’s music education program receives national recognition"
+    excerpt: "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
+    publishedDateTime: 2022-05-05T16:38:00Z
+    webUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/"
+    ampWebUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
+    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
+    type: article
+    provider:
+      name: Daily Local News
+      domain: dailylocal.com
+    quality: 61
+    images:
+      - url: "https://www.dailylocal.com/wp-content/uploads/2022/05/uville-music.jpg?w=1024&h=656"
+        width: 1024
+        height: 656
+        isCached: true
   - title: "House lawmakers investigating gov't use of facial recognition software"
     excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
     publishedDateTime: 2022-05-01T16:58:00Z
@@ -159,6 +175,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "JRxzxhyyS3DDM7Nb+g4EoMdomGHnEctjMkDoJ4BwAApcI28Mi2KPKaW0kTNLJK7JJtBWlKfrcYrUhIXIe24E2CmnOs9IoTA5UfjzVVOye2DQl/tPNCRx7OTmwHMtPcEGQVwMIYGx86MSFINQi4cGGRILEivDwapMCYPvjQiLznsajVirla2CrCEfFXsazxnKyHUJqxdJUaeVYlC3MjHXGXU9SoMGTQKfT7oUkP8RiuXg98HvXZ58Z1l0Iae58eJRrwxxCNIC8IrPFVoTnGiSImLWK0m5O8P+tXcWnk770MJkRS1gl4MD6PC+n6DRJVja+rhK8bYQjnNTWaAOg8xAqc2pJk6SdNC5i1dMj3j41cE=;fiVgqx9F4+C5hgIEcp/4XQ=="
+secured: "984YwitqVCg6JK25mr54LWsX3YKg4gx+WKiZvZimIKDLx/41PlDXg/htbaOgIbcg6T3N4CcSpHsCRaoqyy1jA1CfL9oSt3j16vNX5V7r6uO3zd5UzFaOKSiKbrZ+iUyTDRIU9OLp8pBl5r6hR9kEKicEq8H1RH6JyuFOdsdKmLMippOJ8rS+SXMGV2Q5UDpaO5t7lJ+nNAiVGa1GyS/tZmlc/3UB0AO8VIuQLnCTuCl8LCYoCNp4WCFRvIJLSwZ/0H6ibCFxWb6JFrojtGhQ0ijhyGEqN13xNdzR/bbv3zH7Tj37YYM+5N7ZOj09ZUj6M9li60lKc9LCU6+IF5rPvm0KkOm9MYwGwUsAn8D6gvBGdOg/eRHnTvX/WNG1RmrPX7CHcJuuKoU8RCU70n00SoWTcoZxLeec6Yb8+dTgZLV4tulu1wU2Aq+xvqoac13MO+rTb6ITxgRM6oSDs3n9B3rl4ME0jwWnWgEmDBAW3qO3XuiuYSCD6GGzPBkRw/Dp7SKpsd+ZAzCrM+awr1CXqA==;yDBBGsH+W9y93Lvc7+QN/g=="
 ---
 

@@ -65,6 +65,15 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 5
+  - title: "Arcanna.ai Bolsters Executive Team and Advisory Board to Drive Growth of AI-Assisted Cybersecurity Platform for SOC Teams"
+    excerpt: "Arcanna.ai, leading provider of an AI-Assisted Cybersecurity platform, has assembled a team of cybersecurity experts with decades of experience and a plethora of accolades to help steer its company vision and growth with their security know-how and engineering acuity."
+    publishedDateTime: 2022-05-05T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/05/9596387.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "RkWTuB62xuGh8yrpd05ePO39saxF8L9IQhxLZcC+LxNWNzaST88Z5+asGc5GEoIsd0kfRTiZo1UNMl2zPD5zevBilUyU7xkC1ZBAtJKxniJwYNpNn+tlpjx3Afcxkp6eZtVYajNJ11v2PfbaBRp6+tt8IOt8KI3rgu1AWBRFUsVfAlvhCau1zNbAEx20qDu3I6MvNxX55LhXjaN/chWRwtzXfEjU8xw/KUp1rRy7ndMUzgvJwGLNrESFvTXvdnK6rpx/+TGbXJbt+woNG3eIrWIG0t0cKKaaPoT72QNGuxtwSjCZL9DNVamngtWngtBDlPUQqEa4zjKoiWlvQG9LsE/O2gUKFgwXeggPjABqzAInr3SfUaqayDempNXZoxnyd2j3EqP3EyBgDKcaZiPTIV1aKRNuWCqq8pNsxD0X8qYTdKGPyBR0nDURYzimyoh8cnJ9zjVj8Go0bKJ3Q2Zr7uVEajJUkHAq25xUQZZ6f5UxfwdVwwv+vq8gxR7zvJcpUk2oyguGVQqMM5Ac7p9mpA==;ky76JvqRA+zBfOAuSMJjGA=="
 ---

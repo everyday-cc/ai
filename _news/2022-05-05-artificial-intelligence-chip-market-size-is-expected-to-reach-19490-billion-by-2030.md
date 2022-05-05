@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-05T14:24:00Z
 originalUrl: "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030"
 webUrl: "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI in Healthcare
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?727425"

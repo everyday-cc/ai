@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/426610?curator=biztoc.com"
 webUrl: "https://www.entrepreneur.com/article/426610?curator=biztoc.com"
 type: article
 quality: 95
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 49
+  - title: "Artificial Intelligence Technology Solutions (Stock Symbol: AITX) Is Driving The Future of AI and Robotics Innovation, Specializing in Security"
+    excerpt: "Artificial Intelligence Technology Solutions, AITX is at the forefront of the AI and Robotics industry. Artificial Intelligence Technology Solutions (OTC: AITX) is an innovator in delivering artificial intelligence-based solutions that empower organizations to gain new insight,"
+    publishedDateTime: 2022-05-05T16:24:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-5-artificial-intelligence-technology-solutions-stock-symbol-aitx-is-driving-the-future-of-ai-and-robotics-innovation-specializing-in-security"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 49
   - title: "Digital Transformation in Healthcare Market: global outlook and overview 2021-2031"
     excerpt: "Surge in the adoption of advanced technologies such as artificial intelligence across the healthcare sector and growing support by several government authorities for digitalization are some of the prime factors boosting the expansion of the global digital transformation in healthcare market during the forecast period of 2021 to 2031."

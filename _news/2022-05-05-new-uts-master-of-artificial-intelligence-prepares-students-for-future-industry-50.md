@@ -24,6 +24,17 @@ images:
     height: 316
     isCached: true
 
+related:
+  - title: "New UTS Master of Artificial Intelligence prepares students for future Industry 5.0"
+    excerpt: "Sydney [Australia], May 5 (ANI/PR Newswire): The University of Technology Sydney (UTS) has this week announced the launch of two postgraduate courses in artificial intelligence (AI). The Master of ..."
+    publishedDateTime: 2022-05-05T17:53:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220505/3938284.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
+
 secured: "dICtIQY6zyn6FQmxDSi4cMD8NSIYyitjm8twsCEielcGOqypl14v5KMV9dewJqvEJxj6BzvOiZqsmlblNjg5eArq90220UBRlkbPv6yvHVUl2ffukxjEEZX/cVUBtYbhOMyJddzGC8FWzwEXC43CcY/k7k5LiSY1aqP4w8pCnqpetF4M2A6bbKDpg9Ym17wyYHG4b1qY4e+/2SZAuMjr2W2MT3rveujpMDs2FHvgWPP3eNWpJ77XKg+57EO0vM4gvfV56UV+z8/F/i00A4xYHE3Jj/gf10ckMoVHW2hcTx5KgVXEOcwhoZZBODUAzUaYTAI0gMuuMOa8WMkDkXepgFZrGaU/y75Tcwl7Ci5h6yHF2ORk9j8cRAx3KlHFSVIypOoQRxInF3iRgaXT/DpMLD+8oxkdrWJgU73uBfFJXrvuNCry8uNow6VOZbzfhbxZfl/oMgBAnDtOSVqQY5Jej2V8bHjt62MEwLGzHb1VN8L/A97R3ypnqMU1DQZkJuLfifrc0uFMZ11CnnFJqfJMsw==;62nHUbipdwbJVfpHsjkuLg=="
 ---
 

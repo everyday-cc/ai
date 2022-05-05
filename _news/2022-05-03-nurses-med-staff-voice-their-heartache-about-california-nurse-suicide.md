@@ -39,15 +39,6 @@ related:
         width: 640
         height: 353
         isCached: true
-  - title: "California tech titan’s Senate run has one target: Tesla’s self-driving software"
-    excerpt: "O’Dowd believes that the problems he’s documented with Tesla’s “full self-driving” software package – problems that, according to publicly available video footage, have caused vehicles to veer unexpectedly into the wrong lane, turn the wrong ..."
-    publishedDateTime: 2022-05-01T10:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/2022/may/01/dan-odowd-us-senate-tesla-self-driving-elon-musk"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 14
 
 secured: "OsBM4dl7gNkbZFMJxF9/GAxqT+8wcC6Ci8vCW92ceiAr7U/9Rm1u7mUydvj7H3hbXQbMgISjvAB1I+fU0S7VB7AsN8OBJLGesL/NwPamqh/OVp1hGT4QxpgjQ02Ci3UqUtNRZGV/kiRF4qhDTJa4PHH7z2RNWlOJUudUEGYMAf2Apu/BWS8RAcJWt1W1hWTb+RTDLwXp5IuZQOPDuWSKXokYPX4mi2cnJVdvgz45z1CFJv2pQR75UtCoOS9hGCyTihiBg6MsklyeSarcTtYFTxYCQ9sIHYcz6qe8zHvKZV+Kb7/gGUX3xLBpKOsawoYxrwR9lteXc9VPOhB3+qvnw2+904r/bql2d8+/aaHvhrM=;YJ1yZpau4jtXuQBycLNnKg=="
 ---

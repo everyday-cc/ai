@@ -51,6 +51,22 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "Unionville’s music education program receives national recognition"
+    excerpt: "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
+    publishedDateTime: 2022-05-05T16:38:00Z
+    webUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/"
+    ampWebUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
+    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
+    type: article
+    provider:
+      name: Daily Local News
+      domain: dailylocal.com
+    quality: 61
+    images:
+      - url: "https://www.dailylocal.com/wp-content/uploads/2022/05/uville-music.jpg?w=1024&h=656"
+        width: 1024
+        height: 656
+        isCached: true
   - title: "House lawmakers investigating gov't use of facial recognition software"
     excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
     publishedDateTime: 2022-05-01T16:58:00Z
