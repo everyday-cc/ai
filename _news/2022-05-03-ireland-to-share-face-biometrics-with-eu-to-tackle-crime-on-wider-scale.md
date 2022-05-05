@@ -33,6 +33,20 @@ related:
         width: 2048
         height: 1280
         isCached: true
+  - title: "Sebastopol to consider ban on facial recognition, other biometric surveillance tech"
+    excerpt: "Sebastopol City Council unanimously agreed Tuesday night to consider an ordinance that seeks to ban the use of facial recognition and predictive policing technologies in local law enforcement. The proposed ordinance, submitted by the Sonoma County chapter ..."
+    publishedDateTime: 2022-05-05T00:39:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/sebastopol-to-consider-ban-on-facial-recognition-other-biometric-surveilla/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 33
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=471CA6C7-5692-4FE6-BFB1-6A6D9D8E9347&type=primary&q=72&width=1200"
+        width: 1199
+        height: 796
+        isCached: true
 
 secured: "z/luVjka1MkHb90AkNnL5pF5JJ0GhrYiHTwZxlm0i1mlLE2qc7qztwbOcnPKLD61vXFuL/hUCWZEvUl2GlU6oo0GBJuLLXmf6J0Ic4WiWUGrvy+EGQHUr9p59gOsWE7XWnODniaGiBoOZsTMKjfNdiqDhJcLr4fAkaOL9ycZz7yGs7X2+TeWFzek5+Xp5sP/W/4oGs4w4doGk9eVg3t89hryVzFu8eCC/er41/Fp+GX24bxnhJW1cGghDDxCaObjcSXvw4SOyX1UaqeaEwKiHuFOdv5dzMZgOKkkb75pO/EarRWL7TfWXv0nFIV6GvRK2Y1OkxWE6sb39EDopMOmrzahLUTjrz3EzOR5UIgffVzzB+us/AuHzlKgoUNmVTHej1CYVgVIDOWstgYxLLFGNIc96kCFPFkftiJBoCWI0j/iYltukTc35ByHhgwIU27CruNMuzP5YksNS4z8ZqCiGyzuabhGy/gf+8dVSU6EOOGBAzmfvirtgi91UGVuILqMDffJKwDvvwjrYgXPi/OIJA==;kkXmNwVyd7JrvGm/tGhnnw=="
 ---

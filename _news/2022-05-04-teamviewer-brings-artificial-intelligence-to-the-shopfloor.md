@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "TeamViewer Delivers Artificial Intelligence to the Shopfloor"
+    excerpt: "AiStudio consists of a self-learning algorithm to train AI models for image and object recognition. Following TeamViewer’s no-code approach for the Frontline platform, the use of AiStudio does not require any programming skills. This enables all ..."
+    publishedDateTime: 2022-05-04T13:53:00Z
+    webUrl: "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/"
+    ampWebUrl: "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/TeamViewer-Delivers-Artificial-Intelligence-to-the-Shopfloor-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "TeamViewer adds AI to AR"
     excerpt: "Remote connectivity and workplace digitalisation provider TeamViewer has launched AiStudio to add image and object recognition to Frontline, its enterprise AR platform. AiStudio does not require ..."
     publishedDateTime: 2022-05-03T01:53:00Z

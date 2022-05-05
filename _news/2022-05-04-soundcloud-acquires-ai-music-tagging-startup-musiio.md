@@ -122,6 +122,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Soundcloud acquires AI startup Musiio to bolster music discovery"
+    excerpt: "Soundcloud has announced that it has acquired music AI startup Musiio. The company plans to use the technology to bolster its music discovery features. Soundcloud wants to make it easier to find what's up-and-coming in the world of music. In a press ..."
+    publishedDateTime: 2022-05-04T23:46:00Z
+    webUrl: "https://www.imore.com/soundcloud-acquires-ai-startup-musiio-bolster-music-discovery"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 37
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/06/soundcloud-macos-macbook-pro.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "SoundCloud Acquires Music AI Software That Claims to Predict Hit Songs"
     excerpt: "The AI software is capable of “listening” to more tracks than humanly possible, which will allow SoundCloud to make confident trend forecasts that, in turn, increase their “hit-rate” and ..."
     publishedDateTime: 2022-05-04T19:22:00Z

@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/a70b74b/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F39%2F0d%2Fd723ccff45b991094268f06a22e3%2Fhospital-doctor-generic.png"
@@ -22,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "nxNh/4n3YOqmBNpYvCQ2m6/WBkM7fGwX5/pznzJ5YG5PvsSlfL1/k2LhdW7PLxZlH6IcWmBSfAIoBYzeekrJNFE8ZHJ9ziIXi28a1R85Dw747vlpk7jfII/3qA9SXDGfqObfcYLgA/kT4W6SQEDkUZlsEGIbH/5fmxdjPBifcu1Y8zGOmebMc6jqHMxl3AmJcAl4flvSgcjY0EWe4Pn0KOSF8Qp/5d/ePKoArT/OPQ30rVe/lD5Z+LLNAFwG6qzpdel0c+ThJIAY1WJxOpuUZzXF+rg5VpT7vXgu3jGphhnw8gV9NRSc6GoS64Tr5qNKH1cC6scTD2ZNjGbkD0NrL/cLpfoc/x/1VrpvSqqdT20=;FlcdK+o3vULoZQcJSeYlzQ=="
+secured: "FWzldoxNmvncFZDdrOJ91LZ7Wk51fB2lYS+bGEy/Sy23n0xICQ/J7Xq2J72cGRE46vDhRD4DMrN5LtjsbSFN9+CPijBzY+u1TfseaLh92/kep/F2E5fVkEuMYh8lKGLSe6eBBn/6lzcrEbtPOv0l2Rym56HaI6PKKtjFSMlUmWrHmpLuvQ6StVrXVeRxGvPrZE3Qb+ZMmfeKAEgJjvXkap6LnTi9QVbWYvKsA3++9nov3gAAZIz3P9hVvJDA5zZyg22WOYavVy1svKJuJ6WrrTqIfq3Q1jH2lt5NRDQO2kHqvYx2UzkETB0vR9vHOkLPyJcNnAmE+1U4g3MYdVY5dKX3ZFWTShGAu5Krqg/Re83A8qLJ+ougyuGhxMuWZYCyvA7nD6UBisYgWspaxlMiMHxMmt/eB9KMv/iL0n/pr4/hQbHM7/IcWSp5UWUOHq/Xhaaf4Pxeit08uRMVmJixlLwmd123Ol1/7MqZL+IEVicRwwdy1SFiQWWTSFs53dLfXlqrnKTrLuZXr6ajED8lOg==;UJOepi90suf7nB5B6XyqdA=="
 ---
 

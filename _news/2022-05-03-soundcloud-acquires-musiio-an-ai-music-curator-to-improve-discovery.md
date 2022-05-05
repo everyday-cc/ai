@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-musi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/SOUND-CLOUD-X-MUSIIO.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Soundcloud acquires AI startup Musiio to bolster music discovery"
+    excerpt: "Soundcloud has announced that it has acquired music AI startup Musiio. The company plans to use the technology to bolster its music discovery features. Soundcloud wants to make it easier to find what's up-and-coming in the world of music. In a press ..."
+    publishedDateTime: 2022-05-04T23:46:00Z
+    webUrl: "https://www.imore.com/soundcloud-acquires-ai-startup-musiio-bolster-music-discovery"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 37
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/06/soundcloud-macos-macbook-pro.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "SoundCloud acquires AI music-tagging startup Musiio"
     excerpt: "SoundCloud has acquired Musiio, the Singapore-based startup that has developed a service offering AI-powered analysis and tagging of music catalogues. Why? SoundCloud said that it will use the tech to get more insight into the music uploaded to its ..."

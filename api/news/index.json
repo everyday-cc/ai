@@ -297,6 +297,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-04-teamviewer-delivers-artificial-intelligence-to-the-shopfloor.md",
+      "title": "TeamViewer Delivers Artificial Intelligence to the Shopfloor",
+      "excerpt": "AiStudio consists of a self-learning algorithm to train AI models for image and object recognition. Following TeamViewer’s no-code approach for the Frontline platform, the use of AiStudio does not require any programming skills. This enables all ...",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/",
+      "originalUrl": "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/TeamViewer-Delivers-Artificial-Intelligence-to-the-Shopfloor-01.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/amp/",
+      "publishedDateTime": "2022-05-04T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-what-the-high-interest-rates-mean-for-startup-founders.md",
       "title": "What The High Interest Rates Mean For Startup Founders",
       "excerpt": "Sure, some AI companies will not be able to deliver the value they've ... Nevertheless, there are good reasons for any startup founder who is depending on raising capital in the coming years to be focused on these three elements. 1. Know your numbers.",
@@ -1132,48 +1175,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-enhanced-smart-interviewing-platform-barraiser-finalizes-42m-seed-round.md",
-      "title": "AI enhanced Smart Interviewing Platform BarRaiser Finalizes $4.2M Seed Round",
-      "excerpt": "BarRaiser, which claims to be a “groundbreaking” AI-enhanced smart interviewing platform, has announced that it acquired $4.2 million in seed financing. The firm’s investment round was “led by 021 Capital and Global Founders Capital, with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/05/190571-ai-enhanced-smart-interviewing-platform-barraiser-finalizes-4-2m-seed-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/05/190571-ai-enhanced-smart-interviewing-platform-barraiser-finalizes-4-2m-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg",
-          "width": 1080,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/05/190571-ai-enhanced-smart-interviewing-platform-barraiser-finalizes-4-2m-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190571-ai-enhanced-smart-interviewing-platform-barraiser-finalizes-4-2m-seed-round/amp/",
-      "publishedDateTime": "2022-05-03T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

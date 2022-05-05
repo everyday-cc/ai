@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/business-software/teamviewer-a
 webUrl: "https://itwire.com/business-it-news/business-software/teamviewer-adds-ai-to-ar.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "TeamViewer Delivers Artificial Intelligence to the Shopfloor"
+    excerpt: "AiStudio consists of a self-learning algorithm to train AI models for image and object recognition. Following TeamViewer’s no-code approach for the Frontline platform, the use of AiStudio does not require any programming skills. This enables all ..."
+    publishedDateTime: 2022-05-04T13:53:00Z
+    webUrl: "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/"
+    ampWebUrl: "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/TeamViewer-Delivers-Artificial-Intelligence-to-the-Shopfloor-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "TeamViewer Brings Artificial Intelligence to the Shopfloor"
     excerpt: "May 3, 2022 /PRNewswire/ -- TeamViewer, a leading global provider of remote connectivity and workplace digitalization solutions, today announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer's leading ..."
     publishedDateTime: 2022-05-03T14:13:00Z

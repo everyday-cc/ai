@@ -3,8 +3,8 @@ category: news
 title: "Unanimous SCOTUS Flies Flag for Free Speech in Case Against City of Boston"
 excerpt: "It may not exclude speech based on ‘religious viewpoint;' doing so ... only chaos — and “new business for lawyers and judges.” Despite the court’s recognition of Lemon’s many problems, and what Gorsuch called the court’s abandonment ..."
 publishedDateTime: 2022-05-03T15:40:00Z
-originalUrl: "https://www.cnsnews.com/index.php/commentary/sarah-parshall-perry/unanimous-scotus-flies-flag-free-speech-case-against-city-boston"
-webUrl: "https://www.cnsnews.com/index.php/commentary/sarah-parshall-perry/unanimous-scotus-flies-flag-free-speech-case-against-city-boston"
+originalUrl: "https://www.cnsnews.com/commentary/sarah-parshall-perry/unanimous-scotus-flies-flag-free-speech-case-against-city-boston"
+webUrl: "https://www.cnsnews.com/commentary/sarah-parshall-perry/unanimous-scotus-flies-flag-free-speech-case-against-city-boston"
 type: article
 quality: 17
 heat: -1
@@ -68,6 +68,6 @@ related:
         height: 316
         isCached: true
 
-secured: "jxbPZumMzJQJkp4aJe/wnDC31gbUtGBLJbdceutcU1OobAwe6G1LlVpshQla+ZBOgCZ0rGHRWY3HMrwlTKKEe2rWCYGAiUAQbaf/IVWm1aYCyLtCebQaRu87lEsJwi79IRvQbGuqOtqdFK1YUBWRdf6SETCFlMKhAxG9YP+trChCrVrkOlq2IoHuFAjfE39r+10HHIDwIHGajBX/9LPFfXzNs18SOm5mJdQDlBAFa6x/SixrMlD1L/+FAfUUH7GSx+88aVa6jaDfbObCcRRvU5QlNKnik02W4V7KE3euaMQM5wVWAGQNWtkafMQecvggPmCE0veg8C3nWCT1/YSz5nJzemd6yzXabFoQCWcYt4oX/IPp7O9RfnjUHAGH2phJqW1nWsmoNfdxanY8s/mrErO41r03W1NM3zmwbDk7Z88IK/ItsBS+c1sgE+ePtciTb9ZZ8hYRjluXg0LhVUSKhTpc3+gI6B7lxPzxCXaF7hlNaxcnGZLLMxSZ3eGQRWAbyjrCobkAlsBs3FRMEgly/A==;XzFtrRlvE7A9mbflphaX7g=="
+secured: "x+3TCK/A1/RRkZOt1KEZocW9DMUMvlCSHUhWzIn7G86zPwlEQNmU6aoqgH9mevUt2XQW8S6n4gdTJNmq+0cPuS7EfvXIL7bC4O5A77Mk280RzQnF3PHc/G/CPo+LLEFYEdhezu+J7etR9NH1E/KpokS+lMO4ibPJZQFXuVvOGK12/9/zw1gq99UndWI0yyeHCs7Qb8f1SrVM3cbQ5fFQNVqm2eDOKetEwvm2sBYnr/HQxqYeuKM0fhICQM8OVOx1wFLZok/8bUwtX7yPF+71DSZggMwh7MjevjFcoMCHYz9i2bp6U7fpK9eYXY92oZ+acRCkK4wldbkCRJdV6Jm/aymGat27s/9VkfVf0wwG+a7QrXvsWpGmzrgIgIKvy8lmQM1o8PxxTHaAKYI61XjYAa0Lh6fid0Uct/prmfnTaGReH7ilpG5BxH/b4BclMsB6fw+IzKCgpUCUGlUFKLFITYTQc6fSCALihjp5RyQmMtswTcZUrn37E5ej9xUXPtEPuugh2UbxGJln7AAvR2VowQ==;AMjpXzdWpjs4UGPxC40b7A=="
 ---
 

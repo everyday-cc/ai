@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Fintech to rule job market in India with 87% adoption of services"
-    excerpt: "... of fintech offers Full-Stack fintech courses training for end-to-end services like maintenance & regulation, innovation & transformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
-    publishedDateTime: 2022-04-30T07:24:00Z
-    webUrl: "https://www.freepressjournal.in/business/fintech-to-rule-job-market-in-india-with-87-adoption-of-services"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/fintech-to-rule-job-market-in-india-with-87-adoption-of-services"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-to-rule-job-market-in-india-with-87-adoption-of-services"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 44
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 750
-        height: 420
-        isCached: true
   - title: "India Has More Fintech Adopters At 87% Compared To Global Average Of 64%: Report"
     excerpt: "The fintech market is estimated to grow $150 Bn ... Artificial Intelligence (AI), Application Programming Interfaces (APIs), Full-Stack Development, among others, in their employees."
     publishedDateTime: 2022-05-02T07:10:00Z
@@ -50,20 +34,6 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/05/xiomi-social-1.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "FinTech to rule the job market in India with 87 percent adoption of FinTech services"
-    excerpt: "... of FinTech offers Full-Stack FinTech courses training for end-to-end services like maintenanceregulation, innovationtransformation, payments, programming, product development, Block-Chain, Reg-Tech, Wealth-Tech, AI, ML, Algo-Trading, and more to ..."
-    publishedDateTime: 2022-04-30T07:55:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272530760/fintech-to-rule-the-job-market-in-india-with-87-percent-adoption-of-fintech-services"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 17
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "sohTcKLSytAU2CtF5U52VaMruaPyVOg0Dn6mXGvd8vAb3IHtqLboBKkb72fCqEBJUHpTk9MkbSpKaduYp6yQWqXjWBpkTbAv+GUVzYbTBO0Hv8WCqD4VSzieauoVC/aErGT0sJxWQB0uH9kJSyRKcyYFNGTWFvKDJNNfOoTBwyBFsskQw30UmaQcpYC4p/s510st7fGTkJHzs5X6A0rf3zAaDAmdvH7lY5U4TsIJHUG4LxmRY0GvOB8B2M322rG+u5oOztdZ/3VXu5yKPXr+h+AYFviUuZJPOP3VOgPH+CekS4eBT7PoFRMVZh9pTXfvBEt9J4wemQ+OiTCOU74b1irFQeB6dgyYRF4nV//3nhM=;z3UzdX/ZXKkhINVI2KsZKQ=="

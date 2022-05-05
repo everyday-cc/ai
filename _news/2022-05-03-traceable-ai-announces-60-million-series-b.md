@@ -42,6 +42,22 @@ related:
         width: 3838
         height: 2026
         isCached: true
+  - title: "Traceable AI raises $60 million for unique API security platform"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-04T22:03:00Z
+    webUrl: "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/"
+    ampWebUrl: "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov.jpg?w=1200&strip=all"
+        width: 1200
+        height: 596
+        isCached: true
   - title: "API security startup Traceable AI raises $60M on $450M valuation"
     excerpt: "Application programming interface security startup Traceable Inc. announced ... The round values Traceable AI at $450 million. Including the new funding, Traceable AI has raised $80 million ..."
     publishedDateTime: 2022-05-03T13:00:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-03T15:46:00Z
 originalUrl: "https://www.outsourcing-pharma.com/Article/2022/05/03/ai-use-in-life-science-not-yet-at-full-potential-ibm-research"
 webUrl: "https://www.outsourcing-pharma.com/Article/2022/05/03/ai-use-in-life-science-not-yet-at-full-potential-ibm-research"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - IBM AI
 
 images:
   - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/preclinical-research/ai-use-in-life-science-not-yet-at-full-potential-ibm-research/15381265-1-eng-GB/AI-use-in-life-science-not-yet-at-full-potential-IBM-Research.jpg"

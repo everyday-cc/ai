@@ -1,23 +1,28 @@
 ---
 category: news
 title: "New UTS Master of Artificial Intelligence prepares students for future Industry 5.0"
-excerpt: "SYDNEY, May 5, 2022 /PRNewswire/ --The University of Technology Sydney (UTS) has this week announced the launch of two postgraduate courses in artificial intelligence (AI). The Master of Artificial Intelligence and Graduate Diploma in Artificial ..."
-publishedDateTime: 2022-05-04T22:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-new-uts-master-artificial-intelligence-prepares-students-future-/2022/05/04/9595986.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-new-uts-master-artificial-intelligence-prepares-students-future-/2022/05/04/9595986.htm"
+excerpt: "SYDNEY, May 5, 2022 /PRNewswire/ --The University of Technology Sydney (UTS) has this week announced the launch of two postgraduate courses in artificial intelligence (AI). The Master of Artificial Intelligence at the University of Technology Sydney will ..."
+publishedDateTime: 2022-05-05T00:00:00Z
+originalUrl: "https://www.asiaone.com/business/new-uts-master-artificial-intelligence-prepares-students-future-industry-50"
+webUrl: "https://www.asiaone.com/business/new-uts-master-artificial-intelligence-prepares-students-future-industry-50"
 type: article
-quality: 13
-heat: 13
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI
-  - AI in Healthcare
 
-secured: "2gWMsT9k9ljPchCJ+36z6c3C6hebe3vEFnSSgRIeu90GqByfPcCOmgC9quV0sgxFgD+p31D3AI+PHcY5AIQjvQSmhyt8jqCHYlv6VMxeV2czJKMz9d02hgYzNc7Lt8ckBLqUA2LGOceyoOJ/WPiB69gBGt/PwFIIRHcpuJTrJYo0CLW0clAx0iIU6AXiN+jG1uMO+PUstvXHs0xnzdDaTEo1o201SIHEQojDfcW8Apo8LkTf0IEDgNzbsFME4ojWJ2vPYMiPGYbARm6SUtj6jeuWKBE7O11z4a64Y+i+5zkgbSeaGbp88YjkeoqUmeUr2+lPyK9DdNVEJ1neuoIasDRe5e4l1pkwnMAAA3wAPug=;AvvDxQ/8uwQb+qw23lgfcQ=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/AdobeStock_250767988__1.jpg?h=4c0e7fb6&itok=7AYMLl6u"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "PxGrEVNfu33zfzvjFoXUq2l/LNXHxtDsql0uKWuW15XPJp5ghbZIw3VjAjAcmx1tRnGQRV+ZwD6RXPgG2NqSGCnc3IFWUVj+nx4iYZdJgsJHRvHsn/mefzvvrDKshq/+MhihgJto0zZ7AAvIDtmgGK9F7Ow4hlAdvi5G/ZsMlldYRBmuG1dITemDfs+eUusfPaUksZDE4/sDeL+5V4fYVkRTPgt8Rm2BNkuOvpSTXdVgZitZrOtyYKTZccJNMNwkBWas72UQBDleCUlj5lYKKgGFn36U36WLIeEZ8qsQ1NBS/cpOinHhxbUiOSRZI3NzAv+RHRQemdRZQMJXN6K3XbtL9N1gRQjmC+nO9mbp8Gc=;+HIgwfgp+921Fe70Vcs5NA=="
 ---
 

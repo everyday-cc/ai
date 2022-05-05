@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sebastopol to consider ban on facial recognition, other biometric surveillance tech"
+    excerpt: "Sebastopol City Council unanimously agreed Tuesday night to consider an ordinance that seeks to ban the use of facial recognition and predictive policing technologies in local law enforcement. The proposed ordinance, submitted by the Sonoma County chapter ..."
+    publishedDateTime: 2022-05-05T00:39:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/sebastopol-to-consider-ban-on-facial-recognition-other-biometric-surveilla/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 33
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=471CA6C7-5692-4FE6-BFB1-6A6D9D8E9347&type=primary&q=72&width=1200"
+        width: 1199
+        height: 796
+        isCached: true
   - title: "Ireland to share face biometrics with EU to tackle crime on wider scale"
     excerpt: "McEntee said the exchange of facial images will not mean live facial recognition of crowds in public spaces. Nor is using artificial intelligence for facial comparisons currently contemplated. Moreover, she said, Prum II’s router will hold no data ..."
     publishedDateTime: 2022-05-02T17:59:00Z
@@ -35,6 +49,6 @@ related:
       domain: biometricupdate.com
     quality: 4
 
-secured: "RAVFP9p9RbTe2qVAidzi0J9ercUOVoiEtp82CRy136I9AjU2C91zRtCFPpou7kAHJQV8E4Y11F3bO/isnhJrae0Dvd9i5YzAfAzs6uSwgnPtnzRQK74Ftys8Xs8Ft5+uKmhza0EI4/ESZncL0rDqmEh+C6W9hRDFYNRwMe99ALV8vsRnotq2JRug/PIHmdFq2Hm0LBX1E/GpA7Zjye6Hw3dy2KO4G5PVQ1nquIZ38/0w6iRYEZTpjZLDjIHArbvtnmCdA5i6bg3OC67aIkYFX+v4rVbLruv7uMI9Gt2DkMsQXXnvawVpr6R7oOEh/e+FzI9Tm6c+ynFmcqAxW06Buff3aBE3C8VYMqZu7S/QvrM=;vXO2ynaeGcQeXCPyDKqQ8Q=="
+secured: "p2hVuKhpQqJgiLOEFRPGntgqlc2acbKNqJ6+16YwynheNv8bC79Xr0U2kV9QrVS51VNeoN7p0PV319yHrvlIP5125Z1/dmlHo741MlSkNkEBipfn6UZS8czKr6ELOj/xtregAJLfLqQo+qBQEvFz+/h8Yf9l8Co1w+kcA7ICtVmecQU+9c43FSoCq7nPXc3FlStKu9BZDDe/eUhuNKgUvX5XIQ3Qz4ld3wjTgYovCdk3uZ+muJWgSx/LBS4RfE3mg9XyaaqltnY3xe8xzjEu65ytkOBqBQtW4x5bRJqVhzgEjlRMkH+28fEAB/AIiLkywNX+GEXIBFnL5dNDhHRvrXYb4+GTtrzeT5XXLP9oyJXJLn2PKCkrpWqEEYKolWQFr+Gp4i46x3A5qVeATpSVLasHYjEHUfMLMbLQBZfMcNQs53nbzANa6fM4/Vb+n7PsR1Tg5HmbCHDrnHEcLrCo58+ZCVtB4c8cGLstwKPCd7AfzYJCCL0wOlrcXSPBD0P2dZp1IFO4M1H1l6WRiHWiYA==;xa0JS2CrVfuJBz6HAsyTOg=="
 ---
 

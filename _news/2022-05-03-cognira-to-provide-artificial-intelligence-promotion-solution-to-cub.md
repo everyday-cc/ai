@@ -2,17 +2,17 @@
 category: news
 title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
 excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
-publishedDateTime: 2022-05-03T12:04:00Z
-originalUrl: "https://www.retaildive.com/press-release/20220502-cognira-to-provide-artificial-intelligence-promotion-solution-to-cub/"
-webUrl: "https://www.retaildive.com/press-release/20220502-cognira-to-provide-artificial-intelligence-promotion-solution-to-cub/"
+publishedDateTime: 2022-05-03T12:36:00Z
+originalUrl: "https://www.grocerydive.com/press-release/20220502-cognira-to-provide-artificial-intelligence-promotion-solution-to-cub/"
+webUrl: "https://www.grocerydive.com/press-release/20220502-cognira-to-provide-artificial-intelligence-promotion-solution-to-cub/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Retail Dive
-  domain: retaildive.com
+  name: grocerydive
+  domain: grocerydive.com
 
 topics:
   - AI
@@ -48,6 +48,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ZRi44fjOisN5/w4dx1LtkMD+FvdFRiwJZ06WiKYCGbPBgF8adEbSgPCTGbd9QKsUZkcDfD6tEezl9bUoRl0Ese04gT8OgFYWBZdNQ7bsdmYyNQumxAY1HX6jgjqmgoxJNfcZNPGGni9CI60mb0J/QxJyKYbK0IOfXCISFrfS9LI8nUa6Tkv7k+DRcJLGde4DEHKMxA7azUz68Czda4IlhkZJdOv/gURN6V/2p/GoLYUElIxLVLe0e/2g14HLdELbm1Iel9gur6Loq5i/fHL/ZZ90YEZtXdIycw7KHrZ2qN9GgyVjHdLHgw9f2ERSuGXOOTAMjNxSoz9AwsFyR0vd5sfi/mzohL04nOFqrJjmvFA=;yOk7qX5zUWVNx6IlRWQvUw=="
+secured: "MUrP6F6QZYbo1MnKcyuf/VP9u4/ux3uBkdrh47EdrInxaihrMy+rn1cmmxw38On2jwyjPJm0Yr0oRhBWd+jRYlKALD3IWUO/nEz9APyI3FPjW72OF67mBQ64uK5zja0NJ74XsiAz9qmtGnP9obNbxl6EuZH5ehnTL3OALhai5Xe2TTxTITRp65sWteg/WoxeUI+cIl/ybXMKFFH9hN36ks0UAd7TpNUvWdZYiYvdp79hm++GqVSC9cWG258d5g0rgHkZcDkVeRXfx2sJG27pOmgNInHUtXvxV6Tb0BJ8k6vjNCdZVaxPSlVRfCDweheP1K1RAb/bSyqUWF7tICbReblFjRnOek/xaGbo0jD02MI=;FuhLv1Wp1q+591X/F3gXSw=="
 ---
 
