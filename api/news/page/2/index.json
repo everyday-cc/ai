@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-04-peergfs-adds-aiml-anomaly-detection-to-distributed-file-system-product.md",
+      "title": "PeerGFS adds AI/ML anomaly detection to distributed file system product",
+      "excerpt": "PeerGFS will also handle file sharing wherever an instance of Windows file system is running, including instances in the AWS, Azure and Google clouds ... including via AI/ML. It already has malicious event detection (MED), which includes use of “bait ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
+      "originalUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/File-share-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
+      "publishedDateTime": "2022-05-04T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting.md",
+      "title": "Traversing The Great Uncertainty With AI And Intelligent Forecasting",
+      "excerpt": "AI can provide an agile way to sort through these extensive logs of data to quantify unique sets of market drivers for any given business. Out of thousands—maybe millions—of external market signals, AI can help business leaders identify the top ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62711214c63fd2377df98d3a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/",
+      "publishedDateTime": "2022-05-04T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-toyota-puts-invisible-ai-eyes-in-north-american-factories.md",
+      "title": "Toyota Puts Invisible AI Eyes In North American Factories",
+      "excerpt": "Toyota Indiana assembly plant in Princeton, Ind. will be the first installation of the Invisible AI ... [+] system to boost quality, safety and productivity. The automaker and Austin, Texas-based startup said Wednesday Invisible AI's computer vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62715de69d18651793490729/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/",
+      "publishedDateTime": "2022-05-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-why-focusing-on-user-centricity-in-ai-is-the-best-move.md",
       "title": "Why Focusing On User-Centricity In AI Is The Best Move",
       "excerpt": "If you establish a process of evaluating meaningful insights that work within your organization's context, what can start as surprising consumer sentiments can quickly become opportunities to leverage AI for scalable interventions and results. It's ...",
@@ -148,7 +294,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities-2022-05-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -668,7 +814,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1051,145 +1197,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-the-rise-of-artificial-intelligence-will-robots-actually-replace-people.md",
-      "title": "The Rise Of Artificial Intelligence: Will Robots Actually Replace People?",
-      "excerpt": "Robots and artificial intelligence (AI) are expected to permeate our daily lives by 2025. This could have huge implications on several business sectors, most notably health care, customer service, and logistics. Already, AI is responsible for medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
-      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5e432e1ba854780006b10cf4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
-      "publishedDateTime": "2022-05-03T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-and-the-metaverse-2-big-reasons-to-buy-meta-platforms-stock.md",
-      "title": "AI and the Metaverse: 2 Big Reasons to Buy Meta Platforms Stock",
-      "excerpt": "Short-form video is the vessel TikTok and Reels use to deliver content, but artificial intelligence (AI) sits in the background curating the entire experience. Social media has become less social -- people open TikTok and rely on the app to know what they ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock?amp",
-      "publishedDateTime": "2022-05-03T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-10-things-in-tech-meet-the-top-seed-investors.md",
-      "title": "10 Things in Tech: Meet the top seed investors",
-      "excerpt": "Get the latest. 7. An engineer at Google's DeepMind AI lab explains how he went from marketing to machine learning without a Ph.D. Businesses are quickly starting to staff up with experts in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6262cee8365a280019dfebfa?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5?amp",
-      "publishedDateTime": "2022-05-03T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

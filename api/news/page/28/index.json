@@ -2,6 +2,163 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-04-09-the-truth-about-ai-in-healthcare.md",
+      "title": "The Truth About AI In Healthcare",
+      "excerpt": "In heavily regulated industries such as healthcare, digital innovation can be slow to progress, but when adopted correctly, can have tremendous value. What's the truth about AI adoption in healthcare and where are healthcare companies on their data and AI journey?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62509539b211e17f02642cfa/0x0.jpg?format=jpg&crop=5000,2813,x0,y416,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/",
+      "publishedDateTime": "2022-04-08T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-oracle-data-warehouse-vs-redshift-compare-data-warehouse-software.md",
+      "title": "Oracle Data Warehouse vs Redshift: Compare data warehouse software",
+      "excerpt": "Oracle Data Warehouse and Amazon Redshift are popular data warehousing solutions. Read this feature comparison.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/",
+      "originalUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/04/istock-1061299140.jpg?x27523",
+          "width": 1258,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/amp/",
+      "publishedDateTime": "2022-04-08T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-elon-musk-says-production-of-teslas-robot-could-start-next-year-but-ai-experts-have-their-doubts.md",
+      "title": "Elon Musk says production of Tesla's robot could start next year, but A.I. experts have their doubts",
+      "excerpt": "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "originalUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107043923-1649419793298-gettyimages-1239825668-AFP_327X2VH.jpeg?v=1649420032",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "publishedDateTime": "2022-04-08T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy.md",
       "title": "3 Chinese Stocks to Buy on the Dip Amid China Triple Whammy",
       "excerpt": "However, revenue from non-core businesses, including AI, Baidu Cloud and self-driving cars, soared 63% YOY, compensating for the decline in its advertising business. BIDU stock is down 38% over ...",
@@ -1017,144 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-2-top-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top AI Stocks Ready for A Bull Run",
-      "excerpt": "AI will increasingly rely on powerful 7-nanometer (nm) and 5nm chips, and companies will likely be making the jump in the next few years to 3nm and 2nm chips that deliver even better performance and open the door for even more advanced artificial-intelligence and machine-learning applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1",
-      "originalUrl": "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp",
-      "publishedDateTime": "2022-04-08T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-how-artificial-intelligence-powered-tools-can-support-clinical-decision-making.md",
-      "title": "How Artificial Intelligence-Powered Tools Can Support Clinical Decision-Making",
-      "excerpt": "With unlimited processing power and an ability to \"learn\" over time, AI-powered clinical decision support (CDS) software has gotten more attention over the past few years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f4e47455e0c17f79712a595/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/",
-      "publishedDateTime": "2022-04-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-the-census-is-broken-can-ai-fix-it.md",
-      "title": "The Census Is Broken. Can AI Fix It?",
-      "excerpt": "Machine learning can help count people to deliver government funding and decide political representation, but the technology still makes mistakes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/",
-      "originalUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/624f885dd8687dcbd6e67c3e/master/pass/Ping-Pong-Balls-Census-Broken-AI-Fix-Business-1192111792.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-census-undercount-ai-satellites/amp",
-      "publishedDateTime": "2022-04-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

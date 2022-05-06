@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-pati
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 940
         height: 627
         isCached: true
+  - title: "AI can predict bone fractures in cancer patients"
+    excerpt: "A team of US researchers has used artificial intelligence (AI) to create a digital twin of a patient’s vertebra that will be able to predict the risk of bone fracture in people who have suffered from cancer. As medicine continues to embrace machine ..."
+    publishedDateTime: 2022-05-06T12:29:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/ai-can-predict-bone-fractures-in-cancer-patients/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 17
 
 secured: "l5GDh4EOmb3QHda1shzmancr5MA6UpBHcuY927aw+aIolWEzQQXbrepfVcdMnxm/caLIqqqymL63di8TkvT4LV2ATU0goqnprP0PdFHjtRFAk3KW6mwE+Di5mJrpn7aMY77CFnTNTQjAO+xTfHH3JxH5Kcs7MdA2woC87rcN55OVztaZ5Xlf/3UV/rkwklCMrGpKHSxbWBjF585WRT7z7pBz3hiiXlGy+tnLERrdcR528p6FARl6DWZWjPxCygQce9Ho7zsPIKhrgbqfL1AHfWhusbdT60yCv38dkaYUNBXvfM789n6zTJL5LNrTIY1vUedHGbp4yL5eDgREv+4aeh9GWm/Sv8hHFqlcC3NuS+0=;yea6fuCYm12e/6OLpY/kvA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
         width: 500
         height: 700
         isCached: true
+  - title: "Applying a form of AI to sift through large amounts of biological data"
+    excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) -; previously used to analyze how National Basketball Association (NBA) players move their bodies -; to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
+    publishedDateTime: 2022-05-06T13:11:00Z
+    webUrl: "https://www.news-medical.net/news/20220506/Applying-a-form-of-AI-to-sift-through-large-amounts-of-biological-data.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 21
   - title: "One to Watch Companies - AI, Analgesia, Immunologicals"
     excerpt: "One company, Labstep, aims to help scientists achieve this. Japanese AI specialist Elix is to commence work on a joint research project with Shionogi, leveraging its Elix Synthesize platform. PhoreMost, a UK-based biopharma dedicated to developing drugs ..."
     publishedDateTime: 2022-05-02T09:57:00Z

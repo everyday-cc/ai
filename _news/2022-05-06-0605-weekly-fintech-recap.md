@@ -28,28 +28,12 @@ related:
   - title: "How Fintech Can Help You Manage Your Personal Finances"
     excerpt: "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions."
     publishedDateTime: 2022-05-02T20:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
+    webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
-  - title: "Payroll fintech Symmetrical.ai raises $18.5m"
-    excerpt: "According to the company blurb for the payroll tech provider, its mission is to “help employees retain control over their personal finances”. Image source: Payroll/Pixabay. A fintech, whose vision is to “make payroll invisible\", has raised $18.5m."
-    publishedDateTime: 2022-05-03T10:42:00Z
-    webUrl: "https://www.altfi.com/article/9187_payroll-fintech-symmetricalai-raises-185m"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
-    images:
-      - url: "https://www.altfi.com/images/featured/payroll-fintech-symmetricalai-raises-185m.jpg"
-        width: 1200
-        height: 720
-        isCached: true
+    quality: 49
   - title: "Catapult: Kickstarter Fintech Acceleration Programme 2022 for early-stage Fintechs (€50.000 in subsidies)"
     excerpt: "B2B Fintech companies with solutions in Regtech, Wealthtech, Insurtech and Cybersecurity using Blockchain, AI and Big Data technologies are of particular interest to the Luxembourg financial services ecosystem. When The 2022 Summer edition of Catapult ..."
     publishedDateTime: 2022-05-04T15:47:00Z
@@ -93,20 +77,6 @@ related:
       - url: "https://assets.bizclikmedia.net/1800/ab450196b08dde36e9abdde7a8dbf64c:0c06a3e68bc9800bf851df4cc1523005/gettyimages-1154103460-1.jpg.jpg"
         width: 1800
         height: 1011
-        isCached: true
-  - title: "Ten FinTech Trends to Follow in 2022"
-    excerpt: "FinTech is one of the five areas with a high Big Data growth rate. The industry needs a powerful tool to collect, structure and store information. One of these is artificial intelligence (AI). According to McKinsey, every year, it generates up to $1 ..."
-    publishedDateTime: 2022-05-04T14:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/22232/ten-fintech-trends-to-follow-in-2022"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.researchandmarkets.com/content-images/173/173851/1/global-fintech-market.png"
-        width: 600
-        height: 400
         isCached: true
   - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
     excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"

@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-26-how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.md",
+      "title": "How AI is helping the supply chains in the healthcare sector",
+      "excerpt": "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to c..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91092925,imgsize-11528,width-1200,height-628,overlay-ethealthworld/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925",
+      "publishedDateTime": "2022-04-26T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-teaching-ai-and-robotics-concepts-in-business-courses.md",
+      "title": "Teaching AI and robotics concepts in business courses",
+      "excerpt": "By Gary Allemann, MD at Master Data Management Artificial Intelligence (AI) and robotics are steadily making their way into every industry. From retail companies to healthcare practices that use AI-driven robots for medical processes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
+      "originalUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution-for-meetings.md",
       "title": "Philips Speech Teams Up With Sembly AI to Launch a Brand-new Speech Technology Solution for Meetings",
       "excerpt": "Together they’ll unite to provide high-quality microphones and smart meeting technology. Sembly goes beyond simple speech recognition and offers users instant searchable meeting transcripts, highlights key discussion moments, and creates summaries.",
@@ -1000,111 +1086,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand.md",
-      "title": "Why companies need to get a handle on ethical and responsible AI (VB On-Demand)",
-      "excerpt": "As AI is integrated into day-to-day lives, justifiable concerns over its fairness, power, and effects on privacy, speech, and autonomy grow.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/",
-      "originalUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1135199002.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/amp/",
-      "publishedDateTime": "2022-04-25T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars.md",
-      "title": "AI Ethics Fretting Over The Use Of AI To Goad Humans Into Unethical Behaviors, Possibly Even Via Those Autonomous Self-Driving Cars",
-      "excerpt": "AI that provides unethical advice is going to be a vexing problem for humans, including as showcased via the advent of autonomous self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62467316d1ffaded5f503f2f/0x0.jpg?format=jpg&crop=1421,760,x243,y0,safe&width=1200",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-04-25T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

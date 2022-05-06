@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Chip Market Size Is Expected To Reach $194.90 Billion By 2030"
+    excerpt: "According to a new report published by Allied Market Research, titled,“  Artificial Intelligence Chip Market by Chip Type  <stron"
+    publishedDateTime: 2022-05-05T14:24:00Z
+    webUrl: "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 55
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?727425"
+        width: 467
+        height: 250
+        isCached: true
   - title: "Deep Learning Chip Market worth $21.31 Billion by 2027 – Exclusive Research by The Insight Partners"
     excerpt: "According to the new research report published by The Insight Partners, titled “Deep Learning Chip Market to 2027 – Global Analysis and Forecasts By"
     publishedDateTime: 2022-05-05T16:04:00Z
@@ -33,20 +47,43 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence Chip Market Size Worth US$ 83,252.7 Million By 2027 | CAGR 35.0%: The Insight Partners"
-    excerpt: "titled “Artificial Intelligence Chip Market to 2027 – Global Analysis and Forecasts by Segment (Data Center, Edge); Type (CPU, GPU, ASIC, FPGA, and Others); and Industry Vertical (BFSI, Retail, IT & Telecom, Automotive & Transportation, Healthcare ..."
-    publishedDateTime: 2022-05-04T11:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-size-worth-us-83252-7-million-by-2027-cagr-35-0-the-insight-partners"
+  - title: "Wearable Artificial Intelligence (AI) Market Projected To Reach About To USD 42.34 Billion by end of 2028"
+    excerpt: "Market Research Outlet is continuing to do research on Wearable Artificial Intelligence Market – by Product Type (Smart Watches, Ear wears, Fitness Band, Head Mounted Display), By Application (Consumer Electronics, Enterprises and Gaming Application ..."
+    publishedDateTime: 2022-05-02T11:01:00Z
+    webUrl: "https://galleonnews.com/uncategorized/256408/wearable-artificial-intelligence-ai-market-projected-to-reach-about-to-usd-42-34-billion-by-end-of-2028/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 35
+    images:
+      - url: "https://i.ibb.co/3h0zHPg/MRO-NEW.jpg"
+        width: 575
+        height: 278
+        isCached: true
+  - title: "At a CAGR of 26.44% Mobile Artificial Intelligence (AI) Market Size Expected to Reach $84.80 Billion by 2030"
+    excerpt: "According to a new report published by Allied Market Research, titled, “Mobile Artificial Intelligence (AI) Market by Technology Node, Component, and Application: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global mobile ..."
+    publishedDateTime: 2022-05-03T05:21:00Z
+    webUrl: "https://www.digitaljournal.com/pr/at-a-cagr-of-26-44-mobile-artificial-intelligence-ai-market-size-expected-to-reach-84-80-billion-by-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 38
+    quality: 35
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/f1653d2b223a6200f45edb7f55c9ffc64fd662bb-600x337.jpg"
         width: 600
         height: 337
         isCached: true
+  - title: "AI CCTV Market Expected to Reach $55.22 Billion by 2030"
+    excerpt: "According to a new report published by Allied Market Research, titled, “AI CCTV Market by Offering, Camera Type, Deployment, and End User: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global AI CCTV industry size was valued at ..."
+    publishedDateTime: 2022-05-06T13:23:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-5-6-ai-cctv-market-expected-to-reach-5522-billion-by-2030"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 17
 
 secured: "mhxBWKLmz7OVdEo7SOuLeqy8f0DB6HWM9osFjXG03c0r+IMplKmLgD6Kh8NMw/C/h3W98QaMu2D07RgqCiWW1upzedHYTDrUX8HtdK6SEgsVTzviuPLed5a11nXE3a1SOreY2cNWLRqgxEMQTcFa7j2qe1PmN1wyVn54QShfIs8qd1Mhk+xe75DH7jVQYLsR3A0HmcskG+gFUOysy9rRaVMcX8SEERAE0pHR1tMl45pARYIaGN89DSRkkXlKpvK8ogy/4n+GXGv6l4PyFjbvr15+s3tN+mgASCF3/HP24Rnu8OPEyUQAoqHJww4l9pUquPQemMEMGabdw5uGUNyDdGSaMqTPbNYfDUdYpkA7L0o=;U2GAm01QLmYmuiFbUjkILQ=="
 ---

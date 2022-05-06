@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-26-expanding-intels-ai-developer-toolset.md",
+      "title": "Expanding Intel’s AI developer toolset",
+      "excerpt": "Intel has published a new version of the Intel Distribution of the OpenVINO toolbox ahead of MWC 2022, which includes considerable improvements to AI inferencing. Chipmaker Intel has helped hundreds of thousands of developers speed up AI inference,",
+      "sourceUrl": null,
+      "webUrl": "https://bestgamingpro.com/expanding-intels-ai-developer-toolset/",
+      "originalUrl": "https://bestgamingpro.com/expanding-intels-ai-developer-toolset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestgamingpro.com/wp-content/uploads/2022/02/Intel-expands-its-AI-developer-toolkit.png",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-25T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-intel-targets-edgy-5g-and-ai-with-new-chips-software.md",
       "title": "Intel targets edgy 5G and AI with new chips, software",
       "excerpt": "Intel has lifted the lid on new technologies for the edge and AI ahead of the Mobile World Congress conference including new Xeon D chips with integrated acceleration features and an updated OpenVINO toolkit for AI inferencing.",
@@ -1350,58 +1393,6 @@
         "name": "Investor ideas",
         "domain": "investorideas.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-redmagic-7-confirmed-to-feature-independent-gaming-chip-called-red-core-1.md",
-      "title": "REDMAGIC 7 confirmed to feature independent gaming chip called Red Core 1",
-      "excerpt": "REDMAGIC says that the chip was developed jointly with Awinic and JD Esports. Awinic is a Shanghai-based company that specialized in high-quality, high-performance analog, digital-analog mixed-signal, RF, and IC for mobile phones, AI, IoT, and the like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/",
-      "originalUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/redmagic-7-red-core-1-chip-featured.jpg",
-          "width": 749,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/?amp=1",
-      "publishedDateTime": "2022-02-15T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

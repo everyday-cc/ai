@@ -40,7 +40,16 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Artificial Intelligence In Computer Vision Market is Booming Worldwide | NVIDIA, Intel, Qualcomm"
+    excerpt: "The Latest Released Artificial Intelligence In Computer Vision market study has evaluated the future growth potential of Global Artificial Intelligence In"
+    publishedDateTime: 2022-05-06T13:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-computer-vision-market-is-booming-worldwide-nvidia-intel-qualcomm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
 
-secured: "hD7tiyD4PxuReggI0iVHzBtaIxkcYAt2MAL2ONZalVSxdAUxcrdgGCK7ClVZyDwnQ4W4IMLBHRS6obMv3DFvCSDnG3ocSeTRs3qXkl3FYAogky/Tt4sEEF57zczktbozeBDI7k5SOTJ/ex73X0JfDXyXUzK/0Ggt4PHuksCxmLDwh8qbAkcOev1R6dyIaQCJfPIOVO1vkDKAMGnhhRkQwZohAFYdXbmM+5+tsPax9ueahr4dTOGecPgHPyUY47d59w9i4nuHcAZAjsWFY14Uf1+fv1V6Wtsp9rttdi/y2d8e6SpZDqi5IsKxWv2DpstzHrsVKMl8x8M9FodP0ES0IOkkAea0WrrcZ97pD50W1oo=;JnMeiOap+MQS26lIHHI5WA=="
+secured: "MCA/4BQoAldJjmtq1NmrlPcLyGJzTf1Tiqd1fZzYN97NfpOu/LsSrqvPteOq2yvdH7fAkqoHBq65vQLv+wlPzk7TJtGMdTiKt9+kgYHSea9Py5kP6eL42QBYV8HhGh58XBbGZCCBgMjZC+ueFMFjgDgyfbqyByUzOaPZIQRvUtUethVfO9AZKSq4uvvt08IcKMxTStSZ1Je4VSZXui00k1Tf4jM2uYBVKfCoWxY3gKu6rwTg6G5jkcu6TtAFHOkIzg/qHqdJqu6F88e7YQoeDC4kj93Vk7UO0/mTLWw0NeKly5uxDF8wbmlmfPqaeqn9JemJHCq6ZHJaB9c7pHVXq4mNWxJUg7ltWc0Qt/u572/fjUHgpw0fckcPwF/dKkxokP7vzyKuP/a28Y/4nb71prKS5jbW0snR3izGSlUC7xFWbweBoJEownfAyJLhZfERpdG/tdMtjalMf/9zhhz7x4WQi4ND9YRUXyxmXZhbkLnoRW5J9tEIPLlDe9OXlb4lUfwwIlT/pQljfMKT1xvrZw==;wymJEzWn314jKzovfivICw=="
 ---
 

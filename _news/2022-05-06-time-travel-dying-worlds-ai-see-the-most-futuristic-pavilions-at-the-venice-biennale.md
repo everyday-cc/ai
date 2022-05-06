@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-06T13:12:00Z
 originalUrl: "https://www.hindustantimes.com/lifestyle/art-culture/time-travel-dying-worlds-ai-see-the-most-futuristic-pavilions-at-the-venice-biennale-101651842732038.html"
 webUrl: "https://www.hindustantimes.com/lifestyle/art-culture/time-travel-dying-worlds-ai-see-the-most-futuristic-pavilions-at-the-venice-biennale-101651842732038.html"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Hindustan Times

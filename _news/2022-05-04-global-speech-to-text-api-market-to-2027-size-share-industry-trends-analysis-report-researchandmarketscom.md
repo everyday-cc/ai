@@ -69,6 +69,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI in Fintech Market Report 2022: Analysis, Trends, Growth, Demand and Forecast to 2027"
+    excerpt: "May 03, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" The global AI in fintech market reached a ..."
+    publishedDateTime: 2022-05-03T03:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-report-2022-analysis-trends-growth-demand-and-forecast-to-2027-2022-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
   - title: "Global Medical Robotics Market Report 2022: Breakdown by"
     excerpt: "In 2020, the number was still rising. Robots, drones, and artificial intelligence have all gained popularity due to the new coronavirus. The global epidemic of COVID-19 has consequences for the robotics industry. It promoted the development of professional ..."
     publishedDateTime: 2022-05-04T11:14:00Z

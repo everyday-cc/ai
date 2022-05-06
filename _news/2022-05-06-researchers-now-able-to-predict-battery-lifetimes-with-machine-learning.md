@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Researchers now able to predict battery lifetimes with machine learning"
-excerpt: "Scientists have used machine learning algorithms to predict how long a lithium-ion battery will last. Imagine a psychic telling your parents, on the day you were born, how long you would live. A similar experience is possible for battery chemists who are using new computational models to calculate battery lifetimes based on as little as a single cycle of experimental data."
-publishedDateTime: 2022-05-05T20:13:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/05/220505114658.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/05/220505114658.htm"
+excerpt: "Imagine a psychic telling your parents, on the day you were born, how long you would live. A similar experience is possible for battery chemists who are using new computational models to calculate battery lifetimes based on as little as a single cycle of experimental data."
+publishedDateTime: 2022-05-06T14:27:00Z
+originalUrl: "https://techxplore.com/news/2022-05-battery-lifetimes-machine.html"
+webUrl: "https://techxplore.com/news/2022-05-battery-lifetimes-machine.html"
+ampWebUrl: "https://techxplore.com/news/2022-05-battery-lifetimes-machine.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-battery-lifetimes-machine.amp"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-now-able-t.jpg"
+    width: 534
+    height: 300
+    isCached: true
 
 related:
   - title: "Researchers now able to predict battery lifetimes with machine learning"
@@ -32,7 +36,16 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 19
+  - title: "Researchers at the GIST develop deep learning model to predict adverse drug-drug interactions"
+    excerpt: "To address these limitations, Associate Professor Hojung Nam and Ph.D. candidate Eunyoung Kim from the Gwangju Institute of Science and Technology in South Korea developed a deep learning-based model to predict DDIs based on drug-induced gene expression ..."
+    publishedDateTime: 2022-05-04T13:10:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/951650"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 8
 
-secured: "wFOLRttnUrDglQ3JXgyvhNd8aD78SXea8OLNmxfQiCGdwguKMWNDX9MlUJOaUfYWMmdMfxL6Y7IaCR1dZrPPODKnvGZPxr4XlwmlWv4la86R4amBHzIBLhr8KsvySKYFo/7pYn8RgJOzhLTD3xWKevjkn/7T8KYImCPW5WF3LpSJc3SLHrNVlmzhLvGqy8vJTBcWB06lqP+1PyE3T0CJSS3EC8JpCTQHcKTvSoXMXICadwpn3FopXUCqHVe2F64+MfoLNVbhh0fiBuGWYbN4kMN4kIESkiey989V47r2t3qKwNGDTvFffNN7cVpmnLNNM26W1puQyhUY0h6ZujePeRKy0Db5XF/oJ6ybHjxVajw=;RqFeyujombUELIxxmbe19A=="
+secured: "Z50HFB6OS/ctgOwM17iQtrT3mwmBDUUKJFKC/2xl/LREP69iVM8nqOkzjgVV4rZBY/Kb7edEgo0kaRQS3oVFRcgzlqLgFe8IC5iNgkEi6LYPhCRHLpk9QsgFQ5OQGVtMXcjEW/wqgiPzt7pSfJj/7wI0arc4nv3F4cACCRFpyTC2w+kf7fZRGpah6ruX6ob+OOk3os1G+Kvw60K7e0KhQz5CZbHrD6XJInkj7CIcppydr+P4tBDcZf2W2yU+4TP9pjPESTaBX8jbI21pPW+1jhpRaiMM4u3DCxbSZoQ5oY3c5jwS/QbT+g+wpLmj/16vxXm+IIaBLN9UQSWTsUHOqBo8R/WO1BYcdOizOmme0DM=;g0MCHSEu/Ww9z/uVdfiUEA=="
 ---
 

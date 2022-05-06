@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
-    excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols,"
-    publishedDateTime: 2022-05-06T10:58:00Z
-    webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/06/google_manufacturing_tools/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/google_manufacturing_tools/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 56
-    images:
-      - url: "https://regmedia.co.uk/2021/11/03/shutterstock_car_factory.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Exasol Announces Expanded Capabilities of Its Analytics SaaS Database, Including ETL Integration"
     excerpt: "Amazon SageMaker extension: Exasol SaaS now supports a SageMaker Extension, enabling users to develop end-to-end machine learning projects on data stored in Exasol using the Amazon SageMaker Autopilot service. Doing so mean users can turn data into ..."
     publishedDateTime: 2022-05-03T07:59:00Z
@@ -51,6 +35,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
+    excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
+    publishedDateTime: 2022-05-06T12:54:00Z
+    webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/?td=amp-keepreading-top"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 16
 
 secured: "xA5e8kzwKAnQVPQyedM8HCf3jkyJlybqeQJ3b5Ub5YDF+XHf60HxDXSkBy4yLDbVouwC+CNJqvdNG8P2DYTuIiZE/y0TfkO8fIpbmJdtPIFKL3Y7okcDG6kz/f8c6F9DJW3WCovcGhJY33bQniR//sr8d3p1YrdcHbbb4NK3nuAUwvvogcXYk2zDP1lfnt/P+S5aXCoZXBR6jeeemBROgwuF6FFdp1YILqeMiHTZksUXC0ERcSMtYBjrOMrhxbebeMQZSlpmpdZnVWvvp9TjBjM4sveaJrSIfgS8Kjhns6SunKcI8sSi8i6jhYlzDDzIjxmnhcj/nQay0d4wFuU6wAYmZyLalJI+0pyGGQbJMPWDOgn7JCmt71R/CRGA64LsqqPJhTfUhBQPy7JvJ6gDJNVNDCauspAfoeRHQFHGxK5MODXN01HdfUv7zVRfzmeVPOf/53FDTHUEQ+v/RMGmY5aIMueys4fkEVyMT0Pv4SnwYY8FzUD0lBeikH2slsIO2k4yn0Wzp6955ZbqDaoeVQ==;MsYqJSXbFtN+VlnbDoyGcg=="
 ---

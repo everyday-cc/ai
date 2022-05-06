@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-06-invest-in-the-robotics-startup-tripling-restaurant-profits.md",
+      "title": "Invest in the Robotics startup tripling restaurant profits",
+      "excerpt": "So instead of chasing an armada of employees, franchises have already started deploying Flippy. This synthesis of AI-driven robotics, machine learning and data analytics can grill, fry and, as its name suggests, flip an entire restaurant’s worth of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/miso-robotics-145539918.html",
+      "originalUrl": "https://www.engadget.com/miso-robotics-145539918.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c6c6c570-cbb4-11ec-bfdf-cfbdb5e2b591",
+          "width": 1600,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-robot-chefs-are-for-real-with-tasting-skills.md",
       "title": "Robot chefs are for real with tasting skills",
       "excerpt": "Likewise, IBM Research had been developing Hypertaste —an AI-assisted tongue mimicking the way ... in India since Indians love to eat fresh food. But robot chefs are not cheap—domestic variants start at ₹50,000, and commercial models can cost up ...",
@@ -1106,31 +1158,22 @@
       "title": "Space discoveries that will blow your mind",
       "excerpt": "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from",
       "sourceUrl": null,
-      "webUrl": "https://www.myarklamiss.com/news/national-news/space-discoveries-that-will-blow-your-mind/",
-      "originalUrl": "https://www.myarklamiss.com/news/national-news/space-discoveries-that-will-blow-your-mind/",
+      "webUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
+      "originalUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.myarklamiss.com/wp-content/uploads/sites/15/2022/04/super-massive-black-hole.jpg?w=1280",
-          "width": 971,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.myarklamiss.com/news/national-news/space-discoveries-that-will-blow-your-mind/amp/",
-      "cdnAmpWebUrl": "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/national-news/space-discoveries-that-will-blow-your-mind/amp/",
-      "publishedDateTime": "2022-04-26T13:17:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T12:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "My ArkLaMiss",
-        "domain": "myarklamiss.com",
+        "name": "WJTV",
+        "domain": "wjtv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1333,58 +1376,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-the-other-ai-augmented-intelligence.md",
-      "title": "The Other AI: Augmented Intelligence",
-      "excerpt": "Augmented intelligence is empowering organizations with resources that impact ease, effectiveness and emotion for customers and employees that move traditional measures and CSAT in new ways. One type of augmented intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/the-other-ai-augmented-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/the-other-ai-augmented-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6266a0a9b1381a2bb681230e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/the-other-ai-augmented-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/the-other-ai-augmented-intelligence/amp/",
-      "publishedDateTime": "2022-04-26T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

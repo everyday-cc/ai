@@ -24,6 +24,17 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "Tempus Announces Agreement With the United States Department of Veterans Affairs National Precision Oncology Program To Expand Access to Genomic Testi"
+    excerpt: "CHICAGO--(BUSINESS WIRE)--Tempus, a leader in artificial intelligence and precision medicine ... which allows physicians to make truly personalized decisions as they seek the optimal therapy for their patients,” said Eric Lefkofsky, Founder and CEO ..."
+    publishedDateTime: 2022-05-06T00:05:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=659621"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+
 secured: "89YLfHAzx3xOx4jFA930L7XSm06JhK8dvHeuI95QaPEgpIpovea8WGRUTVNx/Q9mDRsgcX/MvatbhsoSePWBhesR/wosPch9xsNXZYbXlN0/ii1Adu7+qDk9fAqb8vZu5bjej5kGn8JN++R09qQGbWLGIoBQyaSx6jlx/F8e9LaflHm73ccu00wDvtju/9FKbTHQgSr0MwLiOamxUK4CbwxcLB/jIC0CXYXD7YBvHDmO092DDqs7N85m+OpGDh48J0pUWxbGA93mJdqT47rcdYH+dtVrJcpAj+u3dg65IEiWCbBYGF0/ydYJ2u5OiFWj0Ydtc3i1zI+ns7wI/MfwlhK17/AOaFVL8sP6GtLa7Pk=;93Jxv6JQG0pIhyZuJqY+gg=="
 ---
 

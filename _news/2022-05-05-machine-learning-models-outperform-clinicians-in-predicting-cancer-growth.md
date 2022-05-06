@@ -30,15 +30,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Researchers at the GIST develop deep learning model to predict adverse drug-drug interactions"
-    excerpt: "To address these limitations, Associate Professor Hojung Nam and Ph.D. candidate Eunyoung Kim from the Gwangju Institute of Science and Technology in South Korea developed a deep learning-based model to predict DDIs based on drug-induced gene expression ..."
-    publishedDateTime: 2022-05-04T13:10:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/951650"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 8
   - title: "Researchers at the Gwangju Institute of Science and Technology Develop Deep Learning Model to Predict Adverse Drug-Drug Interactions"
     excerpt: "Using gene expression data, the new model can predict how some drug-drug interactions can lead to adverse effects in the human body"
     publishedDateTime: 2022-05-05T12:35:00Z

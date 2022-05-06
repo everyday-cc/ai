@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -496,10 +496,10 @@
     {
       "path": "_news/2022-04-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel.md",
       "title": "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel",
-      "excerpt": "Blankenship brings decades of experience in artificial intelligence, data ethics, intellectual property, litigation, risk management, and M&A to BigBear.ai. BigBear.ai (NYSE: BBAI",
+      "excerpt": "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has appointed Carolyn Blankenship as General Counsel. In this role, Blankenship will develop and lead corporate legal strategy supporting BigBear.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel",
+      "webUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -509,11 +509,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T05:00:00-07:00",
+      "publishedDateTime": "2022-04-26T05:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -682,6 +682,49 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-22-ai-ethics-how-do-we-put-theory-into-practice-when-international-approaches-vary.md",
+      "title": "AI ethics - how do we put theory into practice when international approaches vary?",
+      "excerpt": "Many of the issues around AI and ethics are understood, but what practical steps should we take to protect citizens? Many governments around the world have rightly put ethical development and deployment at the heart of their AI thinking. Core to this ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-ethics-how-do-we-put-theory-practice-when-international-approaches-vary",
+      "originalUrl": "https://diginomica.com/ai-ethics-how-do-we-put-theory-practice-when-international-approaches-vary",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-04/ethics.png",
+          "width": 1404,
+          "height": 930,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-ethics-how-do-we-put-theory-practice-when-international-approaches-vary?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ethics-how-do-we-put-theory-practice-when-international-approaches-vary?amp",
+      "publishedDateTime": "2022-04-22T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1396,49 +1439,6 @@
         "AI in Marketing",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
-      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
-      "excerpt": "When asked which function is primarily accountable for AI ethics, 80% of respondents pointed to a non-technical executive, such as a CEO, as the primary \"champion\" for AI ethics, a sharp uptick ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/responsibility-ai-ethics-shifts-tech-silo-broader-executive-champions-says-ibm-study",
-      "originalUrl": "https://www.asiaone.com/business/responsibility-ai-ethics-shifts-tech-silo-broader-executive-champions-says-ibm-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/pr-newswire_500_4_744.jpg?h=7de12b8a&itok=1ipjVXxk",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-03-the-rise-of-artificial-intelligence-will-robots-actually-replace-people.md",
+      "title": "The Rise Of Artificial Intelligence: Will Robots Actually Replace People?",
+      "excerpt": "Robots and artificial intelligence (AI) are expected to permeate our daily lives by 2025. This could have huge implications on several business sectors, most notably health care, customer service, and logistics. Already, AI is responsible for medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
+      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e432e1ba854780006b10cf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
+      "publishedDateTime": "2022-05-03T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-ai-and-the-metaverse-2-big-reasons-to-buy-meta-platforms-stock.md",
+      "title": "AI and the Metaverse: 2 Big Reasons to Buy Meta Platforms Stock",
+      "excerpt": "Short-form video is the vessel TikTok and Reels use to deliver content, but artificial intelligence (AI) sits in the background curating the entire experience. Social media has become less social -- people open TikTok and rely on the app to know what they ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock?amp",
+      "publishedDateTime": "2022-05-03T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-10-things-in-tech-meet-the-top-seed-investors.md",
+      "title": "10 Things in Tech: Meet the top seed investors",
+      "excerpt": "Get the latest. 7. An engineer at Google's DeepMind AI lab explains how he went from marketing to machine learning without a Ph.D. Businesses are quickly starting to staff up with experts in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6262cee8365a280019dfebfa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5?amp",
+      "publishedDateTime": "2022-05-03T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short.md",
       "title": "How To Adopt AI-Based Business Intelligence Solutions When Traditional Dashboards Fall Short",
       "excerpt": "Business leaders must consider leveraging AI to monitor and learn the behavior of data in real ... The right product manager will be able to align with data scientists and translate expectations and results to management, bridging the gap between the ...",
@@ -113,7 +252,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -743,40 +882,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-03-how-fintech-can-help-you-manage-your-personal-finances.md",
-      "title": "How Fintech Can Help You Manage Your Personal Finances",
-      "excerpt": "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse",
-      "originalUrl": "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp",
-      "publishedDateTime": "2022-05-02T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-03-6-must-see-indie-games-we-saw-at-pax-east-2022.md",
       "title": "6 must-see indie games we saw at PAX East 2022",
       "excerpt": "In combat, for instance, players can call on their manager to apply a buff or debuff, and players have to mind a hype meter ... is that players pretty much control two characters instead of just one. The first is a giant robot armed with a sword that ...",
@@ -1114,90 +1219,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-c3ai-is-this-artificial-intelligence-stock-a-buy.md",
-      "title": "C3.ai: Is This Artificial Intelligence Stock A Buy?",
-      "excerpt": "C3.ai is showing substantial revenue and customer growth. The company is doing a great job at penetrating its existing consumer base. Industry growth trends look favorable but short-term market ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "originalUrl": "https://seekingalpha.com/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319573751/image_1319573751.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "publishedDateTime": "2022-05-02T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-ai-the-somnium-files-nirvana-initiative-new-characters-shared.md",
-      "title": "AI: The Somnium Files – nirvanA Initiative New Characters Shared",
-      "excerpt": "This marked the start of the “Half-Body Serial Killings ... She is a returning character from AI: The Somnium Files. She belongs to the talent agency Lemniscate and has a love of the occult and urban legends. Like Kizuna, she is a senior at Sekiba ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/",
-      "originalUrl": "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3fd5j8wprxn3h.cloudfront.net/wp-content/uploads/2022/05/AI-The-Somnium-Files-nirvanA-Initiative-New-Characters.png",
-          "width": 710,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/amp/",
-      "cdnAmpWebUrl": "https://www-siliconera-com.cdn.ampproject.org/c/s/www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/amp/",
-      "publishedDateTime": "2022-05-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Siliconera",
-        "domain": "siliconera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

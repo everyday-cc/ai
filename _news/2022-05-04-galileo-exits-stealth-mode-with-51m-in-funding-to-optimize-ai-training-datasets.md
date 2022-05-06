@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How AI Is Streamlining Freight Movement"
+    excerpt: "Increasingly, technology vendors are utilizing AI and ML to bring greater efficiencies to the digital ecosystem that connects freight, including transportation management systems, load boards and pricing and capacity management tools. Several developers ..."
+    publishedDateTime: 2022-05-06T14:59:00Z
+    webUrl: "https://www.ttnews.com/articles/how-ai-streamlining-freight-movement"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 37
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/itech-q2-cover.jpg"
+        width: 300
+        height: 403
+        isCached: true
   - title: "Galileo Emerges from Stealth with its Machine Learning Intelligence Platform for Unstructured Data"
     excerpt: "Galileo is emerging from stealth with a machine learning (ML) data intelligence platform for unstructured data that gives data scientists the ability to inspect, discover, and fix critical ML data errors fast across the entire ML lifecycle. The platform is ..."
     publishedDateTime: 2022-05-05T19:04:00Z

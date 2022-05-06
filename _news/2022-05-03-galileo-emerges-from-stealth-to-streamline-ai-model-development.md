@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-st
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Is Streamlining Freight Movement"
+    excerpt: "Increasingly, technology vendors are utilizing AI and ML to bring greater efficiencies to the digital ecosystem that connects freight, including transportation management systems, load boards and pricing and capacity management tools. Several developers ..."
+    publishedDateTime: 2022-05-06T14:59:00Z
+    webUrl: "https://www.ttnews.com/articles/how-ai-streamlining-freight-movement"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 37
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/itech-q2-cover.jpg"
+        width: 300
+        height: 403
+        isCached: true
   - title: "Galileo exits stealth mode with $5.1M in funding to optimize AI training datasets"
     excerpt: "Galileo has developed a software platform that promises to reduce the amount of effort required to find and fix errors in AI training datasets. According to the startup, its platform is capable of ..."
     publishedDateTime: 2022-05-03T19:26:00Z

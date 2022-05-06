@@ -79,6 +79,15 @@ related:
         width: 940
         height: 627
         isCached: true
+  - title: "AI can predict bone fractures in cancer patients"
+    excerpt: "A team of US researchers has used artificial intelligence (AI) to create a digital twin of a patient’s vertebra that will be able to predict the risk of bone fracture in people who have suffered from cancer. As medicine continues to embrace machine ..."
+    publishedDateTime: 2022-05-06T12:29:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/ai-can-predict-bone-fractures-in-cancer-patients/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 17
 
 secured: "chcEool0y9ha/UtzakdANJEtXiagmuTxN7Qwd0v/6CrNXzR5KAdYwtd3bD7t9vp83SAPapXyMNy0CV9rDlt9cfTXxzj+J+GBgL9CdVd90tU6RIwGFEXbgPBwbNkcsitMEXPeuTXe2AIYC+naypffKd/Dt1Mx6X4p+mSHKxq2rdycVBqcjnM+FiZAvTiSB406PrVV/NtdVNymagFAdXX9qQ9gpHhrEx/bSJovs+xFNzmqJKFlPK5Ir5X2/col81Q0RBbCUydDYy55OPHVW5GFlzcQkInnb2t37gXSYsaZhloH0dec3CxlFPoexdjhlLNKDaaobBhuGggoJRmBvfH2UD45eG9ywV/Jnd/wa4+348sWaHCqVNJ3ro3e1hf9moOeOOv1xCJEp5r+6tT6usaNXl09L1p61rnNrGTN/9ZKSF6ZR0t61o5/euS9sdffXMKJtaUW7EXUdd81dzGRLf3qLXJucpSIB37WRjyRJBabXinGVHonpqnfYkHiHXI98aopkHMuKZ6jiXw100UVzkYGYg==;iYGWqxIReWgjiwsKdLCYOw=="
 ---

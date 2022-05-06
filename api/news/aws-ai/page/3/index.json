@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-04-interpret-caller-input-using-grammar-slot-types-in-amazon-lex.md",
+      "title": "Interpret caller input using grammar slot types in Amazon Lex",
+      "excerpt": "Customer service calls require customer agents to have the customer’s account information to process the caller’s request. For example, to provide a status on an insurance claim, the support agent needs policy holder information such as the policy ID and claim number. Such information is often collected",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interpret-caller-input-using-grammar-slot-types-in-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/interpret-caller-input-using-grammar-slot-types-in-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T09:45:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-03-ai-researchers-scold-amazon-for-selling-flawed-face-recognition-tech-to-the-police.md",
       "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
       "excerpt": "Amazon has come under fire before for Rekognition, the facial recognition technology that the company has allowed police to use and which has led to concerns the company is essentially supporting ...",
@@ -1347,41 +1399,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-artificial-intelligence-ai-in-manufacturing-market-may-see-big-move-siemens-ge-google-microsoft.md",
-      "title": "Artificial Intelligence (AI) in Manufacturing Market May See Big Move | Siemens, GE, Google, Microsoft",
-      "excerpt": "HTF MI introduce new research on Artificial Intelligence (AI) in Manufacturing covering micro level of analysis by competitors and key business segments. The Artificial Intelligence (AI) in Manufacturing explores comprehensive study on various segments like opportunities,",
-      "sourceUrl": null,
-      "webUrl": "https://eclecticnortheast.in/2022/03/18/artificial-intelligence-ai-in-manufacturing-market-may-see-big-move-siemens-ge-google-microsoft/",
-      "originalUrl": "https://eclecticnortheast.in/2022/03/18/artificial-intelligence-ai-in-manufacturing-market-may-see-big-move-siemens-ge-google-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eclectic Northeast",
-        "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

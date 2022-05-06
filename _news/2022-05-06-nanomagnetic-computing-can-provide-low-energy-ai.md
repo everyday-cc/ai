@@ -56,6 +56,15 @@ related:
         width: 1280
         height: 1920
         isCached: true
+  - title: "Researchers Devise New Nanomagnetic Computing Technology that Offer Low-Energy AI"
+    excerpt: "The new technology, devised by researchers from Imperial College London, has the potential to reduce the energy cost of artificial intelligence (AI), which is now doubling every 3.5 months globally."
+    publishedDateTime: 2022-05-06T13:12:00Z
+    webUrl: "https://www.azonano.com/news.aspx?newsID=39093"
+    type: article
+    provider:
+      name: AZoNano
+      domain: azonano.com
+    quality: 14
 
 secured: "OJDbJ1K0ViHJBoPzRlzWe7nc9+HNswkbSNSdZOOxGf3cq0nmwVfpVyaTNH7mSqBwV1ug+UGhf4CWNvp+bCEDMtFr3IRfQaTNI1LPAUWMZp6QC7KcdXbuEr9KNMkw9B16XB+JEvNxURr1V/AFw5s1OH9ILfuoHMcZfJ4IxMqFrgy9GAeWRdcWQnLsBavwTahoBNbhts6MfKE+xY5/dgq7rhvkot21npjukpaT5nWmCb6zKdeAdtHoy7nK78TZl8K7oCbf1sce3CN10NOva3NyJqkQpXNYQC3x/p7f3pOz8WYKmrLfToxUt9SO1yo1WTNb7DgVjLjX+ErDALAK8wWLCMVANPwOYaZWLGYIpv14jj4=;/aX7lPARBhuavEI51HlNow=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ten FinTech Trends to Follow in 2022"
+    excerpt: "FinTech is one of the five areas with a high Big Data growth rate. The industry needs a powerful tool to collect, structure and store information. One of these is artificial intelligence (AI). According to McKinsey, every year, it generates up to $1 ..."
+    publishedDateTime: 2022-05-04T14:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/22232/ten-fintech-trends-to-follow-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.researchandmarkets.com/content-images/173/173851/1/global-fintech-market.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Funding from Hetz Ventures’ third round, totaling $123 million, will go into DevOps tools, Open Source, Fintech, and Cybersecurity initiatives"
     excerpt: "Hetz has previously invested in Granulate (bought by Intel last month), Trigo, Retrain.ai, Blink Ops, and Velocity ... Its concentration is on DevOps & Dev Tools, Open Source, Enterprise & Data, Fintech and Cybersecurity. In the first quarter of 2022 ..."
     publishedDateTime: 2022-05-03T13:20:00Z

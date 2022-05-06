@@ -10,7 +10,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220505143820.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -43,6 +43,53 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-artificial-intelligence-chip-market-size-is-expected-to-reach-19490-billion-by-2030.md",
+      "title": "Artificial Intelligence Chip Market Size Is Expected To Reach $194.90 Billion By 2030",
+      "excerpt": "According to a new report published by Allied Market Research, titled,“  Artificial Intelligence Chip Market by Chip Type  <stron",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030",
+      "originalUrl": "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?727425",
+          "width": 467,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare",
+        "Machine Learning",
+        "Facebook AI"
       ]
     },
     {
@@ -1299,49 +1346,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-17-ibm-amd-embrace-israeli-artificial-intelligence-technology.md",
-      "title": "IBM, AMD embrace Israeli artificial intelligence technology",
-      "excerpt": "The artificial intelligence that powers Amazon’s virtual assistant ... The game-changing platform, which will be launched in 2023, targets public safety, e-commerce, healthcare, retail and other high-volume uses of AI. With its next-generation hardware ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/",
-      "originalUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/04/NeuReality-IBM-TOI.jpg",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/",
-      "publishedDateTime": "2022-04-17T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-06-google-cloud-hopes-to-woo-factories-with-its-usual-fare-analytics-and-ai.md",
-      "title": "Google Cloud hopes to woo factories with its usual fare: Analytics and AI",
-      "excerpt": "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols,",
+      "path": "_news/2022-05-06-invest-in-the-robotics-startup-tripling-restaurant-profits.md",
+      "title": "Invest in the Robotics startup tripling restaurant profits",
+      "excerpt": "So instead of chasing an armada of employees, franchises have already started deploying Flippy. This synthesis of AI-driven robotics, machine learning and data analytics can grill, fry and, as its name suggests, flip an entire restaurant’s worth of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/06/google_manufacturing_tools/",
-      "originalUrl": "https://www.theregister.com/2022/05/06/google_manufacturing_tools/",
+      "webUrl": "https://www.engadget.com/miso-robotics-145539918.html",
+      "originalUrl": "https://www.engadget.com/miso-robotics-145539918.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://regmedia.co.uk/2021/11/03/shutterstock_car_factory.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c6c6c570-cbb4-11ec-bfdf-cfbdb5e2b591",
+          "width": 1600,
+          "height": 1066,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/06/google_manufacturing_tools/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/google_manufacturing_tools/",
-      "publishedDateTime": "2022-05-06T03:58:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T08:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-researchers-now-able-to-predict-battery-lifetimes-with-machine-learning.md",
+      "title": "Researchers now able to predict battery lifetimes with machine learning",
+      "excerpt": "Imagine a psychic telling your parents, on the day you were born, how long you would live. A similar experience is possible for battery chemists who are using new computational models to calculate battery lifetimes based on as little as a single cycle of experimental data.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-05-battery-lifetimes-machine.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-battery-lifetimes-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/researchers-now-able-t.jpg",
+          "width": 534,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-battery-lifetimes-machine.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-battery-lifetimes-machine.amp",
+      "publishedDateTime": "2022-05-06T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +92,61 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-uk-regulatory-bodies-call-for-auditing-standards-of-ai-and-machine-learning.md",
+      "title": "UK regulatory bodies call for auditing standards of AI and machine learning",
+      "excerpt": "Globally, algorithms used in financial decision-making are drawing increased scrutiny through the lens of risk management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5",
+      "originalUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62753c13a6a880001827de76?width=1200&format=jpeg",
+          "width": 922,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5?amp",
+      "publishedDateTime": "2022-05-06T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -140,7 +246,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220505143820.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -280,7 +386,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -373,7 +479,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -426,7 +532,7 @@
       "originalUrl": "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -459,6 +565,53 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-artificial-intelligence-chip-market-size-is-expected-to-reach-19490-billion-by-2030.md",
+      "title": "Artificial Intelligence Chip Market Size Is Expected To Reach $194.90 Billion By 2030",
+      "excerpt": "According to a new report published by Allied Market Research, titled,“  Artificial Intelligence Chip Market by Chip Type  <stron",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030",
+      "originalUrl": "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?727425",
+          "width": 467,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare",
+        "Machine Learning",
+        "Facebook AI"
       ]
     },
     {
@@ -1022,152 +1175,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-peergfs-adds-aiml-anomaly-detection-to-distributed-file-system-product.md",
-      "title": "PeerGFS adds AI/ML anomaly detection to distributed file system product",
-      "excerpt": "PeerGFS will also handle file sharing wherever an instance of Windows file system is running, including instances in the AWS, Azure and Google clouds ... including via AI/ML. It already has malicious event detection (MED), which includes use of “bait ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
-      "originalUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/File-share-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
-      "publishedDateTime": "2022-05-04T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting.md",
-      "title": "Traversing The Great Uncertainty With AI And Intelligent Forecasting",
-      "excerpt": "AI can provide an agile way to sort through these extensive logs of data to quantify unique sets of market drivers for any given business. Out of thousands—maybe millions—of external market signals, AI can help business leaders identify the top ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62711214c63fd2377df98d3a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/",
-      "publishedDateTime": "2022-05-04T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-toyota-puts-invisible-ai-eyes-in-north-american-factories.md",
-      "title": "Toyota Puts Invisible AI Eyes In North American Factories",
-      "excerpt": "Toyota Indiana assembly plant in Princeton, Ind. will be the first installation of the Invisible AI ... [+] system to boost quality, safety and productivity. The automaker and Austin, Texas-based startup said Wednesday Invisible AI's computer vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62715de69d18651793490729/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/",
-      "publishedDateTime": "2022-05-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

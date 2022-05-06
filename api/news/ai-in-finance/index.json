@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-06-uk-regulatory-bodies-call-for-auditing-standards-of-ai-and-machine-learning.md",
+      "title": "UK regulatory bodies call for auditing standards of AI and machine learning",
+      "excerpt": "Globally, algorithms used in financial decision-making are drawing increased scrutiny through the lens of risk management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5",
+      "originalUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62753c13a6a880001827de76?width=1200&format=jpeg",
+          "width": 922,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5?amp",
+      "publishedDateTime": "2022-05-06T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber.md",
       "title": "Hetz Ventures closes third fund of $123M to focus on DevOps tools, Open Source, Fintech and Cyber",
       "excerpt": "Focusing on seed and pre-seed investments, Hetz has previously backed Granulate (acquired by Intel last month), Trigo, Retrain.ai, Blink Ops ... Enterprise/Data Software, Fintech and Cybersecurity.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -41,40 +94,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-how-fintech-can-help-you-manage-your-personal-finances.md",
-      "title": "How Fintech Can Help You Manage Your Personal Finances",
-      "excerpt": "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse",
-      "originalUrl": "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp",
-      "publishedDateTime": "2022-05-02T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -275,22 +294,13 @@
       "title": "How can Saudi Arabia unleash national success in fintech?",
       "excerpt": "Abdullah Al Othman is the founder and chairman of Geidea, a Saudi Arabia-based fintech specialised in payments. It works with over",
       "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/ar/2022/04/saudi-arabia-unleash-national-success-fintech",
-      "originalUrl": "https://www.wamda.com/ar/2022/04/saudi-arabia-unleash-national-success-fintech",
+      "webUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
+      "originalUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.wamda.com/feature-images/e6f54b2845e1e60.png",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

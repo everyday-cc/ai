@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-06T10:00:00Z
 originalUrl: "https://www.geeky-gadgets.com/porsche-uses-artificial-intelligence-to-make-its-cars-safer-06-05-2022/"
 webUrl: "https://www.geeky-gadgets.com/porsche-uses-artificial-intelligence-to-make-its-cars-safer-06-05-2022/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

@@ -24,6 +24,17 @@ images:
     height: 896
     isCached: true
 
+related:
+  - title: "Start udendørs havearbejde med FarmBot Farming Device"
+    excerpt: "Based in San Luis Obispo, California, FarmBot is a manufacturing startup that set foot in the agricultural robotics market in 2013. In 2022, they plan to incorporate Artificial Intelligence (AI ..."
+    publishedDateTime: 2022-05-06T11:20:00Z
+    webUrl: "https://techacute.com/da/start-udendørs-havearbejde-med-farmbot-landbrugsenhed/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
+    quality: 4
+
 secured: "tnXhhyAjvyCjkjqMPDo67kur49zHcHJTs48c+crOqo41BetzLSymsieI5mJ+wor11peAgifwW9RdRFh45nmlIzpultk6VA3rzZhAO0Xoh5egbV6L0XIuf5zBGpmI1Gt5yocstv7589KpezZFr8Zt9tNEPnU5vixsrUSHemeQJeyExtkzDeoAukiGcx2u1eBZt6PWBg6sUzW1e7eSymhIji/O4d6niNL2NQW8pVGEZPuHQAxMoeC1A6aUKG/iBkMLfkBqR1na86yFvOhKkg4XRzr+rOm273V2geqPWqdeWPO23IQctHcco7GDijBtDWF1ExqIZlVmGYn9CtkaHbMebaIIiIQDYySvq3uiusY3aGd3ceOHDEU7eVHCr+gFwMERKsu9oaz20Cf+QN0fEppzZ2UdfewLzkMSfIIAInoe4f2mkabu6S22Q3t1AANWSsErKUca5kQL7pqn9OX8kYznjHxCD54/HQEFetFPbnDlckvU5AoHqQgOLRaSRZrOXrXoZrc4PfABkWdqM+0xl1V6PA==;ASG7z7lKBAmGfmNxFU7J4w=="
 ---
 

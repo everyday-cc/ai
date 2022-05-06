@@ -25,6 +25,17 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Nanoform Launches Sparse-Data AI Solution"
+    excerpt: "Nanoform Finland has launched STARMAP Online—a sparse-data artificial intelligence (AI) solution that it is using as a secure online portal for direct use by the company’s current and future partners."
+    publishedDateTime: 2022-05-06T15:27:00Z
+    webUrl: "https://www.pharmtech.com/view/nanoform-launches-sparse-data-ai-solution"
+    type: article
+    provider:
+      name: PharmTech
+      domain: pharmtech.com
+    quality: 17
+
 secured: "x0izH2cDrlfBC9ndNqP7E0r2zJDRARR7JQFQrztmuzwyQmmPnE1bsoiVghHVwVDwRcwXE+KfLxmX55xNlvLEks0VTs0lWT+FREbMxuYdEbgaKhRBlo7I8GVgF/BsDQwGcXAzaAOujJ4TqO3FA6ZkLSQMplezGINB2Re6cU2UKUlMqF8F7bktf7w01wslq6BZTKJ058vKSNr8/v9caTnqCct0W37ohpeTubzHC0a5ghIolyMheXo7P0ADacWDRltRvHQfOEBousjROv+mBZsRwOkDw4eUIfJM+qn76J2qIl2+F2rOkgYxDLllUp6u3FdIWrq0GkBYU3RNGvKMVqY4VmS24mdRh6etfmkfTWepw3A=;kspnf7KQClZbrY3aafw7OQ=="
 ---
 

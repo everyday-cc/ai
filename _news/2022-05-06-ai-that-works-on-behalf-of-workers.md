@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-06T12:00:00Z
 originalUrl: "https://www.datanami.com/2022/05/06/ai-that-works-on-behalf-of-workers/"
 webUrl: "https://www.datanami.com/2022/05/06/ai-that-works-on-behalf-of-workers/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: datanami.com
