@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-31-black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning-available-to-all.md",
+      "title": "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All",
+      "excerpt": "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-six-fintech-trends-to-watch-in-2022.md",
       "title": "Six Fintech Trends To Watch In 2022",
       "excerpt": "Despite pandemic-induced delays, 2021 was still a strong year for growth in the fintech industry. What can we expect going forward in fintech?",
@@ -1261,50 +1305,6 @@
         "AI in Finance",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere.md",
-      "title": "London School of Business & Finance’s Digital Academy Set to Further Develop Student Skills in the Digital and Tech Sphere",
-      "excerpt": "London School of Business & Finance’s Digital Academy Set to Further Develop Student Skills in the Digital and Tech Sphere",
-      "sourceUrl": null,
-      "webUrl": "https://www.fenews.co.uk/education/london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere/",
-      "originalUrl": "https://www.fenews.co.uk/education/london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fenews.co.uk/wp-content/uploads/2022/03/Shane-De-Fonseka.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fenews.co.uk",
-        "domain": "fenews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

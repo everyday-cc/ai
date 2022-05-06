@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-06-microsoft-hpe-put-ai-to-work-checking-astronaut-gloves.md",
+      "title": "Microsoft, HPE put AI to work checking astronaut gloves",
+      "excerpt": "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top",
+      "originalUrl": "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/01/13/kopra_spacewalk.jpg",
+          "width": 700,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/",
+      "publishedDateTime": "2022-04-05T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better.md",
       "title": "Virtual meetings are here to stay. Microsoft wants to make them better",
       "excerpt": "By Samantha Murphy Kelly, CNN Business Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work.",
@@ -1377,59 +1420,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-microsoft-claims-new-ai-model-architecture-improves-language-translation.md",
-      "title": "Microsoft claims new AI model architecture improves language translation",
-      "excerpt": "Microsoft claims that its new model architecture, Z-code Mixture of Experts (MoE), improves language translation quality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/",
-      "originalUrl": "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/amp/",
-      "publishedDateTime": "2022-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

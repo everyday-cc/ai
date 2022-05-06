@@ -743,6 +743,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-8-current-and-future-trends-in-financial-services.md",
+      "title": "8 Current And Future Trends In Financial Services",
+      "excerpt": "Trends in financial services are shifting more towards digital systems because of convenience and lower costs. Like most sectors, banking and finances are",
+      "sourceUrl": null,
+      "webUrl": "https://www.techshout.com/current-and-future-trends-in-financial-services/",
+      "originalUrl": "https://www.techshout.com/current-and-future-trends-in-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techshout.com/wp-content/uploads/2019/02/bitcoin.jpg",
+          "width": 720,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechShout",
+        "domain": "techshout.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration.md",
       "title": "This Climate Fintech Startup Is Paving The Way For Mass Market Adoption Of Land Regeneration",
       "excerpt": "It’s a little known fact that the hope of the future lies in land regeneration – avoiding meat, air travel, and the rise of electric vehicles have largely captured the headlines and our imagination.",
@@ -1309,49 +1352,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-constellation-on-the-future-of-credit-unions-fintech.md",
-      "title": "Constellation on the Future of Credit Unions & Fintech",
-      "excerpt": "Dawn Sirras, SVP-Fintech Partnerships at Constellation Digital Partners discusses challenges in the Credit Unions space and how they are being addressed",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/digital-payments/constellation-on-the-future-of-credit-unions-fintech",
-      "originalUrl": "https://fintechmagazine.com/digital-payments/constellation-on-the-future-of-credit-unions-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1800/36f7fb61a154937806c4d15ff3681407:625cd43699536af6f76edd33418026e4/gettyimages-1352377833.jpg.jpg",
-          "width": 1800,
-          "height": 1011,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -59,6 +59,15 @@ related:
         width: 1260
         height: 628
         isCached: true
+  - title: "Teaching AI and robotics concepts in business courses"
+    excerpt: "Support the future of business education Modern business courses can no longer neglect the rise of AI and robotics across industries. No matter what company business students work with (or start) in the future, they must understand these new technologies ..."
+    publishedDateTime: 2022-05-03T09:04:00Z
+    webUrl: "https://it-online.co.za/2022/05/03/teaching-ai-and-robotics-concepts-in-business-courses/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 49
 
 secured: "n+t/jQ5p+SldXv+thepL9lHN5ipZTGPUdnA6HLJKrgn7SZPVW/TeVjpr9xjH14JS93UFNC4mksf4dkEXDsEVS46NgT+82E5Qz5g2Li8GJ9+T1RC5Jfox+spZO8eD0sfwla1twRxtCETaDN0Cpxiiur4sNJcpkXo79C4HUV9nNbBcHgu/cauWLQZG7qeD4s2e8VPAIdrVfyVhfZB31RQvVmxiNYDbZ5jh+4wsvKybcYfFeI0p/o+NHhssCoZ1J/jwhJ61n4ErrDRpx6ArV0BmLOASXyP9w7CSm8Fda+fGgDUMxzzfu0Vqx+8xyHRNY3EA1mcmiXPNU8oW8qKF1eP21TTHbnhNJ3bXvTou4+HqIyEgCLDztiv2WJBXYeemKEqcen2wMQjkuGseasddpblndR7M1cSYypuSV2sfSeuWn7XiJmT42RddbYRITNSlPzV5u0HySimQIHcb074nrM20Me4H0qwjaJnZSjXmiZQGPxWRzsmicuu+tn6RmMKM9mK+TglX8s1McHgGTu8z8+qoog==;NVDnucXEgW2GPuulkwVzAw=="
 ---

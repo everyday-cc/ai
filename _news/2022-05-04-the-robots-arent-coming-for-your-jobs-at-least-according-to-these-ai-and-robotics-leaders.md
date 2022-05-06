@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 1260
         height: 628
         isCached: true
+  - title: "Teaching AI and robotics concepts in business courses"
+    excerpt: "Support the future of business education Modern business courses can no longer neglect the rise of AI and robotics across industries. No matter what company business students work with (or start) in the future, they must understand these new technologies ..."
+    publishedDateTime: 2022-05-03T09:04:00Z
+    webUrl: "https://it-online.co.za/2022/05/03/teaching-ai-and-robotics-concepts-in-business-courses/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 49
 
 secured: "//QacalMw8PI3D7dNl3kMGBDl/AOycvSfaC2ZiEgE8l5NkNy8OSG4RyseaO1y4eKYmdF/4IwKVJNeXZ3HUTS/ozvjZIk/vB+QLIMTEiejMu8Ci7NM6FmK6MOAYzVZWwz9G0lXvZ84pvtw9EryP60w+6IHkRr2lCLH2Fr4zNcrT18wlGzVKOmVhWPbV4akfMTAshDIQaXiG1KEuDpFrQBR3rZK7OZEe7wLeVlsAPNjyKmgipB6RXiHqHj/ERAdh3Xd5+CQxaBB3iUnAEA9HxqpHqXIZx3oZDg5uw2XOIbgRflzmP45QWIr8PykhQwmNqtAoc1+SnvJrEHgnAmMecobk59Z+j7mO9Iy7WaEQMIaGMLm0Mxx5oQ2Pdzy5mY2xu9qePtjWYMFCVVHugbO6ddnq5DmnnoxeOHiySd67CT8iy5HjfvHj8xsLlzeDrTSq7tFJ62TTVvUMcYQFAvY8tgDYJg7WDdzIIupl6XyS34ro3pMl/FKF3VBmSoeM8ICgsZhLFgNDGhftykG3T/NEGiFg==;LUqhIDEG7SiT7GmGJXnO/w=="
 ---

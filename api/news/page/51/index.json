@@ -2,6 +2,92 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-03-22-ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award.md",
+      "title": "UJET Wins Prestigious Best of Enterprise Connect 2022 Overall Award",
+      "excerpt": "Disruptive Contact Center Platform Also Recognized for Innovative Use of Artificial Intelligence in CX UJET, Inc., the world’s most advanced cloud contact center provider, today announced it was awarded the 2022 Best of Enterprise Connect Overall distinction for CX Intercloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-pasqal-quantum-computers-to-become-available-on-azure-quantum-this-year.md",
+      "title": "Pasqal quantum computers to become available on Azure Quantum this year",
+      "excerpt": "Microsoft has agreed a partnership with quantum startup Pasqal which will see its quantum computers become available on Azure Quantum later this year. This will provide users with cloud-based access to Azure’s first quantum processor based on neutral atom architecture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/367139/pasqal-quantum-computers-to-become-available",
+      "originalUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/367139/pasqal-quantum-computers-to-become-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581677441/itpro/Azure.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-global-automotive-artificial-intelligence-ai.md",
       "title": "Global Automotive Artificial Intelligence (AI)...",
       "excerpt": "The growing demand for self-driving cars, as well as a preference for enhanced user experience and convenience features, are propelling the Automotive Artificial Intelligence Market forward during ...",
@@ -1054,92 +1140,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-byjus-designates-ex-facebook-tech-lead-majid-yazdani-as-vp.md",
-      "title": "BYJU'S designates ex-Facebook tech lead Majid Yazdani as VP",
-      "excerpt": "BYJU'S designates ex-Facebook tech lead Majid Yazdani as VP - Edtech company BYJUS on Monday announced the appointment of Majid Yazdani as Vice President at",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconindia.com/news/general/byjus-designates-exfacebook-tech-lead-majid-yazdani-as-vp-nid-218397-cid-1.html",
-      "originalUrl": "https://www.siliconindia.com/news/general/byjus-designates-exfacebook-tech-lead-majid-yazdani-as-vp-nid-218397-cid-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconindia.com/news/newsimages/R5Jf3q9e.jpg",
-          "width": 570,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconIndia",
-        "domain": "siliconindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-natural-language-processing-nlp-software-market-increasing-demand-with-industry-professionals-global-competition-and-business-outlook-2022-2028.md",
-      "title": "Natural Language Processing (NLP) Software Market Increasing demand with Industry Professionals, Global Competition and Business Outlook 2022-2028",
-      "excerpt": "Global Natural Language Processing (NLP) Software Market is a comprehensive addition of several factors such as global distribution, manufacturers, market size, and market factors that affect the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-software-market-increasing-demand-with-industry-professionals-global-competition-and-business-outlook-2022-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-software-market-increasing-demand-with-industry-professionals-global-competition-and-business-outlook-2022-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/56c7c203b2ef4d0bcec8810d927277de2636fe92-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

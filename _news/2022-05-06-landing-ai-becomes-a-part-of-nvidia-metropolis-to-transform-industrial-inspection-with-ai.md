@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has"
+    excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
     publishedDateTime: 2022-05-05T21:44:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/article_a96b96d0-db29-5133-9bf7-187e3639c1c5.html"
+    webUrl: "https://www.nbc4i.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: NBC4i
+      domain: nbc4i.com
     quality: 26
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+        width: 400
+        height: 205
         isCached: true
   - title: "Artificial Intelligence In Computer Vision Market is Booming Worldwide | NVIDIA, Intel, Qualcomm"
     excerpt: "The Latest Released Artificial Intelligence In Computer Vision market study has evaluated the future growth potential of Global Artificial Intelligence In"

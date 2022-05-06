@@ -2,27 +2,21 @@
 category: news
 title: "New UTS Master of Artificial Intelligence prepares students for future Industry 5.0"
 excerpt: "SYDNEY, May 5, 2022 /PRNewswire/ --The University of Technology Sydney (UTS) has this week announced the launch of two postgraduate courses in artificial intelligence ... autonomous driving, smart healthcare, smart education and personalised services ..."
-publishedDateTime: 2022-05-05T08:00:00Z
-originalUrl: "https://www.asiaone.com/business/new-uts-master-artificial-intelligence-prepares-students-future-industry-50"
-webUrl: "https://www.asiaone.com/business/new-uts-master-artificial-intelligence-prepares-students-future-industry-50"
+publishedDateTime: 2022-05-04T22:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-new-uts-master-artificial-intelligence-prepares-students-future-/2022/05/04/9595986.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-new-uts-master-artificial-intelligence-prepares-students-future-/2022/05/04/9595986.htm"
 type: article
-quality: 33
-heat: 33
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/AdobeStock_250767988__1.jpg?h=4c0e7fb6&itok=7AYMLl6u"
-    width: 600
-    height: 316
-    isCached: true
 
 related:
   - title: "New UTS Master of Artificial Intelligence prepares students for future Industry 5.0"
@@ -35,6 +29,6 @@ related:
       domain: webindia123.com
     quality: 13
 
-secured: "dICtIQY6zyn6FQmxDSi4cMD8NSIYyitjm8twsCEielcGOqypl14v5KMV9dewJqvEJxj6BzvOiZqsmlblNjg5eArq90220UBRlkbPv6yvHVUl2ffukxjEEZX/cVUBtYbhOMyJddzGC8FWzwEXC43CcY/k7k5LiSY1aqP4w8pCnqpetF4M2A6bbKDpg9Ym17wyYHG4b1qY4e+/2SZAuMjr2W2MT3rveujpMDs2FHvgWPP3eNWpJ77XKg+57EO0vM4gvfV56UV+z8/F/i00A4xYHE3Jj/gf10ckMoVHW2hcTx5KgVXEOcwhoZZBODUAzUaYTAI0gMuuMOa8WMkDkXepgFZrGaU/y75Tcwl7Ci5h6yHF2ORk9j8cRAx3KlHFSVIypOoQRxInF3iRgaXT/DpMLD+8oxkdrWJgU73uBfFJXrvuNCry8uNow6VOZbzfhbxZfl/oMgBAnDtOSVqQY5Jej2V8bHjt62MEwLGzHb1VN8L/A97R3ypnqMU1DQZkJuLfifrc0uFMZ11CnnFJqfJMsw==;62nHUbipdwbJVfpHsjkuLg=="
+secured: "suQMici1AAxdM72wnOrpgxfz3VCgdeTHjTMYEE1PkfDIvtUgQbxQz1A/w8VHz9WnJJHzQ5nqJrohzzuI9Jz/EnIFGY7wRDxCZl/NIa21kOwP3byRkZKukd8lbuTPwWJX/fCuz5f8/Ch82iEdqIyc7GeykIeKvndJcG4L2oNt6KCSBOK6KzvEHUS3mGX6qG69eeUL/hqJpxLh9p7aCDgPcaDoKf2lurfdjJbtMsTO0yedJ1xTyS+VX5wyMMbbF+8fuIiMMiLtzkJ+lFSsXacaiKR1tZ2NUyVnKf+nNMEr27bRDBDRPeFBSMZeAtbEPhkZv6kMyLAm9sTIfTQBsGTqHQgoxfho9nkLKe31FpbtY04=;c+6SfAjmPktavvO7fDBmOw=="
 ---
 

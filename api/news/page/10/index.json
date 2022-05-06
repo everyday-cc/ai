@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-26-tv-clip-study-suggest-that-people-prefer-voice-only-ai-companions-over-human-like-robots.md",
+      "title": "TV Clip Study Suggest That People Prefer Voice-Only AI Companions Over Human-Like Robots",
+      "excerpt": "In a recent study, using clips from Black Mirror, volunteers thought a voice-only AI would make a better companion than a perfect human replica. Is it the uncanny valley or just reflecting the AI companions we already know?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evaamsen/2022/04/26/tv-clip-study-suggest-that-people-prefer-voice-only-ai-companions-over-human-like-robots/",
+      "originalUrl": "https://www.forbes.com/sites/evaamsen/2022/04/26/tv-clip-study-suggest-that-people-prefer-voice-only-ai-companions-over-human-like-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6267b6e5601f9f3fdddc924e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/evaamsen/2022/04/26/tv-clip-study-suggest-that-people-prefer-voice-only-ai-companions-over-human-like-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evaamsen/2022/04/26/tv-clip-study-suggest-that-people-prefer-voice-only-ai-companions-over-human-like-robots/amp/",
+      "publishedDateTime": "2022-04-26T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.md",
       "title": "How AI is helping the supply chains in the healthcare sector",
       "excerpt": "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to c..",
@@ -1043,49 +1095,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-six-robotics-pioneers-win-2022-engelberger-awards.md",
-      "title": "Six Robotics Pioneers Win 2022 Engelberger Awards",
-      "excerpt": "The event will bring more than 500 companies showcasing the latest in robotics, machine vision, artificial intelligence (AI), motion control, and smart automation—and an expected 20,000 attendees—to the city's Huntington Place center. The Association ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26791476",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26791476",
-      "publishedDateTime": "2022-04-25T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

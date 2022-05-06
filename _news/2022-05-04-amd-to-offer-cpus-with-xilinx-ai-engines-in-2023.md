@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/04/amd_xilinx_q1_2022_result
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/04/amd_xilinx_q1_2022_results/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Xilinx FPGA AI engines will soon land on AMD EPYC CPUs"
+    excerpt: "AMD's first-quarter report/earnings call for investors has revealed that the company will soon merge the capabilities of EPYC CPUs and"
+    publishedDateTime: 2022-05-06T13:27:00Z
+    webUrl: "https://cloud7.news/hardware/xilinx-fpga-ai-engines-will-soon-land-on-amd-epyc-cpus/"
+    ampWebUrl: "https://cloud7.news/hardware/xilinx-fpga-ai-engines-will-soon-land-on-amd-epyc-cpus/amp/"
+    cdnAmpWebUrl: "https://cloud7-news.cdn.ampproject.org/c/s/cloud7.news/hardware/xilinx-fpga-ai-engines-will-soon-land-on-amd-epyc-cpus/amp/"
+    type: article
+    provider:
+      name: cloud7
+      domain: cloud7.news
+    quality: 59
+    images:
+      - url: "https://cloud7.news/wp-content/uploads/2022/05/Xilinx-FPGA-AI-engines-will-soon-land-on-AMD-EPYC-CPUs.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "P13Dz6Gn2mK4cGxsrCTO13kB8aPBIHEB7freqOG4hgN0gnavrDZv4tzx9ZRyGh0qMfyAQVS7JK9pxfnw7WFjk5wMuZ5sv8rvDcl/oXm0eBpUgZvj2Ajff5hy46hkU1BiJhGdYdHISioaklYf761Rs9wWMeuJRtj6lpkFQK9hD2b6Jj57FwJnGb8sPnAoiyvZZT9M6fCyfCSq1iI5iU9SvZ9CElNnSvPpph4nDH3T/rYBJDbY28bYBjYj3Jm7xXuBNmXDf10z2bNWkx57S+hsTpJeWKk/geLhod+OlinU8DcorIPEQu5Q4YTZfZukPxFaaMty6aXhABzXh//1smr36aCT/X8gfRPgInnrv/GRCA4=;Jnn9Hr3LMkL+6XjhaC0yWw=="
 ---
