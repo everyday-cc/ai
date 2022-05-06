@@ -108,6 +108,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "06/05 – Weekly Fintech Recap"
+    excerpt: "Partnerships Ophelos Partners with Credit Card Startup, Yonder, for Ethical Debt Resolution Ophelos, the technology firm building fairer debt resolution for businesses and their customers, announces its partnership with Yonder,"
+    publishedDateTime: 2022-05-06T09:25:00Z
+    webUrl: "https://financialit.net/news/open-banking/0605-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_10.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Upstart: Huge Upside For This Rapidly Growing Fintech"
     excerpt: "Upstart is a small fintech company focused on using AI to automate the loan approval process. The company has experienced rapid growth, leading to a blow off top in 2021. The froth has come out of ..."
     publishedDateTime: 2022-05-04T12:00:00Z
@@ -118,6 +132,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "VVSODUX48jlT1LskuG5InYOSKkCaNyRqIjVPRnVyQh3+koD6vEIq711eTt2Z1mpo2e50XeTQNyiwtEVrkHPVSxFva/xhQ49CINJkwcnOB0vNtYA8slfB8Xb4o6s6e3KfAlhFs/4G2EX+aXoI+4Ww9ssT5NF3br3UjyXIZl6oa/LfCDCW/DVHvDhg/eB3sjtMZtdxclSp71IlwKfwoM1VY6FVxUsSLSsOv6PSL8Kv90Uhgzev9e9NcAtDStqtfU0CirYtFmjXyfkDPlgaJbLE2lK2PSdWyKc2fhX4vp87F+h3fqwcdCkhOQXuHOQGvYpOtQvwjKW2cipPy5hNr5TbfcWtprmkbY/9/X0S7B3n+Uc=;7dAsl18/dDMCjViZBEU3Nw=="
+secured: "AScpyf9XUvr7fKMBWr4wDhghoyk4QD9LVl3NlOC7fzy+34QWd8vtroFt/w1MKt2C4DgP6fGjX8BInnFFErXU/3z5UyToCJj8uz6nHWRYIe4RNY9R04v+933SWDJ8j+fxXZhDofon4jV0vyrAaX04I7jBWQa2qRzRXXIjS8B3WQDP0O3fLcl3HT/7eedQVPZaJ3oJ+QAY/LPLwC3lNbptPlHjpx6bbRkRggYIbQR58HkbeOqF6AM82joJgVovIuoOdDZm5Jk9Jtd4eg+evAz6CUJu2PgwIZ2CBy7YQNEiaeqIK6JOIQNJxhbx1DaUpn5jMZvrV4+YVN8Ka74G+YLjayg9QIUUOs5S8vQnM4TMdeAUMLFHCUNYyqBsNY0WpzeYb/kECTkEhMxyv9B+8l7Ww3+sK9w9Y6co/DjALOFxOnDCBALw6TMTH7RbduLwfUTpigg8aQ0mS+ptBoc2q95iCPjGuBg1479ggMcKQAXPe634qWd9iawAMpl7oBZ5D89d95nYKZcS3ySUgoyGH9XzwQ==;w4fGDb2JiK9NnT0pPXgeIw=="
 ---
 

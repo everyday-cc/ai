@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
+    excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols,"
+    publishedDateTime: 2022-05-06T10:58:00Z
+    webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/06/google_manufacturing_tools/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/google_manufacturing_tools/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 56
+    images:
+      - url: "https://regmedia.co.uk/2021/11/03/shutterstock_car_factory.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Exasol Announces Expanded Capabilities of Its Analytics SaaS Database, Including ETL Integration"
     excerpt: "Amazon SageMaker extension: Exasol SaaS now supports a SageMaker Extension, enabling users to develop end-to-end machine learning projects on data stored in Exasol using the Amazon SageMaker Autopilot service. Doing so mean users can turn data into ..."
     publishedDateTime: 2022-05-03T07:59:00Z

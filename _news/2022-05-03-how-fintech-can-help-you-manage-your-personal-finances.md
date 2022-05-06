@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.researchandmarkets.com/content-images/173/173851/1/global-fintech-market.png"
         width: 600
         height: 400
+        isCached: true
+  - title: "06/05 – Weekly Fintech Recap"
+    excerpt: "Partnerships Ophelos Partners with Credit Card Startup, Yonder, for Ethical Debt Resolution Ophelos, the technology firm building fairer debt resolution for businesses and their customers, announces its partnership with Yonder,"
+    publishedDateTime: 2022-05-06T09:25:00Z
+    webUrl: "https://financialit.net/news/open-banking/0605-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_10.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
     excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"

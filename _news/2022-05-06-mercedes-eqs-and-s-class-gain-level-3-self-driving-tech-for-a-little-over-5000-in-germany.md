@@ -26,6 +26,22 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Mercedes opens sales of Level 3 self-driving system on S-Class, EQS"
+    excerpt: "Tesla has long promised true “hands off” abilities for its Full Self Driving package but still requires drivers to be fully attentive and ready to take over. Audi had prepared its A8 sedan for ..."
+    publishedDateTime: 2022-05-06T09:59:00Z
+    webUrl: "https://europe.autonews.com/automakers/mercedes-opens-sales-level-3-self-driving-system-s-class-eqs"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 41
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Mercedes%20Drive%20Pilot%202022.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "Ha3CR+dzaouCLMnENDXbSzCCfh5KfmfKNPmEJO7iiD64V/M0Fqv0Dg5zuSZBARRqL9zNYX8z8QTe1vUI0ubU8/jQ2+iL4v2llOxVJ6KxsxTFVeIa8UyA7ENPgW4tSH5fVJPiOMjvZlX+tLN+PN4taSUnqXhXX7s4Kt9mrwcGQnzasBfXCvI/fh0er/9cNLmJRZMrIzKHSbf3CU4cQ3s+LrqxEabzVK0TTBG5FCBTaaLY0iR1lpHTz5Poz9BeWoB3wF5GmhciO+X0ni9NSVzRNrVTEHHfmqurmADXxoeFBw4VLtOxbI4XystrVx8BJrgwgXUqqnLGET8pOBfZKCeFrVFM8n3Va83z6papeOq/6nE=;6Qd2LyRWGZavHqIG/+cG5A=="
 ---
 

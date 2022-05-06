@@ -4,10 +4,10 @@
     {
       "path": "_news/2022-05-06-aws-allows-a-lenovo-server-to-play-in-its-on-prem-ai-video-cloud.md",
       "title": "AWS allows a Lenovo server to play in its on-prem AI video cloud",
-      "excerpt": "AWS strongly suggests its SageMaker AI/ML platform as a very fine source of models to run ... party server maker to offer a box with Panorama pre-installed. Microsoft to ax Azure Video Analyzer in November Cloud a three-player market dominated by AWS ...",
+      "excerpt": "Amazon Web Services has allowed a third-party hardware offering into its universe, with a Lenovo server dedicated to video analytics scoring the gig. To understand why AWS has endorsed third-party hardware we need to revisit the 2020 re:invent conference,",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/?td=amp-keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/?td=amp-keepreading-btm",
+      "webUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/",
+      "originalUrl": "https://www.theregister.com/2022/05/06/aws_panorama_adds_lenovo_server/",
       "featuredContent": null,
       "highlight": null,
       "heat": 76,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://www.theregister.com/AMP/2022/05/06/aws_panorama_adds_lenovo_server/",
       "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/aws_panorama_adds_lenovo_server/",
-      "publishedDateTime": "2022-05-06T02:23:00-07:00",
+      "publishedDateTime": "2022-05-06T01:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "theregister",
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Microsoft AI"
       ]
     },
     {

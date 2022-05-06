@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/landing
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/article_a96b96d0-db29-5133-9bf7-187e3639c1c5.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     height: 338
     isCached: true
 
-secured: "n6sxdL+IrxPOhsS6kDVoHSf+gwbrZBIcm3S3550pxG/9KPMDLGrhBVTecoLnhEcD/hn+SxanJWG5fA6tWMWHSCE2Zrv5yvsl4sFNYJOFl19yHpf/78vk1Ro3KLA9zdmGBhObcglbneQsM5owC8/dvMF79ply2WVO6UKHnPdLVpBQAUGZFi82ky7NayO3WFETPayQRAa5YhGhfSRO6uTjrs1fQCNp2qGcHY4GvevOSqGuPqrO/K0dBAV6pOyl8jaRjCvnxI9KTtNA0Ser4DjozKDWClF47NN/T3DBAQ/Q1M20i4ZI8IMaE3BpERkerTIUJWOxX/chL/jVpMBq/J5FPlkkHVRjFMgI1XCwrt82smc=;npeaMUQJ0ksKn6DwkMMI7g=="
+related:
+  - title: "Landing AI Becomes a Part of NVIDIA Metropolis to transform industrial inspection with AI"
+    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced"
+    publishedDateTime: 2022-05-06T10:17:00Z
+    webUrl: "https://enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/"
+    ampWebUrl: "https://enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 48
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Landing-AI-Becomes-a-Part-of-NVIDIA-Metropolis-to-transform-industrial-inspection-with-AI-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
+
+secured: "qB3+zrRd4wJLw2RmS46/QRjdDGJ7ymcerJROLES3IJOCNaUUCQzIsv2fZWRsFwW6er8XObr5vDYNmx9KSOcXSmnEkXsh7Vchv+Hwinzhbj545mz5ntDKtzwOjdicUp/Ji1tFXbKdHYwgXnzdFhZNatBAY90dHZheg5txaO41q5ZgVTrTpoRTdFAinb+yuNgXLn/m9tWkmmqyzvCfgjn5drh09iQFSQaeVmkY5w7JQZZzGoS1aQKUVhmPbakc7qivwQG+nQoMlWj4HhcTcpS94bv6DvSlPPNYuQy6v8XwkwjAF5Zf4ex4pFT4b+JL1JRuBJ378RqxCvfUedId7oSIl3i1W1epoxDasyB7BVHr8VcCnWnaELhea+5TJKRowvHPkpuiJUVZcnjmEQPadALzRX3EsU+Pw+NLQlMpEQWya4epvnm+RL4bR7Rt7MzSK/kxnoUNVwTzOw3fy9rG4i8QCR7Fyudlt8DIAmwTBOnNpW5M2Md55lBHcZ5VEkExBCcedSmzAQYpRqKYkseuF1CJ6w==;KzZdHcfQSe50Z869kraZIw=="
 ---
 

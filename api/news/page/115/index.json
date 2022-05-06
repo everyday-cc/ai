@@ -2,6 +2,40 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-01-26-baidus-electric-vehicle-arm-jidu-raises-400-mln-in-new-funding-round.md",
+      "title": "Baidu's electric vehicle arm Jidu raises $400 mln in new funding round",
+      "excerpt": "Baidu's electric vehicle arm Jidu Auto said on Wednesday that it has raised nearly $400 million from Baidu and Zhejiang Geely Holding Group in a new funding round. BEIJING, Jan 26 (Reuters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidus-electric-vehicle-arm-jidu-raises-%24400-mln-in-new-funding-round",
+      "originalUrl": "https://www.nasdaq.com/articles/baidus-electric-vehicle-arm-jidu-raises-%24400-mln-in-new-funding-round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidus-electric-vehicle-arm-jidu-raises-%24400-mln-in-new-funding-round?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-electric-vehicle-arm-jidu-raises-%24400-mln-in-new-funding-round?amp",
+      "publishedDateTime": "2022-01-25T17:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-customization-basics-tensors-and-operations.md",
       "title": "Customization basics: tensors and operations",
       "excerpt": "To get started, import the tensorflow module. As of TensorFlow 2, eager execution is turned on by default. This enables a more interactive frontend to TensorFlow, the details of which we will discuss much later. import numpy as np ndarray = np.ones([3, 3 ...",
@@ -1108,49 +1142,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia.md",
-      "title": "Facebook’s Meta is building a “massive AI research supercomputer” with Nvidia",
-      "excerpt": "In a blog (via PC Gamer), the company shared that the “massive AI research supercomputer” will be “the largest Nvidia DGX A100 customer system to date”. The AI Research SuperCluster (RSC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3147612",
-      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3147612",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2022/01/Meta-supercomputer-2000x1270-1.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

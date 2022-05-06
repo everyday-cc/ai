@@ -1,27 +1,29 @@
 ---
 category: news
-title: "New Machine Learning maps the potentials of proteins"
-excerpt: "This is exactly the theory that DIKU and DTU Compute have been able to expand to cover their Machine Learning model (deep learning) for proteins. Because they have mastered the distortion on the map, they can also compensate for it. \"It enables us to talk ..."
-publishedDateTime: 2022-05-04T13:13:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/951653"
-webUrl: "https://www.eurekalert.org/news-releases/951653"
+title: "New machine learning maps the potentials of proteins"
+excerpt: "In the journal Nature Communications, the researchers explain how a new way of using Machine Learning (ML) draws a map of proteins, which makes it possible to appoint a candidate list of the ..."
+publishedDateTime: 2022-05-04T14:30:00Z
+originalUrl: "https://phys.org/news/2022-05-machine-potentials-proteins.html"
+webUrl: "https://phys.org/news/2022-05-machine-potentials-proteins.html"
+ampWebUrl: "https://phys.org/news/2022-05-machine-potentials-proteins.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-machine-potentials-proteins.amp"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bec72b74-65da-40a5-9f93-b20916ca45d6/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 277
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/new-machine-learning-m.jpg"
+    width: 500
+    height: 462
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 480
         isCached: true
 
-secured: "rGqekMikCIoNhAHWdMI/Ph8AmacQqHbpuLErWnrB2pg2JDgJkVWRrrJAVdrc8OsvTWnC2uEGCQ2pEZZXqwLZ5ZX+XEoJK6Ulk5WZqyn1b/Gj7ko+kO3G4Rd5pSoSqZJ/ndWBLuqWUfnHaWPY/s9LRqNAgnPojUtrIZppbYJzrDUXaTJXkoEHYaoXgrDKeX+BMliza6Q+TGtU8QHKYeEnF5X6/ifwsZXpHNJbUL8U3kOVO3hH1OC7tWTNv2rtqzwaKbLTNaoCreCxmca7PQpyt7E/EdHiXzBcRrwmS/lKXs3hLBYQCzKnWoiuf1zU9Y83VM8kCKidbQD4qw7xPzScfKeGkB9l5XieUaPn4tJy44Q=;hxpTy7SEkFPFvggiMWDTgg=="
+secured: "kaVfY/SpHRdLMaVHPZQcEqdwsP4PqGMPxPbwXew4hpZ6Cq4zfX0KCt6pxkwbSAULIz/MCPNkMP4B1Ms7NcEdLrTSS87dDoqQ//SCCxG8rNQWLcy3RSv2jeh6AUoSPtLd774qok18Emm5+fONq4EknPzOWmhQQuxCwc/a0N8npmnwmmUZLMm4zl3L4jHanANJfWXdCW0x6GUGWwNuCErPA5MVY7IVxZa1kjnwWy8svltzoAdlLfbRFskeaBkwWjVFOiQ1WcEEuaYo6YIKs618mFHP9Os6THrO0Kp5LipxedeQ/MWhCr4AtuHjG4JsnODFMlt7GTS4DEhDZRQrP1Y/qnwasQzXTFN2SOxOe9BM3QM=;X1iKws1fezUfDuAzWWx+zQ=="
 ---
 
