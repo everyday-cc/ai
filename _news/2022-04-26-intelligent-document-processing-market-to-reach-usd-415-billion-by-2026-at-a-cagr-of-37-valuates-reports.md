@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports"
-excerpt: "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% \\| Valuates Reports. BANGALORE, India, April 26, 2022 /PRNewswire/ -- The Intelligent Docu"
+excerpt: "The region's businesses are the most forward-thinking in terms of AI, machine learning, natural language processing, and computer vision, boosting the document analysis market's growth. The presence of major players in North America is also a significant ..."
 publishedDateTime: 2022-04-26T13:07:00Z
-originalUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm"
-webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/tmc/misc/articles/image/2019-oct/3583680183-mouse-791280_960_720.jpg"
-    width: 960
-    height: 640
-    isCached: true
-
-secured: "iYdc+Ymp+8i6kLM+T+ILU97VTpqhfEeiVAQx5WBrn3f1DhtrZybT10jDLSrLUZazWkqnA5HBrv2fDk5LphY9xeGPCnxzKv6ycGmjqw7qse82vJEDHh/Ac7BNcdlFR1w10DVgTrrLu3LEFHsIbqRmyXh5K+7DFTNVhsl85PqdNiVJvzV5QiIhuzaaS1WkUCY3Ep43clBuMgh1dtgJYemGbFrHpYnDBo0QLsjlMwwcFEF+VHcdFvtoD/Ph6NEb37PLw+cTAJgdsZSm6rA/38pL+0sKQHTjmQ4LR8bmIsWkxPmUUF6ofzxLdTu+W+cmreYndzZ+/HhINQpyy05r8lmn0GK8vrU/dw8d268aukttJiw=;D57lB6w/+v4Y5RTza0QlAg=="
+secured: "uRy9jJO6bPZosCUWqywuBRieaVcihSnGbe/O+tgjaTyX2NXdNlbLs6ODXid4Hw65z3BxmWsl+kOQwXkLkAPNbI81v5YtIbdSaRHPwh7p2c65Yawd5JKtJzokCOoO4bl+zFvTxjGFTMF1ukC/4updbg7gN4IulCXEhl5cTRHOsp0apsSwQ/cdc9QSH2ZQNbzkRyI776b0Is87g4H6qwsC9mou8TuUC1U6l5fnkk/XH39vdoLoXj2fUTRhrHydq3gmkqII7QyC6OuTHlQU5xUCPa8lw8O8HDlWRocGkiqc23tjmpq6FADjApPiqWs2u68mR2K0rBEvp3E8pfp6BbJXMbuJy9i9lSGRL3g2wtk+blU=;/cgUZ2utoj/b/+nXAeEJkw=="
 ---
 

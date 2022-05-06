@@ -48,6 +48,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "What are the benefits of autonomy and robotics?"
+    excerpt: "Autonomy evolved from the technology developed for GPS machine control two decades ago, but it’s taking things further. With machine control, the operator still makes dozens of decisions every day. Autonomy is evolving to enable the machine to make more of these decisions."
+    publishedDateTime: 2022-05-06T09:00:00Z
+    webUrl: "https://www.khl.com/news/What-are-the-benefits-of-autonomy-and-robotics-/8020349.article"
+    type: article
+    provider:
+      name: KHL
+      domain: khl.com
+    quality: 54
+    images:
+      - url: "https://www.khl.com/Images/1260x628/index-20220505-142427-Built-robotics-exo-op.jpeg"
+        width: 1260
+        height: 628
+        isCached: true
 
 secured: "dtsVM0vwDLjIFg6/OGDp3lc0I/ujdNF6rGLrUAddMtZsq4WRH7XrBmtrugFc+OIbbm0/Nk3duQuGNTt4Pdeda5L8X389SJWAaMKZIuCfiRldXDe0RDfvY3GVpliVBMh6qEr03O+BEjn78p4YLko6liEfQV4MPTZDfC6wL8Ce5ie3mSJj5Kck0kYEV4FCWz6l+zavkUI/iXW4D8ILD+rHS3F+C6oLh5D/xq6BPfXx9pyF9VVnTnfSpyvffsjjCjQ3VKIy6xvINAxm0f7caugdbuZUzo584DzmRqZaY9kQW6k/nTwT90FQJ51aFRyx5wH6QkYFK3Nvu8msV9QgeJERnrvBSCMkP88450iv/+e9VLr0WbpZ02wvMIezzWpp37h3xppR6Itt21qrEOJxOOJpMGATfCJ20AgyGhXfap0fKHAWhsH+scsfqmVmHXZP6fldAQT+QDoULk5PQJ3fx4B8/REbPJfCxOMsSxOk/bHfPxUqDJFV8O4SNtvf14pg55nUxd/vOs/MhLMLv+VSv99z9Q==;jRZePXlCNY2MYvHhzr9CoQ=="
 ---

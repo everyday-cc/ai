@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.researchandmarkets.com/content-images/173/173851/1/global-fintech-market.png"
         width: 600
         height: 400
+        isCached: true
+  - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
+    excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"
+    publishedDateTime: 2022-05-06T08:52:00Z
+    webUrl: "https://emerging-europe.com/business/czechia-looks-to-regulatory-sandbox-to-boost-fintech-innovation/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 24
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2022/05/bigstock-prague-czech-republic-421448603.jpeg"
+        width: 1600
+        height: 1067
         isCached: true
   - title: "Upstart: Huge Upside For This Rapidly Growing Fintech"
     excerpt: "Upstart is a small fintech company focused on using AI to automate the loan approval process. The company has experienced rapid growth, leading to a blow off top in 2021. The froth has come out of ..."

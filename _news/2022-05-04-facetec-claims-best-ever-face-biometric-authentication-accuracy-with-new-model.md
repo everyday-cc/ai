@@ -39,6 +39,15 @@ related:
         width: 1199
         height: 796
         isCached: true
+  - title: "Viewpoint: Biometric tech, facial recognition should be allowed"
+    excerpt: "Recently there’s been controversy surrounding the use of biometric data — voice, facial, iris or fingerprint data ... We’ve also heard concerns that facial-recognition algorithms promote bias because they are not adequately “trained” to ..."
+    publishedDateTime: 2022-05-06T09:12:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2022/05/06/biometric-facial-recognition-should-be-allowed.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
   - title: "Face biometrics accuracy over time boosted by adaptive reference gallery: EAB webinar"
     excerpt: "Adaptive Biometric Systems in the Deep Learning Era was presented by Giulia Orrù of the University of Cagliari’s Pattern Recognition and Applications (PRA) Lab."
     publishedDateTime: 2022-05-05T20:27:00Z

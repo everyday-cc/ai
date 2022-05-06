@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu Leads Years-Long Race for First Driverless Taxis in China"
-excerpt: "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous ... Back in 2020, Google-owned Waymo opened its fully driverless ride-hailing service to the public in Phoenix, but Wei said the traffic ..."
+excerpt: "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous driving, is one of two companies to secure the country’s first permits to operate a fleet of self-driving robotaxis without someone in the ..."
 publishedDateTime: 2022-04-28T02:46:00Z
-originalUrl: "https://www.bloombergquint.com/markets/baidu-leads-years-long-race-for-first-driverless-taxis-in-china"
-webUrl: "https://www.bloombergquint.com/markets/baidu-leads-years-long-race-for-first-driverless-taxis-in-china"
+originalUrl: "https://www.bloombergquint.com/onweb/baidu-leads-years-long-race-for-first-driverless-taxis-in-china"
+webUrl: "https://www.bloombergquint.com/onweb/baidu-leads-years-long-race-for-first-driverless-taxis-in-china"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "59Af0xoeDXkq3IEAB5gkQzS72q7DRUOVmoJvbEZWHv2mb5AHdX7+cMa86CnAu8KVqmxHaYhuWYNAe8DflnY/vW99k1xKa5Y86gj/P7QGYcI9EqIvwFIPspifbTiqM5eIcaun99tqSXJEo6gkvKqgu2xEkSAGppGSxH9rY4PlMwK6/m63M9UrxwTg0w6O1lYBtQZlQwUL3rYoB0REKLKJueB0qLCjzWW14V9yHcdcs/AxuPy7CUz9oA7pgOgCLP4sh5PQENM/cwMk0Eyxr2+SKZeuoNtClGCh0vLvCd64Mq/ysQk2D9zYFcYvHCgF39lrtIF4nkDALXrsnDAOPQPNqjW1ncb/W5qxdYrIzZNQMew=;/DcjNE1JBeivpCVrGSpEUg=="
+secured: "3jgsgdcbWmcNJIN8IBpVIfg8XOMMRjwcmZBZF431WGHF7pQy/2jNGQKPF2AkLAkV0+ueZM5l2gKShohrAhBAatnLTJUww2KoBp8782W28n0M7znWRxABfZyPBivUmEZDEU5DIqDu9WuNkEt9lUFODqE9CwyhqssY/JeJYjYDaMqaeT9YDLplJbKJQBFANTU3qMxkpHMnTDrHDuWKOBlTUiy8mCr9KfbMXoo2UwNxIrLcM37Ko0t2Za82M4ZQW0matFMeP2TEgZXoh0Mi123RlxbAoliA0+0xotuxWgwZsBlhd7VHYuRh7adp8bId53U5/ekl3sqqS72/A/+XxyloxIxGNCTPAcD2YFsYZKEoOrQ=;Bt8T6ymQskislQ2eSPjrHw=="
 ---
 

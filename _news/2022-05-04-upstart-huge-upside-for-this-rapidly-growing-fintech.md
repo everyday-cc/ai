@@ -102,6 +102,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
+    excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"
+    publishedDateTime: 2022-05-06T08:52:00Z
+    webUrl: "https://emerging-europe.com/business/czechia-looks-to-regulatory-sandbox-to-boost-fintech-innovation/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 24
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2022/05/bigstock-prague-czech-republic-421448603.jpeg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "Fcx7Ac5vO8VLNFiXHbWWc+KWXCpadikMBlbxOSmEH3JYIcOzozrfoRHpF1/FvNjhvbX03wE+Kn0H9+1FaMF+IQIz9gvLwTcd9A5zAxMYARKrl9GzzwQk6GAl5U+3odKPWQkbDIHUjh50sxQEHFVhn5hNopwS3ETA5ZjLuISa5TVnRGZzMYqePxELwGTOm4l0GAfRMPptxXpc+Gik3ne2cF9Fj+qrUyRe6dRu4cY3HeQR3/c/lI9Az1v9E0C5qO+yk0shKHSZuAZuG6v2MyCBUAW8pnehpOh7HJGi85hdyt0SOOgCONiGgFIejxQkQY3QcM5W6JLchsetsy0QT+oP3P1lIqSWEOh+VuasnCoO1oM+4Rk+d7geAlIuDhuhtIYTZ9dTj0i8z90Gx+tkvLPnFkky5ZVD9W1ryLTiO+NEwW7FwgHeRud5mcypLC5TFEnIbCSPaY6t67NVACzen8sTcPN2RN+G28+GYZMTqoK1X0d/46809pYKXmPcypwIhWd304QERuv3PHaUtFZvlss0hQ==;gx3IG6rixP4POkRJLTz2nA=="
 ---

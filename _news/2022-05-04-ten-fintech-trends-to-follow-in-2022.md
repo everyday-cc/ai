@@ -94,6 +94,20 @@ related:
         width: 1800
         height: 1011
         isCached: true
+  - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
+    excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"
+    publishedDateTime: 2022-05-06T08:52:00Z
+    webUrl: "https://emerging-europe.com/business/czechia-looks-to-regulatory-sandbox-to-boost-fintech-innovation/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 24
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2022/05/bigstock-prague-czech-republic-421448603.jpeg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Upstart: Huge Upside For This Rapidly Growing Fintech"
     excerpt: "Upstart is a small fintech company focused on using AI to automate the loan approval process. The company has experienced rapid growth, leading to a blow off top in 2021. The froth has come out of ..."
     publishedDateTime: 2022-05-04T12:00:00Z

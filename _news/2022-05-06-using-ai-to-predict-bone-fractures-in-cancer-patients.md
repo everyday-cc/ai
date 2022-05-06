@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-pati
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
         width: 439
         height: 614
+        isCached: true
+  - title: "AI-assisted digital twin could predict spinal column fractures in cancer patients"
+    excerpt: "An AI-assisted digital twin of human vertebrae could predict how cancer affects the probability of spinal column fractures, a study from Ohio State University has found."
+    publishedDateTime: 2022-05-06T09:47:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/ai-assisted-digital-twin-could-predict-spinal-column-fractures-in-cancer-patients"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 32
+    images:
+      - url: "https://www.theengineer.co.uk/media/vripxcoe/adobestock_111354720.jpeg"
+        width: 940
+        height: 627
         isCached: true
 
 secured: "l5GDh4EOmb3QHda1shzmancr5MA6UpBHcuY927aw+aIolWEzQQXbrepfVcdMnxm/caLIqqqymL63di8TkvT4LV2ATU0goqnprP0PdFHjtRFAk3KW6mwE+Di5mJrpn7aMY77CFnTNTQjAO+xTfHH3JxH5Kcs7MdA2woC87rcN55OVztaZ5Xlf/3UV/rkwklCMrGpKHSxbWBjF585WRT7z7pBz3hiiXlGy+tnLERrdcR528p6FARl6DWZWjPxCygQce9Ho7zsPIKhrgbqfL1AHfWhusbdT60yCv38dkaYUNBXvfM789n6zTJL5LNrTIY1vUedHGbp4yL5eDgREv+4aeh9GWm/Sv8hHFqlcC3NuS+0=;yea6fuCYm12e/6OLpY/kvA=="

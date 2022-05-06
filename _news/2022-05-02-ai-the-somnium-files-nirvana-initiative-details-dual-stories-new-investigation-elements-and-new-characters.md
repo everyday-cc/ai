@@ -40,6 +40,20 @@ related:
         width: 710
         height: 400
         isCached: true
+  - title: "Spike Chunsoft Hints At AI: The Somnium Files Sequel News With 'Hidden Bats' Site"
+    excerpt: "Spike Chunsoft is the king of the countdown website. Overnight, the developer has launched a brand new teaser website which has got fans' tongues wagging. This new site is called 'Hidden Bats', and features 9 CRT TVs stacked,"
+    publishedDateTime: 2022-05-06T09:45:00Z
+    webUrl: "https://www.nintendolife.com/news/2022/05/spike-chunsoft-hints-at-ai-the-somnium-files-sequel-news-with-hidden-bats-site"
+    type: article
+    provider:
+      name: Nintendo Life
+      domain: nintendolife.com
+    quality: 32
+    images:
+      - url: "https://images.nintendolife.com/f6d6060e38a8b/1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative Highlights New And Returning Characters"
     excerpt: "Spike Chunsoft's AI: The Somnium Files – nirvanA Initiative isn't hiding much when it comes to detail. The company has sharedeven more information about the upcoming sequel, which sees fan favourite character Mizuki take centre stage along with a brand ..."
     publishedDateTime: 2022-05-02T11:45:00Z

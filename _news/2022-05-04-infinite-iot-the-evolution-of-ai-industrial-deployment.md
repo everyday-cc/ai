@@ -40,6 +40,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Dall-E 2: Why the AI image generator is a revolutionary invention"
+    excerpt: "A piece of software is able to generate detailed images from just a short, worded prompt… but it comes with obvious issues."
+    publishedDateTime: 2022-05-06T08:25:00Z
+    webUrl: "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/"
+    ampWebUrl: "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 57
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2022/05/Dall-E-small-a7397dd.jpg?quality=90&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
 
 secured: "uEz5n0rJ7frsylacgXiMzoypGlZYP6uZkj8tqbNq2jDJgam+bFQjrl7EZTBlLNjKiwxsxbBHXliCmNaXqN/DjWqlD+W1sfN8Dm74DOSMozJBPJqSIOXhu433WnWk0zfel//i8DABkVfU3NUXmH3jzOvdNen9zs+ceYJeNR2kdgB6BwafNjmmV5skzH0z7N5GCuUdpjyt/Ud0s18mAGLDrIG0KySAnfrNvU20CMuRhvQ7XcJnr/vWt+uYN7N3MJ2EyC87tBcwh7J0slwe0nhTxVeBiC0tuqpRnN226TpbBZ4R0U0FFOK2l+HCDNmGuCzA5YqCEokw1CBeyifq1BTPOvl+jNa3rRPiXCpmwjoDagM=;Lm77HfD2BQ0RYYEWDFvI6w=="
 ---

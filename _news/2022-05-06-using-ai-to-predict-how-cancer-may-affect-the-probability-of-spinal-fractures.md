@@ -65,6 +65,20 @@ related:
         width: 439
         height: 614
         isCached: true
+  - title: "AI-assisted digital twin could predict spinal column fractures in cancer patients"
+    excerpt: "An AI-assisted digital twin of human vertebrae could predict how cancer affects the probability of spinal column fractures, a study from Ohio State University has found."
+    publishedDateTime: 2022-05-06T09:47:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/ai-assisted-digital-twin-could-predict-spinal-column-fractures-in-cancer-patients"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 32
+    images:
+      - url: "https://www.theengineer.co.uk/media/vripxcoe/adobestock_111354720.jpeg"
+        width: 940
+        height: 627
+        isCached: true
 
 secured: "chcEool0y9ha/UtzakdANJEtXiagmuTxN7Qwd0v/6CrNXzR5KAdYwtd3bD7t9vp83SAPapXyMNy0CV9rDlt9cfTXxzj+J+GBgL9CdVd90tU6RIwGFEXbgPBwbNkcsitMEXPeuTXe2AIYC+naypffKd/Dt1Mx6X4p+mSHKxq2rdycVBqcjnM+FiZAvTiSB406PrVV/NtdVNymagFAdXX9qQ9gpHhrEx/bSJovs+xFNzmqJKFlPK5Ir5X2/col81Q0RBbCUydDYy55OPHVW5GFlzcQkInnb2t37gXSYsaZhloH0dec3CxlFPoexdjhlLNKDaaobBhuGggoJRmBvfH2UD45eG9ywV/Jnd/wa4+348sWaHCqVNJ3ro3e1hf9moOeOOv1xCJEp5r+6tT6usaNXl09L1p61rnNrGTN/9ZKSF6ZR0t61o5/euS9sdffXMKJtaUW7EXUdd81dzGRLf3qLXJucpSIB37WRjyRJBabXinGVHonpqnfYkHiHXI98aopkHMuKZ6jiXw100UVzkYGYg==;iYGWqxIReWgjiwsKdLCYOw=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 1199
         height: 796
         isCached: true
+  - title: "Viewpoint: Biometric tech, facial recognition should be allowed"
+    excerpt: "Recently there’s been controversy surrounding the use of biometric data — voice, facial, iris or fingerprint data ... We’ve also heard concerns that facial-recognition algorithms promote bias because they are not adequately “trained” to ..."
+    publishedDateTime: 2022-05-06T09:12:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2022/05/06/biometric-facial-recognition-should-be-allowed.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
   - title: "Ireland to share face biometrics with EU to tackle crime on wider scale"
     excerpt: "McEntee said the exchange of facial images will not mean live facial recognition of crowds in public spaces. Nor is using artificial intelligence for facial comparisons currently contemplated. Moreover, she said, Prum II’s router will hold no data ..."
     publishedDateTime: 2022-05-02T17:59:00Z

@@ -40,6 +40,20 @@ related:
         width: 710
         height: 400
         isCached: true
+  - title: "Spike Chunsoft Hints At AI: The Somnium Files Sequel News With 'Hidden Bats' Site"
+    excerpt: "Spike Chunsoft is the king of the countdown website. Overnight, the developer has launched a brand new teaser website which has got fans' tongues wagging. This new site is called 'Hidden Bats', and features 9 CRT TVs stacked,"
+    publishedDateTime: 2022-05-06T09:45:00Z
+    webUrl: "https://www.nintendolife.com/news/2022/05/spike-chunsoft-hints-at-ai-the-somnium-files-sequel-news-with-hidden-bats-site"
+    type: article
+    provider:
+      name: Nintendo Life
+      domain: nintendolife.com
+    quality: 32
+    images:
+      - url: "https://images.nintendolife.com/f6d6060e38a8b/1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative details dual stories, new investigation elements, and new characters"
     excerpt: "The main protagonists Mizuki and Ryuki both have a prosthesis in their left eye. This prosthesis or “AI-Ball” is equipped with advanced artificial intelligence, as well as visual functions such as X-ray, thermal imaging, and night vision that can help ..."
     publishedDateTime: 2022-05-02T03:41:00Z

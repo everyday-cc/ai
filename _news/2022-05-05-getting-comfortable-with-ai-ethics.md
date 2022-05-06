@@ -66,15 +66,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 61
-  - title: "JOINT ARTIFICIAL INTELLIGENCE CENTER"
-    excerpt: "Prior to joining the CIA, Mulchandani most recently served as the CTO and Acting Director of DoD's Joint Artificial Intelligence Center. He also co-founded and was CEO of several successful startups- Oblix (acquired by Oracle), Determina (acquired by ..."
-    publishedDateTime: 2022-05-01T15:34:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/joint-artificial-intelligence-center"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 17
 
 secured: "4iWzUSp0gSP0S35sU14pzEXL4xPHWF7Nt5jbCMI5MhU7lVI1xajRuFO3nndekIZkI7+TG+Qdt1m1WAxt9yo9Yj115ylXS9SEV1rm5oLLqGsRFWxqXdVpN5wvo8XMxJjsvnneTASToZ/mYliPIRgycO9KvJs/yEmGfg0qdkMNIC31u913ClctmEMkdf4UjKUmIpAf9IPY2z5KkwfHt+7ehBqtbaodbmtaFebAscd2K7gtPmwlD7ANXqwbTlKxsvluHels+e0hIgZy/sidrb2m8CIFbqJtI2ZgnnMkUZrL2iDbPfTbAyCxwhr0E6mhC7GWZjdUlUGTLmD+sVDlfS5fSym3P4odKjxGrUsD0/qDWo76htZlDfx3niCAzqB/gwcsuH2siIw5uti+e4Zqbg/P6LTmTpkxKQ+4BRj2p0f7RZni9XBEP3Biy5tYTAN3jOA4Px9zZ03sLWloJOjazOUx2Y+ocDt2bILgj1iWhSA3mr1F769sbg3Nup68G4fYKgiRb4Zkwa7zkfSoapvFAP5Vfg==;wAQqSxwUEO/y3/13JTEM5Q=="
 ---

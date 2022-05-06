@@ -432,25 +432,34 @@
     },
     {
       "path": "_news/2022-04-29-powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners.md",
-      "title": "PowerVoice, the world’s best AI voice biometric technology, is recruiting global partners",
+      "title": "PowerVoice, the world's best AI voice biometric technology, is recruiting global partners",
       "excerpt": "“Panoramic view of Korea Water Resources Corporation’s artificial intelligence control room remotely monitored with the voice recognition function of Power Voice” PowerVoice claimed to have commercialized the world’s first voice recognition service ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners",
-      "originalUrl": "https://www.digitaljournal.com/pr/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T11:46:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26880195",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26880195",
+      "publishedDateTime": "2022-04-28T11:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -714,24 +723,15 @@
     {
       "path": "_news/2022-04-26-intelligent-document-processing-market-to-reach-usd-415-billion-by-2026-at-a-cagr-of-37-valuates-reports.md",
       "title": "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports",
-      "excerpt": "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% \\| Valuates Reports. BANGALORE, India, April 26, 2022 /PRNewswire/ -- The Intelligent Docu",
+      "excerpt": "The region's businesses are the most forward-thinking in terms of AI, machine learning, natural language processing, and computer vision, boosting the document analysis market's growth. The presence of major players in North America is also a significant ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm",
-      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2019-oct/3583680183-mouse-791280_960_720.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

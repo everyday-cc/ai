@@ -69,15 +69,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "JOINT ARTIFICIAL INTELLIGENCE CENTER"
-    excerpt: "Prior to joining the CIA, Mulchandani most recently served as the CTO and Acting Director of DoD's Joint Artificial Intelligence Center. He also co-founded and was CEO of several successful startups- Oblix (acquired by Oracle), Determina (acquired by ..."
-    publishedDateTime: 2022-05-01T15:34:00Z
-    webUrl: "https://economictimes.indiatimes.com/topic/joint-artificial-intelligence-center"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 17
 
 secured: "1UUPWz0QjOetJMl4W1SqMX1Uu7LgcY8pCyOAXgSzxjcpGpyfe9MQ7SIMk7nNXTSvfCmnroz97XMqz+NenQ+rXoPXGdUuM2PCeDdytfca2jwwx6x1+Ggk4lw+9nJhGwToyUgk/g+5BiQMRac65fSlAzDkaCXrb55Y/cSeHdOTYC1JdMRU4CAqD9Sso0XRXs04uesdxCOPDrJZA6gYZ47VqZEAxSgS/qVRvKjXljHgS1ER4vbE2K/z6gfjK1vhf5+/LYvFMHBBwJV8mWWDL+OnBLC3cmnrJ9F0Royom3rEd6k+3jphM8TgtSwl1Cu0LDJMb9GM7+Wui84eymhoHylFNPObT+NLND6YUY6K0uyHOUFMlbMJtXihAP4wgZa10yp30WeBT42amn+aHGxvXgUhMwSVBe+8uUPVmd3gFs/wbCRzvk99hg/HYlK722tTdW3gJgkeckcYbJQi5Iseh6T61FuFdSdBHfMjgKGpr/Jpt+FjNZXsaFWbCLVc5HCxcDJmPLQXEmfk7EulqKvS13DfOg==;GIDb5H+gBzjD/Y4ZT1eY4A=="
 ---

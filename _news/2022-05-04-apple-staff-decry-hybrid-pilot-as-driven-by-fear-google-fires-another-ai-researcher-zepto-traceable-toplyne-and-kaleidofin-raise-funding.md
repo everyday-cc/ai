@@ -54,6 +54,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google Faces Internal Battle Over Research on AI to Speed Chip Design"
+    excerpt: "The new episode emerged after the scientific journal Nature in June published \"A graph placement methodology for fast chip design,\" led by Google scientists Azalia Mirhoseini and"
+    publishedDateTime: 2022-05-03T17:54:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 84
   - title: "Google Fires Another AI Researcher for Questioning Findings, Company Says Otherwise"
     excerpt: "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ..."
     publishedDateTime: 2022-05-03T20:35:00Z
@@ -257,6 +268,15 @@ related:
         width: 600
         height: 429
         isCached: true
+  - title: "Why Did Google Fire Another AI Researcher?"
+    excerpt: "Google has recently fired machine learning scientist Satrajit Chatterjee after he and his team put questions over Google’s research paper. According to The New York Times, Satrajit and the team challenged Google’s research paper about the usage and the testing of artificial intelligence in making computer chips."
+    publishedDateTime: 2022-05-06T07:49:00Z
+    webUrl: "https://www.techthirsty.com/why-did-google-fire-another-ai-researcher/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 19
 
 secured: "604d0Yb7+mWyhhRzpSoybTyUx9rPNX0LS1sn+mz23F3YVFV2ykg7s0xjXn6CgZOGgXxZeggYVuNFGXy9avT5K759JBmBnJ6OxmK9sjRz2ByYw5VLuvUWO63GljDv7sFvMwF7aTEGiN610FM6ypSnGb6VomAovJsebGiKg0kS7fUcwCD/mq4bd+sYSwVNsKtDLJ0OS23s3yLfI2GF5T+6pvyQPzC1CEXaJnNopmOjS/vm6Os9GgtWBVsy/fTEe3FlgNLOMeeEVcqqU7aEMM/X/yoDPe0cjFUGL7N29A1dbBkDURY1vVk0Foj2CElNmuNF964nYjxWWAkmDIJRaT09c/PlL8MDrSZM+EaMaWr+fbU=;6a9h5Aa26zP8a9KDVuRkWA=="
 ---

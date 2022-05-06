@@ -45,6 +45,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "What are the benefits of autonomy and robotics?"
+    excerpt: "Autonomy evolved from the technology developed for GPS machine control two decades ago, but it’s taking things further. With machine control, the operator still makes dozens of decisions every day. Autonomy is evolving to enable the machine to make more of these decisions."
+    publishedDateTime: 2022-05-06T09:00:00Z
+    webUrl: "https://www.khl.com/news/What-are-the-benefits-of-autonomy-and-robotics-/8020349.article"
+    type: article
+    provider:
+      name: KHL
+      domain: khl.com
+    quality: 54
+    images:
+      - url: "https://www.khl.com/Images/1260x628/index-20220505-142427-Built-robotics-exo-op.jpeg"
+        width: 1260
+        height: 628
+        isCached: true
 
 secured: "n+t/jQ5p+SldXv+thepL9lHN5ipZTGPUdnA6HLJKrgn7SZPVW/TeVjpr9xjH14JS93UFNC4mksf4dkEXDsEVS46NgT+82E5Qz5g2Li8GJ9+T1RC5Jfox+spZO8eD0sfwla1twRxtCETaDN0Cpxiiur4sNJcpkXo79C4HUV9nNbBcHgu/cauWLQZG7qeD4s2e8VPAIdrVfyVhfZB31RQvVmxiNYDbZ5jh+4wsvKybcYfFeI0p/o+NHhssCoZ1J/jwhJ61n4ErrDRpx6ArV0BmLOASXyP9w7CSm8Fda+fGgDUMxzzfu0Vqx+8xyHRNY3EA1mcmiXPNU8oW8qKF1eP21TTHbnhNJ3bXvTou4+HqIyEgCLDztiv2WJBXYeemKEqcen2wMQjkuGseasddpblndR7M1cSYypuSV2sfSeuWn7XiJmT42RddbYRITNSlPzV5u0HySimQIHcb074nrM20Me4H0qwjaJnZSjXmiZQGPxWRzsmicuu+tn6RmMKM9mK+TglX8s1McHgGTu8z8+qoog==;NVDnucXEgW2GPuulkwVzAw=="
 ---

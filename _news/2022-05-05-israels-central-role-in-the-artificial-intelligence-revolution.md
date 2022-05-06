@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/jerusalem-report/article-705919/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jerusalem-report/article-705919/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Jerusalem Post Blogs
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dall-E 2: Why the AI image generator is a revolutionary invention"
+    excerpt: "A piece of software is able to generate detailed images from just a short, worded prompt… but it comes with obvious issues."
+    publishedDateTime: 2022-05-06T08:25:00Z
+    webUrl: "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/"
+    ampWebUrl: "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/amp/"
+    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/amp/"
+    type: article
+    provider:
+      name: BBC Focus
+      domain: sciencefocus.com
+    quality: 57
+    images:
+      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2022/05/Dall-E-small-a7397dd.jpg?quality=90&resize=960,413"
+        width: 960
+        height: 413
+        isCached: true
   - title: "Infinite IoT: The Evolution of AI Industrial Deployment"
     excerpt: "With companies continuously looking for ways to reduce costs and increase profitability, vertical AI solutions provide start-ups with the opportunity “to build these vertical AI companies with a specific business use case in mind,” said Daiya."
     publishedDateTime: 2022-05-04T15:52:00Z
