@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Video Codec Designed for AI Analysis"
-    excerpt: "The researchers tested the system on a $60 Jetson Nano board with a single 128-core Maxwell GPU, and various other cheap equivalents. OpenVINO was used to offset some of the energy requirements of the very sparse local DNNs to CPUs. AccModel itself was ..."
-    publishedDateTime: 2022-05-01T14:24:00Z
-    webUrl: "https://www.unite.ai/a-video-codec-designed-for-ai-analysis/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
   - title: "AJA, Augere Medical Advance GI Diagnostics with AI-Driven Video Analysis Solution"
     excerpt: "When paired with live, high-quality video streaming, AI can help doctors identify cancer and other health risks early and with more accuracy than just the human eye. Recognizing this potential, Oslo-based medical technology startup Augere Medical developed ..."
     publishedDateTime: 2022-05-02T12:51:00Z

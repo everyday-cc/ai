@@ -41,15 +41,6 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "Get up to speed with Microsoft Azure with over 50 hours of training for $39"
-    excerpt: "In addition, there's a complete course dedicated to project-based learning, so you'll get familiar with Azure through real-life architectural and administration problems. Finally, you'll also get an introduction to machine learning with Azure Machine ..."
-    publishedDateTime: 2022-05-01T13:25:00Z
-    webUrl: "https://www.zdnet.com/article/get-up-to-speed-with-microsoft-azure-with-over-50-hours-of-training-for-39/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
   - title: "Dell Launches New AWS, Azure Multi-Cloud Security Solutions"
     excerpt: "or in an unimpacted Azure environment. Dell’s new CyberSense for Dell PowerProtect Cyber Recovery for AWS offering allows customers to use adaptive analytics, scan metadata and complete files, as well as implement machine learning and forensic tools to ..."
     publishedDateTime: 2022-05-02T17:00:00Z
@@ -78,15 +69,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "For only $39, you can learn all you need to know about Microsoft Azure"
-    excerpt: "For those who prefer project-based learning, there’s a whole course devoted to Azure management and architectural issues. Also included is an introduction to Azure Machine Learning, which may be used to automate difficult or repetitive cloud concepts and ..."
-    publishedDateTime: 2022-05-01T14:10:00Z
-    webUrl: "https://bestgamingpro.com/for-only-39-you-can-learn-all-you-need-to-know-about-microsoft-azure/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 34
 
 secured: "wSKByElDDGQZPnMhgpC/9x3ytIyV1k9UeCOz/fHAqhSaEKH5XOVAJILn9saUa/xlcZ1ER3EDiq+dMMif/1FUUBSldJxsEQHOTFee1mPxLzBao9m1Zn4qCyT17E2N7PkUHiqB8Jb8TibbOMmjY2QoNT1FMPivJqvzdmR6mJakUQT+5dKxjC7IpX+dKR43ICuOuNxVTxNy/wpC49QQxF19+eFwPtz+OQgAlpz1kuWQaOR53XB540NnuPadTMrksydTTsT2cjzkYOxkqqL6k0L0/XsxS8pRxSHq6pALkqlQ7J8lYU+mziPmb0quWwm7kJTPZKqNGdfrz5xnZFcztODKqTYydCl7jnaeusNKsxDQtkSqfCCiRC1/UYbxpdBCiolWqJNsbDbH4vZWpPtBk8FMAiFt39ZXQUzNRSKl6rB8xXmLN3XOo7JdAFswN+0Xy0aq2PSuawHo1vdO6y0qj4LHQGeKXhDe0hxFxQpd+MJTR0hP0p4u2T1i8iI6UA6JbRNUm88J+6jPAvgLu0q0ugKLEQ==;hQmR3gkwRTxdvpTqL+Nagg=="
 ---
