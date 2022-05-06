@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Eightfold AI and Deloitte Alliance Accelerates Skills-Based Talent Transformations"
-excerpt: "Eightfold AI, the leader in AI-powered talent intelligence, today announced an alliance with Deloitte to build a foundation for organizations to address critical workforce needs and become future ready."
-publishedDateTime: 2022-05-05T22:01:00Z
-originalUrl: "https://wreg.com/business/press-releases/cision/20220505SF48563/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/"
-webUrl: "https://wreg.com/business/press-releases/cision/20220505SF48563/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/"
+excerpt: "Deep talent insights using dynamic, transparent AI to support organizations as they meet their changing workforce needs. SANTA CLARA, Calif., May 5, 2022 /PRNewswire/ -- Eightfold"
+publishedDateTime: 2022-05-05T21:03:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-df497f9b0f3bb7ed517f5350ceaeb9db"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-df497f9b0f3bb7ed517f5350ceaeb9db"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: WREG
-  domain: wreg.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
-    width: 800
-    height: 268
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "z18jzsOcLRtWNVXzAK7iMDlkDhdggxFEzhzb8Mz8NVcSZB9I1i4EC3HxN8uHT2Ex79hJEtsjp/891VNKudhkhujc+mLpkLMtcWhmLshI+8knhC6I0YhqyQX99j/QMjEq+YWF6NQYGDlUkffyg0m7GIq8HHScu6c6g2YXKDyvSt9uqXlrqdudnMjp0EUN1FBzAs5HIC/pFcU3/tATwcJY3M5yLf6W94L08qHsFxLX8vFxi5jJU0Aybt1HWfN/LT2RzK9FdafP0Q/VCa9cTVo6T+VaWfuUC1/iJFLWMnvwL/ItfGMLRRJdbliytYYyeT0+SEZqIZ1PiUdnlmNtToZ8JTQTrdAEGN2np5svgUwAi4c=;oWefmwPfLf0Fo5soKTqJRw=="
+secured: "frpdHDBLS5Y+rNabpncDKOPFJ6sXqa8+B/sBxuH7ptQFs1QQHZXcaHuZTXkP3eeV5CeRl1tRCeVFH+r61B/eUzbfHlZmUV4J+QPZQMXD2vnYixBNgcnV3MdVPztKvZNEfb/ggX/p02RL9dfTLd1/gYnGkHUod8oO5ZX7fdh0ZrR3K1dgdb4JAUe3hSRTG75V57wlEB6wrrXIUVjXLKroyZmLSgk+esok/o+Rl95UjHY/nPnj5oY+jK48qTaPXF9+WdE1rbEzZDTDMuDsFYHBP1hQcsQrrox2WGSrmCpiYF3+VDV2TiDSNxe+ZDXVqWObXYsdejQAUwedslmGYLNljq2fyNj3ltcAXU68Hl747LU=;UQTX5YcNHiFog/2otkQ8zQ=="
 ---
 

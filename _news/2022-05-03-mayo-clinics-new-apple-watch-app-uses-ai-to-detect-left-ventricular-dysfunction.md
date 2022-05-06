@@ -84,15 +84,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Mayo-developed AI detects heart condition from Apple Watch ECGs"
-    excerpt: "The AI algorithm developed at Mayo Clinic correctly identified 13 of 16 patients who had a weak heart pump from Apple Watch data during a six-month study period, researchers shared in a presentation at the Heart Rhythm Society conference in San Francisco."
-    publishedDateTime: 2022-05-01T13:01:00Z
-    webUrl: "https://www.modernhealthcare.com/patients/mayo-study-ai-can-detect-heart-condition-apple-watch-ecgs"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 17
   - title: "Mayo researchers use AI to detect weak heart pump via patients’ Apple Watch ECGs"
     excerpt: "ROCHESTER, Minn. — Single-lead ECG tracings from an Apple Watch interpreted by an artificial intelligence (AI) algorithm developed at Mayo Clinic effectively identified patients with a weak heart pump. Patients were enrolled by email in a decentralized ..."
     publishedDateTime: 2022-05-02T17:10:00Z

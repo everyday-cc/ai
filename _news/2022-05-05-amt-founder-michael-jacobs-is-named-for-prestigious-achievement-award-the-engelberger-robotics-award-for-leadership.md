@@ -22,16 +22,18 @@ related:
   - title: "AMT Founder Michael Jacobs is Named for Prestigious Achievement Award, the Engelberger Robotics Award for Leadership"
     excerpt: "Engelberger Robotics Award for Leadership ... He was subsequently invited to be one of the first members of A3's Artificial Intelligence Technical Advisory Board, where he serves today. \"Recognition by industry leaders with an award that bears the name ..."
     publishedDateTime: 2022-05-04T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amt-founder-michael-jacobs-is-named-for-prestigious-achievement-award-the-engelberger-robotics-award-for/article_9cd530bd-df91-5cd0-a305-4c335e3c2408.html"
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/p26994342/amt-founder-michael-jacobs-is-named-for-prestigious-achievement-award-the-engelberger-robotics-awa"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26994342"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26994342"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "/Pf8mFfI5Z10ZU/IYOUT6fgwKP1z8Aj1upXELeLVDgLORJ1IwRlkGznp3iNbtMjF4p82m1BtAL8kO0dOspk1xSzgnspv8wq5vYiMq1cX4be4jFEJLXLvkdxDUkV46cpVeqeylGjLBN/L+fEGxZDUEzyG2wx36ciq9ouyPCBiKl4fgmW9tp4roLrIo16INeTZImEcjHRnL7veuPn2MVrFYHeZBEl03RceeCDQH2On2t3fT4EhgbZhxrE+mrdIUhr5MVySS/x0DreW5Gf43Jkw4+0e0uCbXTUTkjOC9GSIs+I1BJaca5FfvhA+IQA0WiLNmbAdh0SpBZ+LD6V9GOqOUDnuiBy4B2t4nDjW4pHZ3R8=;2Y5EGbhCymyHHCJnxz895Q=="

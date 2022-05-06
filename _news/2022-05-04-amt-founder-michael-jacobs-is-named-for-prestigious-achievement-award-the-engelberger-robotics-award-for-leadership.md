@@ -3,25 +3,27 @@ category: news
 title: "AMT Founder Michael Jacobs is Named for Prestigious Achievement Award, the Engelberger Robotics Award for Leadership"
 excerpt: "Engelberger Robotics Award for Leadership ... He was subsequently invited to be one of the first members of A3's Artificial Intelligence Technical Advisory Board, where he serves today. \"Recognition by industry leaders with an award that bears the name ..."
 publishedDateTime: 2022-05-04T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amt-founder-michael-jacobs-is-named-for-prestigious-achievement-award-the-engelberger-robotics-award-for/article_9cd530bd-df91-5cd0-a305-4c335e3c2408.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amt-founder-michael-jacobs-is-named-for-prestigious-achievement-award-the-engelberger-robotics-award-for/article_9cd530bd-df91-5cd0-a305-4c335e3c2408.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/p26994342/amt-founder-michael-jacobs-is-named-for-prestigious-achievement-award-the-engelberger-robotics-awa"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/p26994342/amt-founder-michael-jacobs-is-named-for-prestigious-achievement-award-the-engelberger-robotics-awa"
+ampWebUrl: "https://www.benzinga.com/amp/content/26994342"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26994342"
 type: article
-quality: 31
-heat: 31
+quality: 51
+heat: 61
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -35,6 +37,6 @@ related:
       domain: automationworld.com
     quality: 11
 
-secured: "XxxVmI1I61gPiNCWT63HhGHzNVefe79fJCD7GUydXbhg5BKHXKs96FLjdMCjBPT8ekqNoXAC7AMhLZvxwzBi/4wk1TNhyu3U0r+cDIlIBDB3XbGLjnj2djlus8h1m3ENXG5B3BSm0YRo3mZD8y6iNl4jxQXZftzr3m/xopZviTDswOUEaIvKzhLh17g47JMffOnfSlUoMgCjdszukaYr7DnI/E739/kRJY8Sq1pXj4UxxQKPrmveHXBvjJcOWJosXzKK8ZX3iNNict/sMKBtvN3WfUaWGbYD4hczCVtl8y/lR/r68UPDJmKrRSixXM5OrYNXw2C3J4CEEzx4QiHao+Qv0ie4/UjElc41ofozZxDlfaBdrTbeeHTpgzF4NUjSfgJCbKC56JLrMOGxxDEM1yx4v41oC/D4rNpYgEJdDPFdfFVnSXkiKcrWvldJ2qAROguHFwd1PzuRpxfLlc8WCnhoMvcWktAM8TGu1iJ7Q/gHXZ8SzXeGK3/GL80VECx8mTEI2M9D4u1PTunPNIA4BA==;BCIgqAy73JLHRC7HauGEDQ=="
+secured: "Px0ECVRAC43Gyq0diZbRK0pwFEb+81KewlKubh0rOnoeJmTM0CGo+TpKotw3N6mK59LIjWLLHqOJdR29iRCFt4vlufwdz1B7WgAI729GG0T2+NRfMM8shHYYAS3+GGba7qs3zam5OfjmLvKepWHTvyWHq4K/R3dL6NwmPcdSXWOmxYSuuKd9/QTsTj5K/JKjmIGwuWkbyijHhIUmJQXzEwuv37Glxh2HQwiWCwHai44IYxv1+89i7CVVcZDh/l7lX0a1kMEgtd5nR5zpi1HvaUQMv6rJVVQxzJbDx7D/5QXFI66IjVIwh+u0SnS1W6LmJxFFSGrZj4IwbsrlJMxQoEf2onEtWWWp+rTLF3vRfAc=;r1O50o4WbnES2zfT8b3kHg=="
 ---
 
