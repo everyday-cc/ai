@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "20 People to Know in Health Care: Logan Gatti"
+    excerpt: "What emerging technology will have the biggest impact on the health care industry in the next five years? Artificial intelligence and remote patient monitoring are the most talked about, but I think augmented and virtual reality will also have a substantial impact."
+    publishedDateTime: 2022-05-05T20:22:00Z
+    webUrl: "https://www.bizjournals.com/louisville/news/2022/05/05/20-people-to-know-in-health-care-logan-gatti.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
   - title: "20 People to Know in Health Care: Rhonda Dempsey"
     excerpt: "Rhonda Dempsey, senior vice president, chief nursing officer, Trilogy Health Services Years in current job: less than 1 Years in the health care industry: 34 What emerging technology will have the biggest impact on the health care industry in the next five years?"
     publishedDateTime: 2022-05-05T20:29:00Z

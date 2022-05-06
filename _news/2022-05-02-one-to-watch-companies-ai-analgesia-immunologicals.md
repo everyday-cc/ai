@@ -26,7 +26,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 49
+    quality: 51
   - title: "Using AI to analyze large amounts of biological data"
     excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) — previously used to analyze how National Basketball Association (NBA) players move their bodies — to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
     publishedDateTime: 2022-05-05T16:54:00Z

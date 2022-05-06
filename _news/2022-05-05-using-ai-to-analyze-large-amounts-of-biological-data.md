@@ -34,7 +34,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 49
+    quality: 51
   - title: "One to Watch Companies - AI, Analgesia, Immunologicals"
     excerpt: "One company, Labstep, aims to help scientists achieve this. Japanese AI specialist Elix is to commence work on a joint research project with Shionogi, leveraging its Elix Synthesize platform. PhoreMost, a UK-based biopharma dedicated to developing drugs ..."
     publishedDateTime: 2022-05-02T09:57:00Z

@@ -2,25 +2,25 @@
 category: news
 title: "Eightfold AI and Deloitte Alliance Accelerates Skills-Based Talent Transformations"
 excerpt: "Eightfold AI, the leader in AI-powered talent intelligence, today announced an alliance with Deloitte to build a foundation for organizations to address critical workforce needs and become future ready."
-publishedDateTime: 2022-05-05T21:41:00Z
-originalUrl: "https://kdvr.com/business/press-releases/cision/20220505SF48563/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/"
-webUrl: "https://kdvr.com/business/press-releases/cision/20220505SF48563/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/"
+publishedDateTime: 2022-05-05T22:01:00Z
+originalUrl: "https://wreg.com/business/press-releases/cision/20220505SF48563/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/"
+webUrl: "https://wreg.com/business/press-releases/cision/20220505SF48563/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: WREG
+  domain: wreg.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/05/GettyImages-1054355648.jpg?w=2000&#038;ssl=1"
-    width: 2000
-    height: 1389
+  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
+    width: 800
+    height: 268
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "bZzFAduxn36a1Nf+a0Lw7aR0iaZ0uSfQUqZnIGfdkEDZDJVCNmNgcVx91DhyrclisKz1k/JWutFrMSrab9f1SEPMfpFNXr6+Nno68YOlcWeyEU0f8tVFzO05bvOED8cIKzsizFKmkmCgnjxL5xXPh+lgRqtcZ1sO7FLtDAWqGIWvWhreq16QObFJTgVwumDwmTd7phvEcgv7AbaavAtqX1n4wt/fGMfuSiDqxHWAipQGVDnlNj3LCV4IsdE1goFps6kt6VIXGlK3CYqvFeXRvWEU5aKSjSwgnYKWZQxTFbguFYPP/2ycAsTYPsljLMcWcIgZTu7A2rfUk/DaKOV/iZM4XWdpSKNOb/+idF7sqpM=;TAePw825zwUJn7W1aK4slA=="
+secured: "z18jzsOcLRtWNVXzAK7iMDlkDhdggxFEzhzb8Mz8NVcSZB9I1i4EC3HxN8uHT2Ex79hJEtsjp/891VNKudhkhujc+mLpkLMtcWhmLshI+8knhC6I0YhqyQX99j/QMjEq+YWF6NQYGDlUkffyg0m7GIq8HHScu6c6g2YXKDyvSt9uqXlrqdudnMjp0EUN1FBzAs5HIC/pFcU3/tATwcJY3M5yLf6W94L08qHsFxLX8vFxi5jJU0Aybt1HWfN/LT2RzK9FdafP0Q/VCa9cTVo6T+VaWfuUC1/iJFLWMnvwL/ItfGMLRRJdbliytYYyeT0+SEZqIZ1PiUdnlmNtToZ8JTQTrdAEGN2np5svgUwAi4c=;oWefmwPfLf0Fo5soKTqJRw=="
 ---
 

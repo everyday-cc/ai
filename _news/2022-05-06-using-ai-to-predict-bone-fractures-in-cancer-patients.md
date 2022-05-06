@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-pati
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI to predict how cancer may affect the probability of spinal fractures"
+    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
+    publishedDateTime: 2022-05-05T23:21:00Z
+    webUrl: "https://www.news-medical.net/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 54
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "The impact of using AI in the boardroom"
     excerpt: "In applying the term artificial intelligence (AI ... One of the main problems brought by self-driving corporations or self-driving subsidiaries as an intermediate entity for replacing human-centred boards is the accountable issues and possibilities ..."
     publishedDateTime: 2022-05-04T08:57:00Z

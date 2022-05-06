@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create-3d-animations-secures-11m/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

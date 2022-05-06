@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\""
-    excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented ..."
-    publishedDateTime: 2022-05-04T14:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi-1031420590"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
     excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
     publishedDateTime: 2022-05-02T12:02:00Z
@@ -47,15 +38,34 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "SOLOMON 3D Introduces Robust Vision Solution “META-aivi”"
-    excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that"
-    publishedDateTime: 2022-05-05T12:45:00Z
-    webUrl: "https://enterprisetalk.com/news/solomon-3d-introduces-robust-vision-solution-meta-aivi/"
+  - title: "Motion Gestures using AI to enhance camera-based gesture recognition technology"
+    excerpt: "Chris Paine, Motion Gestures' global director of business development, said the founders have backgrounds in utilizing AI and ML in natural language understanding ... It wants to embed its software in semiconductor chips and/or integrate with optical ..."
+    publishedDateTime: 2022-05-03T06:37:00Z
+    webUrl: "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 19
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220503vl202_files/5_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\""
+    excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and ..."
+    publishedDateTime: 2022-05-04T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/article_f3f28fea-a6a2-5e25-8353-959e2bf6fe83.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e389e90d-ab45-5927-a874-22dec71a4aca/627287c5ee1c5.image.jpg?crop=1085%2C570%2C0%2C20&resize=1085%2C570&order=crop%2Cresize"
+        width: 1085
+        height: 570
+        isCached: true
 
 secured: "glzR+C2u6vb5xQ6K10MEAlqRigAYzk/I9QaJd3OmWff79X/PL6KRY9LOEbvEaEHe7yqjaWZdP8q9GeXHDgy/D0cEr6ncXXBOayLi5WZc61dWZHGPAL2/7LvyN1tqA/qS57njg3cgSy8r9iaaB4B9/0L/i5yVEuKWmnrTxu0revR/YxqVXZvkZATFGEEWRphH6U7UrqfEaFxpiAGaFyqiK2XSJIbiOcMnU9rYZGr/9qIASvghGv8vZjzO0fpZHX6uwNUKrfEHgPNduMk5nuuuVS0YuD47nU4sgTTGtsqMsEVT1b/KyBO+JyHVs3WYfAEGsiw+Hie5rx+tPKDIi6z7aWy2QGKquIXCnSTxlMBpofgWHjiQEWTcPC4E2JPaXGMyQtSrgidjjyxqU2vaaYlDKr8ceZjEaf37jBD2376up3BwuhH24PoV9ywUiFIDT/kTl38eBqjrReSAzEwnCzJ26T53QSqoHaC0SgPSOLdV+9HMsuIZIGKmh7aqHMamaw9lHD6xnn7R60LsSwtJjBY2OA==;5aB9cnDp7fb95yi+Vz/KrA=="
 ---

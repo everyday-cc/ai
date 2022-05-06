@@ -29,17 +29,17 @@ images:
 related:
   - title: "Eightfold AI and Deloitte Alliance Accelerates Skills-Based Talent Transformations"
     excerpt: "Eightfold AI, the leader in AI-powered talent intelligence, today announced an alliance with Deloitte to build a foundation for organizations to address critical workforce needs and become future ready."
-    publishedDateTime: 2022-05-05T21:41:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220505SF48563/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/"
+    publishedDateTime: 2022-05-05T22:01:00Z
+    webUrl: "https://wreg.com/business/press-releases/cision/20220505SF48563/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/"
     type: article
     provider:
-      name: FOX31 Denver
-      domain: kdvr.com
+      name: WREG
+      domain: wreg.com
     quality: 31
     images:
-      - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/05/GettyImages-1054355648.jpg?w=2000&#038;ssl=1"
-        width: 2000
-        height: 1389
+      - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
+        width: 800
+        height: 268
         isCached: true
 
 secured: "TM5nAxdEQVPLsKCRjdfHtV7yMIVzHkhR0FjSrVtkzBOYoR/kyUHWsYAHl1YCpc/0qdenicdySljYyEW3LTxUeApXAxq6Bm9PCULPJ/4PNt4bYuxUo9gJgRE/stA4YZNH6NFuZpyKwucyWIGSjVRsKln6wgecIDGacXY2qxqvP6UV/2cVoQvX+eE24X+qekGKijg8bMN29aSmrwSsAgSBJmm/29+iElaIXy1tnJhXxn/ujDWFcdslTJeBTdDDBgGYSiK5zz6muP0zNAmXVWBMSBPqHI6rVG0mx6MJjtvXVjIRynollZfWohVm0VXhqKagQwzcmfCCVGbm97kuOXJtjub1/Yk42QgxHlB3wsA57eI=;vNEQBxhDNfqo+fQHYT6ceA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
 type: article
 quality: 61
-heat: 82
+heat: 81
 published: true
 
 provider:

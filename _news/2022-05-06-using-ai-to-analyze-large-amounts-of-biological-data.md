@@ -6,9 +6,9 @@ publishedDateTime: 2022-05-05T21:23:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 51
+heat: 71
+published: true
 
 provider:
   name: Science Daily
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Using AI to analyze large amounts of biological data"

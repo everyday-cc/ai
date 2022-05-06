@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Cardinality.ai Expands Executive Leadership Team with addition of New Chief Growth Officer & Chief Administrative Officer"
-excerpt: "Peter Allen & Anna Harper join Cardinality executive leadership team to accelerate growth and deliver highest level of customer satisfaction. GAITHERSBURG, Md., May 5, 2022 /PRNew"
-publishedDateTime: 2022-05-05T21:07:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220505DC46673/cardinality-ai-expands-executive-leadership-team-with-addition-of-new-chief-growth-officer-chief-administrative-officer/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220505DC46673/cardinality-ai-expands-executive-leadership-team-with-addition-of-new-chief-growth-officer-chief-administrative-officer/"
+excerpt: "May 5, 2022 /PRNewswire/ -- Cardinality.ai, a data technology company helping government agencies achieve better outcomes through data-driven automation, artificial intelligence (AI), and built-for-purpose solutions, announced that Peter Allen and Anna ..."
+publishedDateTime: 2022-05-05T18:08:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-81624fb836595100c1c0f3e88c12c282"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-81624fb836595100c1c0f3e88c12c282"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "wClql8hZ1Gv3ronI9D4ZbEjmYSwsZMtIWx0i20clmNHNRWcUUFEn1wnmmaEYshHs3gafHn0gZH58KU0615WOv4BmsNhN9wKI5Q870hL3JWvT7dp8P+WI1MxJHxO2LnOH3X+OypdzAfTL0UnEU+gVQoa96I9WuCTMY99ki0FDFY4ejS3gcDuZUDgho+shB0/8HfTd0GVhpfohs5g89Z6rWRzBFJr7/O7YbQTVAuwnYdgQ1Ih2eRWRmIB2YDrOugE5IquYDBE/r0iv0qfBX4n/dZ0Bi/YLYLl4z1Bnm91YnrHALdZ6bBDTI1Xo5L4iN0wM5NhkYCDdDwt1ULEvZzLPGvQuIh4Y1As8NxbDczVPT9E=;wtAzJXd7YF0jJacG0wXnLQ=="
+secured: "ees8k+10HedlC5cxMyN3Wew2jwXFPueUX4n3OUCwu6a8eJ89TKtGFMinth4qGcAzLIgR0O41MLjAp/uPGOf8g7Qo3TlgEfgHwM+gNba1bihmyeGkjfHnepRbX4kVP2d/3e2n5Xl1VA5yLAc1jN/8SOlQJCxdeUgeZzRydU/S3EALQSJ1l0T48wOKdMsoQIi6PSq5krPuw8v/RmmebCm0fjJReQB8xDOVOV4eTG43WVYH3u8nxYXdbnulwJwZv1wnTZ9Otq7U4XFa1BLz+hLgGGw9+SkiCT8IBq0Bg88FpKsHDR5hif7I5nKSBV0/7wE+kY1IY0B8cE7bEYMxFQ28on1k0enwK0bovEgAMAPo0/4=;nt44bcS7zv8EHEaL1y8QhA=="
 ---
 

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
+    excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
+    publishedDateTime: 2022-05-05T23:44:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+        width: 400
+        height: 205
+        isCached: true
   - title: "NTT And Grok Team Up To Transform The Network With Artificial Intelligence-Designed, Data-Driven Operations"
     excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations   S"
     publishedDateTime: 2022-05-05T11:03:00Z

@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 1920
         isCached: true
+  - title: "Using AI to predict how cancer may affect the probability of spinal fractures"
+    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
+    publishedDateTime: 2022-05-05T23:21:00Z
+    webUrl: "https://www.news-medical.net/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 54
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "WJ87d7snQwrzJz7+5MDK7EUHIJUJ5RQB6HytXCuZ0IZH6xrF49ZZciahJ06FVs1eZ7+H8SX6A3W2e4Yydh0/SjXUNilApwwsbrfYHcEK8MlUAA6XVHylCmShQHo/TibaO5t+UyTGgq6CoN8vrsalcdCjfPIrw5ok9RJ5Ga53T5JdmjVIRqitEbTcUsora4uaLZoN9IWWCJ38guzFtpIvVqfDWnlgdBag1V51mevnlxrGLzEwX7LF1Um7ZLK9wp/2UVpwJpF17EMSFlM1Mp3Dobt7iSutsA+wLsImqDUGZNJ8UUK+V92dIR2s4EVMwuJuJWb+h2qnKhmXx88feBA9N/bNkBFZXSD73gJeqbOeEhE=;WzF6WiqXzD31sUG6+izQEg=="
 ---
