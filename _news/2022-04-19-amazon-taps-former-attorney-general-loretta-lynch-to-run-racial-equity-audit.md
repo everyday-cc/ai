@@ -5,8 +5,6 @@ excerpt: "related to harassment and discrimination And an independent study of R
 publishedDateTime: 2022-04-19T16:51:00Z
 originalUrl: "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/"
 webUrl: "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/"
-ampWebUrl: "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/?amp=1"
 type: article
 
 provider:
@@ -17,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "ljnUc9xeSmM02kFYJWbghKlTVk6XyL8ovWLhXpXanKocjPhsDhr+ZgsV26uQ2qu24tNBUKbhcpmKJKWbfI5RWVlc2lDbz5j2quwkZzrv5z12aTj1BAiVXLXBCGeAwC3Vgz4aTfaz5G4eb4nlu8cQ98XmEd2S6fyGZE6033JtN7EPY12Y52+ydHvUW+dY6VbcUzG/ffJP/4YnE4HR4zQ3ikpsc5xUWDbH2QJeH6E4RFI43cWckf9ZsfFBpcNyh8LRj/iAXgNb5xC/30Iz0HL0dCht8ATxAaCzKzVBvNRix6XavbATEbPE7zUsRhbCxewbuIcSNhuyLozpW0cv+taOmOk0hkzCCgOkuk0eh2PdR4g=;Udu9JYuxBDZeDfrEn0qOyg=="
+secured: "zUSo/XvvYNsRsQh9U4XaXRJbfB9lqy3+ml1HMSfjtSqnM4A+kmF/WF3JtpzUYYqLsvYDTsJeEhWWrmdnB2CPFMg5AkBB0JzfXQaF7yrQ6cHKGiBTjAUyYlaHansMQ26jHOfbDC5D0SY6KZo3al2czSdZjCn73bpKqkYK6n59U70ijUW0uiPee9yEFw1+Xlo4CSzoFWUzBLGpHnOAc3hmj9+MnI3+YuVyzonBGB/+97llb+cZVWxFdL8kKwbz7CH8cSUe8fEo83Ogs4JmjjW+GS1uHXuwYo4l52KQ6Raj/d13ufSagalZcBePo+ae345VxIwWKaYa9+WowafZJmz86jMsY6kuvY4OLjL8vC0ZOSc=;9jVp8FOOk8fjaU01w8OQ5A=="
 ---
 

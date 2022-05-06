@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/151736a6e2eb8d12cc67e3bed8e4ef2d99f0efcc-600x337.jpg"
