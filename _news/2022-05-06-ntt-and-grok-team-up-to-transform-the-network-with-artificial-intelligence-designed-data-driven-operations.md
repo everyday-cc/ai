@@ -25,32 +25,18 @@ images:
 
 related:
   - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-    excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
-    publishedDateTime: 2022-05-05T23:44:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
+    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has"
+    publishedDateTime: 2022-05-05T21:44:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/article_a96b96d0-db29-5133-9bf7-187e3639c1c5.html"
     type: article
     provider:
-      name: FOX31 Denver
-      domain: kdvr.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 26
     images:
-      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
-        width: 400
-        height: 205
-        isCached: true
-  - title: "NTT And Grok Team Up To Transform The Network With Artificial Intelligence-Designed, Data-Driven Operations"
-    excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations   S"
-    publishedDateTime: 2022-05-05T11:03:00Z
-    webUrl: "https://menafn.com/1104161299/NTT-And-Grok-Team-Up-To-Transform-The-Network-With-Artificial-Intelligence-Designed-Data-Driven-Operations"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?648472"
-        width: 375
-        height: 250
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "Cfs+nHgDJALbkoH2KL6h4uTdZwu7Fw9y7PSLM7/da4N3kgMAX7h97YNQ1pkiWfUhXeyFExZhJAFH8Vu82v6O6lsDz1oWtkppHwh8NFG7kiPAvirBElcmIlNCQhDSDywRSnn9A6FrNmLfJq5BaOOnn31vDFSNchuXJnRSiOf/V/rQsvxGnKlzq+RjJT0zlXXWCdcadw0EMCO/X/pU3Yqh7NQmaIY3EmKgpdVg/kGVVrvpCijtrV2vPMkw540EH8kna1w7av3W2tcfxMCrlmxDjF2fU4arZ9GQVmP7mmLMdA3JZ+cfIUECT9o/Moug2fjNE3cP9JnUvuC1u8M4U+MABM3Ww0IeY29gdY6bPwEFlHc=;88EEe6dzGvHlQmvuCSDlGQ=="

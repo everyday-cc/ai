@@ -1,43 +1,29 @@
 ---
 category: news
 title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
-publishedDateTime: 2022-05-05T23:44:00Z
-originalUrl: "https://kdvr.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
-webUrl: "https://kdvr.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
+excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has"
+publishedDateTime: 2022-05-05T21:44:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/article_a96b96d0-db29-5133-9bf7-187e3639c1c5.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/article_a96b96d0-db29-5133-9bf7-187e3639c1c5.html"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
-    width: 400
-    height: 205
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
-  - title: "NTT And Grok Team Up To Transform The Network With Artificial Intelligence-Designed, Data-Driven Operations"
-    excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations   S"
-    publishedDateTime: 2022-05-05T11:03:00Z
-    webUrl: "https://menafn.com/1104161299/NTT-And-Grok-Team-Up-To-Transform-The-Network-With-Artificial-Intelligence-Designed-Data-Driven-Operations"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?648472"
-        width: 375
-        height: 250
-        isCached: true
   - title: "NTT and Grok team up to transform the network with Artificial Intelligence-designed, data-driven operations"
     excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations Supporting demanding"
     publishedDateTime: 2022-05-05T21:40:00Z
@@ -53,6 +39,6 @@ related:
         height: 337
         isCached: true
 
-secured: "es1SAc97i4+LXeM+6W7xZppkfNe1pIOEkKHqSMHHviX3/ofye1KA30l5qBtzGkyaOexRuAqr87WHAMJLgpJt9FXoinj6IwEEAAu6oPlW64x2EuAhsW4U2hLRS5qahVTdvITx6riP+pXfRrKdnoHOvcaSflspJSIc3VPxsaAHPdOmu2tvgOdro9T+EQOm6auapFOmIu5xBtpcsIGhDaehgV6qnSbgHzOfaPsOobPiSOBc0IGN1j3/WKkh5ulPYb456RxDJyMmMRnqtEluTqN+8MdXB+7LEWKQ9wpKhQd5zEmujtH99WB/5gY5s6AfqOogfQtTf9gq8TL4fttRhuuNzLGdchqSQHCplCdIwbzQZk4=;CsbRNTqNNIwiqOd4p4zd9w=="
+secured: "mqA7jpGcuUYNEG9F+pAV/39Lf9Q++gB6S6ZC59r+uosYWURphijf6qDnZXZ3l7VghxoY/qa4RuMrnd3TcA8gmoCK9sXlHXDUlAcN5HdJOEl/Mjk8bhB7/lsdQHh7OQ04nlC40i4hqZ5JoUQnHRs5Agxs28MS0mou4kvGoHtLhY5AfWxB8QljxFQF8+2v9Iq5/cXqKxkivSxxxhqTa3cJELY6gVmFL/qckNViRs0Qm8U/4YU1FhU6jEvQsJJul7xPErIbaBkUvdN6Hvq+ol3Zt0Ere5RWjj+me8gwPpRxGNW6V7Ud/8NR7ri+1FxVNAlnRa+ojD6d7yaKVNrtQ+FTS5oLHQUDt5EfueehtQ+U1vg=;rN8zmvaZ4a7nYUPaa7bxrA=="
 ---
 

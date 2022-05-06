@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "5 Best American Stocks To Buy in 2022"
+    excerpt: "With a diverse interest in cloud computing, digital streaming, and artificial intelligence, Amazon.com ... Squali adds that strong growth in AWS and Advertising, as well as the prospects for inflationary pressure, keep him positive on the stock."
+    publishedDateTime: 2022-05-04T13:17:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-american-stocks-to-buy-in-2022-1040552/5/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 24
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/01/09112221/Apple-Inc-man-passing-an-apple-store-1237103.jpg"
+        width: 800
+        height: 1200
+        isCached: true
   - title: "Toyota to use innovative AI technology to boost factory efficiency"
     excerpt: "They will also notify the worker in real time when they've completed the task correctly. The system, developed by Invisible AI — a startup with 17 full-time employees — will be deployed first at Toyota's massive assembly plant in Princeton, Ind.,"
     publishedDateTime: 2022-05-04T17:46:00Z

@@ -22,31 +22,52 @@ topics:
   - AI
 
 related:
-  - title: "Believe it or not, AI can help brands connect with customers in an empathetic way"
-    excerpt: "Developments in artificial intelligence (AI) to help brands recognize opportunities to respond in an empathetic way are on the rise. Understanding the customer mindset really starts with brands ..."
-    publishedDateTime: 2022-05-01T08:00:00Z
-    webUrl: "https://thenextweb.com/news/ai-can-help-brands-connect-with-customers-empathetic-way"
+  - title: "Using AI to predict bone fractures in cancer patients"
+    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
+    publishedDateTime: 2022-05-05T17:30:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 62
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fimage-20.jpeg&signature=fdb6b8bdad7a3fe3ea7ffb4d5bfd6f3d"
-        width: 741
-        height: 371
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/bonefracture.jpg"
+        width: 1440
+        height: 1920
         isCached: true
-  - title: "How Artificial Intelligence Can Help Fight Fires in the West"
-    excerpt: "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, Colo., is tapping decades of experience of managing satellites, exploring ..."
-    publishedDateTime: 2022-05-03T20:54:00Z
-    webUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west"
-    ampWebUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
+  - title: "Using AI to predict how cancer may affect the probability of spinal fractures"
+    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
+    publishedDateTime: 2022-05-05T23:21:00Z
+    webUrl: "https://www.news-medical.net/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 37
+      name: News Medical
+      domain: news-medical.net
+    quality: 54
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "The impact of using AI in the boardroom"
+    excerpt: "In applying the term artificial intelligence (AI ... One of the main problems brought by self-driving corporations or self-driving subsidiaries as an intermediate entity for replacing human-centred boards is the accountable issues and possibilities ..."
+    publishedDateTime: 2022-05-04T08:57:00Z
+    webUrl: "https://www.lawcareers.net/Explore/LCNSays/The-impact-of-using-AI-in-the-boardroom"
+    type: article
+    provider:
+      name: LawCareers.Net
+      domain: lawcareers.net
+    quality: 39
+    images:
+      - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
+        width: 439
+        height: 614
+        isCached: true
 
 secured: "nbnnn8VgQCiagGJRPbqDqXOfPKB91CJ6267aW1YMltFQJDd4ejMLaqexiutB10sUZIsyplqoEa3GmNotBET+fpPE/BK4xaGDI9I0ErQIeve3kf3L8C1xu+FmEuQQApj2s6UKhP+L5G1qPwMqcSIbmjBPpVp4f+V7lTEGBI68JFFmLp+V7H34jMpVFOY5IqQWMhyeHQwvbSqn/J+ALCnTf1Qvo6yjO9GglLr6GiPJU1G3v1c7tyuXn9e7fTIeo1E5VBPedIyC9uP34UhSJttNLT2e0dQ51MI0x7KXo1cTIcQL1t3PsKiVsBNccgjnTeMdbXldffhtnEUqKgWK9iT7UoaTwLt6EjXXwqLK7TvZwj+hVSdiFXUPYxO0TEtK7keGZffYOAVQEb7p+ddUdVqwApp//2sZZOf0ZgmH+fLvhrb3t2Df6V1k3/MyajmSJ9P0A1Xrj7awgHN1KbsoHOPxfwcRarfj/WVr06I6s/s3Gzin/HwqYDq7UqPqjZD7CoigjvkTU/yseTjhQphnUbcnfw==;K+CxMXwp3CsUZ973eCiquQ=="
 ---

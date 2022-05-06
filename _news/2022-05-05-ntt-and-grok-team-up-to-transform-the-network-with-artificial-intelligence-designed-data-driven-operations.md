@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104161299/NTT-And-Grok-Team-Up-To-Transform-Th
 webUrl: "https://menafn.com/1104161299/NTT-And-Grok-Team-Up-To-Transform-The-Network-With-Artificial-Intelligence-Designed-Data-Driven-Operations"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 375
     height: 250
     isCached: true
-
-related:
-  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-    excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
-    publishedDateTime: 2022-05-05T23:44:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
-        width: 400
-        height: 205
-        isCached: true
-  - title: "NTT and Grok team up to transform the network with Artificial Intelligence-designed, data-driven operations"
-    excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations Supporting demanding"
-    publishedDateTime: 2022-05-05T21:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ntt-and-grok-team-up-to-transform-the-network-with-artificial-intelligence-designed-data-driven-operations"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "vjPMbQ7pizSPR23/ED119Wr8l5SGvMWPHYP3fgC9mfV24sgmXQWjVllU5NklNSAgsL1M0DJZ8coJXVhxVbV0oR1lkpie9hJvpyuiglxNEByOkkhujWE5uo5+qmZjOVEnUcDdQU7hvodMBxRFvWykRXb1S2tiEdYJQlQsYjcDa7vJlNTBtOApP8vQ48oKl8t+LGOunsZhEnAx0O4IxvD+UI2CPLhki8Sal9P81eHR3oPx9A7yuVLFdhKqxNDcO7nJ2Hry37kkCQpXpr4vNbsTdMdaomwX7KPGAWs5OC+A1qUaIsj3p4Ffg6HlNtJYRCPQsxBo7tsJFHQlI3dLqzVUp8jHr9MosoPkn9CMNK1lR1Y=;bof0xV0ofZfvahP+fMmUMA=="
 ---

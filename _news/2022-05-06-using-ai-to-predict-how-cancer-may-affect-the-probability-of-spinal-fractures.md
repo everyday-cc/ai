@@ -42,6 +42,15 @@ related:
         width: 1440
         height: 1920
         isCached: true
+  - title: "Southwest Airlines is using AI to help attract and retain its customers"
+    excerpt: "CEO Bob Jordan says AI is important \"not because it's hot\" but because \"it can have a business impact.\""
+    publishedDateTime: 2022-05-05T13:32:00Z
+    webUrl: "https://fortune.com/videos/watch/Southwest-Airlines-is-using-AI-to-help-attract-and-retain-its-customers/2e618eb2-0f9e-44de-9ef8-6f74a547bacd"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 47
   - title: "The impact of using AI in the boardroom"
     excerpt: "In applying the term artificial intelligence (AI ... One of the main problems brought by self-driving corporations or self-driving subsidiaries as an intermediate entity for replacing human-centred boards is the accountable issues and possibilities ..."
     publishedDateTime: 2022-05-04T08:57:00Z
@@ -57,6 +66,6 @@ related:
         height: 614
         isCached: true
 
-secured: "TSsq5q7UeUriH1mYL1aHcVT2aVA1ogUmcstEwQOI/IxFRTacUwhqBPtEpfSj5HamHL5PTpHOqjMD4NE5blVYqq/YizAwG4DcpNXhFDLPsHN147d5vNYIW6SsPkE/JwtQkZSCyACFvNuo6U5Clsj1rsu89qmr2zFYatAh0t3oL/cAnqXREK5Pogg4y+/1nb2XAbrbKvhxb4aOdPKusmEJXzDyaYHJUlt3FhAq1/Gh4X8+MDiWfHN2LhZkqK3z11POl4QZaFjlfKPhiMT6PeX8eMUrkE9Ib3wOvpqlwL9YOWgdXmKgpMHk7yNQdN7PiWdMxNV90x+ZY5o5hY5zysGIx175WaEYmgUF1cA+XjhhYik=;o3pUM809zI1yI0FXI2ZPqg=="
+secured: "chcEool0y9ha/UtzakdANJEtXiagmuTxN7Qwd0v/6CrNXzR5KAdYwtd3bD7t9vp83SAPapXyMNy0CV9rDlt9cfTXxzj+J+GBgL9CdVd90tU6RIwGFEXbgPBwbNkcsitMEXPeuTXe2AIYC+naypffKd/Dt1Mx6X4p+mSHKxq2rdycVBqcjnM+FiZAvTiSB406PrVV/NtdVNymagFAdXX9qQ9gpHhrEx/bSJovs+xFNzmqJKFlPK5Ir5X2/col81Q0RBbCUydDYy55OPHVW5GFlzcQkInnb2t37gXSYsaZhloH0dec3CxlFPoexdjhlLNKDaaobBhuGggoJRmBvfH2UD45eG9ywV/Jnd/wa4+348sWaHCqVNJ3ro3e1hf9moOeOOv1xCJEp5r+6tT6usaNXl09L1p61rnNrGTN/9ZKSF6ZR0t61o5/euS9sdffXMKJtaUW7EXUdd81dzGRLf3qLXJucpSIB37WRjyRJBabXinGVHonpqnfYkHiHXI98aopkHMuKZ6jiXw100UVzkYGYg==;iYGWqxIReWgjiwsKdLCYOw=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How does AI help improve hearing aid technology?"
-    excerpt: "Hearing loss research has seen significant advancements from the use of artificial intelligence (AI). AI is a system that uses data to recognize patterns, which can then be applied to solve problems."
-    publishedDateTime: 2022-05-01T07:06:00Z
-    webUrl: "https://vancouversun.com/sponsored/news-sponsored/how-does-ai-help-improve-hearing-aid-technology"
-    type: article
-    provider:
-      name: The Vancouver Sun
-      domain: vancouversun.com
-    quality: 37
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2022/04/1-3.jpg"
-        width: 1000
-        height: 750
-        isCached: true
 
 secured: "sJt/SIC9AJLVgheJiEZOp2HCy9QcJiWCU5f9drblGHceFJmXUiv23BSJ0S8CtCrFaHrXAN3YBn5zMYrVGnQHLoNScG2/jqeknEIvC2yd8n1aFs+ULpcztpZQvsRAUJFw1zNI/Y2L37MkV8jyxz30k3cyPw4/FPICxqUDxdC+vzw+/5tj+OoMyc5RQ1XOpf9iTxdkWW4s0Kb9dN7L78RUPhqRAbRVOMpcL45r5sx/L1sib2/uWU0/ll6eiBDw8NXCR8mA0/Hh9rKxDXlGP7SSzx5/QfNXRVMQxPOw5R1PSmtfgqA++cK7gM4IiEPC3Z25ek28pP9E2za0A+vfW9k91QqIU6lUpaaMvHaYkxb+uddRogH4RvA/M1twPp510+SVP5OrvpS25t8Hgi7IFtiNHAS5L4hkCSJFwnkDO93dprR+SZEow+eRI8vIkNbqK7XDhOsnFM8ACgn0BuLJOuWoWrxdcx7Ol33OAB7KAxN3M8sgNGO/fmR1L1d6gVlJYPJVoL99NWU0CjONlON9zqyXzw==;BZ0wovEVpavOMchWhZJgaA=="
 ---
