@@ -3,8 +3,8 @@ category: news
 title: "How can Saudi Arabia unleash national success in fintech?"
 excerpt: "Abdullah Al Othman is the founder and chairman of Geidea, a Saudi Arabia-based fintech specialised in payments. It works with over"
 publishedDateTime: 2022-04-28T01:01:00Z
-originalUrl: "https://www.wamda.com/ar/2022/04/saudi-arabia-unleash-national-success-fintech"
-webUrl: "https://www.wamda.com/ar/2022/04/saudi-arabia-unleash-national-success-fintech"
+originalUrl: "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech"
+webUrl: "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://cdn.wamda.com/feature-images/e6f54b2845e1e60.png"
-    width: 900
-    height: 500
-    isCached: true
-
-secured: "cMqRFKgcjxqO7LQfAOPLLKSOLULLndMhf8X1cIX3r3kJIBbq7RvXZdN5Qhj5yHv6v+xvHgXqOl68it255RB9/oH4rdhefuOt+0QkIPeliBfSpeghOO7rfOoSG2qJNUrkdlTJ+rtyPi8MJ5E44188SK5eDkZLdetDtRI9VZ3B9TjNtKQi+7E3H3d+auPz+o9uTBjtCErji+zKzbiBYOBA1vW7IZPLTm4Qgv8asfpe9rRRUs/Gln0eiS0tiBrJPU7CcR/BjtrlucQQGQamDRTu7YRAtvrEb0RMDm5gQSIG6WeCKlCDiPc+07yeOLR7mYTA+ItVDH3qIOScMXeCUEpyijRyxW32A0nRuZ4SIMrgu/CSzDjWkMboRh5t6b+naPjWn8IhzT/LEAQG4ia90+kAqst3eGvvrR4M2VFZX94Qq+Z37YVm4J/JwJWcNvttk6wnYYRC7TN9FeZZdUE0DPn1FWVbIt55/CwM3mItKuUX9ec7Drf3Ic1umyMUyFEmMD6sp8H05kCv2uWS9RmVjrfeDg==;s/1aQ9qSJ1yRFKe5R+351Q=="
+secured: "eiRz8YMOacrl4/WfuZCoFVbH+YOu1lHk4EvyJITeDl7YrLwbA4IS92wKIZo0dTP9oKL0c6t7H1DSNGf2u7vjEYjfh2t4v2KkHGaHq7FCCe+nNa5eE2MVqUBFh1ln8+wy5dxjwAnvuBzaswsNhihzmjkZ++U8V/ug1rO/+5UWIHEk/QOLox2a5Lqf2G4lXMnUhy7KATOgnZu2wp/36vVVKcZCwDRNE4fcsxUbQIuK5tvwMaCALph1IYrkhF8q/ArSF/NfrOSTOsFmYuMhbfKNIyVR4eJzMwCFb1TdQ48bQSHb8vt6l5PDOR62DetzfDEnjvp7hi6TQ734gxeJnEDVdKZglnj+dimpYEValZE18RlA9HO5F7JUrqyA/zH1AUtK9EX2u7HqFfVUZeEpn6nM9a1pNNf4IutiVxOv+An9rvFc2N3E4ki0uncdu2ZL6wck9bfMJ8zaMwZowkRVCmn9OFTqV7NJRxsoA98qvLwiOfBkvQeg7Nd88ZTVDrEOVyojBt8qHpWCqkE227ATXr+emw==;iRmqq23uVW92+chYyAgZ3g=="
 ---
 
