@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-604864142.jpg?w=1024"

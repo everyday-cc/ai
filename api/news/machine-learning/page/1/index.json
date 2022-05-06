@@ -151,7 +151,7 @@
       "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/05/04/quality-data-inputs-essential-for-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -191,7 +191,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -725,7 +726,8 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Google AI"
       ]
     },
     {

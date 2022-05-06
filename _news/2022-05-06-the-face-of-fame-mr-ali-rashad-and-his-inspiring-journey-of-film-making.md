@@ -1,29 +1,31 @@
 ---
 category: news
 title: "The Face of Fame, Mr. Ali Rashad, and His Inspiring Journey of Film Making"
-excerpt: "A young and creative filmmaker who is passionate about directing and producing inspiring movies. Ali Rashad is an ingenious film director and producer"
-publishedDateTime: 2022-05-06T01:15:00Z
-originalUrl: "https://www.digitaljournal.com/pr/the-face-of-fame-mr-ali-rashad-and-his-inspiring-journey-of-film-making"
-webUrl: "https://www.digitaljournal.com/pr/the-face-of-fame-mr-ali-rashad-and-his-inspiring-journey-of-film-making"
+excerpt: "A young and creative filmmaker who is passionate about directing and producing inspiring movies. Ali Rashad is an ingenious film director and producer having a multi-talented personality who has succe"
+publishedDateTime: 2022-05-06T01:14:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27039915/the-face-of-fame-mr-ali-rashad-and-his-inspiring-journey-of-film-making"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27039915/the-face-of-fame-mr-ali-rashad-and-his-inspiring-journey-of-film-making"
+ampWebUrl: "https://www.benzinga.com/amp/content/27039915"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27039915"
 type: article
-quality: 22
-heat: 22
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.getnews.info/uploads/8a576bf7b8539fa6d0aa5014247af9a2.jpg"
-    width: 321
-    height: 480
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "/brrGQXN9qCxPvB3PIL3M0JNFmvxvBDKs0s4+j8gbapY+VddEWj1HtPrlmP3wCC8XOOHQ7/HH/L1lNU0x0svgp4dxBndsbyD9oYgzSPaN9PpJlc+Mz8AqmlCVDjYwlJlq0vAh8XWyksa/s7rDZl3fGzN8NRagmgZY5tF9tTlur57m3S30nmmd/yQsayswSKTPcgzpepRw3TdUib4o3MGWYXB/SnpdlcFjY7l0awfyp78WrW82KtyY2W+8aTG9dqmXuut5Y3PRraR31afJibAhb58oCXHsy/YV5Vm8BdOU29+WE7SG44b6QPF9+HhtcdEmf4aXL1WgC3KizYR/PASJHIp80175xC+ey+XCJz21oY=;0bJhYbblHkuj82J3cIja3g=="
+secured: "OJprCjyUYY2R78NUegJ5sMti9aoW8WWo07mJMVKgLFsFp4blUzgX4ooXRKp7MoN9RnrlDwVHl5GG/vXjrzMbMDPw8o+vlewPBbv/VowlhvOzJjDeqnaH8X0pGDvdP8Tly0SYeaapVmLEc8vC1sRmJcX+uRtbl1+eu9r8oluZdYBPniG9/0kECiNdMwX3cnL26lTo0ZDB3BBXuxFDJoYn2L9AYhPkvbSYTDQVYPuMmcDzgmnnQ4wL4C7z7d/c6aRZgtyTuAQCmSZwl5XJYERkM396qVlGFRWlwvhMsEIqAzsdLcRNXgQEVn4HRfI9xqArso4uzsx2eAsuRozZkDmFxhVbwlFTyYXFuMc8GS1zB7w=;ZV+zzJYp0+uvCT+grdVMig=="
 ---
 

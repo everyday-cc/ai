@@ -2,60 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-04-27-eden-ai-unifies-ml-apis-from-several-cloud-vendors.md",
-      "title": "Eden AI unifies ML APIs from several cloud vendors",
-      "excerpt": "French startup Eden AI has raised a $1.6 million pre-seed round (€1.5 million) to build a programming interface that lets you access AI engines from multiple vendors. The company unifies those APIs and offers a simple way to try them out,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/",
-      "originalUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Eden-AI.jpeg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/eden-ai-unifies-ml-apis-from-several-cloud-vendors/amp/",
-      "publishedDateTime": "2022-04-27T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2022-04-27-eurora-raises-40m-for-its-ai-based-system-to-automate-eu-e-commerce-shipping-compliance.md",
       "title": "Eurora raises $40M for its AI-based system to automate EU e-commerce shipping compliance",
       "excerpt": "The e-commerce market has boomed in the last several years, and with that so has the appetite of tax collectors to do their bidding: make rules that make sure their countries are getting a cut. That’s spelled more red tape and more customs hoops (and costs) for those shipping and receiving",
@@ -586,15 +532,15 @@
       "title": "Space discoveries that will blow your mind",
       "excerpt": "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from",
       "sourceUrl": null,
-      "webUrl": "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/",
-      "originalUrl": "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/",
+      "webUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
+      "originalUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://whnt.com/wp-content/uploads/sites/20/2022/04/super-massive-black-hole.jpg?w=1280",
+          "url": "https://www.wjtv.com/wp-content/uploads/sites/72/2022/04/super-massive-black-hole.jpg?w=1280",
           "width": 971,
           "height": 688,
           "title": null,
@@ -604,13 +550,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/amp/",
-      "cdnAmpWebUrl": "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/amp/",
-      "publishedDateTime": "2022-04-26T12:03:00-07:00",
+      "ampWebUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/amp/",
+      "cdnAmpWebUrl": "https://www-wjtv-com.cdn.ampproject.org/c/s/www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/amp/",
+      "publishedDateTime": "2022-04-26T12:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WHNT",
-        "domain": "whnt.com",
+        "name": "WJTV",
+        "domain": "wjtv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1172,6 +1118,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-adept-aims-to-build-ai-that-can-automate-any-software-process.md",
+      "title": "Adept aims to build AI that can automate any software process",
+      "excerpt": "Adept, founded by a team of accomplished AI researchers and data scientists, aims to build AI systems that can understand and automate any software process.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/26/2304039/",
+      "originalUrl": "https://techcrunch.com/2022/04/26/2304039/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-604864142.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/26/2304039/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/2304039/amp/",
+      "publishedDateTime": "2022-04-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
       ]
     }
   ],

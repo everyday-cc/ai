@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/garydrenik/2022/05/04/quality-data-inputs-
 ampWebUrl: "https://www.forbes.com/sites/garydrenik/2022/05/04/quality-data-inputs-essential-for-machine-learning/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/05/04/quality-data-inputs-essential-for-machine-learning/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62704d396a33e85a57a36439/0x0.jpg?format=jpg&width=1200"

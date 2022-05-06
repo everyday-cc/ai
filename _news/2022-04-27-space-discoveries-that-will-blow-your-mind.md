@@ -2,27 +2,27 @@
 category: news
 title: "Space discoveries that will blow your mind"
 excerpt: "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from"
-publishedDateTime: 2022-04-26T19:03:00Z
-originalUrl: "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/"
-webUrl: "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/"
-ampWebUrl: "https://whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/amp/"
-cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/technology-and-space/space-discoveries-that-will-blow-your-mind/amp/"
+publishedDateTime: 2022-04-26T19:08:00Z
+originalUrl: "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/"
+webUrl: "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/"
+ampWebUrl: "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/amp/"
+cdnAmpWebUrl: "https://www-wjtv-com.cdn.ampproject.org/c/s/www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/amp/"
 type: article
 
 provider:
-  name: WHNT
-  domain: whnt.com
+  name: WJTV
+  domain: wjtv.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://whnt.com/wp-content/uploads/sites/20/2022/04/super-massive-black-hole.jpg?w=1280"
+  - url: "https://www.wjtv.com/wp-content/uploads/sites/72/2022/04/super-massive-black-hole.jpg?w=1280"
     width: 971
     height: 688
     isCached: true
 
-secured: "hLiAuNTTCtwhs+pZF7BJNIBl1NgBVJQP/Vwtx6ZUSl4JgTyRxzE4aHT5eh8TPwmpWWcG3lBnfLsgxnGwmsRPepLLSCwNUnEhT9xsnvQuSig40GTQ/wqKYIQsOSB/bhqGyEfEH2Nom+iRBzVbFNGRNW/kEpwAyaehKBGl8wrpa1/nKT7l2Z/ijDKYjQ8UbIKZ6D1J/QcnnOyMHapdcrr0J0yZodCuhpW9ZOIFPZmGB20URh17R4IRNT2WzBBZx9jtAEaAI8Se3ryhFFnZPQNaW87bfpqmPbuA9QXE2W1lk2lpDW2kJ+mmy4Je3ZuCahmH5TieiE3/6+EjVm/GHQjl910OxcZ6eTq8Y1rikTgXyNcIc6wc0UBsJpPRF+nI51RGfUn1B3T53JJUpyvgPoJPjj8jWmmXgWNSzy3PxQD7sgp+g9j4YsuUeFY27LiU2Hoba4xJLmWh0e6rm2r87bAInwKTgxnwzF3oyXNWjb7gg+yWXCPysWt1zhwGcT/mv1OnMn1i+AbsGVEIA+6UEYTrKg==;pByKIdyv3Zlidr+ZNBvHJA=="
+secured: "Gtgnc/8wtxyHhiNy3/+GWxfKq9oUuQCSQOYyhPgBzMDms1kjAvoFGy7ph7CaIfti1XeOaH75pTC1a3ucLeBqmkoB6AmfsC5kFS1rVEfAZAxnbHWSqI7azQrquYWKNuDNqqoHcmv5QOGJlDVqNeHtThL3oP8MkABtaAxcFE9Nu5UR143VkKzeWZlF1fiv6UNZgiE6Jx9S8Y/AnyvYCwYdQ6zR4zUs7ZbKHtUmrK+N/jXKoAWXwztnhn0txbPBTsS2tisxVhJuY2UhCiKKe9z9GJX/4vJHnyIiW1grGmKjIw6lc7J8VEzQwKWL2awT5Nd1dKUsqmM7b6M1MtaTbRNL/zyWqVYVYSn4iMO19MHSJNE=;CfwmL6ifrjj/u+c2Jh4F6A=="
 ---
 

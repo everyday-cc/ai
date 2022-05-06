@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsweekly.com/news/business/ethically-responsi
 webUrl: "https://www.electronicsweekly.com/news/business/ethically-responsible-actions-ai-2022-05/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/c7331df0-3b32-4343-bfbf8910480303b1/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Emergency-police-Blue-Light-279456027-web-1500px.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "AI security needs early response"
+    excerpt: "Information security strategy should be incorporated in AI models at their early development stages, Hon Hai Research Institute CEO Wei-bin Lee has said."
+    publishedDateTime: 2022-05-06T02:18:00Z
+    webUrl: "https://digitimes.com/news/a20220505PD205/ai.html?chid=11"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220505pd205_files/2_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "AI for the Trades"
     excerpt: "Anmol Bhasin, chief technology officer for ServiceTitan, said he previously worked with AI at Salesforce.com Inc. and Groupon Inc., and his goal is to bring the same types of services that those ..."

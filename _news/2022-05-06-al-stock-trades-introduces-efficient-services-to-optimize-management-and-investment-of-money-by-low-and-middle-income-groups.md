@@ -28,6 +28,20 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
+  - title: "With the goal to democratize financial information, AL STOCK TRADES launches innovative software that offers insights on stock value"
+    excerpt: "CEO of AL STOCK TRADES, Albert Alan Designed BrainMachine a Proprietary Ai Software Utilizing Machine Learning Algorithms in the Stock Market. Financial"
+    publishedDateTime: 2022-05-06T02:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/with-the-goal-to-democratize-financial-information-al-stock-trades-launches-innovative-software-that-offers-insights-on-stock-value"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.abnewswire.com/uploads/45baecd7dc87f9f215b59f6567fd4b16.png"
+        width: 600
+        height: 335
+        isCached: true
 
 secured: "9fSdV8Hg9DOyuC9fm1igAjPRnUyiqWM5yLcXtvdLkRbdJA5ijznNtMaStfLWAFjaJaXVywwF4p9XEv0sphfdFq0B3qqg1NoMzZzWbQ8dvKh3BGT3ChOeNbOJ4VqGqDQXCatVV/mFBJrLZDfjUC61se/3YaBd26lIvud9lpBCkXP5jHCXB12FV7InUCfmLoIO6sYIYeMCAt7D2lzRRY6aaixn46K784oRwm3oLRPngrqNnXaQIM4DBKzc4zWQNAcWfODVEJZHXCDVpUU80+iT/NgvNwDUwb+Zc9xMylQwuSvOQnR92iSRokFSxwA0bFgV6a+1ro0bxo58yeIMi+Z7l/FEfiehrgyJ7bK2TWxcyWZxMyEtXdzGY1r8/gqvtbb09Cxwz6/pfsP7XN1sP3qQPYCVyvv8apdEKXmMYkjlcKmrC1plPgKAt3jGFYTwuHWnxOsaaOdUBJNJJ46jCHbFkEBA4AVLMtoOngjZBO3jTlMCxOyMLLMlfyyueLblE2DyHLdlpg3eHK6nclO7w4LTAg==;p5V809MgieSlkoC0THiWvg=="
 ---

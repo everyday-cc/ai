@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/05/190571-ai-enhanced-smart-in
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190571-ai-enhanced-smart-interviewing-platform-barraiser-finalizes-4-2m-seed-round/amp/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Synthesis AI Bags $17 Million in Series A Funding Round To Extend Its Synthetic Data Platform for Computer Vision AI"
-    excerpt: "Synthesis AI, a pioneer in synthetic data technologies to build advanced computer vision AI models, today announced it has closed $17 million in Series A financing led by new investor 468 Capital, with additional participation from Sorenson Ventures ..."
-    publishedDateTime: 2022-05-01T10:31:00Z
-    webUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/"
-    ampWebUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 51
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Synthesis-AI-Bags-_17-Million-in-Series-A-Funding-Round-To-Extend-Its-Synthetic-Data-Platform-for-Computer-Vision-AI-01.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "News: AI-powered interviewing platform BarRaiser raises $4.2 Mn"
     excerpt: "Bengaluru-based AI-powered smart interviewing platform, BarRaiser has announced raising $4.2 Mn in seed funding round led by 021 Capital and Global Founders Capital with participation from other angel investors. BarRaiser’s AI-powered platform ..."
     publishedDateTime: 2022-05-02T06:05:00Z

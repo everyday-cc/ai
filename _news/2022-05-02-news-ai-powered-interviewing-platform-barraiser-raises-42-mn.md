@@ -40,22 +40,6 @@ related:
         width: 1080
         height: 810
         isCached: true
-  - title: "Synthesis AI Bags $17 Million in Series A Funding Round To Extend Its Synthetic Data Platform for Computer Vision AI"
-    excerpt: "Synthesis AI, a pioneer in synthetic data technologies to build advanced computer vision AI models, today announced it has closed $17 million in Series A financing led by new investor 468 Capital, with additional participation from Sorenson Ventures ..."
-    publishedDateTime: 2022-05-01T10:31:00Z
-    webUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/"
-    ampWebUrl: "https://enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synthesis-ai-bags-17-million-in-series-a-funding-round-to-extend-its-synthetic-data-platform-for-computer-vision-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 51
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Synthesis-AI-Bags-_17-Million-in-Series-A-Funding-Round-To-Extend-Its-Synthetic-Data-Platform-for-Computer-Vision-AI-01.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "HAFuoqX+WP/JRgJSgXcrv0TllpN5Tz1+sjqOti87qyYtvTEGww5sRFXMuBua/NGpTu5a1hxFp6a6I5R6q0d6DPFB9kyQS6LYXM0s/3owVO0PddgVESdOcxSkZuZ7h3CFNa3eBzP2Gv1Ez8wMMFEeEY74gJ6ZcoSvkbPMGyikBBHYSmhqUeu7YR9yGjoDQwSkqsn4sTuZrDV6ucMK8apExBVwONrc/T62UHWxpNhWNcZlSX9dzzpSFCQc+Rj9i1b9wvK7qpBCImjLZvPUhYjgxmZXdETI08DvTdc164JjGm5QLVRhzI5WtsxX1y4EBZITS8w8KqmAssaFHhYSMjw0AvW5bzQKIMDD4Zc9dMqs/B8=;OU3opY0zzaWUkhYnKhaQSw=="
 ---

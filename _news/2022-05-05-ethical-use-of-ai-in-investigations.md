@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 395
         isCached: true
+  - title: "AI security needs early response"
+    excerpt: "Information security strategy should be incorporated in AI models at their early development stages, Hon Hai Research Institute CEO Wei-bin Lee has said."
+    publishedDateTime: 2022-05-06T02:18:00Z
+    webUrl: "https://digitimes.com/news/a20220505PD205/ai.html?chid=11"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220505pd205_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "AI for the Trades"
     excerpt: "Anmol Bhasin, chief technology officer for ServiceTitan, said he previously worked with AI at Salesforce.com Inc. and Groupon Inc., and his goal is to bring the same types of services that those ..."
     publishedDateTime: 2022-05-02T07:05:00Z

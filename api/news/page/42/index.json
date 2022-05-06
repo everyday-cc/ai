@@ -2,57 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2022-03-29-resolving-artificial-intelligences-trust-problem.md",
-      "title": "Resolving Artificial Intelligence’s Trust Problem",
-      "excerpt": "What needs to be done to build greater trust in AI? The challenge is that there is a great deal of pressure to move quickly into AI initiatives, requiring a delicate balancing act of governance that won’t slow things down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/03/29/resolving-artificial-intelligences-trust-problem/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/03/29/resolving-artificial-intelligences-trust-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fe0e38e220093c48951892b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/03/29/resolving-artificial-intelligences-trust-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/03/29/resolving-artificial-intelligences-trust-problem/amp/",
-      "publishedDateTime": "2022-03-28T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-29-artificial-intelligence-beats-eight-world-champions-at-bridge.md",
       "title": "Artificial intelligence beats eight world champions at bridge",
       "excerpt": "Victory marks milestone for AI as bridge requires more human skills than other strategy games An artificial intelligence ... as health and engineering. Self-driving cars negotiating a junction ...",
@@ -1146,6 +1095,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel.md",
+      "title": "Today’s Homebuying Process Is A Fixer-Upper; Let’s Use AI To Remodel",
+      "excerpt": "In the spirit of opening new doors, here are three ways real estate companies can leverage AI to help buyers find and secure their dream homes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623e28836ef7b58a90859094/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 841,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/03/28/todays-homebuying-process-is-a-fixer-upper-lets-use-ai-to-remodel/amp/",
+      "publishedDateTime": "2022-03-28T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
