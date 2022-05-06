@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-may-2-stop-us
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263?amp=1"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1500
     height: 1500
     isCached: true
+
+related:
+  - title: "Nvidia To Pay $5.5M Fine For Failing To Disclose GPU Cryptomining Sales: SEC"
+    excerpt: "as software developers working in AI, self-driving cars, and a broad range of other fields continued to discover the acceleration and money-saving benefits of our GPU computing platforms.” But according to the SEC filing, “Nvidia’s analysts and ..."
+    publishedDateTime: 2022-05-06T20:50:00Z
+    webUrl: "https://www.crn.com/nvidia-to-pay-5-5m-fine-for-failing-to-disclose-gpu-cryptomining-sales-sec"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 68
+    images:
+      - url: "https://www.crn.com/resources/0273-1496144278fe-d4a9359828bf-1000/nvidia-sign-hq-building.jpg"
+        width: 609
+        height: 458
+        isCached: true
 
 secured: "mE5brHCKRwgOavitmRcytjYFJzgxraMbnrlaNWv4L440PcXtsC9+i/MqNVpD0aSBGK2omm5m9kRbOaU/0qvCpq1VG6s64NtEtQWJFTwSFR3P67kzvRbLWgg3R0qNWjVOpw1Wl0nR44Y9CN2qv5BzMK0tc7h3wLjyvX7aebfgnlVjD9VvDz8QQJ31bgR7y70UoahPPhkykdpo6cEmbYQ82Spry4wbkZGmP3FvwdlpRNtoN9TiRyTS/BQ5AT8ua9iKZBrGOlc11OrK2XvPharf2EpFwBA+3XZbmBaFVB27ZKYhVc6Jku5a+Jub1Rqlhk7vadTF3pzAaCoka/DYw8mrs3VWYT1cEuFSqm2jPpjR7Us=;nk40WlJxykH7GmzLEqMIKw=="
 ---

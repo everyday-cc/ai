@@ -100,6 +100,24 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "T3 2022 recap: Top takeaways from the adviser fintech conference"
+    excerpt: "After the Covid-19 delta variant cancelled the 2021 event, the T3 conference made its long-awaited return this week in Denton, Texas."
+    publishedDateTime: 2022-05-06T18:38:00Z
+    webUrl: "https://www.investmentnews.com/t3-2022-recap-top-takeaways-from-the-adviser-fintech-conference-221185"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 4
+  - title: "Fintech TIFIN’s Financial Answers Acquires Two Additional Digital Asset Firms to Expand Data Platform"
+    excerpt: "TIFIN is an AI-powered Fintech, which “leverages data science, investment intelligence, and technology to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
+    publishedDateTime: 2022-05-06T18:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/05/190719-fintech-tifins-financial-answers-acquires-two-additional-digital-asset-firms-to-expand-data-platform/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "Fcx7Ac5vO8VLNFiXHbWWc+KWXCpadikMBlbxOSmEH3JYIcOzozrfoRHpF1/FvNjhvbX03wE+Kn0H9+1FaMF+IQIz9gvLwTcd9A5zAxMYARKrl9GzzwQk6GAl5U+3odKPWQkbDIHUjh50sxQEHFVhn5hNopwS3ETA5ZjLuISa5TVnRGZzMYqePxELwGTOm4l0GAfRMPptxXpc+Gik3ne2cF9Fj+qrUyRe6dRu4cY3HeQR3/c/lI9Az1v9E0C5qO+yk0shKHSZuAZuG6v2MyCBUAW8pnehpOh7HJGi85hdyt0SOOgCONiGgFIejxQkQY3QcM5W6JLchsetsy0QT+oP3P1lIqSWEOh+VuasnCoO1oM+4Rk+d7geAlIuDhuhtIYTZ9dTj0i8z90Gx+tkvLPnFkky5ZVD9W1ryLTiO+NEwW7FwgHeRud5mcypLC5TFEnIbCSPaY6t67NVACzen8sTcPN2RN+G28+GYZMTqoK1X0d/46809pYKXmPcypwIhWd304QERuv3PHaUtFZvlss0hQ==;gx3IG6rixP4POkRJLTz2nA=="
 ---

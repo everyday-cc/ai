@@ -54,20 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI: The Somnium Files – nirvanA Initiative details dual stories, new investigation elements, and new characters"
-    excerpt: "The main protagonists Mizuki and Ryuki both have a prosthesis in their left eye. This prosthesis or “AI-Ball” is equipped with advanced artificial intelligence, as well as visual functions such as X-ray, thermal imaging, and night vision that can help ..."
-    publishedDateTime: 2022-05-02T03:41:00Z
-    webUrl: "https://www.gematsu.com/2022/05/ai-the-somnium-files-nirvana-initiative-details-dual-stories-new-investigation-elements-and-new-characters"
-    type: article
-    provider:
-      name: Gematsu
-      domain: gematsu.com
-    quality: 17
-    images:
-      - url: "https://www.gematsu.com/wp-content/uploads/2022/05/AI-The-Somnium-Files-nirvanA-Initiative_2022_05-01-22_007.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
   - title: "'AI: The Somnium Files - nirvanA Initiative' Reveals New Characters, Investigative Elements, Story Details - Screens"
     excerpt: "AI: The Somnium Files - nirvanA Initiative is a detective adventure by Zero Escape series Director/Scenario Writer Kotaro Uchikoshi. Six years ago, the right half of a corpse was discovered under mysterious circumstances. The left half was never found..."
     publishedDateTime: 2022-05-02T08:07:00Z

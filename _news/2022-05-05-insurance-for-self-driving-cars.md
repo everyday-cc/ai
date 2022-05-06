@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Baidu and Pony.ai are operating first self-driving cars without drivers in Beijing"
-    excerpt: "China’s Baidu and Pony.ai are operating the first autonomous vehicles in Beijing without any safety drivers. Technically a driver is not required for the vehicle, a supervisor will be present during the rides somewhere or the other within the vehicle."
-    publishedDateTime: 2022-05-02T02:36:00Z
-    webUrl: "https://techstory.in/baidu-and-pony-ai-first-to-operate-self-driving-cars-without-drivers-in-beijing/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 33
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/fad892af2965d0d226f47c4781e86afd8100481f/2022/04/28/91b6e013-2d7f-4256-a0a2-4ff6c79c7a35/baidu-apollo-passenger-ride.jpg?fit=bounds&auto=webp"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Self-driving vehicle pilot successful in Finland during extreme weather"
     excerpt: "Finnish self-driving tech company Sensible 4 said today (3 May) it has successfully completed an autonomous driving pilot, despite facing challenging weather conditions. The pilot aimed to see how autonomous vehicles work with public transportation ..."
     publishedDateTime: 2022-05-03T09:38:00Z

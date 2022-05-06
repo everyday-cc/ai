@@ -37,6 +37,15 @@ related:
       name: ThePrint
       domain: theprint.in
     quality: 34
+  - title: "IIT-Kharagpur, Virginia Tech launch joint online course in Artificial Intelligence"
+    excerpt: "Indian Institute of Technology-Kharagpur on Thursday said it is jointly organising an online certification course in business analytics and artificial intelligence with US-based Virginia Tech. The collaboration is a step towards addressing the challenges ..."
+    publishedDateTime: 2022-05-06T17:58:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/iit-kharagpur-virginia-tech-launch-joint-online-course-in-artificial-intelligence-741369"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 11
 
 secured: "CZfiGjq4qViA6ek4YLO/QtjAfkmhPeWBGcsh5eONUTSVIDoBqxKYyNm1CnQGRhP0U+Sg5g8PqoQnZSrLhD3Ab6S3pMCMqPH5IjpoRyLhDGpEdSDhP6TzjyZu9CBJ12o1efGBBGXEzVOL3AIt+DssaoSOhhFWUSIvmoz5Lms117S+ESxLAU+RvQm7pa50U+Z6bD7VzWTFy1hJVfExgjRxkXV/UrDub+jAOJtcYVRgl+tQrDYcnkUZZvBkIfJ5aZ69mPTT6lTmB/wt9ToSKE961W/Qz/TPwWC7Djxwux4c3XSr1wEC6P1wYv+O+bBm14xpdjqq2/2jAK1V+SfyjqvM0qdEze/0FDW4BD2wYbgDNmM=;fwsiOcsob2a1zllvr+DhmA=="
 ---

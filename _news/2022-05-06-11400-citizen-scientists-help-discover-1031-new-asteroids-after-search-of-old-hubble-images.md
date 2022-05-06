@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/amp/"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 713
     isCached: true
+
+related:
+  - title: "Volunteers and AI Spot Over 1,000 Unidentified Asteroids in Hubble Images"
+    excerpt: "The Hubble Space Telescope is known for grandiose images of the universe. Galaxies! Planets! Nebulae! But sometimes much smaller features, like the distinctive paths of photobombing asteroids, are the stars of the show."
+    publishedDateTime: 2022-05-06T18:47:00Z
+    webUrl: "https://www.cnet.com/science/space/volunteers-and-ai-spot-over-1000-unidentified-asteroids-in-hubble-images/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 46
 
 secured: "kPyvVu1YcsphZ5/wqx0+Gh+JCVW3yK/ml9wFfAbTDse984qnWSFf8O81CnMMCw8dVT9l1A5wTbGNsPs933WhJNGAWidLZPfEn4G5eqbku+RzUIF/bRMeukBWpRIXTf3WEUtBnV+dpuokxDJAIhKQfzk4KhD5zyFXIkpOyupDzaApPlNacsCQmJl83UJGyFnZVFeQWbo7MJgHEuxLwTCKB1oIpJ9D6bnH2uvhh2hjPFoVCTi3+RUqkkUHDYMGWiVO6aEsk6I9EDC3CE1M7sFw72c5JSqBuSATKuBJRLkH4I8KgJoQkr3ftbBOq6hA0TyB/0r2CASs6LtMvP0Z+JZPrhkBc6oadN9PNyxUmEMtEWmVRzF7anijOOWL0AfQ4RS66wFojiFUjOhqjEaau1/9N3kxaey5COrfclCGslybxqreXZefR2oEH8o3IynPXN/KK0j+C7u5BxD6UCmmMIcZqVmSsPhc3EqbokXp1d9JWPkJafoWxKX0/kbppqsLZ+vZw2ikfdvK3M67c24UR3XHcA==;f2eGAuqwIGam1V+KnAyMZw=="
 ---

@@ -101,6 +101,24 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
+  - title: "T3 2022 recap: Top takeaways from the adviser fintech conference"
+    excerpt: "After the Covid-19 delta variant cancelled the 2021 event, the T3 conference made its long-awaited return this week in Denton, Texas."
+    publishedDateTime: 2022-05-06T18:38:00Z
+    webUrl: "https://www.investmentnews.com/t3-2022-recap-top-takeaways-from-the-adviser-fintech-conference-221185"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 4
+  - title: "Fintech TIFIN’s Financial Answers Acquires Two Additional Digital Asset Firms to Expand Data Platform"
+    excerpt: "TIFIN is an AI-powered Fintech, which “leverages data science, investment intelligence, and technology to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
+    publishedDateTime: 2022-05-06T18:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/05/190719-fintech-tifins-financial-answers-acquires-two-additional-digital-asset-firms-to-expand-data-platform/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "Y9r+m1gafWXPa10i39EPhKz1Sz1L1T9ZbTKE/AOCTG/tx5odljD353OLxvOhd8C95jwTXsJ24RP6a4taVCFTapNZ7njVq0uicJ0XFko0boo4s5CzWLOlwjuneemHEmjMyg/dp6S3Onp0xEN7tpHdMKUucpGaRgkdqAWFVTm6tuenrSMqu2ih5ZUuu3FMYmta2ueHZg2IzY9Xz43Z3jsjj26UOmlWFCvzAtWdl1b4JNtyBjykTaVYK9n9iCqkhly/Y0/BB9ybX+nqUtVm+w2i4wk0S0QM2I+M9Oruw3vbxWm3Y5BfzXquKg/SLYA2ftQUtCcd8bQSsfsIKdYRv6HtYYGAdZ9+zyIe9/adqTvtLl54uK+1oNaDsXdFuCfZsv9+0bsUl/MsRikaw03+kSX7UL/26+u4n0eMrvbpd6wY6/fPnzERWnZH6+c0Z0guP9xhnip/9sfh5XUQ6nWwC89jbdoal7ajzuK7K+rE6ZlJV55vubV3Jsacn0gCGd0AfCvpnsRUUrlj/XAkrn09u8imvw==;1FCdGm6nwn3ge78eSGGbGw=="
 ---

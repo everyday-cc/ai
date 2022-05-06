@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-06T19:45:00Z
 originalUrl: "https://venturebeat.com/2022/05/06/irreverent-labs-raises-40m-for-nft-robot-cock-fighting-game-mechafightclub/"
 webUrl: "https://venturebeat.com/2022/05/06/irreverent-labs-raises-40m-for-nft-robot-cock-fighting-game-mechafightclub/"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: VentureBeat

@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-06-11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images.md",
+      "title": "11,400 ‘Citizen Scientists’ Help Discover 1,031 New Asteroids After Search Of Old Hubble Images",
+      "excerpt": "Artificial intelligence: an automated deep learning algorithm built with Google Cloud AutoML Vision. The search also unearthed new galaxies and nebulae. Some asteroids from within our Solar System have photobombed deep images of the Universe taken by",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/",
+      "originalUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62750318e66defb8b43ddefe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiecartereurope/2022/05/06/11400-citizen-scientists-help-discover-1031-new-asteroids-after-search-of-old-hubble-images/amp/",
+      "publishedDateTime": "2022-05-06T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-using-ai-to-analyze-large-amounts-of-biological-data.md",
       "title": "Using AI to analyze large amounts of biological data",
       "excerpt": "Researchers are applying a form of artificial intelligence (AI) -- previously used to analyze how National Basketball Association (NBA) players move their bodies -- to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases.",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220505143820.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1385,59 +1437,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-career-roadmap-machine-learning-scientist.md",
-      "title": "Career roadmap: Machine learning scientist",
-      "excerpt": "Data scientists and machine learning scientists have similar roles, but a machine learning scientist specializes in researching and implementing complex algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.html",
-      "originalUrl": "https://www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/03/career-roadmap-primary-100647810-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658130/career-roadmap-machine-learning-scientist.amp.html",
-      "publishedDateTime": "2022-04-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

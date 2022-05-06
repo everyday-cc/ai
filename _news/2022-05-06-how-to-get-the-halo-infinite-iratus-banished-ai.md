@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-06T16:43:00Z
 originalUrl: "https://www.gamesradar.com/uk/halo-infinite-iratus-banished-ai/"
 webUrl: "https://www.gamesradar.com/uk/halo-infinite-iratus-banished-ai/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: GamesRadar

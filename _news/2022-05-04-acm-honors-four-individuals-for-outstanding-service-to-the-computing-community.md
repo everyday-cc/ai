@@ -24,6 +24,17 @@ images:
     height: 394
     isCached: true
 
+related:
+  - title: "Outgoing intelligence community data chief previews forthcoming data strategy"
+    excerpt: "The intelligence community is drafting a new data strategy for the first time since 2017, with a big focus on training a data savvy workforce."
+    publishedDateTime: 2022-05-06T18:01:00Z
+    webUrl: "https://federalnewsnetwork.com/inside-ic/2022/05/outgoing-intelligence-community-data-chief-previews-forthcoming-data-strategy/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 0
+
 secured: "HmVk+Us766097UQy3ORHHkEg8mApk2WwwSKGiMKQHDAhW+CfDPGQMuI62r3YgZMd+EqoLQcOZC0ctzwm/ouJVI8Dl+T0LVJWxzhBqrvcARLZb+tMSRuHM795OjMqXsdY+hSQM8OftpvTy6tvy0tuw03sVyDFpFhGAY1ODW88k5mMHOlGSgM2KFImBB4OO1DIEETuLrXtzAD8BwUteHQ5G8Y80OCVjNOdl4F/JbTyl5MwDTaNF871U5DxENS05odOrxcb2l5uTvVPP3AC8rM/oZ7/1XO3HxiMDpLs7RLgI6NLcsPdYtEemt97uS3uVGEavVL5XSOr735zGYTXnen8q7sgI+vVRzJyuZ3WYSMdiTv+vpWHpCwMlKNSgyQ1aqSc/glrFrkBwIGU54/Z0CkD/znvKycns4fX2UhEcAwY6SfgzwY+H+tWHTTInuc8fJ0rntvsN2pPmrDFniZygffMXk9AFTOGbe6LwT729cJNUhXlu6W1tifz/IYFaCJ+t77xy7h0kmIY7tmbys0fMfFZKw==;+n9ylbAtUF6xG6/De/dCDg=="
 ---
 

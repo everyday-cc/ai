@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-06T18:36:00Z
 originalUrl: "https://techcrunch.com/2022/05/06/consumers-and-data-are-driving-changes-in-the-insurance-sector-where-are-we-headed/"
 webUrl: "https://techcrunch.com/2022/05/06/consumers-and-data-are-driving-changes-in-the-insurance-sector-where-are-we-headed/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: TechCrunch

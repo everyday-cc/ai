@@ -35,6 +35,34 @@ related:
         width: 957
         height: 718
         isCached: true
+  - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
+    excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday. As drafted, Senate Bill 113 would establish several regulations for the use of ..."
+    publishedDateTime: 2022-05-06T20:38:00Z
+    webUrl: "https://www.coloradopolitics.com/legislature/lawmakers-to-debate-limiting-the-use-of-facial-recognition-technology-in-colorado/article_5fc5f020-cd7c-11ec-802a-bf2f59b47874.html"
+    type: article
+    provider:
+      name: The Colorado Statesman
+      domain: coloradopolitics.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Law enforcement use of facial-recognition technology must be limited: Privacy Commissioner of Canada"
+    excerpt: "Current laws regulating the use of facial recognition software do not offer sufficient protection against the risks the technology creates,” Canada’s Privacy Commissioner said while appearing before Parliament’s Standing Committee on Access to Information,"
+    publishedDateTime: 2022-05-06T21:08:00Z
+    webUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/law-enforcement-use-of-facial-recognition-technology-must-be-limited-privacy-commissioner-of-canada/366432"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 9
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0395_637874680367642289.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "y77KHdfYgG9UPxPYUxfuhF0vE/x0G5tyRukc7b+wCLQJ0fWh9bXr4mt1F5WkVHjnUDYFdP+bWVpYIbk+/it8t1DhYicodT9Oo0HVypjb7hEx/FfKSjNgPnkD7WG1x0gUGuyKS7Ed8/xT3Kc1TiMloFPt/tNx9wsYq9u685YvEFUemsBVXkW1b90IdQpR27ppFV2V8fMvyYOBgxAR48KdJEFz7IofMu2jA7rN7wZSwZnz89SbTt7M0cThq7aymuSsUrQEKcS2osLqqTwmqgvTzJHLT7wVdIu91U2Ir7TD4AxBREyhebVINsPaZZrAesfjA8B2zrbbtOU9Sl1J2iKSZ9cEnddcGwnTIwugtUBDydbCtPaVGwXE7gD4URbX7D740oPnRKxbDztZX6Qyb1UkCxJCB2IJHNAPnePtBD0wahp+N6vezOeFY0Y5TT/Fo+kum/wKeVDuPqVw15mm5pHooxLdfPq4YGHhMhFXUxgBXWaL+7v98vL4UMiPUSPpQA9EpsRkzORpZiiuuJIIp2NiPg==;FqK+K6wDvCAxlIen7fihFg=="
 ---

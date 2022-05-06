@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-06T19:19:00Z
 originalUrl: "https://www.autofinancenews.net/allposts/auto-finance-excellence/compliance/cfpb-prioritizes-fair-lending-machine-learning-privacy-in-digital-engagement/"
 webUrl: "https://www.autofinancenews.net/allposts/auto-finance-excellence/compliance/cfpb-prioritizes-fair-lending-machine-learning-privacy-in-digital-engagement/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Auto Finance News

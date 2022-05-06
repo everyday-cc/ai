@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mercedes EQS, S-Class Make Big Advance to Self-Driving This Month"
+    excerpt: "One of the closest things to a self-driving car today will soon be available for purchase in Germany as Mercedes-Benz offers Drive Pilot—a true SAE Level 3 autonomous system—on new S-Class and EQS models this month. That makes it the first automaker ..."
+    publishedDateTime: 2022-05-06T20:31:00Z
+    webUrl: "https://www.thedrive.com/news/mercedes-eqs-s-class-make-big-advance-to-self-driving-this-month"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 24
+    images:
+      - url: "https://www.thedrive.com/uploads/2022/05/06/22C0157_004-2.jpg?auto=webp"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Mercedes-Benz announces sales launch of DRIVE PILOT self-driving tech"
+    excerpt: "STUTTGART: Mercedes-Benz has released details of the sales launch of DRIVE PILOT in Germany. The system for conditionally automated driving (SAE Level 3) can be ordered from May 17 as an optional extra for the S-Class for €5,000 (RM23,000) and for the ..."
+    publishedDateTime: 2022-05-06T18:16:00Z
+    webUrl: "https://www.carsifu.my/news/mercedes-benz-announces-sales-launch-of-drive-pilot-self-driving-tech"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 21
+  - title: "Mercedes-Benz Says Self-Driving Option Ready to Roll"
+    excerpt: "Mercedes-Benz Cars says it plans to release “Drive Pilot,” a conditionally automated Level 3 system for automated driving in Germany for S-Class and EQS, for sale May 17, making Mercedes the first car manufacturer in the world with self-driving system ..."
+    publishedDateTime: 2022-05-06T18:00:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/05/mercedes-benz-says-self-driving-option-ready-to-roll/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 4
 
 secured: "Ha3CR+dzaouCLMnENDXbSzCCfh5KfmfKNPmEJO7iiD64V/M0Fqv0Dg5zuSZBARRqL9zNYX8z8QTe1vUI0ubU8/jQ2+iL4v2llOxVJ6KxsxTFVeIa8UyA7ENPgW4tSH5fVJPiOMjvZlX+tLN+PN4taSUnqXhXX7s4Kt9mrwcGQnzasBfXCvI/fh0er/9cNLmJRZMrIzKHSbf3CU4cQ3s+LrqxEabzVK0TTBG5FCBTaaLY0iR1lpHTz5Poz9BeWoB3wF5GmhciO+X0ni9NSVzRNrVTEHHfmqurmADXxoeFBw4VLtOxbI4XystrVx8BJrgwgXUqqnLGET8pOBfZKCeFrVFM8n3Va83z6papeOq/6nE=;6Qd2LyRWGZavHqIG/+cG5A=="
 ---

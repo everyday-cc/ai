@@ -62,20 +62,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI: The Somnium Files – nirvanA Initiative details dual stories, new investigation elements, and new characters"
-    excerpt: "The main protagonists Mizuki and Ryuki both have a prosthesis in their left eye. This prosthesis or “AI-Ball” is equipped with advanced artificial intelligence, as well as visual functions such as X-ray, thermal imaging, and night vision that can help ..."
-    publishedDateTime: 2022-05-02T03:41:00Z
-    webUrl: "https://www.gematsu.com/2022/05/ai-the-somnium-files-nirvana-initiative-details-dual-stories-new-investigation-elements-and-new-characters"
-    type: article
-    provider:
-      name: Gematsu
-      domain: gematsu.com
-    quality: 17
-    images:
-      - url: "https://www.gematsu.com/wp-content/uploads/2022/05/AI-The-Somnium-Files-nirvanA-Initiative_2022_05-01-22_007.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
 
 secured: "TZmcwkcb8vdvfgmv1gyM+BUal2GPmlruetuYfMZU1YVFqGFUzTBI+8BFNeK0AxB+Tx6p1sFTMxhcJVZPkPLEIBhtESx1uE0uAnmiqmRkNSVWUAyyKYv0Z4cYbF1fIL3/2fRlaZF+2ygKA4fWH+MHQIPXP2y/eAw7Z/zWJpun4v7JRY5GhfMfrZpOtWRFtlNCIlgQEFAXddhdyhK5tEMu/lhQSWFkHCtZ+KfTr9fuqGdvGQ9tSEIaZkCVazG2AmZvKDRyHZH8coEGMBRv065V+qbQFySVJtTG0RiqlIljyC9eQLgWd9jJpOU9xIW5PPp82DjB5jsbvZCeiIIQFD35G0tVFwZ5C5dm/E6O7xdhOFlR+AiseI46wuldkfTXkRsapbRUlww7vw8jsD49n79NFlwxIoQZghBBx4c7hOjr16ReRyfyt2YQoAsQVDVNdp4goNCvOX2FOMPPRbjYpjGx7VJRHtqiU5/QXc/4u+QiSt5TQJGm0DNRwtyZPVC0eqROP56W4Io+FkEMHSZqZF5kGQ==;/NkvAjBFf4U+6IQQcVsBeA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-06T19:42:00Z
 originalUrl: "https://www.tnonline.com/20220506/school-board-approves-new-artificial-intelligence-equipment-for-school-buse/"
 webUrl: "https://www.tnonline.com/20220506/school-board-approves-new-artificial-intelligence-equipment-for-school-buse/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Times News

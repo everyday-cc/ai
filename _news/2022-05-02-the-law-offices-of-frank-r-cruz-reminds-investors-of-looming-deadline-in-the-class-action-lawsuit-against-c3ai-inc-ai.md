@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "C3.AI 48 HOUR DEADLINE ALERT: ClaimsFiler Reminds Investors With…"
-    excerpt: "NEW ORLEANS, La.–(BUSINESS WIRE)–ClaimsFiler, a FREE shareholder information service, reminds investors that they have only until May 3, 2022 to file lead plaintiff applications in a securities class action lawsuit against C3.ai, Inc. (“C3” or the ..."
-    publishedDateTime: 2022-05-02T02:04:00Z
-    webUrl: "https://www.lawyer-monthly.com/2022/05/c3-ai-48-hour-deadline-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100000-of-deadline-in-class-action-lawsuit-against-c3-ai-inc-ai/"
+  - title: "DEADLINE ALERT for ERIC, AI, and RIVN: The Law Offices of Frank R. Cruz Reminds Investors of Class Actions on Behalf of Shareholders"
+    excerpt: "Specifically, Defendants failed to disclose to investors that: (1) C3.ai's partnership with Baker Hughes was deteriorating; (2) C3.ai was employing a flawed accounting methodology to conceal the deterioration of its Baker Hughes partnership; (3 ..."
+    publishedDateTime: 2022-05-02T15:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g26937689/deadline-alert-for-eric-ai-and-rivn-the-law-offices-of-frank-r-cruz-reminds-investors-of-class-act"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26937689"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26937689"
     type: article
     provider:
-      name: Lawyer Monthly
-      domain: lawyer-monthly.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
     images:
-      - url: "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2020/01/SLJ-PAA.jpg"
-        width: 300
-        height: 350
-        isCached: true
-  - title: "Deadline in 2 Days: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. (AI) Investors of Filing Deadline in Class Action Lawsuit"
-    excerpt: "Kessler Topaz is one of the world's foremost advocates in protecting the public against corporate fraud and other wrongdoing. Our securities fraud litigators are regularly recognized as leaders in the field individually and our firm is both feared and ..."
-    publishedDateTime: 2022-05-02T02:52:00Z
-    webUrl: "https://www.mypanhandle.com/news/business/press-releases/cision/20220501DC41530/deadline-in-2-days-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-ai-investors-of-filing-deadline-in-class-action-lawsuit/"
-    type: article
-    provider:
-      name: WMBB
-      domain: mypanhandle.com
-    quality: 6
-    images:
-      - url: "https://i0.wp.com/www.mypanhandle.com/wp-content/uploads/sites/88/2022/04/DeSantisAP22055692316089.jpg?w=2000&#038;ssl=1"
-        width: 1024
-        height: 576
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "VfDlt9CdIQEXgr6LXwEMYy9So+RAEfEtvfnfNPQEVI3xo3LemGW0l9ni1XZFttA+1rUvexPDI/L3ccPkuPNkjfiqZr8CcUy+0HEKLgAF4lWcjvGEgB+AKvv7oK8QC+VDA97cLdcPJ8fy2ytoukXjswAIkEIMWMnRALKca+SfMr4qoGliuVOuJYk73bvhorXeSakkm50ZigqDRmMO/pAZquw7ReVjy2hqR0KNFCg+jQ6g2ywZh6atQfnxZ2q9BzpvtalUaDa5I4sMHy6tKZtjAQj4+F/vrpB+RIMpv0YDFfHOao6shTpjq1mf34iZoNgrjO8BR955ZKVhxLKnVo0Xy/OWHGHMorRGQE9cJ/kcdkc=;FeQFX1Z/4mx7Cn7i+vsxGQ=="

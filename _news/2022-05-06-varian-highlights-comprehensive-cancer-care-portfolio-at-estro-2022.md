@@ -7,7 +7,7 @@ originalUrl: "https://kdvr.com/business/press-releases/cision/20220505SF45694/va
 webUrl: "https://kdvr.com/business/press-releases/cision/20220505SF45694/varian-highlights-comprehensive-cancer-care-portfolio-at-estro-2022/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Varian Highlights Comprehensive Cancer Care Portfolio at ESTRO 2022"
-    excerpt: "Showcases Innovative Technologies and Services to Drive Personalization, Precision, and Connectivity Along the Radiotherapy Treatment Pathway"
-    publishedDateTime: 2022-05-05T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/varian-highlights-comprehensive-cancer-care-portfolio-at-estro-2022/article_2dff0d13-38e0-5dcb-b80c-bec1bea458f8.html"
+  - title: "ESTRO 2022 focuses on learning from the patient"
+    excerpt: "The annual meeting of the European Society for Radiotherapy and Oncology (ESTRO) will enable both onsite and online delegates to share knowledge and explore the latest technical innovations"
+    publishedDateTime: 2022-05-06T10:00:00Z
+    webUrl: "https://physicsworld.com/a/estro-2022-focuses-on-learning-from-the-patient/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
+      name: Physics World
+      domain: physicsworld.com
+    quality: 24
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2022/05/radiation-therapy-patient-1091110733-Shutterstock_Mark_Kostich-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "JgXxfzHmuCwwgIw6eCWOf2/MC6cHsCQ+DSRficIa7RcDhbCeAbSHa9AoGoZhu36CSL0ncx4crbqViThabVOA3LsGWDxjzIQYvkNl+ybZKwd+KtNBthDbBvUGqDzPK3g/PmRNDBkpx95z8WFcm/bPzg4nmSmX0VlRfh6jsjYKrLU32PXfM3QJinJy3w99Uhue5hQjPx8wxnLDzFbCeUk8RKKNCGUxRMyGGMN/lArvoSgnFAZ7HUURxUmkZ65j7bBdS09JKjnCpLmotm9Q4qg/vp2eVoPCrUnNKOiAmOTMKvO4lkhpdfDLsayauvPjaZpFYHLG9nuFWuS9NPfnbVvNSKPllAOrydlKoGGAX18YGKQ=;Hfik6j+/lLl1ggKZImbxVw=="
 ---

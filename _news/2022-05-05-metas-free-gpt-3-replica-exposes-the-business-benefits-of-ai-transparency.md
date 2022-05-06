@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/meta-new-ai-model-opt-replicates-gpt-3
 webUrl: "https://thenextweb.com/news/meta-new-ai-model-opt-replicates-gpt-3-and-researchers-can-download-it-free"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Next Web
@@ -26,6 +26,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "This AI generates Bored Apes that are unique, free — and totally fungible"
+    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Bored Apes have become symbolic of the NFT craze."
+    publishedDateTime: 2022-05-06T19:49:00Z
+    webUrl: "https://thenextweb.com/news/ai-system-generates-free-bored-apes-nft"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 48
 
 secured: "xgIDIwBJW72s2Spq/w1fb67pFoZaQs8hgCQjhiDV1WGYUlhxnGA6cSdLa57XMj4pviE66PFB9CMblYEnhFG1zpIPDvM8ENoSrfsBVZ9+XynKEourLqhzv7NLpHTpf9FkJuBurzT2cwys1xYSOspvPGdkGdKdWTygoM0P28OBSmtxYnqNIq4Q4xgk2JWta5hTqHb8DjP0fCP7HsX19em2uRELaqhyU6oaZ87VP4kPVhWgR5HQiFNUkOFLhI+5NTQ7u4hIgt/z8YHy/XVS4YY7mzW4sLSwXSbl23YPPlRr0g84MDXq6hzmlcA7FbsEjE3F92vtiX1PxVLkPzgPkrRPwqifm0T1sj7bG6pL4Rs3i+4=;jJJPf+6oOcqKyoTdR5kCrQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-06T19:40:00Z
 originalUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/where-ai-stands-in-gastroenterology-today.html"
 webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/where-ai-stands-in-gastroenterology-today.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Becker's ASC

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-07-nvidia-to-pay-55m-fine-for-failing-to-disclose-gpu-cryptomining-sales-sec.md",
+      "title": "Nvidia To Pay $5.5M Fine For Failing To Disclose GPU Cryptomining Sales: SEC",
+      "excerpt": "as software developers working in AI, self-driving cars, and a broad range of other fields continued to discover the acceleration and money-saving benefits of our GPU computing platforms.” But according to the SEC filing, “Nvidia’s analysts and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/nvidia-to-pay-5-5m-fine-for-failing-to-disclose-gpu-cryptomining-sales-sec",
+      "originalUrl": "https://www.crn.com/nvidia-to-pay-5-5m-fine-for-failing-to-disclose-gpu-cryptomining-sales-sec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0273-1496144278fe-d4a9359828bf-1000/nvidia-sign-hq-building.jpg",
+          "width": 609,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-artificial-intelligence-chip-market-size-is-expected-to-reach-19490-billion-by-2030.md",
       "title": "Artificial Intelligence Chip Market Size Is Expected To Reach $194.90 Billion By 2030",
       "excerpt": "According to a new report published by Allied Market Research, titled,“  Artificial Intelligence Chip Market by Chip Type  <stron",
@@ -1383,49 +1427,6 @@
       "provider": {
         "name": "theregister",
         "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-backplane-systems-technology-presents-sintrones-abox-5210g6-powerful-edge-ai-fanless-computer-system.md",
-      "title": "Backplane Systems Technology Presents Sintrones’ ABOX-5210G6 Powerful Edge AI Fanless Computer System",
-      "excerpt": "Powerful Edge AI Fanless Computer System. Powered by Intel® Gen 10th 10 Cores Xeon®, i9 CPU with 10 x GbE, and NVIDIA® Quadro® RTX 3000 GPU for AI GPU Computing. Furthermore, the ABOX-5210G6 features 1920 CUDA Cores, a superior GPU specification in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-sintrones-abox-5210g6-powerful-edge-ai-fanless-computer-system/",
-      "originalUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-sintrones-abox-5210g6-powerful-edge-ai-fanless-computer-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ferret.com.au/wp-content/uploads/2022/04/PR-Image-ABOX-5210G6.jpg",
-          "width": 1500,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ferret Australia's Manufacturing Industrial and Mining Directory",
-        "domain": "ferret.com.au",
         "images": null,
         "publishers": null,
         "authors": null
