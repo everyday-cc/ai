@@ -2,7 +2,7 @@
 name: "Signal AI"
 overview: "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v."
 type: "profile"
-heat: 64
+heat: 50
 
 website: http://www.signal-ai.com/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=QWC7T-G_reQ"
 
-secured: "SAJlsUFDYji2Vh8ovqVcRZabfxOyJ0JCMHljsEUr5k9NMDXuJ4qOQ0Z8g1YdTIVpwJQimlLf74Q1G1KAH+JB57cPTjoIm3EFaE59e5Z0Gg7AMoQ6oAS57GIjLiHIlkMfVQ9hB7+HASGx6OESR2jW8lSYgArV2RznNWAFWp3Q9/+MxsFWx33P/n1c92Jr55Qu6BeSO2oP319Y1T2nY1XUqkSNzimQj1PAynRa7Ae9xrbdttpA3mxoRveWVT7EFepZRQ/SMQNGYFU2gzR4Z5ADsetccktN0udbtFYZieEzVuw7loiQ+ap/aVVYPbJP6PcNRetydIhalOy1b866HUav7P+IaYbHGWgbPgZZHH6UFL2lmKdbNLbLRuHUC1nCXBfos3z/QHAL/jVJ7+vFRcuH5M+tFuKtbNoEMB5Jq+9A6aQ=;sMxMf0gAtaYhNZQxh+8EDg=="
+secured: "BwFCM7eZ+50YWlLbCubqzySqwRYWzCO71Wp6VE1MOEsNz1GjxwgJBO9n/CFt+BPM3iZRcvNCV0kG0jotY+N1u0+JLGMuXJ3gUMhkuIuiHCJRI4Akj8jYmWDO6QJwlTuNh0CgI3wOSuJUJUrEJFbiNmS4aCDBs58nhmG8DRX45rtFXRq01ymyqI9AiOzPjzLwbLx2mhF0JeiBg4R1JoKg/Z/OWQIPO9aNgRMgNg81ryuXeFFzxnIZFaBesU3vVXQ3ONUNsk9GRzPdZYnrgTrGcERmIge82oqyW4PdShPLLYRS0Fq3bNG2k5Db9HM8bIX0xUqqG9R263ejRDIrM1IF6qM7F013HbdjMmFW1qkn2cAug21QdCG8qsxgLvd7pmy2Zw7jDwziJtTZkTdHmlXhF/kqhOYNDFpl0lNlUlVH9dk=;GxdFXXmI/APKJcfs/2ifYw=="
 ---
 

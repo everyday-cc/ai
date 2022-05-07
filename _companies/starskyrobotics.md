@@ -2,7 +2,7 @@
 name: "Starsky Robotics"
 overview: "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families."
 type: "profile"
-heat: 42
+heat: 50
 
 website: http://starskyrobotics.com/
 
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-fjy3iaiWFw"
 
-secured: "zdsYS6Pp+zP7mJ/796xy1L9F3H4mam5g/hjAkyDHIaWAoW/lfWYbH56mgNwWDgsd5s210pLmYGWpSpCI5aI1qWX2JTGzGv6PakM5OHbjoSwrylD7M3jPmViOpka6+62dxPMVYPm0wAubGgb7qIz8LYJULSzoW/y+ykV9WGUfG0i5G1x/GjhmT4iA6MYbwAkQ/Gw9qz2TWmy6EFCNocWdKo73VuogC7uk7sBVC3vUOgmWx4iEiQhVsfCE36hBG/3ZvH/uLBkrqgdil5G5TMDV97Af8me/zBt3ay50Ah0J/GrgiuZjITdgYyNlZAEzoliLdahw+rYSDP+GhN6wB400wQ9UMfPI6R5jAK/6hf9qRDH8S0F5Vm9j7762VxYAs/eVuTIbsvekWAUOBc3mu7pULw==;8b0td1E433HtFnegkUZKBw=="
+secured: "N58/8f85ymLX+SLzUpLXEntmPkiwejh9GRKriJLytwo4CYTvDqG1jQtdfkLGU/GJrejO660js2NSyoEMi4LePyk1F9IgVkcPULIMqIvxptYv9Cn95cFokInOzp5V0rPW0/8OTe1pwQztiQsCHTRCCCeeEBxOmaGb85Hw5oxoJfC4F9yyzWZaPIH4nF+8VkPNYzE19Ewifa2TIPnFJbDDYqgfSjf0MWW+ya6CPFVTy5eR3rvEe/L8Vhl1LW5c+LsAlkkOtrnWPQGMFhtZ1ytdpoSQnpvEyEAhAQNaht2VpfBg1fbgcv5sE7B4HhJDnIX/+UcdAlZFj0wljkkkm2AxRYiruWf8r8eL74+zEOMzNG/Bfx9fK6dwOH0jnNX2Cwvd2F6saSsICOlyxfRKvhfHaQ==;xUh5tTygpn0OdSI1aY3iig=="
 ---
 

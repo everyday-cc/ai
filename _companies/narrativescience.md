@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "narrativesci"
   url: "https://twitter.com/narrativesci"
-  followers: 7249
+  followers: 7250
 
 size: 51-200 employees
 yearFounded: 2010
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "UI6Nwcd4eNtl2W7HTU6Uowtg7dabN8bRtnwKjYZRH/LfJZP2M037lbfYWFkJBarqXwswNH9llxFHpW5TBzoeybb7mot4VU5AXGFCqZ4McPh3adgJK1Sprj+V9wfirq5/FgAMbjH0wXSHErILIqoTPY5aRVcz7Ex8+Owud7yHHWUk4HPpFPruJD4UjdcMZb5IEcdRbwyUzx+Y9pvRbJU0l1/Hhpflj135nkzBfI5yZeQcn+AoQOGeUwZcWMdt0VW8VlfZFEGFwodCfFX6sCkhh9Vc0NYmBvCgy2hx5ZUnnY/EovMk3m+g9vKPt4jb7D/fi8wOfDX9gX4tipBvXolG3rBGC/2h6mRkhctO6Rr8Jac3GGePjUIAqtM3ywUTXHAxts6c5eRua/nfOewvS2nG6/8jnFyyHnhavBYcb8qwL9I=;4znuZJyMjkF5rwZV9aDk8g=="
+secured: "mcdCy308x5eOKJUni+/Rpipt66q0K73HCJpkO/Twkq7yLGsnIHrBKLzK7ltlOhqGEfYoNk3eA54Fr5SN0poQf/1pQ3CAL9L8nI/RAEjHR8x73Jp+rf+++oMqiKbskFhvYPezaZwr0+/hRWz/G2FCMK3nk4SzTJbIHF3gq9bkrcUUjIyljw3i3BYb396/alQ50lVrMV7jR5vtWUQoTWRB7aMGd/EK2jf0EHxI8tQ/FiPpjJAZ3HMO3UWLkjitWu+IznUTvKBQ3cEttMtotmgBW5aSag/NqcfdRZjjTgzrY5BsrmLML9E1/GPJTHCLFTG/QUhnaEQ1srsa5CjoIWvNVVUKuA1UMkE6d7iTbJSaMb1F9Sf0LZwqvBx6UO11GFhz2elBSPpGODibd7Pop1SkjC84v0jEyQ0iuUTQH0ig7m8=;7mpLjd9PDMhX7HkcYm42YA=="
 ---
 

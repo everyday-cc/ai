@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "freenome"
   url: "https://www.twitter.com/freenome"
-  followers: 3392
+  followers: 3393
 
 size: 51-200 employees
 yearFounded: 2014
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=TrEnNA_kZBI"
 
-secured: "sRI6BqfyohgaG54TsIZbCFkiVEwVq9XHxy/Y+RQyckXmzHVtXfJMwicDeRy419nnVc2T6w5pbx88t+8xCVsz5BHtHmcKffJvjxGaIsCqE7v3BzVdH5xIK6H3pXwDDYDP72Ic4gCxVEeLxgMIFTPp5i7IUGdLTnKvsXONxnS2zhxH/Acj+a44ZF8MTMvBevsYGhA3s4oz1tpNbK2X/agnYpursJR1yYbkIrk35BZE9vTYrUh0m1RGXsuRsl0cObAC/+CqsvlrK3erosYVtEezLEj2LZXAdSaDgrMiA0Dsq5kvBC2kHJi3qywlrw7lN6wpSZqxL54fXk8W/hpYE3UwqlMInFJutTgWw5jdGKYpprBilF5vIt0g/lZQf/0lZt1njHXHRZIudpz8f6zKAXYs1B60onl2EY3kz8IBGVvNZjQ=;5wgk9fEnYUpGWiavURu7ow=="
+secured: "cBuieUDl0LGRnhFN4LdHED9vBpy4tOHRXqEluuDyjBNboBSPdM3e1rsh+5sUZSQXhmHJuYh/pdoIXfvaOTe2o8JIFX7fszhKJjI+r43VmBrXlxzwISleE9IS2W3l2t4E9G4O1SSNWFsGgWhiY74xlkZoBfhifw7mz7MmZOi+WSIvzWQPRvyxZGpAz7/7pBXThTdnekgAOFfSK/uLurDoYpJMjnLaeI4w4oHnve40GAbfkCV1k/d7Ca9ZfxyObFp3tlVhnxwE65xJNR1ViTKm5xfgdxtqjMRnzNbCk9pvKJvQ7PXkSO8abSCV8C0UjFId7kfxRj0KuSSa3m+nGDFtzQ9QY9fPZRyjVqMUJoMWvwyO06cjwv9XUiYqI+wKF93NZUtWrySB63db5dhbwVi5L2llgzyUSmPGCAhX5THGhXo=;+IQAFSaFVtlII2RABpCOOg=="
 ---
 

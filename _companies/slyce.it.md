@@ -2,7 +2,7 @@
 name: "Slyce"
 overview: "Slyce is the market-leader in image recognition for retail, powering visual search in apps for retailers such as Home Depot, Bed Bath and Beyond, Neiman Marcus, and Macy's. Our service can identify virtually any product from an image, and enable customers to snap a photo to buy something, add it to a wishlist, find it in store, or create another retail moment."
 type: "profile"
-heat: 77
+heat: 97
 
 website: https://slyce.it/
 
@@ -48,6 +48,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "BhCm2YeC+TfqG1EYtv8q14aeneFR1MsNgDdE8tIAl32mh1V3r4iGYO4HhHJpkas0YE1ONPYrP8kRZovhReyQTIGSNtHGryLLuS2+EZO5YF2DDIEp/3VDxlVnFtNMbn53NHWPvbgcY56WWDg7ukXZMKuHhugcIY9S63CKvHyOTSxEK4FKVe1jt1wBYtCNbXLHVNFS2bAfDVYNwNuJF62ytaHa5h1p3yTsvgQ3IiWucFARkMEwst/VaKE7olil02GLslSd6w4YP+ZRxPTeA7i+cU6doOJ952Y5NcSHsoND7mAiUkETpkilMbU4MWGJcF7LpTvTCHg3UlaLdkztiAWIaOiZW2OtvrnmGE192CB6c5gNTw/LtJmitcwI9/xIddpR+1XYUWRWd4dX1bQedLZ7bz7X37OEOlYwvykC/L0z1Dc=;W/Tq03OVqwb1tqh1qNTgXA=="
+secured: "DwF+F1MvfFzVbr6Ykb/Bk1KtTBX0L1RvqJq+8tR8UvzTpqiIm7805WUb0PQqCGzKJt3eLFy1Fa5EpmXy8Z9+vefawWTCggh8ZHVVV0shF2FMNRs2wD3YY6y45AIqK7cYxP4YTQf/ls9qOQ3X4ew2WwaSTa9JPlAiuIrMcpF8pRy+TC8dVtYUbm/dfrym9YPu/Klfu0jaR3SnDV2m/Bl5slKAy75youN1DNaR5CWFyRjGw/jSHxhPPWgmfLm1aflDEESNb7S+RVpuXglv4FHW3m7GIm53y/5RtFBSVl+N6vadgMaLkSFG7+hNRPrMrnEcErjL0FzKeoP/oA3OexG4OYrh0U/+q9wl9EA3ml4VJn+zxgpDcC5EUEbOC4WGqN2ybQEFHKSaM/QHn2T8jr37IP+4rY0XbL3G7IuXsYphKkk=;aLDanx0flpLcrF93f9OgVQ=="
 ---
 
