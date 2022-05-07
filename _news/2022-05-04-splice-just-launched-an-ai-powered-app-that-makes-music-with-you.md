@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How 6sense is paving the way to the future with AI"
-    excerpt: "The future is now, says 6sense, and that future is inevitably packed with AI. The company recently held its 'Future is Now' event, sharing what they are working on and how they are using their own product to build their own customer base. While I couldn ..."
-    publishedDateTime: 2022-05-02T09:07:00Z
-    webUrl: "https://diginomica.com/how-6sense-paving-way-future-ai"
-    ampWebUrl: "https://diginomica.com/how-6sense-paving-way-future-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-6sense-paving-way-future-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-03/board-1647323_640.jpg"
-        width: 640
-        height: 426
-        isCached: true
 
 secured: "yjD+Jyop8sOOZhX2529dqGJYfGX4lXl2tnsUMcpRz7bAU3dNRVCu7yHPxaHjJfBPttRezrPXNYGg1GD4wiRz/jzLN/AXAaRG5VWskwOWMhdPPXEg5GUz1cjWUKihMLO/9+oXZlVj/U/ViEkt3PTSoKgj71QCj0aSXnmki/eJweNqflA8CByPNGzdU4Z+XPuKUnU6l6A9qFN5R3ALnMgb0lqgizb4JJxA35eYJZsUQOJKyXi5IFbYWoV/ytMQYFlbfbiwvGP3e2gWq8/xSq45bLNcc0BqAv3C9hk5pdorZYbGdMxnHX/VyHRqhvLE4efoHlrUWw/M920lRTQQUQ0Or9s+CCS3V8Jscn8L0tw9VlE=;I/c9Qwf3RFNZSSO3CKT6gA=="
 ---

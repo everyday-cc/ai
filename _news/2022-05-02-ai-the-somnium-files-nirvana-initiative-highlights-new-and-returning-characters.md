@@ -68,15 +68,6 @@ related:
         width: 698
         height: 289
         isCached: true
-  - title: "'AI: The Somnium Files - nirvanA Initiative' Reveals New Characters, Investigative Elements, Story Details - Screens"
-    excerpt: "AI: The Somnium Files - nirvanA Initiative is a detective adventure by Zero Escape series Director/Scenario Writer Kotaro Uchikoshi. Six years ago, the right half of a corpse was discovered under mysterious circumstances. The left half was never found..."
-    publishedDateTime: 2022-05-02T08:07:00Z
-    webUrl: "https://www.worthplaying.com/article/2022/5/2/news/131771-ai-the-somnium-files-nirvana-initiative-reveals-new-characters-investigative-elements-story-details-screens/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 0
 
 secured: "6/uvQUi+1EGnj2KMlK4I0LVZtAA6Dz7l9okncQ6lNKlqsN4ApWYObXJO4TydUHPhezUJERyHMNRQn58DE4jF9DAz3Hsi04V0QuHpGEVBejpw9MvZCGidp/AgHGi825XqSiUxYG/BIA3gMBTojV2vrs10A8N7D/lUgvZullItNlkSm2bvaFkRfIdOQWbNMXBeMZYnbs9ZoKOixAVLZFH59JwZVnjwtLMVUnGS2BRF8Tc8w5z7sop3KKHQ70n409Uko9HPpkIT0jFfriK9ktQaWCRp/p1VaUSyxvrURiKbvfgmNDzLuDazEnAmrc4edgkCUAgaIcpBexqqykSwcTjGv35IxqkNLLVd0rpxgI2HhpxFO7+WoYxBc+Rw0niKcLFM0PueWFvFl2pvyMe3qELtHvV27zbdOdnEnaA0uZnR5tWwIwUnI0lL86e3dtxs6T1DUcoPfuS6yxXq3s+LFZDyN6tUDlC6Pc2BPJr3yJD4TWlhHHFGoY5S3Og2ffS2p9pzrMB6RYrTi810ZoNT4l5suQ==;xaSdKiC+dyhj8ibZbT8/cQ=="
 ---

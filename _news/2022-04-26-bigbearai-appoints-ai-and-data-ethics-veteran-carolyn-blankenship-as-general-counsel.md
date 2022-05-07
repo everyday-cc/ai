@@ -1,20 +1,20 @@
 ---
 category: news
 title: "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel"
-excerpt: "Blankenship brings decades of experience in artificial intelligence, data ethics, intellectual property, litigation, risk management, and M&A to BigBear.ai. BigBear.ai (NYSE: BBAI"
-publishedDateTime: 2022-04-26T12:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel"
+excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has appointed Carolyn Blankenship as General Counsel. In this role, Blankenship will develop and lead corporate legal strategy supporting BigBear."
+publishedDateTime: 2022-04-26T12:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "3J3hPGt3cZJ/jehz5n36JKE8lznh4TgMutjO6ZiZQ0/1KRZ3cbGDg6XcCRwPilCGkl4upCFjt9wsInwfZ4AZDWUOHhRUbiDpQdhjCr3EhUQuHYUAvcf7rGSODbw1Ca923bG+KNqoKO7lYYd2ulpMMj80KOY115hTqOIAIcpoCThuHSHKXia5ubQq7asfwHYRk/O2jXwWlBF7RZJDb830zPUxKD5fXfcB1e97djwcHN+gSU04J5pqZuC3SYqJNOcan4pduXi+B7hLy2uYE6yfZm1UQeUULGejUcLE5a4b1gvl1gC+iRGHsPRDIUpbbL+LHYuXfZA7KuG5sbKno2bfuexhr14xP+wros9bUIDdDpFrFGr4Gh056aBzSx+Ps4bZWIsVTyINW7eU//qN6VjzjSLpDy3oUpAvCJdBIbPcwsFGqO4x00faHWgEMwm2jImVTRe864fQTVwrHTjSUj2T16z9yZd5w5kYyRiUGdXgkbLkZa/+vLMnq4l3NdmVRW4PX4GpO5FbYzfVRy8t6eXmvw==;7gNdGS4gplvmSOvfpfikhw=="
+secured: "TNbvZsmqWEDozZb0IFLdoJ8PfIYaWaZWQh7GvKPKRJ9qopLUYEUg6qwc+VgQVHLm65lvXlPxR2RbdymGBY6cnmWKdnUuEt4VcJi1itptNPqPGzSGk2Va8v14dGnjr6NDrK1wAuAHGZPZ3KzZ4rnB0csXn1HNu/+zl0TPjSWSoPJuDY51BVTfKn2i5aPFfTL56yCUjxMkog5kdzgMEPgOR3Odr2hLJksKdsyVYbduCG2PRbNC4CVE6APsCQvk3pD+WSHrAD30eL8tRvNKb5RUzaO/AXv+gSQEbj36WWDhd0372jMleQgG0xeP0g8aqKmRoB7wW8hhrH/wpREcF/MZj9UNJLwTAPMMoh6tU0Klc6dRHs9nH1Zpbpiv4R2hoh6YYHfMU7Af1hFoMscSM0yaGuV7jdXCFhgAM/MN4GPDiGhPgf/lvDa2MLs0SPXJZ9hmXDoNZyzFzmRNddDudrbJCwX9QUhmtEY/wV9wXp0Ptx43RxU/HHbbxaXESEbkJc9PmVwWFz3eWelhF2U4NohRYA==;aggxyu7bIldhhjHXPRBTow=="
 ---
 

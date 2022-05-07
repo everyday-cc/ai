@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Infosenseglobal Announces a No-Code and Free to Use AI Platform"
-excerpt: "Infosenseglobal announced the community release of ML Sense, a first and unique, no code artificial intelligence platform to develop machine learning models in the most nimble"
+excerpt: "This is the very first release of the product since it announced its AI division last in February 2021. Infosenseglobal CEO Hitesh Ruparelia believes that his existing ERP customers could leverage this platform via simple predefined data connectors for ..."
 publishedDateTime: 2022-05-06T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/g27053124/infosenseglobal-announces-a-no-code-and-free-to-use-ai-platform"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/g27053124/infosenseglobal-announces-a-no-code-and-free-to-use-ai-platform"
-ampWebUrl: "https://www.benzinga.com/amp/content/27053124"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27053124"
+originalUrl: "https://www.digitaljournal.com/pr/infosenseglobal-announces-a-no-code-and-free-to-use-ai-platform"
+webUrl: "https://www.digitaljournal.com/pr/infosenseglobal-announces-a-no-code-and-free-to-use-ai-platform"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/65f90049a7456f256dcf2f97a0b3f8de59001787-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "EvcQ15dWg/OrMXDGULVxZILHKqCquuMD8hQo94wIp3ndh7P6T7WWQ9T3bNEex+JifhOgs54ErlBtHdFs24MUysS4NI+o6Rg0dvpKmK0AwIO6vPvFdk0MGEaPLeFCfIxG1rJS6r0ntHHnaCEqkryyhIRr1PzIF3nBSi/pf2GiOuKGECB7yOfjWUPMeVyRcXoyISGsu6D36AQgAeE2UoFZTK+DVV5nhYXfSvtS8jkE3cJuaVKErgIQHDw3AljEoxsATdRqti1SL+S0sCA0ntriJTqC2v9NrdAPDOvRrbGU2ACxyTHnVFj9JhD5ECpT7M2zCsR20cqQu2RSOm9euwbxOJuK9cvJMeInPtlf6Sc/N0gZHPrGSHYs6hMrR34o/Lxu7FIjpbhfYVA3N7VftKZZUnx7FY+OjHu9InAIOEiCrVxKbKBbUxyNxlKfLNAcS2Rc9Om96/9V5tDeYFyHCJihyCFYm43B/7mcpRAJ3YmzamvcI2A2lXDWcpOYskqWMBWDaP6bqaSI+OkxxP+l5b2wBQ==;Lz6yzXKtTwJ1NOAO7UffPQ=="
+secured: "xC19XJUvCd4TWYK8RX5IwUG0jiNH5uTtyayiIG7BeHwtoCK1enjNWP5CGsNeSTOYAJF/Sa/j9DaIid94/6ZtnNZ/++gdOf6PZSm8BPYPCvtKYXIRuJQ6Kw1vIimyF9rb4S7OE7UYjbKrKMVEiLvehjGqkCRuTpGT0ggu21GL/zuNnRul3OLdtzNXugLoaDQ+PKRqow5VYJsrbTZCPziDgaknhSPRl6j4TGEyZHnDWolx9J/L6Fhzzje4syopFjaxzTRdefrea/e0AOlmQckrRN6Gp+zocMfd/yzjlbTXnWKC5nOPjJjJtg1Yyw+rrjLqY3Mqlf+I3Yc7J/goBJRXHf47nm9Z7mGFmWYz13DfWSc=;V4ZMO/jD2ZohEHqawr30RA=="
 ---
 

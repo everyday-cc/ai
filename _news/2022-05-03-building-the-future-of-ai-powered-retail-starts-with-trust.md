@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6270afa356fe8039a23aa466/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How 6sense is paving the way to the future with AI"
-    excerpt: "The future is now, says 6sense, and that future is inevitably packed with AI. The company recently held its 'Future is Now' event, sharing what they are working on and how they are using their own product to build their own customer base. While I couldn ..."
-    publishedDateTime: 2022-05-02T09:07:00Z
-    webUrl: "https://diginomica.com/how-6sense-paving-way-future-ai"
-    ampWebUrl: "https://diginomica.com/how-6sense-paving-way-future-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-6sense-paving-way-future-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-03/board-1647323_640.jpg"
-        width: 640
-        height: 426
         isCached: true
   - title: "Splice just launched an AI-powered app that makes music with you"
     excerpt: "The company has launched a new artificial intelligence-powered music app called CoSo, which uses what Splice calls its ‘Complementary Sounds’ AI technology to create music “in split-seconds”. The CoSo mobile app, available on Android and IOS ..."

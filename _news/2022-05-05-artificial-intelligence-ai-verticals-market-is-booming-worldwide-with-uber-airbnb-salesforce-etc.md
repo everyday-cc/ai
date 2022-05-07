@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Advisory Service Market to Witness Huge Growth by 2030 | Google, Salesforce, Intel, Fair Isaac"
-    excerpt: "Artificial intelligence advisory service help companies to improve ... Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others) Get Up to 10-25% Discount on Various License ..."
-    publishedDateTime: 2022-05-02T07:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-advisory-service-market-to-witness-huge-growth-by-2030-google-salesforce-intel-fair-isaac"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/cd9543b3ef41b34c81c8ea127008874018421dea-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Upstart Announces Upstart AI Lending for Salesforce on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
     excerpt: "Upstart (NASDAQ: UPST), a leading artificial intelligence (AI) lending platform, today announced Upstart AI Lending for Salesforce on Salesforce AppExchange. Aimed to bring AI-enabled lending to the financial services industry, this integration can help ..."
     publishedDateTime: 2022-05-04T13:22:00Z

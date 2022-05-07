@@ -39,6 +39,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "PROFESSIONAL FIGHTERS LEAGUE PARTNERS WITH FLAGSHIP GROUP SOLUTIONS TO DELIVER UNMATCHED MMA FAN EXPERIENCE WITH SMARTCAGE INNOVATIONS FOR 2022 ..."
+    excerpt: "... the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA. Under the agreement, the league will leverage IBM's cloud and Watson technologies to further develop PFL's industry ..."
+    publishedDateTime: 2022-05-05T00:01:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/05/9597187.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Kzobhy+tUFfh9/YZ6KBqK7MFhbUw3Im2h06QbpWYCKjn3elW0edVuFxYKeKoCubwETMQK2pVwJyUVdEnSXZblxutWrRAHeNsaB+wZBZ0b5KowL5F2UG+HQYj/Ft+/B29up11CucOWwrsXD4xXU9bMS5wEgOnJbdmQb5DCoUwueVTF3PokC4xdWssytX7S5I7IUC5/xSOYymcZv87plpaPQGkr4ew4Zwbkp+02pSUYhkbOeSHiHOPuJkwrqlEqnGiG80oFBmY+40C+0x4VNtE2j0MVFn7+DZUrNvvSBZl41pOcCx06iGruJcXtpMf9g+aklhqpWXlcDtRXAOxP8pvXlvBHkM7zJxj8TQZBVM7Yao=;ek3SlrF/vpR6Eahv+BIPcg=="
 ---

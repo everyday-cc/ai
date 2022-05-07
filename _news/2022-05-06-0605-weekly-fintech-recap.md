@@ -50,20 +50,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Why Gig Economy Has Become a New Trend in Fintech"
-    excerpt: "Fintech startups are more suitable for this job ... Ventures, such as B9, Chime, Earnin, and Brigit, are able to calculate risks with the help of AI at incredible speed. They use it to provide gig workers with quick access to advances on paychecks with ..."
-    publishedDateTime: 2022-05-02T08:00:00Z
-    webUrl: "https://fintechmagazine.com/digital-payments/why-gig-economy-has-become-a-new-trend-in-fintech"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/ab450196b08dde36e9abdde7a8dbf64c:0c06a3e68bc9800bf851df4cc1523005/gettyimages-1154103460-1.jpg.jpg"
-        width: 1800
-        height: 1011
-        isCached: true
   - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
     excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"
     publishedDateTime: 2022-05-06T08:52:00Z

@@ -2,6 +2,92 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-03-20-general-motors-acquires-softbank-vision-funds-stake-in-driverless-car-unit-cruise-for-21b.md",
+      "title": "General Motors acquires SoftBank Vision Funds' stake in driverless-car unit Cruise for $2.1b",
+      "excerpt": "General Motors announced it is acquiring SoftBank Vision Fund 1’s equity ownership stake in Cruise for $2.1 billion and separately will make an additional $1.35 billion investment in Cruise, replacing a previous commitment made by the fund in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b/",
+      "originalUrl": "https://www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0322/general_motors.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b.amp",
+      "publishedDateTime": "2022-03-20T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-20-siemens-energy-chooses-razor-labs-datamind-ai-for-increased-efficiency-utilizing-deep-learning.md",
+      "title": "Siemens Energy Chooses Razor Labs' DATAMIND AI For Increased Efficiency Utilizing Deep Learning",
+      "excerpt": "Razor Labs, a leading developer of AI solutions for industrial manufacturing processes, today announced that  Siemens Energy has selected Razor Labs to implement a pilot at its O&M site in Israel, for the station’s cooling system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/march-2022/siemens-energy-razor-labs-datamind-ai-learning",
+      "originalUrl": "https://www.automation.com/en-us/articles/march-2022/siemens-energy-razor-labs-datamind-ai-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/72785a7c-db29-4846-ae17-b65d6be3000f/Deep-learning-news-March-18-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-dubai-eyes-the-future-with-self-driving-cabs.md",
       "title": "Dubai eyes the future with self-driving cabs",
       "excerpt": "aims to overhaul the taxi sector by employing artificial intelligence and smart systems. And as a step towards that, the RTA has already begun laying the groundwork by signing a partnership agreement with General Motors-backed Cruise to run driverless ...",
@@ -991,91 +1077,6 @@
         "AI in Autos",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-developing-an-autonomous-robotic-platform-to-improve-the-quality-of-sleep.md",
-      "title": "Developing an autonomous robotic platform to improve the quality of sleep",
-      "excerpt": "For World Sleep Day, we speak to Alexander Breuss from the Sensory-Motor Systems Lab about their autonomous robotic sleep platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220318/Developing-an-autonomous-robotic-platform-to-improve-the-quality-of-sleep.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220318/Developing-an-autonomous-robotic-platform-to-improve-the-quality-of-sleep.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/images/news/ImageForNews_707345_16474221853446500.gif",
-          "width": 950,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220318/Developing-an-autonomous-robotic-platform-to-improve-the-quality-of-sleep.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220318/Developing-an-autonomous-robotic-platform-to-improve-the-quality-of-sleep.aspx",
-      "publishedDateTime": "2022-03-18T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-modern-intelligence-raises-5m-in-seed-funding.md",
-      "title": "Modern Intelligence Raises $5M In Seed Funding",
-      "excerpt": "Modern Intelligence, an Austin, Texas-based AI startup focused on the defense sector, raised $5m in seed funding",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/03/modern-intelligence-raises-5m-in-seed-funding.html",
-      "originalUrl": "https://www.finsmes.com/2022/03/modern-intelligence-raises-5m-in-seed-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/03/image-37.jpeg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
