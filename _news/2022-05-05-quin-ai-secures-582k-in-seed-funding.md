@@ -23,6 +23,17 @@ images:
     height: 293
     isCached: true
 
+related:
+  - title: "Seed Funds for Predictive AI Start-up Quin"
+    excerpt: "London-based machine learning start-up Quin AI has raised £582k in seed funding, which it will use to scale the business across the UK and Germany and build out its business offering. Quin AI was founded in 2020 by former iLab Ventures Analytics Manager ..."
+    publishedDateTime: 2022-05-06T22:21:00Z
+    webUrl: "https://www.mrweb.com/drno/news33230.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 17
+
 secured: "165tFPBoj49ZBD34yi82j6djwJOY7mvVRAal00XkRPuN/Yq+mGU/te9mx5v4aRVM8eStJNiIjQa3az5cbtQdZE6Q7zzKNh1EvXghbQBTozI7KhKcNbPN1Y4NujOnvMsW4WEZOogN8tek28Nr8dxhyTWWIWddPTPiMSvTXAwq6/mZCwIAheJQZo4mAhnrSx4vkkQqe7wla6LlGACS3tQ/rbVLxvrXblomlo0go8Pqn/MKVCifHhLHelrFxBUfA3NQ3NfTjFspLAbTdu7Cep9jHblZmv6ib0t0YIHJlUHU7AdxF+mzYl2G4lHW+EP40sgnJFXcKvB1+89eA9ORKOor4VhHjfuGOqKEAwagsknqvdA=;imNnfQMBsJog5T2f7ufnZw=="
 ---
 

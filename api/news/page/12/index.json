@@ -2,6 +2,40 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-04-24-npaw-introduces-natural-language-video-insights-search.md",
+      "title": "NPAW introduces natural language video insights search",
+      "excerpt": "NPAW has introduced NaLa, a natural language-based video insights search tool. Integrated into the NPAW Suite of video analytics solutions, NaLa leverages ML and natural language processing to handle data search requests based on simple,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltvnews.net/?p=38148",
+      "originalUrl": "https://www.digitaltvnews.net/?p=38148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital TV News",
+        "domain": "digitaltvnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-commerces-bis-can-help-stop-chinas-quest-for-ai-dominance.md",
       "title": "Commerce’s BIS Can Help Stop China’s Quest For AI Dominance",
       "excerpt": "AI will transform militaries through innovations in intelligence, surveillance, reconnaissance, logistics, command and control capabilities, weapons systems, and so on. Last year a landmark U.S. National Security Commission on Artificial Intelligence (NSCAI) report found,",
@@ -1109,48 +1143,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-artificial-intelligence-helps-physicians-better-assess-the-effectiveness-of-bladder-cancer-treatment.md",
-      "title": "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment",
-      "excerpt": "In a small but multi-institutional study, an artificial intelligence-based system improved providers’ assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery).",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/950470",
-      "originalUrl": "https://www.eurekalert.org/news-releases/950470",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c08c8650-3d30-4682-9cee-cbd963f2cce4/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-22T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

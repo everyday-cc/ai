@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NASA weaves a data and AI fabric for drone intelligence"
+    excerpt: "NASA is spearheading a project to build a Data and Reasoning Fabric (DRF) that will not only pass relevant information to drones and allow them to share information, but also feature AI and machine learning services that will allow unmanned systems to make ..."
+    publishedDateTime: 2022-05-06T22:01:00Z
+    webUrl: "https://gcn.com/emerging-tech/2022/05/nasa-weaves-data-and-ai-fabric-drone-intelligence/366642/"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 37
+    images:
+      - url: "https://cdn.gcn.com/media/img/cd/2022/05/06/NASA_DRF_GCN050622/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "4iWzUSp0gSP0S35sU14pzEXL4xPHWF7Nt5jbCMI5MhU7lVI1xajRuFO3nndekIZkI7+TG+Qdt1m1WAxt9yo9Yj115ylXS9SEV1rm5oLLqGsRFWxqXdVpN5wvo8XMxJjsvnneTASToZ/mYliPIRgycO9KvJs/yEmGfg0qdkMNIC31u913ClctmEMkdf4UjKUmIpAf9IPY2z5KkwfHt+7ehBqtbaodbmtaFebAscd2K7gtPmwlD7ANXqwbTlKxsvluHels+e0hIgZy/sidrb2m8CIFbqJtI2ZgnnMkUZrL2iDbPfTbAyCxwhr0E6mhC7GWZjdUlUGTLmD+sVDlfS5fSym3P4odKjxGrUsD0/qDWo76htZlDfx3niCAzqB/gwcsuH2siIw5uti+e4Zqbg/P6LTmTpkxKQ+4BRj2p0f7RZni9XBEP3Biy5tYTAN3jOA4Px9zZ03sLWloJOjazOUx2Y+ocDt2bILgj1iWhSA3mr1F769sbg3Nup68G4fYKgiRb4Zkwa7zkfSoapvFAP5Vfg==;wAQqSxwUEO/y3/13JTEM5Q=="
 ---

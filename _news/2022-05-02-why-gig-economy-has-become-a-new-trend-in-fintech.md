@@ -50,20 +50,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Fintech Lenders Go Big on Cannabis Industry"
-    excerpt: "Los Angeles investors are puffing up the cannabis fintech industry, providing funding workarounds for companies that have historically been denied access to conventional finance. West Hollywood ..."
-    publishedDateTime: 2022-05-02T07:05:00Z
-    webUrl: "https://labusinessjournal.com/technology/fintech-lenders-go-big-on-cannabis-industry/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 24
-    images:
-      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/04/Screenshot-2022-04-29-155232.jpg"
-        width: 364
-        height: 362
-        isCached: true
   - title: "06/05 – Weekly Fintech Recap"
     excerpt: "Partnerships Ophelos Partners with Credit Card Startup, Yonder, for Ethical Debt Resolution Ophelos, the technology firm building fairer debt resolution for businesses and their customers, announces its partnership with Yonder,"
     publishedDateTime: 2022-05-06T09:25:00Z

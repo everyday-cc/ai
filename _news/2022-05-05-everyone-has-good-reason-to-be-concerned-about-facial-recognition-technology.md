@@ -140,6 +140,20 @@ related:
         width: 666
         height: 500
         isCached: true
+  - title: "Manatee County migrant students receive special recognition"
+    excerpt: "High school seniors received special recognition at the 36 th annual migrant education ... \"Some of the barriers and things that they face for example might be poverty, a language barrier, and in addition their parents move from one county to another ..."
+    publishedDateTime: 2022-05-06T23:37:00Z
+    webUrl: "https://www.snntv.com/story/46440959/manatee-county-migrant-students-receive-special-recognition"
+    type: article
+    provider:
+      name: SNN TV
+      domain: snntv.com
+    quality: 24
+    images:
+      - url: "https://SNN.images.worldnow.com/images/22637510_G.jpeg?lastEditedDate=1651865812000"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Time to talk specifics of new facial recognition legislation, Canadian privacy authorities say"
     excerpt: "Lawmakers in Canada are being urged by privacy authorities to pass new laws to protect people from the risks associated with facial recognition, while also allowing it to be used by police in certain situations. Canadian Privacy Commissioner Daniel ..."
     publishedDateTime: 2022-05-02T18:20:00Z

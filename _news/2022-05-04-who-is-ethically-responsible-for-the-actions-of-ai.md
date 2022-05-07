@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsweekly.com/news/business/ethically-responsi
 webUrl: "https://www.electronicsweekly.com/news/business/ethically-responsible-actions-ai-2022-05/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20220505pd205_files/2_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "AI for the Trades"
-    excerpt: "Anmol Bhasin, chief technology officer for ServiceTitan, said he previously worked with AI at Salesforce.com Inc. and Groupon Inc., and his goal is to bring the same types of services that those ..."
-    publishedDateTime: 2022-05-02T07:05:00Z
-    webUrl: "https://labusinessjournal.com/featured/ai-for-the-trades/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/04/PG01_ServiceTitan_Event-for-AI5-1-e1651267189431.jpg"
-        width: 1799
-        height: 1200
         isCached: true
 
 secured: "T4Mkyv6COGRtODCWZiHSqL5BmRWT/ekoGA+ymsaBhe4jQoh1d9vwXJ8fo33YDPrQnrJzXVN5qovSyQ7MUHGcsV9iMj/tjj3Z0JEj+ZCbb3cFoYLS05eEy10KSJSX8t4EYI5wFdHog5IVv7WhkFTEDA1P8aVgVwd2a9esx+XqmEIfCDrvpdV8ut7dFV7lEgljhQsyowiDKB3QEsic+mgKxpLDe584nlNvJxE46fKIi5/OKmJs916pjPE4PGw56qRMJY+f5YbxUjT3sFKXX5O1FTZvj8uZv2m910m2scmJVi/Hcyp3RXU0fF4KBQU4/mhlzkPywEIoJcEEL56TL3ATRFW9mGyBqkKiiGsfIGSS/Lg=;JCDQLtN5u1uR4puRSS58LA=="

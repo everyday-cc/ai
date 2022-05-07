@@ -32,6 +32,20 @@ related:
         width: 1140
         height: 540
         isCached: true
+  - title: "EU committees propose strengthened AI Act tougher on biometric surveillance"
+    excerpt: "The Act is intended to govern the development and deployment of AI to safeguard citizens while ensuring the technology would be seen as trustworthy."
+    publishedDateTime: 2022-05-06T22:15:00Z
+    webUrl: "https://www.biometricupdate.com/202205/eu-committees-propose-strengthened-ai-act-tougher-on-biometric-surveillance"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
+        isCached: true
   - title: "authID.ai achieves perfect score for ISO Level 2 biometric presentation attack detection"
     excerpt: "LONG BEACH, NY , May 03, 2022 (GLOBE NEWSWIRE) -- authID.ai [Nasdaq: AUID], a leading provider of secure, mobile, biometric identity authentication solutions,has announced that the company’s Verified™ platform has achieved conformance with ISO ..."
     publishedDateTime: 2022-05-03T21:52:00Z

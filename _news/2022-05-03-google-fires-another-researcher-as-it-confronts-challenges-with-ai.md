@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The quest for explainable AI"
+    excerpt: "Explainable AI seeks to infuse algorithms with transparency so that even lay users can ensure their AI is operating within acceptable bounds."
+    publishedDateTime: 2022-05-06T23:01:00Z
+    webUrl: "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1364050120-e1651871311915.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Google faces internal battle over research on AI to speed chip design"
     excerpt: "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips."
     publishedDateTime: 2022-05-03T16:54:00Z

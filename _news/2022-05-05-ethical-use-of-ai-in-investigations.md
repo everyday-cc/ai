@@ -53,20 +53,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "AI for the Trades"
-    excerpt: "Anmol Bhasin, chief technology officer for ServiceTitan, said he previously worked with AI at Salesforce.com Inc. and Groupon Inc., and his goal is to bring the same types of services that those ..."
-    publishedDateTime: 2022-05-02T07:05:00Z
-    webUrl: "https://labusinessjournal.com/featured/ai-for-the-trades/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/04/PG01_ServiceTitan_Event-for-AI5-1-e1651267189431.jpg"
-        width: 1799
-        height: 1200
-        isCached: true
 
 secured: "kjMWNtVRg2RLka/O7CNv47W0PAMA0DDme2lJAIzQ+greQLWxGmz4tAf23zZUU6W8uAKi15zVf6ahypa8iY0QPl3zMrbBy36FmYM5XhQHN2Yjkvc7+LKGtykDIyNBngQq6VMyXAj1NfkCUejwdqiK0fArTjsdV3cdRHsGnbIEZnzdy556YEHxxb1wnfxVZZdEjbAFq/W3t7CDDqdgjwpvrJrxdz7u83PREQmmgUDLAKXGGQmEc+q5ci3UId2eAu5ocY+K2ELuotV7pWhCn8oMFZLYB9EwuNA1mcxTxuo7xY4SkjUug2iPVoHidq6p5ku3ClW9kt4HwaQw6rw/Vs2W13KJmJQaPNR0S+O4lKeYeqg=;6+JAaAJCydTSEeaG6rFCmw=="
 ---

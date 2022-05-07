@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com/nvidia-to-pay-5-5m-fine-for-failing-to-disclos
 webUrl: "https://www.crn.com/nvidia-to-pay-5-5m-fine-for-failing-to-disclose-gpu-cryptomining-sales-sec"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: CRN
@@ -26,23 +26,23 @@ images:
     isCached: true
 
 related:
-  - title: "Hashtag Trending May 2 – Stop using Internet Explorer; AI tool to detect deep fakes; cryptomining in Texas rivals Hustan energy use"
-    excerpt: "One computer scientist from Singapore bested 469 other teams from around the world in a gruelling 5-month-long AI competition. The competition was held to develop the best AI model for detecting deep fakes. The one-man team, Wang Meiming, built a deep fake ..."
-    publishedDateTime: 2022-05-02T09:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-may-2-stop-using-internet-explorer-ai-tool-to-detect-deep-fakes-cryptomining-in-texas-rivals-hustan-energy-use/482263?amp=1"
+  - title: "Nvidia burns $5.5 million settling with SEC on GPU sales to crypto miners"
+    excerpt: "We all had a bad time waiting out the graphics card shortage that took place from late 2020 up until recently, but it wasn’t the first time crypto mining was to blame for a lack of Nvidia and AMD GPUs. Back in 2017 and 2018 there was another similar ..."
+    publishedDateTime: 2022-05-06T23:15:00Z
+    webUrl: "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/"
+    ampWebUrl: "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 27
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 75
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
-        width: 1500
-        height: 1500
+      - url: "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/05/nvidia-crypto-money-sec-settlement-mining-gpu-graphics-cards-gaming-availability.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "+NV9mw82SIsfmrkqbwU3aNRZ3w40PnaHV+u07DIEMP3YcXd+Xah9MR/nEIMbSvAGdW03aQstTa+JFPBV69K6ADP2KeyDMm5tGZ7iBJcTIxlgqlfo4mTBYGd9HP2QsJfHWO/3LcIOk+xhlfqpj1MVRHZ1QiBIhrWSBw5AwKZVZVdcQ1C59Qz4QpooJKj02k0LPyiDWTQr8I1aQHc+ZTIWrMENwqahXQQwDjH8FJbE9Qe8/RyxaDbbIsX9LKphu8lOF7AI9PqC6hSkdO03Fsl6XzE0IFVGzaRAd50gwtN800F6J74dEyf0di0VDo+sbxx6aFUpqVAAi1I/ZWYcUNKnIAkTm0Cr6t5Qu7YDRD+jX3Q=;phyOoMUAGDI4/POYumY7+Q=="
+secured: "vIReR+POd1gEXZS+n1MNhH6/EWPNibg5a1XIokeMuGOm4QWrUkZKPNRY2ElzsO5MSh7ZLHtEXx+oJ+if18K9ld5h4e3wrVHsDTNT+VVPR172WjtfQjRm7u2SP0gQlKO3HPV7buBMCwdoRrXUB05DdcttjReR9leNhT0n/21+p+6Osb95lt7F1knAM5LijeLqcIHjwSsnAze8e8YodC795m9yDZUL/Z9Jidl0qP+MF7mm4F98GYELMuU8xXphvhDE0n727vO81GnJNA1WyWOFD5yQlbo3gtUhCiLsmQi6z5kGJPxFfW3xs5gcLz2W4glTRg/tHwfrkrA3O4pXH/9xWk8Q2kT182p9pb9l4DMdPh2e0fRdpZmWgavJbFFw2j8QtF9f6znGlJlGFPVVYVVrIP9+Mt5qn1VoH2q4saHcPTyS+IoWRAMRtjVIQmHPJNp9XYvxsnHq/ZZGrYZ2zQAnmawMhrMma4Pdg7OcOKnl/6mQAHRrF3qoHSa0UwHhOK2XV/rmEZsvqnQIYCJJGubh8w==;F8a4L+u6KrCDMZ5uEL2FnQ=="
 ---
 

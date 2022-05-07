@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-03-24-ayanna-howard-makes-the-case-for-companion-robots.md",
+      "title": "Ayanna Howard Makes the Case for Companion Robots",
+      "excerpt": "The Ohio State University’s College of Engineering. Long before she became an award-winning roboticist, Ayanna Howard, Ph.D., was a Star Wars fan. While she loved watching Luke Skywalker’s battles with Darth Vader and Han Solo’s sharp commandeering of the Millennium Falcon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aaas.org/membership/member-spotlight/ayanna-howard-makes-case-companion-robots",
+      "originalUrl": "https://www.aaas.org/membership/member-spotlight/ayanna-howard-makes-case-companion-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aaas.org/sites/default/files/styles/large/public/2022-03/2%20Howard_MG_4694.jpg?itok=bi79781g",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AAAS",
+        "domain": "aaas.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-ukraine-is-using-facial-recognition-tech-to-identify-dead-russian-soldiers-and-inform-their-families.md",
       "title": "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families",
       "excerpt": "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers.",
@@ -1107,49 +1150,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-snap-goes-to-the-oscars-spots-encourage-viewers-to-learn-sign-language.md",
-      "title": "Snap Goes To The Oscars, Spots Encourage Viewers To Learn Sign Language",
-      "excerpt": "Snap's first Oscars TV spots honor deaf and hard-of-hearing communities, and feature Snapchat's AR fingerspelling Lenses, which encourage users to learn American Sign Language directly in the app. This year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/372395/snap-goes-to-the-oscars-encourages-viewers-to-lea.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/372395/snap-goes-to-the-oscars-encourages-viewers-to-lea.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/03/24/screen-shot-2022-03-24-at-41408-pm_yJSQw0x.png",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
