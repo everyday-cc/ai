@@ -24,29 +24,59 @@ images:
     isCached: true
 
 related:
-  - title: "GLYNT.AI Honored with Awards from Fast Company"
-    excerpt: "MOUNTAIN VIEW, Calif., May 3, 2022 /PRNewswire-PRWeb/ -- The winners of Fast Company's 2022 World Changing Ideas Awards were announced today, and GLYNT.AI was selected as an honorable mention in two categories, AI & Data, and World Changing Ideas."
-    publishedDateTime: 2022-05-03T19:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/glynt-ai-honored-with-awards-from-fast-company/article_f40b44ef-641b-5cb5-8d01-d4650b7ef2aa.html"
+  - title: "Top AI Companies Riding the Innovation Wave in 2022"
+    excerpt: "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ..."
+    publishedDateTime: 2022-05-07T07:31:00Z
+    webUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/"
+    ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg"
+        width: 1000
+        height: 570
         isCached: true
-  - title: "HiredScore's Blueprint Named Honorable Mention in AI & Data Category of Fast Company's 2022 World Changing Ideas Awards"
-    excerpt: "Now in its sixth year, the World Changing Ideas Awards showcase 39 winners, 350 finalists, and more than 600 honorable mentions—with climate, social justice, and AI and data among the most ..."
-    publishedDateTime: 2022-05-03T11:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hiredscore-s-blueprint-named-honorable-mention-in-ai-data-category-of-fast-company-s-2022-world-changing-ideas-awards-1031412949"
+  - title: "The impact of using AI in the boardroom"
+    excerpt: "In applying the term artificial intelligence (AI ... One of the main problems brought by self-driving corporations or self-driving subsidiaries as an intermediate entity for replacing human-centred boards is the accountable issues and possibilities ..."
+    publishedDateTime: 2022-05-04T08:57:00Z
+    webUrl: "https://www.lawcareers.net/Explore/LCNSays/The-impact-of-using-AI-in-the-boardroom"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
+      name: LawCareers.Net
+      domain: lawcareers.net
+    quality: 39
+    images:
+      - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
+        width: 439
+        height: 614
+        isCached: true
+  - title: "The EU Is Throwing Stones in the Data Lake by Regulating AI – What Global Companies Need to Do Now to Prepare"
+    excerpt: "“The AI Act includes data collection requirements such as bias prevention ... and interoperable data to maintain a competitive advantage: Businesses should start implementing these practices as soon as possible to avoid lagging behind the competition ..."
+    publishedDateTime: 2022-05-03T11:15:00Z
+    webUrl: "https://www.ipwatchdog.com/2022/05/03/the-eu-is-throwing-stones-in-the-data-lake-by-regulating-ai-what-global-companies-need-to-do-now-to-prepare/id=148793/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 18
+    images:
+      - url: "https://www.ipwatchdog.com/wp-content/uploads/2022/05/Depositphotos_302318336_XL.jpg"
+        width: 7895
+        height: 4500
+        isCached: true
+  - title: "AI in Medical Hygiene Market 2022 Innovation, Business Strategy, Future Technology, Application, Top Key Companies Analysis to 2028"
+    excerpt: "Intelligence Market Report Publish New Research Report On-“AI in Medical Hygiene 2022 Market Analysis by Key Players, Applications, Growth Trends, Share & Segment Forecast to 2028” London, UK -- (SBWIRE) -- 05/03/2022 -- AI in Medical Hygiene Market ..."
+    publishedDateTime: 2022-05-03T16:47:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-3-ai-in-medical-hygiene-market-2022-innovation-business-strategy-future-technology-application-top-key-companies-analysis-to-2028"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "TqH+LUGa1pA4jogE++H+T+f0GtBcf3ClJbVU+FHE2bFE1pBtnVXjeWj5JdFvCpHDHBFNbznqfVmwL44bvc5Ud+f1W5pU58I1TcS3wsdTalgGb5N00qeS8RdKj0Z+RBTH1msNxECNl/KewQzZZVxIdnYeF5pucruy4+wVE7i0f1FZgSFy7O3AE8J3JSOmtj6z98pAOF6XcBOiG3hNrFXOH53KMMuD/wXCD4WyESIRO8I3HXPjJsljlHkhH9UMFwNvcUl+UifbSIU9UyS+UDSarpRf9m6HDwoRZiqLDNYtxZeEkW8dKKAwsYib0EC0OXuqbyoCrF/Fz/M89y920R2Fy98WSmn9ProcFNQFlkjnrMo=;WKpBxXy/+hgPyCwmpdtWsA=="
 ---

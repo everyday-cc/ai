@@ -23,17 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Swiss Startup Vidby.com Helps Achieve Up to 99% Accuracy in Video Translation Thanks to Artificial Intelligence"
-    excerpt: "ROTKREUZ, SWITZERLAND / ACCESSWIRE / May 2, 2022 / vidby AG has created a service that translates and voices videos in 70 languages in a couple of minutes and costs from $0.9 per minute of the original video. vidby empowers bloggers, media ..."
-    publishedDateTime: 2022-05-02T13:45:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-2-swiss-startup-vidbycom-helps-achieve-up-to-99-accuracy-in-video-translation-thanks-to-artificial-intelligence"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-
 secured: "n/4t8i3ACYxkHOJsI8e9WDPKSlWsy8WDC2Ulfe+upNzKmiHCPsv5Jy5x1TtCLVLr1ahpIFX0HN5ukSbWOKgxojAbYEmtj8wXMpLzuRLMSNgg3VjiFwA4PctKy/9qZZKHkTX0wo9Aw7rYIcFMoKWZSISpccFeslDSHHr0Nmaq4JoBBkeGwmioNoXedcp3IXdC2LD0tTExhgGtmpDwluEhhLiE4SEEqwJDIuA509NpNp8bSh21fDMLwNBRoRujogNmi526ZZDXLVMe2T1/XcHR0nhdDEF/mDRoefTmkolIZb8wjMCgINwIXkUF+w3fQ9OsW+tSb/itG4uA/U+VmAHvusL76Fbcyw06VdlkwG3LVcm9thl3onwRasp2r8x4gXu0i278WyRfLEk2RoObrAvw8R5VVDCIQcPgbn1sg4p+mz32lLp6lsae3V2rsJXcmxwjswwzM+c0jXkS+p4edlABfpS6EBC8wrrvAX5smXHl0GSKfYmdlwDKH9qSnvpsVsuPYrFV2nqhZWN1HQlKj9FyFA==;aa3ldLfyWqkkLEeHsJcGsQ=="
 ---
 

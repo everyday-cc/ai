@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/05/03/wedbush-lowers-c3-ai-nysea
 webUrl: "https://www.defenseworld.net/2022/05/03/wedbush-lowers-c3-ai-nyseai-to-neutral.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Attention Investors: What’s Really Happening To C3.ai Inc. (NYSE: AI)"
-    excerpt: "Smart investors will not be hesitating on this one! C3.ai Inc., which has a market valuation of $1.90 billion, is expected to release its quarterly earnings report Feb 28, 2022 – Mar 04, 2022. Analysts tracking AI have forecast the quarterly EPS to ..."
-    publishedDateTime: 2022-05-02T13:41:00Z
-    webUrl: "https://stocksregister.com/2022/05/02/attention-investors-whats-really-happening-to-c3-ai-inc-nyse-ai/"
-    type: article
-    provider:
-      name: stocksregister
-      domain: stocksregister.com
-    quality: 17
   - title: "C3.ai (NYSE:AI) Cut to Hold at Zacks Investment Research"
     excerpt: "Zacks Investment Research lowered shares of C3.ai (NYSE:AI – Get Rating) from a buy rating to a hold rating in a research report released on Tuesday morning, Zacks.com reports. According to Zacks, “C3.ai Inc. is an enterprise AI software provider for ..."
     publishedDateTime: 2022-05-04T07:24:00Z

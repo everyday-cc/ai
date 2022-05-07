@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-07-top-ai-companies-riding-the-innovation-wave-in-2022.md",
+      "title": "Top AI Companies Riding the Innovation Wave in 2022",
+      "excerpt": "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/",
+      "originalUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg",
+          "width": 1000,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/",
+      "publishedDateTime": "2022-05-07T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Leadership",
+        "domain": "industryleadersmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-blockchain-iot-market-growing-at-a-cagr-451-key-player-ibm-microsoft-intel-amazon-web-services-huawei.md",
       "title": "Blockchain IoT Market Growing at a CAGR 45.1% | Key Player IBM, Microsoft, Intel, Amazon Web Services, Huawei",
       "excerpt": "Huawei (China), Cisco (US), SAP (Germany), Ethereum Foundation (Switzerland), The Linux Foundation (US), R3 (US), Arctouch (US), Waltonchain",
@@ -44,50 +87,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai.md",
-      "title": "IBM Watson Health’s Challenges Tell Us More About Healthcare Data Than It Does About AI",
-      "excerpt": "CEO of 1upHealth, a cloud-based data interoperability platform built on FHIR that unlocks healthcare data to help improve outcomes. IBM Watson Health started its “life” with big aspirations, great intent and a lot of fanfare. After years of effort with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

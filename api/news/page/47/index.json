@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-03-25-business-law-prof-blog.md",
+      "title": "Business Law Prof Blog",
+      "excerpt": "I'm continuing to read my way through Hilary Allen's Driverless Finance ... We now have rapidly developing artificial intelligence technology working to identify and learn from patterns ...",
+      "sourceUrl": null,
+      "webUrl": "https://lawprofessors.typepad.com/business_law/2022/03/driverless-finance-fintech-and-risk-management.html",
+      "originalUrl": "https://lawprofessors.typepad.com/business_law/2022/03/driverless-finance-fintech-and-risk-management.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lawprofessors.typepad.com/responsive-template/CALIadvert.jpg",
+          "width": 800,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TypePad",
+        "domain": "typepad.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-5-instructional-design-software-to-create-incredible-content.md",
       "title": "5 Instructional Design Software To Create Incredible Content",
       "excerpt": "The memories of online classes that were immersive and appealing both in outlook and delivery would forever be cemented in the subconscious of the user as their cognitive abilities ... Also, it easily integrates with Microsoft PowerPoint.",
@@ -1130,48 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi.md",
-      "title": "Edtech startup TagHive all set to deploy its AI-powered app 'Class Saathi'",
-      "excerpt": "Class Saathi is designed to integrate into the education ecosystem and enable data-driven strategy without additional infrastructure. It is an AI-powered self-learning app from TagHive Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/03/24/1600x900/20220324_165758_0000_(1)_1648122980524_1648122990806.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html",
-      "publishedDateTime": "2022-03-24T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

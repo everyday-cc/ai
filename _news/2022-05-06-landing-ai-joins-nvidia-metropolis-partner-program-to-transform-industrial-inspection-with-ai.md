@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
+excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has"
 publishedDateTime: 2022-05-05T21:44:00Z
-originalUrl: "https://www.nbc4i.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
-webUrl: "https://www.nbc4i.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/article_a96b96d0-db29-5133-9bf7-187e3639c1c5.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/article_a96b96d0-db29-5133-9bf7-187e3639c1c5.html"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: NBC4i
-  domain: nbc4i.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
-    width: 400
-    height: 205
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -40,6 +40,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Allied Solutions Partners with Scienaptic AI to Deliver Enhanced Credit Decisioning Platform"
+    excerpt: "Allied Solutions, one of the largest providers of insurance, lending, risk management, and data enabled products to credit unions, has just launched a strategic collaboration with Scienaptic AI, leading AI-powered credit underwriting platform provider."
+    publishedDateTime: 2022-05-06T08:18:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/allied-solutions-partners-scienaptic-ai-deliver-enhanced-credit"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 26
+    images:
+      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_0.png"
+        width: 900
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence In Computer Vision Market is Booming Worldwide | NVIDIA, Intel, Qualcomm"
     excerpt: "The Latest Released Artificial Intelligence In Computer Vision market study has evaluated the future growth potential of Global Artificial Intelligence In"
     publishedDateTime: 2022-05-06T13:44:00Z
@@ -50,6 +64,6 @@ related:
       domain: digitaljournal.com
     quality: 25
 
-secured: "SeGFEx/6lvpKEZQPkTBStf2R8QhUfetabwWLjodDOCpqk/SFDfuZqPBjf2Bmincqh3/7eO3eGyRZggyShQ5ZXYUDgDM2dbFlMq0zhP9rbWI2H2NXb7G1Askq0R15FBzkWcuVc+2s4dS4J42zqgmjuDFN5F/8R2LyzJrZRVhgs3NN3UJCWUOV4tBXCzSZZ6iQB9ysaZJ7jxqd2yEgy/GI79Qr1qOsJ19UMI7cHOuTD5v/ocfiKPLN04Hbr3mXjgwccRo7bBHhlHVMXjPqgcZYhBGTIMufy5Nk+sdDKTZiSZEKn8nkQcwp+AYDBMHpC4PKWt3gBLTP9rQIpSJ9Dx1J2eA0Ya4QiuppxHZwkXLcBH8=;nX/MXw+SNGn7V+DNtnoqNg=="
+secured: "tY8KO5Z9TutRibVWMorZvEHcqXvLBQoltmqbBwq8ArQi0Y12i7v/X4aHoh6Ilzjbcj1yhEc4vjc+HR8+m7BhGNuDfoXVEAbHilu9rbFWyo0phm+DKZtmzFrJrd/fTSmTpwVf15DNB/hYMd9GVERWY0bkeknWEFYQMHPW57iGqr0TjOTQg8FP39lWGhzOWIgxDmhSsFCbVwZq7ZskrUqgm8rztI389ctjy51PUlrB9TdO9f7J6lKG5OzTAHXht8MnmcfXJch0XiimOyWldK6xNzJq+1UZEJoNuyPxlnbA0UBf1hkXaxb6zFRLlAKi4QBUBoan66xMLvugcIrNuhwxIH8N/IcFBgwiyJvrJDknabE=;aw1+77bt84HReF2tHYZD/A=="
 ---
 

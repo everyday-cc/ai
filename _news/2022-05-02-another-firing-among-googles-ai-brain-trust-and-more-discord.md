@@ -192,15 +192,6 @@ related:
         width: 1080
         height: 721
         isCached: true
-  - title: "Google fires another AI researcher who reportedly challenged findings"
-    excerpt: "Google is still firing AI researchers amid criticism of its work. The New York Times has learned Google fired machine learning scientist Satrajit Chatterjee in March, soon after it refused to publish a paper Chatterjee and others wrote challenging earlier ..."
-    publishedDateTime: 2022-05-02T14:08:00Z
-    webUrl: "https://www.engadget.com/google-fires-ai-researcher-over-paper-challenge-132640478.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
   - title: "Google is embroiled in internal struggle over AI research"
     excerpt: "The current episode began when Google scientists Azalia Mirhoseini and Anna Goldie published “A graph placement methodology for fast chip design” in the scientific journal Nature in June. They observed that AI could perform a critical phase in the ..."
     publishedDateTime: 2022-05-03T13:29:00Z

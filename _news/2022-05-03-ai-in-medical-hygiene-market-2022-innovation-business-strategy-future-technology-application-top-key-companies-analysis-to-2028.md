@@ -18,19 +18,63 @@ topics:
   - AI
 
 related:
-  - title: "AI-based Surgical Robots Market Aims Bigger with Technological Innovations by 2031"
-    excerpt: "Snapshot Increased penetration of diverse advanced technologies such as artificial intelligence (AI) in robotic"
-    publishedDateTime: 2022-05-05T09:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-based-surgical-robots-market-aims-bigger-with-technological-innovations-by-2031"
+  - title: "Top AI Companies Riding the Innovation Wave in 2022"
+    excerpt: "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ..."
+    publishedDateTime: 2022-05-07T07:31:00Z
+    webUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/"
+    ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 48
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 59
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg"
+        width: 1000
+        height: 570
+        isCached: true
+  - title: "The impact of using AI in the boardroom"
+    excerpt: "In applying the term artificial intelligence (AI ... One of the main problems brought by self-driving corporations or self-driving subsidiaries as an intermediate entity for replacing human-centred boards is the accountable issues and possibilities ..."
+    publishedDateTime: 2022-05-04T08:57:00Z
+    webUrl: "https://www.lawcareers.net/Explore/LCNSays/The-impact-of-using-AI-in-the-boardroom"
+    type: article
+    provider:
+      name: LawCareers.Net
+      domain: lawcareers.net
+    quality: 39
+    images:
+      - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
+        width: 439
+        height: 614
+        isCached: true
+  - title: "Smarter Sorting Named Winner in the AI and Data Category of Fast Company's 2022 World Changing Ideas Awards"
+    excerpt: "From a 3D printed vaccine patch to an electric truck, a seawater-powered lamp to using data and math to eliminate testing on animals, the sixth annual awards honor the products, concepts ..."
+    publishedDateTime: 2022-05-03T11:31:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220503LA44237/smarter-sorting-named-winner-in-the-ai-and-data-category-of-fast-companys-2022-world-changing-ideas-awards/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 19
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
         width: 600
-        height: 337
+        height: 207
+        isCached: true
+  - title: "The EU Is Throwing Stones in the Data Lake by Regulating AI – What Global Companies Need to Do Now to Prepare"
+    excerpt: "“The AI Act includes data collection requirements such as bias prevention ... and interoperable data to maintain a competitive advantage: Businesses should start implementing these practices as soon as possible to avoid lagging behind the competition ..."
+    publishedDateTime: 2022-05-03T11:15:00Z
+    webUrl: "https://www.ipwatchdog.com/2022/05/03/the-eu-is-throwing-stones-in-the-data-lake-by-regulating-ai-what-global-companies-need-to-do-now-to-prepare/id=148793/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 18
+    images:
+      - url: "https://www.ipwatchdog.com/wp-content/uploads/2022/05/Depositphotos_302318336_XL.jpg"
+        width: 7895
+        height: 4500
         isCached: true
 
 secured: "jCKRO+7JEfzOd5XPrca71tQYkGNApeIZ86bpWrziF//qwdS2HK3dt1zsdYXQg8hxMjnYaS87+WFU+9YtYbD5MSiUrWxW89j5rLNbB0OL0ZFFPh8YFDpp+hGyp2JvIO6QVRCkxyypoQuU0mjcvndU4TshG/JT59efA8OM25xe8PFSA6f0xkV1rVu7sqJpFDFTYrAcoU7M8qCC0LpBBuUmy3CtZDFWZur7vo27T94VLAgBFdJCfMQpQigHSF3ITMRxLz1t+MSGZ7GodoZJUpdCwFfJTCDI2gnf3IPGfSn63aX8+16/m5b5b6KjeyTXQUjIcO/+jxH7WNezR1Kp0zUQPtARciIlNgxqN2mLm9VC8jU=;sX1f1Tr4LmjST+rBGxC5yg=="

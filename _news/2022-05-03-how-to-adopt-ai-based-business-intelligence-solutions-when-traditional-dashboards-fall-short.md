@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-ado
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "DC-based Startup Public Spend Forum Successfully Transitions to Phase III SBIR, Providing AI-Enabled Market Intelligence for Government Agencies"
-    excerpt: "By applying Natural Language Processing and Artificial Intelligence across program requirements and industry data, we are using advanced AI-enabled methods to match demand and supply.\" Under the Phase III IDIQ award, PSF will provide data solutions and ..."
-    publishedDateTime: 2022-05-02T13:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-dc-based-startup-public-spend-forum-successfully-transitions-/2022/05/02/9593415.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "DymJ9BOvM1vk1PH8tx4MmRsOjMa/UP9ml1Ex9LOFW95w8qwuaESDdhDBxsJhA7n0/roMoUsTMWGiGbsRW+ubRJdQwN64p805YSvrAYf6z7VkV+GPAn3ttUiwwGsSX9/mvkXqH8EDzPBHffnp+FmQjPqnIIDd5s8xunCeor6jcZmpApNGBdT98ASJmXxDrQgJ9paOCGE5D1oSwqb/BDYW5sGWKPnSUJb6ADkVBa+HeUSL01oxS2YSzV7NPIVMLBmEiDzfJywfTOk74mItSU85Ezty7ubZxVsMFKnYeaXBraFASDs/djEq8RKGrZKicX2quZoDW7vPrRoc5+EKA8UZYG3GLtE5PHq4T+2lnLvjm5EQo1bOawwy3/pY2kunRKmRRey3Wqua22ubca5T2g05K3XV6KB+p0CTuCvxcBeX3Onc/PQNcWmiNxJ/zCdcV2ltVzMTMGxyhXYAItVYHroaAPvQ4n44KZUpCxlBKPIYtXwWlNYWyLU1BuVGySrP4m/wf9CF2eOtR4NB2e2BcxDBrw==;Bist8Yp5MSbEZRtcPezuXQ=="
 ---

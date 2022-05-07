@@ -25,70 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to predict bone fractures in cancer patients"
-    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
-    publishedDateTime: 2022-05-05T17:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
+  - title: "Top AI Companies Riding the Innovation Wave in 2022"
+    excerpt: "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ..."
+    publishedDateTime: 2022-05-07T07:31:00Z
+    webUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/"
+    ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/bonefracture.jpg"
-        width: 1440
-        height: 1920
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg"
+        width: 1000
+        height: 570
         isCached: true
-  - title: "Using AI to predict how cancer may affect the probability of spinal fractures"
-    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
-    publishedDateTime: 2022-05-05T23:21:00Z
-    webUrl: "https://www.news-medical.net/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+  - title: "Smarter Sorting Named Winner in the AI and Data Category of Fast Company's 2022 World Changing Ideas Awards"
+    excerpt: "From a 3D printed vaccine patch to an electric truck, a seawater-powered lamp to using data and math to eliminate testing on animals, the sixth annual awards honor the products, concepts ..."
+    publishedDateTime: 2022-05-03T11:31:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220503LA44237/smarter-sorting-named-winner-in-the-ai-and-data-category-of-fast-companys-2022-world-changing-ideas-awards/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 54
+      name: KTLA
+      domain: ktla.com
+    quality: 19
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
         isCached: true
-  - title: "Southwest Airlines is using AI to help attract and retain its customers"
-    excerpt: "CEO Bob Jordan says AI is important \"not because it's hot\" but because \"it can have a business impact.\""
-    publishedDateTime: 2022-05-05T13:32:00Z
-    webUrl: "https://fortune.com/videos/watch/Southwest-Airlines-is-using-AI-to-help-attract-and-retain-its-customers/2e618eb2-0f9e-44de-9ef8-6f74a547bacd"
+  - title: "The EU Is Throwing Stones in the Data Lake by Regulating AI – What Global Companies Need to Do Now to Prepare"
+    excerpt: "“The AI Act includes data collection requirements such as bias prevention ... and interoperable data to maintain a competitive advantage: Businesses should start implementing these practices as soon as possible to avoid lagging behind the competition ..."
+    publishedDateTime: 2022-05-03T11:15:00Z
+    webUrl: "https://www.ipwatchdog.com/2022/05/03/the-eu-is-throwing-stones-in-the-data-lake-by-regulating-ai-what-global-companies-need-to-do-now-to-prepare/id=148793/"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 47
-  - title: "AI-assisted digital twin could predict spinal column fractures in cancer patients"
-    excerpt: "An AI-assisted digital twin of human vertebrae could predict how cancer affects the probability of spinal column fractures, a study from Ohio State University has found."
-    publishedDateTime: 2022-05-06T09:47:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/ai-assisted-digital-twin-could-predict-spinal-column-fractures-in-cancer-patients"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 32
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 18
     images:
-      - url: "https://www.theengineer.co.uk/media/vripxcoe/adobestock_111354720.jpeg"
-        width: 940
-        height: 627
+      - url: "https://www.ipwatchdog.com/wp-content/uploads/2022/05/Depositphotos_302318336_XL.jpg"
+        width: 7895
+        height: 4500
         isCached: true
-  - title: "AI can predict bone fractures in cancer patients"
-    excerpt: "A team of US researchers has used artificial intelligence (AI) to create a digital twin of a patient’s vertebra that will be able to predict the risk of bone fracture in people who have suffered from cancer. As medicine continues to embrace machine ..."
-    publishedDateTime: 2022-05-06T12:29:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/ai-can-predict-bone-fractures-in-cancer-patients/"
+  - title: "AI in Medical Hygiene Market 2022 Innovation, Business Strategy, Future Technology, Application, Top Key Companies Analysis to 2028"
+    excerpt: "Intelligence Market Report Publish New Research Report On-“AI in Medical Hygiene 2022 Market Analysis by Key Players, Applications, Growth Trends, Share & Segment Forecast to 2028” London, UK -- (SBWIRE) -- 05/03/2022 -- AI in Medical Hygiene Market ..."
+    publishedDateTime: 2022-05-03T16:47:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-3-ai-in-medical-hygiene-market-2022-innovation-business-strategy-future-technology-application-top-key-companies-analysis-to-2028"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 17
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "WJ87d7snQwrzJz7+5MDK7EUHIJUJ5RQB6HytXCuZ0IZH6xrF49ZZciahJ06FVs1eZ7+H8SX6A3W2e4Yydh0/SjXUNilApwwsbrfYHcEK8MlUAA6XVHylCmShQHo/TibaO5t+UyTGgq6CoN8vrsalcdCjfPIrw5ok9RJ5Ga53T5JdmjVIRqitEbTcUsora4uaLZoN9IWWCJ38guzFtpIvVqfDWnlgdBag1V51mevnlxrGLzEwX7LF1Um7ZLK9wp/2UVpwJpF17EMSFlM1Mp3Dobt7iSutsA+wLsImqDUGZNJ8UUK+V92dIR2s4EVMwuJuJWb+h2qnKhmXx88feBA9N/bNkBFZXSD73gJeqbOeEhE=;WzF6WiqXzD31sUG6+izQEg=="
 ---

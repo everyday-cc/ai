@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-nat
 webUrl: "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1061
     height: 581
     isCached: true
-
-related:
-  - title: "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists"
-    excerpt: "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ..."
-    publishedDateTime: 2022-05-02T13:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "KopQxZtLjV9P8NncyKsWLwedLkrFUINuZMb/T/mCgUR0nhNa5AcE0G8N9o8clxt4iFbIhZ6XlFVhdrxGJJr7OE35hBjHmQchKR+iAkWy38amaGZUJQAl657DgJg8fZEPoyVQf7fATyesDlOpZ0LsXAcpkkooDPKRZvOareHesKLjkSv4yr1G8YdKqBO95IVuybLnxshY4Ga9dFMm4FgrIBVLs8A10CkkDylRxGO4hOcLkD6EcjI5qQBURk8nLSUs1f8zHiEL0UhJ2EgE5BI5Mr/9AFTxMkFcoWBL6pv8R0S7TL862e1saiL1VgalLvyBkc8FpI5ebhVLBmPBiFO+05isV6keHzGQjl7ctR/XXMM/RD/n1gL6EX4sxAyMLi+PLTJ0vOXYA2ztwHJ8rAy1dvjn2G8bdnNzdfw1SFXCpkMwdyUgzA8f0IDE0zO8BMsAHueVZzl7YfvuS7OgA+2CYtrpbO4rrZq6EcSANRipRO7luBHIe+ogW3OpIdznLDDDvSsNKMZqOJRsJIU9Qy2pnw==;gqjz6OnwyMgrnVK9iF1WOQ=="
 ---

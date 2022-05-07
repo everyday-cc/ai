@@ -2,6 +2,40 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-03-31-waymo-begins-fully-driverless-robotaxi-rides-in-sf.md",
+      "title": "Waymo begins fully driverless robotaxi rides in SF",
+      "excerpt": "Waymo has started giving fully driverless robotaxi rides to its employees in San Francisco. The company also announced its plan to open up its robotaxi service in downtown Phoenix. This morning, an all-electric Jaguar I-PACE picked up a Waymo engineer on their way to work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/waymo-begins-fully-driverless-robotaxi-rides-sf/",
+      "originalUrl": "https://www.therobotreport.com/waymo-begins-fully-driverless-robotaxi-rides-sf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-ai-could-replace-human-military-commanders-in-making-life-or-death-decisions.md",
       "title": "AI could replace human military commanders in making life or death decisions",
       "excerpt": "Conventional AI uses input to 'teach' an algorithm about a particular subject by feeding it massive amounts of information. Practical applications include Google's language translation ...",
@@ -1153,49 +1187,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-acme-to-offer-3d-intelligent-vision-guided-robots-for-manufacturing-and-warehousing-sectors.md",
-      "title": "Acme to offer 3D Intelligent Vision-Guided Robots for manufacturing and warehousing sectors",
-      "excerpt": "Can be used for vision-guided depalletizing, order picking, gluing, mixed palletizing, rebar marking, logistics parcel picking and assembling activities in manufacturing and logistic warehousing facil",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/acme-to-offer-3d-intelligent-vision-guided-robots-for-manufacturing-and-warehousing-sectors-h7cpmege",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/acme-to-offer-3d-intelligent-vision-guided-robots-for-manufacturing-and-warehousing-sectors-h7cpmege",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:NjVhODM5ZjItNThjZS00:MmMyMDA2/acmeandmechmindrobotics-jpg.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

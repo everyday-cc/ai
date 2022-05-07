@@ -3,12 +3,14 @@ category: news
 title: "How Fintech Can Help You Manage Your Personal Finances"
 excerpt: "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions."
 publishedDateTime: 2022-05-02T20:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
-webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
+originalUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse"
+webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse"
+ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 69
+heat: 149
+published: true
 
 provider:
   name: Nasdaq
@@ -19,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Payroll fintech Symmetrical.ai raises $18.5m"
+    excerpt: "According to the company blurb for the payroll tech provider, its mission is to “help employees retain control over their personal finances”. Image source: Payroll/Pixabay. A fintech, whose vision is to “make payroll invisible\", has raised $18.5m."
+    publishedDateTime: 2022-05-03T10:42:00Z
+    webUrl: "https://www.altfi.com/article/9187_payroll-fintech-symmetricalai-raises-185m"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 39
+    images:
+      - url: "https://www.altfi.com/images/featured/payroll-fintech-symmetricalai-raises-185m.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Catapult: Kickstarter Fintech Acceleration Programme 2022 for early-stage Fintechs (€50.000 in subsidies)"
     excerpt: "B2B Fintech companies with solutions in Regtech, Wealthtech, Insurtech and Cybersecurity using Blockchain, AI and Big Data technologies are of particular interest to the Luxembourg financial services ecosystem. When The 2022 Summer edition of Catapult ..."
     publishedDateTime: 2022-05-04T15:47:00Z
@@ -33,6 +49,20 @@ related:
     images:
       - url: "https://www.opportunitiesforafricans.com/wp-content/uploads/2018/09/catapult-inclusion-africa.jpg"
         width: 800
+        height: 400
+        isCached: true
+  - title: "Ten FinTech Trends to Follow in 2022"
+    excerpt: "FinTech is one of the five areas with a high Big Data growth rate. The industry needs a powerful tool to collect, structure and store information. One of these is artificial intelligence (AI). According to McKinsey, every year, it generates up to $1 ..."
+    publishedDateTime: 2022-05-04T14:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/22232/ten-fintech-trends-to-follow-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.researchandmarkets.com/content-images/173/173851/1/global-fintech-market.png"
+        width: 600
         height: 400
         isCached: true
   - title: "06/05 – Weekly Fintech Recap"
@@ -91,6 +121,6 @@ related:
       domain: crowdfundinsider.com
     quality: 0
 
-secured: "M//37lSZIX/0N8KyUwokVIMi5bn3lnwht3LZJ2c5hNwglwb/MGWZm/8F/DqTM99ogIaTFFa5UhXDo8I4xHHtkgzDSRY4se+3Bqf1k4m8toWu5f5RBujk23u7iMkpeBIZ9morm9kZlj1MJyeXihAKW3w9Kq1EGUWwt87GHvPuvcggrt+HC2IpooCgKVhF9g1humZCvZFXefsOvWYB1w+c2guZpvrxMZ4QmYSXDZG1Nyh8f/p8vQyXykYAaW/4juvM2LAQLs2DKcVFibKRk6dN9R4St9d6T2eOSMp/2mc/o+BfHlv6btpDSQNvffv4+ZUDNvJlk6Z+iNYOyaUt4DpvzDBbXXrbJ7ZJWoMQZBfUiqg=;oJqTaxqU+bEkyz3qW79Kog=="
+secured: "/HceG+oME7E6TPKGIlAAO30/qn26IqrsC4GD0TtuGdHb4f8S1vS0ZHaJcJsRbBQQkzct5txgA8sFFmOaV3QCo287VX6S+PiR8cqkhCy40sgJPPYMZyzKKa6rChyPk9PrhD2wrgp3Loptr88ZTXoExTxEu4xoPUm+/XGej8c/ZWIICur5ZJgXRubQz7Clk+0cpqyCpIPd1hvqKFkOeTsPb51iFkJwZhgFFEUb5wPXOTdBH8EAJnbHFBZaBTEcqEiAhiZBxx9301JDl/y00hA6LW/zs64CKYWUZH7eBQbRaWdzZ7QcwBNzOkVfu3iU1MDtkKHFSU9q15KuqIDOFx+oiWhYBklx0WraWi+WkYfWn3I=;fWHRFIDUwkbrtoR/R0/Gqw=="
 ---
 

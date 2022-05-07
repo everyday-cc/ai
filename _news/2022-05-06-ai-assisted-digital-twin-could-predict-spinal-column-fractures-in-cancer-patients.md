@@ -65,20 +65,6 @@ related:
       name: Fortune
       domain: fortune.com
     quality: 47
-  - title: "The impact of using AI in the boardroom"
-    excerpt: "In applying the term artificial intelligence (AI ... One of the main problems brought by self-driving corporations or self-driving subsidiaries as an intermediate entity for replacing human-centred boards is the accountable issues and possibilities ..."
-    publishedDateTime: 2022-05-04T08:57:00Z
-    webUrl: "https://www.lawcareers.net/Explore/LCNSays/The-impact-of-using-AI-in-the-boardroom"
-    type: article
-    provider:
-      name: LawCareers.Net
-      domain: lawcareers.net
-    quality: 39
-    images:
-      - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
-        width: 439
-        height: 614
-        isCached: true
   - title: "AI can predict bone fractures in cancer patients"
     excerpt: "A team of US researchers has used artificial intelligence (AI) to create a digital twin of a patient’s vertebra that will be able to predict the risk of bone fracture in people who have suffered from cancer. As medicine continues to embrace machine ..."
     publishedDateTime: 2022-05-06T12:29:00Z

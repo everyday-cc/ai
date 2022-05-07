@@ -54,20 +54,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "The impact of using AI in the boardroom"
-    excerpt: "In applying the term artificial intelligence (AI ... One of the main problems brought by self-driving corporations or self-driving subsidiaries as an intermediate entity for replacing human-centred boards is the accountable issues and possibilities ..."
-    publishedDateTime: 2022-05-04T08:57:00Z
-    webUrl: "https://www.lawcareers.net/Explore/LCNSays/The-impact-of-using-AI-in-the-boardroom"
-    type: article
-    provider:
-      name: LawCareers.Net
-      domain: lawcareers.net
-    quality: 39
-    images:
-      - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
-        width: 439
-        height: 614
-        isCached: true
   - title: "AI-assisted digital twin could predict spinal column fractures in cancer patients"
     excerpt: "An AI-assisted digital twin of human vertebrae could predict how cancer affects the probability of spinal column fractures, a study from Ohio State University has found."
     publishedDateTime: 2022-05-06T09:47:00Z

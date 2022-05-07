@@ -2,6 +2,51 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-04-01-whitepaper-machine-learning-best-practices-in-healthcare-and-life-sciences.md",
+      "title": "Whitepaper: Machine Learning Best Practices in Healthcare and Life Sciences",
+      "excerpt": "For customers looking to implement a GxP-compliant environment on AWS for artificial intelligence (AI) and machine learning (ML) systems, we have released a new whitepaper: Machine Learning Best Practices in Healthcare and Life Sciences. This whitepaper provides an overview of security and good ML compliance",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/whitepaper-machine-learning-best-practices-in-healthcare-and-life-sciences/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/whitepaper-machine-learning-best-practices-in-healthcare-and-life-sciences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T11:16:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform.md",
       "title": "How GE Healthcare Plans to Accelerate AI with a Digital Health Platform",
       "excerpt": "Enterprise Data & AI featured guest speaker is Vignesh Shetty, SVP & GM, Edison Platform & Artificial Intelligence at GE Healthcare and his presentation ‘How GE Healthcare Plans",
@@ -1093,51 +1138,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-neuron-based-computer-chips-neuroscience-meets-artificial-intelligence.md",
-      "title": "Neuron-based computer chips: Neuroscience meets artificial intelligence",
-      "excerpt": "Neuroscience meets artificial intelligence. Cortical Labs’ “brain on a chip” may change the field of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "originalUrl": "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://console.kr-asia.com/wp-content/uploads/2022/03/Cortical-Labs-chief-science-officer-Brett-Kagan-and-co-founder-Hon-Wen-Chong.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "cdnAmpWebUrl": "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
-      "publishedDateTime": "2022-03-31T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kr-asia",
-        "domain": "kr-asia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
         "Machine Learning"
       ]
     }
