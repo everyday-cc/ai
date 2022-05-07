@@ -2,21 +2,18 @@
 category: news
 title: "Ground-breaking mjn-SERAS seizure monitoring device that uses artificial intelligence to predict and alert of imminent seizures launches in the UK"
 excerpt: "Epilepsy Alarms UK are proud to bring the mjn-SERAS to the UK – a revolutionary device that uses artificial intelligence to predict seizures with up to 3 minutes advanced warning. With a European CE mark as a medical device*, the mjn-SERAS is ..."
-publishedDateTime: 2022-05-04T19:48:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-4-ground-breaking-mjn-seras-seizure-monitoring-device-that-uses-artificial-intelligence-to-predict-and-alert-of-imminent-seizures-launches-in-the-uk"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-4-ground-breaking-mjn-seras-seizure-monitoring-device-that-uses-artificial-intelligence-to-predict-and-alert-of-imminent-seizures-launches-in-the-uk"
+publishedDateTime: 2022-05-04T17:49:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab26999604/ground-breaking-mjn-seras-seizure-monitoring-device-that-uses-artificial-intelligence-to-predict-"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/ab26999604/ground-breaking-mjn-seras-seizure-monitoring-device-that-uses-artificial-intelligence-to-predict-"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "LOmK8zrkceW8gBsfOHU8s+CxLntKvm9Va/c2gRNXAi8SAeieXBhdoIabAcpDJx/QCrxVwkg4XuyQsOz1jzfczG/qmQU6d48lbRgM9aahQE/I0hyruwcN9Nq2x75HYMHQHiNBNSZkwyAPhNE6C1VWCNLWt+hX3T+x3hJj5F/kKZGzFeZEaNc8J8EEGKTxQWXXaKS3GR6iw966HvkSZZ0o7pEm3ZjTTqZN8NmYvioPrwPifx8nDyvAUajwOdCJ9W3r1j7ps/JJUMe0YJ2T8L3j5Zp/lRYo9P9kgO/PyJrS6J4PEoONcTPvGLmKAatlnYuC2UWaEaXNg5JegnpOy9j7oVgiKhUfnHUhioB44KWQ4Bs=;Hzy/aSt4j4VR4ldKS2UH0A=="
+secured: "naoAxpMzEim8LFf3HbKU+x+3sBxZ3RgSAWvfKRzlcSOmV9syTlEo6TcQ98Kb8gc6E9XCpdAZYtqmyvY2EFwp0O7CKue03WDy0ORlatZHnWaerl47Y22LNLG3XfA2JWMqx79FokPu4DYvBJ3eVSN2A8j7mWYAUB0UI31wx9gj7oN7VzkYc5T0i+fRybyBZvmCWGJKPxp/4Dgd49rPcSZ+q5xL/Yp0K2xghI4EW0Pe+v2/qoOLuaLXi7FalPhV6veqKGg0OOE0WpCX2PdKJ1FYTA5e3nqFw50t3xguySLUl3KRSuIPTIn/7ojRpVUDkiO27j94U2rxAGmfCSuTIwv8QRlln1vke2IVKwcVv3PGEZc9TfkxRSAuKQvuHwHaLqttwCF1W6qwY+szf0gCeYNvlOKFQfdFodoic6nuyydJqhhgmk/nsq/nX9D92oNW2hl9bE1c3OmHsw11b2STzR3Y6EJqM38ZcMezzl9YjR7g8jdGMpT/OHK61JopF1VsBa+jxKmHk5jcbC38bcbHiG6RFQ==;QNBzZwuboPrtjW64tPaEZg=="
 ---
 

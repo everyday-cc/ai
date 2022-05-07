@@ -3,12 +3,9 @@ category: news
 title: "Computer Vision As A Solution To Safety Challenges In Industrial Facilities"
 excerpt: "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ..."
 publishedDateTime: 2022-05-05T07:28:00Z
-originalUrl: "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1"
-webUrl: "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1"
+originalUrl: "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx"
+webUrl: "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: Ohsonline.com
@@ -18,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2022/05/computer-vision.jpg"
-    width: 620
-    height: 300
-    isCached: true
-
-secured: "F344Q5OR2fCM7O90ElJcqBeqR9+DK+1yJ3PM+QCX9/GOQnwcaeUpLPo6HxxpnwVTN2/QSCCOTniocPTAb3/OQyDOIdFYETkIfSVANIZqUjOvGOS9TnoFtUlZmnZlEuPLzaAIsQYfpZBFkLMjHNBSS0N0fm0aXinjY7XEQVzw0L/XG/3jzuBtA6yzR7q9sqD1tvdwh6kFoyEtUB/tuZRJZ81Dr5dwiL0etdW+MY+CjKAxa9jIWnOAatajkMxtxIf9Ni3+Dd1y7O97sUD//zJrMk56QIKkOkb4ZIdam50/BqcqDYS/+i42PZI5ey12OtNPkwFqX8FTVS45TayZpihT9DM9es7Vz/joj5b3ZRMd1Fc2GGzlZsjlJwWkU0on8jTaSErwll7ao/eBq/XvQijuS5dsR2LuLSlZc4QYXU1fxJul8OtH0EWuc3HO2b8d0qVlxh2nMPwqj5LSJcmahKEy+YITIFkTaoqNF0Pjwj42gzF1OuvgrMXR8wkJsUWQDFYY3nVX+UPGSiZ5PmSZWiS7/Q==;3AK7jhjw/VQnXYoGISCpvQ=="
+secured: "YodtRwkQkU7CA3rLoIO0k29G8cKw1MdGTsymkTQu9T8lMmsR+PdBagXOLW/OR2vsHaumiqEVk+eKPLy27nqPCy3oXS/A7rMF9XwqFkKNHBnJu6R3TYlCa2yEUrhe7IUaJ9+nH5EegYSPY27eNE40yArvwKYAOSXckHd7PKfCzWSG9Sw99OGcz1yfgzbVIbkKuJ9kDoN7g57HBb4Y6y572K408uPZqbD2gCl3g0iv7ny3qerGaXtVVsbhn0W1rcRmQeT9Kp27VDSELphiWav9plURYFwPK5N69zIjEWmr1pjjIVPewJL3GYTu7kmo62IfqF7GZKyHTvl6UxMusPU1F/QDIhUcIiBS/sanjzFK+UF7FziJZzb2dIMXKoQ65wPz7NJttJD91of/iV4rskZZNi4RkhS0esqtx3qdejJ+FBl3bM8vgMWcvP9odC1U//66eNBI+Aieuu7FdbByxAF4Unupoex9XNW8X9mJ3KxYp7mqvm7iG5LQf7/FHI1rcr8tihaEvNdI/bEcnGkNNOBFtA==;A1p581j/kJPmdQn57uDBdg=="
 ---
 

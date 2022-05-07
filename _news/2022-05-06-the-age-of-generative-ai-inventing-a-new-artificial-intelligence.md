@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 related:
   - title: "DALL-E 2 shows the power of generative deep learning, but raises dispute over AI practices"
