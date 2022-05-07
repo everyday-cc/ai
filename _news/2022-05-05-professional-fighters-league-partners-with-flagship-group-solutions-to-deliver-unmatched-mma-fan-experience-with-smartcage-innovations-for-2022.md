@@ -1,10 +1,10 @@
 ---
 category: news
 title: "PROFESSIONAL FIGHTERS LEAGUE PARTNERS WITH FLAGSHIP GROUP SOLUTIONS TO DELIVER UNMATCHED MMA FAN EXPERIENCE WITH SMARTCAGE INNOVATIONS FOR 2022 ..."
-excerpt: "... the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA. Under the agreement, the league will leverage IBM's cloud and Watson technologies to further develop PFL's industry ..."
-publishedDateTime: 2022-05-05T00:01:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/05/9597187.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/05/9597187.htm"
+excerpt: "Extended partnership to further develop PFL SmartCage and Fighter Performance Rating technology. Working alongside Flagship, PFL is the MMA leader in maximizing a data-centric app"
+publishedDateTime: 2022-05-05T00:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-professional-fighters-league-partners-with-flagship-group-solutions-/2022/05/05/9597187.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-professional-fighters-league-partners-with-flagship-group-solutions-/2022/05/05/9597187.htm"
 type: article
 quality: 0
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Ss0gYwsSpIVyK4DUj9DxahIwoN6L1FaYz8yGQNieRL8znnqNZJxmO1w7TEUXFMPPRLg3Bn3xM/bc0Yjk1+zjdSN5iZgK4izsZET0Rk+v+PJfSHEuYc5eI2d5QikpLtXN97VOWXzHi7hPf0myAjTAvqWG6r6woHY9hK3K4pHLETBOgMy7RsXm54hOvtLuTLNGwVsCMB1lY8N0OqwpWUy4Di2hJM9ZO898uTIfJlALGVyoKru/6Lu2GRnDr4z2psoGkVEuxfRFvez8TFrYjrYvRLmjwXdSme8se30WFE1v4C8xr/BT+pVw4q8H7A6UAKRxRPKKvdPjnE9gYKJkfvipuqx269tDC5gxE84a/apDJ1mjVjeza3caig5+dBZG6KfgTX/06Kf3U8/m97txsVmCRubNc69Utu1C8I48K4Qk2wKAsU1ZTYX4rFriWfDzhxExm+leDq/xnulec3z1jp9Hkd3FIDX7+uq/Y4VluClli8GefylW0mQ3bDvUn467C74JNHjuWbnwseup8fE+TUEk/Q==;7CpMTGNAQH6bFHc+2uRMhw=="
+secured: "IkA9xEdIGfFGHza9PpOhmcM4Y8lgUszqas22zJ2zxto98IzdiAMEWah8TZL+c23EIN1XZEEVMKJfQEDgIESXUG7IXm+0xZFChm3pmSdDmKSCeX2vVy1TrHD1jF42TNIPc/tgkcq42JilMt8HTfsPZWZ9NQ1jYcMS6zEaO8XRttHJPfsYsZIJXfjFZDZG7DYZZXf+sLL8eS8Rm0OhG4fOOBgFI8ELH2rtahvy50uylEDzNrA+dD3zy3lN9TBFlQQRMDHJEFTeg75TkW/kI8fP4slF33yJXXHm/5IRulxMUUQa5FlJb3WV8+/BrVoQ8eeNfiF91r5WM87dIv7p0febQ9o04BWq4Lwg7i156hpolj/3oJhoVJTaH3hbaRJphkujTLqp7zjqNN9TW801g2wRL20Kl0CEBhFoSTPFH9SrBZ/DQqsIyN0xCQnLXMDNtrdd3GAyX0Ocg3KLE6ah45Dfe7EwGp5Abx66QBeiY8CMHUW8DCHbxfXRH0XweMIHbFi/PdHmOG52wvnLEPkCaaE5Vg==;L3HefqDSa9JuKT02m03IkQ=="
 ---
 

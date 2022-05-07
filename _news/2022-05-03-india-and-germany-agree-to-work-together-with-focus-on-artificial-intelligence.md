@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "India and Germany in new deal on joint AI for healthcare, sustainability"
+    excerpt: "Indo-German Science and Technology Centre (IGSTC) is all set to propose a joint “Artificial Intelligence” (‘AI’) initiative on healthcare and - Kenya breaking news | Kenya news today | Capitalfm.co.ke"
+    publishedDateTime: 2022-05-07T05:20:00Z
+    webUrl: "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/"
+    ampWebUrl: "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/"
+    cdnAmpWebUrl: "https://www-capitalfm-co-ke.cdn.ampproject.org/c/s/www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/"
+    type: article
+    provider:
+      name: Capital FM
+      domain: capitalfm.co.ke
+    quality: 73
+    images:
+      - url: "https://www.capitalfm.co.ke/news/files/2022/05/JITENDRA.jpeg"
+        width: 1200
+        height: 693
+        isCached: true
   - title: "India, Germany agree to work together with focus on AI, startups"
     excerpt: "On April 3, India and Germany agreed to collaborate in the areas of artificial intelligence (AI) startups, AI research, and AI applications in sustainability and health care. During their meeting in Berlin, Minister of Science & Technology, Earth Sciences ..."
     publishedDateTime: 2022-05-04T05:40:00Z

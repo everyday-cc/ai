@@ -28,20 +28,6 @@ images:
 related:
   - title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
     excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
-    publishedDateTime: 2022-05-02T12:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-97abe10ac884456eb71ab9f17222cf17"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
-    excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
     publishedDateTime: 2022-05-03T12:36:00Z
     webUrl: "https://www.grocerydive.com/press-release/20220502-cognira-to-provide-artificial-intelligence-promotion-solution-to-cub/"
     type: article

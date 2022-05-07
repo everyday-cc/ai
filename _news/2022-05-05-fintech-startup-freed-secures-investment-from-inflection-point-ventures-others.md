@@ -43,20 +43,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Finbots.AI raises USD 3m from Accel in Series A round"
-    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, recently announced it has raised a successful Series A round of USD 3 Million. This round saw the participation of a single investor – Accel."
-    publishedDateTime: 2022-05-02T11:24:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/finbots-ai-raises-usd-3m-from-accel-in-series-a-round/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/FinTech-Week-London_July2022_MPU.jpg"
-        width: 600
-        height: 500
-        isCached: true
   - title: "Funding rundown: Zepto raises $200M at a valuation of $900M; Traceable AI raises $60M in Series B round & GenWorks Health secures Rs 135 crore"
     excerpt: "Fintech startup Kaleidofin raises additional $15M in Series ... Anicut Capital leads $550K seed round in HuddleUp AI-backed talent retention platform HuddleUp has secured $550,000 in its seed funding round led by Anicut Capital, an alternate asset ..."
     publishedDateTime: 2022-05-04T15:35:00Z
@@ -82,15 +68,6 @@ related:
       name: BetaKit
       domain: betakit.com
     quality: 21
-  - title: "Finbots.AI raises US USD 3 million from Accel in Series A round"
-    excerpt: "New Delhi/ Bengaluru (Karnataka) [India], May 2 (ANI/PNN): Finbots.AI, an AI-led, innovations-driven venture targeted at banks and financial institutions, today announced it has raised US USD 3 million in a Series A round from Accel. The investment by ..."
-    publishedDateTime: 2022-05-02T12:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272536132/finbotsai-raises-us-usd-3-million-from-accel-in-series-a-round"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 17
 
 secured: "Y6pZGeXtJcmFl8nEN9tmcRf1lNS40ORyIlCQIre79gbXMpPX5c3T6dnx4koCsBrQ24UvFNFE9VNjWoodZ10MQiAo4ey07/1dSlRr9fKnXKASNdRT5CvMngkPo5bel6vOj8n+ki8xnagf2EYyGmMewKQQeWGjK57tepvEi3a4sP6ekuPtfL1mqOXQZSuZP7L9TBwHIJoBoBeJe78IW4r8SPXC31OmdnOMkPz4HbfayrbWpO0y9OzJLMo19c+JQhumF/wYH6btQ8yZj3JQKdiM1Lef+Mr5fB3M3jeJybMjbrVI8N/ZSFuaCkTrZ48isOg6A6KN38F0PlM8ERuuh8HmdGOe19+9hoF646+ryxcv/uawk1npVV7dG6c3IOwUygWu4mb+uGKZ3/orUG0blEnIff3x1nyRXH3sRZ17qqGHPK6UhRFdPZZanzd++kx1DmkxngK+UV5QS8bQvo6mSbW6Ns6pvX+oCnObYNRQ/E5KTy/hANIx3s22kW2LFwts8RhixM8E8wRUbbObCHwS5xKgxQ==;kgS7AEHMeNur9Sc+Xyz8uQ=="
 ---

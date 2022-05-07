@@ -244,7 +244,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -285,7 +285,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {
@@ -799,17 +800,17 @@
       "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
       "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ...",
       "sourceUrl": null,
-      "webUrl": "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
-      "originalUrl": "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/04/400x225-Free-Trip-Tuesday.jpg?w=2000&#038;ssl=1",
+          "url": "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg",
           "width": 400,
-          "height": 225,
+          "height": 215,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -819,11 +820,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T05:41:00-07:00",
+      "publishedDateTime": "2022-04-29T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox2Now St. Louis",
-        "domain": "fox2now.com",
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
         "images": null,
         "publishers": null,
         "authors": null

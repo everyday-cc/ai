@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Hospital is 1st in California to use Medtronic's AI device for colonoscopy"
+    excerpt: "Last year, the FDA granted de novo clearance for the device, Medtronic's first AI system for colonoscopies. The device uses AI to identify colorectal polyps and is compatible with any colonoscopy video."
+    publishedDateTime: 2022-05-05T21:38:00Z
+    webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/hospital-is-1st-in-california-to-use-medtronic-s-ai-device-for-colonoscopy.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 35
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Nurses, Med Staff Voice Their Heartache About California Nurse Suicide"
     excerpt: "The nurses' strike ended today with an agreement between the health systems and the Committee for Recognition of Nursing Achievement union representing the nurses. The contract includes improvements to existing benefits supporting nurses' health and well ..."
     publishedDateTime: 2022-05-02T23:29:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibef.org/news/india-germany-agree-to-work-together-wit
 webUrl: "https://www.ibef.org/news/india-germany-agree-to-work-together-with-focus-on-ai-startups"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "India and Germany in new deal on joint AI for healthcare, sustainability"
+    excerpt: "Indo-German Science and Technology Centre (IGSTC) is all set to propose a joint “Artificial Intelligence” (‘AI’) initiative on healthcare and - Kenya breaking news | Kenya news today | Capitalfm.co.ke"
+    publishedDateTime: 2022-05-07T05:20:00Z
+    webUrl: "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/"
+    ampWebUrl: "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/"
+    cdnAmpWebUrl: "https://www-capitalfm-co-ke.cdn.ampproject.org/c/s/www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/"
+    type: article
+    provider:
+      name: Capital FM
+      domain: capitalfm.co.ke
+    quality: 73
+    images:
+      - url: "https://www.capitalfm.co.ke/news/files/2022/05/JITENDRA.jpeg"
+        width: 1200
+        height: 693
+        isCached: true
   - title: "India and Germany agree to work together with focus on Artificial Intelligence…"
     excerpt: "New Delhi: India and Germany have agreed to work together with focus on Artificial Intelligence (‘AI’) StartUps as well as AI research and its application in Sustainability and Health care, said Dr Jitendra Singh, Minister for Science & Technology and ..."
     publishedDateTime: 2022-05-03T05:57:00Z

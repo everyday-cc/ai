@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI: The Somnium Files – nirvanA Initiative Highlights New And Returning Characters"
-    excerpt: "Spike Chunsoft's AI: The Somnium Files – nirvanA Initiative isn't hiding much when it comes to detail. The company has sharedeven more information about the upcoming sequel, which sees fan favourite character Mizuki take centre stage along with a brand ..."
-    publishedDateTime: 2022-05-02T11:45:00Z
-    webUrl: "https://www.nintendolife.com/news/2022/05/ai-the-somnium-files-n-nirvana-initiative-highlights-new-and-returning-characters"
-    type: article
-    provider:
-      name: Nintendo Life
-      domain: nintendolife.com
-    quality: 31
-    images:
-      - url: "https://images.nintendolife.com/6926046743c70/1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Strange Countdown Website Appears in Connection to AI: The Somnium Files – nirvanA Initiative"
     excerpt: "Fans of Somnium Files are no strangers to bizarre, strange videos and websites. Leading up to the release of the first title saw slews of these on a YouTube channel connected to the in-game idol ..."
     publishedDateTime: 2022-05-06T21:09:00Z

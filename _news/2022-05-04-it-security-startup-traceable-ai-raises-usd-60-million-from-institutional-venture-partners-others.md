@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zeebiz.com/small-business/news-it-security-startup-trace
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057/amp"
 type: article
 quality: 60
-heat: 110
+heat: 90
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Finbots.AI raises USD 3m from Accel in Series A round"
-    excerpt: "Finbots.AI, an Artificial Intelligence-envisioned firm bringing innovation to banks and financial institutions, recently announced it has raised a successful Series A round of USD 3 Million. This round saw the participation of a single investor – Accel."
-    publishedDateTime: 2022-05-02T11:24:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/finbots-ai-raises-usd-3m-from-accel-in-series-a-round/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/FinTech-Week-London_July2022_MPU.jpg"
-        width: 600
-        height: 500
-        isCached: true
   - title: "Funding rundown: Zepto raises $200M at a valuation of $900M; Traceable AI raises $60M in Series B round & GenWorks Health secures Rs 135 crore"
     excerpt: "Fintech startup Kaleidofin raises additional $15M in Series ... Anicut Capital leads $550K seed round in HuddleUp AI-backed talent retention platform HuddleUp has secured $550,000 in its seed funding round led by Anicut Capital, an alternate asset ..."
     publishedDateTime: 2022-05-04T15:35:00Z
@@ -82,15 +68,6 @@ related:
       name: BetaKit
       domain: betakit.com
     quality: 21
-  - title: "Finbots.AI raises US USD 3 million from Accel in Series A round"
-    excerpt: "New Delhi/ Bengaluru (Karnataka) [India], May 2 (ANI/PNN): Finbots.AI, an AI-led, innovations-driven venture targeted at banks and financial institutions, today announced it has raised US USD 3 million in a Series A round from Accel. The investment by ..."
-    publishedDateTime: 2022-05-02T12:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272536132/finbotsai-raises-us-usd-3-million-from-accel-in-series-a-round"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 17
 
 secured: "qDnVMuxWy1vRCalpWQovsEmM3bxMjCBiT/uGz6Q/IneZuHJwL8noqF9/auOUIUk/P6ADG3qO8B/U6SeVdIQ+tS4oW0sOFNMJ6a8v//2Jm1/9+NojC72xmIWAACnmqlPUrXeNUBE1h7tct46Qrub78oANInlaqOTIhFcyQkKIMcr+2H8NupTa86o1jzTrr/KbKDsbukcS1ahO3WNmqB8cTOZ6+244So1lA0MEWZr+/DTD9VzVF6RbtUPnFIaF+fKXIfnPHGy/Z23BuMVzgsAse4vq/UJbApXnOwvOgqwu9Kmr3n3WHHJWupDg01JUKs2z4/A4wxbMp9pKh6TF3Su0Ss/CAjP+9m6voF4KMIjG2VM=;MUKvrGIZa6Ovey71w072sA=="
 ---

@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Best Practices for Health Care AI Selection"
-    excerpt: "Researchers at the Duke-Margolis Center for Health Policy explored how health care systems choose which specific artificial intelligence tools they use for improving population and individual health. Duke-Margolis’ Digital Health Policy Fellow describes ..."
-    publishedDateTime: 2022-05-02T13:03:00Z
-    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0139"
-    type: article
-    provider:
-      name: The New England Journal of Medicine
-      domain: nejm.org
-    quality: 19
 
 secured: "z3OF7silp7xXvbn2YfQbnEwgsYuV+QsMdUikq1Z/Hieto+QfwmGxMrxIZwx9KYQ0JYMYTs/+Y+VwuNQdW7STC6PjUW24MFuc+yk8zY2ebt1bwwotJ6Qinr6AYMyN+HCNHLV3qj0R/SsXSmv2BVxs106bgLSVDQtB3lzlff1zc15byF1Lm4juzSA+5pJ24UBQcd5nLEI4DcQ9Y6/g1if0qbs9zJsb/a/9Lh4SoQXENp8t5Ta/IQCUoDw1H144cGkUIDrSjhdm9kAOf006GGU05g6sFFjq2gNj5Bl4kbvf7G6IAK3sp8DfNAAJtImAdNkvuQfQ3CpOjNOaFnn/h3oRl7fxyjWXYg7O1YHtt9sTG9xgDnm+xbfrsRWztOHA4I0/TmM/lThzEWN5Gqh06lYSTVUf0fgJJltmvDmzlyDITRYYr1yRu2zSUBEISC1kToipJWKPi7rWOpTG/N85wlUgIsba+/Tf5BiJNA4C+DKbDhRfDxg9fkJZyjHuFVBKOWr0KYz4ZIeZCsHjPPgKZG5SPQ==;kW2iICB1TkE8P6uhtld+eg=="
 ---

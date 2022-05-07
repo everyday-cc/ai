@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-nat
 webUrl: "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: SiliconANGLE
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Accern lands $20M for AI that analyzes financial documents on the web"
-    excerpt: "Accern, which uses AI to analyze online conversations around particular companies, trends, and industries, today announced that it raised $20 million in a Series B round led by Mighty Capital ..."
-    publishedDateTime: 2022-05-02T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/02/accern-lands-20m-for-ai-that-analyzes-financial-documents-on-the-web/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists"
     excerpt: "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ..."
     publishedDateTime: 2022-05-02T13:34:00Z

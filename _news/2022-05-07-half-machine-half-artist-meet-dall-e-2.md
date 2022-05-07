@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Half machine, half artist – meet DALL-E 2"
-excerpt: "While that may sound straightforward, it’s actually incredibly difficult for a machine learning algorithm to pick up on the ... Sirdeshmukh's exit comes soon after chief financial officer (CFO) GR Arun Kumar took up a wider role at the ride-hailing ..."
-publishedDateTime: 2022-05-07T00:48:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/newsletters/ettech-unwrapped/half-machine-half-artist-meet-dall-e-2/articleshow/91384457.cms?from=mdr"
-webUrl: "https://economictimes.indiatimes.com/tech/newsletters/ettech-unwrapped/half-machine-half-artist-meet-dall-e-2/articleshow/91384457.cms?from=mdr"
+excerpt: "DALL-E 2 (a mishmash of WALL-E and Dali) builds on the success of its predecessor DALL-E, which OpenAI unveiled in early 2021, and improves the quality and resolution of the output images thanks to ad"
+publishedDateTime: 2022-05-07T02:30:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/newsletters/ettech-unwrapped/half-machine-half-artist-meet-dall-e-2/articleshow/91384457.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/newsletters/ettech-unwrapped/half-machine-half-artist-meet-dall-e-2/articleshow/91384457.cms"
 ampWebUrl: "https://m.economictimes.com/tech/newsletters/ettech-unwrapped/half-machine-half-artist-meet-dall-e-2/amp_articleshow/91384457.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/ettech-unwrapped/half-machine-half-artist-meet-dall-e-2/amp_articleshow/91384457.cms"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
-  name: Indiatimes
+  name: India Times
   domain: indiatimes.com
 
 topics:
@@ -21,11 +21,29 @@ topics:
   - AI
 
 images:
-  - url: "https://img.etimg.com/photo/msid-91384870/crypto.jpg"
-    width: 1599
-    height: 1066
+  - url: "https://img.etimg.com/photo/msid-91389473/Cognizant.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "ybjYw4f0uGhgzdekeZi+6Am95ax0PfUbAIyzse/r9eRP+1phIJ11BubQyXarNB4NdnrfZJeVx5aDnUrztmcLZ1nYW+ab/tVdiEEWgujMn6P32pGFWq2usl44uV1WyIyhkDbbC922LI3Wc/do1nl6GlsUUcvqUgTrrkkvd7/bg9aavygcXtyvXtB0aEVvSV2vnwk+9mkuySNzwACY3Rp/NnOy1NV0R0Pay4J9GugV8rH3N3eMPnT8i77+nDLRJLa0gJNXQGxgbsvpgP9vkIeVacV0/RQYtDiPDkgeZZqu2VTlDWE6FYgSB0um1Dx1M8uGPa58O1ec01wrR9VOVXKB6YeKD86kUsGTzvPG69xewq0=;SIt1RcIGzn7PZb1JHCuDoQ=="
+related:
+  - title: "DALL-E 2 shows the power of generative deep learning, but raises dispute over AI practices"
+    excerpt: "DALL-E 2 builds on the success of its predecessor DALL-E and improves the quality and resolution of the output images thanks to advanced deep learning techniques. The announcement of DALL-E 2 was ..."
+    publishedDateTime: 2022-05-03T03:25:00Z
+    webUrl: "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp"
+    ampWebUrl: "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 94
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-84-2.jpg&signature=3681cc767a6d909013fa0af8c6b3a6e3"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "2mL0qASJ1OyYrNrop9/MRDWwsKg4uztR3/5O5mbGp/8d7kE5cyfZjKU9OY3748R9SitKzt7h1OnCQmlkvO9Rt1Orro/bM5SKVylx12iwJN6zZNGUVb4LLOhg8nkvyFjaTA7qL1tPnqsktcR81Dq6rzEwO/+h1NzSChALhN+BmEKTjMRLx6/t4lnKfNh+RWBzl+EF4qaoRv6LGdAuxPOfbtSF1FUBo0C1zQBRpOOKQRNbKPWt864rb9KFYH2ts0SSfK2zEmdm8I41nZkvmwObuDCpZxunsQznqZh3u2XAXONhNdJB8Rmx+q0IJ3OS/rq4SiI63649BNO9k50+G1wM5O83e2bZ1IaqoWD+xyxvUZk=;nT8SnfHODC51I+DQK3mj9Q=="
 ---
 

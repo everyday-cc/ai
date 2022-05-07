@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/india-has-software-pro
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/india-has-software-prowess-to-become-an-ai-superpower/amp-11651513257015.html"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "AI-powered voice solutions provider for healthcare Suki to double India headcount"
-    excerpt: "“We have to be very, very highly efficient and accurate for healthcare. We ended up actually building a medically tuned speech recognition system, a medically tuned command, understander or intent recognizer. Our goal is to make healthcare ..."
-    publishedDateTime: 2022-05-02T11:25:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 71
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/9gvchh/article65375375.ece/alternates/LANDSCAPE_615/Punit%20Soni.jpg"
-        width: 615
-        height: 383
-        isCached: true
 
 secured: "Qbpssp9hZ38kfaGMCjb9MGrAwyg05IxRsVb1ApL586iBEzvAUnyjQ68Z0j7ueKvaSjrbpZML6xqY1H+ZdNXM0cn2xE2LecXcdNufAw6JKvL36HiVIWAhZMK6qjNGieFDz00p3mq1/FoIOFmEr56gciUjrbyPupIs361uhAWXYAhNKOkBoqEsQjvNA9gge3q1iU6peq+ry447DVkZC0jmXBjLZenQzZF/z1xZwHF1+4hNJwlZl8IsOus2Z0iEPlzjdMFkJag0ldZOcCpMPffbtwlz7jkYssL4/i6/ma4+eabrmT9ixsa2qSobPx6BAxdZZyhgM65NQOCH3nkf/UeAB6EP8ImeTGNG1PZrxjjynERa3xstfE08jVf0wsyHxJsIwQhS19LxgG5rVsLyNGandz956pDAqImH/uO3vMaytyhoBz/i1rGtmorBbJ0xO3SKwB4zeNPnSbSpLadcPKqxvYrjPRMq1WfjnopElj7Gr0eqed72Lx+Bd5v2ck/bkDxlFp8d3Wg7Kd0ELJNTFIp9gg==;+3pui4EmA5uHzvhnWZxflQ=="
 ---

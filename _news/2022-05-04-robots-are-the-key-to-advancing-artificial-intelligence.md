@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-th
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
 type: article
-quality: 106
-heat: 156
+quality: 108
+heat: 158
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200"
@@ -97,6 +98,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "Ij712lynNbr3GiM3CpGRm40qL9XyLpXLh3wG/6GXM7leAcpCG9H5t4NoplSSQ5/OwOslQXpcKCCpQYFk9Mw5m+8k3SW2goHYSOAXXtROpycwIcbb98gyML93mbGp1fwhskf7/h7n/MY8frdfVqzttD6DjL/ruN6uM+m+Y2HqzgkiTJNv64xZIWrNwCRJGbPDBlUezx1lgUKmJtBMq+2rgB27e9BbmpzSHFmQmbvgrtoHtI9S1NkF17D+rFab5E1Q7UrErEyNlvGFLynfwQ7V9EqviGbePiUtZMRL44yssKDvNUR4t/QTqg4wHcEE4nt4AMEk6NuK4cdMf2F0gQSJ8v3vSEy/TrLgUHswEzkSdsk=;Dt+xeMWmuOwzW4QhbJfdcg=="
+secured: "SRCWZsjySNtGDfMptBozsaZcGE3Oqy7gz3UGFgR+joHEkU4dIRnAsbPVHbng2/BB7N7KYwi7ImY6ydwoeZN7l1fniE7EYlKFAGt4OQPAo/UExWBQqpvH2UXD3gNCM39jcZKYpfHC1P2e91aj2SYW2NjnqpVV1/Yh/kcpIfIUrWZKs49U7ATXzfTPPtAOv0EoWE8G6j4lYWejXGk94/lxwIYjp9M3eSUSuJGZsjv2Uyea+y3Kd1A0Gyz3sh9NdaXJUMRolgI1pKMs3xU395Z+texA20qJxPkcBMnP0RrMyCCKWmNCd2Ayb0haV29qOAiY5wk1Qyy5DvP0y0LH0wonBotNvBAno5QqMlqkOKliq3ZbFl09Mt8udpUCVTeABmJ4UfnDAJ9BB1Q+9vHFFUJ8YwVg0fHacutj5Y7UfbqGk6jKBCwurf5YXL8pRdh4cOg0yCvMisZVfW4KpuBEbiS/xbbiQ2L3EUa29XgoYuzopguiHAD81DcBOIHV5Bxgp+QgNtZgNa4jduEhjeapaTWrpg==;orxrLhBjT3kXlqXhH3zQEg=="
 ---
 

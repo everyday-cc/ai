@@ -39,15 +39,6 @@ related:
         width: 1061
         height: 581
         isCached: true
-  - title: "Accern lands $20M for AI that analyzes financial documents on the web"
-    excerpt: "Accern, which uses AI to analyze online conversations around particular companies, trends, and industries, today announced that it raised $20 million in a Series B round led by Mighty Capital ..."
-    publishedDateTime: 2022-05-02T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/02/accern-lands-20m-for-ai-that-analyzes-financial-documents-on-the-web/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "yuKJUPdZzxoevo+vfQbVBzJS5kvjSh9SLYEYgxVpUEu/fu0XTjLdyQHLzlNrwGB/1PN9O2670Mk8ydGhPxBTsICikHPbMvzbYwN4qNC3WIx7xcCj7SDYedVtafUJmJ0IEbtdJfXhCC5MeRrsKwPOZ5h6EagFzVPvXqeoEawuYMrx+3NqGQ+XmaroK2T4TeFOm0Vi4/mOZ1Uuzao88bdotxe+4Hw9/8+NeS4rcdtRoaSF7BEpO4+3IqqwI1s8lhJzOawe8kDtBG+NLNlTcz8oLhRm+tEgdGXz4uf2cMa4o/umlZL8JKTyHfLzG59ubu0yEFVkFZsxYUxYf6GjpVQSebaCV6qVYsBc+uv6IZPs5+A=;TccnfKYTz2Z25d9vpj0BPQ=="
 ---
