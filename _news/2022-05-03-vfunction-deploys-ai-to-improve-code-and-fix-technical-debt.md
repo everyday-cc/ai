@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to scale the power of AI simulation"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-05-04T15:10:00Z
-    webUrl: "https://venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/"
-    ampWebUrl: "https://venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/digitaltwins.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Best Practices for Health Care AI Selection"
     excerpt: "Researchers at the Duke-Margolis Center for Health Policy explored how health care systems choose which specific artificial intelligence tools they use for improving population and individual health. Duke-Margolis’ Digital Health Policy Fellow describes ..."
     publishedDateTime: 2022-05-02T13:03:00Z

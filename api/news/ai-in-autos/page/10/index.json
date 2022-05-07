@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-02-04-teslas-full-self-driving-phantom-braking-problem-is-getting-worse.md",
+      "title": "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse",
+      "excerpt": "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
+      "originalUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-fsd-phantom-braking?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp",
+      "publishedDateTime": "2022-02-03T14:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-toyota-built-an-autonomous-self-drifting-sports-car.md",
       "title": "Toyota built an autonomous self-drifting sports car",
       "excerpt": "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ...",
@@ -1357,49 +1400,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-baidus-ev-project-jidu-secures-400-million-in-series-a.md",
-      "title": "Baidu’s EV project Jidu secures $400 million in Series A",
-      "excerpt": "Baidu’s electric vehicle (EV) project Jidu Auto announced on Wednesday that it has raised nearly $400 million in Series A as the Chinese search engine giant accelerates the development of EVs with self-driving capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "originalUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2019/10/BAIDU1.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "publishedDateTime": "2022-01-25T23:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

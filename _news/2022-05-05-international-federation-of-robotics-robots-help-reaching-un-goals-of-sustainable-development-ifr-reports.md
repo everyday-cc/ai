@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Robots Help Reaching UN Goals Of Sustainable Development – IFR Reports"
+    excerpt: "The use of robots plays an important role in reaching the sustainable development goals set out by the United Nations (17 SDGs). The International Federation of Robotics identified 13 SDGs, where robots help to create a better planet."
+    publishedDateTime: 2022-05-05T11:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Robots Help UN Reach Sustainability Goals"
     excerpt: "May 5, 2022 - The use of robots plays an important role in reaching the sustainable development goals set out by the United Nations (17"
     publishedDateTime: 2022-05-05T19:01:00Z

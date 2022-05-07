@@ -36,7 +36,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 60
+    quality: 62
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/online-learning-2.jpg"
         width: 1920

@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-03T13:29:00Z
 originalUrl: "https://www.techzine.eu/news/devops/78179/google-is-embroiled-in-internal-struggle-over-ai-research/"
 webUrl: "https://www.techzine.eu/news/devops/78179/google-is-embroiled-in-internal-struggle-over-ai-research/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.techzine.eu/wp-content/uploads/2022/01/google1.jpg"

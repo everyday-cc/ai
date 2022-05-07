@@ -36,7 +36,7 @@ related:
     provider:
       name: Governing
       domain: governing.com
-    quality: 37
+    quality: 39
 
 secured: "EY1qve07P/dI+1DpIcquCYg/Zqk08sgxJhk0hQNVr7MtCh3o3Jdj0Cg1nSEx9sfrNeo8w8ZCZ1zwbU4tcdZSUh8j7m5Wn9XQCaE2jRDASd/+doMWmPv8c335/eiO6vdE0zGXJIz5obayZAjXg9AhYzjfNGHx+QH4rrxhHX0C/TyZ0SSXxUuIvA8gcO4SFD51AVkAIroN7p7epCgnKdUWmfeQ5LowbvzxAtWIpBUzLMjKr/6FxWhIWikUQ+OnxTy9Ea0TXJBY91NmwfpvjeFv/yTAvDtYgulj1lwprjulhCxgMCmr//WmfznmW03Qa+mo+Erf1cld+pd8xw9LQVF3IhREw7yYkt2rRKkYLdUB7H0=;JLVaGD1VQ05TgWqTEssLsw=="
 ---

@@ -223,7 +223,7 @@ related:
     provider:
       name: techzine
       domain: techzine.eu
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/01/google1.jpg"
         width: 1000

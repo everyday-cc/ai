@@ -132,6 +132,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-03-unnecessary-wasteful-rights-groups-balk-at-ices-new-72-million-migrant-facial-recognition-contract.md",
+      "title": "'Unnecessary, Wasteful;\" Rights Groups Balk at ICE's New $7.2 Million Migrant Facial Recognition Contract",
+      "excerpt": "New documents reveal a $7.2 million contract with Trust Stamp to provide facial recognition monitoring tools to track up to 10,000 migrants. U.S. border agents at this point have a long history of ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395",
+      "originalUrl": "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/234056fd009408ddcfb396ddb431dac8.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395/amp",
+      "publishedDateTime": "2022-05-02T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-ice-spends-72-million-to-increase-facial-recognition-and-location-tracking-of-migrants.md",
       "title": "ICE spends $7.2 million to increase facial recognition and location tracking of migrants",
       "excerpt": "The contract, which was extended last month, is for surveillance software including facial recognition and GPS check-in. The tech is part of ICE's Alternatives to Detention program, which has been heavily criticized by some lawmakers. US Immigration and ...",
@@ -1307,58 +1359,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031.md",
-      "title": "Computer Vision Market Size, Share, Trends 2022 Competitive Dynamics, COVID Impact, Segmentation and Key Players Strategies by 2031",
-      "excerpt": "Apr 18, 2022 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till 2030. Report further now discusses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031-2022-04-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031-2022-04-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

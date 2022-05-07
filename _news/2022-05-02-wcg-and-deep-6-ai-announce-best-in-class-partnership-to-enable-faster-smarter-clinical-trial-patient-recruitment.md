@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Ticketing and cashless payments solution Oveit announces partnership with deep-tech company Humans.ai"
-    excerpt: "Oveit, ticketing and cashless payments company headquartered in Austin TX, USA, has partnered with Romanian deep-tech startup Humans.ai, for the development of artificial intelligence powered NFTs for live stream shopping. The partnership is the next step ..."
-    publishedDateTime: 2022-05-02T09:09:00Z
-    webUrl: "https://business-review.eu/tech/ticketing-and-cashless-payments-solution-oveit-announces-partnership-with-deep-tech-company-humans-ai-230421"
-    type: article
-    provider:
-      name: business-review.eu
-      domain: business-review.eu
-    quality: 22
-    images:
-      - url: "https://business-review.eu/wp-content/uploads/2022/05/Humans.ai-Oveit.jpeg"
-        width: 1400
-        height: 674
-        isCached: true
   - title: "WCG and Deep 6 AI Announce Partnership"
     excerpt: "WCG and Deep 6 AI announced that they are working together to drive more targeted patient recruitment in clinical trials and accelerate enrollment in vital medical research. The relationship brings together WCG's market position, and their investigative ..."
     publishedDateTime: 2022-05-02T12:57:00Z

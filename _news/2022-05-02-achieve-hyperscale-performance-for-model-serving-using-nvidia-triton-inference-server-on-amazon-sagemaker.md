@@ -108,15 +108,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 70
-  - title: "Three Things To Consider When Bringing AI To Asset Management"
-    excerpt: "In another recent report on the topic, Deloitte suggests that asset managers should start by focusing on quick wins, embracing strategic collaborations and partnerships and clearly defining their AI strategy. There's something to that. When implementing AI ..."
-    publishedDateTime: 2022-05-04T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/three-things-to-consider-when-bringing-ai-to-asset-management/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "pXL919Z3ffyUezNxd67kQjKJug5vH3JNA4FwBML6aM88lco0jvFhSY4WtNXblZqsYR0LPqD+xCeFq5sdc9GeUc8DovVf4YQuO3NZWnJ4oeXbNBOODZYWiDoKh0NQtmHWr/BcPtDxZUelVXo2nWEZ35ZkVk5EKZ+1l2o/aWWiw8qQtzNxLG53Jj2BdJSI1ZIz3kd+rQCr9j+V7bxo8TTcDUWPbwpIo0kO8jx/gvNx+AH8VbRFFNHlYnl4fr4eOacyx19zXP+6IwMBLPgkXEtoxhWGRHE4blW9JRzoGTp5cvkq+LV9o8pucqg6G+jzQHTFNVDrbuoZl0qrvFIxvMZvPDUyLZzv50DPb5mdDwpJzPc=;4ExYKkaHeaWHRcXQkYARoA=="
 ---

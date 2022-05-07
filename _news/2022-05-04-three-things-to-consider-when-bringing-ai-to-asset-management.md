@@ -22,99 +22,77 @@ topics:
   - AI
 
 related:
-  - title: "Deploy and manage machine learning pipelines with Terraform using Amazon SageMaker"
-    excerpt: "AWS customers are relying on Infrastructure as Code (IaC) to design, develop, and manage their cloud infrastructure. IaC ensures that customer infrastructure and services are consistent, scalable, and reproducible, while being able to follow best practices in the area of development operations (DevOps)."
-    publishedDateTime: 2022-05-04T17:39:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker/"
+  - title: "Robots Are The Key To Advancing Artificial Intelligence"
+    excerpt: "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ..."
+    publishedDateTime: 2022-05-04T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/27/ML4359-architecture-diagram-1.png"
-        width: 1002
-        height: 547
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 840
         isCached: true
-  - title: "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas"
-    excerpt: "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and"
-    publishedDateTime: 2022-05-05T16:27:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
+  - title: "The robots aren’t coming for your jobs — at least according to these AI and robotics leaders"
+    excerpt: "(GeekWire Photo / Todd Bishop) PITTSBURGH — There are no shortage of headlines about automation, artificial intelligence and robotics wiping out large swaths of employment, from truck drivers to painters to food service workers. But opinions are mixed on ..."
+    publishedDateTime: 2022-05-03T17:52:00Z
+    webUrl: "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/"
+    ampWebUrl: "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
+      name: GeekWire
+      domain: geekwire.com
+    quality: 88
+  - title: "How to scale the power of AI simulation"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-04T15:10:00Z
+    webUrl: "https://venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/"
+    ampWebUrl: "https://venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg"
-        width: 800
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/digitaltwins.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Build a custom Q&A dataset using Amazon SageMaker Ground Truth to train a Hugging Face Q&A NLU model"
-    excerpt: "In recent years, natural language understanding (NLU) has increasingly found business value, fueled by model improvements as well as the scalability and cost-efficiency of cloud-based infrastructure. Specifically, the Transformer deep learning architecture, often implemented in the form of BERT models,"
-    publishedDateTime: 2022-05-06T16:29:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/"
+  - title: "Housing association tests AI and machine learning to cut costs"
+    excerpt: "Jointly developed by the University of Bradford and the housing association, Incommunities, the two-year project will use machine learning to predict things such as boiler checks, general maintenance, and housing repairs, and could also be used to help ..."
+    publishedDateTime: 2022-05-03T11:11:00Z
+    webUrl: "https://www.bimplus.co.uk/housing-association-tests-ai-and-machine-learning-to-cut-costs/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
+      name: bimplus.co.uk
+      domain: bimplus.co.uk
+    quality: 54
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/23/ML-4130-image015.jpg"
-        width: 1287
-        height: 1024
+      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/04/img94joktmu7877.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Process larger and wider datasets with Amazon SageMaker Data Wrangler"
-    excerpt: "Amazon SageMaker Data Wrangler reduces the time to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio. Data Wrangler can simplify your data preparation and feature engineering processes and help you with data selection, cleaning, exploration, and visualization."
-    publishedDateTime: 2022-05-06T17:30:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/process-larger-and-wider-datasets-with-amazon-sagemaker-data-wrangler/"
+  - title: "How AI is helping to address staffing shortages in healthcare"
+    excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
+    publishedDateTime: 2022-05-02T22:25:00Z
+    webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ml-9302.jpg"
-        width: 800
-        height: 400
+      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
+        width: 724
+        height: 483
         isCached: true
-  - title: "Fine-tune transformer language models for linguistic diversity with Hugging Face on Amazon SageMaker"
-    excerpt: "Approximately 7,000 languages are in use today. Despite attempts in the late 19th century to invent constructed languages such as Volapük or Esperanto, there is no sign of unification. People still choose to create new languages (think about your favorite movie character who speaks Klingon, Dothraki,"
-    publishedDateTime: 2022-05-06T17:22:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-transformer-language-models-for-linguistic-diversity-with-hugging-face-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/27/ML-7596-image003-1260x553.png"
-        width: 1260
-        height: 553
-        isCached: true
-  - title: "Achieve hyperscale performance for model serving using NVIDIA Triton Inference Server on Amazon SageMaker"
-    excerpt: "Machine learning (ML) applications are complex to deploy and often require multiple ML models to serve a single inference request. A typical request may flow across multiple models with steps like preprocessing, data transformations, model selection logic, model aggregation, and postprocessing. This"
-    publishedDateTime: 2022-05-02T20:30:50Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-hyperscale-performance-for-model-serving-using-nvidia-triton-inference-server-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/21/ML-7392-image003-new.png"
-        width: 1150
-        height: 515
-        isCached: true
-  - title: "Build a corporate credit ratings classifier using graph machine learning in Amazon SageMaker JumpStart"
-    excerpt: "Today, we’re releasing a new solution for financial graph machine learning (ML) in Amazon SageMaker JumpStart. JumpStart helps you quickly get started with ML and provides a set of solutions for the most common use cases that can be trained and deployed with just a few clicks. The new JumpStart solution"
-    publishedDateTime: 2022-05-02T18:52:21Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-corporate-credit-ratings-classifier-using-graph-machine-learning-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 70
 
 secured: "hmQJtZW8T4Jm4Dxu00CXLs7UOAPwurJi73YFwQr+RitSj/l4rsOAVULUnAjLHZeZQnlQ1qxN9C+rjEkFO+RvFSZ+v0xfRRFSSh1HvwSmPFH4i/SL4paSy0T4kYzSmPfLCX1Vf8BfOcv/C1Z6xrejnSL3hT5MRv2d00i4pFsRQGsM8AJvrYb6e4I/UGSsUWluGRamdJPdFNOGa7bixgYWugqHjGQg8JKMLRvbQDLnvicVD7+FjSdpn9zdglEtrvSdnFCT4a3KCj7YtLQzwJNStpcpV2Y2hWr2dOtsbhn69mzDsLEgI4Qq2MHE8zo1auCA9i1PvkJAGn2JDPIVIC096KEtUBGdAIN3XaKJ1H0sK5bfH9vZZW7Kn96VWt/SaSLFWtnliRYyiX+TbIi4WF0kATnykvL2DDyjfEfCaShD29iyUbJUZ8+WmpBagWo+uxAk6MbOQbeWMoRYeoAaFOvQKNp7V83dcOiGjDtRJbsCZGGKBKJRGPjhblYKNb9PuDm8kJ626EV9SLF4t6lbqBYrVw==;UnNG5WWaEaLnpndtECzKZg=="
 ---

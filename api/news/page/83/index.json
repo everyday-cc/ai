@@ -2,6 +2,333 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-02-22-paving-the-way-for-ai-and-machine-learning-success.md",
+      "title": "Paving the way for AI and Machine Learning success",
+      "excerpt": "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
+      "originalUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg",
+          "width": 1000,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "intelligentcio.com",
+        "domain": "intelligentcio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.md",
+      "title": "Exclusive-Facial Recognition Company Clearview AI Seeks First Big Deals, Discloses Research Chief",
+      "excerpt": "Clearview has become one of the highest-profile developers of facial recognition over the last two years because it sends authorities matches from an ever-growing database of over 10 billion photos that it finds posted publicly on the internet. Results ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-3409221",
+      "originalUrl": "https://www.ibtimes.com/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-3409221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/22/an-illustration-picture-shows-a-projection-of-text.jpg",
+          "width": 1200,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-how-neuralspace-is-driving-low-resource-language-processing.md",
+      "title": "How NeuralSpace is driving low-resource language processing",
+      "excerpt": "“In India, Reverie Language Technologies and Skit AI are competitors but they mainly focus on Machine Translation and Speech Recognition, respectively. NeuralSpace offers the first platform that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/",
+      "originalUrl": "https://venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Voice-recognition.NLP_.GettyImages-1199031078.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/amp/",
+      "publishedDateTime": "2022-02-22T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million.md",
+      "title": "Rios, a startup developing robots that can grasp objects, has raised $28 million",
+      "excerpt": "Rios’ robotics stack combines an AI orchestration system (deployed in the cloud or on-premises), embedded processors, computer vision, touch sensors, and accessories like gripper arms and pincers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/",
+      "originalUrl": "https://venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/amp/",
+      "publishedDateTime": "2022-02-22T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-ydata-launches-data-centric-ai-community-for-data-scientists.md",
+      "title": "YData launches data-centric AI community for data scientists",
+      "excerpt": "Register here. Chief data officers, data scientists and data analysts of all stripes may be interested in a new AI support and information community that’s debuting today. That special ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/",
+      "originalUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1327569482-e1645483723963.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/",
+      "publishedDateTime": "2022-02-22T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-neosapience-gets-215m-to-use-ai-powered-synthetic-avatars-for-creators.md",
+      "title": "Neosapience gets $21.5M to use AI-powered synthetic avatars for creators",
+      "excerpt": "Korean startup called Neosapience has developed a ... It will not only allow content with less effort but also execute on our vision of AI-powered virtual actors being accessible to everyone ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/",
+      "originalUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-21-at-11.10.27-AM.png?w=1024",
+          "width": 1024,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/22/neosapience-raises-21-5m-to-use-ai-powered-synthetic-avatars-for-creators/amp/",
+      "publishedDateTime": "2022-02-22T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19.md",
+      "title": "Skymount Medical, Inc.: Skymount Medical Receives UK MHRA Approval to Test New Treatment in Patients with Mild to Moderate COVID-19",
+      "excerpt": "Feb. 22, 2022 (GLOBE NEWSWIRE) -- Skymount Medical, a drug discovery company using an artificial intelligence (AI ... the reach of this combination therapy internationally.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-02/55306795-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-02/55306795-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-homology-joins-biomarin-in-halting-gene-therapy-studies-for-rare-metabolic-disease.md",
       "title": "Homology joins BioMarin in halting gene therapy studies for rare metabolic disease",
       "excerpt": "It was a tough week for companies, patients and families hoping a gene therapy for the rare metabolic disease phenylketonuria is on its way. On Friday afternoon, after BioMarin had already announced its program would be on hold for at least “several quarters,",
@@ -833,352 +1160,6 @@
         "name": "Civil",
         "domain": "civil.ge",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes.md",
-      "title": "No-code automation platform Skael raises $38M to streamline enterprise processes",
-      "excerpt": "Skael, a technology vendor developing no-code automation technologies for the enterprise, has raised $38 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/",
-      "originalUrl": "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/dev-team-e1644869815394.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/no-code-automation-platform-skael-raises-38m-to-streamline-enterprise-processes/amp/",
-      "publishedDateTime": "2022-02-21T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-a-call-to-bring-more-human-centered-design-to-artificial-intelligence.md",
-      "title": "A call to bring more human-centered design to artificial intelligence",
-      "excerpt": "Many AI systems are developed under the assumption that 'whatever we want from AI, we're going to press the button, and as if if by magic, it's going to deliver the result to us.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a110448f6fc5f86778ca95ef106d3f8d8140ac6d/2022/02/21/3ce069ce-c48e-4564-9d58-fe286fb6a2d0/rainbow-hand-cropped-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-call-to-bring-human-centered-design-to-artificial-intelligence/",
-      "publishedDateTime": "2022-02-21T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-h2o-brings-ai-grandmaster-powered-nlp-to-the-enterprise.md",
-      "title": "H2O brings AI grandmaster-powered NLP to the enterprise",
-      "excerpt": "Hydrogen Torch, H2O's latest product, is designed to deliver the AI capabilities of web giants to the rest of the world, says CEO Sri Ambati.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "originalUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/08d382de07cd537698342f28b54b062cc846a7b8/2022/02/21/84c11a8a-f04c-4bf0-89d3-0c4b98db6ea1/h2ohydrogentorch.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "publishedDateTime": "2022-02-21T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-can-machine-learning-models-overcome-biased-datasets.md",
-      "title": "Can machine-learning models overcome biased datasets?",
-      "excerpt": "Aug. 29, 2019 — In a key step toward making large-scale optical neural networks practical, researchers have demonstrated a first-of-its-kind multilayer all-optical artificial neural network ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/02/220221115403.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/02/220221115403.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-21T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service.md",
-      "title": "Microsoft goes public with details on its 'Singularity' AI infrastructure service",
-      "excerpt": "She is the author of 2.'s Azure and Research teams are working together to build a new AI infrastructure service, codenamed \"Singularity.\" The Singularity team is working to build what describes in some of its job postings for the group,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5dcf3d674c0197c63f668fe41924cf7082da7b01/2022/02/21/9f3ec88d-87db-45bd-b79c-7a1b2522126a/singularityaiservicemicrosoft.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-details-on-its-singularity-ai-infrastructure-service/",
-      "publishedDateTime": "2022-02-21T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-new-machine-learning-model-flags-abnormal-brain-scans-in-real-time.md",
-      "title": "New machine learning model flags abnormal brain scans in real-time",
-      "excerpt": "Researchers from the King's College London School of Biomedical Engineering & Imaging Sciences have developed a deep learning framework based on convolutional neural networks to flag clinically relevant abnormalities at the time of imaging,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brainscan.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-machine-flags-abnormal-brain-scans.amp",
-      "publishedDateTime": "2022-02-21T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business.md",
-      "title": "Running multiple APIs side-by-side with AI paves way to hyperautomation for business",
-      "excerpt": "Running existing APIs side-by-side can cut costs while reducing inefficiencies, but it requires a critical missing piece – AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/",
-      "originalUrl": "https://venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1219705473.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/running-multiple-apis-side-by-side-with-ai-paves-way-to-hyperautomation-for-business/amp/",
-      "publishedDateTime": "2022-02-21T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - IBM AI
 
 related:
   - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market, Global Outlook and Forecast 2022-2028"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/amp/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -28,6 +28,22 @@ images:
     width: 828
     height: 466
     isCached: true
+
+related:
+  - title: "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022"
+    excerpt: "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ..."
+    publishedDateTime: 2022-05-05T12:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "CG0Ee4LtZwew4QxhG0DVwU9I2Bznkk7C5VsTIqV/VaRgwTiR3YwGs20UZnb4YU53QfB7m55qMPBZfekOtm1yDA0oRl7bBeWmYjF/zn52EauLU4Meazqk5GDKvRUEU8EdW4p2bmX6bl0nmKt9O8+4wYshflynVMaYg4QbcgAkcfIlLDBTZjCrLKt5WA5UWQSO9k5INXzP9zaIknWBLz/8TLurao16Z31o6xEnc9iNma0hsnZPvZE09piVUveuZ9UP/vz0oc3ZucpY0ZQK/5lZsshXLy4ethRVOMOrIFXBILuIDk/+b3qjyRK0jOjg16Jjgvq1E/eCCROh7xa7kmWz7HuGYOteUdisoYdGDVBXi5I=;bJlvOPo3wBeGxFXkWY/nzw=="
 ---

@@ -2,6 +2,352 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-29-cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-the-field-of-ai.md",
+      "title": "Cerebras Systems’ dinner plate-sized chips are revolutionizing the field of AI",
+      "excerpt": "When big isn't big enough, you go bigger. And when that isn't big enough, you go Cerebras Systems big. But how much does size matter?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai",
+      "originalUrl": "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fcerebras-chip.jpg&signature=33b94c65c924c926aa93ff8a248753b1",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-this-ai-designed-enzyme-can-devour-plastic-trash-in-hours-video.md",
+      "title": "This AI-Designed Enzyme Can Devour Plastic Trash In Hours: Video",
+      "excerpt": "A new enzyme developed by researchers in Texas has raised hopes of a viable method to break down and recycle some of the millions of tons of waste plastic polluting the Earth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/",
+      "originalUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626917e9bf251683c124e08a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/amp/",
+      "publishedDateTime": "2022-04-28T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-inworld-shows-off-impressive-ai-powered-character-generation-and-interaction.md",
+      "title": "Inworld shows off impressive AI-powered character generation and interaction",
+      "excerpt": "Characters in games and other digital experiences tend to be rather static, working from a set of lines and responses written long ago. But the future of games could be more responsive, generative, and of course AI-powered — something Inworld AI is attempting to enable with a newly available beta",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
+      "originalUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/inworld.jpg?w=1024",
+          "width": 1024,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/",
+      "publishedDateTime": "2022-04-28T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-snap-is-fueling-our-selfie-obsessions-with-a-flying-camera.md",
+      "title": "Snap Is Fueling Our Selfie Obsessions With a Flying Camera",
+      "excerpt": "Snap is mostly known for its sticky social network consisting of fleeting messages and legitimately impressive augmented reality filters. But every so often Snap, which calls itself a “camera company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/snap-pixy-drone-camera/",
+      "originalUrl": "https://www.wired.com/story/snap-pixy-drone-camera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/snap-pixy-drone-camera/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snap-pixy-drone-camera/amp",
+      "publishedDateTime": "2022-04-28T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-self-driving-tesla-crashes-into-15-million-private-jet-while-being-summoned.md",
+      "title": "Self-driving Tesla crashes into £1.5 million private jet while being ‘summoned’",
+      "excerpt": "One of the self-driving features on a Tesla car is known as ‘smart summon’ and allows the owner to call the car remotely from around 200 feet. Unfortuantely, there’s sometimes an expensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
+      "originalUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_101095692.jpg?quality=90&strip=all&zoom=1&resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
+      "publishedDateTime": "2022-04-28T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few.md",
+      "title": "Federal banking agencies trying to ensure AI, ML benefit most rather than the few",
+      "excerpt": "Measuring risks and setting benchmarks for emerging fintech is top of mind for NIST and the Commerce Department.",
+      "sourceUrl": null,
+      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
+      "originalUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://federalnewsnetwork.com/wp-content/uploads/2022/04/stanfordpanel.jpg",
+          "width": 1555,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "federalnewsnetwork.com",
+        "domain": "federalnewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
+      "title": "People in Beijing can now book a taxi with no one at the wheel",
+      "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220428000058-01-baidu-apollo-0422-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
+      "publishedDateTime": "2022-04-28T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware.md",
       "title": "Exafunction aims to reduce AI dev costs by abstracting away hardware",
       "excerpt": "The most sophisticated AI systems today are capable of impressive feats, from directing cars through city streets to writing human-like prose. But they share a common bottleneck: hardware.",
@@ -853,340 +1199,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers.md",
-      "title": "HPE and Salesforce unveil AI and automation tools for developers",
-      "excerpt": "HPE has launched its Swarm Learning and Machine Learning Development System whilst Salesforce announced further integration with Slack, Tableau, and Mulesoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "originalUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "publishedDateTime": "2022-04-27T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-ai-can-close-gaps-in-cybersecurity-tech-stacks.md",
-      "title": "How AI can close gaps in cybersecurity tech stacks",
-      "excerpt": "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
-      "publishedDateTime": "2022-04-27T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud.md",
-      "title": "How AI-driven company Oculeus helps telecom service providers better combat fraud",
-      "excerpt": "Oculeus claims its solutions use AI to help its customers better manage and protect their business and network operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1364721861-e1651091651812.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
-      "publishedDateTime": "2022-04-27T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-baidu-ponyai-win-first-driverless-robotaxi-permits-in-china.md",
-      "title": "Baidu, Pony.AI win first driverless robotaxi permits in China",
-      "excerpt": "Chinese internet giant Baidu and autonomous vehicle company Pony.ai have received permits to provide driverless ride-hailing services to the public on open roads in Beijing, according to both companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
-      "originalUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Baidu-Apollo-Driverless-Vehicles.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/amp/",
-      "publishedDateTime": "2022-04-27T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-baidu-leads-years-long-race-for-first-driverless-taxis-in-china.md",
-      "title": "Baidu Leads Years-Long Race for First Driverless Taxis in China",
-      "excerpt": "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous driving, is one of two companies to secure the country’s first permits to operate a fleet of self-driving robotaxis without someone in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/markets/baidu-leads-years-long-race-for-first-driverless-taxis-in-china",
-      "originalUrl": "https://www.bloombergquint.com/markets/baidu-leads-years-long-race-for-first-driverless-taxis-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-finbotsai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a.md",
-      "title": "Finbots.AI, a Firm Providing AI for Banks, Financial Services, Raises $3 Million Series A",
-      "excerpt": "Finbots.AI, an \"Artificial Intelligence-envisioned\" firm for financial services, has raised $3 million in a Series A round funded by a single investor -",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Sanjay-Uppal-Founder-and-CEO-Finbots.AI_.jpg",
-          "width": 600,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/amp/",
-      "publishedDateTime": "2022-04-27T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live.md",
-      "title": "Raising monster rounds for self-driving mobility startups on TechCrunch Live",
-      "excerpt": "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
-      "originalUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TCL-2022-05-11-featured-1920x1080-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
-      "publishedDateTime": "2022-04-27T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

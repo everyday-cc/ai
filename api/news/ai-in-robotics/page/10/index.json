@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-02-15-robots-need-us-more-than-we-need-them.md",
+      "title": "Robots Need Us More Than We Need Them",
+      "excerpt": "The robots employ an off-the-shelf industrial arm, a suction gripper, and a vision system. Crucially, they are also equipped with AI software from Covariant, a start-up based in California.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them?tpcc=orgsocial_edit",
+      "originalUrl": "https://hbr.org/2022/03/robots-need-us-more-than-we-need-them?tpcc=orgsocial_edit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2022/01/R2202E_TUERLINCKX.jpg",
+          "width": 2000,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-four-ways-artificial-intelligence-is-transforming-e-commerce.md",
+      "title": "Four Ways Artificial Intelligence Is Transforming E-Commerce",
+      "excerpt": "There isn’t an industry in the world that is immune to the influence of artificial intelligence (AI). From virtual reality (VR) gaming systems to AI robots in industrial manufacturing, the development of AI technology is revolutionizing the way we ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd9017bfb580cfe3fe8ef74/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/amp/",
+      "publishedDateTime": "2022-02-15T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-local-municipalities-use-ai-robots-to-improve-care-for-elderly.md",
       "title": "Local municipalities use AI robots to improve care for elderly",
       "excerpt": "Among the various AI robots which can be found inside of stuffed toys ... Soon-yi is a wristwatch-type product made by DNX, a startup company in the Yongin City Digital Industry Promotion Agency. After DNX provided the products to 111 elderly people ...",
@@ -1247,92 +1342,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles.md",
-      "title": "Ag Expo rolls out innovations in AI, robotics, electric vehicles",
-      "excerpt": "Technology that farmers have only dreamed about will be on full display next week at Tulare's annual World Ag Expo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html",
-      "originalUrl": "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/74/37433be8-1a79-523c-8cf3-89c216f4e07b/61fdac8f356b3.image.jpg?resize=1024%2C540",
-          "width": 1024,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html",
-      "cdnAmpWebUrl": "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html",
-      "publishedDateTime": "2022-02-04T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-chinese-scientists-build-robot-nanny-to-care-for-babies-in-artificial-womb.md",
-      "title": "Chinese scientists build robot nanny to care for babies in artificial womb",
-      "excerpt": "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "originalUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
-      "publishedDateTime": "2022-02-04T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

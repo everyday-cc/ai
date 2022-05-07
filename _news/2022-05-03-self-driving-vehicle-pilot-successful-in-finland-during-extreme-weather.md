@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 817
         isCached: true
-  - title: "Ford driving program explores challenges to and on the road for drivers with autism"
-    excerpt: "This would help to keep students focused and driving on roads that they are more comfortable with. With existing and developing technologies helping drivers to stay safe on the road — from lane-keeping assistance and self-driving cars — the ..."
-    publishedDateTime: 2022-05-02T10:04:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/2022/05/02/driving-program-explores-challenges-driving-those-autism/7356511001/"
-    ampWebUrl: "https://amp.freep.com/amp/7356511001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7356511001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 38
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/04/25/PDTF/73a57755-9bb5-4843-81c7-56fd9f58325f-042422_ASD_driving_prog6.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-driving cars will need smarter roadways"
     excerpt: "One way to speed the adoption of self-driving vehicles is to give them automated express lanes, where they can zip past regular traffic without having to tangle with human-driven cars. Why it matters: For all the billions companies are spending to develop ..."
     publishedDateTime: 2022-05-04T10:58:00Z

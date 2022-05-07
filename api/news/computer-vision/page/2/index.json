@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-18-computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031.md",
+      "title": "Computer Vision Market Size, Share, Trends 2022 Competitive Dynamics, COVID Impact, Segmentation and Key Players Strategies by 2031",
+      "excerpt": "Apr 18, 2022 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Computer Vision Market for 2021 till 2030. Report further now discusses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031-2022-04-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-trends-2022-competitive-dynamics-covid-impact-segmentation-and-key-players-strategies-by-2031-2022-04-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-computer-vision-system-market-opportunity-size-share-growth-segmentation-in-depth-analysis-research-report-by-foresight-to-2022-2028.md",
       "title": "Computer Vision System Market Opportunity, Size, Share, Growth, Segmentation, In-depth Analysis Research Report by Foresight to (2022-2028)",
       "excerpt": "Apr 18, 2022 (The Expresswire) -- Global “Computer Vision System Market” (2022) report offers development drivers, significant difficulties, size, share, recent trends and open doors that will ...",
@@ -1271,49 +1323,6 @@
       "provider": {
         "name": "Federal Computer Week",
         "domain": "fcw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-should-law-enforcement-use-facial-recognition-technology.md",
-      "title": "Should law enforcement use facial recognition technology?",
-      "excerpt": "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
-      "originalUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/b03f3cc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff0%2F77%2Fc1a0a79b4111a54b5b35b28e5323%2Fframe-1955.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
-      "cdnAmpWebUrl": "https://www-kivitv-com.cdn.ampproject.org/c/s/www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
-      "publishedDateTime": "2022-04-01T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KIVI Boise",
-        "domain": "kivitv.com",
         "images": null,
         "publishers": null,
         "authors": null

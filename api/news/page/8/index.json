@@ -2,6 +2,307 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-27-bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses.md",
+      "title": "Bell and Amazon Web Services launch AWS Wavelength Zones to advance 5G for businesses",
+      "excerpt": "This enables software developers and businesses to take full advantage of 5G networks and the cloud with AWS to build solutions that leverage real-time visual data processing, augmented/virtual reality (AR/VR), artificial intelligence and machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.canadianmanufacturing.com/manufacturing/bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses-281082/",
+      "originalUrl": "https://www.canadianmanufacturing.com/manufacturing/bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses-281082/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canadianmanufacturing.com/wp-content/uploads/2021/10/PLT_INDUSYRY4.0_WSUPERBIXBOX_SEPT21_JLR.jpg",
+          "width": 300,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canadian Manufacturing",
+        "domain": "canadianmanufacturing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-cyberlink-announces-the-release-of-faceme-platform-a-complete-api-solution-for-facial-recognition.md",
+      "title": "CyberLink Announces the Release of FaceMe® Platform, a Complete API Solution for Facial Recognition",
+      "excerpt": "CyberLink Announces the Release of FaceMe® Platform, a Complete API Solution for Facial Recognition. CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologie",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/04/27/9590785.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/04/27/9590785.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-hewlett-packard-enterprise-ushers-in-next-era-in-ai-innovation-with-swarm-learning-solution-built-for-the-edge-and-distributed-sites.md",
+      "title": "Hewlett Packard Enterprise Ushers in Next Era in AI Innovation with Swarm Learning Solution Built for the Edge and Distributed Sites",
+      "excerpt": "News HighlightsHPE Swarm Learning, a privacy-preserving, decentralized machine learning solution, allows users to share learnings at the edge, or distributed sites, without compromising data privacyThe solution increases accuracy and reduces biases in AI model training by enabling access to larger datasetsNew solution delivers AI for greater good by fostering collaboration across organizations,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=653783",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=653783",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://us.acrofan.com/img/noImg.jpg",
+          "width": 500,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-fiture-interactive-fitness-mirror-features-ai-movement-tracking.md",
+      "title": "Fiture Interactive Fitness Mirror Features AI Movement Tracking",
+      "excerpt": "The $1,495 Fiture leverages AI and smart motion sensors to track your movements, provide real-time form feedback, and count your reps as you follow workouts on its integrated display.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/fiture-interactive-fitness-mirror-features-ai-movement-tracking",
+      "originalUrl": "https://www.pcmag.com/news/fiture-interactive-fitness-mirror-features-ai-movement-tracking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03fiBqewl9iW1yhO4OzoAGj-1.fit_lim.size_1200x630.v1651068827.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/fiture-interactive-fitness-mirror-features-ai-movement-tracking?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/fiture-interactive-fitness-mirror-features-ai-movement-tracking?amp=true",
+      "publishedDateTime": "2022-04-27T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-beyond-no-code-using-ai-for-guided-security-automation.md",
+      "title": "Beyond No-Code: Using AI for Guided Security Automation",
+      "excerpt": "SOAR Playbooks Outside of football, the term “playbook” is well understood by a relatively small group of security automation ninjas. In many larger enterprises with extensive security teams, automating mundane and repetitive security tasks has been a priority for a few years.",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/",
+      "originalUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.logichub.com/hubfs/shutterstock_1959094861_%20600x400.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/amp/",
+      "publishedDateTime": "2022-04-27T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Boulevard",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings-and-events.md",
+      "title": "Wordly Hits Significant Milestone with One Million Users of AI-Powered Translation at Global Meetings and Events",
+      "excerpt": "Wordly enables people to participate in their native languages across a wide range ... milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings-and-events-301533741.html",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings/article_929f42f0-de77-5a3e-8864-594cde43fa84.html",
+      "originalUrl": "https://www.news-journal.com/wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings/article_929f42f0-de77-5a3e-8864-594cde43fa84.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/9b/09bd2c41-d753-5207-883b-74756558e270/6269420f1250e.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-hpe-uses-blockchain-for-distributed-machine-learning-models.md",
+      "title": "HPE uses blockchain for distributed machine learning models",
+      "excerpt": "HPE has lifted the lid on two new AI products, one aimed at enterprises wanting to build and train machine learning (ML) models at scale, and a second that introduces a decentralized ML system to enable distributed or edge deployments to share updates to their models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/27/hpe_new_ai_products/",
+      "originalUrl": "https://www.theregister.com/2022/04/27/hpe_new_ai_products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2015/06/12/chains_834875.jpg",
+          "width": 648,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/",
+      "publishedDateTime": "2022-04-27T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research.md",
       "title": "Hewlett Packard Enterprise used AI driven data to help accelerate Covid-19 vaccine research",
       "excerpt": "CEO Antonio Neri: “We made available our systems and our patents to be able to process that data at the speed that was required.” © 2022 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and ...",
@@ -844,309 +1145,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws.md",
-      "title": "Build and deploy a scalable machine learning system on Kubernetes with Kubeflow on AWS",
-      "excerpt": "In this post, we demonstrate Kubeflow on AWS (an AWS-specific distribution of Kubeflow) and the value it adds over open-source Kubeflow through the integration of highly optimized, cloud-native, enterprise-ready AWS services. Kubeflow is the open-source machine learning (ML) platform dedicated to making",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-8280-image003.jpg",
-          "width": 1289,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T14:30:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-bell-and-amazon-web-services-bring-5g-edge-compute-to-canada.md",
-      "title": "Bell and Amazon Web Services bring 5G Edge Compute to Canada",
-      "excerpt": "CNW Telbec/ - Bell today announced the launch of the first public multi-access edge computing (MEC) with AWS Wavelength in Canada. Building on Bell's agreement with AWS, announced last year, together the two companies are deploying AWS Wavelength Zones throughout the country at the edge of Bell's 5G network starting in Toronto.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/",
-      "originalUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/",
-      "publishedDateTime": "2022-04-26T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-pentagon-taps-lyfts-machine-learning-chief.md",
-      "title": "Pentagon Taps Lyft’s Machine-Learning Chief",
-      "excerpt": "Craig Martell was named as the Defense Department’s first chief digital and artificial intelligence officer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "originalUrl": "https://www.wsj.com/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-532029/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pentagon-taps-lyfts-machine-learning-chief-11651008407",
-      "publishedDateTime": "2022-04-26T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-space-discoveries-that-will-blow-your-mind.md",
-      "title": "Space discoveries that will blow your mind",
-      "excerpt": "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought. While humans will never map out the entirety of space, that doesn’t stop them from",
-      "sourceUrl": null,
-      "webUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
-      "originalUrl": "https://www.wjtv.com/news/national/space-discoveries-that-will-blow-your-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WJTV",
-        "domain": "wjtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment.md",
-      "title": "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment",
-      "excerpt": "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
-      "originalUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/04/image-82.png?fit=604%2C340&ssl=1",
-          "width": 604,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
-      "publishedDateTime": "2022-04-26T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-norads-vanherck-says-artificial-intelligence-capabilities-lacking.md",
-      "title": "NORAD’s VanHerck says artificial intelligence capabilities lacking",
-      "excerpt": "U.S. Northern Command earlier this year asked Congress for an additional $29.8 million to buy information technology equipment and to optimize infrastructure for artificial intelligence and machine learning at its joint operations center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta.md",
-      "title": "Options AI: 5 Things To Know Into Earnings, Microsoft, Apple, Amazon, Alphabet, Meta",
-      "excerpt": "WikiMedia Commons This post contains sponsored advertising content. This content is for informational purposes only and not intended to be investing advice.   This article originally appeared on Learn",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta",
-      "originalUrl": "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/04/26/untitled_design_74.png?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26821535",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26821535",
-      "publishedDateTime": "2022-04-26T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

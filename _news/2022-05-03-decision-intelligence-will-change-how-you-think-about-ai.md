@@ -9,8 +9,8 @@ ampWebUrl: "https://techhq.com/amp/2022/05/bi-business-intelligence-ai-artificia
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/05/bi-business-intelligence-ai-artificial-machine-learning-commercial-platform-review/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: TechHQ
@@ -40,6 +40,15 @@ related:
         width: 624
         height: 355
         isCached: true
+  - title: "will robots exceed human intelligence?"
+    excerpt: "Tesla Optimus was first introduced in 2021 during a day set for artificial intelligence within the company. Elon Musk then insisted that it would not be a"
+    publishedDateTime: 2022-05-07T00:16:00Z
+    webUrl: "https://www.tracednews.com/will-robots-exceed-human-intelligence/"
+    type: article
+    provider:
+      name: tracednews
+      domain: tracednews.com
+    quality: 19
 
 secured: "qLfuNyqgOyUJocHMPZCQdI65KKrkI5Ohox4mun/0OAxeJl63DUmcbMRJX8NIT1l4FgRCigjpC5kz9+vQDy54HY/Q2B0AvGFaoNHS857PwZU2yhKjIxwyqmKk8HiqcV7RJF6XlC1jMXiesvEZ6gi0NKhs4e78Kt9w/OQXxTGNxvuXT9fNijkYLLS8JdkS5f42fZH6Yw8U1D25Lv4L7lW6+1i8R+Iix1uXltwSn1jp0FIyjAifz3piVx3Z3xMnMeCNbl4HfbgfDUXTYGl89enf+aFMZXI1c1cI4Kd8URSl0tutFz2frS6aAK/uy5ROxLOM2ykY0LY68N3vzRQ5Xr2mGiOPTubkl2ObLHngMz5n8x7FugIghj3PKvDasueG//8N8qyV9pO+iBfNG7K18Za9dsvYP+w1QF3c44dSDCoTsyKZ71e9jMu1IT715B6o9ydDge77IDr0BMbmzRPrxC4umd0sbkeu+Vf8hwrqclyBPHXfIZqENDxhDsfIcyDi3eYtblMsiqcRWNxiZ57EplC25A==;Uw2y0WU8sl3bSiB20mRa6w=="
 ---

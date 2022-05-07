@@ -2,6 +2,299 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-03-mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers.md",
+      "title": "MIT used autonomous knitting to create these soft robotic banana fingers",
+      "excerpt": "The glove is effectively a kind of soft robotic. Its uses pneumatic actuation (air power, if you will) to serve as an assistive wearable. If you, say, have an issue with muscle control ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/",
+      "originalUrl": "https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Itt8bTHXvYs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/amp/",
+      "publishedDateTime": "2022-05-02T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-accern-raises-20m-to-simplify-natural-language-processing-for-financial-firms.md",
+      "title": "Accern raises $20M to simplify natural language processing for financial firms",
+      "excerpt": "Accern Corp., a natural language processing startup focused on the financial services sector, today announced that it has closed a $20 million funding round co-led by Mighty Capital and Fusion Fund.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/",
+      "originalUrl": "https://siliconangle.com/2022/05/02/accern-raises-20m-simplify-natural-language-processing-financial-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/accern-1.png",
+          "width": 1061,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-google-fires-another-ai-researcher-for-questioning-findings.md",
+      "title": "Google Fires Another AI Researcher For Questioning Findings",
+      "excerpt": "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings/",
+      "originalUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/6f9f38ebe51de141ba324517208291b9c98e6e51/2022/05/02/b1c01638-c17e-462e-80eb-3428354a9ae9/gettyimages-1233383030.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings/",
+      "publishedDateTime": "2022-05-02T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-6-must-see-indie-games-we-saw-at-pax-east-2022.md",
+      "title": "6 must-see indie games we saw at PAX East 2022",
+      "excerpt": "In combat, for instance, players can call on their manager to apply a buff or debuff, and players have to mind a hype meter ... is that players pretty much control two characters instead of just one. The first is a giant robot armed with a sword that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cult-of-the-lamb-featured.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/missed-games-pax-east-2022/?amp",
+      "publishedDateTime": "2022-05-02T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-artificial-intelligence-can-identify-students-at-risk-of-failing-and-provide-tools-for-success.md",
+      "title": "Artificial intelligence can identify students at risk of failing and provide tools for success",
+      "excerpt": "Artificial intelligence offers new opportunities to improve university education. This is demonstrated by the Learning Intelligent System (LIS) project, which has been developed by researchers at ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.html",
+      "originalUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/online-learning-2.jpg",
+          "width": 1920,
+          "height": 1222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-artificial-intelligence-students-tools-success.amp",
+      "publishedDateTime": "2022-05-02T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects.md",
+      "title": "Square Enix Sells Deus Ex, Tomb Raider Studios to Fund Blockchain, AI Projects",
+      "excerpt": "Game publisher Square Enix is selling off the studios behind the Tomb Raider and Deus Ex franchises in an effort to streamline its business and fund new AI and blockchain investments. The deal, announced today, is valued at $300 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects",
+      "originalUrl": "https://www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00CgQX9YmOiuE3CVNmOjegm-1.fit_lim.size_1200x630.v1651503896.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/square-enix-sells-deus-ex-tomb-raider-studios-to-fund-blockchain-ai-projects?amp=true",
+      "publishedDateTime": "2022-05-02T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-how-an-engineer-at-googles-deepmind-ai-lab-pulled-off-a-career-pivot-from-marketing-into-machine-learning-without-a-phd.md",
       "title": "How an engineer at Google's DeepMind AI lab pulled off a career pivot from marketing into machine learning without a Ph.D.",
       "excerpt": "The rise of artificial intelligence has prompted a boom in demand for machine-learning expertise. Ivan Lobov, an engineer at DeepMind, worked in marketing before pivoting to AI. Insider sat down ...",
@@ -572,6 +865,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-01-is-there-a-link-between-personality-and-cognitive-decline.md",
+      "title": "Is There a Link Between Personality and Cognitive Decline?",
+      "excerpt": "No one is shocked when the perpetual Netflix-binging couch potato develops dementia. But can personality traits actually predict who will develop cognitive decline? A study published in April in Journal of Personality and Social Psychology says there is an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/health-and-medicine/22671/link-personality-cognitive-decline",
+      "originalUrl": "https://www.labroots.com/trending/health-and-medicine/22671/link-personality-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/health-and-medicine/22671/link-personality-cognitive-decline/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/health-and-medicine/22671/link-personality-cognitive-decline/amp",
+      "publishedDateTime": "2022-04-30T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-01-autonomous-race-car-sets-new-self-driving-land-speed-record.md",
       "title": "Autonomous race car sets new self-driving land speed record",
       "excerpt": "On the other hand, this is racing as technological development, in its purest form. Self-driving street cars might drive fairly cautiously, but there will always be times when these machines ...",
@@ -858,332 +1185,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-3-lessons-learned-from-building-a-software-startup.md",
-      "title": "3 lessons learned from building a software startup",
-      "excerpt": "Startup founders must ask themselves ... world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/",
-      "originalUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/amp/",
-      "publishedDateTime": "2022-04-29T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-do-your-kids-likes-cars-buy-this-ai-robot-lego-compatible-toy.md",
-      "title": "Do Your Kids Likes Cars? Buy This AI Robot Lego Compatible Toy",
-      "excerpt": "Yes, this is motorized, but it also is like an artificial intelligence robot, and it’s programmable. It is billed as “the world’s most powerful robotic car.” And, it is compatible with the hugely popular LEGO blocks. Plus, just as with modern cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/",
-      "originalUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motorbiscuit.com/wp-content/uploads/2022/04/M1-STEM-Car-STEMHUB-4.jpeg",
-          "width": 1920,
-          "height": 1086,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/?amp",
-      "cdnAmpWebUrl": "https://www-motorbiscuit-com.cdn.ampproject.org/c/s/www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/?amp",
-      "publishedDateTime": "2022-04-29T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "motorbiscuit",
-        "domain": "motorbiscuit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking.md",
-      "title": "AI, ML, & Cybersecurity: Here’s What FDA May Soon Be Asking",
-      "excerpt": "These include Artificial Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device (SaMD) Action Plan, published in January 2021; Good Machine Learning Practice for Medical Device Development: Guiding Principles, published in October 2021 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking",
-      "originalUrl": "https://www.designnews.com/artificial-intelligence/ai-ml-cybersecurity-heres-what-fda-may-soon-be-asking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/AI-ML-Cybersecurity-RNG74N.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-visionnav-robotics-closes-80m-for-agvs.md",
-      "title": "VisionNav Robotics closes $80M for AGVs",
-      "excerpt": "... based company that develops logistics robots, raised more than $80 million in Series C+ funding. VisionNav is committed to providing automated material handling systems with visual artificial intelligence navigation technology. VisionNav’s automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/visionnav-robotics-closes-80m-for-agvs/",
-      "originalUrl": "https://www.therobotreport.com/visionnav-robotics-closes-80m-for-agvs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-visionnav.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-omaha-world-herald-inspired-living.md",
-      "title": "Omaha World-Herald: Inspired Living",
-      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/lifestyles/technology/article_df49f555-64c9-5ecb-a05a-0b49f2295d74.html",
-      "originalUrl": "https://omaha.com/lifestyles/technology/article_df49f555-64c9-5ecb-a05a-0b49f2295d74.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/8/73/873ded4d-6b78-5ba4-b4e2-15c994d1157c/626a3efc8ca8f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-anthropics-quest-for-better-more-explainable-ai-attracts-580m.md",
-      "title": "Anthropic’s quest for better, more explainable AI attracts $580M",
-      "excerpt": "Less than a year ago, Anthropic was founded by former OpenAI VP of research Dario Amodei, intending to perform research in the public interest on making AI more reliable and explainable.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/",
-      "originalUrl": "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1160995648.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/29/anthropics-quest-for-better-more-explainable-ai-attracts-580m/amp/",
-      "publishedDateTime": "2022-04-29T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-arm-announces-new-iot-hardware.md",
-      "title": "Arm announces new IoT hardware",
-      "excerpt": "As part of Arm’s roadmap, the company is also working on Total Solutions for vision, object recognition and smart sensor fusion. The first one will be addressed by Cortex-A53, while the latter ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
-      "originalUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1097773250.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
-      "publishedDateTime": "2022-04-29T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

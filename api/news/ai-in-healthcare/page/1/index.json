@@ -10,7 +10,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220505143820.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -54,7 +54,7 @@
       "originalUrl": "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -273,6 +273,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-artificial-intelligence-can-identify-students-at-risk-of-failing-and-provide-tools-for-success.md",
+      "title": "Artificial intelligence can identify students at risk of failing and provide tools for success",
+      "excerpt": "Artificial intelligence offers new opportunities to improve university education. This is demonstrated by the Learning Intelligent System (LIS) project, which has been developed by researchers at ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.html",
+      "originalUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/online-learning-2.jpg",
+          "width": 1920,
+          "height": 1222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-artificial-intelligence-students-tools-success.amp",
+      "publishedDateTime": "2022-05-02T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "AI in Healthcare"
       ]
@@ -501,6 +544,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-norads-vanherck-says-artificial-intelligence-capabilities-lacking.md",
+      "title": "NORAD’s VanHerck says artificial intelligence capabilities lacking",
+      "excerpt": "U.S. Northern Command earlier this year asked Congress for an additional $29.8 million to buy information technology equipment and to optimize infrastructure for artificial intelligence and machine learning at its joint operations center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.navytimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "originalUrl": "https://www.navytimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.navytimes.com/resizer/T8gu2NwwdvBLNDcbYyTLx6vYnO8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/FFQY4UHAMRGAXF3IKU5VY2LE54.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Navy Times",
+        "domain": "navytimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1259,93 +1345,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-k-health-review-is-it-legit.md",
-      "title": "K Health Review: Is It Legit?",
-      "excerpt": "K Health is a health service that uses artificial intelligence (AI ... or you could sign up for their therapy services. K Therapy is a monthly subscription that offers 24/7 access to self-guided ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/khealth-reviews",
-      "originalUrl": "https://www.healthline.com/health/khealth-reviews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/03/telehealth-1200x628-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc.md",
-      "title": "Healthcare AI Market is set to experience a significant growth rate | IBM (Watson Health), Atomwise, Inc., Butterfly Network, Inc.",
-      "excerpt": "Global Healthcare AI Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery , Covid 19 Outbreak Impact research report added by Report Ocean ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-is-set-to-experience-a-significant-growth-rate-ibm-watson-health-atomwise-inc-butterfly-network-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/BBB-8-1-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-17T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI: The Somnium Files – nirvanA Initiative New Characters Shared"
-    excerpt: "This marked the start of the “Half-Body Serial Killings ... She is a returning character from AI: The Somnium Files. She belongs to the talent agency Lemniscate and has a love of the occult and urban legends. Like Kizuna, she is a senior at Sekiba ..."
-    publishedDateTime: 2022-05-02T11:00:00Z
-    webUrl: "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/"
-    ampWebUrl: "https://www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/amp/"
-    cdnAmpWebUrl: "https://www-siliconera-com.cdn.ampproject.org/c/s/www.siliconera.com/ai-the-somnium-files-nirvana-initiative-new-characters-shared/amp/"
-    type: article
-    provider:
-      name: Siliconera
-      domain: siliconera.com
-    quality: 57
-    images:
-      - url: "https://d3fd5j8wprxn3h.cloudfront.net/wp-content/uploads/2022/05/AI-The-Somnium-Files-nirvanA-Initiative-New-Characters.png"
-        width: 710
-        height: 400
-        isCached: true
   - title: "Spike Chunsoft Hints At AI: The Somnium Files Sequel News With 'Hidden Bats' Site"
     excerpt: "Spike Chunsoft is the king of the countdown website. Overnight, the developer has launched a brand new teaser website which has got fans' tongues wagging. This new site is called 'Hidden Bats', and features 9 CRT TVs stacked,"
     publishedDateTime: 2022-05-06T09:45:00Z

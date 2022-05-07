@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots Are The Key To Advancing Artificial Intelligence"
+    excerpt: "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ..."
+    publishedDateTime: 2022-05-04T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 840
+        isCached: true
   - title: "The robots aren’t coming for your jobs — at least according to these AI and robotics leaders"
     excerpt: "(GeekWire Photo / Todd Bishop) PITTSBURGH — There are no shortage of headlines about automation, artificial intelligence and robotics wiping out large swaths of employment, from truck drivers to painters to food service workers. But opinions are mixed on ..."
     publishedDateTime: 2022-05-03T17:52:00Z
@@ -36,38 +52,45 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 88
-  - title: "Robots Are The Key To Advancing Artificial Intelligence"
-    excerpt: "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ..."
-    publishedDateTime: 2022-05-04T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/"
+  - title: "How to scale the power of AI simulation"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-04T15:10:00Z
+    webUrl: "https://venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/"
+    ampWebUrl: "https://venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/digitaltwins.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How AI is helping to address staffing shortages in healthcare"
+    excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
+    publishedDateTime: 2022-05-02T22:25:00Z
+    webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
+        width: 724
+        height: 483
+        isCached: true
+  - title: "Three Things To Consider When Bringing AI To Asset Management"
+    excerpt: "In another recent report on the topic, Deloitte suggests that asset managers should start by focusing on quick wins, embracing strategic collaborations and partnerships and clearly defining their AI strategy. There's something to that. When implementing AI ..."
+    publishedDateTime: 2022-05-04T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/three-things-to-consider-when-bringing-ai-to-asset-management/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "What are the benefits of autonomy and robotics?"
-    excerpt: "Autonomy evolved from the technology developed for GPS machine control two decades ago, but it’s taking things further. With machine control, the operator still makes dozens of decisions every day. Autonomy is evolving to enable the machine to make more of these decisions."
-    publishedDateTime: 2022-05-06T09:00:00Z
-    webUrl: "https://www.khl.com/news/What-are-the-benefits-of-autonomy-and-robotics-/8020349.article"
-    type: article
-    provider:
-      name: KHL
-      domain: khl.com
-    quality: 54
-    images:
-      - url: "https://www.khl.com/Images/1260x628/index-20220505-142427-Built-robotics-exo-op.jpeg"
-        width: 1260
-        height: 628
-        isCached: true
-  - title: "Teaching AI and robotics concepts in business courses"
-    excerpt: "Support the future of business education Modern business courses can no longer neglect the rise of AI and robotics across industries. No matter what company business students work with (or start) in the future, they must understand these new technologies ..."
-    publishedDateTime: 2022-05-03T09:04:00Z
-    webUrl: "https://it-online.co.za/2022/05/03/teaching-ai-and-robotics-concepts-in-business-courses/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 49
+    quality: 47
 
 secured: "n+t/jQ5p+SldXv+thepL9lHN5ipZTGPUdnA6HLJKrgn7SZPVW/TeVjpr9xjH14JS93UFNC4mksf4dkEXDsEVS46NgT+82E5Qz5g2Li8GJ9+T1RC5Jfox+spZO8eD0sfwla1twRxtCETaDN0Cpxiiur4sNJcpkXo79C4HUV9nNbBcHgu/cauWLQZG7qeD4s2e8VPAIdrVfyVhfZB31RQvVmxiNYDbZ5jh+4wsvKybcYfFeI0p/o+NHhssCoZ1J/jwhJ61n4ErrDRpx6ArV0BmLOASXyP9w7CSm8Fda+fGgDUMxzzfu0Vqx+8xyHRNY3EA1mcmiXPNU8oW8qKF1eP21TTHbnhNJ3bXvTou4+HqIyEgCLDztiv2WJBXYeemKEqcen2wMQjkuGseasddpblndR7M1cSYypuSV2sfSeuWn7XiJmT42RddbYRITNSlPzV5u0HySimQIHcb074nrM20Me4H0qwjaJnZSjXmiZQGPxWRzsmicuu+tn6RmMKM9mK+TglX8s1McHgGTu8z8+qoog==;NVDnucXEgW2GPuulkwVzAw=="
 ---

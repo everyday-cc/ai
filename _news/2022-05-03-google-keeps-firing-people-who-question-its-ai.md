@@ -215,6 +215,20 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
+  - title: "Google is embroiled in internal struggle over AI research"
+    excerpt: "The current episode began when Google scientists Azalia Mirhoseini and Anna Goldie published “A graph placement methodology for fast chip design” in the scientific journal Nature in June. They observed that AI could perform a critical phase in the ..."
+    publishedDateTime: 2022-05-03T13:29:00Z
+    webUrl: "https://www.techzine.eu/news/devops/78179/google-is-embroiled-in-internal-struggle-over-ai-research/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 41
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/google1.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Google researchers fired after questioning AI"
     excerpt: "Google fired a researcher who questioned a paper it published on the abilities of a specialized type of AI used in manufacturing computer chips, making it the third researcher fired after critiquing the company's AI, The New York Times reported May 2."
     publishedDateTime: 2022-05-02T15:49:00Z
@@ -228,20 +242,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Google is embroiled in internal struggle over AI research"
-    excerpt: "The current episode began when Google scientists Azalia Mirhoseini and Anna Goldie published “A graph placement methodology for fast chip design” in the scientific journal Nature in June. They observed that AI could perform a critical phase in the ..."
-    publishedDateTime: 2022-05-03T13:29:00Z
-    webUrl: "https://www.techzine.eu/news/devops/78179/google-is-embroiled-in-internal-struggle-over-ai-research/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/google1.jpg"
-        width: 1000
-        height: 563
         isCached: true
   - title: "Delta Research Center seeks AI-assisted transformation"
     excerpt: "DIGITIMES is hosting 2022 Taiwan AI Expo in Taipei from May 4-6. Prior to the event's opening, Delta Research Center (DRC) director-general Chiueh Tzi-cker shared the center's plans in an interview. Founded in 2013, the center is affiliated to Delta ..."

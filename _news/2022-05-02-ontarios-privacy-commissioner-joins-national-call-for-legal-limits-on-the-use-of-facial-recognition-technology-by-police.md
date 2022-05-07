@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ICE spends $7.2 million to increase facial recognition and location tracking of migrants"
-    excerpt: "The contract, which was extended last month, is for surveillance software including facial recognition and GPS check-in. The tech is part of ICE's Alternatives to Detention program, which has been heavily criticized by some lawmakers. US Immigration and ..."
-    publishedDateTime: 2022-05-02T09:27:00Z
-    webUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5"
-    ampWebUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/626c55a886fa90001905e9fe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'Unnecessary, Wasteful;\" Rights Groups Balk at ICE's New $7.2 Million Migrant Facial Recognition Contract"
-    excerpt: "New documents reveal a $7.2 million contract with Trust Stamp to provide facial recognition monitoring tools to track up to 10,000 migrants. U.S. border agents at this point have a long history of ..."
-    publishedDateTime: 2022-05-03T03:10:00Z
-    webUrl: "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395"
-    ampWebUrl: "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 72
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/234056fd009408ddcfb396ddb431dac8.jpg"
-        width: 800
-        height: 451
-        isCached: true
   - title: "Unionville’s music education program receives national recognition"
     excerpt: "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
     publishedDateTime: 2022-05-05T16:38:00Z
@@ -66,45 +34,6 @@ related:
       - url: "https://www.dailylocal.com/wp-content/uploads/2022/05/uville-music.jpg?w=1024&h=656"
         width: 1024
         height: 656
-        isCached: true
-  - title: "Increase your content reach with automated document-to-speech conversion using Amazon AI services"
-    excerpt: "Reading the printed word opens up a world of information, imagination, and creativity. However, scanned books and documents may be difficult for people with vision impairment and learning disabilities to consume. In addition, some people prefer to listen to text-based content versus reading it. A document-to-speech"
-    publishedDateTime: 2022-05-02T18:40:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/increase-your-content-reach-with-automated-document-to-speech-conversion-using-amazon-ai-services/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 56
-  - title: "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022"
-    excerpt: "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ..."
-    publishedDateTime: 2022-05-05T12:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "City official says Cleveland police have facial recognition tech. How it's being used is unclear"
-    excerpt: "A Cleveland surveillance camera at the Cudell Recreation Center on the West Side. The city's Safe Smart CLE program started with the installation of cameras at the city's rec centers. Based on publicly available records and a recent comment from a ..."
-    publishedDateTime: 2022-05-02T16:01:00Z
-    webUrl: "https://www.wksu.org/government-politics/2022-05-02/city-official-says-cleveland-police-have-facial-recognition-tech-how-its-being-used-is-unclear"
-    ampWebUrl: "https://www.wksu.org/government-politics/2022-05-02/city-official-says-cleveland-police-have-facial-recognition-tech-how-its-being-used-is-unclear?_amp=true"
-    cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/government-politics/2022-05-02/city-official-says-cleveland-police-have-facial-recognition-tech-how-its-being-used-is-unclear?_amp=true"
-    type: article
-    provider:
-      name: WKSU
-      domain: wksu.org
-    quality: 46
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/29a245d/2147483647/strip/true/crop/4092x2303+4+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F3f%2Ffadd1cf64f5bb5df7832311251fb%2Fviland-confirmation2.jpg"
-        width: 430
-        height: 242
         isCached: true
   - title: "New legal restrictions needed on police use of facial recognition: privacy watchdogs"
     excerpt: "OTTAWA - Canada’s privacy commissioners say it should be illegal for police to use facial recognition technology to monitor people involved in peaceful protest. In a joint statement today, federal, provincial and territorial privacy watchdogs also call ..."
@@ -148,29 +77,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "'Everyone has good reason to be concerned' about facial-recognition technology"
-    excerpt: "Facial-recognition technology surveillance no-go zones should include peaceful assemblies and public spaces like streets, transit hubs and schools, says the head of the BC Freedom of Information and Privacy Association."
-    publishedDateTime: 2022-05-05T14:00:00Z
-    webUrl: "https://www.nsnews.com/highlights/facial-recognition-technology-bc-privacy-commissioner-weighs-in-5323086"
-    type: article
-    provider:
-      name: News
-      domain: nsnews.com
-    quality: 20
-    images:
-      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/contributed/facialrecognitiontechnology.jpg;w=1200;h=800;mode=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Time to talk specifics of new facial recognition legislation, Canadian privacy authorities say"
-    excerpt: "Lawmakers in Canada are being urged by privacy authorities to pass new laws to protect people from the risks associated with facial recognition, while also allowing it to be used by police in certain situations. Canadian Privacy Commissioner Daniel ..."
-    publishedDateTime: 2022-05-02T18:20:00Z
-    webUrl: "https://www.biometricupdate.com/202205/time-to-talk-specifics-of-new-facial-recognition-legislation-canadian-privacy-authorities-say"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 7
 
 secured: "Ot1/wRmx9QlHDoqKZZ//k5ruwi+RABOWHQCEp6KFbx6hDXDa9RD2i8XpfQkCd/RxsQ6S1Ev3BzfChpLXEbjybTOOzuF/xnM8ETMYPgU200RSgKCY3IoUqfMkmHnK6U6c4eSb/Al3rTuUfW2WZLT8LJSW1y3O+lqKm+UCOCaMs6/Uqo/EY2XHI4muOt6MsKUM78eP0r2UESuchewEydfH9y8pazILc5QSFHlfTfy/lVwBWYXXItkkGQyPL77fjumz8ZEhC0+OtAlEgMMhg5e1repdbHPFXIeAOg248tC8VGbDAmcZIYWocL5mGwxEXTmwFLsCzo10RwL9NiiJ0ahZWJH2nJsotCZFOZA1JnmPZbgd1uGW6x9oYHw8+SX79QDyt4vFpM44e2YHV3/aPQWSU3QXA3dU1c42DaB6tEukcNAFwG760tvx0uL86CQHsPVmom/53mWPdzJym1WPrzy+uVaWvJL5IhlMpUhXvFQWoQOmRq/2T5JTv2bzfT1mHhfxg6+23KknwUc22bXyyygsBw==;pPqagodaPLCjjYcR++PQWg=="
 ---

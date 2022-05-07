@@ -44,15 +44,6 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 21
-  - title: "One to Watch Companies - AI, Analgesia, Immunologicals"
-    excerpt: "One company, Labstep, aims to help scientists achieve this. Japanese AI specialist Elix is to commence work on a joint research project with Shionogi, leveraging its Elix Synthesize platform. PhoreMost, a UK-based biopharma dedicated to developing drugs ..."
-    publishedDateTime: 2022-05-02T09:57:00Z
-    webUrl: "https://www.thepharmaletter.com/listing/one-to-watch-companies/ai-analgesia-immunologicals?tagid[]=95224&tagid[]=8130&tagid[]=41"
-    type: article
-    provider:
-      name: The Pharma Letter
-      domain: thepharmaletter.com
-    quality: 17
 
 secured: "pAkjEhK4tiWXeUuh+Z19sFsDluQDLktw/yysmfEmpLOKXOJJPSnHQgcpfvmxwmFXbVq30im1WonFRLVnJ9wR3+VCeVy8Nz/EjTNuq8DyrwVi6mvXS2OWf1KmYmuU05NiRhkw5qmH26aoorGHZln+rYtgXM1l13MQaaDJv8CvKJ8dgsLMCZEt3Fqh9oktEQRJnphXtvnYg4rbxKRkENKXaebHnPPPX/YWDK81I+iUiwLZH2GDpZrFdktsyA/9JqStUJfbwk3jzSVEnq5iy0wL044f6sd8SZd1m+66FrMd6Zfypr5LTE46Czo48YRDaXSgxb6R7mIQAkW0TAGEDIP7zVpgK/7C/r8XDt6wwqdIs03wzmLt7lKudRkl9EBHBQQpNN+Y/NaQdZq2OPOOxzxY8pODGLTXCn5ANZy6ouEaEYmA8sxzaYGhOZ4AZQKnkGxjo2a7jntOT6i7zO0JoWRzUFrfU4rdo5Lqb1pZFEy5/8PJ1AiiOHX1VEOvezRoDMLmyw6dULlBmiYtRn8JUGzNCw==;+jHsvmhtDxTH+QIgR6dPww=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-21-united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026.md",
+      "title": "United States Artificial Intelligence Market Share, Size, Trends, Growth and Forecast 2021-2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 21, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"United ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading.md",
       "title": "Artificial Intelligence (AI) Market 2021 Witness Widespread Expansion of Industry Growth with leading",
       "excerpt": "Moreover, developments such as self-driving cars, space exploration, accurate weather predictions, and other prominent developments are boosting the demand for artificial intelligence technologies.",
@@ -1271,58 +1323,6 @@
         "name": "朝日新聞",
         "domain": "asahi.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-why-regulating-ai-is-a-mistake.md",
-      "title": "Why Regulating AI Is A Mistake",
-      "excerpt": "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
-      "originalUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/545350597/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

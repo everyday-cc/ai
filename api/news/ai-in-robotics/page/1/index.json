@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-05-robots-help-reaching-un-goals-of-sustainable-development-ifr-reports.md",
+      "title": "Robots Help Reaching UN Goals Of Sustainable Development – IFR Reports",
+      "excerpt": "The use of robots plays an important role in reaching the sustainable development goals set out by the United Nations (17 SDGs). The International Federation of Robotics identified 13 SDGs, where robots help to create a better planet.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-robot-chefs-are-for-real-with-tasting-skills.md",
       "title": "Robot chefs are for real with tasting skills",
       "excerpt": "Likewise, IBM Research had been developing Hypertaste —an AI-assisted tongue mimicking the way ... in India since Indians love to eat fresh food. But robot chefs are not cheap—domestic variants start at ₹50,000, and commercial models can cost up ...",
@@ -193,6 +236,59 @@
       ]
     },
     {
+      "path": "_news/2022-05-04-robots-are-the-key-to-advancing-artificial-intelligence.md",
+      "title": "Robots Are The Key To Advancing Artificial Intelligence",
+      "excerpt": "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-04T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses.md",
       "title": "EKA partners with NuPort Robotics to introduce smart Electric Buses",
       "excerpt": "NuPort Robotics, a Canadian company announced its plans earlier ... are not only environmentally friendly but also futuristic through incorporation of Artificial Intelligence thereby making our buses efficient and safer to operate on Indian roads.",
@@ -223,49 +319,6 @@
         "name": "United News of India",
         "domain": "uniindia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders.md",
-      "title": "The robots aren’t coming for your jobs — at least according to these AI and robotics leaders",
-      "excerpt": "(GeekWire Photo / Todd Bishop) PITTSBURGH — There are no shortage of headlines about automation, artificial intelligence and robotics wiping out large swaths of employment, from truck drivers to painters to food service workers. But opinions are mixed on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/",
-      "originalUrl": "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/",
-      "publishedDateTime": "2022-05-03T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -418,6 +471,58 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers.md",
+      "title": "MIT used autonomous knitting to create these soft robotic banana fingers",
+      "excerpt": "The glove is effectively a kind of soft robotic. Its uses pneumatic actuation (air power, if you will) to serve as an assistive wearable. If you, say, have an issue with muscle control ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/",
+      "originalUrl": "https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Itt8bTHXvYs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/amp/",
+      "publishedDateTime": "2022-05-02T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -694,17 +799,17 @@
       "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
       "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field-1031402256",
+      "webUrl": "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
+      "originalUrl": "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg",
+          "url": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/04/400x225-Free-Trip-Tuesday.jpg?w=2000&#038;ssl=1",
           "width": 400,
-          "height": 215,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -714,21 +819,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T05:09:00-07:00",
+      "publishedDateTime": "2022-04-29T05:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Fox2Now St. Louis",
+        "domain": "fox2now.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1272,110 +1368,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022.md",
-      "title": "Final week to buy 2-for-1 passes to TC Sessions: Robotics 2022",
-      "excerpt": "Who’s ready for a full day dedicated to robots, the people who build them, fund them and envision new possibilities? Would that be you? Then get ready for TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/",
-      "originalUrl": "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628-1-1.png?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/amp/",
-      "publishedDateTime": "2022-04-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-tomahawk-robotics-expands-global-coverage-to-europe-and-australasia-markets.md",
-      "title": "Tomahawk Robotics Expands Global Coverage to Europe and Australasia Markets",
-      "excerpt": "Tomahawk Robotics, the leading innovator of common control solutions, is proud to announce that they have expanded their offering of Kinesis software and tactical products to the global market. The rapid growth of Tomahawk Robotics' customer base both within the United States and internationally has been driven by its passion to deliver cutting-edge technology to end-users to reduce physical and cognitive burdens for warfighters and elevate the capabilities of their currently fielded unmanned systems through networking and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-expands-global-coverage-to-europe-and-australasia-markets-1031385644",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-expands-global-coverage-to-europe-and-australasia-markets-1031385644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1804822/Tomahawk_Robotics_KxM_and_MxC.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

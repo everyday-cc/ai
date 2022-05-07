@@ -7,7 +7,7 @@ originalUrl: "https://www.techshout.com/meta-building-artificial-intelligence-th
 webUrl: "https://www.techshout.com/meta-building-artificial-intelligence-that-processes-speech-text-just-like-humans-do/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 690
     height: 548
     isCached: true
-
-related:
-  - title: "Meta building AI that processes speech & text as humans do"
-    excerpt: "New Delhi: Meta (formerly Facebook) has announced a long-term artificial intelligence (AI) research initiative to better understand how the human brain processes speech and text, and build AI systems that learn like people do. In collaboration with ..."
-    publishedDateTime: 2022-05-02T09:30:00Z
-    webUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do"
-    ampWebUrl: "https://telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
-    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/meta-building-ai-that-processes-speech-text-as-humans-do/amp"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 59
-    images:
-      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Meta-building-AI-that-processes-speech-text-as-humans-do-831x450.jpg"
-        width: 831
-        height: 450
-        isCached: true
 
 secured: "wrc63I//N4x4R8gQAKzTyL3BphcM+RxsYqDeY42ZQW2nVPspPN/qzvff/AV3pM5A0Wi9VmFMLLoBQdAqr2tsm65ynoYmqvrlCkgL2l5FMFsSypDWpVKjC3ywY4D2WHF7aR/8gziuU2uAG3LieRseAuxyWzjygw2TTrHwBuwir9TRTxGTIB/uwlHpi+zApENkiptwlphz2v7IKsG3aXdeFj92DDwUPdR6I3QcMtsU13KjsM22Z5l7YbsoVTY/fNYYwC6sgKEunrepuhCq4VvsfJiEvlTd/9zMOxMrzDVd76xuV/HsLdFQfnR/BI5OA/quLoG05H7TDrJWq2xh9CnBT9E/WBWSpnSmuVz/v2Fp09k=;rrdRIhNTvKup/F+GaoARhg=="
 ---

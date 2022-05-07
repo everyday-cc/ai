@@ -5,10 +5,12 @@ excerpt: "The key to AGI, though, is in the robot’s “mind,” which must be 
 publishedDateTime: 2022-05-04T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 106
+heat: 156
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 840
+    isCached: true
 
 related:
   - title: "The robots aren’t coming for your jobs — at least according to these AI and robotics leaders"
@@ -34,6 +43,22 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 88
+  - title: "How to scale the power of AI simulation"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-04T15:10:00Z
+    webUrl: "https://venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/"
+    ampWebUrl: "https://venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/digitaltwins.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Housing association tests AI and machine learning to cut costs"
     excerpt: "Jointly developed by the University of Bradford and the housing association, Incommunities, the two-year project will use machine learning to predict things such as boiler checks, general maintenance, and housing repairs, and could also be used to help ..."
     publishedDateTime: 2022-05-03T11:11:00Z
@@ -48,30 +73,30 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "What are the benefits of autonomy and robotics?"
-    excerpt: "Autonomy evolved from the technology developed for GPS machine control two decades ago, but it’s taking things further. With machine control, the operator still makes dozens of decisions every day. Autonomy is evolving to enable the machine to make more of these decisions."
-    publishedDateTime: 2022-05-06T09:00:00Z
-    webUrl: "https://www.khl.com/news/What-are-the-benefits-of-autonomy-and-robotics-/8020349.article"
+  - title: "How AI is helping to address staffing shortages in healthcare"
+    excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
+    publishedDateTime: 2022-05-02T22:25:00Z
+    webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
     type: article
     provider:
-      name: KHL
-      domain: khl.com
+      name: MedCity News
+      domain: medcitynews.com
     quality: 54
     images:
-      - url: "https://www.khl.com/Images/1260x628/index-20220505-142427-Built-robotics-exo-op.jpeg"
-        width: 1260
-        height: 628
+      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
+        width: 724
+        height: 483
         isCached: true
-  - title: "Teaching AI and robotics concepts in business courses"
-    excerpt: "Support the future of business education Modern business courses can no longer neglect the rise of AI and robotics across industries. No matter what company business students work with (or start) in the future, they must understand these new technologies ..."
-    publishedDateTime: 2022-05-03T09:04:00Z
-    webUrl: "https://it-online.co.za/2022/05/03/teaching-ai-and-robotics-concepts-in-business-courses/"
+  - title: "Three Things To Consider When Bringing AI To Asset Management"
+    excerpt: "In another recent report on the topic, Deloitte suggests that asset managers should start by focusing on quick wins, embracing strategic collaborations and partnerships and clearly defining their AI strategy. There's something to that. When implementing AI ..."
+    publishedDateTime: 2022-05-04T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/three-things-to-consider-when-bringing-ai-to-asset-management/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
-secured: "dtsVM0vwDLjIFg6/OGDp3lc0I/ujdNF6rGLrUAddMtZsq4WRH7XrBmtrugFc+OIbbm0/Nk3duQuGNTt4Pdeda5L8X389SJWAaMKZIuCfiRldXDe0RDfvY3GVpliVBMh6qEr03O+BEjn78p4YLko6liEfQV4MPTZDfC6wL8Ce5ie3mSJj5Kck0kYEV4FCWz6l+zavkUI/iXW4D8ILD+rHS3F+C6oLh5D/xq6BPfXx9pyF9VVnTnfSpyvffsjjCjQ3VKIy6xvINAxm0f7caugdbuZUzo584DzmRqZaY9kQW6k/nTwT90FQJ51aFRyx5wH6QkYFK3Nvu8msV9QgeJERnrvBSCMkP88450iv/+e9VLr0WbpZ02wvMIezzWpp37h3xppR6Itt21qrEOJxOOJpMGATfCJ20AgyGhXfap0fKHAWhsH+scsfqmVmHXZP6fldAQT+QDoULk5PQJ3fx4B8/REbPJfCxOMsSxOk/bHfPxUqDJFV8O4SNtvf14pg55nUxd/vOs/MhLMLv+VSv99z9Q==;jRZePXlCNY2MYvHhzr9CoQ=="
+secured: "Ij712lynNbr3GiM3CpGRm40qL9XyLpXLh3wG/6GXM7leAcpCG9H5t4NoplSSQ5/OwOslQXpcKCCpQYFk9Mw5m+8k3SW2goHYSOAXXtROpycwIcbb98gyML93mbGp1fwhskf7/h7n/MY8frdfVqzttD6DjL/ruN6uM+m+Y2HqzgkiTJNv64xZIWrNwCRJGbPDBlUezx1lgUKmJtBMq+2rgB27e9BbmpzSHFmQmbvgrtoHtI9S1NkF17D+rFab5E1Q7UrErEyNlvGFLynfwQ7V9EqviGbePiUtZMRL44yssKDvNUR4t/QTqg4wHcEE4nt4AMEk6NuK4cdMf2F0gQSJ8v3vSEy/TrLgUHswEzkSdsk=;Dt+xeMWmuOwzW4QhbJfdcg=="
 ---
 

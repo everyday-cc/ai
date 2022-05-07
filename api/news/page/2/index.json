@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-04-quality-data-inputs-essential-for-machine-learning.md",
+      "title": "Quality Data Inputs Essential For Machine Learning",
+      "excerpt": "Since then, more and more news has emerged regarding the failures of AI and Machine Learning initiatives with the blame given to faulty data as the reason. The recent demise of IBM Watson Health is the latest example. To weigh in on these changes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/05/04/quality-data-inputs-essential-for-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/05/04/quality-data-inputs-essential-for-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62704d396a33e85a57a36439/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/05/04/quality-data-inputs-essential-for-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/05/04/quality-data-inputs-essential-for-machine-learning/amp/",
+      "publishedDateTime": "2022-05-04T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-teamviewer-delivers-artificial-intelligence-to-the-shopfloor.md",
+      "title": "TeamViewer Delivers Artificial Intelligence to the Shopfloor",
+      "excerpt": "AiStudio consists of a self-learning algorithm to train AI models for image and object recognition. Following TeamViewer’s no-code approach for the Frontline platform, the use of AiStudio does not require any programming skills. This enables all ...",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/",
+      "originalUrl": "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/TeamViewer-Delivers-Artificial-Intelligence-to-the-Shopfloor-01.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/amp/",
+      "publishedDateTime": "2022-05-04T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-robots-are-the-key-to-advancing-artificial-intelligence.md",
+      "title": "Robots Are The Key To Advancing Artificial Intelligence",
+      "excerpt": "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-04T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-what-the-high-interest-rates-mean-for-startup-founders.md",
       "title": "What The High Interest Rates Mean For Startup Founders",
       "excerpt": "Sure, some AI companies will not be able to deliver the value they've ... Nevertheless, there are good reasons for any startup founder who is depending on raising capital in the coming years to be focused on these three elements. 1. Know your numbers.",
@@ -850,49 +999,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-04-the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders.md",
-      "title": "The robots aren’t coming for your jobs — at least according to these AI and robotics leaders",
-      "excerpt": "(GeekWire Photo / Todd Bishop) PITTSBURGH — There are no shortage of headlines about automation, artificial intelligence and robotics wiping out large swaths of employment, from truck drivers to painters to food service workers. But opinions are mixed on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/",
-      "originalUrl": "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/",
-      "publishedDateTime": "2022-05-03T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-04-how-to-stop-losing-employees-and-start-winning-the-war-for-talent.md",
       "title": "How To Stop Losing Employees And Start Winning The War For Talent",
       "excerpt": "But in 2020, the nature of work fundamentally changed. In a digital workplace, companies keep employees engaged with their AI — not their HQ. We went from the physical HQ being the heart of the company, to a digital workplace that dictated the entire ...",
@@ -1070,108 +1176,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-building-the-future-of-ai-powered-retail-starts-with-trust.md",
-      "title": "Building The Future Of AI-Powered Retail Starts With Trust",
-      "excerpt": "This must give you a unique vantage point on data-centric AI, per your recent blog ... At the outset, I always start with the question: do we need machine learning at all to solve this problem, or is there an easier way to fix it that we should implement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62704c8d931d4d3a63b1ef88/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
-      "publishedDateTime": "2022-05-03T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-soundcloud-acquires-musiio-an-ai-music-curator-to-improve-discovery.md",
-      "title": "SoundCloud acquires Musiio, an AI music curator, to improve discovery",
-      "excerpt": "An online audio sharing platform and streamer, SoundCloud has acquired Musiio, an AI music curation company. With Musiio’s team and technology, SoundCloud plans to strengthen its music discovery ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
-      "originalUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
-      "publishedDateTime": "2022-05-03T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

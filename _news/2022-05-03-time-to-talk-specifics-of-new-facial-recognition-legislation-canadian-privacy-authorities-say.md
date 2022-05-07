@@ -19,77 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ICE spends $7.2 million to increase facial recognition and location tracking of migrants"
-    excerpt: "The contract, which was extended last month, is for surveillance software including facial recognition and GPS check-in. The tech is part of ICE's Alternatives to Detention program, which has been heavily criticized by some lawmakers. US Immigration and ..."
-    publishedDateTime: 2022-05-02T09:27:00Z
-    webUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5"
-    ampWebUrl: "https://www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-7-million-contract-trust-stamp-facial-recognition-location-tracking-2022-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/626c55a886fa90001905e9fe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'Unnecessary, Wasteful;\" Rights Groups Balk at ICE's New $7.2 Million Migrant Facial Recognition Contract"
-    excerpt: "New documents reveal a $7.2 million contract with Trust Stamp to provide facial recognition monitoring tools to track up to 10,000 migrants. U.S. border agents at this point have a long history of ..."
-    publishedDateTime: 2022-05-03T03:10:00Z
-    webUrl: "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395"
-    ampWebUrl: "https://gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ices-7-2-million-migrant-facial-recognition-surveillan-1848870395/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 72
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/234056fd009408ddcfb396ddb431dac8.jpg"
-        width: 800
-        height: 451
-        isCached: true
-  - title: "Unionville’s music education program receives national recognition"
-    excerpt: "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
-    publishedDateTime: 2022-05-05T16:38:00Z
-    webUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/"
-    ampWebUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
-    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
-    type: article
-    provider:
-      name: Daily Local News
-      domain: dailylocal.com
-    quality: 61
-    images:
-      - url: "https://www.dailylocal.com/wp-content/uploads/2022/05/uville-music.jpg?w=1024&h=656"
-        width: 1024
-        height: 656
-        isCached: true
-  - title: "Increase your content reach with automated document-to-speech conversion using Amazon AI services"
-    excerpt: "Reading the printed word opens up a world of information, imagination, and creativity. However, scanned books and documents may be difficult for people with vision impairment and learning disabilities to consume. In addition, some people prefer to listen to text-based content versus reading it. A document-to-speech"
-    publishedDateTime: 2022-05-02T18:40:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/increase-your-content-reach-with-automated-document-to-speech-conversion-using-amazon-ai-services/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 56
-  - title: "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022"
-    excerpt: "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ..."
-    publishedDateTime: 2022-05-05T12:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 48
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "City official says Cleveland police have facial recognition tech. How it's being used is unclear"
     excerpt: "A Cleveland surveillance camera at the Cudell Recreation Center on the West Side. The city's Safe Smart CLE program started with the installation of cameras at the city's rec centers. Based on publicly available records and a recent comment from a ..."
     publishedDateTime: 2022-05-02T16:01:00Z
@@ -106,71 +35,17 @@ related:
         width: 430
         height: 242
         isCached: true
-  - title: "New legal restrictions needed on police use of facial recognition: privacy watchdogs"
-    excerpt: "OTTAWA - Canada’s privacy commissioners say it should be illegal for police to use facial recognition technology to monitor people involved in peaceful protest. In a joint statement today, federal, provincial and territorial privacy watchdogs also call ..."
-    publishedDateTime: 2022-05-02T16:40:00Z
-    webUrl: "https://www.thepeterboroughexaminer.com/ts/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs.html"
+  - title: "Canada should limit police use of facial recognition technology, say privacy commissioners"
+    excerpt: "Parliament should limit Canadian police use of facial recognition technology to closely defined circumstances such as serious crimes, the country’s federal, provincial, and territorial privacy commissioners said today. Their statement was released as ..."
+    publishedDateTime: 2022-05-02T17:36:00Z
+    webUrl: "https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311"
+    ampWebUrl: "https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311?amp=1"
     type: article
     provider:
-      name: Peterborough Examiner
-      domain: thepeterboroughexaminer.com
-    quality: 32
-    images:
-      - url: "https://images.thestar.com/EuDDSHJOF_nmqiCpMx8umPgaht4=/1280x1024/smart/filters:cb(1651534260489)/https://www.thepeterboroughexaminer.com/content/dam/thestar/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs/20220502120516-627003f6a6c9640b6653e736jpeg.jpg"
-        width: 1280
-        height: 1024
-        isCached: true
-  - title: "CTC Students Earn Recognition from Toastmaster International"
-    excerpt: "The program was coordinated by Angel Vallejo, a local Toastmaster representative. From the first attempts at public speaking, which was a basic introduction speech, to their final career presentation, there was amazing growth both individually and as a group."
-    publishedDateTime: 2022-05-03T18:56:00Z
-    webUrl: "https://www.cadillacnews.com/news/ctc-students-earn-recognition-from-toastmaster-international/article_b9be2a52-c65b-11ec-ba3a-e3c6301d48cf.html"
-    type: article
-    provider:
-      name: Cadillac Evening News
-      domain: cadillacnews.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/c/c2/cc2f3116-c65d-11ec-b718-236fc8ca52ce/6269954e26712.image.jpg?resize=666%2C500"
-        width: 666
-        height: 500
-        isCached: true
-  - title: "Manatee County migrant students receive special recognition"
-    excerpt: "High school seniors received special recognition at the 36 th annual migrant education ... \"Some of the barriers and things that they face for example might be poverty, a language barrier, and in addition their parents move from one county to another ..."
-    publishedDateTime: 2022-05-06T23:37:00Z
-    webUrl: "https://www.snntv.com/story/46440959/manatee-county-migrant-students-receive-special-recognition"
-    type: article
-    provider:
-      name: SNN TV
-      domain: snntv.com
-    quality: 24
-    images:
-      - url: "https://SNN.images.worldnow.com/images/22637510_G.jpeg?lastEditedDate=1651865812000"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "'Everyone has good reason to be concerned' about facial-recognition technology"
-    excerpt: "Facial-recognition technology surveillance no-go zones should include peaceful assemblies and public spaces like streets, transit hubs and schools, says the head of the BC Freedom of Information and Privacy Association."
-    publishedDateTime: 2022-05-05T14:00:00Z
-    webUrl: "https://www.nsnews.com/highlights/facial-recognition-technology-bc-privacy-commissioner-weighs-in-5323086"
-    type: article
-    provider:
-      name: News
-      domain: nsnews.com
-    quality: 20
-    images:
-      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/contributed/facialrecognitiontechnology.jpg;w=1200;h=800;mode=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Ontario's privacy commissioner joins national call for legal limits on the use of facial recognition technology by police"
-    excerpt: "TORONTO, May 2, 2022 /CNW/ - Ontario's Information and Privacy Commissioner, Patricia Kosseim, and Canada's federal, provincial, and territorial privacy commissioners issued a joint statement and guidance on the use of facial recognition technology by law ..."
-    publishedDateTime: 2022-05-02T15:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ontarios-privacy-commissioner-joins-national-call-legal-limits-/2022/05/02/9593508.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 29
 
 secured: "rGsxN7vO+0v621t3UQXuK+bz3Cc1TxU9128onTIYdG/IoliyCRgpeFch+T5CHULfmh36BQM2JJrAupTU1iDCoLkCDVSP520xlvRSy9Zyxg69fDI2eaY9pYuwQnnqYH1eo5Nt5JFjiWV2NGLQxCwMLhHPe8EvMl/nURsq29DF5DS0zUwCDRfrrNORpl+UP2hFLAHAvCUzDIq93X4JKvVSr7dAO6qf23A1Wa3WciWcdljkZiLQonAsVC3ECxfML5G43UdS6XXlptqDuKHK3TaMq+ckxc6edu7Qri93nXb6CcZe3XqUhNGNrUkY9VeTMiVpchhUsp10CNk177GhfGW4YwyOlYK5IUNhd22eIIIRPPk9pO4Kv7G02YeWW/JAfoAWds3a0lVPJ1YtUULUTu1xnOGFdrwyH/NIi/8+FxLFNlp0j4+1Erft4ApJ127I8utETVcB4rIBEFpEg3XNgLU/IgGEfCyBZwWYCd/6ley0jspIgk5nYTCkJ/GJB3rXmulP4YlUE6r/EMTSiNPhtoiCzA==;TUym5XwnsORNEozlxm9k+w=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-05-artificial-intelligence-students-tools-su
 ampWebUrl: "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-artificial-intelligence-students-tools-success.amp"
 type: article
-quality: 60
-heat: 80
+quality: 62
+heat: 82
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/online-learning-2.jpg"

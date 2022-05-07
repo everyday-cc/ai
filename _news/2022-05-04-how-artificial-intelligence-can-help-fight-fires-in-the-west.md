@@ -8,7 +8,7 @@ webUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-figh
 ampWebUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Can Artificial Intelligence Help Fight Western Wildfires?"

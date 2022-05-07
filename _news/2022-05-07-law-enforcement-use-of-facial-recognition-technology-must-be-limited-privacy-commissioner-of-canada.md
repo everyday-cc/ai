@@ -53,17 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Canada should limit police use of facial recognition technology, say privacy commissioners"
-    excerpt: "Parliament should limit Canadian police use of facial recognition technology to closely defined circumstances such as serious crimes, the country’s federal, provincial, and territorial privacy commissioners said today. Their statement was released as ..."
-    publishedDateTime: 2022-05-02T17:36:00Z
-    webUrl: "https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311"
-    ampWebUrl: "https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 29
 
 secured: "RUXhVLL9QLtIfTlRZvflTZA1gcQg+i5FiAXebT7p0CLuac00SvOimquaHCd7o4Gj51149epm1RXrv2U3vvoNzCpdPcwM5FmfktmpF7ht2gLE6VDnS3z3mY4IZoLv17P0+POA7dlwT1tqSiGqOYyQRZyzBL1HIettA5KIZhLqLMKoCgvZfuve+C/gAOfYMytPr+bWb7esxNvXwvKXvQalwk9+xkZVYcZRX+d+DQ4xpxxwttaoWGsBsz7bdkP+26M9TO1fHGLN5/0xzwh8uZ3DMX3Ye5si2QXJKGfs46/l+pYfH8hvwaOQzTMTCQTQMIVykIAzsRnhLZv1cPmnErmvoAPHqtz2r4wXeWBr/fE8TXrz/BzSz14lwyR80wblzMPF3koMKdxs1HH5fzTxoCXQB91wX6GRf4MSNYpzUFS87XWhNBQlOTvon2hYF0Ye/4O3i2HGcd3LsRCAc7lf0Kdt3glj6IP/0f8j72UwGWqqxGM3mmpYD1uPlJrRE2oqAcRS2UOMzDO/UnXh+Fc2IuP9HQ==;36dCV+t3Xrb0GYRSv5ndfg=="
 ---

@@ -2,6 +2,344 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-04-21-healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027.md",
+      "title": "Healthcare Artificial Intelligence Market 2022 Share, Size, Trend, Growth Analysis and Forecast to 2027",
+      "excerpt": "and IBM Watson Health are some top-notch players in the healthcare artificial intelligence market that are listed by MRFR. The healthcare artificial intelligence market can be segmented based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://markettrendandforecast.files.wordpress.com/2022/04/healthcare-artificial-intelligence-market.jpg?w=556",
+          "width": 556,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-nvidia-wants-to-use-gpus-and-ai-to-accelerate-and-improve-future-chip-design.md",
+      "title": "Nvidia wants to use GPUs and AI to accelerate and improve future chip design",
+      "excerpt": "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "originalUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "publishedDateTime": "2022-04-20T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-ais-future-is-packed-with-promise-and-potential-pitfalls.md",
+      "title": "AI’s future is packed with promise and potential pitfalls",
+      "excerpt": "Foundation models are based on deep neural networks and self-supervised learning that accepts unlabeled or partially labeled raw data. Algorithms then use small amounts of identified data to determine correlations,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/",
+      "originalUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/future_AI.jpg?fit=800%2C449&strip=all",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/20/ais-future-is-packed-with-promise-and-potential-pitfalls/amp/",
+      "publishedDateTime": "2022-04-20T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-post-kyndryl-software-and-consulting-boost-ibm-financials.md",
+      "title": "Post Kyndryl, software and consulting boost IBM financials",
+      "excerpt": "“Harnessing the power of technology such as hybrid cloud and AI remains essential as our clients face ... which will be available from May 31 this year. IBM also shed its Watson Health division this quarter, with CFO James Kavanaugh telling analysts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/697380/post-kyndryl-software-consulting-boost-ibm-financials/",
+      "originalUrl": "https://www.reseller.co.nz/article/697380/post-kyndryl-software-consulting-boost-ibm-financials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines.md",
+      "title": "AMD Targets High-End Signal Processing With New Versal Premium With AI Engines",
+      "excerpt": "When compared to the previous generation Virtex UltraScale+ VU13, the Versal Premium VP2802 ACAP increases performance by 3.3x for RF signal processing, 4.7x for Radar data cube processing, and 5.8x for AI/ML inference processing while reducing the number of FPGAs needed for a design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62607d24b1c8ce336e10875f/0x0.jpg?format=jpg&width=1200",
+          "width": 764,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/amp/",
+      "publishedDateTime": "2022-04-20T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-an-inventor-resurrected-his-imaginary-friend-with-ai-then-it-tried-to-murder-him.md",
+      "title": "An inventor resurrected his imaginary friend with AI — then it tried to murder him",
+      "excerpt": "As a kid, Lucas Rizzotto had an imaginary friend: a talking microwave. As an adult, Rizzotto resurrected his pal — with tragic consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave",
+      "originalUrl": "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-7.jpg&signature=8dc3c8edb07603857914fc06fe201aaf",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas.md",
+      "title": "Billionaire CEO’s US Senate run focuses on one issue: Banning ‘self-driving’ Teslas",
+      "excerpt": "Dan O’Dowd, the billionaire founder of The Dawn Project and Green Hills Software, is running for U.S. Senate on a single issue. It’s not unemployment or inflation or even education. It’s about making computers safer for humans,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/",
+      "originalUrl": "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/",
+      "publishedDateTime": "2022-04-20T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-alphamountainai-raises-27m-to-launch-ai-driven-threat-intelligence-feeds.md",
       "title": "AlphaMountain.ai raises $2.7M to launch AI-driven threat intelligence feeds",
       "excerpt": "AlphaMountain.ai’s solution offers coverage against malicious threats and provides access to high quality domain and intelligence feeds.",
@@ -797,334 +1135,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-ibm-to-make-watson-orchestrate-generally-available.md",
-      "title": "IBM to make Watson Orchestrate generally available",
-      "excerpt": "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815037/itpro/watson.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-tesla-has-now-over-100000-people-in-its-full-self-driving-beta-program-is-an-accelerated-rate-of-improvement-coming.md",
-      "title": "Tesla has now over 100,000 people in its Full Self-Driving Beta program – is an accelerated rate of improvement coming?",
-      "excerpt": "Tesla CEO Elon Musk revealed that the automaker has now over 100,000 people in its Full Self-Driving (FSD) Beta program. Does it mean that we are going to start seeing an accelerated rate of ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/",
-      "originalUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/",
-      "publishedDateTime": "2022-04-20T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-prezentai-secures-20m-to-gamify-deck-presentations.md",
-      "title": "Prezent.ai secures $20M to gamify deck presentations",
-      "excerpt": "Prezent.ai, which is developing a suite of tools to help employees present ostensibly better decks, has raised $20 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/",
-      "originalUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1139933142.jpg?w=724",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/",
-      "publishedDateTime": "2022-04-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-ucl-and-deepmind-improving-representation-in-artificial-intelligence-education.md",
-      "title": "UCL and DeepMind: improving representation in artificial intelligence education",
-      "excerpt": "Global artificial intelligence (AI) company DeepMind is working with UCL to open up scholarships to underrepresented students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
-      "originalUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucl.ac.uk/engineering/sites/engineering/files/case-study/40468779200_8e95b2b30d_c.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UCL",
-        "domain": "ucl.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-people-will-be-able-to-watch-tv-and-check-emails-in-self-driving-cars-in-highway-code-law.md",
-      "title": "People will be able to watch TV and check emails in self-driving cars in Highway Code law",
-      "excerpt": "MOTORISTS will be allowed to watch television or check their emails on built-in screens under proposed updates to the Highway Code when in self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
-      "originalUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 290,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft-1598298.jpg?r=1650441690594",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
-      "publishedDateTime": "2022-04-20T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-how-medtech-companies-can-help-make-ai-assisted-surgery-possible.md",
-      "title": "How Medtech Companies Can Help Make AI-assisted Surgery Possible",
-      "excerpt": "Future AI solutions could expand to help surgeons make better operative decisions, reduce risk and improve patient safety, and enhance performance. There are, however, significant technical and other challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.meddeviceonline.com/doc/how-medtech-companies-can-help-make-ai-assisted-surgery-possible-0001",
-      "originalUrl": "https://www.meddeviceonline.com/doc/how-medtech-companies-can-help-make-ai-assisted-surgery-possible-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/image/fcb60b3d/fcb60b3d-6c64-4535-b5cd-c6989d50db2b/artificial_intelligence_gettyimages_1319573751.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T21:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Med Device Online",
-        "domain": "meddeviceonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-artificial-intelligence.md",
-      "title": "Wm Pawn's newly released \"Sielink Five\" is a fascinating fantasy tale that explores the world of artificial intelligence",
-      "excerpt": "Wm Pawn shares, \"There's one common threat to both humans and artificial intelligence. \"That is a virus ... \"Lilly has stepped out of the computer into a robot and finds the world to be all she hoped and more. With her natural wonder, wit, and love ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26705094/wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-arti",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26705094/wm-pawns-newly-released-sielink-five-is-a-fascinating-fantasy-tale-that-explores-the-world-of-arti",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26705094",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26705094",
-      "publishedDateTime": "2022-04-19T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

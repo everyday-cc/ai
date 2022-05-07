@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://deseret.brightspotcdn.com/dims4/default/08699a5/2147483647/strip/true/crop/1024x682+0+1/resize/740x493!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FqYkLw3zWW6JDHyQZyE9ko_HdRl4%3D%2F0x0%3A1024x683%2F1024x683%2Ffilters%3Afocal%28637x384%3A638x385%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F23417822%2FAP21210065198934.jpg"
