@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Another firing among Google’s AI Brain trust, and more discord"
-    excerpt: "Tension among Google’s AI researchers reflects much larger struggles across the ... which the paper said could improve the design of computer chips. The technology was hailed as a breakthrough for artificial intelligence and a vast improvement to ..."
-    publishedDateTime: 2022-05-03T04:33:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/another-firing-among-google-ai-brain-trust-and-more-discord-7898856/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/another-firing-among-google-ai-brain-trust-and-more-discord-7898856/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/another-firing-among-google-ai-brain-trust-and-more-discord-7898856/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/05/Google_Campus_NYT-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Google fires another AI scientist who challenged its findings: NYT"
     excerpt: "Google fired AI scientist Satrajit Chatterjee in March after he reportedly challenged a paper by the company, which had claimed that computers could design some chip components better than humans. As per New York Times, Google confirmed that Chatterjee was ..."
     publishedDateTime: 2022-05-03T17:30:00Z
@@ -77,6 +61,20 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/05_may/3_tue/img_1651597873197_322.jpg?"
         width: 1080
         height: 721
+        isCached: true
+  - title: "Google keeps firing people who question its AI"
+    excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."
+    publishedDateTime: 2022-05-03T09:46:00Z
+    webUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Researchers Are Using AI And Apple Watches To Check For Weak Heart Pumps"
     excerpt: "We took advantage of those data to see whether we could identify a weak heart pump with AI analysis of the watch ECG. While our data are early, the test had an area under the curve of 0.88, meaning it is as good as or slightly better than a medical ..."

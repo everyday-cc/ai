@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/05/how-ai-powers-modern-product-life
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 603
     isCached: true
+
+related:
+  - title: "How to master the data lifecycle for successful AI"
+    excerpt: "The AI data lifecycle is ever-changing, and the approaches we take to manage its different components need to be dynamic as well."
+    publishedDateTime: 2022-05-07T01:07:00Z
+    webUrl: "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/ai_business-e1648498198314.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "uEFPS1Mdru6qAaNwB7Kzx2JI5W1UMjGzy4GN93jg82Dg52crjV0ycvVDN2n5krdFpXsliC7DzYKs3on/0LqIAFr/JvxtLWSrbVfLCf9junjik/ZwPiOBoNsRnmpMJSr6ZWENJ2d92sWOM1/EsTQ52grc+icXkh04QO34t01JkVVXsVDflJBivihNgZyTyHHvpGV2eu+lHyJQzXJPICpRjX0aSJA17eNAzHZywwvqwn57YJVHj1iacoCPTgpfNAz3tBupH2+Kh6DNM2e6WNlgiTEn2mb7awQGY2aGYPEL7/kBRky52ojcsEJ79kVRDiOUXdbX96JVFB9AFDp4G8X3WNljL5hc5Ct37POiNLuhcgZ0RsUCtwiXVRVd0j6cyEClY5lUrpZw4Kn2sE8OvA6hJd49Uy6ZOEozCm0jnwP2CNej5SxchtRZ+9+XdJGgsESzZRtHerpX/mUdRVktrA/Hu97YUquAN8LVSlr9KearhZILFLVCsmyzNvbNmLRtuoICpUW5m5IeIeG83L85qu0Gww==;sZ6sLANt5qkuriZNYI7Cew=="
 ---

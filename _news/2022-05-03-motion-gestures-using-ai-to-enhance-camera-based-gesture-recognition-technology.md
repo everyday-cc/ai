@@ -26,33 +26,93 @@ images:
     isCached: true
 
 related:
-  - title: "Cognira to Provide Artificial Intelligence Promotion Solution to Cub"
-    excerpt: "Cognira has announced a new relationship with Cub to effectively manage the company’s promotions with the help of Cognira’s Artificial Intelligence (AI) Promotion Solution. Cub is one of the largest grocers in the Midwest, operating 80 grocery stores ..."
-    publishedDateTime: 2022-05-03T12:36:00Z
-    webUrl: "https://www.grocerydive.com/press-release/20220502-cognira-to-provide-artificial-intelligence-promotion-solution-to-cub/"
+  - title: "Debate continues in Legislature over limits on facial recognition technology"
+    excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday."
+    publishedDateTime: 2022-05-07T07:45:00Z
+    webUrl: "https://gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.html"
+    ampWebUrl: "https://gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.amp.html"
     type: article
     provider:
-      name: grocerydive
-      domain: grocerydive.com
-    quality: 37
+      name: The Gazette
+      domain: gazette.com
+    quality: 56
     images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1651536759/press_release/assets/header_images/Press_Release_Cover_Image_Approved_1_qd5jrm.png"
-        width: 1500
-        height: 700
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/b6/eb6ce6f0-cd9b-11ec-bbfd-6fc9d1720af4/6275bc4be3408.image.jpg?resize=1024%2C642"
+        width: 1024
+        height: 642
         isCached: true
-  - title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\""
-    excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and ..."
-    publishedDateTime: 2022-05-04T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/article_f3f28fea-a6a2-5e25-8353-959e2bf6fe83.html"
+  - title: "HK gov’t admits LeaveHomeSafe app contains facial recognition feature but says it’s never been used"
+    excerpt: "The Hong Kong government has admitted that the LeaveHomeSafe contact tracing app comes with a facial recognition function, but stressed that the feature has never been used. Officials said an update will be issued to the COVID-19 tracing app to remove the ..."
+    publishedDateTime: 2022-05-04T10:04:00Z
+    webUrl: "https://coconuts.co/hongkong/news/hk-govt-admits-leavehomesafe-app-contains-facial-recognition-feature-but-says-its-never-been-used/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 35
+      name: Coconuts
+      domain: coconuts.co
+    quality: 40
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e389e90d-ab45-5927-a874-22dec71a4aca/627287c5ee1c5.image.jpg?crop=1085%2C570%2C0%2C20&resize=1085%2C570&order=crop%2Cresize"
-        width: 1085
-        height: 570
+      - url: "https://coconuts.co/wp-content/uploads/2022/05/Screenshot-2022-05-04-at-4.44.18-PM.png"
+        width: 1920
+        height: 1264
+        isCached: true
+  - title: "Legal Aid Society criticizes D.A.’s purchase of facial-recognition technology, says office used federal forfeiture money"
+    excerpt: "STATEN ISLAND, N.Y. — District Attorney Michael E. McMahon used controversial federal forfeiture funds to purchase and employ the use of facial recognition technology that has drawn the ire of civil liberties advocates, according to the Legal Aid Society."
+    publishedDateTime: 2022-05-04T20:22:00Z
+    webUrl: "https://www.silive.com/news/2022/05/legal-aid-society-criticizes-das-purchase-of-facial-recognition-technology-says-office-used-federal-forfeiture-money.html"
+    ampWebUrl: "https://www.silive.com/news/2022/05/legal-aid-society-criticizes-das-purchase-of-facial-recognition-technology-says-office-used-federal-forfeiture-money.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2022/05/legal-aid-society-criticizes-das-purchase-of-facial-recognition-technology-says-office-used-federal-forfeiture-money.html?outputType=amp"
+    type: article
+    provider:
+      name: SILive
+      domain: silive.com
+    quality: 34
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHFFEPL3ZZERJIPVUZ5ZGQ4HQA.JPG"
+        width: 5472
+        height: 3648
+        isCached: true
+  - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
+    excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday. As drafted, Senate Bill 113 would establish several regulations for the use of ..."
+    publishedDateTime: 2022-05-06T20:38:00Z
+    webUrl: "https://www.coloradopolitics.com/legislature/lawmakers-to-debate-limiting-the-use-of-facial-recognition-technology-in-colorado/article_5fc5f020-cd7c-11ec-802a-bf2f59b47874.html"
+    type: article
+    provider:
+      name: The Colorado Statesman
+      domain: coloradopolitics.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'Everyone has good reason to be concerned' about facial-recognition technology"
+    excerpt: "Facial-recognition technology surveillance no-go zones should include peaceful assemblies and public spaces like streets, transit hubs and schools, says the head of the BC Freedom of Information and Privacy Association."
+    publishedDateTime: 2022-05-05T14:00:00Z
+    webUrl: "https://www.nsnews.com/highlights/facial-recognition-technology-bc-privacy-commissioner-weighs-in-5323086"
+    type: article
+    provider:
+      name: News
+      domain: nsnews.com
+    quality: 20
+    images:
+      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/contributed/facialrecognitiontechnology.jpg;w=1200;h=800;mode=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Law enforcement use of facial-recognition technology must be limited: Privacy Commissioner of Canada"
+    excerpt: "Current laws regulating the use of facial recognition software do not offer sufficient protection against the risks the technology creates,” Canada’s Privacy Commissioner said while appearing before Parliament’s Standing Committee on Access to Information,"
+    publishedDateTime: 2022-05-06T21:08:00Z
+    webUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/law-enforcement-use-of-facial-recognition-technology-must-be-limited-privacy-commissioner-of-canada/366432"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 9
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0395_637874680367642289.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "CO9fcfIUFPTqJBjUBqjupeE485yurG7Xd5xEEuckdMENsD9JoiP9ummlLqr9pgw0q+eI9ALBpF//ETgSlV83B54oVyuWSuNpFbzJAx3mFjdvPlddwkHC44VnWVWz+yPMy0sMrGCBPHUj1lVUa9H6fROJsMefj+bO7YH/EmGikBSqEC0QDxFcGl+TKXeL0wLFP9g2MR6qVx7iWjjTLyLOUmahZLgjfNY7uYuiMZjjJTgUstC7/Zhggxc1DL3euNGfXJjsKDru8oOXqmlcMsp/jS20H+xJe1i/ODd4T7lp+++FqgqLZKfh2Hgj63Wipe7tiQzzn9SqK6mWHXUpm74quZ0TEVEsYdgkVg6F5Ly5zZDJelRFIjFGS1KvTez0u0tO8BuTn+l1l24ITkHnkNtjsquWFD0PE2935r1L+46jPWlSQO46d0UFEzNCXCPjqM/Ig8tE8VDnW6Z5P3PiOob9KNY9CPJIOTvCEIE3rV07RhsGlj+pvt6fw+3DnNpFH/IsTyFhru/ljmNSOz4zn2wkwg==;3stqcuOMDy6p+v6WGNmfmA=="

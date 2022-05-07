@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dell adds cyber recovery (and more) to APEX storage cloud platform"
-    excerpt: "Dell PowerProtect Cyber Recovery for Microsoft Azure will join other Dell offerings ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose ..."
-    publishedDateTime: 2022-05-03T03:05:00Z
-    webUrl: "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/"
-    ampWebUrl: "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage.jpg?fit=800%2C534&strip=all"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Dell targets multi-cloud ecosystem with cyber recovery and data analytics"
     excerpt: "metadata and machine learning to proactively detect, diagnose and speed up data recovery when an attack has occurred, as well as identify the last known uncorrupted copy of data to recover from. Both PowerProtect Cyber Recovery for Microsoft Azure and ..."
     publishedDateTime: 2022-05-03T05:08:00Z
@@ -68,6 +52,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
+    excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
+    publishedDateTime: 2022-05-06T12:54:00Z
+    webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/?td=amp-keepreading-top"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 16
+  - title: "Dell Expands APEX, Adds Analytics And Data Recovery"
+    excerpt: "machine learning-based corruption detection, and post-attack forensics. Presumably, the company will be bringing these extended features to its Azure offering at some point in the near future as well."
+    publishedDateTime: 2022-05-03T13:30:00Z
+    webUrl: "https://seekingalpha.com/article/4506127-dell-expands-apex-analytics-data-recovery"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "PX3NkQ88YxIJ5WDJsttxEysFQj6s0NLKZsQBYvK1etcCT8j/GGQDJ7VCRhJ/zw9IBBq9LEvoLbqMbnZDxH0FLRHHVH/2fFoj8a1Ro7mNypUgecE606XsBNdekUM8tRwqpuiGyXOnm+nYdYZWViLNCvusa+4z+YvGEOWETXyLgnJufv26/vXm4rHRpkQ0952xwzNP9EhfRG7rsPjIv1XL+lah5AwOyh7LqSPUegZYC/OOK4ugbsPwPcPfZiO00R/7hMib82Mmg005J9Tbf/PKpnJBRQRpTQszNbabqYwGWDf4U0r3zm+OB+OK2JCr5DJ+hhjkYfs3YGmKSqA/57Lmx1I89C27dg9OSV7uodct70MU735LjG1W/+0gOAxj3hdwk/GXBiNwW7/msnBXpYWzbyf2JLwO1qAltl7/3UK9qmAedutwz4B/86Tsrn4g/67PE8whZl0H1emJIa21XcVbd+qsOdoE5gGDd7emFN97aT/glcg5Kzfq5n7Z92xNPTHWBGAXBJUJKC+N0FyYCMgVIA==;+AALasR8L52ockBSPFLncQ=="
 ---

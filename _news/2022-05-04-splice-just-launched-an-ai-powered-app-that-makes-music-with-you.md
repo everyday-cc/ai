@@ -40,22 +40,6 @@ related:
         width: 500
         height: 343
         isCached: true
-  - title: "What You Need To Know Before You Start Working With Artificial Intelligence"
-    excerpt: "The first principle is to start with a strategy. Simply put, this means understanding what you are trying to achieve. AI technologies are tools that are deployed tactically to achieve strategic objectives. Your strategy should be in line with your business ..."
-    publishedDateTime: 2022-05-03T04:47:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/03/what-you-need-to-know-before-you-start-working-with-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6270afa356fe8039a23aa466/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "yjD+Jyop8sOOZhX2529dqGJYfGX4lXl2tnsUMcpRz7bAU3dNRVCu7yHPxaHjJfBPttRezrPXNYGg1GD4wiRz/jzLN/AXAaRG5VWskwOWMhdPPXEg5GUz1cjWUKihMLO/9+oXZlVj/U/ViEkt3PTSoKgj71QCj0aSXnmki/eJweNqflA8CByPNGzdU4Z+XPuKUnU6l6A9qFN5R3ALnMgb0lqgizb4JJxA35eYJZsUQOJKyXi5IFbYWoV/ytMQYFlbfbiwvGP3e2gWq8/xSq45bLNcc0BqAv3C9hk5pdorZYbGdMxnHX/VyHRqhvLE4efoHlrUWw/M920lRTQQUQ0Or9s+CCS3V8Jscn8L0tw9VlE=;I/c9Qwf3RFNZSSO3CKT6gA=="
 ---

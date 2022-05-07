@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intel
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "TeamViewer adds AI to AR"
-    excerpt: "Remote connectivity and workplace digitalisation provider TeamViewer has launched AiStudio to add image and object recognition to Frontline, its enterprise AR platform. AiStudio does not require ..."
-    publishedDateTime: 2022-05-03T01:53:00Z
-    webUrl: "https://itwire.com/business-it-news/business-software/teamviewer-adds-ai-to-ar.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/859a06c194a087f54c810f2a0b161f69_M.jpg"
-        width: 375
-        height: 250
-        isCached: true
   - title: "TeamViewer Brings Artificial Intelligence to the Shopfloor"
     excerpt: "May 3, 2022 /PRNewswire/ -- TeamViewer, a leading global provider of remote connectivity and workplace digitalization solutions, today announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer's leading ..."
     publishedDateTime: 2022-05-03T14:13:00Z

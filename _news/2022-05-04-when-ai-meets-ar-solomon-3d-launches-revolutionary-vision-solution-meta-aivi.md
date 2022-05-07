@@ -39,20 +39,6 @@ related:
         width: 1500
         height: 700
         isCached: true
-  - title: "Motion Gestures using AI to enhance camera-based gesture recognition technology"
-    excerpt: "Chris Paine, Motion Gestures' global director of business development, said the founders have backgrounds in utilizing AI and ML in natural language understanding ... It wants to embed its software in semiconductor chips and/or integrate with optical ..."
-    publishedDateTime: 2022-05-03T06:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220503vl202_files/5_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "kErLn9iCRwdXOiUAyH8mivo4jQRkzdV/nUzxKAUJFrH/ikVA1yAOTldYvR2WA3UBe8W7lV9lOESbS1E8P5ECiTjPrSqMMfxZRwjRG8G7qZZRD4TjkzasXuJ+ovJLrMZXHs06eQXIfeWAbSzuBkKg/es4neVpoZUJVNC6VQv0Yq5F4eGXsgRhs75shw+AKPcLKqL6ZZVFxqe6kwcTwCSUtm3ebMQy+KabQgycWg2wRXfC/YY90bZ3P+IN2GLa6gXKWNkivOCBLMmMTf/2gs1ev1derBz84iNIkBjsVRkXEq4GuoQnJGqx3OgySJaG0sQNI9oZoAsZ9DjbUjZvKBqcu4QJ3I6fm0j3d3gtgCxvuAoZgA289GzYpFYp0B5BRPAKStbvKHx7GfMKcQUuNJDMG/gILu2qqE18bIKlwWfTGG8VMi/DixpfcKkrkWLILfhI8aZAr/hrTkI8GpmdikMODJ09tB0HBdEY6lXQKr795A6M+AufoiCnOONAwCIb5jfUAFKGi6QUG0qcRGGThDbNyw==;js0MVP56t6zawDEfuB7cZw=="
 ---

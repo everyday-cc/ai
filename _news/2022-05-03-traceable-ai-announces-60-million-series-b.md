@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Traceable AI nabs $60M to secure app APIs using machine learning"
-    excerpt: "Businesses need machine learning here. To have zero trust you need API clarity. You can no longer easily buy or hire security people, so you need to solve these vulnerabilities via technology.”"
-    publishedDateTime: 2022-05-03T04:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/02/2307940/"
-    ampWebUrl: "https://techcrunch.com/2022/05/02/2307940/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/02/2307940/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/traceable_all_threats_of_threat_actor.png"
-        width: 3838
-        height: 2026
-        isCached: true
   - title: "Traceable AI raises $60 million for unique API security platform"
     excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
     publishedDateTime: 2022-05-04T22:03:00Z
@@ -57,6 +41,54 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov.jpg?w=1200&strip=all"
         width: 1200
         height: 596
+        isCached: true
+  - title: "Kinetix uses no-code AI to create 3D animations, secures $11M"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-04T14:17:00Z
+    webUrl: "https://venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create-3d-animations-secures-11m/"
+    ampWebUrl: "https://venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create-3d-animations-secures-11m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create-3d-animations-secures-11m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/no-code.jpg?w=1200&strip=all"
+        width: 1200
+        height: 920
+        isCached: true
+  - title: "The quest for explainable AI"
+    excerpt: "Explainable AI seeks to infuse algorithms with transparency so that even lay users can ensure their AI is operating within acceptable bounds."
+    publishedDateTime: 2022-05-06T23:01:00Z
+    webUrl: "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1364050120-e1651871311915.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "IT security startup Traceable AI raises USD 60 million from Institutional Venture Partners, others"
+    excerpt: "IT security startup Traceable AI on Tuesday said it raised USD 60 million, about Rs 460 crore, in a funding round led by Institutional Venture Partners"
+    publishedDateTime: 2022-05-04T10:29:00Z
+    webUrl: "https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057"
+    ampWebUrl: "https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 60
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
+        width: 700
+        height: 394
         isCached: true
   - title: "API security startup Traceable AI raises $60M on $450M valuation"
     excerpt: "Application programming interface security startup Traceable Inc. announced ... The round values Traceable AI at $450 million. Including the new funding, Traceable AI has raised $80 million ..."

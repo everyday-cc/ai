@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Back IRL - Talking about Fintech and Marketing Trends - including Metaverse"
-    excerpt: "I think we were expecting AI or Covid 19 to win out, but 40%+ went for geopolitics and related risks. I knew it was an important topic in my company, and clearly the fintech ecosystem and specifically their marketing specialists are also attuned to the ..."
-    publishedDateTime: 2022-05-03T10:09:00Z
-    webUrl: "https://www.finextra.com/blogposting/22225/back-irl---talking-about-fintech-and-marketing-trends---including-metaverse"
+  - title: "Fintech Startup FREED Secures Investment From Inflection Point Ventures, Others"
+    excerpt: "Fintech startup, FREED has served over 5000 customers, counseled over 24K customers, and settled with over 55 creditors"
+    publishedDateTime: 2022-05-05T08:16:00Z
+    webUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: inc42.com
+      domain: inc42.com
+    quality: 40
     images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/c442f73f-3f1e-472d-a0f4-28544e1a22a0.jpeg"
-        width: 500
-        height: 217
+      - url: "https://inc42.com/wp-content/uploads/2022/05/FREED-social.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "vMsJ/lIPo/v4Lv4IHXpRweAvgAZrb+NYgyHH7veIrcTqrOpV/Qc1PqIF4UpRCjg04lesf2RJR5Zm+SddmJYPoNV1EXas0qs4oHyXZof0oH19ltT0dB7p/32RcLfEb/WPyxidY41degEDU2qTgXi1rC6Qjwa13lrtNkW1Hvmdf+2ZPIDRnvF8h1VeLVJwAjhL85kFmbxyJXLculokzl17dUHa7FfEpSl0jv+tcgAHuIRK+zNJsejXtYx8YsRu/dMmbPXFVeB5s6i1MVbAp+iAk0+56KL8GdBThC+V7IGu8dDgta30JDS1fzdO6v36dxhv+r6FqfBRA8eA594G7WTIWHq5Ix71FmQtaph5ZVDUnnG/TsDxpGVbs3drMC3uuifIB7KlCFkdNNgVxjxWTjBqETxe8Xk5BUMld/+aaCR4xHivua61SSDviT0HrP5Owbi1bPlWYfKo0OidvnX2i9QcaQpw9uTvtRb8O30lAiDB97lCofDpweFGazT6KzeRGw5GU+09Cwq0fJGgDzA6Q9u74Q==;Ulw8hPEMmUTb65AdChIyIA=="

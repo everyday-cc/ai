@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T00:01:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-detects-diabetic-retinopathy-realtime-"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-detects-diabetic-retinopathy-realtime-"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: LinkedIn

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/"
 type: article
 quality: 114
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
     images:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Axiomtek-Introduces-AIE900-XNX-Fanless-AI-Powered-Box-PC-Using-NVIDIA-Jetson-Edge-AI-Platform-01.jpg"
         width: 700
-        height: 400
-        isCached: true
-  - title: "Axiomtek Unveils AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform for 5G and AIoT Applications"
-    excerpt: "processor and 384-core NVIDIA Volta architecture GPU, delivering up to 21 TOPS accelerated computing performance for running modern AI workloads. The advanced edge AI computing platform supports ..."
-    publishedDateTime: 2022-05-03T04:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform-for-5g-and-aiot-applications-1031410891"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1809632/AIE900_XNX__Fanless_Edge_AI_System_NVIDIA__Jetson_Xavier__NX.jpg"
-        width: 400
         height: 400
         isCached: true
 

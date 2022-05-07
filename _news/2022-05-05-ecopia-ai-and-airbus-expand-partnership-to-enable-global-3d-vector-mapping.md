@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T10:02:00Z
 originalUrl: "https://www.eagletribune.com/region/ecopia-ai-and-airbus-expand-partnership-to-enable-global-3d-vector-mapping/article_55d8207f-48bf-5297-ae8b-f6fe93506dfb.html"
 webUrl: "https://www.eagletribune.com/region/ecopia-ai-and-airbus-expand-partnership-to-enable-global-3d-vector-mapping/article_55d8207f-48bf-5297-ae8b-f6fe93506dfb.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Eagle-Tribune

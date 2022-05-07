@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-07T18:00:00Z
 originalUrl: "https://www.androidauthority.com/android-face-unlock-face-id-3159889/"
 webUrl: "https://www.androidauthority.com/android-face-unlock-face-id-3159889/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Android Authority

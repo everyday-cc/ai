@@ -25,42 +25,80 @@ images:
     isCached: true
 
 related:
-  - title: "The quest for explainable AI"
-    excerpt: "Explainable AI seeks to infuse algorithms with transparency so that even lay users can ensure their AI is operating within acceptable bounds."
-    publishedDateTime: 2022-05-06T23:01:00Z
-    webUrl: "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/"
+  - title: "Google Fires Another AI Researcher for Questioning Findings, Company Says Otherwise"
+    excerpt: "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ..."
+    publishedDateTime: 2022-05-03T20:35:00Z
+    webUrl: "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: CNET
+      domain: cnet.com
+    quality: 83
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1364050120-e1651871311915.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
+      - url: "https://www.cnet.com/a/img/resize/6f9f38ebe51de141ba324517208291b9c98e6e51/2022/05/02/b1c01638-c17e-462e-80eb-3428354a9ae9/gettyimages-1233383030.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "How Artificial Intelligence Can Help Fight Fires in the West"
-    excerpt: "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, Colo., is tapping decades of experience of managing satellites, exploring ..."
-    publishedDateTime: 2022-05-03T20:54:00Z
-    webUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west"
-    ampWebUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
+  - title: "AI research is a dumpster fire and Google’s holding the matches"
+    excerpt: "The company made headlines around the globe after firing Timnit Gebru, a researcher it’d hired to help lead its AI ethics division, in December of 2020. Just a few months later it fired another ..."
+    publishedDateTime: 2022-05-03T21:25:00Z
+    webUrl: "https://thenextweb.com/news/ai-research-dumpster-fire-and-googles-holding-the-matches"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "DHA Streamlines Its Request for Tenancy Approval (RFTA) Process With Artificial Intelligence-Based Platform Bob.Ai"
-    excerpt: "DHA, Housing Solutions for North Texas (DHA) has launched a new artificial-intelligence-based module for Housing Choice Voucher program clients and landlords to manage the Request for Tenancy Approval process and documentation all online via its Bob.Ai ..."
-    publishedDateTime: 2022-05-04T13:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-4-dha-streamlines-its-request-for-tenancy-approval-rfta-process-with-artificial-intelligence-based-platform-bobai"
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 71
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Fgoogledumpsterfire.jpg&signature=206ea5a750dc650bd0c30fbd18f9f7ea"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Google fires another AI scientist who challenged its findings: NYT"
+    excerpt: "Google fired AI scientist Satrajit Chatterjee in March after he reportedly challenged a paper by the company, which had claimed that computers could design some chip components better than humans. As per New York Times, Google confirmed that Chatterjee was ..."
+    publishedDateTime: 2022-05-03T17:30:00Z
+    webUrl: "https://inshorts.com/en/news/google-fires-another-ai-scientist-who-challenged-its-findings-nyt-1651599027167"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-fires-another-ai-scientist-who-challenged-its-findings-nyt-1651599027167"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-fires-another-ai-scientist-who-challenged-its-findings-nyt-1651599027167"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 10
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/05_may/3_tue/img_1651597873197_322.jpg?"
+        width: 1080
+        height: 721
+        isCached: true
+  - title: "Researchers Are Using AI And Apple Watches To Check For Weak Heart Pumps"
+    excerpt: "We took advantage of those data to see whether we could identify a weak heart pump with AI analysis of the watch ECG. While our data are early, the test had an area under the curve of 0.88, meaning it is as good as or slightly better than a medical ..."
+    publishedDateTime: 2022-05-03T17:12:00Z
+    webUrl: "https://www.redmondpie.com/researchers-are-using-ai-and-apple-watches-to-check-for-weak-heart-pumps/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 36
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2019/03/apple-watch-ecg-02.jpg"
+        width: 600
+        height: 429
+        isCached: true
+  - title: "Apple staff decry hybrid pilot as driven by fear; Google fires another AI researcher; Zepto, Traceable, Toplyne, and Kaleidofin raise funding"
+    excerpt: "Google has sacked another AI researcher for questioning its science, NYT reports. And investors pour hundreds of millions more into Indian startups"
+    publishedDateTime: 2022-05-04T05:27:00Z
+    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/apple-staff-decry-hybrid-pilot-as-driven-by-fear-google-fires-another-ai-researcher-zepto-traceable-toplyne-and-kaleidofin-raise-funding/75917"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 2
+    images:
+      - url: "https://www.forbesindia.com/media/audio/2022/May/forbesindiatechbriefingpodcast_800x600_logo.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "wS5b0bc8w3CsfZcSJpQzdl5HRzf3BzhzMni5mE3vF4vG5suajNV0iqGW16k8zC6WnmKeqflc+e9858wzDzc9xupmLgw4sWUX8fkEQxMENrHJDU2wk9Zhj3k49IH+OPx72DUUmS3VC9CjU824ohztiOzC5vq1YKj7EN6cWK1T+b/BAPTgCu8ZC1SomX3ilSzW9+rS0wsa8Ho0Wb96JmE73bKJVAyGZ8wB7HqR47qWOh7CMglHp+2HsT59gMxZm/xm/9WEm/nIa6rjyI9UEaI65Zj+XfHGzOtLQSkVa6PJO81rca3OSLeKrTl3+cInnwtLjJjKXhNuEmiBIWsP1i1PvgQvD+AsEU9Vw5AmUlYszqJ+pp3cWC+EL76mz7Bcswv+6Q8oiiIoHQJA5jsKfXo2u9c4h0FqGLd/JDbXH2kqvVvFA84adZWND6QWXv+pKfTZiN3ICCbsv/nQi1pOddy4MEbD8QU75cObz+WcQXODx+R4xLMK8hpIFq5okoKSQITgOVQWuEHYTCVGLwkYpoqL3g==;vbMACgQN6qZPpmUFrtRz6g=="
 ---

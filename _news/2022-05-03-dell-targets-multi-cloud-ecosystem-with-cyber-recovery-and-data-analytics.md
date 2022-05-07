@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dell-targets-multi-cloud-ec
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: ZDNet
@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Dell adds cyber recovery (and more) to APEX storage cloud platform"
-    excerpt: "Dell PowerProtect Cyber Recovery for Microsoft Azure will join other Dell offerings ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose ..."
-    publishedDateTime: 2022-05-03T03:05:00Z
-    webUrl: "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/"
-    ampWebUrl: "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage.jpg?fit=800%2C534&strip=all"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Dell offers data, app recovery support for multicloud assets"
     excerpt: "The Microsoft Azure recovery environment (or vault ... and complete files, and implement machine learning and forensic tools to detect, diagnose and speed data recovery. It will also monitor databases to trace back to the last uncorrupted copy of the ..."
     publishedDateTime: 2022-05-05T16:13:00Z
@@ -71,6 +55,24 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
+    excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
+    publishedDateTime: 2022-05-06T12:54:00Z
+    webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/?td=amp-keepreading-top"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 16
+  - title: "Dell Expands APEX, Adds Analytics And Data Recovery"
+    excerpt: "machine learning-based corruption detection, and post-attack forensics. Presumably, the company will be bringing these extended features to its Azure offering at some point in the near future as well."
+    publishedDateTime: 2022-05-03T13:30:00Z
+    webUrl: "https://seekingalpha.com/article/4506127-dell-expands-apex-analytics-data-recovery"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "dj5U/ffVUwS+7TdhmK6+YvQcImWNyCcIXyBjJO3YDRsK3LoSXRLjZ/3ifv7/TcgISYZCfCX171GWIpy4vvHiQtZI24LKGZRdVCnBsJynPhEKRCPM2ZXqeXk11fAywvaTnworpB5BIY+bI1zRirpsKFveKcMKdyDNVJAxnn9jrbE3xUieA1njr8fInLF3ZZiF7Zx7hKJSJgceahtxAf1R2k46dnJVLdQ6BqlU9wMCEpulZMW0ojm0nHh66YoHATaWOMtT//sJGdJjxP/ktyADEZXiaZxYL0nJMZeIV2DmmaaYAzcqsr5k7Iuimv9gQqmURALd4XgYCL+saT3soD7il7VGsbnnSrs9UCpwmeGWLUh1hm8i1r+c2C3aZl5TmjvQDjrsvRa5deYZ55NciPgV+dIu87CPAEYoojB3Ip9Tlk6jIozRvz5EBdHxeG00oraIvYmaB8+h21iP5yyFAanPtSODP3L9syzpN2xUeJN6E2U9nVrY6oMhttZzmfPju8F85j8N95JBQGNMaQXhAodQwA==;A84nzwVErlwRMWChee35vg=="
 ---
