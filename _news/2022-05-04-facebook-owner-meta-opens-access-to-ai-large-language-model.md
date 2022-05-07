@@ -1,83 +1,24 @@
 ---
 category: news
-title: "Facebook-owner Meta Opens Access To AI Large Language Model"
-excerpt: "Meta said its model was the first 175-billion-parameter language model to be made available to the broader AI research community. \"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable ..."
-publishedDateTime: 2022-05-03T22:30:00Z
-originalUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
-webUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
+title: "Facebook-owner Meta opens access to AI large language model"
+excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
+publishedDateTime: 2022-05-03T21:22:00Z
+originalUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
+webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
-images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg"
-    width: 1200
-    height: 803
-    isCached: true
-
-related:
-  - title: "Facebook-owner Meta opens access to AI large language model"
-    excerpt: "Meta said its model was the first 175-billion-parameter language model to be made available to the broader AI research community. \"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable ..."
-    publishedDateTime: 2022-05-03T14:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model"
-    ampWebUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Meta opens access to its massive AI language model"
-    excerpt: "Meta’s Open Pretrained Transformer (OPT) model will be the first 175-billion-parameter language model to be made available to the broader AI research community. Facebook-owner Meta Platforms Inc is opening up access to its massive language model for ..."
-    publishedDateTime: 2022-05-04T11:54:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/meta-opens-access-to-its-massive-ai-language-model/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 43
-    images:
-      - url: "https://eandt.theiet.org/media/18218/meta-6946620.jpg?crop=0,0.20708333333333334,0,0.3007291666666666&cropmode=percentage&width=1200&height=450&rnd=132961391880000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "Meta opens access to its large language model for AI researchers"
-    excerpt: "Meta said the scientific community needs to be able to work together to advance AI research and probe for vulnerabilities. Facebook’s parent company Meta said it is sharing its large language model trained with more than 175bn parameters, to be available ..."
-    publishedDateTime: 2022-05-04T07:08:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-large-language-model"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 41
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_465885157_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Meta opens access to AI large language model"
-    excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
-    publishedDateTime: 2022-05-04T03:20:00Z
-    webUrl: "https://www.asiaone.com/digital/meta-opens-access-ai-large-language-model"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/Screenshot%202022-05-04%20at%2010.16.38%20AM.png?h=690322e4&itok=OAImWZns"
-        width: 600
-        height: 316
-        isCached: true
-
-secured: "zu9g5c4GYcBlrdmu/AVBY/HifhyACBtAlMsIqtDHy3gmVTGUwPdibAcTD7QpVxJnVloZ2sbExY+n1yctQkrHN/5YhVPVoTTyf0bN0jdGG4xy+8n737lRovRak5nn+9LO6ML9sIK/wgdlEmgNgEfpUK4XrjAOBUme4uhyU1YL4obl6AKQAWNpf+t+bT29ihSPkSKwETDWtPClFHnEF41ahnO/KK/jDAkZ5fZS8Fp41DXwQLym/4E4UDQp6ME0BITGgRJL8pfRh7CWsItTnj/md2UMP2OADJ7bqrcUjjM0DRtqkIseWbarmktkBiiU5JLhdGM4e8P8XPTyUmQrKt2+G1pCl02VslNbauaFlosCiR4=;eRv/HXmdyqPWz4+eI/qSng=="
+secured: "2rWgDoNhzqSjz/aF9bWrLc2xHiZ5Q+igwezNYFAVuhK3OPe5dLiKXHF1M1QyLlwmQZ6JUMlkfzOSWzTRrLfIrpDGIVspo377ysm00j+ljy+2WxU2PapUnhkzxRhT9v+OEk5NezN9JrTxKNC7sbqAQcFMoGHcfDVQqRyike0hquiyfgb0caSMtJU6Np9uUxY0PtatdxodHmTuwdb5mPtuttWKgXmXofn65TxZW5rLNr4BrWuE/D8L4pK5y4JQDR1aA3nYYdHO3RU23PbnL6tLKI5mgi+l0DRjFzweNsNbvtXqHBs5xXezsr6PQknr+w6kFYHrUAqsxJ3cNKOkr+z4AFUNrRfFRGtfWJ0d59Rtx6Zq2LywrGPuWfGYRCkoPSCEebjXoWKwEclgaHXDW2mqjJMg3WTyB93GJxsf4xvO/Zp82ED2CygzWU6s2jmhiZ2IwE3oZM4wtNam578wW/SsbCdUuWjWAMUjbZPSDRTyHj4hXKtnZp6piJEofq9MUOKzMGU4etG8/Byci+a7I+Gulw==;v6dMAX2mXaBU+G1+PUuBWQ=="
 ---
 

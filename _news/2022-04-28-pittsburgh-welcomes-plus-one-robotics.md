@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Pittsburgh welcomes Plus One Robotics"
-excerpt: "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas."
-publishedDateTime: 2022-04-28T00:40:00Z
-originalUrl: "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/"
-webUrl: "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/"
+title: "Pittsburgh Welcomes Plus One Robotics"
+excerpt: "As the company grows its footprint, Pittsburgh’s expanding robotics ecosystem offers robust opportunities for market growth, recruitment and partnerships with universities. The company, which uses artificial intelligence and 3D vision to automate robots ..."
+publishedDateTime: 2022-04-28T00:00:00Z
+originalUrl: "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles"
 type: article
 
 provider:
-  name: The Robot Report
-  domain: therobotreport.com
+  name: Automation
+  domain: automation.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg"
-    width: 770
-    height: 500
-    isCached: true
-
-secured: "E+jgQ+XO86PSsf8k+WM7/La8T49PxjNLBx7fBKGC62XIGfDP6SvICkdExrnIEMi1JN1izO6qenASfRcfBwe4rmmARco6CcXTVsDDBUE/xhWfTflnIvxz14ejSN0GwXW4z91yFj1OezLMzCy0pkb5rooeW3sQTXF3O5BSknz0czRRjC8I6+/WiJNSDD8CYhtDVGmldY6N6T02/4JhdCcbTyo2kYxcTFYbDGsvl6vn2HAo+oT5kIaHpNnjc0hUQtpqe2ZhGgzsjbB3CleE/Psl+F694hFVGtzbriVYaDTvfTEYI+DDqWYAJOZ+1sWzSr9C3uqP/BREDGzDfCHo1AK7tnk/Iy2/2mRLYXNj7iFBSfo=;MVqmpACtEc6/la/wpeZzfQ=="
+secured: "hH2tdVcr/L484rcVuGKqZr1XWPZQ1rtyPuTjKBjrkuOAEuVByIk/gv7INmOStw98lsQlMOaY8jEiXwbohQ2H5Eir6GnZXbZMSj/IC1WnpB2UEnQ/UpdUfKKhTUgl6qC0XswvyM/mzT5o2a1vSzdFsfdInYKnteizx05Plr5+Co5ZmJcw5bjolMKOL4I7Zvp5Y9GMTkd2RHHOWI4oNz+2E7mP7GWf8dcZP2XqYfGVWhShq5ZnyUMdMNliH024OQh12hClMSdtfKNqhl1bFbSDnnPhBJZM9+9CGu2L9C+FLc5Taz+FMfruVoidSu2WdEi78IDHnYuzc/o8CQXGAS/TfLEx7aWrnBVp7XF2VHl7TqSJ5etHm2nPXz9lyIDuasSmJR0DQ4Z9qy05ySXJosGvbBVJ+CMMujcVaJQaswq8HdvIlFozt46KyVCuRJNcIhX0XrpTF0W8SPOWL3t0d3jZR9cbQPBDFjChkp8GSbuVC71eCTrQygbpPQXsNNQed0iGHvWUTiAO03n1ZtbCemFW1g==;ZPFMWriMogPtxTS0x/v5SQ=="
 ---
 

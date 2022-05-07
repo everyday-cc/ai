@@ -3,12 +3,9 @@ category: news
 title: "$934.5 Million Worldwide AI In Pharma Industry to 2031 - by Technology, Drug Type and Application - ResearchAndMarkets.com"
 excerpt: "The “AI In Pharma Global Market Report 2022, By Technology, Drug Type, Application” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need ..."
 publishedDateTime: 2022-05-03T14:33:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/covid-technology-business-health-be1a1732783e44aa87e5290ff0b137e9"
-webUrl: "https://apnews.com/press-release/business-wire/covid-technology-business-health-be1a1732783e44aa87e5290ff0b137e9"
+originalUrl: "https://apnews.com/press-release/BusinessWire/covid-technology-business-health-be1a1732783e44aa87e5290ff0b137e9"
+webUrl: "https://apnews.com/press-release/BusinessWire/covid-technology-business-health-be1a1732783e44aa87e5290ff0b137e9"
 type: article
-quality: 11
-heat: 11
-published: false
 
 provider:
   name: Associated Press
@@ -17,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Bz1WYHTbtVf3Onq+OI2QPjvDCX3eRRlrL/ZasujuoXlvUsWivpB8vxgScojZemZboHg41LeZrJd/HqUVwSJ0hSa1yzedf18HYc7aSoIVdVpAp28aPm8Pgt6FOsO3ybrLysQvYJUOY2+h0cqAGpryajOCEeX0t0OMIzmhv8CfstX2LdjqSIlMG3JwOK4Z+yVP41D2pPBw8CM+eH1/SkKX87gE+Q9UUokJFNgfs3YKTJZUskjnfqQ7QR9pqDLknApRJGnVEVriwb/aB1dsDeU5Mnq6+v4/T7u64RhbJP8UkJUhZpX5XS6ix67Hb2K1UwrlW1TGbUvFLlxBN1RyRSUYPcoxknLvXeGU23oPKZ5llMo=;k+HfUw2uFd1mTj8PlIWVSQ=="
+secured: "f2HLjre6kAfx7jNBZrKOyZls6mP1ZTwardj3R7ALOctW/xzzAOTHxwutph/l9WXwH92CVzQm8DdC5iYPW5FvjYrwFx4gQp8b0Myv/0Y4e+zhjwQ0/6S9xR2iakl2CFhpztOcBieBSuhLlqJxj4Ta9WGlNFGlAcQPzgz7v34GvN42Fnk3b5wOGi/pgWGyKGDgYF/4I3z9x6lt4s70YPTQtt2E30shjRHeS36SMFP6eDn9tutQLdazJaMH+SOkoj2Zow/bFSdrazIK0brHI2c3qL3/HkxVkC0q2gkRTCTG30TtRtvawaSFsuWgcyhhGM5jCYhTX73qfmoEQ9XMFR3qOdzmAvMX9vbtLrivOGa1490=;TNJu//5PSZwUaGEh5s57rg=="
 ---
 
