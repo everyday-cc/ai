@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face biometrics performance advances with new algorithm, benchmarks"
+    excerpt: "Face biometrics testing takes an outsized place among the week’s top headlines, while commercial progress and big-money deals continue at pace."
+    publishedDateTime: 2022-05-07T15:25:00Z
+    webUrl: "https://www.biometricupdate.com/202205/face-biometrics-performance-advances-with-new-algorithm-benchmarks"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
 
 secured: "rwYvq5Ja6XW22XX3TpucGRBV1UnsCu/fyP/xOhjFCjZnkF2nRZNGkXEDNy8fcpzMW/wpppQiyZowBQwsGKfhalZSRLkQrKWW3x/5DbUuig2c2ixgjwtG6EIAN1ljY/k/wwEo/El8+TKDAPNo3k37w6p7R7YbCUQ297IhoMwbfHFp/KjzYsO5oCPr8QWMDChBvo+QRwkgc/gj/2EUqktgO3ski3bUsVfviAvSHQVmjbw+G/Ga2h2MUBKgphS4UzsCgASJDLIZtj9PFXGluJAqGQkPdyoj9RzWRETOIYeuqp9vyi7F9eWisYpEE2oC8XRQcHWOK2F8jk+1ePQIf1NdFAqZQgEx1a1CaPRA62rtyUAqAf0jZXQqcXt11O5sxYb0RmJzLtOt3o51T0bAV0w7UXEITPbqyBEsJlIT9V94RJgBYMuaSrSfQT14JyejiwGzhTviqcCceLPAdXNx7eNWyntNcNS7V3Oh2yqyJDZa6rWvZN+hw/n/zgxFBW1Dc+BSCn4ZLjD036a7tdCwjoeCcg==;pia97Rvbl08xPYdKXwUTQw=="
 ---

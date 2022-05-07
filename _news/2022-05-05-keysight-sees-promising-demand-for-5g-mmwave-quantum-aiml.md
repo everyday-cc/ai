@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T07:02:00Z
 originalUrl: "https://www.digitimes.com/news/a20220505PD202.html"
 webUrl: "https://www.digitimes.com/news/a20220505PD202.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Digi Times

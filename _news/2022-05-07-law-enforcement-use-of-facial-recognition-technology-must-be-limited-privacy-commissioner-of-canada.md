@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Privacy watchdogs call for laws limiting police use of facial recognition"
-    excerpt: "Canada’s privacy commissioners called Monday for clear laws putting in place limits on the use of facial recognition technology by police. Federal privacy commissioner Daniel Therrien told MPs ..."
-    publishedDateTime: 2022-05-02T20:54:00Z
-    webUrl: "https://calgaryherald.com/news/politics/privacy-watchdogs-call-for-laws-limiting-police-use-of-facial-recognition/wcm/f47510ac-0a9b-4e06-a632-a4ed5f66efc5"
-    type: article
-    provider:
-      name: Calgary Herald
-      domain: calgaryherald.com
-    quality: 38
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2022/05/facial-recognition.jpg"
-        width: 957
-        height: 718
-        isCached: true
   - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
     excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday. As drafted, Senate Bill 113 would establish several regulations for the use of ..."
     publishedDateTime: 2022-05-06T20:38:00Z

@@ -40,31 +40,31 @@ related:
         width: 777
         height: 518
         isCached: true
-  - title: "'Nanomagnetic' computing can provide low-energy AI, researchers show"
-    excerpt: "Researchers have shown it is possible to perform artificial intelligence using tiny nanomagnets that interact like neurons in the brain."
-    publishedDateTime: 2022-05-05T15:00:00Z
-    webUrl: "https://phys.org/news/2022-05-nanomagnetic-low-energy-ai.html"
-    ampWebUrl: "https://phys.org/news/2022-05-nanomagnetic-low-energy-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-nanomagnetic-low-energy-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/magnetism.jpg"
-        width: 1280
-        height: 1920
-        isCached: true
   - title: "Researchers Devise New Nanomagnetic Computing Technology that Offer Low-Energy AI"
     excerpt: "The new technology, devised by researchers from Imperial College London, has the potential to reduce the energy cost of artificial intelligence (AI), which is now doubling every 3.5 months globally."
     publishedDateTime: 2022-05-06T13:12:00Z
     webUrl: "https://www.azonano.com/news.aspx?newsID=39093"
+    ampWebUrl: "https://www.azonano.com/amp/news.aspx?newsID=39093"
+    cdnAmpWebUrl: "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=39093"
     type: article
     provider:
       name: AZoNano
       domain: azonano.com
-    quality: 14
+    quality: 56
+    images:
+      - url: "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_39093_16518395994005978.jpg"
+        width: 1308
+        height: 1374
+        isCached: true
+  - title: "‘Nanomagnetic’ computing can provide low-energy AI, researchers show"
+    excerpt: "Researchers have shown it is possible to perform artificial intelligence using tiny nanomagnets that interact like neurons in the brain."
+    publishedDateTime: 2022-05-05T15:11:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/951552"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "OJDbJ1K0ViHJBoPzRlzWe7nc9+HNswkbSNSdZOOxGf3cq0nmwVfpVyaTNH7mSqBwV1ug+UGhf4CWNvp+bCEDMtFr3IRfQaTNI1LPAUWMZp6QC7KcdXbuEr9KNMkw9B16XB+JEvNxURr1V/AFw5s1OH9ILfuoHMcZfJ4IxMqFrgy9GAeWRdcWQnLsBavwTahoBNbhts6MfKE+xY5/dgq7rhvkot21npjukpaT5nWmCb6zKdeAdtHoy7nK78TZl8K7oCbf1sce3CN10NOva3NyJqkQpXNYQC3x/p7f3pOz8WYKmrLfToxUt9SO1yo1WTNb7DgVjLjX+ErDALAK8wWLCMVANPwOYaZWLGYIpv14jj4=;/aX7lPARBhuavEI51HlNow=="
 ---

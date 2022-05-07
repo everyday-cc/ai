@@ -51,7 +51,7 @@ related:
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 34
+    quality: 36
 
 secured: "2mL0qASJ1OyYrNrop9/MRDWwsKg4uztR3/5O5mbGp/8d7kE5cyfZjKU9OY3748R9SitKzt7h1OnCQmlkvO9Rt1Orro/bM5SKVylx12iwJN6zZNGUVb4LLOhg8nkvyFjaTA7qL1tPnqsktcR81Dq6rzEwO/+h1NzSChALhN+BmEKTjMRLx6/t4lnKfNh+RWBzl+EF4qaoRv6LGdAuxPOfbtSF1FUBo0C1zQBRpOOKQRNbKPWt864rb9KFYH2ts0SSfK2zEmdm8I41nZkvmwObuDCpZxunsQznqZh3u2XAXONhNdJB8Rmx+q0IJ3OS/rq4SiI63649BNO9k50+G1wM5O83e2bZ1IaqoWD+xyxvUZk=;nT8SnfHODC51I+DQK3mj9Q=="
 ---

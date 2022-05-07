@@ -1,31 +1,22 @@
 ---
 category: news
-title: "'Nanomagnetic' computing can provide low-energy AI, researchers show"
+title: "‘Nanomagnetic’ computing can provide low-energy AI, researchers show"
 excerpt: "Researchers have shown it is possible to perform artificial intelligence using tiny nanomagnets that interact like neurons in the brain."
-publishedDateTime: 2022-05-05T15:00:00Z
-originalUrl: "https://phys.org/news/2022-05-nanomagnetic-low-energy-ai.html"
-webUrl: "https://phys.org/news/2022-05-nanomagnetic-low-energy-ai.html"
-ampWebUrl: "https://phys.org/news/2022-05-nanomagnetic-low-energy-ai.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-nanomagnetic-low-energy-ai.amp"
+publishedDateTime: 2022-05-05T15:11:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/951552"
+webUrl: "https://www.eurekalert.org/news-releases/951552"
 type: article
-quality: 61
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/magnetism.jpg"
-    width: 1280
-    height: 1920
-    isCached: true
+  - AI
 
 related:
   - title: "Artificial Intelligence Computing Using Networks of Tiny Nanomagnets"
@@ -44,6 +35,22 @@ related:
         width: 777
         height: 518
         isCached: true
+  - title: "Researchers Devise New Nanomagnetic Computing Technology that Offer Low-Energy AI"
+    excerpt: "The new technology, devised by researchers from Imperial College London, has the potential to reduce the energy cost of artificial intelligence (AI), which is now doubling every 3.5 months globally."
+    publishedDateTime: 2022-05-06T13:12:00Z
+    webUrl: "https://www.azonano.com/news.aspx?newsID=39093"
+    ampWebUrl: "https://www.azonano.com/amp/news.aspx?newsID=39093"
+    cdnAmpWebUrl: "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=39093"
+    type: article
+    provider:
+      name: AZoNano
+      domain: azonano.com
+    quality: 56
+    images:
+      - url: "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_39093_16518395994005978.jpg"
+        width: 1308
+        height: 1374
+        isCached: true
   - title: "'Nanomagnetic' computing can provide low-energy AI"
     excerpt: "Researchers have shown it is possible to perform artificial intelligence using tiny nanomagnets that interact like neurons in the brain."
     publishedDateTime: 2022-05-05T20:00:00Z
@@ -53,16 +60,7 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Researchers Devise New Nanomagnetic Computing Technology that Offer Low-Energy AI"
-    excerpt: "The new technology, devised by researchers from Imperial College London, has the potential to reduce the energy cost of artificial intelligence (AI), which is now doubling every 3.5 months globally."
-    publishedDateTime: 2022-05-06T13:12:00Z
-    webUrl: "https://www.azonano.com/news.aspx?newsID=39093"
-    type: article
-    provider:
-      name: AZoNano
-      domain: azonano.com
-    quality: 14
 
-secured: "mhWaGjiq56Pxs1tj1Bo59YaOBCV2ORRbf1ntbRAMkRtObjG1HPy5cYbSBIkStNCQoaNK0KIKrpqw56AezbxClfhdWH7ZsHMvzO7tyBBor86l0hCBMSxo2FJt0Y0PTvufA1IFQ3ARpQdFvCoN88kSkKXK+XhYt16ILXA5smhB8s2wlNHPPZuz6HiEZ6eqd4hpfibDICbBxuIDZ/PF+SptXq+IjKn1UwiOEeyZShPRhFRWTw9ytt712w/u9gA8Disd8k3e2gVzEk6wy7D31clOh/3fg9m4rL8DkVxXTpKzl4EU8ivqUhXmuvynz0j0pNInsEUT6rgu4XwxUKjAq56yEM1/5W1nyPxd5WGN950NEmmcJfeogu8TLxbmvMBEwVefviyvBjtCYQsn8/mvNPqstaY6ROW7v0oQLvlQ9IN/XE+rah61X9jLQ2yYpvS2eTCvdiB9EOX19t0AQgd9wbXsripynBWhVCGw5pXvjK9azbrYgafqkcioWzeD1anHhs1z9dfT5mMSfJPwkq3u8tcyxQ==;LaaEMQjK1n13noJmIYIt1Q=="
+secured: "96nupmKy5D9SitgImtHZaHOolEI+ohlorBbzWfKJtlOWMKsJQaIen64zc1j5mCpq8xE4A+RENkbtUsgSWnYlSQfGpDuGuqXxqIjSrmZ0XRJ3Ngkda457KV91AZ84m3kYmc0I/jHNjOI8rKP2Y/zd05TrIiyt19Gbs20IeTQhl3nrAtwuQgWNtsky/j5iHyPNsrocD4SGybvu0Fkg4/UolGgSvIGOWC0+6P1v1EPWMsQ0+sGVy0A43o/Smalm/7/IOgs3TrHm/lHudN0Xv5Jf62qG685354z0M+l5n+QiygWGOWG7sbdppxfmrY1hcTxtoRCkSTioXYU9a8BAIbSo1Ig6hvdVVVgnMIG61D8hsHY=;qYnuQAtKfVvkLo837fN6iw=="
 ---
 

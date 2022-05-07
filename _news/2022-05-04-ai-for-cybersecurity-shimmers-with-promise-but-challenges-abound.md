@@ -33,20 +33,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI-Powered Cybersecurity Protects Businesses from the Inside Out"
-    excerpt: "Accordingly, new AI-powered cybersecurity and threat intelligence software solutions have emerged to help enterprises secure their assets at scale and keep up with the ever-changing threatscape."
-    publishedDateTime: 2022-05-02T21:11:00Z
-    webUrl: "https://labusinessjournal.com/business-journal-events/ai-powered-cybersecurity-protects-businesses-from-the-inside-out/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
-    images:
-      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/01/LABJ-placeholder-logos-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Research Shows Security Pros Believe Cybercriminals are Winning the AI Race"
     excerpt: "Findings also reveal the extent to which organizations are struggling to effectively implement AI to aid and augment cybersecurity efforts, with more than 50% having to undertake major changes, or reset and start over. The research, conducted by Wakefield ..."
     publishedDateTime: 2022-05-03T13:03:00Z

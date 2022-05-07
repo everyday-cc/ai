@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 73
-  - title: "How AI is helping to address staffing shortages in healthcare"
-    excerpt: "Healthcare systems are society’s bastion ... less invasive therapies and laparoscopic surgeries cut recovery times. Artificial intelligence (AI) has proven to help in a number of areas with ..."
-    publishedDateTime: 2022-05-02T22:25:00Z
-    webUrl: "https://medcitynews.com/2022/05/how-ai-is-improving-efficiency-to-help-address-staffing-shortages-in-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2021/09/GettyImages-1191727241.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Ethical use of AI in investigations"
     excerpt: "Ever since laws were first created in ancient cultures, people have been breaking them in increasingly devious ways. This had led to an ongoing cat and mouse game between criminals and those who enforce laws,"
     publishedDateTime: 2022-05-05T09:08:00Z

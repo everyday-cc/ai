@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-04T17:49:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab26999604/ground-breaking-mjn-seras-seizure-monitoring-device-that-uses-artificial-intelligence-to-predict-"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/ab26999604/ground-breaking-mjn-seras-seizure-monitoring-device-that-uses-artificial-intelligence-to-predict-"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

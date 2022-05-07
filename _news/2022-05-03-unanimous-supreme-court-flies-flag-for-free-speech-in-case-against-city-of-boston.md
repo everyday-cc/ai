@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies
 cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2022/05/02/unanimous-supreme-court-flies-flag-for-free-speech-in-case-against-city-of-boston/amp/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Daily Signal
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boston violated free speech rights by refusing to fly Christian flag: U.S. Supreme Court"
-    excerpt: "A unanimous U.S. Supreme Court ruled Monday that Boston violated the free speech rights of a conservative activist ... commissioners say it should be illegal for police to use facial recognition technology to monitor people involved in peaceful protest."
-    publishedDateTime: 2022-05-02T19:52:00Z
-    webUrl: "https://www.ctvnews.ca/world/boston-violated-free-speech-rights-by-refusing-to-fly-christian-flag-u-s-supreme-court-1.5885195"
-    ampWebUrl: "https://beta.ctvnews.ca/national/world/2022/5/2/1_5885195.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/world/2022/5/2/1_5885195.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 35
-    images:
-      - url: "https://beta.ctvnews.ca/national/world/2022/5/2/1_5885195/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "Unanimous SCOTUS Flies Flag for Free Speech in Case Against City of Boston"
     excerpt: "It may not exclude speech based on ‘religious viewpoint;' doing so ... only chaos — and “new business for lawyers and judges.” Despite the court’s recognition of Lemon’s many problems, and what Gorsuch called the court’s abandonment ..."
     publishedDateTime: 2022-05-03T15:40:00Z

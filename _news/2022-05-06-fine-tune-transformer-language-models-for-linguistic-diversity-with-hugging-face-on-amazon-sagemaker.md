@@ -85,20 +85,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Achieve hyperscale performance for model serving using NVIDIA Triton Inference Server on Amazon SageMaker"
-    excerpt: "Machine learning (ML) applications are complex to deploy and often require multiple ML models to serve a single inference request. A typical request may flow across multiple models with steps like preprocessing, data transformations, model selection logic, model aggregation, and postprocessing. This"
-    publishedDateTime: 2022-05-02T20:30:50Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-hyperscale-performance-for-model-serving-using-nvidia-triton-inference-server-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/21/ML-7392-image003-new.png"
-        width: 1150
-        height: 515
-        isCached: true
 
 secured: "SqvQBou3Vj5J906+GqPnNjmMqRetGbdqLEaKTB4JQoun2a/WhpjKEm6uOJar01zh74AkSThUClf+u+ziD5btkdWWrz+tGH+6lI8ndUBcmjqEQe6ycaf6QH+ZaFY8HpHKsLVM+ZYGKi7cauNcB7puXzWtgL7df2oWqfE6d74Gepgv7m/TO7IhsP3TkH53rwx/8N5hkPk13ps1fTVbiMYgIGANVXHAufy3wYytJkmh4ABIaPA2xmR7eBWDWmoT0AoI2b0Dcp/q5dP0vwIzGaAzivD3+i9QqUXq2t+xdxZvvP3Ur7Fyn8sBHbb6ldGN7tnv1rlfAWQJigMm/pGjFL4ZGhLo+rfuPR6W3KGUgOTFCBQ=;fTUVhV2nbzTAvneafYyQ7A=="
 ---

@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Researchers use AI to detect weak heart pump via patients' Apple Watch ECGs"
-    excerpt: "Single-lead ECG tracings from an Apple Watch interpreted by an artificial intelligence (AI) algorithm developed at Mayo Clinic effectively identified patients with a weak heart pump. Patients were ..."
-    publishedDateTime: 2022-05-02T20:56:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg"
-        width: 2880
-        height: 1907
-        isCached: true
 
 secured: "TBWpT6u9cHVh1hQXnPEGTHOniuJdKXzDTr7oiweRar71GfUsZcvU3Pi8m/B+wHiKLuRAThn/O6NG+sSRljC5+Bj4wn6f2iSGzIJYf2DvQnx/ykHpzeQurs4yC9o2il5sS88DvbrJ/oSzZvoJdIKbnkVGNQ24UJTkmPD7QUNOAv7a3cQXZIZM76lSlElOsG+/xEr6r4fCok6X1femeo9RNpj2CMYNLJTS+O3H6EcIvsOWXO3g+F5i/W7LrFu+RskDhLYwtduUY1sm0S4vqgbwXfUSDW3aQX1FDy9b6pdvEtVTtix98huDh+CuiM3VBJOMA5mVLLrPstQwOKGe6Iyth8IEdWGYewDUlVLy48q+hWFX559GM7ZRFKmL67mySIXhk7sQWmJME2n29pjpMN78r24wfIQc3k9s6p52FvwVn63JEkaJGezNhwr5GKS7pdQV9m9o3iHCyGVO2rr5K+7uAhcY2WRIQSeeL0Fw5Hh7ZV1KcehouysiCnaI6cUMO8MQpLrZqcHuM+S521cmHzgkog==;/NDEEpTETchlmKDU2fcpgQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI to detect weak heart pump via patients' Apple Watch ECGs"
-    excerpt: "Single-lead ECG tracings from an Apple Watch interpreted by an artificial intelligence (AI) algorithm developed at Mayo Clinic effectively identified patients with a weak heart pump. Patients were ..."
-    publishedDateTime: 2022-05-02T20:56:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-weak-heart-patients-apple.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/3-heart.jpg"
-        width: 2880
-        height: 1907
-        isCached: true
   - title: "Mayo Clinic uses AI and Apple Watch to detect weak heart pump"
     excerpt: "Researchers at the Mayo Clinic used AI and an Apple Watch to detect a weak heart pump. The researchers developed an algorithm that used the signal from an Apple Watch ECG to detect the condition. The study's accuracy was \"as good as or slightly better than ..."
     publishedDateTime: 2022-05-03T00:14:00Z

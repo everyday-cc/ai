@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-06T00:00:00Z
 originalUrl: "https://www.linkedin.com/pulse/age-generative-ai-inventing-new-artificial-shruti-saraswat"
 webUrl: "https://www.linkedin.com/pulse/age-generative-ai-inventing-new-artificial-shruti-saraswat"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 

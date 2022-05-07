@@ -36,15 +36,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 40
-  - title: "Locomation poised to start rolling out autonomous trucking technology at scale in 2023"
-    excerpt: "“Until some big future breakthroughs in AI to deal with all weather ... fleets and their shipper customers are implementing the route optimization service today to start gaining efficiencies while ensuring they are prepared to launch their autonomous ..."
-    publishedDateTime: 2022-05-02T19:30:00Z
-    webUrl: "https://www.freightwaves.com/news/locomation-poised-to-start-rolling-out-autonomous-trucking-technology-at-scale-in-2023"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 0
 
 secured: "0jVFv+ZOkVOT/sbylq5WwmtXgsYHmnfN+U2xRqNeosf5fjCqUdzURLWtSfswJBa4o70pb1Gh5jFtPRQBeM0dciQcQuFQBhBCWiDplUBRsTkdet/pm18B5aIhJnRsEmRxeMZCdzYnSzkKI5X1d3RBtfdVgjY6YoQfrU1n76/teO2OoaHRAkwHiArht6Ko7AFE0fEMYC2FJbpk3YUY3kYNEm5viGJuWbRxgGshbPfrt7WeXOVBNOY70HnHpmLWIKZECBrSLkHFsZqvqVszPNz3qdrzrJv2wBWOxJ9XB7OmbHk5QxLKWPlAWUcVma2NeqiNc58ST0ZlLMly5Z4n8tv3NqvUv9WaIl/+XIEKUREbuj1wMDkKzdxJlvz38K55hFb0CzXvRMznwfJPwcP/xat1vldjFCOtkyLA4jG0Pn1O+YO/DoGHr8lnhrkOTXOGKdxWAIEvoBilEs+YyCmRtVNkTZ7Dc/5cV59WcRHl5F99ItR47IsRq2RorG36M6hyxCbhmxvU3aBFWn/U8qHRxRezOQ==;bn/gea1kD3ejpZ3N3adFyw=="
 ---

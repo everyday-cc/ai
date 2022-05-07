@@ -44,6 +44,15 @@ related:
       name: theregister
       domain: theregister.com
     quality: 16
+  - title: "Cigniti Technologies to Acquire Aparaa Digital (RoundSqr), an AI/ML, Data Analytics, and Blockchain Engineering Services Company"
+    excerpt: "Aparaa brings integrated enterprise digital transformation and consulting-driven expertise covering a gamut of AI and ML, data engineering, and Blockchain capabilities. RoundSqr’s Zastra (an active learning-AI based data annotation and MLOps platform ..."
+    publishedDateTime: 2022-05-04T15:46:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-4-cigniti-technologies-to-acquire-aparaa-digital-roundsqr-an-aiml-data-analytics-and-blockchain-engineering-services-company"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 5
 
 secured: "xA5e8kzwKAnQVPQyedM8HCf3jkyJlybqeQJ3b5Ub5YDF+XHf60HxDXSkBy4yLDbVouwC+CNJqvdNG8P2DYTuIiZE/y0TfkO8fIpbmJdtPIFKL3Y7okcDG6kz/f8c6F9DJW3WCovcGhJY33bQniR//sr8d3p1YrdcHbbb4NK3nuAUwvvogcXYk2zDP1lfnt/P+S5aXCoZXBR6jeeemBROgwuF6FFdp1YILqeMiHTZksUXC0ERcSMtYBjrOMrhxbebeMQZSlpmpdZnVWvvp9TjBjM4sveaJrSIfgS8Kjhns6SunKcI8sSi8i6jhYlzDDzIjxmnhcj/nQay0d4wFuU6wAYmZyLalJI+0pyGGQbJMPWDOgn7JCmt71R/CRGA64LsqqPJhTfUhBQPy7JvJ6gDJNVNDCauspAfoeRHQFHGxK5MODXN01HdfUv7zVRfzmeVPOf/53FDTHUEQ+v/RMGmY5aIMueys4fkEVyMT0Pv4SnwYY8FzUD0lBeikH2slsIO2k4yn0Wzp6955ZbqDaoeVQ==;MsYqJSXbFtN+VlnbDoyGcg=="
 ---
