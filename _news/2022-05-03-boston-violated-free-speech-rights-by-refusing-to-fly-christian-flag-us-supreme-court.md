@@ -43,22 +43,6 @@ related:
         width: 2560
         height: 1331
         isCached: true
-  - title: "Supreme Court Rules Boston ‘Violated The Free Speech Clause’ In Refusing To Fly Christian Flag"
-    excerpt: "Writing for the court, Justice Stephen Breyer said that Boston “violated the Free Speech Clause of the First ... the Court’s decision and its recognition of city governments’ authority ..."
-    publishedDateTime: 2022-05-02T15:55:00Z
-    webUrl: "https://boston.cbslocal.com/2022/05/02/supreme-court-boston-christian-flag-ruling/"
-    ampWebUrl: "https://boston.cbslocal.com/2022/05/02/supreme-court-boston-christian-flag-ruling/?amp"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2022/05/02/supreme-court-boston-christian-flag-ruling/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 32
-    images:
-      - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2022/05/camp-constitution-flag.jpg?w=420"
-        width: 420
-        height: 316
-        isCached: true
   - title: "Unanimous SCOTUS Flies Flag for Free Speech in Case Against City of Boston"
     excerpt: "It may not exclude speech based on ‘religious viewpoint;' doing so ... only chaos — and “new business for lawyers and judges.” Despite the court’s recognition of Lemon’s many problems, and what Gorsuch called the court’s abandonment ..."
     publishedDateTime: 2022-05-03T15:40:00Z

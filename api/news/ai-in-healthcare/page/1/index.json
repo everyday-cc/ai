@@ -240,7 +240,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -392,7 +392,7 @@
       "originalUrl": "https://phys.org/news/2022-05-artificial-intelligence-students-tools-success.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -665,17 +665,17 @@
     {
       "path": "_news/2022-04-27-norads-vanherck-says-artificial-intelligence-capabilities-lacking.md",
       "title": "NORAD’s VanHerck says artificial intelligence capabilities lacking",
-      "excerpt": "U.S. Northern Command earlier this year asked Congress for an additional $29.8 million to buy information technology equipment and to optimize infrastructure for artificial intelligence and machine learning at its joint operations center.",
+      "excerpt": "(Jose Luis Magana/AP) WASHINGTON — U.S. Northern Command and North American Aerospace Defense Command lack the artificial intelligence capabilities needed to do their jobs to the fullest and maintain an edge over rival nations, according to the leader of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.navytimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
-      "originalUrl": "https://www.navytimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "webUrl": "https://www.airforcetimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
+      "originalUrl": "https://www.airforcetimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.navytimes.com/resizer/T8gu2NwwdvBLNDcbYyTLx6vYnO8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/FFQY4UHAMRGAXF3IKU5VY2LE54.jpg",
+          "url": "https://www.airforcetimes.com/resizer/T8gu2NwwdvBLNDcbYyTLx6vYnO8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/FFQY4UHAMRGAXF3IKU5VY2LE54.jpg",
           "width": 1024,
           "height": 683,
           "title": null,
@@ -690,8 +690,8 @@
       "publishedDateTime": "2022-04-26T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Navy Times",
-        "domain": "navytimes.com",
+        "name": "Air Force Times",
+        "domain": "airforcetimes.com",
         "images": null,
         "publishers": null,
         "authors": null

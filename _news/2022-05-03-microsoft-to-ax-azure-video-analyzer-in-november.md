@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "Dell Launches New AWS, Azure Multi-Cloud Security Solutions"
-    excerpt: "or in an unimpacted Azure environment. Dell’s new CyberSense for Dell PowerProtect Cyber Recovery for AWS offering allows customers to use adaptive analytics, scan metadata and complete files, as well as implement machine learning and forensic tools to ..."
-    publishedDateTime: 2022-05-02T17:00:00Z
-    webUrl: "https://www.crn.com/news/cloud/dell-launches-new-aws-azure-multi-cloud-security-solutions"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 73
-    images:
-      - url: "https://www.crn.com/resources/0275-150cb8ccdb09-0e58e7a5dff5-1000/aws_oj_story.jpg"
-        width: 599
-        height: 426
-        isCached: true
   - title: "Dell Technologies World 2022: Dell unveils security offerings for major cloud providers"
     excerpt: "Dell PowerProtect Cyber Recovery for Microsoft Azure' and 'CyberSense for Dell PowerProtect ... which will be supported with adaptive analytics, machine learning, and forensic tools. CyberSense for Dell PowerProtect Cyber Recovery for AWS is expected ..."
     publishedDateTime: 2022-05-03T08:56:00Z

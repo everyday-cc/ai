@@ -77,6 +77,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Finbots.AI Raises $3M in Series A Financing"
+    excerpt: "Finbots.AI, a Singapore-based AI-based company that brings innovation to banks and financial institutions, raised $3m in Series A funding. Accel made the investment from Fund VII. The funds will be used to accelerate product improvement, marketing and ..."
+    publishedDateTime: 2022-05-04T23:01:00Z
+    webUrl: "https://www.finsmes.com/2022/05/finbots-ai-raises-3m-in-series-a-financing.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech21.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "n+t/jQ5p+SldXv+thepL9lHN5ipZTGPUdnA6HLJKrgn7SZPVW/TeVjpr9xjH14JS93UFNC4mksf4dkEXDsEVS46NgT+82E5Qz5g2Li8GJ9+T1RC5Jfox+spZO8eD0sfwla1twRxtCETaDN0Cpxiiur4sNJcpkXo79C4HUV9nNbBcHgu/cauWLQZG7qeD4s2e8VPAIdrVfyVhfZB31RQvVmxiNYDbZ5jh+4wsvKybcYfFeI0p/o+NHhssCoZ1J/jwhJ61n4ErrDRpx6ArV0BmLOASXyP9w7CSm8Fda+fGgDUMxzzfu0Vqx+8xyHRNY3EA1mcmiXPNU8oW8qKF1eP21TTHbnhNJ3bXvTou4+HqIyEgCLDztiv2WJBXYeemKEqcen2wMQjkuGseasddpblndR7M1cSYypuSV2sfSeuWn7XiJmT42RddbYRITNSlPzV5u0HySimQIHcb074nrM20Me4H0qwjaJnZSjXmiZQGPxWRzsmicuu+tn6RmMKM9mK+TglX8s1McHgGTu8z8+qoog==;NVDnucXEgW2GPuulkwVzAw=="
 ---

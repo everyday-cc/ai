@@ -52,22 +52,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 53
-  - title: "Dell brings data recovery tools to Apex and the cloud"
-    excerpt: "The software is designed to isolate and protect data from ransomware and other threats, including using analytics and machine learning techniques to monitor ... Now Dell will make the software available on Azure, so the recovery options also will include ..."
-    publishedDateTime: 2022-05-02T17:05:00Z
-    webUrl: "https://www.theregister.com/2022/05/02/dell-apex-cyber-recovery/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/02/dell-apex-cyber-recovery/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/02/dell-apex-cyber-recovery/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 44
-    images:
-      - url: "https://regmedia.co.uk/2019/07/10/data_shutterstock.jpg"
-        width: 648
-        height: 463
-        isCached: true
   - title: "Dell offers data, app recovery support for multicloud assets"
     excerpt: "The Microsoft Azure recovery environment (or vault ... and complete files, and implement machine learning and forensic tools to detect, diagnose and speed data recovery. It will also monitor databases to trace back to the last uncorrupted copy of the ..."
     publishedDateTime: 2022-05-05T16:13:00Z
@@ -99,20 +83,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Cyber-resilient Dell brings the cloud to its customers and their data to the clouds"
-    excerpt: "A second example could be using Azure compute to train a machine learning model with Dell file services in Azure. We hear that, maybe, Pure Storage and Snowflake will be announcing a similar deal shortly. All of Dell’s mainstream competitors are focusing ..."
-    publishedDateTime: 2022-05-02T17:00:00Z
-    webUrl: "https://blocksandfiles.com/2022/05/02/cyber-resilient-dell-brings-the-cloud-to-its-customers-and-their-data-to-the-clouds/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 18
-    images:
-      - url: "https://blocksandfiles.com/wp-content/uploads/2019/04/michael_dell2_photo_dell.jpg"
-        width: 648
-        height: 486
         isCached: true
 
 secured: "PX3NkQ88YxIJ5WDJsttxEysFQj6s0NLKZsQBYvK1etcCT8j/GGQDJ7VCRhJ/zw9IBBq9LEvoLbqMbnZDxH0FLRHHVH/2fFoj8a1Ro7mNypUgecE606XsBNdekUM8tRwqpuiGyXOnm+nYdYZWViLNCvusa+4z+YvGEOWETXyLgnJufv26/vXm4rHRpkQ0952xwzNP9EhfRG7rsPjIv1XL+lah5AwOyh7LqSPUegZYC/OOK4ugbsPwPcPfZiO00R/7hMib82Mmg005J9Tbf/PKpnJBRQRpTQszNbabqYwGWDf4U0r3zm+OB+OK2JCr5DJ+hhjkYfs3YGmKSqA/57Lmx1I89C27dg9OSV7uodct70MU735LjG1W/+0gOAxj3hdwk/GXBiNwW7/msnBXpYWzbyf2JLwO1qAltl7/3UK9qmAedutwz4B/86Tsrn4g/67PE8whZl0H1emJIa21XcVbd+qsOdoE5gGDd7emFN97aT/glcg5Kzfq5n7Z92xNPTHWBGAXBJUJKC+N0FyYCMgVIA==;+AALasR8L52ockBSPFLncQ=="

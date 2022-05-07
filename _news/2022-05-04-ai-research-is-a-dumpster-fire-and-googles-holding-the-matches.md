@@ -117,38 +117,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Google fires another researcher as it confronts challlenges with AI"
-    excerpt: "Another staffer who questioned research ethics has been stood down Google's Cambridge ... fight about when it comes to how the chips — and any wares derived from artificial intelligence itself — are made."
-    publishedDateTime: 2022-05-02T16:34:00Z
-    webUrl: "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challlenges-with-ai/"
-    ampWebUrl: "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challlenges-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challlenges-with-ai/amp/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 61
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/google-boston-2018.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
-  - title: "Another Firing Among Google’s AI Brain Trust, and More Discord"
-    excerpt: "Tension among Google’s AI researchers reflects much larger struggles across the ... which the paper said could improve the design of computer chips. The technology was hailed as a breakthrough for artificial intelligence and a vast improvement to ..."
-    publishedDateTime: 2022-05-02T16:13:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/another-firing-among-googles-ai-brain-trust-and-more-discord-8444771.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/another-firing-among-googles-ai-brain-trust-and-more-discord-8444771.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/another-firing-among-googles-ai-brain-trust-and-more-discord-8444771.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/Google_EU.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Another firing among Google’s AI Brain trust, and more discord"
     excerpt: "Tension among Google’s AI researchers reflects much larger struggles across the ... which the paper said could improve the design of computer chips. The technology was hailed as a breakthrough for artificial intelligence and a vast improvement to ..."
     publishedDateTime: 2022-05-03T04:33:00Z
@@ -210,20 +178,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/01/google1.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Google researchers fired after questioning AI"
-    excerpt: "Google fired a researcher who questioned a paper it published on the abilities of a specialized type of AI used in manufacturing computer chips, making it the third researcher fired after critiquing the company's AI, The New York Times reported May 2."
-    publishedDateTime: 2022-05-02T15:49:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/google-researchers-fired-after-questioning-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "Google keeps firing people who question its AI"
     excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."

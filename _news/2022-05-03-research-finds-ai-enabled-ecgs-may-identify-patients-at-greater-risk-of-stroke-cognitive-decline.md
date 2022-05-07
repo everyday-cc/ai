@@ -42,15 +42,6 @@ related:
         width: 1920
         height: 1222
         isCached: true
-  - title: "AI-enabled ECGs may identify patients at greater risk of stroke, cognitive decline"
-    excerpt: "Atrial fibrillation, the most common cardiac rhythm abnormality, has been linked to one-third of ischemic strokes, the most common type of stroke. But atrial fibrillation is underdiagnosed, partly because many patients are asymptomatic. Atrial fibrillation ..."
-    publishedDateTime: 2022-05-02T17:05:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220502120505.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
 
 secured: "5Ypl/WJhkUdXMHYLABrNi0IxmqRQFCYslUmp50nfsty9kH9nYbwRD2obq9kL//qbYce7wI8IUH1A0I+SoI9vLjLGeysAqIAcxoFKTuUtT1AxvqtmlbAmekIfd5/e2W8sRmcbnJSM571kujaJh0QXWeUSoGn1WIHFpUwwYrroY9wwA1s3ZID9DFsDDJkelFtExO0eCUyko5IFyAEeRWQkRxr2XmaJoFZDeV8NZjNdO1MuVukYqIMWZey8XPA0aDLeEPdo58VMq50hV5RLT3i/a1qKXxDCWadciQMREaL0nxdqDooeYWz9d2fX7BXWNzcC7wZATBj2chi3DZcoL6wFkCTXlc+0zvaFu/+WNE+HDiAN7AgLXQI2Eg69F5Cfvwwsnw7KQ6+UyMJPfOgrlRL8F6ir+Iz23EtpD2TTqw6LiI5CKfdpdlv72J8+7D7oy+f2J+Duv8qa54mx04TRsInzmOlXAeQaBuA7gx1LlbGqrmXrDixi4I9AsmMzS8aq2gFRUpw68JPfEPxGAL3TMBiRHg==;AmNXPtF7ORn+OD0zXu9lsQ=="
 ---

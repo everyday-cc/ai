@@ -66,13 +66,18 @@ related:
     quality: 32
   - title: "Arcanna.ai Bolsters Executive Team and Advisory Board to Drive Growth of AI-Assisted Cybersecurity Platform for SOC Teams"
     excerpt: "Arcanna.ai, leading provider of an AI-Assisted Cybersecurity platform, has assembled a team of cybersecurity experts with decades of experience and a plethora of accolades to help steer its company vision and growth with their security know-how and engineering acuity."
-    publishedDateTime: 2022-05-05T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/05/9596387.htm"
+    publishedDateTime: 2022-05-05T15:03:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220505LA46544/arcanna-ai-bolsters-executive-team-and-advisory-board-to-drive-growth-of-ai-assisted-cybersecurity-platform-for-soc-teams/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: KTLA
+      domain: ktla.com
+    quality: 12
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
 
 secured: "5btyLZf3iEIcItZdstflTsQ0w5vfQHf54CxgF7UyaYhVlcYNz7mMJ5EekRxpFHLZFV5wymwfTgV0ERJP2OH+ixVUI9K6gt2UO/HvzUu+9gJQmQE6bEnwbWbh+oBWGye4cm8HOJbQQ31TFTro2INvM/DydwEgNYzuM8QRXixd1qDaKBuZN+HvTVd5zIYqBbwr+8ukRE0BPTuT/Z1NgTZbIpNGFRNrFlFqouSX++Xg6CM1kKtONJ1cfu2sV47DgoR7S67h5gHKoiugsAyhT2XlRuyjZ5oRmlzU4rutO1P7EFSeHvRxW0TgBMhdrROBUGDYGrCUV/o2LljLagnlqozITGJ8UepIMMUhdG//z5JfRB2obNIgQzP2F7ONWlcqmqPaowmZ8DWaXcvDB5IFyQdm3+KsQzVbvB7CTY9iarE92QvrCVaQ6vYdINqCmhKUNQXll2GwraWqZO0ZrTkK+7i2KNmSs7PWQA7JMkpSKyw/5reR4Jja7jYJ84GhVztnDbFwYsOXruWGRvG1sq80a7rrTw==;UKzPkIIGNa0dWv8zpnJKuQ=="
 ---

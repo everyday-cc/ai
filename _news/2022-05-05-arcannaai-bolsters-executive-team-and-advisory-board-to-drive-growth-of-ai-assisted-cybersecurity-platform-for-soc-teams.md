@@ -2,20 +2,26 @@
 category: news
 title: "Arcanna.ai Bolsters Executive Team and Advisory Board to Drive Growth of AI-Assisted Cybersecurity Platform for SOC Teams"
 excerpt: "Arcanna.ai, leading provider of an AI-Assisted Cybersecurity platform, has assembled a team of cybersecurity experts with decades of experience and a plethora of accolades to help steer its company vision and growth with their security know-how and engineering acuity."
-publishedDateTime: 2022-05-05T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/05/9596387.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/05/9596387.htm"
+publishedDateTime: 2022-05-05T15:03:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220505LA46544/arcanna-ai-bolsters-executive-team-and-advisory-board-to-drive-growth-of-ai-assisted-cybersecurity-platform-for-soc-teams/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220505LA46544/arcanna-ai-bolsters-executive-team-and-advisory-board-to-drive-growth-of-ai-assisted-cybersecurity-platform-for-soc-teams/"
 type: article
-quality: 0
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
+
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
 
 related:
   - title: "15 Ways To Leverage And Supplement AI In Your Cybersecurity Efforts"
@@ -74,6 +80,6 @@ related:
       domain: wraltechwire.com
     quality: 5
 
-secured: "cuL/xdDXAEp/cbOJOA094UeH7ZcY3dcZ5DAxdPjjLG9Bxx/hazfcK7LjealJp6S1vAj3NoCjBmSi9GxY6toLqsWkA78z/D3GrYn7uWqophvHr5EIC1VYkEgRniKNoMqdIy804PaI6YF5f07to4DGFgGWDUIoR3qxFKWL8slzmKW2vaR5CWRPoEh9Lx7r/emfVELCdEvDJXgFZ+gQctGRdo0HBGeyDdxeMkusuCiH+Z4gzrnMweouFBjSIOJC7yi3E29mwRDQv8V+tHkTm0D15wnEXe1aLYjcwg0nljAIw7ARKASmMI/VGlaWwMCoTUauWbheX+efndbK0t720M0kaq9WReq+dFvoi4lNlRaFGUE=;/rpWkLbtoV5HpKHR3db2xA=="
+secured: "QFDZYa9B6DUanQcFEVqyLLoN5RQJLmzGAwlBBpLX0cmt0yfe3GLVaUPIkpTaI7PAuNAp8PbgDqjFmSNLprf1dwpUb3QxQJZNOOoblVNvi5EZtKSMiQfSNTsnXZNibZfv47yFT/VVY9knp87jHrFEnRsUO9RsjbNMEbJHnHULjok32m3YrAsRPyW6Je36qmYGlgnNl7vxSkGw25mPp9IAeSN4AQybpkPgeqqUIWNPbF+D9f5/uemTK+t7zIBKU+ImZPcSI2saXK9/7Zksc2aV+uK0jUeZEdWN2gJZ2m5M6SrY/hZyCAR5dnpiOnW5S6wpX6aCyP9yNYYXHwIIluS5LA9tVfHPWo7na65UCxTJPvk=;+7O1Gpv0q4fmLEmhWQH0fA=="
 ---
 

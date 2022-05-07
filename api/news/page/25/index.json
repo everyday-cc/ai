@@ -2,6 +2,92 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-04-13-adding-multimedia-lambda-teams-up-with-razer-to-launch-the-worlds-most-powerful-laptop-for-deep-learning.md",
+      "title": "ADDING MULTIMEDIA Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning",
+      "excerpt": "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world's most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/adding-multimedia-lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop/article_75a2aba0-b7ed-5ac5-8cc2-0c4e33affce3.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/adding-multimedia-lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop/article_75a2aba0-b7ed-5ac5-8cc2-0c4e33affce3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/e/6f/e6f44cc7-26b6-5c6c-b9da-32e5ee52d2aa/6255d44c9aa8d.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-neptuneai-raises-8m-to-streamline-ml-model-development.md",
+      "title": "Neptune.ai raises $8M to streamline ML model development",
+      "excerpt": "Register today! Neptune.ai, a Polish startup that helps enterprises manage model metadata, today announced it has raised $8 million in series A funding. Whenever an organization experiments with ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/12/neptune-ai-raises-8m-to-streamline-ml-model-development/",
+      "originalUrl": "https://venturebeat.com/2022/04/12/neptune-ai-raises-8m-to-streamline-ml-model-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-cognitive-computing-market-projected-to-775-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
       "title": "Cognitive Computing Market projected to $77.5 billion by 2025 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "The report includes the study of the key players offering cognitive computing solutions and services. The major vendors Microsoft (US), Google (US), IBM (US), Numenta (US), SAS Institute (US), AWS ...",
@@ -1027,93 +1113,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-eckohs-new-cloud-security-offering-in-microsoft-azure-attracts-a-fortune-100-retailer.md",
-      "title": "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer",
-      "excerpt": "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=645669",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=645669",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-natural-language-processing-nlp-market-is-anticipated-to-reach-usd-4496-billion-by-2028.md",
-      "title": "Natural Language Processing (NLP) Market is Anticipated to Reach USD 44.96 Billion By 2028",
-      "excerpt": "Natural Language Processing (NLP) Market Size – USD 11.52 Billion in 2020, Market Growth - CAGR of 18.30%, Market Trends – Proliferation of smart devices NEW YORK, NY, UNITED STATES ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103998135/Natural-Language-Processing-NLP-Market-is-Anticipated-to-Reach-USD-4496-Billion-By-2028&source=24",
-      "originalUrl": "https://menafn.com/1103998135/Natural-Language-Processing-NLP-Market-is-Anticipated-to-Reach-USD-4496-Billion-By-2028&source=24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-04/12/EP_e700eimage_story.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -79,6 +79,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "9XgQ/sIenu/yqnA1WEKAh7kfdvoMHZNRMu7CLiwU07di4kdFZuMOLxd/KJ+mat//uGEUDG4VQOcuyp7MIzW68OJxbLvrkG/I/1HpghNpRonAJXE0ZPXALUv/ySJVPX2HY0Qj8g1ocAagh9FtzGaZVePniE3+FUqLguHx8MsOpXvVgl6Z1APpcwhCO8BdlgBYE4oU8wP+PCDzMy8A58CWbJ6xakxcvAkfXo8rJ9ACR8sswTD6n/oxDe7ek/srGYvJspvsBZbtmMHdoE7c/8yhApc0s7d5P5Id2Hlvhe3ELjZPSt8gddmJWpuGlecDLb6I4g6A+I5N8BxVLFEym8iywpjRL1O7CDVEEpLoN/aMNs4=;DftyZARynQnmn7max0BUQw=="
+secured: "JhwW+W12iOuiNyH4t2lC0LEZfNbQdRfLfw4BUVKDgrFKvCUdKxdw6qoEYVM92Y7bOeIWoXCb7hnMO2eni+pDYepCyey7xrY1ZnZJeJZMXLcfrqFYfCZgEywRFo6LNdJSPu5Fi5dF1z2LbQlX27Ff2O7rhEY1sSiRl4qm8w1snBmNXTotLb/PLSW+4tRTIRCGRy6N7Tco5fvC49JJmzPm9w0oWtsF0xnC+55wAPPiYaziqM5inJUg03Weyo3ifx88tT8HvYsJokL8C93mAbVAf7IXzJegz7jpfn81QYMXlVuWeDWn6E9gyMMjS1c2BrLLcLz0c+VsKUVqnuL4+eV+qliVGt71iTCbqxFota5HqlxVmVxTP6e+/VPmffUynx3Nz3REIy2xx+30CrM2GJfj0ATevJjaeE7btIEf81GajVXpBj8BW3IwCnSSXmpLO4NErQkvxpP0OHTNnw33kmRvG8jBkZOhEuEkW1LjwKUoG1WY0r0hk5LQZfmzdjsefRcIbiqOm2LlL/TIeivMb6WO4Q==;4yLzZKsf17H2pxT+HCFAZA=="
 ---
 

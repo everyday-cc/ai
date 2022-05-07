@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-pr
 cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New legal restrictions needed on police use of facial recognition: privacy watchdogs"
-    excerpt: "OTTAWA - Canada’s privacy commissioners say it should be illegal for police to use facial recognition technology to monitor people involved in peaceful protest. In a joint statement today, federal, provincial and territorial privacy watchdogs also call ..."
-    publishedDateTime: 2022-05-02T16:40:00Z
-    webUrl: "https://www.thepeterboroughexaminer.com/ts/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs.html"
-    type: article
-    provider:
-      name: Peterborough Examiner
-      domain: thepeterboroughexaminer.com
-    quality: 32
-    images:
-      - url: "https://images.thestar.com/EuDDSHJOF_nmqiCpMx8umPgaht4=/1280x1024/smart/filters:cb(1651534260489)/https://www.thepeterboroughexaminer.com/content/dam/thestar/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs/20220502120516-627003f6a6c9640b6653e736jpeg.jpg"
-        width: 1280
-        height: 1024
-        isCached: true
   - title: "CTC Students Earn Recognition from Toastmaster International"
     excerpt: "The program was coordinated by Angel Vallejo, a local Toastmaster representative. From the first attempts at public speaking, which was a basic introduction speech, to their final career presentation, there was amazing growth both individually and as a group."
     publishedDateTime: 2022-05-03T18:56:00Z
@@ -70,15 +56,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Ontario's privacy commissioner joins national call for legal limits on the use of facial recognition technology by police"
-    excerpt: "TORONTO, May 2, 2022 /CNW/ - Ontario's Information and Privacy Commissioner, Patricia Kosseim, and Canada's federal, provincial, and territorial privacy commissioners issued a joint statement and guidance on the use of facial recognition technology by law ..."
-    publishedDateTime: 2022-05-02T15:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ontarios-privacy-commissioner-joins-national-call-legal-limits-/2022/05/02/9593508.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "C3hKOc2HYEHeB4NwjZMpmr/QfpCezl621OLgAOwHhvJo9oJA07lAw+MpULm0i2Xo34HCaZBnhH91IWrUSxmnmof2Vzj4LmNYf1MFc6p53c5ck5Ovht7BrXrQLIlrYdgtX0AXOOc3VaIwfRodG/lfKj/4w4T75AzLSKNQkxpK94knu0OSE2b1cdo9o0b2aEi4VP7aJVXyjIxqr1o8hRp0zb4z/L26nirBRsFauQHuQ+95E58QVc6zsUGRsAVP5dfg+e30z06/m408LCNmuZmfaD8A9XqcjXTqpxWFSAavcXct+sVhi7JhwoRiBbffU4F8HgDOHHTwHqI9TIWu/LVJxfrTMVwztQZaBfdk7qH7bEQeZjFVkPOcMMgLUTl7S4zTt8GHIm9Tor8SjtkFla2x75lgi63Mb/k9cDUinBxwgZhj6WJ3rtVJVLwUQZe27tUx9wPKZb9SVq68Mv2JNXXzm2ngHhMiy9IxKEic0YKTldd3H2xp6u726UbPBBOCU03zOkXeckPk1znXPdWmHixg9Q==;Xv1aKgxhL2Gn9Dol0XqObg=="
 ---

@@ -2,6 +2,93 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-04-12-eckohs-new-cloud-security-offering-in-microsoft-azure-attracts-a-fortune-100-retailer.md",
+      "title": "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer",
+      "excerpt": "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=645669",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=645669",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-natural-language-processing-nlp-market-is-anticipated-to-reach-usd-4496-billion-by-2028.md",
+      "title": "Natural Language Processing (NLP) Market is Anticipated to Reach USD 44.96 Billion By 2028",
+      "excerpt": "Natural Language Processing (NLP) Market Size – USD 11.52 Billion in 2020, Market Growth - CAGR of 18.30%, Market Trends – Proliferation of smart devices NEW YORK, NY, UNITED STATES ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103998135/Natural-Language-Processing-NLP-Market-is-Anticipated-to-Reach-USD-4496-Billion-By-2028&source=24",
+      "originalUrl": "https://menafn.com/1103998135/Natural-Language-Processing-NLP-Market-is-Anticipated-to-Reach-USD-4496-Billion-By-2028&source=24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-04/12/EP_e700eimage_story.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know.md",
       "title": "Overcoming Supply Chain Challenges With AI: What Large Manufacturers Need To Know",
       "excerpt": "The supply chain has always been extremely complex and hard to manage; everything has become incomparably harder as the Covid-19 pandemic brought about a whole chain of unprecedented challenges.",
@@ -1037,82 +1124,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-how-artificial-intelligence-is-enabling-t-cell-receptor-screening-for-cell-therapy-discovery.md",
-      "title": "How artificial intelligence is enabling T cell receptor screening for cell therapy discovery",
-      "excerpt": "Exogene has combined artificial intelligence (AI) with cutting-edge lab-based technologies to create a fast, scalable TCR screening platform to identify TCRs for cell therapy applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d43747-022-00114-5",
-      "originalUrl": "https://www.nature.com/articles/d43747-022-00114-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw800/magazine-assets/d43747-022-00114-5/d43747-022-00114-5_20301090.png",
-          "width": 800,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "T he artificial intelligence (AI) market has grown like a weed in recent years as organizations gather and process more data to make smarter decisions. However, it can be difficul",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-1",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-1?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-1?amp",
-      "publishedDateTime": "2022-04-11T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

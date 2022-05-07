@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 656
         isCached: true
-  - title: "New legal restrictions needed on police use of facial recognition: privacy watchdogs"
-    excerpt: "OTTAWA - Canada’s privacy commissioners say it should be illegal for police to use facial recognition technology to monitor people involved in peaceful protest. In a joint statement today, federal, provincial and territorial privacy watchdogs also call ..."
-    publishedDateTime: 2022-05-02T16:40:00Z
-    webUrl: "https://www.thepeterboroughexaminer.com/ts/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs.html"
-    type: article
-    provider:
-      name: Peterborough Examiner
-      domain: thepeterboroughexaminer.com
-    quality: 32
-    images:
-      - url: "https://images.thestar.com/EuDDSHJOF_nmqiCpMx8umPgaht4=/1280x1024/smart/filters:cb(1651534260489)/https://www.thepeterboroughexaminer.com/content/dam/thestar/politics/2022/05/02/new-legal-restrictions-needed-on-police-use-of-facial-recognition-privacy-watchdogs/20220502120516-627003f6a6c9640b6653e736jpeg.jpg"
-        width: 1280
-        height: 1024
-        isCached: true
   - title: "CTC Students Earn Recognition from Toastmaster International"
     excerpt: "The program was coordinated by Angel Vallejo, a local Toastmaster representative. From the first attempts at public speaking, which was a basic introduction speech, to their final career presentation, there was amazing growth both individually and as a group."
     publishedDateTime: 2022-05-03T18:56:00Z
@@ -69,15 +55,6 @@ related:
         width: 666
         height: 500
         isCached: true
-  - title: "Ontario's privacy commissioner joins national call for legal limits on the use of facial recognition technology by police"
-    excerpt: "TORONTO, May 2, 2022 /CNW/ - Ontario's Information and Privacy Commissioner, Patricia Kosseim, and Canada's federal, provincial, and territorial privacy commissioners issued a joint statement and guidance on the use of facial recognition technology by law ..."
-    publishedDateTime: 2022-05-02T15:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ontarios-privacy-commissioner-joins-national-call-legal-limits-/2022/05/02/9593508.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "4D2bGd4g5rD38MpwKF6+3ljfd93+o2pajUCdrBqDD6y7YfUI1YVciErIMyKAq+8y8T6L/YWlIPYwlhxCDxPAHAkIisJ/7TfHaQ6XNMNdKJVGM9l6cNPyJM+C0nc0a/f7dS8d+HLsDwTHCQZFwRX6UwGo4q5pstaNOKrUjqLGWMQyWczTHp1/7kTOVBe38nZnnTpOdMFz7DTvYWL59weJGJljgsm8q/c8y98ptgcaDsgVlfVxZ0S4JuhhgRrugqEcWv/3H+NgPV/EIhGEOhtaEQ47e23rON3tS/iofWPvc5nxo3XvnwIHND65Vygzi44v66SkC29IkthSCTJaDgy9CrEwYf4elirlb09OADl9FGA=;YSTFSEItF5wFVzs8m0RVNw=="
 ---

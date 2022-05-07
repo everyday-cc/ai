@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-05-artificial-intelligence-students-tools
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-artificial-intelligence-students-tools-success.amp"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1920
         height: 1289
         isCached: true
-  - title: "AI-enabled ECGs may identify patients at greater risk of stroke, cognitive decline"
-    excerpt: "Atrial fibrillation, the most common cardiac rhythm abnormality, has been linked to one-third of ischemic strokes, the most common type of stroke. But atrial fibrillation is underdiagnosed, partly because many patients are asymptomatic. Atrial fibrillation ..."
-    publishedDateTime: 2022-05-02T17:05:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220502120505.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
 
 secured: "9GkEGMAv6xh6zobHFgKMUwM0w8PtywNgXNm9Zpqrm+Vl23c+VWCLOvPK6+IOxT5Ip2ftBwRr5UPBZespNKcXsSy+92iZlojYbYomFhzcFLmg5lXTlEa4rLOkHGjpkU7h97DVXMcGAUqcATULN86vuZWZ/fvBAJ65/d5ZgqeKnxtXq7NoXl9Zu4q68447otQ04O2xBEI9drIQqRtrcyM17puP9P5bHgSIV59K/T/OZa+qgqhgjF5FB1i5DMTn6P9KduuR4uPZG4ErplG7LkGu3QiwQKJ6y2OPK5owSfMobF4ZZgQ7KPIMLf5f+nUhmhhIkej0Uj9m7B5GfMds1Ei34j33mdTuPN1/ZG3Ou9DIGK56z9LeUL7yNQoOlAgmtPJJRYI8zP6dS109zs1Gh5vUs/o2kVpe4SLaG0kbLLSFQ38Fzem4Ai7b8mAmSGqSzPDzQItYO9wtG93xgucP2QUjEl8fRDwwFETpdk8aoiYMAQNc+G01jxn5vpabcvVGbBRlqURtvnnNsNohSVAxA8BVoQ==;sKJavVRFF2GrMkhp03UqCg=="
 ---

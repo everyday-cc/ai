@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-07-hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble.md",
+      "title": "Hohem iSteady V2 is a Red Dot Award winning AI facial tracking gimble",
+      "excerpt": "The stabilizer draws its inspiration from the ‘Bionic Owl design’ and comes with highlight features like high AI recognition, fast-tracking, and automatic following. Its AI tracking is capable of tracking the face and body of the subject even when they ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/",
+      "originalUrl": "https://www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/05/20220428153603.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/?amp=1",
+      "publishedDateTime": "2022-05-07T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-07-revealed-intels-plan-to-sell-software-simplifying-computer-vision-training.md",
       "title": "Revealed: Intel's plan to sell software simplifying computer vision training",
       "excerpt": "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register. The software, code-named Sonoma Creek ...",
@@ -1304,49 +1356,6 @@
       "provider": {
         "name": "The Victoria Advocate",
         "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report.md",
-      "title": "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report",
-      "excerpt": "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine.",
-      "sourceUrl": null,
-      "webUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/",
-      "originalUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox2now.com/wp-content/uploads/sites/14/2022/04/UkraineTanksAP22091745245082.jpg?w=1280",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/",
-      "cdnAmpWebUrl": "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/",
-      "publishedDateTime": "2022-04-18T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox2Now St. Louis",
-        "domain": "fox2now.com",
         "images": null,
         "publishers": null,
         "authors": null

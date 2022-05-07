@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
 type: article
 quality: 108
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Finbots.AI Raises $3M in Series A Financing"
+    excerpt: "Finbots.AI, a Singapore-based AI-based company that brings innovation to banks and financial institutions, raised $3m in Series A funding. Accel made the investment from Fund VII. The funds will be used to accelerate product improvement, marketing and ..."
+    publishedDateTime: 2022-05-04T23:01:00Z
+    webUrl: "https://www.finsmes.com/2022/05/finbots-ai-raises-3m-in-series-a-financing.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech21.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "SRCWZsjySNtGDfMptBozsaZcGE3Oqy7gz3UGFgR+joHEkU4dIRnAsbPVHbng2/BB7N7KYwi7ImY6ydwoeZN7l1fniE7EYlKFAGt4OQPAo/UExWBQqpvH2UXD3gNCM39jcZKYpfHC1P2e91aj2SYW2NjnqpVV1/Yh/kcpIfIUrWZKs49U7ATXzfTPPtAOv0EoWE8G6j4lYWejXGk94/lxwIYjp9M3eSUSuJGZsjv2Uyea+y3Kd1A0Gyz3sh9NdaXJUMRolgI1pKMs3xU395Z+texA20qJxPkcBMnP0RrMyCCKWmNCd2Ayb0haV29qOAiY5wk1Qyy5DvP0y0LH0wonBotNvBAno5QqMlqkOKliq3ZbFl09Mt8udpUCVTeABmJ4UfnDAJ9BB1Q+9vHFFUJ8YwVg0fHacutj5Y7UfbqGk6jKBCwurf5YXL8pRdh4cOg0yCvMisZVfW4KpuBEbiS/xbbiQ2L3EUa29XgoYuzopguiHAD81DcBOIHV5Bxgp+QgNtZgNa4jduEhjeapaTWrpg==;orxrLhBjT3kXlqXhH3zQEg=="
 ---

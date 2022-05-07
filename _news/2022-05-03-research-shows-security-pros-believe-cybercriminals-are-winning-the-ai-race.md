@@ -56,6 +56,20 @@ related:
         width: 6000
         height: 3750
         isCached: true
+  - title: "Arcanna.ai Bolsters Executive Team and Advisory Board to Drive Growth of AI-Assisted Cybersecurity Platform for SOC Teams"
+    excerpt: "Arcanna.ai, leading provider of an AI-Assisted Cybersecurity platform, has assembled a team of cybersecurity experts with decades of experience and a plethora of accolades to help steer its company vision and growth with their security know-how and engineering acuity."
+    publishedDateTime: 2022-05-05T15:03:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220505LA46544/arcanna-ai-bolsters-executive-team-and-advisory-board-to-drive-growth-of-ai-assisted-cybersecurity-platform-for-soc-teams/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 12
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "W-S startup Salem Cyber, promising ‘a paradigm shift’ in cybersecurity, raises $250K seed round"
     excerpt: "WINSTON-SALEM – The Winston-Salem-based cybersecurity startup Salem Cyber has closed ... Salem Cyber’s product, Salem, is best thought of as an AI cybersecurity analyst, according to the ..."
     publishedDateTime: 2022-05-03T18:31:00Z
@@ -65,15 +79,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 5
-  - title: "Arcanna.ai Bolsters Executive Team and Advisory Board to Drive Growth of AI-Assisted Cybersecurity Platform for SOC Teams"
-    excerpt: "Arcanna.ai, leading provider of an AI-Assisted Cybersecurity platform, has assembled a team of cybersecurity experts with decades of experience and a plethora of accolades to help steer its company vision and growth with their security know-how and engineering acuity."
-    publishedDateTime: 2022-05-05T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/05/9596387.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "EWAs5Zu9STqa+EktGjHhjoKDqFc6KBo2FQ1/vWhk/2ULogovpVqQsKYt9TKClmv9Kga9r6lXh76L9XKjYE9wJdNeHcnE5TeMHezo4hweQyoPyKtKbRfjryOReMxHacC1Fz8Na+4V4j0yjtfeJcrfhxgCVPKxqZTEEfsxl2gfTyJPTZTtO+8H72myvM3taz0AB9/zsBwAjlKbUObQdoRStnVpR7jvhn3aPkzs++3I9RCzRps26YQukfGpdGFYc45Rr9dwtVlyzTh2Rc9TYRapTzzjU0f4n/HWd+I5SD9ycsgkVB/wVY8j8Fqb8Ha9+hhxdikWllqSPNw4z2kzOa2qpOUjZNNrdhw84GR2x1i4gJk=;bvc2U520RqtTWmogV71/hQ=="
 ---

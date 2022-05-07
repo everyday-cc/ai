@@ -22,7 +22,7 @@ related:
   - title: "How Fintech Can Help You Manage Your Personal Finances"
     excerpt: "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions."
     publishedDateTime: 2022-05-02T20:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse"
+    webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
     ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
     type: article
@@ -101,6 +101,20 @@ related:
       - url: "https://emerging-europe.com/wp-content/uploads/2022/05/bigstock-prague-czech-republic-421448603.jpeg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "How Technology is Preventing Market Abuse in Fintech"
+    excerpt: "Jordan Domash is the GM of Relativity - a leading regtech that specialises in fintech data management, discusses market protection through technology"
+    publishedDateTime: 2022-05-07T08:08:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-technology-is-preventing-market-abuse-in-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/6819b2eb10f6ca722d7b309ca0e71219:b72e7b07587b543bd0d419642a335bbf/gettyimages-1335295270.jpg.jpg"
+        width: 1799
+        height: 1010
         isCached: true
   - title: "T3 2022 recap: Top takeaways from the adviser fintech conference"
     excerpt: "After the Covid-19 delta variant cancelled the 2021 event, the T3 conference made its long-awaited return this week in Denton, Texas."

@@ -39,6 +39,17 @@ related:
         width: 957
         height: 718
         isCached: true
+  - title: "Canada should limit police use of facial recognition technology, say privacy commissioners"
+    excerpt: "Parliament should limit Canadian police use of facial recognition technology to closely defined circumstances such as serious crimes, the country’s federal, provincial, and territorial privacy commissioners said today. Their statement was released as ..."
+    publishedDateTime: 2022-05-02T17:36:00Z
+    webUrl: "https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311"
+    ampWebUrl: "https://www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canada-should-limit-police-use-of-facial-recognition-technology-say-privacy-commissioners/482311?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 29
   - title: "Law enforcement use of facial-recognition technology must be limited: Privacy Commissioner of Canada"
     excerpt: "Current laws regulating the use of facial recognition software do not offer sufficient protection against the risks the technology creates,” Canada’s Privacy Commissioner said while appearing before Parliament’s Standing Committee on Access to Information,"
     publishedDateTime: 2022-05-06T21:08:00Z
@@ -53,6 +64,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Time to talk specifics of new facial recognition legislation, Canadian privacy authorities say"
+    excerpt: "Lawmakers in Canada are being urged by privacy authorities to pass new laws to protect people from the risks associated with facial recognition, while also allowing it to be used by police in certain situations. Canadian Privacy Commissioner Daniel ..."
+    publishedDateTime: 2022-05-02T18:20:00Z
+    webUrl: "https://www.biometricupdate.com/202205/time-to-talk-specifics-of-new-facial-recognition-legislation-canadian-privacy-authorities-say"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 7
 
 secured: "jLWBAD3FCuwYd8R4sVvBgIOlEdNOemGdXXHebZLidIn2C7nt/ljZRuopLJERRLVoJPFnV6IZyyUAIQWFWZQecT9jjOpziEfwheoT8LWo8zFNZEa7Vwr8/qF71XvYQxHhB1IfLEkLoVvUuqr2jNDyFtwEvQ6DO5ILCFxHoc2lT9rmfbm3aDXu81OVxnf5s6qVckcapPISVQ9EhN54pKv2gEQ4zbBwm+BG8myoRK96Q0B/6kd7M5iYbXxRy+aZThtrIO/fbVEC2XisPSG/cIromurJnFwD0wRpvyFb+SVf7zDWgyKCZCLdgBNDPtRp84WxmiLYuaO7tJQnwDjMD071bEo3qofAYpK6qNUkPqgFBtnNW8ZJ7fG2eJLdrSv6Eu7oTp+uN2Dp3OJ0QVGen7gOIKDAVIFKAsCDJSN7ITBQI7ZLR3CBcF0lQd3bV8ntZ5i9i/I2pQfVyq5Nrt3SKHbTK+DJuODlrkWcMHsA/66XBwiTMxTqNrGMpH0zN9QxBFkIQKYcNlUj7W/ALnE573O2ng==;sKkgitxFKvMC7xZKhI5wFw=="
 ---

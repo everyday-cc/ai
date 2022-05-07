@@ -3,13 +3,13 @@ category: news
 title: "How Fintech Can Help You Manage Your Personal Finances"
 excerpt: "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions."
 publishedDateTime: 2022-05-02T20:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse"
-webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?bingParse"
+originalUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
+webUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances"
 ampWebUrl: "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp"
 type: article
 quality: 69
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "How Technology is Preventing Market Abuse in Fintech"
+    excerpt: "Jordan Domash is the GM of Relativity - a leading regtech that specialises in fintech data management, discusses market protection through technology"
+    publishedDateTime: 2022-05-07T08:08:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-technology-is-preventing-market-abuse-in-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/6819b2eb10f6ca722d7b309ca0e71219:b72e7b07587b543bd0d419642a335bbf/gettyimages-1335295270.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
   - title: "Upstart: Huge Upside For This Rapidly Growing Fintech"
     excerpt: "Upstart is a small fintech company focused on using AI to automate the loan approval process. The company has experienced rapid growth, leading to a blow off top in 2021. The froth has come out of ..."
     publishedDateTime: 2022-05-04T12:00:00Z
@@ -121,6 +135,6 @@ related:
       domain: crowdfundinsider.com
     quality: 0
 
-secured: "/HceG+oME7E6TPKGIlAAO30/qn26IqrsC4GD0TtuGdHb4f8S1vS0ZHaJcJsRbBQQkzct5txgA8sFFmOaV3QCo287VX6S+PiR8cqkhCy40sgJPPYMZyzKKa6rChyPk9PrhD2wrgp3Loptr88ZTXoExTxEu4xoPUm+/XGej8c/ZWIICur5ZJgXRubQz7Clk+0cpqyCpIPd1hvqKFkOeTsPb51iFkJwZhgFFEUb5wPXOTdBH8EAJnbHFBZaBTEcqEiAhiZBxx9301JDl/y00hA6LW/zs64CKYWUZH7eBQbRaWdzZ7QcwBNzOkVfu3iU1MDtkKHFSU9q15KuqIDOFx+oiWhYBklx0WraWi+WkYfWn3I=;fWHRFIDUwkbrtoR/R0/Gqw=="
+secured: "+aIdoM8/5iTLwKhkUFGjrX+KcHRY0vdv9u+B28G3bTzS7XXJDhFJZOxnu52uBrRaYT2rOC97X8NdNtKvL2rEd4YEBKdG9Ku5PqHMs07vi/3YwSNI7BgPe3mopCuvw138WmfiTDclSB512Iq6fSZDSVEDteZqL79tl4nMqSoZUP99kTeCJ3RO+JhUmaFFMI7lbDak4maeY8tMH2rxGWYBPy2UzmfDBXDSxaBiZpgevgCrVBKCHJ7R34OCRTgmj/KdWi5y8tZoFpm6XTvez8mVaGanl81oejXJetz1iPgAKjUnBD95FVLQcptr+PQSyf+xnaKkQBTfZYV92/WGPhn44qky3DHL6ANwcITkn2HkglY=;Wdy6isw7v3AQOoDeiuxpSA=="
 ---
 
