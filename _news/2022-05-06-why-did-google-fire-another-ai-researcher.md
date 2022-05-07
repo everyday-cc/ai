@@ -44,22 +44,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 84
-  - title: "Google fires another researcher as it confronts challenges with AI"
-    excerpt: "The methods described in the Nature paper are touted to generate chip floorplans in under 6 hours as opposed to the months it takes for humans to do the same. But while the results have yet to speak for themselves in wider practice, it's pretty clear that ..."
-    publishedDateTime: 2022-05-02T23:34:00Z
-    webUrl: "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challenges-with-ai/"
-    ampWebUrl: "https://www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challenges-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-fires-another-researcher-as-it-confronts-challenges-with-ai/amp/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 59
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/05/google-boston-2018.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
   - title: "Google is embroiled in internal struggle over AI research"
     excerpt: "The current episode began when Google scientists Azalia Mirhoseini and Anna Goldie published “A graph placement methodology for fast chip design” in the scientific journal Nature in June. They observed that AI could perform a critical phase in the ..."
     publishedDateTime: 2022-05-03T13:29:00Z

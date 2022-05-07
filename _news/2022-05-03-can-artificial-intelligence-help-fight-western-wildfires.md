@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/products/can-artificial-intelligence-help-fi
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -40,6 +40,20 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Artificial intelligence tapped to fight Western wildfires"
+    excerpt: "Lockheed Martin Space is tapping decades of experience of managing satellites and providing information for the U.S. military to offer more accurate data quicker to ground crews."
+    publishedDateTime: 2022-05-07T17:05:00Z
+    webUrl: "https://www.pressherald.com/2022/05/07/artificial-intelligence-tapped-to-fight-western-wildfires/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 37
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/4/2022/05/Spring_Wildfires_19635-1651943151.jpg"
+        width: 1000
+        height: 626
         isCached: true
 
 secured: "EY1qve07P/dI+1DpIcquCYg/Zqk08sgxJhk0hQNVr7MtCh3o3Jdj0Cg1nSEx9sfrNeo8w8ZCZ1zwbU4tcdZSUh8j7m5Wn9XQCaE2jRDASd/+doMWmPv8c335/eiO6vdE0zGXJIz5obayZAjXg9AhYzjfNGHx+QH4rrxhHX0C/TyZ0SSXxUuIvA8gcO4SFD51AVkAIroN7p7epCgnKdUWmfeQ5LowbvzxAtWIpBUzLMjKr/6FxWhIWikUQ+OnxTy9Ea0TXJBY91NmwfpvjeFv/yTAvDtYgulj1lwprjulhCxgMCmr//WmfznmW03Qa+mo+Erf1cld+pd8xw9LQVF3IhREw7yYkt2rRKkYLdUB7H0=;JLVaGD1VQ05TgWqTEssLsw=="

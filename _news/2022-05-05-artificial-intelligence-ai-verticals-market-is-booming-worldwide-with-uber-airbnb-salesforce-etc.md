@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Upstart Announces Upstart AI Lending for Salesforce on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
+  - title: "Upstart Announces Upstart AI Lending for Salesforce on Salesforce AppExchange, the World’s Leading Enterprise Cloud Marketplace"
     excerpt: "Upstart (NASDAQ: UPST), a leading artificial intelligence (AI) lending platform, today announced Upstart AI Lending for Salesforce on Salesforce AppExchange. Aimed to bring AI-enabled lending to the financial services industry, this integration can help ..."
-    publishedDateTime: 2022-05-04T13:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-upstart-announces-upstart-ai-lending-salesforce-salesforce-appexchange-/2022/05/04/9595526.htm"
+    publishedDateTime: 2022-05-04T13:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-financial-services-san-mateo-3505a1ee2e8844c892d18ff7ccc27a1b"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "X9KXzPT0kYgskOultEuBy/u+pOfZPRDw6o869Ln4Qkhh9qwNqpUw7nsYnTCFOxMQzL7zLPPaeteR63dJlmF8Aj4yZtQ66nsKVuJNGtGwWwUqdBddNLSX2tBPkpeM5Zivs+KwdHwuOEpxPx1P/d/Ka1yqR84NNCxOn+j5JMcswdWe0K853OhpjGpD18i2WUP6A+40ASwjtLKwGpkW03mNTs8a+TLkTMvQ+UfrrbV+0THWS6l8jtUyRMIegizMmEngVbWdSkFTwPkw99lbxBNw7W10aM5/rT9ghK8+NBKVuGQRDiRXKDfMvFY1UiT3gIpvSdFH+RvxzsOW1jM9SCL3ZkHU7vLQhsE9MmCh3MNZDIk=;r/0Mp3Y3elj0c03NcO6AVg=="
 ---

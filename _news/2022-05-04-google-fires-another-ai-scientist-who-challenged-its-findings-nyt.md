@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google fires another AI researcher who reportedly challenged findings (updated)"
-    excerpt: "Google is still firing AI researchers amid criticism of its work. The New York Times has learned Google fired machine learning scientist Satrajit Chatterjee in March, soon after it refused to publish a paper Chatterjee and others wrote challenging earlier ..."
-    publishedDateTime: 2022-05-03T00:38:00Z
-    webUrl: "https://www.engadget.com/google-fires-ai-researcher-over-paper-challenge-132640478.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 65
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/279d0180-9a68-11ec-bff7-019e5671d63d"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "Another firing among Google’s AI Brain trust, and more discord"
     excerpt: "Tension among Google’s AI researchers reflects much larger struggles across the ... which the paper said could improve the design of computer chips. The technology was hailed as a breakthrough for artificial intelligence and a vast improvement to ..."
     publishedDateTime: 2022-05-03T04:33:00Z

@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bestgamingpro.com/wp-content/uploads/2022/04/Facebook-Parent-Meta-Is-Studying-the-Human-Brain-to-Improve-AI.png"

@@ -38,6 +38,20 @@ related:
         width: 1140
         height: 540
         isCached: true
+  - title: "Pajamas at work? AI startup offers deepfake wardrobe for meetings"
+    excerpt: "With video conferencing becoming an essential work tool amid the coronavirus pandemic, a Tokyo-based startup has developed a way to digitally make users look professional even when they had just rolled out of bed."
+    publishedDateTime: 2022-05-07T15:04:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/Pajamas-at-work-AI-startup-offers-deepfake-wardrobe-for-meetings"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F1%252F1%252F4%252F40164117-1-eng-GB%252Fphoto_SXM2022042100011275.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "EU committees propose strengthened AI Act tougher on biometric surveillance"
     excerpt: "The Act is intended to govern the development and deployment of AI to safeguard citizens while ensuring the technology would be seen as trustworthy."
     publishedDateTime: 2022-05-06T22:15:00Z

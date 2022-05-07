@@ -7,7 +7,7 @@ originalUrl: "https://ktla.com/business/press-releases/cision/20220505LA46544/ar
 webUrl: "https://ktla.com/business/press-releases/cision/20220505LA46544/arcanna-ai-bolsters-executive-team-and-advisory-board-to-drive-growth-of-ai-assisted-cybersecurity-platform-for-soc-teams/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -24,47 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "15 Ways To Leverage And Supplement AI In Your Cybersecurity Efforts"
-    excerpt: "With an increasing number of companies shifting to remote and hybrid work models, cybersecurity must remain a top priority."
-    publishedDateTime: 2022-05-05T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/05/15-ways-to-leverage-and-supplement-ai-in-your-cybersecurity-efforts/"
+  - title: "Cardinality.ai Expands Executive Leadership Team with addition of New Chief Growth Officer & Chief Administrative Officer"
+    excerpt: "Peter Allen & Anna Harper join Cardinality executive leadership team to accelerate growth and deliver highest level of customer satisfaction"
+    publishedDateTime: 2022-05-05T18:07:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cardinality-ai-expands-executive-leadership-team-with-addition-of-new-chief-growth-officer-chief-administrative/article_52104a7a-ae20-5417-b9b2-9d4fa73c3ddf.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "AI for Cybersecurity Shimmers With Promise, But Challenges Abound"
-    excerpt: "Companies see AI-powered cybersecurity tools and systems as the future, but at present nearly 90% of them say they face significant hurdles in making use of them. Companies are quickly adopting cybersecurity products and systems that incorporate artificial ..."
-    publishedDateTime: 2022-05-04T15:01:00Z
-    webUrl: "https://www.darkreading.com/analytics/ai-cybersecurity-promise-challenges"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 37
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 12
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb6687ab4f4eb2185/62729421726e3315b16b4089/ArtificialIntelligence-MasPix-Alamy.jpg"
-        width: 6000
-        height: 3750
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Research Shows Security Pros Believe Cybercriminals are Winning the AI Race"
-    excerpt: "Findings also reveal the extent to which organizations are struggling to effectively implement AI to aid and augment cybersecurity efforts, with more than 50% having to undertake major changes, or reset and start over. The research, conducted by Wakefield ..."
-    publishedDateTime: 2022-05-03T13:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-9eb67165da90b4fd2052ced263756d0c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-  - title: "W-S startup Salem Cyber, promising ‘a paradigm shift’ in cybersecurity, raises $250K seed round"
-    excerpt: "WINSTON-SALEM – The Winston-Salem-based cybersecurity startup Salem Cyber has closed ... Salem Cyber’s product, Salem, is best thought of as an AI cybersecurity analyst, according to the ..."
-    publishedDateTime: 2022-05-03T18:31:00Z
-    webUrl: "https://wraltechwire.com/2022/05/03/w-s-startup-salem-cyber-promising-a-paradigm-shift-in-cybersecurity-raises-250k-seed-round/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 5
 
 secured: "QFDZYa9B6DUanQcFEVqyLLoN5RQJLmzGAwlBBpLX0cmt0yfe3GLVaUPIkpTaI7PAuNAp8PbgDqjFmSNLprf1dwpUb3QxQJZNOOoblVNvi5EZtKSMiQfSNTsnXZNibZfv47yFT/VVY9knp87jHrFEnRsUO9RsjbNMEbJHnHULjok32m3YrAsRPyW6Je36qmYGlgnNl7vxSkGw25mPp9IAeSN4AQybpkPgeqqUIWNPbF+D9f5/uemTK+t7zIBKU+ImZPcSI2saXK9/7Zksc2aV+uK0jUeZEdWN2gJZ2m5M6SrY/hZyCAR5dnpiOnW5S6wpX6aCyP9yNYYXHwIIluS5LA9tVfHPWo7na65UCxTJPvk=;+7O1Gpv0q4fmLEmhWQH0fA=="
 ---

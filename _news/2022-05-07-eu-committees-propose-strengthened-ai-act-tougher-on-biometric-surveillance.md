@@ -38,6 +38,20 @@ related:
         width: 1140
         height: 540
         isCached: true
+  - title: "Pajamas at work? AI startup offers deepfake wardrobe for meetings"
+    excerpt: "With video conferencing becoming an essential work tool amid the coronavirus pandemic, a Tokyo-based startup has developed a way to digitally make users look professional even when they had just rolled out of bed."
+    publishedDateTime: 2022-05-07T15:04:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/Pajamas-at-work-AI-startup-offers-deepfake-wardrobe-for-meetings"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F1%252F1%252F4%252F40164117-1-eng-GB%252Fphoto_SXM2022042100011275.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "authID.ai achieves perfect score for ISO Level 2 biometric presentation attack detection"
     excerpt: "LONG BEACH, NY , May 03, 2022 (GLOBE NEWSWIRE) -- authID.ai [Nasdaq: AUID], a leading provider of secure, mobile, biometric identity authentication solutions,has announced that the company’s Verified™ platform has achieved conformance with ISO ..."
     publishedDateTime: 2022-05-03T21:52:00Z

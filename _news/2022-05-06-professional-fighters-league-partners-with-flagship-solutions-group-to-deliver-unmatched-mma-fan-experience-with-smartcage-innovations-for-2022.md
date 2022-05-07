@@ -1,28 +1,38 @@
 ---
 category: news
 title: "PROFESSIONAL FIGHTERS LEAGUE PARTNERS WITH FLAGSHIP SOLUTIONS GROUP TO DELIVER UNMATCHED MMA FAN EXPERIENCE WITH SMARTCAGE INNOVATIONS FOR 2022 ..."
-excerpt: "The Professional Fighters League, the fastest growing and most innovative sports league, today announced it is partnering with Flagship Solutions Group, an IBM Gold Business Partner, for the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA."
-publishedDateTime: 2022-05-06T03:57:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with/article_95c73abf-2117-5e5b-88fb-fad6ad38f991.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with/article_95c73abf-2117-5e5b-88fb-fad6ad38f991.html"
+excerpt: "an IBM Gold Business Partner, for the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA. Under the agreement, the league ..."
+publishedDateTime: 2022-05-06T05:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with-smartcage-innovations-for-2022-season-1031428268"
+webUrl: "https://markets.businessinsider.com/news/stocks/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with-smartcage-innovations-for-2022-season-1031428268"
 type: article
-quality: 0
-heat: -1
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
+images:
+  - url: "https://mma.prnewswire.com/media/1812110/Professional_Fighters_League_Flagship_Solutions_Group.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
 related:
   - title: "PROFESSIONAL FIGHTERS LEAGUE PARTNERS WITH FLAGSHIP GROUP SOLUTIONS TO DELIVER UNMATCHED MMA FAN EXPERIENCE WITH SMARTCAGE INNOVATIONS FOR 2022 ..."
-    excerpt: "Extended partnership to further develop PFL SmartCage and Fighter Performance Rating technology. Working alongside Flagship, PFL is the MMA leader in maximizing a data-centric app"
-    publishedDateTime: 2022-05-05T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-professional-fighters-league-partners-with-flagship-group-solutions-/2022/05/05/9597187.htm"
+    excerpt: "... the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA. Under the agreement, the league will leverage IBM's cloud and Watson technologies to further develop PFL's industry ..."
+    publishedDateTime: 2022-05-05T00:01:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/05/9597187.htm"
     type: article
     provider:
       name: TMCnet
@@ -43,6 +53,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YhsFbV5TlSKqHCbjyyLRtFNQ9y10yZSzjq8bUHXOHj5CZ4BRLk02HhgoOvr5jGf3uSYiPPXjWhIdAXTxSzz45RGxEHAc6cuZUHzOqDRqciQ+2UJlCpNMkO+5t4p2VU21ZAzZ2pDVVsXOM7oJ4Rh8zw6ibkeE4OAJ/mglCHOcXKdVfDsppaNfeJ7t2M9AkgKZJyK5jfnW1OpLcjILrIrMqbtdkVyCrpm/zX1LThWenDtMpgU8BxDyzL13fUvDncmVf9AdDohCo7r+cJMYebCBXYQwvLcducz+aZhYQe+AIkzP3+WHEa4W4dFHTI9KkNOF3QxN5cFjwczIifsFbZ540Qxb37WyC2MZzTDVjKlvCDS8a8N0iDTWF8KNsWsG6+J2uei1J2/k9l2K9QqegdKvUKO/34GUCUOPnqo53VI5fzOOhbZm78Xzk9JPrbIocohZX9ZKlHTO13st8Zx72wDJbeoZUgr0j7Sy9d1pnXhUeeq+ZtjsRAAcp2ixBwnWBAOx34iyBE7+0zBm7p5eguR9RA==;iX8t6Vaev8uRIyonav71Tw=="
+secured: "cbS54o9133Su+H93iOOnJ1IH47Da62UU8xKtuo+9ayweM+lsvF2QMSKYkti+FIgtJwW3nbU8afIPAnaE2zpgWdv7Cm8Af/4VdDlqwtIsA15YaF5IyDUGaJznWZ3kdNCFIj6h8vOI49IYx2OA8hAKt7QykJjrJZdn1UUK2ZTBSxJyWERVOcKsw4ino7hK+ZvD5ePAkmvAKxUpXLO+zO8A7GJDIbWgvTTLg0gAGoom7i++CqCMEWeELGihWmkxsyvzssj3H+i7nrShGGP3CeTvwD5a6teYBdXJyt3LeNNcoWMrsSkW696KnurdIi5yzNzLRFwzV3uN+nHAytuxuzeBxBXmzZeBnITCQUXO4fKueQI=;HCw2rnHXf1mQobsM1pNicQ=="
 ---
 

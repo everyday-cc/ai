@@ -39,6 +39,20 @@ related:
         width: 1140
         height: 540
         isCached: true
+  - title: "Pajamas at work? AI startup offers deepfake wardrobe for meetings"
+    excerpt: "With video conferencing becoming an essential work tool amid the coronavirus pandemic, a Tokyo-based startup has developed a way to digitally make users look professional even when they had just rolled out of bed."
+    publishedDateTime: 2022-05-07T15:04:00Z
+    webUrl: "https://asia.nikkei.com/Business/Technology/Pajamas-at-work-AI-startup-offers-deepfake-wardrobe-for-meetings"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F1%252F1%252F4%252F40164117-1-eng-GB%252Fphoto_SXM2022042100011275.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "EU committees propose strengthened AI Act tougher on biometric surveillance"
     excerpt: "The Act is intended to govern the development and deployment of AI to safeguard citizens while ensuring the technology would be seen as trustworthy."
     publishedDateTime: 2022-05-06T22:15:00Z
@@ -77,6 +91,6 @@ related:
       domain: biometricupdate.com
     quality: 17
 
-secured: "OrG8iA1qzR6zlDRx9rADhrfFtbOHoU41qcYbt8rXJmBmx0ch7HtuyhFRKGKOlouJ/4z1luBclt44U2ivD7OVQFi+ce30oxckohLlQrD1bDdEZMBdxqG7WWCTyUxjFPXIzQqQ6J43nLp05FSulf7H3duujAPJ8UYVx64uEdFsow7NsOGU9bb8455zFCMl3MEwZVNBSunez5/IAyFKFT8s+88gopfeLgGpvrHbczoxkQG+U3Cj9xBEgZgbaAMizrWAwZchClPq9OZWyx9OR2SMuHHaIolbJeusfqj/8HW/x0kKt/sBIHzYesF1E4pOQ7WN6XM7CTd12G6OJd5lESIAo2h3bRZyMJSA7X4qIQT+FIo=;TBIgdMfnjFHxkL7EyxB1yQ=="
+secured: "VrbH6JLgF28YH7aBQAQ9M5z2RWA5ZHUIK/KC/zxklrTBLzWA4mScSkGmF+GD3l5F85EaqO1jqg7InTHIS7suhC8eLgFYHj/T/6lFcMDgDHUG2sgg++sZuaKCwwMXh3hWrWSrUYtDZAq5ApkqBaYdXihWrG/Lvp3CwbULEHAHjVq/r9VsNrOiMdFkZTbkv1sr4U5kBXTZE59zFkKIyi0wH+3jsj96alXJcPimb7vZ0+X86/k/xowuccP+pYwm7Z2UgEe91Yt8Ff6uVs9fBJBNqX/f+rmrMsKYuC1RD+pKs/Orb+T2VmRPDHr3cZw6so2hqYHra2mkl+oWgf6PxKGDIoavZSkpYsIdJIdzlC8w4UCrL8jehALHLxIfOr9ogRbt81BCjtZ0Ey5RaSLIEcouBC5aFQSjfXGRu4YyZ3BWyKtxqf/l56nzX4j2jbPBR+a06eyCGed1fXpuQuGKvsYnqVTUuVwvdMI/bFL716jl23M4mV0DrjatCVzs6wz3Si/51tNBoTaXpFnmmhUXAVromg==;hDdlpOXc1iB2q7AW3IwLkQ=="
 ---
 

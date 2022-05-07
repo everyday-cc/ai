@@ -49,20 +49,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "CIIE CO's Flagship Program Bharat Inclusion Initiative invites application from FinTech Startups for its 6th Financial Inclusion Lab Cohort"
-    excerpt: "Key focus areas for this cohort include embedded fintech serving industries such as dairy ... Qonect, FLYK, Microfinance.ai, Arboreum, MissCallPay, Mool, GreyMatter and Yes!poho that are building inclusive credit, savings, payments and livelihood solutions."
-    publishedDateTime: 2022-05-03T00:09:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272526335/ciie-co-flagship-program-bharat-inclusion-initiative-invites-application-from-fintech-startups-for-its-6th-financial-inclusion-lab-cohort"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1651160231.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "Fcx7Ac5vO8VLNFiXHbWWc+KWXCpadikMBlbxOSmEH3JYIcOzozrfoRHpF1/FvNjhvbX03wE+Kn0H9+1FaMF+IQIz9gvLwTcd9A5zAxMYARKrl9GzzwQk6GAl5U+3odKPWQkbDIHUjh50sxQEHFVhn5hNopwS3ETA5ZjLuISa5TVnRGZzMYqePxELwGTOm4l0GAfRMPptxXpc+Gik3ne2cF9Fj+qrUyRe6dRu4cY3HeQR3/c/lI9Az1v9E0C5qO+yk0shKHSZuAZuG6v2MyCBUAW8pnehpOh7HJGi85hdyt0SOOgCONiGgFIejxQkQY3QcM5W6JLchsetsy0QT+oP3P1lIqSWEOh+VuasnCoO1oM+4Rk+d7geAlIuDhuhtIYTZ9dTj0i8z90Gx+tkvLPnFkky5ZVD9W1ryLTiO+NEwW7FwgHeRud5mcypLC5TFEnIbCSPaY6t67NVACzen8sTcPN2RN+G28+GYZMTqoK1X0d/46809pYKXmPcypwIhWd304QERuv3PHaUtFZvlss0hQ==;gx3IG6rixP4POkRJLTz2nA=="
 ---
