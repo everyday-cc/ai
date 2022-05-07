@@ -62,15 +62,6 @@ related:
         width: 2048
         height: 1812
         isCached: true
-  - title: "Ireland to share face biometrics with EU to tackle crime on wider scale"
-    excerpt: "McEntee said the exchange of facial images will not mean live facial recognition of crowds in public spaces. Nor is using artificial intelligence for facial comparisons currently contemplated. Moreover, she said, Prum II’s router will hold no data ..."
-    publishedDateTime: 2022-05-02T17:59:00Z
-    webUrl: "https://www.biometricupdate.com/202205/ireland-to-share-face-biometrics-with-eu-to-tackle-crime-on-wider-scale"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 4
 
 secured: "YrXxhUFCIfM2RvwtuUi63kqtwd3v9Dvur+yANj1ch91nX1U7i5MvpkC2e0d3Kno7GMAw1PIsX6sWfdPEQ6ro1wStqwxd4Qtb/Jb4PETNgs1cZvOsBdeez4TG8QqILA80cYztMRU0dow0UT9ngy7f5GqNnsL4rOJ21iqxSYvejk2vLXrO2kye8lpqbRbyonVTI8duwkHaZRlC0yFeOI/muGVJCE5o5NmITIxxX49vDWVZ3X5dskVdaXCQxtymveM20rxBm2gp2+7WNtPYbQHyaYXzK/TT+wmlaU4rmnFc2xrU7TDM38KGOd3pNTamixB2aJiFLRJ7XJglgivw5gkg26gdmhx8fGcv/ywWswSQqaE6v6hVFumT/QwxcV4eM1gSyxswvmlqZVNZMVnXTqnMHV5Jt6aw426iJknMHcZj2PJHmjrvrQ5zhA8TcR3LJe02QL4p8nLyHI0x9fvm2DeeGjs2zmSO79aIux80iGnaZlvhGLu7P6jGEL0OrxMgwoYvTUCTbFJCve6R4WwD6FRTxg==;SHkRa/VpNM5oqcL55vxiPA=="
 ---

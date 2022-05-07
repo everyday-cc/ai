@@ -2,6 +2,49 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-03-05-mtsu-among-seven-tennessee-colleges-to-partner-with-amazon-for-free-tuition.md",
+      "title": "MTSU among seven Tennessee colleges to partner with Amazon for free tuition",
+      "excerpt": "Amazon and the institute also sponsored the first DeepRacer event on campus in November, which allowed middle school and high school teams to compete by collecting and assimilating real-time visual data to guide the navigation of autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dnj.com/story/news/2022/03/04/amazon-career-choice-tennessee-united-states-free-tuition-college-mtsu/9378214002/",
+      "originalUrl": "https://www.dnj.com/story/news/2022/03/04/amazon-career-choice-tennessee-united-states-free-tuition-college-mtsu/9378214002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/02/15/USAT/6400450c-6279-4541-b6c1-34a4bf89b0ca-Amazon_associate_box.jpg?auto=webp&crop=5870,3302,x0,y274&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.dnj.com/amp/9378214002",
+      "cdnAmpWebUrl": "https://amp-dnj-com.cdn.ampproject.org/c/s/amp.dnj.com/amp/9378214002",
+      "publishedDateTime": "2022-03-04T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News Journal",
+        "domain": "dnj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-05-ai-all-the-things.md",
       "title": "AI All The Things!",
       "excerpt": "AI is the gateway to achieving the greatest promise technology has to offer. Here are 4 ways AI-powered service operations can reshape the entire IT organization.",
@@ -1134,59 +1177,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-how-ai-protects-machine-identities-in-a-zero-trust-world.md",
-      "title": "How AI protects machine identities in a zero-trust world",
-      "excerpt": "By scanning enterprise networks, bad actors often find unprotected machine identities to exploit, making them a favored attack surface.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/5-How-AI-Is-Protecting-Machine-Identities-In-A-Zero-Trust-World.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/",
-      "publishedDateTime": "2022-03-03T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

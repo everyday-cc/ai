@@ -62,15 +62,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 21
-  - title: "Ireland to share face biometrics with EU to tackle crime on wider scale"
-    excerpt: "McEntee said the exchange of facial images will not mean live facial recognition of crowds in public spaces. Nor is using artificial intelligence for facial comparisons currently contemplated. Moreover, she said, Prum II’s router will hold no data ..."
-    publishedDateTime: 2022-05-02T17:59:00Z
-    webUrl: "https://www.biometricupdate.com/202205/ireland-to-share-face-biometrics-with-eu-to-tackle-crime-on-wider-scale"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 4
 
 secured: "eOA/35RuW4s9FN6YW8vAEpCLtAsqqMRrQFLKH8rTa+z6b7/sMvNJzyMtmhwn04XDLub1nIAmXrjrEYforvshjo+w4Ufq3iShHG45Nqljx6q+vyZ6N8kwqnToOmHamPC2CfL0/n70X5H58l0huucCeJ9bbnuGd2ZSbCRUv2KgG/feD+Ueg0AQczCAjckkUJKj4WR+4Aat/La64DO5QLHdhQIb5msucQPrzfqRkxxqtalNoP/Ic68Lu/fLVat+w4XfSjR0B64UnK51BkUn/Xb6xZM8ERl50WUnWvj6iY7wR1fawwpubfUR7WH+MmFpREn4WQqDWURVMfFuRk6z3qNx7ZaKqu+s0OXE28Ua+Qr7eYN9AAD38D2rjqjUgpp1BAPJHpGLPbp4jKK/FgB6xcQ6wWjqND2q6z7TIqu6ZJJMHPZU2VVTaGu5yzk18iZlp8hcFQtBQ+togDVD3b6SoKMdjnNpqsxsQDuLmxu/zS1QbeZP1BE3pxAuSPIIm3XgT0L/TJgmTTW9ve3qo0cpKxaagw==;EiYrn4xurZ7oRlvFQEoIow=="
 ---

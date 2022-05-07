@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-04-19-afraid-of-public-speaking-this-ai-can-help.md",
+      "title": "Afraid of public speaking? This AI can help",
+      "excerpt": "There's that old Seinfeld joke, the one about public speaking ranking higher than death on people's list of top fears. Seinfeld points out with characteristic deadpan that most funeral attendees would rather be in the casket than give the eulogy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
+      "originalUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ab11aa2d2cce15188b0059a1b92241d6a95f41d9/2022/04/18/55457513-6ed6-4049-9e30-6b232f760de9/conference-crowd.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/",
+      "publishedDateTime": "2022-04-19T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services.md",
       "title": "Microsoft Azure UAE Regions launches four new key services",
       "excerpt": "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE regions. These latest services mean that regional Microsoft Cloud customers now have access to almost all of Azure’s tools,",
@@ -1100,50 +1151,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-elon-musk-there-will-likely-be-a-humanoid-robot-in-every-home-by-2050.md",
-      "title": "Elon Musk: There will likely be a humanoid robot in every home by 2050",
-      "excerpt": "Tesla CEO Elon Musk thinks that the company will have an interesting prototype sometime this year and something interesting within at least two years.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/robots-musk-in-homes",
-      "originalUrl": "https://interestingengineering.com/robots-musk-in-homes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Xm6lJ5z0OD/sizes/tesla-bot_resize_md.jpeg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/robots-musk-in-homes",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/robots-musk-in-homes",
-      "publishedDateTime": "2022-04-18T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

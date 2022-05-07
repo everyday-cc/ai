@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-03T20:17:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-5c8dd925983047ef8f148449fd6ecd6d"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-5c8dd925983047ef8f148449fd6ecd6d"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

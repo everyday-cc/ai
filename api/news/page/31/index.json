@@ -2,6 +2,57 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-04-07-how-ai-and-humans-can-best-collaborate-at-work.md",
+      "title": "How AI and Humans Can Best Collaborate at Work",
+      "excerpt": "Who decides who does what? And how can humans learn to trust AI? Research offers some answers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
+      "originalUrl": "https://www.wsj.com/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-520178/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
+      "publishedDateTime": "2022-04-07T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs.md",
       "title": "Policybazaar, IISc come together to develop automated speech recognition algorithms to effectively address consumer needs",
       "excerpt": "As part of the project Policybazaar would work together with Dr AP Prathosh Assistant Professor at the Department of Electrical Communications Engineering II",
@@ -1076,57 +1127,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-docyt-raises-115m-series-a-for-its-ai-powered-accounting-automation-service.md",
-      "title": "Docyt raises $11.5M Series A for its AI-powered accounting automation service",
-      "excerpt": "Docyt, a startup that offers an AI-powered accounting automation platform for small and medium-sized businesses (SMBs), today announced that it has raised an $11.5 million Series A funding round led by Lobby Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/",
-      "originalUrl": "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5_iqkZLoXCM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/amp/",
-      "publishedDateTime": "2022-04-06T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

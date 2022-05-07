@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices/amp"
 type: article
 quality: 94
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Age of Generative AI - Inventing a New Artificial Intelligence"
+    excerpt: "What is Generative AI, and how does it work? Generative AI employs artificial intelligence (AI) and machine learning techniques to allow robots to create artificially fresh material. The system does this by using existing text, audio files, movies ..."
+    publishedDateTime: 2022-05-06T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/age-generative-ai-inventing-new-artificial-shruti-saraswat"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
 
 secured: "Kb0AsWO+wG6vzzYzV1zFQJNUNIKY/LYro+pQSVpWg1rH3B6ZgIQUoKNMsOc7SVSOxISRCGpqSN8BqPDSVvgERfsDSdFnJIRLJbMfurAd2H8i6CWcz65OCtv0oZGhpdz6UjSQCsd2NbT7JT9S5arZH2uulU1AxWjPzZOokOeOheSL3v3+0Mni10eBZN7KWIJAirwhK70I7dcuICJHef6ONRtoxzdTgtlBz1jVf3BLL/I6YpoE12HWxjoJPSUjrb/9c6RlvKV3dfgP/wnUji/PDQuxX5Q2iPjll6X2ilh5FELMVcmpDJ5UNVxnbuYZoZZAvNMjFfKwlpf480AJWnfcxgNmii3etGSu94WVoi405D8=;NToRWHFAyJl3CEM3UVmGTA=="
 ---

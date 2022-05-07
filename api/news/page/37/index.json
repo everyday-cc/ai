@@ -2,6 +2,40 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-04-02-logingov-plans-to-scale-up-without-facial-recognition-tech-for-now.md",
+      "title": "Login.gov plans to scale up without facial recognition tech – for now",
+      "excerpt": "And although the authentication and identity verification system doesn't currently use facial recognition, budget documents say that Login.gov is still \"exploring ... how to address potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://fcw.com/digital-government/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363948/",
+      "originalUrl": "https://fcw.com/digital-government/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363948/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Federal Computer Week",
+        "domain": "fcw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-snowflake-vs-aws-redshift-data-warehousing-software-comparison.md",
       "title": "Snowflake vs AWS Redshift: Data warehousing software comparison",
       "excerpt": "Snowflake and AWS Redshift are data warehousing software options that would work for companies with different data collection policies. See how the products compare.",
@@ -1105,40 +1139,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-folk-psychology-and-cognitive-architecture.md",
-      "title": "Folk Psychology and Cognitive Architecture",
-      "excerpt": "It has recently been argued that the success of the connectionist program in cognitive science would threaten folk psychology. I articulate and defend a “minimalist” construal of folk psychology that comports well with empirical evidence on the folk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/folk-psychology-and-cognitive-architecture/E0E31B4604053F47067DBB371BF59E1A",
-      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/folk-psychology-and-cognitive-architecture/E0E31B4604053F47067DBB371BF59E1A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

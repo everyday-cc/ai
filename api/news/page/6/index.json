@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-28-amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams.md",
+      "title": "Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams",
+      "excerpt": "Today, AWS announced the general availability of Amazon Rekognition Streaming Video Events, a fully managed service for camera manufacturers and service providers that uses machine learning (ML) to detect objects such as people, pets, and packages in live video streams from connected cameras. Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Tangelo-2x-2-tile-image-with-bounding-boxes.png",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T13:41:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search.md",
       "title": "Open source NLP company Deepset nabs $14M to power ‘plain-English’ enterprise search",
       "excerpt": "Deepset has built an open source NLP framework called Haystack, which helps companies build pipelines to power plain-English data queries.",
@@ -795,7 +848,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1183,49 +1237,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-fintech-startup-finbotsai-raises-3-mn-from-accel-to-expand-its-asia-footprints.md",
-      "title": "Fintech Startup Finbots.AI Raises $3 Mn From Accel To Expand Its Asia Footprints",
-      "excerpt": "Fintech startup Finbots.AI, a venture targeted at banks and financial institutions, has raised $3 Mn in a Series A round from Accel.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/",
-      "originalUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/04/Finbot-Social.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/",
-      "publishedDateTime": "2022-04-28T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

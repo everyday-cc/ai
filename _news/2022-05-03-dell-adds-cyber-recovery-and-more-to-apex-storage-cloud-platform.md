@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://images.techhive.com/images/article/2016/12/hybrid_cloud-100700390-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Dell Technologies Expands Multi-Cloud Experiences Across Cyber Recovery, Data Analytics and Partner Ecosystem"
-    excerpt: "The new service will join a broad portfolio of Dell offerings available through Microsoft Azure Marketplace and will allow organizations ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose and speed ..."
-    publishedDateTime: 2022-05-02T17:19:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n26940023/dell-technologies-expands-multi-cloud-experiences-across-cyber-recovery-data-analytics-and-partner"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26940023"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26940023"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Dell anchors multi-cloud cyber recovery to APEX"
     excerpt: "Notably, the release of Dell PowerProtect Cyber Recovery for Microsoft Azure will aim to allow businesses opportunity ... as well as implementing machine learning and forensic tools to \"detect, diagnose and speed up\" data recovery. This also extends ..."

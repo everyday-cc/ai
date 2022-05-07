@@ -7,7 +7,7 @@ originalUrl: "https://hypebeast.com/2022/5/meta-project-cambria-vr-headset-roadm
 webUrl: "https://hypebeast.com/2022/5/meta-project-cambria-vr-headset-roadmap-info"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 960
     height: 480
     isCached: true
-
-related:
-  - title: "Meta's Project Cambria VR headset likened to 'a laptop for the face'"
-    excerpt: "When it announced Cambria in October 2021, Meta said the headset will include eye-tracking and facial expression recognition features. Users' avatars in the likes of Horizon Worlds and Workrooms will reportedly mirror their expressions and where they're ..."
-    publishedDateTime: 2022-05-02T18:46:00Z
-    webUrl: "https://www.engadget.com/meta-project-cambria-details-vr-headset-roadmap-181023351.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 34
 
 secured: "1mWSOMCCN33j8+uQqRrf5XXRlELNbRQRHrO2+OVXLECatsladqWFxBSW5ZbzENMZt36DtVqNudDZMwxShwYnH9aP8+bv0B3KqZZ+WT3lCWrhK0AAHRzIj5DjGT/8qjfUGqTpG92yREIA13tBjPoDAInj177LjxWfkQU+xvqVh3ccpZ8ZFrOno8G5KyPiKbhf6kbpusAEbDZUhVqHtKLymqLUxaFqa0eI1P6dgBGGHovG1ozkYFQCXx7bQpj7BN5R7uviDFwWk/08Rko9mPl7o1JtoQihplZuEhbr16xLvqFirYYisUwZ2fUhl72bh6ZqdT/S06fZRqGFeQteSeMxeye63A060whslNUcSno1qIlVwXzdHeVtldrP+P1IMyyWC8rXmSzkLDeRPsPcf9Kx/1BjsG2ii6ekMTjqoxBDK3PO7DOXC2iIDy/Ha7vAcHp3BfCTHVnVhMsXswh9LlDhWbdrhj9OLPVg3zXW2R7TmZ7L/Njtu0aOQmpFUOkkgz7OSRM2228gl8yacbLDbRlSpw==;l0qm3HvDA9qcuA1jS3D+DQ=="
 ---

@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Dell Technologies Expands Multi-Cloud Experiences Across Cyber Recovery, Data Analytics and Partner Ecosystem"
-    excerpt: "The new service will join a broad portfolio of Dell offerings available through Microsoft Azure Marketplace and will allow organizations ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose and speed ..."
-    publishedDateTime: 2022-05-02T17:19:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n26940023/dell-technologies-expands-multi-cloud-experiences-across-cyber-recovery-data-analytics-and-partner"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26940023"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26940023"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "PX3NkQ88YxIJ5WDJsttxEysFQj6s0NLKZsQBYvK1etcCT8j/GGQDJ7VCRhJ/zw9IBBq9LEvoLbqMbnZDxH0FLRHHVH/2fFoj8a1Ro7mNypUgecE606XsBNdekUM8tRwqpuiGyXOnm+nYdYZWViLNCvusa+4z+YvGEOWETXyLgnJufv26/vXm4rHRpkQ0952xwzNP9EhfRG7rsPjIv1XL+lah5AwOyh7LqSPUegZYC/OOK4ugbsPwPcPfZiO00R/7hMib82Mmg005J9Tbf/PKpnJBRQRpTQszNbabqYwGWDf4U0r3zm+OB+OK2JCr5DJ+hhjkYfs3YGmKSqA/57Lmx1I89C27dg9OSV7uodct70MU735LjG1W/+0gOAxj3hdwk/GXBiNwW7/msnBXpYWzbyf2JLwO1qAltl7/3UK9qmAedutwz4B/86Tsrn4g/67PE8whZl0H1emJIa21XcVbd+qsOdoE5gGDd7emFN97aT/glcg5Kzfq5n7Z92xNPTHWBGAXBJUJKC+N0FyYCMgVIA==;+AALasR8L52ockBSPFLncQ=="
 ---

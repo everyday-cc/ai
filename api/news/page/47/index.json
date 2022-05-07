@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-03-25-riding-in-mercedes-luxurious-self-driving-car-of-the-future.md",
+      "title": "Riding in Mercedes' luxurious, self-driving car of the future",
+      "excerpt": "These questions are all central to the design and philosophy of the F 015, which is less about self-driving technology than it is a thought experiment on how autonomous driving will fit in our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2015-03-25-mercedes-f015-luxury-self-driving-car.html",
+      "originalUrl": "https://www.engadget.com/2015-03-25-mercedes-f015-luxury-self-driving-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/SgwtzBPrASG87Ik.p8Q2CQ--~B/aD01Nzk7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/bd822fddcb7f36246d355a41ea02f7ed/201727922/merc.JPG",
+          "width": 960,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/2015-03-25-mercedes-f015-luxury-self-driving-car.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2015-03-25-mercedes-f015-luxury-self-driving-car.html",
+      "publishedDateTime": "2022-03-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-siw-tech-notes-from-isc-west-2022-day-2.md",
       "title": "SIW Tech Notes from ISC West 2022 – Day 2",
       "excerpt": "The BLK247 includes a multi-stream processor, and is packed with sensors, the output of each can be overlayed on each (see figure), providing the user with maximum recognition potential through ...",
@@ -1122,57 +1174,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-ai-can-make-us-more-human-heres-how.md",
-      "title": "AI Can Make Us More Human: Here’s How",
-      "excerpt": "Even though it may sound counterintuitive, when used responsibly, AI has the potential to help organizations get more personal and do better for their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623b26993128a10083ba50ab/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/amp/",
-      "publishedDateTime": "2022-03-24T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
