@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 570
         isCached: true
+  - title: "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022"
+    excerpt: "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ..."
+    publishedDateTime: 2022-05-05T12:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 48
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Smarter Sorting Named Winner in the AI and Data Category of Fast Company's 2022 World Changing Ideas Awards"
     excerpt: "From a 3D printed vaccine patch to an electric truck, a seawater-powered lamp to using data and math to eliminate testing on animals, the sixth annual awards honor the products, concepts ..."
     publishedDateTime: 2022-05-03T11:31:00Z

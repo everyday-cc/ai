@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Merger of AI, IoT new buzzword for rapid digital transformation"
+    excerpt: "CHEN YUYU/FOR CHINA DAILY Artificial intelligence and the internet of things will see wider industrial applications in China as more local companies are speeding up digital transformation and deploying innovative technologies to improve operational efficiency and reduce costs,"
+    publishedDateTime: 2022-05-06T02:20:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202205/06/WS62745851a310fd2b29e5adf7.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 37
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202205/06/627472c2a310fd2bec8745dd.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "NTT And Grok Team Up To Transform The Network With Artificial Intelligence-Designed, Data-Driven Operations"
     excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations   S"
     publishedDateTime: 2022-05-05T11:03:00Z

@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "Dell Technologies World 2022: Dell unveils security offerings for major cloud providers"
-    excerpt: "Dell PowerProtect Cyber Recovery for Microsoft Azure' and 'CyberSense for Dell PowerProtect ... which will be supported with adaptive analytics, machine learning, and forensic tools. CyberSense for Dell PowerProtect Cyber Recovery for AWS is expected ..."
-    publishedDateTime: 2022-05-03T08:56:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/public-cloud/367553/dell-world-2022-security-offerings-for-major-cloud-providers"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 63
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1651532398/itpro/michael_dell_2022_delltechworld.jpg"
-        width: 1260
-        height: 710
-        isCached: true
 
 secured: "wSKByElDDGQZPnMhgpC/9x3ytIyV1k9UeCOz/fHAqhSaEKH5XOVAJILn9saUa/xlcZ1ER3EDiq+dMMif/1FUUBSldJxsEQHOTFee1mPxLzBao9m1Zn4qCyT17E2N7PkUHiqB8Jb8TibbOMmjY2QoNT1FMPivJqvzdmR6mJakUQT+5dKxjC7IpX+dKR43ICuOuNxVTxNy/wpC49QQxF19+eFwPtz+OQgAlpz1kuWQaOR53XB540NnuPadTMrksydTTsT2cjzkYOxkqqL6k0L0/XsxS8pRxSHq6pALkqlQ7J8lYU+mziPmb0quWwm7kJTPZKqNGdfrz5xnZFcztODKqTYydCl7jnaeusNKsxDQtkSqfCCiRC1/UYbxpdBCiolWqJNsbDbH4vZWpPtBk8FMAiFt39ZXQUzNRSKl6rB8xXmLN3XOo7JdAFswN+0Xy0aq2PSuawHo1vdO6y0qj4LHQGeKXhDe0hxFxQpd+MJTR0hP0p4u2T1i8iI6UA6JbRNUm88J+6jPAvgLu0q0ugKLEQ==;hQmR3gkwRTxdvpTqL+Nagg=="
 ---

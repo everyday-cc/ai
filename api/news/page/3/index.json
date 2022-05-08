@@ -105,6 +105,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-04-3-leading-us-robotics-clusters-create-alliance.md",
+      "title": "3 leading US robotics clusters create alliance",
+      "excerpt": "MassRobotics, Pittsburgh Robotics Network and Silicon Valley Robotics have combined forces to create a cluster alliance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/3-leading-us-robotics-clusters-create-alliance/",
+      "originalUrl": "https://www.therobotreport.com/3-leading-us-robotics-clusters-create-alliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-robotics-clusters.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise.md",
       "title": "Google Fires Another AI Researcher for Questioning Findings, Company Says Otherwise",
       "excerpt": "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ...",
@@ -947,7 +990,7 @@
       "originalUrl": "https://www.reuters.com/article/tech-supplychain/rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2WV0DC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1176,49 +1219,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-one-platform-to-ai-it-all-google-vertex-ai-makes-aiml-simple-in-sa.md",
-      "title": "One platform to AI it all: Google Vertex AI makes AI/ML simple in SA",
-      "excerpt": "Says Van Schalkwyk: “For companies that aren’t ready to build their own custom models just yet, Google offers AutoML as part of VertexAI. AutoML allows you to create high quality custom ML models from your data, whether it’s image data, tabular ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
-      "originalUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/Wza03qX-xmJUelSFZnXHTeP9yo1B46ikfxMDhAlMZI8WgCmyGGoGl_beifZkPUon4b-XWbgvFpbMxhroGzZyvGBv7uautu21Vfs=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/Pero3MZ3A4wqQb6m",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ3A4wqQb6m",
-      "publishedDateTime": "2022-05-02T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

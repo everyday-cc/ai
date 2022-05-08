@@ -7,7 +7,7 @@ originalUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/
 webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/?td=amp-keepreading-top"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -18,31 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Exasol Announces Expanded Capabilities of Its Analytics SaaS Database, Including ETL Integration"
-    excerpt: "Amazon SageMaker extension: Exasol SaaS now supports a SageMaker Extension, enabling users to develop end-to-end machine learning projects on data stored in Exasol using the Amazon SageMaker Autopilot service. Doing so mean users can turn data into ..."
-    publishedDateTime: 2022-05-03T07:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/b26953454/exasol-announces-expanded-capabilities-of-its-analytics-saas-database-including-etl-integration"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26953454"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26953454"
+  - title: "ZeroEyes, Inc. AI Gun Detection Software First Video Analytics Technology to be Awarded DT&E SAFETY Act Designation"
+    excerpt: "U.S. Department of Homeland Security (DHS) Recognizes ZeroEyes AI Software, DeepZero™, as Promising Antiterrorism Technology and Grants Liability Protections for Customers ZeroEyes weapons detection AI is the first video analytics technology to receive ..."
+    publishedDateTime: 2022-05-05T12:28:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zeroeyes-inc-ai-gun-detection-software-first-video-analytics-technology-to-be-awarded-dt-e/article_87b9b44f-f4b6-51fc-8c77-5cddd47093d3.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 15
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/02/902a8dfa-af68-58b8-b854-a9ca2c5d504d/6078391843400.image.jpg?crop=640%2C336%2C0%2C72&resize=640%2C336&order=crop%2Cresize"
+        width: 640
+        height: 336
         isCached: true
-  - title: "Cigniti Technologies to Acquire Aparaa Digital (RoundSqr), an AI/ML, Data Analytics, and Blockchain Engineering Services Company"
-    excerpt: "Aparaa brings integrated enterprise digital transformation and consulting-driven expertise covering a gamut of AI and ML, data engineering, and Blockchain capabilities. RoundSqr’s Zastra (an active learning-AI based data annotation and MLOps platform ..."
-    publishedDateTime: 2022-05-04T15:46:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-4-cigniti-technologies-to-acquire-aparaa-digital-roundsqr-an-aiml-data-analytics-and-blockchain-engineering-services-company"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 5
   - title: "Dell Expands APEX, Adds Analytics And Data Recovery"
     excerpt: "machine learning-based corruption detection, and post-attack forensics. Presumably, the company will be bringing these extended features to its Azure offering at some point in the near future as well."
     publishedDateTime: 2022-05-03T13:30:00Z

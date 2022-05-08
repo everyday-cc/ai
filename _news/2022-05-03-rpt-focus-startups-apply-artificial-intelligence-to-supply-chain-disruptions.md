@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/tech-supplychain/rpt-focus-startup
 webUrl: "https://www.reuters.com/article/tech-supplychain/rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2WV0DC"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "How startups are applying AI to ease supply chain disruptions"
-    excerpt: "Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have combined to delay deliveries of everything from bicycles to pet food. In ..."
-    publishedDateTime: 2022-05-03T08:30:00Z
-    webUrl: "https://insideretail.com.au/technology/how-startups-are-applying-ai-to-ease-supply-chain-disruptions-202205"
-    type: article
-    provider:
-      name: insideretail.com.au
-      domain: insideretail.com.au
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/insideretail.com.au/wp-content/uploads/2022/05/Startup-using-AI-.jpg?fit=720%2C400&#038;ssl=1"
-        width: 720
-        height: 400
-        isCached: true
 
 secured: "izGo7p5BDDaNlc1MhPmqLAitS7UPQa0P64R2C56LfwiqAZ+CXVwEeB1Iw5syP+kPchQR7Z3Toc/4tnv598113+zrmmOPBs9sxfMWRkWbnuN6vUoowowCA1+hi9d4O95jW9SIcuUxGTm+DCaH7uAPsqspCKMucYXXe6Hpg71Fk4DGns0u5wd3lzaduFzCnL5or372Cz3aRhwTVu4kWigFGPXKDrepITyfYc7T8IqWPOZg+dZB/BfpQWtSxT5LkpBdcgwsLPtkkCgn/jYLiWgVjDkcTkjfcMFKlqKbVVEKqWyVNL1JLaVu9W82QGQrphnyoBEFbAIaVaOLQVDGBJBcIJ5Nlg2Ggd0+83zkdeXR+p0=;WuzoMBoUPbeWD5R5X77LZQ=="
 ---

@@ -1,24 +1,48 @@
 ---
 category: news
-title: "Startups Apply Artificial Intelligence to Supply Chain Disruptions"
-excerpt: "LONDON (Reuters) - Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have ..."
-publishedDateTime: 2022-05-03T06:21:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
+title: "Startups apply artificial intelligence to supply chain disruptions"
+excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
+publishedDateTime: 2022-05-03T10:00:00Z
+originalUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
+webUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
 type: article
+quality: 82
+heat: -1
+published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "CA1oUQW9rh5QZ2iXrkMWh0Fr1f9D7y2lepgOofmezuYUZikDsbWsGHxrenLd0Sfg5fGkPhUvu9oYj+C2H9OI/NNe5KEFSc1hynb5jI5Ow+cO1E9iX5IPQv09zapwEMzaSNpElxQ2UuEU+MoQvZuoP0bJPPftxnZVbP9n8rgQ8DhXdMNAkjm7o+0wMXd/JcDxWWbiZ6Lr+nCl2cY2OCi8Ddqoqu4+HV0JR4cDNKPzoRHlDFD/RcLL6nu4MrIXjoRn7unU0qnwwqngW894p4Pefk2wEOA+Hu5z2bDt3AOHiCzIbbzQngKBk+TU9lolz1N410loZ8a/Qf5Xdsczg3Ix9iYfVOOiDLyBeYU3/Vt+l0IwyWA7RhWA5kSnF85d7HVS66T2SprkcKhWfeZuLr+Gb1SgqZUSHxk7mAhW8Rr6+7F44vJFKBWCfMIbYp2G+201pj+oUiZd3TTNyzo4CQ/agov+jEy9yi4aVY7CGqw5ggg1bfirSIRocvS07l9oOYc+f444vUG6igUCplA7v01EkQ==;dtEfgLZX/bn3xKK005j99w=="
+images:
+  - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+related:
+  - title: "Two sisters create a startup that puts sustainability into global supply chains"
+    excerpt: "Built on the cloud and using AI, it processes mountains of unstructured and uncleansed ... But as is the case with any startup, the journey taken by Atkins and Vowels has not been easy or straightforward. The pair have had to work doubly hard to establish ..."
+    publishedDateTime: 2022-05-04T01:01:00Z
+    webUrl: "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/givvable_main_2000.jpg"
+        width: 2000
+        height: 1332
+        isCached: true
+
+secured: "8fdpzEe37gLBWkuvqbRv3t65qA48sGPMz482Cd2z532CAXEGMUT81CmD0pKaZ+vjpYwoj7oWiyHVRUAc01QEbe15AwYbrol+yG753zn435xp9t1OwouoH8vSuEuffmFtQ/is7hLsIfmswEuuXvp1Be2CPrnuj0WYVDbXSFof763DIOHqnPezW1TzdVx0eUbARlJYcR8NJGY5K09kw0T1Hn3lMEeIgbkLObcJb/j/HNA2VRG7juq53B8TsnVcnJyZu6OpOeK5GaBpN+YmnOWao5s9GhtnCInzceHhYJ1aZk+04x3J7URh4Pmpq6EKB27QKCK5jSVJBG0tUgfcbY1VAa2QMGyGjQt+B8DWZXq1Jp0=;Iz/9ZIrhMHZP5Y7ALumlVA=="
 ---
 

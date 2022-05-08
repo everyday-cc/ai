@@ -3,22 +3,22 @@ category: news
 title: "AI Model Predicts Response to Spinal Cord Stimulation for Chronic Pain"
 excerpt: "A combined unsupervised and supervised machine learning (ML) technique can help predict long-term spinal cord stimulation (SCS) response for patients with chronic pain,"
 publishedDateTime: 2022-05-05T15:52:00Z
-originalUrl: "https://www.stltoday.com/lifestyles/health-med-fit/article_27f4795c-5416-526c-bd54-aea355d3af58.html"
-webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/article_27f4795c-5416-526c-bd54-aea355d3af58.html"
+originalUrl: "https://poststar.com/lifestyles/health-med-fit/ai-model-predicts-response-to-spinal-cord-stimulation-for-chronic-pain/article_790c77bd-0d33-53f3-9a0a-5ee896ad0cbe.html"
+webUrl: "https://poststar.com/lifestyles/health-med-fit/ai-model-predicts-response-to-spinal-cord-stimulation-for-chronic-pain/article_790c77bd-0d33-53f3-9a0a-5ee896ad0cbe.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: The Post-Star
+  domain: poststar.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/2c/22c55bfe-26b1-5f13-a3da-02723d6ff926/6273fbc51bae2.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/1/51/151e4cfb-38fd-563d-8479-f533a8d77289/6273f94de3ddf.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
     width: 600
     height: 315
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 599
         isCached: true
 
-secured: "eWarm2lHFUadcbKhDx07GC5TF9IcALbkMjifAcrykR2ANVHALs/IjF0el+pKkHX5URYtpSqr8V58wz/ySnXxqpHGNAvHg/IKuLTFtCjxZsSwIh30KEtMADCLVMadpmIQ9ecyPckmGOCz2Or+NBkRBsELS/cJ1AkSLx2wzykXAZpUSK6KAK3dIrORxbb+DKKbmuF67Mnu4AcOZVDyI1kaNpEGzdqvJZFlyRN7uZFWE7Qbr8X79dTv1mIqcKXE3DOwBFlIVXSnIlC8l+LF+7RiUIvwlS+GeYXtjAMJ0jJN8Q3NMpB/rAgQxSnTtvwSMh2FRfulYKomonjI6oY0TiGi5N4mpYcppgI/IuDXRcGo0f0=;D2c2gKZLg+I/tEPVgjMv3g=="
+secured: "tS+YLael1L6excSSN7ZabFbMPNmodhTvryB5roPRLx8BKciUmQgFMfYgYLlCXe+kvVjJzmjGyOgnOaB7njXfMQZCVTrBoag5MN2M73ik1M680rpu717Skr4TYf5OtAqnLFRW2TzxTLR/bBGJNXQg2kC59IfsB/TMeaXc8fpHR/Kpo1BLGrjx9IhwCR6dC38Z7rp4frHV1gqc9BthG1kB+qkz50GJpk54Y7hHagABuYWGfQ5Zfg/O6fZbQxKvcaQRusJwDZqccG9FNreKmfHfq0YWvBDsVPNT3wHyjTzvF1ZYKauSnU60Ty3ItfLw8G6gf0g2OEYi7V5u6GuS9mD/uKOEzK5HT+KPlu0l/GmeoD4=;mS1vJ5Oy/L0ZbtzZlkbI+A=="
 ---
 
