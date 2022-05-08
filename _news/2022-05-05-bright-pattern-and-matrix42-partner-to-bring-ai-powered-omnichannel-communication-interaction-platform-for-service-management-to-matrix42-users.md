@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Bright Pattern and Matrix42 Partner to Bring AI-Powered Omnichannel Communication Interaction Platform for Service Management to Matrix42 Users"
-excerpt: "Turbocharge Matrix42 with an Omnichannel Communication Interaction Platform for digital transformation, AI-powered automation, and remote service desk capabilities. SOUTH SAN FRAN"
-publishedDateTime: 2022-05-05T16:05:00Z
-originalUrl: "https://wreg.com/business/press-releases/cision/20220505SF46870/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users/"
-webUrl: "https://wreg.com/business/press-releases/cision/20220505SF46870/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users/"
+excerpt: "Turbocharge Matrix42 with an Omnichannel Communication Interaction Platform for digital transformation, AI-powered automation, and remote service"
+publishedDateTime: 2022-05-05T15:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users-1031426661"
+webUrl: "https://markets.businessinsider.com/news/stocks/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users-1031426661"
 type: article
-quality: 1
-heat: 1
-published: false
 
 provider:
-  name: WREG
-  domain: wreg.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
-    width: 800
-    height: 268
-    isCached: true
-
-secured: "Pcyj8EY8fTnq4tJ5s7iE3ma+xpsBI6AEv22UPWmGA2JRTrfxEPJwm42jcfvOeX81yQ2Mj93miUrHGsQiDlENXYDOFm/f+9ncTf+Lj3jz9FOQNW0YesTqYvHq7UPvqLL/621ednXkpY01UZ28Sb48vcgujT1h0kiHxjKiNS/wXVy9pzPz1g90EtbsJCCxmrfVgN3d1oEg0Zygyy9HMhElWB2ZlhpmRCFw2ujvKtcFnKYc7EOj520xQjaxec8eBTEIoynl3N68/95B1HYoXcztDpv8lj0FJYrr4nLv+kGZwGk4bIqpEY7R27Ao2CNVmaPBInq0wsUdkY5I8xLG3vnNEc3S2JtR5ghPpD5cDu/rW0A=;r0w7SmOHqG1boYwxOkhxMg=="
+secured: "6ExoF/uaDWAMCKS5ICuLAki7zojeoBnoL8aFeN2W0YBu0vtTYIYM26YxdDuBQ2eOWt3E5od3LK40x9J0jlCJ1AQYqxKyfqyRII29Uj3yHYA7c+RRbRC2+s1mSDe8i+DRzkFZqGB436MuX4rrAPLrc0IHwXUDduhEDMFOIcSW/53DWrk5kLDYp2uOUz8Rh97TfRMhR5Rb+Pfyxaa/j0dCjef1C4ANTyr3qoKjVnuL8VBTHzeJlCsj6Iz7YqEqW2nkZfmrbJkhbywo/saCNaRApJLbA1QPu6QkJGGcacQsQfKX3jgm2XWUfQxG3DSaqCrnJCUNaDxv+9mgI3pof5MiVWWHVut/C+o+MqY1YgN0wVw=;EvpAGuwLnIRA+6WtZceh3g=="
 ---
 

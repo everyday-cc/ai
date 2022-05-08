@@ -1,42 +1,19 @@
 ---
 category: news
 title: "New shape memory alloy discovered through artificial intelligence framework"
-excerpt: "Researchers used an Artificial Intelligence Materials Selection framework (AIMS) to discover a new shape memory alloy. The shape memory alloy showed the highest efficiency during operation achieved thus far for nickel-titanium-based materials."
-publishedDateTime: 2022-05-05T20:49:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/05/220505143808.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/05/220505143808.htm"
+excerpt: "Researchers from the Department of Materials Science and Engineering at Texas A&M University have used an Artificial Intelligence Materials Selection framework (AIMS) to discover a new shape memory alloy."
+publishedDateTime: 2022-05-05T19:08:00Z
+originalUrl: "https://phys.org/news/2022-05-memory-alloy-artificial-intelligence-framework.html"
+webUrl: "https://phys.org/news/2022-05-memory-alloy-artificial-intelligence-framework.html"
 type: article
-quality: 45
-heat: 45
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
-related:
-  - title: "New Shape Memory Alloy Discovered through Artificial Intelligence Framework"
-    excerpt: "Funded by the National Science Foundation’s Designing Materials to Revolutionize Our Engineering Future (DMREF) Program, researchers from the Department of Materials Science and Engineering at Texas A&M University used an Artificial Intelligence ..."
-    publishedDateTime: 2022-05-07T00:26:00Z
-    webUrl: "https://www.labmanager.com/news/new-shape-memory-alloy-discovered-through-artificial-intelligence-framework-28064"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 35
-    images:
-      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/28064/aImg/50824/new-shape-memory-alloy-discovered-through-artificial-intelligence-framework-m.jpg"
-        width: 800
-        height: 400
-        isCached: true
-
-secured: "qE5RxhxuGK7276dvTxQ40hnXg/lXONAXFj+58WASQdcRdCHBM/BCdbhC1F50iq0YfuUmGzQ9NpfaRQr8y5P2tDnhbffncNb0zW6GD2haBobg0FyQ4Bd4cVwRkcuDdSmZ35TegTkuJgWZtHTyq3SLzWOt14p3DSNUjVxmvpUxmLQAM3vEKhcz/bms8EXPu5a56Du4+oAwYICHyxBnypgviWPxdI9z7zLrziCFeT5iuS49lYfh7UTztXIuRagmqsyW1UpeVG0NTchNN8lMUR1DscnSQFz4WT6IqxShDSoDB1jrWjA1y9lFpzRYYl3BM+QGGSCluQUJ23Vz6GMV4Jj6SrZpyx9FJ2DLL/1y9b02Cq4=;B2V2nOP6duKopMn+NJdf8A=="
+secured: "kkn4amPNL4LsZnmUe+/EpFdXkx3zWZYdReqHyAqTgGWi35ms4+FUHm45V1tBZ4oRWvskZK24z+BfIJbV84gHF3ZySA3vlMtPsISiAvOU09uCxS9JuSyG4FG95x63/BypZpyvr3LMQMRN2rupPoYuD0EtjFC4cIMqn2uxrDL+1eq3G5F5Gwa3DVSH6gus4p9aLoEPOwEXW9eg9OLnl5xw5To5CeRJmGxRB94JltQ0yTV23MrteZ1fSTpC5QdxALGGcVOo5uHhD18h6tTuE+p6VtZwXv8sBJVvo6X6T6l4V/QWtq5AI2+6WjS8OC+/mmZKMifi5ZHM7oDu3U1TIzP07LVxbIm5pbWK2h8JFEN6Mh2P488IoZ7lU+EJtnTeZJHNf4mw3uGxl5OHLSbRC3YpVuHSYatrQMFEGhsXuW3UIPgpBvcnimsS82WE5MDFlkNrhU1ccCZ70qg8Zf6BC76gfqCyTEmbRloeJ3k7NBanMUVIY8902YIGcaYWgacC+7sZRSuJtVc4pSLnxhIov71g1w==;/ozW584xCr3BdIxdVyLzdQ=="
 ---
 
