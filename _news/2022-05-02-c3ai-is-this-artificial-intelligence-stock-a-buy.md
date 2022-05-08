@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319573751/image_1319573751.jpg?io=getty-c-w750"

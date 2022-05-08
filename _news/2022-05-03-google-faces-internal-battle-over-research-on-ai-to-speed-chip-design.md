@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/google-faces-internal-battle-ov
 webUrl: "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 84
-  - title: "Google is embroiled in internal struggle over AI research"
-    excerpt: "The current episode began when Google scientists Azalia Mirhoseini and Anna Goldie published “A graph placement methodology for fast chip design” in the scientific journal Nature in June. They observed that AI could perform a critical phase in the ..."
-    publishedDateTime: 2022-05-03T13:29:00Z
-    webUrl: "https://www.techzine.eu/news/devops/78179/google-is-embroiled-in-internal-struggle-over-ai-research/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/google1.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Why Did Google Fire Another AI Researcher?"
     excerpt: "Google has recently fired machine learning scientist Satrajit Chatterjee after he and his team put questions over Google’s research paper. According to The New York Times, Satrajit and the team challenged Google’s research paper about the usage and the testing of artificial intelligence in making computer chips."
     publishedDateTime: 2022-05-06T07:49:00Z

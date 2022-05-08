@@ -86,6 +86,20 @@ related:
         width: 1260
         height: 553
         isCached: true
+  - title: "Amazon SageMaker Serverless Inference Now Generally Available"
+    excerpt: "Amazon recently announced that SageMaker Serverless Inference is generally available. Designed for workloads with intermittent or infrequent traffic patterns, the new option provisions and scales compute capacity according to the volume of inference ..."
+    publishedDateTime: 2022-05-08T07:25:00Z
+    webUrl: "https://www.infoq.com/news/2022/05/sagemaker-serverless-aws/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2022/05/sagemaker-serverless-aws/en/headerimage/header%2810%29-1651773407852.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6k2jaBEAyFhtbxgmb0/VptnlGbQNXqTqluXaxx9EzvzFVg9b19AjBKbV0hW0/WoJi9Ot4YDwnAbl36/lmmNBdiNTTTqIeUvC7NNaf9N4hhMuFrstPbPczpUxH1XHvisv6MzQzJnTZ5gwR+/zu6I6gZ679nyvnMmhd6d/RQQhPApY/wHAj4iQQ6W+NP5VP8Yp9khE8EDjzCcrOlPxVpM+HLcX3D5OgHvI1QZkqjUJuSf1NbyVsii+nfT4TAmU0ozN12/huGhZ47GM/4YJAqsfgq8lrieK41w8LZiON9QLNbpldkGwfXU6C87rAEP9b71qhsDqFs9242KpDCjzHFv/+9iDN0e3Ox/A09RESB/6OLk=;MOd9jGEayIjA+mblhsyFlQ=="
 ---

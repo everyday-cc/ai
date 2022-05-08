@@ -35,6 +35,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
+  - title: "Meta opens access to AI large language model"
+    excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
+    publishedDateTime: 2022-05-04T03:20:00Z
+    webUrl: "https://www.asiaone.com/digital/meta-opens-access-ai-large-language-model"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/Screenshot%202022-05-04%20at%2010.16.38%20AM.png?h=690322e4&itok=OAImWZns"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Applying a form of AI to sift through large amounts of biological data"
     excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) -; previously used to analyze how National Basketball Association (NBA) players move their bodies -; to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
     publishedDateTime: 2022-05-06T13:11:00Z

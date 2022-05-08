@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-
 webUrl: "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: The Verge
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoundCloud acquires Musiio, an AI music curator, to improve discovery"
-    excerpt: "An online audio sharing platform and streamer, SoundCloud has acquired Musiio, an AI music curation company. With Musiio’s team and technology, SoundCloud plans to strengthen its music discovery ..."
-    publishedDateTime: 2022-05-03T14:16:00Z
-    webUrl: "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/"
-    ampWebUrl: "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg?w=1024"
-        width: 1024
-        height: 546
-        isCached: true
   - title: "SoundCloud has bought AI tech startup Musiio"
     excerpt: "SoundCloud has bought Musiio, the startup that focuses on artificial intelligence in ... Read this next: How the first Mixmag cover animated by AI technology was made Using AI to ‘listen’ to tracks, Musiio can identify characteristics that can help ..."
     publishedDateTime: 2022-05-04T10:31:00Z

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"

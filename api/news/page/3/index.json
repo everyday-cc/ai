@@ -10,7 +10,7 @@
       "originalUrl": "https://www.popsci.com/technology/meta-ai-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -54,7 +54,7 @@
       "originalUrl": "https://www.scmagazine.com/news/cloud-security/dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -88,58 +88,6 @@
         "AI",
         "AI in Security",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
-      "title": "Facebook-owner Meta opens access to AI large language model",
-      "excerpt": "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -340,57 +288,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-04-8-analysts-have-this-to-say-about-c3ai.md",
-      "title": "8 Analysts Have This to Say About C3.ai",
-      "excerpt": "Over the past 3 months, 8 analysts have published their opinion on C3.ai (NYSE:AI) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/8-analysts-have-this-to-say-about-c3-ai-1031414656",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/8-analysts-have-this-to-say-about-c3-ai-1031414656",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_10084.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-03-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
       "title": "Google faces internal battle over research on AI to speed chip design",
       "excerpt": "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips.",
@@ -399,7 +296,7 @@
       "originalUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -451,7 +348,7 @@
       "originalUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -483,49 +380,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-apple-poaches-31-year-ford-veteran-as-it-aims-for-self-driving-ev-launch-by-2025.md",
-      "title": "Apple poaches 31-year Ford veteran as it aims for self-driving EV launch by 2025",
-      "excerpt": "Apple is continuing to press ahead with its efforts to build a fully self-driving electric car, despite a number of personnel changes and strategy shifts over the years. Now, a new report from ...",
-      "sourceUrl": null,
-      "webUrl": "https://9to5mac.com/2022/05/03/apple-car-poaches-ford-veteran/",
-      "originalUrl": "https://9to5mac.com/2022/05/03/apple-car-poaches-ford-veteran/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/ford-mach-e-carplay.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5mac.com/2022/05/03/apple-car-poaches-ford-veteran/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/05/03/apple-car-poaches-ford-veteran/amp/",
-      "publishedDateTime": "2022-05-03T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1213,6 +1067,143 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-decision-intelligence-will-change-how-you-think-about-ai.md",
+      "title": "Decision Intelligence will change how you think about AI",
+      "excerpt": "For many businesses, Artificial Intelligence (AI) holds the answer. It has the potential to automate insights and use historic data to provide a predictive view. Yet, the majority of businesses investing in AI are struggling to deploy the technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2022/05/bi-business-intelligence-ai-artificial-machine-learning-commercial-platform-review/",
+      "originalUrl": "https://techhq.com/2022/05/bi-business-intelligence-ai-artificial-machine-learning-commercial-platform-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn1.techhq.com/wp-content/uploads/2022/05/AB109057-1-375x210.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techhq.com/amp/2022/05/bi-business-intelligence-ai-artificial-machine-learning-commercial-platform-review/",
+      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/05/bi-business-intelligence-ai-artificial-machine-learning-commercial-platform-review/",
+      "publishedDateTime": "2022-05-03T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs.md",
+      "title": "AI Visionary And Innovation Leader Sumaya Al Hajeri Of The UAE AI Office May Be Exactly What This World Needs.",
+      "excerpt": "I teach how to stand up and walk again after a fall.” For my final interview with The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I had the privilege of speaking with Sumaya Al Hajeri. She is an executive professional in the field of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626ef52e2100d83a26834a2a/0x0.jpg?format=jpg&crop=828,466,x0,y115,safe&width=1200",
+          "width": 828,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/amp/",
+      "publishedDateTime": "2022-05-03T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
+      "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
+      "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics, artificial intelligence, and healthcare technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
+      "originalUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

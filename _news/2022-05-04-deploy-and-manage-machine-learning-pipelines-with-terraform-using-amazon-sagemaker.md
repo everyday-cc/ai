@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-ma
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker/"
 type: article
 quality: 100
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/27/ML-7596-image003-1260x553.png"
         width: 1260
         height: 553
+        isCached: true
+  - title: "Amazon SageMaker Serverless Inference Now Generally Available"
+    excerpt: "Amazon recently announced that SageMaker Serverless Inference is generally available. Designed for workloads with intermittent or infrequent traffic patterns, the new option provisions and scales compute capacity according to the volume of inference ..."
+    publishedDateTime: 2022-05-08T07:25:00Z
+    webUrl: "https://www.infoq.com/news/2022/05/sagemaker-serverless-aws/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 54
+    images:
+      - url: "https://res.infoq.com/news/2022/05/sagemaker-serverless-aws/en/headerimage/header%2810%29-1651773407852.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "TSffrBVLJslLHg6aVvf224GdGKC8fJ9xVhKfVZMSQxPOlV5WaS8iq1y4x57Vu3hFOaIAae2PogBBaPdJRt6KDyFtFtklgmthXJmnC3fwM2VM4MVgueEeHfdKdPSEAyMQGsLAZC8gM687feosig8e7Ja6eL8snSIxHSSKf2gTnEhnKRNs334PhBAZJxZ/nEDHGp/OqzvTCoBG3Dwz1FvdfCbbCe7KyZVwHYMQRqtovypo5Je6742E67qaVltbs5vb1ZBzJvriqoC+bBoGmb0kddPvC8g+6DxP8I/AsL+qPzZhar9j6IwFBKLslyypOK1z86R9qsnaZAz3XO/a/wfBvC01AyDUIn4Q66ucqoIMTS4=;ukwJkSPF4+3ErhdjXG4weA=="

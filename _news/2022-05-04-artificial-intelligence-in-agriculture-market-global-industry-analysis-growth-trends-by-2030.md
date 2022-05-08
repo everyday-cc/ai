@@ -61,20 +61,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "AI in Fashion Market Size 2022 Share, Growth Prospectus, Top Manufactures, Latest Innovation, Key Factors, Company Overview and Forecast till 2029"
-    excerpt: "The AI in Fashion research also includes crucial information on industry segmentation, market share, size and revenue forecasts with geographical representation. Get a Sample Copy of the Report at - https://www.marketresearchguru.com/enquiry/request-sample ..."
-    publishedDateTime: 2022-05-04T09:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-size-2022-share-growth-prospectus-top-manufactures-latest-innovation-key-factors-company-overview-and-forecast-till-2029-2022-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Manufacturing Market- Reshaping the Industries with Speed and Accuracy"
     excerpt: "The global artificial intelligence in manufacturing market has gathered pace in its growth with rapidly evolving industrial automation and IoT. Artificial intelligence or AI is one of the fastest-growing technologies in the recent years. Artificial ..."
     publishedDateTime: 2022-05-04T09:09:00Z
@@ -83,7 +69,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
         width: 600

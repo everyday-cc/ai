@@ -39,20 +39,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Ambi Robotics Returns to Berkeley and Expands Headquarters, Investing In People and Infrastructure To Support Deployment Growth"
-    excerpt: "About Ambi Robotics Ambi Robotics is an artificial intelligence (AI) and robotics company developing advanced solutions that scale e-commerce operations to meet demand while empowering humans to work smarter. The company’s industry-leading AI operating ..."
-    publishedDateTime: 2022-05-03T14:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-berkeley-new-product-development-f876b67e84d7498986e693c2579c8782"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "IO1TPFRA/06ok7VeGBLHEyQ2jkSbmOixkxtOddA+JPZV1ypoSr41kR8Ge8SYC7nFEq6fE1ZlCL4vWcjpXy8JJC9tE3MTVMptUkgLa6vOFmK3aR8BKFIisWAAWFG0eHQymw0OZsSOQOvvZT+MsLyJWjQHhFNjVhXVaFIfXL71Nl1oaFn/XKScopaBrzSPKt6o8BLUR4t4Jof8HF5ZcpmEMtXXMiHS9E7MWncJkSLxU5RchZ7w7HIW7S3XlJPyenRBgGprh8MyrMLZyNIo4XT95eKizGW/s6FXkABnqpz4CZ3Yt74qbz/ULVZSAPN9KufM2UXGzgahHyKMU3jRC5zjtsFoFo6G/8AJhgxcxXjdk9wrvcirppeg+myng9w1FXjWusP90TzNCwuQNgS30Igj8T8uceGkv937S6tdGkoZdnva9VWU1cRtb9EEXWlbNQ7SjZ4m4jPptz2JocfDYpai7QQpIMV8XuwtIGkT8laHdYP4pFPuhH9tkmTomADKLpzd0qWm8sOMkml6n5ov3wzBPA==;tTLfp4knf0hfAu3M+IeGRA=="
 ---

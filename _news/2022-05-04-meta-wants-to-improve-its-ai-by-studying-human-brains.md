@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta opens access to its massive AI language model"
+    excerpt: "Meta’s Open Pretrained Transformer (OPT) model will be the first 175-billion-parameter language model to be made available to the broader AI research community. Facebook-owner Meta Platforms Inc is opening up access to its massive language model for ..."
+    publishedDateTime: 2022-05-04T11:54:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/meta-opens-access-to-its-massive-ai-language-model/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 43
+    images:
+      - url: "https://eandt.theiet.org/media/18218/meta-6946620.jpg?crop=0,0.20708333333333334,0,0.3007291666666666&cropmode=percentage&width=1200&height=450&rnd=132961391880000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Robots to improve human mobility"
     excerpt: "Her research blends two interests: biomechanics and robotics, with a focus on locomotion and balance control. In a nutshell ... Those are important questions the team keeps in mind while investigating how humans move and how robots can improve mobility ..."
     publishedDateTime: 2022-05-05T13:41:00Z

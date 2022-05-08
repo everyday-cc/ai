@@ -44,20 +44,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 84
-  - title: "Google is embroiled in internal struggle over AI research"
-    excerpt: "The current episode began when Google scientists Azalia Mirhoseini and Anna Goldie published “A graph placement methodology for fast chip design” in the scientific journal Nature in June. They observed that AI could perform a critical phase in the ..."
-    publishedDateTime: 2022-05-03T13:29:00Z
-    webUrl: "https://www.techzine.eu/news/devops/78179/google-is-embroiled-in-internal-struggle-over-ai-research/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 41
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/google1.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "wtSD5KRUJdajLM7fhHY3kWebf7s8o8OQAXCzR5JO5T6fEwnYHHUeHlVv8DB9eavj18Q/FkUdJ99yNHG+rXWZORq4dFKHkQr3T5/ksVECUb5B4QJ/n4zUny8iSPjeyO/WqB0ch1OaELpkh7dGLJmZOSkdNnAnHhJax9JKsiZvDLuoOFSl9BXXutUFAQ+8MTWTgD+0yOINbvnjaaKRCSPKv+ra6PX7QU9KGsqi0Khyz+bNekVE6wF+17kqFZfKD/WHfX41CB0+J3XRrtB9VtcdNj1dG5VJeJWzfncioBKz8nLlA9cklxrSKeMSx7y/021YocS/ZbFt/TR5GX+v3Gwx4BHW1KAAXVLkAyMvy7sntb0=;uqzao1GXCCnmQuODewQFXA=="
 ---

@@ -39,15 +39,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Genen­tech-part­nered Gen­e­sis Ther­a­peu­tics inks newest AI dis­cov­ery deal with Eli Lil­ly"
-    excerpt: "And now, the AI out­fit is in its sec­ond part­ner ... Bill Haney’s Dragonfly Therapeutics is making the vault between biotech startup and the next big level: adding clinical-stage compounds ..."
-    publishedDateTime: 2022-05-03T14:40:00Z
-    webUrl: "https://endpts.com/genentech-partnered-genesis-therapeutics-inks-newest-ai-discovery-deal-with-eli-lilly/"
-    type: article
-    provider:
-      name: ENDPOINTS NEWS
-      domain: endpts.com
-    quality: 5
 
 secured: "QORRXoWK1TYFO3l9r0gDmpTTWj7oEqwpgo5bfk9SqMyCbnC78bUsun7+WGlTk5DQQGNelUGqIynqMjfwq2euZ0VDUFlZjaJgBPEUFbk+ZgBBll57pLq1YHMoVS5ww3IqA94qNpb4RBDAgUezaBu+TE7s8dG7M7VavknFP7d3JP53N/cxFzGDWHeF3ExeefC78zU2fqNkAkkYX6BIrzlFKXEdXvji+nZ7yJ9ck2Ti7d5j7yRY3o4HCQLaZ0p0/jp8eT2QyPt6j+JRf7u9A8MU0ijVnYNprwmvecZ4UAQ2LnfxsYZ0CeDcT6x0vjfUrz5LDlj6PwBFBSBJW+hCoXrED3mFTC1RFL9hzO+2Ni7IZMk=;mK0pHJrqhD0wM0q2XbVcAw=="
 ---

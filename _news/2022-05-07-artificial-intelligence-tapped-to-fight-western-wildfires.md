@@ -67,6 +67,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Is artificial intelligence the next tool to fight wildfires in the West?"
+    excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have"
+    publishedDateTime: 2022-05-08T05:30:00Z
+    webUrl: "https://www.telegraphherald.com/news/technology/article_22faa62c-a7c6-51f8-91df-47ec2eb5cc53.html"
+    type: article
+    provider:
+      name: Telegraph Herald
+      domain: telegraphherald.com
+    quality: 38
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/9/4e/94e8db03-3eb7-5814-b426-65c7d7d7923c/62742506de30f.image.jpg?crop=1567%2C823%2C0%2C110&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kUEQNYlOq52b576zKF3qe8ebQjHkQ2c/P7uNNjt1EDcX1NemEP+62W1K26g8ULwM1QIboH8QKFPSENyJFtI7oMcS4toHctrEO/TwWcHgUptzPqNnQ+7jif3AXknWMuWpSgZMWJFHHnn20tlGDE2pcgSZb4Uau7OJo2IM/dtuT8Dvzbmj25k+gAn7IiAFjCRIHhdIY7jynWJLMRL8i1anmSywoCgAeeVaV+/OAHEYEqsWyXwpqVQzWNvPIkOsCWPki1XCu5YRpTTeAs7QCM82PgJoYmcU6ghbnUwmUWU35OxfGWERYzYLDUP4/UsxmJ1hY93MdHgm89EdMH6kVdExIAAJ84sn8l4mBtRHQB8MU2s=;4CkZe0K54XHX+inTOWDVEw=="
 ---

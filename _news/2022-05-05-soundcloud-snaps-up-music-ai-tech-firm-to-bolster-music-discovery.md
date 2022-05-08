@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoundCloud acquires Musiio, an AI music curator, to improve discovery"
-    excerpt: "An online audio sharing platform and streamer, SoundCloud has acquired Musiio, an AI music curation company. With Musiio’s team and technology, SoundCloud plans to strengthen its music discovery ..."
-    publishedDateTime: 2022-05-03T14:16:00Z
-    webUrl: "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/"
-    ampWebUrl: "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg?w=1024"
-        width: 1024
-        height: 546
-        isCached: true
   - title: "SoundCloud buys AI that claims to predict hit songs"
     excerpt: "Though a far cry from the smoky clubs and A&R legends of old, AI is becoming an increasingly critical part of finding up-and-coming artists. Music distribution platform Tunecore announced in February that it is partnering with LA-based music startup Fwaygo ..."
     publishedDateTime: 2022-05-04T15:47:00Z

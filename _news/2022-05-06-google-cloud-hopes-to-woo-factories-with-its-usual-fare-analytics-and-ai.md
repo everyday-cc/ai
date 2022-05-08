@@ -41,15 +41,6 @@ related:
         width: 640
         height: 336
         isCached: true
-  - title: "Dell Expands APEX, Adds Analytics And Data Recovery"
-    excerpt: "machine learning-based corruption detection, and post-attack forensics. Presumably, the company will be bringing these extended features to its Azure offering at some point in the near future as well."
-    publishedDateTime: 2022-05-03T13:30:00Z
-    webUrl: "https://seekingalpha.com/article/4506127-dell-expands-apex-analytics-data-recovery"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "VoRkBMNuKj4W792NA1HYmsCcTeBYwYLWd5uxprud8xWR0NHBgos9VNsmq/DcVwqfyHZ577aiSBGeeZAd577bqaMXHVLd5JocczqLIaWhhKnfwsZ2rZNTDCLyp1BEGadzRD/OZRii7oYJ3UBUcHL/FwoK3/GoqwQFFDcmGlLxEjppA5fElZXnkLnCZ85YnndZPhFk5eDulrjI/W0FbyKM/JYPiifBxLNZM6vV5UTpBYha01BjT/T3SFVS7shJTdT1q37g1GdIYWhgVv367G2JG6hMBostQhyml8o0X++l6/XYbDwhgXqqERs/xvsnamSVm6iQgYIqFV6Cn+YI+DueEagbWCWVX6ptRB8Fdqp8Zje81uI/QJHBVM673Bi702xqAipkUcqXdndfxkATLY8w6o9HaD7/gC3ZNoVOdsRULpIaL5smM3vLmf0OUNVKQS/oXh5VUJv6V1Hf2mYsoSpcRsVh2Xv+81WYwmq0cdUMTQoBv0EBcLk59QYFYe9xv5mbSGqngRjd4Wi12uNI/5ySxQ==;wj35Be3qGX6gNUXrlVTUWw=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-inn
 ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
 type: article
-quality: 59
-heat: 92
+quality: 61
+heat: 104
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg"
@@ -35,7 +36,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -54,6 +55,20 @@ related:
       - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
         width: 439
         height: 614
+        isCached: true
+  - title: "AI in Fashion Market Size 2022 Share, Growth Prospectus, Top Manufactures, Latest Innovation, Key Factors, Company Overview and Forecast till 2029"
+    excerpt: "The AI in Fashion research also includes crucial information on industry segmentation, market share, size and revenue forecasts with geographical representation. Get a Sample Copy of the Report at - https://www.marketresearchguru.com/enquiry/request-sample ..."
+    publishedDateTime: 2022-05-04T09:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-size-2022-share-growth-prospectus-top-manufactures-latest-innovation-key-factors-company-overview-and-forecast-till-2029-2022-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI in Medical Hygiene Market 2022 Innovation, Business Strategy, Future Technology, Application, Top Key Companies Analysis to 2028"
     excerpt: "Intelligence Market Report Publish New Research Report On-“AI in Medical Hygiene 2022 Market Analysis by Key Players, Applications, Growth Trends, Share & Segment Forecast to 2028” London, UK -- (SBWIRE) -- 05/03/2022 -- AI in Medical Hygiene Market ..."

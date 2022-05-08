@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/can-artificial-intelligence-help-fi
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Is artificial intelligence the next tool to fight wildfires in the West?"
+    excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have"
+    publishedDateTime: 2022-05-08T05:30:00Z
+    webUrl: "https://www.telegraphherald.com/news/technology/article_22faa62c-a7c6-51f8-91df-47ec2eb5cc53.html"
+    type: article
+    provider:
+      name: Telegraph Herald
+      domain: telegraphherald.com
+    quality: 38
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/9/4e/94e8db03-3eb7-5814-b426-65c7d7d7923c/62742506de30f.image.jpg?crop=1567%2C823%2C0%2C110&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence tapped to fight Western wildfires"
     excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have a new tool to add to their arsenal of prescribed burns,"
     publishedDateTime: 2022-05-07T14:10:00Z

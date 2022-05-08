@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Splice just launched an AI-powered app that makes music with you"
+    excerpt: "The company has launched a new artificial intelligence-powered music app called CoSo, which uses what Splice calls its ‘Complementary Sounds’ AI technology to create music “in split-seconds”. The CoSo mobile app, available on Android and IOS ..."
+    publishedDateTime: 2022-05-04T15:57:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/splice-just-launched-an-ai-powered-app-that-makes-music-with-you1/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 37
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2022/05/Coso-copy-e1651618451563.jpg"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "AI-Powered PROVEN Skincare Launches World’s First Personalized Eye Cream Duo"
     excerpt: "PROVEN Skincare, the AI-powered, technology-first skincare brand, today announced the launch of the world’s first personalized Eye Cream Duo. The Duo is formulated with potent ingredients that target multiple skin concerns at once while nourishing the ..."
     publishedDateTime: 2022-05-04T16:42:00Z

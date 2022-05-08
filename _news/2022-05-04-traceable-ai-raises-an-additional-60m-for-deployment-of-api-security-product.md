@@ -83,20 +83,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "API Security Innovator Traceable AI Lands $60 Million Series B"
-    excerpt: "SAN FRANCISCO, May 3, 2022 /PRNewswire/ -- Traceable AI, the API security & observability company, today announced it has raised $60 million in Series B funding. This new funding values Traceable AI at more than $450 million. This investment round was led ..."
-    publishedDateTime: 2022-05-03T13:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/03/9594378.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg"
-        width: 400
-        height: 244
-        isCached: true
   - title: "API Security Company Traceable AI Lands $60 Million Series B"
     excerpt: "SAN FRANCISCO, May 3, 2022 — Traceable AI, the API security & observability company, today announced it has raised $60 million in Series B funding. This new funding values Traceable AI at more than $450 million. This investment round was led by ..."
     publishedDateTime: 2022-05-03T21:49:00Z

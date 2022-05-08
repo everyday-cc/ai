@@ -312,7 +312,7 @@
       "originalUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -343,7 +343,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -773,7 +774,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220505143820.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",

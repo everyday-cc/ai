@@ -106,7 +106,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -192,7 +192,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -338,7 +338,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -436,21 +436,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-04-ambi-robotics-returns-to-berkeley-and-expands-headquarters.md",
-      "title": "Ambi Robotics Returns to Berkeley and Expands Headquarters",
-      "excerpt": "Ambi Robotics is an artificial intelligence (AI) and robotics company developing advanced solutions that scale e-commerce operations to meet demand while empowering humans to work smarter. The company’s industry-leading AI operating system, AmbiOS ...",
+      "path": "_news/2022-05-04-soundcloud-buys-ai-that-claims-to-predict-hit-songs.md",
+      "title": "SoundCloud buys AI that claims to predict hit songs",
+      "excerpt": "Though a far cry from the smoky clubs and A&R legends of old, AI is becoming an increasingly critical part of finding up-and-coming artists. Music distribution platform Tunecore announced in February that it is partnering with LA-based music startup Fwaygo ...",
       "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/may-2022/ambi-robotics-berkeley-expands-headquarters",
-      "originalUrl": "https://www.automation.com/en-us/articles/may-2022/ambi-robotics-berkeley-expands-headquarters",
+      "webUrl": "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits",
+      "originalUrl": "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 147,
       "tags": null,
       "images": [
         {
-          "url": "https://www.automation.com/getmedia/64d1687f-6f18-49e7-9257-7dfcdc6cc6d9/Headquarters-May-4-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
+          "url": "https://cdn.vox-cdn.com/thumbor/KxExR6HndslDDdlqsMY17wm3MSc=/0x91:2040x1159/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9020373/akrales_170802_1743_0094.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -460,12 +460,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T08:48:00-07:00",
+      "publishedDateTime": "2022-05-04T08:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -474,7 +483,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -540,7 +548,7 @@
       "originalUrl": "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1016,7 +1024,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities-2022-05-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {

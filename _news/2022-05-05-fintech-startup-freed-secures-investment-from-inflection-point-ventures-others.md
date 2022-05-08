@@ -55,15 +55,6 @@ related:
         width: 1799
         height: 1010
         isCached: true
-  - title: "Funding from Hetz Ventures’ third round, totaling $123 million, will go into DevOps tools, Open Source, Fintech, and Cybersecurity initiatives"
-    excerpt: "Hetz has previously invested in Granulate (bought by Intel last month), Trigo, Retrain.ai, Blink Ops, and Velocity ... Its concentration is on DevOps & Dev Tools, Open Source, Enterprise & Data, Fintech and Cybersecurity. In the first quarter of 2022 ..."
-    publishedDateTime: 2022-05-03T13:20:00Z
-    webUrl: "https://bestgamingpro.com/funding-from-hetz-ventures-third-round-totaling-123-million-will-go-into-devops-tools-open-source-fintech-and-cybersecurity-initiatives/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 0
 
 secured: "Y6pZGeXtJcmFl8nEN9tmcRf1lNS40ORyIlCQIre79gbXMpPX5c3T6dnx4koCsBrQ24UvFNFE9VNjWoodZ10MQiAo4ey07/1dSlRr9fKnXKASNdRT5CvMngkPo5bel6vOj8n+ki8xnagf2EYyGmMewKQQeWGjK57tepvEi3a4sP6ekuPtfL1mqOXQZSuZP7L9TBwHIJoBoBeJe78IW4r8SPXC31OmdnOMkPz4HbfayrbWpO0y9OzJLMo19c+JQhumF/wYH6btQ8yZj3JQKdiM1Lef+Mr5fB3M3jeJybMjbrVI8N/ZSFuaCkTrZ48isOg6A6KN38F0PlM8ERuuh8HmdGOe19+9hoF646+ryxcv/uawk1npVV7dG6c3IOwUygWu4mb+uGKZ3/orUG0blEnIff3x1nyRXH3sRZ17qqGHPK6UhRFdPZZanzd++kx1DmkxngK+UV5QS8bQvo6mSbW6Ns6pvX+oCnObYNRQ/E5KTy/hANIx3s22kW2LFwts8RhixM8E8wRUbbObCHwS5xKgxQ==;kgS7AEHMeNur9Sc+Xyz8uQ=="
 ---

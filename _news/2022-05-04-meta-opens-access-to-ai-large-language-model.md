@@ -25,59 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook-owner Meta opens access to AI large language model"
-    excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
-    publishedDateTime: 2022-05-03T21:22:00Z
-    webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
+  - title: "Using AI to analyze large amounts of biological data"
+    excerpt: "Researchers are applying a form of artificial intelligence (AI) -- previously used to analyze how National Basketball Association (NBA) players move their bodies -- to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
+    publishedDateTime: 2022-05-05T21:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Facebook-owner Meta opens access to AI large language model"
-    excerpt: "Meta said its model was the first 175-billion-parameter language model to be made available to the broader AI research community. \"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable ..."
-    publishedDateTime: 2022-05-03T14:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model"
-    ampWebUrl: "https://www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-owner-meta-opens-access-to-ai-large-language-model?amp"
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
+  - title: "Using AI to analyze large amounts of biological data"
+    excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) — previously used to analyze how National Basketball Association (NBA) players move their bodies — to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
+    publishedDateTime: 2022-05-05T16:54:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/951857"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Meta opens access to its massive AI language model"
-    excerpt: "Meta’s Open Pretrained Transformer (OPT) model will be the first 175-billion-parameter language model to be made available to the broader AI research community. Facebook-owner Meta Platforms Inc is opening up access to its massive language model for ..."
-    publishedDateTime: 2022-05-04T11:54:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/meta-opens-access-to-its-massive-ai-language-model/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 43
-    images:
-      - url: "https://eandt.theiet.org/media/18218/meta-6946620.jpg?crop=0,0.20708333333333334,0,0.3007291666666666&cropmode=percentage&width=1200&height=450&rnd=132961391880000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "Meta opens access to its large language model for AI researchers"
-    excerpt: "Meta said the scientific community needs to be able to work together to advance AI research and probe for vulnerabilities. Facebook’s parent company Meta said it is sharing its large language model trained with more than 175bn parameters, to be available ..."
-    publishedDateTime: 2022-05-04T07:08:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-large-language-model"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 41
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_465885157_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/aa95ceeb-d67b-4a0b-92e6-70483ee2ce4c/Rendition/low-res/Content/Public"
+        width: 500
+        height: 700
         isCached: true
+  - title: "Applying a form of AI to sift through large amounts of biological data"
+    excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) -; previously used to analyze how National Basketball Association (NBA) players move their bodies -; to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
+    publishedDateTime: 2022-05-06T13:11:00Z
+    webUrl: "https://www.news-medical.net/news/20220506/Applying-a-form-of-AI-to-sift-through-large-amounts-of-biological-data.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 21
 
 secured: "nmrgQdB4f+tGYtG1Uj8SCGKOZplBccwX6d/Bnbp+kMFV+INjyAyqrr/SXIal4Iz7X1Mha9GXdBbweA5vi3ZZPReANMmQdHYWHdolLoUvflWPRwV7Zs6nQu0j1HTZ/n+LvEevUFBz7o+bA5YML0yZe9TsZ5vZTeCJgt00GQg7/VubKMd2IzGhHGNYVt/wGT8RJW211cj2vypybqRr+8Ig5NKe0K3Ry7a35HH9fpDgCcdVEQJH1QhNarKOfQQ67OTb8wb5lEGLRVMpRydah88T3i4kvJxoOamSpCn9p4dgpULdsNSYxcu/2V8vysgpE44F50GIeY7ZUL+4Z2WwUlPElgXJs1bU+xKpIBvMiDOn+2M=;GqhrylCMh5J7TcHGoqygYw=="
 ---

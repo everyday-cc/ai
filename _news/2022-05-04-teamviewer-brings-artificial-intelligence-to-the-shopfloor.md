@@ -40,20 +40,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "TeamViewer Brings Artificial Intelligence to the Shopfloor"
-    excerpt: "May 3, 2022 /PRNewswire/ -- TeamViewer, a leading global provider of remote connectivity and workplace digitalization solutions, today announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer's leading ..."
-    publishedDateTime: 2022-05-03T14:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-teamviewer-brings-artificial-intelligence-the-shopfloor-/2022/05/03/9594602.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1808015/Woman_inspecting_bottling_machine_wearing_smart_glasses_and_safety_helmet_Copyright_TeamViewer.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "TeamViewer announces AiStudio add-on to bring AI image and object recognition to its Frontline enterprise Augmented Reality platform"
     excerpt: "AiStudio consists of a self-learning algorithm to train AI models for image and object recognition. Following TeamViewer’s no-code approach for the Frontline platform, the use of AiStudio does not require any programming skills. According to the company ..."
     publishedDateTime: 2022-05-04T07:16:00Z

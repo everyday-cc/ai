@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Digital Transformation in Healthcare Market: global outlook and overview 2021-2031"
+    excerpt: "Surge in the adoption of advanced technologies such as artificial intelligence across the healthcare sector and growing support by several government authorities for digitalization are some of the prime factors boosting the expansion of the global digital transformation in healthcare market during the forecast period of 2021 to 2031."
+    publishedDateTime: 2022-05-05T09:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/digital-transformation-in-healthcare-market-global-outlook-and-overview-2021-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "NTT And Grok Team Up To Transform The Network With Artificial Intelligence-Designed, Data-Driven Operations"
     excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations   S"
     publishedDateTime: 2022-05-05T11:03:00Z

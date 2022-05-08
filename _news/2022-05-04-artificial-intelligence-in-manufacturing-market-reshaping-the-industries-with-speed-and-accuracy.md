@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-04T09:09:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-reshaping-the-industries-with-speed-and-accuracy"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-reshaping-the-industries-with-speed-and-accuracy"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
@@ -61,20 +62,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "AI in Fashion Market Size 2022 Share, Growth Prospectus, Top Manufactures, Latest Innovation, Key Factors, Company Overview and Forecast till 2029"
-    excerpt: "The AI in Fashion research also includes crucial information on industry segmentation, market share, size and revenue forecasts with geographical representation. Get a Sample Copy of the Report at - https://www.marketresearchguru.com/enquiry/request-sample ..."
-    publishedDateTime: 2022-05-04T09:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-size-2022-share-growth-prospectus-top-manufactures-latest-innovation-key-factors-company-overview-and-forecast-till-2029-2022-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Agriculture Market – Global Industry Analysis, Growth, Trends by 2030"
     excerpt: "The COVID-19 pandemic is expected to moderately impact the global artificial intelligence in agriculture market for a short-term period. The level of investment with regards to AI in agriculture has been reduced due to the lockdown in almost every region ..."
     publishedDateTime: 2022-05-04T11:45:00Z

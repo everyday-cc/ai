@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Building The Future Of AI-Powered Retail Starts With Trust"
-    excerpt: "This must give you a unique vantage point on data-centric AI, per your recent blog ... At the outset, I always start with the question: do we need machine learning at all to solve this problem, or is there an easier way to fix it that we should implement ..."
-    publishedDateTime: 2022-05-03T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/"
-    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/"
+  - title: "Splice just launched an AI-powered app that makes music for you"
+    excerpt: "The company has launched a new artificial intelligence-powered music app called CoSo, which uses what Splice calls its ‘Complementary Sounds’ AI technology to create music “in split-seconds”. The CoSo mobile app, available on Android and IOS ..."
+    publishedDateTime: 2022-05-04T14:57:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/splice-just-launched-an-ai-powered-app-that-makes-music-for-you/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62704c8d931d4d3a63b1ef88/0x0.jpg?format=jpg&width=1200"
-        width: 500
-        height: 343
+      - url: "https://www.musicbusinessworldwide.com/files/2022/05/Coso-copy-e1651618451563.jpg"
+        width: 1536
+        height: 864
+        isCached: true
+  - title: "AI-Powered PROVEN Skincare Launches World’s First Personalized Eye Cream Duo"
+    excerpt: "PROVEN Skincare, the AI-powered, technology-first skincare brand, today announced the launch of the world’s first personalized Eye Cream Duo. The Duo is formulated with potent ingredients that target multiple skin concerns at once while nourishing the ..."
+    publishedDateTime: 2022-05-04T16:42:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-b252b112c20f435aa5d57594de8349f8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "yjD+Jyop8sOOZhX2529dqGJYfGX4lXl2tnsUMcpRz7bAU3dNRVCu7yHPxaHjJfBPttRezrPXNYGg1GD4wiRz/jzLN/AXAaRG5VWskwOWMhdPPXEg5GUz1cjWUKihMLO/9+oXZlVj/U/ViEkt3PTSoKgj71QCj0aSXnmki/eJweNqflA8CByPNGzdU4Z+XPuKUnU6l6A9qFN5R3ALnMgb0lqgizb4JJxA35eYJZsUQOJKyXi5IFbYWoV/ytMQYFlbfbiwvGP3e2gWq8/xSq45bLNcc0BqAv3C9hk5pdorZYbGdMxnHX/VyHRqhvLE4efoHlrUWw/M920lRTQQUQ0Or9s+CCS3V8Jscn8L0tw9VlE=;I/c9Qwf3RFNZSSO3CKT6gA=="

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-07-top-ai-companies-riding-the-innovation-wave-in-2022.md",
+      "title": "Top AI Companies Riding the Innovation Wave in 2022",
+      "excerpt": "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/",
+      "originalUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg",
+          "width": 1000,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/",
+      "publishedDateTime": "2022-05-07T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Leadership",
+        "domain": "industryleadersmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-aws-allows-a-lenovo-server-to-play-in-its-on-prem-ai-video-cloud.md",
       "title": "AWS allows a Lenovo server to play in its on-prem AI video cloud",
       "excerpt": "Amazon Web Services has allowed a third-party hardware offering into its universe, with a Lenovo server dedicated to video analytics scoring the gig. To understand why AWS has endorsed third-party hardware we need to revisit the 2020 re:invent conference,",
@@ -190,7 +234,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -243,7 +287,7 @@
       "originalUrl": "https://www.scmagazine.com/news/cloud-security/dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -320,6 +364,49 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-c3ai-is-this-artificial-intelligence-stock-a-buy.md",
+      "title": "C3.ai: Is This Artificial Intelligence Stock A Buy?",
+      "excerpt": "C3.ai is showing substantial revenue and customer growth. The company is doing a great job at penetrating its existing consumer base. Industry growth trends look favorable but short-term market ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
+      "originalUrl": "https://seekingalpha.com/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319573751/image_1319573751.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
+      "publishedDateTime": "2022-05-02T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1304,92 +1391,6 @@
       "provider": {
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing.md",
-      "title": "Integrate ServiceNow with Amazon Lex chatbot for ticket processing",
-      "excerpt": "Conversational interfaces (or chatbots) can provide an intuitive interface for processes such as creating and monitoring tickets. Let’s consider a situation in which a recent hire on your team is required to cut tickets for office equipment. To do so, they have to interact with a ticketing software that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-3932-image005-500.jpg",
-          "width": 500,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T09:55:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit.md",
-      "title": "Amazon taps former Attorney General Loretta Lynch to run racial equity audit",
-      "excerpt": "related to harassment and discrimination * And an independent study of Rekognition, a facial recognition system that Amazon Web Services markets and sells to government and shareholders say is \"worse at identifying Black women than white men and misgenders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html",
-      "originalUrl": "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finger Lakes Times",
-        "domain": "fltimes.com",
         "images": null,
         "publishers": null,
         "authors": null

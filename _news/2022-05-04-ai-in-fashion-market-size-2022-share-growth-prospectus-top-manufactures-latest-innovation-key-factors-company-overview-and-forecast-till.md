@@ -29,87 +29,59 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI based Edge Computing Chip Market 2022: Overview, Manufacturing Cost Structure Analysis, Growth Opportunities"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. May 04, 2022 (The Expresswire) -- “AI based Edge Computing Chip Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis ..."
-    publishedDateTime: 2022-05-04T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities-2022-05-04"
+  - title: "Top AI Companies Riding the Innovation Wave in 2022"
+    excerpt: "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ..."
+    publishedDateTime: 2022-05-07T07:31:00Z
+    webUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/"
+    ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 61
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg"
+        width: 1000
+        height: 570
         isCached: true
-  - title: "Wearable AI Market: Building-up The Next Layer of Development with IoT and Machine Learning"
-    excerpt: "An increase demand for wearable AI is projected to witness significant growth during the course of forecast period from 2018 to 2026. The growing partnership and collaboration for bringing AI functionalities to wearable devices providing new developments ..."
-    publishedDateTime: 2022-05-04T09:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/wearable-ai-market-building-up-the-next-layer-of-development-with-iot-and-machine-learning"
+  - title: "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022"
+    excerpt: "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ..."
+    publishedDateTime: 2022-05-05T12:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 44
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Global Medical Robotics Market Report 2022: Breakdown by"
-    excerpt: "In 2020, the number was still rising. Robots, drones, and artificial intelligence have all gained popularity due to the new coronavirus. The global epidemic of COVID-19 has consequences for the robotics industry. It promoted the development of professional ..."
-    publishedDateTime: 2022-05-04T11:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-medical-robotics-market-report-2022-breakdown-surgical-/2022/05/04/9595090.htm"
+  - title: "The impact of using AI in the boardroom"
+    excerpt: "In applying the term artificial intelligence (AI ... One of the main problems brought by self-driving corporations or self-driving subsidiaries as an intermediate entity for replacing human-centred boards is the accountable issues and possibilities ..."
+    publishedDateTime: 2022-05-04T08:57:00Z
+    webUrl: "https://www.lawcareers.net/Explore/LCNSays/The-impact-of-using-AI-in-the-boardroom"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "Artificial Intelligence in Agriculture Market – Global Industry Analysis, Growth, Trends by 2030"
-    excerpt: "The COVID-19 pandemic is expected to moderately impact the global artificial intelligence in agriculture market for a short-term period. The level of investment with regards to AI in agriculture has been reduced due to the lockdown in almost every region ..."
-    publishedDateTime: 2022-05-04T11:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-agriculture-market-global-industry-analysis-growth-trends-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
+      name: LawCareers.Net
+      domain: lawcareers.net
+    quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
+        width: 439
+        height: 614
         isCached: true
-  - title: "Artificial Intelligence In Manufacturing Market- Reshaping the Industries with Speed and Accuracy"
-    excerpt: "The global artificial intelligence in manufacturing market has gathered pace in its growth with rapidly evolving industrial automation and IoT. Artificial intelligence or AI is one of the fastest-growing technologies in the recent years. Artificial ..."
-    publishedDateTime: 2022-05-04T09:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-reshaping-the-industries-with-speed-and-accuracy"
+  - title: "AI in Medical Hygiene Market 2022 Innovation, Business Strategy, Future Technology, Application, Top Key Companies Analysis to 2028"
+    excerpt: "Intelligence Market Report Publish New Research Report On-“AI in Medical Hygiene 2022 Market Analysis by Key Players, Applications, Growth Trends, Share & Segment Forecast to 2028” London, UK -- (SBWIRE) -- 05/03/2022 -- AI in Medical Hygiene Market ..."
+    publishedDateTime: 2022-05-03T16:47:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-3-ai-in-medical-hygiene-market-2022-innovation-business-strategy-future-technology-application-top-key-companies-analysis-to-2028"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Speech-to-text API Market to 2027 - Size, Share & Industry Trends Analysis Report - ResearchAndMarkets.com"
-    excerpt: "is a programming interface that enables the utilization of speech synthesis and recognition in a variety of devices and applications. Speech-to-text API is a multidisciplinary subject of computational linguistics that explores methods that allow computers ..."
-    publishedDateTime: 2022-05-04T16:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/b26996607/global-speech-to-text-api-market-to-2027-size-share-industry-trends-analysis-report-researchandmar"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26996607"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26996607"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "+hmyqfD6UteLowiO/8OCGHXKILKOTpz0Q6fKgbLz8P5E7EClTN0bCpWJUjyByN1a7pqwB+AqAaswXimaSdw/GtjI1HKH9W9IsAOqK5ClUWYqZxgiTv5Ckyvu7YWkaL0GKjV+rbWvgSp+GWiUdJ1PaIqZoIYecejTvpFJRlD5N81hm6PrhVY2p75eQ6UDx92z8K4ZrM6WTY/2gBgNgfSVOLo6Gck8oXz3Hx6kv6I6vX/Eaxwqbjr4KZGWuH6gW3XFCZu14r0W6QlnAcfkR9NzgBSGU48jua2d2zLln9az9ng5QoTuuYrQnTM36TlT9HoIWPIYWaL2TJ+0bTIQd8nyD6TQrMbvOQkvAUtRV9aOF8k=;VK88WzApyu1dDTqgBeEx/Q=="
 ---

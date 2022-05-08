@@ -28,7 +28,7 @@ related:
     provider:
       name: Leadership
       domain: industryleadersmagazine.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg"
         width: 1000
@@ -42,7 +42,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -61,6 +61,20 @@ related:
       - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
         width: 439
         height: 614
+        isCached: true
+  - title: "AI in Fashion Market Size 2022 Share, Growth Prospectus, Top Manufactures, Latest Innovation, Key Factors, Company Overview and Forecast till 2029"
+    excerpt: "The AI in Fashion research also includes crucial information on industry segmentation, market share, size and revenue forecasts with geographical representation. Get a Sample Copy of the Report at - https://www.marketresearchguru.com/enquiry/request-sample ..."
+    publishedDateTime: 2022-05-04T09:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-size-2022-share-growth-prospectus-top-manufactures-latest-innovation-key-factors-company-overview-and-forecast-till-2029-2022-05-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "jCKRO+7JEfzOd5XPrca71tQYkGNApeIZ86bpWrziF//qwdS2HK3dt1zsdYXQg8hxMjnYaS87+WFU+9YtYbD5MSiUrWxW89j5rLNbB0OL0ZFFPh8YFDpp+hGyp2JvIO6QVRCkxyypoQuU0mjcvndU4TshG/JT59efA8OM25xe8PFSA6f0xkV1rVu7sqJpFDFTYrAcoU7M8qCC0LpBBuUmy3CtZDFWZur7vo27T94VLAgBFdJCfMQpQigHSF3ITMRxLz1t+MSGZ7GodoZJUpdCwFfJTCDI2gnf3IPGfSn63aX8+16/m5b5b6KjeyTXQUjIcO/+jxH7WNezR1Kp0zUQPtARciIlNgxqN2mLm9VC8jU=;sX1f1Tr4LmjST+rBGxC5yg=="

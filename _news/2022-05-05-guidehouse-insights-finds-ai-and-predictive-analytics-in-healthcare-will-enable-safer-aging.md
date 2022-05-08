@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/guidehouse-insight
 webUrl: "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 640
         height: 336
         isCached: true
-  - title: "Dell Expands APEX, Adds Analytics And Data Recovery"
-    excerpt: "machine learning-based corruption detection, and post-attack forensics. Presumably, the company will be bringing these extended features to its Azure offering at some point in the near future as well."
-    publishedDateTime: 2022-05-03T13:30:00Z
-    webUrl: "https://seekingalpha.com/article/4506127-dell-expands-apex-analytics-data-recovery"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "5N62D9g7cCD4d5ubEH2b9y3e7V6Pd60QWvfL0NABLHKiauIGzF/YFCrLzH9bBqdM/mfKScWqG4dcIube5F2SeCw3ixb17bOlMzUIhMAUt8Y8mWLv9fjhGus1eDLVoyNqgNmzoWNiuMWoEl8/LzLOk3N5xvrdlr9aYycFLR6svUB2lc9cIwW8KFKCAKOBk9bZ5PH9hCh2JAu4jTV1xlcmDkxlYhldzDI4ETB8p/2zQYnaEoXI9LxXCzEuNRT1VwP8TFOgbITeqAYLxAW5tqvR4dmWVhHFSh+7lzT8wQZvarn/epUJ/kw8X+YfMTZuYQxlniW/b1rHLFzkkKP9OUQ+3q9vXA9qim3Gxnh3lpjpjnE=;gp4ny2Nutw1ZXNMABufLSw=="
 ---

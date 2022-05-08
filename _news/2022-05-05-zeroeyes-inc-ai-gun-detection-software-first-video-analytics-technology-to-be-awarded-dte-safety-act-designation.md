@@ -42,15 +42,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 16
-  - title: "Dell Expands APEX, Adds Analytics And Data Recovery"
-    excerpt: "machine learning-based corruption detection, and post-attack forensics. Presumably, the company will be bringing these extended features to its Azure offering at some point in the near future as well."
-    publishedDateTime: 2022-05-03T13:30:00Z
-    webUrl: "https://seekingalpha.com/article/4506127-dell-expands-apex-analytics-data-recovery"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "RgS2rpfv2s+z1+0qJvoscQduewaWrmTBXU3nSMNoc46DKnBelBhhGlY+gMPp/ma17vkw/6bobllczezLqm55feTGtE+OgeotEzq52PdJDpHJnOaEPYX0Nlq+8Oo34P8OxV8qb5RqhV/dCUPr01x0dgMr23UXTM/0I1EjDKnQDywLt7pxLuU6Azd10eANL3Rb0uRlfb5mx814DzI7HGP/WLFgBAND/huWnOFZVw+gcqONCKVyB4+JOtGYT+32BRiZUX7EpW1fNy14CuVYmd2JCU0NrGUg4i4qLjjHYWsQzfgu6+wepHipQWx7DuiUbzTa3JZ23umpSYLuOYgZhkEFgKqf69D0Mp5+ANqy0vHW0IqfHhJBg97tGEg9IRdEu0daMlIWWzFslzZ7KLwV/WdGA2DgOX5RSPpzKOpLOe1kqBw+3CACT0MAAwTwOhPSL5zBHeUkMEYmuEf6ku+9KmGH8zpOyRYwb6gzBM4G0Q51rL51Qy5vEdo8Phb5mTUmXcA7tLS9KfZnSm7OTQIji61AUw==;BEpmU9eTBrtYnELyFLbuJw=="
 ---
