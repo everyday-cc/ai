@@ -26,17 +26,6 @@ images:
     height: 1849
     isCached: true
 
-related:
-  - title: "A unique machine-learning model predicts homelessness among US soldiers before their transition to civilian life"
-    excerpt: "Their study, published in American Journal of Preventive Medicine, used an innovative machine-learning approach to accurately predict which military personnel are at greatest risk and should therefore be targeted with specific interventions to mitigate ..."
-    publishedDateTime: 2022-05-03T16:39:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/951574"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
-
 secured: "XaR/tEju8xocRJ/aUjAtHpOm5hNcbNPxhUfpZAKy7inpYQ/uV5+fBKM9gDOCq6QRF9tzPNMwJu6uK9gCuKRCk834Qlne5ewwnp3fPNk6gZhAZG12Am7xXhK+mH7RhUGYA93ntipvtgN6lhlrEfbvGmyVLtDHMX00zZITqjhVwkP7y66sC7tsTHWNs+JLOwDTVomT/SSeyhyZUlYESFona2lTzPWKUe5liMWNyna85WBSmil5qL08ZOYznhQVn7OUSlaNH3KexHpSgvRJQKO5WzR8AYzMx85okieUT39roYR7V+wm0NPaDswchExtcidrUdFaIKagx7uuNa185R6nvA65zdIXV3XkcvockZs+9ZLCs72TQWltYVPw2ZYpc2NF9RN23ebIY4qBx6RTInFpUj/P8IXIekhav3wzBsPbOIS7JWQWI+EVJL2+EiCakLV0RciuwxZ9Xzuq0WIDJrgQU7wQIwSrQgDPRqMt8+Z/rzeUzH+pl9Ul59R5jZZ6ZLYEle3iyURexKNVO9gfOOW6Bg==;Vlp4ubS12s2bZpHkNh8EDA=="
 ---
 

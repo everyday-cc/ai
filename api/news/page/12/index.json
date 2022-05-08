@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-04-25-this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration.md",
+      "title": "This Climate Fintech Startup Is Paving The Way For Mass Market Adoption Of Land Regeneration",
+      "excerpt": "It’s a little known fact that the hope of the future lies in land regeneration – avoiding meat, air travel, and the rise of electric vehicles have largely captured the headlines and our imagination.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
+      "originalUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266c933d798f8767744041a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 991,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/",
+      "publishedDateTime": "2022-04-25T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-experienced-sales-leader-tyler-norkus-joins-dynamai-as-chief-revenue-officer.md",
+      "title": "Experienced Sales Leader Tyler Norkus Joins Dynam.AI as Chief Revenue Officer",
+      "excerpt": "Norkus, a sales expert in emerging technologies, has led go-to-market strategy for startups both in the United States and worldwide. SAN DIEGO, April 25, 2022 /PRNewswire-PRWeb/ -- Dynam.AI, an artifi",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26792823/experienced-sales-leader-tyler-norkus-joins-dynam-ai-as-chief-revenue-officer",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26792823/experienced-sales-leader-tyler-norkus-joins-dynam-ai-as-chief-revenue-officer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26792823",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26792823",
+      "publishedDateTime": "2022-04-25T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-six-robotics-pioneers-win-2022-engelberger-awards.md",
       "title": "Six Robotics Pioneers Win 2022 Engelberger Awards",
       "excerpt": "The event will bring more than 500 companies showcasing the latest in robotics, machine vision, artificial intelligence (AI), motion control, and smart automation—and an expected 20,000 attendees—to the city's Huntington Place center. The Association ...",
@@ -1058,110 +1153,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai.md",
-      "title": "The Innovative Ways The United States Space Force Is Leveraging Data And AI",
-      "excerpt": "Speaking at an upcoming AI in Government event on May 19, 2022, Dr. Lisa Costa, Chief Technology & Innovation Officer of the United States Space Force will be sharing insights in how the US Space Force is delivering the first fully digital service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6264256f61e2dd81de312206/0x0.jpg?format=jpg&crop=2400,1350,x0,y240,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "publishedDateTime": "2022-04-23T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022.md",
-      "title": "AWS CMO Rachel Thornton on the future of customer-obsessed marketing in 2022",
-      "excerpt": "Customer obsession is core to AWS, and being data-driven in everything ... Experimenting with technology, such as machine learning (ML) or artificial intelligence (AI), in marketing can help ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1364769258-coffeekai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "publishedDateTime": "2022-04-23T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

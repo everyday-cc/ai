@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-05-artificial-intelligence-chip-market-size-is-expected-to-reach-19490-billion-by-2030.md",
+      "title": "Artificial Intelligence Chip Market Size Is Expected To Reach $194.90 Billion By 2030",
+      "excerpt": "According to a new report published by Allied Market Research, titled,“  Artificial Intelligence Chip Market by Chip Type  <stron",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030",
+      "originalUrl": "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?727425",
+          "width": 467,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-robots-help-reaching-un-goals-of-sustainable-development-ifr-reports.md",
       "title": "Robots Help Reaching UN Goals Of Sustainable Development – IFR Reports",
       "excerpt": "The use of robots plays an important role in reaching the sustainable development goals set out by the United Nations (17 SDGs). The International Federation of Robotics identified 13 SDGs, where robots help to create a better planet.",
@@ -444,7 +491,7 @@
       "originalUrl": "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -696,7 +743,7 @@
       "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/04/galileo_ml_error_detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -937,7 +984,7 @@
       "originalUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1160,49 +1207,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-baidu-gets-a-permit-that-tesla-will-envy.md",
-      "title": "Baidu Gets a Permit That Tesla Will Envy",
-      "excerpt": "\"Their self-driving fleet has driven 40 times the distance between San Francisco and New York City.\" Wei Dong, vice president and chief safety operations officer at Baidu Intelligent Driving Business Group, said in a statement that China's regulatory ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "originalUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUzMDgzODMwNjU4OTY3/amd-shares-higher-for-ninth-straight-day-chipmaker-unveils-new-cpu-deals.png",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
-      "publishedDateTime": "2022-05-03T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

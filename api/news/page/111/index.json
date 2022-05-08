@@ -2,6 +2,94 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2022-01-31-machine-learning-the-hard-way-ibm-watsons-fatal-misdiagnosis.md",
+      "title": "Machine learning the hard way: IBM Watson's fatal misdiagnosis",
+      "excerpt": "One of Watson's early set pieces was taking a complex set of symptoms and finding the most probable diagnosis out of an encyclopaedic knowledge of rare diseases. A different challenge marked its demise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
+      "originalUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/09/23/shutterstock_doc.jpg",
+          "width": 648,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
+      "publishedDateTime": "2022-01-31T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-profits-over-politics-aws-and-microsoft-execs-warn-of-chinas-ai-threat-while-growing-ai-hubs-inside-china.md",
+      "title": "Profits over politics: AWS and Microsoft execs warn of China’s AI threat while growing AI hubs inside China",
+      "excerpt": "The two biggest U.S. cloud companies are expanding their AI and cloud-related efforts in China even though their own executives have warned of threats posed by China’s AI development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
+      "originalUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-aws-is-balancing-profit-potential-in-china-with-ai-risk-its-own-ceo-warned-about-less-than-p-greater-than.png?id=29190512",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
+      "publishedDateTime": "2022-01-31T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-how-is-artificial-intelligence-used-in-business.md",
       "title": "How Is Artificial Intelligence Used In Business?",
       "excerpt": "By leveraging cognitive technologies ... You can use Amazon Web Services to… You can use the Google Cloud Platform to… A cloud computing service offered by IBM… It is the Microsoft Azure cloud computing service…. Cloud computing platform from ...",
@@ -1135,92 +1223,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-artificial-intelligence-for-business-what-you-need-to-know-about-machine-learning-and-neural.md",
-      "title": "Artificial Intelligence For Business: What You Need To Know About Machine Learning And Neural?",
-      "excerpt": "As a subcategory of artificial intelligence (AI), machine learning provides systems with the ability to learn and modify themselves based upon their experiences. There are different algorithms for machine learning (e.g. A neural network is a type of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ictsd.org/artificial-intelligence-for-business-what-you-need-to-know-about-machine-learning-and-neural/",
-      "originalUrl": "https://www.ictsd.org/artificial-intelligence-for-business-what-you-need-to-know-about-machine-learning-and-neural/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnictsd.ictsd.org/how-to-file-ftb-payment-for-limited-partnership-in-california-.jpg",
-          "width": 626,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-30T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ICTSD",
-        "domain": "ictsd.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-top-rated-robot-vacuums-to-make-cleaning-a-dream.md",
-      "title": "Top-rated robot vacuums to make cleaning a dream",
-      "excerpt": "Image: Myer. This robot vac from MyGenie has a super affordable price tag, and still boasts a 4.2 star average rating. It can be controlled via your phone or tablet, and features intelligent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857",
-      "originalUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.api.news/v3/images/bin/f8fc75011a0964af1c81d82401f7f44b",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp",
-      "cdnAmpWebUrl": "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp",
-      "publishedDateTime": "2022-01-30T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News.com.au",
-        "domain": "news.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

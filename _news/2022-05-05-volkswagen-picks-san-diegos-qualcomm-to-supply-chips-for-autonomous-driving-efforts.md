@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Volkswagen's Level 4 Self-Driving Vehicles Will Use Qualcomm Chips"
-    excerpt: "Volkswagen already selected Microsoft Azure as a cloud partner for its self-driving software. Level 4 automation, also known as High Automation, allows a vehicle to drive itself as long as a human ..."
-    publishedDateTime: 2022-05-03T15:38:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/140172/volkswagens-level-4-self-driving-vehicles-will-use-qualcomm-chips"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 54
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagens-level-4-self-driving-vehicles-will-use-qualcomm_2bq3.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "VW selects Qualcomm to power future automated driving"
     excerpt: "“We are proud to be supporting CARIAD with Snapdragon Ride Platforms to support NCAP, active safety, to Level 4, self-driving, functionality, across the Volkswagen Group vehicles launching from the middle of the decade,” said Enrico Salvatori, SVP ..."
     publishedDateTime: 2022-05-04T07:48:00Z

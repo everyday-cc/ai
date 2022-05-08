@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can Artificial Intelligence Help Fight Western Wildfires?"
-    excerpt: "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space and ..."
-    publishedDateTime: 2022-05-03T16:40:00Z
-    webUrl: "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires"
-    ampWebUrl: "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/bd7f643/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F29%2F8eabf0f5fb605508abbc28c7f04c%2Fshutterstock-2189586432.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Artificial intelligence tapped to fight Western wildfires"
     excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
     publishedDateTime: 2022-05-07T23:09:00Z
@@ -83,6 +67,6 @@ related:
         height: 450
         isCached: true
 
-secured: "LnwO3jyOF0IFIlkoGcvoO0jDlWs/NxACScdhDmP5UcGaAhNHzBD5NJbbgxSanJQJHerVo33emqD97YqR5/uq5YTMmpvKeNp86YIhaCy55PvEKi2B2/hxwBUoh5jd7VVbnncW6nP1EvejkW6mVmm8PkY6R93TTU2CuJgGcG4zKo+ReuCpMeGv+bkJSx8FvCkuqYVrnAqTeQ5eH+A77IQbKL6adapr2WkdAW9oYVf49pusGzKRcBF3hx49o2TGxYmjJI6OuFdrjg9d0Alpsu3KiKUqAea4vjh6EJAt558RAfuPVHkXymGWy2lYol+VSGFk2/sG8LblhI7q+PRgqfwaEpQIcE6kNo5AEYa932YyzZg=;4rB97SnYNJwdRXU6mw1oWQ=="
+secured: "0uWl7kdrUNbsCEK0RHA/h1zuc88/stZ2rNVsWuRbTc8xA9Z/dXCryzcwz0Sm2rZ33AqHMqzV5QHxeeWf7wtXVCJGDQHHYYE/ILBveJkalq35mp3WMq9H2jnC67icQ9nj91qw3cSN8bnzAGw+JX9CG9H2A3vOWxeylxxYWx/YLkSqg6OY2DZswktdh8Wy4OcqfWA7ttx4TFHHeCTXtQEuHedfOSuc1PBDV9fe5zZLBd0ui1mQl8ybi5Quj4pCZ9pDsCjVQK+Fa/IBdFGbSW+/fQwnR1GWUEfhA+gTAvTaECB/06zxLw4nvCEPR8R3qc89JQ2qPRMoOWBIIbl6s5RN3FmQdytiomlGjfkNngsZwRV1+MFIyWVo5YQG882qN4GEF1gYzsCtNh1V4eJp7UctNcHD4+5mzfozA0H/nWNbkPbD7++v2Pf2zDKFU3oefx5d21via8stqEEwJrIq4A77mwEk1nZCVxnwMFolwd0r57hZrDogkwCs3XW8FdPNl8H6PHeLqgkpVZgbNFXF9BC8sw==;6hBhJgMIRJYugsG3euf06A=="
 ---
 

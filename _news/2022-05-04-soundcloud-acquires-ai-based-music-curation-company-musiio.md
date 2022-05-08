@@ -84,34 +84,6 @@ related:
         width: 750
         height: 400
         isCached: true
-  - title: "SoundCloud acquires AI music company Musiio"
-    excerpt: "Co-founded by Hazel Savage, who has previously worked at the likes of Shazam, Pandora and Universal Music, the company claims to have built AI that can “listen” to music at scale. Speaking to MBW in December 2020, Savage explained that Musiio’s ..."
-    publishedDateTime: 2022-05-03T15:30:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/soundcloud-acquires-ai-music-company-musiio1/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 37
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2022/03/Hazel-Savage-Musiio-scaled-e1646998812740.jpeg"
-        width: 1707
-        height: 966
-        isCached: true
-  - title: "SoundCloud acquires AI music tech company Musiio"
-    excerpt: "SoundCloud has acquired AI music company Musiio. The start-up has featured on Music Week in recent months as it launched new products and established more partnerships for its machine learning tech, which enables rights-holders to gain greater control over ..."
-    publishedDateTime: 2022-05-03T15:53:00Z
-    webUrl: "https://www.musicweek.com/digital/read/soundcloud-acquires-ai-music-tech-company-musiio/085729"
-    type: article
-    provider:
-      name: Music Week
-      domain: musicweek.com
-    quality: 37
-    images:
-      - url: "http://www.musicweek.com/cimages/487a8841cdb1b8777194542e386ceedd.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Soundcloud acquires AI startup Musiio to bolster music discovery"
     excerpt: "Soundcloud has announced that it has acquired music AI startup Musiio. The company plans to use the technology to bolster its music discovery features. Soundcloud wants to make it easier to find what's up-and-coming in the world of music. In a press ..."
     publishedDateTime: 2022-05-04T23:46:00Z

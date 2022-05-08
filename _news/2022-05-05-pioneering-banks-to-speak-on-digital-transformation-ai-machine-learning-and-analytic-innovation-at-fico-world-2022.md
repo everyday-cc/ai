@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Medical Hygiene Market 2022 Innovation, Business Strategy, Future Technology, Application, Top Key Companies Analysis to 2028"
-    excerpt: "Intelligence Market Report Publish New Research Report On-“AI in Medical Hygiene 2022 Market Analysis by Key Players, Applications, Growth Trends, Share & Segment Forecast to 2028” London, UK -- (SBWIRE) -- 05/03/2022 -- AI in Medical Hygiene Market ..."
-    publishedDateTime: 2022-05-03T16:47:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-3-ai-in-medical-hygiene-market-2022-innovation-business-strategy-future-technology-application-top-key-companies-analysis-to-2028"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "h7SOyhsQN8V0qiuC12LFBIUGFv8cESLO+sUub1WHFRNIMdhHKZg8Sg+3wAqniVUUAwiVZ/PuQfcoUI/eA5Qv7ni6XnWz7HuUS49bVldWc1qrg0KtjuKiCVHggVDmeWqLczKUNTZQHuTvtwhHOvLq/SqOor+dv8GuARZk7UQQ+5TEBpOFPj7vCxDvF5xv5oNFzSBK1e5uzbGFYsb1HkhLj6GI5K2yG7ovB3hcVpXaWPf7lu0WXysqA8OdHL/apJjwBMGGo8fNecW+MdRcSlWPeHvksg39IGVTY0MWUGYFMYdosq6+C9ifaOiaR52fhPs+oRVfNRTQzRtn/sBdQxlWbmcBZoDFhKjrDp0bnGEJRgE=;94QZieYHry4AbS4hgQbKkg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2022/05/03/galileo-launches-to-give-data
 webUrl: "https://insidebigdata.com/2022/05/03/galileo-launches-to-give-data-scientists-the-superpowers-they-need-for-unstructured-data-machine-learning/"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -17,61 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Galileo emerges from stealth to streamline AI model development"
-    excerpt: "As the use of AI becomes more common throughout the enterprise, the demand for products that make it easier to inspect, discover and fix critical AI errors is increasing. After all, AI is costly ..."
-    publishedDateTime: 2022-05-03T16:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/"
-    ampWebUrl: "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2015/05/open-source-data-science.png?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "How AI Is Streamlining Freight Movement"
-    excerpt: "Increasingly, technology vendors are utilizing AI and ML to bring greater efficiencies to the digital ecosystem that connects freight, including transportation management systems, load boards and pricing and capacity management tools. Several developers ..."
-    publishedDateTime: 2022-05-06T14:59:00Z
-    webUrl: "https://www.ttnews.com/articles/how-ai-streamlining-freight-movement"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 37
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/itech-q2-cover.jpg"
-        width: 300
-        height: 403
-        isCached: true
-  - title: "Galileo exits stealth mode with $5.1M in funding to optimize AI training datasets"
-    excerpt: "Galileo has developed a software platform that promises to reduce the amount of effort required to find and fix errors in AI training datasets. According to the startup, its platform is capable of ..."
-    publishedDateTime: 2022-05-03T19:26:00Z
-    webUrl: "https://siliconangle.com/2022/05/03/galileo-exits-stealth-mode-5-1m-funding-optimize-ai-training-datasets/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/1.png"
-        width: 850
-        height: 483
-        isCached: true
-  - title: "Galileo Emerges from Stealth with its Machine Learning Intelligence Platform for Unstructured Data"
-    excerpt: "Galileo is emerging from stealth with a machine learning (ML) data intelligence platform for unstructured data that gives data scientists the ability to inspect, discover, and fix critical ML data errors fast across the entire ML lifecycle. The platform is ..."
-    publishedDateTime: 2022-05-05T19:04:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Galileo-Emerges-from-Stealth-with-its-Machine-Learning-Intelligence-Platform-for-Unstructured-Data-152802.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 5
 
 secured: "hPNoVv7SXTEiVzIxZ6Kd/i3RJ/bxvOJoRBf5XXWlfKm3kdo2Lw9y9/POn8/a1pCTl9Fzb2QtxDlQ6uSQo8X/OaLWr8UyBMIXuHvB4vUTVcO4oX2Ps4gLOIdP5ZPctr+Cek03PkyRmc7FkwfvhWofTfhdFlRKkYp/+WqQmVXivqqLCPYBt6EBuTkA7TklqO+eSa8hjGnF4sIJdhsyYEaysPB0QNE/OQnfNX0oKP3ZDqiJDzFixxU7HfFonT2QROVu4k3Mq7VEaZUZBdXg8Im0PODWNIJa9PJCLzrFVYem7A3q0bRpjCjtZWKQvFV8OONadltyKZmBfkrGTj3U0Sii74rKQXcmy/CtRTH045tsbQ4=;A6mC3T6ydjVgkdt18t2Wtg=="
 ---

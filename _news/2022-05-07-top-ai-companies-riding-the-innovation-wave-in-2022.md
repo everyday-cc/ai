@@ -9,7 +9,7 @@ ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
 type: article
 quality: 61
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Medical Hygiene Market 2022 Innovation, Business Strategy, Future Technology, Application, Top Key Companies Analysis to 2028"
-    excerpt: "Intelligence Market Report Publish New Research Report On-“AI in Medical Hygiene 2022 Market Analysis by Key Players, Applications, Growth Trends, Share & Segment Forecast to 2028” London, UK -- (SBWIRE) -- 05/03/2022 -- AI in Medical Hygiene Market ..."
-    publishedDateTime: 2022-05-03T16:47:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-5-3-ai-in-medical-hygiene-market-2022-innovation-business-strategy-future-technology-application-top-key-companies-analysis-to-2028"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "JhwW+W12iOuiNyH4t2lC0LEZfNbQdRfLfw4BUVKDgrFKvCUdKxdw6qoEYVM92Y7bOeIWoXCb7hnMO2eni+pDYepCyey7xrY1ZnZJeJZMXLcfrqFYfCZgEywRFo6LNdJSPu5Fi5dF1z2LbQlX27Ff2O7rhEY1sSiRl4qm8w1snBmNXTotLb/PLSW+4tRTIRCGRy6N7Tco5fvC49JJmzPm9w0oWtsF0xnC+55wAPPiYaziqM5inJUg03Weyo3ifx88tT8HvYsJokL8C93mAbVAf7IXzJegz7jpfn81QYMXlVuWeDWn6E9gyMMjS1c2BrLLcLz0c+VsKUVqnuL4+eV+qliVGt71iTCbqxFota5HqlxVmVxTP6e+/VPmffUynx3Nz3REIy2xx+30CrM2GJfj0ATevJjaeE7btIEf81GajVXpBj8BW3IwCnSSXmpLO4NErQkvxpP0OHTNnw33kmRvG8jBkZOhEuEkW1LjwKUoG1WY0r0hk5LQZfmzdjsefRcIbiqOm2LlL/TIeivMb6WO4Q==;4yLzZKsf17H2pxT+HCFAZA=="
 ---

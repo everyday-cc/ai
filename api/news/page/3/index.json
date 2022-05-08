@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-04-baidu-gets-a-permit-that-tesla-will-envy.md",
+      "title": "Baidu Gets a Permit That Tesla Will Envy",
+      "excerpt": "\"Their self-driving fleet has driven 40 times the distance between San Francisco and New York City.\" Wei Dong, vice president and chief safety operations officer at Baidu Intelligent Driving Business Group, said in a statement that China's regulatory ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "originalUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUzMDgzODMwNjU4OTY3/amd-shares-higher-for-ninth-straight-day-chipmaker-unveils-new-cpu-deals.png",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "publishedDateTime": "2022-05-03T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-meta-wants-to-improve-its-ai-by-studying-human-brains.md",
       "title": "Meta wants to improve its AI by studying human brains",
       "excerpt": "“Within the past decade, there has been tremendous progress in AI on a wide variety of tasks from object recognition to automatic translation. But when it comes to tasks which are perhaps not super well defined or need to integrate a lot of ...",
@@ -217,6 +260,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
+      "title": "Google Faces Internal Battle Over Research on AI to Speed Chip Design",
+      "excerpt": "The new episode emerged after the scientific journal Nature in June published \"A graph placement methodology for fast chip design,\" led by Google scientists Azalia Mirhoseini and",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp",
+      "publishedDateTime": "2022-05-03T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1109,101 +1195,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs.md",
-      "title": "AI Visionary And Innovation Leader Sumaya Al Hajeri Of The UAE AI Office May Be Exactly What This World Needs.",
-      "excerpt": "I teach how to stand up and walk again after a fall.” For my final interview with The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I had the privilege of speaking with Sumaya Al Hajeri. She is an executive professional in the field of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626ef52e2100d83a26834a2a/0x0.jpg?format=jpg&crop=828,466,x0,y115,safe&width=1200",
-          "width": 828,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/05/03/ai-visionary-and-innovation-leader-sumaya-al-hajeri-of-the-uae-ai-office-may-be-exactly-what-this-world-needs/amp/",
-      "publishedDateTime": "2022-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
-      "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
-      "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics, artificial intelligence, and healthcare technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
-      "originalUrl": "https://www.entrepreneur.com/article/426610?curator=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

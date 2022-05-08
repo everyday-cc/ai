@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-05-02/google-fa
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: U.S. News & World Report
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Google faces internal battle over research on AI to speed chip design"
-    excerpt: "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips."
-    publishedDateTime: 2022-05-03T16:54:00Z
-    webUrl: "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Why Did Google Fire Another AI Researcher?"
     excerpt: "Google has recently fired machine learning scientist Satrajit Chatterjee after he and his team put questions over Google’s research paper. According to The New York Times, Satrajit and the team challenged Google’s research paper about the usage and the testing of artificial intelligence in making computer chips."
     publishedDateTime: 2022-05-06T07:49:00Z

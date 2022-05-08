@@ -2,6 +2,83 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-03-12-deep-learning-is-hitting-a-wall.md",
+      "title": "Deep Learning Is Hitting a Wall",
+      "excerpt": "\"Let me start by saying a few things that seem obvious,\" Geoffrey Hinton, \"Godfather\" of deep learning, and one of the most celebrated scientists of our time, told a leading AI conference in Toronto in 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/259244-deep-learning-is-hitting-a-wall",
+      "originalUrl": "https://cacm.acm.org/news/259244-deep-learning-is-hitting-a-wall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-ai-could-help-you-understand-animal-speech.md",
+      "title": "AI Could Help You Understand Animal Speech",
+      "excerpt": "Researchers in Copenhagen may have found a way to translate animal sounds to human speech, making it easier for us to communicate with our pets and other animals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lifewire.com/ai-could-help-you-understand-animal-speech-5221922",
+      "originalUrl": "https://www.lifewire.com/ai-could-help-you-understand-animal-speech-5221922",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lifewire.com/thmb/-8IapDgHkSURLTYAwKaaNJXYbPQ=/2121x1414/filters:fill(auto,1)/GettyImages-84303682-7c195ae84a034617bbe5a2a6e6c23853.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-11T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lifewire",
+        "domain": "lifewire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-deep-learning-a-framework-for-image-analysis-in-life-sciences.md",
       "title": "Deep learning: A framework for image analysis in life sciences",
       "excerpt": "Scientists are constantly seeking imaging systems that are faster, more powerful and capable of supporting longer observation times. This is especially true in life sciences, where objects of interest are rarely visible to the naked eye.",
@@ -1036,102 +1113,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-samsungs-object-eraser-mode-takes-on-googles-magic-eraser.md",
-      "title": "Samsung’s Object Eraser mode takes on Google’s Magic Eraser",
-      "excerpt": "Samsung has a hidden challenger to Google's Magic Eraser mode on the Galaxy S22 UItra. It's called Object Eraser, and this is how you use it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/galaxy-s22-ultra-object-eraser.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-object-eraser-vs-google-magic-eraser/?amp",
-      "publishedDateTime": "2022-03-10T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-baidu-globals-marketing-platform-mediago-supported-by-xandr.md",
-      "title": "Baidu Global's Marketing Platform MediaGo Supported by Xandr",
-      "excerpt": "\"Further deepening our commitment to driving results for both advertisers and content creators, we are delighted to partner with Baidu and bring the best of Xandr's technology to MediaGo,\" said Sze How Chan, associate director of market development at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=151847",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=151847",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/144120-0322_SpeechAnalytics_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],
