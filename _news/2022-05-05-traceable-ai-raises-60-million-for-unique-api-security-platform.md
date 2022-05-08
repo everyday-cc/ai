@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
         width: 342
         height: 342
         isCached: true
-  - title: "Traceable AI Raises An Additional $60M For Deployment Of API Security Product"
-    excerpt: "[RELATED STORY: Security Startup Traceable Gets Funding From CISO Group] In a press ... In an interview with CRN, Jyoti Bansal, co-founder and CEO of Traceable AI, wouldn’t disclose how much of the company’s sales are currently through the channel."
-    publishedDateTime: 2022-05-03T18:53:00Z
-    webUrl: "https://www.crn.com/news/security/traceable-ai-raises-an-additional-60m-for-deployment-of-api-security-product"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 31
 
 secured: "r9cY8CvjIsf8cktUSesj0RWsVyFXFJ+vGWyKKVEY9CKBUfGyq2A8vvqlPSl/LkWEAlqbkkagpFeUXHEHfgcYlFinddGaK3v/Ty9DT8m3rsaU+jMoB+tW7M+kfNqmdO6ifM2BEscTEPyEQVq4JwHoaYcQxla/8z3LTkc5DiUux0BmVjHnAYOuDiDRW2vWqaiFVTM/3qxQh7GqoHSNjGp87aB2Zim+O4vAgLOpFP/rwIYadgBI5l7YAXXU5dfV1gYCH8DQ+9kLic4k6mGyokvT6wE9otg7rUJAxdJtnP8MOJKdP/E9qvORigdH244vTlp2NOxx3qjxtr3yVlfb15giigI9Q3B8Qj48fSeeaGoG6uBAuLRsWMG+TtnFaa0J0h4oNzHFQuTn74EBR6i8ZptHj1Z65yWBFv4WM6t9NgS53NO7lWDS0zoWG0zOhhI1MBmOuBVhEKLRMI72uXSaHGWFcJhGrzvZwJJrMfNejnRNgTh/llcBMc+t49h/NYJR6xN2WLXW+QtjNNq8NBOCa/YPKw==;UIo7Q+15bmo4s346BdN7tw=="
 ---

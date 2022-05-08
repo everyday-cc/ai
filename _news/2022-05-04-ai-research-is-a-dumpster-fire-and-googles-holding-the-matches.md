@@ -46,36 +46,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google fires another AI scientist who challenged its findings: NYT"
-    excerpt: "Google fired AI scientist Satrajit Chatterjee in March after he reportedly challenged a paper by the company, which had claimed that computers could design some chip components better than humans. As per New York Times, Google confirmed that Chatterjee was ..."
-    publishedDateTime: 2022-05-03T17:30:00Z
-    webUrl: "https://inshorts.com/en/news/google-fires-another-ai-scientist-who-challenged-its-findings-nyt-1651599027167"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/google-fires-another-ai-scientist-who-challenged-its-findings-nyt-1651599027167"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/google-fires-another-ai-scientist-who-challenged-its-findings-nyt-1651599027167"
+  - title: "Why Did Google Fire Another AI Researcher?"
+    excerpt: "Google has recently fired machine learning scientist Satrajit Chatterjee after he and his team put questions over Google’s research paper. According to The New York Times, Satrajit and the team challenged Google’s research paper about the usage and the testing of artificial intelligence in making computer chips."
+    publishedDateTime: 2022-05-06T07:49:00Z
+    webUrl: "https://www.techthirsty.com/why-did-google-fire-another-ai-researcher/"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/05_may/3_tue/img_1651597873197_322.jpg?"
-        width: 1080
-        height: 721
-        isCached: true
-  - title: "Researchers Are Using AI And Apple Watches To Check For Weak Heart Pumps"
-    excerpt: "We took advantage of those data to see whether we could identify a weak heart pump with AI analysis of the watch ECG. While our data are early, the test had an area under the curve of 0.88, meaning it is as good as or slightly better than a medical ..."
-    publishedDateTime: 2022-05-03T17:12:00Z
-    webUrl: "https://www.redmondpie.com/researchers-are-using-ai-and-apple-watches-to-check-for-weak-heart-pumps/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 36
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2019/03/apple-watch-ecg-02.jpg"
-        width: 600
-        height: 429
-        isCached: true
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 19
   - title: "Apple staff decry hybrid pilot as driven by fear; Google fires another AI researcher; Zepto, Traceable, Toplyne, and Kaleidofin raise funding"
     excerpt: "Google has sacked another AI researcher for questioning its science, NYT reports. And investors pour hundreds of millions more into Indian startups"
     publishedDateTime: 2022-05-04T05:27:00Z

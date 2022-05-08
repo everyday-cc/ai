@@ -69,15 +69,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Self-driving cars are coming, but lack of federal policies hampers sector"
-    excerpt: "But some senators say they want the U.S. Department of Transportation to take the lead on the issue. Self-driving cars \"are a priority for us, and we are doing what we can with the authorities and flexibilities we have, but we lack a fully established ..."
-    publishedDateTime: 2022-05-03T18:59:00Z
-    webUrl: "https://www.bondbuyer.com/news/lack-of-autonomous-vehicle-regulation-a-problem-in-the-u-s"
-    type: article
-    provider:
-      name: The Bond Buyer
-      domain: bondbuyer.com
-    quality: 3
 
 secured: "jJ14PfO0fEtG3gdmzdkpB+PK5aIqDKojlcD8KpeYd3WDIfXAGLFahtyM0HtDxb1+SW/PTGn9OaxOqr6wMPSpkChGnwM0xKqt5FrJ0QywfLAqRNJ1cR5BP0GS43TERU05K1OgoYcseZOhd6QtgE8Xm3Fg4eC58sYXqFRdo49FBjZqCG0HS0yuX1gU3lkwguUutqjLYqt5SDHoJuh6zD6gf4cUQQJHXCFsR2NlcdJEW55XETb1NdExzuKOMGgU4GqOqzDhMLRIyTssKmlAq5CDQsAUxo8Xflx9B5+a//BtFhlVvs84s5/pieT/cpLEixest/2U8mpaWDRBXbCdmBLxXAR45+x/i4aVktGWdQm2HNw4R/JUqGeuUhv96H7IrDmI4piRL6yEJd1aOsGlQtLievPHRxxRke7F3ALI2JhieB2VdhmtnS5nheAUk64/oMOChgmJ7t/vWytsZwmkPEGWCI2Eq/alwbAorJ5mChOm6XZ9gfCONAgKoidLjf2cxjleC93pTqB0AjV0bLQeqjqeYg==;PqVBmA/WxAGsOfrTi0fTEA=="
 ---

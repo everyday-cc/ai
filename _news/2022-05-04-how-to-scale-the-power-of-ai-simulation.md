@@ -46,17 +46,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "The robots aren’t coming for your jobs — at least according to these AI and robotics leaders"
-    excerpt: "(GeekWire Photo / Todd Bishop) PITTSBURGH — There are no shortage of headlines about automation, artificial intelligence and robotics wiping out large swaths of employment, from truck drivers to painters to food service workers. But opinions are mixed on ..."
-    publishedDateTime: 2022-05-03T17:52:00Z
-    webUrl: "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/"
-    ampWebUrl: "https://www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/the-robots-arent-coming-for-your-jobs-at-least-according-to-these-ai-and-robotics-leaders/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 88
   - title: "Three Things To Consider When Bringing AI To Asset Management"
     excerpt: "In another recent report on the topic, Deloitte suggests that asset managers should start by focusing on quick wins, embracing strategic collaborations and partnerships and clearly defining their AI strategy. There's something to that. When implementing AI ..."
     publishedDateTime: 2022-05-04T13:45:00Z

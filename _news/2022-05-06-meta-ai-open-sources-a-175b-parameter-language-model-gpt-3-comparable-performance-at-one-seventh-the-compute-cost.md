@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2022/05/06/meta-ai-open-sources-a-175b-para
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/05/06/meta-ai-open-sources-a-175b-parameter-language-model-gpt-3-comparable-performance-at-one-seventh-the-compute-cost/amp/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     width: 509
     height: 455
     isCached: true
-
-related:
-  - title: "Meta opens access to its large language model for AI researchers"
-    excerpt: "Meta said the scientific community needs to be able to work together to advance AI research and probe for vulnerabilities. Facebook’s parent company Meta said it is sharing its large language model trained with more than 175bn parameters, to be available ..."
-    publishedDateTime: 2022-05-04T07:08:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-large-language-model"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 41
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_465885157_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Facebook-owner Meta Opens Access To AI Large Language Model"
-    excerpt: "Meta said its model was the first 175-billion-parameter language model to be made available to the broader AI research community. \"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable ..."
-    publishedDateTime: 2022-05-03T22:30:00Z
-    webUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg"
-        width: 1200
-        height: 803
-        isCached: true
 
 secured: "29Cp89x4M6Ianv/CmzYs52984GKXgCWxWWMYwdqncs3iE2FUPY0lS10KgsnExqZjJL/qQBG7NT6FRWU2Bl+khHVljJDt2dq5d2Mf29FBycSuk6I+Ng6RGrPfakwFamhaVydnXR14XrStSO86wexMPIWtnZ18/J78N/ux6Ndjwv/gyBIL1HInug371HCf7mtWR8miZxUAW5c0rfgDscEB9cx8BMJ8UbS0jILXan7asJwm8bvjZND+nLoroHySamy6KZOUpP7DjJJkGQjmPgCMPxu1F2tAmr/FQBp1JRcCRRI+jWkjSomlxEL+SQQLdjXje8TKCbWbJOmtzbbh809Db2P/oV+4veJ84QtKCJ1NPubeq/HYUcKkVg8YiVpQFpCReo57DZMT16E0OkTGYrtIc2THMk6vvW0azJ2s/0Vz1fep6D72ak1CReyz71cZmYcxPFYNMds3KOUHmVFHReKOjHVwHxpiowyAgFNVdHTt7plO1FAka3Lvhf7zNLrznl9LFdlM32QDAqhP0HSgJGOyTw==;863Y1SO3rQhjOGicHOApWQ=="
 ---

@@ -48,22 +48,6 @@ related:
         width: 1130
         height: 690
         isCached: true
-  - title: "NVIDIA Jetson AGX Orin Dev-Kit Eval: Inside An AI Robot Brain"
-    excerpt: "NVIDIA Jetson AGX Orin: AI And Robotics Developer For All NVIDIA ... 20.04 preinstalled right out of the box, so the initial startup sequence will be familiar to Ubuntu veterans."
-    publishedDateTime: 2022-05-03T17:10:00Z
-    webUrl: "https://hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit"
-    ampWebUrl: "https://amp.hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 78
-    images:
-      - url: "https://images.hothardware.com/contentimages/article/3201/content/small_running-nvidia-jetson-agx-orin-devkit.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
 secured: "UgUnvxU1s3lXXhFzeNirmCCLfFfbkMaOf4fC5O7FClw0EotVYH5fHCyOjGhBDfjoWh2nbJMZbRGNtc7vRrpQC0wgfTAIq5rXDfWWjRtGOUrJbtOq3s990e6ta038PtKOY2jKn6vG6BhqrA/pp79De+QmQI8XxcCi2yTyNtBXr0uh+FS7aeAaVoaqBZJLkz4oVTsFPMPEG8H6rHKbeVQ09Cqt3/Y28UhR6OocwOCizdn6Cs4wHMw7beb5W3DqzMhfRjK8MgDm4S6MxvVnuOabKwPXdM0qpDsrMw0p7PeiNWrXbquiIFmxyGs3FCZK8JCUSfE43FRQODE4+N+YRO2magF9GGXddAD1Mo3JcbpEoxA=;kChBrzv5fTHY7ujDYtImZQ=="
 ---

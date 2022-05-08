@@ -1,26 +1,30 @@
 ---
 category: news
 title: "ZeroEyes, Inc. AI Gun Detection Software First Video Analytics Technology to be Awarded DT&E SAFETY Act Designation"
-excerpt: "U.S. Department of Homeland Security (DHS) Recognizes ZeroEyes AI Software, DeepZero™, as Promising Antiterrorism Technology and Grants Liability Protections for Customers ZeroEyes weapons detection AI is the first video analytics technology to receive ..."
-publishedDateTime: 2022-05-05T12:28:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zeroeyes-inc-ai-gun-detection-software-first-video-analytics-technology-to-be-awarded-dt-e/article_87b9b44f-f4b6-51fc-8c77-5cddd47093d3.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zeroeyes-inc-ai-gun-detection-software-first-video-analytics-technology-to-be-awarded-dt-e/article_87b9b44f-f4b6-51fc-8c77-5cddd47093d3.html"
+excerpt: "This marks the first time that any video analytics technology has received any kind of SAFETY Act designation. ZeroEyes weapons detection AI is the first video analytics technology to receive any kind of SAFETY Act designation."
+publishedDateTime: 2022-05-05T12:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/zeroeyes-inc-ai-gun-detection-software-first-video-analytics-technology-to-be-awarded-dt-e-safety-act-designation-1031425415"
+webUrl: "https://markets.businessinsider.com/news/stocks/zeroeyes-inc-ai-gun-detection-software-first-video-analytics-technology-to-be-awarded-dt-e-safety-act-designation-1031425415"
 type: article
-quality: 15
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/02/902a8dfa-af68-58b8-b854-a9ca2c5d504d/6078391843400.image.jpg?crop=640%2C336%2C0%2C72&resize=640%2C336&order=crop%2Cresize"
-    width: 640
-    height: 336
+  - url: "https://mma.prnewswire.com/media/1395849/ZeroEyes_Logo.jpg"
+    width: 400
+    height: 300
     isCached: true
 
 related:
@@ -43,6 +47,6 @@ related:
       domain: theregister.com
     quality: 16
 
-secured: "RgS2rpfv2s+z1+0qJvoscQduewaWrmTBXU3nSMNoc46DKnBelBhhGlY+gMPp/ma17vkw/6bobllczezLqm55feTGtE+OgeotEzq52PdJDpHJnOaEPYX0Nlq+8Oo34P8OxV8qb5RqhV/dCUPr01x0dgMr23UXTM/0I1EjDKnQDywLt7pxLuU6Azd10eANL3Rb0uRlfb5mx814DzI7HGP/WLFgBAND/huWnOFZVw+gcqONCKVyB4+JOtGYT+32BRiZUX7EpW1fNy14CuVYmd2JCU0NrGUg4i4qLjjHYWsQzfgu6+wepHipQWx7DuiUbzTa3JZ23umpSYLuOYgZhkEFgKqf69D0Mp5+ANqy0vHW0IqfHhJBg97tGEg9IRdEu0daMlIWWzFslzZ7KLwV/WdGA2DgOX5RSPpzKOpLOe1kqBw+3CACT0MAAwTwOhPSL5zBHeUkMEYmuEf6ku+9KmGH8zpOyRYwb6gzBM4G0Q51rL51Qy5vEdo8Phb5mTUmXcA7tLS9KfZnSm7OTQIji61AUw==;BEpmU9eTBrtYnELyFLbuJw=="
+secured: "Ra9ybmYJ07zqKGv7CPHMAPSuyD9ODXev6UkbglGqFWp0kQwyBrP9xf1a67d6t4wvvH9n3K8oNs0pnVeVk2zw20qjm3DlmFfIKlYSoAZPorwi3WBUF7O/UgSVxm5KIlnn+OGy+2xByVKFh8VEHDFgsfBtQQ46fO+LvL8QH7Vz1/EWRFhuQ5L+qYnJsPHsbHQMrkJI51oFjrtbn5753sP3u609yBP55oXr9DdXxFYTQyGU+iAsx2bQbrnwraDNfx4r9IG0xSa4DcJobC8qfXw5wNhI+b9djc3uZLIk+zVVDlRVcOP5yABhLUhwwMiWS14YJ0KrxPyVuZXjMtlXv4D4LIpRfpUqMdMU0mWjw/Hlqsw=;hsgR7YO/n8oUIjj2OncoWw=="
 ---
 

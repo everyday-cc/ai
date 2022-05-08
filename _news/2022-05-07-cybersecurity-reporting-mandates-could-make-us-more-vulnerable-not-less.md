@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 6000
         height: 3750
         isCached: true
-  - title: "W-S startup Salem Cyber, promising ‘a paradigm shift’ in cybersecurity, raises $250K seed round"
-    excerpt: "WINSTON-SALEM – The Winston-Salem-based cybersecurity startup Salem Cyber has closed ... Salem Cyber’s product, Salem, is best thought of as an AI cybersecurity analyst, according to the ..."
-    publishedDateTime: 2022-05-03T18:31:00Z
-    webUrl: "https://wraltechwire.com/2022/05/03/w-s-startup-salem-cyber-promising-a-paradigm-shift-in-cybersecurity-raises-250k-seed-round/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 5
 
 secured: "egZTh4RjUtq6H4KhX0HcAUxG7VY3mM6fKY2zIqWZhX9glEr4VY3ALwja53/PRuaxJsNa1Blp4G1XVRQrd0L+YqiLdo5/JfDa3gLZSj4BTBP/OMrlUHwBkbUSEJr+drzJqZz8LIP+7AGX2UH1H7+VTjZfm3McIiJcF3GPhqXVMBlWJdJu+FGew0qWOxJpHhv3YjiKXc+gTf2/mZmoL/g5OQM0QvsjDYUpcaEJ3pbFSRqLHIvhLPEAsBwVWbpAmZyZdT8vjlSuXp6y6GJ+sajVVGe6Ykl3HjUwe+Z4LNwWH16bGS11xUDbCn2V0QoZyu7njZQgvD0zd8mvKJCQX0E2Y6swrLVOCDodATbjHWYEibGrF0dArILrtpFtPa0SwraDltnHavfH4mNFT0SBuYGyRTnMD0eemAJsnQF1+BxqQij3bxaPx77loYMGi5BSg8BArLV2BQ3D/AlvhjkOhkceSLYt5NkITuuP1M550LwWGq1o7gAoqpousKl0pm1M2orVIIwQ3HO9e4I5+9xvVPQePg==;jSmzvyNQdLuAAQqIuEDYuA=="
 ---

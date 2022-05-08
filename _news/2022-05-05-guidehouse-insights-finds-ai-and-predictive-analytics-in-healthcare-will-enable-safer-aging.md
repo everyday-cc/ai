@@ -23,6 +23,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "ZeroEyes, Inc. AI Gun Detection Software First Video Analytics Technology to be Awarded DT&E SAFETY Act Designation"
+    excerpt: "This marks the first time that any video analytics technology has received any kind of SAFETY Act designation. ZeroEyes weapons detection AI is the first video analytics technology to receive any kind of SAFETY Act designation."
+    publishedDateTime: 2022-05-05T12:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zeroeyes-inc-ai-gun-detection-software-first-video-analytics-technology-to-be-awarded-dt-e-safety-act-designation-1031425415"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://mma.prnewswire.com/media/1395849/ZeroEyes_Logo.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
     excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
     publishedDateTime: 2022-05-06T12:54:00Z
@@ -32,20 +46,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 16
-  - title: "ZeroEyes, Inc. AI Gun Detection Software First Video Analytics Technology to be Awarded DT&E SAFETY Act Designation"
-    excerpt: "U.S. Department of Homeland Security (DHS) Recognizes ZeroEyes AI Software, DeepZero™, as Promising Antiterrorism Technology and Grants Liability Protections for Customers ZeroEyes weapons detection AI is the first video analytics technology to receive ..."
-    publishedDateTime: 2022-05-05T12:28:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zeroeyes-inc-ai-gun-detection-software-first-video-analytics-technology-to-be-awarded-dt-e/article_87b9b44f-f4b6-51fc-8c77-5cddd47093d3.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 15
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/02/902a8dfa-af68-58b8-b854-a9ca2c5d504d/6078391843400.image.jpg?crop=640%2C336%2C0%2C72&resize=640%2C336&order=crop%2Cresize"
-        width: 640
-        height: 336
-        isCached: true
 
 secured: "5N62D9g7cCD4d5ubEH2b9y3e7V6Pd60QWvfL0NABLHKiauIGzF/YFCrLzH9bBqdM/mfKScWqG4dcIube5F2SeCw3ixb17bOlMzUIhMAUt8Y8mWLv9fjhGus1eDLVoyNqgNmzoWNiuMWoEl8/LzLOk3N5xvrdlr9aYycFLR6svUB2lc9cIwW8KFKCAKOBk9bZ5PH9hCh2JAu4jTV1xlcmDkxlYhldzDI4ETB8p/2zQYnaEoXI9LxXCzEuNRT1VwP8TFOgbITeqAYLxAW5tqvR4dmWVhHFSh+7lzT8wQZvarn/epUJ/kw8X+YfMTZuYQxlniW/b1rHLFzkkKP9OUQ+3q9vXA9qim3Gxnh3lpjpjnE=;gp4ny2Nutw1ZXNMABufLSw=="
 ---

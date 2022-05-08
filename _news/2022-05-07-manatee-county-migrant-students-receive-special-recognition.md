@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 656
         isCached: true
-  - title: "CTC Students Earn Recognition from Toastmaster International"
-    excerpt: "The program was coordinated by Angel Vallejo, a local Toastmaster representative. From the first attempts at public speaking, which was a basic introduction speech, to their final career presentation, there was amazing growth both individually and as a group."
-    publishedDateTime: 2022-05-03T18:56:00Z
-    webUrl: "https://www.cadillacnews.com/news/ctc-students-earn-recognition-from-toastmaster-international/article_b9be2a52-c65b-11ec-ba3a-e3c6301d48cf.html"
-    type: article
-    provider:
-      name: Cadillac Evening News
-      domain: cadillacnews.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/c/c2/cc2f3116-c65d-11ec-b718-236fc8ca52ce/6269954e26712.image.jpg?resize=666%2C500"
-        width: 666
-        height: 500
-        isCached: true
 
 secured: "4D2bGd4g5rD38MpwKF6+3ljfd93+o2pajUCdrBqDD6y7YfUI1YVciErIMyKAq+8y8T6L/YWlIPYwlhxCDxPAHAkIisJ/7TfHaQ6XNMNdKJVGM9l6cNPyJM+C0nc0a/f7dS8d+HLsDwTHCQZFwRX6UwGo4q5pstaNOKrUjqLGWMQyWczTHp1/7kTOVBe38nZnnTpOdMFz7DTvYWL59weJGJljgsm8q/c8y98ptgcaDsgVlfVxZ0S4JuhhgRrugqEcWv/3H+NgPV/EIhGEOhtaEQ47e23rON3tS/iofWPvc5nxo3XvnwIHND65Vygzi44v66SkC29IkthSCTJaDgy9CrEwYf4elirlb09OADl9FGA=;YSTFSEItF5wFVzs8m0RVNw=="
 ---

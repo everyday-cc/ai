@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/"
 type: article
 quality: 114
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/65f9eefdcf0ad8ce01d670618abb267863d6977f/2022/05/04/82b87660-6f44-46d8-b887-3097b1e32a95/20220429-nvidia-h100-hopper-ai-gpu-03.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "NVIDIA Jetson AGX Orin Dev-Kit Eval: Inside An AI Robot Brain"
-    excerpt: "NVIDIA Jetson AGX Orin: AI And Robotics Developer For All NVIDIA ... 20.04 preinstalled right out of the box, so the initial startup sequence will be familiar to Ubuntu veterans."
-    publishedDateTime: 2022-05-03T17:10:00Z
-    webUrl: "https://hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit"
-    ampWebUrl: "https://amp.hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/reviews/nvidia-jetson-agx-orin-development-kit"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 78
-    images:
-      - url: "https://images.hothardware.com/contentimages/article/3201/content/small_running-nvidia-jetson-agx-orin-devkit.jpg"
-        width: 708
-        height: 398
         isCached: true
 
 secured: "UUbLlnMzeT/AuUMk37H7bFQY8EYYXBiihO9UFZ8bM29n3Y+TowzsgA4uJtwrtON+NbEj+1T/2ZKSdgXklW/APqOqOYwh3DOQeLikQrCosoc4e/wAD3VvThd5DVjX21ZJO/KdKLKz/3HEbUNVM3rz1s+xQ95zq9dlivNPh2pxwvsNYsA/nFxtvj9KZaDWtT1LQfQc9bBM23Vd3mUmlxNApGVkKmWQqkefekCIbMsITzwEYxR2fv2CQcAttfxTWsXULOHWmE9FRpsx19eqtzaw0D2rkjqxdc+j+oAa8Rm8aU9Hr0gmC+cq9woM6e5nPiUXImRIQ8gXuiGylfWnc0Tq0G0rUdGGRzS/78Ep/1BEc8yMyduxF7q8BF04kETi+e82utJp9UPsMau3UxjT42+nm5fDVV8xH1STI8V90EkL22qtwfpqrkjnD0VD9Wj+3JL3upwvbgD0MXnxaVmKXxjq3yczbgRCBaspprXqsXalTwYmSn9Lek6Wbbik6mf+Thc5GMyCWSt7dw4h0slTarylpQ==;kGZ7ek/+HzoJI24wcf1YpA=="

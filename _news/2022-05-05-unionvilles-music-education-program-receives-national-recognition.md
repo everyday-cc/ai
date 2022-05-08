@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-pr
 cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "CTC Students Earn Recognition from Toastmaster International"
-    excerpt: "The program was coordinated by Angel Vallejo, a local Toastmaster representative. From the first attempts at public speaking, which was a basic introduction speech, to their final career presentation, there was amazing growth both individually and as a group."
-    publishedDateTime: 2022-05-03T18:56:00Z
-    webUrl: "https://www.cadillacnews.com/news/ctc-students-earn-recognition-from-toastmaster-international/article_b9be2a52-c65b-11ec-ba3a-e3c6301d48cf.html"
-    type: article
-    provider:
-      name: Cadillac Evening News
-      domain: cadillacnews.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/c/c2/cc2f3116-c65d-11ec-b718-236fc8ca52ce/6269954e26712.image.jpg?resize=666%2C500"
-        width: 666
-        height: 500
-        isCached: true
   - title: "Manatee County migrant students receive special recognition"
     excerpt: "High school seniors received special recognition at the 36 th annual migrant education ... \"Some of the barriers and things that they face for example might be poverty, a language barrier, and in addition their parents move from one county to another ..."
     publishedDateTime: 2022-05-06T23:37:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has"
-publishedDateTime: 2022-05-05T21:44:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/article_a96b96d0-db29-5133-9bf7-187e3639c1c5.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/article_a96b96d0-db29-5133-9bf7-187e3639c1c5.html"
+excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
+publishedDateTime: 2022-05-05T22:44:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+    width: 400
+    height: 205
     isCached: true
 
 related:
@@ -64,6 +64,6 @@ related:
       domain: digitaljournal.com
     quality: 25
 
-secured: "1ntV9OjmUE+4kUTYFwR1QVRQqwYHRD+q6rwf64Qo8/0ucU/kNwDYiFDDx4Ndzx4O7/JIyYd7bFm9Vr9Y3xa5WDZtOdbqkMJgICXlZnwg2W+brDZiPru/DZXUDd/SN/YapvJBTajdkIhGE/PeE8Zgp9UIj7OLzvc1Lz9hiV6iBRwzNW8yywHnrASHaOCcImWclW6SUM+Yn+FZfPmMKyt7u7TrHjSzdoY5oTb1QFF4uNFvgCZBVMuV01ghBWts2o55aNnAJatXHbGg/zqzG2ZYfsgPYDQd/S6koyKWcSssoQKulm5PQKa2ffqOGFtEHP2NS6QuuX4go9KqzHr6lR95jpdiyCUvo3+H9GW7KRJ+MrXm+Lbm2wOQK6n9/hzpEdTQYHwJyWqVJuwNmCl4/7nE3lap9eY6iR0YNva0QnrvDBKAYxHsw04XpHgBKIYXNScbiWzRQGbAeEbVNJARjmBQoeh08BtI/AbpQRIJsEgsjXjqfn5SFoWUDJq2IP3mlc0yD+NAjbowHKdnMBjolTRfpQ==;hbXemf41FZRKjALdB9ekmw=="
+secured: "bXXrdEoWm1CDZkBWvFQt7qFBhq1VDMl2/F9E8lDkcpqCL0c3zwYiTgNU4feePZI1BVqmcRMPfZD8exSxbPJOpd8s5YsNTzOBh093JZr9JGz/1z+omCLCplDdz8msGWk8nFBjfN0L0MkOpdfKiaMp9iC8N/iuJdx/Db0QC8kzZBPhL3zcwGeemUScRg2Vrj6NF5V/cqBU7c+mmyt79QQi3QDi3AHmnIzf+ND39v9whH9H6vZOMTp8M0eQsOUotYQ7jmMk/cWYI9TroN9VEL315P5VM809aXYnCpvL4pFUhB7hO417Xj7OhwlJ+CXuT2Umf5/mNTTUMu+Hv6GqLrZKR4Uplv7bL85RjvQ/H5XM93M=;+CTdqAkwm+QeSh/aRspu+Q=="
 ---
 

@@ -27,45 +27,48 @@ images:
     isCached: true
 
 related:
-  - title: "Meta wants to improve its AI by studying human brains"
-    excerpt: "“Within the past decade, there has been tremendous progress in AI on a wide variety of tasks from object recognition to automatic translation. But when it comes to tasks which are perhaps not super well defined or need to integrate a lot of ..."
-    publishedDateTime: 2022-05-03T23:00:00Z
-    webUrl: "https://www.popsci.com/technology/meta-ai-language-models/"
-    ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
+  - title: "Facebook-owner Meta opens access to AI large language model"
+    excerpt: "Meta said its model was the first 175-billion-parameter language model to be made available to the broader AI research community. \"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable ..."
+    publishedDateTime: 2022-05-03T21:22:00Z
+    webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 61
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://www.popsci.com/uploads/2022/05/03/patrick-tomasso-Oaqk7qqNh_c-unsplash-scaled.jpg?auto=webp"
-        width: 2560
-        height: 1707
+      - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Robots to improve human mobility"
-    excerpt: "Her research blends two interests: biomechanics and robotics, with a focus on locomotion and balance control. In a nutshell ... Those are important questions the team keeps in mind while investigating how humans move and how robots can improve mobility ..."
-    publishedDateTime: 2022-05-05T13:41:00Z
-    webUrl: "https://www.queensu.ca/gazette/stories/robots-improve-human-mobility"
+  - title: "Meta opens access to its large language model for AI researchers"
+    excerpt: "Meta said the scientific community needs to be able to work together to advance AI research and probe for vulnerabilities. Facebook’s parent company Meta said it is sharing its large language model trained with more than 175bn parameters, to be available ..."
+    publishedDateTime: 2022-05-04T07:08:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-large-language-model"
     type: article
     provider:
-      name: Queen's University
-      domain: queensu.ca
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 41
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_465885157_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Meta opens access to AI large language model"
+    excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
+    publishedDateTime: 2022-05-04T03:20:00Z
+    webUrl: "https://www.asiaone.com/digital/meta-opens-access-ai-large-language-model"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
     quality: 39
     images:
-      - url: "https://www.queensu.ca/gazette/sites/default/files/assets/socialmedia/Walking%20in%20the%20lab%201200x630.png"
-        width: 1200
-        height: 630
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/Screenshot%202022-05-04%20at%2010.16.38%20AM.png?h=690322e4&itok=OAImWZns"
+        width: 600
+        height: 316
         isCached: true
-  - title: "Making sense of complaints – using AI to improve learning from patient complaints"
-    excerpt: "Emilie joined techUK in June 2021 as the Programme Manager for Digital Ethics & AI. Prior to techUK, she worked as the Policy Manager at the education charity Teach First and as a Researcher at the Westminster think tank Reform. She is passionate about the ..."
-    publishedDateTime: 2022-05-04T08:50:00Z
-    webUrl: "https://www.techuk.org/resource/making-sense-of-complaints-using-ai-to-improve-learning-from-patient-complaints.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 14
 
 secured: "M9G+4yCEu1CtSq2PlOiWw8vREBVPkJNWCXDqJOG0iYH8R2BJnlLJo4t/tSgTtSGySsJrCHNTMouTBbHJhk782BvLCCzkd+6xmdj29s0Hqx9G5iUwadnGHjIHMCn/rOQhtVQKOSN3sACzOTcP6W2kguHScWoqr911sl8p5mEHisvlT5rzAIb8E52P+J7Wzq/yqgAkiLKs/flxOYd/D78KSs5nrDfgT1CNdLXtcARXmw/C+y67HQrTcgeYMMFAlEs5LGdm+8hSQmOAAIAXyHaO/0g6UQCrQcUUfbcVKS67tkwf3wKFTKmJvWFSaEusjLyXmGvYKL6zDZx1Qnj0EiUsXGFEWQU1ymdLmVPUwSrBNOs=;jGf7aTO+xgf4mRa4GWohbw=="
 ---

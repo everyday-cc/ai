@@ -80,15 +80,6 @@ related:
         width: 2048
         height: 1812
         isCached: true
-  - title: "Mobai, authID.AI biometric PAD compliance confirmed with perfect scores"
-    excerpt: "Mobai and authID.AI have each received compliance confirmation for the ISO/IEC 30107-3 presentation attack detection (PAD) standard, demonstrating their effectiveness against biometric spoofs with error-free evaluations. Mobai it passed the test with both ..."
-    publishedDateTime: 2022-05-03T18:39:00Z
-    webUrl: "https://www.biometricupdate.com/202205/mobai-authid-ai-biometric-pad-compliance-confirmed-with-perfect-scores"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 17
 
 secured: "FA/QKQ1lIgfekajO3TBQt3uffALkc64WMd8/Ix3K3v3e5vbVKHeDoWHe4A+hu4mdangxlFePpIeWsXnOh/QO8t+rv8YHVjM7vPbE+3MDdhZGBwJP7eQdE9tJ8tURciPBtsFlkYtwj94gQ5X0nVGYnCO/S1lzLJfnrX6qh43m1l7joMB7xkoiOG3ZYfwQd87xZXwkfNKn6xOZqHrkqB6tdREY1yEWFkSAQkwnY41Wlpt7KmmL9k49VVDrC/sywJWZcdYxlpfoVqDNB17NTPBriqYxGuJp3mZrZI/JoXsju7zv/rCE62oMCUD4tgk72UV8GPyKTZUuXYF7xNwetgw03MBRlSqx2t5G5Y4gugd4jfm0Qjxn1kYWpAHG8qeMu9ZnzsTExJgCd4ADvTcPqcmHofX58uWo6v5CPbugX/qZXHKlEeox+EagtOD6esPbbo0F9t6TMhhj7pP6UGmSkbBoy3UrkAez8DMwEkLQcfu/+w3p127u5dmZeVAdAKc3gQeoQGJ3HMRGzTtFDtahhlaF7A==;/iW8XONC0BPEr2EagKmLLA=="
 ---

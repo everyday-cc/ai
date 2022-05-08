@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-espe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Self-driving cars are coming, but lack of federal policies hampers sector"
-    excerpt: "But some senators say they want the U.S. Department of Transportation to take the lead on the issue. Self-driving cars \"are a priority for us, and we are doing what we can with the authorities and flexibilities we have, but we lack a fully established ..."
-    publishedDateTime: 2022-05-03T18:59:00Z
-    webUrl: "https://www.bondbuyer.com/news/lack-of-autonomous-vehicle-regulation-a-problem-in-the-u-s"
-    type: article
-    provider:
-      name: The Bond Buyer
-      domain: bondbuyer.com
-    quality: 3
 
 secured: "jQA4+pWNhC3M41jakP4bjTeKgEXzpu9fxXe3bl0sz8EERaU7eVkBIsp32w6QLbZCDPsralKwxV1jd2eMq9Ge0itL51Xgr1RSt+keDnrDko4L74Avk0AhUIJRIkVb/WOn9jLPHArO0kRgMFIzxcReSdPiuShMMqVaXnCyKVudhqb4Hd+PMCjsv7NOKp3ju2ocADXy/oaMwBsGOtrty7rDIqiDBSj7ZEYYBCQGY9JzsK3cGDXx3kKXH2+J7+bpBKqHzh/kiXwLtz26qsWbWajyZN4MaN87o4olN68U2d24rJSP2QgX2elx7WHHk7l+yZlGx9Qcy75NlIWRBVfUov0v7P6r9EdfmfMg7hl9nO9GtZ7i0Ew+vRLrZVqczasH4f48j+H6Pwk9n/uixL9zay+brssJFzYDeVeKVhfg9BwscM8NlUaioyo/dbBf27R4l2la6gszmPUH1tKrzUoB45nVNc6oGQuKu2a9MkHwIFtyGa8fhilysdw/6tGEu03Y12kAb9NrqqzbavIhc2HAh2uVJg==;Hhvgp36De/wT/4Z+t+Vvvw=="
 ---

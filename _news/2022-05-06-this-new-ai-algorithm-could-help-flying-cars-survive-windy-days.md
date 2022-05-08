@@ -8,8 +8,8 @@ webUrl: "https://www.popsci.com/technology/neural-fly-ai-drone-in-wind/"
 ampWebUrl: "https://www.popsci.com/technology/neural-fly-ai-drone-in-wind/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/neural-fly-ai-drone-in-wind/?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.popsci.com/uploads/2022/05/05/Caltech_Neural_Fly_08-scaled.jpg?auto=webp"
@@ -25,6 +26,6 @@ images:
     height: 1312
     isCached: true
 
-secured: "4aw4H1K37GZ2JNpWk+g4ffsZGEhVpg6NLJMufypRkeaKOx+hv5aiKLSLCOLVwXwTuSG4WmozXn3zByLNvr+/GNsLlpUra3Ak7X7Vuz+Buut2pEa0p0McTMHKX7O5e2N2i5z8Rq1W7re5lSUXT+crq/R/65YjszgGhFkHXaxiilzbnr4owLcakQLyjlvpA5B/ieVhgvXtCwVg+iILi6oMtBUHqHwVOdlJN1X57tt8ziZdSprJ+h636WVO9V3+R3Z0k+ao9wx7Dk1TszqGZYPZUJM2KNrTyE1R2zISxcD2EgX2yRZp+GnuVAByM9mnVLKfo1exz3V5rzTrS+6pk9mNOoS5FAThhGhOcUSnFbRHq1A=;WKLCcSl1KL3iImCBJDLFkA=="
+secured: "tYpSJqNaUNyu2wHmdLd49d80bhcUYbRgDrps9GertOopbbAfb94Hoe/eMOt+NZ8N3Qm1WY/jRL+SijcN/wheq2IbDQEz76KqZh67B1ki7AN69haZm6ZaqLRn1/5CNDvNH2PngPge7CPatcdFQZnPgFNmbcRATMaotUfRNvwWivnDzwTKMFoZNz2/guoqEjIWJg6uZF+NWjdvOqSX3b9EdivDK5On7wakN6T7+JLB+nQQiBI2DEeoqlXKYiNvM/8yL2jaO+irx1AINWgakeioqq6RYqCYc+WF8TwW/gY1dmto5jv656FpUIgPJE8itTSVx4+MvPPXZ78zzVAAq6BfRAMMuZvk1EWxpgcOcbR9DMi7s+aaEeOPKG0twld2QA9/ok3KWhRc+TZn4D1AyQeGUnwlNyE/AbHC6zXHdrmv7G76SYI390KYUjMNx9V37uXgTaPxWf1BkZVJa009kSWCFLEVsO49z/nVx9eou2fqLHirXwsF58WMGDr8aOzICzmpxJu3MRrzNDuVW8aDe3e11A==;R33Lj4w5lDjgW9ym6OQQdg=="
 ---
 

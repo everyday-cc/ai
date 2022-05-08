@@ -89,15 +89,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Traceable AI Raises An Additional $60M For Deployment Of API Security Product"
-    excerpt: "[RELATED STORY: Security Startup Traceable Gets Funding From CISO Group] In a press ... In an interview with CRN, Jyoti Bansal, co-founder and CEO of Traceable AI, wouldn’t disclose how much of the company’s sales are currently through the channel."
-    publishedDateTime: 2022-05-03T18:53:00Z
-    webUrl: "https://www.crn.com/news/security/traceable-ai-raises-an-additional-60m-for-deployment-of-api-security-product"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 31
 
 secured: "ITL/4aQ9cKIQQ4bli57II9ZBXnvDxpwFHfvFD5VAb/daBS/w2Gx284dOJTvlIXc/krGEVgxnGIyu1KTmjX9pxzt+6KI3VlMpLAA/vnXTKSmxykW+/fVLSMvp/Km4ZhZEoSX9ymmwx0VYrrd/Chgu5Ib+Z1fN84juJXrPrf7gStZgo2B7ALf+xLf8615uJuX/N6RsNKr1K9aVQbNlejljNeKH/Iq4DsBrHiArDpPjqPBtz6jPDeHAUzJQONsIqKZdQDTOADtavLgWdAQ7Nm0CLNOhCt7i6mVZ+Ujcbusz8rXJlRiPAkBvk/5O3aJFZmZ3cGaZV5zvG4tWbxtXeucuWE+jhwBeXP+18CFqAKafO+nmUt5H1MRmZjDvCNK9NvOJjMA3YErgEjsXIVdhiZacC/Fk5ZrcR5m+MiIG+36rs3UQY87i2cILloqfMT1LeJkm9/xDDdEVzpUlxmajuUqGyxSgvYd/DsDvs/uvFHzzSWan6S+R8Lt09nh/lVnkZugKZ2lNBMClBdak1JYBd2PoHw==;tc2qWg4EyLKNjYVIz41rLw=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Meta opens access to its massive AI language model"
-    excerpt: "Meta’s Open Pretrained Transformer (OPT) model will be the first 175-billion-parameter language model to be made available to the broader AI research community. Facebook-owner Meta Platforms Inc is opening up access to its massive language model for ..."
-    publishedDateTime: 2022-05-04T11:54:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/meta-opens-access-to-its-massive-ai-language-model/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 43
-    images:
-      - url: "https://eandt.theiet.org/media/18218/meta-6946620.jpg?crop=0,0.20708333333333334,0,0.3007291666666666&cropmode=percentage&width=1200&height=450&rnd=132961391880000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "Making sense of complaints – using AI to improve learning from patient complaints"
     excerpt: "Emilie joined techUK in June 2021 as the Programme Manager for Digital Ethics & AI. Prior to techUK, she worked as the Policy Manager at the education charity Teach First and as a Researcher at the Westminster think tank Reform. She is passionate about the ..."
     publishedDateTime: 2022-05-04T08:50:00Z
