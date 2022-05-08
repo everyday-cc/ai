@@ -83,35 +83,19 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Traceable AI Announces $60 Million Series B,"
-    excerpt: "Traceable AI, a firm that “protects APIs from the inside” has raised a $60 million Series B round at a valuation of around $450 million. The funding was led by Institutional Venture Partners (IVP), and includes the participation of Tiger Global ..."
-    publishedDateTime: 2022-05-03T13:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/05/190562-190562/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/190562-190562/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190562-190562/amp/"
+  - title: "API Security Innovator Traceable AI Lands $60 Million Series B"
+    excerpt: "SAN FRANCISCO, May 3, 2022 /PRNewswire/ -- Traceable AI, the API security & observability company, today announced it has raised $60 million in Series B funding. This new funding values Traceable AI at more than $450 million. This investment round was led ..."
+    publishedDateTime: 2022-05-03T13:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/03/9594378.htm"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Security-Lock-Door-Deadbolt.jpeg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "API security startup Traceable AI raises $60M on $450M valuation"
-    excerpt: "Application programming interface security startup Traceable Inc. announced ... The round values Traceable AI at $450 million. Including the new funding, Traceable AI has raised $80 million ..."
-    publishedDateTime: 2022-05-03T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/05/03/api-security-startup-traceable-ai-raises-60m-450m-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/traceableai.jpeg"
-        width: 1024
-        height: 628
+      - url: "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg"
+        width: 400
+        height: 244
         isCached: true
   - title: "API Security Company Traceable AI Lands $60 Million Series B"
     excerpt: "SAN FRANCISCO, May 3, 2022 — Traceable AI, the API security & observability company, today announced it has raised $60 million in Series B funding. This new funding values Traceable AI at more than $450 million. This investment round was led by ..."

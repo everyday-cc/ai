@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/article/4506588-meta-platforms-reality-
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4506588-meta-platforms-reality-labs-hardware-and-artificial-intelligence-story"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 750
     height: 375
     isCached: true
-
-related:
-  - title: "AI and the Metaverse: 2 Big Reasons to Buy Meta Platforms Stock"
-    excerpt: "Short-form video is the vessel TikTok and Reels use to deliver content, but artificial intelligence (AI) sits in the background curating the entire experience. Social media has become less social -- people open TikTok and rely on the app to know what they ..."
-    publishedDateTime: 2022-05-03T11:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock"
-    ampWebUrl: "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
 
 secured: "LLrESgov7jTTVESN/5L9dZa+vqYJ3EKlmhTaKV31eE4Fgy9qAcMuIrIcNdxjsXGthB4WnB+6V5bGWJWnrqSLCClVjdHXpakBHKQWRh47WrqeobHskF6rVXtL7ndy1AxGA5UDlexN+61JCQ5Cei6lOZLXiW7KInM8EKqwXFz2YUZX4AbBLA9h1py4ePOSYHnf39aFPBDDTQ725wWe/L5YtCCEyh26h2q5YaMCQYTeNQThVl/xofSixDD70aw5M1mGSTCnSCE61COXetmkioUsFV7erkGYvspQ2uRudEV/J5Efqcz6pl5vcAhXSwOLZ09wbFJR0XGkunAVue1ZmY9NXKUv+6dwDKlA+8zhC71+sLV0B8SA7Coyhr1gmwSU0VVvYdwi3gY9cK0OHcYpqxmt2ySjUHC5+9GCJ7i2rN+OaaRRa6DnoyLd9lGEbDTJwCUD+9DXEWjMKM9V9QOhS6MW5XC+VrRQJPczNOXbReMNpqFCxHmdOJ4i4zd4sHmrUQL/6RiODhQaE694O43OwgX0dQ==;nwd9Mai9CA2gs+7EKrC9zA=="
 ---

@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM Watson Health’s Challenges Tell Us More About Healthcare Data Than It Does About AI"
-    excerpt: "CEO of 1upHealth, a cloud-based data interoperability platform built on FHIR that unlocks healthcare data to help improve outcomes. IBM Watson Health started its “life” with big aspirations, great intent and a lot of fanfare. After years of effort with ..."
-    publishedDateTime: 2022-05-03T12:38:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/ibm-watson-healths-challenges-tell-us-more-about-healthcare-data-than-it-does-about-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
   - title: "Who is ethically responsible for the actions of AI"
     excerpt: "The work is described in ‘The Dawn of the AI Robots: Towards a New Framework of AI Robot Accountability‘, published in Journal of Business Ethics – available in full, expect much philosophical language."
     publishedDateTime: 2022-05-04T11:32:00Z

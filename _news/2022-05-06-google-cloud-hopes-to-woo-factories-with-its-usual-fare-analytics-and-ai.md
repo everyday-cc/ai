@@ -7,7 +7,7 @@ originalUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/
 webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/?td=amp-keepreading-top"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Guidehouse Insights Finds AI and Predictive Analytics in Healthcare Will Enable Safer Aging"
+    excerpt: "Passive monitoring, an important addition to the smart home, is replacing traditional forms of personal emergency response systemsBOULDER, Colo.,"
+    publishedDateTime: 2022-05-05T09:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
   - title: "ZeroEyes, Inc. AI Gun Detection Software First Video Analytics Technology to be Awarded DT&E SAFETY Act Designation"
     excerpt: "U.S. Department of Homeland Security (DHS) Recognizes ZeroEyes AI Software, DeepZero™, as Promising Antiterrorism Technology and Grants Liability Protections for Customers ZeroEyes weapons detection AI is the first video analytics technology to receive ..."
     publishedDateTime: 2022-05-05T12:28:00Z

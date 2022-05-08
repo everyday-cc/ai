@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://holycitysinner.com/wp-content/uploads/2022/04/owen-beard-K21Dn4OVxNw-unsplash-1000x600.jpg"

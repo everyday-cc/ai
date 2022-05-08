@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-science
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-health-oakland-artificial-intelligence-4fe1e65abb2145858b4c1c1dc21d2357"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,14 +26,37 @@ images:
 
 related:
   - title: "Panalgo Wins \"AI Innovation Award\" in 2022 MedTech Breakthrough Awards Program"
-    excerpt: "\"We extend our hearty congratulations to Panalgo for another MedTech Breakthrough Award; this time for the 'AI Innovation Award.\" About Panalgo Panalgo provides software that streamlines ..."
-    publishedDateTime: 2022-05-05T12:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program-1031425626"
+    excerpt: "Panalgo, a market-leading healthcare analytics company, today announced that its IHD Data Science module has been selected as the winner of the \"AI Innovation Award\" in the 2022 MedTech Breakthrough Awards program."
+    publishedDateTime: 2022-05-05T15:30:00Z
+    webUrl: "https://www.koin.com/business/press-releases/cision/20220505NE43139/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: KOIN 6
+      domain: koin.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1808942/MedTech_Breakthrough_2022_Panalgo.jpg"
+        width: 400
+        height: 387
+        isCached: true
+  - title: "Leading HealthTech AI company NuraLogix announces new partnership with LaFiya TeleHealth"
+    excerpt: "TORONTO, May 5, 2022 /PRNewswire/ - NuraLogix, a leading HealthTech AI company, has announced a new partnership with LaFiya TeleHealth, a Nigerian-based telehealth platform which provides 24/7 virtual healthcare services to residents in remote and rural areas."
+    publishedDateTime: 2022-05-05T12:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27017597/leading-healthtech-ai-company-nuralogix-announces-new-partnership-with-lafiya-telehealth"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+  - title: "Ardent Health Services Partners with AI Company Winnow to Modernize Clinician Recruiting"
+    excerpt: "Healthtech company Winnow has partnered with Ardent Health Services to leverage its AI solution for clinician recruiting. The partnership deepens Ardent's commitment to digital innovation and gives it"
+    publishedDateTime: 2022-05-05T18:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27032086/ardent-health-services-partners-with-ai-company-winnow-to-modernize-clinician-recruiting"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "NwudrE+4T6eFfiTtj2aVqsV6Pw1XtA/C5jMUqOl730AzFpZvi1yrQGxYmc9SX7bqJL+4rNXqrtJtkIgSiNlVEOuIo5khk01Q8z5eJP6FWzmVchIIlY5V5rJeez21JlXb73ibWlW42J2M4kgsWT4lr5gxW71Q1rkn2018QISOPidOMzgHSn/LYtGSvtmr3egC75Yf3WzqwG5x74GXGscYKUE8pCi4U+sTBD5tUDSzyoBMP9nS2nhr+EivVp+f+VbTNVUWQzWkKUF8OYSyPLTn7vOAgvWWTU7eruXvyCJipgnDOzS7FXM02OKXeoV8WbDMnX8HuwJXW6PtWctVhGqdwD2pkjnD2dMuzLBDvKEynPI=;URggG28YqzCjXjthn45bmg=="
 ---

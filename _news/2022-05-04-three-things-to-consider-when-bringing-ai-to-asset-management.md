@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Housing association tests AI and machine learning to cut costs"
-    excerpt: "Jointly developed by the University of Bradford and the housing association, Incommunities, the two-year project will use machine learning to predict things such as boiler checks, general maintenance, and housing repairs, and could also be used to help ..."
-    publishedDateTime: 2022-05-03T11:11:00Z
-    webUrl: "https://www.bimplus.co.uk/housing-association-tests-ai-and-machine-learning-to-cut-costs/"
-    type: article
-    provider:
-      name: bimplus.co.uk
-      domain: bimplus.co.uk
-    quality: 54
-    images:
-      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/04/img94joktmu7877.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Finbots.AI Raises $3M in Series A Financing"
     excerpt: "Finbots.AI, a Singapore-based AI-based company that brings innovation to banks and financial institutions, raised $3m in Series A funding. Accel made the investment from Fund VII. The funds will be used to accelerate product improvement, marketing and ..."
     publishedDateTime: 2022-05-04T23:01:00Z

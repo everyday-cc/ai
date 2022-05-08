@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-com
 webUrl: "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities-2022-05-04"
 type: article
 quality: 60
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -109,20 +109,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "AI in Infrastructure Market Analysis Size, Share, Growth, Demand, Outlook By- Trends, Opportunities, Challenges, And Investment Feasibility 2029"
-    excerpt: "The new study report titled “Ai In Infrastructure Market” comprises a thorough coverage and essential advancements in the market based on analysis conducted by our research analysts. The information was developed with a fantastic combination of ..."
-    publishedDateTime: 2022-05-03T11:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-infrastructure-market-analysis-size-share-growth-demand-outlook-by-trends-opportunities-challenges-and-investment-feasibility-2029"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Qantas-Airbus-A350-1000-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "9LXwdtKaekgxtQSqVDVgPPQacfYNLqGxRXjnZOc7Z/hlDvSXI1uBOgOXI25pBdj/FHE6fgt4VwkIEwSnUWELf1SA3FcfLeRyns+sg0IFuxuKHBTMUtkL4jHHk5WQOHB5yv9fGZ4ZN+PcFC9fPeUJNRzvWNwExSxGi/1jnZNnP10bdKOrZcseWU9thrV3O3ZmmE3UB8LlOv+MCROwx2PwdXiVGXmDdfww/7ON4HCthQ2j9efwnXHziuQUEpPzz6byDVFvrui1kWhSosELLuns0p51mJm8vb5xVQEJ75o+TTfKa7p3qfq+qkgk3Zc4i/jImwMWuSrJfd1XAhzwXLd+rpq2r4I16DiUojIPheojyEQ=;qFYRgLUJait6CJiG5G3UNw=="

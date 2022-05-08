@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Panalgo Wins \"AI Innovation Award\" in 2022 MedTech Breakthrough Awards Program"
-excerpt: "\"We extend our hearty congratulations to Panalgo for another MedTech Breakthrough Award; this time for the 'AI Innovation Award.\" About Panalgo Panalgo provides software that streamlines ..."
-publishedDateTime: 2022-05-05T12:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program-1031425626"
-webUrl: "https://markets.businessinsider.com/news/stocks/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program-1031425626"
+excerpt: "Panalgo, a market-leading healthcare analytics company, today announced that its IHD Data Science module has been selected as the winner of the \"AI Innovation Award\" in the 2022 MedTech Breakthrough Awards program."
+publishedDateTime: 2022-05-05T15:30:00Z
+originalUrl: "https://www.koin.com/business/press-releases/cision/20220505NE43139/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program/"
+webUrl: "https://www.koin.com/business/press-releases/cision/20220505NE43139/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program/"
 type: article
-quality: 43
-heat: 43
+quality: 33
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KOIN 6
+  domain: koin.com
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1808942/MedTech_Breakthrough_2022_Panalgo.jpg"
+    width: 400
+    height: 387
+    isCached: true
 
 related:
   - title: "Eko Recognized with Second Consecutive MedTech Breakthrough Award for AI Innovation in Healthcare"
@@ -36,7 +38,25 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Leading HealthTech AI company NuraLogix announces new partnership with LaFiya TeleHealth"
+    excerpt: "TORONTO, May 5, 2022 /PRNewswire/ - NuraLogix, a leading HealthTech AI company, has announced a new partnership with LaFiya TeleHealth, a Nigerian-based telehealth platform which provides 24/7 virtual healthcare services to residents in remote and rural areas."
+    publishedDateTime: 2022-05-05T12:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27017597/leading-healthtech-ai-company-nuralogix-announces-new-partnership-with-lafiya-telehealth"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+  - title: "Ardent Health Services Partners with AI Company Winnow to Modernize Clinician Recruiting"
+    excerpt: "Healthtech company Winnow has partnered with Ardent Health Services to leverage its AI solution for clinician recruiting. The partnership deepens Ardent's commitment to digital innovation and gives it"
+    publishedDateTime: 2022-05-05T18:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27032086/ardent-health-services-partners-with-ai-company-winnow-to-modernize-clinician-recruiting"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
-secured: "pyPlr/5mZ1ccq+m/fGzCRmrCHDxct06gp0Vn7Immu6wM830hMo2f1Eaw59DeB+9QZ7u6jtdlmbWbQ/UO6fWeKAUs6Gy5OC4FNLRq7mKJ+Lclj3Y/K20zZSMGS+6P9tdL0frbUXiGGWsWVP5qakWsABrNbZnAcENVcOv1TIg+Tt5UMoXbGtB1ILA/+i3YtNp3m54JrBW4PQrRy/mSq8D6pUhcu1cZKMR5y18/nnzbXsJRcyyokvvweW3CfQfIvp0cex4hsfxu7yHuRy+1usrDQSH63ttaiz6eG9Dar8NRMOSy5qC+yMv9i+/X6H2AgCY9MGni8MGkJu75PLPxKB5FOgepf/pxLpcllP73LQotVHYd2JIPPVGiBpGXRrNFN2zPtTidICJVXYuYQqYmKMa+m4sHo0pk1J+SVpJFDXyYf4ub3KsQHi8FgWeQ+3aRU8lImdIlyRdVQf3bHJYOzOLbCr27VNz/yS/S/Om8gKLqaNiVzhVTauo1YRrDeygNL/F9fvyNo7dTI1Mm2mRyyM8z7A==;GxT8aeERaUMrhdDtsrDcAg=="
+secured: "izgGWoETM9gMn42YHeuMgy2kFOR/i+TvXeHi3VariP4IsgQMqF0UyiQuAYu1Wttl9SoeE1Zm6ELW555LrkswbeUaivAlveazpDop+VN0/S3ABRXpk9Q4GZjAWfJQ1FSGbEdtdJsoLb9Nvj5vqQM5WGaqp0qj/BnAsPE7tfomRNvNEp9iejpwJ9ni6EH3lOWrwH6pIUwnuG9FgMnjQS1ebV0DqY62rYTBD9wVj0JkknnF32FdqQNKDtZ8CP56LD7nHIRR64qSNXxPBsMagO1e4Tc/i1EWl078WLDUtrighHs58KXNJQ8yJR0R3zzCI/6ahkKFQ0LVuAOA5e1prwfqZ4uKiQClk9MhrJO0uQEhIzU=;fhLf1e5SCeUKWniIGOLN/Q=="
 ---
 

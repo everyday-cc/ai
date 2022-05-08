@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Guidehouse Insights Finds AI and Predictive Analytics in Healthcare Will Enable Safer Aging"
+    excerpt: "Passive monitoring, an important addition to the smart home, is replacing traditional forms of personal emergency response systemsBOULDER, Colo.,"
+    publishedDateTime: 2022-05-05T09:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
   - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
     excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
     publishedDateTime: 2022-05-06T12:54:00Z

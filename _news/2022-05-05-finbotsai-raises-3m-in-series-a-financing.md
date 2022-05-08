@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Housing association tests AI and machine learning to cut costs"
-    excerpt: "Jointly developed by the University of Bradford and the housing association, Incommunities, the two-year project will use machine learning to predict things such as boiler checks, general maintenance, and housing repairs, and could also be used to help ..."
-    publishedDateTime: 2022-05-03T11:11:00Z
-    webUrl: "https://www.bimplus.co.uk/housing-association-tests-ai-and-machine-learning-to-cut-costs/"
-    type: article
-    provider:
-      name: bimplus.co.uk
-      domain: bimplus.co.uk
-    quality: 54
-    images:
-      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/04/img94joktmu7877.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Three Things To Consider When Bringing AI To Asset Management"
     excerpt: "In another recent report on the topic, Deloitte suggests that asset managers should start by focusing on quick wins, embracing strategic collaborations and partnerships and clearly defining their AI strategy. There's something to that. When implementing AI ..."
     publishedDateTime: 2022-05-04T13:45:00Z
