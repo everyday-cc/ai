@@ -2,6 +2,100 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-02-15-reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance.md",
+      "title": "Reliance’s Jio Platforms Invests $200 Million In AI-Driven Mobile Startup Glance",
+      "excerpt": "Indian billionaire Mukesh Ambani’s Jio Platforms, the tech arm of Reliance Industries, has invested $200 million in multinational tech company InMobi’s mobile content startup Glance. Glance, backed by the likes of Google and PayPal cofounder Peter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/?sh=3a20b79740a4",
+      "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620b3a6c4afff558e3bf109e/0x0.jpg?format=jpg&crop=3296,1854,x0,y0,safe&fit=crop",
+          "width": 3296,
+          "height": 1854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/02/15/reliances-jio-platforms-invests-200-million-in-ai-driven-mobile-startup-glance/amp/",
+      "publishedDateTime": "2022-02-14T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-local-municipalities-use-ai-robots-to-improve-care-for-elderly.md",
+      "title": "Local municipalities use AI robots to improve care for elderly",
+      "excerpt": "Among the various AI robots which can be found inside of stuffed toys ... Soon-yi is a wristwatch-type product made by DNX, a startup company in the Yongin City Digital Industry Promotion Agency. After DNX provided the products to 111 elderly people ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/nation/2022/02/281_323917.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2022/02/281_323917.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202202/80187d74a9984404b3a204a4ee0b2759.jpg",
+          "width": 980,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=323917",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=323917",
+      "publishedDateTime": "2022-02-14T19:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-alphaics-gets-long-awaited-ai-gluon-chips-fabbed-by-tsmc.md",
       "title": "AlphaICs gets long-awaited AI Gluon chips fabbed by TSMC",
       "excerpt": "AlphaICs says it has put its first AI chip from design to production on a shoestring budget of $10m in venture-capital funding. The four-year-old startup on Monday announced it was sampling the chip, which is called Gluon, to customers for evaluation.",
@@ -1070,101 +1164,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-14-artificial-intelligence-in-healthcare-market-future-size-and-development-status-highlighted-during-forecast-period-2027.md",
-      "title": "Artificial Intelligence In Healthcare Market Future, Size And Development Status Highlighted During Forecast Period 2027",
-      "excerpt": "Feb 14, 2022 (AmericaNewsHour) -- Recent report published by research nester titled “Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-future-size-and-development-status-highlighted-during-forecast-period-2027-2022-02-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-future-size-and-development-status-highlighted-during-forecast-period-2027-2022-02-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-14-dubai-to-unveil-new-mental-health-app-that-uses-artificial-intelligence.md",
-      "title": "Dubai to unveil new mental health app that uses artificial intelligence",
-      "excerpt": "Users’ daily voice logs to be analysed by algorithms to recommend therapy, book a doctor Dr Ayesha Al Basti (L) from the DHA with a visitor at the 'Mindspire' event at Expo 2020 Dubai Image ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/health/dubai-to-unveil-new-mental-health-app-that-uses-artificial-intelligence-1.85704754",
-      "originalUrl": "https://gulfnews.com/uae/health/dubai-to-unveil-new-mental-health-app-that-uses-artificial-intelligence-1.85704754",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/02/14/Dr-Ayesha-Al-Basti-with-a-visitor-at--Mindspire--event-at-Expo-1644841205236_17ef82cfdfd_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/health/dubai-to-unveil-new-mental-health-app-that-uses-artificial-intelligence-1.85704754",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/dubai-to-unveil-new-mental-health-app-that-uses-artificial-intelligence-1.85704754",
-      "publishedDateTime": "2022-02-14T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-27-options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta.md",
+      "title": "Options AI: 5 Things To Know Into Earnings, Microsoft, Apple, Amazon, Alphabet, Meta",
+      "excerpt": "WikiMedia Commons This post contains sponsored advertising content. This content is for informational purposes only and not intended to be investing advice.   This article originally appeared on Learn",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta",
+      "originalUrl": "https://www.benzinga.com/news/earnings/22/04/26821535/options-ai-5-things-to-know-into-earnings-microsoft-apple-amazon-alphabet-meta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/04/26/untitled_design_74.png?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26821535",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26821535",
+      "publishedDateTime": "2022-04-26T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-man-recreates-childhood-friend-with-ai-then-it-tries-to-murder-him.md",
       "title": "Man Recreates Childhood Friend With AI, Then It Tries to 'Murder' Him",
       "excerpt": "YouTuber Lucas Rizzotto said he modified a microwave with a text-based AI in an effort to build a friend that ended up being un-friendly.",
@@ -736,6 +779,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-a-model-to-improve-robots-ability-to-hand-over-objects-to-humans.md",
+      "title": "A model to improve robots' ability to hand over objects to humans",
+      "excerpt": "For decades, researchers worldwide have been trying to develop robots that can efficiently assist humans and work alongside them as they tackle a variety of everyday tasks. To do this effectively, however,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.html",
+      "originalUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-model-to-improve-rob.jpg",
+          "width": 2040,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-robots-ability-humans.amp",
+      "publishedDateTime": "2022-04-26T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-how-to-improve-demand-forecasting-with-machine-learning-and-real-time-data.md",
       "title": "How To Improve Demand Forecasting With Machine Learning And Real-Time Data",
       "excerpt": "Demand forecasting systems have been ill-equipped to address disruptions to our daily lives on a global scale. Consumer packaged goods (CPG) companies and retailers were caught flat-footed as unforeseen panic-buying took hold throughout 2020,",
@@ -917,15 +1003,24 @@
     {
       "path": "_news/2022-04-26-intelligent-document-processing-market-to-reach-usd-415-billion-by-2026-at-a-cagr-of-37-valuates-reports.md",
       "title": "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% | Valuates Reports",
-      "excerpt": "The region's businesses are the most forward-thinking in terms of AI, machine learning, natural language processing, and computer vision, boosting the document analysis market's growth. The presence of major players in North America is also a significant ...",
+      "excerpt": "Intelligent Document Processing Market to Reach USD 4.15 Billion by 2026 at a CAGR of 37% \\| Valuates Reports. BANGALORE, India, April 26, 2022 /PRNewswire/ -- The Intelligent Docu",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-intelligent-document-processing-market-reach-usd-415-billion-/2022/04/26/9589651.htm",
+      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm",
+      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/04/26/9589651.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/q2hzfkp3j57e/Qimv9REfOBxfCFm47AOTe/56e76f4b25c7844c1ca682d49ccdb00f/waterjet_cutter.jpeg?w=400&h=400&fm=jpg&q=82",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -945,40 +1040,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel.md",
-      "title": "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel",
-      "excerpt": "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has appointed Carolyn Blankenship as General Counsel. In this role, Blankenship will develop and lead corporate legal strategy supporting BigBear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -1024,6 +1085,40 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel.md",
+      "title": "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel",
+      "excerpt": "Blankenship brings decades of experience in artificial intelligence, data ethics, intellectual property, litigation, risk management, and M&A to BigBear.ai. BigBear.ai (NYSE: BBAI",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1075,110 +1170,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-how-banks-can-embrace-open-banking-with-regulatory-compliance.md",
-      "title": "How Banks Can Embrace Open Banking With Regulatory Compliance",
-      "excerpt": "Over the last several years, organizations, including banks, have learned plenty of lessons from their experiences of migrating existing applications, data and other enterprise systems to the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6266a4046d73c134e2109d5b/0x0.jpg?format=jpg&crop=5728,3223,x1969,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
-      "publishedDateTime": "2022-04-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-the-looming-board-challenge-oversight-of-artificial-intelligence.md",
-      "title": "The Looming Board Challenge: Oversight Of Artificial Intelligence",
-      "excerpt": "With the competing interests of the societal benefits of AI and the need to monitor its risk hurtling at each other at hypersonic speed, the need for boards to address the challenge is urgent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6266aad942a13dba45e64287/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-04-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

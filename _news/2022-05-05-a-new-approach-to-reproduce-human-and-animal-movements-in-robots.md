@@ -26,6 +26,22 @@ images:
     height: 740
     isCached: true
 
+related:
+  - title: "Robots to improve human mobility"
+    excerpt: "Her research blends two interests: biomechanics and robotics, with a focus on locomotion and balance control. In a nutshell ... Those are important questions the team keeps in mind while investigating how humans move and how robots can improve mobility ..."
+    publishedDateTime: 2022-05-05T13:41:00Z
+    webUrl: "https://www.queensu.ca/gazette/stories/robots-improve-human-mobility"
+    type: article
+    provider:
+      name: Queen's University
+      domain: queensu.ca
+    quality: 39
+    images:
+      - url: "https://www.queensu.ca/gazette/sites/default/files/assets/socialmedia/Walking%20in%20the%20lab%201200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "c59XmmMFFBKGdTFbFkpvmhBqSgNT6kP+DmlGnYuH47+AVz5hb3PUSpglTveaJXGTuerZrlqIXRC7O6gBjebRM9+rw5q05bowMoOsyBXAW/MVrQueXQPTN+/LvPOqZbOkDbSg6cO0d7fu2X+mcpvTVInt1ZtvN0GzSjjdsRaaBZk+zSV1b7XAZv/dHHCWNEt0UE6RbTo9wT/NsvX9hgir2Xqflk3HKtpFvQakngbE0UW9hwyPfYmVUynDefgBK20jSONadeIfV4Tdvv3L1LGLaC6ru4R717pQ9opTCibkGJwFxRb+AQBBC5DuUBORCnIxefq+rQI+rGe+q5wUlDr6XJ1xkggqANQtHbNBSxtn5XJT8QnWotnyVwcZl5IH4GcG8hIvHWfwJ4Hysrk7SRgXuButnRB/R3ooYqfAlZzzHTc3PGamZpadZ4R7VG5k+GDop6LaWjWacRdfEVkwNI3NTZY8EL8mT/wiUA/+KXubwnx+hTme30v/qTEWmzlw3rIjLYhdKMvU2dUnaYJtCCpvnw==;B+ifs1r+Lhm7qSZOjbgDoA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-pati
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
       name: IET
       domain: theiet.org
     quality: 17
+  - title: "Making sense of complaints – using AI to improve learning from patient complaints"
+    excerpt: "Emilie joined techUK in June 2021 as the Programme Manager for Digital Ethics & AI. Prior to techUK, she worked as the Policy Manager at the education charity Teach First and as a Researcher at the Westminster think tank Reform. She is passionate about the ..."
+    publishedDateTime: 2022-05-04T08:50:00Z
+    webUrl: "https://www.techuk.org/resource/making-sense-of-complaints-using-ai-to-improve-learning-from-patient-complaints.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 14
 
 secured: "l5GDh4EOmb3QHda1shzmancr5MA6UpBHcuY927aw+aIolWEzQQXbrepfVcdMnxm/caLIqqqymL63di8TkvT4LV2ATU0goqnprP0PdFHjtRFAk3KW6mwE+Di5mJrpn7aMY77CFnTNTQjAO+xTfHH3JxH5Kcs7MdA2woC87rcN55OVztaZ5Xlf/3UV/rkwklCMrGpKHSxbWBjF585WRT7z7pBz3hiiXlGy+tnLERrdcR528p6FARl6DWZWjPxCygQce9Ho7zsPIKhrgbqfL1AHfWhusbdT60yCv38dkaYUNBXvfM789n6zTJL5LNrTIY1vUedHGbp4yL5eDgREv+4aeh9GWm/Sv8hHFqlcC3NuS+0=;yea6fuCYm12e/6OLpY/kvA=="
 ---

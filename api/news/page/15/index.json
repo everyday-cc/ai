@@ -2,6 +2,108 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-04-21-how-to-use-ai-to-create-more-human-service-not-less.md",
+      "title": "How To Use AI To Create More Human Service, Not Less",
+      "excerpt": "Instead of focusing on replacing humans with machines, we need to think about how AI makes humans better at their jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62050c6421a4b6bcff9ea195/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/amp/",
+      "publishedDateTime": "2022-04-21T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-northwestern-mutual-ceo-advises-business-leaders-embrace-the-ai-change.md",
+      "title": "Northwestern Mutual CEO Advises Business Leaders: \"Embrace the AI Change\"",
+      "excerpt": "CEO John Schlifske says AI drives growth: \"It's faster, more effective and leads to better outcomes.\"",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/Northwestern-Mutual-CEO-Advises-Business-Leaders-Embrace-the-AI-Change/f2ce9909-9cd6-4920-9fac-df41701e4d8a",
+      "originalUrl": "https://fortune.com/videos/watch/Northwestern-Mutual-CEO-Advises-Business-Leaders-Embrace-the-AI-Change/f2ce9909-9cd6-4920-9fac-df41701e4d8a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/f2ce9909-9cd6-4920-9fac-df41701e4d8a/Images/posterImage-ver2-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/northwestern-mutual-ceo-advises-business-leaders%3A-%22embrace-the-ai-change%22/f2ce9909-9cd6-4920-9fac-df41701e4d8a/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/northwestern-mutual-ceo-advises-business-leaders%3A-%22embrace-the-ai-change%22/f2ce9909-9cd6-4920-9fac-df41701e4d8a/amp",
+      "publishedDateTime": "2022-04-21T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-mits-newest-computer-vision-algorithm-identifies-images-down-to-the-pixel.md",
       "title": "MIT's newest computer vision algorithm identifies images down to the pixel",
       "excerpt": "But for artificial intelligence and computer vision systems, developing a high-fidelity understanding of their surroundings takes a bit more effort. Well, a lot more effort. Around 800 hours of ...",
@@ -1049,110 +1151,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-an-inventor-resurrected-his-imaginary-friend-with-ai-then-it-tried-to-murder-him.md",
-      "title": "An inventor resurrected his imaginary friend with AI — then it tried to murder him",
-      "excerpt": "As a kid, Lucas Rizzotto had an imaginary friend: a talking microwave. As an adult, Rizzotto resurrected his pal — with tragic consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave",
-      "originalUrl": "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-7.jpg&signature=8dc3c8edb07603857914fc06fe201aaf",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas.md",
-      "title": "Billionaire CEO’s US Senate run focuses on one issue: Banning ‘self-driving’ Teslas",
-      "excerpt": "Dan O’Dowd, the billionaire founder of The Dawn Project and Green Hills Software, is running for U.S. Senate on a single issue. It’s not unemployment or inflation or even education. It’s about making computers safer for humans,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/",
-      "originalUrl": "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/",
-      "publishedDateTime": "2022-04-20T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

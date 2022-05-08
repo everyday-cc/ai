@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-29-arm-announces-new-iot-hardware.md",
+      "title": "Arm announces new IoT hardware",
+      "excerpt": "As part of Arm’s roadmap, the company is also working on Total Solutions for vision, object recognition and smart sensor fusion. The first one will be addressed by Cortex-A53, while the latter ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
+      "originalUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1097773250.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
+      "publishedDateTime": "2022-04-29T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects.md",
       "title": "IonQ And Hyundai Steer Partnership Toward Quantum ML To Recognize Traffic Signals And Objects",
       "excerpt": "“QML doesn't need numerous processing steps for traffic road sign recognition like classical approaches to object detection,” he said. “Quantum recognizes a sign and interprets its meaning in one single step.” IonQ has already completed the ...",
@@ -99,50 +151,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-29-visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field.md",
-      "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
-      "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
-      "originalUrl": "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/04/400x225-Free-Trip-Tuesday.jpg?w=2000&#038;ssl=1",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox2Now St. Louis",
-        "domain": "fox2now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-04-29-aws-bags-victory-over-microsoft-in-fight-for-10bn-nsa-contract.md",
       "title": "AWS bags victory over Microsoft in fight for $10bn NSA contract",
       "excerpt": "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ...",
@@ -193,6 +201,50 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field.md",
+      "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
+      "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/32/c32e84a0-db06-53c5-8603-d1099e30d946/626bd3cfae730.image.jpg?crop=811%2C426%2C0%2C5&resize=811%2C426&order=crop%2Cresize",
+          "width": 811,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1169,58 +1221,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
-      "title": "People in Beijing can now book a taxi with no one at the wheel",
-      "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220428000058-01-baidu-apollo-0422-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "publishedDateTime": "2022-04-28T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

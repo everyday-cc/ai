@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/22/05/07/apples-director-of-machin
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple director of machine learning departs over return to in-person work policy"
+    excerpt: "Ian Goodfellow, Apple's director of machine learning, has departed the company over its return to work policy."
+    publishedDateTime: 2022-05-08T14:48:00Z
+    webUrl: "https://9to5mac.com/2022/05/08/apple-in-person-work-policy/"
+    ampWebUrl: "https://9to5mac.com/2022/05/08/apple-in-person-work-policy/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/05/08/apple-in-person-work-policy/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 55
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/apple-in-person-work-policy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Apple’s Director of Machine Learning Resigns Due to Return-to-Office Work policy"
     excerpt: "Apple's Director of Machine Learning, Ian Goodfellow decides to resign from his post owing the company's return-to-office work policy."
     publishedDateTime: 2022-05-08T10:33:00Z

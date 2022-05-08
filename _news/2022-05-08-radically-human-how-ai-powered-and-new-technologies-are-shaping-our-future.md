@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-08T13:32:00Z
 originalUrl: "https://www.linkedin.com/pulse/radically-human-how-ai-powered-new-technologies-shaping-bernard-marr"
 webUrl: "https://www.linkedin.com/pulse/radically-human-how-ai-powered-new-technologies-shaping-bernard-marr"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: LinkedIn

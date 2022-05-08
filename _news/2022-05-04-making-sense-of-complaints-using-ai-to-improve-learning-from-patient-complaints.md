@@ -19,36 +19,70 @@ topics:
   - AI
 
 related:
-  - title: "Meta wants to improve its AI by studying human brains"
-    excerpt: "“Within the past decade, there has been tremendous progress in AI on a wide variety of tasks from object recognition to automatic translation. But when it comes to tasks which are perhaps not super well defined or need to integrate a lot of ..."
-    publishedDateTime: 2022-05-03T23:00:00Z
-    webUrl: "https://www.popsci.com/technology/meta-ai-language-models/"
-    ampWebUrl: "https://www.popsci.com/technology/meta-ai-language-models/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-language-models/?amp"
+  - title: "Using AI to predict bone fractures in cancer patients"
+    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
+    publishedDateTime: 2022-05-05T17:30:00Z
+    webUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 61
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
     images:
-      - url: "https://www.popsci.com/uploads/2022/05/03/patrick-tomasso-Oaqk7qqNh_c-unsplash-scaled.jpg?auto=webp"
-        width: 2560
-        height: 1707
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/bonefracture.jpg"
+        width: 1440
+        height: 1920
         isCached: true
-  - title: "Robots to improve human mobility"
-    excerpt: "Her research blends two interests: biomechanics and robotics, with a focus on locomotion and balance control. In a nutshell ... Those are important questions the team keeps in mind while investigating how humans move and how robots can improve mobility ..."
-    publishedDateTime: 2022-05-05T13:41:00Z
-    webUrl: "https://www.queensu.ca/gazette/stories/robots-improve-human-mobility"
+  - title: "Using AI to predict how cancer may affect the probability of spinal fractures"
+    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
+    publishedDateTime: 2022-05-05T23:21:00Z
+    webUrl: "https://www.news-medical.net/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
     type: article
     provider:
-      name: Queen's University
-      domain: queensu.ca
-    quality: 39
+      name: News Medical
+      domain: news-medical.net
+    quality: 54
     images:
-      - url: "https://www.queensu.ca/gazette/sites/default/files/assets/socialmedia/Walking%20in%20the%20lab%201200x630.png"
-        width: 1200
-        height: 630
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
+  - title: "Southwest Airlines is using AI to help attract and retain its customers"
+    excerpt: "CEO Bob Jordan says AI is important \"not because it's hot\" but because \"it can have a business impact.\""
+    publishedDateTime: 2022-05-05T13:32:00Z
+    webUrl: "https://fortune.com/videos/watch/Southwest-Airlines-is-using-AI-to-help-attract-and-retain-its-customers/2e618eb2-0f9e-44de-9ef8-6f74a547bacd"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 47
+  - title: "AI-assisted digital twin could predict spinal column fractures in cancer patients"
+    excerpt: "An AI-assisted digital twin of human vertebrae could predict how cancer affects the probability of spinal column fractures, a study from Ohio State University has found."
+    publishedDateTime: 2022-05-06T09:47:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/ai-assisted-digital-twin-could-predict-spinal-column-fractures-in-cancer-patients"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 32
+    images:
+      - url: "https://www.theengineer.co.uk/media/vripxcoe/adobestock_111354720.jpeg"
+        width: 940
+        height: 627
+        isCached: true
+  - title: "AI can predict bone fractures in cancer patients"
+    excerpt: "A team of US researchers has used artificial intelligence (AI) to create a digital twin of a patient’s vertebra that will be able to predict the risk of bone fracture in people who have suffered from cancer. As medicine continues to embrace machine ..."
+    publishedDateTime: 2022-05-06T12:29:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/ai-can-predict-bone-fractures-in-cancer-patients/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 17
 
 secured: "K5qZ1eI9fczMjhoRkV4fBuZYZ8AWFUH5oanX64c+HnCQ3sUQUe74yt1HoBlnkvkJdA0oT+S5t57rqg/N1zx+0A1w5zReoyayZ4NN8XBpDRMHTAWGbXlOZYAN172aq4lqIcthEexCPrP6/ZEYlp/uCzD+fsOi3anap/e11aTBeec3RAfRn1GzCEZ54ULUHxH8aVay2KGsaUfr8rBCwk1e2JFEA+Cq1h3PwdCOGMPa9lxZdrNrgkTYIIbmcS09WUrqCLMm5duLHSMJHTs3OQWQPgThigNsBIVJx+pkmpsTUYr3sD7Sw6EuwORLBMrzcbBVfX5X2IbrnoPJ6h6kZlUYkBgnw/K1cW3bxUL1s8fcafv5fXY1TzHSAhoBpCT2mVuU9aZGbCKkiI+KsnuJeysuTAJcNDO2sAcRjarCcWzFajHvc+Z87Keid35bD6sGcasFWgPkHF2azdmpl++8buWlA7ImXvinh+/VCc5dG7nKScqo19rPHTs0iZqHcs3TAcwLZsLmdhvyiHqPmowq8JtWqQ==;tPfG2Xg2dzKCt0f6UqSgxg=="
 ---

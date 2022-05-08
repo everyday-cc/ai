@@ -14,7 +14,14 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
-secured: "hUS2gY2z/EDE978sA/wOPATMRfSxqxN+VQ99LFXQ7K/bXKTVraFlvSy86ylbcg1BiT9lCqVxVxOIjLkmNWr/rJ+XJ4Bf/cn8t4yhWffrLxFt7qZYFYgegKisEMn1Uy17vicoRc5/M+Jks5sFTEtLzyyx5YH7r0Xg+sc4DLX5svxQa9FTmTMUT4phtjMHIs+usnE65KPLzCk8FUkXyGOcwnYbHGumc7colpWrSHZCgdooUZDXeoA5E9Q1QPOOUJVbD59hfgBT9A/AAVYfiRBJEC0lOXiDrM1Yh7Kf1Xa4TKELj0rjP7F92Jg2fWkgmfr7IFtRfqyZiUpxF0E6CJXGcZHr9hkO1R1Wc38bc6C0QEKn2jOxYKiEQivdGJvN78pM5Y5EDh/qlgC9tJyJqLMsPw6NoWA0zRNaoft7yN+eiA1Ogpmy5fd7QKyjAbCebdxDkvwsHI0ZZr+4OJpqKP/bONdGCW03qPs48Gk8Lh+nHsPjhrprrLpCtUAs6FKVnf6OAtiLqROzHFmTLgU0T14ekQ==;D0mtssK7tmLbxHc13LHrFQ=="
+images:
+  - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg"
+    width: 770
+    height: 500
+    isCached: true
+
+secured: "xhAwEJA3FTtLxH7gq9mc4xywDbY7tRD+rf+eUwOM6ercEHf1EF2MGZfTEtHDFhInPPYHlbg6IhI6yd0D9D66SahEic/GcaDZhTt01RkAqmi0gyxYVHUTAvs6zwdDeoRRsyxzZRLh4Vz9U09LHHFZ5aHFva/rRY6RwJ57RAd9Ca+ZhuMz1fMBVxXofcOnReAdR5fzJvRMAIhlN2xz5MzxmeezWU1AXWj+0iE7b0tVziZmFsdV+SzYPp6fT2KT/Ro1u+lP5fZj5aolyDhFX1zuT4S3xWEIyEQ/E5e7KDj4mOSIv0pt9/i4WR+qT4ZJO5pg7EUFNrOg9Y4M73yOeXf8990SKEs/O/xuil3VS559oG0=;3kSttIQlms/Z+T/VdR6qRw=="
 ---
 

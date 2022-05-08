@@ -62,7 +62,7 @@
       "originalUrl": "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -105,7 +105,7 @@
       "originalUrl": "https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -523,10 +523,10 @@
     {
       "path": "_news/2022-05-07-revealed-intels-plan-to-sell-software-simplifying-computer-vision-training.md",
       "title": "Revealed: Intel's plan to sell software simplifying computer vision training",
-      "excerpt": "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register. The software, code-named Sonoma Creek ...",
+      "excerpt": "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register.",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=amp-keepreading-top",
-      "originalUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=amp-keepreading-top",
+      "webUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/",
+      "originalUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/",
       "featuredContent": null,
       "highlight": null,
       "heat": 81,
@@ -860,7 +860,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220505143820.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1000,7 +1000,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {

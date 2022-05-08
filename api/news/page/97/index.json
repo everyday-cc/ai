@@ -2,6 +2,100 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-02-11-koreas-200-billion-wealth-fund-is-betting-on-the-metaverse-and-ai-startups.md",
+      "title": "Korea’s $200 Billion Wealth Fund Is Betting on the Metaverse and AI Startups",
+      "excerpt": "South Korea’s $200 billion sovereign wealth fund plans to boost investments in Silicon Valley startups as it looks to the metaverse and artificial-intelligence to accelerate its expansion in alternative assets. Seoungho Jin, who took over the reins of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-02-10/korea-s-200-billion-wealth-fund-bets-on-metaverse-ai-startups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZYHLMg9aWqU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm.md",
+      "title": "Q&A: AI Helps Healthcare Organizations Reduce Avoidable Patient Harm",
+      "excerpt": "Jvion Chief Medical Officer Dr. John Frownfelter explains how artificial intelligence improves patient care and offers tips for implementation success. As the healthcare industry shifts to more preventive, value-based care, AI provides guidance for early ...",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm",
+      "originalUrl": "https://healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202202/Health%20AI.jpg?itok=TRSNbDPU",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/02/qa-ai-helps-healthcare-organizations-reduce-avoidable-patient-harm?amp",
+      "publishedDateTime": "2022-02-10T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-dlss-and-fsr-are-the-future-of-pc-games-whether-you-like-it-or-not.md",
       "title": "DLSS and FSR are the future of PC games, whether you like it or not",
       "excerpt": "Especially because the first iteration of Nvidia's AI upscaling tech wasn't exactly ... has become a 1080p GPU in most modern games that support ray tracing. And as the best PC games continue ...",
@@ -1068,110 +1162,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving.md",
-      "title": "Tesla Is Crazy To Not Make Full Use Of Maps To Improve ‘F’ Self-Driving",
-      "excerpt": "Almost every self-driving car team makes use of pre-computed maps, combined with what their sensors see, to help them understand the road and drive correctly and safely on it. Tesla is a rare exception, deprecating detailed maps and trying to use mostly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62048c75c49ecc67de9ea195/0x0.jpg?format=jpg&crop=719,405,x0,y0,safe&fit=crop",
-          "width": 719,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/02/10/tesla-is-crazy-to-not-make-full-use-of-maps-to-improve-f-self-driving/amp/",
-      "publishedDateTime": "2022-02-10T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-three-ways-fintech-will-influence-the-cfo-role.md",
-      "title": "Three Ways Fintech Will Influence The CFO Role",
-      "excerpt": "So, who is the primary beneficiary of this fintech revolution? CFOs. In the past few years, new technologies and software have spilled into every aspect of finance, from analytics to AI and beyond. Digital tools have helped boost efficiency and decision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/606b44f264bac4503c6bfc54/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/10/three-ways-fintech-will-influence-the-cfo-role/amp/",
-      "publishedDateTime": "2022-02-10T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

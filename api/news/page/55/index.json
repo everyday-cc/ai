@@ -2,6 +2,93 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
+      "title": "Here's how Americans view facial recognition and driverless cars",
+      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "originalUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/f6fb8c7/2147483647/strip/true/crop/3830x2359+0+257/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2018%2F03%2F29%2F2-copy-9fa3de93ec0c9713951c32b0a5d0b41a53a05646.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "cdnAmpWebUrl": "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "publishedDateTime": "2022-03-18T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLRN",
+        "domain": "wlrn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-slatorcon-remote-makes-a-bullish-case-for-the-language-industry.md",
+      "title": "SlatorCon Remote Makes a Bullish Case for the Language Industry",
+      "excerpt": "SlatorCon Remote March 2022 was the biggest ever. Over 550 delegates tuned in from opposite sides of the globe for Session I: Australia & Asia-Pacific and Session II: Americas & Europe. A third logged on from the Americas,",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/slatorcon-remote-makes-a-bullish-case-for-the-language-industry/",
+      "originalUrl": "https://slator.com/slatorcon-remote-makes-a-bullish-case-for-the-language-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2022/03/SlatorCon-Remote-March-2022-Highlights-from-Localization-Conference.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and.md",
       "title": "Here's how Americans view facial recognition and...",
       "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
@@ -1045,93 +1132,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-tempe-machine-learning-startup-sells-to-new-mexico-cybersecurity-firm.md",
-      "title": "Tempe machine learning startup sells to New Mexico cybersecurity firm",
-      "excerpt": "Cyr3con uses machine learning to analyze digital threats and risk. Aaron Sandeen, CEO of Cyber Security Works, told Business First that the deal closed in January before being announced on March 15. He declined to disclose financial details and said that Tempe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/17/tempe-startup-sells-to-new-mexico-firm.html",
-      "originalUrl": "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/17/tempe-startup-sells-to-new-mexico-firm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-h2oai-ceo-sri-ambati-on-the-democratization-of-ai-and-deep-learning.md",
-      "title": "H2O.ai CEO Sri Ambati on the Democratization of AI and Deep Learning",
-      "excerpt": "I spoke with Sri Ambati, CEO of H2O.ai, about the AI and deep learning sector, and his company’s goal of making AI accessible to a larger audience by offering a low code AI deve",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/news/h2o-ai-ceo-sri-ambati-democratization-of-ai-and-deep-learning/",
-      "originalUrl": "https://www.eweek.com/news/h2o-ai-ceo-sri-ambati-democratization-of-ai-and-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/03/eSPEAKS-thumbnail-5.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

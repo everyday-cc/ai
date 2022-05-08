@@ -1,20 +1,26 @@
 ---
 category: news
 title: "NORAD’s VanHerck says artificial intelligence capabilities lacking"
-excerpt: "U.S. Northern Command earlier this year asked Congress for an additional $29.8 million to buy information technology equipment and to optimize infrastructure for artificial intelligence and machine learning at its joint operations center."
+excerpt: "(Jose Luis Magana/AP) WASHINGTON — U.S. Northern Command and North American Aerospace Defense Command lack the artificial intelligence capabilities needed to do their jobs to the fullest and maintain an edge over rival nations, according to the leader of ..."
 publishedDateTime: 2022-04-26T17:32:00Z
-originalUrl: "https://www.navytimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/"
-webUrl: "https://www.navytimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/"
+originalUrl: "https://www.airforcetimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/"
+webUrl: "https://www.airforcetimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/"
 type: article
 
 provider:
-  name: Navy Times
-  domain: navytimes.com
+  name: Air Force Times
+  domain: airforcetimes.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "qtqQ2YAmGF79cVFBy6g6hcwCGxBrRJmiPVJt2ppYKFh9bFArOTJNlgikHQIVRu3PzjZ3KG7BxM8ptATX/bbtr+Buo+jn7UIUkpgqKbIMW9FaezivM0sbppVhPFtFcjlerG25FCAf8sjA2CdyRaVUbyCI/D4l0Gukt7rOdFKWqCXtbZTZjrU0qw6g+5AwqRTv8n3FCGAf/bCP2sXxLz35Xixb42gOoy+7sfDaj+EkdhnIfJeJP6XMxNOzlJ63ntNKmDRN0L4ONqqiLQtt/BSS2xegsODT2UyIEWE8nLRY7L/IyiN6yLTYBjnhzL9tMSwRc1fk2Vs26Qrk4kDu/yFKhhWD70dcgjvIdRNB/UZY2DZWKlBjJpN3iMxUCYE1zA0JbELAOUpdkNyb2Vih/NwE2pwx2jwNbwSpwC+8322auLfQ2oRemTejmgAcTf2Kj6RksLwiNGEGn4uf0Sg5BRTNnYYd+60FWmbzClfOEWa2aRr3rRXthB0cox7lJgK6VnWMUYuFTQOuPwDezcAxvT/3lQ==;sKiMOW9kicn4QAELo02L3A=="
+images:
+  - url: "https://www.airforcetimes.com/resizer/T8gu2NwwdvBLNDcbYyTLx6vYnO8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/FFQY4UHAMRGAXF3IKU5VY2LE54.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "Fhj2IBjOWIZGzUksSVm1Y1wfzMHSX8i2il3iglmFxP00Kp1PGFbn+gl/WAHgy1CW8ILCYkheehVvIFbCyYGPm/lwiv6V+kGW08NI0UxS4ccckcddHV+BkyE1O9aLbirdiQEYXrAEKiRMhTBS9Xb0rpJNZsy439kb8AXgkCdIOPTS3Utw9CdYHGLmJSxEkO6wRJfHs4CPT8usr2JyXtpFXmuhv7TYJ6qCwO5opyO4ERZe8CaKUl/wr8k31e0sqZMfZe2hpB4UIB+EQA2GvE+deA6O6/hKyZmPauJqE0tLOfrbTrkyd8G7OYv+vdS8tFdeJTqgrsYaVAe2rLGkz4/7++qHkDpaXEvwqUZu2mYnjGg=;khYMMahIDlpH5fQUZTaK4g=="
 ---
 

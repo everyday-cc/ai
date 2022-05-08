@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-02-paravision-face-recognition-delivers-top-performance-in-latest-dhs-biometric-test.md",
+      "title": "Paravision Face Recognition Delivers Top Performance in Latest DHS Biometric Test",
+      "excerpt": "SAN FRANCISCO, May 02, 2022 (GLOBE NEWSWIRE) -- Paravision, the U.S.-based leader in mission-critical Vision AI, today announced that it delivered the top-ranked performance among face recognition providers selected to participate in the U.S. Department of ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-demographics-biometrics-us-department-of-homeland-security-6fd941b9a349f209ac9c8117a9f077e0",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-demographics-biometrics-us-department-of-homeland-security-6fd941b9a349f209ac9c8117a9f077e0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount.md",
       "title": "AI-powered voice solutions provider for healthcare Suki to double India headcount",
       "excerpt": "“We have to be very, very highly efficient and accurate for healthcare. We ended up actually building a medically tuned speech recognition system, a medically tuned command, understander or intent recognizer. Our goal is to make healthcare ...",
@@ -1102,58 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-arm-announces-new-iot-hardware.md",
-      "title": "Arm announces new IoT hardware",
-      "excerpt": "As part of Arm’s roadmap, the company is also working on Total Solutions for vision, object recognition and smart sensor fusion. The first one will be addressed by Cortex-A53, while the latter ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
-      "originalUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1097773250.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/arm-announces-new-iot-hardware/amp/",
-      "publishedDateTime": "2022-04-29T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

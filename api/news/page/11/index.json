@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-26-how-banks-can-embrace-open-banking-with-regulatory-compliance.md",
+      "title": "How Banks Can Embrace Open Banking With Regulatory Compliance",
+      "excerpt": "Over the last several years, organizations, including banks, have learned plenty of lessons from their experiences of migrating existing applications, data and other enterprise systems to the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266a4046d73c134e2109d5b/0x0.jpg?format=jpg&crop=5728,3223,x1969,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
+      "publishedDateTime": "2022-04-26T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-the-looming-board-challenge-oversight-of-artificial-intelligence.md",
+      "title": "The Looming Board Challenge: Oversight Of Artificial Intelligence",
+      "excerpt": "With the competing interests of the societal benefits of AI and the need to monitor its risk hurtling at each other at hypersonic speed, the need for boards to address the challenge is urgent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266aad942a13dba45e64287/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-04-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-8-current-and-future-trends-in-financial-services.md",
       "title": "8 Current And Future Trends In Financial Services",
       "excerpt": "Trends in financial services are shifting more towards digital systems because of convenience and lower costs. Like most sectors, banking and finances are",
@@ -401,17 +505,17 @@
       "title": "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S.",
       "excerpt": "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,",
       "sourceUrl": null,
-      "webUrl": "https://www.ozarksfirst.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/",
-      "originalUrl": "https://www.ozarksfirst.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/",
+      "webUrl": "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/",
+      "originalUrl": "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/www.ozarksfirst.com/wp-content/uploads/sites/65/2022/05/snapshot.jpg?w=2000&#038;ssl=1",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://i0.wp.com/www.tristatehomepage.com/wp-content/uploads/sites/92/2022/05/CARNIVAL.jpg?w=2000&#038;ssl=1",
+          "width": 1009,
+          "height": 567,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -424,8 +528,8 @@
       "publishedDateTime": "2022-04-26T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ozarks First",
-        "domain": "ozarksfirst.com",
+        "name": "WTVW",
+        "domain": "tristatehomepage.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -724,48 +828,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-26-2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance.md",
-      "title": "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance",
-      "excerpt": "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
-          "width": 600,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-26-googles-data-cloud-summit-serves-up-incremental-new-capabilities.md",
       "title": "Google's Data Cloud Summit Serves Up Incremental New Capabilities",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead describes some the most important announcements from the multi-week Google Data Cloud Summit.",
@@ -816,6 +878,39 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance.md",
+      "title": "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance",
+      "excerpt": "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,",
+      "sourceUrl": null,
+      "webUrl": "https://fox59.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/",
+      "originalUrl": "https://fox59.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1037,82 +1132,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-renderedai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content.md",
-      "title": "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content",
-      "excerpt": "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training. BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rend",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-nvidias-push-for-ai-innovation-could-propel-this-etf-higher.md",
-      "title": "Nvidia’s Push for AI Innovation Could Propel This ETF Higher",
-      "excerpt": "In particular, artificial intelligence (AI) investment is driving innovation for the next wave of disruptive technology. Chip maker Nvidia is doing just that. It's evolving from its identification as a semiconductor producer and focusing on growing its AI technology to remain competitive in its respective marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
-      "publishedDateTime": "2022-04-25T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

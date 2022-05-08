@@ -28,9 +28,9 @@ images:
 
 related:
   - title: "Revealed: Intel's plan to sell software simplifying computer vision training"
-    excerpt: "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register. The software, code-named Sonoma Creek ..."
+    excerpt: "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register."
     publishedDateTime: 2022-05-06T23:04:00Z
-    webUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=amp-keepreading-top"
+    webUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/06/intel_computer_vision/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/intel_computer_vision/"
     type: article

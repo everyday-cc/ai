@@ -1,76 +1,25 @@
 ---
 category: news
-title: "Facebook-owner Meta opens access to AI large language model"
+title: "Facebook-owner Meta Opens Access To AI Large Language Model"
 excerpt: "Meta said its model was the first 175-billion-parameter language model to be made available to the broader AI research community. \"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable ..."
-publishedDateTime: 2022-05-03T21:22:00Z
-originalUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
-webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
+publishedDateTime: 2022-05-03T22:30:00Z
+originalUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
+webUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
 type: article
-quality: 67
-heat: 97
-published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg"
     width: 1200
-    height: 628
+    height: 803
     isCached: true
 
-related:
-  - title: "Meta opens access to its massive AI language model"
-    excerpt: "Meta’s Open Pretrained Transformer (OPT) model will be the first 175-billion-parameter language model to be made available to the broader AI research community. Facebook-owner Meta Platforms Inc is opening up access to its massive language model for ..."
-    publishedDateTime: 2022-05-04T11:54:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/meta-opens-access-to-its-massive-ai-language-model/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 43
-    images:
-      - url: "https://eandt.theiet.org/media/18218/meta-6946620.jpg?crop=0,0.20708333333333334,0,0.3007291666666666&cropmode=percentage&width=1200&height=450&rnd=132961391880000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "Meta opens access to its large language model for AI researchers"
-    excerpt: "Meta said the scientific community needs to be able to work together to advance AI research and probe for vulnerabilities. Facebook’s parent company Meta said it is sharing its large language model trained with more than 175bn parameters, to be available ..."
-    publishedDateTime: 2022-05-04T07:08:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-large-language-model"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 41
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_465885157_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Meta opens access to AI large language model"
-    excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
-    publishedDateTime: 2022-05-04T03:20:00Z
-    webUrl: "https://www.asiaone.com/digital/meta-opens-access-ai-large-language-model"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/Screenshot%202022-05-04%20at%2010.16.38%20AM.png?h=690322e4&itok=OAImWZns"
-        width: 600
-        height: 316
-        isCached: true
-
-secured: "Q73/uepcRX92vms29Y5OusoDJ739DbTa96BzhTtsv+UwmVG3LGoOLGuEmVjYdQF1ioPuvQH3yDnmhha4PNO5K6HYJZyiqSmCrheXkIdpTonI7/+aYyCQUawasvrEZHr8HXegc3luRazzqybaHvtUip6p4VtJiONvFpV3jsiNdT7GnX8g5hFAwwiYWfaGMqPcyofyemOUvkDSNvvrWzKuhx/5H5/Pd4jnzKFqrPnLbnNDf6rmT2lAqqiQdhBhWwVny+uDHU6BciuH26ri83yCGpn96nuDdCnmz2FQg2yuWlbOi7J/AR/4oq2tDO2roIff240PRtdJZA/c320kYVIyMyZrtxmv07kCJuaKhkC2TNQ=;Y8UjhDPUD/GnDmXjFrNGaA=="
+secured: "VtN0sTAPIuVSs8gKHy0IvQyYhvUyh3EpII2/ZUqsM3zWE0S/A1XdBr6ctmxvWvZl69gMkiVDEB0EnCuYYBjr4oewTkFCuOM6tilNJWlJ8Na3MXz6MVhaVFu4qwGx/8TosI1YJAlHt48qc2UF0UGy8YxZlu/WI6Vk0buPEEozEV0UbWdchElqaztS3Qrq+36fCxk7ALFbRTAiGBFp0hXhagIKmJxn/wfS8/0f5IWAJOG4f3qNKTkqmQ/vW14oNsIBKP8gAMMJJ3brcAO5MnIWLbKUiB2muLTHasYstpqZeqDxvF4rd7zEeuYFcpSJvJJsWX3kRFVq0RqA2EZnqILGlamowbMvRSiK1JvbdvM+51c=;HREnOd9oNMYq3rZdDrgXmQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Revealed: Intel's plan to sell software simplifying computer vision training"
-excerpt: "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register. The software, code-named Sonoma Creek ..."
+excerpt: "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register."
 publishedDateTime: 2022-05-06T23:04:00Z
-originalUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=amp-keepreading-top"
-webUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=amp-keepreading-top"
+originalUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/"
+webUrl: "https://www.theregister.com/2022/05/06/intel_computer_vision/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/06/intel_computer_vision/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/intel_computer_vision/"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 601
         isCached: true
 
-secured: "IeDc7v+3zYe8bmCIuYI6zQ16qEstPUTQezq4uCOuP6fJr+996TvrV3krzoYGBJggDR+E+oxO5JX7ZatekIhWWjTFYrJ21vRUIYI9W4hl/C3u9xCXRUuusNVvQgKq06tfEEOnqHDP1vsjQM1BfGWulOng0Bu5Aq14/ptEpShCFI7CnNmTFO69hAyJ5y2R8DOz21gRQxKSQ7fXX8WKkZtUjWVZxSWlNvV1Y4vRdkSlneqTUuj3X7AfScRLMC4WzMwZkXXMWsqMIWiJnKznXwx+5+xJAVHsEe+kisT+BUuUdUli5nRZeyxyzzubBeiUHtih8OMW8utX8fbCEnriG/GOhJfAGYdqEFVcZLgQaav65cFbdnxZMmv94Vf7CTmbRLpeLtYULHd5GiqmAfC+DNpn6iDzWAVOpq53D9hjOSztlDX751V/3mbXNJStzQpevk9hP8VPQC7YNRNKmFUpk1qJzQvTlA7oBn6snZRaUh01Yg1sAP51y9ONLTGx2mI4hBVM+ibXgg3BXn/J/SW42HDpyA==;6sjtFWfuPiadNL17Cj+X/w=="
+secured: "1/pQf2+7/oOaip8crGVCctNhdgRJqxRebdsOPz7k8dAgHoSRaXyzG6wf4727wz/GdGN6JvSMqGJ0gQgtawX6v9na6K7bXsxiuDzDRIiKBJTksMlbhhn7fYaTirAHTwb0sZvgAJ3Lrdw26HAnT2NUfabLpu/yc+xjuJz+3kFt1ooLbqrillEjr6/aHaTo6belRt8KRe+wLb+dvOGJhNv+6ounnz1Y5eQ6fc0VLgroGNKTeiu69YQ+hl9LAwWWVkyWOqGyb9QR2keDaxswbb1h6TZAuvxvd3qFpWF1n71PMgQCUuKM7O7wAiz7JQpbucvXthqE86m47mk25ELB7cQ27lkSSZCNwZ+acBTPjmMqsec=;XCMwF5u8B7rzMSAfkrPmvQ=="
 ---
 

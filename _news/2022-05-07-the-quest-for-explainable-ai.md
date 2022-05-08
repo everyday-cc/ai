@@ -78,20 +78,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "API Security Company Traceable AI Lands $60 Million Series B"
-    excerpt: "SAN FRANCISCO, May 3, 2022 — Traceable AI, the API security & observability company, today announced it has raised $60 million in Series B funding. This new funding values Traceable AI at more than $450 million. This investment round was led by ..."
-    publishedDateTime: 2022-05-03T21:49:00Z
-    webUrl: "https://www.darkreading.com/application-security/api-security-company-traceable-ai-lands-60-million-series-b"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://beta.darkreading.com/images/og-image.jpg"
-        width: 342
-        height: 342
-        isCached: true
 
 secured: "lig1KYcVSUmYPPfYdq+up5xqTB1LNGYZa3hMMlw6Xry9HOiHuQnvPuQIJlhFMGH6I2aLnA35OF+nkm/cwITtkVk2BhH2lD/37cUeO+GsaIhizLiDyyvt9jxO+kBJfSjMu2bvG2++fHsn93ZkmaZVq4UrG+Rw/8YJmKHa8VOsg6MDEC0bLd1mrzmdqxZ/2uySG6pRan88j68yjhyJ1LVWxworBtUxP6xc0HrYKS7TrWdmCBsldsGHCdYnmi7fwZEVzOrtLM8GkOjRD1y/IU3HGeSPGHd3ozwmvFBcbcYLka78udd3Y2xGroUMtXP+d5T+RRKXv6a7d5J2s8HA+4APpBWsF0umkuzEZqSfXZmv6VxUlO8y5vcuEFQDSew5wa40tcLr+9V79dLX7ByikRgPbkp4GEOzV+vZgF1N5ARTbi8yBCWDZS9j+DfSsVxnYJn57iw9vITDOsY2EHjhmiAVIQJ0VDBReUA5Zo8fZshpHFgTCO2lozYdEdBW89xVUhR/oIYFVEat36S5F3wYnVjsUQ==;51fS2E1j+jDV5FH92LYXXA=="
 ---

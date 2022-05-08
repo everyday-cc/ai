@@ -2,6 +2,101 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2022-03-29-stem-programs-launch-at-the-county-library-for-robotics-month.md",
+      "title": "STEM programs launch at the county library for Robotics Month",
+      "excerpt": "Did you know that April is Robotics Month? Jeff Buydos, from the county library, joined us on the show to share what kind of programs are offered. Kids can learn all about engineering, robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/",
+      "originalUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abc4.com/wp-content/uploads/sites/4/2022/03/AD8F06836FB07EDFE09279FCDB51733A.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/amp/",
+      "cdnAmpWebUrl": "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/amp/",
+      "publishedDateTime": "2022-03-28T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc4.com",
+        "domain": "abc4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-youll-be-injecting-robots-into-your-bloodstream-to-fight-disease-soon.md",
+      "title": "You’ll be injecting robots into your bloodstream to fight disease soon",
+      "excerpt": "The last shot you'll ever need. What if we could create super-powered micro-bots that lived to destroy diseases? What if we already did?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/youll-injecting-robots-your-bloodstream-fight-disease-soon",
+      "originalUrl": "https://thenextweb.com/news/youll-injecting-robots-your-bloodstream-fight-disease-soon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2Fnanobots.jpg&signature=66635c2832696de9f3403e364273917b",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-28T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-accelerating-financial-services-with-ai.md",
       "title": "Accelerating Financial Services With AI",
       "excerpt": "AI is enabling brighter financial futures for consumers and businesses. From traditional banks to new fintechs, the financial services industry is powering use cases with AI such as preventing payments fraud,",
@@ -1049,105 +1144,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
-      "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
-      "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
-      "publishedDateTime": "2022-03-27T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Google AI",
-        "Facebook AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-sygno-joins-ing-labs-2022-programme.md",
-      "title": "Sygno joins ING Labs 2022 programme",
-      "excerpt": "Sygno, provider of Automated Machine Learning (AutoML) transaction monitoring models, has joined the most recent cohort of scale-ups that will enter the ING Labs 2022 Programme. During the 2022 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/92043/sygno-joins-ing-labs-2022-programme",
-      "originalUrl": "https://www.finextra.com/pressarticle/92043/sygno-joins-ing-labs-2022-programme",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -67,20 +67,6 @@ related:
         width: 2048
         height: 1151
         isCached: true
-  - title: "authID.ai achieves perfect score for ISO Level 2 biometric presentation attack detection"
-    excerpt: "LONG BEACH, NY , May 03, 2022 (GLOBE NEWSWIRE) -- authID.ai [Nasdaq: AUID], a leading provider of secure, mobile, biometric identity authentication solutions,has announced that the company’s Verified™ platform has achieved conformance with ISO ..."
-    publishedDateTime: 2022-05-03T21:52:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/press-release/21266498/authidai-authidai-achieves-perfect-score-for-iso-level-2-biometric-presentation-attack-detection"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 28
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/05/AuthID_logo_tagline_2022_web_color.62719e93ba99f.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VrbH6JLgF28YH7aBQAQ9M5z2RWA5ZHUIK/KC/zxklrTBLzWA4mScSkGmF+GD3l5F85EaqO1jqg7InTHIS7suhC8eLgFYHj/T/6lFcMDgDHUG2sgg++sZuaKCwwMXh3hWrWSrUYtDZAq5ApkqBaYdXihWrG/Lvp3CwbULEHAHjVq/r9VsNrOiMdFkZTbkv1sr4U5kBXTZE59zFkKIyi0wH+3jsj96alXJcPimb7vZ0+X86/k/xowuccP+pYwm7Z2UgEe91Yt8Ff6uVs9fBJBNqX/f+rmrMsKYuC1RD+pKs/Orb+T2VmRPDHr3cZw6so2hqYHra2mkl+oWgf6PxKGDIoavZSkpYsIdJIdzlC8w4UCrL8jehALHLxIfOr9ogRbt81BCjtZ0Ey5RaSLIEcouBC5aFQSjfXGRu4YyZ3BWyKtxqf/l56nzX4j2jbPBR+a06eyCGed1fXpuQuGKvsYnqVTUuVwvdMI/bFL716jl23M4mV0DrjatCVzs6wz3Si/51tNBoTaXpFnmmhUXAVromg==;hDdlpOXc1iB2q7AW3IwLkQ=="
 ---

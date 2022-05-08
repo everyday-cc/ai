@@ -2,6 +2,101 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-02-23-word-by-word-and-between-the-lines-a-close-look-at-putins-speech.md",
+      "title": "Word by Word and Between the Lines: A Close Look at Putin’s Speech",
+      "excerpt": "In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html",
+      "originalUrl": "https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/02/22/world/22putin-speech-1/22putin-speech-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.amp.html",
+      "publishedDateTime": "2022-02-23T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-robot-future-hyundai-explores-how-humans-will-interact-with-machines.md",
+      "title": "Robot Future: Hyundai Explores How Humans Will Interact With Machines",
+      "excerpt": "But whether we're ready or not, change is coming, and it's only going to accelerate as we continue to interact with and develop advanced robotics, artificial intelligence, and other related technologies. \"Like ADAS in your car, I think [the interaction ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/features/how-humans-will-interact-with-robots-hyundai/",
+      "originalUrl": "https://www.motortrend.com/features/how-humans-will-interact-with-robots-hyundai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motortrend.com/uploads/2022/02/Hyundai-Robots-CES-2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/features/how-humans-will-interact-with-robots-hyundai/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/how-humans-will-interact-with-robots-hyundai/amp/",
+      "publishedDateTime": "2022-02-23T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-airbus-to-provide-imagery-services-that-enable-intelinairs-crop-analytics-platform.md",
       "title": "Airbus to Provide Imagery Services That Enable Intelinair’s Crop Analytics Platform",
       "excerpt": "Intelinair and Airbus announced today a multi-year collaboration agreement that will provide high-resolution Airbus satellite imagery as an input to Intelinair’s artificial intelligence (AI) powered crop analytics AGMRI® platform to deliver a complete view of every acre,",
@@ -1081,91 +1176,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict.md",
-      "title": "Semiconductor Watch List: Key Chip Ingredients At Risk in Ukraine Conflict",
-      "excerpt": "The alarming prospect of war on the European continent -- in what would be the largest scale conflict since the Yugoslav wars -- has roiled the markets,” wrote Real Money’s Kevin Curran recently. “Meanwhile,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "originalUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzkyMTc5NTIzODIyOTI1/stock-trader-distressed.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
-      "publishedDateTime": "2022-02-22T18:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-23-eca-to-inaugurate-africas-1st-ai-research-centre-in-brazzaville-congo.md",
-      "title": "ECA to Inaugurate Africa’s 1st AI Research Centre in Brazzaville Congo",
-      "excerpt": "Addis Ababa, February 23/2022 /ENA/ The Economic Commission for Africa (ECA) is set to launch Africa’s first Artificial Intelligence (AI) research center in Brazzaville Congo, with focus on technology and innovationThe center,",
-      "sourceUrl": null,
-      "webUrl": "https://africa.cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
-      "originalUrl": "https://www.msn.com/en-xl/africa/other/eca-to-inaugurate-africa-s-1st-ai-research-centre-in-brazzaville-congo/ar-AAUdZz8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://africa.cgtn.com/wp-content/photo-gallery/2022/02/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
-          "width": 848,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
-        "domain": "cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

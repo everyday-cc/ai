@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "How Artificial Intelligence Can Help Fight Fires in the West"
-    excerpt: "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, Colo., is tapping decades of experience of managing satellites, exploring ..."
-    publishedDateTime: 2022-05-03T20:54:00Z
-    webUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west"
-    ampWebUrl: "https://www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/how-artificial-intelligence-can-help-fight-fires-in-the-west?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "Is artificial intelligence the next tool to fight wildfires in the West?"
     excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have"
     publishedDateTime: 2022-05-08T05:30:00Z

@@ -43,6 +43,20 @@ related:
         width: 500
         height: 700
         isCached: true
+  - title: "Meta opens access to AI large language model"
+    excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
+    publishedDateTime: 2022-05-04T03:20:00Z
+    webUrl: "https://www.asiaone.com/digital/meta-opens-access-ai-large-language-model"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/Screenshot%202022-05-04%20at%2010.16.38%20AM.png?h=690322e4&itok=OAImWZns"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "nYkVrKub5uJok8spbc6KJWnJkldehTWTuhODlICKppqnVmnT07p9Qm84pr4Mr88rnfdOsmRt5nRBr8dFVk0jVPrzrhbNTY7p1NxN2B4n6U+1pZLHskLyzX8oswA2/d7cwCanZydC7sPajORjjd6rqORH+bdA9RfFqcl8hgnhMWLN56VNZQey7bXiBLbogJvjN8X8OVVDGZ0N+Gq5WdxPSpUSN0RtxFXsYFZNOeTxB4e9FyhtgUuHZTndmMcTL0lYPUkm3rUQCFQhT/qV2G3hQMrCneTz6ylA3NimO1alwCSr7HyNGQrW/ra/r/xV4PGoQxF4wa431wsxTbVJhVdikc+occF1Hep9jdAInmCoWgY=;GMpUnn4roZCiCMqW+zQ7mQ=="
 ---
