@@ -2,6 +2,48 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-03-27-mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm.md",
+      "title": "MP govt to start AI course in schools, vet telemedicine facility: CM",
+      "excerpt": "The Madhya Pradesh government will start a course in Artificial Intelligence for students from class 8, which will be the first such initiative in the country, CM Shivraj Singh Chouhan said on Sunday",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
+      "originalUrl": "https://www.business-standard.com/article/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/04/full/1601810115-3042.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/mp-govt-to-start-ai-course-in-schools-vet-telemedicine-facility-cm-122032700740_1.html",
+      "publishedDateTime": "2022-03-27T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-27-this-is-what-makes-deep-learning-so-powerful.md",
       "title": "This is what makes deep learning so powerful",
       "excerpt": "Deep learning's availability of large data and compute power makes it far better than any of the classical machine learning algorithms.",
@@ -1117,49 +1159,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world.md",
-      "title": "A language of no importance: the consequences of neglecting marginalized languages in the digital world",
-      "excerpt": "Most major platforms and services are still only available or functional in a small number of geopolitically dominant languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openglobalrights.org/a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world/?lang=English",
-      "originalUrl": "https://www.openglobalrights.org/a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world/?lang=English",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.openglobalrights.org/userfiles/image/Rowe_Image_03-24-22.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openglobalrights",
-        "domain": "openglobalrights.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-03-startups-apply-artificial-intelligence-to-supply-chain-disruptions.md",
+      "title": "Startups Apply Artificial Intelligence to Supply Chain Disruptions",
+      "excerpt": "LONDON (Reuters) - Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics.md",
       "title": "Dell targets multi-cloud ecosystem with cyber recovery and data analytics",
       "excerpt": "metadata and machine learning to proactively detect, diagnose and speed up data recovery when an attack has occurred, as well as identify the last known uncorrupted copy of data to recover from. Both PowerProtect Cyber Recovery for Microsoft Azure and ...",
@@ -1146,58 +1189,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-financial-technology-firms-tap-ai-to-reach-more-borrowers.md",
-      "title": "Financial-Technology Firms Tap AI to Reach More Borrowers",
-      "excerpt": "Nearly every big fintech company has to rely on bank partners for regulated tasks such as holding customers’ deposits and issuing debit cards. LoanSnap Inc., a five-year-old startup based in San Francisco, uses AI to scan financial information such as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc",
-      "originalUrl": "https://www.wsj.com/articles/financial-technology-firms-tap-ai-to-reach-more-borrowers-11651483802?tpl=vc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-535177/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

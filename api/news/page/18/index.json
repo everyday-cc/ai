@@ -2,6 +2,48 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-04-19-uniphore-acquires-colabo-for-knowledge-ai-and-automation.md",
+      "title": "Uniphore Acquires Colabo for Knowledge AI and Automation",
+      "excerpt": "With the addition of knowledge-based AI, Uniphore is broadening its AI capabilities beyond only speech and emotions. “The integration would enhance our existing self-service and agent-assist solutions with a dynamic knowledge AI solution that can extract knowledge entities and graphs from different enterprise applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/",
+      "originalUrl": "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/8a4551705f9c48b0ad228e0cf26c9e60.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/",
+      "publishedDateTime": "2022-04-19T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-dental-ai-leader-overjet-announces-partnership-with-seattle-study-club.md",
       "title": "Dental AI Leader Overjet Announces Partnership with Seattle Study Club",
       "excerpt": "The partnership comes at a key moment when dentistry is in the midst of a foundational transformation. Innovations in advanced technologies such as AI are reshaping many aspects of dental practice, from clinical decision-making to doctor-patient communication.",
@@ -1061,49 +1103,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-k-health-review-is-it-legit.md",
-      "title": "K Health Review: Is It Legit?",
-      "excerpt": "K Health is a health service that uses artificial intelligence (AI ... or you could sign up for their therapy services. K Therapy is a monthly subscription that offers 24/7 access to self-guided ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/khealth-reviews",
-      "originalUrl": "https://www.healthline.com/health/khealth-reviews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/03/telehealth-1200x628-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

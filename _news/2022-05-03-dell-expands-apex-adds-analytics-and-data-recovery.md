@@ -19,46 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Dell targets multi-cloud ecosystem with cyber recovery and data analytics"
-    excerpt: "metadata and machine learning to proactively detect, diagnose and speed up data recovery when an attack has occurred, as well as identify the last known uncorrupted copy of data to recover from. Both PowerProtect Cyber Recovery for Microsoft Azure and ..."
-    publishedDateTime: 2022-05-03T05:08:00Z
-    webUrl: "https://www.zdnet.com/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dell-targets-multi-cloud-ecosystem-with-cyber-recovery-and-data-analytics/"
+  - title: "Exasol Announces Expanded Capabilities of Its Analytics SaaS Database, Including ETL Integration"
+    excerpt: "Amazon SageMaker extension: Exasol SaaS now supports a SageMaker Extension, enabling users to develop end-to-end machine learning projects on data stored in Exasol using the Amazon SageMaker Autopilot service. Doing so mean users can turn data into ..."
+    publishedDateTime: 2022-05-03T07:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/b26953454/exasol-announces-expanded-capabilities-of-its-analytics-saas-database-including-etl-integration"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26953454"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26953454"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 53
-  - title: "Dell offers data, app recovery support for multicloud assets"
-    excerpt: "The Microsoft Azure recovery environment (or vault ... and complete files, and implement machine learning and forensic tools to detect, diagnose and speed data recovery. It will also monitor databases to trace back to the last uncorrupted copy of the ..."
-    publishedDateTime: 2022-05-05T16:13:00Z
-    webUrl: "https://www.networkworld.com/article/3659834/dell-offers-data-app-recovery-support-for-multicloud-assets.html"
-    ampWebUrl: "https://www.networkworld.com/article/3659834/dell-offers-data-app-recovery-support-for-multicloud-assets.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3659834/dell-offers-data-app-recovery-support-for-multicloud-assets.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
     images:
-      - url: "https://images.techhive.com/images/article/2016/12/hybrid_cloud-100700390-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Dell anchors multi-cloud cyber recovery to APEX"
-    excerpt: "Notably, the release of Dell PowerProtect Cyber Recovery for Microsoft Azure will aim to allow businesses opportunity ... as well as implementing machine learning and forensic tools to \"detect, diagnose and speed up\" data recovery. This also extends ..."
-    publishedDateTime: 2022-05-03T11:16:00Z
-    webUrl: "https://www.arnnet.com.au/article/697764/dell-anchors-multi-cloud-cyber-recovery-apex/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 24
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/shant_soghomonian_dell_1.jpg"
-        width: 504
-        height: 315
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
     excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
@@ -69,6 +44,15 @@ related:
       name: theregister
       domain: theregister.com
     quality: 16
+  - title: "Cigniti Technologies to Acquire Aparaa Digital (RoundSqr), an AI/ML, Data Analytics, and Blockchain Engineering Services Company"
+    excerpt: "Aparaa brings integrated enterprise digital transformation and consulting-driven expertise covering a gamut of AI and ML, data engineering, and Blockchain capabilities. RoundSqr’s Zastra (an active learning-AI based data annotation and MLOps platform ..."
+    publishedDateTime: 2022-05-04T15:46:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-4-cigniti-technologies-to-acquire-aparaa-digital-roundsqr-an-aiml-data-analytics-and-blockchain-engineering-services-company"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 5
 
 secured: "xA5e8kzwKAnQVPQyedM8HCf3jkyJlybqeQJ3b5Ub5YDF+XHf60HxDXSkBy4yLDbVouwC+CNJqvdNG8P2DYTuIiZE/y0TfkO8fIpbmJdtPIFKL3Y7okcDG6kz/f8c6F9DJW3WCovcGhJY33bQniR//sr8d3p1YrdcHbbb4NK3nuAUwvvogcXYk2zDP1lfnt/P+S5aXCoZXBR6jeeemBROgwuF6FFdp1YILqeMiHTZksUXC0ERcSMtYBjrOMrhxbebeMQZSlpmpdZnVWvvp9TjBjM4sveaJrSIfgS8Kjhns6SunKcI8sSi8i6jhYlzDDzIjxmnhcj/nQay0d4wFuU6wAYmZyLalJI+0pyGGQbJMPWDOgn7JCmt71R/CRGA64LsqqPJhTfUhBQPy7JvJ6gDJNVNDCauspAfoeRHQFHGxK5MODXN01HdfUv7zVRfzmeVPOf/53FDTHUEQ+v/RMGmY5aIMueys4fkEVyMT0Pv4SnwYY8FzUD0lBeikH2slsIO2k4yn0Wzp6955ZbqDaoeVQ==;MsYqJSXbFtN+VlnbDoyGcg=="
 ---

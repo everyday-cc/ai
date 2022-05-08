@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-29-enterprise-use-cases-for-computer-vision.md",
+      "title": "Enterprise Use Cases For Computer Vision",
+      "excerpt": "Manish Garg is the Co-founder and Chief Product Officer at Skan.ai, a computer-vision-based process intelligence platform. Computer vision conjures up thoughts of autonomous vehicles and facial recognition for many of us. Indeed, billions of dollars have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,3375,x0,y240,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/enterprise-use-cases-for-computer-vision/amp/",
+      "publishedDateTime": "2022-04-29T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-baidu-ponyai-get-chinas-first-commercial-driverless-robotaxi-permits.md",
       "title": "Baidu & Pony.AI get China’s first commercial driverless robotaxi permits",
       "excerpt": "Baidu and Pony.ai are two Chinese companies that have been ... Previous permits relate to testing the self-driving vehicles without a safety driver in the vehicle. China has seen a raft of self-driving services in several cities across the country.",
@@ -1177,48 +1229,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-man-who-gave-microwave-artificial-intelligence-claims-it-tried-to-cook-him-to-death.md",
-      "title": "Man who gave microwave artificial intelligence claims it tried to cook him to death",
-      "excerpt": "YouTuber Lucas Rizzotto said the family microwave was his imaginary childhood friend which he tried to resurrect by fitting a new one with artificial intelligence during a bizarre experiment",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597",
-      "originalUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article26824071.ece/ALTERNATES/s615/0_Lucas-Rizzotto.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp",
-      "publishedDateTime": "2022-04-28T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

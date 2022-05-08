@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1264
         isCached: true
-  - title: "Motion Gestures using AI to enhance camera-based gesture recognition technology"
-    excerpt: "Chris Paine, Motion Gestures' global director of business development, said the founders have backgrounds in utilizing AI and ML in natural language understanding ... It wants to embed its software in semiconductor chips and/or integrate with optical ..."
-    publishedDateTime: 2022-05-03T06:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220503vl202_files/5_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Legal Aid Society criticizes D.A.’s purchase of facial-recognition technology, says office used federal forfeiture money"
     excerpt: "STATEN ISLAND, N.Y. — District Attorney Michael E. McMahon used controversial federal forfeiture funds to purchase and employ the use of facial recognition technology that has drawn the ire of civil liberties advocates, according to the Legal Aid Society."
     publishedDateTime: 2022-05-04T20:22:00Z

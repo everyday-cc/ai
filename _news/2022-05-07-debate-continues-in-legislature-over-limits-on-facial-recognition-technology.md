@@ -9,7 +9,7 @@ ampWebUrl: "https://gazette.com/premium/debate-continues-in-legislature-over-lim
 cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.amp.html"
 type: article
 quality: 56
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://coconuts.co/wp-content/uploads/2022/05/Screenshot-2022-05-04-at-4.44.18-PM.png"
         width: 1920
         height: 1264
-        isCached: true
-  - title: "Motion Gestures using AI to enhance camera-based gesture recognition technology"
-    excerpt: "Chris Paine, Motion Gestures' global director of business development, said the founders have backgrounds in utilizing AI and ML in natural language understanding ... It wants to embed its software in semiconductor chips and/or integrate with optical ..."
-    publishedDateTime: 2022-05-03T06:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220503vl202_files/5_b.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Legal Aid Society criticizes D.A.’s purchase of facial-recognition technology, says office used federal forfeiture money"
     excerpt: "STATEN ISLAND, N.Y. — District Attorney Michael E. McMahon used controversial federal forfeiture funds to purchase and employ the use of facial recognition technology that has drawn the ire of civil liberties advocates, according to the Legal Aid Society."
@@ -114,6 +100,6 @@ related:
         height: 600
         isCached: true
 
-secured: "T/F4xnDa0EdeqYB6CB0nmYFlZie7JutJGNQT2nK1pTtgAMAcU29b3SZW/zSgZekqjprB01nN0yaBVJduNJdSe+QSxW6or+7DnKUXTMSx58XNXa2XuNK9TdhYB7S2U9dUeRbSC0pjbJt5e73ezxrI/4GFU2Sw8JupAwpIASLQd7fHxs0E70C21z2f/26njI2UjRWA5eMERnT9wHv0MFjy9mF0BAtLQsJ9H5v0CtzYI/+p83gfmIKO/EvjAQwprE2RejWYkXuHKuQAuyVM88We4k2DGLkED198/kMhdo2+F21jq4sx3hIdfFbdfwmOxk/o4P4F+1DRhPL8NHP4w5BbXpx6gv758bmFaPKkeOBuzco=;vRDWpTOc5qg8RtgvFJN/rA=="
+secured: "khFnB8Kald337v33xtutwgj/RxyIOa7LmEs3xBIIVEdk/0S+lUmno7L6wcmrAPSwH4L+epmxJoenNuNB1IWSROTfKgshN1Hn+Ipr79+NgdEnAbIH27kEnKqcPF8leFz78K5NDZfMGP+P47uBSqqk2LRgURaQmSuYWCPZWrCI6Dg0S0DMGxD4nb6UqHn01V2tBEIMPbSnxFKFOmOFwX0ue+mKuL6ICZzFcaPgW9OfHfwNUXwrIr4VRXY3ZHvIJ1T43OOahz8Eb9ih0nRvAAtR8Y0MG60qz6f9QWadQLS6WLY7yOkol9nuJbMX1hb+s5KdEBsMpERMnSZ1cm5SrCjsaT0TTNN0Xn/bUAkcaE6UAjTGLCJ5H+IuJlUwHFAMRjoEajewj+PIE2UAx7D/AbjOMRkXfFuroviH9cMwH31MwcFnSTAF3sDTBuVHkPmUNGZX5jLRpSAqN4Xp+GTeG5M+RESwncYNb7XwoctJtczZlGxtNKqZT3s6ctRDQVH72YPXNaxPgQYYb7bZLGsWOm1deA==;3trPdiwh+Tj2zFW23Jr1rA=="
 ---
 

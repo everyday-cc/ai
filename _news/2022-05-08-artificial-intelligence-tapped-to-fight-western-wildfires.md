@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence tapped to fight Western wildfires"
-excerpt: "Lockheed Martin Space is tapping decades of experience of managing satellites and providing information for the U.S. military to offer more accurate data quicker to ground crews."
-publishedDateTime: 2022-05-07T17:05:00Z
-originalUrl: "https://www.pressherald.com/2022/05/07/artificial-intelligence-tapped-to-fight-western-wildfires/"
-webUrl: "https://www.pressherald.com/2022/05/07/artificial-intelligence-tapped-to-fight-western-wildfires/"
+excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
+publishedDateTime: 2022-05-07T23:09:00Z
+originalUrl: "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
+webUrl: "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Portland Press Herald
-  domain: pressherald.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://multifiles.pressherald.com/uploads/sites/4/2022/05/Spring_Wildfires_19635-1651943151.jpg"
-    width: 1000
-    height: 626
+  - url: "https://twt-thumbs.washtimes.com/media/image/2022/05/07/Spring_Wildfires_50329.jpg-e40f6_c0-204-4896-3060_s1200x700.jpg?4f73bfd5e643028254bdc4481a457737dfcd6b2f"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -66,6 +69,6 @@ related:
         height: 450
         isCached: true
 
-secured: "+nD1KGDLoeFjkKbVQEOS2ezGk2C/jHtLR960EmB9KrKVoeSvmQabhdWMjSFSn1vYy+CIzbTVISK0FmU/ZE5mmgmYa/v7NlRr8Edc5lssNh90RLttIbfN/akFX4WyoeLGte1t5b04xU5R5i+4tSgpitDGPtZNICM/N1TRbBfz527GemesKYpNEJG4Dq6k6KoXKBNr5kA5+jNtywSVXf72dOIrJYEmTAUNFzL4daHJjslHn4qpWI7OBApLxtdo3UR4oVozFOGh+m+Pr4SMCcJDGIHpQXS/NnFx7BT2r6dQg4QoUgUIWKs05lGIK4JcUl3Ws5Vyc58pk1Z7wysZkVIbDYgYmZ2PiD6EpDzUsx91SoGnxvBW4kG0jWyk69lcikKi0X9yB/1saSpNeRjaof2Kx3YU0J58z03RAMakBKQwMzv5mt4ipg2/rxvle7FS2upVOs/W2yOMrfy9AmA1tMaijDBcFjtPXn5ExlVw08J28/DLBqSCAX77fuZHWJUVtxKZBmOGzDxYUuH6lFrOSzUDng==;XdggaG0fGzv23kVusBuy7A=="
+secured: "RKUSIa95fMpuxyp0ua8wpGRhsMq7oWtTM8TjQ7EQ0TfkAMehc32Zxpm8u5BhewjkxQBhtmtOHNbSsW899Qlq6jXQT4HSYBq2TJgo6Gm++rDIpPQYR9FyO9ggiqs8aqYABnfD1jraXUHBkv0l1fT0jLGWHP1r3Vh0AwsM/bBo2k1O82oGANTrRznknA160tI4uAccdUVwXXENqsqZ0rJZOUhvVtIDJxnpJOMzTQM8TncdGVhB9w63IxJ7wXTYBFsqIRW147fZkeA+Ft0tZKD2jV7JgHtSJcGzfBjGDBM9rtUKRRabvIOi/8NTXYNKVThLIFGsPMIV9DW+gn0W+7ApurbGtHJzAscOxNEK2uc6NmE=;VxpdbwRjynuCafBqxjV3Uw=="
 ---
 

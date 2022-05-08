@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence tapped to fight Western wildfires"
+    excerpt: "The high-tech help could come by way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space ..."
+    publishedDateTime: 2022-05-07T23:09:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 59
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/05/07/Spring_Wildfires_50329.jpg-e40f6_c0-204-4896-3060_s1200x700.jpg?4f73bfd5e643028254bdc4481a457737dfcd6b2f"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "How Artificial Intelligence Can Help Fight Fires in the West"
     excerpt: "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, Colo., is tapping decades of experience of managing satellites, exploring ..."
     publishedDateTime: 2022-05-03T20:54:00Z
@@ -51,20 +67,6 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Artificial intelligence tapped to fight Western wildfires"
-    excerpt: "Lockheed Martin Space is tapping decades of experience of managing satellites and providing information for the U.S. military to offer more accurate data quicker to ground crews."
-    publishedDateTime: 2022-05-07T17:05:00Z
-    webUrl: "https://www.pressherald.com/2022/05/07/artificial-intelligence-tapped-to-fight-western-wildfires/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 37
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/4/2022/05/Spring_Wildfires_19635-1651943151.jpg"
-        width: 1000
-        height: 626
         isCached: true
 
 secured: "EY1qve07P/dI+1DpIcquCYg/Zqk08sgxJhk0hQNVr7MtCh3o3Jdj0Cg1nSEx9sfrNeo8w8ZCZ1zwbU4tcdZSUh8j7m5Wn9XQCaE2jRDASd/+doMWmPv8c335/eiO6vdE0zGXJIz5obayZAjXg9AhYzjfNGHx+QH4rrxhHX0C/TyZ0SSXxUuIvA8gcO4SFD51AVkAIroN7p7epCgnKdUWmfeQ5LowbvzxAtWIpBUzLMjKr/6FxWhIWikUQ+OnxTy9Ea0TXJBY91NmwfpvjeFv/yTAvDtYgulj1lwprjulhCxgMCmr//WmfznmW03Qa+mo+Erf1cld+pd8xw9LQVF3IhREw7yYkt2rRKkYLdUB7H0=;JLVaGD1VQ05TgWqTEssLsw=="

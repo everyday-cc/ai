@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-
 webUrl: "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
     quality: 42
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "At a CAGR of 26.44% Mobile Artificial Intelligence (AI) Market Size Expected to Reach $84.80 Billion by 2030"
-    excerpt: "According to a new report published by Allied Market Research, titled, “Mobile Artificial Intelligence (AI) Market by Technology Node, Component, and Application: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global mobile ..."
-    publishedDateTime: 2022-05-03T05:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/at-a-cagr-of-26-44-mobile-artificial-intelligence-ai-market-size-expected-to-reach-84-80-billion-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/f1653d2b223a6200f45edb7f55c9ffc64fd662bb-600x337.jpg"
         width: 600
         height: 337
         isCached: true

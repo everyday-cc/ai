@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-04-21-united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026.md",
+      "title": "United States Artificial Intelligence Market Share, Size, Trends, Growth and Forecast 2021-2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 21, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"United ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026-2022-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-how-to-improve-contact-center-training-with-ai-simulation.md",
       "title": "How To Improve Contact Center Training With AI Simulation",
       "excerpt": "Salesforce \"State of Service\" report shows that almost 80% of contact center agents say their company views them as customer advocates or brand ambassadors, and 77% of ag",
@@ -1128,41 +1180,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows.md",
-      "title": "Koïos Intelligence and Applied to Further Digitize Sales and Service Workflows",
-      "excerpt": "Applied Systems today announced a new collaboration with Koïos Intelligence to optimize and simplify insurance sales and service processes with artificial intelligence and natural language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8525727/koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows/",
-      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8525727/koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

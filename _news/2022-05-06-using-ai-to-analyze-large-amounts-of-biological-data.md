@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
 type: article
 quality: 51
-heat: 72
+heat: 71
 published: true
 
 provider:

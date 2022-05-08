@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-04-19-k-health-review-is-it-legit.md",
+      "title": "K Health Review: Is It Legit?",
+      "excerpt": "K Health is a health service that uses artificial intelligence (AI ... or you could sign up for their therapy services. K Therapy is a monthly subscription that offers 24/7 access to self-guided ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health/khealth-reviews",
+      "originalUrl": "https://www.healthline.com/health/khealth-reviews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2022/03/telehealth-1200x628-facebook-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report.md",
       "title": "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report",
       "excerpt": "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine.",
@@ -1124,58 +1167,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-linkedin-creates-pass-to-tailor-graph-neural-networks-for-social-media.md",
-      "title": "LinkedIn creates PASS to tailor graph neural networks for social media",
-      "excerpt": "Join AI and data leaders for insightful talks and ... This makes it difficult for platforms like LinkedIn, Twitter, Facebook and Instagram to make accurate recommendations – a task that is ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/18/linkedin-creates-pass-to-tailor-graph-neural-networks-for-social-media/",
-      "originalUrl": "https://venturebeat.com/2022/04/18/linkedin-creates-pass-to-tailor-graph-neural-networks-for-social-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/Graph-Neural-Networks-e1634053538551.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/18/linkedin-creates-pass-to-tailor-graph-neural-networks-for-social-media/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/linkedin-creates-pass-to-tailor-graph-neural-networks-for-social-media/amp/",
-      "publishedDateTime": "2022-04-17T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

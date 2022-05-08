@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-04-09-cities-take-the-lead-in-setting-rules-around-how-ai-is-used.md",
+      "title": "Cities Take the Lead in Setting Rules Around How AI Is Used",
+      "excerpt": "A look at what New York, London, Barcelona and other places are doing to establish regulations that other cities—and countries—may want to copy",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
+      "originalUrl": "https://www.wsj.com/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-521230/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
+      "publishedDateTime": "2022-04-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-turning-point-for-artificial-intelligence-which-may-or-may-not-be-dominated-by-the-large-cloud-providers.md",
       "title": "Turning point for artificial intelligence, which may or may not be dominated by the large cloud providers",
       "excerpt": "As an independent analyst, he has authored numerous research reports in partnership with Forbes Insights, IDC, and Unisphere Research, a division of Information Today, Inc. Artificial intelligence and machine learning requires huge amounts of processing ...",
@@ -1138,58 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-seven-takeaways-from-the-industrys-largest-event-on-machine-learning-observability.md",
-      "title": "Seven Takeaways From The Industry’s Largest Event On Machine Learning Observability",
-      "excerpt": "Arize:Observe wrapped up last week before an audience of over 1,000 technical leaders and practitioners. The event features multiple tracks and talks from Etsy, Kaggle, Opendoor, Spotify, Uber and many more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/04/08/seven-takeaways-from-the-industrys-largest-event-on-machine-learning-observability/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/04/08/seven-takeaways-from-the-industrys-largest-event-on-machine-learning-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62503df9bb91d05f1c3a0cfd/0x0.jpg?format=jpg&width=1200",
-          "width": 610,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/04/08/seven-takeaways-from-the-industrys-largest-event-on-machine-learning-observability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/04/08/seven-takeaways-from-the-industrys-largest-event-on-machine-learning-observability/amp/",
-      "publishedDateTime": "2022-04-08T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

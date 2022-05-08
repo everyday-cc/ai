@@ -57,20 +57,6 @@ related:
         width: 1920
         height: 1264
         isCached: true
-  - title: "Motion Gestures using AI to enhance camera-based gesture recognition technology"
-    excerpt: "Chris Paine, Motion Gestures' global director of business development, said the founders have backgrounds in utilizing AI and ML in natural language understanding ... It wants to embed its software in semiconductor chips and/or integrate with optical ..."
-    publishedDateTime: 2022-05-03T06:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220503vl202_files/5_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
     excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday. As drafted, Senate Bill 113 would establish several regulations for the use of ..."
     publishedDateTime: 2022-05-06T20:38:00Z

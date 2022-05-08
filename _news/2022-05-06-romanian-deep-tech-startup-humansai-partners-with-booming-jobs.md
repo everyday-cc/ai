@@ -7,7 +7,7 @@ originalUrl: "https://business-review.eu/business/human-resources/romanian-deep-
 webUrl: "https://business-review.eu/business/human-resources/romanian-deep-tech-startup-humans-ai-partners-with-booming-jobs-230599"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "Romanian AI startup DRUID attracts $15 million in order to expand globally"
-    excerpt: "Conversational Business Applications (CBA), that will enable AI to successfully drive complex processes and help people achieve better business results.\", said Liviu Drăgan, CEO of DRUID. Startup-ul românesc Druid atrage 15 milioane de dolari investiție ..."
-    publishedDateTime: 2022-05-03T05:49:00Z
-    webUrl: "https://start-up.ro/romanian-ai-startup-druid-attracts-15-million-in-order-to-expand-globally/"
-    ampWebUrl: "https://start-up.ro/amp/romanian-ai-startup-druid-attracts-15-million-in-order-to-expand-globally/"
-    cdnAmpWebUrl: "https://start--up-ro.cdn.ampproject.org/c/s/start-up.ro/amp/romanian-ai-startup-druid-attracts-15-million-in-order-to-expand-globally/"
+  - title: "STARTUP: A Deep Dive into AI Processing"
+    excerpt: "He had a unique combination of knowledge of chip design – he knew how GPUs worked – and he was a very good programmer, a good mathematician. He was one of the few people I met who had knowledge of four different domains. He understood what the AI ..."
+    publishedDateTime: 2022-05-03T10:57:00Z
+    webUrl: "https://www.electronicsforu.com/special/cool-stuff-misc/a-deep-dive-into-ai-processing"
     type: article
     provider:
-      name: start-up
-      domain: start-up.ro
-    quality: 55
-    images:
-      - url: "https://start-up.ro/img/articles/2/9/3/29394/cover-29394-src.jpg"
-        width: 1280
-        height: 719
-        isCached: true
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 19
+  - title: "Ardent Health Services Partners with AI Company Winnow to Modernize Clinician Recruiting"
+    excerpt: "Healthtech company Winnow has partnered with Ardent Health Services to leverage its AI solution for clinician recruiting. The partnership deepens Ardent's commitment to digital innovation and gives it"
+    publishedDateTime: 2022-05-05T18:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27032086/ardent-health-services-partners-with-ai-company-winnow-to-modernize-clinician-recruiting"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "iXRbECwO/jruSI2ny7UFBQHhyOcooqc3KIL9Xz1Xp9aCfhM1vDLAKaRcLSDAsfrx/Af5EwrG1ixH4nO0Rv24qbiAj4aSorIDMYr2wXvSYyIA1fIBsxkG9qiKyWAUH9WNi92vz6sR/pNC1+xeSQ8A2gIODQzScGkBUW1yVeau2K2ZeGxjabPYuwPGGhUBy3XE1Ta/OYWqogcFIfK5kn2Gr6YB0XFHonC8YglTQBN5wCRFe/KQADPvs7CCZQFEapcbLKb8LOTe6S/3FhyMTV5S70AEosp70J1iPKm12z3z2kOv0VmvgeDQQrgetOEgQi7gOuiYmRHe02WAhSph3V7TjvBm1QIP9lTz+bB1ev5Aq9b336w+mlsPnIPppaoKxNIcYKyLie/bqJ8zB+FXeFTPdkHvE4O6Ygr2bZNpxS8cvyYOX9x/Unf2Ek4RJ8lZBUeGE2EgSW92JFtoPl75iQ2rCfoyCw97/wUPCbnEtWGBclVsouphw0naSDp6oUmiynEyO29VtKDrd/N+4GamO7d76A==;LJ4PX8abh4WN/2IJcqcnUA=="
 ---

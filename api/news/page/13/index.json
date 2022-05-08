@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-04-23-facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting.md",
+      "title": "Facial Recognition Tech Leads to Arrest in Fatal Miami-Dade Strip Club Shooting",
+      "excerpt": "\"The subject fled on foot as the crowd inside the club dispersed.\" The entire incident was captured on surveillance video, which detectives used along with facial recognition software to identify Solomon as a suspect, the warrant said. A witness who was at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/",
+      "originalUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcmiami.com/2022/04/042122-the-office-gentlemens-club-miami-dade-shooting.jpg?quality=85&strip=all&fit=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/?amp",
+      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/?amp",
+      "publishedDateTime": "2022-04-23T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 6 South Florida",
+        "domain": "nbcmiami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-video-shows-tesla-self-driving-into-a-35-million-private-jet.md",
       "title": "Video Shows Tesla Self Driving Into A $3.5 Million Private Jet",
       "excerpt": "Tesla vehicle using Smart Summon feature has crashed into a $3.5 million private jet. Here is why the incident took place.",
@@ -1072,58 +1115,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing.md",
-      "title": "Taiwan Unicorn Appier Bets On AI-Driven Software For Digital Marketing",
-      "excerpt": "Academics-turned-entrepreneurs Yu Chih-han and Winnie Lee led Appier to become Taiwan’s first listed unicorn. Now they're betting on global demand for the marketing firm’s AI insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2022/04/21/taiwan-unicorn-appier-bets-on-ai-driven-software-for-digital-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62610776ca5e4f77243c3a02/0x0.jpg?format=jpg&crop=2359,1328,x0,y141,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

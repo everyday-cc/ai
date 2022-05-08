@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-03-16-aim-medical-robotics-raises-34m.md",
+      "title": "AiM Medical Robotics raises $3.4M",
+      "excerpt": "MRI-compatible intraoperative robotics developer AiM Medical Robotics announced today that it raised $3.4 million in a seed funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/aim-medical-robotics-raises-3-4m/",
+      "originalUrl": "https://www.massdevice.com/aim-medical-robotics-raises-3-4m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.massdevice.com/wp-content/uploads/2022/03/AiM_Medical_Robotics.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-eye-health-computer-vision-syndrome-is-caused-by-excessive-screen-time-symptoms.md",
       "title": "Eye health: ‘Computer vision syndrome’ is caused by excessive screen time - symptoms",
       "excerpt": "However, 24 years ago, in 1998 doctors coined the term Computer Vision Syndrome, or CVS for short. It was used to describe the impact of computer screens on the eyes. READ MORE: Vitamin B12 ...",
@@ -1061,49 +1104,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-artificial-intelligence-in-chipset-market-to-hit-usd-3846-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027.md",
-      "title": "Artificial Intelligence in Chipset Market to Hit USD 38.46 Billion | AI Chipset Market Size, Share, Demand, Growth and Forecast 2027",
-      "excerpt": "Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices to support AI technologies. Increasing utilization of AI technologies is projected to boost the demand for these chipsets over the next couple of years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

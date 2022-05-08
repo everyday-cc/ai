@@ -1,26 +1,31 @@
 ---
 category: news
-title: "Facebook-owner Meta Opens Access To AI Large Language Model"
-excerpt: "Meta said its model was the first 175-billion-parameter language model to be made available to the broader AI research community. \"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable ..."
-publishedDateTime: 2022-05-03T22:30:00Z
-originalUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
-webUrl: "https://www.ibtimes.com/facebook-owner-meta-opens-access-ai-large-language-model-3492718"
+title: "Facebook-owner Meta opens access to AI large language model"
+excerpt: "\"Large language models\" are natural language processing systems which are trained on massive volumes of text, and are capable of answering reading comprehension questions or generating new text. In a blog post, Meta said the release of its \"Open Pretrained ..."
+publishedDateTime: 2022-05-03T21:22:00Z
+originalUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
+webUrl: "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 69
+heat: 109
+published: true
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/a-man-stands-in-front-of-a-sign.jpg"
+  - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
     width: 1200
-    height: 803
+    height: 628
     isCached: true
 
 related:
@@ -78,6 +83,6 @@ related:
         height: 316
         isCached: true
 
-secured: "xw94hw2SgRrTjG+PhxSPjZxE6TwxHGnchuX/cskHc2WcgH0qm75fPTxyQ72PogEr8WCc7MEnnxCCFNz3QQL9B2rfWjDJWL1x9+8hQ8/4B7Oswliy9/UMVeulARttAU9NQCGeJTsNZ7uUuqErQt8SYye6ti9S3/ptPBeebexnMKYi3/2WRDIgGwsYPk50fbRfktor0LXnpAVRpnzwtrvbLukBXc5nTokalQw0uqw7Koe2Sk233njcj9VENxj1LvbA+O6QciJEfX6v3EFiVSoNkMhsfEXYeGyk7ee9P/bK1fgn3fjpxmmudiQYhl4TobQ+hf2tYLVt9rqTcOfJC8Eq3cc2+zAFWZ1TyXlLJR6fRss=;mYrIvVMpnTMFuupJziYAKg=="
+secured: "BMrgFlsYWuetu8KC3hR006aQfOjSp1iOL/M87qPR1GypF3DjForrVorDDkGtQ2nLCzthpkBFAH6D/qK7lyGeart6MQSFvp0Pnev9kVnDE9jL4+6sDYGHsY8n12G4M31zoagKwFV6iFU/tMXpvpLfcwTDVMqulN23LAsKOqZ5SeE4r+DxWAI1I20oF6X6NAUbmdyTpT1UcENoKHFx80DuFS62tN8MlCspMWTyw79wjgEspepttcHcFxtWO+GknB9Vygtlw1MkqaE+x4c0Jyu4qJcNlxRgeUQ6UNqvvOeEMdqInEYbZuGBSty7TZcWrkfsIG/vkXGCwEXa4pZIu2QN76Eb61yRgc57j+rnSIYQg9I=;ULktSiHg19XA/esGgojeDA=="
 ---
 
