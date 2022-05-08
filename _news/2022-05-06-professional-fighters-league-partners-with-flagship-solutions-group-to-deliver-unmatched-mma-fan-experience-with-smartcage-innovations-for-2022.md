@@ -1,31 +1,27 @@
 ---
 category: news
 title: "PROFESSIONAL FIGHTERS LEAGUE PARTNERS WITH FLAGSHIP SOLUTIONS GROUP TO DELIVER UNMATCHED MMA FAN EXPERIENCE WITH SMARTCAGE INNOVATIONS FOR 2022 ..."
-excerpt: "an IBM Gold Business Partner, for the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA. Under the agreement, the league ..."
-publishedDateTime: 2022-05-06T05:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with-smartcage-innovations-for-2022-season-1031428268"
-webUrl: "https://markets.businessinsider.com/news/stocks/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with-smartcage-innovations-for-2022-season-1031428268"
+excerpt: "The Professional Fighters League, the fastest growing and most innovative sports league, today announced it is partnering with Flagship Solutions Group, an IBM Gold Business Partner, for the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA."
+publishedDateTime: 2022-05-06T03:57:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with/article_95c73abf-2117-5e5b-88fb-fad6ad38f991.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with/article_95c73abf-2117-5e5b-88fb-fad6ad38f991.html"
 type: article
-quality: 16
-heat: 16
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1812110/Professional_Fighters_League_Flagship_Solutions_Group.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/c9/2c97f31c-24f8-5931-b09d-8bc4086ab8ab/62749d0dad53b.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -53,6 +49,6 @@ related:
         height: 630
         isCached: true
 
-secured: "f61dW4lURP48IrE6TQeQOz1k8hgyOHKTjPxjN+spn3xRnv9Rw4awiws70bAmrhU/+BwO8JC7v9UrQLpBH2QNiFGFU7rE4REybyZkSMqEFIw75ckoYL5N81KIJC1zj/FhAJ9MoYlcNDa3BAYJ4y3rmHeZ+F2Gb7hUL+zqYGULknKlCsAfOxa6h3zpDiTTjjsmFeAfnxhclzRXS46IuiSWAAMzAqfXtKLls/GC38VeyvR1GOPL7wbUI40r5mPd8a1jG51gcsMCFThFMWzXtcnAreUtA+xrVmZzDni2yt26OmB8OBlLhiN1J4QUI2HQUIgtmdmKySyxR90sD2+bNKj+V+1wuAKJ2iZZ85IB8CHcFg0=;Qz2kYuDfpn+xS0tvtR8iLA=="
+secured: "EuCYDoWv1GDJVswJfj6UUPyNGFKMWeffzEyO5SeQRcqZoMsCuNBbUZyzO7fA8svS/0cRAAu+TNrS8HqKIGGS5qvx7Bkwe/t/W3cVED0G3t0xT0n7L2gEl/C0II7yrRfgLD8eT4YgQdfqFBJy+Z7K+wYuspY8QXp6NBOiWxE1wKJnmVX4toNZ46cisChCJ00JsPlU/HFFxkcOOxE/bWp5gX12S5o/NiAR/5LGXMM4B44m5nwyHFw8RhEKDk0y4axkYxhKG0S5y46RZDQnCS2PKNgVceV5G9J59FEMea2Utx3g76/M2vu7xjJIY626UtlbmZWJzLJUZ2YsciNIx6hF0M/9K1GTuyCpMQr8IEeAMfw=;HQ+bVDwBsP7EdyfaKRnLHg=="
 ---
 

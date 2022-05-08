@@ -46,15 +46,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Genesis Therapeutics Announces Strategic Collaboration with Lilly to Discover Novel Therapies Using the Genesis Molecular AI Platform"
-    excerpt: "Genesis Therapeutics, a company pioneering artificial intelligence technologies to create ... which combines 3D structure-aware deep neural networks with cutting-edge molecular simulation. Genesis' field-leading machine learning models will be utilized ..."
-    publishedDateTime: 2022-05-03T10:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-genesis-therapeutics-announces-strategic-collaboration-with-lilly-discover-/2022/05/03/9593892.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "whBOHvB8YstVd5nbzVrAfgLkdDm8QAnkXIAggWwuj0g1cs8CACLcFfeCGd2xXXidbKyFUfunElTk/zVeLioXVbsA1CQ1lFc8SQISsd2cn1fc058WXuueG2n6Rkq+a8rKwc+hyHV6dFW5Pc9MSMUnFiQ4GGJAgOJ0Aa3dyujr1kL44IIEIFRVH8lBTT+qt09osOjo7ild/mPnbzpLuouxzDf/CbqY1e8iuY5SgVM2ag2gTN/3IKp0yfeU9Q0sNrdWr+NdoQhEvA0N7/77ZkatmIJYtZ1Gwft5r+LZmXrhvOw6coAJUvy/D+D0I2gKyK3NB0ceayZCctYYzTDt04vDgkrD98f6spjc17Q9brRJYO6IX5kamxUudfeUXPGgi4Ag7ui6n3JsZrqMIrzIc5emctHn5x4lD4aiNN5mllKbW+4rMkA1epAg2LZ2E6SJRrWCL0bNEyJCJMUz16bn4fGrjUEK2Ip1qJKfP2Qzp9ZhLJ0nNS/ix2QXOnYi+3dds7uGw8HatL70X3ulFVFoG45UjQ==;KcDC9SRXsMJmZs0u1yoYpg=="
 ---

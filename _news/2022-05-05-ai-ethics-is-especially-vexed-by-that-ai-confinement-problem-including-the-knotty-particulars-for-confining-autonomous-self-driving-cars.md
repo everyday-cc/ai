@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-espe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving vehicle pilot successful in Finland during extreme weather"
-    excerpt: "Finnish self-driving tech company Sensible 4 said today (3 May) it has successfully completed an autonomous driving pilot, despite facing challenging weather conditions. The pilot aimed to see how autonomous vehicles work with public transportation ..."
-    publishedDateTime: 2022-05-03T09:38:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/finland-self-driving-vehicles-weather-sensible-4"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 24
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/5YM-yazE.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Self-driving cars will need smarter roadways"
     excerpt: "One way to speed the adoption of self-driving vehicles is to give them automated express lanes, where they can zip past regular traffic without having to tangle with human-driven cars. Why it matters: For all the billions companies are spending to develop ..."
     publishedDateTime: 2022-05-04T10:58:00Z

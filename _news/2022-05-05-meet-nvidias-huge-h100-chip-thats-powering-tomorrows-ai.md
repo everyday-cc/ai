@@ -64,22 +64,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Axiomtek Introduces AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform"
-    excerpt: "processor and 384-core NVIDIA Volta architecture GPU, delivering up to 21 TOPS accelerated computing performance for running modern AI workloads. The advanced edge AI computing platform supports high-speed networking capability functions such as the 5G ..."
-    publishedDateTime: 2022-05-03T10:51:00Z
-    webUrl: "https://enterprisetalk.com/news/axiomtek-introduces-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/"
-    ampWebUrl: "https://enterprisetalk.com/news/axiomtek-introduces-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/axiomtek-introduces-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 48
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Axiomtek-Introduces-AIE900-XNX-Fanless-AI-Powered-Box-PC-Using-NVIDIA-Jetson-Edge-AI-Platform-01.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "UgUnvxU1s3lXXhFzeNirmCCLfFfbkMaOf4fC5O7FClw0EotVYH5fHCyOjGhBDfjoWh2nbJMZbRGNtc7vRrpQC0wgfTAIq5rXDfWWjRtGOUrJbtOq3s990e6ta038PtKOY2jKn6vG6BhqrA/pp79De+QmQI8XxcCi2yTyNtBXr0uh+FS7aeAaVoaqBZJLkz4oVTsFPMPEG8H6rHKbeVQ09Cqt3/Y28UhR6OocwOCizdn6Cs4wHMw7beb5W3DqzMhfRjK8MgDm4S6MxvVnuOabKwPXdM0qpDsrMw0p7PeiNWrXbquiIFmxyGs3FCZK8JCUSfE43FRQODE4+N+YRO2magF9GGXddAD1Mo3JcbpEoxA=;kChBrzv5fTHY7ujDYtImZQ=="
 ---

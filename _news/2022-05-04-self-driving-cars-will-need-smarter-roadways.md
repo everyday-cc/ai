@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 817
         isCached: true
-  - title: "Self-driving vehicle pilot successful in Finland during extreme weather"
-    excerpt: "Finnish self-driving tech company Sensible 4 said today (3 May) it has successfully completed an autonomous driving pilot, despite facing challenging weather conditions. The pilot aimed to see how autonomous vehicles work with public transportation ..."
-    publishedDateTime: 2022-05-03T09:38:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/finland-self-driving-vehicles-weather-sensible-4"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 24
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/5YM-yazE.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Insurance for self-driving cars"
     excerpt: "Self-driving cars hold the promise of improved safety, but they're still years away. Learn about insurance for driverless cars."
     publishedDateTime: 2022-05-05T10:59:00Z

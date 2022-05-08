@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/"
 type: article
 quality: 114
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/article/3201/content/small_running-nvidia-jetson-agx-orin-devkit.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "Axiomtek Introduces AIE900-XNX Fanless AI-Powered Box PC Using NVIDIA Jetson Edge AI Platform"
-    excerpt: "processor and 384-core NVIDIA Volta architecture GPU, delivering up to 21 TOPS accelerated computing performance for running modern AI workloads. The advanced edge AI computing platform supports high-speed networking capability functions such as the 5G ..."
-    publishedDateTime: 2022-05-03T10:51:00Z
-    webUrl: "https://enterprisetalk.com/news/axiomtek-introduces-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/"
-    ampWebUrl: "https://enterprisetalk.com/news/axiomtek-introduces-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/axiomtek-introduces-aie900-xnx-fanless-ai-powered-box-pc-using-nvidia-jetson-edge-ai-platform/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 48
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Axiomtek-Introduces-AIE900-XNX-Fanless-AI-Powered-Box-PC-Using-NVIDIA-Jetson-Edge-AI-Platform-01.jpg"
-        width: 700
-        height: 400
         isCached: true
 
 secured: "UUbLlnMzeT/AuUMk37H7bFQY8EYYXBiihO9UFZ8bM29n3Y+TowzsgA4uJtwrtON+NbEj+1T/2ZKSdgXklW/APqOqOYwh3DOQeLikQrCosoc4e/wAD3VvThd5DVjX21ZJO/KdKLKz/3HEbUNVM3rz1s+xQ95zq9dlivNPh2pxwvsNYsA/nFxtvj9KZaDWtT1LQfQc9bBM23Vd3mUmlxNApGVkKmWQqkefekCIbMsITzwEYxR2fv2CQcAttfxTWsXULOHWmE9FRpsx19eqtzaw0D2rkjqxdc+j+oAa8Rm8aU9Hr0gmC+cq9woM6e5nPiUXImRIQ8gXuiGylfWnc0Tq0G0rUdGGRzS/78Ep/1BEc8yMyduxF7q8BF04kETi+e82utJp9UPsMau3UxjT42+nm5fDVV8xH1STI8V90EkL22qtwfpqrkjnD0VD9Wj+3JL3upwvbgD0MXnxaVmKXxjq3yczbgRCBaspprXqsXalTwYmSn9Lek6Wbbik6mf+Thc5GMyCWSt7dw4h0slTarylpQ==;kGZ7ek/+HzoJI24wcf1YpA=="

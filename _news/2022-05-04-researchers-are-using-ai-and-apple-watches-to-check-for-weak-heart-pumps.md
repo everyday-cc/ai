@@ -70,20 +70,6 @@ related:
         width: 1080
         height: 721
         isCached: true
-  - title: "Google keeps firing people who question its AI"
-    excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."
-    publishedDateTime: 2022-05-03T09:46:00Z
-    webUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Apple staff decry hybrid pilot as driven by fear; Google fires another AI researcher; Zepto, Traceable, Toplyne, and Kaleidofin raise funding"
     excerpt: "Google has sacked another AI researcher for questioning its science, NYT reports. And investors pour hundreds of millions more into Indian startups"
     publishedDateTime: 2022-05-04T05:27:00Z

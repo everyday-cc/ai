@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-fires-another-ai-researc
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings-company-says-otherwise/"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/05_may/3_tue/img_1651597873197_322.jpg?"
         width: 1080
         height: 721
-        isCached: true
-  - title: "Google keeps firing people who question its AI"
-    excerpt: "Google dismissed another boffin who questioned a paper it published on the abilities of a specialised type of artificial intelligence used in making computer chips. The search engine has form for this sort of thing. Two years it fired two boffins who ..."
-    publishedDateTime: 2022-05-03T09:46:00Z
-    webUrl: "https://www.fudzilla.com/news/54786-google-keeps-firing-people-who-question-its-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/f46625b2720c6ba46fe8c202f0cf0ea7_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "Researchers Are Using AI And Apple Watches To Check For Weak Heart Pumps"
     excerpt: "We took advantage of those data to see whether we could identify a weak heart pump with AI analysis of the watch ECG. While our data are early, the test had an area under the curve of 0.88, meaning it is as good as or slightly better than a medical ..."

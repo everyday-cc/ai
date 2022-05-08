@@ -48,15 +48,6 @@ related:
       name: ENDPOINTS NEWS
       domain: endpts.com
     quality: 5
-  - title: "Genesis Therapeutics Announces Strategic Collaboration with Lilly to Discover Novel Therapies Using the Genesis Molecular AI Platform"
-    excerpt: "Genesis Therapeutics, a company pioneering artificial intelligence technologies to create ... which combines 3D structure-aware deep neural networks with cutting-edge molecular simulation. Genesis' field-leading machine learning models will be utilized ..."
-    publishedDateTime: 2022-05-03T10:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-genesis-therapeutics-announces-strategic-collaboration-with-lilly-discover-/2022/05/03/9593892.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "QORRXoWK1TYFO3l9r0gDmpTTWj7oEqwpgo5bfk9SqMyCbnC78bUsun7+WGlTk5DQQGNelUGqIynqMjfwq2euZ0VDUFlZjaJgBPEUFbk+ZgBBll57pLq1YHMoVS5ww3IqA94qNpb4RBDAgUezaBu+TE7s8dG7M7VavknFP7d3JP53N/cxFzGDWHeF3ExeefC78zU2fqNkAkkYX6BIrzlFKXEdXvji+nZ7yJ9ck2Ti7d5j7yRY3o4HCQLaZ0p0/jp8eT2QyPt6j+JRf7u9A8MU0ijVnYNprwmvecZ4UAQ2LnfxsYZ0CeDcT6x0vjfUrz5LDlj6PwBFBSBJW+hCoXrED3mFTC1RFL9hzO+2Ni7IZMk=;mK0pHJrqhD0wM0q2XbVcAw=="
 ---

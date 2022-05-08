@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-04-23-a-california-tech-ceo-is-running-for-us-senate-on-one-issue-banning-teslas-full-self-driving-technology.md",
+      "title": "A California tech CEO is running for US Senate on one issue: banning Tesla's Full Self-Driving technology",
+      "excerpt": "Dan O'Dowd launched a multimillion-dollar ad campaign that takes aim at Tesla's self-driving software and claims the company \"skates by regulations.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4",
+      "originalUrl": "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6260156c4f524b00194d5dc8?width=1200&format=jpeg",
+          "width": 1081,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp",
+      "publishedDateTime": "2022-04-23T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting.md",
       "title": "Facial Recognition Tech Leads to Arrest in Fatal Miami-Dade Strip Club Shooting",
       "excerpt": "\"The subject fled on foot as the crowd inside the club dispersed.\" The entire incident was captured on surveillance video, which detectives used along with facial recognition software to identify Solomon as a suspect, the warrant said. A witness who was at ...",
@@ -1072,49 +1124,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international-visitors.md",
-      "title": "State to use facial recognition at Honolulu Airport to speed up travel time for international visitors",
-      "excerpt": "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening",
-      "sourceUrl": null,
-      "webUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
-      "originalUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/4/06/40611144-6dcb-11ec-9c2b-b794470070e4/61d4fbcdbb7ed.image.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
-      "cdnAmpWebUrl": "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
-      "publishedDateTime": "2022-04-21T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KITV",
-        "domain": "kitv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

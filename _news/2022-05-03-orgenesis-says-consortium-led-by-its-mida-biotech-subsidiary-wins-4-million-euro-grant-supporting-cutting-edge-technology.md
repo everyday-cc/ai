@@ -9,7 +9,7 @@ ampWebUrl: "https://ca.proactiveinvestors.com/companies/amp/news/981166"
 cdnAmpWebUrl: "https://ca-proactiveinvestors-com.cdn.ampproject.org/c/s/ca.proactiveinvestors.com/companies/amp/news/981166"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 740
     isCached: true
-
-related:
-  - title: "Orgenesis Led Consortium Awarded €4M European Innovation Council Pathfinder Grant"
-    excerpt: "The grant is aimed at the development of technologies enabling production of autologous induced pluripotent stem cells (iPSCs) using microfluidic technologies and artificial intelligence ... cancer therapy associated disease and defective tissues."
-    publishedDateTime: 2022-05-03T10:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g26954843/orgenesis-led-consortium-awarded-4m-european-innovation-council-pathfinder-grant"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26954843"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26954843"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "Ed6A5RJa34hAbGq6rGk+n7MZFxhh+LyYRIsua+ery8aImApg0WE13//ueaMjFWI4PEzBxu/vnlzCsbSgDUQ/u8im6SGxuWf7ajx7chWc7cnA7VuQ0yn45UifLuujC0qDgVX3h8E1fWrMrQ84x1Eclj+qqT1j9Afa2uORFgEx7CvO35PyIp3fIWVNqMbRKea9Q7cCE6D594/nHMZjH2SF4xGBJxuujDgbMAie7y22geZUn1PWmmz4qllSl8mh1DLbvD4EXnhvZkquhIlbsxEOPIZMakFkg3QlNm7891XkPsqN5BgRp4cMVmC+129EaXLTsrcLLJBRw08p5o6Wgn9qU59JIueTzoyg53vO+U+r0Ew=;b5UwUr0ENLY9qNgglzkGCA=="
 ---

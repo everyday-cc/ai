@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Hetz Ventures closes third fund of $123M to focus on DevOps tools, Open Source, Fintech and Cyber"
-    excerpt: "Focusing on seed and pre-seed investments, Hetz has previously backed Granulate (acquired by Intel last month), Trigo, Retrain.ai, Blink Ops ... Enterprise/Data Software, Fintech and Cybersecurity."
-    publishedDateTime: 2022-05-03T09:32:00Z
-    webUrl: "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/"
-    ampWebUrl: "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/amp/"
+  - title: "Fintech Startup FREED Secures Investment From Inflection Point Ventures, Others"
+    excerpt: "Fintech startup, FREED has served over 5000 customers, counseled over 24K customers, and settled with over 55 creditors"
+    publishedDateTime: 2022-05-05T08:16:00Z
+    webUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 61
+      name: inc42.com
+      domain: inc42.com
+    quality: 40
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/Hetz-Ventures-Full-Team-April-2022.jpg?w=1024"
-        width: 1024
-        height: 765
+      - url: "https://inc42.com/wp-content/uploads/2022/05/FREED-social.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How Technology is Preventing Market Abuse in Fintech"
+    excerpt: "Jordan Domash is the GM of Relativity - a leading regtech that specialises in fintech data management, discusses market protection through technology"
+    publishedDateTime: 2022-05-07T08:08:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/how-technology-is-preventing-market-abuse-in-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/6819b2eb10f6ca722d7b309ca0e71219:b72e7b07587b543bd0d419642a335bbf/gettyimages-1335295270.jpg.jpg"
+        width: 1799
+        height: 1010
         isCached: true
   - title: "Funding from Hetz Ventures’ third round, totaling $123 million, will go into DevOps tools, Open Source, Fintech, and Cybersecurity initiatives"
     excerpt: "Hetz has previously invested in Granulate (bought by Intel last month), Trigo, Retrain.ai, Blink Ops, and Velocity ... Its concentration is on DevOps & Dev Tools, Open Source, Enterprise & Data, Fintech and Cybersecurity. In the first quarter of 2022 ..."

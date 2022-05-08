@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "STARTUP: A Deep Dive into AI Processing"
-    excerpt: "He had a unique combination of knowledge of chip design – he knew how GPUs worked – and he was a very good programmer, a good mathematician. He was one of the few people I met who had knowledge of four different domains. He understood what the AI ..."
-    publishedDateTime: 2022-05-03T10:57:00Z
-    webUrl: "https://www.electronicsforu.com/special/cool-stuff-misc/a-deep-dive-into-ai-processing"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 19
   - title: "Ardent Health Services Partners with AI Company Winnow to Modernize Clinician Recruiting"
     excerpt: "Healthtech company Winnow has partnered with Ardent Health Services to leverage its AI solution for clinician recruiting. The partnership deepens Ardent's commitment to digital innovation and gives it"
     publishedDateTime: 2022-05-05T18:30:00Z

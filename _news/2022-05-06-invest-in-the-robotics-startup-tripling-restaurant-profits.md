@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/miso-robotics-145539918.html"
 webUrl: "https://www.engadget.com/miso-robotics-145539918.html"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
