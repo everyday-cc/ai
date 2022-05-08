@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Nvidia To Pay $5.5M Fine For Failing To Disclose GPU Cryptomining Sales: SEC"
+title: "Nvidia fined US$5.5m for not disclosing GPU cryptomining sales"
 excerpt: "as software developers working in AI, self-driving cars, and a broad range of other fields continued to discover the acceleration and money-saving benefits of our GPU computing platforms.” But according to the SEC filing, “Nvidia’s analysts and ..."
-publishedDateTime: 2022-05-06T20:50:00Z
-originalUrl: "https://www.crn.com/nvidia-to-pay-5-5m-fine-for-failing-to-disclose-gpu-cryptomining-sales-sec"
-webUrl: "https://www.crn.com/nvidia-to-pay-5-5m-fine-for-failing-to-disclose-gpu-cryptomining-sales-sec"
+publishedDateTime: 2022-05-08T21:05:00Z
+originalUrl: "https://www.crn.com.au/news/nvidia-fined-us55m-for-not-disclosing-gpu-cryptomining-sales-579718"
+webUrl: "https://www.crn.com.au/news/nvidia-fined-us55m-for-not-disclosing-gpu-cryptomining-sales-579718"
 type: article
-quality: 68
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - AI Hardware
@@ -20,9 +20,9 @@ topics:
   - AI in Sales
 
 images:
-  - url: "https://www.crn.com/resources/0273-1496144278fe-d4a9359828bf-1000/nvidia-sign-hq-building.jpg"
-    width: 609
-    height: 458
+  - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_20220218090141_crn-14_nvidia_sign_iStock-502379459_(1).jpg"
+    width: 1400
+    height: 900
     isCached: true
 
 related:
@@ -42,21 +42,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia fined US$5.5m for not disclosing GPU cryptomining sales"
+  - title: "Nvidia To Pay $5.5M Fine For Failing To Disclose GPU Cryptomining Sales: SEC"
     excerpt: "as software developers working in AI, self-driving cars, and a broad range of other fields continued to discover the acceleration and money-saving benefits of our GPU computing platforms.” But according to the SEC filing, “Nvidia’s analysts and ..."
-    publishedDateTime: 2022-05-08T21:05:00Z
-    webUrl: "https://www.crn.com.au/news/nvidia-fined-us55m-for-not-disclosing-gpu-cryptomining-sales-579718"
+    publishedDateTime: 2022-05-06T20:50:00Z
+    webUrl: "https://www.crn.com/nvidia-to-pay-5-5m-fine-for-failing-to-disclose-gpu-cryptomining-sales-sec"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 56
+      name: CRN
+      domain: crn.com
+    quality: 68
     images:
-      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_20220218090141_crn-14_nvidia_sign_iStock-502379459_(1).jpg"
-        width: 1400
-        height: 900
+      - url: "https://www.crn.com/resources/0273-1496144278fe-d4a9359828bf-1000/nvidia-sign-hq-building.jpg"
+        width: 609
+        height: 458
         isCached: true
 
-secured: "vIReR+POd1gEXZS+n1MNhH6/EWPNibg5a1XIokeMuGOm4QWrUkZKPNRY2ElzsO5MSh7ZLHtEXx+oJ+if18K9ld5h4e3wrVHsDTNT+VVPR172WjtfQjRm7u2SP0gQlKO3HPV7buBMCwdoRrXUB05DdcttjReR9leNhT0n/21+p+6Osb95lt7F1knAM5LijeLqcIHjwSsnAze8e8YodC795m9yDZUL/Z9Jidl0qP+MF7mm4F98GYELMuU8xXphvhDE0n727vO81GnJNA1WyWOFD5yQlbo3gtUhCiLsmQi6z5kGJPxFfW3xs5gcLz2W4glTRg/tHwfrkrA3O4pXH/9xWk8Q2kT182p9pb9l4DMdPh2e0fRdpZmWgavJbFFw2j8QtF9f6znGlJlGFPVVYVVrIP9+Mt5qn1VoH2q4saHcPTyS+IoWRAMRtjVIQmHPJNp9XYvxsnHq/ZZGrYZ2zQAnmawMhrMma4Pdg7OcOKnl/6mQAHRrF3qoHSa0UwHhOK2XV/rmEZsvqnQIYCJJGubh8w==;F8a4L+u6KrCDMZ5uEL2FnQ=="
+secured: "ErUy/m/FFIeVn3pv4sJaNS9acVYILkk4/tliYSEJn4d+6rP/kkX/Pbajlw8pU8qSR2weEP6gsI2LLbIWob0dUi8JnW01wPgpWGXFXeiKvrKLFma/q/6OiR1WHQm3jDpiUfQu0NBZPDUxFmvZlF5hVcs4WnCEB9VD2v3rFnzqax0UJzqGUUY56iSpb82x6j9lIlNZnBRcrnesOUTHzwXRDycsIaxlDUaYK+xSC279WIjSAHyLkjzjeKBlHt1FEE8+JZiCXK3GkvOHTfP8t4HMBj6bUx3vBygKPzm7M8bD1lgb/qMRfA4EC0WXs7IaUs0nzAwW4ynblDfqBBBJajlLNuaoE8KT8vn/qPnQ/Ewb6Dk=;bbI0XeLQYqT7PSmdVibRMg=="
 ---
 

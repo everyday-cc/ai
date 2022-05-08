@@ -41,6 +41,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Anger among Afghan women as face veil edict splits Taliban"
+    excerpt: "Arooza was furious and afraid, keeping her eyes open for Taliban on patrol as she and a friend shopped Sunday in Kabul’s Macroyan neighborhood. The math teacher was"
+    publishedDateTime: 2022-05-08T19:58:00Z
+    webUrl: "https://thehill.com/news/ap/ap-top-headlines/anger-among-afghan-women-as-face-veil-edict-splits-taliban/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 4
 
 secured: "RCga5gQ6i0iUU0C1LTKx2WOZYsLw/oiN7CmK18PPz3gsuTPD+9TpWgD0eJAluvzprzB0B/qwIGxAFJW1kfRxeAC2bpyouzZQpW3yZdo2cQIa105TtG1iho+m2XVIghl0PDlyWW186LEAT4o0hiBKzTLXgMUY8ZjhRkQhe6je/uXNj0oUmehchjqm7Z2q2jqaYrbcm1nkBfHiHkFUjaQEJGAkTgXf7IsmALQeXT0Vtup+runFZZdY5dMYGhe4liOUjmHdTxPC4xLF59jhCJJzQE2ohTLF3KvzRsDg6g3rLvQAtEF3yFcbnOibmq4D8dQvcDOb9OicFxKH2v8R+IUke1vGE58fobdb2WB+aM3etIDxJJyih2Zdvb5U4BDoHpHYD8PL2CbFBXbBdD3tIw4p+u1WOP8Z2HtXFsfagwgWuBIRWwIfizsYt+mrgaUvZylCFFpL999Dd2ZZ0vl58Qc4skGqSELeZwOrTcCgZQuPuyPwkMuUcTkitXIijIQu36HpH3fdW0RCewJuCxR4P0xkpA==;vSv7+jTWvpXgy8Fr2A6kFg=="
 ---

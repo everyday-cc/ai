@@ -2,26 +2,35 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-04-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel.md",
-      "title": "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel",
-      "excerpt": "Blankenship brings decades of experience in artificial intelligence, data ethics, intellectual property, litigation, risk management, and M&A to BigBear.ai. BigBear.ai (NYSE: BBAI",
+      "path": "_news/2022-04-26-us-bank-launches-nations-first-spanish-language-voice-assistant-for-banking.md",
+      "title": "U.S. Bank Launches Nation’s First Spanish-Language Voice Assistant for Banking",
+      "excerpt": "U.S. Bank is the first financial institution in the United States to offer an experience Spanish-speaking customers have never had before: the ability to bank via mobile app in their preferred language – just by speaking it.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T05:00:00-07:00",
+      "publishedDateTime": "2022-04-26T05:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,8 +40,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -913,6 +923,39 @@
       ]
     },
     {
+      "path": "_news/2022-04-26-2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance.md",
+      "title": "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance",
+      "excerpt": "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-googles-data-cloud-summit-serves-up-incremental-new-capabilities.md",
       "title": "Google's Data Cloud Summit Serves Up Incremental New Capabilities",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead describes some the most important announcements from the multi-week Google Data Cloud Summit.",
@@ -963,39 +1006,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance.md",
-      "title": "2022 Vision Tank Start-Up Competition Finalists Announced by the Edge AI and Vision Alliance",
-      "excerpt": "Five companies to compete for most innovative visual AI startup on May 18, 2022 at the Embedded Vision Summit ® in Santa Clara, California SANTA CLARA, Calif., April 25, 2022 /PRNewswire/ -- The Edge AI and Vision Alliance ™ today announced the finalists for the Vision Tank Start-Up Competition,",
-      "sourceUrl": null,
-      "webUrl": "https://fox59.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/",
-      "originalUrl": "https://fox59.com/business/press-releases/cision/20220425SF35582/2022-vision-tank-start-up-competition-finalists-announced-by-the-edge-ai-and-vision-alliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

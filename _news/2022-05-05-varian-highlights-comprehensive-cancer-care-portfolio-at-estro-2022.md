@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T16:00:00Z
 originalUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF45694/varian-highlights-comprehensive-cancer-care-portfolio-at-estro-2022/"
 webUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF45694/varian-highlights-comprehensive-cancer-care-portfolio-at-estro-2022/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: FOX4 Kansas City

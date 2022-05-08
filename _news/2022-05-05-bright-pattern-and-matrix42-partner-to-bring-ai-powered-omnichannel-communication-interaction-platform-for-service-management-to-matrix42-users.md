@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T15:20:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users-1031426661"
 webUrl: "https://markets.businessinsider.com/news/stocks/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users-1031426661"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Business Insider

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Eightfold AI and Deloitte Alliance Accelerates Skills-Based Talent Transformations"
-excerpt: "Deep talent insights using dynamic, transparent AI to support organizations as they meet their changing workforce needs. SANTA CLARA, Calif., May 5, 2022 /PRNewswire/ -- Eightfold"
-publishedDateTime: 2022-05-05T21:03:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-df497f9b0f3bb7ed517f5350ceaeb9db"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-df497f9b0f3bb7ed517f5350ceaeb9db"
+excerpt: "Deep talent insights using dynamic, transparent AI to support organizations as they meet their changing workforce needs"
+publishedDateTime: 2022-05-05T21:01:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/article_1381ef9e-b9f9-536f-aa4d-5ccb284e4a8c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/article_1381ef9e-b9f9-536f-aa4d-5ccb284e4a8c.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "frpdHDBLS5Y+rNabpncDKOPFJ6sXqa8+B/sBxuH7ptQFs1QQHZXcaHuZTXkP3eeV5CeRl1tRCeVFH+r61B/eUzbfHlZmUV4J+QPZQMXD2vnYixBNgcnV3MdVPztKvZNEfb/ggX/p02RL9dfTLd1/gYnGkHUod8oO5ZX7fdh0ZrR3K1dgdb4JAUe3hSRTG75V57wlEB6wrrXIUVjXLKroyZmLSgk+esok/o+Rl95UjHY/nPnj5oY+jK48qTaPXF9+WdE1rbEzZDTDMuDsFYHBP1hQcsQrrox2WGSrmCpiYF3+VDV2TiDSNxe+ZDXVqWObXYsdejQAUwedslmGYLNljq2fyNj3ltcAXU68Hl747LU=;UQTX5YcNHiFog/2otkQ8zQ=="
+secured: "1wZyFKfeOiWifFbv+EYDafv5QdDuXgAyhHwshGsUHrNhC180rBaxBUUVsmg7C1de1ryZQg6dCCjpqIvs07KBQLbwgvr+VoxRXywKd80uW/gw2LQpRupc8EdJvWQP22yrdYtTq9RFbI2K/5Pdq6MgfpROz8T0mas8aHH9NsTfw7HO257xeKim+NIEbqAgsxC87N01Ohxo36cq4tLjgVb3vK8H+ny35ahCoeVxsw5zUK2zAz8YvfnYzE8enHE3a0Dz5OooqOCsp2b8yosLXt1K4LMdZfoPHbOdNC/P63A3AXr7pdbQSBaNyPS4+yrtU5KxMmtw7R4JDAmGViwzyLxiLxZVG9SXfLQb+352l6KEivI=;m55MUiC+s+j0/g9T1J728w=="
 ---
 

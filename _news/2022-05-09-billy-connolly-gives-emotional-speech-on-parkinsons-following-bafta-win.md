@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-08T19:02:00Z
 originalUrl: "https://www.ladbible.com/entertainment/billy-connolly-gives-emotional-speech-on-parkinsons-following-bafta-20220508"
 webUrl: "https://www.ladbible.com/entertainment/billy-connolly-gives-emotional-speech-on-parkinsons-following-bafta-20220508"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: LADbible

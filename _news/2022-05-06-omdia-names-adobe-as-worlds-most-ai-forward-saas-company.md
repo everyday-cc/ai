@@ -26,12 +26,12 @@ images:
 related:
   - title: "Omdia names Adobe as world's most AI-forward SaaS company"
     excerpt: "Signaling a significant AI market trend, an elite group of SaaS companies are embedding AI into their products with the goal of improving business outcomes for their customers. A new report from Omdia has ranked the inaugural list of the world's most AI-forward SaaS companies Achieving the top rank is Adobe with Salesforce,"
-    publishedDateTime: 2022-05-05T10:56:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220505sf48156/omdia-names-adobe-as-worlds-most-ai-forward-saas-company"
+    publishedDateTime: 2022-05-05T16:56:00Z
+    webUrl: "https://www.kxan.com/business/press-releases/cision/20220505SF48156/omdia-names-adobe-as-worlds-most-ai-forward-saas-company/"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: KXAN
+      domain: kxan.com
     quality: 17
 
 secured: "PwPZiqJ+KuE4HOlZ+l3yvqL9TuCmZn7JASlon7ybzsMqMnTqHcxqRdWGMsX3+VXzag2gZCLradZnlUPWVnA4AxLJcIRZKD9TFswNvRndxfQHPJdk7RcD3hNOCwM/vXRXVmfPvSko8snZnlptsP9smXOh9FY8+LzOcmaXHAXf425wUlGS/xkTaCoivOYpamHfhmOCmRakXeJbTxUsxGSbiW6Uv/IA3+sZ3cTIBsyakSBSMkf10QjB7vdI8av9eV2IJNRGwRl5ws5qbu/TLU6rco/Orm/Uo3zz31epgnB+hWD+/eQkg3441oujXXnmCwI+N5Qu5r7dontdw1zFLAYmgILlfhZOcFXxc6WFdO9IDNg=;5prc2NX/DRIs5JL9C+j9sA=="

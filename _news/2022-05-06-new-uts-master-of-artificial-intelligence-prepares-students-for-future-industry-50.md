@@ -28,6 +28,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 13
+  - title: "New UTS Master of Artificial Intelligence prepares students for future Industry 5.0"
+    excerpt: "SYDNEY, May 5, 2022 /PRNewswire/ --The University of Technology Sydney (UTS) has this week announced the launch of two postgraduate courses in artificial intelligence (AI). These courses are ..."
+    publishedDateTime: 2022-05-08T20:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1252152&cat=PRN"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
 secured: "nRqXZt0lw6U+nzSOma+np7lxg/UIT6GGmsBc+ckJCIRmqwglIkmV0zJfHV1GaDcAQi1KX8Oh63kAP8lqNj75KBWCovUiktehMOan4BZrcx+PVZ8LjCxpI/KIITuaXgk6pdgTFhBaByD7kWnNc0zTFndV0+DpDcqJzx3nby0t1ZxuDr1WK8B4h4+pJmlIFR3drApQtN96apZgYrAnIFkWg4PdulSI7SAKzYl8WSD6CrYzExnHtvbX+rTNvxkhgxKKqJgBtLuTYhUGEe+Dj6PezEmTWt8SRz8jrydPAnomLcA1TtRIHw06wJpjEYbS235nc44CTsu783Rmvmw0leTLZYy3yrggrQb2z2HoLqko8/w=;ESPg0Sfu7B+VFwyJaYUVOw=="
 ---

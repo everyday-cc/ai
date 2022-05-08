@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-08T18:15:00Z
 originalUrl: "https://techcrunch.com/2022/05/08/perceptron-ai-bias-can-arise-from-annotation-instructions/"
 webUrl: "https://techcrunch.com/2022/05/08/perceptron-ai-bias-can-arise-from-annotation-instructions/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TechCrunch

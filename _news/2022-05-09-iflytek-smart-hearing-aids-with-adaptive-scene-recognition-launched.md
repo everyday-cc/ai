@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-08T19:43:00Z
 originalUrl: "https://www.gizmochina.com/2022/05/08/iflytek-smart-hearing-aids-with-adaptive-scene-recognition-launched/"
 webUrl: "https://www.gizmochina.com/2022/05/08/iflytek-smart-hearing-aids-with-adaptive-scene-recognition-launched/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Gizmochina

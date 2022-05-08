@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-08T18:00:00Z
 originalUrl: "https://www.scmp.com/news/china/diplomacy/article/3176932/taiwans-kmt-opposition-party-reopens-us-office-give-itself"
 webUrl: "https://www.scmp.com/news/china/diplomacy/article/3176932/taiwans-kmt-opposition-party-reopens-us-office-give-itself"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: South China Morning Post

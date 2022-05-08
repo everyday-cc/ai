@@ -2,17 +2,17 @@
 category: news
 title: "Omdia names Adobe as world's most AI-forward SaaS company"
 excerpt: "Signaling a significant AI market trend, an elite group of SaaS companies are embedding AI into their products with the goal of improving business outcomes for their customers. A new report from Omdia has ranked the inaugural list of the world's most AI-forward SaaS companies Achieving the top rank is Adobe with Salesforce,"
-publishedDateTime: 2022-05-05T10:56:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220505sf48156/omdia-names-adobe-as-worlds-most-ai-forward-saas-company"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220505sf48156/omdia-names-adobe-as-worlds-most-ai-forward-saas-company"
+publishedDateTime: 2022-05-05T16:56:00Z
+originalUrl: "https://www.kxan.com/business/press-releases/cision/20220505SF48156/omdia-names-adobe-as-worlds-most-ai-forward-saas-company/"
+webUrl: "https://www.kxan.com/business/press-releases/cision/20220505SF48156/omdia-names-adobe-as-worlds-most-ai-forward-saas-company/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: KXAN
+  domain: kxan.com
 
 topics:
   - AI
@@ -33,6 +33,6 @@ related:
         height: 207
         isCached: true
 
-secured: "n9MKpcYHN1sd8RKioHPn46KsE8omKc99FNbQtWooUK9TPgdw2iakPVA0SxsKbNHIDIsAZtWOZvIt3OMCX6z1w9sXsjD6X8Kxo4i/wbFOgmxDD6mDHIBl4gsVSQIqLPhMe9IrjOJi4J+AZLOS5WupNlvIyo6delWWMdu7azgXlsKPtq0TTmcAberYOqvSLFZk/Y3YD6lg5/RgkfFuwpqMOcrMGhca6pjJpCfKR5i4Ca9X+DNN1FQdET2d4WV5yr5JczqQFXreC8u3O6yhpeRwIZQMLp+FBA4kXZtYL3DSGCVDenaDapeXFFIJTFcg3z/M2abVpUdvTD8WwRoQttCwREnKLHQQaaqge+HobyrpgLA=;JLWtmnCdi6Da5hBZZxZNTQ=="
+secured: "2FUZfqJnw8Nz4I1qSgFD2lukDKFXmbb3u9L/gIFeFCkvK5aB4q6ppMhbLQ7FNf+P95nBmwFQC7tDzrC2KJDGbEz8TM3Bq6JwJGApT26eUd1Vt9aV0BJ/Lb3Tkqd/ygn3cvMDgIUJyq3d+yMg000m+43MzmFAjOYKUor4ascDoMZTcWLaW2xHZsWb0RCBPn2u++71xypmCG7TXEe728mCIatstquI9adR8uzXQvM28HzlOLNBjpee3nA04IY4Sa4hxwRQkqDKK0M7CsZ7J+rDRHN09us0RoiTcssPQnI37BvOPV1F1jrnKswPUFKZOH1TCnqhxs41sd2IQitQmy003OaZE+9Ooy3BuZjUYvJoQqQ=;6Ky0Wb6AM2JN0xs8g0s5dw=="
 ---
 
