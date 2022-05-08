@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Bright Pattern and Matrix42 Partner to Bring AI-Powered Omnichannel Communication Interaction Platform for Service Management to Matrix42 Users"
-excerpt: "Turbocharge Matrix42 with an Omnichannel Communication Interaction Platform for digital transformation, AI-powered automation, and remote service"
-publishedDateTime: 2022-05-05T15:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users-1031426661"
-webUrl: "https://markets.businessinsider.com/news/stocks/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users-1031426661"
+excerpt: "Turbocharge Matrix42 with an Omnichannel Communication Interaction Platform for digital transformation, AI-powered automation, and remote service desk capabilities. SOUTH SAN FRAN"
+publishedDateTime: 2022-05-05T16:05:00Z
+originalUrl: "https://wreg.com/business/press-releases/cision/20220505SF46870/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users/"
+webUrl: "https://wreg.com/business/press-releases/cision/20220505SF46870/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users/"
 type: article
-quality: 11
-heat: 11
+quality: 1
+heat: 1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WREG
+  domain: wreg.com
 
 topics:
   - AI
 
-secured: "+2d17bjxXmBTrSvIywDo4eoZp+33S77UcM9EYR9F7SMAiz63jjDj9vCGFd9+MTAD8cTkpJVhPsGExt2m1U90s5xqPNgbAfDFhO4y/ZL3CrX6DUXBXRpmZ3x5UoZRd0UNrDghA6RP5qeSf2jauZTeU/157Uqdb9qSe4QdrueEcylnfJ97gHesizbv/Q9QNcHCfqysrTKgzgSH0OnUR60gFJLpaoJfc5Gum/FVFkQIIMX+D/4dCsWQmuCOHLgeGq7585YZvrvCcZ/KDORkhDqpXRqoUBJjzVEuxwlwm2D6IYUJD4kYmYnhSL5MbaMBv1k3AbFmuTSmCNR4bN9VCupwbQOP1Aefm4Oqt/vnKW9sXFE=;FEl88Ff6CfJmsXS60+7/fQ=="
+images:
+  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
+    width: 800
+    height: 268
+    isCached: true
+
+secured: "Pcyj8EY8fTnq4tJ5s7iE3ma+xpsBI6AEv22UPWmGA2JRTrfxEPJwm42jcfvOeX81yQ2Mj93miUrHGsQiDlENXYDOFm/f+9ncTf+Lj3jz9FOQNW0YesTqYvHq7UPvqLL/621ednXkpY01UZ28Sb48vcgujT1h0kiHxjKiNS/wXVy9pzPz1g90EtbsJCCxmrfVgN3d1oEg0Zygyy9HMhElWB2ZlhpmRCFw2ujvKtcFnKYc7EOj520xQjaxec8eBTEIoynl3N68/95B1HYoXcztDpv8lj0FJYrr4nLv+kGZwGk4bIqpEY7R27Ao2CNVmaPBInq0wsUdkY5I8xLG3vnNEc3S2JtR5ghPpD5cDu/rW0A=;r0w7SmOHqG1boYwxOkhxMg=="
 ---
 

@@ -27,14 +27,14 @@ related:
   - title: "AI Model Predicts Response to Spinal Cord Stimulation for Chronic Pain"
     excerpt: "A combined unsupervised and supervised machine learning (ML) technique can help predict long-term spinal cord stimulation (SCS) response for patients with chronic pain,"
     publishedDateTime: 2022-05-05T15:52:00Z
-    webUrl: "https://poststar.com/lifestyles/health-med-fit/ai-model-predicts-response-to-spinal-cord-stimulation-for-chronic-pain/article_790c77bd-0d33-53f3-9a0a-5ee896ad0cbe.html"
+    webUrl: "https://herald-review.com/lifestyles/health-med-fit/ai-model-predicts-response-to-spinal-cord-stimulation-for-chronic-pain/article_3c75ac63-af12-5b17-aa4d-438e1db39623.html"
     type: article
     provider:
-      name: The Post-Star
-      domain: poststar.com
+      name: Herald & Review
+      domain: herald-review.com
     quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/1/51/151e4cfb-38fd-563d-8479-f533a8d77289/6273f94de3ddf.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/assets/v3/editorial/a/6c/a6cd1a82-eb3c-537b-b5f9-30654ef35a0d/6273f94e00e65.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
         width: 600
         height: 315
         isCached: true

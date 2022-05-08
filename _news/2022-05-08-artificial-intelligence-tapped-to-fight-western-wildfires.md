@@ -42,18 +42,18 @@ related:
         height: 630
         isCached: true
   - title: "Artificial intelligence tapped to fight Western wildfires"
-    excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have a new tool to add to their arsenal of prescribed burns,"
-    publishedDateTime: 2022-05-07T14:10:00Z
-    webUrl: "https://apnews.com/article/space-exploration-technology-science-colorado-denver-51e62da65bcc9e3b7f687cb2acd731e1"
+    excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have a new tool"
+    publishedDateTime: 2022-05-07T14:20:00Z
+    webUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Durango Herald
+      domain: durangoherald.com
     quality: 37
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
-        width: 700
-        height: 450
+      - url: "https://www.durangoherald.com/wp-content/themes/durango/images/default_article_image_dur.jpeg"
+        width: 748
+        height: 748
         isCached: true
 
 secured: "2of0mbnPthKrxG8lVrf1k0ApEglTHScLUJI2CFnFVM5vWsbm1SmTyb8GGXurgS8dPtvUS5dpKtbfDJoUjyKjvCUpfCfKKypOQxtKNV+Bib+K+W0YaeqTROiUsWD0sixCgf4j1504XWbTEHRYrS5U/DU70IGeGzHmRpwnxAe6zy3zpnb42/0+iyhCWJeGuq23NfDLelnNMt2xPfKZtT0XBzbWjUAo9UeQy/1jbbxNIoKtsmrR3VhnuJclzuyMLCe0OsBEJJOBfHDO2Kp+wZMWxxW8C4iwampmQbAXG5WPYWKLcnSkBuoyYs5/Ys0ZLLmpgIfDtah0hmVBpAVU9GjfqR6RTD18YkfLYhiuk/szFE/ifFQol+iIjiU2heP+Z8MXkJzbUntcJsuxsmMI+ljTRAF0g2VfnjBvZ9+Lw5LRGVPlNFCeOa1Cwx0eRkWLAO0I4rQPBe0inYhcTF9YSgAeXHKT8JGhm86muRGfwiOsjfVV2LX0jGyTNfn/5pavpdaJY+69aoqJXqgfyouMP/bFmQ==;2Eh48fBZhQYgUUKxOXvToQ=="

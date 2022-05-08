@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top Apple Machine Learning Exec Resigns Over Strict Return To Office Policy"
+    excerpt: "Ian Goodfellow, Apple's director of machine learning, has left the company after three years of service. It is believed that a large part of his decision to leave had to do with Apple's policy on ..."
+    publishedDateTime: 2022-05-08T16:20:00Z
+    webUrl: "https://hothardware.com/news/top-apple-machine-learning-exec-resigns"
+    ampWebUrl: "https://amp.hothardware.com/news/top-apple-machine-learning-exec-resigns"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/top-apple-machine-learning-exec-resigns"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 57
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58490/content/work-from-apple.jpg"
+        width: 708
+        height: 430
+        isCached: true
   - title: "Apple’s Director of Machine Learning Resigns Due to Return-to-Office Work policy"
     excerpt: "Apple's Director of Machine Learning, Ian Goodfellow decides to resign from his post owing the company's return-to-office work policy."
     publishedDateTime: 2022-05-08T10:33:00Z
@@ -67,6 +83,6 @@ related:
       domain: macrumors.com
     quality: 18
 
-secured: "FATkJeMUkXqEbc/XD9oSrXV3C+xmRmokzv9fp6BJFpVIkGJLAMg/1ViEwm5igv5GmI9/Q6wxxkZFjfRNEpzpGSM4eFGrOjdR6Em6JrW4XhoXGCIHVXc0dWszlcv4AFqycrckOHaFmyQeVEcfA381anRop6M87iawxV/qwbtd0Y4b8VnpV8etN068u3RPH3EjvhKr6kNmSS1BDMEpNvVXkVUYAdcB5XmxCKNnBCbIZxRkf9fj6No3Ch9mba/NQabf67MPmZYeMgjxpqTZoHoiGL3Cp8+S12Jx+1fA7tIDye4bZElZYzSU2B0alfzw9DaLd+T4GN9HYbY+Yp573wEM2zIChOnY1gxW1LMXk7Pfajg=;oT8IsPuG0HqSRcAz07pEyA=="
+secured: "Vmhhejl3vCuo2FpF5sDZgfDkyjPlPuxt4V8BiB/0uzTAdSOADISGq2c4QpdRb85QOurrE7wYR/Vhxl8HCJvdOhugly/yt1V1GilxjHBKQF6snPMvIDmalN5STptgKhZ/v+G6wOWQOoGRv01iDWy9oxQpRko/ZAC4lr3nyAmyTBq/I87yv0T7OZewhrSW4aZsJ9Udh/HVFK6ApVR07pz8jvMQFbcjSNjJJU/4iA4zpyq06iqWxi1B1GcUt91G0TtBgBBF6D/i4MENV/qsElv0MsdwITJ3knKGgFpRecob6vpO9S/L6frbvSveXpylkCcEqdOSzXkwm/zHljku1mkFP+oBTo6T7NkYe2pBQ57u9R0aMdu/WFrP4RbPi8Lr0Ys/ulI6FDUdGAYu3haWT37Fat5BrdmD2/JFtzmJ9MJmMmYPYfXLoD3Vngq6KuFYbTI6F7VraLDx9EXm/Vr4jhZhsmUGPPLoXhaBm6feOtt99pvtGrWDqkRdc1ITkcpZdtzMLuJjL80wO3AKH8ScnfOJ/Q==;86u5t8uUGEun+eiqzakcmw=="
 ---
 
