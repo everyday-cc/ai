@@ -1,26 +1,20 @@
 ---
 category: news
 title: "NORAD’s VanHerck says artificial intelligence capabilities lacking"
-excerpt: "(Jose Luis Magana/AP) WASHINGTON — U.S. Northern Command and North American Aerospace Defense Command lack the artificial intelligence capabilities needed to do their jobs to the fullest and maintain an edge over rival nations, according to the leader of ..."
+excerpt: "U.S. Northern Command earlier this year asked Congress for an additional $29.8 million to buy information technology equipment and to optimize infrastructure for artificial intelligence and machine learning at its joint operations center."
 publishedDateTime: 2022-04-26T17:32:00Z
-originalUrl: "https://www.airforcetimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/"
-webUrl: "https://www.airforcetimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/"
+originalUrl: "https://www.navytimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/"
+webUrl: "https://www.navytimes.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/"
 type: article
 
 provider:
-  name: Air Force Times
-  domain: airforcetimes.com
+  name: Navy Times
+  domain: navytimes.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.airforcetimes.com/resizer/T8gu2NwwdvBLNDcbYyTLx6vYnO8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/FFQY4UHAMRGAXF3IKU5VY2LE54.jpg"
-    width: 1024
-    height: 683
-    isCached: true
-
-secured: "BKb1gLviqFb0h1E+hlaoFeICat7mcbe+HdrD3kJD7USsg6P/P/nk1m7Bq8BgCfoGFWHwt7+aEvLbwnm7yYYYbK49dgRYYlUl8NxorHi5re2r85NgGRL7wncTOALKYqaMt7YjZHDeyGdhT8sNntjvIyBLlfv8HdNjaxA/8XfqFZI+UErlbHJOTZLADwCBiwVkPpi+pEykHzaxLnstyzt/CGTlwuBtJ4ZOf4cefQWQhhguqF7rdGXriT1/yA99fHXLV0lBYqkm00DraOtJFvN6G73zXAGDZGjNYwKkl1J7b5PGJ+veAEAOxoQqLYindIy7P2rmQ2Wz8vK96K0V8WUaBHKHWrvhNwTRiKq8rMZvEt5EPYt1Z4UFnIpKfnj3sLr6ZrEFIgp7/9MeKmt4hbBZjhCmf9HF45nQWMMMlfbLhqUWTp8s6tP1Gaii0hu5l20o7GjHDOnpSL+i5oUfbCALqx3luOAnztBLMlKQ2Lkiky5JWahcls8YPTWGpWBmbiO67p+7g1+K2DBwtmilz72Glw==;N/dIzMophrk3CeXnW9OR6w=="
+secured: "qtqQ2YAmGF79cVFBy6g6hcwCGxBrRJmiPVJt2ppYKFh9bFArOTJNlgikHQIVRu3PzjZ3KG7BxM8ptATX/bbtr+Buo+jn7UIUkpgqKbIMW9FaezivM0sbppVhPFtFcjlerG25FCAf8sjA2CdyRaVUbyCI/D4l0Gukt7rOdFKWqCXtbZTZjrU0qw6g+5AwqRTv8n3FCGAf/bCP2sXxLz35Xixb42gOoy+7sfDaj+EkdhnIfJeJP6XMxNOzlJ63ntNKmDRN0L4ONqqiLQtt/BSS2xegsODT2UyIEWE8nLRY7L/IyiN6yLTYBjnhzL9tMSwRc1fk2Vs26Qrk4kDu/yFKhhWD70dcgjvIdRNB/UZY2DZWKlBjJpN3iMxUCYE1zA0JbELAOUpdkNyb2Vih/NwE2pwx2jwNbwSpwC+8322auLfQ2oRemTejmgAcTf2Kj6RksLwiNGEGn4uf0Sg5BRTNnYYd+60FWmbzClfOEWa2aRr3rRXthB0cox7lJgK6VnWMUYuFTQOuPwDezcAxvT/3lQ==;sKiMOW9kicn4QAELo02L3A=="
 ---
 

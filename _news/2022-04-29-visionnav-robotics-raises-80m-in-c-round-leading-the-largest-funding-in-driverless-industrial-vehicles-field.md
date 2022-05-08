@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/04/400x225-Free-Trip-Tuesday.jpg?w=2000&#038;ssl=1"
-    width: 400
-    height: 225
-    isCached: true
-
-secured: "buQ+TPG9fkrfDv14w9LLOTiY1stin+wC4kKsiYwFZH/kGeRlURKXSnYhzARZ4gDM+RNRPbYsWHc8tPHbeOlrYDd5ZZs6CnCby0rPLFcjbrtO6ClGjhHdamxrakFnipRYy69no+WqkedIe0Y7RpMXTRD1zPwRkwbZYp/AoMeU4lsB/tcLEb1mrtTjvshAmCPErASA6p1xEgKEUISILJcbPq3POh58Obu2+NLAaFYwUDWGnbKYnfYhvVp4ca8OrCEwyEGxBeDE72gXjEDIFXELXlaxDfN2ohQ1wuX+GEaND+eC8psRx/zUs5gekNtKmYpECOnrFCqzuZbWFhNBWa7wVGSIN1ZWdDAeUt1SBbiTaAI=;QK5KlXEfnEIXGfhInaU/fg=="
+secured: "ysCC01+ifHj+yFYNr1XvkiO05W4prP8tLflpKDLMSaDN4qDUFk6SdvHeGvUHe8jHTWzzwXvAyaK7Qtn35PU4Spwrz4oO2Q+zBi5oNg78rpaL7asaE3DRqieaBJoYccjnXJBNalUdzWHG+4GEleA8x1CEOjzo3aS/Q5Gf2xmSPq0KnWBRAV8BfN1oAenF0FNaxRCLqPek4miYx55qj2JGxcolJlsrW9slaUrZwzBlanvKYri6pCUNYZ94/2s3T88+3A4rfTI4IA5irXbdI6CRRdr5VAB8pWxVPUd3XHY608+zHLKvwDgS/uk0RH/uJbc+S3zK8cvaDUML+nqB9vYi5dyliMhVQQkgkA95zNEgNJI=;lnsBzpCudOicOfLez6WD7g=="
 ---
 

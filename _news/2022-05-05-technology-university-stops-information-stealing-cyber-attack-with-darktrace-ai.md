@@ -1,28 +1,19 @@
 ---
 category: news
 title: "Technology University Stops Information-Stealing Cyber-Attack With Darktrace AI"
-excerpt: "University Targeted by 'PrivateLoader', A Pay-Per-Install Malware Distribution Service CAMBRIDGE, England, May 5, 2022 /PRNewswire/ -- Darktrace, a global leader in cyber security AI, today announced that an African technology university stopped a recent cyber-attack using Darktrace AI."
-publishedDateTime: 2022-05-05T10:30:00Z
-originalUrl: "https://kdvr.com/business/press-releases/cision/20220505LN46939/technology-university-stops-information-stealing-cyber-attack-with-darktrace-ai/"
-webUrl: "https://kdvr.com/business/press-releases/cision/20220505LN46939/technology-university-stops-information-stealing-cyber-attack-with-darktrace-ai/"
+excerpt: "University Targeted by 'PrivateLoader', A Pay-Per-Install Malware Distribution Service CAMBRIDGE, England, May 5, 2022 /PRNewswire/ -- Darktrace, a global leader in cyber security AI, today ..."
+publishedDateTime: 2022-05-05T09:29:00Z
+originalUrl: "https://wreg.com/business/press-releases/cision/20220505LN46939/technology-university-stops-information-stealing-cyber-attack-with-darktrace-ai/"
+webUrl: "https://wreg.com/business/press-releases/cision/20220505LN46939/technology-university-stops-information-stealing-cyber-attack-with-darktrace-ai/"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: WREG
+  domain: wreg.com
 
 topics:
   - AI
 
-images:
-  - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/05/AP22127083572909.jpg?w=2000&#038;ssl=1"
-    width: 2000
-    height: 1333
-    isCached: true
-
-secured: "3rA/V1YmElq+LAOodgqb9xI8NYHrrapNWl2uUmPWKFHLZK7kubnC89PMzbZJFoADqymVHF2r3HIM+zhYkrfIxpEykZs5cUVKF3NL53EMFLWtyoMmM/UdImTH8A8+ZmahJjSUGD/TKSkyXy+QZICZc2AQHYS+Pk1iaMZHJB3BOqkY9zX/e6RsMic9Dnm2lVIRbj8dp8Z52jAl+TOWWL0m76FAyCfVxASBJywpu5i74QEXMpH2LaoKu90aA/7Kn7uClg+JHU2Lys1cwiEo+bCkhM70BLkZKacO0vA5Ob+QkVMXMT7dgSHxBfLgwx1DhnH5eVfzjMVrzDi5p7zKDo6PvA6ckytY0lUEkj0nxMrtuYo=;zKr6umcVRwy6kz3+RPUDHQ=="
+secured: "xCwZjMhyLMYCYVAEWNIreD0nXj6VqL6iA1+qEqtk9gP0bX18rD6mY/3S+9dAhubEVBbj0bs6NKE/+wIok9SjeV18h7F4L2bdl85Pujj9z0v2LxbP3/Pzr3YkX3d7ZfjH5OT3it9aHTUIUzrxplkaDL6sZIQVV6N4umd85dfwQa19ajQ/S+d9hAfTdDAbUhymv09TL/6xfvbRRWL6BrglyOtCDOTgtr4JBZeNwLana7dvZe07H3qGq1y5WWtbA/2MmZ+vFYm4JCRLwVyxatLdUlNWGZSgtlN6jVBQGwg1BfQkAjXcTNMCd3XLW1kCBIWf4EEJ/CyV3DCc39MXwIfMCIlx3I6h1laxFvLPLWs04Wk=;CkCbhIdDfKFzjCZ6k432iQ=="
 ---
 
