@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/amp/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet Nvidia's Huge H100 Chip That's Powering Tomorrow's AI"
+    excerpt: "Exclusive: The new chip helps cement Nvidia's lead in technology that's revolutionizing computing challenges like language and self-driving cars."
+    publishedDateTime: 2022-05-05T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 106
+    images:
+      - url: "https://www.cnet.com/a/img/resize/65f9eefdcf0ad8ce01d670618abb267863d6977f/2022/05/04/82b87660-6f44-46d8-b887-3097b1e32a95/20220429-nvidia-h100-hopper-ai-gpu-03.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
     excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial ..."
     publishedDateTime: 2022-05-05T21:44:00Z
@@ -42,29 +58,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Allied Solutions Partners with Scienaptic AI to Deliver Enhanced Credit Decisioning Platform"
-    excerpt: "Allied Solutions, one of the largest providers of insurance, lending, risk management, and data enabled products to credit unions, has just launched a strategic collaboration with Scienaptic AI, leading AI-powered credit underwriting platform provider."
-    publishedDateTime: 2022-05-06T08:18:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/allied-solutions-partners-scienaptic-ai-deliver-enhanced-credit"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 26
-    images:
-      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_0.png"
-        width: 900
-        height: 480
-        isCached: true
-  - title: "Artificial Intelligence In Computer Vision Market is Booming Worldwide | NVIDIA, Intel, Qualcomm"
-    excerpt: "The Latest Released Artificial Intelligence In Computer Vision market study has evaluated the future growth potential of Global Artificial Intelligence In"
-    publishedDateTime: 2022-05-06T13:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-computer-vision-market-is-booming-worldwide-nvidia-intel-qualcomm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
 
 secured: "MCA/4BQoAldJjmtq1NmrlPcLyGJzTf1Tiqd1fZzYN97NfpOu/LsSrqvPteOq2yvdH7fAkqoHBq65vQLv+wlPzk7TJtGMdTiKt9+kgYHSea9Py5kP6eL42QBYV8HhGh58XBbGZCCBgMjZC+ueFMFjgDgyfbqyByUzOaPZIQRvUtUethVfO9AZKSq4uvvt08IcKMxTStSZ1Je4VSZXui00k1Tf4jM2uYBVKfCoWxY3gKu6rwTg6G5jkcu6TtAFHOkIzg/qHqdJqu6F88e7YQoeDC4kj93Vk7UO0/mTLWw0NeKly5uxDF8wbmlmfPqaeqn9JemJHCq6ZHJaB9c7pHVXq4mNWxJUg7ltWc0Qt/u572/fjUHgpw0fckcPwF/dKkxokP7vzyKuP/a28Y/4nb71prKS5jbW0snR3izGSlUC7xFWbweBoJEownfAyJLhZfERpdG/tdMtjalMf/9zhhz7x4WQi4ND9YRUXyxmXZhbkLnoRW5J9tEIPLlDe9OXlb4lUfwwIlT/pQljfMKT1xvrZw==;wymJEzWn314jKzovfivICw=="
 ---

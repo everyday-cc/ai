@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Varian Highlights Comprehensive Cancer Care Portfolio at ESTRO 2022"
+    excerpt: "Varian, a Siemens Healthineers company, will be showcasing its comprehensive cancer care portfolio at the 2022 annual meeting of the European Society for Radiotherapy and Oncology (ESTRO), starting tomorrow in Copenhagen,"
+    publishedDateTime: 2022-05-05T16:00:00Z
+    webUrl: "https://www.keloland.com/business/press-releases/cision/20220505SF45694/varian-highlights-comprehensive-cancer-care-portfolio-at-estro-2022/"
+    type: article
+    provider:
+      name: KELOLAND News
+      domain: keloland.com
+    quality: 24
+    images:
+      - url: "https://www.keloland.com/wp-content/uploads/sites/103/2019/06/KELO-sitelogo.png"
+        width: 800
+        height: 340
+        isCached: true
   - title: "ESTRO 2022 focuses on learning from the patient"
     excerpt: "The annual meeting of the European Society for Radiotherapy and Oncology (ESTRO) will enable both onsite and online delegates to share knowledge and explore the latest technical innovations"
     publishedDateTime: 2022-05-06T10:00:00Z

@@ -23,17 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine-Learning Models Outperform Clinicians in Predicting Cancer Growth"
-    excerpt: "May 04, 2022 - Researchers have developed lymph node metastasis (LNM) prediction models based on natural language processing (NLP) and machine-learning (ML) algorithms. Free text data can be more difficult to normalize, potentially limiting its use in ..."
-    publishedDateTime: 2022-05-04T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-models-outperform-clinicians-in-predicting-cancer-growth"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-models-outperform-clinicians-in-predicting-cancer-growth"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-models-outperform-clinicians-in-predicting-cancer-growth"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 23
   - title: "Researchers at the Gwangju Institute of Science and Technology Develop Deep Learning Model to Predict Adverse Drug-Drug Interactions"
     excerpt: "Using gene expression data, the new model can predict how some drug-drug interactions can lead to adverse effects in the human body"
     publishedDateTime: 2022-05-05T12:35:00Z

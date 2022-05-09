@@ -7,7 +7,7 @@ originalUrl: "https://www.coventrytelegraph.net/whats-on/reviews/worx-landroid-m
 webUrl: "https://www.coventrytelegraph.net/whats-on/reviews/worx-landroid-m500-plus-review-23815851"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "I trust a robot lawnmower to take over my garden chores"
+    excerpt: "My lawn isn't very big, but by the time I've lugged the mower out of the shed, unwound the cable, walked said cable all the way to the plug socket, and then set off on my first stripe, I just want to sit back with a beer and soak up the sunshine."
+    publishedDateTime: 2022-05-09T08:13:00Z
+    webUrl: "https://www.derbytelegraph.co.uk/whats-on/reviews/worx-landroid-m500-plus-review-7013115"
+    type: article
+    provider:
+      name: Derby Telegraph
+      domain: derbytelegraph.co.uk
+    quality: 39
+    images:
+      - url: "https://i2-prod.essexlive.news/incoming/article7013174.ece/ALTERNATES/s1200/0_landroidplus1891822630_result.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eXdnfJCBfw+5oItlZhsM5W8thSxC5vwh49xxykJigKCFDlHLaEOg0ZekfmWjGgbJKtJ3eEzUPcxW0RLtOrtJk4fc+LfEkI9qebqTxOnQwdeBg+100rOhFQCnMqM8NJ2AESY8fwyKWLF7NyMU5C2pNqFu70wSWlE7uQske256Gd35ZRIzbypywSekUB1mMAnhA2HnVETLbvNOaugEoFSe+IRhD2Ntz9kAIg1SsUiHmR+rZCuzLG1zp1IYYAcdRPtZrNjbiYffG+AP24naEcjv1BTmW/HOD1Z02ganJLp8vQOedbdkvpz0g82pVciVmZ8WMVGsunsLiWiJXT3jj6pz0D4omVTM5kIDHMm06/kc5u4S4Fp7SHqEwnBZ2+7130hgbJG+fSkp/dIDXI7VdhGEj2hdh3tYU9OoRfdaPWJ750CiXrhKeFegvGC+NS/HIyk+aEe21cniUgs9rAM3YylWT7gLznkqiUMbpO/2Ic7/HBn+zDUU8E/qBUYgi9Y21VKhc0W1R198tRZKunDEBsaStQ==;fP1eza9KiCdRCXWlav3t5Q=="
 ---

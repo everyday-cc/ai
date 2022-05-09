@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Blockchain IoT Market Growing at a CAGR 45.1% | Key Player IBM, Microsoft, Intel, Amazon Web Services, Huawei"
-excerpt: "“IBM (US), Microsoft (US), Intel (US), Amazon ... and high adoption of blockchain-based IoT solutions using smart contracts and AI is expected to surge demand for blockchain IoT market globally."
-publishedDateTime: 2022-05-05T20:44:00Z
-originalUrl: "https://www.digitaljournal.com/pr/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-huawei"
-webUrl: "https://www.digitaljournal.com/pr/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-huawei"
+excerpt: "Huawei (China), Cisco (US), SAP (Germany), Ethereum Foundation (Switzerland), The Linux Foundation (US), R3 (US), Arctouch (US), Waltonchain"
+publishedDateTime: 2022-05-05T20:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27036568/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-h"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27036568/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-h"
+ampWebUrl: "https://www.benzinga.com/amp/content/27036568"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27036568"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
@@ -21,11 +23,11 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6b0cacb0dc52a482f031fd2e48e48717cbb24b5e-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "yYne5xQWwI21ofySNL9cbK4wnvh5B1arqNncZqdzXiqZly4vsT6uvgD3jv7oUGGoU5a4gbncLPvDD968EYfsAmSxOpYuZFItL6hXN8gM7o94LyLEQWZxZZsrEmzOIVWByJaON01aWRPf1wzYJk5h4y3oOg+Uw2TcziQstCNIvXF5ZocHssC1OvwZTXcHwTkbGgJVHLx/xwmQiEHTQRMUs6/c3opOg1kBC2lV9b1aU+Ie9Q9yQxUdUESVrWmRyfVkTXSmK61mqQBHFZaOXKqxL55zww+DGj907UC+0FjcM0y2bGCwd1azE4xYJ7a8WFE3MJs/eHkgdmc5wmYoL20DfahWiBMEsRrsP5u7lWS3FVA=;5W0E4IenZQcSqrs7W6RgIQ=="
+secured: "DQtHJfAUtQypyW//RLc1IUlSZgBAj81OXBAlNWDycZ0Mu422MC2IM8YFG2mAuRDqPKfXlQQQiax7n1oBSAccNQns+CUoSpoxlw0NOB6HGVruKtnnwyonCNSZSFjdSZ5XsNK1BrHNJG15+t1UeymbIN3TPyNw/e6epDI/Flev4+ipp+Ch/BjWzMCpmYGd7xnknnxjuoFg9a6Ioy+V2te36/JOze5dbkQjYH+f3iUQ05NzYq2z8V2mzCc4krWRs8HOFF3HgakgO2XOO+OZVX+2Yfn0VCsp11IJ2MYFQ2obzttRUt5gcAAyDnyj2q40ZOcvwEvl6AvOJZzTlZcz3hGl27KOaNjDKolkl1vi2lr3a1s=;SGMXCMbW3V9Xq88PznOq5A=="
 ---
 

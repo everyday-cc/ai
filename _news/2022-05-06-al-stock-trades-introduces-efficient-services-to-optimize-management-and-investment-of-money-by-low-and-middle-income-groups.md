@@ -1,18 +1,18 @@
 ---
 category: news
-title: "AL STOCK TRADES Introduces Efficient Services to Optimize Management and Investment of Money by Low – and Middle-Income Groups"
-excerpt: "The company endeavors to democratize financial information and introduce efficient money management and investment services with a view to achieving ... software called BrainMachine and other machine learning algorithms, which will offer relevant ..."
-publishedDateTime: 2022-05-05T18:09:00Z
-originalUrl: "https://www.digitaljournal.com/pr/al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups"
-webUrl: "https://www.digitaljournal.com/pr/al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups"
+title: "AL STOCK TRADES Introduces Efficient Services to Optimize Management and Investment of Money by Low - and Middle-Income Groups"
+excerpt: "May 5, 2022) - Financial platform AL STOCK TRADES LLC has taken another step in the direction of educating, stimulating and inspiring people by launching services that will optimize returns on the money that low - and middle-income group people invest."
+publishedDateTime: 2022-05-05T20:08:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-5-5-al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-5-5-al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
@@ -28,21 +28,7 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
-  - title: "With the goal to democratize financial information, AL STOCK TRADES launches innovative software that offers insights on stock value"
-    excerpt: "CEO of AL STOCK TRADES, Albert Alan Designed BrainMachine a Proprietary Ai Software Utilizing Machine Learning Algorithms in the Stock Market. Financial"
-    publishedDateTime: 2022-05-06T02:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/with-the-goal-to-democratize-financial-information-al-stock-trades-launches-innovative-software-that-offers-insights-on-stock-value"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.abnewswire.com/uploads/45baecd7dc87f9f215b59f6567fd4b16.png"
-        width: 600
-        height: 335
-        isCached: true
 
-secured: "9fSdV8Hg9DOyuC9fm1igAjPRnUyiqWM5yLcXtvdLkRbdJA5ijznNtMaStfLWAFjaJaXVywwF4p9XEv0sphfdFq0B3qqg1NoMzZzWbQ8dvKh3BGT3ChOeNbOJ4VqGqDQXCatVV/mFBJrLZDfjUC61se/3YaBd26lIvud9lpBCkXP5jHCXB12FV7InUCfmLoIO6sYIYeMCAt7D2lzRRY6aaixn46K784oRwm3oLRPngrqNnXaQIM4DBKzc4zWQNAcWfODVEJZHXCDVpUU80+iT/NgvNwDUwb+Zc9xMylQwuSvOQnR92iSRokFSxwA0bFgV6a+1ro0bxo58yeIMi+Z7l/FEfiehrgyJ7bK2TWxcyWZxMyEtXdzGY1r8/gqvtbb09Cxwz6/pfsP7XN1sP3qQPYCVyvv8apdEKXmMYkjlcKmrC1plPgKAt3jGFYTwuHWnxOsaaOdUBJNJJ46jCHbFkEBA4AVLMtoOngjZBO3jTlMCxOyMLLMlfyyueLblE2DyHLdlpg3eHK6nclO7w4LTAg==;p5V809MgieSlkoC0THiWvg=="
+secured: "PK5i00s9N/IJJjwt33ZHSJmD7nLXzZ623zdwsP/tYqOx/Vs3pfsq1dbtLyvskre+U+FJnC3xquwxV04ZdzAOq0ejzHgqnMgRwtKcKZ9Z+VKMvLYIsqGaTxgcbeWLe4DydOmGbSmHl6Gzj+7S76g+W4Xj8ylMHXZKl9eLyOzjXBAANcN/8otfnUG+isldIwV3UoG9SB56Ls5keI6xKlFXk3ZgYiuHASf2WU9YEiC7mry1yTt8q9Zz8r2X7by5Ko/S4sHw6wMqLrAAxgsOqI5HZ8duHOrFHsLqliDKp9DIQV/4Xz7npYBlCjRyKCsMsA0ZClIkFR8FbVxxHxJNjwqK+/wzHZv4ZNA4Ht1rxvi3ISU=;OL1i+ewMb/C7UCnjlT1ICA=="
 ---
 

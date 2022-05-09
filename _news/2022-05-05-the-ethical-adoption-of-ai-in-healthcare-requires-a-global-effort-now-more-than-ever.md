@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethica
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/"
 type: article
 quality: 114
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Bulgarian scientists take part in international project for introduction of artificial intelligence in healthcare"
-    excerpt: "will start working on a project for \"Auto-adaptive motor brain-machine interface\" related to the application of artificial intelligence in the sphere of healthcare, BAS has reported. The project is funded by the European Commission and aims at enabling ..."
-    publishedDateTime: 2022-05-04T16:34:00Z
-    webUrl: "https://bnr.bg/en/post/101641870/bulgarian-scientists-take-part-in-international-project-for-introduction-of-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: bnr
-      domain: bnr.bg
-    quality: 13
 
 secured: "ZQIJHhkjabhvkQFiIKVJmtIt1smy7mIff5ns4yA7frOD9oEyBxik2QLLHiplVw2ul90Fu1K0GCKfeZFuuc5qsKkm1OHcazV1jG3rOsdAGwwkh8J185JyPO5RPg3EtNJMkokgqB1IrUexHUhUdoEwthitmurZgT4tNSZpylKUV+jURIVzf5geBel+ByvEBfUHd9vX8T3S25c2NxQCoz6xDJEsNUfsdyI4Jf4hEXRE/sNrKD0ypKsQ++RUKdslqA8AujUCErtP9M5FAW+WRzCj/CjPUC8LpX4zO0DOMlN3BRCcTimmqZdzoU1oSE18mwAi5arrojNa5jYuB73YlET9esJqcM6L7JFjk/O6KfLrcLU=;5j56/BczzzdQALMiXHeL8w=="
 ---

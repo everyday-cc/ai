@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Catapult: Kickstarter Fintech Acceleration Programme 2022 for early-stage Fintechs (€50.000 in subsidies)"
-    excerpt: "B2B Fintech companies with solutions in Regtech, Wealthtech, Insurtech and Cybersecurity using Blockchain, AI and Big Data technologies are of particular interest to the Luxembourg financial services ecosystem. When The 2022 Summer edition of Catapult ..."
-    publishedDateTime: 2022-05-04T15:47:00Z
-    webUrl: "https://www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/"
-    ampWebUrl: "https://www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/?amp"
-    cdnAmpWebUrl: "https://www-opportunitiesforafricans-com.cdn.ampproject.org/c/s/www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/?amp"
-    type: article
-    provider:
-      name: Opportunities For Africans
-      domain: opportunitiesforafricans.com
-    quality: 27
-    images:
-      - url: "https://www.opportunitiesforafricans.com/wp-content/uploads/2018/09/catapult-inclusion-africa.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
     excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"
     publishedDateTime: 2022-05-06T08:52:00Z

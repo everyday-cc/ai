@@ -28,17 +28,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Machine-Learning Models Outperform Clinicians in Predicting Cancer Growth"
-    excerpt: "May 04, 2022 - Researchers have developed lymph node metastasis (LNM) prediction models based on natural language processing (NLP) and machine-learning (ML) algorithms. Free text data can be more difficult to normalize, potentially limiting its use in ..."
-    publishedDateTime: 2022-05-04T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-models-outperform-clinicians-in-predicting-cancer-growth"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-models-outperform-clinicians-in-predicting-cancer-growth"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-models-outperform-clinicians-in-predicting-cancer-growth"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 23
 
 secured: "PknZJgfSrx0Zq7YxQ+i6wBzqF/DiVZHhyxJX3VD26YrDjRYAkZ4EDgxxESq58SS30oHyYGKl/zGe/oe9tcMA/YBeVT9W5xGqHj4S330ldEzHZA6fPXbHh6m09W3Z2WLyrNCMr8NOn90l4j94GFf7Vm/n8ZNipRmzQUw73nZPofFzXgM4k4T8u6Ecjitvt3kYfGnvo5IIpk/c518Objm8ucUWF2ubAH/IEqKhCsWqadQpPgfKnV/Te52COCxIfoM9PqDxqqFfxTiApwwSZBd0v1/VXapTmwjibymoyDmR4GddzmeP8g/tDw5vuKjbwb7PWhzOaXDpxc0Q9Q3nP+9tfMOftmJRII2yyNsCjVPJyT/RI7JY6CiZ/V8/65y2y8whF8qi7qMW0klFFWJ6f2M7ZMH5LQXSpznz3M3Tr+XY72fLkwtmC5Hw6r+Z/c3FaMUe3Sx1Mo8Drx1nJGgZflV+4yU22W/KPztMswwK8GPsp50z3e3pxvONkuulUBHf/jVQWAg5GtdOUXTBhnIK1tJPUg==;efronZZSI+K98jWBgkLayQ=="
 ---

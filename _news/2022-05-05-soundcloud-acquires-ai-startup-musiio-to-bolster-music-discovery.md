@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoundCloud buys AI that claims to predict hit songs"
-    excerpt: "Though a far cry from the smoky clubs and A&R legends of old, AI is becoming an increasingly critical part of finding up-and-coming artists. Music distribution platform Tunecore announced in February that it is partnering with LA-based music startup Fwaygo ..."
-    publishedDateTime: 2022-05-04T15:47:00Z
-    webUrl: "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 67
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/KxExR6HndslDDdlqsMY17wm3MSc=/0x91:2040x1159/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9020373/akrales_170802_1743_0094.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "SoundCloud snaps up music AI tech firm to bolster music discovery"
     excerpt: "SoundCloud believes that the next big thing on its platform relies on AI and machine learning, as the company announced it has acquired Musiio, which will help SoundCloud’s existing music ..."
     publishedDateTime: 2022-05-04T17:44:00Z

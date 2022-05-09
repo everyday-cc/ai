@@ -42,20 +42,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Infinite IoT: The Evolution of AI Industrial Deployment"
-    excerpt: "With companies continuously looking for ways to reduce costs and increase profitability, vertical AI solutions provide start-ups with the opportunity “to build these vertical AI companies with a specific business use case in mind,” said Daiya."
-    publishedDateTime: 2022-05-04T15:52:00Z
-    webUrl: "https://marketscale.com/industries/infinite-iot/infinite-iot-the-evolution-of-ai-industrial-deployment/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 37
-    images:
-      - url: "https://marketscale.com/wp-content/uploads/2022/05/InfiniteIOT_Harish_Podcast.jpg"
-        width: 2489
-        height: 1400
-        isCached: true
 
 secured: "+VK0IeZMTJxaXDJoCPZSuOAp9vhg3VORxv35+S+XtFMfLE5nQMgwZ3f78O57OarvDofmr+GiBpiEzG7aMJDeG6+/0gwB0H7KhIefwNM2PH6fv6vpAA3vh7iGK8rVO9qJ1ExUhIY68n5Fd8xQqHfpQp8Kh6+M/HYNuG3Pi+0wbSkDJjUwFRjpeWHRGcYrqJpYjlLU8SvbxEsusiXVwd4qU0C7iz+5Uy5ufzDIcpgZqBqcHNW9QeI6HlnoV5WSGEJXQYzvmqZXbICpHmzejX1M7NZT6O2lop8iC0dSMQCz06z0qa2nZz7GzW6U+z2CTSFezqUlKn5TbV2XNeB5+aT7bwrPSpjfniDv+L2huYlDZWvXhCqVZ0BtKqH1NKsIZl6bmU5jBtKdHMUSxNECvXNc2epIpCdFGlgY24CWlsMwu6H3eEPYC+Ug39pHx4euoXCHMZ4QlZ75SXmz1nAKVPGN+RGKAz5WqaymDwtlNtTnm/PYiDScu5lIbG2Ik54oGUBFSXH84IFtHkrHFb059xwEXg==;/R6xnZ+bo4bmrX5p6yAcSw=="
 ---

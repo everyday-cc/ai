@@ -9,8 +9,8 @@ ampWebUrl: "https://9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-fi
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/05/04/soundcloud-music-discovery-ai-tech-firm/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: 9to5Mac
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoundCloud buys AI that claims to predict hit songs"
-    excerpt: "Though a far cry from the smoky clubs and A&R legends of old, AI is becoming an increasingly critical part of finding up-and-coming artists. Music distribution platform Tunecore announced in February that it is partnering with LA-based music startup Fwaygo ..."
-    publishedDateTime: 2022-05-04T15:47:00Z
-    webUrl: "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 67
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/KxExR6HndslDDdlqsMY17wm3MSc=/0x91:2040x1159/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9020373/akrales_170802_1743_0094.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "SoundCloud Acquires Music AI Software That Claims to Predict Hit Songs"
     excerpt: "Audio artificial intelligence Company Musiio has been acquired by SoundCloud. Musiio is a recognized AI music platform with the focus of “listening” to new music and purportedly identifying the hits. The acquisition which was announced on Tuesday via a ..."
     publishedDateTime: 2022-05-05T06:25:00Z

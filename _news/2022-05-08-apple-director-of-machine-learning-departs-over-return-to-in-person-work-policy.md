@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top Apple machine learning exec quits, cites return-to-office mandate"
+    excerpt: "Apple's director of machine learning, Ian Goodfellow, has resigned from his role a little over four years after he joined the company after previously being one of Google's top AI employees, according to The Verge's Zoë Schiffer."
+    publishedDateTime: 2022-05-09T09:05:00Z
+    webUrl: "https://wraltechwire.com/2022/05/09/top-apple-machine-learning-exec-quits-cites-return-to-office-mandate/"
+    ampWebUrl: "https://wraltechwire.com/2022/05/09/top-apple-machine-learning-exec-quits-cites-return-to-office-mandate/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/09/top-apple-machine-learning-exec-quits-cites-return-to-office-mandate/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/03/network-g6a1fdc5b0_1280-e1646655539939.jpg"
+        width: 1270
+        height: 713
+        isCached: true
   - title: "Top Apple Machine Learning Exec Resigns Over Strict Return To Office Policy"
     excerpt: "Ian Goodfellow, Apple's director of machine learning, has left the company after three years of service. It is believed that a large part of his decision to leave had to do with Apple's policy on ..."
     publishedDateTime: 2022-05-08T16:20:00Z

@@ -55,15 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Bulgarian scientists take part in international project for introduction of artificial intelligence in healthcare"
-    excerpt: "will start working on a project for \"Auto-adaptive motor brain-machine interface\" related to the application of artificial intelligence in the sphere of healthcare, BAS has reported. The project is funded by the European Commission and aims at enabling ..."
-    publishedDateTime: 2022-05-04T16:34:00Z
-    webUrl: "https://bnr.bg/en/post/101641870/bulgarian-scientists-take-part-in-international-project-for-introduction-of-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: bnr
-      domain: bnr.bg
-    quality: 13
 
 secured: "kjMWNtVRg2RLka/O7CNv47W0PAMA0DDme2lJAIzQ+greQLWxGmz4tAf23zZUU6W8uAKi15zVf6ahypa8iY0QPl3zMrbBy36FmYM5XhQHN2Yjkvc7+LKGtykDIyNBngQq6VMyXAj1NfkCUejwdqiK0fArTjsdV3cdRHsGnbIEZnzdy556YEHxxb1wnfxVZZdEjbAFq/W3t7CDDqdgjwpvrJrxdz7u83PREQmmgUDLAKXGGQmEc+q5ci3UId2eAu5ocY+K2ELuotV7pWhCn8oMFZLYB9EwuNA1mcxTxuo7xY4SkjUug2iPVoHidq6p5ku3ClW9kt4HwaQw6rw/Vs2W13KJmJQaPNR0S+O4lKeYeqg=;6+JAaAJCydTSEeaG6rFCmw=="
 ---

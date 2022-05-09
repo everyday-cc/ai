@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg"
@@ -24,6 +25,6 @@ images:
     height: 628
     isCached: true
 
-secured: "jNFBTa1gmhKICSPN7jXdmN+5U5/xEkiIX1edra3ByrlwOPqUPwkmM43BtGl3hMi6Upui3YPFhOS81/BNUVB1Uvzp1V11+e9BU3PFM74w5hqIIBmVXj7x4UdMCehrA/0yHa8riXZL0Lvx9O14rXnIF4dRENai3agVMd2lq3vLADwHYCFa3E+W1yE4Kb+++X3sKP5JHYwi0TCKVLxJoV8ktCSPwRUPv1r7WJTzXW8EE3eDZTtk1Yn06LT+zN9K2Jr1zj3q+T0VJlLcIpM4zpXHLj9eVr9GgZU4Qh5MR4xiD0pdb8P1q7leOLvErbvlcC9KaT68MjqSoRcWBiug3BpzKZIAStpJeNZ+Y+DaBCtO9Ac=;cy8RdNL1L7rnA5et0DhY9w=="
+secured: "1VBa9JObAltenHS0YcHbsDygqcjPP7W11ZIzj2EV5eE7CuNJQrJkfldXcqVMQASGhjQIv/cXtJveW61WQgtQxjZyMITfTl2nPuMHDHtrjaHykYnPZ2gTC8tKs9tWcwxOdKiZAKmbM02RuSdoMnsrdbbwLj8M6Dpe3WmwUexrW/csrMIFNcwwcOH8ZA007n4OKnssjL7gTSaENdEpQhpl7RxtlGwAemGtj1abTNMLLVmVTK3EO5ktrqpK/TWP6gobvE2ZQyfWEcZLWpRV3n1KlT5oG68FWT5df0jQrOGe2tub/2LW1t/WC18es7fWQfMz8WL7g01F3qGtJF8YtMbCFOqDMVNd6PnQYh7L3LqPhe21bWe4/qsEzIvreOXmcjo7eUPcZpS+G+GA8R5+gT1J/SnUHs0lobhhHyj2L+hrZxa1Xjj5tzS/+DItjhTCxNrHlJeo1UipH7aCNWIU/dZI3Ck+DbIg8CDxnIHlH+bRRBtIpCg1oHrAx0WKOy5Aj1GsIwYZZsbxyK1yZ3RPghbHtg==;aslGSl6U4QkBU7+YsH/+tw=="
 ---
 

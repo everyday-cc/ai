@@ -24,47 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Landing AI Becomes a Part of NVIDIA Metropolis to transform industrial inspection with AI"
-    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced"
-    publishedDateTime: 2022-05-06T10:17:00Z
-    webUrl: "https://enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/"
-    ampWebUrl: "https://enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/amp/"
+  - title: "Allied Solutions boost underwriting capabilities with Scienaptic AI"
+    excerpt: "This week, the service provider to credit unions and other firms involved with financial services launched a strategic collaboration with Scienaptic AI, a leading artificial intelligence-powered credit underwriting platform provider. According to a news ..."
+    publishedDateTime: 2022-05-06T14:48:00Z
+    webUrl: "https://www.autoremarketing.com/subprime/allied-solutions-boost-underwriting-capabilities-scienaptic-ai"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 48
+      name: Auto Remarketing
+      domain: autoremarketing.com
+    quality: 37
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Landing-AI-Becomes-a-Part-of-NVIDIA-Metropolis-to-transform-industrial-inspection-with-AI-01.jpg"
-        width: 700
-        height: 400
+      - url: "https://www.autoremarketing.com/sites/default/files/styles/story_page_main_image/public/partnership_61.jpg?itok=-xOLMu58"
+        width: 880
+        height: 495
         isCached: true
-  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-    excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial ..."
-    publishedDateTime: 2022-05-05T21:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27037942/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27037942"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27037942"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Artificial Intelligence In Computer Vision Market is Booming Worldwide | NVIDIA, Intel, Qualcomm"
-    excerpt: "The Latest Released Artificial Intelligence In Computer Vision market study has evaluated the future growth potential of Global Artificial Intelligence In"
-    publishedDateTime: 2022-05-06T13:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-computer-vision-market-is-booming-worldwide-nvidia-intel-qualcomm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
 
 secured: "2t2ydD4ZvLFOjXxNcQHrBo6WmhhjI7t/9E3m7KVfeDNentdAnuXvGVlBpAfHmG3egphVSjZyf17c8bnlFc6aJRIlHgM9NTtUs2Jbj82PzaDh3JYee5Bg6J0d/Fyz/HedPVKOxBowD9zszvrHhDWV3LLcqGUVUg1BPLXiUWj6Vfsahl205pvinyhhu2kaHKO8n5+EAZkgd81z4GnQd+/FlEntpwLK1Fahg+69cJNSMwYjC9MYcgYW3oj1hYzEbvuH/7lGReQufAjuACN/sflqn/9ite8OlTnSEPE/1Ly6yLjlYCO5V4x5EPPIrZIHzbaraL++7iy0/2aEBlFUlKuVmZGdPBDHNqbASgdSa27eQZo=;uzhKXe2upTRpBVTvpO14Vw=="
 ---

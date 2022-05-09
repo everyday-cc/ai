@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Is it fair for fantasy football managers to rely on AI?"
-excerpt: "More than nine million people play the Premier League's official fantasy football game Like millions of other people, Alice Simpson loves playing fantasy football. Every season she picks a team of real-life players from England's Premier League,"
+excerpt: "At least that used to be the case. In recent years, managers have been able to turn to a number of providers of fantasy football artificial intelligence (AI) software programs. These programs do the studying for you, and suggest the best footballers for ..."
 publishedDateTime: 2022-05-08T22:49:00Z
-originalUrl: "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.com/news/business-61257368"
+webUrl: "https://www.bbc.com/news/business-61257368"
 ampWebUrl: "https://www.bbc.com/news/business-61257368.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61257368.amp"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 576
     isCached: true
 
-secured: "JHwwb9+KIY8hBCGJdDOG2QLpD5n4KfjJQejcSRjx0Rn20bJJyTxo/NklP2GTDC/6OUGwmi4nDCdXCyqiFTMgY11qlN/16U9NiPuyS3Vb2ExqNH0GWzmFXnlRZssYXGr2ZfvrgevGNiD0xOgIXL4osrID8OlQ5iSL9y2RQHV5hk+MboxFpm7mkAduL9rWtvJ6T00JAIWvk4uDHRKWjNK77PeWJVT8HzfX6th/h4/5241d3w+Elk7FJDTWNpbU0hvwa2mFtKPFfrSZflklw25qqr/gmMZqEK9WJvwdvHvWxdzK0wLsIJXlxztGEbXi6ee72ibJtncXJx61IT+ZMIdEw11ilS3wyVRgBa4fsPkDepE=;x27hRqIt5zpM+eHJ8Z/nwA=="
+secured: "9xarpW6ye0KjT2fpln+6TOEmobQiGGB0Sp9i1UG+AsBc9N98yCcxQgm8QNE2ef3IA91/bhap5eUk0+aBhJpj5lCi+Xcd+av5yI+6Ipf4kXVGYwcJyGSQtT972DffirWxqZpuojjfmdr2s/WHD0PgAU3cke1JeGMQFThVvcswFCK0/hWnEHTzuOw7fhc6X7p8uf04lbLK8QCbVCzKL+a+NDS6mnl0r62ibLMICiMD69SfK9lJ5AAQYsM7+6vpZlUHi72NzDo1b0Lpa9cO1qr0GZ+KQ8i/EGcDUnHrSMtY2e5w8KlkZH7ahpcWj+U8vmUHBBILJST+KFqcTYLpxbRIje+mJBbGfnbSwi7Uubmun3g=;RW9oVo5VlZQjzgEFIW7AEA=="
 ---
 

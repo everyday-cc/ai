@@ -2,22 +2,25 @@
 category: news
 title: "Blackstone Announces Len Laufer, a Leader in Data Science and Technology Across the Financial Services Industry, as Senior Advisor"
 excerpt: "Blackstone (NYSE: BX) today announced the appointment of Len Laufer, a pioneer in data science and long-time executive across the financial services industry, as a senior advisor. He will advise across Blackstone’s businesses,"
-publishedDateTime: 2022-04-26T17:50:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-blackstone-announces-len-laufer-a-leader-in-data-science-and-technology-across-the-financial-services-industry-as-senior-advisor"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-blackstone-announces-len-laufer-a-leader-in-data-science-and-technology-across-the-financial-services-industry-as-senior-advisor"
+publishedDateTime: 2022-04-26T17:52:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-business-financial-services-d37c1e119b30405bb87f32ca26ac7eb0"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-business-financial-services-d37c1e119b30405bb87f32ca26ac7eb0"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "qOD/rSdvvKzJzrKQ40S1EeFa3K2RYaegLCD17fIMdXQcBu1T9pJZNdzIjB5fTKaTtnwitoYZy1kRDXa9uagRAZlGw/zgCLsM+PgQedn3Qhx1Em0dphaRhiywLb7FJqoRof7BKm+NlELHKuYZ+dy2bzBA8b6cKzBIgTw5jhfd5tDNHn0akEhopaauyBjJhWFwCnR5SBJ5MQX3+8zORRnARPGqHyXRwQdw5JR72HKToAe7N9rG5q1r9DmmtfY2FgNenW1R/peI3zUn+6LIb3MQtVwUFuh7zUz+ZHhDlYNXcimMiaAddx9e6nCFKv/8p/SyhiBZ5c+nxbjrd2Jffz+eALVBZANeNh+g4d9ZETYZEPg=;+ZgTAkjflDeRGIUsig2Orw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "jlCKDn4LmOypliXo1GeJ2tIeZiQXigIsEp4Iu9T9+QUqOkn0vNPLaGnE799e6+Z8VIrAIMdMUgYjjmDy4g7iDa+mmLZbiqi6NZT5NqWNQUv1AZ239S0gQqBVyUPbTaWwxn5BC2e87vUcr5rsD/Jh+iKJcuaK6pfbhv0aHPitNj0U3Og5LvAQhlLo9Lb3f7LbM9w76toNRbh6fHvLGYC9LMPP1ZH76IQIZt0wX6SYF69FXtjMmmUMG09S5/Lnrg9ZTUNzl2bNvAUBU2ktpnC/qMcgI0cKgGK+DsgnFzngvD3n7ZoyIE02DrEzZL6jiobN7R1hWln/upo7Ao+ipjToStD70l+2cLZDv7WWNTkupns=;9TLA7+EShvcJKJLhD5/72Q=="
 ---
 

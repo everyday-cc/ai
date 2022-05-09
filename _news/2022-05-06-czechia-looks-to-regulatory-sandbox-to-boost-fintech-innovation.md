@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Catapult: Kickstarter Fintech Acceleration Programme 2022 for early-stage Fintechs (€50.000 in subsidies)"
-    excerpt: "B2B Fintech companies with solutions in Regtech, Wealthtech, Insurtech and Cybersecurity using Blockchain, AI and Big Data technologies are of particular interest to the Luxembourg financial services ecosystem. When The 2022 Summer edition of Catapult ..."
-    publishedDateTime: 2022-05-04T15:47:00Z
-    webUrl: "https://www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/"
-    ampWebUrl: "https://www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/?amp"
-    cdnAmpWebUrl: "https://www-opportunitiesforafricans-com.cdn.ampproject.org/c/s/www.opportunitiesforafricans.com/catapult-kickstarter-fintech-acceleration-programme-2022-for-early-stage-fintechs/?amp"
-    type: article
-    provider:
-      name: Opportunities For Africans
-      domain: opportunitiesforafricans.com
-    quality: 27
-    images:
-      - url: "https://www.opportunitiesforafricans.com/wp-content/uploads/2018/09/catapult-inclusion-africa.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "06/05 – Weekly Fintech Recap"
     excerpt: "Partnerships Ophelos Partners with Credit Card Startup, Yonder, for Ethical Debt Resolution Ophelos, the technology firm building fairer debt resolution for businesses and their customers, announces its partnership with Yonder,"
     publishedDateTime: 2022-05-06T09:25:00Z
