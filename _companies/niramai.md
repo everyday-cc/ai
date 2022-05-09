@@ -2,7 +2,7 @@
 name: "Niramai Health Analytix"
 overview: "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®"
 type: "profile"
-heat: 50
+heat: 41
 
 website: http://www.niramai.com
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "niramaianalytix"
   url: "https://twitter.com/niramaianalytix"
-  followers: 1031
+  followers: 1030
 
 locations:
   - Rich Jerk Headquarters, USA
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=3mx-g-RJoKg"
 
-secured: "jpW045LmYcwO6Du0rMYrOuJBT2nbgyCcfrhGtqqB9I7fnx5w9F0wVKpou7ADw4nGmUiltxoYk9Mt6NfYKNmVXRcg6JWVJd9rl/yNBY+PDu+beKH5hyrzCzQQuIXJKg85g5U08ioyryDQs7BuahfaKJG5+b98Iu45QpLa7x7P+bt97NOg5hSUJuCnHlexCgJ6fl2RsPhYiBui7SY/+4Xxv6hVkQ2ijgXIegNXT1wLWpX8O/C/7ypbAW179SOvtwQFqQNLAEFI99K8nyg2E4L66VBLbyPNUShHW0SJW6oK/mwCjTqnaEFG3lGB9IpLPHT6lUGlgH9K9ODgOzpCdaJKylWBOkXzglVKaPzEeDOcjDwXm9qHYc3413s97SXVb4gaOupFdTFVAxqSX69rBEzEw+JMK18fSJ4tlHpeq4UuHyA=;O63NuHDDZm/k+LXrESnqew=="
+secured: "t4L6yLiNoc89EGqz452kupwP/OEHS0Ix1zCNw6yPuqc+gZIIAeQ2o1/EvD8Y/zhVFzfXoOhnuOcmXWmRUTCa4uh/Kkfb0CXVJ0OLkD8Tt3+1JG6229Gkh2YDFI882J3IqhlUyyaXIt+In9+kqkJ1iCD/6XdKyArnajRZ7nXMKl83qTp8ozRnnN7+7BeIdJmUnYcKxZGk69XgAAwybQFK9V9HGbDffYPv2l48zaZckq7grz7J/92ALVzWuKc/za3Id0j3z6t4y4oQyPojrpeHuE7Hh6dOR9Ewh40u82uL7cqV9pJq+VPJyRmU2xPtLRSxSYJD5h4K3agTxrMCj2cv0LiAZrgzYWrg1XUcpgzSVz0XV7hgRAgGyMNjNkxKz0XFlNSG18T+dFynYiFFBuBMLtdpTEdpOVqQCuDNlD2RtSA=;arPoy1O1KZXJ/MEpENfq7w=="
 ---
 

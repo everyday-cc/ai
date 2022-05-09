@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=kag2mOw2Tj0"
 
-secured: "U2DZ3M+QH1SLwu1fhgfzv/9DHjOYltu97FkJt1sXY5QRHRrfZ013QD/kJp2BigPlLm/gIOQqR+WoONS33e7XPjlGpY+OYfedE/YgaJRX0tn/2srxWi2nVpiAl1g8F3pm19m95aHQLEtx3rjhEJLU4RpFhHsZdH+dPQKWMdv+cM9cCOZ85K4LUGVHA9b24RssOP1AfV3OOPz1dQWRFE8YvfeaNt9Dg9bbBzMGYGzdyW+AdaM+gfAFf6RAovTbT8Qni5dhvpBYa4X45zV0uFM8xtAwx7Mjsg3X+rs+Q0tbNj33O+PVlQVDdbrT022uRegi9gYEaG86PyVLGhcpRR2UQpnOnVhOrevtyRwZLf3u3fhrspxUeSrL/t21jrVagBMudan3lAsmypW1LyKRzai7MA==;iJ6otKoUEz5p7eA4pnuU7A=="
+secured: "e4z883BtSN+UBFSjIyF/uK5mlGHtAujvdrT/FfL0t/eJqhpZhbW+CHtMcybJClU2Fd25c8q+as7SQCEwARKyz4lNaj5b7U5x8+LFy0yFlHgLKqrOOAWISHSf+BhNQv0xz4V7yCL3yUIp+faGQOzRYy7VZL5x9PCG6tbPTXjaVSNkFdIBxipwk50QmGda853V2wuMx8xkGViDtImtVgIekx3dPp23vHVFEm1/Smw4PrvQNy3glbO14r8/OOjo/TAH+BsqgwHmlS8KW9OGefvNaM4yq7x0Yo7f8yQ/l/VVAHOOpQPuGZKJM/gLtQuCS3hlT93O49tU8AVq2rvJKphXSQhUmF4PsIiFmAISae6Jdr91nXNy+8Cdf7OKk5Bpj/W1MQgkFAxRL2PCxlweuGGBaA==;3lxMxbVW/lMoTpqKhyBXog=="
 ---
 

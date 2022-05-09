@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "adahealth"
   url: "https://twitter.com/adahealth"
-  followers: 35496
+  followers: 35495
 
 size: 201-500 employees
 yearFounded: 2011
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=_ZTcf1iJCMQ"
 
-secured: "1BNYoRZZWvv93AP+MwcheedCPOa7DTz4Sep3NxugNAJTE41nupmUQDlH5U1afSc3x8iJGwP76Hr81bfSapBUzzwE2Qrki2duBJpzd6t4DuZYKI+PgPMqffXF4CKhA6VtRpY2+GbM1bT/sZeFHyaIUd+bcxoeCDrcHguoRIzt6UlrHoTnVFvvHZUu53hY5R5AdQEZo7A8Wp6ojnri+d5V1JeSZd22148bND256MMh5zNm5wRRsuht17Cl+F91b1E3faEG4eYtQeUkc00XsC+V93ulv/JV4eetMTWjPnfbRumTzn9O1l/q6zwuUsdB6ncMT8i556dcVB6LtFIstp6gw8B1pr/Q9vudqRZQ2iidicLXImYD0tjDkWXLjRVD02+2bTC4ObOrRcVGgyvqGJ738s5nqW1xywYwxHLHgwmB+Is=;j1EumGtOGMlRfqiuQDjRCA=="
+secured: "az6ZJwfrdrVA3r8WTBn9rQ33n36ReQEucTN+a6lZofZQ7hKXHRG0wWa899FQ045VJRNRJnL6Mk7rzZkEb6MWF2IFGW9Kdm4ZfA0PZv5L91q9Z1RDbHLgSR87NRmYSRk9kW3Ygoaqic4RiCjXXhXW9ICrTQWB654oTTcvy5KfiZkgQvsm7oZM5gScOP9bNklt64ZGcUa86OSywuHfNEyWniTfPAE3fsL3Vg/QzuZYa56gwvOE8E1Z/Vboo/K3iHvZMIZHweMjb87xHYI4eorJF/GquuhpIynC9PhBjVHM7tp4AOaA/d58Ag5ILBAzYfOlbaqlNONlDJqlTX2P/64z+p/5vvEWf82fpIB5MKhtFVYCF1yXsG8qKE5Wr5F3IbcAlvbrWcmoOkKUHuuR11NlgkUjNvvl0O/TL8xS9r3pyrY=;B0sQfjop180XJl+cY0VDHw=="
 ---
 

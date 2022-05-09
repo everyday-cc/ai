@@ -2,7 +2,7 @@
 name: "Just AI"
 overview: "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine."
 type: "profile"
-heat: 42
+heat: 58
 
 website: http://just-ai.com/
 
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=u9qpsrqV5wo"
 
-secured: "qTfVyrREMhtkVRUgKnXbIHv2EkO/aF7i/WqyrCczpNOJUhhwMwhtmCE45NnxutjOcuRrpSuYgromBazpSNksvD0NKhJwQg56GyGmUhZwBExIH4OjmHkOZWa41dXIb8BDAG48qdn7TyhdOCyODop0op8MVuv76OJR0qRq+E1mWoG/b17e56/ekp0ilVElY10VDV3tsT2lMV6dzRSiByMPiw9l9OyZ+IFxN5nLYFNQq8Ph/u2eEwJUEQ9VWwojfACHHd9+Vhn/V6dOeekjCdVYFQuBVCm26ZiQqH28GEkCmJ+Bmx5lvru8Giq6y/+CKiasLTEcGnDSnzrShaBMDbxxlVqX6i4CxOoPLuey/cL+v+V4UggsJvURlb0K5D0BOO17djscWvKSpuUcN/Xf8VUHgg==;zDRFDver0dCP5UiYiYwC5g=="
+secured: "O+6QybIIXDwF0MU+UsICQpCqUpjj+3GT2G6UVXM6VUJ50anlijv++TJLtSe19GjSS/y18ETkcsNcltE1JkM56n6hVBP+6Y9Jc2DvEezAZPDPvFCGYGNWf1wmEAwDyQOAEF6Zb93wKVS8bfgU1s/mbRQ0RHLk+xc3mRN94ozJqiPmtfEVjHYEBvRorFT7OWV9aOZtN/9gxvTDm5B4kQEH5YXp0ZFfr2TBWIKRDnjbku2Gv4iXwgLx/WTFQO5ScBePLAqLfqVYaHsZrvHRKE1YZqbnyDwN2dgx2v1j2Q1iFpQ+0jrFlCp+dMbnPDarS/GRlJ2ToUq+vvwZKFYfafHAhHjbc+y6uKljB7GObTC2CLlBiQ/o2JT7Scyp5Pm9EzXbvYgExTHummpGz70fTrX+bA==;S+0uuK3nu6MEis7mAyFFnA=="
 ---
 
