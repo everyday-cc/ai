@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial ..."
-publishedDateTime: 2022-05-05T21:44:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27037942/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/n27037942/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/27037942"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27037942"
+excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
+publishedDateTime: 2022-05-05T22:44:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+    width: 400
+    height: 205
     isCached: true
 
 related:
@@ -66,6 +64,6 @@ related:
       domain: digitaljournal.com
     quality: 25
 
-secured: "V5hMAxlzJ4CzLnQlinFimXE574Rqy/b8OmlSK7qXVM2EmP4ovnmxowvR3yv8ZcNeFm8fPvgP6hv11XpMiouRDvP+Iswk7hoUHpgDYI3QgqsnDP4lsUZcAdXjGnDLKua+P5aI++XckGE6InOM6+yJlq2l/YpxCZSf9sld2EfsTI87lcfr4kd3Oxg/llaTEbXNkk8Snsau96Dgjqjnf9/GIE4zjvKij6mF9B5xtfqaPeT0hgTYmVn12I++XRwsYezCWLQ0ISrnlBeBW8ccrtE87vN1mFZ+cUU+PaekDOZhE/blKkEZiGre4gn1RInvTbEZ3otCp4rq82CnrYMvJtwVi8M6/dRZHV7fRdapAA9jySQ=;85SCzJmWDU6lzm8vqZVWJw=="
+secured: "2utwsq7vC/KWjGqM0PKrJJNoDuonhB5kNw53JqMhl/58lPe0ADwWTl8lMu+CLB8JWsT9bc1kaDY7QrN/T8x/8yjCKJQuEw47/XcHEqzaa+pPEvZwINdTwJ2JnA28lVHcUsXFikzNH8cN62Hks4vKzxeq51th7AUnCvCW4K9QEGgvaBszsKe5v7+ppC8gyKIK2cprcej2MnlsfsclI1B+dgcfpDSM9GeqN5Vj6LDrZcV8g4UC2az+yRmQIaVPwxOnly+V9sfeLco3NmoEsh/M0KFq1y2sfqnnoiaWiBpTYyQ3QA/ydim4G+cyj6IExolKuYxjTwlCcQX49nIN1Pd9Ml72nFrFqohGhrJz5jdlsP0=;WvzeJDS9cavuLJ7s3O8gmw=="
 ---
 

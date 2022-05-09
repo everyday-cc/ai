@@ -7,7 +7,7 @@ originalUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/hospital
 webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/hospital-is-1st-in-california-to-use-medtronic-s-ai-device-for-colonoscopy.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "This California Greenhouse is Run by Robots"
-    excerpt: "A farm technology startup is using robots and artificial intelligence to tackle sustainability concerns in agriculture. Iron Ox uses two house-designed, AI-supported robots to perform most repetitive farming tasks and ensure resources are used efficiently."
-    publishedDateTime: 2022-05-04T09:30:00Z
-    webUrl: "https://www.extremetech.com/extreme/334988-this-california-greenhouse-is-run-by-robots"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2022/05/unnamed-file-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
 
 secured: "ToHAXDBRRYPtaCR+sQYtW2efIMqvQsi7AZuZhifWQbtq6Nnyil+jkTn0rkSIs/RAWwkQoKF37cB01huRTX/TO9HXgGJPlvY2neXRRRX1YR8Qc3R1PY+Ncgg8vjjrM1Dk12XHLeqcnaoAVvqJvHdDJCi4LdEozCOJhCNcmKkBN9S9hz6t9tlMjBM1W/xDr8TUE08N2b3JkMpgBgiXhPsytD8wG5KYPbWVPEgLFipEWErJ+STevQyxVHIKBTmmSB2tZF1PwKZu74fwyFQjyctxZc12uORGjiGhhf+inocKDsfWK/CRpsGmfyZ/w/+fnBnNMyqx8NL/GHzoE+VItluidq1GmPDz4tHvqq/SNPHiC4Hgv+xSNh9u80YsuqArODFn+BQJJyYTUAayKglg13M+3c7mg53JZB2YhwPa2RzDujuQ9vSeQ92kK2J6Xw/P8Gs3M1LhjlWuoFVZS9kkuqvXkoY9ziWJjLv9ENOUuiReMb1VraWGqWa4GKwGoXmst3wHTg+Ad2iZ3bRZYAyi8wVFiQ==;NTd5DCSvfDWha153wh55hQ=="
 ---

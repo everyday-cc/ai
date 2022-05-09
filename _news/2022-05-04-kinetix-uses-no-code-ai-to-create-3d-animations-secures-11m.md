@@ -62,22 +62,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "IT security startup Traceable AI raises USD 60 million from Institutional Venture Partners, others"
-    excerpt: "IT security startup Traceable AI on Tuesday said it raised USD 60 million, about Rs 460 crore, in a funding round led by Institutional Venture Partners"
-    publishedDateTime: 2022-05-04T10:29:00Z
-    webUrl: "https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057"
-    ampWebUrl: "https://www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-it-security-startup-traceable-ai-raises-usd-60-million-from-institutional-venture-partners-others-184057/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 60
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "B44hbgiSd23oBqFqiOW+Z0Fr78r+D+rbjAGIJwKJEoIn4+qCLsEg5Gr1+XnETGkoonTawMg4TTyuapr/E7ADPAVzIAsT8hNvKtik5ZwQXwlKC/uNXKfwAl0Upmht2OuNn3QyG5+OEBVzIsuKqEJMf9fijee6lsRkWAg5pMyYkfIda18DRxW1jWrCJqIPMeTK2SdbmV/UE7Qk/bRV/G/tSUE8EEjB31PFYgDN29jlOz2vogAogi4ws3KNbI4pqjbULbzcRd+iHvWE/4guT/WpGNXvF7XlYN2VikWGX9qutnj2nAk1zLR5z5ZZyijGXJ/h5W0OHuHDTB5W7uOzm8Kkh0XjhdFB8AW+TlyuBpYe+BcEBgBiMWjk8oEUqe59BfiA/+pDuMQeEDkiwY7xx7CLqaBpsVEeNmvdAXmZdB9Rz8Gsb5QRZqz3ABaHvqKCWNeNFx+pppqpF0wbCaNKgFBbq2GrfS9q5FPYY9aZcp5ufHO/EQv3tLFwPXIIsdHTp3KH56GsjQ4DIwORg/wGxIqPag==;bHrMb+ewNNlhCMmkzebjbw=="
 ---

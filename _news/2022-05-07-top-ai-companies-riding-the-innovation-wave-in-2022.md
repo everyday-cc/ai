@@ -9,7 +9,7 @@ ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "AI in Fashion Market Size 2022 Share, Growth Prospectus, Top Manufactures, Latest Innovation, Key Factors, Company Overview and Forecast till 2029"
-    excerpt: "The AI in Fashion research also includes crucial information on industry segmentation, market share, size and revenue forecasts with geographical representation. Get a Sample Copy of the Report at - https://www.marketresearchguru.com/enquiry/request-sample ..."
-    publishedDateTime: 2022-05-04T09:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-size-2022-share-growth-prospectus-top-manufactures-latest-innovation-key-factors-company-overview-and-forecast-till-2029-2022-05-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "JhwW+W12iOuiNyH4t2lC0LEZfNbQdRfLfw4BUVKDgrFKvCUdKxdw6qoEYVM92Y7bOeIWoXCb7hnMO2eni+pDYepCyey7xrY1ZnZJeJZMXLcfrqFYfCZgEywRFo6LNdJSPu5Fi5dF1z2LbQlX27Ff2O7rhEY1sSiRl4qm8w1snBmNXTotLb/PLSW+4tRTIRCGRy6N7Tco5fvC49JJmzPm9w0oWtsF0xnC+55wAPPiYaziqM5inJUg03Weyo3ifx88tT8HvYsJokL8C93mAbVAf7IXzJegz7jpfn81QYMXlVuWeDWn6E9gyMMjS1c2BrLLcLz0c+VsKUVqnuL4+eV+qliVGt71iTCbqxFota5HqlxVmVxTP6e+/VPmffUynx3Nz3REIy2xx+30CrM2GJfj0ATevJjaeE7btIEf81GajVXpBj8BW3IwCnSSXmpLO4NErQkvxpP0OHTNnw33kmRvG8jBkZOhEuEkW1LjwKUoG1WY0r0hk5LQZfmzdjsefRcIbiqOm2LlL/TIeivMb6WO4Q==;4yLzZKsf17H2pxT+HCFAZA=="

@@ -22,61 +22,45 @@ topics:
   - AI
 
 related:
-  - title: "Using AI to predict bone fractures in cancer patients"
-    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
-    publishedDateTime: 2022-05-05T17:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
+  - title: "The Benefits And Dangers Of Using AI In Recruitment"
+    excerpt: "Artificial Intelligence (AI) has made massive inroads into wider HR practices and recruitment in particular. Here we look at the problems as well as benefits of using AI in recruitment."
+    publishedDateTime: 2022-05-06T05:19:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/bonefracture.jpg"
-        width: 1440
-        height: 1920
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6274afa31115eb7c6b1222ff/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Using AI to predict how cancer may affect the probability of spinal fractures"
-    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
-    publishedDateTime: 2022-05-05T23:21:00Z
-    webUrl: "https://www.news-medical.net/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
+  - title: "Meta’s free GPT-3 replica exposes the business benefits of AI transparency"
+    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner ..."
+    publishedDateTime: 2022-05-04T20:18:00Z
+    webUrl: "https://thenextweb.com/news/meta-new-ai-model-opt-replicates-gpt-3-and-researchers-can-download-it-free"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 54
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FUntitled-design.jpg&signature=fa11babcddcb7cef41f611dd15c34e2c"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AI-assisted digital twin could predict spinal column fractures in cancer patients"
-    excerpt: "An AI-assisted digital twin of human vertebrae could predict how cancer affects the probability of spinal column fractures, a study from Ohio State University has found."
-    publishedDateTime: 2022-05-06T09:47:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/ai-assisted-digital-twin-could-predict-spinal-column-fractures-in-cancer-patients"
+  - title: "The Age of Generative AI - Inventing a New Artificial Intelligence"
+    excerpt: "What is Generative AI, and how does it work? Generative AI employs artificial intelligence (AI) and machine learning techniques to allow robots to create artificially fresh material. The system does this by using existing text, audio files, movies ..."
+    publishedDateTime: 2022-05-06T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/age-generative-ai-inventing-new-artificial-shruti-saraswat"
     type: article
     provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 32
-    images:
-      - url: "https://www.theengineer.co.uk/media/vripxcoe/adobestock_111354720.jpeg"
-        width: 940
-        height: 627
-        isCached: true
-  - title: "AI can predict bone fractures in cancer patients"
-    excerpt: "A team of US researchers has used artificial intelligence (AI) to create a digital twin of a patient’s vertebra that will be able to predict the risk of bone fracture in people who have suffered from cancer. As medicine continues to embrace machine ..."
-    publishedDateTime: 2022-05-06T12:29:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/ai-can-predict-bone-fractures-in-cancer-patients/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 17
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 36
 
 secured: "nbnnn8VgQCiagGJRPbqDqXOfPKB91CJ6267aW1YMltFQJDd4ejMLaqexiutB10sUZIsyplqoEa3GmNotBET+fpPE/BK4xaGDI9I0ErQIeve3kf3L8C1xu+FmEuQQApj2s6UKhP+L5G1qPwMqcSIbmjBPpVp4f+V7lTEGBI68JFFmLp+V7H34jMpVFOY5IqQWMhyeHQwvbSqn/J+ALCnTf1Qvo6yjO9GglLr6GiPJU1G3v1c7tyuXn9e7fTIeo1E5VBPedIyC9uP34UhSJttNLT2e0dQ51MI0x7KXo1cTIcQL1t3PsKiVsBNccgjnTeMdbXldffhtnEUqKgWK9iT7UoaTwLt6EjXXwqLK7TvZwj+hVSdiFXUPYxO0TEtK7keGZffYOAVQEb7p+ddUdVqwApp//2sZZOf0ZgmH+fLvhrb3t2Df6V1k3/MyajmSJ9P0A1Xrj7awgHN1KbsoHOPxfwcRarfj/WVr06I6s/s3Gzin/HwqYDq7UqPqjZD7CoigjvkTU/yseTjhQphnUbcnfw==;K+CxMXwp3CsUZ973eCiquQ=="
 ---

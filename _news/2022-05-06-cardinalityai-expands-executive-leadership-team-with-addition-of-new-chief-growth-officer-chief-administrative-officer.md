@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Arcanna.ai Bolsters Executive Team and Advisory Board to Drive Growth of AI-Assisted Cybersecurity Platform for SOC Teams"
-    excerpt: "Arcanna.ai, leading provider of an AI-Assisted Cybersecurity platform, has assembled a team of cybersecurity experts with decades of experience and a plethora of accolades to help steer its company vision and growth with their security know-how and engineering acuity."
-    publishedDateTime: 2022-05-05T15:03:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220505LA46544/arcanna-ai-bolsters-executive-team-and-advisory-board-to-drive-growth-of-ai-assisted-cybersecurity-platform-for-soc-teams/"
+  - title: "Peter Allen and Anna Harper | Cardinality.ai"
+    excerpt: "Cardinality.ai, a data technology company in Gaithersburg helping government agencies achieve better outcomes through data-driven automation, artificial intelligence (AI), and built-for-purpose solutions,"
+    publishedDateTime: 2022-05-09T02:51:00Z
+    webUrl: "https://thedailyrecord.com/2022/05/08/peter-allen-and-anna-harper-cardinality-ai/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 12
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
+      name: Maryland Daily Record
+      domain: thedailyrecord.com
+    quality: 17
 
 secured: "oChb0HYV+eIqmeddPqSZVsXUOtzVue7/e+2QjsLth8/Jjz+4c11/L19w3VdWgZmY+toq3zR7bM1v0bUbDN28V5NFhkH8B+Vr0UlvPEGrvUJ+iunrT5HwYAVX9lRIjMzz3c6Z5vrbnkqGmH6Mblvgd/rKKfijlREIs7+TndDVED5pYIn+sILFEqQCvyAwukvqAyl6T0rE5dcJlJhiWcwUGBSYs2YjBBGJzXeqY9kfPe05Xe8lm1gV3QBXeJ0B9S839YNhOc/9xkl+9CrljlIsHxJVUUqhTOPYm1Q07AYQjGtXFKLNj8xnAd59N/LgQI+kbsCEM+9H/R/tvVvqpzSxProIi0Wpjh8FD7DF1vkYGKM=;YAaQ42M+WGnLHExAl+jSfA=="
 ---

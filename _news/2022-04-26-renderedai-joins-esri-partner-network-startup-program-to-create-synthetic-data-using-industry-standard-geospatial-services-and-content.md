@@ -1,19 +1,29 @@
 ---
 category: news
 title: "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content"
-excerpt: "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training. BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rend"
-publishedDateTime: 2022-04-25T18:18:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85"
+excerpt: "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rendered.ai ..."
+publishedDateTime: 2022-04-25T18:37:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
+webUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "vXwu21fCCmkzP5jKIKBVG5rX2VHr84Tz7LFjGCVao6g+T+gqmXuWpuR62om+hGTpeeAZ9+WUgW9x1DIewlnw2v6I3UspuU/7B9FUJHLYSNuNtHTFUcIMx+a9lVd+fleUYQKErjVa8VWW/OPCnZikjDoZi1UxKD7Y3Eiq2F6iEWSnn7uxrNvGlPXs6esC+tBlbc5uWqW9RaK5l5eHOp4M4uZWiKsr8z2bSOF/C799tUbbLYSAC0RAeblE/3gkqu9BurQV/fme5kaB//apvtSKn4oICVchuxwgr38j7X/iix5PJS6/ISFddBRXQaOaHcrJFamuhDI5g5P3SFGD7nke2R9qIo09xv6NvKUEP2UyxMY=;Iuq9mTI0+O4YhYZeGJl5KQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1803989/ArcGIS_Channel_Training_Chips.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "LtHPdpofvyU0YGyhAO2oXJ0q8dTfnJBrTsn+bmQIJYdZqUx112/KBb3fqWSOomeh0cVZm+5RNwExW75Z30kRg/MvmsVCu18xEuhcUb5AFVNHctNTtQiE/dvV1N+q3NhMJPUOQY7k2oYN8HBjUB1loefAP80pDGOhCTFDKjDKOeS/CMlNE6fbaIKx7hzcbwesA4liZja5CJF7Cqw2HNglKmGX2b4D6nnrgz5RMWT7pEQRdkEbLaR2b+lMkhjb9C3MshXnH0NvBMH330FGQcmlU/ZWGG2e3p3r33OhyiY3DWqt3nGjioubJO5KmkT2KxIaHpOoXh47eZVLYPpDEGMqJF+/9PfKxoLXri9nQq+RR/E=;I4ueNj2+0PCXksks/oS03Q=="
 ---
 

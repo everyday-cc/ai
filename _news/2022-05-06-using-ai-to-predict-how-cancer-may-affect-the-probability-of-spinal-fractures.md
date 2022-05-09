@@ -42,15 +42,6 @@ related:
         width: 1440
         height: 1920
         isCached: true
-  - title: "Southwest Airlines is using AI to help attract and retain its customers"
-    excerpt: "CEO Bob Jordan says AI is important \"not because it's hot\" but because \"it can have a business impact.\""
-    publishedDateTime: 2022-05-05T13:32:00Z
-    webUrl: "https://fortune.com/videos/watch/Southwest-Airlines-is-using-AI-to-help-attract-and-retain-its-customers/2e618eb2-0f9e-44de-9ef8-6f74a547bacd"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 47
   - title: "AI-assisted digital twin could predict spinal column fractures in cancer patients"
     excerpt: "An AI-assisted digital twin of human vertebrae could predict how cancer affects the probability of spinal column fractures, a study from Ohio State University has found."
     publishedDateTime: 2022-05-06T09:47:00Z

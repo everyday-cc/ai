@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -30,50 +30,38 @@ images:
     isCached: true
 
 related:
-  - title: "Traversing The Great Uncertainty With AI And Intelligent Forecasting"
-    excerpt: "AI can provide an agile way to sort through these extensive logs of data to quantify unique sets of market drivers for any given business. Out of thousands—maybe millions—of external market signals, AI can help business leaders identify the top ..."
-    publishedDateTime: 2022-05-04T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/"
+  - title: "Meta’s free GPT-3 replica exposes the business benefits of AI transparency"
+    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner ..."
+    publishedDateTime: 2022-05-04T20:18:00Z
+    webUrl: "https://thenextweb.com/news/meta-new-ai-model-opt-replicates-gpt-3-and-researchers-can-download-it-free"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62711214c63fd2377df98d3a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FUntitled-design.jpg&signature=fa11babcddcb7cef41f611dd15c34e2c"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Getting comfortable with AI ethics"
-    excerpt: "Which is probably just as well: how we as humans are going to interact with AI as it develops is one of the questions of our time. So how do we get people to engage with these uncomfortable conversations?"
-    publishedDateTime: 2022-05-05T10:28:00Z
-    webUrl: "https://www.techuk.org/resource/getting-comfortable-with-ai-ethics.html"
+  - title: "Southwest Airlines is using AI to help attract and retain its customers"
+    excerpt: "CEO Bob Jordan says AI is important \"not because it's hot\" but because \"it can have a business impact.\""
+    publishedDateTime: 2022-05-05T13:32:00Z
+    webUrl: "https://fortune.com/videos/watch/Southwest-Airlines-is-using-AI-to-help-attract-and-retain-its-customers/2e618eb2-0f9e-44de-9ef8-6f74a547bacd"
     type: article
     provider:
-      name: techUK
-      domain: techuk.org
-    quality: 54
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/3f4a9f73-5300-4cae-9e6cc122189ffb87/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Office-working-251122234-web-1500px.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "NASA weaves a data and AI fabric for drone intelligence"
-    excerpt: "NASA is spearheading a project to build a Data and Reasoning Fabric (DRF) that will not only pass relevant information to drones and allow them to share information, but also feature AI and machine learning services that will allow unmanned systems to make ..."
-    publishedDateTime: 2022-05-06T22:01:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/05/nasa-weaves-data-and-ai-fabric-drone-intelligence/366642/"
+      name: Fortune
+      domain: fortune.com
+    quality: 47
+  - title: "The Age of Generative AI - Inventing a New Artificial Intelligence"
+    excerpt: "What is Generative AI, and how does it work? Generative AI employs artificial intelligence (AI) and machine learning techniques to allow robots to create artificially fresh material. The system does this by using existing text, audio files, movies ..."
+    publishedDateTime: 2022-05-06T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/age-generative-ai-inventing-new-artificial-shruti-saraswat"
     type: article
     provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/05/06/NASA_DRF_GCN050622/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 36
 
 secured: "1UUPWz0QjOetJMl4W1SqMX1Uu7LgcY8pCyOAXgSzxjcpGpyfe9MQ7SIMk7nNXTSvfCmnroz97XMqz+NenQ+rXoPXGdUuM2PCeDdytfca2jwwx6x1+Ggk4lw+9nJhGwToyUgk/g+5BiQMRac65fSlAzDkaCXrb55Y/cSeHdOTYC1JdMRU4CAqD9Sso0XRXs04uesdxCOPDrJZA6gYZ47VqZEAxSgS/qVRvKjXljHgS1ER4vbE2K/z6gfjK1vhf5+/LYvFMHBBwJV8mWWDL+OnBLC3cmnrJ9F0Royom3rEd6k+3jphM8TgtSwl1Cu0LDJMb9GM7+Wui84eymhoHylFNPObT+NLND6YUY6K0uyHOUFMlbMJtXihAP4wgZa10yp30WeBT42amn+aHGxvXgUhMwSVBe+8uUPVmd3gFs/wbCRzvk99hg/HYlK722tTdW3gJgkeckcYbJQi5Iseh6T61FuFdSdBHfMjgKGpr/Jpt+FjNZXsaFWbCLVc5HCxcDJmPLQXEmfk7EulqKvS13DfOg==;GIDb5H+gBzjD/Y4ZT1eY4A=="
 ---

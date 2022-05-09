@@ -105,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -626,9 +626,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/04/400x225-Free-Trip-Tuesday.jpg?w=2000&#038;ssl=1",
-          "width": 400,
-          "height": 225,
+          "url": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/05/BluesWild58.jpeg?w=2000&#038;ssl=1",
+          "width": 339,
+          "height": 226,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1152,50 +1152,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
-      "title": "Pittsburgh Welcomes Plus One Robotics",
-      "excerpt": "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-04-28-three-stocks-to-profit-from-the-robot-revolution.md",
       "title": "Three stocks to profit from the robot revolution",
       "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
@@ -1286,19 +1242,19 @@
     {
       "path": "_news/2022-04-27-uae-vows-responsible-artificial-intelligence-rollout.md",
       "title": "UAE vows 'responsible' artificial intelligence rollout",
-      "excerpt": "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university, opened to students last year, and the country has launched a number ...",
+      "excerpt": "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university ...",
       "sourceUrl": null,
-      "webUrl": "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout",
-      "originalUrl": "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout",
+      "webUrl": "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout",
+      "originalUrl": "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-04/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg?h=a31d927f&itok=yIzQoqk4",
-          "width": 1200,
-          "height": 628,
+          "url": "https://s.france24.com/media/display/1ea11fb2-c5d8-11ec-9fa9-005056bfb2b6/w:1280/p:16x9/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1306,13 +1262,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T20:34:00-07:00",
+      "ampWebUrl": "https://amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout",
+      "cdnAmpWebUrl": "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout",
+      "publishedDateTime": "2022-04-26T20:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Al-Monitor",
-        "domain": "al-monitor.com",
+        "name": "France 24",
+        "domain": "france24.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1431,6 +1387,58 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-commerces-bis-can-help-stop-chinas-quest-for-ai-dominance.md",
+      "title": "Commerce’s BIS Can Help Stop China’s Quest For AI Dominance",
+      "excerpt": "AI will transform militaries through innovations in intelligence, surveillance, reconnaissance, logistics, command and control capabilities, weapons systems, and so on. Last year a landmark U.S. National Security Commission on Artificial Intelligence (NSCAI) report found,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/",
+      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62642f15dba64174ee30febc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/",
+      "publishedDateTime": "2022-04-23T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

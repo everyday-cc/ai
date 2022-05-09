@@ -457,7 +457,7 @@
       "originalUrl": "https://gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -500,7 +500,7 @@
       "originalUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -910,6 +910,57 @@
       ]
     },
     {
+      "path": "_news/2022-05-06-the-benefits-and-dangers-of-using-ai-in-recruitment.md",
+      "title": "The Benefits And Dangers Of Using AI In Recruitment",
+      "excerpt": "Artificial Intelligence (AI) has made massive inroads into wider HR practices and recruitment in particular. Here we look at the problems as well as benefits of using AI in recruitment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6274afa31115eb7c6b1222ff/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/",
+      "publishedDateTime": "2022-05-05T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-use-custom-vocabulary-in-amazon-lex-to-enhance-speech-recognition.md",
       "title": "Use custom vocabulary in Amazon Lex to enhance speech recognition",
       "excerpt": "In our daily conversations, we come across new words or terms that we may not know. Perhaps these are related to a new domain that we’re just getting familiar with, and we pick these up as we understand more about the domain. For example, home loan terminology (“curtailment”), shortened words, (“refi”,",
@@ -1102,7 +1153,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1124,57 +1175,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-daimler-truck-becomes-latest-investor-in-apexai-to-use-its-safety-certified-software.md",
-      "title": "Daimler Truck becomes latest investor in Apex.AI to use its safety-certified software",
-      "excerpt": "Daimler Truck has invested in Apex.AI – a mobility software developer that provides a software development kit (SDK) for OEMs.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/",
-      "originalUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Daimler-Apex-Trucks.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/amp/",
-      "publishedDateTime": "2022-05-05T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

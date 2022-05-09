@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-05-daimler-truck-becomes-latest-investor-in-apexai-to-use-its-safety-certified-software.md",
+      "title": "Daimler Truck becomes latest investor in Apex.AI to use its safety-certified software",
+      "excerpt": "Daimler Truck has invested in Apex.AI – a mobility software developer that provides a software development kit (SDK) for OEMs.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/",
+      "originalUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Daimler-Apex-Trucks.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/amp/",
+      "publishedDateTime": "2022-05-05T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-unionvilles-music-education-program-receives-national-recognition.md",
       "title": "Unionville’s music education program receives national recognition",
       "excerpt": "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to",
@@ -54,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -380,7 +431,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -421,57 +472,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-metas-free-gpt-3-replica-exposes-the-business-benefits-of-ai-transparency.md",
-      "title": "Meta’s free GPT-3 replica exposes the business benefits of AI transparency",
-      "excerpt": "Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/meta-new-ai-model-opt-replicates-gpt-3-and-researchers-can-download-it-free",
-      "originalUrl": "https://thenextweb.com/news/meta-new-ai-model-opt-replicates-gpt-3-and-researchers-can-download-it-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FUntitled-design.jpg&signature=fa11babcddcb7cef41f611dd15c34e2c",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -632,7 +632,7 @@
       "originalUrl": "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {

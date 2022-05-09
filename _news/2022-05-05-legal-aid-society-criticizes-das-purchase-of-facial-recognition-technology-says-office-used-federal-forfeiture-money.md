@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 642
         isCached: true
-  - title: "HK gov’t admits LeaveHomeSafe app contains facial recognition feature but says it’s never been used"
-    excerpt: "The Hong Kong government has admitted that the LeaveHomeSafe contact tracing app comes with a facial recognition function, but stressed that the feature has never been used. Officials said an update will be issued to the COVID-19 tracing app to remove the ..."
-    publishedDateTime: 2022-05-04T10:04:00Z
-    webUrl: "https://coconuts.co/hongkong/news/hk-govt-admits-leavehomesafe-app-contains-facial-recognition-feature-but-says-its-never-been-used/"
-    type: article
-    provider:
-      name: Coconuts
-      domain: coconuts.co
-    quality: 40
-    images:
-      - url: "https://coconuts.co/wp-content/uploads/2022/05/Screenshot-2022-05-04-at-4.44.18-PM.png"
-        width: 1920
-        height: 1264
-        isCached: true
   - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
     excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday. As drafted, Senate Bill 113 would establish several regulations for the use of ..."
     publishedDateTime: 2022-05-06T20:38:00Z

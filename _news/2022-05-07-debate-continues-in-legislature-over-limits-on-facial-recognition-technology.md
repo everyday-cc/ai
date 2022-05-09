@@ -9,7 +9,7 @@ ampWebUrl: "https://gazette.com/premium/debate-continues-in-legislature-over-lim
 cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.amp.html"
 type: article
 quality: 56
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "HK gov’t admits LeaveHomeSafe app contains facial recognition feature but says it’s never been used"
-    excerpt: "The Hong Kong government has admitted that the LeaveHomeSafe contact tracing app comes with a facial recognition function, but stressed that the feature has never been used. Officials said an update will be issued to the COVID-19 tracing app to remove the ..."
-    publishedDateTime: 2022-05-04T10:04:00Z
-    webUrl: "https://coconuts.co/hongkong/news/hk-govt-admits-leavehomesafe-app-contains-facial-recognition-feature-but-says-its-never-been-used/"
-    type: article
-    provider:
-      name: Coconuts
-      domain: coconuts.co
-    quality: 40
-    images:
-      - url: "https://coconuts.co/wp-content/uploads/2022/05/Screenshot-2022-05-04-at-4.44.18-PM.png"
-        width: 1920
-        height: 1264
-        isCached: true
   - title: "Legal Aid Society criticizes D.A.’s purchase of facial-recognition technology, says office used federal forfeiture money"
     excerpt: "STATEN ISLAND, N.Y. — District Attorney Michael E. McMahon used controversial federal forfeiture funds to purchase and employ the use of facial recognition technology that has drawn the ire of civil liberties advocates, according to the Legal Aid Society."
     publishedDateTime: 2022-05-04T20:22:00Z

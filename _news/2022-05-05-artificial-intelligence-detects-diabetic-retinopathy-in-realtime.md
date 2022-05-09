@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-05T00:01:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-detects-diabetic-retinopathy-realtime-"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-detects-diabetic-retinopathy-realtime-"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "q28OLJhtmFabVbFwiyO6Jej7p08ENpTBu713bjP/DAYdqiIpQZkQb5SQlRCgsHpxupAs7YTSve2HV8K+5pv7rUPcyJNoKLfy+LmvJn6D/hktJK2VB4Ihz4jR7NzHcHOektK6FzZIexEHwvAFXNQzb/T2MnPzlJG7LnxhkGYswSZvCBRhPg8i7GXoMWynkEWFD2p6E7Gkb08PhOKpiGDdwFcNXSGZFSHKZNLDmkOlx4QUzHHxYAX7vwdUapbvsU/PcBfnL5t0pRHGeWPkE7uUrs0KJEszfTXUS74QHoi255vWieRemmKHlUSy6FLlQD/hp3+GnVgYoMe3UWi44Z3tVmmsnuQSKe3GJs66YOMFSyZGKMhf6IfA9/PdYLeNcv/l8woMNyZxDaGtLbhdUJ3Ydb2KUrz0MwMnM5JbU0vLoyOvNtVmLmBpyr38QlvmfGJoqQwb4pkY6GW3Fgo7QbNn+q2lQn3orolvi2hXvu8s92WO6FqSnwDsGLIuYd5D7sde2CD+vMBcs1dxyoah6uLagw==;ge1a5vhinjQDL+C1YVEnIQ=="
+images:
+  - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEk_liR7mKRvw/article-cover_image-shrink_600_2000/0/1651567942891?e=1657756800&v=beta&t=2D6q95XY5dDXwtKc_sKGAjAQZBMLSZy7M98xPkqLUZE"
+    width: 612
+    height: 408
+    isCached: true
+
+secured: "WPODt1NM9sjSpYphqzbv1OPBkZ/6ygQCM/lxSKCY+bdwoi7xLiHiLdEfmE44NWaWcWus2tSMaYFoRAMnH1yW4lTFbljyBTIBKcL9oBlMNZxvJEbGWGti4SL/sPrylVMCH/OhuQ36Egxn30QKEu0oiWDze931DG76CzdH32Rc4qLA4+nitrfgy9KlmiD6/CAy+diyMPURFSjBIRO++12XHWfDpG/gOYNUOf2K7Sia20Z6yVmZFyi0M8mqry4nrwJbfGTzNma8sAtZOIiqgCWpUw1T9TFVnpeqj+0Db5sWUVXiaifJl+DYz21qdOZ9dnWrJD0jK9LTKMQOOOyk2WXq1anx+XaNXiDLPwIDiSD8FwQ=;j9npGo6gKbho/gqqS0qy0w=="
 ---
 

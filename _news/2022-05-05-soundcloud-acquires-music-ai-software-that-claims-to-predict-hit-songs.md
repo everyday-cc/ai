@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "SoundCloud has bought AI tech startup Musiio"
-    excerpt: "SoundCloud has bought Musiio, the startup that focuses on artificial intelligence in ... Read this next: How the first Mixmag cover animated by AI technology was made Using AI to ‘listen’ to tracks, Musiio can identify characteristics that can help ..."
-    publishedDateTime: 2022-05-04T10:31:00Z
-    webUrl: "https://mixmag.net/read/soundcloud-has-bought-ai-tech-startup-musiio-tech"
-    ampWebUrl: "https://mixmag.net/amp/soundcloud-has-bought-ai-tech-startup-musiio"
-    cdnAmpWebUrl: "https://mixmag-net.cdn.ampproject.org/c/s/mixmag.net/amp/soundcloud-has-bought-ai-tech-startup-musiio"
-    type: article
-    provider:
-      name: Mixmag
-      domain: mixmag.net
-    quality: 57
-    images:
-      - url: "https://mixmag.net/assets/uploads/images/_full/soundcloud.jpg"
-        width: 1008
-        height: 672
-        isCached: true
   - title: "SoundCloud snaps up music AI tech firm to bolster music discovery"
     excerpt: "SoundCloud believes that the next big thing on its platform relies on AI and machine learning, as the company announced it has acquired Musiio, which will help SoundCloud’s existing music ..."
     publishedDateTime: 2022-05-04T17:44:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/soundcloud-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "SoundCloud acquires AI-based music curation company Musiio"
-    excerpt: "Online audio sharing and streaming platform SoundCloud has acquired AI music curation company Musiio. With this acquisition, SoundCloud hopes to strengthen its music discovery features and allow the company to leverage Musiio’s vast data to identify the ..."
-    publishedDateTime: 2022-05-04T09:26:00Z
-    webUrl: "https://analyticsindiamag.com/soundcloud-acquires-ai-based-music-curation-company-musiio/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/SOUND-CLOUD-X-MUSIIO.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Soundcloud acquires AI startup Musiio to bolster music discovery"
     excerpt: "Soundcloud has announced that it has acquired music AI startup Musiio. The company plans to use the technology to bolster its music discovery features. Soundcloud wants to make it easier to find what's up-and-coming in the world of music. In a press ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-espe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars will need smarter roadways"
-    excerpt: "One way to speed the adoption of self-driving vehicles is to give them automated express lanes, where they can zip past regular traffic without having to tangle with human-driven cars. Why it matters: For all the billions companies are spending to develop ..."
-    publishedDateTime: 2022-05-04T10:58:00Z
-    webUrl: "https://www.axios.com/self-driving-cars-will-need-smarter-roadways-486bf308-cd74-44a2-a182-4057d54abbcd.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/JunsvWGOvXMqXer8PkXH6v-iTbU=/0x0:3840x2160/1366x768/2022/05/03/1651599007793.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Insurance for self-driving cars"
     excerpt: "Self-driving cars hold the promise of improved safety, but they're still years away. Learn about insurance for driverless cars."
     publishedDateTime: 2022-05-05T10:59:00Z

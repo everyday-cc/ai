@@ -39,15 +39,6 @@ related:
         width: 400
         height: 387
         isCached: true
-  - title: "Leading HealthTech AI company NuraLogix announces new partnership with LaFiya TeleHealth"
-    excerpt: "TORONTO, May 5, 2022 /PRNewswire/ - NuraLogix, a leading HealthTech AI company, has announced a new partnership with LaFiya TeleHealth, a Nigerian-based telehealth platform which provides 24/7 virtual healthcare services to residents in remote and rural areas."
-    publishedDateTime: 2022-05-05T12:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27017597/leading-healthtech-ai-company-nuralogix-announces-new-partnership-with-lafiya-telehealth"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
   - title: "Ardent Health Services Partners with AI Company Winnow to Modernize Clinician Recruiting"
     excerpt: "Healthtech company Winnow has partnered with Ardent Health Services to leverage its AI solution for clinician recruiting. The partnership deepens Ardent's commitment to digital innovation and gives it"
     publishedDateTime: 2022-05-05T18:30:00Z

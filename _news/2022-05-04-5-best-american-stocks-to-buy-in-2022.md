@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/5-best-american-stocks-to-buy-i
 webUrl: "https://www.insidermonkey.com/blog/5-best-american-stocks-to-buy-in-2022-1040552/5/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 800
     height: 1200
     isCached: true
-
-related:
-  - title: "Toyota Puts Invisible AI Eyes In North American Factories"
-    excerpt: "Toyota Indiana assembly plant in Princeton, Ind. will be the first installation of the Invisible AI ... [+] system to boost quality, safety and productivity. The automaker and Austin, Texas-based startup said Wednesday Invisible AI's computer vision ..."
-    publishedDateTime: 2022-05-04T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/"
-    ampWebUrl: "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62715de69d18651793490729/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Toyota to use innovative AI technology to boost factory efficiency"
-    excerpt: "They will also notify the worker in real time when they've completed the task correctly. The system, developed by Invisible AI — a startup with 17 full-time employees — will be deployed first at Toyota's massive assembly plant in Princeton, Ind.,"
-    publishedDateTime: 2022-05-04T17:46:00Z
-    webUrl: "https://www.autonews.com/manufacturing/toyota-use-innovative-ai-technology-boost-factory-efficiency"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
 
 secured: "MS/tju4LdOA+Il1btKD7wQcwKQclYL9+dXzn6VzBQ71CFQsniScRBLbqOUHAeyvLvEV37rtEH60sU3uNFbLaclHN3gzgWv3d5HrkK1TACDkYHjJIa2zobYr3+jDZ+rmBDbCoFkCQm64R4Vm58/MdYfP304NX9vo5t0h2IwK/Dj4vmwm6nOLIC3nlZk9znfPjC9Ofv9Jllg/zOEtruhDAOhUrytLg6KJ6RTygBsqUFSh28/g9Jxg8tKlLhqxbO5r8PqxqR2yr1SjiozhDq7SRHh/erz9ygF1X4nkmx76SDG4S07Vm91oT5BkOAk333XMc8o9gAb/S+obx436/nkH3TTSUyydHJ0C3FzavNKnAipYvGYVDWZ9zznPZuGkhzZCBAl5GDmqWsf4UexkJsn9jlZZ8AkY6nL35kb1tz3ovbXgRtE9QnmBrlaSl2O4Mf8plmA95f9wCO+0YNUQdn3QyUUbYeB4W+OO7WxdB+NwOPC9QmwmrZPRkLzCGpmdTRkfO4Cken32PsI5BxSKWSz1mJA==;PC+BMqSBmlz73oilqrTi/w=="
 ---
