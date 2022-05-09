@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
+    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has joined NVIDIA Metropolis, a program designed to nurture and bring to market a new generation of applications and solutions that make the world's most important spaces and operations safer and more efficient with advancements in AI vision."
+    publishedDateTime: 2022-05-05T21:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai-1031428048"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+        width: 400
+        height: 205
+        isCached: true
   - title: "Landing AI Becomes a Part of NVIDIA Metropolis to transform industrial inspection with AI"
     excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced"
     publishedDateTime: 2022-05-06T10:17:00Z
@@ -47,22 +61,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Landing-AI-Becomes-a-Part-of-NVIDIA-Metropolis-to-transform-industrial-inspection-with-AI-01.jpg"
         width: 700
         height: 400
-        isCached: true
-  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-    excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial ..."
-    publishedDateTime: 2022-05-05T21:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27037942/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27037942"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27037942"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
 
 secured: "UgUnvxU1s3lXXhFzeNirmCCLfFfbkMaOf4fC5O7FClw0EotVYH5fHCyOjGhBDfjoWh2nbJMZbRGNtc7vRrpQC0wgfTAIq5rXDfWWjRtGOUrJbtOq3s990e6ta038PtKOY2jKn6vG6BhqrA/pp79De+QmQI8XxcCi2yTyNtBXr0uh+FS7aeAaVoaqBZJLkz4oVTsFPMPEG8H6rHKbeVQ09Cqt3/Y28UhR6OocwOCizdn6Cs4wHMw7beb5W3DqzMhfRjK8MgDm4S6MxvVnuOabKwPXdM0qpDsrMw0p7PeiNWrXbquiIFmxyGs3FCZK8JCUSfE43FRQODE4+N+YRO2magF9GGXddAD1Mo3JcbpEoxA=;kChBrzv5fTHY7ujDYtImZQ=="

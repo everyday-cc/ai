@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "DRAFT Startup Spotlight: The challenges and promises of facial recognition technology"
+    excerpt: "“We don’t fundamentally understand how that black box, AI, does what it does,” said Ricanek. “We’re exploring that through this whole realm of explainable AI, and that’s going on ..."
+    publishedDateTime: 2022-05-09T11:22:00Z
+    webUrl: "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/"
+    ampWebUrl: "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 52
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg"
+        width: 1264
+        height: 710
+        isCached: true
   - title: "Government to Submit Law Permitting Facial Recognition Cameras in Public Spaces"
     excerpt: "\"When a police officer can post a biometric camera in every neighborhood, there’s an opening for the exploitation and over-enforcement in certain populations.\""
     publishedDateTime: 2022-05-09T07:11:00Z

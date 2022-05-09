@@ -27,6 +27,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Key highlights from oneAPI AI Analytics Workshop on Accelerating Python for Data Science & Machine Learning"
+    excerpt: "Intel®, in collaboration with Analytics India Magazine, successfully concluded the oneAPI AI Analytics workshop to accelerate Python for data science and machine learning on April 22, 2022. The workshop saw more than 200 participants."
+    publishedDateTime: 2022-05-09T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/key-highlights-from-oneapi-ai-analytics-workshop-on-accelerating-python-for-data-science-machine-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Intel-One-API-Speakers-Updated.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
     excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
     publishedDateTime: 2022-05-06T12:54:00Z

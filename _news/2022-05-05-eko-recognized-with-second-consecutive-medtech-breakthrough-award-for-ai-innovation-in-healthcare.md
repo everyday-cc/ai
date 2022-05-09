@@ -39,15 +39,6 @@ related:
         width: 400
         height: 387
         isCached: true
-  - title: "Ardent Health Services Partners with AI Company Winnow to Modernize Clinician Recruiting"
-    excerpt: "Healthtech company Winnow has partnered with Ardent Health Services to leverage its AI solution for clinician recruiting. The partnership deepens Ardent's commitment to digital innovation and gives it"
-    publishedDateTime: 2022-05-05T18:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27032086/ardent-health-services-partners-with-ai-company-winnow-to-modernize-clinician-recruiting"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
 
 secured: "NwudrE+4T6eFfiTtj2aVqsV6Pw1XtA/C5jMUqOl730AzFpZvi1yrQGxYmc9SX7bqJL+4rNXqrtJtkIgSiNlVEOuIo5khk01Q8z5eJP6FWzmVchIIlY5V5rJeez21JlXb73ibWlW42J2M4kgsWT4lr5gxW71Q1rkn2018QISOPidOMzgHSn/LYtGSvtmr3egC75Yf3WzqwG5x74GXGscYKUE8pCi4U+sTBD5tUDSzyoBMP9nS2nhr+EivVp+f+VbTNVUWQzWkKUF8OYSyPLTn7vOAgvWWTU7eruXvyCJipgnDOzS7FXM02OKXeoV8WbDMnX8HuwJXW6PtWctVhGqdwD2pkjnD2dMuzLBDvKEynPI=;URggG28YqzCjXjthn45bmg=="
 ---

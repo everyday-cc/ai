@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials.md",
+      "title": "Machine learning and AI is coming for corrupt officials",
+      "excerpt": "Mark Heywood correctly asserted in the Daily Maverick that unless we introduce the certainty of punishment for corrupt public officials, we will lose the fight against corruption .  The July looting and riots taught us that these events affect our daily lives.",
+      "sourceUrl": null,
+      "webUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
+      "originalUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.mg.co.za/wp-media/2022/04/bd15270f-gettyimages-1283484229-scaled.jpg",
+          "width": 2560,
+          "height": 1709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp",
+      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp",
+      "publishedDateTime": "2022-04-17T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mg.co.za",
+        "domain": "mg.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-how-fintech-can-help-you-manage-your-personal-finances.md",
       "title": "How Fintech Can Help You Manage Your Personal Finances",
       "excerpt": "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world",
@@ -1253,49 +1297,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-gupshup-acquires-activeai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies.md",
-      "title": "Gupshup acquires Active.Ai, the Leading Conversational AI Platform for Banks and Fintech Companies",
-      "excerpt": "Acquisition Brings Advanced, AI powered Omnichannel Conversational Engagement Solutions to BFSI Organizations Gupshup, a global leader in conversational engagement, announced today the acquisition",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2022/04/04/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2022/04/04/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/82a342fb-gupshup.jpg",
-          "width": 898,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-03T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

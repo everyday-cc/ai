@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple loses its director of machine learning over its hybrid working plans"
+    excerpt: "Apple has reportedly lost a high-profile team member over its new hybrid working policy that will require people to work at Apple Park three days per week."
+    publishedDateTime: 2022-05-09T10:42:00Z
+    webUrl: "https://www.imore.com/apple-loses-its-director-machine-learning-over-its-hybrid-working-plans"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 37
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/02/apple-park-photo-1-building-trees.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Apple's Director of Machine Learning Resigns Due to Return to Office Work"
     excerpt: "Apple's director of machine learning, Ian Goodfellow, has resigned from his role a little over four years after he joined the company"
     publishedDateTime: 2022-05-07T19:31:00Z

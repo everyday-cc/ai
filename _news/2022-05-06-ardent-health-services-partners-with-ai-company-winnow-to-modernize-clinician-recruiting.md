@@ -18,33 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Eko Recognized with Second Consecutive MedTech Breakthrough Award for AI Innovation in Healthcare"
-    excerpt: "Eko, a digital health company advancing heart and lung disease detection, today announced that, for the second consecutive year, it has won the “Best Use of Artificial Intelligence in Healthcare” award at MedTech Breakthrough’s annual awards program."
-    publishedDateTime: 2022-05-05T13:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-health-oakland-artificial-intelligence-4fe1e65abb2145858b4c1c1dc21d2357"
+  - title: "Strengthening Company Culture With Artificial Intelligence"
+    excerpt: "To achieve ultimate value from technology, it’s important to consider how it could benefit various parts of the business: organizational efficiency, team collaboration, productivity, R&D opportunities and team empowerment."
+    publishedDateTime: 2022-05-09T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6272e3b2ed8a29c5f841d642/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 522
         isCached: true
-  - title: "Panalgo Wins \"AI Innovation Award\" in 2022 MedTech Breakthrough Awards Program"
-    excerpt: "Panalgo, a market-leading healthcare analytics company, today announced that its IHD Data Science module has been selected as the winner of the \"AI Innovation Award\" in the 2022 MedTech Breakthrough Awards program."
-    publishedDateTime: 2022-05-05T12:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-panalgo-wins-ai-innovation-award-2022-medtech-breakthrough-/2022/05/05/9596452.htm"
+  - title: "Getting comfortable with AI ethics"
+    excerpt: "Which is probably just as well: how we as humans are going to interact with AI as it develops is one of the questions of our time. So how do we get people to engage with these uncomfortable conversations?"
+    publishedDateTime: 2022-05-05T10:28:00Z
+    webUrl: "https://www.techuk.org/resource/getting-comfortable-with-ai-ethics.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: techUK
+      domain: techuk.org
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1808942/MedTech_Breakthrough_2022_Panalgo.jpg"
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/3f4a9f73-5300-4cae-9e6cc122189ffb87/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Office-working-251122234-web-1500px.jpg"
         width: 400
-        height: 387
+        height: 267
         isCached: true
 
 secured: "uotFznoiXRUbZORBpE7pwaTIY3uMfTE8E4VMtpaMEU+g4EfP7Y9T6lCnzd1jHIp7IREPZd0Ogm9dcQ1tVAg2aYsxgJKmGhAN7iEL2028B99K8FFmO1oKOjYa+XrHWQLgiwzzJKmJYxoOTNrdQq0YOr+ae48fpRqkWB/+xbaEyP+wrMyGx/QndHR51oLF8bmozey8ck7ULoqweonD6kvVtuvPb61fkwdWIVUwanht5NfPBtmv30tllMnavl6HLEumi3Pp8Y89n2k5VVU349m6OKhNW+e6gmwV80JurG3FdcSfFkc8ejRu27c36r9IOwHbn8dsfwfDlQ6KtOnxBMe8E5kYeYYnmmVOXGpwq5OaKoPdxRh9yDHlgSs4qeSSQOTeH7/dG93t79tC912MoB5LpA2OYlMgRklWkNT2b8dK0M2dl6aslT98Q7rzBJrh3iFlPD9ilPVMnQjN5hKbGYsPdk76elAFvNZJi4O2VXrcLpzRPZAHqbYPaQfTtJ55DzwSYImfh8PNkY7t0IOZhkTgeg==;UKXtpltjdOlm7Wt5F5gZZw=="

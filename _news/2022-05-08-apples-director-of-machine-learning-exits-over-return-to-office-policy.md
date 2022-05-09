@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/22/05/07/apples-director-of-machin
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy/amp/"
 type: article
 quality: 59
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/apple-in-person-work-policy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Apple loses its director of machine learning over its hybrid working plans"
+    excerpt: "Apple has reportedly lost a high-profile team member over its new hybrid working policy that will require people to work at Apple Park three days per week."
+    publishedDateTime: 2022-05-09T10:42:00Z
+    webUrl: "https://www.imore.com/apple-loses-its-director-machine-learning-over-its-hybrid-working-plans"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 37
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2017/02/apple-park-photo-1-building-trees.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Apple’s Director of Machine Learning Resigns Due to Return-to-Office Work policy"
     excerpt: "Apple's Director of Machine Learning, Ian Goodfellow decides to resign from his post owing the company's return-to-office work policy."

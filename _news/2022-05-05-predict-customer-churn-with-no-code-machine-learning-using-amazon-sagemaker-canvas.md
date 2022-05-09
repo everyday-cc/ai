@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-customer-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
 type: article
 quality: 100
-heat: -1
-published: false
+heat: 140
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy and manage machine learning pipelines with Terraform using Amazon SageMaker"
-    excerpt: "AWS customers are relying on Infrastructure as Code (IaC) to design, develop, and manage their cloud infrastructure. IaC ensures that customer infrastructure and services are consistent, scalable, and reproducible, while being able to follow best practices in the area of development operations (DevOps)."
-    publishedDateTime: 2022-05-04T17:39:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/27/ML4359-architecture-diagram-1.png"
-        width: 1002
-        height: 547
-        isCached: true
   - title: "Build a custom Q&A dataset using Amazon SageMaker Ground Truth to train a Hugging Face Q&A NLU model"
     excerpt: "In recent years, natural language understanding (NLU) has increasingly found business value, fueled by model improvements as well as the scalability and cost-efficiency of cloud-based infrastructure. Specifically, the Transformer deep learning architecture, often implemented in the form of BERT models,"
     publishedDateTime: 2022-05-06T16:29:27Z

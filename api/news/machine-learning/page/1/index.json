@@ -10,7 +10,7 @@
       "originalUrl": "https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -150,6 +150,59 @@
       ]
     },
     {
+      "path": "_news/2022-05-05-predict-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
+      "title": "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas",
+      "excerpt": "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T09:27:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-artificial-intelligence-computing-using-networks-of-tiny-nanomagnets.md",
       "title": "Artificial Intelligence Computing Using Networks of Tiny Nanomagnets",
       "excerpt": "Artificial intelligence that uses ‘neural networks’ aims to replicate the way parts of the brain work, where neurons talk to each other to process and retain information. A lot of the maths used to power neural networks was originally invented by ...",
@@ -238,6 +291,51 @@
         "AI in Healthcare",
         "Machine Learning",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022.md",
+      "title": "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022",
+      "excerpt": "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
       ]
     },
     {
@@ -430,6 +528,41 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
+      "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
+      "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI",
         "Machine Learning"
       ]
@@ -1288,145 +1421,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.md",
-      "title": "New HPE offerings aim to turbocharge machine-learning implementation",
-      "excerpt": "Machine Learning Development System and Swarm Learning address implementation pain points for enterprise users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
-      "originalUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/17/21/ai_machine-learning_analytics_data-scientist-100777422-large-100914304-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658239/new-hpe-offerings-aim-to-turbocharge-machine-learning-implementation.amp.html",
-      "publishedDateTime": "2022-04-27T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-hpe-uses-blockchain-for-distributed-machine-learning-models.md",
-      "title": "HPE uses blockchain for distributed machine learning models",
-      "excerpt": "HPE has lifted the lid on two new AI products, one aimed at enterprises wanting to build and train machine learning (ML) models at scale, and a second that introduces a decentralized ML system to enable distributed or edge deployments to share updates to their models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/27/hpe_new_ai_products/",
-      "originalUrl": "https://www.theregister.com/2022/04/27/hpe_new_ai_products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2015/06/12/chains_834875.jpg",
-          "width": 648,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/",
-      "publishedDateTime": "2022-04-27T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-sensiml-delivers-new-ai-accelerator-core-support-for-silicon-labs-mg24-and-bg24-series-2-bluetooth-wireless-socs.md",
-      "title": "SensiML Delivers New AI Accelerator Core Support for Silicon Labs MG24 and BG24 Series 2 Bluetooth® Wireless SoCs",
-      "excerpt": "SensiML ™  Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced it has added support for Silicon Labs' new MG24 and BG24 Series 2 Bluetooth® wireless SoCs within its SensiML Analytics Toolkit embedded development software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sensiml-delivers-new-ai-accelerator-core-support-silicon-/2022/04/27/9590659.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sensiml-delivers-new-ai-accelerator-core-support-silicon-/2022/04/27/9590659.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
-          "width": 400,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

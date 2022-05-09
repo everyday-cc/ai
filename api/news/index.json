@@ -2,6 +2,203 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-09-strengthening-company-culture-with-artificial-intelligence.md",
+      "title": "Strengthening Company Culture With Artificial Intelligence",
+      "excerpt": "To achieve ultimate value from technology, it’s important to consider how it could benefit various parts of the business: organizational efficiency, team collaboration, productivity, R&D opportunities and team empowerment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6272e3b2ed8a29c5f841d642/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-tested-arc-a370m-intels-first-discrete-gpu-to-seriously-battle-nvidia-and-amd.md",
+      "title": "Tested: Arc A370M, Intel’s first discrete GPU to seriously battle Nvidia and AMD",
+      "excerpt": "We visited Intel to test Arc A370M, its debut discrete graphics for mainstream laptops. It holds its own against the RTX 3050 and pulls far ahead in tasks that lean on Intel's \"Deep Link\" special sauce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html",
+      "originalUrl": "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/05/intel-arc-graphics.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp",
+      "publishedDateTime": "2022-05-09T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-telkom-business-offers-ai-speech-to-text-service.md",
+      "title": "Telkom Business offers AI speech-to-text service",
+      "excerpt": "In a multilingual country such as South Africa, companies must be able to communicate their offerings in multiple languages. Through the izwe.ai translation component, companies can expand their reach beyond English-speaking consumers, notes Telkom Business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KzQenqjyJexMZd2r",
+      "originalUrl": "https://www.itweb.co.za/content/KzQenqjyJexMZd2r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/U0te2aFHX35D0FUTEkCEiIKfb_7oqvI6SVq3ARfaCEMOqd54lylLm41ElwlGGss1dlmT4y7PPrB5WX6VZFnlklUPnxhBCFcV29omXA=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenqjyJexMZd2r",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenqjyJexMZd2r",
+      "publishedDateTime": "2022-05-09T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-ai-50-2022-north-americas-top-ai-companies-shaping-the-future.md",
+      "title": "AI 50 2022: North America’s Top AI Companies Shaping The Future",
+      "excerpt": "This year’s inductees reflect the booming VC interest as well as the growing variability in AI-focused startups making unique uses of existing technologies, others developing their own and many simply enabling other companies to add AI to their business model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62758aa52a077e0e6a66609a/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-researchers-use-ai-to-analyze-large-amounts-of-biological-data.md",
       "title": "Researchers use AI to analyze large amounts of biological data",
       "excerpt": "The type of AI, called a graph neural network, can help scientists with speeding up the time it takes to sift through large amounts of data generated ..",
@@ -146,6 +343,48 @@
       ]
     },
     {
+      "path": "_news/2022-05-08-artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases.md",
+      "title": "Artificial Intelligence (AI) Discovers Precise Treatments for Blinding Diseases",
+      "excerpt": "New study discovers subpopulations of retinal cells using artificial intelligence, that may help modify the treatment preciseness of blinding eye diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/eye6.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
+      "publishedDateTime": "2022-05-07T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-08-what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era.md",
       "title": "What voice tech can teach us about brand innovation in the Web3 era",
       "excerpt": "The rise of voice tech to mainstream prominence provides lessons for brands when considering the augmented worlds of the future.",
@@ -249,7 +488,7 @@
       "originalUrl": "https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -499,7 +738,7 @@
       "originalUrl": "https://gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -531,50 +770,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-top-ai-companies-riding-the-innovation-wave-in-2022.md",
-      "title": "Top AI Companies Riding the Innovation Wave in 2022",
-      "excerpt": "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/",
-      "originalUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg",
-          "width": 1000,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/",
-      "publishedDateTime": "2022-05-07T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leadership",
-        "domain": "industryleadersmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -1001,195 +1196,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-blockchain-iot-market-growing-at-a-cagr-451-key-player-ibm-microsoft-intel-amazon-web-services-huawei.md",
-      "title": "Blockchain IoT Market Growing at a CAGR 45.1% | Key Player IBM, Microsoft, Intel, Amazon Web Services, Huawei",
-      "excerpt": "Huawei (China), Cisco (US), SAP (Germany), Ethereum Foundation (Switzerland), The Linux Foundation (US), R3 (US), Arctouch (US), Waltonchain",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27036568/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-h",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27036568/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-h",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27036568",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27036568",
-      "publishedDateTime": "2022-05-05T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-how-ai-powers-modern-product-lifecycle-management.md",
-      "title": "How AI powers modern product lifecycle management",
-      "excerpt": "With every step of the product development cycle, there are meaningful contributions from AI-powered product insights platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/",
-      "originalUrl": "https://venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/amp/",
-      "publishedDateTime": "2022-05-05T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-using-ai-to-predict-bone-fractures-in-cancer-patients.md",
-      "title": "Using AI to predict bone fractures in cancer patients",
-      "excerpt": "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/bonefracture.jpg",
-          "width": 1440,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp",
-      "publishedDateTime": "2022-05-05T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-daimler-truck-becomes-latest-investor-in-apexai-to-use-its-safety-certified-software.md",
-      "title": "Daimler Truck becomes latest investor in Apex.AI to use its safety-certified software",
-      "excerpt": "Daimler Truck has invested in Apex.AI – a mobility software developer that provides a software development kit (SDK) for OEMs.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/",
-      "originalUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Daimler-Apex-Trucks.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/amp/",
-      "publishedDateTime": "2022-05-05T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

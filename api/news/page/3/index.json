@@ -2,6 +2,290 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-04-peergfs-adds-aiml-anomaly-detection-to-distributed-file-system-product.md",
+      "title": "PeerGFS adds AI/ML anomaly detection to distributed file system product",
+      "excerpt": "PeerGFS will also handle file sharing wherever an instance of Windows file system is running, including instances in the AWS, Azure and Google clouds ... including via AI/ML. It already has malicious event detection (MED), which includes use of “bait ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
+      "originalUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/File-share-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
+      "publishedDateTime": "2022-05-04T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting.md",
+      "title": "Traversing The Great Uncertainty With AI And Intelligent Forecasting",
+      "excerpt": "AI can provide an agile way to sort through these extensive logs of data to quantify unique sets of market drivers for any given business. Out of thousands—maybe millions—of external market signals, AI can help business leaders identify the top ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62711214c63fd2377df98d3a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/",
+      "publishedDateTime": "2022-05-04T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-toyota-puts-invisible-ai-eyes-in-north-american-factories.md",
+      "title": "Toyota Puts Invisible AI Eyes In North American Factories",
+      "excerpt": "Toyota Indiana assembly plant in Princeton, Ind. will be the first installation of the Invisible AI ... [+] system to boost quality, safety and productivity. The automaker and Austin, Texas-based startup said Wednesday Invisible AI's computer vision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62715de69d18651793490729/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/",
+      "publishedDateTime": "2022-05-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-why-focusing-on-user-centricity-in-ai-is-the-best-move.md",
+      "title": "Why Focusing On User-Centricity In AI Is The Best Move",
+      "excerpt": "If you establish a process of evaluating meaningful insights that work within your organization's context, what can start as surprising consumer sentiments can quickly become opportunities to leverage AI for scalable interventions and results. It's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee37b6f7aa2f00006297975/0x0.jpg?format=jpg&crop=7500,4218,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/amp/",
+      "publishedDateTime": "2022-05-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology.md",
+      "title": "VW Group To Rely On Qualcomm Chips For Its Self-Driving Technology",
+      "excerpt": "All VW Group brands will use this chip starting in 2026 in a deal that runs through to ... Instead, it is also working alongside Argo AI and has already partnered with the company to develop an all-autonomous version of the electric ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
+      "originalUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/05/VW-ID.-Buzz-2a-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
+      "publishedDateTime": "2022-05-04T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-stop-worrying-about-ai-bias-all-the-time-says-deloittes-ai-ethics-lead.md",
+      "title": "Stop worrying about AI bias all the time, says Deloitte’s AI ethics lead",
+      "excerpt": "AI that discriminates against people is a big problem, but Beena Ammanath, executive director of the Global Deloitte AI Institute and head of Trustworthy AI and Ethical Tech, says AI ethics is about a lot more than bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
+      "originalUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/beena-ammanath-executive-director-of-the-global-deloitte-ai-institute-and-head-of-trustworthy-ai-and-ethical-tech.png?id=29755735&width=1500&coordinates=346%2C0%2C334%2C0&height=2000",
+          "width": 1500,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
+      "publishedDateTime": "2022-05-04T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities.md",
       "title": "Global AI based Edge Computing Chip Market 2022: Overview, Manufacturing Cost Structure Analysis, Growth Opportunities",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. May 04, 2022 (The Expresswire) -- “AI based Edge Computing Chip Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis ...",
@@ -575,6 +859,41 @@
       ]
     },
     {
+      "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
+      "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
+      "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
       "title": "Google Faces Internal Battle Over Research on AI to Speed Chip Design",
       "excerpt": "The new episode emerged after the scientific journal Nature in June published \"A graph placement methodology for fast chip design,\" led by Google scientists Azalia Mirhoseini and",
@@ -863,351 +1182,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-building-the-future-of-ai-powered-retail-starts-with-trust.md",
-      "title": "Building The Future Of AI-Powered Retail Starts With Trust",
-      "excerpt": "This must give you a unique vantage point on data-centric AI, per your recent blog ... At the outset, I always start with the question: do we need machine learning at all to solve this problem, or is there an easier way to fix it that we should implement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62704c8d931d4d3a63b1ef88/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
-      "publishedDateTime": "2022-05-03T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-soundcloud-acquires-musiio-an-ai-music-curator-to-improve-discovery.md",
-      "title": "SoundCloud acquires Musiio, an AI music curator, to improve discovery",
-      "excerpt": "An online audio sharing platform and streamer, SoundCloud has acquired Musiio, an AI music curation company. With Musiio’s team and technology, SoundCloud plans to strengthen its music discovery ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
-      "originalUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
-      "publishedDateTime": "2022-05-03T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-elon-musk-boasts-teslas-optimus-robots-will-have-full-artificial-intelligence.md",
-      "title": "Elon Musk boasts Tesla's 'Optimus' robots will have full artificial intelligence",
-      "excerpt": "But according to Tesla boss Elon Musk, his humanoid robot, Optimus, is coming soon – and it might also contain the first true Artificial Intelligence. “Tesla AI might play a role in AGI,” the multi-billionaire tweeted, “given that it trains against ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543",
-      "originalUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.dailystar.co.uk/incoming/article26859846.ece/ALTERNATES/s615/0_FILE-PHOTO-Tesla-CEO-Elon-Musk-reveals-the-Tesla-Energy-Powerwall-Home-Battery-during-an-event-in-H.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543.amp",
-      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543.amp",
-      "publishedDateTime": "2022-05-03T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Star",
-        "domain": "dailystar.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-known_ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th.md",
-      "title": "Known_Ai Film Festival First to Offer All-Artificial Intelligence-Enhanced Film Slate May 6th",
-      "excerpt": "LONDON, May 3, 2022 /PRNewswire/ -- The Metaverse – Ai Cinematics, a producer of artificial intelligence (Ai) assisted films and theatrical shorts, has created the World's first Ai-specific film ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/known_ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th-1031413493",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/known_ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th-1031413493",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1809265/Kevin_Page.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-powered-proven-skincare-launches-worlds-first-personalized-eye-cream-duo.md",
-      "title": "AI-Powered PROVEN Skincare Launches World’s First Personalized Eye Cream Duo",
-      "excerpt": "PROVEN Skincare, the AI-powered, technology-first skincare brand, today announced the launch of the world’s first personalized Eye Cream Duo. The Duo is formulated with potent ingredients that target multiple skin concerns at once while nourishing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-be960773442b4f6982b56a85dc591b6a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-be960773442b4f6982b56a85dc591b6a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-14-steps-for-getting-started-with-data-driven-market-segmentation.md",
-      "title": "14 Steps For Getting Started With Data-Driven Market Segmentation",
-      "excerpt": "Shane Paladin, Siteimprove 2. Identify Trends Using AutoML AutoML capabilities help identify trends in data, allowing segmentation to be recognized automatically by intelligent decision support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62702e786a33e85a57a3642e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/amp/",
-      "publishedDateTime": "2022-05-03T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-the-rise-of-artificial-intelligence-will-robots-actually-replace-people.md",
-      "title": "The Rise Of Artificial Intelligence: Will Robots Actually Replace People?",
-      "excerpt": "Robots and artificial intelligence (AI) are expected to permeate our daily lives by 2025. This could have huge implications on several business sectors, most notably health care, customer service, and logistics. Already, AI is responsible for medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
-      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5e432e1ba854780006b10cf4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
-      "publishedDateTime": "2022-05-03T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

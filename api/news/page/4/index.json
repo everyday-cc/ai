@@ -2,6 +2,342 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-03-building-the-future-of-ai-powered-retail-starts-with-trust.md",
+      "title": "Building The Future Of AI-Powered Retail Starts With Trust",
+      "excerpt": "This must give you a unique vantage point on data-centric AI, per your recent blog ... At the outset, I always start with the question: do we need machine learning at all to solve this problem, or is there an easier way to fix it that we should implement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62704c8d931d4d3a63b1ef88/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
+      "publishedDateTime": "2022-05-03T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-soundcloud-acquires-musiio-an-ai-music-curator-to-improve-discovery.md",
+      "title": "SoundCloud acquires Musiio, an AI music curator, to improve discovery",
+      "excerpt": "An online audio sharing platform and streamer, SoundCloud has acquired Musiio, an AI music curation company. With Musiio’s team and technology, SoundCloud plans to strengthen its music discovery ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
+      "originalUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
+      "publishedDateTime": "2022-05-03T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-elon-musk-boasts-teslas-optimus-robots-will-have-full-artificial-intelligence.md",
+      "title": "Elon Musk boasts Tesla's 'Optimus' robots will have full artificial intelligence",
+      "excerpt": "But according to Tesla boss Elon Musk, his humanoid robot, Optimus, is coming soon – and it might also contain the first true Artificial Intelligence. “Tesla AI might play a role in AGI,” the multi-billionaire tweeted, “given that it trains against ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543",
+      "originalUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dailystar.co.uk/incoming/article26859846.ece/ALTERNATES/s615/0_FILE-PHOTO-Tesla-CEO-Elon-Musk-reveals-the-Tesla-Energy-Powerwall-Home-Battery-during-an-event-in-H.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543.amp",
+      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/news/latest-news/elon-musk-says-teslas-optimus-26859543.amp",
+      "publishedDateTime": "2022-05-03T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Star",
+        "domain": "dailystar.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-ai-powered-proven-skincare-launches-worlds-first-personalized-eye-cream-duo.md",
+      "title": "AI-Powered PROVEN Skincare Launches World’s First Personalized Eye Cream Duo",
+      "excerpt": "PROVEN Skincare, the AI-powered, technology-first skincare brand, today announced the launch of the world’s first personalized Eye Cream Duo. The Duo is formulated with potent ingredients that target multiple skin concerns at once while nourishing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-be960773442b4f6982b56a85dc591b6a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-be960773442b4f6982b56a85dc591b6a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-known_ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th.md",
+      "title": "Known_Ai Film Festival First to Offer All-Artificial Intelligence-Enhanced Film Slate May 6th",
+      "excerpt": "Ai Cinematics, a producer of artificial intelligence (Ai) assisted films, has created the World's first Ai-specific film Festival Director and Ai Cinematics CEO, Kevin Page is an NFT artist, curator and founder of the AI NFT Consortium, a regular Twitter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/known-ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th/article_f895ee36-839b-5f24-8c78-d05dbcfcf386.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e6/de656e1a-d5ad-5194-afed-dc1fd48b2aca/627120f525d65.image.jpg?crop=1888%2C991%2C0%2C40&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-14-steps-for-getting-started-with-data-driven-market-segmentation.md",
+      "title": "14 Steps For Getting Started With Data-Driven Market Segmentation",
+      "excerpt": "Shane Paladin, Siteimprove 2. Identify Trends Using AutoML AutoML capabilities help identify trends in data, allowing segmentation to be recognized automatically by intelligent decision support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62702e786a33e85a57a3642e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/amp/",
+      "publishedDateTime": "2022-05-03T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-the-rise-of-artificial-intelligence-will-robots-actually-replace-people.md",
+      "title": "The Rise Of Artificial Intelligence: Will Robots Actually Replace People?",
+      "excerpt": "Robots and artificial intelligence (AI) are expected to permeate our daily lives by 2025. This could have huge implications on several business sectors, most notably health care, customer service, and logistics. Already, AI is responsible for medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
+      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e432e1ba854780006b10cf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
+      "publishedDateTime": "2022-05-03T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-ai-and-the-metaverse-2-big-reasons-to-buy-meta-platforms-stock.md",
       "title": "AI and the Metaverse: 2 Big Reasons to Buy Meta Platforms Stock",
       "excerpt": "Short-form video is the vessel TikTok and Reels use to deliver content, but artificial intelligence (AI) sits in the background curating the entire experience. Social media has become less social -- people open TikTok and rely on the app to know what they ...",
@@ -148,6 +484,57 @@
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-startups-apply-artificial-intelligence-to-supply-chain-disruptions.md",
+      "title": "Startups apply artificial intelligence to supply chain disruptions",
+      "excerpt": "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/",
+      "originalUrl": "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -376,49 +763,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-startups-apply-artificial-intelligence-to-supply-chain-disruptions.md",
-      "title": "Startups Apply Artificial Intelligence to Supply Chain Disruptions",
-      "excerpt": "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinelink.com/news/startups-apply-artificial-intelligence-496221",
-      "originalUrl": "https://www.marinelink.com/news/startups-apply-artificial-intelligence-496221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinelink.com/images/maritime/w800h600pad/hor-adobe-stock-131754.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinelink.com/amp/news/startups-apply-artificial-intelligence-496221",
-      "cdnAmpWebUrl": "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/startups-apply-artificial-intelligence-496221",
-      "publishedDateTime": "2022-05-02T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marine Link",
-        "domain": "marinelink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -857,342 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-developer-experience-doesnt-have-to-stop-at-the-front-end.md",
-      "title": "Developer experience doesn’t have to stop at the front end",
-      "excerpt": "While learning to build machine learning models, he saw data scientists spending ... Developers can then deploy to AWS, Azure, or Google Cloud. The project was founded in 2021 by ex-Spotify engineers André Eriksson, Marcus Kohlberg, and Horia Jurcu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html",
-      "originalUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/ladder_escape-100714285-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658110/developer-experience-doesnt-have-to-stop-at-the-front-end.amp.html",
-      "publishedDateTime": "2022-05-02T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-advice-for-deploying-ai-in-production-environments.md",
-      "title": "Advice for deploying AI in production environments",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/",
-      "originalUrl": "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/advice-for-deploying-ai-in-production-environments/amp/",
-      "publishedDateTime": "2022-05-02T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers.md",
-      "title": "MIT used autonomous knitting to create these soft robotic banana fingers",
-      "excerpt": "The glove is effectively a kind of soft robotic. Its uses pneumatic actuation (air power, if you will) to serve as an assistive wearable. If you, say, have an issue with muscle control ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/",
-      "originalUrl": "https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Itt8bTHXvYs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/02/mit-used-autonomous-knitting-to-create-these-soft-robotic-banana-fingers/amp/",
-      "publishedDateTime": "2022-05-02T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-google-fires-another-ai-researcher-for-questioning-findings.md",
-      "title": "Google Fires Another AI Researcher For Questioning Findings",
-      "excerpt": "Google fired an AI researcher who called into question a well-known paper ... a Google research paper about the use of artificial intelligence to make computer chips, according to The New York Times. The research paper, which was published in Nature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings/",
-      "originalUrl": "https://www.cnet.com/tech/google-fires-another-ai-researcher-for-questioning-findings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/6f9f38ebe51de141ba324517208291b9c98e6e51/2022/05/02/b1c01638-c17e-462e-80eb-3428354a9ae9/gettyimages-1233383030.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-fires-another-ai-researcher-for-questioning-findings/",
-      "publishedDateTime": "2022-05-02T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-how-fintech-can-help-you-manage-your-personal-finances.md",
-      "title": "How Fintech Can Help You Manage Your Personal Finances",
-      "excerpt": "Since implementing this technology, Visa says its fraud rates have fallen to 0.1%, thanks to the AI’s ability to monitor 500 unique risk factors. Fintech apps like PayPal and CashApp also let you send money securely through heavily encrypted transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances",
-      "originalUrl": "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-fintech-can-help-you-manage-your-personal-finances?amp",
-      "publishedDateTime": "2022-05-02T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-6-must-see-indie-games-we-saw-at-pax-east-2022.md",
-      "title": "6 must-see indie games we saw at PAX East 2022",
-      "excerpt": "In combat, for instance, players can call on their manager to apply a buff or debuff, and players have to mind a hype meter ... is that players pretty much control two characters instead of just one. The first is a giant robot armed with a sword that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/",
-      "originalUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cult-of-the-lamb-featured.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/gaming/missed-games-pax-east-2022/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/missed-games-pax-east-2022/?amp",
-      "publishedDateTime": "2022-05-02T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-bell-announces-the-first-aws-wavelength-zone-in-canada.md",
-      "title": "Bell announces the first AWS Wavelength Zone in Canada",
-      "excerpt": "with AWS Wavelength embeds AWS compute and storage services at the edge of the Bell 5G network. The service targets 5G applications including visual data processing, AR/VR, artificial intelligence, and robotics, in industries such as manufacturing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/bell-announces-the-first-aws-wavelength-zone-in-canada/121584",
-      "originalUrl": "https://www.itbusiness.ca/news/bell-announces-the-first-aws-wavelength-zone-in-canada/121584",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/05/GettyImages-875496596.jpeg",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/bell-announces-the-first-aws-wavelength-zone-in-canada/121584?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/bell-announces-the-first-aws-wavelength-zone-in-canada/121584?amp=1",
-      "publishedDateTime": "2022-05-02T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

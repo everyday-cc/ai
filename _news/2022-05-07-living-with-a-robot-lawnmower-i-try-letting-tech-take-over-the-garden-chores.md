@@ -20,13 +20,13 @@ topics:
 
 related:
   - title: "I trust a robot lawnmower to take over my garden chores"
-    excerpt: "My lawn isn't very big, but by the time I've lugged the mower out of the shed, unwound the cable, walked said cable all the way to the plug socket, and then set off on my first stripe, I just want to sit back with a beer and soak up the sunshine."
+    excerpt: "Connecting the mower to my WiFi, through the Worx app, was dead easy, and I had the option of setting a schedule, or measuring my lawn using a trick AI system within the app ... wait for its scheduled start time and watch it whiz around the lawn."
     publishedDateTime: 2022-05-09T08:13:00Z
-    webUrl: "https://www.derbytelegraph.co.uk/whats-on/reviews/worx-landroid-m500-plus-review-7013115"
+    webUrl: "https://www.nottinghampost.com/whats-on/reviews/worx-landroid-m500-plus-review-7013115"
     type: article
     provider:
-      name: Derby Telegraph
-      domain: derbytelegraph.co.uk
+      name: Nottingham Post
+      domain: nottinghampost.com
     quality: 39
     images:
       - url: "https://i2-prod.essexlive.news/incoming/article7013174.ece/ALTERNATES/s1200/0_landroidplus1891822630_result.jpg"

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -148,6 +148,41 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
+      "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
+      "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -506,10 +541,10 @@
     {
       "path": "_news/2022-04-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel.md",
       "title": "BigBear.ai Appoints AI and Data Ethics Veteran Carolyn Blankenship as General Counsel",
-      "excerpt": "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has appointed Carolyn Blankenship as General Counsel. In this role, Blankenship will develop and lead corporate legal strategy supporting BigBear.",
+      "excerpt": "Blankenship brings decades of experience in artificial intelligence, data ethics, intellectual property, litigation, risk management, and M&A to BigBear.ai. BigBear.ai (NYSE: BBAI",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-bigbearai-appoints-ai-data-ethics-veteran-carolyn-blankenship-/2022/04/26/9589451.htm",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-26-bigbearai-appoints-ai-and-data-ethics-veteran-carolyn-blankenship-as-general-counsel",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -519,11 +554,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T05:18:00-07:00",
+      "publishedDateTime": "2022-04-26T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1404,51 +1439,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people.md",
-      "title": "If You Want to Succeed With Artificial Intelligence in Marketing, Invest in People",
-      "excerpt": "While AI offers benefits, optimizing automation is only half the job. Marketing won’t deliver on AI’s promise unless the human side of the equation is given equal attention. Because business value increasingly depends on human factors including agility,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/014241e84a4e44bd907eb47e9b299287.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/",
-      "publishedDateTime": "2022-04-14T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],

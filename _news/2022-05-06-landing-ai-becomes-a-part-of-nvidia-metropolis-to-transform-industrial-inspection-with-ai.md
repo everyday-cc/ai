@@ -43,20 +43,18 @@ related:
         height: 630
         isCached: true
   - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-    excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial ..."
-    publishedDateTime: 2022-05-05T21:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27037942/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27037942"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27037942"
+    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has joined NVIDIA Metropolis, a program designed to nurture and bring to market a new generation of applications and solutions that make the world's most important spaces and operations safer and more efficient with advancements in AI vision."
+    publishedDateTime: 2022-05-05T21:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai-1031428048"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+        width: 400
+        height: 205
         isCached: true
 
 secured: "MCA/4BQoAldJjmtq1NmrlPcLyGJzTf1Tiqd1fZzYN97NfpOu/LsSrqvPteOq2yvdH7fAkqoHBq65vQLv+wlPzk7TJtGMdTiKt9+kgYHSea9Py5kP6eL42QBYV8HhGh58XBbGZCCBgMjZC+ueFMFjgDgyfbqyByUzOaPZIQRvUtUethVfO9AZKSq4uvvt08IcKMxTStSZ1Je4VSZXui00k1Tf4jM2uYBVKfCoWxY3gKu6rwTg6G5jkcu6TtAFHOkIzg/qHqdJqu6F88e7YQoeDC4kj93Vk7UO0/mTLWw0NeKly5uxDF8wbmlmfPqaeqn9JemJHCq6ZHJaB9c7pHVXq4mNWxJUg7ltWc0Qt/u572/fjUHgpw0fckcPwF/dKkxokP7vzyKuP/a28Y/4nb71prKS5jbW0snR3izGSlUC7xFWbweBoJEownfAyJLhZfERpdG/tdMtjalMf/9zhhz7x4WQi4ND9YRUXyxmXZhbkLnoRW5J9tEIPLlDe9OXlb4lUfwwIlT/pQljfMKT1xvrZw==;wymJEzWn314jKzovfivICw=="

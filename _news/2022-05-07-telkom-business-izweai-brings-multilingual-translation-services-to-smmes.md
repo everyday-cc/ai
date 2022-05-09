@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Telkom Business offers AI speech-to-text service"
+    excerpt: "In a multilingual country such as South Africa, companies must be able to communicate their offerings in multiple languages. Through the izwe.ai translation component, companies can expand their reach beyond English-speaking consumers, notes Telkom Business."
+    publishedDateTime: 2022-05-09T10:24:00Z
+    webUrl: "https://www.itweb.co.za/content/KzQenqjyJexMZd2r"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenqjyJexMZd2r"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenqjyJexMZd2r"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/U0te2aFHX35D0FUTEkCEiIKfb_7oqvI6SVq3ARfaCEMOqd54lylLm41ElwlGGss1dlmT4y7PPrB5WX6VZFnlklUPnxhBCFcV29omXA=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Telkom Business’ izwe.ai Brings Multilingual Translation Services to SMMEs"
     excerpt: "In a multilingual country such as South Africa, businesses must be able to communicate their offerings in multiple languages. Through the izwe.ai translation component, businesses can expand their reach beyond English-speaking consumers. Steffen says that ..."
     publishedDateTime: 2022-05-06T11:51:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-
 cdnAmpWebUrl: "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Leadership
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022"
-    excerpt: "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ..."
-    publishedDateTime: 2022-05-05T12:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075"
+  - title: "AI 50 2022: North America’s Top AI Companies Shaping The Future"
+    excerpt: "This year’s inductees reflect the booming VC interest as well as the growing variability in AI-focused startups making unique uses of existing technologies, others developing their own and many simply enabling other companies to add AI to their business model."
+    publishedDateTime: 2022-05-09T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62758aa52a077e0e6a66609a/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200"
+        width: 1200
+        height: 674
         isCached: true
 
 secured: "JhwW+W12iOuiNyH4t2lC0LEZfNbQdRfLfw4BUVKDgrFKvCUdKxdw6qoEYVM92Y7bOeIWoXCb7hnMO2eni+pDYepCyey7xrY1ZnZJeJZMXLcfrqFYfCZgEywRFo6LNdJSPu5Fi5dF1z2LbQlX27Ff2O7rhEY1sSiRl4qm8w1snBmNXTotLb/PLSW+4tRTIRCGRy6N7Tco5fvC49JJmzPm9w0oWtsF0xnC+55wAPPiYaziqM5inJUg03Weyo3ifx88tT8HvYsJokL8C93mAbVAf7IXzJegz7jpfn81QYMXlVuWeDWn6E9gyMMjS1c2BrLLcLz0c+VsKUVqnuL4+eV+qliVGt71iTCbqxFota5HqlxVmVxTP6e+/VPmffUynx3Nz3REIy2xx+30CrM2GJfj0ATevJjaeE7btIEf81GajVXpBj8BW3IwCnSSXmpLO4NErQkvxpP0OHTNnw33kmRvG8jBkZOhEuEkW1LjwKUoG1WY0r0hk5LQZfmzdjsefRcIbiqOm2LlL/TIeivMb6WO4Q==;4yLzZKsf17H2pxT+HCFAZA=="

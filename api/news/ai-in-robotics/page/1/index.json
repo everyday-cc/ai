@@ -97,49 +97,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-05-robot-chefs-are-for-real-with-tasting-skills.md",
-      "title": "Robot chefs are for real with tasting skills",
-      "excerpt": "Likewise, IBM Research had been developing Hypertaste —an AI-assisted tongue mimicking the way ... in India since Indians love to eat fresh food. But robot chefs are not cheap—domestic variants start at ₹50,000, and commercial models can cost up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/aipowered-robot-chefs-now-chew-on-food-to-hone-tasting-skills-11651690283642.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/aipowered-robot-chefs-now-chew-on-food-to-hone-tasting-skills-11651690283642.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/05/04/600x338/robot_1651690580942_1651690587223.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/aipowered-robot-chefs-now-chew-on-food-to-hone-tasting-skills/amp-11651690283642.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/aipowered-robot-chefs-now-chew-on-food-to-hone-tasting-skills/amp-11651690283642.html",
-      "publishedDateTime": "2022-05-04T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-04-experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics.md",
       "title": "Experiencing NVIDIA Jetson AGX Orin: The Fascinating Future Of AI-Empowered Robotics",
       "excerpt": "As you can see, NVIDIA’s Riva AI speech recognition engine has no problem keeping ... Various configurations of Jetson AGX Orin production modules above will start shipping in July, with lower cost Jetson Orin NX modules shipping in September.",
@@ -853,17 +810,17 @@
       "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
       "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ...",
       "sourceUrl": null,
-      "webUrl": "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
-      "originalUrl": "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
+      "webUrl": "https://fox59.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
+      "originalUrl": "https://fox59.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/05/400x225-Miranda-Lambert-and-Little-Big-Town.jpg?w=2000&#038;ssl=1",
+          "url": "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg",
           "width": 400,
-          "height": 225,
+          "height": 215,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -873,11 +830,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T05:41:00-07:00",
+      "publishedDateTime": "2022-04-29T05:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox2Now St. Louis",
-        "domain": "fox2now.com",
+        "name": "FOX59 News",
+        "domain": "fox59.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -990,6 +947,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
+      "title": "Pittsburgh welcomes Plus One Robotics",
+      "excerpt": "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
+      "originalUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-procreating-robots-the-next-big-thing-in-cognitive-automation.md",
       "title": "Procreating Robots: The Next Big Thing In Cognitive Automation?",
       "excerpt": "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence.",
@@ -1039,50 +1040,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
-      "title": "Pittsburgh Welcomes Plus One Robotics",
-      "excerpt": "The company, which uses artificial intelligence and 3D vision to automate robots in ... Locomation, Motional, and Waymo. Last week at the Pittsburgh Robotics Network’s ‘State of Our Autonomous Vehicle Industry,’ event, the organization released ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/april-2022/pittsburgh-welcomes-plus-one-robotics? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/7f9858e2-29b5-4882-b875-2f75df2ece24/Robotics-news-April-28-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1387,6 +1344,58 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-jack-in-the-box-rolls-out-robots-to-flip-burgers-and-serve-drinks.md",
+      "title": "Jack in the Box Rolls Out Robots to Flip Burgers and Serve Drinks",
+      "excerpt": "Jack in Box, for one, has harnessed the power of tech, partnering with Miso Robotics to introduce robots to one of its San Diego restaurants.  Relying on a combination of artificial intelligence, machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/425734",
+      "originalUrl": "https://www.entrepreneur.com/article/425734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1650985396-GettyImages-1289092918.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

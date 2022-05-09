@@ -1,18 +1,18 @@
 ---
 category: news
 title: "I trust a robot lawnmower to take over my garden chores"
-excerpt: "My lawn isn't very big, but by the time I've lugged the mower out of the shed, unwound the cable, walked said cable all the way to the plug socket, and then set off on my first stripe, I just want to sit back with a beer and soak up the sunshine."
+excerpt: "Connecting the mower to my WiFi, through the Worx app, was dead easy, and I had the option of setting a schedule, or measuring my lawn using a trick AI system within the app ... wait for its scheduled start time and watch it whiz around the lawn."
 publishedDateTime: 2022-05-09T08:13:00Z
-originalUrl: "https://www.derbytelegraph.co.uk/whats-on/reviews/worx-landroid-m500-plus-review-7013115"
-webUrl: "https://www.derbytelegraph.co.uk/whats-on/reviews/worx-landroid-m500-plus-review-7013115"
+originalUrl: "https://www.nottinghampost.com/whats-on/reviews/worx-landroid-m500-plus-review-7013115"
+webUrl: "https://www.nottinghampost.com/whats-on/reviews/worx-landroid-m500-plus-review-7013115"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Derby Telegraph
-  domain: derbytelegraph.co.uk
+  name: Nottingham Post
+  domain: nottinghampost.com
 
 topics:
   - AI in Robotics
@@ -35,6 +35,6 @@ related:
       domain: coventrytelegraph.net
     quality: 16
 
-secured: "3kb0nxuDZB33sr5MnN+TNLPC7Rg7gZ11OvFKGxNvaAo2Shi9//P4X9SjfCFUr3T6D/oMYtUi6AzocpJ1m8pimhGXUb3qhMfNmQ+Iuc+pNA0tzZI9WEHRMt3Lo17YSkJn1tsWLIK2rKM/+IbI2TtKOeC8Qfg93BhnB1AwnQzj5IxwZXCGyrY8q9w6/A+gLFs52bx9B0IcMJ8UOBNoGUVf9Qvbz4BUMhVSCU+FBcuD3Q5tDzQfnEsYHW2PVlgjSZX+hQ3Ce7DMo29SaDwl2uqtTRQBanMgP8vThmoXvo2n0ENmt1dVs3+91d17WdUCAFJngxhTVx8mYYYzUWa250Lq3s1mtj644Q5qMHwYUT1TynQ=;qt2iC2gg89okjLkY1UYlQg=="
+secured: "Rk8hGdMGvn+kaz/YAmVBn/R7BDDPmQTL1RbKE6e5ba3N6rExHLNYmqH8mRAyeipMlwKM7nkDmcp9ZNZtckkZUDpMrG/VYFVMidLT+qF3FBhSJsY1ywNsuXmRnztNno4GiuUdUkmwCkzZt11uxGWn0KtAuIjBKUolMBsNxdURGAd2IePGh5DK7B9K/4qffLTtK9TjEKxII0Ri/EPD9Wbn9bnJTdgUQidXCxJnD0wrR8d5W/ESvnXyjkirmzsaR0cFIeM1+mDqp/Yruxv9JflWNqQ9qEI2Un+KUA9va1+b9hDgDSH+zpK1skR4MDRP7wl97IP1tnMyx+1+CSfoGr2R5pR9cIr5/D8t6G4b+w9gP9g=;H6zznU0m0tCVzn5cjoLKhg=="
 ---
 

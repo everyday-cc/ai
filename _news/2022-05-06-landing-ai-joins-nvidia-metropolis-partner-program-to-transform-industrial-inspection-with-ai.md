@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial ..."
-publishedDateTime: 2022-05-05T21:44:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27037942/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/n27037942/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/27037942"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27037942"
+excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has joined NVIDIA Metropolis, a program designed to nurture and bring to market a new generation of applications and solutions that make the world's most important spaces and operations safer and more efficient with advancements in AI vision."
+publishedDateTime: 2022-05-05T21:50:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai-1031428048"
+webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai-1031428048"
 type: article
-quality: 46
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+    width: 400
+    height: 205
     isCached: true
 
 related:
@@ -59,6 +61,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ojmvvzqbx+uSWo6Y6ZcmKEQCdDExWZEMJq2mDdfOWdrsGHETcbjofUhbA8FRvGc1BdP7/us2kPsLhikBgNepZaT2MuvA2P+HwFM8LQWQ3UAAjcdBNtfeD/YVxJ2gJvMz3GBVLe/bmPTWPHT7tiE0bXv4r3DOWCCfn3XD1LsBstV7FPL4JbEyOgoM7aX8fX2BQr9dumhMDIBo4oBUi8ZX9YLfkIswUhqZwpEEPVbOc4oznWAusSOfeSpbjhYOZCVZf0q5SQvbrQRDtEUCQVEhxw2eeyxPbjneeT2DilRAnSkVZGZdQhNbtBQs0o6YN8+ypnpz0cgzOOtPEFiDnSRld3EkSldr6AeZqouJdSm0h7k/FRPLM0TbUNOANt1py3Tc7FIWMALNL2jpmUYG01Ta8xY8ulO0NIuXeZlI33qtBSVnJdYmmzBDcTrMFYO+io0FNci3FWqAUwgf1gxuwM6B1ufF3pSggWkA2Echfwi7ydXJzFsX8Mh6t9U/I6eq/WZoV9Zdk1h9LntJw8dD7a+7yg==;5G/4rTXDgF9U4IzLJEY0ig=="
+secured: "IJQJ4ZsXmQR2f9EyrqNbwvpHEicpBpQ/w0UVIS1LzzbF5ZolVCxAHeg9rTT84aopZMZW8JhdsDiG80qH0ImWqybk5YVGceQA+tiFyl0aNXoMCGQjyqkLsOZqhmg3uvjLfxa7UBhjk0UrsVrvOWiELJbcYXkwl3fa8X/Ic3X0sTbyQaZ6MqT5vZSzJsjsisb7AzOG/IzRy/DeOTgZQW39kPL5O2U4b/vNaEcNjFSPRu6jyfp9VZ/CPG9/2HWvhmYQdVR9Mvnidc5mbNZSWEJkxArcBIa8FG4fj2ARIzELI+8p1TZuZelnVG7uHhSQ+j0WEJjp6B/Ypn1qVMukwqjQMZ7fwwng6VGRRoPWD3EJFHk=;DbTC/lmtbsCtTDl5Qlak3w=="
 ---
 

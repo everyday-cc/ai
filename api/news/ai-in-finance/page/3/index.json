@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-04-gupshup-acquires-activeai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies.md",
+      "title": "Gupshup acquires Active.Ai, the Leading Conversational AI Platform for Banks and Fintech Companies",
+      "excerpt": "Acquisition Brings Advanced, AI powered Omnichannel Conversational Engagement Solutions to BFSI Organizations Gupshup, a global leader in conversational engagement, announced today the acquisition",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2022/04/04/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2022/04/04/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/82a342fb-gupshup.jpg",
+          "width": 898,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-03T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-03-datarobots-vision-to-democratize-machine-learning-with-no-code-ai.md",
       "title": "DataRobot’s vision to democratize machine learning with no-code AI",
       "excerpt": "The growing digitization of nearly every aspect of our world and lives has created immense opportunities for the productive application of machine learning and data science. Organizations and ...",
@@ -1281,49 +1324,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-how-web-30-is-transforming-the-financial-services-industry.md",
-      "title": "How Web 3.0 is Transforming the Financial Services Industry?",
-      "excerpt": "Sabrina Akramova , Editor & Content Manager at Financial IT; 17.03.2022 04:45 pm ; #web #internet #web3. How Web 3.0 is Transforming the Financial Services Industry? We live in th",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
-      "originalUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/img_7407_3.jpeg",
-          "width": 3024,
-          "height": 3236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

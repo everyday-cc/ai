@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "DRAFT Startup Spotlight: The challenges and promises of facial recognition technology"
+    excerpt: "“We don’t fundamentally understand how that black box, AI, does what it does,” said Ricanek. “We’re exploring that through this whole realm of explainable AI, and that’s going on ..."
+    publishedDateTime: 2022-05-09T11:22:00Z
+    webUrl: "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/"
+    ampWebUrl: "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 52
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg"
+        width: 1264
+        height: 710
+        isCached: true
   - title: "Legal Aid Society criticizes D.A.’s purchase of facial-recognition technology, says office used federal forfeiture money"
     excerpt: "STATEN ISLAND, N.Y. — District Attorney Michael E. McMahon used controversial federal forfeiture funds to purchase and employ the use of facial recognition technology that has drawn the ire of civil liberties advocates, according to the Legal Aid Society."
     publishedDateTime: 2022-05-04T20:22:00Z

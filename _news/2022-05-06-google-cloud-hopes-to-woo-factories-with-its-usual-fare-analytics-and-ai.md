@@ -27,6 +27,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Key highlights from oneAPI AI Analytics Workshop on Accelerating Python for Data Science & Machine Learning"
+    excerpt: "Intel®, in collaboration with Analytics India Magazine, successfully concluded the oneAPI AI Analytics workshop to accelerate Python for data science and machine learning on April 22, 2022. The workshop saw more than 200 participants."
+    publishedDateTime: 2022-05-09T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/key-highlights-from-oneapi-ai-analytics-workshop-on-accelerating-python-for-data-science-machine-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Intel-One-API-Speakers-Updated.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "ZeroEyes, Inc. AI Gun Detection Software First Video Analytics Technology to be Awarded DT&E SAFETY Act Designation"
     excerpt: "U.S. Department of Homeland Security (DHS) Recognizes ZeroEyes AI Software, DeepZero™, as Promising Antiterrorism Technology and Grants Liability Protections for Customers ZeroEyes weapons detection AI is the first video analytics technology to receive ..."
     publishedDateTime: 2022-05-05T12:28:00Z

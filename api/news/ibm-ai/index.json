@@ -2,95 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-07-top-ai-companies-riding-the-innovation-wave-in-2022.md",
-      "title": "Top AI Companies Riding the Innovation Wave in 2022",
-      "excerpt": "IBM has its proprietary AI engine called Watson. It is used for research and the use of commercial products. The engine offers language processing, AI-based decision-making, and task automation. IBM offers the following AI features: The Watson AI lab ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/",
-      "originalUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.industryleadersmagazine.com/wp-content/uploads/2022/05/Top-AI-Companies.jpg",
-          "width": 1000,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-industryleadersmagazine-com.cdn.ampproject.org/c/s/www.industryleadersmagazine.com/top-ai-companies-riding-the-innovation-wave-in-2022/amp/",
-      "publishedDateTime": "2022-05-07T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Leadership",
-        "domain": "industryleadersmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-blockchain-iot-market-growing-at-a-cagr-451-key-player-ibm-microsoft-intel-amazon-web-services-huawei.md",
-      "title": "Blockchain IoT Market Growing at a CAGR 45.1% | Key Player IBM, Microsoft, Intel, Amazon Web Services, Huawei",
-      "excerpt": "Huawei (China), Cisco (US), SAP (Germany), Ethereum Foundation (Switzerland), The Linux Foundation (US), R3 (US), Arctouch (US), Waltonchain",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27036568/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-h",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27036568/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-h",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27036568",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27036568",
-      "publishedDateTime": "2022-05-05T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-29-ibm-announces-elyra-extension-for-jupyter-notebooks.md",
       "title": "IBM announces Elyra extension for Jupyter Notebooks",
       "excerpt": "Elyra is a set of open-source extensions for AI for Jupyter Notebooks ... IBM has recently added JupyterLab to new releases of IBM Cloud Pak for Data and Watson Studio. “",
@@ -1343,6 +1254,101 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-medical-imaging-powered-by-ibm.md",
+      "title": "Medical Imaging, Powered by IBM",
+      "excerpt": "IBM Watson Health and Merge Healthcare are bringing new insights, made possible through artificial intelligence and cognitive computing, to medical imaging. Radiologists are about to get some help with their imaging workload. IBM Watson Health and Merge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/radiological/medical-imaging-powered-ibm",
+      "originalUrl": "https://www.mddionline.com/radiological/medical-imaging-powered-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-potentially-huge-new-markets-for-developers.md",
+      "title": "Potentially huge new markets for developers",
+      "excerpt": "Early on, IBM saw that healthcare would be an ideal AI application, where much of Watson’s work was initially focused. But the critical need for hospital beds due to the Pandemic has massively ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/potentially-huge-new-markets-for-developers/",
+      "originalUrl": "https://sdtimes.com/softwaredev/potentially-huge-new-markets-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2021/03/away-4610699_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     }
   ],

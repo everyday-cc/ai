@@ -2,6 +2,184 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-06-why-bioxcel-therapeutics-shares-went-up-129-this-week.md",
+      "title": "Why BioXcel Therapeutics Shares Went Up 12.9% This Week",
+      "excerpt": "Shares of BioXcel Therapeutics (NASDAQ: BTAI), a commercial-stage biopharmaceutical company that uses artificial intelligence to develop neuroscience and immuno-oncology therapies, rose 12.9% this week,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-bioxcel-therapeutics-shares-went-up-12.9-this-week",
+      "originalUrl": "https://www.nasdaq.com/articles/why-bioxcel-therapeutics-shares-went-up-12.9-this-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-bioxcel-therapeutics-shares-went-up-12.9-this-week?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-bioxcel-therapeutics-shares-went-up-12.9-this-week?amp",
+      "publishedDateTime": "2022-05-05T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-how-ai-powers-modern-product-lifecycle-management.md",
+      "title": "How AI powers modern product lifecycle management",
+      "excerpt": "With every step of the product development cycle, there are meaningful contributions from AI-powered product insights platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/",
+      "originalUrl": "https://venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/amp/",
+      "publishedDateTime": "2022-05-05T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-using-ai-to-predict-bone-fractures-in-cancer-patients.md",
+      "title": "Using AI to predict bone fractures in cancer patients",
+      "excerpt": "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/bonefracture.jpg",
+          "width": 1440,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp",
+      "publishedDateTime": "2022-05-05T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-daimler-truck-becomes-latest-investor-in-apexai-to-use-its-safety-certified-software.md",
+      "title": "Daimler Truck becomes latest investor in Apex.AI to use its safety-certified software",
+      "excerpt": "Daimler Truck has invested in Apex.AI – a mobility software developer that provides a software development kit (SDK) for OEMs.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/",
+      "originalUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Daimler-Apex-Trucks.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/05/daimler-truck-becomes-latest-investor-in-apex-ai-to-use-its-safety-certified-software/amp/",
+      "publishedDateTime": "2022-05-05T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-unionvilles-music-education-program-receives-national-recognition.md",
       "title": "Unionville’s music education program receives national recognition",
       "excerpt": "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to",
@@ -46,6 +224,59 @@
       ]
     },
     {
+      "path": "_news/2022-05-05-predict-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
+      "title": "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas",
+      "excerpt": "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T09:27:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars.md",
       "title": "AI Ethics Is Especially Vexed By That AI Confinement Problem, Including The Knotty Particulars For Confining Autonomous Self-Driving Cars",
       "excerpt": "The AI Confinement Problem is a vexing issue and one that AI Ethics is pushing mightily to solve. We discuss why this is such a tough challenge, along with showcasing examples via the advent of AI-based self-driving cars.",
@@ -54,7 +285,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -187,6 +418,51 @@
         "AI in Healthcare",
         "Machine Learning",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022.md",
+      "title": "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022",
+      "excerpt": "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
       ]
     },
     {
@@ -347,7 +623,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -431,49 +707,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-robot-chefs-are-for-real-with-tasting-skills.md",
-      "title": "Robot chefs are for real with tasting skills",
-      "excerpt": "Likewise, IBM Research had been developing Hypertaste —an AI-assisted tongue mimicking the way ... in India since Indians love to eat fresh food. But robot chefs are not cheap—domestic variants start at ₹50,000, and commercial models can cost up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/aipowered-robot-chefs-now-chew-on-food-to-hone-tasting-skills-11651690283642.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/aipowered-robot-chefs-now-chew-on-food-to-hone-tasting-skills-11651690283642.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/05/04/600x338/robot_1651690580942_1651690587223.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/aipowered-robot-chefs-now-chew-on-food-to-hone-tasting-skills/amp-11651690283642.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/aipowered-robot-chefs-now-chew-on-food-to-hone-tasting-skills/amp-11651690283642.html",
-      "publishedDateTime": "2022-05-04T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -625,6 +858,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-04-petuum-unveils-enterprise-mlops-platform.md",
+      "title": "Petuum Unveils Enterprise MLOps Platform",
+      "excerpt": "Tong Wen is an Architect and Director of Engineering at Petuum. Tong joined Petuum from Microsoft where he was a member of the founding team of Azure Machine Learning. Tong has 10+ years of experience in building innovative and high-impact AI/ML and HPC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/petuum-unveils-enterprise-mlops-platform/article_d933fdc0-63b6-5d9a-9cfc-4f64e349d06f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/petuum-unveils-enterprise-mlops-platform/article_d933fdc0-63b6-5d9a-9cfc-4f64e349d06f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/62/862a081a-7c33-5583-b4ca-3f0224dc27b8/60c0d448eb251.image.jpg?crop=1404%2C737%2C648%2C0&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-soundcloud-buys-ai-that-claims-to-predict-hit-songs.md",
       "title": "SoundCloud buys AI that claims to predict hit songs",
       "excerpt": "Though a far cry from the smoky clubs and A&R legends of old, AI is becoming an increasingly critical part of finding up-and-coming artists. Music distribution platform Tunecore announced in February that it is partnering with LA-based music startup Fwaygo ...",
@@ -672,6 +948,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi.md",
+      "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION “META-aivi”",
+      "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and enhance ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -726,49 +1045,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi.md",
-      "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\"",
-      "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rochesterfirst.com/business/press-releases/cision/20220504HK28756/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/",
-      "originalUrl": "https://www.rochesterfirst.com/business/press-releases/cision/20220504HK28756/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1799549/META_aivi_empowers_frontline_workers_wearable_AI_solutions.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WROC-TV",
-        "domain": "rochesterfirst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -918,290 +1194,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-peergfs-adds-aiml-anomaly-detection-to-distributed-file-system-product.md",
-      "title": "PeerGFS adds AI/ML anomaly detection to distributed file system product",
-      "excerpt": "PeerGFS will also handle file sharing wherever an instance of Windows file system is running, including instances in the AWS, Azure and Google clouds ... including via AI/ML. It already has malicious event detection (MED), which includes use of “bait ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
-      "originalUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/File-share-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252516669/PeerGFS-adds-AI-ML-anomaly-detection-to-distributed-file-system?amp=1",
-      "publishedDateTime": "2022-05-04T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting.md",
-      "title": "Traversing The Great Uncertainty With AI And Intelligent Forecasting",
-      "excerpt": "AI can provide an agile way to sort through these extensive logs of data to quantify unique sets of market drivers for any given business. Out of thousands—maybe millions—of external market signals, AI can help business leaders identify the top ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62711214c63fd2377df98d3a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/traversing-the-great-uncertainty-with-ai-and-intelligent-forecasting/amp/",
-      "publishedDateTime": "2022-05-04T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-toyota-puts-invisible-ai-eyes-in-north-american-factories.md",
-      "title": "Toyota Puts Invisible AI Eyes In North American Factories",
-      "excerpt": "Toyota Indiana assembly plant in Princeton, Ind. will be the first installation of the Invisible AI ... [+] system to boost quality, safety and productivity. The automaker and Austin, Texas-based startup said Wednesday Invisible AI's computer vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62715de69d18651793490729/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/05/04/toyota-puts-invisible-ai-eyes-in-north-american-factories/amp/",
-      "publishedDateTime": "2022-05-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-why-focusing-on-user-centricity-in-ai-is-the-best-move.md",
-      "title": "Why Focusing On User-Centricity In AI Is The Best Move",
-      "excerpt": "If you establish a process of evaluating meaningful insights that work within your organization's context, what can start as surprising consumer sentiments can quickly become opportunities to leverage AI for scalable interventions and results. It's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee37b6f7aa2f00006297975/0x0.jpg?format=jpg&crop=7500,4218,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/amp/",
-      "publishedDateTime": "2022-05-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology.md",
-      "title": "VW Group To Rely On Qualcomm Chips For Its Self-Driving Technology",
-      "excerpt": "All VW Group brands will use this chip starting in 2026 in a deal that runs through to ... Instead, it is also working alongside Argo AI and has already partnered with the company to develop an all-autonomous version of the electric ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
-      "originalUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/05/VW-ID.-Buzz-2a-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
-      "publishedDateTime": "2022-05-04T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-stop-worrying-about-ai-bias-all-the-time-says-deloittes-ai-ethics-lead.md",
-      "title": "Stop worrying about AI bias all the time, says Deloitte’s AI ethics lead",
-      "excerpt": "AI that discriminates against people is a big problem, but Beena Ammanath, executive director of the Global Deloitte AI Institute and head of Trustworthy AI and Ethical Tech, says AI ethics is about a lot more than bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
-      "originalUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/beena-ammanath-executive-director-of-the-global-deloitte-ai-institute-and-head-of-trustworthy-ai-and-ethical-tech.png?id=29755735&width=1500&coordinates=346%2C0%2C334%2C0&height=2000",
-          "width": 1500,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
-      "publishedDateTime": "2022-05-04T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

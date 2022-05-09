@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy and manage machine learning pipelines with Terraform using Amazon SageMaker"
-    excerpt: "AWS customers are relying on Infrastructure as Code (IaC) to design, develop, and manage their cloud infrastructure. IaC ensures that customer infrastructure and services are consistent, scalable, and reproducible, while being able to follow best practices in the area of development operations (DevOps)."
-    publishedDateTime: 2022-05-04T17:39:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-and-manage-machine-learning-pipelines-with-terraform-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/27/ML4359-architecture-diagram-1.png"
-        width: 1002
-        height: 547
-        isCached: true
   - title: "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas"
     excerpt: "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and"
     publishedDateTime: 2022-05-05T16:27:05Z

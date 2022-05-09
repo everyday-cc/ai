@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-09-telkom-business-offers-ai-speech-to-text-service.md",
+      "title": "Telkom Business offers AI speech-to-text service",
+      "excerpt": "In a multilingual country such as South Africa, companies must be able to communicate their offerings in multiple languages. Through the izwe.ai translation component, companies can expand their reach beyond English-speaking consumers, notes Telkom Business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KzQenqjyJexMZd2r",
+      "originalUrl": "https://www.itweb.co.za/content/KzQenqjyJexMZd2r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/U0te2aFHX35D0FUTEkCEiIKfb_7oqvI6SVq3ARfaCEMOqd54lylLm41ElwlGGss1dlmT4y7PPrB5WX6VZFnlklUPnxhBCFcV29omXA=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenqjyJexMZd2r",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenqjyJexMZd2r",
+      "publishedDateTime": "2022-05-09T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-08-what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era.md",
       "title": "What voice tech can teach us about brand innovation in the Web3 era",
       "excerpt": "The rise of voice tech to mainstream prominence provides lessons for brands when considering the augmented worlds of the future.",
@@ -1308,50 +1351,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-the-power-of-natural-language-processing.md",
-      "title": "The Power of Natural Language Processing",
-      "excerpt": "Until recently, the conventional wisdom was that while AI was better than humans at data-driven decision making tasks, it was still inferior to humans for cognitive and creative ones. But in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
-      "originalUrl": "https://hbr.org/2022/04/the-power-of-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2022/04/Apr22_19_722235443.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

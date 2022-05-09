@@ -26,17 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Voice And Speech Recognition Market Is likely to register double digit CAGR during 2022 – 2030"
-    excerpt: "Polaris Market Research has come up with a new extensive report titled Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component (Hardware, Software, Services); By Interface (AI-Based, Non-AI Based); By End-User ..."
-    publishedDateTime: 2022-05-06T10:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-and-speech-recognition-market-is-likely-to-register-double-digit-cagr-during-2022-2030"
+  - title: "Self-driving Car Market Estimated to Expand at a Robust CAGR over 2019 – 2030"
+    excerpt: "Self-driving Cars – The Elevated Future of Mobility The race for a completely self-driving car is underway with increased ongoing testing and prototyping"
+    publishedDateTime: 2022-05-09T11:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-estimated-to-expand-at-a-robust-cagr-over-2019-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 27
+    quality: 21
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
         width: 600
         height: 337
         isCached: true
