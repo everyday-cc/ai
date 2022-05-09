@@ -9,7 +9,7 @@ ampWebUrl: "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-de
 cdnAmpWebUrl: "https://www-capitalfm-co-ke.cdn.ampproject.org/c/s/www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 693
     isCached: true
-
-related:
-  - title: "India, Germany agree to work together with focus on AI, startups"
-    excerpt: "On April 3, India and Germany agreed to collaborate in the areas of artificial intelligence (AI) startups, AI research, and AI applications in sustainability and health care. During their meeting in Berlin, Minister of Science & Technology, Earth Sciences ..."
-    publishedDateTime: 2022-05-04T05:40:00Z
-    webUrl: "https://www.ibef.org/news/india-germany-agree-to-work-together-with-focus-on-ai-startups"
-    type: article
-    provider:
-      name: IBEF
-      domain: ibef.org
-    quality: 37
-    images:
-      - url: "https://www.ibef.org/assets/images/loginImg.jpg"
-        width: 500
-        height: 665
-        isCached: true
 
 secured: "SYGcVknj8wXU+kYiGf3ThWcd2b4UiyNZ8J1ytzQ8HlQjYm15y3Pva9TjVrlIRE3Z3SUFrGV0TXWghwDPvVZ1eB+gfrCe+CGj3iCmK+C/Gm0XUMWqaXAvGOVtd6UxK2Cd5qGNy1Cum2l1oMzUNj/RYY4rqFq+QiOdRzxB8BMq1G0y+W8UglxAWCcVccxzE6bj2QA8ePfAZK/5RgLF/ulE4wDi8u5ocsozuLSD79RqcTCYxPaCa2+mu+Y1NfRqPc9IOp5S2iqaLcxdEXA8Z6k9rdStdR/9Hov7821scKC1gBprvbjlU/wh1AR8fkPMWQD8/SUFlUY/G7VQMgCNp37Hafz1lLPJV9urU0ictgDz9yE=;1AVXzdnY5cUcrBlEpcAtWQ=="
 ---

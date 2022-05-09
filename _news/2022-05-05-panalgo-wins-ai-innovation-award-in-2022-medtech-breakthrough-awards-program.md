@@ -2,17 +2,17 @@
 category: news
 title: "Panalgo Wins \"AI Innovation Award\" in 2022 MedTech Breakthrough Awards Program"
 excerpt: "Panalgo, a market-leading healthcare analytics company, today announced that its IHD Data Science module has been selected as the winner of the \"AI Innovation Award\" in the 2022 MedTech Breakthrough Awards program."
-publishedDateTime: 2022-05-05T15:30:00Z
-originalUrl: "https://www.koin.com/business/press-releases/cision/20220505NE43139/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program/"
-webUrl: "https://www.koin.com/business/press-releases/cision/20220505NE43139/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program/"
+publishedDateTime: 2022-05-05T12:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-panalgo-wins-ai-innovation-award-2022-medtech-breakthrough-/2022/05/05/9596452.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-panalgo-wins-ai-innovation-award-2022-medtech-breakthrough-/2022/05/05/9596452.htm"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: KOIN 6
-  domain: koin.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -57,6 +57,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "ZRScSLXnyAOjvRqgWv0Nvzb8gyPH+bQ6fg7eaKg0IdSgIOlZNTmBPLL28CYq2cUNyb3m1gYepRQ+s3lYbb7e/MXoy+0P5qXMzEq70wyPBocCDpuiIeGJ1NScYA/ODHP4viWhonXdJuRQAI2LAeAqfRKIE8r65mKXgB4uFHEi6KuRqhLV/S6La86SYjgOhSeRCVPuipY/x1ZVuPaSVDnpWxsmHPWb8LgiEm1LsZBCUaypOo2mKTKNnbs+ug9SKdtyS5eyjhvTswh9Ny3xfocvGaaIyOE275foiRvUBUd+TeVQUIet4Bu6/aQc4BSsIAuChyp/JY7NjJpPgrKfVqrQSAWv4/6NTiW4JhHRXXPAPD78NV2/9+CFUVAwqL5LZqjCsemz25iwdI4Zlwb2Vk75ryRweCtqO5vmiC0nbRb16s3Ja0GW1wyBLWdYYoip/OmmIZg0LqsL9y/Xvyfef7VvjbAxOZTB9qLZejQ5gAui7a87DADwZvJxQU94ZLSKLEfjePHcQ8SX5i22a9R3PmjhDQ==;QGvvXMSr4Ls0+c268VcpPQ=="
+secured: "QSuDoGEPkqYQAAG444zji/ZTcISX7+gZOvXDsV6mX5OYDa1tq85XRzwdqzoH2eixpAWISCpV6e7qzwjGUkTkGS8ZRqTXJTPmpcdxqZrbTnMduC5wE7gmlAbzS7V8y4t9KmvwPwQgjXqRZSC4FwvLKCrGmL8h9jJr3CP1b/k8Uf3nslRMnY9IHTCku+ywf26pJmeZAst+zo+Hc+ZtpocuN2aD5V4IX4qVPgnKQvk0o+vMrhH2o5r2QI6dGkOnkNnKet76xgFq6FmigDKCWNQAoNAHVTwtICtKVZMqcGGgfHSlob4SbkQT79ULagzzfY+89if9QCVxYlcT3B3mukM+IVBASdGWzjkisvO4ASxhdlA=;tjuM2NcQLZkBiF5bhqWapA=="
 ---
 

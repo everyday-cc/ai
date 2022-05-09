@@ -34,12 +34,12 @@ related:
         isCached: true
   - title: "Panalgo Wins \"AI Innovation Award\" in 2022 MedTech Breakthrough Awards Program"
     excerpt: "Panalgo, a market-leading healthcare analytics company, today announced that its IHD Data Science module has been selected as the winner of the \"AI Innovation Award\" in the 2022 MedTech Breakthrough Awards program."
-    publishedDateTime: 2022-05-05T15:30:00Z
-    webUrl: "https://www.koin.com/business/press-releases/cision/20220505NE43139/panalgo-wins-ai-innovation-award-in-2022-medtech-breakthrough-awards-program/"
+    publishedDateTime: 2022-05-05T12:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-panalgo-wins-ai-innovation-award-2022-medtech-breakthrough-/2022/05/05/9596452.htm"
     type: article
     provider:
-      name: KOIN 6
-      domain: koin.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 33
     images:
       - url: "https://mma.prnewswire.com/media/1808942/MedTech_Breakthrough_2022_Panalgo.jpg"

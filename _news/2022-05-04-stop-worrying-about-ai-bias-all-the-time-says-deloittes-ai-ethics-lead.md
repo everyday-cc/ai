@@ -28,19 +28,14 @@ images:
 
 related:
   - title: "Eightfold AI and Deloitte Alliance Accelerates Skills-Based Talent Transformations"
-    excerpt: "Deep talent insights using dynamic, transparent AI to support organizations as they meet their changing workforce needs"
-    publishedDateTime: 2022-05-05T21:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/article_1381ef9e-b9f9-536f-aa4d-5ccb284e4a8c.html"
+    excerpt: "SANTA CLARA, Calif., May 5, 2022 /PRNewswire/ -- Eightfold AI, the leader in AI-powered talent intelligence, today announced an alliance with Deloitte to build a foundation for organizations to ..."
+    publishedDateTime: 2022-05-05T21:02:00Z
+    webUrl: "https://fox59.com/business/press-releases/cision/20220505SF48563/eightfold-ai-and-deloitte-alliance-accelerates-skills-based-talent-transformations/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
+      name: FOX59 News
+      domain: fox59.com
+    quality: 11
 
 secured: "TM5nAxdEQVPLsKCRjdfHtV7yMIVzHkhR0FjSrVtkzBOYoR/kyUHWsYAHl1YCpc/0qdenicdySljYyEW3LTxUeApXAxq6Bm9PCULPJ/4PNt4bYuxUo9gJgRE/stA4YZNH6NFuZpyKwucyWIGSjVRsKln6wgecIDGacXY2qxqvP6UV/2cVoQvX+eE24X+qekGKijg8bMN29aSmrwSsAgSBJmm/29+iElaIXy1tnJhXxn/ujDWFcdslTJeBTdDDBgGYSiK5zz6muP0zNAmXVWBMSBPqHI6rVG0mx6MJjtvXVjIRynollZfWohVm0VXhqKagQwzcmfCCVGbm97kuOXJtjub1/Yk42QgxHlB3wsA57eI=;vNEQBxhDNfqo+fQHYT6ceA=="
 ---

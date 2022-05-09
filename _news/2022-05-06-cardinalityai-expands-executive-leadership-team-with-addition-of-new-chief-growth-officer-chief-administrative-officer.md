@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Cardinality.ai Expands Executive Leadership Team with addition of New Chief Growth Officer & Chief Administrative Officer"
-excerpt: "Peter Allen & Anna Harper join Cardinality executive leadership team to accelerate growth and deliver highest level of customer satisfaction. GAITHERSBURG, Md., May 5, 2022 /PRNew"
-publishedDateTime: 2022-05-05T21:07:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220505DC46673/cardinality-ai-expands-executive-leadership-team-with-addition-of-new-chief-growth-officer-chief-administrative-officer/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220505DC46673/cardinality-ai-expands-executive-leadership-team-with-addition-of-new-chief-growth-officer-chief-administrative-officer/"
+excerpt: "Peter Allen & Anna Harper join Cardinality executive leadership team to accelerate growth and deliver highest level of customer satisfaction"
+publishedDateTime: 2022-05-05T18:07:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cardinality-ai-expands-executive-leadership-team-with-addition-of-new-chief-growth-officer-chief-administrative/article_52104a7a-ae20-5417-b9b2-9d4fa73c3ddf.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cardinality-ai-expands-executive-leadership-team-with-addition-of-new-chief-growth-officer-chief-administrative/article_52104a7a-ae20-5417-b9b2-9d4fa73c3ddf.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
     width: 600
-    height: 207
+    height: 338
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 207
         isCached: true
 
-secured: "BSCvhzK+0+gaM3Rnul6kFvUj5yTEaiBQqISK3ZyjkWKDZZ0jfxx7G8LAu9KY/mUjCQvUXKP3MZoC/6ai3Ax8zlRj9/ZqSUacs936CrlF/Fut9EJ4g4BPgH2OE6/KUs8mzXAKjOtbhRqH9D68PV1KGdCpjYDu8mPXCoBMf9cnZDyt1P5k2O6d28zBvM9kXjf+FDVGQ3oVt8lixQP3f7K5099zW3S7EPKiDD+lA3zlLQCgOnvpfpDnCK9cBo7tUvQF6/Z886PNvmRaObMfpuUKKd1X2lWWgm9okieWqZmH6TkUTaDgQO2gSLgL8EIWE3JbaTzQeiqHJBy3G6u0ET2Llasrp0aKFPb+OSN7Fkgx8M4=;a3Y4RYQJH14p/MSGl/Ln+A=="
+secured: "60n3TL9/fQZ3FLO0h/A8+bc/QWJF9+YPLkUhGQ6A7rY0pPyHJGtQK9i8rESnEhtcSPAIuLtOm3tDAw+3CoiQu/e+Fs863gPZ2SnQ6EhqqY0+ZepsMOfvftDWjMX+zGVbvR/Um3MCAo4TmZFOvrR5t4cBcPdAF4UU+HWKrKgJf9Z3piaOpH/RdMzCh2hnpRNzciZJPkz/TciB7QkbmgUKJuCOj9zO+MjPxmgQr9Bji7fTJWhC/imhNWrYvSuJl3TgvjNzACGY8wl+KyrlDGTd9yf1jbSlmswW7CMFHFfkA2gP+XlO/Xiy8wpKSvg892RnD81a3Ya9wXgIPbNr2T/6cpcrJD+OhZ6Biny2H3LviRA=;Afr6ocQhElgxYuu8C8ry1Q=="
 ---
 

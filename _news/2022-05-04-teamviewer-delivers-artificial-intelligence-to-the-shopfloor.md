@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/teamviewer-delivers-artificial-intel
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/teamviewer-delivers-artificial-intelligence-to-the-shopfloor/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: enterprisetalk
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "TeamViewer brings Artificial Intelligence to the Shopfloor"
-    excerpt: "TeamViewer announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer’s leading enterprise Augmented Reality (AR) platform Frontline. AiStudio consists of a self-learning algorithm to train AI models for image ..."
-    publishedDateTime: 2022-05-04T05:38:00Z
-    webUrl: "https://www.crn.in/news/teamviewer-brings-artificial-intelligence-to-the-shopfloor/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 37
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2020/05/12140219/Artificial-intelligence-HR.jpg"
-        width: 750
-        height: 430
-        isCached: true
   - title: "TeamViewer announces AiStudio add-on to bring AI image and object recognition to its Frontline enterprise Augmented Reality platform"
     excerpt: "AiStudio consists of a self-learning algorithm to train AI models for image and object recognition. Following TeamViewer’s no-code approach for the Frontline platform, the use of AiStudio does not require any programming skills. According to the company ..."
     publishedDateTime: 2022-05-04T07:16:00Z

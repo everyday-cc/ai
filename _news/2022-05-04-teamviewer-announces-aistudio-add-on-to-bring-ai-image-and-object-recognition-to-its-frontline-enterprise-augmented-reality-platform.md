@@ -41,20 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "TeamViewer brings Artificial Intelligence to the Shopfloor"
-    excerpt: "TeamViewer announced the launch of AiStudio, a fully integrated Artificial Intelligence (AI) add-on to TeamViewer’s leading enterprise Augmented Reality (AR) platform Frontline. AiStudio consists of a self-learning algorithm to train AI models for image ..."
-    publishedDateTime: 2022-05-04T05:38:00Z
-    webUrl: "https://www.crn.in/news/teamviewer-brings-artificial-intelligence-to-the-shopfloor/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 37
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2020/05/12140219/Artificial-intelligence-HR.jpg"
-        width: 750
-        height: 430
-        isCached: true
 
 secured: "r3qHHvb0qrm9kFXDrJhrS4xQiqpYVfq15klFfI08zCgCoROHqRx6XDeXPZga2383qhMSWycMaqdn6hDR1JDJyf5lTiKiRve4i8ZDv3hwZML8W0U6w4DBog78A+Rd4QW+9/KW2sJhXcSVdUKKXn9j+zT5+/fTsnJDFDOX98UubZgkgA8NHfAmW33SbHL0IPI2g4Icf+1KhJvwBZJx5jtdRdjwFHWn5EOAMf2/0i87OlC3CQp/nQmK3rM/s9bsizBHCvtzSoeDJSBMGW5jN2p0zWRxy0+gayQZWGFn/EM7zlM4V/BgoatYp4EfFZVTaPiNKEd3VqrZk0ptLfN00Rh/IYCrEIvjH/DnhKhjXg9Gwn1e166d751vAuML71+jsozErfS0PPo3ygHpfFGzNnDw9mmL3YsAR76CPDiFN0zyen/IspPoTjNAREY5u5TU1dbpQqFQETF0Bdg00jJXx4n4MVTCXMmDLEkimvVlybNFvDOnMmxNSZ0U+F3snJ53k3km/gI9oW9MJ5Qxh5Ao7VWJ9Q==;OfX5pxBMGRTDcBS/7rs6zg=="
 ---
