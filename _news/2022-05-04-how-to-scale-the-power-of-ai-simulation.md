@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 596
         isCached: true
-  - title: "Kinetix uses no-code AI to create 3D animations, secures $11M"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
-    publishedDateTime: 2022-05-04T14:17:00Z
-    webUrl: "https://venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create-3d-animations-secures-11m/"
-    ampWebUrl: "https://venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create-3d-animations-secures-11m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create-3d-animations-secures-11m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/no-code.jpg?w=1200&strip=all"
-        width: 1200
-        height: 920
-        isCached: true
   - title: "The quest for explainable AI"
     excerpt: "Explainable AI seeks to infuse algorithms with transparency so that even lay users can ensure their AI is operating within acceptable bounds."
     publishedDateTime: 2022-05-06T23:01:00Z

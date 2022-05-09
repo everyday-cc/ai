@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence (AI) Market 2021 Witness Widespread Expansion of Industry Growth with leading"
 excerpt: "Moreover, developments such as self-driving cars, space exploration, accurate weather predictions, and other prominent developments are boosting the demand for artificial intelligence technologies."
 publishedDateTime: 2022-04-21T07:01:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading-2022-04-21"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading-2022-04-21"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading-2022-04-21?mod=search_headline"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading-2022-04-21?mod=search_headline"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "KmV9kkphkCKu0UCMUuoM/AgCQkU289/6Wt0HoEmHY9llu21MEYQrbjck/TJkFX6EksWzxr2/dC+VNQiOO7yRlqVa+KOpqaXVpufSz1u50Aa4ytnyVdqVjWqr62kxhUg/u9kU8g75iqkPTuXSdrwGyx9AEmf2F68zftNubYNJ3W4DSddA28Lu+8y9kez736zJdIEQg2p1TYmhAjXVWNZF5fn3/yi07DlO1cxCnJAE+jZWK3VnyQ7Sills/bAcwdakmm8/AfGJPF5FvAncxvMo5In43QIqv7tDPAQCfSM7/p6P07qIAMrjfqnM6211Fr0vFk9K8tw7TTXMN8PAnVMCrC4gyzEx4DR7o9RHTNQfHgQ=;DbRCE081bFNFsEFA1/ZXCQ=="
+secured: "6418tnpMw5sa2dzKeUC4uzGHH3MbwEMQ5bMggv8yZGYLhM4gi4QJ0qXJRV4AT8qJAO8Kj4KdtOQGx6MG/+B2ygR/6ETbOgYwuY/UX4KyWETsqgUOX1YFohqse7NxXfhLTap7f7IQT3DTiCAIrLPhseMT7DQKWAsoPx+2vr5wTkwEMHbWIrMGTHdNiL45tK8iGofvWvvFNUCmcZ8cRrn2NCe9ebyFxSIsPwKB9GGpMVYQNIk1eOg3cMEY2fwAOMQ0/AZHgNo/t4ppYeQnbRw6jteil44dTNtRFrdRcStkfIUcpRHTRjXrmNyN8ypMZ/cUr2xhsnZTVv9ylAAJbsTL9Fpbl4lK8lhZkJN0ry8k6qg=;BU0x87O/5tP30Emy7u2Wfw=="
 ---
 

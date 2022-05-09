@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220504/New-Machine-Learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220504/New-Machine-Learning-model-draws-a-map-of-proteins-with-special-properties.aspx"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "New machine learning maps the potentials of proteins"
-    excerpt: "In the journal Nature Communications, the researchers explain how a new way of using Machine Learning (ML) draws a map of proteins, which makes it possible to appoint a candidate list of the ..."
-    publishedDateTime: 2022-05-04T14:30:00Z
-    webUrl: "https://phys.org/news/2022-05-machine-potentials-proteins.html"
-    ampWebUrl: "https://phys.org/news/2022-05-machine-potentials-proteins.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-machine-potentials-proteins.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-machine-learning-m.jpg"
-        width: 500
-        height: 462
-        isCached: true
 
 secured: "AwfXaL+PL+3+HanUmR5/K2OhGVhrNYHQrKUz1sniKjndX0lz1VVgXVvuw7q6n085BLolWaNiyV8K7p7ckynJjr5Pf55owMXFjL+Fo5msgKOK/8uL49Er1sueQuqlCfvMlH6AzBzU+D6Uy/0upk6wCpKtr3V9SUCewqeU4s3IfS6HotoqVzFzYFRcqUPJ/uRdjIOCyyOctHZa3Pepgvs9UkVX+GfEdit4epmpRYIBod0TnBEocBpkEu2hAmvfONP3cQrOqLxJHhA+tAUAvuXZbRZEDf+meBhME8aTWI0PtNRd89x3z5CmAh0PncREmdYiulvZJlmWO/ufv/nsltFZWQhqPP7l8U4u9gnGYTuvRNE=;KortsZk4qrbx/pQkhAQlhQ=="
 ---

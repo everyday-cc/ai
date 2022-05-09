@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 622
         isCached: true
-  - title: "AI for Cybersecurity Shimmers With Promise, But Challenges Abound"
-    excerpt: "Companies see AI-powered cybersecurity tools and systems as the future, but at present nearly 90% of them say they face significant hurdles in making use of them. Companies are quickly adopting cybersecurity products and systems that incorporate artificial ..."
-    publishedDateTime: 2022-05-04T15:01:00Z
-    webUrl: "https://www.darkreading.com/analytics/ai-cybersecurity-promise-challenges"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 37
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb6687ab4f4eb2185/62729421726e3315b16b4089/ArtificialIntelligence-MasPix-Alamy.jpg"
-        width: 6000
-        height: 3750
-        isCached: true
 
 secured: "DEi6/4FlIh+TqbHOAM9finx/UIWwaxBtm+uK+2NCCzHaEThRc00oQXtP9AG+mR9qj5AicNOr6u16LFgyfj/yXurrRUX8XnoNPyVD/oVgUQdCQ7yGSfp2RFcEWnUzpXjr1HUx77qMISFsR4Trvkdc+wWxB117y/2GOZXOrNQhWrbiYQ2EeTg2e+B3wQGWBMx5vZ7RZZob4NfG3DGSdB+fnca9oADwWQse6mRwCBOevpZIbuODZO4OfhPm0mYM99xIpPao4Htb7uvyIyCjmyfIccIxJMtJgtbfgLo8g5RJPr6d5TSrFQDUAz6pxwUVziwZYr5YKj6LSJJxo/K4Tq38XVbnrhzQEHGm3H8wYJOF6+VnTvNCJjJYgn6SP/BEIeoDZOUEtXxG6EjTIAGWXVcZm3TgRcjUAJeM9icn1rvr9eVACMeneB6uaMx3Pl4QINnibCR0YC0O0GIFUWPe2EC4uy0SURNCdsnF53qSp1w3ztn2zyJ+28XN4NQIQA8XejSNj30+vzH0MY46J/99KXyf/g==;f7ct1TnhgbiDukukJtaOeA=="
 ---

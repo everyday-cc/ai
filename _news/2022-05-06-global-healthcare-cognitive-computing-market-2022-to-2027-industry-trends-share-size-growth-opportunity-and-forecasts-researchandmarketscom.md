@@ -20,20 +20,45 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Digital Transformation in Healthcare Market: global outlook and overview 2021-2031"
-    excerpt: "Surge in the adoption of advanced technologies such as artificial intelligence across the healthcare sector and growing support by several government authorities for digitalization are some of the prime factors boosting the expansion of the global digital transformation in healthcare market during the forecast period of 2021 to 2031."
-    publishedDateTime: 2022-05-05T09:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/digital-transformation-in-healthcare-market-global-outlook-and-overview-2021-2031"
+  - title: "Global Speech-to-text API Market to 2027 - Size, Share & Industry Trends Analysis Report - ResearchAndMarkets.com"
+    excerpt: "is a programming interface that enables the utilization of speech synthesis and recognition in a variety of devices and applications. Speech-to-text API is a multidisciplinary subject of computational linguistics that explores methods that allow computers ..."
+    publishedDateTime: 2022-05-04T16:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/b26996607/global-speech-to-text-api-market-to-2027-size-share-industry-trends-analysis-report-researchandmar"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26996607"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26996607"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
+  - title: "Artificial Intelligence In Oil & Gas Market 2030 Industry Analysis, Trends, Market Size And Forecasts"
+    excerpt: "Key Companies Covered in the Artificial Intelligence In Oil & Gas Market Research Report are   IBM (US), Accenture (Republic of Ir"
+    publishedDateTime: 2022-05-05T10:56:00Z
+    webUrl: "https://menafn.com/1104160874/Artificial-Intelligence-In-Oil-Gas-Market-2030-Industry-Analysis-Trends-Market-Size-And-Forecasts&source=997"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?648472"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Call Center AI Market worth $4.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Download PDF Brochure: https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=263925467 Call Center AI solutions are being leveraged by contact centers to improve the customer experience as well as operational efficiency. With advancements in AI ..."
+    publishedDateTime: 2022-05-05T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/call-center-ai-market-worth-4-1-billion-by-2027---exclusive-report-by/article_6247c71e-1d59-5bd2-84df-737b9cdd1c78.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 8
 
 secured: "LtlgawB7k50A+kOqIFTMmtGo7X1aTCclXeEJtvzNepQY86iWtbEVPoH2KH6mWht7ZET1S3tLlFw8MGz0/ayQcvmqh5OUjoG24U1LZXhVf6FgcaNNh9Kgzmk4fStmx+i+3sCnu36T3LcxFWvEvNOZawXNyTvfBsKtAblrHx4+fqloWxf/9TjOmTadSzKYXmdR7L//lqKWOxXLVC1xkkhMqiTWkG4ekL6ev9Na2FL97FZRwNxDw0xJ5vjg7Hi2w0BRoPcklU+VvhO4Xdaf14s4EhhTmLmtY626uZqnNyUqp4t+hGtRvsGms5hxe85EunpjFrv1uoWale6hm31N9O90R5DRBoxT0THAVA9s64XL6Mc=;4nUrrjsRVocN4Ek9UwibsA=="
 ---

@@ -2,7 +2,7 @@
 category: news
 title: "PROFESSIONAL FIGHTERS LEAGUE PARTNERS WITH FLAGSHIP SOLUTIONS GROUP TO DELIVER UNMATCHED MMA FAN EXPERIENCE WITH SMARTCAGE INNOVATIONS FOR 2022 ..."
 excerpt: "an IBM Gold Business Partner, for the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA. Under the agreement, the league ..."
-publishedDateTime: 2022-05-06T05:16:00Z
+publishedDateTime: 2022-05-06T04:25:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with-smartcage-innovations-for-2022-season-1031428268"
 webUrl: "https://markets.businessinsider.com/news/stocks/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with-smartcage-innovations-for-2022-season-1031428268"
 type: article
@@ -53,6 +53,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Ja65EiVwq68H6WoEi2WIJeBxTTN1xVVo7EERWxpbijmf3XBYI3P7O9bTXWE8m7OkpxYL2O+YZc6pKH6RBBZC3eBKIyUo+SQJuBquBO78/USgq6GM0t0BU6fh0qWzuY8KmXTmOev9h/4vAqezF2MiYintS17z6faujd1MHtJ4SIzVREOucMsfA1GY0+Ns0BfR9vXpQM/wfWsjkX9IFX+zu4F9HvIr7Cj5u4aFygWahRXFhfgwaHSulgLG6iBE3OcErHkLvoG0kCIE8LmVHC0AWxvol3qISNGZ2y8iXoroRnbaL6EBKBbaq1wPZpuHq5EbMsoOB331RVyP/EYFgbKfGH+qVLaO0MgpTUvfuENBtNE=;P8OjLbh5r7jmQRXp8FUXBg=="
+secured: "dR9FxaSbit+R8ddw5mu2TW4MgLtfLMxWNG5YRZWRbc56iO23aKMvxiWF1RN/zBRWuK3cP3nxb7J1mldlHQFtiCMvqtcqHbbDYMQX83u+qxNdtZBdWmsdl9r8O/5SzSDT4gE/hXqC/wfRLq5xzquk+ER83H0bV0ymXpuNAG693HVVX4mWj91dY4OoSi5XvHlGuQ4QNFWqKOZlRjGN+VBK7vXD9+xtrg++AZbUBLhTmnc3+jyWMNqUwMfyzco4ovKCRHeZDmDXSPOpf8ZwwYYzATVWdNP+NfgG/Cb/H6tYi/ys2kd6z2XSWnNjY+Aisc98Pm41i+Z4m/az1rmEjPHFsiUZ+bT/MuwYJ7uY+s63uMo=;Sv1CJL3DjdkxsZLWFavJ8w=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "Government to Submit Law Permitting Facial Recognition Cameras in Public Spaces"
+    excerpt: "\"When a police officer can post a biometric camera in every neighborhood, there’s an opening for the exploitation and over-enforcement in certain populations.\""
+    publishedDateTime: 2022-05-09T07:11:00Z
+    webUrl: "https://www.jewishpress.com/news/israel/the-knesset/government-to-submit-law-permitting-facial-recognition-cameras-in-public-spaces/2022/05/09/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 35
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/Technicians-install-security-cameras-at-the-Gush-Etzion-intersection-archive..jpg"
+        width: 800
+        height: 535
+        isCached: true
   - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
     excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday. As drafted, Senate Bill 113 would establish several regulations for the use of ..."
     publishedDateTime: 2022-05-06T20:38:00Z

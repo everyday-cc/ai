@@ -67,20 +67,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Ten FinTech Trends to Follow in 2022"
-    excerpt: "FinTech is one of the five areas with a high Big Data growth rate. The industry needs a powerful tool to collect, structure and store information. One of these is artificial intelligence (AI). According to McKinsey, every year, it generates up to $1 ..."
-    publishedDateTime: 2022-05-04T14:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/22232/ten-fintech-trends-to-follow-in-2022"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.researchandmarkets.com/content-images/173/173851/1/global-fintech-market.png"
-        width: 600
-        height: 400
-        isCached: true
   - title: "06/05 – Weekly Fintech Recap"
     excerpt: "Partnerships Ophelos Partners with Credit Card Startup, Yonder, for Ethical Debt Resolution Ophelos, the technology firm building fairer debt resolution for businesses and their customers, announces its partnership with Yonder,"
     publishedDateTime: 2022-05-06T09:25:00Z

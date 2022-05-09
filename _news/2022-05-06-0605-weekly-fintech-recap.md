@@ -73,20 +73,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Ten FinTech Trends to Follow in 2022"
-    excerpt: "FinTech is one of the five areas with a high Big Data growth rate. The industry needs a powerful tool to collect, structure and store information. One of these is artificial intelligence (AI). According to McKinsey, every year, it generates up to $1 ..."
-    publishedDateTime: 2022-05-04T14:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/22232/ten-fintech-trends-to-follow-in-2022"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.researchandmarkets.com/content-images/173/173851/1/global-fintech-market.png"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
     excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"
     publishedDateTime: 2022-05-06T08:52:00Z

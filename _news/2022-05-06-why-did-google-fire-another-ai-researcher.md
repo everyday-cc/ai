@@ -19,34 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "KNUST advances research in Artificial Intelligence"
-    excerpt: "The Vice-Chancellor of the Kwame Nkrumah University of Science and Technology (KNUST), Professor Mrs. Rita Akosua Dickson, has said the University remains committed to advancing research in Artificial Intelligence (AI)."
-    publishedDateTime: 2022-05-08T15:36:00Z
-    webUrl: "https://www.graphic.com.gh/news/general-news/knust-advances-research-in-artificial-intelligence.html"
+  - title: "Researchers use AI to analyze large amounts of biological data"
+    excerpt: "The type of AI, called a graph neural network, can help scientists with speeding up the time it takes to sift through large amounts of data generated .."
+    publishedDateTime: 2022-05-09T07:30:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/researchers-use-ai-to-analyze-large-amounts-of-biological-data/91431343"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/researchers-use-ai-to-analyze-large-amounts-of-biological-data/91431343"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/researchers-use-ai-to-analyze-large-amounts-of-biological-data/91431343"
     type: article
     provider:
-      name: Graphic
-      domain: graphic.com.gh
-    quality: 37
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://www.graphic.com.gh/images/WhatsApp_Image_2022-05-08_at_52102_AM.jpeg"
-        width: 1024
-        height: 702
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91431343,imgsize-83764,width-1200,height-628,overlay-ethealthworld/researchers-use-ai-to-analyze-large-amounts-of-biological-data.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Pentagon must advance AI to stay ahead of rivals, industry execs tell Congress"
-    excerpt: "The U.S. must act to preserve its edge over rival nations on artificial intelligence and cybersecurity, starting by embracing a new leadership position at the Pentagon, industry executives told Congress this week."
-    publishedDateTime: 2022-05-04T16:23:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/05/04/pentagon-must-advance-ai-to-stay-ahead-of-rivals-industry-execs-tell-congress/"
+  - title: "Using AI to analyze large amounts of biological data"
+    excerpt: "Researchers are applying a form of artificial intelligence (AI) -- previously used to analyze how National Basketball Association (NBA) players move their bodies -- to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
+    publishedDateTime: 2022-05-05T21:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 33
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
+  - title: "Using AI to analyze large amounts of biological data"
+    excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) — previously used to analyze how National Basketball Association (NBA) players move their bodies — to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
+    publishedDateTime: 2022-05-05T16:54:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/951857"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
     images:
-      - url: "https://www.defensenews.com/resizer/iQzjdgInV7A5Ndo7mdqlowvd3wc=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RQV2EC2W7JDYNMQGGBXJ66YFV4.jpg"
-        width: 1024
-        height: 684
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/aa95ceeb-d67b-4a0b-92e6-70483ee2ce4c/Rendition/low-res/Content/Public"
+        width: 500
+        height: 700
         isCached: true
+  - title: "Applying a form of AI to sift through large amounts of biological data"
+    excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) -; previously used to analyze how National Basketball Association (NBA) players move their bodies -; to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
+    publishedDateTime: 2022-05-06T13:11:00Z
+    webUrl: "https://www.news-medical.net/news/20220506/Applying-a-form-of-AI-to-sift-through-large-amounts-of-biological-data.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 21
 
 secured: "wtSD5KRUJdajLM7fhHY3kWebf7s8o8OQAXCzR5JO5T6fEwnYHHUeHlVv8DB9eavj18Q/FkUdJ99yNHG+rXWZORq4dFKHkQr3T5/ksVECUb5B4QJ/n4zUny8iSPjeyO/WqB0ch1OaELpkh7dGLJmZOSkdNnAnHhJax9JKsiZvDLuoOFSl9BXXutUFAQ+8MTWTgD+0yOINbvnjaaKRCSPKv+ra6PX7QU9KGsqi0Khyz+bNekVE6wF+17kqFZfKD/WHfX41CB0+J3XRrtB9VtcdNj1dG5VJeJWzfncioBKz8nLlA9cklxrSKeMSx7y/021YocS/ZbFt/TR5GX+v3Gwx4BHW1KAAXVLkAyMvy7sntb0=;uqzao1GXCCnmQuODewQFXA=="
 ---

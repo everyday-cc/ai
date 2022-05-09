@@ -99,15 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Three Things To Consider When Bringing AI To Asset Management"
-    excerpt: "In another recent report on the topic, Deloitte suggests that asset managers should start by focusing on quick wins, embracing strategic collaborations and partnerships and clearly defining their AI strategy. There's something to that. When implementing AI ..."
-    publishedDateTime: 2022-05-04T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/three-things-to-consider-when-bringing-ai-to-asset-management/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "SqvQBou3Vj5J906+GqPnNjmMqRetGbdqLEaKTB4JQoun2a/WhpjKEm6uOJar01zh74AkSThUClf+u+ziD5btkdWWrz+tGH+6lI8ndUBcmjqEQe6ycaf6QH+ZaFY8HpHKsLVM+ZYGKi7cauNcB7puXzWtgL7df2oWqfE6d74Gepgv7m/TO7IhsP3TkH53rwx/8N5hkPk13ps1fTVbiMYgIGANVXHAufy3wYytJkmh4ABIaPA2xmR7eBWDWmoT0AoI2b0Dcp/q5dP0vwIzGaAzivD3+i9QqUXq2t+xdxZvvP3Ur7Fyn8sBHbb6ldGN7tnv1rlfAWQJigMm/pGjFL4ZGhLo+rfuPR6W3KGUgOTFCBQ=;fTUVhV2nbzTAvneafYyQ7A=="
 ---

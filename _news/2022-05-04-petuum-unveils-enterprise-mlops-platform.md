@@ -2,28 +2,30 @@
 category: news
 title: "Petuum Unveils Enterprise MLOps Platform"
 excerpt: "Tong Wen is an Architect and Director of Engineering at Petuum. Tong joined Petuum from Microsoft where he was a member of the founding team of Azure Machine Learning. Tong has 10+ years of experience in building innovative and high-impact AI/ML and HPC ..."
-publishedDateTime: 2022-05-04T15:28:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/petuum-unveils-enterprise-mlops-platform/article_d933fdc0-63b6-5d9a-9cfc-4f64e349d06f.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/petuum-unveils-enterprise-mlops-platform/article_d933fdc0-63b6-5d9a-9cfc-4f64e349d06f.html"
+publishedDateTime: 2022-05-04T15:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/n26994747/petuum-unveils-enterprise-mlops-platform"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/n26994747/petuum-unveils-enterprise-mlops-platform"
+ampWebUrl: "https://www.benzinga.com/amp/content/26994747"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26994747"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/62/862a081a-7c33-5583-b4ca-3f0224dc27b8/60c0d448eb251.image.jpg?crop=1404%2C737%2C648%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "GlTrC7xCvC2XL4pNXTRZYuVTXrRByjeWAOfCK1qpboFqrGYWpVPkpouGAeWxzvLv+gIkARdBAdzO9DkgtUaen5Lu39ZwclJC71n+H0BFNbR+LljbS9eArZGZjMcRxI67Azs9/Lc+edDXSNoFRETIpsF7e1ThzHoGTPVvC5UoYMDIWLF6JaHvz0H88eisjFg5LjVcOSd2xNizvxyzwAC0HUSxtIyK6Lu8LwFY/ZbqOg6brQZR5gGps73fL9R5VHsxveFYZgB1hGBafPuBSGXD4l3VpKhVcEvxUHZNmhalfbXxg5VWg0VPDNLdX/c93HiNoFAXlNWZExjrtLTAsTVA0b+1VTwPQLalBp4EKujDjNrql4ACXurOANpUnnIKfXUW/rc0cDdaYmTtHhLkeknH7n2ID8fhC4KtnQKqjKFw2jkFYOf8EDAvaWV50GwLEts3r6aanTq/SBt9Se4pgEfSW+2gR4QAdBBFj0SAA089FzRbvpggg8iHHNCfiJ4A1NUYF5auaqgE4bygjqCQCHqOIw==;2wAqqw8z9senk0chOaB6WA=="
+secured: "YdUt8gKStrI56iSM08EZexaLEFpihEaZPXT2pz4Bfwxy3Ys1ZapyuUalHeUfz1WyVBlp8zleJrryaloulMGV+02moIob8by3Aqs36Bg2Boi8LvyxkQcA2t/4h12dqyybnjqFj8TgYvG9eZcZ/qT9dIjBcRD3/9CNvbCaRshLb1GdHsflpUE2OsZzVovLwVG9gtEqlNtde1fjKGYrOABHcK3GmgfkPsFgGIFHLq4Jxj0c1q+FR1oPdsQ0MjqOgRF9nl9L24n3EqdY2tqvECAyfuyX5efDX2jD7bs9f1Q08NjZqSb/OrIYPjpqL89u0r7weCCEY+69cKGeERbpa1ufGx0VKgCbDAd9TafTSEk8slI=;994WuxG1+rr8DUfTDpyLrw=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "Government to Submit Law Permitting Facial Recognition Cameras in Public Spaces"
+    excerpt: "\"When a police officer can post a biometric camera in every neighborhood, there’s an opening for the exploitation and over-enforcement in certain populations.\""
+    publishedDateTime: 2022-05-09T07:11:00Z
+    webUrl: "https://www.jewishpress.com/news/israel/the-knesset/government-to-submit-law-permitting-facial-recognition-cameras-in-public-spaces/2022/05/09/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 35
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/Technicians-install-security-cameras-at-the-Gush-Etzion-intersection-archive..jpg"
+        width: 800
+        height: 535
+        isCached: true
   - title: "Legal Aid Society criticizes D.A.’s purchase of facial-recognition technology, says office used federal forfeiture money"
     excerpt: "STATEN ISLAND, N.Y. — District Attorney Michael E. McMahon used controversial federal forfeiture funds to purchase and employ the use of facial recognition technology that has drawn the ire of civil liberties advocates, according to the Legal Aid Society."
     publishedDateTime: 2022-05-04T20:22:00Z

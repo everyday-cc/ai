@@ -35,15 +35,6 @@ related:
         width: 534
         height: 300
         isCached: true
-  - title: "Researchers at the GIST develop deep learning model to predict adverse drug-drug interactions"
-    excerpt: "To address these limitations, Associate Professor Hojung Nam and Ph.D. candidate Eunyoung Kim from the Gwangju Institute of Science and Technology in South Korea developed a deep learning-based model to predict DDIs based on drug-induced gene expression ..."
-    publishedDateTime: 2022-05-04T13:10:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/951650"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 8
 
 secured: "Q4IQmrY4cs9Z9BI9fVTOsDBu6QSvhqqQd6xNiMSkW0MM/pMxz1qp7XHTQlEaY0qySK2JIy5TNH4a6QDTKNwymQgIHo9RQZmNL4zTKjc8F2oE2jkt/Ftd3N7HJtca0qELmECHJQoI4RKmE1rP9pOfCUIW4EbOjuIZNaBoT1+S8ZNv1z55qbwjYAWdZCAGiinZtI1XHmpcTKArVm7+pfLDjgkU8RDxeayK30RTc3c3oyfD/F5pHsxghQym/vT9GnnJZr4yLMCJuJZj9U+Z4OA0KZggmn1JmfLxAn4W1OFU1k1y47PsMqVZVMpWmGgRNRq1clEeA2jgIxlitAuoRedX42GVh3O13NlLUg/jYkDgb98=;5nlo9uaG2s+YXSNw69PfVw=="
 ---

@@ -25,6 +25,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Regulating migration technology: how the EU’s AI Act can better protect people on the move"
+    excerpt: "Join us on Monday 16 May at an online event to discuss the vital changes that must be made to the proposed AI Act in order to uphold the fundamental rights of migrants and refugees. More information and registration details here."
+    publishedDateTime: 2022-05-09T07:06:00Z
+    webUrl: "https://www.statewatch.org/news/2022/may/regulating-migration-technology-how-the-eu-s-ai-act-can-better-protect-people-on-the-move/"
+    type: article
+    provider:
+      name: Statewatch
+      domain: statewatch.org
+    quality: 27
+    images:
+      - url: "https://www.statewatch.org/media/3278/ai-migr-amendments.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "+UpMyN4tWPSbGOpv755U5qRFiB3M8X2xH4x8+4J3HnUOwfuOkHjM0nAIaGn9Tjo7EPrWuJaUVYv7kBvpEehutwybu4UOdKcRbJur/O/i5ZWuAra2jBKveabDVRyff9kb6/p61dCcDuC/nuH8Av1n2FqPgtEDHQe5Y7WwF0QT95WjYfPojr6S6bc3Tg8Ux6X2UxM3ZVfjpWAmwEu0pJNRzIG9AFbxlFUMZdaZLSmWYbT7AOcNZtZiewK6eqpRdD3UJm8Tk3fsbd1GrSkhH4dukvowApb4j+oY7BB1hMCxns59Dk4evXTBwPrqMa6N13VaawfZxLfQ37VUFXZ9ufuP3bHEPOW8BBJnAa7dI2rNBPY=;cnGYI1QdmCXlP+d4rRmNfw=="
 ---
 

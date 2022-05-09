@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI for Cybersecurity Shimmers With Promise, But Challenges Abound"
-    excerpt: "Companies see AI-powered cybersecurity tools and systems as the future, but at present nearly 90% of them say they face significant hurdles in making use of them. Companies are quickly adopting cybersecurity products and systems that incorporate artificial ..."
-    publishedDateTime: 2022-05-04T15:01:00Z
-    webUrl: "https://www.darkreading.com/analytics/ai-cybersecurity-promise-challenges"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 37
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb6687ab4f4eb2185/62729421726e3315b16b4089/ArtificialIntelligence-MasPix-Alamy.jpg"
-        width: 6000
-        height: 3750
-        isCached: true
 
 secured: "egZTh4RjUtq6H4KhX0HcAUxG7VY3mM6fKY2zIqWZhX9glEr4VY3ALwja53/PRuaxJsNa1Blp4G1XVRQrd0L+YqiLdo5/JfDa3gLZSj4BTBP/OMrlUHwBkbUSEJr+drzJqZz8LIP+7AGX2UH1H7+VTjZfm3McIiJcF3GPhqXVMBlWJdJu+FGew0qWOxJpHhv3YjiKXc+gTf2/mZmoL/g5OQM0QvsjDYUpcaEJ3pbFSRqLHIvhLPEAsBwVWbpAmZyZdT8vjlSuXp6y6GJ+sajVVGe6Ykl3HjUwe+Z4LNwWH16bGS11xUDbCn2V0QoZyu7njZQgvD0zd8mvKJCQX0E2Y6swrLVOCDodATbjHWYEibGrF0dArILrtpFtPa0SwraDltnHavfH4mNFT0SBuYGyRTnMD0eemAJsnQF1+BxqQij3bxaPx77loYMGi5BSg8BArLV2BQ3D/AlvhjkOhkceSLYt5NkITuuP1M550LwWGq1o7gAoqpousKl0pm1M2orVIIwQ3HO9e4I5+9xvVPQePg==;jSmzvyNQdLuAAQqIuEDYuA=="
 ---

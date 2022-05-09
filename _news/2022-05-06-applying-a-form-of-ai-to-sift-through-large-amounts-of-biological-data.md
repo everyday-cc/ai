@@ -20,6 +20,22 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Researchers use AI to analyze large amounts of biological data"
+    excerpt: "The type of AI, called a graph neural network, can help scientists with speeding up the time it takes to sift through large amounts of data generated .."
+    publishedDateTime: 2022-05-09T07:30:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/researchers-use-ai-to-analyze-large-amounts-of-biological-data/91431343"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/researchers-use-ai-to-analyze-large-amounts-of-biological-data/91431343"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/researchers-use-ai-to-analyze-large-amounts-of-biological-data/91431343"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91431343,imgsize-83764,width-1200,height-628,overlay-ethealthworld/researchers-use-ai-to-analyze-large-amounts-of-biological-data.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Using AI to analyze large amounts of biological data"
     excerpt: "Researchers are applying a form of artificial intelligence (AI) -- previously used to analyze how National Basketball Association (NBA) players move their bodies -- to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
     publishedDateTime: 2022-05-05T21:23:00Z
@@ -43,6 +59,15 @@ related:
         width: 500
         height: 700
         isCached: true
+  - title: "Why Did Google Fire Another AI Researcher?"
+    excerpt: "Google has recently fired machine learning scientist Satrajit Chatterjee after he and his team put questions over Google’s research paper. According to The New York Times, Satrajit and the team challenged Google’s research paper about the usage and the testing of artificial intelligence in making computer chips."
+    publishedDateTime: 2022-05-06T07:49:00Z
+    webUrl: "https://www.techthirsty.com/why-did-google-fire-another-ai-researcher/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 19
 
 secured: "nYkVrKub5uJok8spbc6KJWnJkldehTWTuhODlICKppqnVmnT07p9Qm84pr4Mr88rnfdOsmRt5nRBr8dFVk0jVPrzrhbNTY7p1NxN2B4n6U+1pZLHskLyzX8oswA2/d7cwCanZydC7sPajORjjd6rqORH+bdA9RfFqcl8hgnhMWLN56VNZQey7bXiBLbogJvjN8X8OVVDGZ0N+Gq5WdxPSpUSN0RtxFXsYFZNOeTxB4e9FyhtgUuHZTndmMcTL0lYPUkm3rUQCFQhT/qV2G3hQMrCneTz6ylA3NimO1alwCSr7HyNGQrW/ra/r/xV4PGoQxF4wa431wsxTbVJhVdikc+occF1Hep9jdAInmCoWgY=;GMpUnn4roZCiCMqW+zQ7mQ=="
 ---

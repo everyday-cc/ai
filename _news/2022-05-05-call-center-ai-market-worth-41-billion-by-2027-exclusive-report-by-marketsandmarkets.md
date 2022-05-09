@@ -48,6 +48,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Global Healthcare Cognitive Computing Market (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The \"Healthcare Cognitive Computing Market ... 0 GmbH Intel Corporation International Business Machines Corporation MedWhat Microsoft Corporation Keeping in mind the uncertainties of COVID ..."
+    publishedDateTime: 2022-05-06T13:07:00Z
+    webUrl: "https://www.thedailytimes.com/business/global-healthcare-cognitive-computing-market-2022-to-2027---industry-trends-share-size-growth/article_b7051195-9852-5a2c-a3a3-73e42430251d.html"
+    type: article
+    provider:
+      name: thedailytimes
+      domain: thedailytimes.com
+    quality: 0
 
 secured: "AbNm77J+1Q5okbq2Q+0P32R4WDpBtyZVMNiWg1S+0mNfqFpOjV9YnGgU5bAyz2Cqnf23nsUj7Cjf3DvdKuOIROySC6M7P8UFgQQZ0DsgjkWsMK6PzwBJyREPuB1tZ3vSrigr0zSRabwQEL5n+C74fDCL7NJ5nf8JYfWsPteBNVZR45kxAJzmHnDhFUBOxcHIsq1xKoK/fi/NqIyZmxbUL/ge9ZQ+yU8pKnm+sHUyw4AqdspZihzaZtGOv0MaMUD8EZO4nvCQkRlEA0irPc6BNbIkEuid5WKf1RTxyaSxXN5qhLYQEAraCKfJJN7WdA9/TYefvAsi04ZI7SA/mCqD+0xPIYAkS2j2h8icC3nNjAjE4jVYe9FCS8uxdDQgaRYbTfIorUiJfoOEEWT3bOhDvJAYGXY2jBlAGmPjky0GzCcNJXo/PyxTDefXUg/VZZhZGzhVguITr5eWjkV0A47k0PdSEYfmZ6WQ7TZzN/FpJ7hNlPd+02XwSg55QFO4Ehf+rRa5ClZBi5bh5sMx5VYhXg==;8M5J4qvoiIOZw+ryBIrv5w=="
 ---
