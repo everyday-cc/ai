@@ -74,15 +74,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 17
-  - title: "Making sense of complaints – using AI to improve learning from patient complaints"
-    excerpt: "Emilie joined techUK in June 2021 as the Programme Manager for Digital Ethics & AI. Prior to techUK, she worked as the Policy Manager at the education charity Teach First and as a Researcher at the Westminster think tank Reform. She is passionate about the ..."
-    publishedDateTime: 2022-05-04T08:50:00Z
-    webUrl: "https://www.techuk.org/resource/making-sense-of-complaints-using-ai-to-improve-learning-from-patient-complaints.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 14
 
 secured: "S6s7vrA/svK4MHRbXHhJSb446gxy8g+nB/c8ao/zCxovJxjxWFA2eVb4KipTfRkF7HjIuMpuWo5+TCfIMsxU3mfYrM+HxftFdw4ucf/AThNvQ3Cc9V9NqeBVene/fO3v0mIPICVPKc6czw0xe8vBVMVO1HoDfdbYHm1v0tkdnoRxpOSWgboT28QSTIBgBgOT9r9CrHsKF0miU/WdLskrGyCgHu4ZG3BGgNaXdf8zHSLOE3XqkaLDrL2OqD1WA5xJO/If5iAm3aX+nHIKJDt9zUQxyO1bWBQgoYn9krn9NevHzcjDhbYJAxeJCcJJI15Hpt4ix9xsbrOCf6aL9QrUXWjXybT2ibwaQbtwPzQNeHI=;k8jjCccHO+WH3t5n1EjMyg=="
 ---

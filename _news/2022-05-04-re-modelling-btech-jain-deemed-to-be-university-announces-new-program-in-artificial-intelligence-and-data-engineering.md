@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Re-Modelling B.Tech a\" JAIN (Deemed-to-Be University) Announces New Program in Artificial Intelligence and Data Engineering"
-    excerpt: "Jain (Deemed-to-be University) Launches Computer Science & Engineering - Artificial Intelligence & Data Engineering Course JAIN (Deemed-to-be University), in association with Futurense Technologies, has launched a new Bachelor of Technology (B.Tech.)"
-    publishedDateTime: 2022-05-04T08:38:00Z
-    webUrl: "https://ians.in/prwiredetail/re-modelling-b-tech-a-jain-deemed-to-be-university-announces-new-program-in-artificial-intelligence-/B-78647.html"
-    type: article
-    provider:
-      name: IANS
-      domain: ians.in
-    quality: 6
   - title: "Re-Modelling B.Tech - JAIN (Deemed-to-Be University) announces New Program in Artificial Intelligence and Data Engineering"
     excerpt: "programme in Computer Science and Engineering with a specialisation in Artificial Intelligence and Data Engineering. This course will be focused on providing students with a new way of learning ..."
     publishedDateTime: 2022-05-04T23:23:00Z

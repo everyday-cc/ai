@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
+    excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial ..."
+    publishedDateTime: 2022-05-05T21:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27037942/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27037942"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27037942"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Allied Solutions Partners with Scienaptic AI to Deliver Enhanced Credit Decisioning Platform"
     excerpt: "Allied Solutions, one of the largest providers of insurance, lending, risk management, and data enabled products to credit unions, has just launched a strategic collaboration with Scienaptic AI, leading AI-powered credit underwriting platform provider."
     publishedDateTime: 2022-05-06T08:18:00Z
@@ -39,20 +55,6 @@ related:
       - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_0.png"
         width: 900
         height: 480
-        isCached: true
-  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-    excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
-    publishedDateTime: 2022-05-05T22:44:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
-        width: 400
-        height: 205
         isCached: true
   - title: "Artificial Intelligence In Computer Vision Market is Booming Worldwide | NVIDIA, Intel, Qualcomm"
     excerpt: "The Latest Released Artificial Intelligence In Computer Vision market study has evaluated the future growth potential of Global Artificial Intelligence In"

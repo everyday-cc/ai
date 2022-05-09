@@ -59,20 +59,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The impact of using AI in the boardroom"
-    excerpt: "In applying the term artificial intelligence (AI ... One of the main problems brought by self-driving corporations or self-driving subsidiaries as an intermediate entity for replacing human-centred boards is the accountable issues and possibilities ..."
-    publishedDateTime: 2022-05-04T08:57:00Z
-    webUrl: "https://www.lawcareers.net/Explore/LCNSays/The-impact-of-using-AI-in-the-boardroom"
-    type: article
-    provider:
-      name: LawCareers.Net
-      domain: lawcareers.net
-    quality: 39
-    images:
-      - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
-        width: 439
-        height: 614
-        isCached: true
 
 secured: "+hmyqfD6UteLowiO/8OCGHXKILKOTpz0Q6fKgbLz8P5E7EClTN0bCpWJUjyByN1a7pqwB+AqAaswXimaSdw/GtjI1HKH9W9IsAOqK5ClUWYqZxgiTv5Ckyvu7YWkaL0GKjV+rbWvgSp+GWiUdJ1PaIqZoIYecejTvpFJRlD5N81hm6PrhVY2p75eQ6UDx92z8K4ZrM6WTY/2gBgNgfSVOLo6Gck8oXz3Hx6kv6I6vX/Eaxwqbjr4KZGWuH6gW3XFCZu14r0W6QlnAcfkR9NzgBSGU48jua2d2zLln9az9ng5QoTuuYrQnTM36TlT9HoIWPIYWaL2TJ+0bTIQd8nyD6TQrMbvOQkvAUtRV9aOF8k=;VK88WzApyu1dDTqgBeEx/Q=="
 ---

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
-publishedDateTime: 2022-05-05T22:44:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
+excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial ..."
+publishedDateTime: 2022-05-05T21:44:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27037942/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/n27037942/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/27037942"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27037942"
 type: article
-quality: 26
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
-    width: 400
-    height: 205
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -64,6 +66,6 @@ related:
       domain: digitaljournal.com
     quality: 25
 
-secured: "bXXrdEoWm1CDZkBWvFQt7qFBhq1VDMl2/F9E8lDkcpqCL0c3zwYiTgNU4feePZI1BVqmcRMPfZD8exSxbPJOpd8s5YsNTzOBh093JZr9JGz/1z+omCLCplDdz8msGWk8nFBjfN0L0MkOpdfKiaMp9iC8N/iuJdx/Db0QC8kzZBPhL3zcwGeemUScRg2Vrj6NF5V/cqBU7c+mmyt79QQi3QDi3AHmnIzf+ND39v9whH9H6vZOMTp8M0eQsOUotYQ7jmMk/cWYI9TroN9VEL315P5VM809aXYnCpvL4pFUhB7hO417Xj7OhwlJ+CXuT2Umf5/mNTTUMu+Hv6GqLrZKR4Uplv7bL85RjvQ/H5XM93M=;+CTdqAkwm+QeSh/aRspu+Q=="
+secured: "V5hMAxlzJ4CzLnQlinFimXE574Rqy/b8OmlSK7qXVM2EmP4ovnmxowvR3yv8ZcNeFm8fPvgP6hv11XpMiouRDvP+Iswk7hoUHpgDYI3QgqsnDP4lsUZcAdXjGnDLKua+P5aI++XckGE6InOM6+yJlq2l/YpxCZSf9sld2EfsTI87lcfr4kd3Oxg/llaTEbXNkk8Snsau96Dgjqjnf9/GIE4zjvKij6mF9B5xtfqaPeT0hgTYmVn12I++XRwsYezCWLQ0ISrnlBeBW8ccrtE87vN1mFZ+cUU+PaekDOZhE/blKkEZiGre4gn1RInvTbEZ3otCp4rq82CnrYMvJtwVi8M6/dRZHV7fRdapAA9jySQ=;85SCzJmWDU6lzm8vqZVWJw=="
 ---
 

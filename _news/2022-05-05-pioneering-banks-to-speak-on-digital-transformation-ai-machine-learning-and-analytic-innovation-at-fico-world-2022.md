@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 570
         isCached: true
-  - title: "The impact of using AI in the boardroom"
-    excerpt: "In applying the term artificial intelligence (AI ... One of the main problems brought by self-driving corporations or self-driving subsidiaries as an intermediate entity for replacing human-centred boards is the accountable issues and possibilities ..."
-    publishedDateTime: 2022-05-04T08:57:00Z
-    webUrl: "https://www.lawcareers.net/Explore/LCNSays/The-impact-of-using-AI-in-the-boardroom"
-    type: article
-    provider:
-      name: LawCareers.Net
-      domain: lawcareers.net
-    quality: 39
-    images:
-      - url: "https://www.lawcareers.net/web-assets/img/header/BGTL22-Front-cover.png"
-        width: 439
-        height: 614
-        isCached: true
   - title: "AI in Fashion Market Size 2022 Share, Growth Prospectus, Top Manufactures, Latest Innovation, Key Factors, Company Overview and Forecast till 2029"
     excerpt: "The AI in Fashion research also includes crucial information on industry segmentation, market share, size and revenue forecasts with geographical representation. Get a Sample Copy of the Report at - https://www.marketresearchguru.com/enquiry/request-sample ..."
     publishedDateTime: 2022-05-04T09:49:00Z

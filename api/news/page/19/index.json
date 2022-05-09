@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-04-19-hospital-robots-are-helping-combat-a-wave-of-nurse-burnout.md",
+      "title": "Hospital Robots Are Helping Combat a Wave of Nurse Burnout",
+      "excerpt": "Moxi and other delivery-focused assistants have become even more critical as the Covid-19 pandemic has pushed health care workers to their limits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/",
+      "originalUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6259fcdbe445956782d8b731/master/pass/Diligent-Moxi-Robot-Nurse-Burnout-Business.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/amp",
+      "publishedDateTime": "2022-04-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-fintech-kinara-capital-secures-usd-50-million-in-equity-led-by-nuveen.md",
       "title": "Fintech Kinara Capital Secures USD $50 Million in Equity, Led by Nuveen",
       "excerpt": "Kinara Capital, India’s fast-growing MSME fintech, closed a fresh equity round of USD $50 million led by Nuveen, a leading global investment manager with over $1.3 trillion of assets under management,",
@@ -1099,49 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-15-ideas-to-build-brand-recognition-in-a-crowded-marketplace.md",
-      "title": "15 ideas to build brand recognition in a crowded marketplace",
-      "excerpt": "When you are just starting out in the market, it may be hard to achieve immediate recognition as the newest player on the field or compete for clients in a crowded space. To pique consumer interest in an oversaturated space,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90740025/15-ideas-to-build-brand-recognition-in-a-crowded-marketplace",
-      "originalUrl": "https://www.fastcompany.com/90740025/15-ideas-to-build-brand-recognition-in-a-crowded-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/15-ideas-to-build-brand-recognition-in-a-crowded-marketplace.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -73,15 +73,6 @@ related:
         width: 940
         height: 627
         isCached: true
-  - title: "Making sense of complaints – using AI to improve learning from patient complaints"
-    excerpt: "Emilie joined techUK in June 2021 as the Programme Manager for Digital Ethics & AI. Prior to techUK, she worked as the Policy Manager at the education charity Teach First and as a Researcher at the Westminster think tank Reform. She is passionate about the ..."
-    publishedDateTime: 2022-05-04T08:50:00Z
-    webUrl: "https://www.techuk.org/resource/making-sense-of-complaints-using-ai-to-improve-learning-from-patient-complaints.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 14
 
 secured: "9d7w9tMaav/OqFzWeHdiJr7ENZ9+9xoE9XgrHVmX1O7w4r0dSDPufmRzJ4moHBtjtJDHPXhRd2fhJxoFzGg2HA6WHsFKa0eoFt278upOgU6UZ9iURJguy8I1Iso/1MVKT//TbNZ9+EG4JR9GTLAl//YPCLRUNS0GdAs7PGwQszXRhcGBFoYb1tmD1p1tR609Ah54zLR7n3R5dTRVdO4jCvEeAw7RfjdU6kKfB1npGFdPO4hKnh+xyuW8Kjx7tKVL6y9Qh5x7d52f1mPPb9HQpwpnm22kBtlL/PCdj8N21UJN86ObhbGHJ/9OvNLJoAy2z7jfEWS0RNXT+NbcvX0KZ3/cASUjZU8HuiZ++3ZgMZw=;0k+4j0QcHahQ5GjD8YxjkA=="
 ---

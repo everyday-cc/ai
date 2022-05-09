@@ -2,6 +2,59 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
+      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
+      "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure.md",
       "title": "Microsoft continues its push to convince more game developers to use Azure",
       "excerpt": "Microsoft is targeting game developers with a new Game Development Virtual Machine and its ID@Azure program, which is generally available as of today.",
@@ -1111,49 +1164,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-chinas-quest-for-greater-technological-self-reliance.md",
-      "title": "China’s Quest for Greater Technological Self-Reliance",
-      "excerpt": "But what is driving this pursuit of self-reliance, especially for China ... world of e-commerce by leapfrogging from cash to cashless payment systems. Alibaba, Baidu, and other PRC firms are also active in cutting-edge artificial intelligence research.",
-      "sourceUrl": null,
-      "webUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
-      "originalUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asiasociety.org/sites/default/files/styles/1200w/public/2021-03/Bates%20Gill%20essay%20-%20Made%20in%20China%20chip%20-%20ROMSVETNIK-%20shutterstock.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia Society",
-        "domain": "asiasociety.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "VW selects Qualcomm to power future automated driving"
-    excerpt: "“We are proud to be supporting CARIAD with Snapdragon Ride Platforms to support NCAP, active safety, to Level 4, self-driving, functionality, across the Volkswagen Group vehicles launching from the middle of the decade,” said Enrico Salvatori, SVP ..."
-    publishedDateTime: 2022-05-04T07:48:00Z
-    webUrl: "https://www.just-auto.com/news/vw-selects-qualcomm-to-power-future-automated-driving/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/08/qualcomm-hq-2-web.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Volkswagen picks San Diego's Qualcomm to supply chips for autonomous driving efforts"
     excerpt: "The companies haven't said yet which models would be the first to get Qualcomm Snapdragon Ride processors for Advanced Driver Assistance Systems (ADAS) and Level 4 autonomy —which means fully self-driving but with the motorists still behind the wheel to ..."
     publishedDateTime: 2022-05-04T18:00:00Z

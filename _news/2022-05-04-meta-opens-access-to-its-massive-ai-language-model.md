@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta opens access to its large language model for AI researchers"
-    excerpt: "Meta said the scientific community needs to be able to work together to advance AI research and probe for vulnerabilities. Facebook’s parent company Meta said it is sharing its large language model trained with more than 175bn parameters, to be available ..."
-    publishedDateTime: 2022-05-04T07:08:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-large-language-model"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 41
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_465885157_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Meta AI Open-Sources a 175B Parameter Language Model: GPT-3 Comparable Performance at One-Seventh the Compute Cost"
     excerpt: "Today’s state-of-the-art large language models (LLMs) can have more than 100 billion parameters — a number that is regularly rising — and have achieved astounding performance on complex natural language processing (NLP) tasks such as writing articles,"
     publishedDateTime: 2022-05-06T15:00:00Z

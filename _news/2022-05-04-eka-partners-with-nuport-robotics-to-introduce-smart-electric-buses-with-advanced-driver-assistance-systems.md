@@ -7,7 +7,7 @@ originalUrl: "https://pragativadi.com/eka-partners-with-nuport-robotics-to-intro
 webUrl: "https://pragativadi.com/eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses-with-advanced-driver-assistance-systems/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "EKA partners with NuPort Robotics to introduce smart Electric Buses"
-    excerpt: "NuPort Robotics, a Canadian company announced its plans earlier ... are not only environmentally friendly but also futuristic through incorporation of Artificial Intelligence thereby making our buses efficient and safer to operate on Indian roads."
-    publishedDateTime: 2022-05-04T07:18:00Z
-    webUrl: "https://www.uniindia.com/story/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 54
-    images:
-      - url: "https://www.uniindia.com/public/default-image/default-730x400.png"
-        width: 730
-        height: 400
-        isCached: true
   - title: "EKA Partners with NuPort Robotics to Introduce Smart Electric Buses with Advanced Driver Assistance Systems"
     excerpt: "was founded in 2019 by leading robotics and artificial intelligence (AI) professionals. Its mission is to improve transportation safety, increase efficiency and reduce costs for clients in retail ..."
     publishedDateTime: 2022-05-04T19:53:00Z

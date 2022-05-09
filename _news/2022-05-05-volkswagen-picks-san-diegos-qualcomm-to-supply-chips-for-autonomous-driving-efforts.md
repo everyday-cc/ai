@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "VW selects Qualcomm to power future automated driving"
-    excerpt: "“We are proud to be supporting CARIAD with Snapdragon Ride Platforms to support NCAP, active safety, to Level 4, self-driving, functionality, across the Volkswagen Group vehicles launching from the middle of the decade,” said Enrico Salvatori, SVP ..."
-    publishedDateTime: 2022-05-04T07:48:00Z
-    webUrl: "https://www.just-auto.com/news/vw-selects-qualcomm-to-power-future-automated-driving/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/08/qualcomm-hq-2-web.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "z2khNOQ81dci0Wh4/6K/vW3UcNVdZytWZi/r63kok7bg+mwQgmWIZFvOeXuJtRyf3DXHF9VcGBYnUmqSdXJd3jooRadkFWPPC09x51XP7l1TVWwNylqJW0jQ8dg8DEAuX3Oezy3ntBDXf1ISLkeI+hRjNHFM0L9/n86mqj2cqtBbBKgRQngr+6sklciWTgwwAx2cgdelep9lGqth+Ih8RG8ZdQyYUjvu/Fr1WOulcjGRYwy+xThOvRILfjBcRSM70hVlDsY+kLhd9ZSq3o8yiIA9mQbGgvpLwEv9zKu6MyJ8eTXOr8ySTIa3JtfSyJ7GSgjcRP1rAjEUVcJFXHqBwJC6wL2TH/5tOYTWDhzxBX5bgptFqfUhiEyScdTMmEBFT3jbRDXi8ufhiXoGXb5KPYwFIQWK7SVbBexe70PiuubvvLH2al5b7E9kztGAH+9LrtD41Rb/yB7AhFLYxPpTD84U4cYehZNAzuO9S5JVrOaiURDNlcU8UWvMs3GtPpOmujFNYl3Nkihn2mFYwxSIDw==;h/wsNSmNLaLI15w4sQf50Q=="
 ---
