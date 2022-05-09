@@ -26,17 +26,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Upstart: Huge Upside For This Rapidly Growing Fintech"
-    excerpt: "Upstart is a small fintech company focused on using AI to automate the loan approval process. The company has experienced rapid growth, leading to a blow off top in 2021. The froth has come out of ..."
-    publishedDateTime: 2022-05-04T12:00:00Z
-    webUrl: "https://seekingalpha.com/article/4506032-upstart-upside-growing-fintech"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
-
 secured: "OmalpJ30PDJ196aYGScZfVSMRtmpCnrhMza9hef4VeD5ujr9HNWdz0Ishdp4He50aPGqQsbCWEY7YWkUVqBKOF7f52kvTFnQkIgjXdn2PZGpzwn46ywwr1NJfojZ+W5HcQY0NCBRLIfbYDfv0Sm/IfHHgJeiQUWaHf9+FWFRNlbdBy1FYn23iP2iCHPWYS1hee8nlLVeRBrXpP4oaTT9CWSQ5VNNSxTQl5MsJ/jEfh/t3l4thmU8hgk606/sltHw9NFRbXoVJ0QAgPkJ47vsgJm6PcGO0u4RucmRGpBY4fKJMf6bmaaEIXCHD/g0F/O0ZEaNIe5DULlXOSEdC5VLNZpDzOZzOO1ZePhcyrpuvoNq0U9NG83o6SNAhw88sUmOAJmpFE/mz+vy58fSHIVPUu1PfG+UfXUVcS7BoHXwvYSXddAaLWUn4QXtplFtN7sr6gQ7NJp3c3jmFSL8XOpJcA+uFolMUhKOdWanCxCa0P2dOGOzXSErXAdCTlyyccH2flQ2VgVFXs01vJnM90Jnsg==;sIgLpO+aTPPSKY84Yv2gPA=="
 ---
 

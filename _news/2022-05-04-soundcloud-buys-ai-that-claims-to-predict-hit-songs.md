@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-
 webUrl: "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "SoundCloud acquires AI music-tagging startup Musiio"
-    excerpt: "SoundCloud has acquired Musiio, the Singapore-based startup that has developed a service offering AI-powered analysis and tagging of music catalogues. Why? SoundCloud said that it will use the tech to get more insight into the music uploaded to its ..."
-    publishedDateTime: 2022-05-04T12:38:00Z
-    webUrl: "https://musically.com/2022/05/04/soundcloud-acquires-ai-music-tagging-startup-musiio/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 17
 
 secured: "k6jILK+N7gwoESJC9j+dj1/4d9OoZFiJNfDnqINdwVOgpUkoJCM7KOPSE8/iaCS+lHaxzOzyurbkpK9aKj3Qu2ZGL0wfY/qVJyJafRD9JSma00UBRFsJsh31I4LpcmHlog4m/Iul+ZK0ppS0hvlivN05uOT00Sr3oB1XWyo5AjHLh/OxfA4Sx5V6Afb8Y3AVq/P92CFRzdfIVsPdfcVqqxfh4PHY8keCbfsfIyv2ITB2aTnyQEsTrPacLQ+tt+XKOFI4+MsAAGJOpNFFrpJTJCqkYy0mzBOEmPnXMhq11a366ERO++9dEdLF2QDZNeJc+cDpLtuY0/fzI5xBbUR86JXYfDLEthozEMjF7/71gN+2kdbzYwRnjYCzMDIJUMLWTBytNDOUUvx/1Bu9I9k+0lqfui7fUO0TfxRLTonMLntg/utayFXgyt+Zq4Smi2icC63MPcSN/Rm9Jo2crZEBVdw1ZJ+bX4u/B3UuBHEoK9njAe/hBYESH2xhDY8yerx6kg8DxFHLAK1+4/ur57BwPw==;mcYWEmhW5HicK7yfLeoA0A=="
 ---

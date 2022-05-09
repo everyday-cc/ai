@@ -123,15 +123,6 @@ related:
         width: 1799
         height: 1010
         isCached: true
-  - title: "NYU Stern Launches Master In Fintech Teaching Blockchain, Cryptocurrency & AI"
-    excerpt: "The likes of Stripe, Klarna, and Coinbase have developed innovative new financial solutions to turn fintech into a $100 billion+ industry. New York University’s Stern School of Business believes fintech’s soaring influence creates the need to train the ..."
-    publishedDateTime: 2022-05-04T13:01:00Z
-    webUrl: "https://www.businessbecause.com/news/specialized-masters/8176/nyu-stern-masters-in-fintech"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 18
   - title: "Fintech TIFIN’s Financial Answers Acquires Two Additional Digital Asset Firms to Expand Data Platform"
     excerpt: "TIFIN is an AI-powered Fintech, which “leverages data science, investment intelligence, and technology to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
     publishedDateTime: 2022-05-06T18:39:00Z

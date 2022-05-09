@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
+    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has joined NVIDIA Metropolis, a program designed to nurture and bring to market a new generation of applications and solutions that make the world's most important spaces and operations safer and more efficient with advancements in AI vision."
+    publishedDateTime: 2022-05-05T21:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai-1031428048"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+        width: 400
+        height: 205
+        isCached: true
   - title: "Landing AI Becomes a Part of NVIDIA Metropolis to transform industrial inspection with AI"
     excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced"
     publishedDateTime: 2022-05-06T10:17:00Z
@@ -40,29 +54,48 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-    excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
-    publishedDateTime: 2022-05-05T22:44:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
+  - title: "Merger of AI, IoT new buzzword for rapid digital transformation"
+    excerpt: "CHEN YUYU/FOR CHINA DAILY Artificial intelligence and the internet of things will see wider industrial applications in China as more local companies are speeding up digital transformation and deploying innovative technologies to improve operational efficiency and reduce costs,"
+    publishedDateTime: 2022-05-06T02:20:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202205/06/WS62745851a310fd2b29e5adf7.html"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 26
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
-        width: 400
-        height: 205
+      - url: "https://img2.chinadaily.com.cn/images/202205/06/627472c2a310fd2bec8745dd.jpeg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "Artificial Intelligence In Computer Vision Market is Booming Worldwide | NVIDIA, Intel, Qualcomm"
-    excerpt: "The Latest Released Artificial Intelligence In Computer Vision market study has evaluated the future growth potential of Global Artificial Intelligence In"
-    publishedDateTime: 2022-05-06T13:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-computer-vision-market-is-booming-worldwide-nvidia-intel-qualcomm"
+  - title: "NTT And Grok Team Up To Transform The Network With Artificial Intelligence-Designed, Data-Driven Operations"
+    excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations   S"
+    publishedDateTime: 2022-05-05T11:03:00Z
+    webUrl: "https://menafn.com/1104161299/NTT-And-Grok-Team-Up-To-Transform-The-Network-With-Artificial-Intelligence-Designed-Data-Driven-Operations"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?648472"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "NTT and Grok team up to transform the network with Artificial Intelligence-designed, data-driven operations"
+    excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations Supporting demanding"
+    publishedDateTime: 2022-05-05T21:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ntt-and-grok-team-up-to-transform-the-network-with-artificial-intelligence-designed-data-driven-operations"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 25
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "2t2ydD4ZvLFOjXxNcQHrBo6WmhhjI7t/9E3m7KVfeDNentdAnuXvGVlBpAfHmG3egphVSjZyf17c8bnlFc6aJRIlHgM9NTtUs2Jbj82PzaDh3JYee5Bg6J0d/Fyz/HedPVKOxBowD9zszvrHhDWV3LLcqGUVUg1BPLXiUWj6Vfsahl205pvinyhhu2kaHKO8n5+EAZkgd81z4GnQd+/FlEntpwLK1Fahg+69cJNSMwYjC9MYcgYW3oj1hYzEbvuH/7lGReQufAjuACN/sflqn/9ite8OlTnSEPE/1Ly6yLjlYCO5V4x5EPPIrZIHzbaraL++7iy0/2aEBlFUlKuVmZGdPBDHNqbASgdSa27eQZo=;uzhKXe2upTRpBVTvpO14Vw=="
 ---

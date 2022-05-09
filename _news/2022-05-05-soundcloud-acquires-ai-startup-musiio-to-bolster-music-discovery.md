@@ -68,15 +68,6 @@ related:
         width: 750
         height: 400
         isCached: true
-  - title: "SoundCloud acquires AI music-tagging startup Musiio"
-    excerpt: "SoundCloud has acquired Musiio, the Singapore-based startup that has developed a service offering AI-powered analysis and tagging of music catalogues. Why? SoundCloud said that it will use the tech to get more insight into the music uploaded to its ..."
-    publishedDateTime: 2022-05-04T12:38:00Z
-    webUrl: "https://musically.com/2022/05/04/soundcloud-acquires-ai-music-tagging-startup-musiio/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 17
 
 secured: "b3DpfeAqX2rjPZJ/uQ5s3S1LPjI2UtOWrbVmiXJFo6SPrlNKgKV6R54yDHspznPMqs6Mfss/WHUtVYM3rKUJ+Kyaly/v7s14BCiv09D9LWByTYcyTmCJTjGtaVY4C0Mj1zXuzo4oACk7Uy2cIyOs43Exd1u43OvCYghTLlq8FRWGJwCtgf5GKjukJve6+XJ3tGZJJacwPwOrRMnlNoYEyWURvQXNkxMW47Ze3jP0j1wsOU8tU4W8HkxhQ3KW/xUZN5XUTmQfMQgfFarRyncdjVHsYSO4WRt3W7cYf88x6zBkpyHEQMgCHhJp1Dt9yEOjn1VQoAnFrkU2qu9wOYflTQaRIUCN7gcCLeNfk0W0iCg=;Z1Ticwfj1NIRFMZ5n8aqww=="
 ---

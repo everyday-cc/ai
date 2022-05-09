@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Who is ethically responsible for the actions of AI"
-    excerpt: "The work is described in ‘The Dawn of the AI Robots: Towards a New Framework of AI Robot Accountability‘, published in Journal of Business Ethics – available in full, expect much philosophical language."
-    publishedDateTime: 2022-05-04T11:32:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/ethically-responsible-actions-ai-2022-05/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/05/04113809/Durhamlogo.jpg"
-        width: 1024
-        height: 395
-        isCached: true
   - title: "The advance of artificial intelligence into health care"
     excerpt: "Artificial intelligence is taking hold in medicine. Every sector of the health care system is testing the technology to improve patient outcomes,"
     publishedDateTime: 2022-05-05T22:25:00Z

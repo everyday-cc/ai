@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/659075/WCG_Logo_Logo.jpg"
+    width: 400
+    height: 223
+    isCached: true
 
 related:
   - title: "WCG and Deep 6 AI Announce Partnership"
@@ -32,6 +39,6 @@ related:
       domain: appliedclinicaltrialsonline.com
     quality: 17
 
-secured: "h1NQm49bzeTCf9xR5VA8qRliQRxGv/25W9/e2GK5Cdikm9zsV75feVfh7YRd6WY/y6Zhjm53Oxt6viHQVppEFmab0uJdiKI5oBmFpV+l9+kKJUOVEuxJmAx5jvNJSy0mt+xEgXtFnhh7vmarHgIsMdVZcT9jyS+ISfLmmaNPA0BMhrKyC5w9zM2lG/s1uXnjAh8clcGiWB8Z7+/33CH9ogM8yU/760T5tzusRPCbhDnGU0RanksMpq1B5j4MyhCIRomD5OAJ5bDLRDvOmJX4BO1gAD69HZezF4t9NRqxqAK3zL7tCQvBmLjal6nvfj4zw306lsVkYNwBITeRyI78xbSL7aM1aSlGbf61+5lWIbrEo8Wy/c5UMBiBZd8EApAnny4kMx0F309JnkFJUNbLSoCst1ZVARfcncyyMD9MJmapPOLMk/IEELaXCaA1bmpgUrwBudawnOwTWXLbkw1Xfpe2X0TXMIV+t+QkM2I9U/gmI09+kEu1nK4HmpbK3M68PoyY+dqLIMHeWBBwd7NA5w==;aEcSRXGcAPKzRYIhtGU86A=="
+secured: "zf1EslsgsvhSpx8Vgv0M8M1iQbFKZn+n4LhnTv+gSpiBxx0BFku+jqoyGf+o3Q+WzBrRlyaLO1ekUhGFcg+suMJ/uO4YRXHrbZiJGvwo/as3OssNUfT+GmulGm4qOx3OZl03YOb+zSSwgis2SGll4AVACm3JaTqtmuiCn0zJE7nhFr7aNE5xMkjbG7/tkTUZ+LSoaRRaEYgosw1BRZYd28wISTL6D2Dz6QN48ZpfUCVzCDxiYuWQ99mmT4XbPQmvFxJRq9DvmE7hCYFbwvUs2kN33Dd8XZajefIb6VFNb+xTQ8ZmYs8YHtlsztz47Tcu/oVSQqhVkS1tdfhVkUOHx2WzsiXAqGzauIlE7WXePtI=;iYOHVKCboQWKBw1JMAXuyg=="
 ---
 

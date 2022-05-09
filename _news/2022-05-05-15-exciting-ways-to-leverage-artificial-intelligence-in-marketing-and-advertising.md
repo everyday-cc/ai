@@ -5,8 +5,10 @@ excerpt: "In the world of marketing and advertising, the applications for AI are
 publishedDateTime: 2022-05-05T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/"
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/"
+ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/amp/"
 type: article
-quality: 61
+quality: 103
 heat: -1
 published: false
 
@@ -22,6 +24,13 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Marketing
+  - AI in Autos
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6272f06d987de7aba1bb66d0/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 819
+    isCached: true
 
 related:
   - title: "UK regulatory bodies call for auditing standards of AI and machine learning"
@@ -41,6 +50,6 @@ related:
         height: 461
         isCached: true
 
-secured: "uNDddE/b9nvX8pHQ/p4KgTthNgdUITP23rBBTtXooGUQId8AP6DBZi1spH6i4y2ZLN3qHkZUNqCKYpVH2hqGl9Fsd6MvOYRRB46ufSUd/jatT3cqPDePRB0jIZkZU6IBmLP3tb93k5EBZv/NK0ZlarKRnqodIMX5Qo7tG0V2r53TgE4bvQsXGcUyfnroo7BYN+1CmO74+z6FjyTd9BAY7P8pbVpiAtUqt7TUNH9h0gXyIdYNfIuK/qgAw552Dpe0UvCu/FZBGleKISceeHRSIasWT5e5UI12uNc0fZPDVNRRWtMdQnzo/Xq+kVI1ycmFA6ozDIlxi957loErol9vwUM6pN48nllUW4J1L1w0BmWk6finFNawGNrEiwIkeigpoW5sE09CaJFMkyQGJHwqntprsDyNTIh98OzZfJKdYx4GBlyAVUIoc2szsQf/6MUS1eweGQXc9HJUW2oQPAw/1/n/1e14P/nTV2qmLJ78sTsST4aoGg1hMPiMAyT0xUCOlH89xNS/Yz7UWMRahEAjcg==;iXZ+ZiGPAsreAr+dTplC+Q=="
+secured: "wBIdlv+AR4wuJW++XYMmTDfiXtejunQ5izhAoRIAO5lKqcBKYTWsF+IVzrIDvgkH/LnUNGQQUlsUNV34aARNRU/PwKAmj/Wiw4w6lT+/fbOq6J5QrT1f/ENMpOFFii7/VE1Yg44hEeegpxG2hSfvGmDr0PzNNe3wO0asTM/B9Fsalpk60dKQIsJa3DBDjzDs+HcHYlWHmwb75AYa1H6JIty2L0BPpRdxIZ01LcF05emT9Q7OA/gWgoP0HOr9YLxThbj4r22HeEjiQH2xDNlgnKRAVTWAnjbuQbmnZjxSv7ZZsvUCFGQjytJrRxOnxBWkndmtR9Rw8P//5KKYj7xHhuy3FRhxuNYhiDHjxHast8s=;9vgCWgwLf6sBPQgUGt4NdQ=="
 ---
 

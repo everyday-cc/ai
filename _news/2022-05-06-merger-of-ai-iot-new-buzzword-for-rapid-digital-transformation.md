@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202205/06/WS62745851a310fd2b29e
 webUrl: "https://global.chinadaily.com.cn/a/202205/06/WS62745851a310fd2b29e5adf7.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Transformation in Healthcare Market: global outlook and overview 2021-2031"
-    excerpt: "Surge in the adoption of advanced technologies such as artificial intelligence across the healthcare sector and growing support by several government authorities for digitalization are some of the prime factors boosting the expansion of the global digital transformation in healthcare market during the forecast period of 2021 to 2031."
-    publishedDateTime: 2022-05-05T09:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/digital-transformation-in-healthcare-market-global-outlook-and-overview-2021-2031"
+  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
+    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has joined NVIDIA Metropolis, a program designed to nurture and bring to market a new generation of applications and solutions that make the world's most important spaces and operations safer and more efficient with advancements in AI vision."
+    publishedDateTime: 2022-05-05T21:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai-1031428048"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+        width: 400
+        height: 205
+        isCached: true
+  - title: "Landing AI Becomes a Part of NVIDIA Metropolis to transform industrial inspection with AI"
+    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced"
+    publishedDateTime: 2022-05-06T10:17:00Z
+    webUrl: "https://enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/"
+    ampWebUrl: "https://enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/landing-ai-becomes-a-part-of-nvidia-metropolis-to-transform-industrial-inspection-with-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 48
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Landing-AI-Becomes-a-Part-of-NVIDIA-Metropolis-to-transform-industrial-inspection-with-AI-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Allied Solutions Partners with Scienaptic AI to Deliver Enhanced Credit Decisioning Platform"
+    excerpt: "Allied Solutions, one of the largest providers of insurance, lending, risk management, and data enabled products to credit unions, has just launched a strategic collaboration with Scienaptic AI, leading AI-powered credit underwriting platform provider."
+    publishedDateTime: 2022-05-06T08:18:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/allied-solutions-partners-scienaptic-ai-deliver-enhanced-credit"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 26
+    images:
+      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_0.png"
+        width: 900
+        height: 480
         isCached: true
   - title: "NTT And Grok Team Up To Transform The Network With Artificial Intelligence-Designed, Data-Driven Operations"
     excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations   S"

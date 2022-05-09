@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Kakao Brain Brings Big Improvements to the Metaverse with New Face-Swap Technology"
-excerpt: "[2] CVPR (Conference on Computer Vision and Pattern Recognition), co-sponsored by ... [3] Identity gradient is a learning signal telling the face-swapping model which part must be tuned ..."
-publishedDateTime: 2022-05-09T03:01:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220508CN49049/kakao-brain-brings-big-improvements-to-the-metaverse-with-new-face-swap-technology/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220508CN49049/kakao-brain-brings-big-improvements-to-the-metaverse-with-new-face-swap-technology/"
+excerpt: "[2] CVPR (Conference on Computer Vision and Pattern Recognition), co-sponsored by Institute of Electrical ... [3] Identity gradient is a learning signal telling the face-swapping model which part must be tuned to change the person's identity accurately."
+publishedDateTime: 2022-05-09T05:48:00Z
+originalUrl: "https://www.wric.com/news/business/press-releases/cision/20220508CN49049/kakao-brain-brings-big-improvements-to-the-metaverse-with-new-face-swap-technology/"
+webUrl: "https://www.wric.com/news/business/press-releases/cision/20220508CN49049/kakao-brain-brings-big-improvements-to-the-metaverse-with-new-face-swap-technology/"
 type: article
-quality: 33
-heat: 33
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WRIC
+  domain: wric.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
-
-secured: "KzkUSpH9E4Wgk9bKcngTOJRphkFb48r3FsoBTbhdBJ9/SS19/MJYlm9Dkl7pOm7OpI9czIdN4oJhBshQaxsDdFluAvqE5dQPP/V3ASU4ezYoA+niYUrspfNDeV5I8EvnVJ4W6rQSIbyk729aFjoFRwdD4CwbPRMSaotO2iiAxIiK2mJswVrGdkGf/u5q2+mqidzyvqCwoPm0l2E2KhKo3aEGAq7X6ZsXh6VbXrAGVlPV74Dw/xsSqeC0+UrJRvyGW/MstLuRIQ1dDSgxlNwgTRewgUSX7NynrLK83DrSJDG9fj6PGncw1wYItjSx7Ub8Biq615BZUev5GqJs4/n9czBmgHRGMelKQgfP5T7K54k=;roucuBekMEmnkrzsQ9s9+A=="
+secured: "F/6hbWwYxrmxZOd8bXgGTO8pLuA5WyoysniGF9l0ZVjBME6NPRYbmdwztjAoKnOm5oBtViRfIsMVsUyVB5MPguYSN+F0qaQmX7Gam8SJIMobD1ek8QJmchaJKugoPZfXog/hDNti4xPo46nMgVESVqajuZh2y3UFarbllvWbtUm6Rlt4Mj52B43WnYgbLhrK5jGSiiccBsophc+CabybL82zwrXoO/nbxt5RNeEjFs55j47Eps0+U6sWWMKKeClHwL8MKOz0H8xC3Gg4stJfkTbBp4H2E/IR8dO9pc8TzHGOckbiVRudRtlueSe2eGGn965wxel6hn16UwChNSAHD81b+EeWxdvDm4maSnt/SNI=;ShrfvapB9MCiVb12aeJ9wQ=="
 ---
 

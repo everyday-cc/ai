@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to scale the power of AI simulation"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-04T15:10:00Z
+    webUrl: "https://venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/"
+    ampWebUrl: "https://venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/how-to-scale-the-power-of-ai-simulation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/digitaltwins.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kinetix uses no-code AI to create 3D animations, secures $11M"
     excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
     publishedDateTime: 2022-05-04T14:17:00Z

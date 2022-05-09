@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2022/05/how-is-ai-moving-the-needle-in-the
 webUrl: "https://medcitynews.com/2022/05/how-is-ai-moving-the-needle-in-the-pharmaceutical-industry/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 385
     isCached: true
 
-secured: "FvsvuOFMshK6Zs+sh5eaWST5+8tT1Ygf1IGA6qpa9/Wr9Z7t2x41VZSAUDbkl27ydEtyaVD0FNQO9bkGPQJHQvOROfZw63HtTTIa8r0XC8dMo1mS7UW1nncpsjis/XxgEmEywXOr6GXQ3gK/0ZaEfzJZHEdNw050xlnC5fxxYuTiJK0arpeNDcYMZevC9bIXIgMJ39rbXbB4gjM2gkB3C6XVf204zCqUcVRY2/EcDX4UTfff3BUBJoMEk4wZBQzpMxSegSaA8msCJBymUtlfSQAePhBOJHpj8tPvas+cSq0k+39t4y4GQpy2VpUpgqWi9iuOKB835tJfCJHo89GBGhVNnqoleaGAW5lLEq5NQDM=;gx51ngxfU2zTHKwdVNPdlg=="
+related:
+  - title: "How Indian startups embed Ethical AI in their processes"
+    excerpt: "According to the Global AI Adoption Index 2021, 91 percent of companies using AI think it’s important to understand how the models arrived at a decision. Additionally, more than half of the businesses pointed out stumbling blocks that gets in the way of embedding ethical AI in their processes,"
+    publishedDateTime: 2022-05-09T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-indian-startups-embed-ethical-ai-in-their-processes/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/ethical-ai-in-indian-startups.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "zQe5LNf5RA26iL9CHLTgCojFL0eAxR3aSehd2kxNyesjitTwEkSZ595Afq0VYZ7MSB1qcV/IUMKORsaAdam1WQwxJE6d2D1r1GD4odDRAvc/Ia/j/zgAEZ0VFhgWDh8GLp+rNUMllo4yXfdJ8rZaCgqfUZVjFLDFRoXSKerdAy8doWWMeJxYD6Xi1JgJHiEPvWuJtyJKxbfVfrB6lwbyUxWiOLvD0jU5hqbBtQfrm08QRNxwl7EXJoHx8ciowviB3X6Lk0xrx/yWE773iDDjQVyrOZuVtxXpOSsii+taT7FzxQJMMDFYUK2iY/+MeWXpwbTq8aw/HALYnKAQJ2eiT6z4K382NxefXG9C9hcDmainZYs7CV2HJphgS/JxT77NdETcyFgNakdYmKFBLt68WC7d+tJmJTDfmiOTgHrm3fVydLNPfcr/wGX5H1jLMwA0Omx69qitFfpwaAAkbRUNWtMbSzcLJTL6zMjJyuj2AjMi5tKvaiDSS3YQSFlcCbJzKQDMvPnIh6iP8Fuok69Qcg==;Hc8iXZppW+LZe84nzQxHtw=="
 ---
 

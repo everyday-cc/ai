@@ -30,44 +30,53 @@ images:
     isCached: true
 
 related:
-  - title: "Robots Are The Key To Advancing Artificial Intelligence"
-    excerpt: "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ..."
-    publishedDateTime: 2022-05-04T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/"
+  - title: "Traceable AI raises $60 million for unique API security platform"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-04T22:03:00Z
+    webUrl: "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/"
+    ampWebUrl: "https://venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/traceable-ai-raises-60-million/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 108
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov.jpg?w=1200&strip=all"
         width: 1200
-        height: 840
+        height: 596
         isCached: true
-  - title: "Three Things To Consider When Bringing AI To Asset Management"
-    excerpt: "In another recent report on the topic, Deloitte suggests that asset managers should start by focusing on quick wins, embracing strategic collaborations and partnerships and clearly defining their AI strategy. There's something to that. When implementing AI ..."
-    publishedDateTime: 2022-05-04T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/three-things-to-consider-when-bringing-ai-to-asset-management/"
+  - title: "Kinetix uses no-code AI to create 3D animations, secures $11M"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-04T14:17:00Z
+    webUrl: "https://venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create-3d-animations-secures-11m/"
+    ampWebUrl: "https://venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create-3d-animations-secures-11m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/04/kinetix-uses-no-code-ai-to-create-3d-animations-secures-11m/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Finbots.AI Raises $3M in Series A Financing"
-    excerpt: "Finbots.AI, a Singapore-based AI-based company that brings innovation to banks and financial institutions, raised $3m in Series A funding. Accel made the investment from Fund VII. The funds will be used to accelerate product improvement, marketing and ..."
-    publishedDateTime: 2022-05-04T23:01:00Z
-    webUrl: "https://www.finsmes.com/2022/05/finbots-ai-raises-3m-in-series-a-financing.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech21.jpg"
-        width: 1000
-        height: 667
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/no-code.jpg?w=1200&strip=all"
+        width: 1200
+        height: 920
+        isCached: true
+  - title: "The quest for explainable AI"
+    excerpt: "Explainable AI seeks to infuse algorithms with transparency so that even lay users can ensure their AI is operating within acceptable bounds."
+    publishedDateTime: 2022-05-06T23:01:00Z
+    webUrl: "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/"
+    ampWebUrl: "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1364050120-e1651871311915.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "FY4pNHv8tMsd35ITUgx3zaK6YEeOUO6tnJM55sjeq9NTw8asG3sdbsE49leV0biP+kizqn3dNx0JPtuCRJrrbp6uNwt9Z46/dTpaUI9yZ7NgRQVJww4djEohvh8na3+KK5Bu19Uwsl9OGo7pr6NhmQg4dEKrSv0xCEOfGsRQM4ZsCl1nRlIRceNVxdPPLMAqP0XE8Bi7nDUTsP/drzv5C0l4ix1DI/G0lqebBMg8G8XVc588R0pvMlIcuOD7etTfl+70CiWa4+rT6zxwbz/BXWvEm63j9dEtVhMb2w5myoCxUygolyC4i5Nc8Q9TP4mkuc0d/QG8knGsKq68DBpknC4ZBQYUScOw3lWWZvI8TaoIy0xFnQ8Vsg8cUSwCPHQEEqVXkPrqxcdLwTfRSZQ2FYEer2LeIKsvPqG8XFVbsOrXGt+7RZ9a/fTFkjB2uoMC8NyNr7njB71Vjj9Qd7WkdUzuTgJo/YTcPCncZjKMT1rxgJX8J/nhyPiSEfLFbB8MvzhTdjvTXWNTY2bX4wpW5g==;I6oGfs4q0Uc0j2BhHwsdog=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethica
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/"
 type: article
 quality: 114
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Who is ethically responsible for the actions of AI"
-    excerpt: "The work is described in ‘The Dawn of the AI Robots: Towards a New Framework of AI Robot Accountability‘, published in Journal of Business Ethics – available in full, expect much philosophical language."
-    publishedDateTime: 2022-05-04T11:32:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/ethically-responsible-actions-ai-2022-05/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/05/04113809/Durhamlogo.jpg"
-        width: 1024
-        height: 395
-        isCached: true
   - title: "Ethical use of AI in investigations"
     excerpt: "Ever since laws were first created in ancient cultures, people have been breaking them in increasingly devious ways. This had led to an ongoing cat and mouse game between criminals and those who enforce laws,"
     publishedDateTime: 2022-05-05T09:08:00Z

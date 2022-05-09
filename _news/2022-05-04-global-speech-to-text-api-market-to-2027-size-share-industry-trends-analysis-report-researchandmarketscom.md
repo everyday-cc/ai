@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26996607"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26996607"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Agriculture Market – Global Industry Analysis, Growth, Trends by 2030"
-    excerpt: "The COVID-19 pandemic is expected to moderately impact the global artificial intelligence in agriculture market for a short-term period. The level of investment with regards to AI in agriculture has been reduced due to the lockdown in almost every region ..."
-    publishedDateTime: 2022-05-04T11:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-agriculture-market-global-industry-analysis-growth-trends-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence In Oil & Gas Market 2030 Industry Analysis, Trends, Market Size And Forecasts"
     excerpt: "Key Companies Covered in the Artificial Intelligence In Oil & Gas Market Research Report are   IBM (US), Accenture (Republic of Ir"
     publishedDateTime: 2022-05-05T10:56:00Z
@@ -55,6 +41,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Call Center AI Market worth $4.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Download PDF Brochure: https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=263925467 Call Center AI solutions are being leveraged by contact centers to improve the customer experience as well as operational efficiency. With advancements in AI ..."
+    publishedDateTime: 2022-05-05T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/call-center-ai-market-worth-4-1-billion-by-2027---exclusive-report-by/article_6247c71e-1d59-5bd2-84df-737b9cdd1c78.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 8
 
 secured: "yTdB5id3sY4d4rprxqrTPwUaBbW33GLG2LFNTDpJT7KEw59wifBaCbaoRtNjD0sFRcx/BsJskSgEQJmh4gUEkX6GwScb/4dSDA0mfHCtI4TXpX09lJwqxnpbWRkvQ69/1Xb8iupgJxFfTRoVqk4MWtNQdZvEwu2fCPRUe6X0uE7+OgU/rg1/l5YswU5qAC/WllRHD/+DX+Ohb4Jr2sGJmhRMlrAuOEOevCU0Gpx8ronebyrUumOjhWyhj60b/2sIYsb9c2agVFyQWK9hBUcPycKbzVpb2UhIW93wzg5kSy6O/viskOc7gm1y0WLjBfDiPK1YYeYAYhzTyUcStSKyF19xFobSqMOzPltdXnm2Ul0gcAN4B6xrdafCepyRChHHJecvpZ1qHvL3oD/9zdXh0EMYXbNx1e0X2YVT7kxesq4wTvECw/1wa0vRRL9/6ij/aesB8IV/hSaeOYkjNvIEXLwvBkrHA32dKeM4mk3UlSSH8htk4n9klNn0sVEMLqCZmqq4Pz1Aub3kkm4hl8rRSw==;uP+iyS+sGXDV05nBrBCHbw=="
 ---

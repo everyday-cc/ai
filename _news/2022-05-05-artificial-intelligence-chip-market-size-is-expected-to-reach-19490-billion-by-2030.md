@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-
 webUrl: "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030"
 type: article
 quality: 55
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cognitive Analytics Market Forecast To Reach $14.95 Billion by 2027"
+    excerpt: "Companies use cognitive analytics tools and services to gain access to larger and more diverse data sets. When managed effectively with cognitive analytics technologies, these data sets can ..."
+    publishedDateTime: 2022-05-04T14:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/ab26992672/cognitive-analytics-market-forecast-to-reach-14-95-billion-by-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26992672"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26992672"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Deep Learning Chip Market worth $21.31 Billion by 2027 – Exclusive Research by The Insight Partners"
     excerpt: "According to the new research report published by The Insight Partners, titled “Deep Learning Chip Market to 2027 – Global Analysis and Forecasts By"
     publishedDateTime: 2022-05-05T16:04:00Z

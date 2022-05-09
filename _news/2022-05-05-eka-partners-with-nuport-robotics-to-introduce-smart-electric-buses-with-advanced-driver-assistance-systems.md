@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/Business/20220504/39379
 webUrl: "https://news.webindia123.com/news/Articles/Business/20220504/3937903.html"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "EKA partners with NuPort Robotics to introduce smart Electric Buses with advanced driver assistance systems"
-    excerpt: "NuPort Robotics, a Canadian company announced its plans earlier ... are not only environmentally friendly but also futuristic through incorporation of Artificial Intelligence thereby making our buses efficient and safer to operate on Indian roads."
-    publishedDateTime: 2022-05-04T11:29:00Z
-    webUrl: "https://pragativadi.com/eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses-with-advanced-driver-assistance-systems/"
-    type: article
-    provider:
-      name: Pragativadi
-      domain: pragativadi.com
-    quality: 36
-    images:
-      - url: "https://pragativadi.com/wp-content/uploads/2022/05/EKA-partners-with-NuPort-Robotics-to-introduce-smart-Electric-Buses-with-advanced-driver-assistance-systems.png"
-        width: 640
-        height: 381
-        isCached: true
 
 secured: "sw42ZDQXgxgiI8xcbF1orTHlUv6zz2cwxlLI6ag6tX7GvOXyhPeIek0rBa2GCjvQVNB1Z33NLNm57nS8L8+9wjTKji6gJugogJz8I5I3SG/gqgOlNFlx0t8fzvZz5HwyWD3/yqbkc7eF2T+qfQsRNXjQ4wPYsAOgCbmUPB3cdN9be+aMeVBtFRR8eTC17xu5oDM2V5yF49SX3tsF1v2jPUsWOQIybJNKYmzCrBKJzYy/EyBwhxSESWADPzMfbsv2vVmiMzXnfrbjkYdm5lhzgzkIs4al8WYqId0Er/9dZBEDkYf7H/5fS+1OC5j3rQ2p83W2fQ+Oy4WL1a5WTlH/+2HeF1E8R3Ml0li5M3dJmVU=;EKMRvGQZ+NkTi7Cl/Jnw7g=="
 ---

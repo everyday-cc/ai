@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-excerpt: "Landing AI unleashes the next era of AI with its pioneering data-centric approach that brings the benefits of AI to manufacturers that lack big datasets associated with traditional AI. Its LandingLens software streamlines implementation of industrial automated inspection systems using deep learning AI technology."
-publishedDateTime: 2022-05-05T22:44:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220505SF48612/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai/"
+excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has joined NVIDIA Metropolis, a program designed to nurture and bring to market a new generation of applications and solutions that make the world's most important spaces and operations safer and more efficient with advancements in AI vision."
+publishedDateTime: 2022-05-05T21:50:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai-1031428048"
+webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai-1031428048"
 type: article
-quality: 26
-heat: -1
-published: false
+quality: 56
+heat: 106
+published: true
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -40,6 +44,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Merger of AI, IoT new buzzword for rapid digital transformation"
+    excerpt: "CHEN YUYU/FOR CHINA DAILY Artificial intelligence and the internet of things will see wider industrial applications in China as more local companies are speeding up digital transformation and deploying innovative technologies to improve operational efficiency and reduce costs,"
+    publishedDateTime: 2022-05-06T02:20:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202205/06/WS62745851a310fd2b29e5adf7.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 37
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202205/06/627472c2a310fd2bec8745dd.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Allied Solutions Partners with Scienaptic AI to Deliver Enhanced Credit Decisioning Platform"
     excerpt: "Allied Solutions, one of the largest providers of insurance, lending, risk management, and data enabled products to credit unions, has just launched a strategic collaboration with Scienaptic AI, leading AI-powered credit underwriting platform provider."
     publishedDateTime: 2022-05-06T08:18:00Z
@@ -54,16 +72,35 @@ related:
         width: 900
         height: 480
         isCached: true
-  - title: "Artificial Intelligence In Computer Vision Market is Booming Worldwide | NVIDIA, Intel, Qualcomm"
-    excerpt: "The Latest Released Artificial Intelligence In Computer Vision market study has evaluated the future growth potential of Global Artificial Intelligence In"
-    publishedDateTime: 2022-05-06T13:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-computer-vision-market-is-booming-worldwide-nvidia-intel-qualcomm"
+  - title: "NTT And Grok Team Up To Transform The Network With Artificial Intelligence-Designed, Data-Driven Operations"
+    excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations   S"
+    publishedDateTime: 2022-05-05T11:03:00Z
+    webUrl: "https://menafn.com/1104161299/NTT-And-Grok-Team-Up-To-Transform-The-Network-With-Artificial-Intelligence-Designed-Data-Driven-Operations"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?648472"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "NTT and Grok team up to transform the network with Artificial Intelligence-designed, data-driven operations"
+    excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations Supporting demanding"
+    publishedDateTime: 2022-05-05T21:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ntt-and-grok-team-up-to-transform-the-network-with-artificial-intelligence-designed-data-driven-operations"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 25
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
-secured: "2utwsq7vC/KWjGqM0PKrJJNoDuonhB5kNw53JqMhl/58lPe0ADwWTl8lMu+CLB8JWsT9bc1kaDY7QrN/T8x/8yjCKJQuEw47/XcHEqzaa+pPEvZwINdTwJ2JnA28lVHcUsXFikzNH8cN62Hks4vKzxeq51th7AUnCvCW4K9QEGgvaBszsKe5v7+ppC8gyKIK2cprcej2MnlsfsclI1B+dgcfpDSM9GeqN5Vj6LDrZcV8g4UC2az+yRmQIaVPwxOnly+V9sfeLco3NmoEsh/M0KFq1y2sfqnnoiaWiBpTYyQ3QA/ydim4G+cyj6IExolKuYxjTwlCcQX49nIN1Pd9Ml72nFrFqohGhrJz5jdlsP0=;WvzeJDS9cavuLJ7s3O8gmw=="
+secured: "DifEemNB/EZmCHNXcuYRuAVeO3kqL5J1a5AQBsclABvfy6W7ym+X07LE763Iwad9IF85TDSgSRJWLuLV9ZucN6ZXSAdDG4UYsq2P8l8iES2lXVWXFqsMDHlkFT/i2WL/g0fWXIzT9qJRuq331LdpuM1SnYYn7QkpoYHWwY0NSfdJ8XyA+vvtemXyrdOn6nDjZVNOVEf/iQrVW/0GupysdXIetPLaEd4u9jOQI3a83FebZiugqoAOfJqQ9gME601+UzvJHYCzajwGIQRwUHeUr1UmZY20GrjoudQmfECxMawc6euZBF4IA2JZAKEArY/lBwVviWQZmlKG1n1L4pSpqnRkkx6AVsY7E+gGODOSkRI=;aDzwFQHv17cf1MRfY1Xk5Q=="
 ---
 
