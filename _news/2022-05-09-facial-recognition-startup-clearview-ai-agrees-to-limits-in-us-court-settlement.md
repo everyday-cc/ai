@@ -43,6 +43,86 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Clearview AI Agrees to Limit Sales of Facial Recognition Database"
+    excerpt: "Clearview AI has agreed to limit the sale of its face-scan database in a legal settlement with civil-rights groups, a victory for privacy advocates who called the software maker’s technology a tool for mass surveillance."
+    publishedDateTime: 2022-05-09T19:52:00Z
+    webUrl: "https://www.wsj.com/articles/clearview-ai-agrees-to-limit-sales-of-facial-recognition-database-11652129564"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 103
+    images:
+      - url: "https://images.wsj.net/im-540821/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Clearview AI To Be Banned From Selling Facial Recognition Tech To Most Firms"
+    excerpt: "Clearview AI, a startup that operates a massive facial recognition database, has agreed to a nationwide ban prohibiting it from selling access to the technology to most private companies and private individuals. The ban comes from a settlement Clearview AI ..."
+    publishedDateTime: 2022-05-09T20:36:00Z
+    webUrl: "https://www.pcmag.com/news/clearview-ai-to-be-banned-from-selling-facial-recognition-tech-to-most"
+    ampWebUrl: "https://www.pcmag.com/news/clearview-ai-to-be-banned-from-selling-facial-recognition-tech-to-most?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/clearview-ai-to-be-banned-from-selling-facial-recognition-tech-to-most?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 101
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/073s4gg4BUz2aszEfctu9er-1.fit_lim.size_1200x630.v1652125137.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Controversial facial recognition company Clearview AI banned from selling to private US businesses"
+    excerpt: "The facial recognition company Clearview AI is now banned from selling its tech to private US businesses, per a settlement agreement filed Monday."
+    publishedDateTime: 2022-05-09T20:47:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-facial-recognition-lawsuit-us-businesses-private-companies-2022-05"
+    ampWebUrl: "https://www.businessinsider.com/clearview-ai-facial-recognition-lawsuit-us-businesses-private-companies-2022-05?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-facial-recognition-lawsuit-us-businesses-private-companies-2022-05?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/627972c494a2c10018eea591?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Facial recognition company Clearview AI agrees to restrict sale of database in settlement"
+    excerpt: "The company can no longer sell to private businesses or law enforcement, according to a settlement reached Monday."
+    publishedDateTime: 2022-05-09T20:27:00Z
+    webUrl: "https://www.cbsnews.com/news/clearview-settlement-aclu-law-enforcement-illinois/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 67
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/09/77168b00-64e5-4eb8-8109-99edd1348887/thumbnail/1200x630/8fe71faeabdf7becf56abe37411266d7/clearview-ai.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Clearview AI agrees to permanent ban on selling facial recognition to private companies"
+    excerpt: "Facial recognition surveillance company Clearview AI has agreed ... this settlement demonstrates that strong privacy laws can provide real protections against abuse,” said ACLU Speech, Privacy, and Technology Project deputy director Nathan Freed Wessler."
+    publishedDateTime: 2022-05-09T19:26:00Z
+    webUrl: "https://www.theverge.com/2022/5/9/23063952/clearview-ai-aclu-settlement-illinois-bipa-injunction-private-companies"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 60
+  - title: "Clearview AI banned from selling its facial recognition software widely in the U.S."
+    excerpt: "A company that gained notoriety for selling access to billions of facial photos, many culled from social media without the knowledge of the individuals depicted, faces major new restrictions to its controversial business model."
+    publishedDateTime: 2022-05-09T19:05:00Z
+    webUrl: "https://techcrunch.com/2022/05/09/clearview-settlement-bipa/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 60
   - title: "Clearview AI to stop selling facial recognition tool to private firms"
     excerpt: "The facial recognition company Clearview AI will be banned from working with private companies ... including a $650 million settlement from Facebook related to its facial recognition use. The U.S. has no federal facial recognition law, even though the ..."
     publishedDateTime: 2022-05-09T16:30:00Z
@@ -51,26 +131,50 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOCQUNDAGUI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 857
         isCached: true
-  - title: "Face-scanner Clearview agrees to limits in court settlement"
-    excerpt: "CHICAGO (AP) — Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people’s photos without their consent. The company in a legal filing Monday agreed to ..."
-    publishedDateTime: 2022-05-09T17:10:00Z
-    webUrl: "https://apnews.com/article/technology-business-social-media-chicago-lawsuits-fc4f902976aecdd38b1eca48694c8faa"
+  - title: "Face Scanner Firm Clearview AI Agrees to Limits to Settle Lawsuit"
+    excerpt: "Face Scanner Firm Clearview AI Agrees to Limits to Settle Lawsuit By Jonathan Stempel (Reuters) - The facial recognition startup Clearview AI agreed to restrictions on how businesses can use its database of billions of facial images, to resolve a lawsuit ..."
+    publishedDateTime: 2022-05-09T19:28:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-05-09/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "'Milestone' Settlement Will Severely Limit Clearview AI's Ability to Profit Off Your Face"
+    excerpt: "A new settlement with the ACLU will effectively ban Clearview from selling its face data to most private entities nationwide."
+    publishedDateTime: 2022-05-09T19:45:00Z
+    webUrl: "https://gizmodo.com/aclu-settlement-limits-clearview-ais-facial-recognition-1848901283"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 40
+  - title: "Clearview AI settles suit and agrees to limits on facial recognition database"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict ... a lawyer known for taking on high-profile free speech cases. Abrams noted that the company was already not providing its services to police agencies in Illinois and agreed to the 5-year ..."
+    publishedDateTime: 2022-05-09T18:34:00Z
+    webUrl: "https://www.khaleejtimes.com/tech/clearview-ai-settles-suit-and-agrees-to-limits-on-facial-recognition-database"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 33
+  - title: "Face-scanner Clearview agrees to limits in court settlement"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people’s photos without their consent."
+    publishedDateTime: 2022-05-09T20:53:00Z
+    webUrl: "https://www.seattletimes.com/business/face-scanner-clearview-agrees-to-limits-in-court-settlement/"
+    ampWebUrl: "https://www.seattletimes.com/business/face-scanner-clearview-agrees-to-limits-in-court-settlement/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/face-scanner-clearview-agrees-to-limits-in-court-settlement/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 24
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/b55c687c26764bf3b319ae000373e6b2/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "In Big Win, Settlement Ensures Clearview AI Complies With Groundbreaking Illinois Biometric Privacy Law"
     excerpt: "Under a legal settlement filed in court today, Clearview AI — a secretive face surveillance company claiming to have captured more than 10 billion faceprints from peoples’ online photos across the globe — has agreed to a new set of restrictions that ensure the company is in alignment with the Illinois Biometric Information Privacy Act (BIPA),"
     publishedDateTime: 2022-05-09T17:47:00Z
@@ -85,6 +189,24 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Clearview AI agrees to restrict use of face database"
+    excerpt: "In a lawsuit settlement, the facial recognition startup will stop selling its collection to businesses and individuals in the US Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle ..."
+    publishedDateTime: 2022-05-09T17:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/2022/may/09/clearview-chicago-settlement-aclu"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+  - title: "Maker of face scan software agrees to limit access to database"
+    excerpt: "“Clearview has violated and continues to violate the BIPA rights of… Illinois residents at a staggering scale. Using face recognition technology, Clearview has captured more than three billion faceprints from images available online, all without the ..."
+    publishedDateTime: 2022-05-09T21:50:00Z
+    webUrl: "https://www.courthousenews.com/maker-of-face-scan-software-agrees-to-limit-access-to-database/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 4
 
 secured: "2IM4AfE2Ptny07Ft3lcq15R1+ocdbYYL6td9A2Qe4HgmQuJuWrh7EazI+jO0BAtmItk6P52MqmKsDvlEzTDEDQxo1g5PSPpGZrWizjX3DgsPIWQ1pMNqokNndQzmRoFqHcxegrTPSHIYmMU5p/WLpi9rTkey3q64iv6Q3qOyPheH174CaXsg78Y85loaMj6TSX0RrNo3lU+SoIXozYCqCJnEfNHwp8sNVvcVwhlqWuTxuF9ieIUVJNhLvvxArLd2sVRDXEX47H505j4g7Ax43yVDd/NDfuAM7/4VFn+7dT5ystwPQ8Hr2oRb2uk2QXhUeBxKC/vAt8n2RFmM0j85mn/lMgYdy41cAjKLHU+nnUtIHbN60bIneBMye9vQh5bfpYgiTko90qAgKhtJhLRmCUhQ4gIX/yN2TCfIeHarcfnsx6rQuaCzgIjU6TVsbbRefHvUphXY/7Y0MpxFCT/3KtBd3yCdqox6y8AniQmgai5LNTOaf510kzcooaEuRqHCW91u5OR21XcfdsyhLiIk6g==;wAya953cVas689GyPxT1gA=="
 ---

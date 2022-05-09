@@ -1,20 +1,24 @@
 ---
 category: news
-title: "China grants first driverless taxi permits to Baidu, Pony.ai"
-excerpt: "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ..."
-publishedDateTime: 2022-04-28T09:56:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
-webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+title: "China Grants First Driverless Taxi Permits to Baidu, Pony.ai"
+excerpt: "China Grants First Driverless Taxi Permits to Baidu ... has in recent years invested heavily in autonomous driving and artificial intelligence technology, including automated personal assistants ..."
+publishedDateTime: 2022-04-28T07:05:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+webUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
 type: article
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "VyZyN3i9QpOaoyuDdpYCSeTiQBFRGbCsYM7AvFvSJaKhIywsHtfz2hIWZv6ARbvep1QG7AKW2tFWSMnCOPJk28tM4oHd4yZlyWh/iGvOIIdkR3alc1bN6CGjJyHb4VFWauHAk55Tf6hyPcAwr3HzGfHVGjEs/OyuYe6kVy9GkzQIEwxBvI16weAURf+LpUnBeJCeRTuw3BpzspMin4+xyE0yP/x9a675IyPW3Vkgu3sP6AbtXKviJuNwaKUs0fNLQ/CK+f8oO+CdCQZw7x+M8/bkjMZ9tTrSW86VUb3vLTtJIE8ag3N9Ou2aHAF7YZWj0m2/EFNgMAavRvTZYkTj/PbC1PVQztqc03IJiZ9JhLU=;GsSYgGQ3saKJv8A/R887+A=="
+secured: "SDDiUscUxiTtfmWKmGrfdCwPOESNX00wfXHlUUETUJA5BLvNZsZWtExYrlrWuO3Z5iwTS8FaKWh8e2gdD0bKSmuQJZMfu9eerf0GkF2F312fCy4zOOpu/WZLaKWuDZ7o87FEwB46vNOweD6Y1NtpjmdDcYuW+2UPzj96nIaWuoAA7gZfIWfIX+PF6nK5nxoUp3iH7NI6x4HSZwHjwkjnBqp2o5KMoP44O+JZf1XUCq8cug46iHYAY6bhm9o4jc/8wE562beHDazVnXqBTbNGu7Cqm2Iwj3v/2ATzSJHg5d5HNHQZJPrZsIAIif5MQOlLs/yMYQHMQODi6I8u/iy6l8GkRXQ2CuHZNb4BVaHtmzo=;13qxObvfUGe+5x6ZHUUYkg=="
 ---
 

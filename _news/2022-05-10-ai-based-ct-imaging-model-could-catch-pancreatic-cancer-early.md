@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T18:15:00Z
 originalUrl: "https://www.precisiononcologynews.com/cancer/ai-based-ct-imaging-model-could-catch-pancreatic-cancer-early"
 webUrl: "https://www.precisiononcologynews.com/cancer/ai-based-ct-imaging-model-could-catch-pancreatic-cancer-early"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: precisiononcologynews

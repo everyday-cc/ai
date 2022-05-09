@@ -27,19 +27,17 @@ images:
 related:
   - title: "PROFESSIONAL FIGHTERS LEAGUE PARTNERS WITH FLAGSHIP SOLUTIONS GROUP TO DELIVER UNMATCHED MMA FAN EXPERIENCE WITH SMARTCAGE INNOVATIONS FOR 2022 ..."
     excerpt: "an IBM Gold Business Partner, for the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA. Under the agreement, the league ..."
-    publishedDateTime: 2022-05-06T04:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27040688/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-e"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27040688"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27040688"
+    publishedDateTime: 2022-05-06T04:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with-smartcage-innovations-for-2022-season-1031428268"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 16
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mma.prnewswire.com/media/1812110/Professional_Fighters_League_Flagship_Solutions_Group.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "Kzobhy+tUFfh9/YZ6KBqK7MFhbUw3Im2h06QbpWYCKjn3elW0edVuFxYKeKoCubwETMQK2pVwJyUVdEnSXZblxutWrRAHeNsaB+wZBZ0b5KowL5F2UG+HQYj/Ft+/B29up11CucOWwrsXD4xXU9bMS5wEgOnJbdmQb5DCoUwueVTF3PokC4xdWssytX7S5I7IUC5/xSOYymcZv87plpaPQGkr4ew4Zwbkp+02pSUYhkbOeSHiHOPuJkwrqlEqnGiG80oFBmY+40C+0x4VNtE2j0MVFn7+DZUrNvvSBZl41pOcCx06iGruJcXtpMf9g+aklhqpWXlcDtRXAOxP8pvXlvBHkM7zJxj8TQZBVM7Yao=;ek3SlrF/vpR6Eahv+BIPcg=="

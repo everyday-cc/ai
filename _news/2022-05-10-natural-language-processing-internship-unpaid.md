@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T19:15:00Z
 originalUrl: "https://www.iltalehti.fi/tyopaikat/1117471"
 webUrl: "https://www.iltalehti.fi/tyopaikat/1117471"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Iltalehti

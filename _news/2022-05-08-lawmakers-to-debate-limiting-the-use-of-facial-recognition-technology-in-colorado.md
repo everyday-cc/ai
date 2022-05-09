@@ -138,6 +138,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Controversial facial recognition firm barred from taking on most private clients, operating in Illinois for 5 years"
+    excerpt: "A settlement filed Monday in Cook County offers a stinging blow to Clearview AI, which has built a facial recognition database with more than 20 billion images ripped from popular websites and apps."
+    publishedDateTime: 2022-05-09T18:09:00Z
+    webUrl: "https://chicago.suntimes.com/business/2022/5/9/23063901/clearview-ai-facial-recognition-illinois-aclu-privacy-data"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 0
 
 secured: "CeBKA54VBFV23iM0KH6mM9/xeTttwvLq/DFYkH2YHW+wbrgwrzYGScDO0EbOdE5yazT3rKJHO2FnjE2T+g8nHvVOQZeQzYD9C3p7zelYWIZDhfJ1a5RG8CNMEfgwhQx4sNitBa2mSytflfVQCsKmBg/uQYzWE9/g4kLEmSfNpWD9AZ4ztNkTIzGM81YwtDwgtMxtIBHKRvV3q5LU4KQzRuSuT76KPbklsfoX83KobAvwcPL4azPjmPM4/hEO5Pr+lbKMaHtx95BoN/aIebolen9hkMzHAoRajAY+RdmNcdPxCrop6Ro1CdpYoQ37GKTtYXDiKRP+Bx5yFammTjeXXZJBKXZBVubSTRBbXm2gAvA=;SezDpeWtxR5A46JduR5cGQ=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Pyramid Analytics raises $120M for its AI-powered data analytics platform"
+    excerpt: "The startup’s platform enables companies to turn their business data into charts and find useful patterns. Pyramid uses artificial intelligence to automate many of the manual tasks historically ..."
+    publishedDateTime: 2022-05-09T20:58:00Z
+    webUrl: "https://siliconangle.com/2022/05/09/pyramid-analytics-raises-120m-ai-powered-data-analytics-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Image-1.png"
+        width: 718
+        height: 419
+        isCached: true
   - title: "ZeroEyes, Inc. AI Gun Detection Software First Video Analytics Technology to be Awarded DT&E SAFETY Act Designation"
     excerpt: "U.S. Department of Homeland Security (DHS) Recognizes ZeroEyes AI Software, DeepZero™, as Promising Antiterrorism Technology and Grants Liability Protections for Customers ZeroEyes weapons detection AI is the first video analytics technology to receive ..."
     publishedDateTime: 2022-05-05T12:28:00Z

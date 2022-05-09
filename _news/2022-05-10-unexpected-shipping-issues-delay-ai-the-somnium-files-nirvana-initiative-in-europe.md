@@ -52,6 +52,15 @@ related:
         width: 698
         height: 289
         isCached: true
+  - title: "'AI: The Somnium Files - nirvanA Initiative' Delayed In Europe Until July"
+    excerpt: "AI: The Somnium Files - nirvanA Initiative is a detective adventure by Zero Escape series Director/Scenario Writer Kotaro Uchikoshi."
+    publishedDateTime: 2022-05-09T20:57:00Z
+    webUrl: "https://www.worthplaying.com/article/2022/5/9/news/131865-ai-the-somnium-files-nirvana-initiative-delayed-in-europe-until-july/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 16
 
 secured: "r6abjC/P/MbXB3MhUumEpP7aXbACB2tEFOKZ3Xls7Tt213sN0S+BifvVTSGpxbyWKbs6S8kmyXulgEolXJha1Xw8+skmnfYTpDD0YIcxKb9qZQA8iYyFSx++FSAw1jldJBrQ1LKP7svuLueUfWxSmtDpjOE04qmVV5e5Pmb89nqrkvNsBMxUw8WPv9Xqq5fLSZHm865SKpufvsg5JWNURW2jzCFPf7QwBfct/MUw2fjgs1VoCHcNv4hnb0HqInblwZJk8gh+Yv70SyJtHLNB5K5rrcfVgT3dnSoRKwvrP2ADLj3klQXoRiYig1Pa467sfJ6hYLqi+Gcn8DKGYyzNsvCfKrMcQdfwmGEKyy0Ibh0=;1CeeLP5VJPn02CLrkB+oaw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T18:28:00Z
 originalUrl: "https://www.twice.com/the-wire/bond-bridge-and-josh-ai-join-forces-in-bringing-voice-control-to-motorized-window-shades-ceiling-fans-and-fireplaces-in-control4-installations"
 webUrl: "https://www.twice.com/the-wire/bond-bridge-and-josh-ai-join-forces-in-bringing-voice-control-to-motorized-window-shades-ceiling-fans-and-fireplaces-in-control4-installations"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Twice

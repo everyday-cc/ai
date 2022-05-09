@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT-KGP, Virginia Tech launch joint online course in artificial intelligence"
-    excerpt: "Kolkata, May 5 (PTI) Indian Institute of Technology-Kharagpur on Thursday said it is jointly organising an online certification course in business analytics and artificial intelligence with US-based Virginia Tech. The collaboration is a step towards ..."
-    publishedDateTime: 2022-05-05T05:00:00Z
-    webUrl: "https://theprint.in/india/iit-kgp-virginia-tech-launch-joint-online-course-in-artificial-intelligence/943245/"
-    ampWebUrl: "https://theprint.in/india/iit-kgp-virginia-tech-launch-joint-online-course-in-artificial-intelligence/943245/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/iit-kgp-virginia-tech-launch-joint-online-course-in-artificial-intelligence/943245/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 34
   - title: "IIT-Kharagpur, Virginia Tech launch joint online course in Artificial Intelligence"
     excerpt: "Indian Institute of Technology-Kharagpur on Thursday said it is jointly organising an online certification course in business analytics and artificial intelligence with US-based Virginia Tech. The collaboration is a step towards addressing the challenges ..."
     publishedDateTime: 2022-05-06T17:58:00Z

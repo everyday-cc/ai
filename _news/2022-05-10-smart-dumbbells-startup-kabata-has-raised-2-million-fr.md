@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T19:44:00Z
 originalUrl: "https://hoopshype.com/rumor/1710361/"
 webUrl: "https://hoopshype.com/rumor/1710361/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: HoopsHype

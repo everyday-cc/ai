@@ -26,6 +26,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Dell Extends Reach of its Multi-Cloud Ecosystem"
+    excerpt: "The new service will join a broad portfolio of Dell offerings available through Microsoft Azure Marketplace and will allow organizations ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose and speed ..."
+    publishedDateTime: 2022-05-09T18:29:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Dell-Extends-Reach-of-its-Multi-Cloud-Ecosystem-152836.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 4
+
 secured: "VmMNp70mPqGs/VEWtJd4JorWMKQK4lqDWgQjF6sXWcmdQbThK9e4p/0oOo3lojV0eTEbn82bzoqCmfox4diZSY9cbYpS84cWGvnsHuT47yCAMWmM1VSl4Ent0RnVuvqJ8j6QznLnU/2CufKAYgiyx+NY6Ost44wau800xFUDjaEP3Kk9lavH2Hl2hb6CFhpW7jQn2nhxb8955HlJ7eh990v9eQRimLQ2oNvB/pJc0o6XjWMcEihPUK6GsGCakBf8FlZC+6TlLkpQzqJE/AU5CIwXg25rbee4FIo8rKgIK1cUiurlGbHLrgPhnln2xmGH2IrDVamQGGf1szblgKRYrlJP4GOlz1VhU7+K3d29YIw59dKY6CILzV1APNu/NZgQtbsh3kbB97vUaGPzyVyivQ/orsbnm8bX48IcwA9xkNGHkd7qDwDqqhsnPcNBn9+cdeam90gTKDfVhrWHEwiBY2rIZYRFOnLUwfK0dU5iEWXg+RmTPSwjCVg9In1WjsZZNXcP047fz2W/Q+O3gBso8g==;qnTirf4kkdAS7mxmc78rxA=="
 ---
 

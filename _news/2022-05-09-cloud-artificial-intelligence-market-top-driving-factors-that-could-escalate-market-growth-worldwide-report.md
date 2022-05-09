@@ -34,20 +34,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 8
-  - title: "South Africa IT Market Report 2022 - Key Drivers Include AI, Cloud Computing, Big Data Analytics, 5G and IOT - ResearchAndMarkets.com"
-    excerpt: "The “IT Industry in South Africa 2022” report has been added to ResearchAndMarkets.com’s offering. The pandemic has given an enormous boost to digital transformation, and the IT industry. Supply chain issues,"
-    publishedDateTime: 2022-05-09T09:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-business-africa-b105d0901b2f4080b2cd061fe4a41ad1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "e3jiURl5Kn8059kKjefCAdiCY/Cxy4ecr485ocxOV0hZmcgBpZBz7saqnbK9uBYuP6L10C1l7aCu9vSFujIFLMpoPZGSUbYnSBxWO7hwfuLjnsh6Tr8HoX02kGXNRewwSbjFUGEnoAdDItIp8I+o1jjVQV+CO1HKdWaFszYqHnEnWh3rCnDwZX/orqE0PX3SHqxUGNFQE4jO4MYC0QtepB0CNgq8tPe0z+mORuBa3sRNKwziVV4kM2wt4HJd8mCb8mWwsYyRettEkyXo5RU6veFHxS5Pf4qP3q1i/VJMZ1j5IGSnvsllmuE0EuRJ3DefA8CS0njLc5Jbv4gErfaDFagM+vo4JSD6oV5Ms1E/sbaKgVJvuEJyn3hAAT15zm3cDARgly+7mP+72Biebbvd+RgJYYj/dGmJOF/Y76iHabkT1vlvEh7O596LykAfiPrSUoO91iGwAaRySQchw1HCeCcqgC9WOqtCxoFpF6DbhSEB2XFBmpCwbK6gTQrhW8vOjfBb7f9kkuZmCRuILsAofg==;BKaLOELgCtCWMrBiyhErhQ=="
 ---

@@ -16,6 +16,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "og6x9alv/E6f87hft5R+0672H81p6SGuxolz1WUv4DUh4je/XfdrEDokGhYvO/iIeq7SvJYa8NCVikYLFY8GJLrSrlQ8ywaCEf4ORddnrBq8pFD/wXOvEj3gG0iqT2Rll3QEyydL5v3rvkoUC0OlWgGoM78Z1+6mBOsuFOxsPK0oF7A/6F3NSOdjk8SiItokHLQxFUzbzLzDTiGzUDQM1X/hpWZQx/+GaDINl5vsEiu+J5qo/oVLnOVAc4Doplob8hHEVlfiLR41IFxhI1l77kagctjNWu1PrPp5cIIgmK/CKCX847k1VmcyLyOu4+uE40Jpwy8aqNJvFxg2RbvboydIQZ/QXIk9SQuv3guUosQ=;LDmjT0MCLo5P+95D9Bls1A=="
+images:
+  - url: "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/05/400x225-Miranda-Lambert-and-Little-Big-Town.jpg?w=2000&#038;ssl=1"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "C5Rvc2IhnhYU01rJM7+GS+I4zqPsBEGneG71f1feMgf0O0pjwYYC7teM3UjrEDS2OJGkRgsRies/T2zPFSguTPIVCYSyXtR8b7RiPpRNzPaFMB00udIuXLkawyI3o9NpCmFfqBWTihEIWNvrLd7hk4WDCQFuBh7FZ/WKRm/eVz1SqAkT2Pjl7kOchvNm6Xxg3K2gy/6bLEPN3ioA395Lbz77/ChJPro6sUbIpy7S34blsXMDnVdVIezZi/zs+khjnXh44rvCi3YX+V3dCzTYP3YaVtGJHeKdcJR6ANmUxL3HCZAancHsfcTWkhr9hUXGyNCOguDaGmEi1uhVo04j6balnKsZtHbX4nTEJhyFgNg=;a70LBU1RE8CFrgRhyIP4FA=="
 ---
 

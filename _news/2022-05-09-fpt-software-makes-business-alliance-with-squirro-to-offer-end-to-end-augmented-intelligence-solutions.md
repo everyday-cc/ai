@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T09:49:00Z
 originalUrl: "https://enterprisetalk.com/news/fpt-software-makes-business-alliance-with-squirro-to-offer-end-to-end-augmented-intelligence-solutions/"
 webUrl: "https://enterprisetalk.com/news/fpt-software-makes-business-alliance-with-squirro-to-offer-end-to-end-augmented-intelligence-solutions/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: enterprisetalk

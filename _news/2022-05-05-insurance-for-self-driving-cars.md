@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 817
         isCached: true
+  - title: "Lightning eMotors to Provide Self-Driving Electric Fleet Vehicles for Dedicated Routes"
+    excerpt: "Lightning eMotors and Perrone Robotics have partnered to offer Class 3 - 7 commercial fleet customers self-driving, electric fleet vehicles that can be deployed for a wide range of dedicated uses."
+    publishedDateTime: 2022-05-09T18:35:00Z
+    webUrl: "https://www.environmentalleader.com/2022/05/lightning-emotors-to-provide-self-driving-electric-fleet-vehicles-for-dedicated-routes/"
+    type: article
+    provider:
+      name: Environmental Leader
+      domain: environmentalleader.com
+    quality: 0
 
 secured: "jJ14PfO0fEtG3gdmzdkpB+PK5aIqDKojlcD8KpeYd3WDIfXAGLFahtyM0HtDxb1+SW/PTGn9OaxOqr6wMPSpkChGnwM0xKqt5FrJ0QywfLAqRNJ1cR5BP0GS43TERU05K1OgoYcseZOhd6QtgE8Xm3Fg4eC58sYXqFRdo49FBjZqCG0HS0yuX1gU3lkwguUutqjLYqt5SDHoJuh6zD6gf4cUQQJHXCFsR2NlcdJEW55XETb1NdExzuKOMGgU4GqOqzDhMLRIyTssKmlAq5CDQsAUxo8Xflx9B5+a//BtFhlVvs84s5/pieT/cpLEixest/2U8mpaWDRBXbCdmBLxXAR45+x/i4aVktGWdQm2HNw4R/JUqGeuUhv96H7IrDmI4piRL6yEJd1aOsGlQtLievPHRxxRke7F3ALI2JhieB2VdhmtnS5nheAUk64/oMOChgmJ7t/vWytsZwmkPEGWCI2Eq/alwbAorJ5mChOm6XZ9gfCONAgKoidLjf2cxjleC93pTqB0AjV0bLQeqjqeYg==;PqVBmA/WxAGsOfrTi0fTEA=="
 ---

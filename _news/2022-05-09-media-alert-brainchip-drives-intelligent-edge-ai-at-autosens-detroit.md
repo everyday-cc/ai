@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-drives-int
 webUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 22
+  - title: "Media Alert: BrainChip and MosChip to Demonstrate Capabilities of Neural Processor IP and ASICs for Smart Edge Devices at IESA AI Summit"
+    excerpt: "The presentation ends with a demonstration of BrainChip’s Akida™ neural processor IP, enabling high performance and ultra-low power on-chip inference and learning and MosChip’s ASIC platform for smart edge devices. The IESA AI Summit is a two-day ..."
+    publishedDateTime: 2022-05-09T21:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-and-moschip-to-demonstrate-capabilities-of-neural-processor-ip-and-asics-for-smart-edge-devices-at-iesa-ai-summit"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/774e1c49ff8c5d1f2c8c30a3674aa8674e8bbb9d-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "BrainChip & MosChip to Demonstrate Capabilities of Neural Processor IP & ASICs for Smart Edge Devices at IESA AI Summit"
     excerpt: "BrainChip Holdings Ltd and MosChip Technologies are jointly presenting a session at the India Electronics & Semiconductor Association (IESA) AI Summit discussing how the companies are working collaboratively to enable neural network IP for edge applications."
     publishedDateTime: 2022-05-09T12:14:00Z

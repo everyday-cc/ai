@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T19:07:00Z
 originalUrl: "https://fcw.com/congress/2022/05/senate-bill-train-acquisition-workforce-ai-gets-house-counterpart/366692/"
 webUrl: "https://fcw.com/congress/2022/05/senate-bill-train-acquisition-workforce-ai-gets-house-counterpart/366692/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Federal Computer Week

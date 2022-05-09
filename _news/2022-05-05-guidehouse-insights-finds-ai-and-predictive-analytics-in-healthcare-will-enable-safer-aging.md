@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/guidehouse-insight
 webUrl: "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Intel-One-API-Speakers-Updated.jpeg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Pyramid Analytics raises $120M for its AI-powered data analytics platform"
+    excerpt: "The startup’s platform enables companies to turn their business data into charts and find useful patterns. Pyramid uses artificial intelligence to automate many of the manual tasks historically ..."
+    publishedDateTime: 2022-05-09T20:58:00Z
+    webUrl: "https://siliconangle.com/2022/05/09/pyramid-analytics-raises-120m-ai-powered-data-analytics-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Image-1.png"
+        width: 718
+        height: 419
         isCached: true
   - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
     excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
