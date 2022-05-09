@@ -36,6 +36,20 @@ related:
         width: 948
         height: 566
         isCached: true
+  - title: "Utilize AWS AI services to automate content moderation and compliance"
+    excerpt: "The daily volume of third-party and user-generated content (UGC) across industries is increasing exponentially. Startups, social media, gaming, and other industries must ensure their customers are protected, while keeping operational costs down. Businesses in the broadcasting and media industries often"
+    publishedDateTime: 2022-05-09T16:01:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/utilize-aws-ai-services-to-automate-content-moderation-and-compliance/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/19/l200_contentmod_fig1-1126x630.png"
+        width: 1126
+        height: 630
+        isCached: true
   - title: "Ardent Health Services Partners with AI Company Winnow to Modernize Clinician Recruiting"
     excerpt: "Healthtech company Winnow has partnered with Ardent Health Services to leverage its AI solution for clinician recruiting. The partnership deepens Ardent's commitment to digital innovation and gives it"
     publishedDateTime: 2022-05-05T18:30:00Z

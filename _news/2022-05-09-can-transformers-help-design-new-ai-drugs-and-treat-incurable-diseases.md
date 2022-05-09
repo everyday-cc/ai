@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Can transformers help design new AI drugs and treat incurable diseases?"
-excerpt: "Analysis AI can study chemical molecules in ways scientists can't comprehend, automatically predicting complex protein structures and designing new drugs, despite having no real understanding of science. The power to design new drugs at scale is no longer ..."
+excerpt: "Analysis AI can study chemical molecules in ways scientists can't comprehend, automatically predicting complex protein structures and designing new drugs, despite having no real understanding of science."
 publishedDateTime: 2022-05-09T10:47:00Z
-originalUrl: "https://www.theregister.com/2022/05/09/ai_drug_design/?td=keepreading-btm"
-webUrl: "https://www.theregister.com/2022/05/09/ai_drug_design/?td=keepreading-btm"
+originalUrl: "https://www.theregister.com/2022/05/09/ai_drug_design/?td=keepreading-top"
+webUrl: "https://www.theregister.com/2022/05/09/ai_drug_design/?td=keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/09/ai_drug_design/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/09/ai_drug_design/"
 type: article
@@ -17,8 +17,8 @@ provider:
   domain: theregister.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://regmedia.co.uk/2015/11/16/medico_834957324523.jpg"
@@ -44,6 +44,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "4j77FQba/KNVBHT5JvL9xlyKDG+TOFY3tEPCGRKF7PvYQpKQi7P/iNvqERh7wT0p46Z//RMy8IodR84FNkp1yK9qTZVYZ5/MdE1+jlEC555FN8EAHc8XgpO33wROUirGfyrFOIJY4jAbMHIn4q0hyk4NidV2S4gM0RTeIA2+3V9YkX85gFP8x0e+JLV0RqUPsbZATzLInZ/LfOnUeiw17P9h0itS3yWTfbZsdvKss0vNvMTzpGWWiUQHoMWY+FZQIoibiFNuem/2Syu+4xcI282kVx6P9LXaReW07W/LLBO8Cs3v6H3tsHJv544Qh51jgPUVNGYyHKwoSNhKIYuiN8S0DIE6yEHCNi2FN8oZ/diz5UvkO/M9TehUOxF9Y0zasE9MuLFsNicTsBdjXZtAwHxRV7GnUkhoXEW/yuIlowCoCwtd4U2ny8gbKp8/lZWGqm/S3drv6qZAWuR6to6Zq8uC9IkYNyg5L6a6r5IriYvCpVcMZyrVu5zobxU6Q0QzKAOJ67oEgXdvfxYy+eVnXQ==;Kq8q17VFI0ZonCDHG1VeDA=="
+secured: "m20/7HVQn+I86P3yVPEXoHbsZxTDJEQxtS/bR3qSO+OBTw4sJ+t7pIF19vrtgcS/bo5W/bHxb5NtFm1VUkcqN0A5VtH0frbGfPmUlyE+5/yIO1BXfg2Bm0q5A9J69K3A4QqMgPOg2goNRiJ53eZ1t/rUO+hPd6iYguIIpTuMklzfhxEPiufa1fpFkypTlPXgcfkTE4ken0FqmLGcW3TU+F0RNb28ki+2Utc7egK9KK1fRUtt1Mt9lgv1s6gH1V+1p8o0LiSjpSI9AvRTKz6EUzWvU2fN8AuCcW2hz11L1eLAeSDwNeEKouis5sA8IuMqnB8M8SGuWAHbWd6AAFa2P7WxfESkvLaojEYSLbNE+n8=;UZy7dMHsJyIzQfKa3vBKnQ=="
 ---
 

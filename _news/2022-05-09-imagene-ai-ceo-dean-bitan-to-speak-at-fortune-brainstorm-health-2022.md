@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Imagene AI CEO Dean Bitan to Speak at FORTUNE Brainstorm Health 2022"
-excerpt: "MARINA DEL REY, Calif., May 09, 2022 (GLOBE NEWSWIRE) -- Imagene AI, an emerging leader in the field of AI-based precision medicine for cancer, today announced that Chief Executive Officer and Co-Founder Dean Bitan will speak this week at FORTUNE ..."
-publishedDateTime: 2022-05-09T13:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-imagene-ai-ceo-dean-bitan-speak-fortune-brainstorm-/2022/05/09/9598164.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-imagene-ai-ceo-dean-bitan-speak-fortune-brainstorm-/2022/05/09/9598164.htm"
+excerpt: "Company co-founder will be interviewed May 11 by Bryan Walsh of Vox on the show’s mainstage Imagene’s deep learning algorithms use digital biopsy images to deliver real-time molecular and spatial analysis,"
+publishedDateTime: 2022-05-09T13:52:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-science-health-cancer-del-rey-db605b6fff9a3fd941ab4fd86fecacff"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-health-cancer-del-rey-db605b6fff9a3fd941ab4fd86fecacff"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "48/DgJJE928CHjNlGTkxrF7/C9fq+wkpz1rVCANW3RzILhmB18mSgQ1PiIboamBC4mh5P7Yk3Z/UEqTOaDgSpDPLt50tSqyfOhSSpR1qjoezZTPjiHGC7IcW66ZkHtz51LVziykf2XDZKCSPwRU32kwOhMv3sGiYMjgSey1XsZ4F6mxwqVq0kgxI6m4zb14HB+HDcDMJlCzaxhRmWRa35cv+1p//Qw6SxPne09JaYvveVHCNmo6D5CDcuGvvR37T9j4ztQQypQa/gLz8bXdDKiYA0WphC6T3+mZ2c5ys5I5HwlozYMlXRCF4WiRAH+R06mbFW/IYAdn7bXrOpvWl+N9DHmKmNObzHujmI2A15v0=;6NDd1b3CgJuWiNJUA2SC9g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "mvfljV6LK6TUR8yJC3vlTIYR3L/9fK5Dwtg/bswFOkpmvg5mhBtN7DfQfNQ185BEfRGwAf2Tynq5t1Oobya5YHsvvblXXJL9WR9D9iCG7FSHxudpofaEYegvI1LS4Z+4jbD+9KjVciBNkA0c3tSLGCCmBsfRuLwBE09h4VJq8WoM9U8ZGiUUniHK6M2deBNNVSbS98Eztw1+Z0WEs9RYD30UCM6fcKpbH4uPpknzUJLsx2rmj9iGKxwbCi5lp57htUMJfDXFIhd3hY00PMLYvglYqOJhgARE6LxQ8YU9plB16BCtL3KQLaPA66KSrDwG564wMaw1z/jPhIGdwgVPRN+6FLoDJrRw1FvRhx7tMPQ=;Mue8RZU+x2pFGkINB8rRZg=="
 ---
 

@@ -50,6 +50,20 @@ related:
       name: Transparency Market Research
       domain: transparencymarketresearch.com
     quality: 4
+  - title: "HEART + PAW, A PET VETERINARY, GROOMING, AND DOG DAYCARE SERVICES COMPANY, RECEIVES NATIONAL AND LOCAL RECOGNITION AS A TOP EMPLOYER"
+    excerpt: "Heart + Paw pet care, one of the fastest growing veterinary care, grooming, and dog daycare center groups in the country, has received both national and local recognition as an \"employer-of-choice\" and a Top Workplace,"
+    publishedDateTime: 2022-05-09T16:07:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220509PH49858/heart-paw-a-pet-veterinary-grooming-and-dog-daycare-services-company-receives-national-and-local-recognition-as-a-top-employer/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1812727/05_09_2022_GPTW_Press_Collage.jpg"
+        width: 400
+        height: 320
+        isCached: true
 
 secured: "4D2bGd4g5rD38MpwKF6+3ljfd93+o2pajUCdrBqDD6y7YfUI1YVciErIMyKAq+8y8T6L/YWlIPYwlhxCDxPAHAkIisJ/7TfHaQ6XNMNdKJVGM9l6cNPyJM+C0nc0a/f7dS8d+HLsDwTHCQZFwRX6UwGo4q5pstaNOKrUjqLGWMQyWczTHp1/7kTOVBe38nZnnTpOdMFz7DTvYWL59weJGJljgsm8q/c8y98ptgcaDsgVlfVxZ0S4JuhhgRrugqEcWv/3H+NgPV/EIhGEOhtaEQ47e23rON3tS/iofWPvc5nxo3XvnwIHND65Vygzi44v66SkC29IkthSCTJaDgy9CrEwYf4elirlb09OADl9FGA=;YSTFSEItF5wFVzs8m0RVNw=="
 ---

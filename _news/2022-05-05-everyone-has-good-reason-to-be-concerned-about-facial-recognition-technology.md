@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
+    excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday."
+    publishedDateTime: 2022-05-08T06:30:00Z
+    webUrl: "https://denvergazette.com/news/government/lawmakers-to-debate-limiting-the-use-of-facial-recognition-technology-in-colorado/article_f1e676f5-628d-5c66-a2bb-b319e0a9e11d.html"
+    ampWebUrl: "https://denvergazette.com/news/government/lawmakers-to-debate-limiting-the-use-of-facial-recognition-technology-in-colorado/article_f1e676f5-628d-5c66-a2bb-b319e0a9e11d.amp.html"
+    cdnAmpWebUrl: "https://denvergazette-com.cdn.ampproject.org/c/s/denvergazette.com/news/government/lawmakers-to-debate-limiting-the-use-of-facial-recognition-technology-in-colorado/article_f1e676f5-628d-5c66-a2bb-b319e0a9e11d.amp.html"
+    type: article
+    provider:
+      name: Denver Gazette
+      domain: denvergazette.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/denvergazette.com/content/tncms/assets/v3/editorial/8/13/813628e7-6e7b-57c5-afbd-791f3e4776b8/5f635a7e466b8.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "DRAFT Startup Spotlight: The challenges and promises of facial recognition technology"
     excerpt: "“We don’t fundamentally understand how that black box, AI, does what it does,” said Ricanek. “We’re exploring that through this whole realm of explainable AI, and that’s going on ..."
     publishedDateTime: 2022-05-09T11:22:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg"
         width: 1264
         height: 710
+        isCached: true
+  - title: "Disrupting Facial Recognition Technology with Matthew Owen"
+    excerpt: "Disruption Interruption podcast host and veteran communications disruptor KJ Helms interviews Facial Recognition Technology guru Matthew Owen, who explains how this technology can be very useful beyond the confines of surveillance. That myth, he notes ..."
+    publishedDateTime: 2022-05-09T17:17:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/disrupting-facial-recognition-technology-with-matthew-owen/article_45d602a7-aa0d-5bbf-9172-e8502e361eec.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Government to Submit Law Permitting Facial Recognition Cameras in Public Spaces"
     excerpt: "\"When a police officer can post a biometric camera in every neighborhood, there’s an opening for the exploitation and over-enforcement in certain populations.\""

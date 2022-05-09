@@ -43,6 +43,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "FinTech products and solutions for the world – India’s next big opportunity"
+    excerpt: "According to a report by PWC, in 2022, the fintech sector is poised to affect the global economy with a market value of approx. $310billion, a significant increase over its 2018 valuation of $156billion."
+    publishedDateTime: 2022-05-09T17:28:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-products-and-solutions-for-the-world-indias-next-big-opportunity/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-products-and-solutions-for-the-world-indias-next-big-opportunity/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-products-and-solutions-for-the-world-indias-next-big-opportunity/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 42
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/Pic-1A.png"
+        width: 498
+        height: 370
+        isCached: true
   - title: "06/05 – Weekly Fintech Recap"
     excerpt: "Partnerships Ophelos Partners with Credit Card Startup, Yonder, for Ethical Debt Resolution Ophelos, the technology firm building fairer debt resolution for businesses and their customers, announces its partnership with Yonder,"
     publishedDateTime: 2022-05-06T09:25:00Z

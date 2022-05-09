@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Machine-Learning Models Able to Predict Risk of Renal Function Decline"
+    excerpt: "New research indicates that multiple machine-learning models can predict the risk of renal function decline on par with conventional methods using routine clinical data."
+    publishedDateTime: 2022-05-09T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-models-able-to-predict-risk-of-renal-function-decline"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-models-able-to-predict-risk-of-renal-function-decline"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-models-able-to-predict-risk-of-renal-function-decline"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 44
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2019-08-07-GettyImages-859774592-e4b00c1efb9503a805928b101c78b499.png"
+        width: 480
+        height: 278
+        isCached: true
   - title: "Researchers at the Gwangju Institute of Science and Technology Develop Deep Learning Model to Predict Adverse Drug-Drug Interactions"
     excerpt: "Using gene expression data, the new model can predict how some drug-drug interactions can lead to adverse effects in the human body"
     publishedDateTime: 2022-05-05T12:35:00Z

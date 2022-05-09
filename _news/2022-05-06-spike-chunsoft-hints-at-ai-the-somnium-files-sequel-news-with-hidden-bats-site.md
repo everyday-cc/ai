@@ -23,22 +23,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Strange Countdown Website Appears in Connection to AI: The Somnium Files – nirvanA Initiative"
-    excerpt: "Fans of Somnium Files are no strangers to bizarre, strange videos and websites. Leading up to the release of the first title saw slews of these on a YouTube channel connected to the in-game idol ..."
-    publishedDateTime: 2022-05-06T21:09:00Z
-    webUrl: "https://hardcoregamer.com/news/strange-countdown-website-appears-in-connection-to-ai-the-somnium-files-nirvana-initiative/422246/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 26
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2022/01/aitsfnirvanaheader.jpeg"
-        width: 698
-        height: 289
-        isCached: true
-
 secured: "6eqj37QCHcNpGf1FB6t/PqXeiN0XKjVJuMikv1nJY+7NUmmaNkA3c/alC00I9vmgMeqOINFF9IZ0fBs1/9ZicCRX8HYcS2BVZS9aJbbuLkU6CnFsFvsUtrcUX5uHMZ9bdrJCYgVK7fbiRJa2J3NcCEDRZpOs3wN0n1TB/ApNu+TVMh8eD+sEf3LGEnqFXGEECEsgD31f9Q3NcK0JB38JFZ36eOxYKm6P7tVMf6AEw7LojPZqmigZAFO6hHSVE8efNS1hWgQ6LFKZzD7pj982pLo0GU//ZREkbFjWpX1snfVfMjOerJtvUTb5MAxeoZ+Mqqtel1VfEHOzRHAbw7TsThnN//Af6e6HX9kq2bvSTuk=;ocSD3mhXE0smhKiimToDqw=="
 ---
 

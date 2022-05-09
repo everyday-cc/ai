@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "Can transformers help design new AI drugs and treat incurable diseases?"
-    excerpt: "Analysis AI can study chemical molecules in ways scientists can't comprehend, automatically predicting complex protein structures and designing new drugs, despite having no real understanding of science. The power to design new drugs at scale is no longer ..."
+    excerpt: "Analysis AI can study chemical molecules in ways scientists can't comprehend, automatically predicting complex protein structures and designing new drugs, despite having no real understanding of science."
     publishedDateTime: 2022-05-09T10:47:00Z
-    webUrl: "https://www.theregister.com/2022/05/09/ai_drug_design/?td=keepreading-btm"
+    webUrl: "https://www.theregister.com/2022/05/09/ai_drug_design/?td=keepreading-top"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/09/ai_drug_design/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/09/ai_drug_design/"
     type: article

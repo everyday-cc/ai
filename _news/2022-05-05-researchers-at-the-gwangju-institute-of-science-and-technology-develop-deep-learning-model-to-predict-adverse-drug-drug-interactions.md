@@ -28,6 +28,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Machine-Learning Models Able to Predict Risk of Renal Function Decline"
+    excerpt: "New research indicates that multiple machine-learning models can predict the risk of renal function decline on par with conventional methods using routine clinical data."
+    publishedDateTime: 2022-05-09T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-models-able-to-predict-risk-of-renal-function-decline"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-models-able-to-predict-risk-of-renal-function-decline"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-models-able-to-predict-risk-of-renal-function-decline"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 44
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2019-08-07-GettyImages-859774592-e4b00c1efb9503a805928b101c78b499.png"
+        width: 480
+        height: 278
+        isCached: true
 
 secured: "PknZJgfSrx0Zq7YxQ+i6wBzqF/DiVZHhyxJX3VD26YrDjRYAkZ4EDgxxESq58SS30oHyYGKl/zGe/oe9tcMA/YBeVT9W5xGqHj4S330ldEzHZA6fPXbHh6m09W3Z2WLyrNCMr8NOn90l4j94GFf7Vm/n8ZNipRmzQUw73nZPofFzXgM4k4T8u6Ecjitvt3kYfGnvo5IIpk/c518Objm8ucUWF2ubAH/IEqKhCsWqadQpPgfKnV/Te52COCxIfoM9PqDxqqFfxTiApwwSZBd0v1/VXapTmwjibymoyDmR4GddzmeP8g/tDw5vuKjbwb7PWhzOaXDpxc0Q9Q3nP+9tfMOftmJRII2yyNsCjVPJyT/RI7JY6CiZ/V8/65y2y8whF8qi7qMW0klFFWJ6f2M7ZMH5LQXSpznz3M3Tr+XY72fLkwtmC5Hw6r+Z/c3FaMUe3Sx1Mo8Drx1nJGgZflV+4yU22W/KPztMswwK8GPsp50z3e3pxvONkuulUBHf/jVQWAg5GtdOUXTBhnIK1tJPUg==;efronZZSI+K98jWBgkLayQ=="
 ---

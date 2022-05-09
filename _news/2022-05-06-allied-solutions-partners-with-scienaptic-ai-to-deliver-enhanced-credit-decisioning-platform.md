@@ -38,6 +38,20 @@ related:
         width: 880
         height: 495
         isCached: true
+  - title: "Levo Credit Union Deploys Scienaptic’s AI-Powered Credit Decision Platform To Enhance Loan Approvals"
+    excerpt: "Early results indicate potential for 42% more auto-approvals for auto loans and 45% more auto-approvals for unsecured loans Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union,"
+    publishedDateTime: 2022-05-09T17:13:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/levo-credit-union-deploys-scienaptics-ai-powered-credit-decision"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 22
+    images:
+      - url: "https://financialit.net/sites/default/files/scienaptic_22.png"
+        width: 2090
+        height: 732
+        isCached: true
   - title: "Levo Credit Union goes live with Scienaptic AI"
     excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform."
     publishedDateTime: 2022-05-09T12:55:00Z
