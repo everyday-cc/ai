@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Startups apply artificial intelligence to supply chain disruptions"
+title: "Startups Apply Artificial Intelligence to Supply Chain Disruptions"
 excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
-publishedDateTime: 2022-05-03T10:00:00Z
-originalUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
-webUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
+publishedDateTime: 2022-05-03T06:44:00Z
+originalUrl: "https://www.marinelink.com/news/startups-apply-artificial-intelligence-496221"
+webUrl: "https://www.marinelink.com/news/startups-apply-artificial-intelligence-496221"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Marine Link
+  domain: marinelink.com
 
 topics:
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "msHn4bdj28jKkw8hgYFOl9IPh5p+IZe3dnNNY3NfuuHfeZ9lQ80HYbjqLjitxGivfWYzWMwefBS5bv+YoCxVO7Vs1TSi5OxozdUMBDJb5BJoDe4OrUFuzSCRhL5atWUU9XafU/+464fcQD1IF3/0QS0GJzTq4/FIxoU4p/4Q/4Bg0Wv+YbiVVTJN837Ajkl+jlEG4BUP/yogbsoPoGaQq4pp6X3N6yxh8HeAALSibixIUNGPwAecY8/dKC77vWSyVEjWGJeRZCXO8ZVo2tPts8QruCtnlD/bHofFZp/KzesUCiGSwIiAG9AX+Ri500lAimKDI8jUG/nOgjafbrZN1zEGE/qYyvT2J4l9HtDJ8Og=;Q9xg7BGL9mOY0z3xD6tCFQ=="
+secured: "Md1X77tQ2CJEzNjpP+yt9vkKNr8PUjEL14+kNl89leGy8+Dwrd59mZddxOxtFW2JHtWxpZVqQJF6oHc5/zcwL+/6O4IP1nRQof1LE6AdVHOZqb95DzCgYIfP/NOTobqv14pWumsolWeIYJOwb8YTYeiIrMQ41rQ9sWc3RT6Ph6PPQlupjAGRXe4rc0e1tzzAPGAgPoBf+OcpcStPrG3tJ8/ZWPVmug10H1F0DTErP/7zO9qEMf1qJjcij5ua0GAHOpFmK6Q+RyaFyskFHY8lQioT/gTUVlYf6/b6v+v4hfBhSG0X7lZFbNUnueXQmegHAG81rUJe/tos2oaRfBSgDki/4z8ZvbHLbdbrVq7WOxohXtH8G1TNb7mzQw5PNzKp8WSZvLrYOmLDg0KmmUIHUyffGIkn/SlssTIw2AxoyKZS6L6tgXfo28fpu73XgPsWRPE02HEQr2XW+kVvPqsazqczc/SeYWw9J2H+4lVkBdS9fwB2XqPAAJTaeqNc2u02zRxN30HefiC1t6RPDTHHmg==;i14QbouO+evTFdtRRjgopQ=="
 ---
 

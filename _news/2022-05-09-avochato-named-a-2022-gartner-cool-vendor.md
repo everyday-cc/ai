@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Avochato Named a 2022 Gartner® Cool Vendor"
-excerpt: "Avochato, the leading provider of advanced messaging software, has been named a 2022 Cool Vendor based on the report titled, “Cool V"
+excerpt: "The platform combines functionality, depth, and automation with user simplicity, featuring rich API integrations into market-leading CRM and support systems (e.g. Salesforce, Slack, Okta, Zapier, and Microsoft Teams and Azure), along with custom ..."
 publishedDateTime: 2022-05-09T11:16:00Z
-originalUrl: "https://www.eagletribune.com/region/avochato-named-a-2022-gartner-cool-vendor/article_7da6e15e-2177-58b4-8dd4-d12e6c9920d2.html"
-webUrl: "https://www.eagletribune.com/region/avochato-named-a-2022-gartner-cool-vendor/article_7da6e15e-2177-58b4-8dd4-d12e6c9920d2.html"
+originalUrl: "https://www.joplinglobe.com/region/national_business/avochato-named-a-2022-gartner-cool-vendor/article_5ef33bcb-7749-5c51-81a8-169d83182d4b.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/avochato-named-a-2022-gartner-cool-vendor/article_5ef33bcb-7749-5c51-81a8-169d83182d4b.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/f4/7f4f7ac7-9a04-54ce-8852-1613e0b5559f/6278f86f7286c.image.jpg?crop=822%2C432%2C0%2C152&resize=822%2C432&order=crop%2Cresize"
-    width: 822
-    height: 432
-    isCached: true
-
-secured: "y8134nUbtMKzz8Cg21Qk6Dfr6f7zf1VORmspiXlZSLQY7vOYdeQCXhgTSCRIIh+fi2PpUznzgrukEuxcZ99knUR2iCPSU+5I5md+Tzh31c/GrS3xny9rYmkymLm4q4AH+QxrcNfBmkRSwD8Oyw0yNtOyJrVNVKbXTrumMQI8bPkiwqWxDnZlchRG8Ras/f7FkZjhZhaQwqjZmx+TBrCFB+Fwex5P8rQl/v/AFeYZ6b298EDcbadHZL0eVxm0rFxn9ZFUE04uTVgspeqxC+CwoXF5NQRDKAqOnXUPbwfwjzfiy9QLhV2Y2l8F8n5jivy/Bb3LLZSG92rzit+qXplolPX4LjVNgCdGUU+oyTd/Iug=;SHvMsynwoDP9s04gA3ZiQQ=="
+secured: "sRKTUtdODviEhAzzU9pzjymVc7kF/A9p/qAMIiylddnl3YbT3NDRyPJDNMs0jIcP937tWO3+4kG7KIqGFmLY7lUGTB2CrYVCQcFrt9vyZ3C1rq+MNmdygKW20uS114AKCG0+oT0YZ3uFJqyaDa0fhKWeIkizcazA3O9Hh219h5477irPpXA+kpV4nupfAQIDntXESih9e7OBlqjPsRvILVNoFUrWXGASdjDLWmAc6eKL1ljM+CXZRlPPbmpHnRbx9PhI69dH7raeZyJPnBfqxqWspDYL8++FYGKynUQl6yG6xohP32RKRR1IRfFHQ/U7zJ4X439KtL4gW2QDAZjqY8eT+u17wqjjK8jAi9uekPusJoQuT9zoHj5OnfxbrCYtUqY2709WntdmV69IYjJNar4uJFR4g/MUfxY4iWZF1kg5k/PZEUrDD7uoLgvGVSkBEHold62gqMzqj23yjDreBmINGS7ex5mcyTosE2/xI3FtfSPNSXmZEzRB3MZhvl1wsIhcjDb+Yqs2Yn/M8Z6sMg==;QyeQOiFEX2r8eiZV2Zu8LA=="
 ---
 

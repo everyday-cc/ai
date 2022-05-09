@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://regmedia.co.uk/2015/11/16/medico_834957324523.jpg"
@@ -43,6 +44,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "IBJGp5jBilcleMCti/u7mcmt5qjcNpQ0iXRgxxyP5CbZ2bgYc3iBATU8hi9gkaURjydOxN4IKja1trnh5PgYRzEnkVg1dU9ivfnR7cF02qPhGuL+qVJSk6LWod9bfj01brz+nwfI+lP229ZKdu6A2srYn8Ppfm/GMwS5Ek56aS0GfhNwlNuFnNLu05rwsIC2pb2hj16VsmkEqVff1+KSBLcuQjwNlckNEQjpc9pqt/YYDvC77f9e6fnYjJ0cFcf46eRavB3g9hHEbgvbXB1teGXyutWrVMoBF47v21+byeGf0qZChHEfSPGcMrrm2E33Cx7EkWInsy09BQU7M4Pb+dEzw2sLn1FGjPlmsp7Apeg=;+R71qZ2jlZhawzsnq+1rBg=="
+secured: "4j77FQba/KNVBHT5JvL9xlyKDG+TOFY3tEPCGRKF7PvYQpKQi7P/iNvqERh7wT0p46Z//RMy8IodR84FNkp1yK9qTZVYZ5/MdE1+jlEC555FN8EAHc8XgpO33wROUirGfyrFOIJY4jAbMHIn4q0hyk4NidV2S4gM0RTeIA2+3V9YkX85gFP8x0e+JLV0RqUPsbZATzLInZ/LfOnUeiw17P9h0itS3yWTfbZsdvKss0vNvMTzpGWWiUQHoMWY+FZQIoibiFNuem/2Syu+4xcI282kVx6P9LXaReW07W/LLBO8Cs3v6H3tsHJv544Qh51jgPUVNGYyHKwoSNhKIYuiN8S0DIE6yEHCNi2FN8oZ/diz5UvkO/M9TehUOxF9Y0zasE9MuLFsNicTsBdjXZtAwHxRV7GnUkhoXEW/yuIlowCoCwtd4U2ny8gbKp8/lZWGqm/S3drv6qZAWuR6to6Zq8uC9IkYNyg5L6a6r5IriYvCpVcMZyrVu5zobxU6Q0QzKAOJ67oEgXdvfxYy+eVnXQ==;Kq8q17VFI0ZonCDHG1VeDA=="
 ---
 

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-publishedDateTime: 2022-04-29T12:34:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/"
+excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+publishedDateTime: 2022-04-29T11:59:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
 type: article
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg"
-    width: 400
-    height: 215
-    isCached: true
-
-secured: "MSamSv3JAbRJ+iA4UzOvak2tsWLSBQxOlsd/2YVIvfK5+/OVnvLLB8+4g/kQOAMA/4miKaf3KnvJggXSbk3AQe5JytwTPF6xOBjHTjzk8KaIEzJXMbbU2txJIz9KKJnR2ZbKxURDFhKLGRKBEPYWj+RT11HT+nOP2M/QM3D7At3DPQtfRLlKKZzNMF5D2COn/0gDV5d9hq7qg/GATS07eHm9B+PaBCS+YHHHB1rbXsEOhuUhQQJWf9xNIpTKeBU59cjpBOGki3bClJsj+3L9AYKH17i2kWlcnXgUfciGYbs2niO7b2zm3b1gFP4RvH0/iXTobw/QhJznz91y4VHD2LSQyLgLNp2sNzFWl8xrffc=;aCbrvruI3G4OEIgooGnxpA=="
+secured: "t0fsPowFjU8zTZSOMShf2XLuwU1Pfk9Ip4PbZyXWWoC+RMKJMwz4/JZBrieXfrOeZqjzeJfZFrsMKoVY67qLX1OzC7vTdVw54yjttI6JXIYej2dDnRKuuyOf/cvCq6VmAk4Zfog5ILD+Ri6HDrGZgZGtEPFh36vpDNxkrpeSIawTyTBiFZdtqy0e+1WvaNJewn6TpOkSyQ2BP/adZmuh54TqhKYYOIyETGlZX/kOv0BfhJon5jaPInRNGwUqjDQBMkR1UiNHdfABLmeJ/789B+FIarMGtI8fGpOxLJAFW3vUbUekaCYn6R4yDD557mUlB7BvGdxzNSi8+8KhBWFexyfqmbMy+r0C9dtrDvp4y5vxNZtgmrNu+c3xXkdK0OjVNKeLlULJkISUr9KMVYJ3yQDrJ35Z/Q6foXSnfkPBbqbM79BTRZXP87KUE7rvXnV1m3odMMmopiRf+YxwNiR4dqG8Le/+KKtF0j91XTZA/UkVMupSc5wU2aDidqW3Kc88vrcsoJ55ToaMpEtM98UsWw==;f0nZ+QBYJ6rxHd4FvK+BPQ=="
 ---
 
