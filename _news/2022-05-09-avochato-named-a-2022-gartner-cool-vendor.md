@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T11:16:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/avochato-named-a-2022-gartner-cool-vendor/article_5ef33bcb-7749-5c51-81a8-169d83182d4b.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/avochato-named-a-2022-gartner-cool-vendor/article_5ef33bcb-7749-5c51-81a8-169d83182d4b.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Joplin Globe

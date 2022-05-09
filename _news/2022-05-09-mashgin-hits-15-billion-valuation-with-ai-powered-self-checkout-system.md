@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T10:20:00Z
 originalUrl: "https://www.forbes.com/sites/rashishrivastava/2022/05/09/mashgin-hits-15-billion-valuation-with-ai-powered-self-checkout-system/"
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2022/05/09/mashgin-hits-15-billion-valuation-with-ai-powered-self-checkout-system/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Forbes

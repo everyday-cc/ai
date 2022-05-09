@@ -71,22 +71,6 @@ related:
         width: 800
         height: 535
         isCached: true
-  - title: "Legal Aid Society criticizes D.A.’s purchase of facial-recognition technology, says office used federal forfeiture money"
-    excerpt: "STATEN ISLAND, N.Y. — District Attorney Michael E. McMahon used controversial federal forfeiture funds to purchase and employ the use of facial recognition technology that has drawn the ire of civil liberties advocates, according to the Legal Aid Society."
-    publishedDateTime: 2022-05-04T20:22:00Z
-    webUrl: "https://www.silive.com/news/2022/05/legal-aid-society-criticizes-das-purchase-of-facial-recognition-technology-says-office-used-federal-forfeiture-money.html"
-    ampWebUrl: "https://www.silive.com/news/2022/05/legal-aid-society-criticizes-das-purchase-of-facial-recognition-technology-says-office-used-federal-forfeiture-money.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2022/05/legal-aid-society-criticizes-das-purchase-of-facial-recognition-technology-says-office-used-federal-forfeiture-money.html?outputType=amp"
-    type: article
-    provider:
-      name: SILive
-      domain: silive.com
-    quality: 34
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHFFEPL3ZZERJIPVUZ5ZGQ4HQA.JPG"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
     excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday. As drafted, Senate Bill 113 would establish several regulations for the use of ..."
     publishedDateTime: 2022-05-06T20:38:00Z
@@ -115,6 +99,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Startup Spotlight: The challenges and promises of facial recognition technology"
+    excerpt: "The CEO of Lapetus Solutions, Karl Ricanek, speaks with WRAL TechWire reporter Jason Parker about the use of AI in facial recognition technology."
+    publishedDateTime: 2022-05-09T12:32:00Z
+    webUrl: "https://wraltechwire.com/2022/05/09/startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 15
 
 secured: "RUXhVLL9QLtIfTlRZvflTZA1gcQg+i5FiAXebT7p0CLuac00SvOimquaHCd7o4Gj51149epm1RXrv2U3vvoNzCpdPcwM5FmfktmpF7ht2gLE6VDnS3z3mY4IZoLv17P0+POA7dlwT1tqSiGqOYyQRZyzBL1HIettA5KIZhLqLMKoCgvZfuve+C/gAOfYMytPr+bWb7esxNvXwvKXvQalwk9+xkZVYcZRX+d+DQ4xpxxwttaoWGsBsz7bdkP+26M9TO1fHGLN5/0xzwh8uZ3DMX3Ye5si2QXJKGfs46/l+pYfH8hvwaOQzTMTCQTQMIVykIAzsRnhLZv1cPmnErmvoAPHqtz2r4wXeWBr/fE8TXrz/BzSz14lwyR80wblzMPF3koMKdxs1HH5fzTxoCXQB91wX6GRf4MSNYpzUFS87XWhNBQlOTvon2hYF0Ye/4O3i2HGcd3LsRCAc7lf0Kdt3glj6IP/0f8j72UwGWqqxGM3mmpYD1uPlJrRE2oqAcRS2UOMzDO/UnXh+Fc2IuP9HQ==;36dCV+t3Xrb0GYRSv5ndfg=="
 ---

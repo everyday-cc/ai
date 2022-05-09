@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 656
         isCached: true
+  - title: "Emotion Detection and Recognition Market"
+    excerpt: "Moreover, technological advancements are expected to assist the global emotion detection and recognition market growth during the forecast period. Furthermore, expansion in research and development capabilities in speech-based emotion detection systems and ..."
+    publishedDateTime: 2022-05-09T15:17:00Z
+    webUrl: "https://www.transparencymarketresearch.com/emotion-detection-and-recognition-market.html"
+    type: article
+    provider:
+      name: Transparency Market Research
+      domain: transparencymarketresearch.com
+    quality: 4
 
 secured: "4D2bGd4g5rD38MpwKF6+3ljfd93+o2pajUCdrBqDD6y7YfUI1YVciErIMyKAq+8y8T6L/YWlIPYwlhxCDxPAHAkIisJ/7TfHaQ6XNMNdKJVGM9l6cNPyJM+C0nc0a/f7dS8d+HLsDwTHCQZFwRX6UwGo4q5pstaNOKrUjqLGWMQyWczTHp1/7kTOVBe38nZnnTpOdMFz7DTvYWL59weJGJljgsm8q/c8y98ptgcaDsgVlfVxZ0S4JuhhgRrugqEcWv/3H+NgPV/EIhGEOhtaEQ47e23rON3tS/iofWPvc5nxo3XvnwIHND65Vygzi44v66SkC29IkthSCTJaDgy9CrEwYf4elirlb09OADl9FGA=;YSTFSEItF5wFVzs8m0RVNw=="
 ---

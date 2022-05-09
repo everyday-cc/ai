@@ -18,36 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Strengthening Company Culture With Artificial Intelligence"
-    excerpt: "To achieve ultimate value from technology, it’s important to consider how it could benefit various parts of the business: organizational efficiency, team collaboration, productivity, R&D opportunities and team empowerment."
-    publishedDateTime: 2022-05-09T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/"
+  - title: "Content moderation design patterns with AWS managed AI services"
+    excerpt: "User-generated content (UGC) grows exponentially, as well as the requirements and the cost to keep content and online communities safe and compliant. Modern web and mobile platforms fuel businesses and drive user engagement through social features, from startups to large organizations. Online community"
+    publishedDateTime: 2022-05-09T16:00:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6272e3b2ed8a29c5f841d642/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 522
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/09/l300_contentmod_fig1.png"
+        width: 948
+        height: 566
         isCached: true
-  - title: "Getting comfortable with AI ethics"
-    excerpt: "Which is probably just as well: how we as humans are going to interact with AI as it develops is one of the questions of our time. So how do we get people to engage with these uncomfortable conversations?"
-    publishedDateTime: 2022-05-05T10:28:00Z
-    webUrl: "https://www.techuk.org/resource/getting-comfortable-with-ai-ethics.html"
+  - title: "Bright Pattern and Matrix42 Partner to Bring AI-Powered Omnichannel Communication Interaction Platform for Service Management to Matrix42 Users"
+    excerpt: "Turbocharge Matrix42 with an Omnichannel Communication Interaction Platform for digital transformation, AI-powered automation, and remote service"
+    publishedDateTime: 2022-05-05T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users-1031426661"
     type: article
     provider:
-      name: techUK
-      domain: techuk.org
-    quality: 54
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/3f4a9f73-5300-4cae-9e6cc122189ffb87/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Office-working-251122234-web-1500px.jpg"
-        width: 400
-        height: 267
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
 
 secured: "uotFznoiXRUbZORBpE7pwaTIY3uMfTE8E4VMtpaMEU+g4EfP7Y9T6lCnzd1jHIp7IREPZd0Ogm9dcQ1tVAg2aYsxgJKmGhAN7iEL2028B99K8FFmO1oKOjYa+XrHWQLgiwzzJKmJYxoOTNrdQq0YOr+ae48fpRqkWB/+xbaEyP+wrMyGx/QndHR51oLF8bmozey8ck7ULoqweonD6kvVtuvPb61fkwdWIVUwanht5NfPBtmv30tllMnavl6HLEumi3Pp8Y89n2k5VVU349m6OKhNW+e6gmwV80JurG3FdcSfFkc8ejRu27c36r9IOwHbn8dsfwfDlQ6KtOnxBMe8E5kYeYYnmmVOXGpwq5OaKoPdxRh9yDHlgSs4qeSSQOTeH7/dG93t79tC912MoB5LpA2OYlMgRklWkNT2b8dK0M2dl6aslT98Q7rzBJrh3iFlPD9ilPVMnQjN5hKbGYsPdk76elAFvNZJi4O2VXrcLpzRPZAHqbYPaQfTtJ55DzwSYImfh8PNkY7t0IOZhkTgeg==;UKXtpltjdOlm7Wt5F5gZZw=="
 ---

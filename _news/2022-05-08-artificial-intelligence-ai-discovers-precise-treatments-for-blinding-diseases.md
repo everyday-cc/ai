@@ -36,7 +36,7 @@ related:
     provider:
       name: theregister
       domain: theregister.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://regmedia.co.uk/2015/11/16/medico_834957324523.jpg"
         width: 648

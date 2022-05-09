@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/Business/20220505/39382
 webUrl: "https://news.webindia123.com/news/Articles/Business/20220505/3938284.html"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "New UTS Master of Artificial Intelligence prepares students for future Industry 5.0"
-    excerpt: "SYDNEY, May 5, 2022 /PRNewswire/ --The University of Technology Sydney (UTS) has this week announced the launch of two postgraduate courses in artificial intelligence ... autonomous driving, smart healthcare, smart education and personalised services ..."
-    publishedDateTime: 2022-05-04T22:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-uts-master-artificial-intelligence-prepares-students-future-/2022/05/04/9595986.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
   - title: "New UTS Master of Artificial Intelligence prepares students for future Industry 5.0"
     excerpt: "SYDNEY, May 5, 2022 /PRNewswire/ --The University of Technology Sydney (UTS) has this week announced the launch of two postgraduate courses in artificial intelligence (AI). These courses are ..."
     publishedDateTime: 2022-05-08T20:36:00Z

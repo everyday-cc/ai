@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27031959"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27031959"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "FIRMUS raises $4.5 million for its AI-based construction platform"
+    excerpt: "FIRMUS has raised $4.5 million in seed funding for its artificial intelligence (AI)-powered construction platform. The Israeli AI and computer vision startup specializes in advanced computer vision techniques that assess construction blueprints ..."
+    publishedDateTime: 2022-05-09T12:37:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367613/firmus-raises-45-million-for-its-ai-based-construction"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 47
 
 secured: "BDtpPTUTBRR5myyDY2N9e68n4qYpdUNpVNA3yNgkv7uAM/7kLx07pZVV4XjlDnKLwB13/XAvVUDwyDfhU3guP6kXJb7ta8u0CyVFazQLN4xAihhsR8nykk7Or3Ez0dGr4hsJgMdtfDgygn/vq71sIgRjelqWeS3xMdYfxKQpUnWeVE+N+UzxaLFcNwocFP4jWDO7dZvM/IVKFl84fygSgGnTR4iTx9KEI4j84hP6ATPU/XENBK5CYKn6W2wa/KMA8HeHpgMr4ohI74unFVxk3LmyQp75HyGv70wQmkuJeeDudWk0+OPDewCIJWZPFo6xBi2tjjkCLJBB9/UBb/jtxWVcJxYdxo5jQhptG7RrssQ=;OMbcq6W0oFg9caMOCKucBA=="
 ---

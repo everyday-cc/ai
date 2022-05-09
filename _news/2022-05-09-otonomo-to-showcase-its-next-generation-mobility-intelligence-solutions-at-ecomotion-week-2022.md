@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T12:02:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-middle-east-israel-8247e6ea4568d24ff2ae60aa5b82ce54"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-middle-east-israel-8247e6ea4568d24ff2ae60aa5b82ce54"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

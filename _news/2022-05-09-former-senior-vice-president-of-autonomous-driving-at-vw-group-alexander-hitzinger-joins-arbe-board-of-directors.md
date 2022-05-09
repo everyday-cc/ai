@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T12:36:00Z
 originalUrl: "https://ktla.com/business/press-releases/cision/20220509LN50117/former-senior-vice-president-of-autonomous-driving-at-vw-group-alexander-hitzinger-joins-arbe-board-of-directors/"
 webUrl: "https://ktla.com/business/press-releases/cision/20220509LN50117/former-senior-vice-president-of-autonomous-driving-at-vw-group-alexander-hitzinger-joins-arbe-board-of-directors/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KTLA

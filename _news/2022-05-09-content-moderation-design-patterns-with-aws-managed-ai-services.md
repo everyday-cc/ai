@@ -1,0 +1,53 @@
+---
+category: news
+title: "Content moderation design patterns with AWS managed AI services"
+excerpt: "User-generated content (UGC) grows exponentially, as well as the requirements and the cost to keep content and online communities safe and compliant. Modern web and mobile platforms fuel businesses and drive user engagement through social features, from startups to large organizations. Online community"
+publishedDateTime: 2022-05-09T16:00:22Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/"
+type: article
+quality: 104
+heat: 124
+published: true
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/09/l300_contentmod_fig1.png"
+    width: 948
+    height: 566
+    isCached: true
+
+related:
+  - title: "Bright Pattern and Matrix42 Partner to Bring AI-Powered Omnichannel Communication Interaction Platform for Service Management to Matrix42 Users"
+    excerpt: "Turbocharge Matrix42 with an Omnichannel Communication Interaction Platform for digital transformation, AI-powered automation, and remote service"
+    publishedDateTime: 2022-05-05T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users-1031426661"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
+  - title: "Ardent Health Services Partners with AI Company Winnow to Modernize Clinician Recruiting"
+    excerpt: "Healthtech company Winnow has partnered with Ardent Health Services to leverage its AI solution for clinician recruiting. The partnership deepens Ardent's commitment to digital innovation and gives it"
+    publishedDateTime: 2022-05-05T18:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27032086/ardent-health-services-partners-with-ai-company-winnow-to-modernize-clinician-recruiting"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+
+secured: "kbf5BV/KJh4DSTe0v429cvbDOt+Q8lm2MS41hXRa+pnpzpnlQtJZwZu1IGMj5sb2coPUzfm0Y2wA//jaAYbRBA0PBt7eGeQr2z/g6KmN9DAK6l4AAK4LSrW0eFXzj4MkaUymLmnB4iZ/xHMXsqEy+dnCBQGYUe9fekSRoLGgxDkjYYvt6L862fxqX2hnDY13Tzze+aWa5NpaNyoQ8PNubqzwzcjmeys2LfvRYwhAJymCVf177mOdh6ro5EEVg8VwD8/dvrjJuXW8ho8NkwxfkmzfGhvQLgw8GFnluDyjuwUwfthB7y6x4yMN/PypGaIU08n3uit8cMsFoeeNYVOPAl6byT0r5Ix6QZJ31xcV3bs=;p4YQBatF3Bfx0N1NNjudzw=="
+---
+

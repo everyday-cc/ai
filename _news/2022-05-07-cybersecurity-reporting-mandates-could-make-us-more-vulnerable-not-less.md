@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Cybersecurity, Music, Industry 4.0 and local authorities: discover the new ActuIA, the artificial intelligence magazine"
+    excerpt: "In the new issue of ActuIA, the magazine of artificial intelligence, available on newsstands and by subscription (digital and paper versions), you will find many topics such as the use of AI by local authorities,"
+    publishedDateTime: 2022-05-09T11:12:00Z
+    webUrl: "https://www.actuia.com/english/cybersecurity-music-industry-4-0-and-local-authorities-discover-the-new-actuia-the-artificial-intelligence-magazine/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 0
 
 secured: "egZTh4RjUtq6H4KhX0HcAUxG7VY3mM6fKY2zIqWZhX9glEr4VY3ALwja53/PRuaxJsNa1Blp4G1XVRQrd0L+YqiLdo5/JfDa3gLZSj4BTBP/OMrlUHwBkbUSEJr+drzJqZz8LIP+7AGX2UH1H7+VTjZfm3McIiJcF3GPhqXVMBlWJdJu+FGew0qWOxJpHhv3YjiKXc+gTf2/mZmoL/g5OQM0QvsjDYUpcaEJ3pbFSRqLHIvhLPEAsBwVWbpAmZyZdT8vjlSuXp6y6GJ+sajVVGe6Ykl3HjUwe+Z4LNwWH16bGS11xUDbCn2V0QoZyu7njZQgvD0zd8mvKJCQX0E2Y6swrLVOCDodATbjHWYEibGrF0dArILrtpFtPa0SwraDltnHavfH4mNFT0SBuYGyRTnMD0eemAJsnQF1+BxqQij3bxaPx77loYMGi5BSg8BArLV2BQ3D/AlvhjkOhkceSLYt5NkITuuP1M550LwWGq1o7gAoqpousKl0pm1M2orVIIwQ3HO9e4I5+9xvVPQePg==;jSmzvyNQdLuAAQqIuEDYuA=="
 ---

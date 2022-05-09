@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s free GPT-3 replica exposes the business benefits of AI transparency"
-    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner ..."
-    publishedDateTime: 2022-05-04T20:18:00Z
-    webUrl: "https://thenextweb.com/news/meta-new-ai-model-opt-replicates-gpt-3-and-researchers-can-download-it-free"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FUntitled-design.jpg&signature=fa11babcddcb7cef41f611dd15c34e2c"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Southwest Airlines is using AI to help attract and retain its customers"
     excerpt: "CEO Bob Jordan says AI is important \"not because it's hot\" but because \"it can have a business impact.\""
     publishedDateTime: 2022-05-05T13:32:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-05T20:40:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27036568/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-h"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27036568/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-h"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Benzinga.com

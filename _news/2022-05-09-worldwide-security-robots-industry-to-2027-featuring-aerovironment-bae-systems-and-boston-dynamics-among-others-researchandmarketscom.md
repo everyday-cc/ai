@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T12:50:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27074123/worldwide-security-robots-industry-to-2027-featuring-aerovironment-bae-systems-and-boston-dynamics"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/b27074123/worldwide-security-robots-industry-to-2027-featuring-aerovironment-bae-systems-and-boston-dynamics"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Benzinga.com

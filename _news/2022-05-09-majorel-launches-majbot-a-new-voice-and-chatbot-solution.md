@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T12:51:00Z
 originalUrl: "https://multichannelmerchant.com/press-releases/majorel-launches-majbot-a-new-voice-and-chatbot-solution/"
 webUrl: "https://multichannelmerchant.com/press-releases/majorel-launches-majbot-a-new-voice-and-chatbot-solution/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Multichannel Merchant

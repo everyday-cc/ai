@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T12:43:00Z
 originalUrl: "https://www.proactiveinvestors.com/companies/news/981742/deepspatial-says-pilot-program-using-its-ai-delivered-measurable-socio-economic-impact-for-the-department-of-education-in-india-981742.html"
 webUrl: "https://www.proactiveinvestors.com/companies/news/981742/deepspatial-says-pilot-program-using-its-ai-delivered-measurable-socio-economic-impact-for-the-department-of-education-in-india-981742.html"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Proactiveinvestors

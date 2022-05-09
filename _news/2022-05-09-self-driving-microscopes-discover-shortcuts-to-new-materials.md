@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T12:00:00Z
 originalUrl: "https://www.ornl.gov/news/self-driving-microscopes-discover-shortcuts-new-materials"
 webUrl: "https://www.ornl.gov/news/self-driving-microscopes-discover-shortcuts-new-materials"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Oak Ridge National Lab

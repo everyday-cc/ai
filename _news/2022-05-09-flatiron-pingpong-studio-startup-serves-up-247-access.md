@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T11:55:00Z
 originalUrl: "https://www.crainsnewyork.com/technology/pingpod-raises-10m-expand-its-autonomous-retail-business"
 webUrl: "https://www.crainsnewyork.com/technology/pingpod-raises-10m-expand-its-autonomous-retail-business"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Crain's New York

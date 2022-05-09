@@ -8,7 +8,7 @@ webUrl: "https://www.theregister.com/2022/05/09/ai_drug_design/?td=keepreading-b
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/09/ai_drug_design/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/09/ai_drug_design/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 

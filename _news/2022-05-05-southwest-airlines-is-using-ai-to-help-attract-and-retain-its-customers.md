@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta’s free GPT-3 replica exposes the business benefits of AI transparency"
-    excerpt: "Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner ..."
-    publishedDateTime: 2022-05-04T20:18:00Z
-    webUrl: "https://thenextweb.com/news/meta-new-ai-model-opt-replicates-gpt-3-and-researchers-can-download-it-free"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FUntitled-design.jpg&signature=fa11babcddcb7cef41f611dd15c34e2c"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The Age of Generative AI - Inventing a New Artificial Intelligence"
     excerpt: "What is Generative AI, and how does it work? Generative AI employs artificial intelligence (AI) and machine learning techniques to allow robots to create artificially fresh material. The system does this by using existing text, audio files, movies ..."
     publishedDateTime: 2022-05-06T00:00:00Z

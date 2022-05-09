@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-pr
 cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Emotion Detection and Recognition Market"
+    excerpt: "Moreover, technological advancements are expected to assist the global emotion detection and recognition market growth during the forecast period. Furthermore, expansion in research and development capabilities in speech-based emotion detection systems and ..."
+    publishedDateTime: 2022-05-09T15:17:00Z
+    webUrl: "https://www.transparencymarketresearch.com/emotion-detection-and-recognition-market.html"
+    type: article
+    provider:
+      name: Transparency Market Research
+      domain: transparencymarketresearch.com
+    quality: 4
 
 secured: "C3hKOc2HYEHeB4NwjZMpmr/QfpCezl621OLgAOwHhvJo9oJA07lAw+MpULm0i2Xo34HCaZBnhH91IWrUSxmnmof2Vzj4LmNYf1MFc6p53c5ck5Ovht7BrXrQLIlrYdgtX0AXOOc3VaIwfRodG/lfKj/4w4T75AzLSKNQkxpK94knu0OSE2b1cdo9o0b2aEi4VP7aJVXyjIxqr1o8hRp0zb4z/L26nirBRsFauQHuQ+95E58QVc6zsUGRsAVP5dfg+e30z06/m408LCNmuZmfaD8A9XqcjXTqpxWFSAavcXct+sVhi7JhwoRiBbffU4F8HgDOHHTwHqI9TIWu/LVJxfrTMVwztQZaBfdk7qH7bEQeZjFVkPOcMMgLUTl7S4zTt8GHIm9Tor8SjtkFla2x75lgi63Mb/k9cDUinBxwgZhj6WJ3rtVJVLwUQZe27tUx9wPKZb9SVq68Mv2JNXXzm2ngHhMiy9IxKEic0YKTldd3H2xp6u726UbPBBOCU03zOkXeckPk1znXPdWmHixg9Q==;Xv1aKgxhL2Gn9Dol0XqObg=="
 ---

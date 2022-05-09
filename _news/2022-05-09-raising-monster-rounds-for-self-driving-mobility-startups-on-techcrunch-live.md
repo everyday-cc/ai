@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T13:05:00Z
 originalUrl: "https://techcrunch.com/2022/05/09/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/"
 webUrl: "https://techcrunch.com/2022/05/09/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: TechCrunch

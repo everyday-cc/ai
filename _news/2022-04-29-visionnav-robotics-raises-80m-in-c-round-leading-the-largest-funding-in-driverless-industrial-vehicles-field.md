@@ -1,21 +1,27 @@
 ---
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
-publishedDateTime: 2022-04-29T11:59:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
+excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
+publishedDateTime: 2022-04-29T12:41:00Z
+originalUrl: "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/"
+webUrl: "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Fox2Now St. Louis
+  domain: fox2now.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-secured: "t0fsPowFjU8zTZSOMShf2XLuwU1Pfk9Ip4PbZyXWWoC+RMKJMwz4/JZBrieXfrOeZqjzeJfZFrsMKoVY67qLX1OzC7vTdVw54yjttI6JXIYej2dDnRKuuyOf/cvCq6VmAk4Zfog5ILD+Ri6HDrGZgZGtEPFh36vpDNxkrpeSIawTyTBiFZdtqy0e+1WvaNJewn6TpOkSyQ2BP/adZmuh54TqhKYYOIyETGlZX/kOv0BfhJon5jaPInRNGwUqjDQBMkR1UiNHdfABLmeJ/789B+FIarMGtI8fGpOxLJAFW3vUbUekaCYn6R4yDD557mUlB7BvGdxzNSi8+8KhBWFexyfqmbMy+r0C9dtrDvp4y5vxNZtgmrNu+c3xXkdK0OjVNKeLlULJkISUr9KMVYJ3yQDrJ35Z/Q6foXSnfkPBbqbM79BTRZXP87KUE7rvXnV1m3odMMmopiRf+YxwNiR4dqG8Le/+KKtF0j91XTZA/UkVMupSc5wU2aDidqW3Kc88vrcsoJ55ToaMpEtM98UsWw==;f0nZ+QBYJ6rxHd4FvK+BPQ=="
+images:
+  - url: "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/05/400x225-Miranda-Lambert-and-Little-Big-Town.jpg?w=2000&#038;ssl=1"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "U3UFENB0IHcFqghegwDhTs4jHnFK9AEApQpm3Ym3yChS3dlcQTXsiHGLqkXg3vjJP0uBMOQR9OiCXhVJ3R3s0AMpZD88aKtXCK3RhX5Cs3tAUqWSHt4szKtjS7zeKXNOPX7hA5I+9bLVJkHjT8nkF2rRMiVefTyVfpbH49na5X00KCAhLSboi5Z3/dQy3d6HUHUEriAdcIyM52rcvRQD10XkVzFcEkOsbfdLCV/BXntIWzRJvfoy/r5RWEu+/U3iKmN+XS3G0t9aX5s7hZEeGVuCDDRC2CEOB71TN2d//yZ09AuXKzKpDbHno2inGsC1lOFYYLfesQyvKnC9o9k458AcxaT04TQgibETYvILfPA=;qxb9srqi+PXtyokPqZ2G5w=="
 ---
 

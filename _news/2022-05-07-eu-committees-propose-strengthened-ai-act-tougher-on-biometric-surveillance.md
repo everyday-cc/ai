@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202205/eu-committees-propose-stren
 webUrl: "https://www.biometricupdate.com/202205/eu-committees-propose-strengthened-ai-act-tougher-on-biometric-surveillance"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Innovators honored for advances in edge AI, biometrics and deepfake detection"
-    excerpt: "Savvides serves as the chief AI scientist for vision AI and face biometrics provider ... Its role in the TraceTogether program involved its Apollo3 Blue system-on-a-chip to enable community contact tracing with COVID-19. “We are passionate about ..."
-    publishedDateTime: 2022-05-04T20:10:00Z
-    webUrl: "https://www.biometricupdate.com/202205/innovators-honored-for-advances-in-edge-ai-biometrics-and-deepfake-detection"
+  - title: "Sebastopol to consider ban on facial recognition, other biometric surveillance tech"
+    excerpt: "Sebastopol City Council unanimously agreed Tuesday night to consider an ordinance that seeks to ban the use of facial recognition and predictive policing technologies in local law enforcement. The proposed ordinance, submitted by the Sonoma County chapter ..."
+    publishedDateTime: 2022-05-05T00:39:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/sebastopol-to-consider-ban-on-facial-recognition-other-biometric-surveilla/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 33
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/24181649/awards.png"
-        width: 1140
-        height: 540
-        isCached: true
-  - title: "Pajamas at work? AI startup offers deepfake wardrobe for meetings"
-    excerpt: "With video conferencing becoming an essential work tool amid the coronavirus pandemic, a Tokyo-based startup has developed a way to digitally make users look professional even when they had just rolled out of bed."
-    publishedDateTime: 2022-05-07T15:04:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/Pajamas-at-work-AI-startup-offers-deepfake-wardrobe-for-meetings"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F1%252F1%252F4%252F40164117-1-eng-GB%252Fphoto_SXM2022042100011275.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=471CA6C7-5692-4FE6-BFB1-6A6D9D8E9347&type=primary&q=72&width=1200"
+        width: 1199
+        height: 796
         isCached: true
   - title: "Face biometrics performance advances with new algorithm, benchmarks"
     excerpt: "Face biometrics testing takes an outsized place among the week’s top headlines, while commercial progress and big-money deals continue at pace."

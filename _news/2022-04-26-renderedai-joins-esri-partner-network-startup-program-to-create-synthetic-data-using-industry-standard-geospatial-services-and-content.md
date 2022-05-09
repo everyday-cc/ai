@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Rendered.ai joins Esri Partner Network Startup Program to Create Synthetic Data using Industry-standard Geospatial Services and Content"
-excerpt: "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rendered.ai ..."
-publishedDateTime: 2022-04-25T18:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
-webUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-esri-partner-network-startup-program-to-create-synthetic-data-using-industry-standard-geospatial-services-and-content-1031381228"
+excerpt: "The company enables users to connect to authoritative GIS content from ArcGIS to build synthetic environments for AI training. BELLEVUE, Wash., April 25, 2022 /PRNewswire/ -- Rend"
+publishedDateTime: 2022-04-25T18:18:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-ac573258ce746927b32b80f381d92a85"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1803989/ArcGIS_Channel_Training_Chips.jpg"
-    width: 400
-    height: 267
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "PsT1/bFSJdImMH296AmnnWLdi2whzqVsCi62j5W4gH6PZIeI2JMzcvjJYQe4dbh8BSp1qdppVzRxMas35Yp6Sgm6x3+dG9pSOuHE+9d6MX2pXCCB23mm77tAvOrwOGSuTdWnQ60xLigdjAoKd8cucnyIyOm/H7vLu3osH5RTpcNIBZo3ZnIlzWqO3Lh9k59IyxX7j/umRW6VFVzHupKX8rD6B4xNkXC4axNzFPg+r66NeYESeFhaIEC84Y+fzbZ0paR2kDbVXs3fdrSbdwUPAB7IJCvunTY/KUKTs8XgQHOLN/NUVJ51AgRjNTmZQhDIr/lulU8ToTyHRzeanCuzoO3F/Qs3rk9XbFLopJZ5ZeYNT/wEwRdPMIrHpkpJjmof3I09T14RFkHYNXoJmjrvB4L3mD3aJNvd4RUOI58K6RENCLHD3IANvngeu3CsWnVRlJO1WZhOl2MBLIno0KLnLmQJ987hO7QSw0zWxH34zcHHGuDAne5fCri3Y9qBhxLFJluUIYZGhKyPSl0xv4V9aw==;CYFMvGFaviPLt1R6JTle/A=="
+secured: "6W+15dfn/a+TT3kH6xT6j9Rwwt3gzW1MzkcV2YpEQXCOxaO3oFBmdsEn7E4oMjZnJlhZQ3YXiQM7ph91+YVvF60KjBGmFLWV4PA/GRN146NQUTVqDyrxilB/gxJ/rxjvMyKPVbJjR8mvAiVU1hLP9CGZpRAJxbLZnUq4nMWTZk9gvNdYJgzw1FHXrxX6AsiBUUwVOyv4xizNb7xIfZjz8jLQViXDIK0ttuXoJOR2QLwmagXD9PsrPRqEvTA/xHfcanDdC4otgDzBhxYPlmf6nany/XPrSFNnZH3xxNGFLMlmaTTlrBEVt/pry+jaYzY6La6mt2NS3tHoc1m0ZWRRisT63RMq0WqjwqQYCYWqRRs=;qNg/sLiMzddwy0y51t/xBw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/mayo-clinic-developed-ai-algorithm-can-detect-weak-heart-function"
 webUrl: "https://healthitanalytics.com/news/mayo-clinic-developed-ai-algorithm-can-detect-weak-heart-function"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Analytics

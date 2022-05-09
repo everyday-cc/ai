@@ -110,6 +110,15 @@ related:
       name: InvestmentNews
       domain: investmentnews.com
     quality: 4
+  - title: "Learning to Live with Fintech"
+    excerpt: "It takes two to tango, and banks and fintechs are increasingly realising this. while such tie-ups help the former slash operational costs, for the latter, it promises access to a wider universe."
+    publishedDateTime: 2022-05-09T12:12:00Z
+    webUrl: "https://www.fortuneindia.com/long-reads/learning-to-live-with-fintech/108091"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 4
   - title: "Fintech TIFIN’s Financial Answers Acquires Two Additional Digital Asset Firms to Expand Data Platform"
     excerpt: "TIFIN is an AI-powered Fintech, which “leverages data science, investment intelligence, and technology to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
     publishedDateTime: 2022-05-06T18:39:00Z

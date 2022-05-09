@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - Facebook AI
+  - AI in Autos
 
 images:
   - url: "https://www.techshout.com/wp-content/uploads/2021/11/meta-logo.jpg"

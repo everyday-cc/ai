@@ -118,6 +118,15 @@ related:
       name: InvestmentNews
       domain: investmentnews.com
     quality: 4
+  - title: "Learning to Live with Fintech"
+    excerpt: "It takes two to tango, and banks and fintechs are increasingly realising this. while such tie-ups help the former slash operational costs, for the latter, it promises access to a wider universe."
+    publishedDateTime: 2022-05-09T12:12:00Z
+    webUrl: "https://www.fortuneindia.com/long-reads/learning-to-live-with-fintech/108091"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 4
 
 secured: "BOeLOrdF79a2eTOpeJcvH/Ltqf03Jl5bkO0nLxHaj4xf0o8dkwt8KXSWnEKmS34FPcCfrr6htr+MgXlVYiiDh0RoCAil2IsFMK5MdS/YB5mO2SrL0EOcg5sevnZQxihzPGc14yG/KP/Xd956JEOQMRtRU1hHN39PeQX7FGEZ17pHkyOvhV8BGFXhr7L3pidf4sKK9byle33qm666DeAoKbdjxhlThzaR728Z3Cmn9iziB/dwtbdO8yxHRbI8jdnUuIp9O4h85gGc/3YZgpexNwpsiejjDduSXEL83rqy5O/e3hbnBaVk4QvQs6Hz8eOu80llDU6ELrPEHjpvZoXXnIOT1uuCv+q6PaQ7zw8V+7542PNxXWxQO6cfrZyyM3fPQkRt6IUVcZjxpkqa0rS252UOQB1wo8bpvA+giYMrUM1Q+kH3istfNSHrCXlg6l/vvbEZOVGly2k41Qy5Oux4W4mIyLrYcvLXKNus+brfKH9W8j2SWS36eHLSQBLAgmGJe+NcPqg9QWliCIlzumwEvw==;pFEcVyyyiDcpHIAUrvtCaA=="
 ---

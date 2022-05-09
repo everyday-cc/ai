@@ -38,6 +38,24 @@ related:
         width: 880
         height: 495
         isCached: true
+  - title: "Levo Credit Union goes live with Scienaptic AI"
+    excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform."
+    publishedDateTime: 2022-05-09T12:55:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92549/levo-credit-union-goes-live-with-scienaptic-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
+  - title: "Levo Credit Union Deploys Scienaptic's AI-Powered Credit Decision Platform To Enhance Loan Approvals"
+    excerpt: "Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union, a 30,000 member strong credit union serving the South Dakota region, is live on its platform. Scienaptic's platform will allow Levo to ..."
+    publishedDateTime: 2022-05-09T12:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-levo-credit-union-deploys-scienaptics-ai-powered-credit-/2022/05/09/9597896.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "2t2ydD4ZvLFOjXxNcQHrBo6WmhhjI7t/9E3m7KVfeDNentdAnuXvGVlBpAfHmG3egphVSjZyf17c8bnlFc6aJRIlHgM9NTtUs2Jbj82PzaDh3JYee5Bg6J0d/Fyz/HedPVKOxBowD9zszvrHhDWV3LLcqGUVUg1BPLXiUWj6Vfsahl205pvinyhhu2kaHKO8n5+EAZkgd81z4GnQd+/FlEntpwLK1Fahg+69cJNSMwYjC9MYcgYW3oj1hYzEbvuH/7lGReQufAjuACN/sflqn/9ite8OlTnSEPE/1Ly6yLjlYCO5V4x5EPPIrZIHzbaraL++7iy0/2aEBlFUlKuVmZGdPBDHNqbASgdSa27eQZo=;uzhKXe2upTRpBVTvpO14Vw=="
 ---

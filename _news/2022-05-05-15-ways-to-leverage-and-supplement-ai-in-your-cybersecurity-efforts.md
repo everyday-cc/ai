@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 622
         isCached: true
+  - title: "Cybersecurity, Music, Industry 4.0 and local authorities: discover the new ActuIA, the artificial intelligence magazine"
+    excerpt: "In the new issue of ActuIA, the magazine of artificial intelligence, available on newsstands and by subscription (digital and paper versions), you will find many topics such as the use of AI by local authorities,"
+    publishedDateTime: 2022-05-09T11:12:00Z
+    webUrl: "https://www.actuia.com/english/cybersecurity-music-industry-4-0-and-local-authorities-discover-the-new-actuia-the-artificial-intelligence-magazine/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 0
 
 secured: "DEi6/4FlIh+TqbHOAM9finx/UIWwaxBtm+uK+2NCCzHaEThRc00oQXtP9AG+mR9qj5AicNOr6u16LFgyfj/yXurrRUX8XnoNPyVD/oVgUQdCQ7yGSfp2RFcEWnUzpXjr1HUx77qMISFsR4Trvkdc+wWxB117y/2GOZXOrNQhWrbiYQ2EeTg2e+B3wQGWBMx5vZ7RZZob4NfG3DGSdB+fnca9oADwWQse6mRwCBOevpZIbuODZO4OfhPm0mYM99xIpPao4Htb7uvyIyCjmyfIccIxJMtJgtbfgLo8g5RJPr6d5TSrFQDUAz6pxwUVziwZYr5YKj6LSJJxo/K4Tq38XVbnrhzQEHGm3H8wYJOF6+VnTvNCJjJYgn6SP/BEIeoDZOUEtXxG6EjTIAGWXVcZm3TgRcjUAJeM9icn1rvr9eVACMeneB6uaMx3Pl4QINnibCR0YC0O0GIFUWPe2EC4uy0SURNCdsnF53qSp1w3ztn2zyJ+28XN4NQIQA8XejSNj30+vzH0MY46J/99KXyf/g==;f7ct1TnhgbiDukukJtaOeA=="
 ---

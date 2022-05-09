@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T06:00:46Z
 originalUrl: "https://azure.microsoft.com/blog/announcing-new-voices-and-emotions-to-azure-neural-text-to-speech/"
 webUrl: "https://azure.microsoft.com/blog/announcing-new-voices-and-emotions-to-azure-neural-text-to-speech/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft

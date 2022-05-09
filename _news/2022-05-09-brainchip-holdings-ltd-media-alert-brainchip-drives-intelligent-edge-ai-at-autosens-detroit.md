@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T12:25:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/55995599-brainchip-holdings-ltd-media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/55995599-brainchip-holdings-ltd-media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit-200.htm"
 type: article
+quality: 22
+heat: -1
+published: false
 
 provider:
   name: Finanznachrichten
@@ -14,6 +17,31 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Media Alert: BrainChip Drives Intelligent Edge AI at AutoSens Detroit"
+    excerpt: "About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY) BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company’s first-to-market neuromorphic processor, Akida TM, mimics the human brain to analyze only ..."
+    publishedDateTime: 2022-05-09T12:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/774e1c49ff8c5d1f2c8c30a3674aa8674e8bbb9d-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "BrainChip & MosChip to Demonstrate Capabilities of Neural Processor IP & ASICs for Smart Edge Devices at IESA AI Summit"
+    excerpt: "BrainChip Holdings Ltd and MosChip Technologies are jointly presenting a session at the India Electronics & Semiconductor Association (IESA) AI Summit discussing how the companies are working collaboratively to enable neural network IP for edge applications."
+    publishedDateTime: 2022-05-09T12:14:00Z
+    webUrl: "https://www.design-reuse.com/news/51897/brainchip-moschip-neural-processor-ip.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 10
 
 secured: "wA0Ec6e0C0N2crs/8yqSWep+ABkPrBMPy0UetECRcaMV7IA7xGtwHu4BuHiME2pfKH1D/hgSIEpUz1bnWlwbFaYDe5luH4N8RvRdj68eEvYO/VcqR8tOMTEt6luAfmPY1fC4UNY7e1Exa1zch6gqQ0twdovXgNpmqvn8Yp63QWNlISbt0g+vAIWfrMNW/D/pQJKyw71thwenxPhPaL2MiMAVJWa2ltGjQOUF10BmEdrzUI49Csa62H+I0BBIESBibL+2q5jMdbR1k+D5g667A0Sfx69+8d+EEJO9z/wyvJ8j/jBO0JJ2SHbK31Lr5scUU2bYrIgBI0B3tzBs/lhdCJ00QTe34hEsNKa8y3hoEQs=;0RfgJ0kO5HQ+j6V1kZBTMA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://breakingdefense.com/2022/05/google-exec-pushes-lawmakers-to-
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/05/google-exec-pushes-lawmakers-to-support-pentagons-ai-efforts/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "AI used to support people with learning disabilities"
+    excerpt: "“We are very excited about this collaboration opportunity, working with clinicians and experts in data science, AI, medical informatics, human factors, design, ethics and qualitative research, as well as those with lived experience of learning ..."
+    publishedDateTime: 2022-05-09T13:08:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/ai-might-help-support-people-with-learning-disabilities/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 19
 
 secured: "m95Z0FXeGz6wx/Jv54i1HlrpyL3LjMS8AlMdaN/fCC8AHfVybAgDFjlJT+RjzREzAcL5m77UaswXqDIDII3dkDwAOb1NBZthK0fK0bGs4vkppC+EFCiho+RkUCgP6R4TN3RW7iIYmft4uBHQLUCXn8jBZP2NwPN8KvKriXt7LiD0+gMVL2tuOc0SyvFrm8czEPvsYa/jsaRpnC7IxPCDJpRqOAaQTCQMlkUkAOrgz1XbWjVoBTcAS7yMDd1XUtuk6tCKGMv6tv9hJJIWnnCZqKYqMXzBrX/cWoteLTJjYff1KS14KftGu65ZiiGDwIBcmCIgyH7H5J1PtelXHe3ZE97Zf2of1la0D+60aQcP0HQ=;QVNAUa0i5ZtrJyG/xvky2w=="
 ---

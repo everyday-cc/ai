@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Unveils New Chip to Help AI Understand Users"
+    excerpt: "Nvidia is unveiling the H100 \"Hopper,\" a new technology that has the ability to speed up Artificial Intelligence applications. It will be an"
+    publishedDateTime: 2022-05-09T12:51:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 76
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Nvidia-Unveils-New-Chip-to-Help-AI-Understand-Users-1024x585.png"
+        width: 1024
+        height: 585
+        isCached: true
   - title: "Landing AI Becomes a Part of NVIDIA Metropolis to transform industrial inspection with AI"
     excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced"
     publishedDateTime: 2022-05-06T10:17:00Z
@@ -60,6 +76,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Nvidia’s H100 “Hopper” Chip Aims to Help AI Speed up Digitization"
+    excerpt: "It will sell a new AI chip later this year to enhance data processing and AI modeling. Despite the fact that humans have come too far, still there are some complex problems unsolved. Technology is still naïve in providing a self-driving car and ..."
+    publishedDateTime: 2022-05-09T08:37:00Z
+    webUrl: "https://techengage.com/nvidias-h100-hopper-chip-aims-to-help-ai-speed-up-digitization/"
+    type: article
+    provider:
+      name: TechEngage
+      domain: techengage.com
+    quality: 34
 
 secured: "IJQJ4ZsXmQR2f9EyrqNbwvpHEicpBpQ/w0UVIS1LzzbF5ZolVCxAHeg9rTT84aopZMZW8JhdsDiG80qH0ImWqybk5YVGceQA+tiFyl0aNXoMCGQjyqkLsOZqhmg3uvjLfxa7UBhjk0UrsVrvOWiELJbcYXkwl3fa8X/Ic3X0sTbyQaZ6MqT5vZSzJsjsisb7AzOG/IzRy/DeOTgZQW39kPL5O2U4b/vNaEcNjFSPRu6jyfp9VZ/CPG9/2HWvhmYQdVR9Mvnidc5mbNZSWEJkxArcBIa8FG4fj2ARIzELI+8p1TZuZelnVG7uHhSQ+j0WEJjp6B/Ypn1qVMukwqjQMZ7fwwng6VGRRoPWD3EJFHk=;DbTC/lmtbsCtTDl5Qlak3w=="
 ---

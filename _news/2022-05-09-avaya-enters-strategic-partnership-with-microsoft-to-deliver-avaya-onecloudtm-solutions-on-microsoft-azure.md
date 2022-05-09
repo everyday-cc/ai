@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T13:28:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2022/05/09/avaya-enters-strategic-partnership-with-microsoft-to-deliver-avaya-onecloud-tm"
 webUrl: "https://stockhouse.com/news/press-releases/2022/05/09/avaya-enters-strategic-partnership-with-microsoft-to-deliver-avaya-onecloud-tm"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Stockhouse

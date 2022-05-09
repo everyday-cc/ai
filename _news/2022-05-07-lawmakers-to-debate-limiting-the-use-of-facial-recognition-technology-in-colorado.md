@@ -71,22 +71,6 @@ related:
         width: 800
         height: 535
         isCached: true
-  - title: "Legal Aid Society criticizes D.A.’s purchase of facial-recognition technology, says office used federal forfeiture money"
-    excerpt: "STATEN ISLAND, N.Y. — District Attorney Michael E. McMahon used controversial federal forfeiture funds to purchase and employ the use of facial recognition technology that has drawn the ire of civil liberties advocates, according to the Legal Aid Society."
-    publishedDateTime: 2022-05-04T20:22:00Z
-    webUrl: "https://www.silive.com/news/2022/05/legal-aid-society-criticizes-das-purchase-of-facial-recognition-technology-says-office-used-federal-forfeiture-money.html"
-    ampWebUrl: "https://www.silive.com/news/2022/05/legal-aid-society-criticizes-das-purchase-of-facial-recognition-technology-says-office-used-federal-forfeiture-money.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2022/05/legal-aid-society-criticizes-das-purchase-of-facial-recognition-technology-says-office-used-federal-forfeiture-money.html?outputType=amp"
-    type: article
-    provider:
-      name: SILive
-      domain: silive.com
-    quality: 34
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHFFEPL3ZZERJIPVUZ5ZGQ4HQA.JPG"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "'Everyone has good reason to be concerned' about facial-recognition technology"
     excerpt: "Facial-recognition technology surveillance no-go zones should include peaceful assemblies and public spaces like streets, transit hubs and schools, says the head of the BC Freedom of Information and Privacy Association."
     publishedDateTime: 2022-05-05T14:00:00Z
@@ -101,6 +85,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Startup Spotlight: The challenges and promises of facial recognition technology"
+    excerpt: "The CEO of Lapetus Solutions, Karl Ricanek, speaks with WRAL TechWire reporter Jason Parker about the use of AI in facial recognition technology."
+    publishedDateTime: 2022-05-09T12:32:00Z
+    webUrl: "https://wraltechwire.com/2022/05/09/startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 15
   - title: "Law enforcement use of facial-recognition technology must be limited: Privacy Commissioner of Canada"
     excerpt: "Current laws regulating the use of facial recognition software do not offer sufficient protection against the risks the technology creates,” Canada’s Privacy Commissioner said while appearing before Parliament’s Standing Committee on Access to Information,"
     publishedDateTime: 2022-05-06T21:08:00Z

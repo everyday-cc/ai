@@ -36,6 +36,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Insights on the Smart Robot Global Market to 2027 - by Component, Mobility, Application, Vertical and Region - ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global smart robot market reached a value of US$ 8.94 Billion in 2021."
+    publishedDateTime: 2022-05-09T13:31:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-9-insights-on-the-smart-robot-global-market-to-2027-by-component-mobility-application-vertical-and-region-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "LtlgawB7k50A+kOqIFTMmtGo7X1aTCclXeEJtvzNepQY86iWtbEVPoH2KH6mWht7ZET1S3tLlFw8MGz0/ayQcvmqh5OUjoG24U1LZXhVf6FgcaNNh9Kgzmk4fStmx+i+3sCnu36T3LcxFWvEvNOZawXNyTvfBsKtAblrHx4+fqloWxf/9TjOmTadSzKYXmdR7L//lqKWOxXLVC1xkkhMqiTWkG4ekL6ev9Na2FL97FZRwNxDw0xJ5vjg7Hi2w0BRoPcklU+VvhO4Xdaf14s4EhhTmLmtY626uZqnNyUqp4t+hGtRvsGms5hxe85EunpjFrv1uoWale6hm31N9O90R5DRBoxT0THAVA9s64XL6Mc=;4nUrrjsRVocN4Ek9UwibsA=="
 ---

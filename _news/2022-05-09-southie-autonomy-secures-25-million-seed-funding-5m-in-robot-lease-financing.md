@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-09T12:03:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-oceans-venture-capital-artificial-intelligence-8a343a98570f43c8a1a783ec1a9c6868"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-oceans-venture-capital-artificial-intelligence-8a343a98570f43c8a1a783ec1a9c6868"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Associated Press
