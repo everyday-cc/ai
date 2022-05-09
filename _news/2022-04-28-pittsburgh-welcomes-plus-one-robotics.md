@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg"
@@ -21,6 +22,6 @@ images:
     height: 500
     isCached: true
 
-secured: "m/azjWZ0h/HisMhqOTIp4OtXlDFoKZh29Xl36G/KqDcauqjJR3qpBuv1noJa5HMeHwMWbQJslfQGRBzLxxeJGAa563G18pFr83vPB3vPVFeokccgWNCfMbPa62WXcBJIBcspSGQ45uBKfYx0AePG+97M7RBtU/5sOJDSsuJI+9fbrhsxIv16FTY2lYFqithR2R2i4tLEQv8zGNDzdFZh18u44FWbK1Wk/yPGetB4VZSNnj40JtZQQp5lGvGW0btX5nBCvq7//ZxBW6zRSYDWUijAizRWGAcdRbb9gB8Z2GNXkTFMD1Vt11TJxqXLGqCrFgh/Gti7mdRKNHi0OjbA24TxMCN7VeNqd/SAdPeV03I=;nHRDGS7zuq+iPxR9zrk2Gg=="
+secured: "uJWj4Qq4xUgmS0mQKh9jeXdd1I872XjVlSyXXQeFKC0dnU0cpyrHC/H8In9XMLwsaLaJvkMI7+TiYRWcaUmzHzFjjk7HzMPgsX0yZg1bvDJcIdhShi5PUBqn3c2Ze+P6b32UuWIolg7PkUGL6pJ9jEKjPoJbKc0n/BU16nvDDNtnP5QOAmSqOU/FgAmcqt7P8xDoFh1D6xlMOtNNkyN/RARFn+YUT4FWMdjGdF7bZjD2HOPc+PQdM2P5DHjisiuJqN7FkfbcS2ejXplmncrvHHtdhSMcFOv97FDvAX+7XDx68SOxFfctdk1ApaF4M/DjYMRVv3TzUI07W0axF8wPJNtFWqQAaBn+3JVx0Xp4DVWvkv62n3h3UbjfalO3ZCBGQx8/sZgr+IImiL2rPL7lI8aSymesqEGVu+v2GYXZ+7EilqQXuSljIjzYtN3HQ73qiTdAhL8TGr5fAQnapnzTjgv9Jr51TZ8WE57/97OXivDIuHsKoS71cF6rlVrq4It9z9KoUy/jtdua3FXwfgUZpQ==;cYgLqeyfoLJvELoq2zOOeg=="
 ---
 

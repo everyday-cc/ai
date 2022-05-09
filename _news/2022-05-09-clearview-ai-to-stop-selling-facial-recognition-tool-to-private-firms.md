@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - Computer Vision
+  - Natural Language Processing
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOCQUNDAGUI6XILXO5S7FGUVEQ.jpg&w=1440"
@@ -87,6 +88,6 @@ related:
         height: 628
         isCached: true
 
-secured: "QB+7UU6JFYn5xPNnpYDXGga1+duqWc/TlHjfn08cWQGiTNb6+Ry0JAidKwEApalZRhl/5sHdQSxrwcOciGiMNBbcuOkB8DySONlV8lE3gC4PycO6SFsM+7LIwkyScdJLatHXr5uYrfVVP7QA/RvDDczxnwTdUnTZ1eDOFHnhgk5qJJFzCb00fcVw3qVXwZX0xYHLeADmqPXEmjcQwDRGxHKvLRn/vA5aDV8Do2iLUr6dyd3jAU3FeKekK+0wzrifpx8BDUsFmbR0Gb9DXz9KF1RrrqGMJDDRmppkeGxRT/ptmAIn5gPQ8ZBg5y0Kqcu6EEFTJ63GKQvrnrZz0eoBlboOWfJqTpKlVsMuLYb1O3g=;k0VtHpg7q1e9lAM5oWjjEg=="
+secured: "cyNlHan8LFkN25s9z6NkUe2OveFWDnyBiGggTiKLX6zhp/wvyLacH41MrPpf2rE+FIOROTQIyFhuLavVya4kUDKKIxumnQdcgNFmRm+byQNyJcDbiFaRJgqiqtAtdnbP/dcntFMsJZOPlsL4q/PmK2SVmUGbnvmjseY/rVarR6Q5ojlrL9YaTD1bFGnsbV/lFYmNpDfUO7UCKp+W3cvUQNNFe1s2Wgj/lcUjnvbEP2Fa3Fv5xuE2MEIowshwj1dMvXrKJ/21Kvn5t+fImdrmixw20PtF2cHIKSZRgd7GzX49krkL8oBQhMJOnuUCAeDjrrNe5B2w/CAhp6UiIwTl4x03QIQ51fdSA6cNGOJY3TQph6YMvajrrTLQz0GiH9k2rWEpQAYPqNHYjWNv7w6q2AJtAkVJKMHymYVB2bwgyDWEciwu4iqnFqpnV37DsKemGZP557KrQyHokD9mRlSl1Ownrt02DgqVbD63RsApx7C4/oyDe1wBjfwqJgSnKc44GxgyGVG1l9FJC/KjRIVt1g==;Dz5C5jV0Qr2G2W44uK2P3Q=="
 ---
 
