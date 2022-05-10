@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence tapped to fight Western wildfires"
-excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have a new tool to add to their arsenal of prescribed burns,"
-publishedDateTime: 2022-05-07T14:10:00Z
-originalUrl: "https://apnews.com/article/space-exploration-technology-science-colorado-denver-51e62da65bcc9e3b7f687cb2acd731e1"
-webUrl: "https://apnews.com/article/space-exploration-technology-science-colorado-denver-51e62da65bcc9e3b7f687cb2acd731e1"
+excerpt: "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have a new tool"
+publishedDateTime: 2022-05-07T14:20:00Z
+originalUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires/"
+webUrl: "https://www.durangoherald.com/articles/artificial-intelligence-tapped-to-fight-western-wildfires/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Durango Herald
+  domain: durangoherald.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.durangoherald.com/wp-content/themes/durango/images/default_article_image_dur.jpeg"
+    width: 748
+    height: 748
+    isCached: true
 
 related:
   - title: "Artificial intelligence tapped to fight Western wildfires"
@@ -49,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "LTazyN2Cou7e6F5OiCQo1Rw5gHtqp5TQPDoTQ0EysFKq7XFZzVOHykuWD3ZUQV5BwLHrJlVwjTHBfclt2g95phCuSONIpP9GL6xmncgj1r6DehO3sVGzTFJYujt+cIrI7z9Zlfe0ib5SbuYKj5Upry2flU1x2XO/fP002kCB9Vdai4G47w7dwzVbBxRWpn1cRlY2CveDGMjHBctwMg29lIN2odfJpJxIptoIl1v3CAZvyj60ZNqid0cG+EgNZPiIIPVEI0aviSxjYDH8Rd+0aPcUFMZxX31JxY+YykwH0PiZ1Zqa6CmgpERCFbVHhIP+6t0uN5SYmlTDW6dO3xIPpK1gdrGhkhg7A+8z56DATr4=;UAle/p/gsr9dv8KM9gd6Pw=="
+secured: "+zCyLjjR99aFHlsIVK6V1fYccAMOEnhrXR8+1Ko+uaY1GPkIpb/otkDWHuC6EZjZspoAp6qGeF5F67pZnrLJe71O7AN6rXCE6vsEgkJfyhbHWFxFyUOuTj/Bp511rLFYhCrrGwOQPTAaL31xZRdjZIZMw9i0Tj96n9ipoJvYguFxoQTIg8/O/kbrPfQkAlvIfyEMgvn2JNheQQBG+iBgbtuirdnYWmnjs3Kw84n6QzwapX+1oB/Km804N+EqQb5zj9oGTRnMTLeP3GmCj5gNJamJZdusfEeBaxgv9Fe5HEG5BsIri4bRvd/VViNt1E/UBhxAlVFoqWtHRvxVHk24OV2R8qKeHxUU40hW5hiqf14=;a46Euk4jmrY83S6DXJTRdQ=="
 ---
 

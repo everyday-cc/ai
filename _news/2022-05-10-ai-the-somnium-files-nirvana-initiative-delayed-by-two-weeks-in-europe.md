@@ -7,7 +7,7 @@ originalUrl: "https://www.nintendolife.com/news/2022/05/ai-the-somnium-files-n-n
 webUrl: "https://www.nintendolife.com/news/2022/05/ai-the-somnium-files-n-nirvana-initiative-delayed-by-two-weeks-in-europe"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI: The Somnium Files – nirvanA Initiative delayed to July 8 in Europe"
+    excerpt: "Spike Chunsoft has announced a short delay in Europe for adventure sequel AI: The Somnium Files – nirvanA Initiative."
+    publishedDateTime: 2022-05-10T09:23:00Z
+    webUrl: "https://www.videogamer.com/news/ai-the-somnium-files-nirvana-initiative-delayed-to-july-8-in-europe/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 37
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/AITheSomniumFiles2_keyart.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Unexpected Shipping Issues Delay AI: The Somnium Files - nirvanA Initiative in Europe"
     excerpt: "The egregiously named AI: The Somnium Files – nirvanA Initiative (our spell checker did not like that one bit!) will launch later than expected on the PS4, and other platforms, in Europe. The sequel, which had been scheduled to launch on 24th June ..."
     publishedDateTime: 2022-05-09T17:28:00Z

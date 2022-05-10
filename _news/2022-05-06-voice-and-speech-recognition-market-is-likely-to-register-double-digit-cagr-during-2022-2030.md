@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market Emerging Trends and Competitive Landscape Forecast to 2031"
+    excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
+    publishedDateTime: 2022-05-10T08:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-medicine-market-emerging-trends-and-competitive-landscape-forecast-to-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/de1f2d5409f6f507959c73a14951324a7c08362f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Business Intelligence Market Trends Forecast and Industry Analysis to 2030"
     excerpt: "Another factor which is expected to be a high-impact trend in the near future is the advancements in artificial intelligence. Companies worldwide are estimated to incorporate artificial intelligence with business intelligence solutions for sustainable growth."
     publishedDateTime: 2022-05-10T06:54:00Z
@@ -52,6 +66,29 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/60465b83490cdff2f7eddb64a71e08f8aa46470b-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Emotion Detection and Recognition Market"
+    excerpt: "Moreover, technological advancements are expected to assist the global emotion detection and recognition market growth during the forecast period. Furthermore, expansion in research and development capabilities in speech-based emotion detection systems and ..."
+    publishedDateTime: 2022-05-09T15:17:00Z
+    webUrl: "https://www.transparencymarketresearch.com/emotion-detection-and-recognition-market.html"
+    type: article
+    provider:
+      name: Transparency Market Research
+      domain: transparencymarketresearch.com
+    quality: 4
+  - title: "HEART + PAW, A PET VETERINARY, GROOMING, AND DOG DAYCARE SERVICES COMPANY, RECEIVES NATIONAL AND LOCAL RECOGNITION AS A TOP EMPLOYER"
+    excerpt: "Heart + Paw pet care, one of the fastest growing veterinary care, grooming, and dog daycare center groups in the country, has received both national and local recognition as an \"employer-of-choice\" and a Top Workplace,"
+    publishedDateTime: 2022-05-09T16:07:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220509PH49858/heart-paw-a-pet-veterinary-grooming-and-dog-daycare-services-company-receives-national-and-local-recognition-as-a-top-employer/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1812727/05_09_2022_GPTW_Press_Collage.jpg"
+        width: 400
+        height: 320
         isCached: true
 
 secured: "+RqUVcL+KPxiyPBaFqEvaTiKk1M9uhkNHCHVrQKvVKerHX7rZVijFEawe1aGQ6cLOM06siYZA7gnvQWis71I4oBnMZdQrhsX3ypcgMUct2+M8tz8u0z+lnzers7Ut4c+mBFRzMCFk8otmz281a89jW2Xryg0zp3UqIMGpLvtyhi7cKML9+ZYQfVgACDLdgRICBk8UsdXISS+/Ve8RIu8Z0FsBoX7U4p3fb5siCZGqt7eFxcPuL8JetKBv1S8C1DuB2Dhfr74sl7Gem/qclKaxPZ/8JizBecpU1HYnQJO+xF+knBdKld3dCmwxCkpU7Hfhlp+iiEhXJ+Vtn35Sruax2mfhxxE/KlgjHd3KnK6Unk=;Et1jpuxaoNfEreE5qwLumA=="

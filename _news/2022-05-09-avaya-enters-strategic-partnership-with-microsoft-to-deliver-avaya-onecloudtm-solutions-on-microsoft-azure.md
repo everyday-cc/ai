@@ -33,6 +33,20 @@ related:
         width: 375
         height: 375
         isCached: true
+  - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
+    excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"
+    publishedDateTime: 2022-05-10T09:16:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/avaya-enters-strategic-partnership-with-microsoft-to-deliver-avaya-onecloud-solutions-on-microsoft-azure-o9q7rkyk"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 37
+    images:
+      - url: "https://static.zawya.com/version/c:MTU0OWQ2ZDgtMDhlMC00:YWM5ZWFm/image.jpg?f=187%3A100&q=0.75&w=3840"
+        width: 1920
+        height: 1026
+        isCached: true
 
 secured: "+ZFAH/PEpQ5HjZZ5rvMycO9PPs7SnIILRmeAnvvnW4JI94rDjXy3f4q6mcTwEjlXvyLg6rA4n2LJa9SN32oLCZ14KuVTNVWxZjnIGPrly6q8VYcKJt2uye9AGK77utLui1m70wqKtEPE8z+gMxSfcm3t9K1Ldad+2i5o2Y0VUPymmcyPmyqlFKs2Vbs+lmeWr6OXoBvfZ+DtW//AxcAyU7znXCf5SmBoPKKgOjR95G6pwG46A+oFoVq3gy+bmk2R7jU9x/COdniH6UVOklkunb6cFNrMIgcMPzsAPd6EqGR535Ynmol1uq9618XBH1AXVX9+BVp+IkzWmADMIafPhy8dJbap+CgaMJelo1vwp849+O/ayq+UpiGXSZd3VgkiRnL7+zH+3UgWo7RY38X6hCoUwR2c7CDlPeW9FqJbTc+xOljCJVJoOGxLXszPceKNQheD8rVMt2gyt2d0Mp2e3dH/nRoEdHaw8ar+nJSK92ND9rEqGOKPopuQf3QKZp+daD0t89WZno6ou5q6Fn/4Dg==;htOo+TnRVE8OoBHsIO30PA=="
 ---

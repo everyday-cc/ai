@@ -23,6 +23,17 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Eightfold AI's Talent Upskilling Enables Organizations to Meet Talent Needs by Developing Their Workforce"
+    excerpt: "Eightfold AI, the leader in AI-powered talent intelligence, today unveiled its Eightfold Talent Upskilling solution during its annual talent summit,  Cultivate 2022. Building on the foundation of the Talent Intelligence Platform,"
+    publishedDateTime: 2022-05-10T10:00:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220510SF51884/eightfold-ais-talent-upskilling-enables-organizations-to-meet-talent-needs-by-developing-their-workforce/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 0
+
 secured: "+d9OWjrNDl5dl5wOqI3FYEDjYtLmNIZuYXpe0s+bpYV5QIZKbqHfQs90hxV1XJb/bpGMVmLkw2ToLmMmXMcV/YbAcpJX1Y0iGY4lK+FfLd6O/tsZ4oP5YcJ+gfQVPdHyWBBd60kt2Og/jyO7b4YU6eY95dGG1WTPv1kXpIzb8cQpE6cbh3XIaBP57NUvhEteV9UyhbDi9MADm0RjqvTt7JE8SZ8H7avVnDgoPBdLUiefTDS4VG+ixw1NIRgk60Nnn7WIRBwHLIPGk/nEuTvhnsCZCkAmEhoiaY3Dw9+FOx4uOKZT1eVdL0gYJpIXINQ2ey1XYoKeySBN8YB0GEE4u6XAtAVhW3WOZ3OIwUhz71zXSTxdY5HA8QMV+fg+s9nTb5ZlgEN2tUO3B3tFMS8ktX19RtWKsmlrzVA1w4AXFotKORbsKt9hOnTDvBHg4FbZ78fmU5X+V7afRv6gepblr+pCqZwWljcqJ99/2WCBJESchJ/UCnF1Z/vzPpyZF7dK/TCe9sUeVgavMUa65Rur4Q==;P/z4JUGlc1liO+Bc65BqhQ=="
 ---
 

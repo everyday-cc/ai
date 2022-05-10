@@ -53,15 +53,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "‘Nanomagnetic’ computing can provide low-energy AI, researchers show"
-    excerpt: "Researchers have shown it is possible to perform artificial intelligence using tiny nanomagnets that interact like neurons in the brain."
-    publishedDateTime: 2022-05-05T15:11:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/951552"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "XDhJZSZ4buW0EKaeiJ2RX8crMb8f6DMg7bgqXAg8L7PwDZ3zDSZSO73++34jC3U3OG4Nbek28b1NL4qOxgWtUFUwMMu5QIJ27gDwY8dz67VACd85Ise5VzyTZfiOWDYup1dsF9MKHEScMD+4nJ2JgS8vMBaOpglgsQ6M2NjUCKGMNSMO0sFCyh3R8WOvj9/HMVG00JHg0pR13dSvOrt8l/6qnfhmqRKRW8ANRrZ68FsONZyOO3Axdwh2Br0WTRJWYw029/21yd+juKHfeVOU+pjs07Ssu7ZP/RADPb8BFSQZmf7HehxeQxbKJPZNYayDRQouO4z8uy58IvAffRsrm/d9TShvuxi9O9wfRejTb4gnrLeSKDS3RYVdR/KSV8Uj8l3R6fMLy1UNtPbzKI5PezSYpqSj5EDaOp6UcO+neSyyFqtEZtbosD9IDxqu/a6q2OiAMwbCj21kqFHUhzhy1yRka5n61v+MN0NYPwvw/jNJsMGyTo89VBOpiLAp+OX0KEGByXBG3ylD1/pBtpUq4Q==;qOJfHtYeSYNLxxrF2aw+qA=="
 ---

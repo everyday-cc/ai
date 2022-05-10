@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI: The Somnium Files – nirvanA Initiative delayed to July 8 in Europe"
+    excerpt: "Spike Chunsoft has announced a short delay in Europe for adventure sequel AI: The Somnium Files – nirvanA Initiative."
+    publishedDateTime: 2022-05-10T09:23:00Z
+    webUrl: "https://www.videogamer.com/news/ai-the-somnium-files-nirvana-initiative-delayed-to-july-8-in-europe/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 37
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/AITheSomniumFiles2_keyart.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative Delayed By Two Weeks In Europe"
     excerpt: "Spike Chunsoft has announced that its upcoming murder mystery sequel, AI: The Somnium Files – nirvanA Initiative, has been delayed in Europe. The game was originally scheduled to release on June 24th alongside the North American release,"
     publishedDateTime: 2022-05-09T17:45:00Z

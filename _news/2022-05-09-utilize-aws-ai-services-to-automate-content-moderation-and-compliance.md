@@ -43,15 +43,6 @@ related:
         width: 948
         height: 566
         isCached: true
-  - title: "Bright Pattern and Matrix42 Partner to Bring AI-Powered Omnichannel Communication Interaction Platform for Service Management to Matrix42 Users"
-    excerpt: "Turbocharge Matrix42 with an Omnichannel Communication Interaction Platform for digital transformation, AI-powered automation, and remote service"
-    publishedDateTime: 2022-05-05T15:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bright-pattern-and-matrix42-partner-to-bring-ai-powered-omnichannel-communication-interaction-platform-for-service-management-to-matrix42-users-1031426661"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 11
   - title: "Ardent Health Services Partners with AI Company Winnow to Modernize Clinician Recruiting"
     excerpt: "Healthtech company Winnow has partnered with Ardent Health Services to leverage its AI solution for clinician recruiting. The partnership deepens Ardent's commitment to digital innovation and gives it"
     publishedDateTime: 2022-05-05T18:30:00Z

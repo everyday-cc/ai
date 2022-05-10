@@ -56,15 +56,6 @@ related:
         width: 1308
         height: 1374
         isCached: true
-  - title: "‘Nanomagnetic’ computing can provide low-energy AI, researchers show"
-    excerpt: "Researchers have shown it is possible to perform artificial intelligence using tiny nanomagnets that interact like neurons in the brain."
-    publishedDateTime: 2022-05-05T15:11:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/951552"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "OJDbJ1K0ViHJBoPzRlzWe7nc9+HNswkbSNSdZOOxGf3cq0nmwVfpVyaTNH7mSqBwV1ug+UGhf4CWNvp+bCEDMtFr3IRfQaTNI1LPAUWMZp6QC7KcdXbuEr9KNMkw9B16XB+JEvNxURr1V/AFw5s1OH9ILfuoHMcZfJ4IxMqFrgy9GAeWRdcWQnLsBavwTahoBNbhts6MfKE+xY5/dgq7rhvkot21npjukpaT5nWmCb6zKdeAdtHoy7nK78TZl8K7oCbf1sce3CN10NOva3NyJqkQpXNYQC3x/p7f3pOz8WYKmrLfToxUt9SO1yo1WTNb7DgVjLjX+ErDALAK8wWLCMVANPwOYaZWLGYIpv14jj4=;/aX7lPARBhuavEI51HlNow=="
 ---

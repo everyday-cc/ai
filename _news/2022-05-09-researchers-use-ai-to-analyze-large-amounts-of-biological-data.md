@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/res
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/researchers-use-ai-to-analyze-large-amounts-of-biological-data/91431343"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -35,20 +35,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Using AI to analyze large amounts of biological data"
-    excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) — previously used to analyze how National Basketball Association (NBA) players move their bodies — to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
-    publishedDateTime: 2022-05-05T16:54:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/951857"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/aa95ceeb-d67b-4a0b-92e6-70483ee2ce4c/Rendition/low-res/Content/Public"
-        width: 500
-        height: 700
-        isCached: true
   - title: "Applying a form of AI to sift through large amounts of biological data"
     excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) -; previously used to analyze how National Basketball Association (NBA) players move their bodies -; to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
     publishedDateTime: 2022-05-06T13:11:00Z

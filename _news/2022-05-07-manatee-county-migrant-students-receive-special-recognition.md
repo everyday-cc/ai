@@ -7,7 +7,7 @@ originalUrl: "https://www.snntv.com/story/46440959/manatee-county-migrant-studen
 webUrl: "https://www.snntv.com/story/46440959/manatee-county-migrant-students-receive-special-recognition"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Unionville’s music education program receives national recognition"
-    excerpt: "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
-    publishedDateTime: 2022-05-05T16:38:00Z
-    webUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/"
-    ampWebUrl: "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
-    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/"
-    type: article
-    provider:
-      name: Daily Local News
-      domain: dailylocal.com
-    quality: 61
-    images:
-      - url: "https://www.dailylocal.com/wp-content/uploads/2022/05/uville-music.jpg?w=1024&h=656"
-        width: 1024
-        height: 656
-        isCached: true
-  - title: "Emotion Detection and Recognition Market"
-    excerpt: "Moreover, technological advancements are expected to assist the global emotion detection and recognition market growth during the forecast period. Furthermore, expansion in research and development capabilities in speech-based emotion detection systems and ..."
-    publishedDateTime: 2022-05-09T15:17:00Z
-    webUrl: "https://www.transparencymarketresearch.com/emotion-detection-and-recognition-market.html"
-    type: article
-    provider:
-      name: Transparency Market Research
-      domain: transparencymarketresearch.com
-    quality: 4
-  - title: "HEART + PAW, A PET VETERINARY, GROOMING, AND DOG DAYCARE SERVICES COMPANY, RECEIVES NATIONAL AND LOCAL RECOGNITION AS A TOP EMPLOYER"
-    excerpt: "Heart + Paw pet care, one of the fastest growing veterinary care, grooming, and dog daycare center groups in the country, has received both national and local recognition as an \"employer-of-choice\" and a Top Workplace,"
-    publishedDateTime: 2022-05-09T16:07:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220509PH49858/heart-paw-a-pet-veterinary-grooming-and-dog-daycare-services-company-receives-national-and-local-recognition-as-a-top-employer/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1812727/05_09_2022_GPTW_Press_Collage.jpg"
-        width: 400
-        height: 320
-        isCached: true
 
 secured: "4D2bGd4g5rD38MpwKF6+3ljfd93+o2pajUCdrBqDD6y7YfUI1YVciErIMyKAq+8y8T6L/YWlIPYwlhxCDxPAHAkIisJ/7TfHaQ6XNMNdKJVGM9l6cNPyJM+C0nc0a/f7dS8d+HLsDwTHCQZFwRX6UwGo4q5pstaNOKrUjqLGWMQyWczTHp1/7kTOVBe38nZnnTpOdMFz7DTvYWL59weJGJljgsm8q/c8y98ptgcaDsgVlfVxZ0S4JuhhgRrugqEcWv/3H+NgPV/EIhGEOhtaEQ47e23rON3tS/iofWPvc5nxo3XvnwIHND65Vygzi44v66SkC29IkthSCTJaDgy9CrEwYf4elirlb09OADl9FGA=;YSTFSEItF5wFVzs8m0RVNw=="
 ---

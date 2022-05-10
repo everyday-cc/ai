@@ -45,20 +45,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Using AI to analyze large amounts of biological data"
-    excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) — previously used to analyze how National Basketball Association (NBA) players move their bodies — to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
-    publishedDateTime: 2022-05-05T16:54:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/951857"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/aa95ceeb-d67b-4a0b-92e6-70483ee2ce4c/Rendition/low-res/Content/Public"
-        width: 500
-        height: 700
-        isCached: true
   - title: "Why Did Google Fire Another AI Researcher?"
     excerpt: "Google has recently fired machine learning scientist Satrajit Chatterjee after he and his team put questions over Google’s research paper. According to The New York Times, Satrajit and the team challenged Google’s research paper about the usage and the testing of artificial intelligence in making computer chips."
     publishedDateTime: 2022-05-06T07:49:00Z

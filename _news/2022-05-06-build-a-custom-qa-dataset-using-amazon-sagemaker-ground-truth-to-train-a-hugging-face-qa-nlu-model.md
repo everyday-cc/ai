@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-da
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas"
-    excerpt: "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and"
-    publishedDateTime: 2022-05-05T16:27:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Process larger and wider datasets with Amazon SageMaker Data Wrangler"
     excerpt: "Amazon SageMaker Data Wrangler reduces the time to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio. Data Wrangler can simplify your data preparation and feature engineering processes and help you with data selection, cleaning, exploration, and visualization."
     publishedDateTime: 2022-05-06T17:30:38Z
@@ -70,20 +56,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/27/ML-7596-image003-1260x553.png"
         width: 1260
         height: 553
-        isCached: true
-  - title: "Amazon SageMaker Serverless Inference Now Generally Available"
-    excerpt: "Amazon recently announced that SageMaker Serverless Inference is generally available. Designed for workloads with intermittent or infrequent traffic patterns, the new option provisions and scales compute capacity according to the volume of inference ..."
-    publishedDateTime: 2022-05-08T07:25:00Z
-    webUrl: "https://www.infoq.com/news/2022/05/sagemaker-serverless-aws/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2022/05/sagemaker-serverless-aws/en/headerimage/header%2810%29-1651773407852.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "dNkjPIreyCa5xJKGp0tPTHc/fIUiAFpraaxHoRvJl9ukLwlG+ST0iwiHbdBzjK88P7ULUHrKzGC9+MQ/yRL2103dNja4vjDoAcEA8ptuRvMkWbnurEyBO8t6BiQ9qDfvE7+EuqRHeCjeIK22CeGyP+tqiHdPuw2OcgcuY8rCzzkoQ3xmVAsG3WR3elUNrSkFORNK44QXFOBvKkfG5xsKJFNGslG1v1sKLRkNjUqL8M4RTDzGf3+CH/EIqDRUhw+7x7z/v3VE7GB8jcuI+2eC7SoGMiH2Qxx+44FQbETVPfLNMw7Yd1Ob30MJLxCgQXRN5X+6XhqPa6//oUqkb3IVMexxQ0mMSTqVRblZiamV5Ug=;mTR/XwoP0CXT72BjVq6BlA=="

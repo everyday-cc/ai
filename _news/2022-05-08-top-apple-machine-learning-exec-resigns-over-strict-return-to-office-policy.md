@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple's machine learning chief quits over return-to-office policy"
+    excerpt: "He left a note to colleagues saying, \"I believe strongly that more flexibility would have been the best policy for my team\""
+    publishedDateTime: 2022-05-10T08:32:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/981839/apple-s-machine-learning-chief-quits-over-return-to-office-policy-981839.html"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/981839"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/981839"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 59
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC8yMDIyLTA1LTEwLTEwLTEzLTM2LTg1MTg2NjllMTdjN2U2ODRlNzU5YzA3YTcwOTE1MWFlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 740
+        isCached: true
   - title: "Apple director of machine learning departs over return to in-person work policy"
     excerpt: "Ian Goodfellow, Apple's director of machine learning, has departed the company over its return to work policy."
     publishedDateTime: 2022-05-08T14:48:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/it-industry-news/strategy/avaya,-microsoft-expa
 webUrl: "https://itwire.com/it-industry-news/strategy/avaya,-microsoft-expand-partnership-to-pair-avaya-onecloud-portfolio-with-microsoft-azure.html"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
+    excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"
+    publishedDateTime: 2022-05-10T09:16:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/avaya-enters-strategic-partnership-with-microsoft-to-deliver-avaya-onecloud-solutions-on-microsoft-azure-o9q7rkyk"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 37
+    images:
+      - url: "https://static.zawya.com/version/c:MTU0OWQ2ZDgtMDhlMC00:YWM5ZWFm/image.jpg?f=187%3A100&q=0.75&w=3840"
+        width: 1920
+        height: 1026
+        isCached: true
   - title: "Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
     excerpt: "NYSE:AVYA) Avaya Enters Strategic Partnership with Microsoft to Deliver Avaya OneCloud(TM) Solutions on Microsoft Azure"
     publishedDateTime: 2022-05-09T13:28:00Z
