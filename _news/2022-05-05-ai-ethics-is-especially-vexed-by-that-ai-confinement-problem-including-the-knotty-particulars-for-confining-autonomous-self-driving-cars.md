@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-espe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Insurance for self-driving cars"
-    excerpt: "Self-driving cars hold the promise of improved safety, but they're still years away. Learn about insurance for driverless cars."
-    publishedDateTime: 2022-05-05T10:59:00Z
-    webUrl: "https://www.progressive.com/answers/insurance-for-driverless-cars/"
-    type: article
-    provider:
-      name: Progressive
-      domain: progressive.com
-    quality: 24
-    images:
-      - url: "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/bltec8e663876ff93ce/60a526d0e2db156d00f0b7fb/perficient_facebook.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Lightning eMotors to Provide Self-Driving Electric Fleet Vehicles for Dedicated Routes"
     excerpt: "Lightning eMotors and Perrone Robotics have partnered to offer Class 3 - 7 commercial fleet customers self-driving, electric fleet vehicles that can be deployed for a wide range of dedicated uses."
     publishedDateTime: 2022-05-09T18:35:00Z

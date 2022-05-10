@@ -36,15 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "BioXcel Therapeutics to Present at Three Upcoming Investor Conferences"
-    excerpt: "May 05, 2022 (GLOBE NEWSWIRE) -- BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a commercial-stage biopharmaceutical company utilizing artificial intelligence approaches ... also developing BXCL502 as a potential therapy for chronic agitation in dementia ..."
-    publishedDateTime: 2022-05-05T11:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/business-health-54aadf3f267d6b6acf0d3f62a938dd5c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
 
 secured: "lmVejGotolj4JXGhv7KSls37Ix7bCahSeMRCwiccBxHgL31rsy5PSvBVZFrPwNwoXpmt9ueeHYfNsDZj1ZUocaaBqhsjSdiUJhxrhqP3gGGubZWug0rDUm6yBh/dTACPxP9S1WsptwO0yQUspmB+NlxXTVNHlLwdI0G36oDGavlHXPFFRgSt3oy5MbEQz71JSmj0GFibAK3A7780NM7I3luwH0vtLBSWfyZaYxTfDkjNmTCgJDhEiyfx636Jbqem1+tso2oGXsh81sb56FvFQVPp0hMPrPMba+LKzOlla8I4UUmI97G3JB+gJuKwdPxsAlMgZIUtBMhAypjnrcsKxuFkzCflDPWnOxdsy+7H/2E=;1pGC73VlyaGx1HmCwwb70Q=="
 ---

@@ -2,28 +2,30 @@
 category: news
 title: "PROFESSIONAL FIGHTERS LEAGUE PARTNERS WITH FLAGSHIP SOLUTIONS GROUP TO DELIVER UNMATCHED MMA FAN EXPERIENCE WITH SMARTCAGE INNOVATIONS FOR 2022 ..."
 excerpt: "an IBM Gold Business Partner, for the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA. Under the agreement, the league ..."
-publishedDateTime: 2022-05-06T04:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27040688/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-e"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/n27040688/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-e"
-ampWebUrl: "https://www.benzinga.com/amp/content/27040688"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27040688"
+publishedDateTime: 2022-05-06T05:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with-smartcage-innovations-for-2022-season-1031428268"
+webUrl: "https://markets.businessinsider.com/news/stocks/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with-smartcage-innovations-for-2022-season-1031428268"
 type: article
-quality: 6
-heat: 6
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/1812110/Professional_Fighters_League_Flagship_Solutions_Group.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XLhn4CTxY7aDRv2M+J9xDUSOAtreAYUCS8JnO8/Xl58dl1SEKOwxRKtVC0QQBYBez5mTtwbOLuYsqe3+CMer37gwdEBeilKqaOqIiTfxebuiD9pBkYjpvveB5f2AdtpTDpgU8N0ZdewELJQfxtGa7S2cNZpf0pS5hzbzE2Yqxljacn69zvIDCBj4P+CRdRzYuJzcqW/dspKbqug1rdx1//vuxqTNpppbX7okc7tNEfdtnI3ZRC9HBYYKODdzDdjy3slNj0oZmop2THhjmSUhhv7aWPnmTPwHirjdzGmyoIZ8a2TMk9MGthTIXc1n1vvLdbmJaRfw7E/IAR5wvj57CwPlG8Tu/OeCAVurYTjigUc=;Cxl+0782O0dM1oCKawGwNg=="
+secured: "fKNYMwkaNLp+1rNx9A2D8vD56nmko7p0wsb3bcAzuBmOtijFw4kb+dmqA4+JFWmjzR8cWcBoLZT1sD2mqs0bj+U1zKSySBVex9zboXwWPWeKhXkmmh7ieD3t+tvPHcTIYQSUvl6M2ZXIL5Rhg4cEaiLPRVOkfZnPF2cLwIdPH8Rbuo+3mAGKaBYGL87guHaSkO3OXFJ+65MH0jdmSPc2Co6AxrVOYNZim2TLzk9sG17s9MqZNFQvvAS47v3NDMRDlf3rriIC3pUx0YZPe27CC5weNFKXn5FXGpIUZlNeG8dJ5dgaMmUq3E8ZjJdKcXQIKCEh+9O5c73Nj3tyIJw5MFYIATF5Vqctn7JlzTwrk7w=;qiW2Cs0d6DxZuYN7FKDxvQ=="
 ---
 

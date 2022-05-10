@@ -24,6 +24,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Key highlights from oneAPI AI Analytics Workshop on Accelerating Python for Data Science & Machine Learning"
+    excerpt: "Intel®, in collaboration with Analytics India Magazine, successfully concluded the oneAPI AI Analytics workshop to accelerate Python for data science and machine learning on April 22, 2022. The workshop saw more than 200 participants."
+    publishedDateTime: 2022-05-09T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/key-highlights-from-oneapi-ai-analytics-workshop-on-accelerating-python-for-data-science-machine-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Intel-One-API-Speakers-Updated.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+
 secured: "+2USVI/FOqT67D4BpwwTdga5/OJu82i/STVs3ADpbADI7CbWsdpf3XWL3Zdk16ok5F9Fxdr5hsTGZtJPDpDnUYBSNEMO+tOOlg09piCMiWcCkFc4OH34rxahwi4K5HRMWnRG/gKtPKVAXfXRyhfMZZRAj2shVCmwtWRnuCeFb2lgdOXAFYPqAUrJjcR+fHYzEsdWyDqaFvl3GX4aPLgOYmjlrkNJ49Rwv7DOMBgBIfprowCjF+4jKEJfeXFzI1e5O3Xp+QB+2qomBvF+3tSYrBCuPmXW2SBZ4hxEu3gR00rGh3HZDyxWPPnQYL6OwhdgBKoYHFqeSQdinU/haR/IcMTGwU6v6mQhRnNomI2SuWCKdddNBJoceCWiYeFsUedJaFdZNeqKdlf+4X7AgFYkRdpZFkBviEHzX9LqhHWrdTBClpvU2tPeDtni9enfNai27I1OiDuu11L7N9jjJnKChsqbybxuVcTxmHL6FCACae+Xffkas0dcpq+RS9xOiYgwIm37Skibatt8CfmQKpklfQ==;55cwQ3C+TrESqRLFo5yolQ=="
 ---
 

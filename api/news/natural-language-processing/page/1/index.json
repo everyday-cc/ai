@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 354,
       "tags": null,
       "images": [
         {
@@ -49,10 +49,10 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI",
         "Computer Vision",
-        "AI in Sales",
-        "Natural Language Processing"
+        "AI in Sales"
       ]
     },
     {

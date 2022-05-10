@@ -7,7 +7,7 @@ originalUrl: "https://www.statnews.com/ai-health-care/"
 webUrl: "https://www.statnews.com/ai-health-care/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "The Ethical Adoption Of AI In Healthcare Requires A Global Effort, Now More Than Ever"
-    excerpt: "The events of the past two years have made very clear that in an interconnected world, a health crisis in one corner of the globe can soon spell disaster for the rest of it."
-    publishedDateTime: 2022-05-05T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 114
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "cklGwOZatYtVVQg+nJ/t70f1xnVLKzb4LVCvfRJX5Ix5oGk8OQArOJLR0SZpnXnYmwz5twmQS8xbMZKZkeEKvXgsrm/sn5y43xTOgbq/RzTTN2+HJp0u2vwetBqb7zM/SnrsaAWuHEKvUF2mXl2uFZRPCl8Z1qqKVzDwbvoyRDcT3GluurKk0IJGZt6iMSoESnGX/YCJZUQKLlfEEOJgum28lSMhWOqaCwDkoold9D1wdcdq4iqcX/lLS4WtpjXpA67576yiXaz15Jeo1H3qz5bSNdZFrFJccbPHzvhRVdUpyJUa+XkpfVdAmO+cBwH0pYM1ISAonPlPabZOLXcbZxyf8Cjh+QAvFilcwBh+qUw=;Ne8/m+8AREEXa0m1cOz7Ww=="
 ---

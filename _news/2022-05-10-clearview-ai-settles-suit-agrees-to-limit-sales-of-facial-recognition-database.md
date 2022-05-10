@@ -183,6 +183,20 @@ related:
         width: 1440
         height: 857
         isCached: true
+  - title: "Clearview AI to stop selling facial recognition tool to private firms"
+    excerpt: "The facial recognition company Clearview AI will be banned from working with private companies ... including a $650 million settlement from Facebook related to its facial recognition use. The U.S. has no federal facial recognition law, even though the ..."
+    publishedDateTime: 2022-05-09T22:20:00Z
+    webUrl: "https://www.phillytrib.com/clearview-ai-to-stop-selling-facial-recognition-tool-to-private-firms/article_382b0268-a81f-587f-a52b-c4a15bcb7453.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 56
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/custom/image/cda08428-064c-11e6-aec7-2ffb2f5d3585.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Clearview AI promises not to sell face-recognition database to most US businesses"
     excerpt: "Clearview AI has promised to stop selling its controversial face-recognizing tech to most private US companies in a settlement proposed this week with the ACLU. The New-York-based startup made headlines in 2020 for scraping billions of images from people's public social media pages."
     publishedDateTime: 2022-05-10T01:39:00Z
@@ -336,6 +350,6 @@ related:
       domain: suntimes.com
     quality: 0
 
-secured: "Bx5eJ8C6NdNxNjGFpxJWFqgHgo+dBq7ol3Kf/716Vyz5zsKibDCY5m+0xJzA9N07OUUn6qr6krmKMgYvFzymfMe9YRHy9omAfUgPCHeKW7X/gwYMtqbnR4LNTS1iIBNsriWQL83r+8QvAUpIJz9Rqbm5gl+9DSX9cvKALvapnQNmxCF+09EvTTlnvI2FBVzHewOMdQEfnSgKzYXNz8U9eHwzX5IlbUm2HcbAUJqossIsoUUq9Yacyvo96XyXIoxSZRkgWyJXCSdjOEqpeuDbpJneYZJQGqnqCdwM5cuYc6qajGIifbtYUNVMb6w+2PhS9AoJjopgoCCnWkO+A80n6nR5zA985vRVxw7jDVsTtk4=;uMxlnZjP3k3MSQskxNEB4g=="
+secured: "zRY7TBBfy1trrqmS9PH3E93hz8QA4aeYwJzk4ccJN0EMy5nLbLdjmzjE1jf/1dcaE4/wSZNYComFFwLYkMnanEJXSPTjjRI2oYdk9XOZcSQO+6q1JIY+fR8UPEhqY1BumpZwMr3ZSJSYIqKVF/E0B+tAuP84xYBKfWvX90XR9jnmaAJmvkAosb9G1gQBRZ52XKaekmCmxF/LMNH7fQhSFXZ1uHIVkX8boXvvn4esF0Cx7s97XBdcIAVbfu0W4g4VH9t0ftjUwg8/YPFGnqjgjck4DlT5zLxpi8gqgmLCWODxJ1exY3A6lsZmET/UspkbvrEBy88LPqXUfpOW4WpIaLvULj3joXbXC6BwgjPkN1Y=;bDRLW4W3i+NprWKN4t11+A=="
 ---
 

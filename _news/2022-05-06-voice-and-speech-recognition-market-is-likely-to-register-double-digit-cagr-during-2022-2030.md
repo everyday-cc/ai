@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence In Oil & Gas Market 2030 Industry Analysis, Trends, Market Size And Forecasts"
-    excerpt: "Key Companies Covered in the Artificial Intelligence In Oil & Gas Market Research Report are   IBM (US), Accenture (Republic of Ir"
-    publishedDateTime: 2022-05-05T10:56:00Z
-    webUrl: "https://menafn.com/1104160874/Artificial-Intelligence-In-Oil-Gas-Market-2030-Industry-Analysis-Trends-Market-Size-And-Forecasts&source=997"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?648472"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "+RqUVcL+KPxiyPBaFqEvaTiKk1M9uhkNHCHVrQKvVKerHX7rZVijFEawe1aGQ6cLOM06siYZA7gnvQWis71I4oBnMZdQrhsX3ypcgMUct2+M8tz8u0z+lnzers7Ut4c+mBFRzMCFk8otmz281a89jW2Xryg0zp3UqIMGpLvtyhi7cKML9+ZYQfVgACDLdgRICBk8UsdXISS+/Ve8RIu8Z0FsBoX7U4p3fb5siCZGqt7eFxcPuL8JetKBv1S8C1DuB2Dhfr74sl7Gem/qclKaxPZ/8JizBecpU1HYnQJO+xF+knBdKld3dCmwxCkpU7Hfhlp+iiEhXJ+Vtn35Sruax2mfhxxE/KlgjHd3KnK6Unk=;Et1jpuxaoNfEreE5qwLumA=="
 ---

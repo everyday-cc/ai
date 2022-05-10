@@ -197,6 +197,20 @@ related:
         width: 1440
         height: 857
         isCached: true
+  - title: "Clearview AI to stop selling facial recognition tool to private firms"
+    excerpt: "The facial recognition company Clearview AI will be banned from working with private companies ... including a $650 million settlement from Facebook related to its facial recognition use. The U.S. has no federal facial recognition law, even though the ..."
+    publishedDateTime: 2022-05-09T22:20:00Z
+    webUrl: "https://www.phillytrib.com/clearview-ai-to-stop-selling-facial-recognition-tool-to-private-firms/article_382b0268-a81f-587f-a52b-c4a15bcb7453.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 56
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/custom/image/cda08428-064c-11e6-aec7-2ffb2f5d3585.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Clearview AI agrees to stop selling facial recognition database to private entities"
     excerpt: "Clearview AI on Monday agreed to no longer sell its facial recognition database to private entities in the United States as part of a legal settlement with the ACLU in Illinois."
     publishedDateTime: 2022-05-09T22:01:00Z

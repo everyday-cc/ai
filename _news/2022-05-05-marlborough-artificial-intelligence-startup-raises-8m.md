@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-05T15:59:00Z
 originalUrl: "https://www.wbjournal.com/article/marlborough-artificial-intelligence-startup-raises-8m"
 webUrl: "https://www.wbjournal.com/article/marlborough-artificial-intelligence-startup-raises-8m"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.wbjournal.com/sites/default/files/2020-01/2mountroyalavenue.jpg"

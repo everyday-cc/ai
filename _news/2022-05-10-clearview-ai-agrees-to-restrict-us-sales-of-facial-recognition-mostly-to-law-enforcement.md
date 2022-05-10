@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html"
 type: article
 quality: 114
-heat: 344
+heat: 354
 published: true
 
 provider:
@@ -21,10 +21,10 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
   - Computer Vision
   - AI in Sales
-  - Natural Language Processing
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/220509145253-02-clearview-ai-file-022222-super-tease.jpg"
@@ -187,6 +187,20 @@ related:
         width: 1440
         height: 857
         isCached: true
+  - title: "Clearview AI to stop selling facial recognition tool to private firms"
+    excerpt: "The facial recognition company Clearview AI will be banned from working with private companies ... including a $650 million settlement from Facebook related to its facial recognition use. The U.S. has no federal facial recognition law, even though the ..."
+    publishedDateTime: 2022-05-09T22:20:00Z
+    webUrl: "https://www.phillytrib.com/clearview-ai-to-stop-selling-facial-recognition-tool-to-private-firms/article_382b0268-a81f-587f-a52b-c4a15bcb7453.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 56
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/custom/image/cda08428-064c-11e6-aec7-2ffb2f5d3585.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Clearview AI promises not to sell face-recognition database to most US businesses"
     excerpt: "Clearview AI has promised to stop selling its controversial face-recognizing tech to most private US companies in a settlement proposed this week with the ACLU. The New-York-based startup made headlines in 2020 for scraping billions of images from people's public social media pages."
     publishedDateTime: 2022-05-10T01:39:00Z
@@ -340,6 +354,6 @@ related:
       domain: suntimes.com
     quality: 0
 
-secured: "GyJtpsHYfS0aYBeLRCbjJovQ8xR87JY9hkwk9EoqXVkCoerFADPvWkPdg1R+pL07NTb48YizR/Pox1V1cKC7NYmC6lK4IvdBdkfRRdW1ICpnGc4G2gipL36lRgfgp+ghpAp5qb/pRc6PUiDtU27oGWKFCgiS1aCJtXHsgXmWObnjGQcCodE8JzFaxGL0LbSEiVpJAHBE1PmLmCJuAuDbA9LEmG3CJj8O6PmxHEcENcqIksCATMJ5Er9EcA1XUPSs7BfRpuPbx5F/lQcUN2XPMNtCZacif1pwI3PXLdE567vLyW5lCXnILK5qqUDB0cyRLLuMR0QF8aZycYXlm5gfNo0LmlYOn/sWmyZQd6bfpVI=;a0lMz5b2mOPrSaX5CUgpfw=="
+secured: "R2oS+39+NEYZ/StLSxWExFx44qGJ6ZNP1hz4cxfDUt3ivOFFV+nliZgillIg2gXv1uhoq2v6naeGg4oMpZuukjnyR1O+suP0qOqbz0P6GoillnqufGp/Vxxo3YRl5jEgUpSh5dpIbjvPRlwG6moEoJyGvQvpNQIU/gQZzCN/CK6BbhqIaq8bBuLJxM6MdPWj6uqT5v+iarskiAl709udMvfvo6gsC+9F0A5RCKuOjgR6w9CousWDwWxGcOILm8NxnTUWmAhH5X+eQykS1mcFqPVldMkAXS5joBSCusE6SfFeSKJLdrXMLqgyDO3Mfk8PJaiVVKxlpvqc4NhMg+1MwD9K3PLSrQhO0Qb/guOV00c=;Fz5h2AMowmTEvRnkcfNJ7w=="
 ---
 

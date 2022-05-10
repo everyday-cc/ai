@@ -24,47 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Guidehouse Insights Finds AI and Predictive Analytics in Healthcare Will Enable Safer Aging"
-    excerpt: "Passive monitoring, an important addition to the smart home, is replacing traditional forms of personal emergency response systemsBOULDER, Colo.,"
-    publishedDateTime: 2022-05-05T09:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/guidehouse-insights-finds-ai-and-predictive-analytics-in-healthcare-will-enable-safer-aging-1031424652"
+  - title: "Veteran startup Pyramid Analytics has raised $120 million and isn’t really striving for an exit"
+    excerpt: "The BI startup has developed a platform that gives all relevant parties in an organization the data they need without knowing a password. Next step: IPO"
+    publishedDateTime: 2022-05-09T15:03:00Z
+    webUrl: "https://www.geektime.com/pyramid-analytics-raised-120-series-e/"
+    ampWebUrl: "https://www.geektime.com/pyramid-analytics-raised-120-series-e/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/pyramid-analytics-raised-120-series-e/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "Key highlights from oneAPI AI Analytics Workshop on Accelerating Python for Data Science & Machine Learning"
-    excerpt: "Intel®, in collaboration with Analytics India Magazine, successfully concluded the oneAPI AI Analytics workshop to accelerate Python for data science and machine learning on April 22, 2022. The workshop saw more than 200 participants."
-    publishedDateTime: 2022-05-09T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/key-highlights-from-oneapi-ai-analytics-workshop-on-accelerating-python-for-data-science-machine-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
+      name: Geektime
+      domain: geektime.com
+    quality: 45
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Intel-One-API-Speakers-Updated.jpeg"
-        width: 1600
-        height: 900
+      - url: "https://www.geektime.com/content/images/2022/05/Screen-Shot-2022-05-09-at-18.02.51.png"
+        width: 954
+        height: 690
         isCached: true
-  - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
-    excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
-    publishedDateTime: 2022-05-06T12:54:00Z
-    webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/?td=amp-keepreading-top"
+  - title: "Pyramid Analytics Scores $120M In New Funding, Plans Channel Expansion"
+    excerpt: "The funding news Monday comes on the heels of Pyramid Analytics joining Amazon Web Services’ ISV Accelerate program through which Pyramid and AWS will co-sell and ... by combining data analytics, artificial intelligence and machine learning with human ..."
+    publishedDateTime: 2022-05-09T13:18:00Z
+    webUrl: "https://www.crn.com/news/applications-os/pyramid-analytics-scores-120m-in-new-funding-plans-channel-expansion"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 16
-  - title: "ZeroEyes, Inc. AI Gun Detection Software First Video Analytics Technology to be Awarded DT&E SAFETY Act Designation"
-    excerpt: "U.S. Department of Homeland Security (DHS) Recognizes ZeroEyes AI Software, DeepZero™, as Promising Antiterrorism Technology and Grants Liability Protections for Customers ZeroEyes weapons detection AI is the first video analytics technology to receive ..."
-    publishedDateTime: 2022-05-05T12:28:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zeroeyes-inc-ai-gun-detection-software-first-video-analytics-technology-to-be-awarded-dt-e/article_87b9b44f-f4b6-51fc-8c77-5cddd47093d3.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: CRN
+      domain: crn.com
+    quality: 4
 
 secured: "c3y3klmCG5drVopkyl4riweXykqK/oP0usCDnseXucmZ+4xqEa1ffhMI0CF4T7Dd0HLS7CRWVRqAUnJaWacxNeisucRu9NcTwIiZIRGyolT28E0Ja4vlWDSw5rQElv2RHzy4L36tT3cbtX2dmjjt+43vgnOyNwPR3uAQ4WYILBeI6l9/QutRVAxlb+TjRiWr2c/V+jnmDQTw1H25hAiej8tctdI+MkeHo3FCJp/Ppx8D9rNx8aNImzLA81fnBOtY1bHB47RgSjydxJMFL/DPOpTlYWwfeNfGta4IJEI5PDHrLbndkZFTqK1zYLFvPGi4t5zXqEuePe8JbmZMa96X6wPfWzOBLQfhaUiVQqyZPFc=;SnDXzvGXgcNpnZTpgIjuqA=="
 ---

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "UAE vows 'responsible' artificial intelligence rollout"
-excerpt: "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university, opened to students last year, and the country has launched a number ..."
-publishedDateTime: 2022-04-27T03:34:00Z
-originalUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout"
-webUrl: "https://www.al-monitor.com/originals/2022/04/uae-vows-responsible-artificial-intelligence-rollout"
+excerpt: "The world's first minister for artificial intelligence says the United Arab Emirates isn't only looking for economic benefits as it seeks to become a leading nation in the sector."
+publishedDateTime: 2022-04-27T03:14:00Z
+originalUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+webUrl: "https://www.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+ampWebUrl: "https://amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
+cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20220427-uae-vows-responsible-artificial-intelligence-rollout"
 type: article
 
 provider:
-  name: Al-Monitor
-  domain: al-monitor.com
+  name: France 24
+  domain: france24.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-04/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg?h=a31d927f&itok=yIzQoqk4"
-    width: 1200
-    height: 628
+  - url: "https://s.france24.com/media/display/1ea11fb2-c5d8-11ec-9fa9-005056bfb2b6/w:1280/p:16x9/c9d375beb11dd6943e1f03f14565cac5851954b9.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "n1orxsnXoEHy2BiHRp3d6k9RuNPj7jhvNFHVoI+R/KDaVQsKahU3lRTflKGV9/dOQgP5UzGVa/OE0moGkop5H4t+vWKD8chcTlh/+a5CbbvixqEBn3UFO5f0s28r7aY8AebkGwFI8igyBbMjjpqqj2uiGZewLiWlbo1AwGVKBjPu27gTfVgU9CutPoU3cFv2AmYeelvvcz0YUjJmBX6wCEabCn0MHKnYJ3gkg8gKf4sgNqEeVcAv3fdM23K4+0ds9aFjPYnhdlZodz9kiGuCFbiaJbhhIDfAEOTK4r4LN4IIqX2dVNrwLk1LS3lVPm85ocFm8Scrl1aA4t2wVONwwdH5JC+BUKM5SWJWV7fDO/w=;ZldRr3rm5gMRM41vWIg05w=="
+secured: "c6dywaBGZIp/LW5r4Q4EuGOEkVAHZX3+7fRDrHHNyOX8OWsPN6uKIhZm/H7rt+KNUPrIm49VlFJKhsPMg5wp6yy9LNKQ4TWZSxezOICksqxCJu4w9GGvwn6VSEwqFBd5vLe3X0VkzCJFNPffx7fUc2yqnYzXiKauqFO6j27Werwa2E138LK7dnbNt8s6uo3WdndUdUSEl7C8QBEG9nBcjJbeV4Xr+uF5aDhwrz0/qTpDbeQpTIyQLTm2oksXfQLfivWGH/Yu7fb0qFERkIUX8O8BLkGbGrzae3qu7P5I3IkQOOUh59obyNZtBb4k1t+scn9INLrw/PNS8m6EwRFlnofrbjdso/yZg0yysL65+Mc=;vCzrdbM824du9LYZTiyTWA=="
 ---
 
