@@ -7,7 +7,7 @@ originalUrl: "https://europe.autonews.com/automakers/mercedes-opens-sales-level-
 webUrl: "https://europe.autonews.com/automakers/mercedes-opens-sales-level-3-self-driving-system-s-class-eqs"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes EQS And S-Class Gain Level 3 Self-Driving Tech For A Little Over $5,000 In Germany"
-    excerpt: "The future has arrived as Mercedes is the first manufacturer to put a Level 3 semi-autonomous driving system with an “international valid certification” into series production. Known as Drive Pilot, the system will be available to order in Germany starting on May 17th where it will cost €5,"
-    publishedDateTime: 2022-05-06T00:31:00Z
-    webUrl: "https://www.carscoops.com/2022/05/mercedes-eqs-and-s-class-gain-level-3-self-driving-tech-for-a-little-over-5000-in-germany/"
-    ampWebUrl: "https://www.carscoops.com/2022/05/mercedes-eqs-and-s-class-gain-level-3-self-driving-tech-for-a-little-over-5000-in-germany/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/mercedes-eqs-and-s-class-gain-level-3-self-driving-tech-for-a-little-over-5000-in-germany/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 49
-    images:
-      - url: "https://i.ytimg.com/vi/CLPTfzybqVs/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Mercedes EQS, S-Class Make Big Advance to Self-Driving This Month"
     excerpt: "One of the closest things to a self-driving car today will soon be available for purchase in Germany as Mercedes-Benz offers Drive Pilot—a true SAE Level 3 autonomous system—on new S-Class and EQS models this month. That makes it the first automaker ..."
     publishedDateTime: 2022-05-06T20:31:00Z

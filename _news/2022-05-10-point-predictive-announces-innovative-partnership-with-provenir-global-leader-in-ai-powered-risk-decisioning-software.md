@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
-excerpt: "SAN DIEGO, May 10, 2022 /PRNewswire/ -- Point Predictive Inc., the San Diego-based company that provides artificial intelligence (AI) solutions to lenders, announced today its strategic partnership with Provenir, a global leader in AI-powered risk ..."
-publishedDateTime: 2022-05-10T14:32:00Z
-originalUrl: "https://www.kron4.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
-webUrl: "https://www.kron4.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
+excerpt: "Point Predictive Inc., the San Diego-based company that provides artificial intelligence (AI) solutions to lenders, announced today its strategic partnership with Provenir, a global leader in AI-powered risk decisioning software for the fintech industry."
+publishedDateTime: 2022-05-10T16:05:00Z
+originalUrl: "https://kdvr.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
+webUrl: "https://kdvr.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
 type: article
-quality: 13
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: KRON4
-  domain: kron4.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://www.kron4.com/wp-content/uploads/sites/11/2019/06/KRON4_Transparent-Equal-Height.png"
-    width: 598
-    height: 208
+  - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/05/AP22127807498518.jpg?w=2000&#038;ssl=1"
+    width: 2000
+    height: 1333
     isCached: true
 
 related:
@@ -50,6 +51,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "i6ccNXzCAX8ylBP4IJ2EUeofV24iq9hwYaa8FwK1iT96+eYXjmnm1Ls9Yqwxv5J+jTn8TrFY+JQxTf0XZ709XtZeqLSOwhYEAf150b/SE75uotbK3iHgROSmA0nqmSbyuLYMo2gasYMS00NyouVgD/IWu2wcBmheapoVxCuTEk8yjBL3CV72+d75ZAyFlG2l1Lw0V7DoelCCwbsq7p6DQlFGTT7mNS/etcUp0F3559lLOtFirAGwJ5ZINVrqENPWGdqvUAOb6zjD6c6KcUku0qq5a5itiKAkIMKHkpK/qSPyVXEfxqVeQ6bFr/YxEpnA9ev8dtDQxiJOAXTaO9HgpsyWoh6/PoioBN2hk3a4X/0=;V6fnFahA+q5X+tSqHUkzQg=="
+secured: "4i30BkI9RVvHcKNjCd5ErxCJL5wXv1LHBxwXtbTYfsYDQwW3xlvpxsJJ+aP3WjnF/SoUdi65Gs8opj+XQ64M2kWkFe+Zz1eR7muF1rvARa0ht3v5EApGGzqJVpJfiZA68t3rfgdOHgAZPQSrPMXzhOr6LWjkoWvtUX5N3TqsCCyCnLBrA1MgcscOMA0wGDwvpWGlzD0nQ+RcDoAygTDHLN1ngqFNP7+a6By1MVuKnnxAfgCtCrvbovmP0ezutyw9jIK/oxQ08WVq1BgtY2Qa3Lp4j7kLFUo9V8Uqob7EI1byyIUhkfswF+7x0L2NjrTHAS9HyNXuDLM333pMTQAmDlk44WTDXvKyRwJ+WM0c4Ds=;jAU/59i2UPWBXI+F0Ln2hw=="
 ---
 

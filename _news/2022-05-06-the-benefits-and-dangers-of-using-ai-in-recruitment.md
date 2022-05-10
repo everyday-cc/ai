@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "The Age of Generative AI - Inventing a New Artificial Intelligence"
-    excerpt: "What is Generative AI, and how does it work? Generative AI employs artificial intelligence (AI) and machine learning techniques to allow robots to create artificially fresh material. The system does this by using existing text, audio files, movies ..."
-    publishedDateTime: 2022-05-06T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/age-generative-ai-inventing-new-artificial-shruti-saraswat"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 36
 
 secured: "1UUPWz0QjOetJMl4W1SqMX1Uu7LgcY8pCyOAXgSzxjcpGpyfe9MQ7SIMk7nNXTSvfCmnroz97XMqz+NenQ+rXoPXGdUuM2PCeDdytfca2jwwx6x1+Ggk4lw+9nJhGwToyUgk/g+5BiQMRac65fSlAzDkaCXrb55Y/cSeHdOTYC1JdMRU4CAqD9Sso0XRXs04uesdxCOPDrJZA6gYZ47VqZEAxSgS/qVRvKjXljHgS1ER4vbE2K/z6gfjK1vhf5+/LYvFMHBBwJV8mWWDL+OnBLC3cmnrJ9F0Royom3rEd6k+3jphM8TgtSwl1Cu0LDJMb9GM7+Wui84eymhoHylFNPObT+NLND6YUY6K0uyHOUFMlbMJtXihAP4wgZa10yp30WeBT42amn+aHGxvXgUhMwSVBe+8uUPVmd3gFs/wbCRzvk99hg/HYlK722tTdW3gJgkeckcYbJQi5Iseh6T61FuFdSdBHfMjgKGpr/Jpt+FjNZXsaFWbCLVc5HCxcDJmPLQXEmfk7EulqKvS13DfOg==;GIDb5H+gBzjD/Y4ZT1eY4A=="
 ---

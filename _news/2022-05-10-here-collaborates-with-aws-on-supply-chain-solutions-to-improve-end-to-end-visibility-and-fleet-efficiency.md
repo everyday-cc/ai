@@ -2,28 +2,22 @@
 category: news
 title: "HERE Collaborates with AWS on Supply Chain Solutions to Improve End-to-End Visibility and Fleet Efficiency"
 excerpt: "HERE Technologies, the world’s leading location data and technology platform, today announced it has entered a five-year strategic collaboration agreement with Amazon Web Services (AWS) to help organizations improve their supply chain visibility,"
-publishedDateTime: 2022-05-10T14:01:00Z
-originalUrl: "https://www.wiproud.com/business/press-releases/globenewswire/1000632239/here-collaborates-with-aws-on-supply-chain-solutions-to-improve-end-to-end-visibility-and-fleet-efficiency/"
-webUrl: "https://www.wiproud.com/business/press-releases/globenewswire/1000632239/here-collaborates-with-aws-on-supply-chain-solutions-to-improve-end-to-end-visibility-and-fleet-efficiency/"
+publishedDateTime: 2022-05-10T13:01:00Z
+originalUrl: "https://www.news10.com/business/press-releases/globenewswire/1000632239/here-collaborates-with-aws-on-supply-chain-solutions-to-improve-end-to-end-visibility-and-fleet-efficiency/"
+webUrl: "https://www.news10.com/business/press-releases/globenewswire/1000632239/here-collaborates-with-aws-on-supply-chain-solutions-to-improve-end-to-end-visibility-and-fleet-efficiency/"
 type: article
-quality: 36
-heat: 36
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: WLAX
-  domain: wiproud.com
+  name: WTEN
+  domain: news10.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://i0.wp.com/www.wiproud.com/wp-content/uploads/sites/46/2022/05/73a0e663362a4efa9677fef411048177-2-1.jpg?w=2000&#038;ssl=1"
-    width: 2000
-    height: 1326
-    isCached: true
-
-secured: "tb0gR/mefFWTQfKeK1nDAAX3WOrJy4vl3G8DGLXRJ8oAuMdZLHJEomyvFle+9lveRs4d2Q1Fw8TD5ivQ+us3PuUlg3NYoJedajZpCdBpzXp6UCIDeDtLCGcKcg9uXGweRRsk7FWGQU+70ZQQdfi3fM2rZdjQe5hU6n34GLQsRHLXy/74UEvQHwwgiM+HIf2fCsgw4QXnh8kWlTPcmARHrNIo9YZv7e+xH2kXsCOEsNR0mlQlKmemaP2iYrzYbPoLVqk5L1Jie4VVIqF+7r9ykJj9/ccSunrp5fVIV9CwbGO3JvErPtYHPgxklH0EKGBWAD9v4rIfVR1kCZdtaf7YJgZu9RzYnBIeL8oisbaiMTo=;1mlTIoSmJL0sDFLQfdl9pw=="
+secured: "wuwZ6wC7I6vX8mxszSWxJK8Mn1DDFoak7ub+r83GDh4vm4pIT+34n+9ZxPa9xBwkWXSJCPNQ/lB7R0Fj0jVAkPGRzXtZbsRae66tYxlcvJ3fe+sfQJ54lmDHpHg9w+9BMe5cv8HgENh0XKqZN6VsctbLRzpWPQS8RF/WEAWj11EDEI1m2gpEqBPDDcrFK3rpSJLlUP0L9p7CJR53mgDLgOVp5q4tiE8dshapf7MJZ/WfeAabJkrxGLRP3r/nt/yELdl3MGQ0AOBa5kUA4IJmqjm5Phnvkdl2QDV1OSWpC5acxl0BBcxK9hLultB/4UrLcAgklC9FowPhKCRapceGbEin40BJTeiqlW0brqtVO/Y=;iuBsL4bVb0GPt6VbzlQoNA=="
 ---
 

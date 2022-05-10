@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Early detection of arthritis using artificial intelligence"
-excerpt: "In an interdisciplinary research project conducted at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) and Universitätsklinikum Erlangen, computer scientists and physicians have now succeeded in teaching an artificial neural network to differentiate between rheumatoid arthritis,"
-publishedDateTime: 2022-05-10T13:47:00Z
-originalUrl: "https://idw-online.de/de/news793432"
-webUrl: "https://idw-online.de/de/news793432"
+excerpt: "Dr. Georg Schett from Department of Medicine 3 at Universitätsklinikum Erlangen had the remit to investigate the following questions: Can artificial intelligence (AI) detect various types of ..."
+publishedDateTime: 2022-05-10T13:27:00Z
+originalUrl: "https://idw-online.de/en/news793432"
+webUrl: "https://idw-online.de/en/news793432"
 type: article
-quality: 19
-heat: 19
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,8 +15,13 @@ provider:
   domain: idw-online.de
 
 topics:
-  - Machine Learning
   - AI
+
+images:
+  - url: "http://www.idw-online.de/en/institutionlogo29378"
+    width: 1176
+    height: 560
+    isCached: true
 
 related:
   - title: "Mayo Clinic-Developed AI Algorithm Can Detect Weak Heart Function"
@@ -29,6 +34,6 @@ related:
       domain: healthitanalytics.com
     quality: 17
 
-secured: "LAhMBsplOSpS7uu5WngOLSNC8+QXjezjGVCrzO6HpAclcWmCygB0oyMiqruQWmFdJIskaR7T9vb+OmezLbnmjd6qtxevexAS4/zp8X54DWnebCLxC3Kd3RRX0Soh88GFAyB56Z2EF1H5l5f1fWq2O3g2qYU3+XnrmJJl9lhTfZ0FbPlVodNXZ+AOyVSwEJH6ykMsCqBoOljHRhnPj85SNT9zUq1UL9UoaG+L+MuwSTCvXA75zUkJtPF0AhmOeryRZflTWPHjjq/j2VKlgs/tSaoOXQOVZsXKkyW6CJJ1WZhaL30RWq6PP6uuP0Q8ZVyjlVAt33Ywrr9KurzfThMo4sWkNHQgLBFuHqEf2Q2PWDY=;FJrHGFM7WBICgnuL+Hs5dA=="
+secured: "H0tWJg6IktlwbabP08+KoOgm/mcIlCYnFO61Ja8VHoglqGLG2I9aKVEPV/Hujt2KG+HMXU/f6usbMP+gCJ45yxzwBbnhMvX0ykHvCD6pQAUNX75z1YwzGBhjxgGzTYuD7g6/VMwW8uAA4OQNZtfVhFU+ZTK4uxlrsnYYSQb9cbLLLMb2qDmm9g99yOuEH3QgK5aQZWTKHRuQSExMJkY8oBOOEKbojxZrFqq1A8aFv7MfwTh2K2LoM+0d+F4gnP0E6tmwv1qnNBnsHVig9h1q0uaCvM+XaX4+5iJSZ0TkI/Ru2Zf613IaCa6LpDJRaHfuV1JUgFA8M2t1H79lsHDbdUtGq2hmVR7Y77Z1U9MayiI=;Fk4AJ17HrRL67O1AXjqP0g=="
 ---
 

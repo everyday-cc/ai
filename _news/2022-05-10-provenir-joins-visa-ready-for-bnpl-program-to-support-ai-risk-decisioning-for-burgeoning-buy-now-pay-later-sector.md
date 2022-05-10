@@ -36,18 +36,18 @@ related:
         height: 1043
         isCached: true
   - title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
-    excerpt: "SAN DIEGO, May 10, 2022 /PRNewswire/ -- Point Predictive Inc., the San Diego-based company that provides artificial intelligence (AI) solutions to lenders, announced today its strategic partnership with Provenir, a global leader in AI-powered risk ..."
-    publishedDateTime: 2022-05-10T14:32:00Z
-    webUrl: "https://www.kron4.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
+    excerpt: "Point Predictive Inc., the San Diego-based company that provides artificial intelligence (AI) solutions to lenders, announced today its strategic partnership with Provenir, a global leader in AI-powered risk decisioning software for the fintech industry."
+    publishedDateTime: 2022-05-10T16:05:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
     type: article
     provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 13
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 15
     images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2019/06/KRON4_Transparent-Equal-Height.png"
-        width: 598
-        height: 208
+      - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/05/AP22127807498518.jpg?w=2000&#038;ssl=1"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "WbUX+a7ADHOBS8VDgnkM0BbJMHNbysztAtvr9fQDoFUQqq0JlnqIQo98lgHRj2EpI1WFF4GTFjvmPijwPmDu3g0t5zCk3IaxOSFwSDMCbiFv7yKfFb1RclKX0cp//zaYk9fX2lNyWItk49xn1Jw3xjIONjXf/4vMPnfVe+B9YgPm7pxnPhIXX+B88ILfaSjyYy0gjBxrWPX527kDA1VXo7JXPlyv5KxWnYBRgwWHIwvf9akHUGHj9UE4bMbwN1dzFQqkDekJQtbYhV1yHcAT3RAQbSV/9SLhf0yEpbUcaiJBCMpVaxIVsXrLD9ToncED554+te96b/CgPA6B34FHqn9I6Hnhhm6GHCDmWlKBBsk=;fhkfzvIVmAURgOgnOwoQ/A=="

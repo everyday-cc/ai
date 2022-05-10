@@ -80,6 +80,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Here’s an Exclusive Look at the 9 Australian Fintech Companies Hitting the Stage at Demo Day Next Month"
+    excerpt: "Austrade, the trade promotion agency, is bringing nine market-ready Australian fintech companies to the US that are poised to expand internationally."
+    publishedDateTime: 2022-05-10T17:27:00Z
+    webUrl: "https://www.alleywatch.com/2022/05/australian-fintech-regtech-insurtech-companies-austrade/"
+    ampWebUrl: "https://www.alleywatch.com/2022/05/australian-fintech-regtech-insurtech-companies-austrade/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2022/05/australian-fintech-regtech-insurtech-companies-austrade/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 28
+    images:
+      - url: "https://www.alleywatch.com/wp-content/uploads/2022/05/AUSTRADE-AUSTRALIAN-FINTECH-COMPANIES2.jpg"
+        width: 1200
+        height: 623
+        isCached: true
   - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
     excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"
     publishedDateTime: 2022-05-06T08:52:00Z

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence (AI) Market Revenue to Surpass US$ 53,118 Mn By 2030 – Exclusive Report By Acumen Research And Consulting"
-    excerpt: "The global automotive artificial intelligence market size is estimated to grow a CAGR above 39.6% over the forecast timeframe and reach a market value of around USD 53,118"
-    publishedDateTime: 2022-05-06T00:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27039451/automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53-118-mn-by-2030-exclusive-rep"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27039451"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27039451"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Self-driving Car Market Estimated to Expand at a Robust CAGR over 2019 – 2030"
     excerpt: "Self-driving Cars – The Elevated Future of Mobility The race for a completely self-driving car is underway with increased ongoing testing and prototyping"
     publishedDateTime: 2022-05-09T11:14:00Z
@@ -58,6 +42,6 @@ related:
         height: 337
         isCached: true
 
-secured: "J5piOs1XYkq4YItpo4rYk/qPMWNWy+vYsbjzzNb8wSGQzmsG+3sMRcgDASlgGsz5xUFy2INhEUtD+tyh850BUcktJRPYVyvxoiqfj/Og1K+AcIW+xAfUoPLv6CWunWadBB5NbySvxtFKP2x7eFlWBe5i5vFVx+5Tqkkw9n7pmKgYi4ynymeo/++ZPchnKVPi482Wzm5QcQ169WBZqBA4jWez5GrOwk7O/ErPfsF5PMJM61Zmmj4d/QMfjdAGjQPaMWkqBkUznOI9Mf1q9aCaGhpU2+Tt49OdkNY3B9PQcJEay6TXCQAJ/WUe4CgywhXmPvM9qvGWOnDD6r0MovJnu//tgpkdayjPq2N6teJhV3s=;ZvJ3w8iKTiDvFyDGSRGC2w=="
+secured: "GRKMumhtG45PmQi1SgyYY8ccQQNNGxn8tCNsbXUQJaaZIf/ehJu3x4xL8OiVtH50wLE97/c7X17vGMaBc3kAxYope99x0H142hiqNM3bcptyTA25YgHkXIGmVHJTQPirobt2+eiHWPW6+dq0930guXTDnssJ+espACzmpV4XrSvo/yxlOygHiXwPFgF7on5UL27LZfk95mcpm/sP8py/plQDVBibt0xWaxOGFGwxlsV29bfMctBL4QxZMpKWP0W3ucWRJeqkCCs114HOV5BRSinM5hnyWLyhiihG/u75RRDH8EvBC/pK+Pd5zuA7wNJe7Pt9iVvey3oD9BHHB/kW2BbFxHqimu+PTi5b9E5CmnwiIFDlrjLzremsK2/+JWsCUngHi1ytMijzjTI+/rDw8/O2Hx5wNmwu4ynP4zKDVJGgfyVkZ4kKyOFCk4+rhtgY4Q2pQIZ6N8+BKg4T3tFU7JWjjfRlU0lmRa7AzKECNGteLvMqQGx34pbVvIocmuDLs/ehZynLB0nxs8CaHSIN+g==;YXLKZ6lP09qFGOGXbTtNCg=="
 ---
 

@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Apple's machine learning chief quits over return-to-office policy"
+    excerpt: "He left a note to colleagues saying, \"I believe strongly that more flexibility would have been the best policy for my team\" Apple Inc's (NASDAQ:AAPL) director of machine learning, Ian Goodfellow, is reportedly leaving the tech giant after more than three ..."
+    publishedDateTime: 2022-05-10T17:02:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/981839/apple-s-machine-learning-chief-quits-over-return-to-office-policy-981839.html"
+    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/981839"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/981839"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 59
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC8yMDIyLTA1LTEwLTEwLTEzLTM2LTg1MTg2NjllMTdjN2U2ODRlNzU5YzA3YTcwOTE1MWFlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 740
+        isCached: true
   - title: "Top Apple Machine Learning Exec Resigns Over Strict Return To Office Policy"
     excerpt: "Ian Goodfellow, Apple's director of machine learning, has left the company after three years of service. It is believed that a large part of his decision to leave had to do with Apple's policy on ..."
     publishedDateTime: 2022-05-08T16:20:00Z

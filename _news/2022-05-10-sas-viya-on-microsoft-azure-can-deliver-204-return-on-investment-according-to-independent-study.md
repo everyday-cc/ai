@@ -1,27 +1,31 @@
 ---
 category: news
 title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
-excerpt: "These continued benefits of the partnership were also highlighted by the TEI study interviewees who shared positive feedback about feature integrations, including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and ..."
-publishedDateTime: 2022-05-10T14:14:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study/article_2219fd90-6b53-5b78-a3c7-e2532e074268.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study/article_2219fd90-6b53-5b78-a3c7-e2532e074268.html"
+excerpt: "including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and Power Automate, and the ability to score models in-database in Azure Synapse Analytics."
+publishedDateTime: 2022-05-10T14:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-1031442679"
 type: article
-quality: 41
-heat: -1
-published: false
+quality: 71
+heat: 101
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/4c/24c975fe-8a0b-5fb6-ab47-ca7285ffd1c0/627a7427d9b67.image.jpg?crop=900%2C473%2C0%2C100&resize=900%2C473&order=crop%2Cresize"
-    width: 900
-    height: 473
+  - url: "https://mma.prnewswire.com/media/1812672/SAS_msft_man_in_city.jpg"
+    width: 400
+    height: 299
     isCached: true
 
 related:
@@ -40,20 +44,6 @@ related:
       - url: "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg"
         width: 1200
         height: 400
-        isCached: true
-  - title: "Avaya, Microsoft expand partnership to pair Avaya OneCloud portfolio with Microsoft Azure"
-    excerpt: "Unified communications vendor Avaya has expanded its global partnership with Microsoft by pairing the Avaya OneCloud portfolio with Microsoft Azure. Avaya says the partnership expansion wil provide organisations with more options to increase their productivity and customer engagement with"
-    publishedDateTime: 2022-05-10T01:57:00Z
-    webUrl: "https://itwire.com/it-industry-news/strategy/avaya,-microsoft-expand-partnership-to-pair-avaya-onecloud-portfolio-with-microsoft-azure.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 60
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/edbe7be11627d2e934e4efc0d1dab222_M.jpg"
-        width: 375
-        height: 375
         isCached: true
   - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"
@@ -79,6 +69,6 @@ related:
       domain: stockhouse.com
     quality: 15
 
-secured: "kkV8m7nNiNpiUE4TWd7+IHvmuq4Ly5FqToH3kjCS/u3krFTYpp9X6xxTV0ahoP7VJFsggNrVIyimm+08m5zLs6hVFz3+nWIRjJVM81nw44LpECFoMJMCMiKyP07m6eVaAUU/APc4T2XbPVqgL6+XXPC3X9DVFG0c+cpxDZYkZLs6vzmYaNxSTPogXKAogFY60DeheT0F5lnYG3/rPRvz0eEwe644YvDgKrPkHRSHdIJFfpHwgzxmYSIpPaTxb6Kd8ML3OSCWOYZUEoiJcn6qgpxq11F2xuCJuerkHp44MIIDn8P0XEoFmSyFHFO0PNbC4KhvEcWLFwXzcXCJIpZPwS7QyufMbobaHv6owUCLJOc=;BIjwdOWZc9zdm3dzOET0CA=="
+secured: "O9lG/EP239OzVOTPTzQbaNgm+qy4Zz00k+aYanmJupMgcp4wtfnec61Ddr6mpzDynq0oWGtbiiVSmipbbi9fop1LbfAQtAjHd+zZptDHqHLrvk/GC760vtiXm16sA+J1JW9iF+T6iWG31GIPAG/Q5AWSTmWJgft3abfiEKEweP9zijapaHRMVsluXnzXOBrQIBeTdZBFvcZ7XrYesDtQxNArKtBoGRoG7kYqW7b8CcxZTSxqn5B4dWki8skV/U5dVXQibUCGSlMUxDUJzF1EkHa3VtHv0hbIJ+HZR8h0TjtlL2frD9xS89YgVSXNJB9oss0iND2ZuZ/63syqxbMq5yQ+563tmo4ElWFC7i8uGKs=;FCaQbRg0WmHcZp4/5Gi+yQ=="
 ---
 

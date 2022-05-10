@@ -1,23 +1,24 @@
 ---
 category: news
 title: "Sequitur Labs Showcases Complete Chip-to-Cloud Software and SaaS Solution at the Embedded Vision Summit"
-excerpt: "Sequitur Labs announced today that it is exhibiting its chip-to-cloud software and lifecycle management ... professionals from companies developing computer vision and edge AI -enabled products, including embedded systems and mobile applications."
-publishedDateTime: 2022-05-10T12:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sequitur-labs-showcases-complete-chip-to-cloud-software-/2022/05/10/9599076.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sequitur-labs-showcases-complete-chip-to-cloud-software-/2022/05/10/9599076.htm"
+excerpt: "May 17 and 18. The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI -enabled products, including embedded systems and mobile applications. The Sequitur Labs Security ..."
+publishedDateTime: 2022-05-10T12:32:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220510005250/sequitur-labs-showcases-complete-chip-to-cloud-software-and-saas-solution-at-the-embedded-vision-summit"
+webUrl: "https://www.morningstar.com/news/business-wire/20220510005250/sequitur-labs-showcases-complete-chip-to-cloud-software-and-saas-solution-at-the-embedded-vision-summit"
 type: article
-quality: 3
-heat: 3
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
+  - AI Hardware
 
-secured: "QEqs2zcwGdVkagQmCfbqKFuZs3C8Y5s78h5OASop9cg5n/nluOOZh7hZsbq2erBB8JHOyY+X8TwUMQ97EcG4AdPUsxF7wcrL/QmTMseUlesG1Veyq2NgBQHOhqcME4bqm+AStAnAXL6HY2tzgr+sZQmQ3DIrZ5YHNJqHNnkGAY0FPOPGpaq7vVLphEFxxUOTos5Mdw7+NG7u0yLIrIYLRxMS3goOJE8yCbjC4adJYTgsqaiEsDfekuYJ2Ot/1UjY3VfNE6d5GHHB63Rqus8LUUDY0rfFVtlpZy043ezK9sRXQzLyiL0wyNoabgO2Gm8iJ7k8IRtzNOGi7chWdzKQrTCLRdMuSk8iFNXshBLZdFo=;AW3J5f+yBSekDZ1r/Wn8vA=="
+secured: "71QPmuRzJJHoXd4JlphrET02PP8p6D406gjxi+w+7ymOemUqv5O06IdTx89TToyOvvk6tVPVFAfs/dSxbQ7d0uTfEp4juWeF1Yu/Or+McYtjoZiD5utkgs3v9/k2hUj0RPvKWhWgNVL0iCAjMhVBxa/0t2EwzcEiIVDgKhl6FIEhkNuymxTEzjBFR/AtY3xqOtL4rIEJnNTP0K4fOWtGgi8L8OOqrjA0V4w4LQEh1Qb20cB8moCQnmQBP80aCb22e+W6fCLbWinzTkuGy+chWFBXbeFUT3yj6SDOBwEiniQN3ce83sWZKQ206ddYoDNazo1etapMz7I1ADAzYmdQhkl0IOnHTrPgHAJTVCzrmNQ=;bL6H6MDVi8xosE/pQJkk7A=="
 ---
 

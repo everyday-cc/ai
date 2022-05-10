@@ -43,6 +43,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Clearview AI settles suit and agrees to limit sales of facial recognition database."
+    excerpt: "The facial recognition software maker is largely prohibited from selling its database of photos to private companies."
+    publishedDateTime: 2022-05-09T18:17:00Z
+    webUrl: "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html"
+    ampWebUrl: "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2022/05/10/business/09clearview-aclu-settlement-print/merlin_166989159_f077e4a8-2604-45d6-9401-ef7212a8286d-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Clearview AI agrees to restrict US sales of facial recognition mostly to law enforcement"
     excerpt: "Clearview AI, a controversial facial-recognition software company, agreed on Monday that it will not sell its software to most companies in the United States — a decision that will largely restrict its use to law-enforcement agencies in the country."
     publishedDateTime: 2022-05-09T21:59:00Z
@@ -53,7 +69,7 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 112
+    quality: 114
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220509145253-02-clearview-ai-file-022222-super-tease.jpg"
         width: 1100
@@ -181,16 +197,16 @@ related:
         height: 486
         isCached: true
   - title: "Facial recognition company Clearview AI agrees to restrict sale of database in settlement"
-    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the sale of its massive collection of face images to settle allegations that it collected people's photos without their consent. The settlement was reached in a case alleging the company ..."
-    publishedDateTime: 2022-05-10T12:12:00Z
-    webUrl: "https://www.cbsnews.com/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
+    excerpt: "The company can no longer sell to private businesses or law enforcement, according to a settlement reached Monday."
+    publishedDateTime: 2022-05-09T20:27:00Z
+    webUrl: "https://www.cbsnews.com/news/clearview-settlement-aclu-law-enforcement-illinois/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/09/77168b00-64e5-4eb8-8109-99edd1348887/thumbnail/1200x630/8fe71faeabdf7becf56abe37411266d7/clearview-ai.jpg"
         width: 1200
@@ -411,6 +427,6 @@ related:
       domain: courthousenews.com
     quality: 4
 
-secured: "Rt7npLQCDxlAB5Kp6nAy6uwxNRbNyxQZwmGzhiaNMUheCnj85Eyba7Kul2OSD1IyHKUFv0Vz1ivmBRJCHEBvwjorJsMZrqoO+Fl1j7J4OQEkTAtCPQGHudRmNIY5TNfs+YDPZN25um8FmjXtHjmE4YuHygphjj8YaDnhmNVOBtHmoHuOPZPZq1Cc+CL2+slG68mFbbmZ/I8FKdCqzO8IGY97mJ+XlN/Ths1vlF81lBUcTzDWECAAuveSz3SVmt13/Yihy5JPYvFX2fs0LdJPWAz5Z9GvWIT/9+STfGmL3fx9cISrj/gSWULn/F90id+HgzU8KBegzePGJ9LhiyMgEhO8fNIk39IbWFaiqKx4tZc=;En96s37Mfssle5LdgFSxQw=="
+secured: "YyHXUuKd8OoDeK9aVHzJ5CBeZfZ16PhvERcrLcfmakWras2TEoThOzZZwYjL/6CFKTnxQfHuCnyIJeAlZwEh/9zPuzuEEE9WY28+x9dsRTpMvK9CCVHFR1jDdXYK03CtOPNRL4EVceUr2BjBX9dpHCFJwuQ9zqKkPSf42+GeYO67H0ZEoUiePVEBuM0mkPEdbdDtCV3+ZfNTddtWLoQ6NKYAbqEqnxR9AQehq2Bt7tn/2lCIjU7kGJkit2B26LmOsbv2Wh2pBciGIYzI1qw4Nn2MzEaO9GaHv/PJ5wfX+Kc0IyeeaO/TkSGg3dhRH4k/WM0unUc7FvLtTM/oC8VFI1KblwNSR4Td/ST2goOnAbLM//d0ZSZSX0V4H6HwkzUEVjLspI/8dLSyLSvKHMcp6RlPfhNKyTtgyrlBFQHn2OHjCRLSMYWjdvDYrGMg8HyDSNUn0hSH1eiyWFWe83aOIx3bKbv92ilqzvmFDjnVKznp8EpIKHJMPYeHxOJVcP3kbPSoE7RalIfbiFNPnCQWVw==;95Py9xkJ7WMxVKql6Vlrgg=="
 ---
 

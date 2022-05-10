@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-doubles-ai-chip-power-to-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-doubles-ai-chip-power-to-expand-the-ai-revolution/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -77,7 +77,21 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Intel Launches New AI Chips, Challenging Nvidia's Market"
+    excerpt: "Intel Corp on Tuesday launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp."
+    publishedDateTime: 2022-05-10T15:00:00Z
+    webUrl: "https://www.ibtimes.com/intel-launches-new-ai-chips-challenging-nvidias-market-3501555"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/03/15/visitors-are-seen-at-the-intel-booth-during.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
-secured: "aepcCQMrkL0sDr7+oAcaizRtcqaVcPJnDSTYVuRjo92HeZqPpFffsHaHMs+gYiMrFei9RvJmCcq0heKmwtU+PkJZjt8CObW2jBu5MSmq53XiT8thZzzBs9ETyyuIzGJtYyhqeiDYlbo58VxLyZ04K9U4h9wmghjzb33XfdQNHICZ76kM25oBLZ1x9eCeqG4Be+mKTpZw1Nr7O7OVFQk5ObOrBeijdWeS7Da2Jh90Zw/+N6LSE5Bl+M2/ceTEb7q5gUO40wEkXBs2cQ/9MXYtI4Sl4/diCyKHp/RZ4nPN56V6qKZzsxLIcIcl/lmeJEH/Qm6gvG4qpuLIw+t0fRMvIstFSLoFovm6xyR+oXgUIFU=;ZmRpXUe5WaQkaZC+FH7HAw=="
+secured: "8BeRHzvwjhOypoGQiqKMjzC6dEO1uqJR8zTJPGVSRWa0nQtWW5LhcVUFBMxC/dtkRzp8UBKq8vHMpAD4Sbk6S1fkwSaEmJsFTGa0I7HnAEZz3FU/CcphSkDsLa3L8x7LSF4gezbA4+EVnvE6NPNfObTI14jNiekFW2hNWUU6NEs4UUXoBcKGQAG93J99z7XpS+kyA2J+q58sJVqGF6sDmZ2vzhrjKcCZJ5q4IxPkiVYgEv5Qcjc5g9Pt1vFOWD2cV/AIjgdjgNwcrzmL2canlTN2fpBls6pmritbE1s8rw9HwCdHbqWv8H9xO5SHuE9PoDRfvcnDTkm/GyE3dabdAPxeA8Vf2jYh6vfW9qQ64oIXwQk9AYPhshn5pTNS2f51LeDG0XxFgjfm/97vrpRuJ3/mAmshDmsnAT1zBBk3c4SHIYx10/7CghCQVRw1Va6FttfA6pje1Wp4uylBKsfRTCYcTBSC+ZuRjtFMPQyImM8U++9o/vXFlkHryZkWVGD0cnFFNf0i2m7gDRiqHAbMjw==;/FZhExhMBTertMKDTaXdrQ=="
 ---
 

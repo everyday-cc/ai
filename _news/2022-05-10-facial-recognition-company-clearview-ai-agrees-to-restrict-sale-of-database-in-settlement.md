@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Facial recognition company Clearview AI agrees to restrict sale of database in settlement"
-excerpt: "Facial recognition startup Clearview AI has agreed to restrict the sale of its massive collection of face images to settle allegations that it collected people's photos without their consent. The settlement was reached in a case alleging the company ..."
-publishedDateTime: 2022-05-10T12:12:00Z
-originalUrl: "https://www.cbsnews.com/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
-webUrl: "https://www.cbsnews.com/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-ai-settlement-aclu-law-enforcement-illinois/"
+excerpt: "The company can no longer sell to private businesses or law enforcement, according to a settlement reached Monday."
+publishedDateTime: 2022-05-09T20:27:00Z
+originalUrl: "https://www.cbsnews.com/news/clearview-settlement-aclu-law-enforcement-illinois/"
+webUrl: "https://www.cbsnews.com/news/clearview-settlement-aclu-law-enforcement-illinois/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
 type: article
-quality: 65
+quality: 67
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: cbsnews.com
 
 topics:
+  - Natural Language Processing
   - AI
   - Computer Vision
 
@@ -43,6 +44,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Clearview AI settles suit and agrees to limit sales of facial recognition database."
+    excerpt: "The facial recognition software maker is largely prohibited from selling its database of photos to private companies."
+    publishedDateTime: 2022-05-09T18:17:00Z
+    webUrl: "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html"
+    ampWebUrl: "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2022/05/10/business/09clearview-aclu-settlement-print/merlin_166989159_f077e4a8-2604-45d6-9401-ef7212a8286d-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Clearview AI agrees to restrict US sales of facial recognition mostly to law enforcement"
     excerpt: "Clearview AI, a controversial facial-recognition software company, agreed on Monday that it will not sell its software to most companies in the United States — a decision that will largely restrict its use to law-enforcement agencies in the country."
     publishedDateTime: 2022-05-09T21:59:00Z
@@ -53,7 +70,7 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 112
+    quality: 114
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220509145253-02-clearview-ai-file-022222-super-tease.jpg"
         width: 1100
@@ -409,6 +426,6 @@ related:
       domain: courthousenews.com
     quality: 4
 
-secured: "q6Fnv1syDHx0H/FuLf7uaDNPaf7om7zORVgLyl6LVCxTMPMkI39inRrogqOrL8Ue+i4oOASf0xwvjwRZQCFbSNvzOELE0xd1l5/kW4TtmfnS2MV1EXlLI491ZvUQzeAC2eevl1oBJCp/lOJp9x3ZsJ6IIzXHOx9z/Cxhv2Ntn8GIioT5w1+LczFH7BIPYOYcRgKb2DHvFJUpzcyykJAqW/2eAgBzlWIQI7nNAXfejagbGUUf7eCLVD7dP0e316yVpdLAxCihyyCwKBKQKfJiotlymVQGsLu0pDifbNFpEtqw4UVjLhivO9wATtQokX7VbGmcJ9veKEraYgaHluf+M6qoXYGdMgQnJgJ5ic4zICQ=;o17lCKUzfZRAemVWT9h3Nw=="
+secured: "c7wgnITsfe6zUWp+vMgeBaIEhjGkh2pfqL7Z5C0i+0oixNU+65OIqJyyDwsF8VtE1ct4GuxgvC3aNaFvcCB3w8Nwup6gUsVGB8+Hx36FWJ8N86uvaBG5+IeYz0n4faUxzy8zQtiv2+vUjOF659yPEDRfmCREtLpkXnDsW7hEnEKVCXL6JSM3CJjbaslhgZnU4hnog/8TaCx+WZ8QdkhwaceLz/Y2ky7i05BDxbeeeNwTUKJYHHDQkVbmBp05N1VamWlU9g7rq/jeaPPGm6FmJUD4Pc2lPbkWBda6v3dLF9SBI0ctGu9XCuTPqqlthEmC5Df+pAKatydiatV235vgeSPcOb9mgbZY4r3Z4PCtdY0=;IrYvF9Xqy1QLcnUP51RLxw=="
 ---
 

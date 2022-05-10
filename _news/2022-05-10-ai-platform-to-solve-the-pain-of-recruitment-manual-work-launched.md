@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Age of Generative AI - Inventing a New Artificial Intelligence"
-    excerpt: "What is Generative AI, and how does it work? Generative AI employs artificial intelligence (AI) and machine learning techniques to allow robots to create artificially fresh material. The system does this by using existing text, audio files, movies ..."
-    publishedDateTime: 2022-05-06T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/age-generative-ai-inventing-new-artificial-shruti-saraswat"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 36
 
 secured: "RGsr4E8WXHDbKEQI3NB135fAVOKtHTsCQcqo0GI5I4IPIrUKS4D57qib9MPSUiAp7UMQ7wmvfaNeF+HguSky8cXNNDwuk2JRvFc9vclVAH/YhxaBUPUvG0LGGcGk3/Wj7+ob9DGAEMuMmzYGseOvhpuJxlrrdZaQwxyYXb8zSx/PPoszHxiILMyvcBQEOJPRyAb7Da0aWQDqRRjHgJ7fjXBOKYPWqgdTF4Mtr9KJlbqNi+oLZ0e1y8EYmHrFfEiLMU8NB+m9V7EL8psO/psx5WadO3tao0Z5KzeOHHWZIyubjAxNssrrdNzXPMx2JPUPUwRTgd+01AmiDvbC5ceNXlE4xHm3Te4YTNWA6EDVuE4=;HjI2/T9eOzyxyX1+Us809g=="
 ---

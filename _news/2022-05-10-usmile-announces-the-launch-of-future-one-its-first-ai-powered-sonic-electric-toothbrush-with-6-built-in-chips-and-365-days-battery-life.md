@@ -1,23 +1,29 @@
 ---
 category: news
-title: "usmile Announces the Launch of Future One - Its First AI-Powered Sonic Electric Toothbrush with 6 Built-In Chips and 365 Days Battery Life"
-excerpt: "HONG KONG - May 10, 2022 - (Newswire.com) usmile (a sub-brand of the Stars Pulse Corporation), an Asia-based, all-round oral care brand driven by the mission to enable healthier o"
+title: "usmile Announces the Launch of Future One – Its First AI-Powered Sonic Electric Toothbrush with 6 Built-In Chips and 365 Days Battery Life"
+excerpt: "HONG KONG - May 10, 2022 - (Newswire.com) usmile (a sub-brand of the Stars Pulse Corporation), an Asia-based, all-round oral care brand driven by the"
 publishedDateTime: 2022-05-10T14:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-10-usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-10-usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life"
+originalUrl: "https://www.digitaljournal.com/pr/usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life"
+webUrl: "https://www.digitaljournal.com/pr/usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life"
 type: article
-quality: 0
-heat: 0
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "vQK45Zz7FK39jftYWqqoZbkdR2OQ024wrrs6o5hIdU4zK9nAH9TIOYlMaek+pMmjux2KXbR5BntZ0+ZxCjGvbycvmUUO/qjD1//5b+cvCRsQNPYQ35SRxu593iTCd03qdOKIsIJ6kWjKiTo158XFkvFTZ1A09WSOG9/r7uxzTRs8htfjzCArfGZYGvLvhIFsWW+wAW11rPCvQiLxs3yWazWM6oE9FgaF3bARBQGM0KhvD5k9tCcyu1B4MW5IGJxln1S5XuZ3uhUXv4cqLLnWseIcFty6MNUs1IHTrfa12sCL2ENciIL0GdcmUC1cqYwIHxcmJWoYtPgmnE85B+ORV9RlGHp4D3ZCd+nCDY7OW+HUvdrTSzojjb0oAmVsDTvQvV92mse7XcoPv8H/PuMW5FKXjaOVAfCPHrdOi8MzIMTBFfo4k5WxnzK8GQyXdOHXiT16bPJiwWfkOzRQJ9xD6PkYIytHz6DeH1bdPhFnu2sQVw0bh/A1KRsBrvjOWKtqJXxWGVqOH0hspLPlsCb/XQ==;GTsxhlRbPqCU+f2fslkrpQ=="
+images:
+  - url: "https://cdn.newswire.com/files/x/9c/e4/91613d3496677b396cec0d32aa76.jpg"
+    width: 512
+    height: 288
+    isCached: true
+
+secured: "itkXtQzbZRd/eabqpbcGIyQorv57fUn9lT6q1FhMocXIIs6fMS0cO06WGTI+OupdgO+QyvRpZOfDVqOgH8gjQoZfua/WnhWaZVR+QtUKJmi16mA4h7Q0+HoVYZHXHVTIY7w+eAFzh8kmg+Li5KbOLfbyde/tVqy4tgOGMtkmvh974BD2/xUN/gwXbFfaP+cwL6n/51C/XCTM9WQ7uCScdv1a1iWc8cVtqXFoUh85eRer5IREnFIxDDLUYVoDvY2bQmB46W6wiXuztHoWv2U7ufWyBzRxsi7z5VVe8lGyt/QFcRhHWVK6NRZFYedII9bJg1Rks15Ezt7j1rrFdz3geSZK6Q3FRhvjmCl1xLl1Npk=;5e4YRO48ZUogBoVM99XovA=="
 ---
 

@@ -55,6 +55,20 @@ related:
         width: 375
         height: 238
         isCached: true
+  - title: "Self-Driving Microscopes Discover Shortcuts to New Materials"
+    excerpt: "Intuitive algorithm could guide breakthroughs in new materials for energy technologies, sensing, and computing"
+    publishedDateTime: 2022-05-10T17:04:00Z
+    webUrl: "https://www.labmanager.com/news/self-driving-microscopes-discover-shortcuts-to-new-materials-28080"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 24
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/28080/aImg/50844/self-driving-microscopes-discover-shortcuts-to-new-materials-m.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Self-driving microscopes discover shortcuts to new materials"
     excerpt: "Researchers at the Department of Energy’s Oak Ridge National Laboratory are teaching microscopes to drive discoveries with an intuitive algorithm, developed at the lab’s Center for Nanophase Materials Sciences,"
     publishedDateTime: 2022-05-09T12:00:00Z

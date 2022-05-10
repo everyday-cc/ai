@@ -33,13 +33,13 @@ related:
     provider:
       name: WTOP News
       domain: wtop.com
-    quality: 60
+    quality: 62
     images:
       - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
         width: 512
         height: 512
         isCached: true
 
-secured: "zmpe5romxBYr2HPZaY6pNMk5+55JSrNE9huYrcCrmuFYr2d76zQwWGg2CoKK8l6zFXXZXdGwviA8xVvpYnA5SoIXN2MRiaI3G7B8440vd/C782Iro2TDdjr0w2iRQ0YHimdDBXTyUxqEZgCSF7NKoWjQjogpv6QhsC9oNM/kJjqeAwEF4+ARr8L4BDWXWr3CAA2Yd9mobq7/EVoEPwe2nooncrZvyA14PGPvucepKu0xlf9TuqL8+VUkKv4kD3LHEK0VArwGD1NxdaqzfNfTVUHaSw+dNCodI/EKpD3kWnDSJwKI0ShtNGuvRSRa9yzRZW65NNjpfiX7UV5Z6P/eN6XHbRprs+55rJ1GsQpNuEg=;CwbdBskCZZJUD8fftCeq2A=="
+secured: "LuLi3TFTc/8B8KLy0/g4lt4uclN9PjLqPR2tqK06ugHz/9XI8VkJtTmk/OrqLNd5CiAL59WjDeHSiXDMwJgP51K9MPZBWaC4NnsOos1bRz6vfxmV6x3vPWd2Wkz9sm6RhO1UVuUjs+UHhHvAyI5Y6F8VPMqQmV7dRFCH1kC2qB+IjLFvkjh9IKh2xwJtiJzUnjuuk1DbWhwNGXlmvAu2k6w+cmCEe3LJmy4IGyxJa3Xe3V2xZ01hmbxcbo95fOJC9udO4PROx6W1p2phaE+SEX7dl25Y4+nXDAx5Qbi4MXDAYJUdJKpbuYWSWi7rgN8psAcExFaB2CY/bE3d+2IOYQpHCl1JL5BStoiUiJmPUEsdZdoyvIlAfBbJIVJnB2BDdQxn1xWAioKcLE4phlqplNxYcdFeSHXeodXJGQ8TJPiTTixZzWQ6GeAUWv7kp/SI3ET/BZZNLw76meI6te3eq8DTKSpzyZAw9Yvmk1MYTYaPhoWdHSHl29HptdhC+z899+KwoGfr62lvpQ1r7bBkfg==;bqtX6B1A3MXYskStN8ABpA=="
 ---
 

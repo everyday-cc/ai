@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-08T12:00:00Z
 originalUrl: "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/"
 webUrl: "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/"
 type: article
-quality: 60
-heat: 70
+quality: 62
+heat: 72
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Microsoft AI
   - AI in Robotics
   - IBM AI
+  - AI in Autos
 
 images:
   - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"

@@ -2,22 +2,28 @@
 category: news
 title: "Artificial Intelligence Helps Prevent Suicide in Ohio"
 excerpt: "CareSource, a nationally recognized nonprofit health plan, announced today a collaboration with Clarigent Health to bring Artificial Intelligence (AI) to behavioral health providers in Ohio. Clairity,"
-publishedDateTime: 2022-05-10T15:39:00Z
-originalUrl: "https://foxlexington.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
-webUrl: "https://foxlexington.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
+publishedDateTime: 2022-05-10T16:39:00Z
+originalUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
+webUrl: "https://www.kxnet.com/business/press-releases/globenewswire/8539503/artificial-intelligence-helps-prevent-suicide-in-ohio/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: WDKY Fox 56
-  domain: foxlexington.com
+  name: Kxnet
+  domain: kxnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "+e1WPOCf6cGuXwxjDLP1pD8nbMpu8AzDzRyQkiHW5Yc9MRiYZrQC2XjHV2q1F4B7XvuBnMNsfR3pazQnEfwQFIseU3/sOvYqhavEJzXpSg5jWc1forXEwvZplC4jsxoQPXYH7lasf2O6n2Bh83t/dvD55S2w1aaRyb3Zc9mx4HjW6hu6flskJhOYsaBpyR8Trmhb/yvzgzQl+UkcBUsIrdKrppiRwTkv7WpSWnYe22KWeGOZr+ntqxPFpJsK/S3X6lF7n+5OzNy2wT7YTQTfrlARvgZm4K7e+462wp7adXIQgUV09sO64QI8YcTD96D+QkSQbjphbsUiz9yGtRiQ3GAWpZ740iIDzoV59tb49N0=;WIaPH+VDbrfuMQAd+qhE8A=="
+images:
+  - url: "https://i0.wp.com/www.kxnet.com/wp-content/uploads/sites/16/2022/05/5-9-shiloh.jpg?w=2000&#038;ssl=1"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "KT1cpsG9g2pqYjlmKvzMhPoHYWvGy/k83oRZ2zqimXyo+OkmVHVnZwfhhTdL0ilXt10kDTnMgPG9Dkr5QklhrYRMcwyKS8r6hpn1evp1tpqYtC10bi2mBVteyWv2MV0Qa6kPQmdITJLnxdkFSHQF4w6tlqfGRPAMi7PXmWnRbweIQ97kqRfTEqEY3D1cAf9n/cCzTEyt33OfF3muoo28SJmFf781I4NbHCMJh/Sdjm9lSq8Q+ITazyEmrAbuxH3c29cubeesbxYjnHhSbXosyqa5J8lynz0nHn8UA0Ry09uGLdwaNKb76qhtFcV/QcE9JDNIFZJW9h/xX5LtTDJe9hFn5Ff2I6b9g9MEMvNbfLU=;KnSPRzHmrG8YIwc5btCy7g=="
 ---
 
