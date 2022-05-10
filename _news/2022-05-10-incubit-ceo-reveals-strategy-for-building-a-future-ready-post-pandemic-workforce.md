@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Incubit CEO reveals strategy for building a future-ready post-pandemic workforce"
-excerpt: "NEW DELHI, May 10, 2022 /PRNewswire/ -- Dorian Wolter, CEO of Incubit, a US-based, global technology solutions company, revealed their plans to welcome over 100 new information technology experts in India this year at various tech-enabled positions, three ..."
-publishedDateTime: 2022-05-10T05:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-incubit-ceo-reveals-strategy-building-future-ready-post-/2022/05/10/9598631.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-incubit-ceo-reveals-strategy-building-future-ready-post-/2022/05/10/9598631.htm"
+excerpt: "Dorian Wolter CEO of Incubit a US-based global technology solutions company revealed their plans to welcome over 100 new information technology experts in I"
+publishedDateTime: 2022-05-10T07:03:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272545544/incubit-ceo-reveals-strategy-for-building-a-future-ready-post-pandemic-workforce"
+webUrl: "https://www.bignewsnetwork.com/news/272545544/incubit-ceo-reveals-strategy-for-building-a-future-ready-post-pandemic-workforce"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1813476/Incubit_strategy.jpg"
-    width: 400
-    height: 267
+  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+    width: 630
+    height: 420
     isCached: true
 
-secured: "7PNPJ+c4L+VByVpuDFBhE1Vg63iGL3azJIvfTEuR14JLVJJJWEjKa/4yb7CBYD9K7Rp0ie0lxZyX9AttOLGPiahERdd/ntpIL4ercloaZWXAwvTG213YjPtdnc0a0+idyUy9xoRTj/XcC3xgqSPsyIKr+vyKdki4L3aI9qCOaTF3kX75wGZyb2OAwbj0SiQhbVxR2TgvH3IYcR9Me4OlmIqu6ViRSx71h0/49iHqEkxSEP0a9/hoe6NZSNpE9aASS80CzFDEuRqNCwokKBeLGQNs1fzoWACGHHHmKHofAIDXMRnn1xqGKeJmkF7jehqwYjDKDJQeA2QV/SIH4Os0xcHXPWdtruNVI4LZdZybzFk=;ojp7yijxEKSy9Eny69LTCA=="
+secured: "p1M3RJ+pFatEY0CXRoDFm6YGNxDLfSSZSJMVSq0MDCGrFWLYUNtawrnI7qxW/s/sAf+lJ9RpGFgaBQ2esrgT2rKCNq4pMkiZzf3D2D0DLtxxCTmNp9WQloELtDn6McAsku82N16Lls2rWf7YH6NNSd0z9vHI4tE4t4oN+bFAVBMIrjWe/MKWHqhc2WGvaIUoxBSz7e6Vqtu325UM4lbgl/dCimmFw9F5UTF/i0HSk7etLZDZqsrP3U+ltOD5fWWJZzlpJxYmj0PR95tLNFm0/S02zal+Ra+isN5szMu5h/SNEGrw78XODw2ncrUs54Mz4jhqnklAzZkf2GPzKMMZtLDaEqrvkbVsEP/sSCg2Qx0=;019fqYdx7YGJDGxfaDh/DQ=="
 ---
 

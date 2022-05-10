@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 357,
+      "heat": 367,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1130,6 +1130,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-24-darpa-seeks-proposals-on-improving-satellite-imagery-technology.md",
+      "title": "DARPA seeks proposals on improving satellite imagery technology",
+      "excerpt": "DARPA issued broad agency announcements for the efforts in February and March focused on improving SAR technology in three areas: automated object recognition; distributed radar image formation; and digital signal processing. Responses for all three are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/battlefield-tech/space/2022/04/22/darpa-seeks-proposals-on-improving-satellite-imagery-technology/",
+      "originalUrl": "https://www.c4isrnet.com/battlefield-tech/space/2022/04/22/darpa-seeks-proposals-on-improving-satellite-imagery-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/FidCxfiWA64sCTyaPFcHoG3-oec=/1024x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/5YR7EOV2KVDZXHUNG4FWBQZCFM.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-23T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting.md",
       "title": "Facial Recognition Tech Leads to Arrest in Fatal Miami-Dade Strip Club Shooting",
       "excerpt": "\"The subject fled on foot as the crowd inside the club dispersed.\" The entire incident was captured on surveillance video, which detectives used along with facial recognition software to identify Solomon as a suspect, the warrant said. A witness who was at ...",
@@ -1333,40 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-indian-origin-engineers-introduce-ai-powered-smart-glasses-for-visually-challenged-people-details-here.md",
-      "title": "Indian-origin engineers introduce AI-powered smart glasses for visually challenged people — details here",
-      "excerpt": "Netherlands-based assistive technology company Envision has unveiled its latest smart glasses that can help with low or no vision to read documents, scan faces, and assist navigation with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/indian-origin-engineers-introduce-ai-powered-smart-glasses-for-visually-challenged-people-details-here/articleshow/90974873.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/indian-origin-engineers-introduce-ai-powered-smart-glasses-for-visually-challenged-people-details-here/articleshow/90974873.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

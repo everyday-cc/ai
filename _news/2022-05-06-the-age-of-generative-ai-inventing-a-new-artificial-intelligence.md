@@ -40,15 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Southwest Airlines is using AI to help attract and retain its customers"
-    excerpt: "CEO Bob Jordan says AI is important \"not because it's hot\" but because \"it can have a business impact.\""
-    publishedDateTime: 2022-05-05T13:32:00Z
-    webUrl: "https://fortune.com/videos/watch/Southwest-Airlines-is-using-AI-to-help-attract-and-retain-its-customers/2e618eb2-0f9e-44de-9ef8-6f74a547bacd"
+  - title: "AI platform to solve the pain of recruitment manual work launched"
+    excerpt: "The time utilized at this phase by recruiters could have been applied to other priorities. This insight inspired MetroCity AI to develop a recruitment platform that solves the pain of long hours spent on CV screening and initial virtual interviews."
+    publishedDateTime: 2022-05-10T06:50:00Z
+    webUrl: "https://www.bworldonline.com/spotlight/2022/05/10/447421/ai-platform-to-solve-the-pain-of-recruitment-manual-work-launched-2/"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 47
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 37
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2022/05/MetroCity-AI-Why-should-we-hire-you-20220425-ver-1-1024x768.png"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "eX/EffpYdnOURGTiojVQXSgtXmdBgdFxQG4meg0gzP8dZZfyUA7Ksy6GlhXK6vMyVd+XTERS+VVP3WfBppW6f4KezThcA6KNGo1J/2ACH7xPVATIiEUZDaIaaW448jB3CfFbnf6XHO/lq3ZjKC2NZTAMD3mg714FSW2MVTTe8sA6HXcN18aTk8zdY7rvBioNwEJgkdceSLbNHZgnfEifwKV3qOjw9Qogs4pEfPq3sbLXjIZuis2faQREhXSGjnvq4gf+OyEgjzoPAKxLHBR9HEDxI9lUKP0OHHjh8J4fHhxXmksnEkUkteyykwdco7BB3QZQV4VAqN6T4Nz1LaGdr1IYFawRBx5LgfqodSgYqds=;QUInr5CYSaaM84Q6eg0lJA=="
 ---

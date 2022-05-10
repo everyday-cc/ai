@@ -102,20 +102,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "'Everyone has good reason to be concerned' about facial-recognition technology"
-    excerpt: "Facial-recognition technology surveillance no-go zones should include peaceful assemblies and public spaces like streets, transit hubs and schools, says the head of the BC Freedom of Information and Privacy Association."
-    publishedDateTime: 2022-05-05T14:00:00Z
-    webUrl: "https://www.nsnews.com/highlights/facial-recognition-technology-bc-privacy-commissioner-weighs-in-5323086"
-    type: article
-    provider:
-      name: News
-      domain: nsnews.com
-    quality: 20
-    images:
-      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/contributed/facialrecognitiontechnology.jpg;w=1200;h=800;mode=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Startup Spotlight: The challenges and promises of facial recognition technology"
     excerpt: "The CEO of Lapetus Solutions, Karl Ricanek, speaks with WRAL TechWire reporter Jason Parker about the use of AI in facial recognition technology."
     publishedDateTime: 2022-05-09T12:32:00Z

@@ -24,17 +24,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "Call Center AI Market worth $4.1 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Download PDF Brochure: https://www.marketsandmarkets.com/pdfdownloadNew.asp?id=263925467 Call Center AI solutions are being leveraged by contact centers to improve the customer experience as well as operational efficiency. With advancements in AI ..."
-    publishedDateTime: 2022-05-05T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/call-center-ai-market-worth-4-1-billion-by-2027---exclusive-report-by/article_6247c71e-1d59-5bd2-84df-737b9cdd1c78.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 8
-
 secured: "e3jiURl5Kn8059kKjefCAdiCY/Cxy4ecr485ocxOV0hZmcgBpZBz7saqnbK9uBYuP6L10C1l7aCu9vSFujIFLMpoPZGSUbYnSBxWO7hwfuLjnsh6Tr8HoX02kGXNRewwSbjFUGEnoAdDItIp8I+o1jjVQV+CO1HKdWaFszYqHnEnWh3rCnDwZX/orqE0PX3SHqxUGNFQE4jO4MYC0QtepB0CNgq8tPe0z+mORuBa3sRNKwziVV4kM2wt4HJd8mCb8mWwsYyRettEkyXo5RU6veFHxS5Pf4qP3q1i/VJMZ1j5IGSnvsllmuE0EuRJ3DefA8CS0njLc5Jbv4gErfaDFagM+vo4JSD6oV5Ms1E/sbaKgVJvuEJyn3hAAT15zm3cDARgly+7mP+72Biebbvd+RgJYYj/dGmJOF/Y76iHabkT1vlvEh7O596LykAfiPrSUoO91iGwAaRySQchw1HCeCcqgC9WOqtCxoFpF6DbhSEB2XFBmpCwbK6gTQrhW8vOjfBb7f9kkuZmCRuILsAofg==;BKaLOELgCtCWMrBiyhErhQ=="
 ---
 

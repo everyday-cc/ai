@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Computing Using Networks of Tiny Nanomagnets"
-    excerpt: "Artificial intelligence that uses ‘neural networks’ aims to replicate the way parts of the brain work, where neurons talk to each other to process and retain information. A lot of the maths used to power neural networks was originally invented by ..."
-    publishedDateTime: 2022-05-05T15:00:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 61
-    images:
-      - url: "https://scitechdaily.com/images/Human-Brain-Artificial-Intelligence-AI-Illustration-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
   - title: "‘Nanomagnetic’ Computing Could Drastically Cut AI’s Energy Use"
     excerpt: "While most AI development today is focused on large ... of computing while using the same amount of power as a light bulb. These include neuromorphic chips that mimic the wiring of the brain and processors built from memristors—electronic components ..."
     publishedDateTime: 2022-05-09T14:01:00Z

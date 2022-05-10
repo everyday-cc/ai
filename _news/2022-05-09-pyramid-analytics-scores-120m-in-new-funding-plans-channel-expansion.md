@@ -35,6 +35,22 @@ related:
         width: 954
         height: 690
         isCached: true
+  - title: "Data Analytics Can Be The Next HPC For IBM Power"
+    excerpt: "one that would be good at data analytics as well as traditional HPC and AI training and inference work (if some of the systems in a memory network were equipped with GPU accelerators). Hopefully, IBM will find clever ways to use the technology in its entry ..."
+    publishedDateTime: 2022-05-06T19:55:00Z
+    webUrl: "https://www.nextplatform.com/2022/05/06/data-analytics-can-be-the-next-hpc-for-ibm-power/"
+    ampWebUrl: "https://www.nextplatform.com/2022/05/06/data-analytics-can-be-the-next-hpc-for-ibm-power/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/06/data-analytics-can-be-the-next-hpc-for-ibm-power/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/ibm-power10-wafer.jpg"
+        width: 823
+        height: 608
+        isCached: true
   - title: "Pyramid Analytics raises $120M for its AI-powered data analytics platform"
     excerpt: "The startup’s platform enables companies to turn their business data into charts and find useful patterns. Pyramid uses artificial intelligence to automate many of the manual tasks historically ..."
     publishedDateTime: 2022-05-09T20:58:00Z

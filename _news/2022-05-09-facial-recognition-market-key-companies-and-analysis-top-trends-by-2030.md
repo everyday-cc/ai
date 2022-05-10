@@ -40,6 +40,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Business Intelligence Market Trends Forecast and Industry Analysis to 2030"
+    excerpt: "Another factor which is expected to be a high-impact trend in the near future is the advancements in artificial intelligence. Companies worldwide are estimated to incorporate artificial intelligence with business intelligence solutions for sustainable growth."
+    publishedDateTime: 2022-05-10T06:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/business-intelligence-market-trends-forecast-and-industry-analysis-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/60465b83490cdff2f7eddb64a71e08f8aa46470b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "oTFxvvprCI7c8QxfJFwK7dbHdCqqp/n470Y4UfnbNMObCiifR9zFo5S83PYtjZemJVlnBl48PzXyZToluN80g4oAGciAuiirpHLaKl5LMqcVvomnOFvnS+lWNSKkVSEA4DBOB4ajI8wnFfFYuvE20jtUnZUvWrvuTUPCQrbBclaWIWdQoo+M0ryNJm/23qsnf5EZfhHpzHAVmOLUuYoPRfgfLmIP/7+3wD24Pu1DRUl6SfjmC6pU5n4sI18FLSNqmPnAq/qdfcynqYGLsOKflC9AcAqB1MI+cgi/e87NraHD1ipHt1cZ8cO+UNwy42O5cB9L1Y+2fnQJpMjgPM/FqPytgqgcRZ/Z2k/opyrzOmif2aEc2XHK7GqxNEGQNqe2C+RiVljltvKXNAgU24PAsQJo6l7ow5j5BhmQI9uLjZGqn8zts428AT6rdErV0ntnHywdIplmn/FzsuzGDTuGUB1cM5wVu2NA4mZ1pNYlAqGOY+miJxcFIW6+kleEhvVwPtBnmGaB8fw8Xz405chq+A==;ERTprYmEZpPWG8+QlvyxFQ=="
 ---

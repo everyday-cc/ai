@@ -30,15 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "Southwest Airlines is using AI to help attract and retain its customers"
-    excerpt: "CEO Bob Jordan says AI is important \"not because it's hot\" but because \"it can have a business impact.\""
-    publishedDateTime: 2022-05-05T13:32:00Z
-    webUrl: "https://fortune.com/videos/watch/Southwest-Airlines-is-using-AI-to-help-attract-and-retain-its-customers/2e618eb2-0f9e-44de-9ef8-6f74a547bacd"
+  - title: "AI platform to solve the pain of recruitment manual work launched"
+    excerpt: "The time utilized at this phase by recruiters could have been applied to other priorities. This insight inspired MetroCity AI to develop a recruitment platform that solves the pain of long hours spent on CV screening and initial virtual interviews."
+    publishedDateTime: 2022-05-10T06:50:00Z
+    webUrl: "https://www.bworldonline.com/spotlight/2022/05/10/447421/ai-platform-to-solve-the-pain-of-recruitment-manual-work-launched-2/"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 47
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 37
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2022/05/MetroCity-AI-Why-should-we-hire-you-20220425-ver-1-1024x768.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "The Age of Generative AI - Inventing a New Artificial Intelligence"
     excerpt: "What is Generative AI, and how does it work? Generative AI employs artificial intelligence (AI) and machine learning techniques to allow robots to create artificially fresh material. The system does this by using existing text, audio files, movies ..."
     publishedDateTime: 2022-05-06T00:00:00Z

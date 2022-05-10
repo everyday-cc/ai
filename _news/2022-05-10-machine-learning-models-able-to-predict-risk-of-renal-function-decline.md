@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-models-able-
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-models-able-to-predict-risk-of-renal-function-decline"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 480
     height: 278
     isCached: true
-
-related:
-  - title: "Deep learning model to predict adverse drug-drug interactions"
-    excerpt: "The intake of multiple drugs can result in adverse health effects due to unexpected drug-drug interactions (DDIs). Now, researchers have developed a deep learning model that predicts DDIs based on their effects on gene expression."
-    publishedDateTime: 2022-05-05T13:06:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220504092943.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "C8Aon8nacVgI/4iidOGTvdS6nyp2QZh0J//aPcKQt+Y0hKESwGEFEg8Jq5zbYw4vRUr2n5Z0BsphwQeAwQFcfSBUt2au3NXQdJIH7o8nj/FRXsJ3Gb6WIyCq4dEAxCtU/n5sgiEtgA4bJLYoRLweJGomjR23LeSiIg4W+lWb0Goya+s1PaNSLs4hkSwxkGIK8XrVK5xyEoQBARj8eYwWDx9aNgXNies8rnjgPGGj8RIJckGx3iPzmvnyDS3yxMSSlO43ufB/4mtTTGC4KGvQqvxP7GN/IE4W7IxS0YDfNjkJqovqB3fENkjGnUeWai6HWroJYruPb3i/joW2hUwZ7a5VMqBtPyqnK6trEgZrsBQNH6Jb4ZhddOA37Mq0ld5pScQBWUJcngqk6Y4wZdk5aGlndk4aBH6WC1yj4zZzQmfa9MDdzJ/Vaoek6ySUhJd3jCLUc45B1/rwSpmP63a3ni4ooTveINWneU8rShnxFBPWVXGAWQIYQ8aAxHK9yiZpTp1G6PDEEGPMOdk7qXqKFg==;UUTmXQZGZNS59f2mZRi6Ew=="
 ---

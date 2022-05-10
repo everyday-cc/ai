@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Face scanner firm Clearview AI agrees to limits to settle lawsuit"
-excerpt: "The facial recognition startup Clearview AI agreed to restrictions on how businesses can use its database of billions"
-publishedDateTime: 2022-05-09T19:28:00Z
-originalUrl: "https://wsau.com/2022/05/09/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/"
-webUrl: "https://wsau.com/2022/05/09/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/"
+excerpt: "Clearview AI will stop granting paid or free access to its database to most private businesses and individuals."
+publishedDateTime: 2022-05-10T06:35:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/face-scanner-firm-clearview-ai-agrees-to-limits-to-settle-lawsuit/article65400576.ece/amp/"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WSAY
-  domain: wsau.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://media.socastsrm.com/uploads/station/1946/fbShare.png?r=67880"
-    width: 600
-    height: 315
+  - url: "https://www.thehindu.com/incoming/8lbi16/article65400605.ece/alternates/LANDSCAPE_615/CCI_UDHindu_KSL_UL867G8T6_R1564387903_3_690f0c14-7e9e-4561-8d10-350bbfa4b864.jpg"
+    width: 615
+    height: 383
     isCached: true
 
 related:
@@ -130,6 +131,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Face-scanner Clearview agrees to limits in court settlement"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people’s photos without their consent. The company in a legal filing Monday agreed to permanently stop ..."
+    publishedDateTime: 2022-05-10T07:42:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/face-scanner-clearview-agrees-limits-court-settlement-rcna28059"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna28059"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna28059"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 74
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-05/220510-clearview-mb-0828-4ee5e0.jpg"
+        width: 4226
+        height: 2817
+        isCached: true
   - title: "Facial recognition startup Clearview AI agrees to limits in U.S. court settlement"
     excerpt: "The settlement will end a 2-year-old lawsuit brought by the American Civil Liberties Union and other groups over alleged violations of an Illinois digital privacy law"
     publishedDateTime: 2022-05-09T13:35:00Z
@@ -208,6 +225,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Clearview AI – No more controversial facial rec tool for US private companies"
+    excerpt: "Clearview AI reached an agreement for the lawsuit filed against them in Illinois state court two years ago by the ACLU and several other nonprofits The company also agreed to not offer free trials of its software to individual police officers without a ..."
+    publishedDateTime: 2022-05-10T06:46:00Z
+    webUrl: "https://techhq.com/2022/05/clearview-ai-no-more-controversial-facial-rec-tool-for-us-private-companies/"
+    ampWebUrl: "https://techhq.com/amp/2022/05/clearview-ai-no-more-controversial-facial-rec-tool-for-us-private-companies/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/05/clearview-ai-no-more-controversial-facial-rec-tool-for-us-private-companies/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://techhq.com/white.png"
+        width: 614
+        height: 250
+        isCached: true
   - title: "Clearview AI promises not to sell face-recognition database to most US businesses"
     excerpt: "Clearview AI has promised to stop selling its controversial face-recognizing tech to most private US companies in a settlement proposed this week with the ACLU. The New-York-based startup made headlines in 2020 for scraping billions of images from people's public social media pages."
     publishedDateTime: 2022-05-10T01:39:00Z
@@ -251,22 +284,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/34204635424_46f0c0b8b4_c.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Face-scanner Clearview agrees to limits in court settlement"
-    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people’s photos without their consent."
-    publishedDateTime: 2022-05-09T22:10:00Z
-    webUrl: "https://www.ksat.com/business/2022/05/09/face-scanner-clearview-agrees-to-limits-in-court-settlement/"
-    ampWebUrl: "https://www.ksat.com/business/2022/05/09/face-scanner-clearview-agrees-to-limits-in-court-settlement/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2022/05/09/face-scanner-clearview-agrees-to-limits-in-court-settlement/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 44
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/D7VOESIEIBCG5DMYLYC2UNGZIU.jpg?_a=ATAK9d60"
-        width: 700
-        height: 467
         isCached: true
   - title: "Settlement Curbs Firm's Facial Recognition Database In US"
     excerpt: "Startup Clearview AI has agreed to limit access to its controversial facial recognition database in the United States, settling a lawsuit filed by privacy advocates, a court filing showed Monday. The deal,"
@@ -347,6 +364,6 @@ related:
       domain: courthousenews.com
     quality: 4
 
-secured: "oyAKEezHMJcl+gkOMK5M823mlYwmxLgxN+m2yMXXNf6jG3lCo/vrtvH5UMMPfAdBg0dRRzlhRd5HCDbWXmpN/g8FH4lRrFygYPyENbGUP47C54OJGrPpFjQjGybAp/kpI1ddRMisbNJ6hIDf+b4hj3Y4fXRB/iPTxPMUg8/q72Ne8N7u0yY3betVjRjZd1tzhBoQHNbeZOu3jIMJqQ4sl0bwTtkjxXnkCoB3l89YR/cn1r8FoVzvASEoDz0E9vnRm9mOmmf5laVp82YjH99inWEfS+N4amcIUfYlgF+iKfy6+OmJY070RxBocvmFBbxrXJKKddcaafjgyefpnQb+RuKF2F7XnzNw8FoDYFb3jk8=;Kn2B3ZnugNPzY9QsSpYPow=="
+secured: "hEiwr6gCGT9oPEXhu8WnGxGs5KkaGfoUv6aLIwVHqmtfeLJf5y//gmRIxj2XPlLyr/Fp87M0iAp+twha7L5SfqsrZ257foeN4hhiKy3YpxO5D5R1NzlE/XMImTwOhHazOQLSSUIt7X4Gse0a3QjGOSL0rEGuNx1JfOjDeFlWnsJ0APtrJfedlnyCt1l2vismiIKKa2AuZ87D3/bmw92KKun5wdF+xUDzkhIhIyeAgVTApnuVwAmQAavlcrCT71wUUmdokpPOJ9SRmO7Xv8PLuGVOLevs/x43oqpfJVlQdriZq9JiePqklAhR7ixWQteZr8aBdcZfAyPu1tnjaHa1CuyOAiMfnPChlwkQQXD2VSM=;hpaLIonZMZNRlQHsGu/Iaw=="
 ---
 
