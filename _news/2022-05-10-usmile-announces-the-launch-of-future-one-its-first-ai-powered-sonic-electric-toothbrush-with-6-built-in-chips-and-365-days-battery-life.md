@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T14:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-10-usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-10-usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

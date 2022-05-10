@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T19:48:00Z
 originalUrl: "https://menafn.com/1104189852/Quarter4-Adds-WNBA-To-AI-Predictions-Heightening-The-Visibility-Of-Professional-Women-Athletes&source=29"
 webUrl: "https://menafn.com/1104189852/Quarter4-Adds-WNBA-To-AI-Predictions-Heightening-The-Visibility-Of-Professional-Women-Athletes&source=29"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

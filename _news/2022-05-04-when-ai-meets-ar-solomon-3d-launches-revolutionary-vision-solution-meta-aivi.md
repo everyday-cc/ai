@@ -1,26 +1,26 @@
 ---
 category: news
-title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION “META-aivi”"
-excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and enhance ..."
-publishedDateTime: 2022-05-04T14:32:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a"
-webUrl: "https://apnews.com/press-release/PRNewswire/business-937a308ef3cd6bd6eb4b113beec4181a"
+title: "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\""
+excerpt: "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented reality — for companies to scale their production and ..."
+publishedDateTime: 2022-05-04T14:00:00Z
+originalUrl: "https://www.rochesterfirst.com/business/press-releases/cision/20220504HK28756/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/"
+webUrl: "https://www.rochesterfirst.com/business/press-releases/cision/20220504HK28756/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WROC-TV
+  domain: rochesterfirst.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://i0.wp.com/www.rochesterfirst.com/wp-content/uploads/sites/66/2022/05/FSbOVA1WYAEarTT.jpg?w=2000&#038;ssl=1"
+    width: 680
+    height: 383
     isCached: true
 
-secured: "4+X3sZ1GkNOaBgDZOD7x7ia8OtCT2xQk2ngDR/8b++jEN3hCFEfIhdYcPwEcPiUFV7teCTHP/kgN/naFED4VVbc+ObjClD0bcz4SKfKkqpxaTvapeO4xCk72Rml5bfLdklT+gcJKmo5uhNZu48s32T0X5MqgiPFm4KOxz8y/IVZ06VnWonh9sS/IABIJkbwkgOIWVdFN0ypfzXhGMSjmcDN2DuIfmVcNZHzPfueNkhn2wDe6Sur8RGbVXpgJH5OhKPgxL+tgzXAMCK83EIaRj1iz5Yhe+/yYJxHfyyQYKgH+brvMhXu7asqjk310DcXfWYiihnn7Iqe3Lzy3c3JVk3VOKb5mTWRO7mOricM9iaA=;Ji7J5Ft8rgJFVAyS1o72zQ=="
+secured: "l/VouZgqMIeCuhQUdmUwcrwhE1ydbPm8AAIJI6eleCnjFJj6Jebx8lt5RHkDoRoT6ugvIoopXdJEFHaHDguvGaTJ8D5QHKatDfTSxA7Eia0fxkbM4lviLIlk1vzKz7CYZ9ap1MUnJlwGbzX0ke7zipZt52cHIpup1vwzcGUzw4xCMlk3+u7yHTfk7YAVDbzHoxSAYIBE3cyiWrExmyyH3jIbZ46KGSJRVdr/Ff7ZmKCZMDOlCNritLVrS3CWaHRFTlcu/QAhq3o30kweqj0FKA8i+xsuvetR6Yuc19vAcz5ysuyc543+WvsGLjbDxJ6TFCko+TDvC2rHybC2xI9208Smd5VLxawgrxapDB8FRKc=;c4oPiEH0FZcWV4mlwlZkLQ=="
 ---
 

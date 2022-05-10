@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-doubles-ai-chip-power-to-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-doubles-ai-chip-power-to-expand-the-ai-revolution/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Intel debuts new chips for AI workloads, data center acceleration and laptops"
+    excerpt: "Intel Corp. today expanded its product portfolio with several new chips, including an artificial intelligence processor that it promises will provide twice the performance of Nvidia Corp.’s flagship A100 graphics card."
+    publishedDateTime: 2022-05-10T17:57:00Z
+    webUrl: "https://siliconangle.com/2022/05/10/intel-debuts-new-chips-ai-workloads-data-center-acceleration-laptops/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
 
 secured: "8BeRHzvwjhOypoGQiqKMjzC6dEO1uqJR8zTJPGVSRWa0nQtWW5LhcVUFBMxC/dtkRzp8UBKq8vHMpAD4Sbk6S1fkwSaEmJsFTGa0I7HnAEZz3FU/CcphSkDsLa3L8x7LSF4gezbA4+EVnvE6NPNfObTI14jNiekFW2hNWUU6NEs4UUXoBcKGQAG93J99z7XpS+kyA2J+q58sJVqGF6sDmZ2vzhrjKcCZJ5q4IxPkiVYgEv5Qcjc5g9Pt1vFOWD2cV/AIjgdjgNwcrzmL2canlTN2fpBls6pmritbE1s8rw9HwCdHbqWv8H9xO5SHuE9PoDRfvcnDTkm/GyE3dabdAPxeA8Vf2jYh6vfW9qQ64oIXwQk9AYPhshn5pTNS2f51LeDG0XxFgjfm/97vrpRuJ3/mAmshDmsnAT1zBBk3c4SHIYx10/7CghCQVRw1Va6FttfA6pje1Wp4uylBKsfRTCYcTBSC+ZuRjtFMPQyImM8U++9o/vXFlkHryZkWVGD0cnFFNf0i2m7gDRiqHAbMjw==;/FZhExhMBTertMKDTaXdrQ=="
 ---

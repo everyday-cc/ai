@@ -19,6 +19,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "ZgZiBpS1hZMEZeyvU3o02WLw5XFmHfZBlRLo0p6cdcACN3qtZV19tuKuacL9kdfRqOQkqRLVMhvY6bnf8VEpsvwcLXLRr6wn4fEuGDBi0Mnsi/9XNiJwfv4GW9CR68QRK+DBKtgXVJ7xbK2k3cr4kWQpFEmFrSQTOMq+ng9GfDNtmkd1Vxfb+EVgcub/f/vOCacz9vX6Yw2NuZGQ9kI8SEO3WMUSh2IW+KxGjz6KKid3p2bMW5flkUwOoOZQ5L/xptB5E+liB98gBXPwTi5pXqNvPRMIxCzQluQrYCqjQZzGRVkblgjW/5hQo4FiFZpoXWOY5FpZNbBtrpKpSAhLVsnGnrFWuNudfSgctmwXsEg=;MGaEJ+uEo9/MkptzgQGB8A=="
+images:
+  - url: "https://mma.prnewswire.com/media/1804822/Tomahawk_Robotics_KxM_and_MxC.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "OcoJFA3Ek+Z3IoGn/iXcXkDzGlNbpDf+iQY0bl86wMth2074iUfX7SgczrYUH59PAYmWw078osSG1OC+BCpl5iYEuHUMfvNgoB/N9ASFIF37c8ZxB92SlcqHjXUbadq7r4mZQhC7WHEmkdrPDVNGETCYu6SVjiD3VgSc/hp1IgqR7yscIWQWHXESz+zGR0ZO7slTiirD/nLJUxMtmoZV9pB9ee+h7giWysR6DXNkbZsOFmSYndnq9uR2so7AHIRIFMMQOvHF7+HaBPsFgHdZoZBHdWyhHb6A/Q0kK9XeqtKbQoeMRy8OGCvno2VlGN+nkP3pYwugNbluwdPhLZCzEudlK855gWZ7XYw3Mj8IcoI=;xleUe5XE84o/M0hlvx09tQ=="
 ---
 

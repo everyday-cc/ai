@@ -5,7 +5,12 @@ excerpt: "Nvidia is not the only company that has created specialized compute un
 publishedDateTime: 2022-05-10T19:38:00Z
 originalUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/"
 webUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/"
+ampWebUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/"
+cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/"
 type: article
+quality: 76
+heat: -1
+published: false
 
 provider:
   name: The Next Platform
@@ -14,7 +19,32 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
-secured: "oWpQ/l+oYM+4+MvBCeWEPuG+GhNyYRup4rt5tNq/YY698gtWzjM3ZTN0HytGD8eX6dIyDCc811dAWpBdZ9mPY19REFJmYhArt7Aj19WeD0Z+g3ppdNJqpptg9xYhuNU+R4E5Ln/VJIYaaHEauafU+FPgWAcQcRFnFdGoSWqAtc0gMHegtvMUDwQuVStgnrZgMrvlJ8SVYjf61rDALAu79Y8hos7FjdjYl36f/4O/BqX6SM41bxiU3UaD682a5/4784qzvtNKvifY3Gz0wCR3HGX+z0LB40n+0TBaqJIK8bXbS0rIPAoFMhsVDDa927fBuBxfavkJFrcBs8NJHhN8qbvcUC59s0EppfkGK+9TaYIZ8JTRwVEIunf/Bgk5oZpnqmez3Qa0jKnepRNNnsEiI9NJHSr5xoynFtwfRGd1sg14jHNHR7F66saasAaCjbkgs0AfA11RKXSHGOEEX1NpSIl7CZ02qoEWzqWmwV4CxE/MMayZ7JntTiq/gLV+qZ1SjAKeEE4k1alNf5+wzXn4vQ==;RbMuPxAi6zO5S4+APhGyNA=="
+images:
+  - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg"
+    width: 709
+    height: 428
+    isCached: true
+
+related:
+  - title: "Tested: Arc A370M, Intel’s first discrete GPU to seriously battle Nvidia and AMD"
+    excerpt: "We visited Intel to test Arc A370M, its debut discrete graphics for mainstream laptops. It holds its own against the RTX 3050 and pulls far ahead in tasks that lean on Intel's \"Deep Link\" special sauce."
+    publishedDateTime: 2022-05-09T10:45:00Z
+    webUrl: "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html"
+    ampWebUrl: "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 84
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2022/05/intel-arc-graphics.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "xfOMIa3DOluR0FlaCwxhdSVqkxEetB14wD+gCY87PYYPwa4p5EZ+hHEMvBBqjk/zIBAyUMocB8aGB6bz0+j52JnJywfi0u1pbb+74CoXT0M45ZbW6BFKtHPhfyVotDszYAfc+Jg9pS0pPczlz+8VfV2Oq1uPzCYCDOicYrLDrIlE0QfdFjBNPjX3goESaA3OopWy3Qrl/sd8fzycbXZ+ejiMeKqfIdMJY1iC2yNw4Xr+jh2+mtCA5ydFte+DQHgLU2qsZvqFxrG/FojWmCYn7Y/XTvKWV6wmxXpEOI+32rNUpHMSV+z9AshEVmd1Y/tjVrtYYjSM7iLaagKlq+091OOXyuGvxsbuKzsHEGNqORA=;zCwj1qDGrFINSagfy81rKg=="
 ---
 

@@ -25,22 +25,6 @@ images:
     height: 448
     isCached: true
 
-related:
-  - title: "Fluoroscopy Equipment Market to Grow at a CAGR of 4.7% During the Assessment Period 2017 to 2022"
-    excerpt: "COVID-19 Analysis on the Global Fluoroscopy Equipment Market A recent market research report on the Fluoroscopy Equipment market published by Fact.MR is"
-    publishedDateTime: 2022-05-06T02:27:00Z
-    webUrl: "https://www.digitaljournal.com/pr/fluoroscopy-equipment-market-to-grow-at-a-cagr-of-4-7-during-the-assessment-period-2017-to-2022"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
-    images:
-      - url: "https://www.factmr.com/images/reports/fluoroscopy-equipment-market.jpg"
-        width: 620
-        height: 500
-        isCached: true
-
 secured: "6/yEC2YD/RdSz+2fFd/aGgzArr4u9JXfr+DTlrgbAOFMwI7RL4YUmcfcgog1X0uw1tD8gs6DkASsSfavBuenydWHMmO6uItiNNFPTor97zE6fzc9YY+rdbjaFq3XItohOsWOykDDK8AJTKgigkOlEuL8dEqRtasRiFahQvZKanecZ9cYmAFeARets7zsrqX4T3NdFG4ua68feQpF3ldKTohpVxAbKS+YqSfZAAnyj1J0Q+SfKR64/YLyU3/a1RoMaG2fzMzrrnWcUY4hNnktlZIqWqgB0xpsYRfo23PRNlkKT/xQmJB741Q/9n9ox8hUnuqAxu/oklj8xQf+6HRpjVCU/BdWfZ8KwaxsGziXFII=;sil5mDu6oowLNQfwryKXlg=="
 ---
 

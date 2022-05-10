@@ -3,18 +3,22 @@ category: news
 title: "Is it fair for fantasy football managers to rely on AI?"
 excerpt: "More than nine million people play the Premier League's official fantasy football game Like millions of other people, Alice Simpson loves playing fantasy football. Every season she picks a team of real-life players from England's Premier League,"
 publishedDateTime: 2022-05-08T22:49:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-61257368"
-webUrl: "https://www.bbc.co.uk/news/business-61257368"
-ampWebUrl: "https://www.bbc.co.uk/news/business-61257368.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-61257368.amp"
+originalUrl: "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.com/news/business-61257368.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61257368.amp"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -25,6 +29,6 @@ images:
     height: 576
     isCached: true
 
-secured: "ULevssHhYKH6Podfki1DP/TWEm1DKo43Hsg/WCjyjGPeY32dOsK/0oGzUX6nB7g/2ZTietiQLWOwc3rrzysrELPM9Y0Came0AMXkfQlHCJVxo6qi31Uh59FV59ZLfJM4iWnREn2BPsC0DJXoJlp+PRnbRV3dmAnu5uJJtz0yAhABvOrHpOoyDeiivv3HNRv2PoSxNQu4XUFcHsp9ynV9k2acBhoag0m8H2HTdBg7x0buFDPdmHCt84LByUJlF9FSOBuKflbxjPfk3WJm4R/5ULYfpp0z/TYH9ZtsxzaJQW4en28aGt90HhYbmxOTP7CNwR+bXl0XgyauPYfmq6qd9naxt98E5R7OOfuEXBfDMCtuBuutScK4dD6su8UD7wlEEBN9ddrjhE7vJY/Dq3QUMGR0ZRYXWr1V9yO5vSXBjQ6LjFBqWzVXcPEUXCNyae90pJYq+Ca/BRspbPcZfa97uGyPI6IqUpTg8P53WdcEv6jaxdJZru3U9LMKqIUglwIY8nrIsod5xGivLDpNbNuswQ==;mgCcO+1H0FPLEu+qZd884g=="
+secured: "4LB6w39zxL88Xigfkg3jGuR5glc9AUat+fimuADlTUKt9jLv9wILCuGuNJJNRe3wFaE6pzY3LF5hoLgggJCcK/Gduywirj8pLCSgUf5OFLtXXLZoMFzb2NCyHTy7IGytpTjmb80k4dN0xAHRtx858WhGwIVtQw3jioh35aPB/lRtGHt9hiE/+d7a1oCQeFyBWaA1eRUh7yN/XP7LF4qC2erSldDb/DVHmyG8C/GUPGTASJ3CKFsHlSPPj9S+/7rQsx9q67C7u57RJ6KPbZRK4JAkaSZF1GCOAXYGuoblvy6qp4VR2zXloDWzsqimhInXrREC6y6V2uAPaDIIuswmwByLVRPiRF/8UQ/ZP5SIYLA=;P7BdEWyvxt+rDsefjIoh9Q=="
 ---
 

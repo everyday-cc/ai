@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/698534/tested-intels-arc-a370m-lapto
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html/amp"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs"
+    excerpt: "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI"
+    publishedDateTime: 2022-05-10T19:38:00Z
+    webUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/"
+    ampWebUrl: "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 76
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg"
+        width: 709
+        height: 428
+        isCached: true
 
 secured: "wmwXv2llHk4VeEZQzt6tgMMkpka7SACByAU2oAOuIs2EaC1o2ixIyi2BFSiylcxq75UE07DSbyQggpbbO7VX/NrT9N0n8+oDlKcYleXn6+OFZ1XYgTy07jwhC6DhvpAlpOhSThtqgGObFrjfDkusrAUahmZwqjhPCZAC1fnOSOfscyJ5DC3YF8QtejXXO/R9Pxyw2UQusSkQiq7tjBYnJJD/o7DpoxYnWJLeLMfgrNsQPTkBktSxXXgpr+AqgHMyPpsF82hBmZNzrLTCjNNDzAvS2WVhWb+E++z9XG0B7GhPgjvqPZoem8PRwyfne8i7XXBkt932xdV2PBcqNY2T/XtdGniYhff93AYh+GJLeuMSZmuFD7J2zChfXx6r81+iR3ObLBZWgS43HHpaUl5iTBu4+AGLyHeFHBir5eATdfMcq487mhLw5Yj7cCkKNeiZEG+TmLZCzf6BO94pbtC4+zW1OENUSZiSvjFPbZov5JAOw02yR0LGHhirNOdFIPIqfe3VPFdiyUn8rppBLaQOxg==;bi1qaEAp9+WEJg62Dv31Ag=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T18:56:00Z
 originalUrl: "https://www.digitaljournal.com/business/qa-artificial-intelligence-and-how-it-shapes-investment-decisions/article"
 webUrl: "https://www.digitaljournal.com/business/qa-artificial-intelligence-and-how-it-shapes-investment-decisions/article"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Digital Journal

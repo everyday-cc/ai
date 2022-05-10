@@ -3,17 +3,28 @@ category: news
 title: "Artificial intelligence helps decode sounds of the animal kingdom"
 excerpt: "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human."
 publishedDateTime: 2022-05-06T13:37:00Z
-originalUrl: "https://www.ksby.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
-webUrl: "https://www.ksby.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+originalUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+webUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom"
+ampWebUrl: "https://www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
+cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
-  name: KSBY 6
-  domain: ksby.com
+  name: WXYZ Detroit
+  domain: wxyz.com
 
 topics:
   - AI
 
-secured: "bWtBEOFv10SFQJnlsx2dlF8dv3EleHec+x3Qo0APchW6stBlJWoZGhIfpUHKWKetMLH+ki9x6s47MGgBmR6rzLIjieqKHlP/u7R/CKSu5wlWu75ONm5b27BAMate42jOWoaVnMI6qiCwXshOaQBTK5JXNGBkpxJA81d6RZvsMlX/tBsLzMv2HcBIvTW+0NHYmSZnN9OzqxSWjQ8ShxqkhTMnX+bGDgta07jA8v6r4ygoUldJJalmqCpH6rMS0YgedrVRJE9Tnqzco73IE57xfFE7WNQc23Dmiyk+MX5+1JwbshXBVGo0h5YM4txldooSP+YXImog893o4PQCYXPXg4Y0N037jdrcAC5/Iyihl3+RweXvXCg87ZmVOX2omFqUrBC3F3wSNRnEQo5KEPS2Dqz9rWY2GQBpyPVy1Nvci5Wgo5PFmSUce7laKL363qDg3Wv5sz5QaInlbAGSAfhpNo80/CuwCGYzSvzrdjSWYQWSEXlmSbaIqoqYo8ZOYjlAIIq163NGPdkWLsxTAbSTbA==;ckr0stnwKlY2AyHMMdjXCg=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/5752abc/2147483647/strip/true/crop/900x506+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F97%2F14%2Fc5200d774c06abf9d29172df0431%2Funderstanding-animal-sounds.jpeg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "+bgpnjeaOf1FEi6bd+c87NXQUtR2uv6SiHC/ildd9Sy0XCT3l1dRlMSd7XzYK57GcRzEwyEb30Lay+Cy5k0Dvbua3kLN0Qnk+Z5+IrHgKzZSOPlayzE+gWLLeryXUxyk67rV3gT2QgsYijkb6x886QOJPOammtpU1Mk+Y82QN9W/qaM0MvZEfMxUEQnCPGE6vRubLUjIDmc+MIruThUeEK8zynwS6lO7wTujhp4cN8Y7OD6RxGeyUqU2RHQgwLrzhhliBrdLTPmYSNpYa0xX+Tor0pS5kHC2lqKpVj9PTuXT371eZv+ISxSyA1SaZ0RlwQbyouvR3s62zdvcMxiLnzWV6yTPPdFxqfkOYmRKJK4=;9xHwwnrzHCAZIKqfeTfx9g=="
 ---
 

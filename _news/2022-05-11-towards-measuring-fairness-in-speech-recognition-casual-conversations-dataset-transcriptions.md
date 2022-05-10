@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T18:38:00Z
 originalUrl: "https://ieeexplore.ieee.org/document/9747501/"
 webUrl: "https://ieeexplore.ieee.org/document/9747501/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: IEEE

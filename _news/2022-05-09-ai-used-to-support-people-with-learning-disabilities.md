@@ -33,6 +33,15 @@ related:
         width: 824
         height: 354
         isCached: true
+  - title: "Banking on the digitisation of healthcare: what the industry can learn from financial services?"
+    excerpt: "Sales Engineering, InterSystems As the healthcare industry continues on its digital transformation (DT) journey – which has only accelerated since the start of the pandemic – there is a lot it can learn from other sectors that have trodden a similar path."
+    publishedDateTime: 2022-05-10T18:46:00Z
+    webUrl: "https://www.globalbankingandfinance.com/banking-on-the-digitisation-of-healthcare-what-the-industry-can-learn-from-financial-services/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 24
 
 secured: "HS75nfy2ccH9Rund5gXMKG3bOoNo4YVR261AUINKILPSkFt+rMSFpQr1qj5+0Fovx1ct5NQTontoxkM0LyrxaQ7/qJxracICLwUke73Y7IPQeAe5CkK8SsrN+phB1u/PHD0oXsZcRnEQlByLx/emrtezCTTnsIz6JZvzXXP3EL7UYj8fHe5uGlxn1DbhBRbFoKcI/NqkoJG9vNHnk1afG+WtUPJkFsZGDUprR2RYvs35P2y5e8Ze6sHeFoXwCN2D1Q5VgGzQShik5AUGpymy52oz9aGGiB8PS2ra7U+c4k6H4B2zs8bgqvwcGtsDI5ziFTIMfUdHLcOfH0HptH7yxji7bGZl3Z7gxdALC1seMtE=;8cjtlmHAQ7erjR9JlJsmkg=="
 ---

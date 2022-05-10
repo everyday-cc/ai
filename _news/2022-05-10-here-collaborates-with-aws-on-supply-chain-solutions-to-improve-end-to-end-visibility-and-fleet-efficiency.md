@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T14:01:00Z
 originalUrl: "https://www.wiproud.com/business/press-releases/globenewswire/1000632239/here-collaborates-with-aws-on-supply-chain-solutions-to-improve-end-to-end-visibility-and-fleet-efficiency/"
 webUrl: "https://www.wiproud.com/business/press-releases/globenewswire/1000632239/here-collaborates-with-aws-on-supply-chain-solutions-to-improve-end-to-end-visibility-and-fleet-efficiency/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: WLAX

@@ -39,6 +39,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market Analysis, Share, Growth, Trends, Top Key Players and Regional Forecast"
+    excerpt: "Global Artificial Intelligence (AI) in Medical Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Artificial Intelligence (AI) in Medical Market Report also covers top key players,"
+    publishedDateTime: 2022-05-10T18:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Artificial Intelligence in Medicine Market Emerging Trends and Competitive Landscape Forecast to 2031"
     excerpt: "The solutions offered by the service providers and players functional within the artificial intelligence in medicine market are used by medical"
     publishedDateTime: 2022-05-10T08:40:00Z
@@ -67,6 +76,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Self Contained Breathing Apparatus (SCBA) Market Size Global Industry Analysis, Segments, Top Key Players, Drivers and Trends to 2025"
+    excerpt: "Self Contained Breathing Apparatus (SCBA) Market” Research Report 2020-2025 provides key analysis on the market status of the Organ Transplantation manufacturers with best facts and figures, meaning,"
+    publishedDateTime: 2022-05-10T18:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-size-global-industry-analysis-segments-top-key-players-drivers-and-trends-to-2025-2022-05-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
   - title: "Emotion Detection and Recognition Market"
     excerpt: "Moreover, technological advancements are expected to assist the global emotion detection and recognition market growth during the forecast period. Furthermore, expansion in research and development capabilities in speech-based emotion detection systems and ..."
     publishedDateTime: 2022-05-09T15:17:00Z

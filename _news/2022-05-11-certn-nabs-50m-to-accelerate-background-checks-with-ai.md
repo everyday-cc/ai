@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T19:03:00Z
 originalUrl: "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/"
 webUrl: "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

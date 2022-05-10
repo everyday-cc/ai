@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "MU researcher uses AI for studying large amounts of biological data"
+    excerpt: "MU researchers are using artificial intelligence to analyze large amounts of biological data for developing new drug therapies to treat cancer and other diseases.  Graph neural network is the type of artificial intelligence researchers are using to analyze data generated from studying protein dynamics,"
+    publishedDateTime: 2022-05-10T20:15:00Z
+    webUrl: "https://www.columbiamissourian.com/news/local/mu-researcher-uses-ai-for-studying-large-amounts-of-biological-data/article_9f0016f6-d08f-11ec-926e-ef368c8b299c.html"
+    type: article
+    provider:
+      name: Columbia Missourian
+      domain: columbiamissourian.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/custom/image/534fa760-58f5-11e7-b050-17475a79ed89.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Why Did Google Fire Another AI Researcher?"
     excerpt: "Google has recently fired machine learning scientist Satrajit Chatterjee after he and his team put questions over Google’s research paper. According to The New York Times, Satrajit and the team challenged Google’s research paper about the usage and the testing of artificial intelligence in making computer chips."
     publishedDateTime: 2022-05-06T07:49:00Z

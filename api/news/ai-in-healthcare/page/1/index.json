@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-10-new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability.md",
+      "title": "New AI study looks to improve healthcare of people with a learning disability",
+      "excerpt": "are using It aims to use machine learning to better understand the interaction between long-term conditions in people with learning disabilities and their care needs so as to provide effective joined-up care between health and social services. About one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.learningdisabilitytoday.co.uk/new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability",
+      "originalUrl": "https://www.learningdisabilitytoday.co.uk/new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.learningdisabilitytoday.co.uk/media/39199/health-technology-primary.jpg",
+          "width": 824,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "learningdisabilitytoday.co.uk",
+        "domain": "learningdisabilitytoday.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-08-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence industry is expected to grow to $554 billion in total revenue by 2024, according to market research firm IDC.",
@@ -388,19 +433,19 @@
     {
       "path": "_news/2022-05-03-empowerly-launches-artificial-intelligence-scholar-program-for-junior-high-and-high-school-students.md",
       "title": "Empowerly Launches Artificial Intelligence Scholar Program for Junior High and High School Students",
-      "excerpt": "Students can choose from a variety of research tracks, including healthcare and biology ... https://www.prnewswire.com/news-releases/empowerly-launches-artificial-intelligence-scholar-program-for-junior-high-and-high-school-students-301538404.html SOURCE ...",
+      "excerpt": "today announced the launch of its Artificial Intelligence (AI) Scholar Program. Developed by Stanford and MIT alumni, the Program was created as a way to empower students from grades 7 through 12 to learn how to apply AI to build socially-impactful projects.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/college-admissions-technology-education-artificial-intelligence-9fb2188997d5cb7cae2de5728cc39a1e",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/college-admissions-technology-education-artificial-intelligence-9fb2188997d5cb7cae2de5728cc39a1e",
+      "webUrl": "https://www.tmcnet.com/usubmit/-empowerly-launches-artificial-intelligence-scholar-program-junior-high-/2022/05/03/9594380.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-empowerly-launches-artificial-intelligence-scholar-program-junior-high-/2022/05/03/9594380.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/1741680/Empowerly_Logo.jpg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -410,11 +455,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T06:52:00-07:00",
+      "publishedDateTime": "2022-05-03T06:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1326,49 +1371,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-opinion-artificial-intelligence-should-be-embraced.md",
-      "title": "Opinion: Artificial intelligence should be embraced",
-      "excerpt": "John McCarthy, who coined the term artificial intelligence (AI) in 1955, defined AI as “the science and engineering of making intelligent machines.” As these intelligent machines develop, people should embrace their emergence.",
-      "sourceUrl": null,
-      "webUrl": "https://scotscoop.com/opinion-artificial-intelligence-should-be-embraced/",
-      "originalUrl": "https://scotscoop.com/opinion-artificial-intelligence-should-be-embraced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scotscoop.com/wp-content/uploads/2022/04/Artificial_Intelligence__AI__Machine_Learning_-_30212411048.jpg",
-          "width": 750,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carlmont High Scot Scoop",
-        "domain": "scotscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

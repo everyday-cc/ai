@@ -38,6 +38,20 @@ related:
         width: 880
         height: 495
         isCached: true
+  - title: "SECU To Deploy Scienaptic’s AI-Powered Credit Decisioning Platform"
+    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that SECU (State Employees’ Credit Union of Maryland) is planning to implement its AI-powered credit decisioning platform. The deployment, scheduled for later this year ..."
+    publishedDateTime: 2022-05-10T21:59:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/secu-deploy-scienaptics-ai-powered-credit-decisioning-platform"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 37
+    images:
+      - url: "https://financialit.net/sites/default/files/scienaptic_24.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Levo Credit Union Deploys Scienaptic’s AI-Powered Credit Decision Platform To Enhance Loan Approvals"
     excerpt: "Early results indicate potential for 42% more auto-approvals for auto loans and 45% more auto-approvals for unsecured loans Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Levo Credit Union,"
     publishedDateTime: 2022-05-09T17:13:00Z

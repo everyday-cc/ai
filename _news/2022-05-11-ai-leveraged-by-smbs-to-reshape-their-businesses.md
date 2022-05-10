@@ -2,19 +2,28 @@
 category: news
 title: "AI Leveraged by SMBs to Reshape Their Businesses"
 excerpt: "AI-based software applications, such as Microsoft Azure, have made cloud-based information available to the entire organization, which means spontaneous innovation can happen faster. When a company can work more effectively, the speed of innovation ..."
-publishedDateTime: 2022-05-10T19:52:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses"
+publishedDateTime: 2022-05-10T17:56:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ai-leveraged-by-smbs-to-reshape-their-businesses"
+webUrl: "https://www.digitaljournal.com/pr/ai-leveraged-by-smbs-to-reshape-their-businesses"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "udwtC04yw/y7NZJfUvkFxaw9R4L5R2+uoPCno1SsnBTnp5+Z0r7QcOZh4en1yklLXOykaNMrhfXasgYMwWEVHZGR4ei5Ai0NLC/rRGzQ0JNU4m2+CNja5cgCuhu1+a86xPs0V6xBjK7mhWcamdM5FAcAamRNdd1V52oIMj4RcgZguAUCCvS92OlsNgGUh5LqMCv9GfOFImnMCTZqJPTp4Mq8H762Ln+5rxKSNMy0Fp9d8+lci00aA/4WXPCXmSttFV934vvHEuntlbHMSEOjKDhziyth1/UZ69qbILrmgKF/vRUrPnGER+JboCDZdGj3RdbroAK4szH4glizmzCUPSIkOjkMvMqXeUj1hjzRsxE=;zznVoqrNfjGADxOk/Fnljg=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6b0c42e67d28d69fffc9e5c529c22b1e6436d7f8-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "OoM7k5TrwAXU1+gqFcng91OkzC4TbsoO5AHUAX4HxxjcqMfMsfiDTkTjNZuppG1TvRToZ8+HtSs99zoZFJeKl+I0nzhhwJgwR182UimrlmImzFcjF1auaRIBlANRfn7OxggSise7m4r598ZgGlP5jg74RoWBDlwS+yMBkdEsHxLVn+OYE2EmglWb1fFeXo80f/xFDEkBw44ntcGOy6xBElcCSjrld+km8BU8V/H/BRo8pHZ+6LU4F2eAhL0t2hsgJ9O0P1fZ4hiO0UqlJfcdg/eZTk09B7/boZNa3B9ZxQmOce8ms24EqTjvyQ7uH51c7dn7hCEWZqXvpV5bmF0u5P/H+kYYuBmrjiMVr7AIn3M=;oZj7vWVoUaLrmLZmsU3gLA=="
 ---
 

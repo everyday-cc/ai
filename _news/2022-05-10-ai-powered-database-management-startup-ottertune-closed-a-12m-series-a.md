@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T16:59:00Z
 originalUrl: "https://technical.ly/startups/ottertune-series-a/"
 webUrl: "https://technical.ly/startups/ottertune-series-a/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Technical

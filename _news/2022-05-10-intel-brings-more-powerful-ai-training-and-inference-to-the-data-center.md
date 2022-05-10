@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Intel debuts new chips for AI workloads, data center acceleration and laptops"
+    excerpt: "Intel Corp. today expanded its product portfolio with several new chips, including an artificial intelligence processor that it promises will provide twice the performance of Nvidia Corp.’s flagship A100 graphics card."
+    publishedDateTime: 2022-05-10T17:57:00Z
+    webUrl: "https://siliconangle.com/2022/05/10/intel-debuts-new-chips-ai-workloads-data-center-acceleration-laptops/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
 
 secured: "G/d6N81IWPnFIodFb5GfhxEm7UkojBJafFU/FTm7GC8BUvc4X/b2PjESyrl/9MDsn83DdCFBp3uLQ8YUtwoA4X1RvoDD1fydBlVWL55tpxYc3IZVHN1J2vL1VU6ljzW6SF1ntTQYvogCp2BIJPwTP/qqGUl4rzbWJcQDZOFPJrwa13ut1yycLsB6pS5/TrOxb9g9WSCVGseDhjCzbvFU3esip8Bweux0KTR/42RKTFc1kF4Osjpa/bKbkVXYSi2kBIiNR4/3CStSa1nPbbdi9Q0TUmD4o2JBncncqzhMVAgKVWl3cBSgoDIeqxWIwCGmw7rZxuy4aExtMl0CNQjXqB5xK2W4ygTmGxtXGms4utf9FMfK9yeY5MVLkzXwe+o8AmXK9HCopxJP3lNo5gDN1ImEmk38l/pOOSkvQkb6bvIOUDFWRWHsoXd1jGiAF4ym3OPCPXSc65KWuiI1RymgdmCa+ophj+5+xS5XdT1z7Mf7IdHhPqF+T+bP2jfJ/Lensa6xoNh7D3EhvDKxsilJtg==;dtQZUCeqxfkAm8voSASF1w=="
 ---

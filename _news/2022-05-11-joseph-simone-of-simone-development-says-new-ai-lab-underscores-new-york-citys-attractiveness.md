@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T18:46:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/p27119255/joseph-simone-of-simone-development-says-new-ai-lab-underscores-new-york-citys-attractiveness"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/p27119255/joseph-simone-of-simone-development-says-new-ai-lab-underscores-new-york-citys-attractiveness"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Benzinga.com

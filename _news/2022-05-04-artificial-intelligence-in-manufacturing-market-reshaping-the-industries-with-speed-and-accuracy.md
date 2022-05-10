@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - AI in Autos
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russia-jail-fake-army-news-AFP-1K-02-600x337.jpg"

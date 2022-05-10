@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T19:33:00Z
 originalUrl: "https://venturebeat.com/2022/05/10/rising-ai-adoption-is-also-enabling-sustainability-new-ibm-research-finds/"
 webUrl: "https://venturebeat.com/2022/05/10/rising-ai-adoption-is-also-enabling-sustainability-new-ibm-research-finds/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: VentureBeat

@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-10T16:35:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
 webUrl: "https://www.digitaljournal.com/pr/ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices"
 type: article
-quality: 29
-heat: 29
+quality: 46
+heat: 46
 published: false
 
 provider:

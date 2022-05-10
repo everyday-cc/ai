@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "CareDx, Inc (CDNA) CEO Reg Seeto on Q1 2022 Results - Earnings Call Transcript"
-    excerpt: "Q1 2022 Earnings Conference Call May 05, 2022, 04:30 PM ET Company Participants Ian Cooney - VP of IR Reg Seeto - CEO Ankur Dhingra - CFO Conference"
-    publishedDateTime: 2022-05-06T02:50:00Z
-    webUrl: "https://seekingalpha.com/article/4507670-caredx-inc-cdna-ceo-reg-seeto-on-q1-2022-results-earnings-call-transcript"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4507670-caredx-inc-cdna-ceo-reg-seeto-on-q1-2022-results-earnings-call-transcript"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4507670-caredx-inc-cdna-ceo-reg-seeto-on-q1-2022-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 40
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "BigBear.ai (NYSE:BBAI) Downgraded to Sell at Zacks Investment Research"
     excerpt: "BigBear.ai (NYSE:BBAI – Get Rating) was downgraded by Zacks Investment Research from a “hold” rating to a “sell” rating in a research note issued on Monday, Zacks.com reports. According to Zacks, “BigBear."
     publishedDateTime: 2022-05-09T21:36:00Z

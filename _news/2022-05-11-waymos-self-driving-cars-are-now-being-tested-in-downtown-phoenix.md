@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T18:10:00Z
 originalUrl: "https://www.azfamily.com/2022/05/10/waymos-self-driving-cars-are-now-being-tested-downtown-phoenix/"
 webUrl: "https://www.azfamily.com/2022/05/10/waymos-self-driving-cars-are-now-being-tested-downtown-phoenix/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AZFamily

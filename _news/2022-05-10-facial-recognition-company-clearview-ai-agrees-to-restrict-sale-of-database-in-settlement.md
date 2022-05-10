@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/news/clearview-settlement-aclu-law-enforcement-
 ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
 type: article
-quality: 67
+quality: 65
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/09/77168b00-64e5-4eb8-8109-99edd1348887/thumbnail/1200x630/8fe71faeabdf7becf56abe37411266d7/clearview-ai.jpg"
@@ -149,6 +148,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Controversial facial recognition company Clearview AI banned from selling face database to private US businesses"
+    excerpt: "The facial recognition company Clearview AI is now banned from selling its tech to private US businesses, per a settlement agreement filed Monday."
+    publishedDateTime: 2022-05-09T20:47:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-facial-recognition-lawsuit-us-businesses-private-companies-2022-05"
+    ampWebUrl: "https://www.businessinsider.com/clearview-ai-facial-recognition-lawsuit-us-businesses-private-companies-2022-05?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-facial-recognition-lawsuit-us-businesses-private-companies-2022-05?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/627972c494a2c10018eea591?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Face-scanner Clearview agrees to limits in court settlement"
     excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people’s photos without their consent. The company in a legal filing Monday agreed to permanently stop ..."
     publishedDateTime: 2022-05-10T07:42:00Z
@@ -258,6 +273,20 @@ related:
       - url: "https://www.thehindu.com/incoming/8lbi16/article65400605.ece/alternates/LANDSCAPE_615/CCI_UDHindu_KSL_UL867G8T6_R1564387903_3_690f0c14-7e9e-4561-8d10-350bbfa4b864.jpg"
         width: 615
         height: 383
+        isCached: true
+  - title: "Clearview AI settles lawsuit over facial recognition privacy"
+    excerpt: "Monday settled a lawsuit brought by the American Civil Liberties Union (ACLU). The ACLU alleged 'that Clearview repeatedly violated the Illinois Biometric Information"
+    publishedDateTime: 2022-05-10T16:50:00Z
+    webUrl: "https://www.jurist.org/news/2022/05/clearview-ai-settles-lawsuit-over-facial-recognition-privacy/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 56
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/01/artificial_intelligence_1643478423.jpg"
+        width: 1280
+        height: 888
         isCached: true
   - title: "Clearview AI to stop selling facial recognition tool to private firms"
     excerpt: "The facial recognition company Clearview AI will be banned from working with private companies ... including a $650 million settlement from Facebook related to its facial recognition use. The U.S. has no federal facial recognition law, even though the ..."
@@ -393,6 +422,24 @@ related:
       name: Khaleej Times
       domain: khaleejtimes.com
     quality: 33
+  - title: "Illinois privacy law thwarts Clearview AI's controversial facial recognition tool"
+    excerpt: "A privacy law in Illinois is causing headaches for some major tech firms that want to use facial recognition technology. A controversial New York startup is the latest company to find itself on the wrong side of a court ruling involving the law."
+    publishedDateTime: 2022-05-10T18:43:00Z
+    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2022/05/10/clearview-ai-illinois-biometric-privacy-law.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
+  - title: "Facial recognition company Clearview AI permanently banned from selling data to private companies"
+    excerpt: "Facial recognition surveillance company Clearview AI has permanently ... Deputy Director of the ACLU Speech, Privacy, and Technology Project, said in a statement . \"Clearview can no longer treat people’s unique biometric identifiers as an ..."
+    publishedDateTime: 2022-05-10T19:40:00Z
+    webUrl: "https://www.euronews.com/next/2022/05/10/facial-recognition-company-clearview-ai-permanently-banned-from-selling-data-to-private-co"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 23
   - title: "In Big Win, Settlement Ensures Clearview AI Complies With Groundbreaking Illinois Biometric Privacy Law"
     excerpt: "Under a legal settlement filed in court today, Clearview AI — a secretive face surveillance company claiming to have captured more than 10 billion faceprints from peoples’ online photos across the globe — has agreed to a new set of restrictions that ensure the company is in alignment with the Illinois Biometric Information Privacy Act (BIPA),"
     publishedDateTime: 2022-05-09T17:47:00Z
@@ -426,6 +473,6 @@ related:
       domain: courthousenews.com
     quality: 4
 
-secured: "/5FsnlXyEq549VOpW2yy8kMHJ/+d5FXIV+tdRlOrL3RqWdXiaQkJ4+88oFfV5k7s8l/W98BzxFruhtpzElJrxqMdNcdtA7B93Iz7xNC9o0myrPKJwGpgIi7+hcENYO50dy2iKhi1Dm1T/IQeyvUIKRcdqIYiT8T3as+F0SInvsuJJln6Qx7sznXzMHV3ab1xIhR/pckaeSNkti28kSzkfUxRARlq8ITQ13HJsA7lkltXeUzmpuW5XX0vTspBnyECfBacXcD+SowqoktIvdRR/wu2+KHqPfIdSStDAcVol1ARvW6MQ3w6KgqsXlM0F4DA3p3qJq48BBFVTg3Q5MlN6wORNT2Y6/5UL5rwHH7UdQhQfi1qvXyzIcX1o1Em4M4E3rxorm5ucag2nMZKfx6QFwH9UJh17MEAo6xGGh7k4z/5qW4dFXbDomOQpjv+kbOzajXiLNR4qdKLX3DuW5aQWBzVGTXfoweL+O5BEOhCodHK6WBfwcaxQUdyPVtEH2CHm48kLOGLdT5iogw7O3WH1g==;lad3DOAkrG9MH9kq+qr+iA=="
+secured: "lwQrOJU4QergbcLztQ6ZKpYmRax2tH7vZok373a/9xU8JeT8qAT/OA8x6eqoRtrAkPxCmLIYZN9uNMy+vP4NHDXKMX4Jju4UyFuo//B/E9tav66JpxeRWQXDttViHVCKZjMyZkQLh25txV4mlLQWOovnyMe8W+1Qu1JdVbMXerMce23TGIV+xqetHtijti6en0rB97eIyXjJipmwUc0qG3AgoQPQNqhLlTz2E2efTiSNtHEdqVuC4LwOPmYFJtdylG67k6LUmEQOmPMsycFtI/40HPVODfvHhpHfHMB656+niIlEAk9RTR/cBadYAKw60CvXOUbsH/gpkbonLWVlWgAhtcXBPiCGNJprI2/ZpAg=;HXLP5Q4Hwdz0mUjnGj+dJA=="
 ---
 

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence (AI) in HIV and AIDS Market, Global Outlook and Forecast 2022-2028"

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T18:23:57Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow/"
 type: article
+quality: 85
+heat: 85
+published: true
 
 provider:
   name: AWS

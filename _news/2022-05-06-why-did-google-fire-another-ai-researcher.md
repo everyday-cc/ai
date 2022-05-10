@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "MU researcher uses AI for studying large amounts of biological data"
+    excerpt: "MU researchers are using artificial intelligence to analyze large amounts of biological data for developing new drug therapies to treat cancer and other diseases.  Graph neural network is the type of artificial intelligence researchers are using to analyze data generated from studying protein dynamics,"
+    publishedDateTime: 2022-05-10T20:15:00Z
+    webUrl: "https://www.columbiamissourian.com/news/local/mu-researcher-uses-ai-for-studying-large-amounts-of-biological-data/article_9f0016f6-d08f-11ec-926e-ef368c8b299c.html"
+    type: article
+    provider:
+      name: Columbia Missourian
+      domain: columbiamissourian.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/custom/image/534fa760-58f5-11e7-b050-17475a79ed89.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Applying a form of AI to sift through large amounts of biological data"
     excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) -; previously used to analyze how National Basketball Association (NBA) players move their bodies -; to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
     publishedDateTime: 2022-05-06T13:11:00Z
