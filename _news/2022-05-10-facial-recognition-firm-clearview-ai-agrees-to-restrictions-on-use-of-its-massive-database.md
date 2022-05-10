@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
+  - Facebook AI
 
 images:
   - url: "https://wraltechwire.com/wp-content/uploads/2018/09/facial-recognition-e1557763570147.png"
@@ -382,6 +383,6 @@ related:
       domain: courthousenews.com
     quality: 4
 
-secured: "WNfJ/k39WgWNIaQEquwpZyMiEHBa/dU+EHTLHWQCYkmfJikv3WvdEwZe1CLJ1Z8yYB5tQNJBd2FwyKhkXJPb2dImqhfC+JohqCGFUkBy+hHzZM6B/jxtGIjndkx/h8EfEFtDw2IGHSaHtWYFbHU3L6/4Qu1qFn5UBvlJRzkGkr7XGRPenvoPS2rM/s50SQ2XAdY8tQwjshFKnGIFP/9kO9lRtYTTVZqMMA5ks0GycVFF8WEuc0Pt0TAwsg1sOXO3Ccp/jLpKf5oVq1k/xvBzdnKm7jtQHQAHxxb9wSb17w12alNCr/pwbbB+h4yWLgsA/tUE3IoarANwXuHA+KnQ0varmtvVziB5Ouo8xxRsoG8=;ERTCqOviqoYv21FKYWDN2w=="
+secured: "QEDVAtG3Ic39hyq824CRfVzoTqAoZyqZUGl1AEta6P8cYoBYD5ho3OQP4LdrHIMKUntBQhO+uHQb6SBP9CaXVKO9xQYL9iecZwBYwIP61ZPTv14pZumYKwWzt+4uaEJyyFEjDZzXdC9tGZMh2cyZSyXBKv6oBtMH095AjDNAPWjfF4gLOBiYB1YmcjkaEkc2HtFhEdDyvJ/h2S0I9IIvH+9jHIB96rYx5XdWNWRo78XS7IfZCthgtwuPheXi0/mip3UabFAjwnQ/gsEvBidtEYJvOTdgMF5+2gEy3H9kmJ/lLlyyu0yOGJ+550dEHWHEfbo21QI97rymEYgPbMHA7awoALN3KkrI1dQ9Tw1Hk+7CBq3akrM3Yof4SFefcrHEFBii/iq4IBHZueeBSZJ+3Bm9bKAwtITmUQQg6KOjjKCKl2bE3g1jXS3w1F11KzOhRMdsxRxbvGgubwougZeCO3phposHRQrSsSaQBC2/dCqlxRzzSVr9tWb1jguqzPzSb9uWHnxKyp8OjSoQTcVZMg==;XIomsOBsJl/noAWIp6cpXQ=="
 ---
 

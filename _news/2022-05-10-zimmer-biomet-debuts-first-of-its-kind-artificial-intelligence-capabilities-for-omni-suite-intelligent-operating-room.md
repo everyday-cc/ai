@@ -1,39 +1,19 @@
 ---
 category: news
 title: "Zimmer Biomet Debuts First-of-its-Kind Artificial Intelligence Capabilities for Omni™ Suite Intelligent Operating Room"
-excerpt: "data analytics and artificial intelligence. With 90+ years of trusted leadership and proven expertise, Zimmer Biomet is positioned to deliver the highest quality solutions to patients and providers."
-publishedDateTime: 2022-05-10T11:13:00Z
-originalUrl: "https://pix11.com/business/press-releases/cision/20220510DE51463/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating-room/"
-webUrl: "https://pix11.com/business/press-releases/cision/20220510DE51463/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating-room/"
+excerpt: "Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH), a global medical technology leader, today introduced the availability of new artificial intelligence¹ (AI) capabilities within Omni™ Suite, an intelligent operating room (OR) designed to optimize surgical workflow and procedural efficiency by automating manual tasks and streamlining unnecessary technology and redundant hardware."
+publishedDateTime: 2022-05-10T13:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9598911.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9598911.htm"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
-  name: WPIX
-  domain: pix11.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-images:
-  - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2022/05/boys.png?w=2000&#038;ssl=1"
-    width: 779
-    height: 583
-    isCached: true
-
-related:
-  - title: "Zimmer Biomet Debuts First-of-its-Kind Artificial Intelligence Capabilities for Omni(TM) Suite Intelligent Operating Room"
-    excerpt: "We seamlessly transform the patient experience through our innovative products and suite of integrated digital and robotic technologies that leverage data, data analytics and artificial intelligence. With 90+ years of trusted leadership and proven ..."
-    publishedDateTime: 2022-05-10T11:32:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/05/10/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
-
-secured: "+7GAxYEwZ+/0pVu0WCXtMC10jViPPCFK70xNRwclmBG87JDWcH3Ydj7JrrVS8jr/mq5zS/K7XB0L4dXZtnALY+nztVYHetnE4224mlxL7zTivhdDaYN0XrjAxCgZHdhUbQGU9KnjG1Suqa1Ht4PaxM9652Rm1XefksjJh5aEuJKv0APqsHMc9+jfvcjcr1WIEZgmpEErdaV44nPuA0LL+L+ZNTU5WECeYMbnO3wQd29p/YNeCpE7/eyuGalZmkQHcfbr6xeAtVLBLR3407ASzdKrspYRh6QUJStkbSqbcLtpQcnVRfB30VWhd/gJRhGBT11oM7Pr1f23Iwf/GPoL5pWPX5eNXxAFcC1Fd1eM5JQ=;zldR5rQOsHvjlDDwFoc9jg=="
+secured: "hHHK0UhNwlbjxrMGTz10N5GZXBg+xsMkNIaNmg7zA8/R5m6/Rj4r+dkJPT27hnbCizEu/tTaxr4MO/Hzq1k1Bjog83NbSbnBWvhlmhzGjZZGJ3j1pgxtZLhJZ4z7MmUBFFw/M07DywKXSplzPaGO+X47djq/G7s2BgqZAzPxRpEc0SWgJUWuODF+TaaFdP7mMYjwZnO+mScAaNem9KCYE54xTE8NocO4Uo9oJH6O//junM13JQm1Lh06C42A4HfK8X2/3ebz531IQmnaaSpXSoFcdIoyo/FtbU1VlDQLWEcAVhUYVqxDdacj5oUYq8na1G0aBMezZyKmn4UpUITLufA2FqtDHPuQYp0iecZQGfQ=;ah9wl0RsqLhaxKZ5JIgWDw=="
 ---
 
