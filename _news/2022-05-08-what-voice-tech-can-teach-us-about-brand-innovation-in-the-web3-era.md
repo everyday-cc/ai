@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-abou
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

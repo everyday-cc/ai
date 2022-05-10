@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-
 webUrl: "https://menafn.com/1104162191/Artificial-Intelligence-Chip-Market-Size-Is-Expected-To-Reach-19490-Billion-By-2030"
 type: article
 quality: 55
-heat: 86
+heat: 85
 published: true
 
 provider:

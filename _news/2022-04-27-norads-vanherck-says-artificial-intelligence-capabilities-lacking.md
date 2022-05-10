@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.navytimes.com/resizer/T8gu2NwwdvBLNDcbYyTLx6vYnO8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/FFQY4UHAMRGAXF3IKU5VY2LE54.jpg"
@@ -20,6 +21,6 @@ images:
     height: 683
     isCached: true
 
-secured: "6yW+l1jaUowSy7JhweZ81DI4Z4epW4iqsOWK7HDKjQQc3xW+hR40gI1STMqLZno+AxEK2QzWgMHqmjA+7Mg3u2keWSpf9/HEQ68I4ENPJK6htWAMjOe8yvuoylQ9WId+ZLVi7h2nzdFnL8yNu9gcuL6Vv/LeZmfvW/MQQirN7eWPdqyKggTM764PF4clsvjEO0KTUWDLUbIeX2zQXPVjVW2DQU6hxYBgkU9rREY3zJwYp5/Dri/V4zpHS7pl/xoPouH9KYjg1QqsI8xGcA7BaZTdol7vvU2wDPL2UYp/9Dw0K7Laj3EOqswdCFxVsd6cz3CBwsaYdxAulIduGd0eYjAL5Bcqo+IwXSHat4ASWco=;Xk5bs3ou/CQTj0vZ0QCQfQ=="
+secured: "Ilc33N0liaGsYAqe5iFoiFAx1+25zCrymwzjNXEwdZ7sL51hZuzWZxn9ghNqxyUVbGr6neGN68qPolgF1SIpnZI4sDShhyh05ZpK/QOahY+jmgqyd4bfk8aNw8/2Xskll3bbWIjOIdpT61hKXMk6zI2eBC6lg+aLLJfDVHqJM20BM9UclkPB28V8UrO1TSM8/ezUKZy0EK7XO4b7QQ6ewQOS8U/mWJpA+b07gC8F7aNQTwHRXbY1YxJn0wOoyMeneGweWlUHtwjr2YPd/keXP3U5NghZgUsyqpEbTRyMB/YjjkJ++URd3UuMox8mWLDwLpuDFrAKBWPsB8yNDzogQwVbX+3t0oEtnOO4clFpapZSiSYjvTVs+rUL+5fFmV80E+uD63/RMyctAAcKFmVkB8UBGazmiPel04lRbpkfO8afM48SzZgWdrthtscee+kD8sLuSwU8qBkQFkyWIXRnmLNgOoL5eZxcbo8Woh0N6h2s4SX7jbfzBWTSTLkVyZ9rwwmGgrKLkdNTGFXtdYDJnw==;eFeU49Vd/cPd2mt5M9SvBw=="
 ---
 

@@ -122,6 +122,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple’s director of machine learning has quit over company’s return to work policy"
+    excerpt: "Apple employee Ian Goodfellow just quit over Apple’s push to get people back to work, according to Verge reporter Zoë Schiffer. Goodfellow, Apple's director of machine learning"
+    publishedDateTime: 2022-05-09T22:41:00Z
+    webUrl: "https://www.tomsguide.com/news/apples-director-of-machine-learning-has-quit-over-companys-return-to-work-policy"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 33
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/uzHdukfoiXFgsUrwH3NFCD-1200-80.jpg"
+        width: 1200
+        height: 775
+        isCached: true
 
 secured: "xTnR+sRQvqz1vSj0Zicg1qhKrFzCs6bIaF/cHH3GXll96Ah9wUDi+EPpYe7TuDq6HerF6NjjgQJX4N8lQvUzyNbpiAVR8GsPCJJ5vtw5gVF+0L23BubIiE5tjjNR+MDwKZ7pnT02ZbGnTaGXyyUw1uFJsq2MJdaW9l45QV+7PUFP8/sdDrpaXl+r6ymrX9Suw2DkNs3wviD2DYFaQUu2a877XLG2nFFB9ojf02LK9xHLfOeE5PQhy+wsM9/lCTllGCdkektTDwuO3NAvZ2YELKbRwl44DBBJMZIJwbYt7OXyitBuJbgoD3xlozjoeIe6zOFjwCf8PUMRX5K4oB7u0FaZPGvmxwDNHr6RcYNYS1mtlZqi6lTRYL630WD7qUxSqgxFVntiCEZRl981eWiz/x5fQuPPZbN4nSKCmoGsMXebbgx97dHYHRInKm7mwLBWS76I1dWH7AZGGabhSDovZZyATtC0GXxdPJFv2CTiIiKfVmRBfhPwG+HekHkllJHU1WWD02PyYaSOpLjbmJEDoA==;yaXTsXWGoYkhdertkae8JQ=="
 ---

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field"
-excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ..."
-publishedDateTime: 2022-04-29T12:41:00Z
-originalUrl: "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/"
-webUrl: "https://fox2now.com/business/press-releases/cision/20220429CN15924/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field/"
+excerpt: "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ..."
+publishedDateTime: 2022-04-29T11:59:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles/article_7a389cff-2f41-5c68-8be1-a87c89f0d08a.html"
 type: article
 
 provider:
-  name: Fox2Now St. Louis
-  domain: fox2now.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Autos
@@ -17,11 +17,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/05/400x225-Miranda-Lambert-and-Little-Big-Town.jpg?w=2000&#038;ssl=1"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/32/c32e84a0-db06-53c5-8603-d1099e30d946/626bd3cfae730.image.jpg?crop=811%2C426%2C0%2C5&resize=811%2C426&order=crop%2Cresize"
+    width: 811
+    height: 426
     isCached: true
 
-secured: "C5Rvc2IhnhYU01rJM7+GS+I4zqPsBEGneG71f1feMgf0O0pjwYYC7teM3UjrEDS2OJGkRgsRies/T2zPFSguTPIVCYSyXtR8b7RiPpRNzPaFMB00udIuXLkawyI3o9NpCmFfqBWTihEIWNvrLd7hk4WDCQFuBh7FZ/WKRm/eVz1SqAkT2Pjl7kOchvNm6Xxg3K2gy/6bLEPN3ioA395Lbz77/ChJPro6sUbIpy7S34blsXMDnVdVIezZi/zs+khjnXh44rvCi3YX+V3dCzTYP3YaVtGJHeKdcJR6ANmUxL3HCZAancHsfcTWkhr9hUXGyNCOguDaGmEi1uhVo04j6balnKsZtHbX4nTEJhyFgNg=;a70LBU1RE8CFrgRhyIP4FA=="
+secured: "bJ8EsD5rYFvzmcZ+738Pmtns0UZL2wZwD0hFpBLQ1xzqDi0NtC4O/2/t4BFHoPVqdwvMMspkQ6OgfgCVH3e7+XO7YHlehllCFseVOgOJsS5GhZ0jK5BT39Rj+nNc6C1fYp8u2mPnOxNosu8rCZAXzv8bRLqnSYH/BBClHwYqzRT02rctHsNVN89LSRmri4VcVcpQCBWUodBbt2UacNKj7g723f+yXyMPYYUnN8lHBcpqwxCtsWnW71GPumCew9S+IsFD/MYj7FoguFJbJFWxi6O8mEJZXLKoct9i64a6z7+nJskp3DMiI2xZ3beLxvApuEOSPFRnH0zGFVGsbpdB1MT2FjW8P9TCAZt3ewbIMO8=;KoZiBYry+VnbGKY8wi+jXg=="
 ---
 

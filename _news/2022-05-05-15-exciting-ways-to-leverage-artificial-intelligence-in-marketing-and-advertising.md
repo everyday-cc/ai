@@ -49,6 +49,22 @@ related:
         width: 922
         height: 461
         isCached: true
+  - title: "Study to use AI for improving the health and wellbeing of people with learning disabilities"
+    excerpt: "it is difficult to provide effective joined-up care between health and social services. For the DECODE (Data-driven machinE-learning aided stratification and management of multiple long-term COnditions in adults with intellectual disabilitiEs) project ..."
+    publishedDateTime: 2022-05-09T22:15:00Z
+    webUrl: "https://www.news-medical.net/news/20220509/Study-to-use-AI-for-improving-the-health-and-wellbeing-of-people-with-learning-disabilities.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220509/Study-to-use-AI-for-improving-the-health-and-wellbeing-of-people-with-learning-disabilities.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220509/Study-to-use-AI-for-improving-the-health-and-wellbeing-of-people-with-learning-disabilities.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 51
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "K+JdsotRtROwtp19FVuPsPYhFoal33xhieJNjiYLlv3EliNF5z7EA2amOZA5ulYS8T0CgjC/6906xZYNtkPTRETAY00o3MKwpCY0xZ15dnkEGlygrKZ8eY+1HH99xQOGNW2gvPb3akwmXinGqMViHrOukf35Z7zrWQgcosaWlkLzGCN6hLhQ3mNzjtVUJtLvPSMQRnwmTMA2daEz4Ws4cDmXdfnjsuzVdzs6B2aJfzCYl/GXkqsD0mVq9ovqJoubSOY2bH/J4OSbxGYr0PQrd7iMHNwk3g/3V6UWgFbs95uzQAE/+CBzQobzcj2KSRgpDwyzPRWhmfYUIKTOOJMw8UNeW2Ft72ut35F5nDlKxtf3c2IGzs/VZyciH1bflBJ+s0LrvVwL0/w78O2wZzWiaYKPNHONcS1NFltSIgVJahbnStmwLa5leavRYqpwDneu0O+EnxbWwPmmrVwQc+6ZW4MqDL5jXyCUU6w6gOd7bNSxO/RJUsAm8zTSMOtXk+LxDz8Qf0DqnjLAgPshEg9Mrw==;b49kg0mQpdhlgKDQHxSuSQ=="
 ---

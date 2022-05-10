@@ -56,13 +56,13 @@
     {
       "path": "_news/2022-05-10-clearview-ai-settles-suit-agrees-to-limit-sales-of-facial-recognition-database.md",
       "title": "Clearview AI settles suit, agrees to limit sales of facial recognition database.",
-      "excerpt": "Clearview AI, the facial recognition software maker, on Monday settled a lawsuit brought by the American Civil Liberties Union and agreed to limit its face database in the United States primarily to government agencies and not allow most American companies ...",
+      "excerpt": "Clearview AI, the facial recognition software maker, on Monday settled a lawsuit brought by the American Civil Liberties Union and agreed to limit its face database in the United States primarily to government agencies and not allow most American companies to have access to it.",
       "sourceUrl": null,
       "webUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
       "originalUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 297,
       "tags": null,
       "images": [
         {
@@ -101,10 +101,9 @@
         "news"
       ],
       "topics": [
-        "AI",
         "Computer Vision",
-        "AI in Sales",
-        "Natural Language Processing"
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -262,7 +261,7 @@
       "originalUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -702,7 +701,7 @@
       "originalUrl": "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -834,11 +833,11 @@
       "title": "Is it fair for fantasy football managers to rely on AI?",
       "excerpt": "More than nine million people play the Premier League's official fantasy football game Like millions of other people, Alice Simpson loves playing fantasy football. Every season she picks a team of real-life players from England's Premier League,",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA",
+      "webUrl": "https://www.bbc.com/news/business-61257368",
+      "originalUrl": "https://www.bbc.com/news/business-61257368",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -889,7 +888,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -982,7 +981,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1077,7 +1076,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 84,
       "tags": null,
       "images": [
         {

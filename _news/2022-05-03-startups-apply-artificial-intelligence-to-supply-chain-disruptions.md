@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Startups Apply Artificial Intelligence to Supply Chain Disruptions"
-excerpt: "LONDON (Reuters) - Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have ..."
-publishedDateTime: 2022-05-03T06:21:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
+excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
+publishedDateTime: 2022-05-03T06:44:00Z
+originalUrl: "https://www.marinelink.com/news/startups-apply-artificial-intelligence-496221"
+webUrl: "https://www.marinelink.com/news/startups-apply-artificial-intelligence-496221"
+ampWebUrl: "https://www.marinelink.com/amp/news/startups-apply-artificial-intelligence-496221"
+cdnAmpWebUrl: "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/startups-apply-artificial-intelligence-496221"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Marine Link
+  domain: marinelink.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
-secured: "4ll1CJfa1mVYWj2mJSZe5duPuz0VjOJZYy6E55iLTOk0GzOiTItaXDO6P85esCXdh6sSk9MeYC0OhQQLDiHAxQo9eqCa8L2SG2OHJlHNvhZT3brHk8Jajuha7ojpcMBNoPboqhYEb/UNLLYfxFFdpvOxpZPDpwe5bno5N/5C/gah//zvK0t9Mj2ed8qYaQDnSIKX80o56lX06btVriOb+oABFEshUySKDqC8XpwTNLWe8hvR5fTpG65gx+NTFcWDDpJuRdFZpwPncuJ5sgSS8Rm1vhG2ZeTf/fOO+QNgjnSmyRDSgSZZDokGhO/Ztx/KaktaYWfSEG0pXPSctZk/tspRTAYFLmhcCxDorre8Y07MSg7WE1Il+FLEJjrTJB0H58B7f1TS3XlbqGsN+pf+lhde1E3/3njIoDya+FLu+DDOMI0fEpquaMxkLSdtYTimZpZMrN13Rc3H+LcJJybN4bbcpFclEbThkoz16ddDO8A1HIogYKZGyOfoC4c0iiLFf5TDB99JeJgGQHI2oOCVow==;0zgafRBPEQxvjiZwZjuAOA=="
+images:
+  - url: "https://images.marinelink.com/images/maritime/w800h600pad/hor-adobe-stock-131754.jpeg"
+    width: 800
+    height: 533
+    isCached: true
+
+secured: "Bcvn0P6trhQcm7rW8MSZMx8rXHVcAfwt7bknEP70mQ0MkxSyddNVfJZ8DtcJBN8sHla8uVTBS/AgAfEsc4pwgDgTHgWnZzoSfMuaUfbm63yrgHpuE3mvOeqw3HDPWKPeZFFeoRt7m4szUOL8gTGEeexTXjnSE24BbUr94UjlFZkACclJXAmyFmtfsW9iSrzfQpXdWWoCIv7Hz1rwNjrbToY7pwRqt1ujTU/2WyhaQc8uWu1D5+brR0E3o0n7vnZ0UR0L5BzqOgrfxs4aBlDjOiqL+/GY0qaqHtILD/iI6UXYnuF0Ltnz9BQB8iGdHd0TTqZtptnRdeUnJr+MPM3WwyeZhp1xGUjbQkUNlRAEnOg=;J7TTK2ZLiTvo+RGiEgIsqg=="
 ---
 

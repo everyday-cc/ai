@@ -38,20 +38,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
-    excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
-    publishedDateTime: 2022-05-09T21:49:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220509SF51230/arize-ai-named-to-forbes-ai-50-list-for-second-consecutive-year/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 37
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
 
 secured: "u0+pC9PKdzi6dmrl89lnXPEGzRvhgZ1ClLGPO6JBdP+28ChUKIvuLxUgGiye6ixLXklhtni9ioi37H0/uSt0Lm9V72MXdPxsMOje7r+XloFvMAHekOER1SKmey5m++fdKqrlOM5cPqYFq5vg6+Kedi1+dQDaMX+KwOpab2CzPtBUHCHM3UiQlraG2tUjWdlAlbrjWguCePl7igPGS4RxHMgvnQz3qjKtd0Lq0YruEkTwC48+0dyK+2MEeWnuQ+YoCidBBpn8LjnUZnH2Dpc6iIq/e9OKsFYTcLQ64x002XsCTIVo61I+HvDvmxnmgHs7blXSR2W0fS6Wlg6O5e+w6MfBCkLChZJSxCMb4e7NsC59PuXDtRWg+8rZunF1ClUqYOsrmB2DhQKlBnFnGLsXpujwBCLnRYfX4n6k333r2BXCbRtztqrsxKmv0Wg5mKx1OuZ3cw2DGJyyqQEE+CGaiVBofFW1NRquRsiQIvepjSOq9eLfm3oz4sMrzj11W2fzz1OgqikMK0oe/7l9pARMsA==;rKiXj+QU2pX5F8WoMSlzRg=="
 ---

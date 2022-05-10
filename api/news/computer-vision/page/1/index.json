@@ -4,13 +4,13 @@
     {
       "path": "_news/2022-05-10-clearview-ai-settles-suit-agrees-to-limit-sales-of-facial-recognition-database.md",
       "title": "Clearview AI settles suit, agrees to limit sales of facial recognition database.",
-      "excerpt": "Clearview AI, the facial recognition software maker, on Monday settled a lawsuit brought by the American Civil Liberties Union and agreed to limit its face database in the United States primarily to government agencies and not allow most American companies ...",
+      "excerpt": "Clearview AI, the facial recognition software maker, on Monday settled a lawsuit brought by the American Civil Liberties Union and agreed to limit its face database in the United States primarily to government agencies and not allow most American companies to have access to it.",
       "sourceUrl": null,
       "webUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
       "originalUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 297,
       "tags": null,
       "images": [
         {
@@ -49,10 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI",
         "Computer Vision",
-        "AI in Sales",
-        "Natural Language Processing"
+        "AI",
+        "AI in Sales"
       ]
     },
     {

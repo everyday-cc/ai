@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-nor
 webUrl: "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:
