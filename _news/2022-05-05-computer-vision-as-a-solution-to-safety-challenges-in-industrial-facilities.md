@@ -3,8 +3,8 @@ category: news
 title: "Computer Vision As A Solution To Safety Challenges In Industrial Facilities"
 excerpt: "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ..."
 publishedDateTime: 2022-05-05T07:28:00Z
-originalUrl: "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx"
-webUrl: "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx"
+originalUrl: "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1"
+webUrl: "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2022/05/computer-vision.jpg"
-    width: 620
-    height: 300
-    isCached: true
-
-secured: "2oJ0iBdW8Q2K7eNw8ZxY26KIIOzwSo2E4Fj8ioTVGLKdL43yMNcpU7JKLis+ICqDAQ0x5dcYm89SUQ9bjTPnuZmt/FYJjBkFiwCreUbU25ykIGymOw1XJq8v4AKQG3KML63LkVKRiADxFmy2PxmB6+9ul5FmRKB5tEbpUEOL2Zl0rPM8w6x/8wqMa9+ZhBt9NWOZEnSZF27H+cPRRGplHwyrzNUZOj/Vr7R8hUjQKKIe4mX/JQosdKxFdRzD7431meDmRqwL+VF7l+JMeT+eCtmo1MDq9kNmct65cGkdBgpbSvrShYr6STq1QGmd67Tfn11dWmeB3Smwh20WchpDwpX0ZzHHY1CA3+T6fqL+NALNdwF1TGwLJmVIyq+5UocNz37wx/SwBREwpRAZmKKu/raYY56VePJiXD/tMP3lGeyClIHu36+TJffKLErJj64h1wuhDKCKbnAMADd2ElCOMMpkhv0UuMZ5mIzt5DMchGbY0bXVhvGaoUvjWEuC+tJcBxfemO/ur9rWpahZcJYGhA==;ITBX9HPUVWIPNYx/Q/AXdg=="
+secured: "lcI692/ymZvYDN3A/eVO/dpTaGSiywj6gEERhaJoCJI2gzZOPrgfqJSEYyLzQHCy/pzj+3w3eVVXrtyZ1d/BIC8ZOxAuIUkD+l0A/Lc1eLComKvhnma6tIPw0RO9gzRq4zAYvPBpWAB8NNO1kwRqGuaoyvLgg0nO0XPd+Bmsggo7qgHsU2HeMlRmlGVrUhPgXGnUtBKyTNXmnuoPRNeIPKk+/xIoysXXQmWEEimozd4g+SOrdW8ryfXhQP2FofTm+sPoTdxCuNCNDvJGqT1wP0e90WFPJRTZZgzQdQcylKKJDs9W5mPA1UoPwqN99J3Y5/+Z0dNjxUE6DGQQUYDzRvoXpmOplWL2FOoV3+rZqzR2u10pRGE3xOLLrwzaI9vOGtp1+dhAmzwOvRuxia+EHRdDCTY69OxOx4DWHfBagU7Bl+75WtfklcbNxwt8BofnI+Mz+YLHQLxop/refwQtjQlrr+MqpewM4wxzHg1DznMQvlBF03q2AuZUhWzurD0S6tj+NdV11oVUA32RDG6iig==;PfsMA8pDy9YIVu85lsETTQ=="
 ---
 

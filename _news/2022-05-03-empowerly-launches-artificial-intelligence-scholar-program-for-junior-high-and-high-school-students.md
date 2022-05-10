@@ -15,12 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "HQpsylyKEsrqXq0esADg+lhteYTrTNoJ5sl/yVio0jBrhmG3wX51X6LV0G5inW5AIgtUphhqFbVec8tMyGjt2jTdr4HaDJqdAeFL4HrmgL+RDPMHy7aIx8JhKpNM1t4W0Rfbb+2v6Azz/ZmFoH49vnH/tHpZHvmtExy7ttYKBvYnCtGcWL/aDAtGPFdkdDaHzM/AJOvS1Yh9XOv8GKr3BGP/q0cgwa7jfNfzPyGkCRsLHIcgrbWTmVFVFAGPa7Yy/jZFGvEbFYrvRXJST45A9BogCHK0KJ6iJChMrNnHPx7HmpNp6xFFbQGHjtiN4GgZ8hiL6Fnq4YkI3Julc/rzwLpfHuabz/2FekrgJizoupU=;TX9jTErKClZddlH9nIFByg=="
+secured: "nBA/OxDGFgPVyIFHtY01JmK82usgHlH7TbKaJrjQBuUPS3A5DENDpiI2ahC1QuBnhEqMjNBPoHGyeSvoVcdFuwAoqwf9b0dEGRIKmlTkQltWCQD/tE3EY6OfTqevR6RewN/KUWQOd0t+Hv++3FWxrn/91o2ztgDK46FnbGC5v5E0whJntKn2s36hoNQTUtqVmJ7rOD97WkGD8zYgG4UodNoCQCPkzvXP19BvAM1HLnNt1alRym69OsougJOOHjOpLJu/4LMTI1vd0d4hdoBBPtjtEK+TNKZnqn/vPxuklzq/qjmWOrjpp9OUwrfG0PTbAw4f4kvlGM4EFwZ3hyXz2ltY6SQ3wikzS3BU3qk+NxM=;S0Urd6Aousn/LdLL8vXQ7g=="
 ---
 

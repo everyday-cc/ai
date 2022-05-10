@@ -19,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1804822/Tomahawk_Robotics_KxM_and_MxC.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "lgxFin5YBz04Q1CwWN3mwOX/eK4IMUbCGGXcrtro9N+8cxueI+2isPJtEG9U+R/Zz+gP6FuxuPsik0Ry3q3QVOL9g3wiuvxydxAGOVPTZBh3V6qTm5VjTOvHx8LPrQ6UilUJB/eHWIHtdzOXP8cw9fsjjBeUmiK+kycWEdhL8yI+rm7cIrrlMEaK2lP7w37oHBf8Zv8W5CMEUEMx4MvBUfF0bsyAjA8ngThVReQsdORLlxkrENXUMmazQ0Fm+GV2g7lqBmzSzyx4TPnVhb5pt5qUWgYUvIG+zWaCdrGZ70eqLICi7liQIsrNnU8dBRsv6dHELl1rW0GYuwAy2YBshSmzSJjO1RkCUtEoIYExaEs=;xDV8raWPbAamvszannT47w=="
+secured: "ZgZiBpS1hZMEZeyvU3o02WLw5XFmHfZBlRLo0p6cdcACN3qtZV19tuKuacL9kdfRqOQkqRLVMhvY6bnf8VEpsvwcLXLRr6wn4fEuGDBi0Mnsi/9XNiJwfv4GW9CR68QRK+DBKtgXVJ7xbK2k3cr4kWQpFEmFrSQTOMq+ng9GfDNtmkd1Vxfb+EVgcub/f/vOCacz9vX6Yw2NuZGQ9kI8SEO3WMUSh2IW+KxGjz6KKid3p2bMW5flkUwOoOZQ5L/xptB5E+liB98gBXPwTi5pXqNvPRMIxCzQluQrYCqjQZzGRVkblgjW/5hQo4FiFZpoXWOY5FpZNbBtrpKpSAhLVsnGnrFWuNudfSgctmwXsEg=;MGaEJ+uEo9/MkptzgQGB8A=="
 ---
 

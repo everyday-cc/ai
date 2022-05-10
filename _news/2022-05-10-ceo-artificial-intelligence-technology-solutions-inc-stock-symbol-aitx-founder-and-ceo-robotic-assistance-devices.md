@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Canadian-Offices-Dogs-AFP-1K-05-600x337.jpg"
@@ -24,6 +25,6 @@ images:
     height: 337
     isCached: true
 
-secured: "w4kbxHrjMbK9FrGBtkr6SR0NaW54o2baJ0o9PHySgIdX3/y2fk/vUqix7K/ppFEoKFwzY3O06Ob3B2tr/GeUn9fqrvLG6C2ZK6DE97L4cR6bhg/d9tNI9TKdxwJVnAfjMxkHBb1RPM4mqD1SLB3I/VgRLouNFhNlKL7mJPrszpZ5l875370MfFi70PX1VkKb4raOo3nRRedT2akJleuhb8JfDgpAALWl2jan2oYU5kJIbvnsbQKT7qJFqEaFhtTVWukfgjS/HJp6ud9rhRNCZie+wBSsBUS5RXpdrn2EIFAZ/A8Km9NRfGEaB6NK3xBNwi0GClyJtadvHZXN7zD0n8z5DEj3Q6bdE1JwJJDHXdo=;3AAmNfmuZ3N0bPvvQDfdxA=="
+secured: "pHBrTzcWlujm/JkIRIq0HERHhmDXjIpJ1cYVwy4it/yuhbsXbT+X5FGLgwidEF8i1eZNM3t0j98gCo13lxly6kK4mSMZn20wVPRLkQtq/JDa/PneVTG6z+W//oQO8kEXRtB273i7uOm8x83KXuiSFkqB3qq5G7WnT/V9jCRrMcV9/TgG/AbgV46M72SWPJWNYXZrOTOjMqJeqXH84eoseWD0WGqWotuwWcQLKd4ox+ZzfzGuOPLOyBJcdMriGMb0yfsE3Nq1L/s1JXYZ6wIBnatp9bQF3sei2e8rdOHSZKSlMvPsa7jzPLt2AMoF5fgrgyFBmgfxsT+/DU+RqJ0KtPkqF8Qb+FEvjIcWTwVV9ndfyQfvPqHpqb2fAlZ3zVhZj+rJZEJ5UiYoMn5gla5iYxC4mExwlTFVPG7FvHujaOnqR8+ZkZgxQWVEMtPR+hd2CYz+NpPBjY9kiX005MUDVecDB7HXOEbfuN9SeSKqXjwLQfsnQNBFI6xTGWFFtOY/3wD836B+LdKA2NYMXISpeg==;l/APNZFsVpYfUQcrk3yynA=="
 ---
 

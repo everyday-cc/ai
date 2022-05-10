@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "srhyQ6HWSDKgxx8zmxBH7zLOGYjsSjuIsO4Y1JGJkDMxddbVTiQ2Om74tGfO0HmBWo9DtgfkXS4Hflw5wnt1ICH18O7bbf8pfwZjjBxVx+TMKu92R1vgR93slwikklxsTvzD2n9GbERHCGWP04EWNp8a1IbkaGJa6eSwoIO+ypIy/PcadIscv7GJDpD9V/lylOiwLiHb3PBdYeWT/NgsZX91tZCEaJTY86co4ZwTUc8kMr0ONO+wKDSjEEnLC4QoYM6XDz1DUaYg1hQQ9ZaBHYUm9rILHMAnTtTP/HQN74mdb3bR2VKcnXuDWX4fspkKdyWu2m9txM3xRhFIVJdphPgW/bmKm8qe0KW7g6ujnWU=;OUZoBuw2E3ZLjJHHG7Q3SQ=="
+secured: "RTdnlXzujjStDr7A36rbNHpNPYjZ94HMRytu3Q0PYwH1jTSwM/9hTYO+LRNo1Y3YPwAQ8ks/2Uar/lGmmAnq8DuFU3lf3f/w/xavKfmhfqZ/12oNFgwgAsXBg51qRLNXKiWTG3JhzuNPm/jEm05RtudeLB1q2WHxuNSoaTAYbJ4p6cRVJLmlieYrssyNVlRTNYeVTFwtREZJNUJrA8iHz3SzI5DqZqTV/ovvKWCN7DMl2veGUepHMGS+l8aIcrM4T/xA8udxSMOgBqj1KsimVg/0ab6C7Epp7rlFy+7xvwh4KF3WPftvpkZwqV3P8VitEIVjCGR4S7+MOj9uPL/N3VoB1X0K6LV+1et1NEYJM7Ulq8o53MYynwyq2wfknkj7RC+QoU8QIiHm2UC0tjgtYQ4yJ1Wh/bGLYDQgkjySePnv/c+hh16yk1xbVx005OiTsliN5+IfZjfJdGf+gc8apEPp7nCsuCoAkm0TtZN1IUecPa7A2btPaqZ2awwqthNsV0Hm2MAaMLCEiU8x5Dtxbw==;3bgu+OTQsytvKRjHnXxWPA=="
 ---
 
