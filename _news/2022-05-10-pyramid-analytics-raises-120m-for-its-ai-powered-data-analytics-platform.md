@@ -24,47 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Veteran startup Pyramid Analytics has raised $120 million and isn’t really striving for an exit"
-    excerpt: "The BI startup has developed a platform that gives all relevant parties in an organization the data they need without knowing a password. Next step: IPO"
-    publishedDateTime: 2022-05-09T15:03:00Z
-    webUrl: "https://www.geektime.com/pyramid-analytics-raised-120-series-e/"
-    ampWebUrl: "https://www.geektime.com/pyramid-analytics-raised-120-series-e/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/pyramid-analytics-raised-120-series-e/amp/"
+  - title: "ProteanTecs gets $45M to strengthen its AI-enabled chip analytics platform"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!"
+    publishedDateTime: 2022-05-10T15:41:00Z
+    webUrl: "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/"
+    ampWebUrl: "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 45
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
     images:
-      - url: "https://www.geektime.com/content/images/2022/05/Screen-Shot-2022-05-09-at-18.02.51.png"
-        width: 954
-        height: 690
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-172252776.jpg?fit=800%2C517&strip=all"
+        width: 800
+        height: 517
         isCached: true
-  - title: "Data Analytics Can Be The Next HPC For IBM Power"
-    excerpt: "one that would be good at data analytics as well as traditional HPC and AI training and inference work (if some of the systems in a memory network were equipped with GPU accelerators). Hopefully, IBM will find clever ways to use the technology in its entry ..."
-    publishedDateTime: 2022-05-06T19:55:00Z
-    webUrl: "https://www.nextplatform.com/2022/05/06/data-analytics-can-be-the-next-hpc-for-ibm-power/"
-    ampWebUrl: "https://www.nextplatform.com/2022/05/06/data-analytics-can-be-the-next-hpc-for-ibm-power/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/06/data-analytics-can-be-the-next-hpc-for-ibm-power/amp/"
+  - title: "Google Cloud hopes to woo factories with its usual fare: Analytics and AI"
+    excerpt: "Google has deployed a pair of AI-related services to woo factories and assembly lines onto its cloud. These offerings are: Manufacturing Connect (MC), an automation tool and data processor that supports more than 250 machine-communication protocols ..."
+    publishedDateTime: 2022-05-06T12:54:00Z
+    webUrl: "https://www.theregister.com/2022/05/06/google_manufacturing_tools/?td=amp-keepreading-top"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 44
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/ibm-power10-wafer.jpg"
-        width: 823
-        height: 608
-        isCached: true
-  - title: "Pyramid Analytics Scores $120M In New Funding, Plans Channel Expansion"
-    excerpt: "The funding news Monday comes on the heels of Pyramid Analytics joining Amazon Web Services’ ISV Accelerate program through which Pyramid and AWS will co-sell and ... by combining data analytics, artificial intelligence and machine learning with human ..."
-    publishedDateTime: 2022-05-09T13:18:00Z
-    webUrl: "https://www.crn.com/news/applications-os/pyramid-analytics-scores-120m-in-new-funding-plans-channel-expansion"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 4
+      name: theregister
+      domain: theregister.com
+    quality: 16
 
 secured: "c3y3klmCG5drVopkyl4riweXykqK/oP0usCDnseXucmZ+4xqEa1ffhMI0CF4T7Dd0HLS7CRWVRqAUnJaWacxNeisucRu9NcTwIiZIRGyolT28E0Ja4vlWDSw5rQElv2RHzy4L36tT3cbtX2dmjjt+43vgnOyNwPR3uAQ4WYILBeI6l9/QutRVAxlb+TjRiWr2c/V+jnmDQTw1H25hAiej8tctdI+MkeHo3FCJp/Ppx8D9rNx8aNImzLA81fnBOtY1bHB47RgSjydxJMFL/DPOpTlYWwfeNfGta4IJEI5PDHrLbndkZFTqK1zYLFvPGi4t5zXqEuePe8JbmZMa96X6wPfWzOBLQfhaUiVQqyZPFc=;SnDXzvGXgcNpnZTpgIjuqA=="
 ---

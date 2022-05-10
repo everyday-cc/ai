@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T13:00:00Z
 originalUrl: "https://venturebeat.com/2022/05/10/oxefit-home-workout-startup-raises-funds-from-celebrity-athletes/"
 webUrl: "https://venturebeat.com/2022/05/10/oxefit-home-workout-startup-raises-funds-from-celebrity-athletes/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

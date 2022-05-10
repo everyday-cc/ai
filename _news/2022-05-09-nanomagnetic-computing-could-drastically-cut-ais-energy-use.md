@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2022/05/09/nanomagnetic-computing-could-d
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/05/09/nanomagnetic-computing-could-drastically-cut-ais-energy-use/?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Singularity Hub
@@ -43,15 +43,6 @@ related:
         width: 1308
         height: 1374
         isCached: true
-  - title: "'Nanomagnetic' computing can provide low-energy AI"
-    excerpt: "Researchers have shown it is possible to perform artificial intelligence using tiny nanomagnets that interact like neurons in the brain."
-    publishedDateTime: 2022-05-05T20:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220505114646.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
 
 secured: "oWmZAyqbXM91wV0w9tU4kJhlugYRBRVVM167/UMnqyuGoqG05p6X94sfHvezrlqSwBpLfBG8VCK6ReXkZAUqhyn5lO5a9Ptx/SeTqFPVit6M3cVGn6k8bx5SBYlpbnlkO833k2CUfakmnz3DEJaSZE92cx9tevjgWAyno0M6jXEgGiaxcyz/eglRWyVUqa3G2z2lG+ElweVJZ0pYlpcg0Qk4Q4dvNr+NRQzBfEuhq2RlcD6rMl5/wNpGZQyFoTv4UKB7PCfnlpoMaa0nDr3OSHQByA4HHnIJkbwjboKGIRdsCL+R360ep1xMitdN7gWhFdajjvzL7sgc1lpopgksYx/ducFsrmY8XgGcZcwRJKcxr4c2Q5eujZrklCRN+ZPihwCMIEkZaP3zcBy32dxnmEfZ2EF0IKKSeArRTYKsAm9KQZYOkR+oNikWYegtA/e+vFt9rU+EWBMHKql3dn5rrhRTSASMPuMebRV3hX7e/5VhCEm0xAVWQqAi3dx/1RViAI8J+4Rvj0g65ioSpb/DCQ==;Y1CSarLhP69vBDZUuztZUA=="
 ---

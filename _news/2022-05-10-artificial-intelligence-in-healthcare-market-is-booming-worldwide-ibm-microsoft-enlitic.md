@@ -70,15 +70,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Blockchain IoT Market Growing at a CAGR 45.1% | Key Player IBM, Microsoft, Intel, Amazon Web Services, Huawei"
-    excerpt: "Huawei (China), Cisco (US), SAP (Germany), Ethereum Foundation (Switzerland), The Linux Foundation (US), R3 (US), Arctouch (US), Waltonchain"
-    publishedDateTime: 2022-05-05T20:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27036568/blockchain-iot-market-growing-at-a-cagr-45-1-key-player-ibm-microsoft-intel-amazon-web-services-h"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
 
 secured: "/UITmnNajQMshUQCnzxROV5MfDXAIkzy7Osdk3r1Yl6PeBS6oilW5sFmqPT507/XX+6TLTMm2msK7mjzLZeW1CdskZHsIbziUhaX6PNkHP4aDZKOJC98tlb42Zi9BIybuP+SSwgZZjomjaSihNyCgvWdfh8V7t8byYSTpze9osfMDaO6pR2WfFYdyO/KbK3R2FHw99hddIof+9ddEhjZqZpJ36ko0AtterhbHklXX2n7SGLbq+mJhrJP2wPWaWCExVPQQdtv4kkZ5yKkvmqTcIpQTTi5Uz4li695H6u8oLd3TAgGcsSOjm6KosAnfa05ev4u1PMH40EtSRlEJ0H74vSOh/TkAR/SVkj/iy8Ed4i5nFbN4epe5alFnv8CS0MDn+zzBOxYoMuM2MBWafx7ek9SYyRcT7SYuzSHHtTtVnpjRqkv8MkD4ZFAXle+jY59C3tah6os7ICBEWGPzA1HgY2kpxm9trnLGycD2n2iCKb2QcHUUoaluG1kaeha22+PvpSvLarYuKpDKtcnmn1ILA==;zC5jigGI7ooY4Q7MU6utCg=="
 ---

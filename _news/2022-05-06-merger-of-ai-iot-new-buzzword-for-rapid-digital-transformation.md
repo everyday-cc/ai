@@ -23,22 +23,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "NTT and Grok team up to transform the network with Artificial Intelligence-designed, data-driven operations"
-    excerpt: "Partnering to deliver network operation services combining Artificial Intelligence (AI) and machine learning (ML) innovations Supporting demanding"
-    publishedDateTime: 2022-05-05T21:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ntt-and-grok-team-up-to-transform-the-network-with-artificial-intelligence-designed-data-driven-operations"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Javelin-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
 secured: "Uuy8nC7m09vMnPraxHS/oVA+8JEWfsz6WjLgn33T61OAq9cq0st4wxEFDO8upekHRfm9x4+MGmGQyWkNpo4+W9tG6N+5afDTWVaVqoOk/OwIna1LuJ4Grva3gkxBqEK9D6ssl5Ql/xzmtxZWZL95nfAyn+qh1yZIQ4VQLW/lSemRqTXv5oC3jFwvvv8jL7EM7Q0V5lpm3Ah8r/DteRLedIAwWYjf6LAJNBWgRsO9z5hfB0yQKqjllylfc1klZoN5/W7M0tAtbYJMWG+v5YfikDzR8Q8Bar+QHPl9WXfivojJrXB4CgTNC6uh7Wgg8V7WkTGdCBucGI0OAl53c7fcdAryasXpe9X7ZysW3XvS8COY6AHBGK+b6NAtVizwJ248VVsPUZ+luBzz+12TcJatj0Ov9m72d1jVLL0Pry/i3HQhGjjoaT23DTmcbjwQ5Bx4ppUUEs0cOdxhQ77lqMu/8yj0c2X1fXGvnPls1q0TzwtkdBxkRLwrHJxfYZDX37WrKK33r+KLyEXBw9hgtBER/Q==;FJppHoClnUXRte9Z+uDJGA=="
 ---
 

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Rapid adaptation of deep learning teaches drones to survive any weather"
-excerpt: "To face this challenge, a team of engineers from Caltech has developed Neural-Fly, a deep-learning method that can help drones cope with new and unknown wind conditions in real time just by ..."
-publishedDateTime: 2022-05-05T16:55:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/05/220505085644.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/05/220505085644.htm"
+excerpt: "To face this challenge, a team of engineers from Caltech has developed Neural-Fly, a deep-learning method that can help drones cope with new and unknown wind conditions in real time just by updating a few key parameters. Neural-Fly is described in a study ..."
+publishedDateTime: 2022-05-04T21:02:00Z
+originalUrl: "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.html"
+webUrl: "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.html"
+ampWebUrl: "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "Z1kbqmYZTWd+Ue+BzFlBiSLUO5aLQ8M8Fkfa3sqtZuMup7gEt9UTOuqOzlV14ibAh6oRwnwdtoZ38Ep2L3+BvWqsrL6aD0PIK98zLxJT0slGztBt3pMBESfsAl0tTXAQZ42SUC16ICxTxsCqhIRjm+rAgEITR1h4qIN9Uyq4EqBnoe6uIMMYsODTRiP69f906ji+dzRaR6tPV+qKQXvhPk9XsHbDadwJthjDnwL3+/xcvR6G8JgBnHEePHSxPbKpN2h6NMApW2DuArbN0lAep858LMfPikjSYxFugWUsLzFbJq0Knt/dO//RWixV8FH7w6v70gQiq0bBLTlQ9DGx3iPTwStpcvixyhwQBEhvr+8=;aXrbXZIPw2yctTMAmHGw3g=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/rapid-adaptation-of-de.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "PPN1Rj4WbguwVomHhTeO7DqpD0ngkfoxjxsw/33s/yYkdpn4ohZ1AUnDmiM3DzrCJ4btuQchIYCpYRjPH9A2+OmBE3d2xzdD7ZAKKuG3BE8xaJ1vTt32aeMP1EJrbzACtoDfNEguFlr06Gr40uJdBCob4yYBeqbUbvFPSyGS2zseRoDogmmxaujLq9fzs7QIDo98+i1NRTmH1qTTA624a9Qlnuc4+woR191f8+e/P7xJorXnh+qJi92IKoFOir8i0+H+K0SejGIdqOvfcyz9zjgfiVNGvMHpqVQb1IFrXjLxDzFQBP4dbz4wSpe/khPb45PmZLhPCr3nYRCzqbgqpVJYnAGEm8BAyWmRU40M5Jk=;VkfmuL/89w9DwgdCO6SOgw=="
 ---
 

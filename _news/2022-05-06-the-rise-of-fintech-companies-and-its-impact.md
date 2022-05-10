@@ -43,6 +43,15 @@ related:
         width: 498
         height: 370
         isCached: true
+  - title: "Exploring The Galaxy Of Fintech Services Within The Metaverse"
+    excerpt: "The future of fintech within the metaverse looks promising, with applications being developed to facilitate virtual transactions, impart financial education and enhance the user experience of customers and employees."
+    publishedDateTime: 2022-05-10T13:33:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/05/10/exploring-the-galaxy-of-fintech-services-within-the-metaverse/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "The customer engagement imperative: What banks can learn from the FinTech playbook"
     excerpt: "They discuss the challenges banks are facing as a result, what they should be investing in and leveraging to tackle this challenge, and how they can use data and AI/ML technologies to create superior customer experiences that drive growth. They also ..."
     publishedDateTime: 2022-05-10T11:17:00Z

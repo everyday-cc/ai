@@ -25,6 +25,31 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
+    excerpt: "SAN DIEGO, May 10, 2022 /PRNewswire/ -- Point Predictive Inc., the San Diego-based company that provides artificial intelligence (AI) solutions to lenders, announced today its strategic partnership with Provenir, a global leader in AI-powered risk ..."
+    publishedDateTime: 2022-05-10T14:32:00Z
+    webUrl: "https://www.kron4.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 13
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2019/06/KRON4_Transparent-Equal-Height.png"
+        width: 598
+        height: 208
+        isCached: true
+  - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
+    publishedDateTime: 2022-05-10T12:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-provenir-joins-visa-ready-bnpl-program-support-ai-/2022/05/10/9599082.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "IJxPj4+Xw2SCV5PFA5YOu2CN61iHAu7UuWPV4L7Uu084jfZlMTgc67g//3csnyVJH8FuuP/EDiv2zta8LfyPtkGR7seo4gAtSJ3YEKmSpmDIVTcm5WlR1AjwA1IkozxKslxbDL0gAU7Z2nuJ3ew/Mq95BR+bMFXZdx/4a0QyoJyzE2KBzcNyVmau5rPXkJTITDbzSjmfc9LhkXScK7LM/EU06AfbAISL3VV4NVP2o2Ek7C7WvCtCMUVTs58cr41vG/Zli/x6F8vRc4V2QyXzU2POBxPRhMTWzpgAjrKKmKZrzzQgOUd0iaNN7AwT4sBSMSsGj+pcEh2AZB9i8iRlJoGyAvt+hahFOrUP8+GpKdrm9Eg42CIvEkyxNXX8dXlFZ3sgSOuDj9FNIBNB1gvC+lM+NZ5dihlO4DZN7vNPQFZUUu7scB6TyUiCxPY2IxCBTZuzcQzmzPmuO21SO0OFuRc3nkAeGbQFHcwab11138Ry5PyOzhj3RiWzM9vWco16Cwj3g4hbbhWE4wRxKdj91A==;cnYNtWMgfzQ9MVWu+EvWYg=="
 ---
 

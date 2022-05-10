@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/robot-senses-touch/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/robot-senses-touch/?amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

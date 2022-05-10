@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T13:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/elevāt-extends-jump-start-program-activāt-that-ensures-off-highway-machine-iot-dividends-1031442365"
 webUrl: "https://markets.businessinsider.com/news/stocks/elevāt-extends-jump-start-program-activāt-that-ensures-off-highway-machine-iot-dividends-1031442365"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Business Insider

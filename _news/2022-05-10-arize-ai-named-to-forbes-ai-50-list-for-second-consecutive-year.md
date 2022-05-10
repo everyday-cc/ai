@@ -23,6 +23,17 @@ images:
     height: 207
     isCached: true
 
+related:
+  - title: "Eigen Technologies Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
+    excerpt: "Eigen Technologies (Eigen), the global intelligent document processing (IDP) provider, is proud to announce that the company has been named on the fourth annual Forbes AI 50 list 2022 for North America. Produced in partnership with Sequoia Capital, this ..."
+    publishedDateTime: 2022-05-10T13:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9599327.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+
 secured: "q2A9H+vCpzy2WOWFUAS0SQnv3ERndckvBhO/2xW1b5UxzokJnazcyd67biw5bSGNNidjrBDu0YwBtm/IYcA5m7Mlu1asEuNn4dMGO0yHIWx4unnufEcVLVx1zsDtvwP9C1Qu5OUe7ADHh32kbjKnbfA4+uacMALKUKWo9EnMadTnU0piMjutCwgxvzdgykYYCwCRtrAw/EDwQg/CfmMGqw4TKqeGYOXwIr3Kk6LC9BhxlZWqtE8m2QvU7agAi9h+fhbtfnUB1qy76Rpx2KLmUyshmt6tf3eCa7xigdQqAA4CrY8BboQbqfECl8miRc3dgtayv8LoIfYm3HXQ0yVJR11PMVLURFf3+AYH+y2JzJY=;JhkhmdzLXEDyDxWerLE85g=="
 ---
 

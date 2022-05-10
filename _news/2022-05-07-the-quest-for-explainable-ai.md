@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/06/the-quest-for-explainable-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T13:24:00Z
 originalUrl: "https://www.sourcesecurity.com/news/ids-imaging-development-systems-gmbh-intelligent-security-solutions-automatica-2022-exhibition-co-12175-ga.1652173086.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/ids-imaging-development-systems-gmbh-intelligent-security-solutions-automatica-2022-exhibition-co-12175-ga.1652173086.html?ref=nav"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity

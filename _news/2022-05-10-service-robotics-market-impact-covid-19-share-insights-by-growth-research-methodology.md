@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T12:59:00Z
 originalUrl: "https://www.digitaljournal.com/pr/service-robotics-market-impact-covid-19-share-insights-by-growth-research-methodology"
 webUrl: "https://www.digitaljournal.com/pr/service-robotics-market-impact-covid-19-share-insights-by-growth-research-methodology"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Digital Journal

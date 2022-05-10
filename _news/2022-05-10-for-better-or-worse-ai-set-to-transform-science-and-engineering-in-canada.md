@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T11:05:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/g27102193/for-better-or-worse-ai-set-to-transform-science-and-engineering-in-canada"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/g27102193/for-better-or-worse-ai-set-to-transform-science-and-engineering-in-canada"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Benzinga.com

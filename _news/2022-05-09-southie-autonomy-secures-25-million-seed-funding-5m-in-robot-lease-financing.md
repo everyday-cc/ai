@@ -2,9 +2,9 @@
 category: news
 title: "Southie Autonomy Secures $2.5 Million Seed Funding & $5M in Robot Lease Financing"
 excerpt: "The platform utilizes artificial intelligence and augmented reality to automate highly ... it was very expensive and complex to reprogram robots to perform different tasks, causing the automation ROI to plummet. With Southie’s innovative AI-powered ..."
-publishedDateTime: 2022-05-09T12:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-oceans-venture-capital-artificial-intelligence-8a343a98570f43c8a1a783ec1a9c6868"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-oceans-venture-capital-artificial-intelligence-8a343a98570f43c8a1a783ec1a9c6868"
+publishedDateTime: 2022-05-09T13:52:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-oceans-venture-capital-artificial-intelligence-621389a0bc45430c8a6cc63083a1f6fd"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-oceans-venture-capital-artificial-intelligence-621389a0bc45430c8a6cc63083a1f6fd"
 type: article
 quality: 34
 heat: 34
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "xqEFaLwfgrmBqYIRk/vUm7FBKkr3NJzuWMAoDAhlb5C17tueDc/4YMkQhfzDiqKE9i/pruK2XoJPVqM988vswWIE8KW8XyRj3LwkMzcg/IeSm2WgC10pSYIxy9gDxh8iRz0lrrGXAwTtQR9aeCx9j5OPShmZaRL+XLKe/hmrQRnfCSblUdESfyDwfiM1LKVIS3laT4NEjrdrgJ7O84Reo0r0BdqI51nNrBvTnI45tbibyJsyChnkdFNLuuKl5KCNLW4nMZZZp4eiplkRIJIW7XlYttFQdVhlIVKpYThsFcvrbaRYzPtGP41Z6hpu8+JUoIkOQ+QmbjOaC7TEYtMTfmqcGBuQdXi50t2GkHMuwrQ=;PqzSynO9fzbwSzR5OkzAzw=="
+secured: "K+IPGHd0bGeKLc6zTrKqBbE6wbuI0cTWB0+FfkYZyGArNSq4PsIVuJUFmr8r2QVHbNNkZ85ryd8tfzu9dB17F0uMgwN+MjQRJOpAPsc+6uT17WuMumfpjSuCM8U1ajzQ5/4lMrQPzqsdz9MA/8nIpkPio86RG8Cm+ny9d5TOhvCyLd2L/MPPI/s+NyvBp1sOFdphj/wOVjqDNvgFkMxo6PrfOFlJ9HiFKJD7UK2Z2igOpWJRgOhaNx0iUXH3Kx+lpDUjfS0MCrcDX3efE7qsaf70S72aMWMn5QcCPNKEU/eOwKkFd+w/Re1ZPS/HuM9jVtuk+FQ4m43yU7yompq+jfRtopK/pwjxTwzY333cOCA=;DAZq8R2W3kw7eiUs7XXWiQ=="
 ---
 

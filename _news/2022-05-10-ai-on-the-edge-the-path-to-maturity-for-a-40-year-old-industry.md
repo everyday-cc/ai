@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/10/ai-on-the-edge-the-path-to-maturity-for-a-40-year-old-industry/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/10/ai-on-the-edge-the-path-to-maturity-for-a-40-year-old-industry/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

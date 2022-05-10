@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Using AI to analyze large amounts of biological data"
-    excerpt: "Researchers are applying a form of artificial intelligence (AI) -- previously used to analyze how National Basketball Association (NBA) players move their bodies -- to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
-    publishedDateTime: 2022-05-05T21:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220505143820.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
   - title: "Applying a form of AI to sift through large amounts of biological data"
     excerpt: "Researchers at the University of Missouri are applying a form of artificial intelligence (AI) -; previously used to analyze how National Basketball Association (NBA) players move their bodies -; to now help scientists develop new drug therapies for medical treatments targeting cancers and other diseases."
     publishedDateTime: 2022-05-06T13:11:00Z

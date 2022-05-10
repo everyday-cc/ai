@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T13:07:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-deepx-npu-based-ai-semiconductor-startup-introduce-deepx-/2022/05/10/9599259.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-deepx-npu-based-ai-semiconductor-startup-introduce-deepx-/2022/05/10/9599259.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

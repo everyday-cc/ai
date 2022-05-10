@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-priv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

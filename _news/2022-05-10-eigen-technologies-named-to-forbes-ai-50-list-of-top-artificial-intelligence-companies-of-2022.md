@@ -1,11 +1,14 @@
 ---
 category: news
 title: "Eigen Technologies Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2022"
-excerpt: "Eigen Technologies (Eigen), the global intelligent document processing (IDP) provider, is proud to announce that the company has been named on the fourth annual Forbes AI 50 list 2022 for North America."
+excerpt: "Eigen Technologies (Eigen), the global intelligent document processing (IDP) provider, is proud to announce that the company has been named on the fourth annual Forbes AI 50 list 2022 for North America. Produced in partnership with Sequoia Capital, this ..."
 publishedDateTime: 2022-05-10T13:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-eigen-technologies-named-forbes-ai-50-list-top-/2022/05/10/9599327.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-eigen-technologies-named-forbes-ai-50-list-top-/2022/05/10/9599327.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9599327.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/10/9599327.htm"
 type: article
+quality: 20
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -14,6 +17,22 @@ provider:
 topics:
   - AI
 
-secured: "cRMpHozI6YH6ikFyfvHreT0ACcWpHrgmoqesCZdBCAFDWZDKPhIG85ZLz8q6uhYz7IOBFfODsJvLsDo4txekkY6INlAceI8h1DtzGycKVbif45WxLNsvU02R816/DeslsmzTc4nAX3HR1C9bopTl0zcMwwX85IVx42cm+qdyC+Yey9V9sC4lHhlhN31gJpbd/Ae7KD2IpHTpThpLlWyIeV/EwZap7F7lrCUWwrxQ0xMd1t6bA3NOpwZoFjv5uYfLb37QEHRx5bj4L/nXb/sdz9nZaOIiAsGYXeMAwmYnpwB/8bHGhu30Ytim+ysBHDpehrrXU9Cxeu9xI01kXaaeiFkzf3ykX3m2Q9O5/3SeJZo=;WxBC/Ax5IXy+7VX0DBrKng=="
+related:
+  - title: "Arize AI Named To Forbes AI 50 List For Second Consecutive Year"
+    excerpt: "Forbes debuted its AI 50 list today, with Arize AI again listed among the privately-held North American companies making the most interesting and effective use of artificial technology. \"We are incredibly proud to make the Forbes AI 50 list for the second consecutive year,"
+    publishedDateTime: 2022-05-09T21:49:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220509SF51230/arize-ai-named-to-forbes-ai-50-list-for-second-consecutive-year/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 37
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
+
+secured: "b9GeU1RvbK8nb2qwLJ/+MOkakFXnc9wq0kZ2fvC1OGioKR684ypEi/O0P6X+y6ba71IAa9WQPh6o5jyALGV/CpXiA4Ve6vpR6RuNGd0vzVEH5PnQaTmaEigPVpKWm0FT8nOKDNLpkTiBFw4nLec4L9f43DjAPWToCa1v/mropP1koCjxjqC5z1pt8l2RlsHT/+YNDn26iFTo2dxc8jwflMTwxkH/p5CCBo0iN0dB64drbG6Z34MBOrt150uHD0OYl4Pl+5vwYuGcCqUoz7r+aMMk4qPJfv2xxp4TJ52FneVlR6912Pw9lkJOzyC/oYtM8z0bu5hUjAnqoEkp0wJJal8jcENGeOSvwkJw6LfjTTE=;6Pz/jtggR6m2+OyuKUO87A=="
 ---
 

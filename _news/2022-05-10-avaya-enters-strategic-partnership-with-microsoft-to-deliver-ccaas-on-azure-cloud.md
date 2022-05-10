@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/edbe7be11627d2e934e4efc0d1dab222_M.jpg"
         width: 375
         height: 375
+        isCached: true
+  - title: "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study"
+    excerpt: "These continued benefits of the partnership were also highlighted by the TEI study interviewees who shared positive feedback about feature integrations, including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and ..."
+    publishedDateTime: 2022-05-10T14:14:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study/article_2219fd90-6b53-5b78-a3c7-e2532e074268.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/4c/24c975fe-8a0b-5fb6-ab47-ca7285ffd1c0/627a7427d9b67.image.jpg?crop=900%2C473%2C0%2C100&resize=900%2C473&order=crop%2Cresize"
+        width: 900
+        height: 473
         isCached: true
   - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T13:00:00Z
 originalUrl: "https://www.dallasnews.com/business/local-companies/2022/05/10/dak-backed-plano-smart-gym-startup-oxefit-boosts-total-funding-to-35-million/"
 webUrl: "https://www.dallasnews.com/business/local-companies/2022/05/10/dak-backed-plano-smart-gym-startup-oxefit-boosts-total-funding-to-35-million/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Dallas Morning News

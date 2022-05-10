@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Car Market Estimated to Expand at a Robust CAGR over 2019 – 2030"
-    excerpt: "Self-driving Cars – The Elevated Future of Mobility The race for a completely self-driving car is underway with increased ongoing testing and prototyping"
-    publishedDateTime: 2022-05-09T11:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-estimated-to-expand-at-a-robust-cagr-over-2019-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/58206bfc40b8456aeaa12d692e584d77c6a2fc7b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Fluoroscopy Equipment Market to Grow at a CAGR of 4.7% During the Assessment Period 2017 to 2022"
     excerpt: "COVID-19 Analysis on the Global Fluoroscopy Equipment Market A recent market research report on the Fluoroscopy Equipment market published by Fact.MR is"
     publishedDateTime: 2022-05-06T02:27:00Z

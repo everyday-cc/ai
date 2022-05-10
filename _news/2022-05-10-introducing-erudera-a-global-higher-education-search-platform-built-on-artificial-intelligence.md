@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/05/10/erudera-launches-global-higher-ed-search-platform-built-on-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/05/10/erudera-launches-global-higher-ed-search-platform-built-on-artificial-intelligence/"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Forbes

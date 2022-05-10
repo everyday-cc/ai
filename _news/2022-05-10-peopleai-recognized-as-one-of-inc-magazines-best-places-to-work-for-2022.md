@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T13:45:00Z
 originalUrl: "https://www.koin.com/business/press-releases/cision/20220510DE51788/people-ai-recognized-as-one-of-inc-magazines-best-places-to-work-for-2022/"
 webUrl: "https://www.koin.com/business/press-releases/cision/20220510DE51788/people-ai-recognized-as-one-of-inc-magazines-best-places-to-work-for-2022/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: KOIN 6

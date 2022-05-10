@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T12:52:00Z
 originalUrl: "https://www.forbes.com/sites/eriklarson/2022/05/10/gartners-decision-intelligence-trend-is-taking-off-what-took-so-long/"
 webUrl: "https://www.forbes.com/sites/eriklarson/2022/05/10/gartners-decision-intelligence-trend-is-taking-off-what-took-so-long/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Forbes

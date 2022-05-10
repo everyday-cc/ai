@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T13:30:00Z
 originalUrl: "https://www.infoq.com/news/2022/05/deepmind-fusion-control/"
 webUrl: "https://www.infoq.com/news/2022/05/deepmind-fusion-control/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: InfoQ

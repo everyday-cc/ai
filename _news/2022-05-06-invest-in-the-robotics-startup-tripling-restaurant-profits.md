@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/miso-robotics-145539918.html"
 webUrl: "https://www.engadget.com/miso-robotics-145539918.html"
 type: article
 quality: 84
-heat: 84
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1600
     height: 1066
     isCached: true
+
+related:
+  - title: "KEENON Robotics Brings the Popular Service Robots at Restaurants Canada Show 2022"
+    excerpt: "KEENON Robotics, the world's leading intelligent service robotics company, is showcasing its entire product line of service robots at the Restaurants Canada Show(RC Show 2022) running from May 9 to May 11 in Toronto."
+    publishedDateTime: 2022-05-10T15:58:00Z
+    webUrl: "https://vietreader.com/business/pr-newswire/58330-keenon-robotics-brings-the-popular-service-robots-at-restaurants-canada-show-2022.html"
+    type: article
+    provider:
+      name: vietreader.com
+      domain: vietreader.com
+    quality: 49
+    images:
+      - url: "https://cdn.vietreader.com/uploads/posts/2022-05/keenon-robotics-brings-the-popular-service-robots-at-restaurants-canada-show-2022-1.jpg"
+        width: 599
+        height: 424
+        isCached: true
 
 secured: "xaYQe8lIavOnJ7rZ6KXPcbCGYj7Kqhk3Zsx0SIwz0zBrYAeNIe5BS58f/ZS4Q3/4UTCVH2pFsgdkSdGhsh058rUyoUJ9P/W0MxEchXkowyAYl+Q3iZZuS1nG7EPVJecZmBe4WFobGQI2axOgPzy4mLcGX6vyIjoopsajpp+3zmxkjysP5hC9gydnz6z8LNiomC7KP6jEG0ZNMS1VQduyMw9PBYEgz4PgaCUnr/Te9piJrT9egvz9AcNdjHKp9GmQBKJPKWZ9KrCaTre68XtaQHW1ebspO113UWmQH5B1o0EdBZ0/GwFMoe9+qsMPrXxYwf7+dYSrMBpHhbxkl7LQ5QNtpkPLvawhiyvBSausJPg/yP1ruAy7+Q61ApYQIdQJoXhjMh7qyrtxNfa+vpxqGoyHjRrJGGyBvXGFXMCy+dQkX/kuWVGwJHsMSu5Z1M0DE0bjty2ZqEfGfedEDGE/zo9RVtOdvO+ZDbVmdCS1W51ZFtk5lAkJ9kRQUNGEVAyWsaniUsqlc8zm5Omfp7hy9g==;z2xGEuThYGSfBmMW7QSXXA=="
 ---

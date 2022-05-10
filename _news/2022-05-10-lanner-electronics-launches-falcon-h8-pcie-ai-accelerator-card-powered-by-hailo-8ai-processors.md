@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T12:59:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/lanner-electronics-launches-falcon-h8-pcie-ai-accelerator-card-powered-by-hailo-8-ai-processors/article_dafb3ee1-2286-5313-a9bd-bc23baad5597.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/lanner-electronics-launches-falcon-h8-pcie-ai-accelerator-card-powered-by-hailo-8-ai-processors/article_dafb3ee1-2286-5313-a9bd-bc23baad5597.html"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: WFMZ-TV

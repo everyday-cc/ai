@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/10/how-visionary-leaders-will-drive-the-future-of-ai/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/10/how-visionary-leaders-will-drive-the-future-of-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

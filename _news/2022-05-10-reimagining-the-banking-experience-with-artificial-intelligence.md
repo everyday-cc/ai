@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T10:40:00Z
 originalUrl: "https://ibsintelligence.com/whitepaper/reimagining-the-banking-experience-with-artificial-intelligence/"
 webUrl: "https://ibsintelligence.com/whitepaper/reimagining-the-banking-experience-with-artificial-intelligence/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: IBS

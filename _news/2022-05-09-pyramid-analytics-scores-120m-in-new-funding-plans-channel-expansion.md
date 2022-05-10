@@ -51,20 +51,6 @@ related:
         width: 823
         height: 608
         isCached: true
-  - title: "Pyramid Analytics raises $120M for its AI-powered data analytics platform"
-    excerpt: "The startup’s platform enables companies to turn their business data into charts and find useful patterns. Pyramid uses artificial intelligence to automate many of the manual tasks historically ..."
-    publishedDateTime: 2022-05-09T20:58:00Z
-    webUrl: "https://siliconangle.com/2022/05/09/pyramid-analytics-raises-120m-ai-powered-data-analytics-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Image-1.png"
-        width: 718
-        height: 419
-        isCached: true
 
 secured: "IQHZ83pqGw2GAYnCJjeY1n5U7lOG0+erurqT6VSTZ81cGulS2tankO8SKtqm+A7u27me70vJ8kTp8cFbiqiLtS8JoQ1Ztr0EqfAWRqHdZuKKhyFnjr1AfuCI/AKQ4+xiyMm/omhhbf6l3IHMLneEP+T8U/umUPieQHDPoV1l6bojWCCvfpcMjtfg1YqOiGgBOzTeAh2SMDS11vVqT/9+sbmQQ32DuGuSa4Vn1dR/12Q8SGsNwj8ji1QrIZUuj1D/g5Xmyck1B9ed5OJoYKFjFRIQ0zEv3NGWwhJr9zb2PMg3ywjYFcNXntRH95xuiCZUEme4lwx+jfI1daq/TCagRx+vyj/dsvJ158wynBt7/BhfGH8Ui7IzYjY3q1kgUQzvtOw7TqlTZni2z7eZnh/TxhC+sx7zBcySZKcdOtlSxwWl7Nx3QussTuX9/G7sZy62XE2kYUUJccXmdjJDBz7f6VC1T1ZFcyrUMrotubMsyVsnM45vsq6mBHVq9dIV1Q1bZWxxSzyV4AbbY+8I+ZGeIw==;IH9zpSk3JYfyCBtQpu/YYA=="
 ---

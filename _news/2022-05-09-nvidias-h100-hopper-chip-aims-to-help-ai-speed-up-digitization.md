@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 585
         isCached: true
-  - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
-    excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has joined NVIDIA Metropolis, a program designed to nurture and bring to market a new generation of applications and solutions that make the world's most important spaces and operations safer and more efficient with advancements in AI vision."
-    publishedDateTime: 2022-05-05T21:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-joins-nvidia-metropolis-partner-program-to-transform-industrial-inspection-with-ai-1031428048"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
-        width: 400
-        height: 205
-        isCached: true
   - title: "Landing AI Becomes a Part of NVIDIA Metropolis to transform industrial inspection with AI"
     excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced"
     publishedDateTime: 2022-05-06T10:17:00Z

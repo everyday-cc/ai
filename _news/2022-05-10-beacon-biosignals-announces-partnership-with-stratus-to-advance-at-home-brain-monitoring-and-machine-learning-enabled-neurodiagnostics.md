@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T11:55:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beacon-biosignals-announces-partnership-with-stratus-to-advance-at-home-brain-monitoring-and-machine-learning/article_39711c0f-7d6e-510e-b825-d17475855097.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/beacon-biosignals-announces-partnership-with-stratus-to-advance-at-home-brain-monitoring-and-machine-learning/article_39711c0f-7d6e-510e-b825-d17475855097.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: WFMZ-TV

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-10T12:01:00Z
 originalUrl: "https://skift.com/2022/05/10/robots-and-automation-move-from-novelty-to-necessity-in-hotels/"
 webUrl: "https://skift.com/2022/05/10/robots-and-automation-move-from-novelty-to-necessity-in-hotels/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Skift

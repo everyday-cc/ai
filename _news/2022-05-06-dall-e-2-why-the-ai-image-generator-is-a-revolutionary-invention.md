@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-i
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:

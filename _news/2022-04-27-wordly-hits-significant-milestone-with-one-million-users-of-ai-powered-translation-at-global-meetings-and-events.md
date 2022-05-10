@@ -2,25 +2,25 @@
 category: news
 title: "Wordly Hits Significant Milestone with One Million Users of AI-Powered Translation at Global Meetings and Events"
 excerpt: "Wordly enables people to participate in their native languages across a wide range ... milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings-and-events-301533741.html"
-publishedDateTime: 2022-04-27T13:23:00Z
-originalUrl: "https://www.news-journal.com/wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings/article_929f42f0-de77-5a3e-8864-594cde43fa84.html"
-webUrl: "https://www.news-journal.com/wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings/article_929f42f0-de77-5a3e-8864-594cde43fa84.html"
+publishedDateTime: 2022-04-27T13:33:00Z
+originalUrl: "https://www.victoriaadvocate.com/wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings/article_df2b7aa9-1c8c-5123-95a2-fb37f4b092df.html"
+webUrl: "https://www.victoriaadvocate.com/wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings/article_df2b7aa9-1c8c-5123-95a2-fb37f4b092df.html"
 type: article
 
 provider:
-  name: Longview News-Journal
-  domain: news-journal.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/9b/09bd2c41-d753-5207-883b-74756558e270/6269420f1250e.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/8/32/83274696-5b20-573c-bd50-42ec364bbc9f/6269420a7b950.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "Ryf+d4M5WulbXaB+0ig2LEJh850sR1TFBANH/E8xSRogRRNXSYoPnzL803zTI8VufwEe2ujDRd9Zgs8y+LQMXWXie+TxZHIUg1DV9cBCUQh9U/mRAzbYFYlQVZ3S77TneNb0ew3e68DsmV5HCsUunJRkLTHI8bGqDy/QRog7g3ePHD5xU1kaHuaoHhxOFSYNGhTeja4WhzJ2zW+NVdtifd8JQQpWo98xNjVbv5zqWPRqNQm7VaxtXq14XHm3eX+92pxWTR2fF5cXsB9b7LnJM05WA9NEWZBGDEXOpfIFrZ6aMik5mDo294u6nHCKsDGlVI5US8n15PzDJJx8my0rC+057pBu1+uSskaN2oKQHd4=;NdmPYzeb8zsk0kOYqHtcRQ=="
+secured: "YSdfD5UwqDK/pz/7ab2a+zi6aeswgIQdCc7LSMnURZUVrO2mx0ioEQkHAcndaEogPpi+l04Y3lCXK5YJXd9VOz6wnIlJEEVQKuZ6LtLr7Gy7BUlR1P7Bqj4PsFll+q7XvK6/GEi7N+sis/Un8IMmfynUvu6tQ5P7WpdbnTQCbLkO8mH0pGNSRqKrLvT8QYdv5VMdPwq802Yh35PffVHF/5b1GhCPnv5KAN2XD+9upwOi0lNCpc2Nnh8Wo1xdRmQQF6V0FL24mCdidpaql2wC4EN5S8diQds7y9IVd7YKIX4e9EoIAte8jtTPRMIBYwnsIR4ZjOguHsjXzNQwSXWZRzYrFEL4N0aP+baHFQTkY34=;cYJKJeP04sb6q6fN2IpVQQ=="
 ---
 
