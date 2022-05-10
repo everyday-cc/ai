@@ -1,24 +1,28 @@
 ---
 category: news
-title: "China Grants First Driverless Taxi Permits to Baidu, Pony.ai"
-excerpt: "China Grants First Driverless Taxi Permits to Baidu ... has in recent years invested heavily in autonomous driving and artificial intelligence technology, including automated personal assistants ..."
-publishedDateTime: 2022-04-28T07:05:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
-webUrl: "https://www.usnews.com/news/business/articles/2022-04-28/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai"
+title: "China grants first driverless taxi permits to Baidu, Pony.ai"
+excerpt: "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ..."
+publishedDateTime: 2022-04-28T09:56:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+webUrl: "https://abcnews.go.com/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/china-grants-driverless-taxi-permits-baidu-ponyai-84363838"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "g5N5tDzDM7y6Ah3eZb6+qNH249Kw7JZS4jY0nuw8WeCg/U7P8Cydwpt+Ulz4SGXkQ7gCcPMUjDsLm/SzHjSRxmWFR1k6f2GSHmjotLck847q0k0orDbl7pnsMBOmPE/8S0VTImbEzgskQ+QyYupCwfiGPv3dPMcnwQD+yR+MS5WIadc2vVKTdgvD9HthVk6rBdvuWJ8kiORRX6FdGyqb6sMo6FoceAjhe208nI28eOqDQwgeoHdC3r8ZdaeTqy1k6Wg++5Zzc3uhNfAEUjrVrCCQ8fU/V1ULU0XEvACpRmTr/CblbMogcFZKA7djmo6v+RRS9NRjQDGNfmqSY1aJC/d+vyqR6J1NoJfSwMq923g=;SQZ+LKHWaYsSCypxtqHlAw=="
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_35d1ead9077b41af94423037bd79620d_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "FM2DqD3x4txGxEyG7emu5pHhF8VjYB4FEUdfSZtkFP1K0k0kQn7paS8w4bacPlL14WOI2UojkDPrzy3yNhHipHpg61L1Yu98Pioxc/UMxrLuKUPYDGzQtQ15iOmI0ngYp/wey8SKzLFven34OLHXx/rO68Zf2f/Ds2iv3NMYYmXxAmmihvkC332qacVzIgGNmihmJ8I8wLXXEaaKv9RoOWjnZ6fT0UlwtNV2cGwus1DJ4GqmoYMU9EnFgAD3W7zuGwcQtTI9UA/p29UtXO3mRAPdNqg3YjiXck/pZOYbpWiZlOSMgmwZ08sdj2xU/D5JN9i74KZpdXpdhk8NrZBszsuUi0Fc0T5HkYaEKsrjne0=;2lY2S4hPVMtwGa3TxHoK3Q=="
 ---
 

@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-10-avaya-enters-strategic-partnership-with-microsoft-to-deliver-ccaas-on-azure-cloud.md",
+      "title": "Avaya enters strategic partnership with Microsoft to deliver CCaaS on Azure cloud",
+      "excerpt": "In addition to the Microsoft Azure, Avaya CCaaS customers will gain access to the power of Nuance’s Contact Centre AI technology integrated with OneCloud. The combined capabilities is said to give Avaya customers flexibility to create and deliver ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
+      "originalUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
+      "publishedDateTime": "2022-05-10T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-letters-facial-recognition-technology-punishing-those-who-litter.md",
+      "title": "LETTERS: Facial recognition technology; punishing those who litter",
+      "excerpt": "Reference the article “Debate continues over facial recognition tech” in May 8 Gazette. On April 26 my wife and I were returning to Denver from Baltimore, MD. At the BWI security check in for ...",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/opinion/letters-facial-recognition-technology-punishing-those-who-litter/article_02e65fb8-cfa5-11ec-9d3d-b3b3553c8fab.html",
+      "originalUrl": "https://gazette.com/opinion/letters-facial-recognition-technology-punishing-those-who-litter/article_02e65fb8-cfa5-11ec-9d3d-b3b3553c8fab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/6/b0/6b047184-cfa5-11ec-a172-abef229336d7/6279272a36855.image.jpg?resize=1024%2C855",
+          "width": 1024,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gazette.com/opinion/letters-facial-recognition-technology-punishing-those-who-litter/article_02e65fb8-cfa5-11ec-9d3d-b3b3553c8fab.amp.html",
+      "cdnAmpWebUrl": "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/opinion/letters-facial-recognition-technology-punishing-those-who-litter/article_02e65fb8-cfa5-11ec-9d3d-b3b3553c8fab.amp.html",
+      "publishedDateTime": "2022-05-10T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-google-announces-cloud-tpu-virtual-machines-for-ai-workloads.md",
       "title": "Google announces Cloud TPU virtual machines for AI workloads",
       "excerpt": "Google Cloud has announced the general availability of TPU virtual machines (VMs) for artificial intelligence workloads. The general availability release includes a new TPU embedding API, which Google Cloud claims can accelerate large-scale,",
@@ -10,7 +96,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -52,49 +138,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-avaya-microsoft-expand-partnership-to-pair-avaya-onecloud-portfolio-with-microsoft-azure.md",
-      "title": "Avaya, Microsoft expand partnership to pair Avaya OneCloud portfolio with Microsoft Azure",
-      "excerpt": "Unified communications vendor Avaya has expanded its global partnership with Microsoft by pairing the Avaya OneCloud portfolio with Microsoft Azure. Avaya says the partnership expansion wil provide organisations with more options to increase their productivity and customer engagement with",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/it-industry-news/strategy/avaya,-microsoft-expand-partnership-to-pair-avaya-onecloud-portfolio-with-microsoft-azure.html",
-      "originalUrl": "https://itwire.com/it-industry-news/strategy/avaya,-microsoft-expand-partnership-to-pair-avaya-onecloud-portfolio-with-microsoft-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/edbe7be11627d2e934e4efc0d1dab222_M.jpg",
-          "width": 375,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -209,7 +252,7 @@
       "originalUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 367,
+      "heat": 377,
       "tags": null,
       "images": [
         {
@@ -313,7 +356,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1063,6 +1106,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-09-how-indian-startups-embed-ethical-ai-in-their-processes.md",
+      "title": "How Indian startups embed Ethical AI in their processes",
+      "excerpt": "According to the Global AI Adoption Index 2021, 91 percent of companies using AI think it’s important to understand how the models arrived at a decision. Additionally, more than half of the businesses pointed out stumbling blocks that gets in the way of embedding ethical AI in their processes,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/how-indian-startups-embed-ethical-ai-in-their-processes/",
+      "originalUrl": "https://analyticsindiamag.com/how-indian-startups-embed-ethical-ai-in-their-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/ethical-ai-in-indian-startups.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-08T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-08-5-ways-ai-can-help-solve-the-privacy-dilemma.md",
       "title": "5 ways AI can help solve the privacy dilemma",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -1110,100 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases.md",
-      "title": "Artificial Intelligence (AI) Discovers Precise Treatments for Blinding Diseases",
-      "excerpt": "New study discovers subpopulations of retinal cells using artificial intelligence, that may help modify the treatment preciseness of blinding eye diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/eye6.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "publishedDateTime": "2022-05-07T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era.md",
-      "title": "What voice tech can teach us about brand innovation in the Web3 era",
-      "excerpt": "The rise of voice tech to mainstream prominence provides lessons for brands when considering the augmented worlds of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/",
-      "originalUrl": "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1093904450.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/amp/",
-      "publishedDateTime": "2022-05-07T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

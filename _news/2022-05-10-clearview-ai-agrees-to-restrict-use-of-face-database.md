@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial recognition firm Clearview AI agrees to restrictions on use of its massive database"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without their consent."
+    publishedDateTime: 2022-05-10T10:25:00Z
+    webUrl: "https://wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/"
+    ampWebUrl: "https://wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 66
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/09/facial-recognition-e1557763570147.png"
+        width: 864
+        height: 486
+        isCached: true
   - title: "Facial recognition company Clearview AI agrees to restrict sale of database in settlement"
     excerpt: "The company can no longer sell to private businesses or law enforcement, according to a settlement reached Monday."
     publishedDateTime: 2022-05-09T20:27:00Z
@@ -169,7 +185,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 67
+    quality: 65
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/09/77168b00-64e5-4eb8-8109-99edd1348887/thumbnail/1200x630/8fe71faeabdf7becf56abe37411266d7/clearview-ai.jpg"
         width: 1200

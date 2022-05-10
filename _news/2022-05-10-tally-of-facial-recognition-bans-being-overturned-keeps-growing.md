@@ -24,6 +24,22 @@ images:
     height: 1365
     isCached: true
 
+related:
+  - title: "Government to Submit Law Permitting Facial Recognition Cameras in Public Spaces"
+    excerpt: "\"When a police officer can post a biometric camera in every neighborhood, there’s an opening for the exploitation and over-enforcement in certain populations.\""
+    publishedDateTime: 2022-05-09T07:11:00Z
+    webUrl: "https://www.jewishpress.com/news/israel/the-knesset/government-to-submit-law-permitting-facial-recognition-cameras-in-public-spaces/2022/05/09/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 35
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/Technicians-install-security-cameras-at-the-Gush-Etzion-intersection-archive..jpg"
+        width: 800
+        height: 535
+        isCached: true
+
 secured: "WajYmZs8ctyESaH5kUh6oyx3ik9v7UXSqliqHbp0MPbBrO8GLRsIbrmPTmhZsRn9TNxAOHah7RD4++ijxm7s688qRhkS90l0nvlOSopo+weA5FuIcThJ3ALLVmoxXkkqaxSswwfk9lz0ZTOsD5kHLe3wS8cNGpWpJo3fUcLoiN8teO6t3l20hfJ8ESwVneq+KHKkEmkTYuqUIvxQv3wCpIwhrCFZIGKy6amLC5ivlIh4ZTotk4gSHVJ7/pmDTZb3TwjSrP0JJMFSnwJTSjEXuo4v3xvRH+Onj3X5p4LU1NzhDeZWbsWgyLxcxTQGJCG/32C9Y9Jz/6sLSumbPrcpF+k+HAowJG6mn/t/gUaFXPEA3h61D3Dk7cLzOZHG9aB7A8xH4SV6TyTrQ/OiYNu0XeuZ/l6uDqLCwzS7UWom4fBy5YdqQQ1hLMmfkYD2FoPp4ryofK7p19sabglLw7HylsbyOcbZ+Tk6QOcGHIh2CeKi8Aq+WWCcZdotBjZq1xQyGdaC5RZ/aA0x6F4U6uJDow==;oMmNvSBfhvgWQlnJ67lv/A=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/how-indian-startups-embed-ethical-ai
 webUrl: "https://analyticsindiamag.com/how-indian-startups-embed-ethical-ai-in-their-processes/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Analytics India Magazine
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Should Indian Defence Forces get a Chief AI Officer?"
+    excerpt: "Russian President Vladimir Putin said that the country that leads in AI would rule the world. He really meant it. In the recent invasion of Ukraine, the Russian forces reportedly used AI-based drones,"
+    publishedDateTime: 2022-05-10T10:31:00Z
+    webUrl: "https://analyticsindiamag.com/should-indian-defence-forces-get-a-chief-ai-officer/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/army-1.jpeg"
+        width: 1735
+        height: 976
+        isCached: true
   - title: "How is AI moving the needle in the pharmaceutical industry?"
     excerpt: "Artificial intelligence can help drug study teams solve operational, scientific and ethical challenges. For example, AI can be used to flag real-time trends emerging in drug trials that might otherwise not be obvious until the end of a study when all the data is analyzed."
     publishedDateTime: 2022-05-08T18:13:00Z

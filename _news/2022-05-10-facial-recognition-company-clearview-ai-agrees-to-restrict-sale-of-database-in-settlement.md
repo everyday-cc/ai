@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/news/clearview-settlement-aclu-law-enforcement-
 ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-settlement-aclu-law-enforcement-illinois/"
 type: article
-quality: 67
+quality: 65
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/09/77168b00-64e5-4eb8-8109-99edd1348887/thumbnail/1200x630/8fe71faeabdf7becf56abe37411266d7/clearview-ai.jpg"
@@ -164,6 +163,22 @@ related:
       - url: "https://www.theglobeandmail.com/resizer/a4Wsnx6Bh7Gm3jNK93oCGVSQBOA=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/576JG2B4Z5O2NIENACSRNG5OBI.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facial recognition firm Clearview AI agrees to restrictions on use of its massive database"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without their consent."
+    publishedDateTime: 2022-05-10T10:25:00Z
+    webUrl: "https://wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/"
+    ampWebUrl: "https://wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 66
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/09/facial-recognition-e1557763570147.png"
+        width: 864
+        height: 486
         isCached: true
   - title: "Clearview AI agrees to permanent ban on selling facial recognition to private companies"
     excerpt: "Facial recognition surveillance company Clearview AI has agreed ... this settlement demonstrates that strong privacy laws can provide real protections against abuse,” said ACLU Speech, Privacy, and Technology Project deputy director Nathan Freed Wessler."
@@ -366,6 +381,6 @@ related:
       domain: courthousenews.com
     quality: 4
 
-secured: "6GXCgoiSBmZAEMC0sQhbddT0nj988yUkKka76Hzzt0OnOET312ohivyci8NCJf+IvRm7M5DJRindHR13Aq2hSKv7VZO0dGdfTx1ZOqcsK309Z6G+GhdycmDQsbxx0XfQcQ63A4JPjVXopcGeSHH8pZiNYlWTMSBCygpkn2lRh16PPD8G5nYqLV5kwX7vtnJXSD4PXkkeuxg5G9ZHlkoLUYs5FgB8XZ1Q/HOKwH7p5rkoqNnpR2ERfg/9YLgjgp5yMYK8Yz6BVuCqau2V3UpeewJdi2h5zqna6WA1yoh+NaGb/yGmD8rsX+MGMRScB0izuIt8HPea6EXnM4ISawIHEJQMGw3DB29GdOSuBbB4L4GymqumY6pBxZ6zEnYwLabzIiBIYMH/thNnhv3HS4awq25jcf3PFp2oXz49ecXnabknIlAYjpb0XH8zwx1uIBgacgisY60sv5SCoGxpyx2P7BRy1tbpKNVsqQqmiE5ZU3t36fwxzd/4NO2tLS03iM9RlBZBQKvVMwSuvcS6lwVrLw==;y62x2MDEAzr9S/FvueFZDw=="
+secured: "Vs/J99KZrNH7gE4LcjwagIvCsoBLAe3aFD0Gy1jLvn3XLeWXbd0pbImr7t4AucNDy9lvv6qlBaZ9Jhu+u+B5QYcRb74T6AB6mBIYBBQLDF2P/QP/Ze4fD2419blNRgzawW5Ru/DcpM6B3ibpvjH36nsoFeZrZbCCwqDiJxTiWvREyyjLiLtbaduxplcsqdhXykxA56HxOgVwh3fqw0qwsVCbOP+6up8Jb6uzNVInc9QXqCe3Eoa9LXqmt35wbQzPcmqqalY5YBNcAkj17KoBEctBkxhvIMsa4ADt6ON5njjhhPW2y5K+hIE3LSPuEUtxzTUlwP6WJCGWXTURZuBNO+nnQnMCDIQtVFbxmiDWriw=;G5xHZwrUzf0r8aEzhw7pMw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220505/Using-AI-to-predict-h
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to predict bone fractures in cancer patients"
-    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
-    publishedDateTime: 2022-05-05T17:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/bonefracture.jpg"
-        width: 1440
-        height: 1920
-        isCached: true
-  - title: "AI-assisted digital twin could predict spinal column fractures in cancer patients"
-    excerpt: "An AI-assisted digital twin of human vertebrae could predict how cancer affects the probability of spinal column fractures, a study from Ohio State University has found."
-    publishedDateTime: 2022-05-06T09:47:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/ai-assisted-digital-twin-could-predict-spinal-column-fractures-in-cancer-patients"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 32
-    images:
-      - url: "https://www.theengineer.co.uk/media/vripxcoe/adobestock_111354720.jpeg"
-        width: 940
-        height: 627
-        isCached: true
   - title: "AI can predict bone fractures in cancer patients"
     excerpt: "A team of US researchers has used artificial intelligence (AI) to create a digital twin of a patient’s vertebra that will be able to predict the risk of bone fracture in people who have suffered from cancer. As medicine continues to embrace machine ..."
     publishedDateTime: 2022-05-06T12:29:00Z

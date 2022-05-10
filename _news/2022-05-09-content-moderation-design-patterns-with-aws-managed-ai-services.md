@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1126
         height: 630
         isCached: true
-  - title: "Ardent Health Services Partners with AI Company Winnow to Modernize Clinician Recruiting"
-    excerpt: "Healthtech company Winnow has partnered with Ardent Health Services to leverage its AI solution for clinician recruiting. The partnership deepens Ardent's commitment to digital innovation and gives it"
-    publishedDateTime: 2022-05-05T18:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27032086/ardent-health-services-partners-with-ai-company-winnow-to-modernize-clinician-recruiting"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
 
 secured: "kbf5BV/KJh4DSTe0v429cvbDOt+Q8lm2MS41hXRa+pnpzpnlQtJZwZu1IGMj5sb2coPUzfm0Y2wA//jaAYbRBA0PBt7eGeQr2z/g6KmN9DAK6l4AAK4LSrW0eFXzj4MkaUymLmnB4iZ/xHMXsqEy+dnCBQGYUe9fekSRoLGgxDkjYYvt6L862fxqX2hnDY13Tzze+aWa5NpaNyoQ8PNubqzwzcjmeys2LfvRYwhAJymCVf177mOdh6ro5EEVg8VwD8/dvrjJuXW8ho8NkwxfkmzfGhvQLgw8GFnluDyjuwUwfthB7y6x4yMN/PypGaIU08n3uit8cMsFoeeNYVOPAl6byT0r5Ix6QZJ31xcV3bs=;p4YQBatF3Bfx0N1NNjudzw=="
 ---

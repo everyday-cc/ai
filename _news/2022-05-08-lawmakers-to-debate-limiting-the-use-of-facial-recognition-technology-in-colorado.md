@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "LETTERS: Facial recognition technology; punishing those who litter"
+    excerpt: "Reference the article “Debate continues over facial recognition tech” in May 8 Gazette. On April 26 my wife and I were returning to Denver from Baltimore, MD. At the BWI security check in for ..."
+    publishedDateTime: 2022-05-10T11:02:00Z
+    webUrl: "https://gazette.com/opinion/letters-facial-recognition-technology-punishing-those-who-litter/article_02e65fb8-cfa5-11ec-9d3d-b3b3553c8fab.html"
+    ampWebUrl: "https://gazette.com/opinion/letters-facial-recognition-technology-punishing-those-who-litter/article_02e65fb8-cfa5-11ec-9d3d-b3b3553c8fab.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/opinion/letters-facial-recognition-technology-punishing-those-who-litter/article_02e65fb8-cfa5-11ec-9d3d-b3b3553c8fab.amp.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/6/b0/6b047184-cfa5-11ec-a172-abef229336d7/6279272a36855.image.jpg?resize=1024%2C855"
+        width: 1024
+        height: 855
+        isCached: true
   - title: "Debate continues in Legislature over limits on facial recognition technology"
     excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday."
     publishedDateTime: 2022-05-07T07:45:00Z
@@ -43,50 +59,6 @@ related:
         width: 1024
         height: 642
         isCached: true
-  - title: "DRAFT Startup Spotlight: The challenges and promises of facial recognition technology"
-    excerpt: "“We don’t fundamentally understand how that black box, AI, does what it does,” said Ricanek. “We’re exploring that through this whole realm of explainable AI, and that’s going on ..."
-    publishedDateTime: 2022-05-09T11:22:00Z
-    webUrl: "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/"
-    ampWebUrl: "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 52
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg"
-        width: 1264
-        height: 710
-        isCached: true
-  - title: "Disrupting Facial Recognition Technology with Matthew Owen"
-    excerpt: "Disruption Interruption podcast host and veteran communications disruptor KJ Helms interviews Facial Recognition Technology guru Matthew Owen, who explains how this technology can be very useful beyond the confines of surveillance. That myth, he notes ..."
-    publishedDateTime: 2022-05-09T17:17:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/disrupting-facial-recognition-technology-with-matthew-owen/article_45d602a7-aa0d-5bbf-9172-e8502e361eec.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Government to Submit Law Permitting Facial Recognition Cameras in Public Spaces"
-    excerpt: "\"When a police officer can post a biometric camera in every neighborhood, there’s an opening for the exploitation and over-enforcement in certain populations.\""
-    publishedDateTime: 2022-05-09T07:11:00Z
-    webUrl: "https://www.jewishpress.com/news/israel/the-knesset/government-to-submit-law-permitting-facial-recognition-cameras-in-public-spaces/2022/05/09/"
-    type: article
-    provider:
-      name: Jewish Press
-      domain: jewishpress.com
-    quality: 35
-    images:
-      - url: "https://www.jewishpress.com/wp-content/uploads/Technicians-install-security-cameras-at-the-Gush-Etzion-intersection-archive..jpg"
-        width: 800
-        height: 535
-        isCached: true
   - title: "Lawmakers to debate limiting the use of facial recognition technology in Colorado"
     excerpt: "Lawmakers will soon debate on how much to limit the use of facial recognition technology in Colorado after the state House and Senate passed competing regulations on Friday. As drafted, Senate Bill 113 would establish several regulations for the use of ..."
     publishedDateTime: 2022-05-06T20:38:00Z
@@ -101,38 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Startup Spotlight: The challenges and promises of facial recognition technology"
-    excerpt: "The CEO of Lapetus Solutions, Karl Ricanek, speaks with WRAL TechWire reporter Jason Parker about the use of AI in facial recognition technology."
-    publishedDateTime: 2022-05-09T12:32:00Z
-    webUrl: "https://wraltechwire.com/2022/05/09/startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 15
-  - title: "Law enforcement use of facial-recognition technology must be limited: Privacy Commissioner of Canada"
-    excerpt: "Current laws regulating the use of facial recognition software do not offer sufficient protection against the risks the technology creates,” Canada’s Privacy Commissioner said while appearing before Parliament’s Standing Committee on Access to Information,"
-    publishedDateTime: 2022-05-06T21:08:00Z
-    webUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/law-enforcement-use-of-facial-recognition-technology-must-be-limited-privacy-commissioner-of-canada/366432"
-    type: article
-    provider:
-      name: Canadian Lawyer Magazine
-      domain: canadianlawyermag.com
-    quality: 9
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0395_637874680367642289.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Controversial facial recognition firm barred from taking on most private clients, operating in Illinois for 5 years"
-    excerpt: "A settlement filed Monday in Cook County offers a stinging blow to Clearview AI, which has built a facial recognition database with more than 20 billion images ripped from popular websites and apps."
-    publishedDateTime: 2022-05-09T18:09:00Z
-    webUrl: "https://chicago.suntimes.com/business/2022/5/9/23063901/clearview-ai-facial-recognition-illinois-aclu-privacy-data"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 0
 
 secured: "CeBKA54VBFV23iM0KH6mM9/xeTttwvLq/DFYkH2YHW+wbrgwrzYGScDO0EbOdE5yazT3rKJHO2FnjE2T+g8nHvVOQZeQzYD9C3p7zelYWIZDhfJ1a5RG8CNMEfgwhQx4sNitBa2mSytflfVQCsKmBg/uQYzWE9/g4kLEmSfNpWD9AZ4ztNkTIzGM81YwtDwgtMxtIBHKRvV3q5LU4KQzRuSuT76KPbklsfoX83KobAvwcPL4azPjmPM4/hEO5Pr+lbKMaHtx95BoN/aIebolen9hkMzHAoRajAY+RdmNcdPxCrop6Ro1CdpYoQ37GKTtYXDiKRP+Bx5yFammTjeXXZJBKXZBVubSTRBbXm2gAvA=;SezDpeWtxR5A46JduR5cGQ=="
 ---

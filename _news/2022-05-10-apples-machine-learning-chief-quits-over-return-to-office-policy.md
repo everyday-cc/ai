@@ -2,19 +2,19 @@
 category: news
 title: "Apple's machine learning chief quits over return-to-office policy"
 excerpt: "He left a note to colleagues saying, \"I believe strongly that more flexibility would have been the best policy for my team\""
-publishedDateTime: 2022-05-10T08:32:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/981839/apple-s-machine-learning-chief-quits-over-return-to-office-policy-981839.html"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/981839/apple-s-machine-learning-chief-quits-over-return-to-office-policy-981839.html"
-ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/981839"
-cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/981839"
+publishedDateTime: 2022-05-10T10:13:00Z
+originalUrl: "https://www.proactiveinvestors.com/companies/news/981839/apple-s-machine-learning-chief-quits-over-return-to-office-policy-981839.html"
+webUrl: "https://www.proactiveinvestors.com/companies/news/981839/apple-s-machine-learning-chief-quits-over-return-to-office-policy-981839.html"
+ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/981839"
+cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/981839"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Proactive Investors
-  domain: proactiveinvestors.co.uk
+  name: Proactiveinvestors
+  domain: proactiveinvestors.com
 
 topics:
   - Machine Learning
@@ -154,6 +154,6 @@ related:
       domain: macrumors.com
     quality: 18
 
-secured: "3ZXGln6VJ5i6AjWhGyvWGcL6U1OFbi0F4hUWqLMDpUBn2XEyMJbc5erV68Fry021q1UeGvrncdLVD1WHM0BmqC+J8RDuQ5saTyTTjDdLj1hoi9Ut5K6twFXOHexRz2QcP4M1OUgswHZlbgZyJqT6mvf3704IBUgMxqWfJEZZZJD5kw8L3GulsQId+OvxNTqcuZOhhm1VvL2Vj5F7tDtswSsk1ckknSXy9+Tzf3Vm9z+oYBfp5NYQ4iYIyNNWwHcHLaGQTsPN/JrQ7l0bKBc0BjcyNRtpmrxZtpdyfi011m0XjFAkF08/0s85p9xNweVbBCGx7osaauWI9hRADssUtYC8w5t8bYERqt5FWfX9TWU=;f5I9hdYCU0phJWzDwhxeGw=="
+secured: "OxdtjqFKcBJvycScNJ8YdN3ex9l9w5ixx2x0B+Gca+O9mEMUQ8lmzKit0LzsPdJDbJmtjN2QGXbrlVL4rbZfF0RjFafQBn00UEWSeseRXWX+C+Ze9uSAUfRmtorE6bBL7NgEZtiMiHTq9lGcmL+5tIDw6REyTJ7q/hUkOjwiW6CWfpjfFyCKvoH5poy5qaCUZecD67zJErljvY98FwFxeFuYGnq0wg4pVLfPnLMYYObiNfeUtgmzxCSpBfh+93IJuDPK3WPQpF4SOXaESP9OYfmj3GuVGqhxgUtHl/lUP5GUWp0lbe+1y4nDNB9jsXiFK/4PZx8N5ONfsO0wuiiixtWwgucHDbqAasrmN7jQUGM=;eUWhqElWbyvvxqACjjRQDg=="
 ---
 

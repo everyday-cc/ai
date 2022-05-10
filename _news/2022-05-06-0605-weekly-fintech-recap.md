@@ -57,6 +57,20 @@ related:
         width: 498
         height: 370
         isCached: true
+  - title: "The customer engagement imperative: What banks can learn from the FinTech playbook"
+    excerpt: "They discuss the challenges banks are facing as a result, what they should be investing in and leveraging to tackle this challenge, and how they can use data and AI/ML technologies to create superior customer experiences that drive growth. They also ..."
+    publishedDateTime: 2022-05-10T11:17:00Z
+    webUrl: "https://www.finextra.com/videoarticle/2641/the-customer-engagement-imperative-what-banks-can-learn-from-the-fintech-playbook"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/finextratv-capgemini-10052022-850.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
     excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"
     publishedDateTime: 2022-05-06T08:52:00Z

@@ -43,6 +43,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "The customer engagement imperative: What banks can learn from the FinTech playbook"
+    excerpt: "They discuss the challenges banks are facing as a result, what they should be investing in and leveraging to tackle this challenge, and how they can use data and AI/ML technologies to create superior customer experiences that drive growth. They also ..."
+    publishedDateTime: 2022-05-10T11:17:00Z
+    webUrl: "https://www.finextra.com/videoarticle/2641/the-customer-engagement-imperative-what-banks-can-learn-from-the-fintech-playbook"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/finextratv-capgemini-10052022-850.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "06/05 – Weekly Fintech Recap"
     excerpt: "Partnerships Ophelos Partners with Credit Card Startup, Yonder, for Ethical Debt Resolution Ophelos, the technology firm building fairer debt resolution for businesses and their customers, announces its partnership with Yonder,"
     publishedDateTime: 2022-05-06T09:25:00Z

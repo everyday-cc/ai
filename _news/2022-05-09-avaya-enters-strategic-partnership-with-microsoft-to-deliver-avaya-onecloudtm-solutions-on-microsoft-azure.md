@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Avaya enters strategic partnership with Microsoft to deliver CCaaS on Azure cloud"
+    excerpt: "In addition to the Microsoft Azure, Avaya CCaaS customers will gain access to the power of Nuance’s Contact Centre AI technology integrated with OneCloud. The combined capabilities is said to give Avaya customers flexibility to create and deliver ..."
+    publishedDateTime: 2022-05-10T11:20:00Z
+    webUrl: "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud"
+    ampWebUrl: "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 69
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Avaya, Microsoft expand partnership to pair Avaya OneCloud portfolio with Microsoft Azure"
     excerpt: "Unified communications vendor Avaya has expanded its global partnership with Microsoft by pairing the Avaya OneCloud portfolio with Microsoft Azure. Avaya says the partnership expansion wil provide organisations with more options to increase their productivity and customer engagement with"
     publishedDateTime: 2022-05-10T01:57:00Z

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-10-avaya-microsoft-expand-partnership-to-pair-avaya-onecloud-portfolio-with-microsoft-azure.md",
-      "title": "Avaya, Microsoft expand partnership to pair Avaya OneCloud portfolio with Microsoft Azure",
-      "excerpt": "Unified communications vendor Avaya has expanded its global partnership with Microsoft by pairing the Avaya OneCloud portfolio with Microsoft Azure. Avaya says the partnership expansion wil provide organisations with more options to increase their productivity and customer engagement with",
+      "path": "_news/2022-05-10-avaya-enters-strategic-partnership-with-microsoft-to-deliver-ccaas-on-azure-cloud.md",
+      "title": "Avaya enters strategic partnership with Microsoft to deliver CCaaS on Azure cloud",
+      "excerpt": "In addition to the Microsoft Azure, Avaya CCaaS customers will gain access to the power of Nuance’s Contact Centre AI technology integrated with OneCloud. The combined capabilities is said to give Avaya customers flexibility to create and deliver ...",
       "sourceUrl": null,
-      "webUrl": "https://itwire.com/it-industry-news/strategy/avaya,-microsoft-expand-partnership-to-pair-avaya-onecloud-portfolio-with-microsoft-azure.html",
-      "originalUrl": "https://itwire.com/it-industry-news/strategy/avaya,-microsoft-expand-partnership-to-pair-avaya-onecloud-portfolio-with-microsoft-azure.html",
+      "webUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
+      "originalUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://itwire.com/media/k2/items/cache/edbe7be11627d2e934e4efc0d1dab222_M.jpg",
-          "width": 375,
-          "height": 375,
+          "url": "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T18:57:00-07:00",
+      "ampWebUrl": "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1",
+      "publishedDateTime": "2022-05-10T04:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -105,7 +105,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 116,
       "tags": null,
       "images": [
         {

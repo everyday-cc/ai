@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-04-04-how-reverie-is-serving-bharat-with-multilingual-bots.md",
+      "title": "How Reverie is serving Bharat with multilingual Bots",
+      "excerpt": "Through its robust partner ecosystem Reverie empowers multilingual chatbots to enable language interface through voice and conversational AI be it ... include machine translation, speech-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots-11649076963373.html",
+      "originalUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots-11649076963373.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/04/04/600x338/02_(30)_1649077118917_1649077124184.jpg",
+          "width": 599,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots/amp-11649076963373.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots/amp-11649076963373.html",
+      "publishedDateTime": "2022-04-04T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-massaging-ai-language-models-for-fun-profit-and-ethics.md",
       "title": "Massaging AI language models for fun, profit and ethics",
       "excerpt": "For applications where there is lots of data, such as natural language processing (NLP), the amount of domain knowledge injected into the system has gone down over time. In the early days of deep learning, people would routinely train a small deep learning ...",
@@ -1103,48 +1146,6 @@
       "provider": {
         "name": "الشرق الأوسط",
         "domain": "aawsat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-beats-top-players-at-bridge-in-two-day-tournament.md",
-      "title": "AI beats top players at Bridge in two-day tournament",
-      "excerpt": "In brief AI algorithms crushed eight world champions playing the card game Bridge, marking another milestone in machine learning systems becoming better than humans at specific games. Top Bridge players were invited to play against NooK,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/03/in_brief_ai/",
-      "originalUrl": "https://www.theregister.com/2022/04/03/in_brief_ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2017/07/18/poker.jpg",
-          "width": 648,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/03/in_brief_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/03/in_brief_ai/",
-      "publishedDateTime": "2022-04-03T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

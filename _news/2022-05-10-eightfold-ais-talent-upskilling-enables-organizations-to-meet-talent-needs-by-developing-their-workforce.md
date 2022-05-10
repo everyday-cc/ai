@@ -2,20 +2,26 @@
 category: news
 title: "Eightfold AI's Talent Upskilling Enables Organizations to Meet Talent Needs by Developing Their Workforce"
 excerpt: "Eightfold AI, the leader in AI-powered talent intelligence, today unveiled its Eightfold Talent Upskilling solution during its annual talent summit,  Cultivate 2022. Building on the foundation of the Talent Intelligence Platform,"
-publishedDateTime: 2022-05-10T10:00:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/cision/20220510SF51884/eightfold-ais-talent-upskilling-enables-organizations-to-meet-talent-needs-by-developing-their-workforce/"
-webUrl: "https://fox4kc.com/business/press-releases/cision/20220510SF51884/eightfold-ais-talent-upskilling-enables-organizations-to-meet-talent-needs-by-developing-their-workforce/"
+publishedDateTime: 2022-05-10T09:44:00Z
+originalUrl: "https://who13.com/business/press-releases/cision/20220510SF51884/eightfold-ais-talent-upskilling-enables-organizations-to-meet-talent-needs-by-developing-their-workforce/"
+webUrl: "https://who13.com/business/press-releases/cision/20220510SF51884/eightfold-ais-talent-upskilling-enables-organizations-to-meet-talent-needs-by-developing-their-workforce/"
 type: article
-quality: 0
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: who13
+  domain: who13.com
 
 topics:
   - AI
+
+images:
+  - url: "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2022/05/hoover-boys.jpg?w=2000&#038;ssl=1"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Eightfold AI and Deloitte Alliance Accelerates Skills-Based Talent Transformations"
@@ -32,7 +38,21 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Eightfold Selected as AI Platform for Defense Innovation Unit (DIU) GigEagle Application"
+    excerpt: "SANTA CLARA, Calif., May 10, 2022 /PRNewswire/ -- Eightfold AI, the leader in AI-powered talent intelligence, in partnership with Carahsoft Technology Corp., the Trusted Government IT Solutions Provider, announced that they have been awarded an Other ..."
+    publishedDateTime: 2022-05-10T10:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/eightfold-selected-as-ai-platform-for-defense-innovation-unit-diu-gigeagle-application/article_6dcd8e26-29ef-5651-a6d4-efe5b999d168.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
-secured: "blrG5bjfPbniJiJf51sxfvTXKarp3b6rTzD/n8pgNI4w5vPBx6x2wJBFreydQFQMFRNX7lWyQPkVWs4egJwXXl4llrtmHc72snubGiK2XCHXisA+1QxxuUS9ZHTT5EyAfyfg5j/Nxa+Mwzjmfg1rHE2VPBlobDnMeJ5Kka40cut/kGDP2TAnKzaBN4u8ofWkDynzHbv+IhURbaNWELrskjGKmNu9IQvsKfeehkwZjTlMF9UU00QzWYPABYTjaXomXFXV0WHZhzfFHINE4KbOlFjNzHCy4/g9GGu/5rQ/UdhMWLGY2gOp1VBqZGWHX5kZt0X0piZOlrdIIpm6/n4FMuYddAxzpS1QRurDo+Pk7UY=;wxn/R+grv+drtKeuB1WUNA=="
+secured: "qgGeCkZ8VO7FVx0uYgg6DeYA0EtMIPaWx7vZWiu8qHEKbKBJsdWaT2rwwmsjnU4BLcNu1PQAkLBSLMAfqAhGew3TDlUe7spLgouOC0OtW6dmCxEynMN7TCxpgUC8UtsX+k3ZD3BzVcRT3o++BW07oLYj4bGyX4ZhRZacJAu8FXS2qUpfR2jKbRf18JBna0Y9acRvQF6F5VS8KPXhiiqd0fRQegmftAfQkjmTQFKuDyEH+yw2RUAz6KC++B95rPF6GDxIXSjVIr0uE1t/RW/XDIaenpHvGjC7C/lA4Ds0/HHfSYcOiSRxriEkr5z7AKNc+loDpDVDVmVQUPSvW9WkihdX5nqMHixZDP5IJOlI+qg=;PuRjppPjnvcQImgRtFr21A=="
 ---
 

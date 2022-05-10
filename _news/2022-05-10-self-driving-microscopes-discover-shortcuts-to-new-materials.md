@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Microscopes Could Lead to Material Innovations"
+    excerpt: "Researchers are teaching microscopes to drive discoveries with an intuitive algorithm that could guide breakthroughs in new materials for energy technologies, sensing and computing."
+    publishedDateTime: 2022-05-10T09:17:00Z
+    webUrl: "https://www.technologynetworks.com/analysis/news/self-driving-microscopes-could-lead-to-material-innovations-361425"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361425/self-driving-microscopes-could-lead-to-material-innovations-361425-640x360.jpg?cb=20220510"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Self-driving microscopes inspire breakthroughs in new materials"
+    excerpt: "An intuitive algorithm is opening up access to previously unexplored <a href=\"/products/189/Materials\">materials used in energy technologies, sensing and computing.<br /><br />"
+    publishedDateTime: 2022-05-10T10:04:00Z
+    webUrl: "https://www.dpaonthenet.net/article/190710/Self-driving-microscopes-inspire-breakthroughs-in-new-materials.aspx"
+    type: article
+    provider:
+      name: dpaonthenet
+      domain: dpaonthenet.net
+    quality: 24
+    images:
+      - url: "https://www.dpaonthenet.net/global/showimage/Article/202460/"
+        width: 375
+        height: 238
+        isCached: true
   - title: "Self-driving microscopes discover shortcuts to new materials"
     excerpt: "Researchers at the Department of Energy’s Oak Ridge National Laboratory are teaching microscopes to drive discoveries with an intuitive algorithm, developed at the lab’s Center for Nanophase Materials Sciences,"
     publishedDateTime: 2022-05-09T12:00:00Z

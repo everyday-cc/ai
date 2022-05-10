@@ -35,6 +35,34 @@ related:
         width: 2880
         height: 1659
         isCached: true
+  - title: "Self-Driving Microscopes Could Lead to Material Innovations"
+    excerpt: "Researchers are teaching microscopes to drive discoveries with an intuitive algorithm that could guide breakthroughs in new materials for energy technologies, sensing and computing."
+    publishedDateTime: 2022-05-10T09:17:00Z
+    webUrl: "https://www.technologynetworks.com/analysis/news/self-driving-microscopes-could-lead-to-material-innovations-361425"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361425/self-driving-microscopes-could-lead-to-material-innovations-361425-640x360.jpg?cb=20220510"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Self-driving microscopes inspire breakthroughs in new materials"
+    excerpt: "An intuitive algorithm is opening up access to previously unexplored <a href=\"/products/189/Materials\">materials used in energy technologies, sensing and computing.<br /><br />"
+    publishedDateTime: 2022-05-10T10:04:00Z
+    webUrl: "https://www.dpaonthenet.net/article/190710/Self-driving-microscopes-inspire-breakthroughs-in-new-materials.aspx"
+    type: article
+    provider:
+      name: dpaonthenet
+      domain: dpaonthenet.net
+    quality: 24
+    images:
+      - url: "https://www.dpaonthenet.net/global/showimage/Article/202460/"
+        width: 375
+        height: 238
+        isCached: true
 
 secured: "Vz+c9Xa6TFQWtjqXUrH9Wta0iUJq/+UBqCJOrMtDerDqDelEMnJdukqq8sUtM8GVwhQp+ye8eN5RD7aphrAs5cPiVuyNe5f71HpCet6ojCiw2tWUHPYccMc6FFFJJrLNV0ZpYJjlG4WpNN93tZ17OAsymn1yfPKs0ooXe+WXiP3COpcL8tpetARtiCVgBJ/huQep/UbZZKBUY9NaYkmYzHIgSd7taUyqKLodwVtzQ/coKsb3r4MaHYSlXE1MaGDLXMay8Ev1YXsNkfEV+yTCvQoQVHw/+adorDd3Hpmg+UDlY3N8HzrZOm8PIyAWNlelnr+Z5Z+U2bVwpy2m2sY3flO1G+jK57YNyeJOOCMpZ0jUHSLy/yluNn9RzBaE4ibPQwOhFs6vBq98uvXHULrWIf++vKaHurTCf4Oj5vrRBJJHzdzCAWK5GnwgnzR35WMA8v0j7GdXJWTMRfTEjtlhfeaf5RBzavs4fh2YdzYx/B9EdVsXnt+AOLv2QMathy6S0c8FLrbrriqcCjqf6fQnsw==;4tSm/igtFEIrv3looyu4WQ=="
 ---

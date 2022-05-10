@@ -24,15 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Eightfold AI's Talent Upskilling Enables Organizations to Meet Talent Needs by Developing Their Workforce"
-    excerpt: "Eightfold AI, the leader in AI-powered talent intelligence, today unveiled its Eightfold Talent Upskilling solution during its annual talent summit,  Cultivate 2022. Building on the foundation of the Talent Intelligence Platform,"
+  - title: "Eightfold Selected as AI Platform for Defense Innovation Unit (DIU) GigEagle Application"
+    excerpt: "SANTA CLARA, Calif., May 10, 2022 /PRNewswire/ -- Eightfold AI, the leader in AI-powered talent intelligence, in partnership with Carahsoft Technology Corp., the Trusted Government IT Solutions Provider, announced that they have been awarded an Other ..."
     publishedDateTime: 2022-05-10T10:00:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220510SF51884/eightfold-ais-talent-upskilling-enables-organizations-to-meet-talent-needs-by-developing-their-workforce/"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/eightfold-selected-as-ai-platform-for-defense-innovation-unit-diu-gigeagle-application/article_6dcd8e26-29ef-5651-a6d4-efe5b999d168.html"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 0
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Eightfold AI's Talent Upskilling Enables Organizations to Meet Talent Needs by Developing Their Workforce"
+    excerpt: "Eightfold AI, the leader in AI-powered talent intelligence, today unveiled its Eightfold Talent Upskilling solution during its annual talent summit,  Cultivate 2022. Building on the foundation of the Talent Intelligence Platform,"
+    publishedDateTime: 2022-05-10T09:44:00Z
+    webUrl: "https://who13.com/business/press-releases/cision/20220510SF51884/eightfold-ais-talent-upskilling-enables-organizations-to-meet-talent-needs-by-developing-their-workforce/"
+    type: article
+    provider:
+      name: who13
+      domain: who13.com
+    quality: 20
+    images:
+      - url: "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2022/05/hoover-boys.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "+d9OWjrNDl5dl5wOqI3FYEDjYtLmNIZuYXpe0s+bpYV5QIZKbqHfQs90hxV1XJb/bpGMVmLkw2ToLmMmXMcV/YbAcpJX1Y0iGY4lK+FfLd6O/tsZ4oP5YcJ+gfQVPdHyWBBd60kt2Og/jyO7b4YU6eY95dGG1WTPv1kXpIzb8cQpE6cbh3XIaBP57NUvhEteV9UyhbDi9MADm0RjqvTt7JE8SZ8H7avVnDgoPBdLUiefTDS4VG+ixw1NIRgk60Nnn7WIRBwHLIPGk/nEuTvhnsCZCkAmEhoiaY3Dw9+FOx4uOKZT1eVdL0gYJpIXINQ2ey1XYoKeySBN8YB0GEE4u6XAtAVhW3WOZ3OIwUhz71zXSTxdY5HA8QMV+fg+s9nTb5ZlgEN2tUO3B3tFMS8ktX19RtWKsmlrzVA1w4AXFotKORbsKt9hOnTDvBHg4FbZ78fmU5X+V7afRv6gepblr+pCqZwWljcqJ99/2WCBJESchJ/UCnF1Z/vzPpyZF7dK/TCe9sUeVgavMUa65Rur4Q==;P/z4JUGlc1liO+Bc65BqhQ=="
 ---

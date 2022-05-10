@@ -7,8 +7,8 @@ originalUrl: "https://itwire.com/it-industry-news/strategy/avaya,-microsoft-expa
 webUrl: "https://itwire.com/it-industry-news/strategy/avaya,-microsoft-expand-partnership-to-pair-avaya-onecloud-portfolio-with-microsoft-azure.html"
 type: article
 quality: 60
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: ITWire
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Avaya enters strategic partnership with Microsoft to deliver CCaaS on Azure cloud"
+    excerpt: "In addition to the Microsoft Azure, Avaya CCaaS customers will gain access to the power of Nuance’s Contact Centre AI technology integrated with OneCloud. The combined capabilities is said to give Avaya customers flexibility to create and deliver ..."
+    publishedDateTime: 2022-05-10T11:20:00Z
+    webUrl: "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud"
+    ampWebUrl: "https://www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252517947/Avaya-enters-strategic-partnership-with-Microsoft-to-deliver-CCaaS-on-Azure-cloud?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 69
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/teamwork-puzzle-2-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"
     publishedDateTime: 2022-05-10T09:16:00Z

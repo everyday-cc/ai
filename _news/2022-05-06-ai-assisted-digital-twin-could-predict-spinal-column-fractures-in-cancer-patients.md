@@ -24,47 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to predict bone fractures in cancer patients"
-    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
-    publishedDateTime: 2022-05-05T17:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-ai-bone-fractures-cancer-patients.amp"
+  - title: "AI reduces miss rate of precancerous polyps in colorectal cancer screening"
+    excerpt: "One colonoscopy used AI; the other, a standard colonoscopy, did not. The rate at which precancerous colorectal polyps is missed has been estimated to be 25%. In this study, the miss rate was 15.5% in the group that had the AI colonoscopy first. The miss ..."
+    publishedDateTime: 2022-05-06T03:30:00Z
+    webUrl: "https://medicaldialogues.in/oncology/news/ai-reduces-miss-rate-of-precancerous-polyps-in-colorectal-cancer-screening-92348"
+    ampWebUrl: "https://medicaldialogues.in/amp/oncology/news/ai-reduces-miss-rate-of-precancerous-polyps-in-colorectal-cancer-screening-92348"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/oncology/news/ai-reduces-miss-rate-of-precancerous-polyps-in-colorectal-cancer-screening-92348"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 55
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/bonefracture.jpg"
-        width: 1440
-        height: 1920
+      - url: "https://medicaldialogues.in/h-upload/2022/04/19/174530-cancer.jpg"
+        width: 1500
+        height: 960
         isCached: true
-  - title: "Using AI to predict how cancer may affect the probability of spinal fractures"
-    excerpt: "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column."
-    publishedDateTime: 2022-05-05T23:21:00Z
-    webUrl: "https://www.news-medical.net/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220505/Using-AI-to-predict-how-cancer-may-affect-the-probability-of-spinal-fractures.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 54
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "AI can predict bone fractures in cancer patients"
-    excerpt: "A team of US researchers has used artificial intelligence (AI) to create a digital twin of a patient’s vertebra that will be able to predict the risk of bone fracture in people who have suffered from cancer. As medicine continues to embrace machine ..."
-    publishedDateTime: 2022-05-06T12:29:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/ai-can-predict-bone-fractures-in-cancer-patients/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 17
 
 secured: "S6s7vrA/svK4MHRbXHhJSb446gxy8g+nB/c8ao/zCxovJxjxWFA2eVb4KipTfRkF7HjIuMpuWo5+TCfIMsxU3mfYrM+HxftFdw4ucf/AThNvQ3Cc9V9NqeBVene/fO3v0mIPICVPKc6czw0xe8vBVMVO1HoDfdbYHm1v0tkdnoRxpOSWgboT28QSTIBgBgOT9r9CrHsKF0miU/WdLskrGyCgHu4ZG3BGgNaXdf8zHSLOE3XqkaLDrL2OqD1WA5xJO/If5iAm3aX+nHIKJDt9zUQxyO1bWBQgoYn9krn9NevHzcjDhbYJAxeJCcJJI15Hpt4ix9xsbrOCf6aL9QrUXWjXybT2ibwaQbtwPzQNeHI=;k8jjCccHO+WH3t5n1EjMyg=="
 ---

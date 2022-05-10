@@ -163,6 +163,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial recognition firm Clearview AI agrees to restrictions on use of its massive database"
+    excerpt: "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without their consent."
+    publishedDateTime: 2022-05-10T10:25:00Z
+    webUrl: "https://wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/"
+    ampWebUrl: "https://wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/10/facial-recognition-firm-clearview-ai-agrees-to-restrictions-on-use-of-its-massive-database/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 66
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/09/facial-recognition-e1557763570147.png"
+        width: 864
+        height: 486
+        isCached: true
   - title: "Facial recognition company Clearview AI agrees to restrict sale of database in settlement"
     excerpt: "The company can no longer sell to private businesses or law enforcement, according to a settlement reached Monday."
     publishedDateTime: 2022-05-09T20:27:00Z
@@ -173,7 +189,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 67
+    quality: 65
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/09/77168b00-64e5-4eb8-8109-99edd1348887/thumbnail/1200x630/8fe71faeabdf7becf56abe37411266d7/clearview-ai.jpg"
         width: 1200
@@ -364,6 +380,6 @@ related:
       domain: courthousenews.com
     quality: 4
 
-secured: "MaNPTZgJv2P9KkQMY3KZ5E/C6u9ERNB0ymm4l1F38Gfuj799gFTzoLVEc8bnf5AN8sbtDlmaYLb4rP12YbkLrhf7JI/ES0wYO1W4/Ns8Z8dpWIDsXfXUsHig/4BpYTpvzsjLzbw38xYkFFExzP+sM9jiBBfICGoEPkSxEC94bx6VLbketkE7uY1v1A0CyvD3YxOWaEH6k45y0LQxDkcMkbGEonofU1yIzWt+3DJcmUcQj8fQT8bnsQBGyD07lIlVFY8ckqigLuOvv0UHYNL+13YA2pmgiQ8LGkOY+bYtpcR2r26L+Zr2n8xOnujsgD5A87/x8rLepb8wXioL2MHQIqf++2PLbuNGEukXWmDgr5s=;zZ5wfTI2vcDnalocJVdEOQ=="
+secured: "MaEI2BudY2THyO6nmmhBOxbPxd2nhZfnqBBy1+x3PwP8yG3Nme5twwqQoo9/AQgh7AzqtQsBbS0YBvNsRrmeZr+Gy/8FQcFosN+AUlL3LSGKgQ1NmpWGgkpZikQAgrcHs50vlhJxtwV04Z2Gu2TZGJTH38wFTAh0Pp3o29smvBNiautIXfSWRsr65zcNem6fhliBh3A2EhME8GBfyJPfU1Y06+vWo4BABa0za81co24TvktlHyqAzaGXw1/g8n7Y1wFmiECyAeWFjia9eecXNYOzNHJx28tBHKgQ4W2z3Ds8iR4J9+RPY1V1H/mrF7ke2h8VDUpxKRPDCURhekGX2qdICi9x08xK+05slBurcStG2/vaRN43fnU4w1+MWlnbvEhLE8YEDVDkO9hJhn7hG/oy2V6g5TRiDdcfoQi7u9ee2w5+6DiHXuk/5uziaEH3Mz8sA1+RCZtXZBBmnLY8BipyH2cMvDdeavshUIdX7Yjz3vxx6W9ohLn80D5AseDlH8d2F774SCc3QLj/FU3BFQ==;iWyM5gdEyT2mSJzm7+wdJA=="
 ---
 

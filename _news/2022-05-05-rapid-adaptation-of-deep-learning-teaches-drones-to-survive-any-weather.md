@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Rapid adaptation of deep learning teaches drones to survive any weather"
-excerpt: "To face this challenge, a team of engineers from Caltech has developed Neural-Fly, a deep-learning method that can help drones cope with new and unknown wind conditions in real time just by updating a few key parameters. Neural-Fly is described in a study ..."
-publishedDateTime: 2022-05-04T21:02:00Z
-originalUrl: "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.html"
-webUrl: "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.html"
-ampWebUrl: "https://techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-rapid-deep-drones-survive-weather.amp"
+excerpt: "To face this challenge, a team of engineers from Caltech has developed Neural-Fly, a deep-learning method that can help drones cope with new and unknown wind conditions in real time just by ..."
+publishedDateTime: 2022-05-05T16:55:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/05/220505085644.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/05/220505085644.htm"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/rapid-adaptation-of-de.jpg"
-    width: 2880
-    height: 1920
-    isCached: true
-
-secured: "Esg4iQltmw/6OBthzIXznfyLbO/bH8LJn4JJEpcoeRLSs0wlBIzskrxWrVAjzC3FJR9ZBCYFEEdFXLv4NuigCZPhhrhJc7omPvfVdJAJ63SGpaZsq8mdm/oG03ckXnyqlKIRN5CWDye/MBxc/05QpBTc5g1H0ep/21+zQdDELL69VxY39s1bgll4jgbH3pk49T94U/xU0MQOQU6YLbPh8htDx0oqswu70Lg1XNtCEamo1xcOMlF81Gc0e2lgh09VJcUlmPV1p0uR3CXL/3TW5yfdQJwAfUPL0COkEATx+35CybeqHq/RrbHSS4gmwztrULtb9z68Ary8s0gW1WvINejIaIFaurGKAXPGOZdj4xc=;poGANDQJoz/oCijk8oWCog=="
+secured: "wucSQNB3Xtd2kQKOUuEm69Z5+I9+94H+W9+anzChu+9tsnlIdPAjAUxfb79EPQtzByaCqtGux0+xFfIkSYhPwDqZzkt7i+MzPt0S2uq88xbohfBt1uRR4b+r4rt+Zazp/ub152UFF3vEef2lY8slT5+ozuotT6tmCEqCjJV61o5kqkxq/4S5QxIODU6O5nqlMvzgIT1/Vamb6wD+YWpoh3I4ieA1NnI7HznQ+tADWVqpB3cEMjL6ARoni5CA5ofQlRym0/0zMyvzT3LkZ+dyuToI/ues1zJ/06/7qhTxieUIqCQ2aRQfBA2yyGsfOInpj3InbnYCaUaHloysHgDkeDAqBQoBm+ORBfFAnD1VW8c=;gHibK7CYfyHQP6R/0BD6Vg=="
 ---
 
