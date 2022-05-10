@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-04-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
+      "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
+      "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/426610",
+      "originalUrl": "https://www.entrepreneur.com/article/426610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-426610.jpeg",
+          "width": 3001,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains.md",
+      "title": "Two sisters create a startup that puts sustainability into global supply chains",
+      "excerpt": "Built on the cloud and using AI, it processes mountains of unstructured and uncleansed ... But as is the case with any startup, the journey taken by Atkins and Vowels has not been easy or straightforward. The pair have had to work doubly hard to establish ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/",
+      "originalUrl": "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/givvable_main_2000.jpg",
+          "width": 2000,
+          "height": 1332,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
       "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
       "excerpt": "DETROIT (Reuters) - Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving ...",
@@ -847,6 +952,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-03-empowerly-launches-artificial-intelligence-scholar-program-for-junior-high-and-high-school-students.md",
+      "title": "Empowerly Launches Artificial Intelligence Scholar Program for Junior High and High School Students",
+      "excerpt": "today announced the launch of its Artificial Intelligence (AI) Scholar Program. Developed by Stanford and MIT alumni, the Program was created as a way to empower students from grades 7 through 12 to learn how to apply AI to build socially-impactful projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-empowerly-launches-artificial-intelligence-scholar-program-junior-high-/2022/05/03/9594380.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-empowerly-launches-artificial-intelligence-scholar-program-junior-high-/2022/05/03/9594380.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1741680/Empowerly_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-ai-powered-proven-skincare-launches-worlds-first-personalized-eye-cream-duo.md",
       "title": "AI-Powered PROVEN Skincare Launches World’s First Personalized Eye Cream Duo",
       "excerpt": "PROVEN Skincare, the AI-powered, technology-first skincare brand, today announced the launch of the world’s first personalized Eye Cream Duo. The Duo is formulated with potent ingredients that target multiple skin concerns at once while nourishing the ...",
@@ -1034,143 +1182,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-and-the-metaverse-2-big-reasons-to-buy-meta-platforms-stock.md",
-      "title": "AI and the Metaverse: 2 Big Reasons to Buy Meta Platforms Stock",
-      "excerpt": "Short-form video is the vessel TikTok and Reels use to deliver content, but artificial intelligence (AI) sits in the background curating the entire experience. Social media has become less social -- people open TikTok and rely on the app to know what they ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock?amp",
-      "publishedDateTime": "2022-05-03T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-10-things-in-tech-meet-the-top-seed-investors.md",
-      "title": "10 Things in Tech: Meet the top seed investors",
-      "excerpt": "Get the latest. 7. An engineer at Google's DeepMind AI lab explains how he went from marketing to machine learning without a Ph.D. Businesses are quickly starting to staff up with experts in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6262cee8365a280019dfebfa?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-meet-the-top-seed-investors-2022-5?amp",
-      "publishedDateTime": "2022-05-03T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short.md",
-      "title": "How To Adopt AI-Based Business Intelligence Solutions When Traditional Dashboards Fall Short",
-      "excerpt": "Business leaders must consider leveraging AI to monitor and learn the behavior of data in real ... The right product manager will be able to align with data scientists and translate expectations and results to management, bridging the gap between the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60ca10c91854bb852614d23b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/03/how-to-adopt-ai-based-business-intelligence-solutions-when-traditional-dashboards-fall-short/amp/",
-      "publishedDateTime": "2022-05-03T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,136 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-04-08-le-monde-launches-english-edition-with-ai-translation.md",
+      "title": "Le Monde Launches English Edition With AI Translation",
+      "excerpt": "One of France’s leading newspapers, Le Monde, launched its first English-language digital edition on Thursday with articles translated in part by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/le-monde-launches-english-edition-with-ai-translation-01649356507",
+      "originalUrl": "https://www.barrons.com/news/le-monde-launches-english-edition-with-ai-translation-01649356507",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/le-monde-launches-english-edition-with-ai-translation-01649356507",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/le-monde-launches-english-edition-with-ai-translation-01649356507",
+      "publishedDateTime": "2022-04-07T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-new-snapchat-filter-teaches-users-american-sign-language.md",
+      "title": "New Snapchat Filter Teaches Users American Sign Language",
+      "excerpt": "The ASL Alphabet lens shows users how to fingerspell their name, practice the ASL alphabet and test their sign-language fluency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/internet/new-snapchat-filter-teaches-users-american-sign-language/",
+      "originalUrl": "https://www.cnet.com/culture/internet/new-snapchat-filter-teaches-users-american-sign-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c26c853ebaaf0d0d010105c4a8fa012643f8ae04/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/",
+      "publishedDateTime": "2022-04-07T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-15-upcoming-azure-cloud-services-for-developers-security-ai.md",
+      "title": "15 Upcoming Azure Cloud Services For Developers, Security, AI",
+      "excerpt": "Cool Microsoft tools still in preview or planned for general availability include Azure Video Analyzer, Azure Cognitive Search Speaker Recognition and Azure Object Anchors",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/15-upcoming-azure-cloud-services-for-developers-security-ai",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-upcoming-azure-cloud-services-for-developers-security-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0274-14da973e3242-cc6af0cf06a8-1000/microsoft-azure-1_20210301195736.jpg",
+          "width": 606,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-how-ai-and-imagery-build-a-self-updating-map.md",
       "title": "How AI and imagery build a self-updating map",
       "excerpt": "Building a map is complex, and keeping it up-to-date is even more challenging. Think about how often your city, town or neighborhood changes on a day-to-day basis. Businesses and shops open and close, stretches of highway are added, and roadways change. In today’s Maps 101 installment, we’ll dive into",
@@ -994,127 +1124,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-focus-logistics-giants-hedge-their-bets-in-uncertain-us-self-driving-truck-race.md",
-      "title": "FOCUS-Logistics giants hedge their bets in uncertain U.S. self-driving truck race",
-      "excerpt": "TUCSON, Ariz., April 4 (Reuters) - U.S. self-driving truck companies have a golden opportunity in the form of a nationwide driver shortage, but their robot drivers still are not ready and neither are their biggest potential customers. The uncertainties ...",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/autonomous-trucks-idCNL5N2VQ53P",
-      "originalUrl": "https://cn.reuters.com/article/autonomous-trucks-idCNL5N2VQ53P",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-deci-boosts-computer-vision-nlp-models-performance-at-mlperf.md",
-      "title": "Deci Boosts Computer Vision & NLP Models’ Performance at MLPerf",
-      "excerpt": "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV) and Natural Language Processing (NLP) inference models that were submitted to the MLPerf v2.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2022/04/06/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/",
-      "originalUrl": "https://insidebigdata.com/2022/04/06/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents.md",
-      "title": "Benchmark test of AI's performance, MLPerf, continues to gain adherents",
-      "excerpt": "Computer makers Asus and H3C join Nvidia and Qualcomm in AI industry bake-off for computer speed and efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "originalUrl": "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "publishedDateTime": "2022-04-06T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -1,24 +1,29 @@
 ---
 category: news
-title: "Startups Apply Artificial Intelligence to Supply Chain Disruptions"
-excerpt: "LONDON (Reuters) - Over the last two years a series of unexpected events has scrambled global supply chains. Coronavirus, war in Ukraine, Brexit and a container ship wedged in the Suez Canal have ..."
-publishedDateTime: 2022-05-03T06:21:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-05-03/startups-apply-artificial-intelligence-to-supply-chain-disruptions"
+title: "Startups apply artificial intelligence to supply chain disruptions"
+excerpt: "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ..."
+publishedDateTime: 2022-05-03T10:00:00Z
+originalUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
+webUrl: "https://www.reuters.com/technology/startups-apply-artificial-intelligence-supply-chain-disruptions-2022-05-03/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "DtEL75lpc8wPTqJlbvPFk58GapJYdeC/UUpgvgSYAJU9UOcA3v6sLVJvY1VNkiXP1bCDRKzaybAvXTpMBtos0OVFxpmxX4GFqkWOK12/9PZGGCMpXeEhA1zT//bnZFwW+VrbjjegYWN6hYCz80u7myj/8McJxnBMsK0cElo2G/i3BmD18ONi7TVkL1eP6/yrdbhuhDlhjxwg6HaEOyAl1luZLXsNTWjc+6+l8KNXT2BMhqVU8G8tLcl/PKlG9uoBjL6XU42Q5TjqKnhgzOYOZvPVMZXrH2lKBfhhAKWZMaxxFOxrB7qVOs/jGZTG+Qc2bmE8QDiAwMb4jYESPIEyi35HQeX51WIhjUGmdlM+Lv9/l1D/s7XNbknejE3PnS/hM/OUhWxue0IPXimIdmtarNl836x4NZs6M7M2vToy7huefrCkwq1gqlrFU6D0ajN7qvi/cLM5aD0J0O+ztW3H02hlDC3yYrq+JsrlaL6+WGkVr7oiPojNbPKW+RiW7cSp1toZWHQwg+MQyQLZNndwiA==;ZQ/64yvSVPMCn1aMsr91FQ=="
+images:
+  - url: "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "PP16naGGE6oWobpXwvuPqB4qoUZ2TbeUORw9rmzDxfVxX7BvBglHUOwmeDcSn4iUWXrRdtL+mWpSS+JQk2p4zYr1ZbmRzxoILi7G0tSIwEQ4fMtuQAewRHxsZp+ZzyOkALgkESeoLq5lawEgCi/CkkkEu+UfbUdDSXe+jXy8BEV2I9GfdvFEDzVVENPNAyI/imaMOjKQKtrIMWK+6uW/S/5w0IsUTblBvqSPo1Xk0NXyPTWRDL0UScr05sFOgX/fQUUDioMExnCxAr3rfulTKO1g8fswrD6nWCBR/cgSZN0OvBLzlglKbcEf/82uekgaKOx4kFa3hdNTfBhTgTvZLAwjmixqAgNTvtcIU1a9O9M=;4j6F3VSHQM4dE4EDtL/nrg=="
 ---
 

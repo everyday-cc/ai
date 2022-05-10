@@ -36,15 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Researchers at the Gwangju Institute of Science and Technology Develop Deep Learning Model to Predict Adverse Drug-Drug Interactions"
-    excerpt: "Using gene expression data, the new model can predict how some drug-drug interactions can lead to adverse effects in the human body"
-    publishedDateTime: 2022-05-05T12:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/researchers-at-the-gwangju-institute-of-science-and-technology-develop-deep-learning-model-to-predict/article_8c23197e-5a5b-5995-b355-45133c877525.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "C8Aon8nacVgI/4iidOGTvdS6nyp2QZh0J//aPcKQt+Y0hKESwGEFEg8Jq5zbYw4vRUr2n5Z0BsphwQeAwQFcfSBUt2au3NXQdJIH7o8nj/FRXsJ3Gb6WIyCq4dEAxCtU/n5sgiEtgA4bJLYoRLweJGomjR23LeSiIg4W+lWb0Goya+s1PaNSLs4hkSwxkGIK8XrVK5xyEoQBARj8eYwWDx9aNgXNies8rnjgPGGj8RIJckGx3iPzmvnyDS3yxMSSlO43ufB/4mtTTGC4KGvQqvxP7GN/IE4W7IxS0YDfNjkJqovqB3fENkjGnUeWai6HWroJYruPb3i/joW2hUwZ7a5VMqBtPyqnK6trEgZrsBQNH6Jb4ZhddOA37Mq0ld5pScQBWUJcngqk6Y4wZdk5aGlndk4aBH6WC1yj4zZzQmfa9MDdzJ/Vaoek6ySUhJd3jCLUc45B1/rwSpmP63a3ni4ooTveINWneU8rShnxFBPWVXGAWQIYQ8aAxHK9yiZpTp1G6PDEEGPMOdk7qXqKFg==;UUTmXQZGZNS59f2mZRi6Ew=="
 ---

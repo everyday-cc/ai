@@ -47,11 +47,18 @@ related:
     excerpt: "Benjamin Choi, who is yet to go to college, has used the spare time offered by the pandemic to build a mind-controlled, artificial intelligence-powered yet low-cost prosthetic arm."
     publishedDateTime: 2022-05-09T13:06:00Z
     webUrl: "https://interestingengineering.com/student-prosthetic-arm-artificial-intelligence"
+    ampWebUrl: "https://amp.interestingengineering.com/student-prosthetic-arm-artificial-intelligence"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/student-prosthetic-arm-artificial-intelligence"
     type: article
     provider:
       name: Interesting Engineering
       domain: interestingengineering.com
-    quality: 16
+    quality: 56
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/qrwB9k8E65/sizes/arm-1920_resize_md.png"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "8fyPEFohom3+0bzZwxn8ZJFttbjiqVWLeC7Y/zBoDOtL7ikTQYRyZu20htvlie9nrXl8kGpJUQQgLiyc5xLdAI7KbbTOPT+/+uK3eQ8ruKuVAQs+Tw98w08hc+tIhXj7glMP8691BGXQQzYQE0W3SupJeIajd/UrZlev8Zkbu46qXbjjCYgI0jeD5lODYhKSxkPXA43n+IwkiMKQ41soQfmDk2BArsCKLgCRE7dILZ1uEt7cZzOU9KXcryLq6I8gdXlSsBNO0SXvoVMYdvPbpeHrXaNCmoqe54bbjmJ8/9I7AK74iBo1UoKmE4oEzt8CiBEnE4Fjq4b+A6RdOJr9GbEDbb4Kumz7PjWd/Eix8HN9+cW/+85wG88FMyXJO9nofBy0qNu8V6YY3pII027UQQhqLtaFu+wLTK8w4axbeYB8YYSsIa2N4G8eMDMs3gp+kUM11I9bcXWNRjcGMuGDX3K29mUK7G3sL0utGj+BKshyioLYvAiFu0adJJwHlTqDKYk58BkTOKkgxkEdGdN0/g==;NNLCayLRdZchydfkoct5vQ=="
 ---

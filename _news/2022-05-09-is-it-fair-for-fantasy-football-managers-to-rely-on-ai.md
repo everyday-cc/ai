@@ -3,22 +3,18 @@ category: news
 title: "Is it fair for fantasy football managers to rely on AI?"
 excerpt: "More than nine million people play the Premier League's official fantasy football game Like millions of other people, Alice Simpson loves playing fantasy football. Every season she picks a team of real-life players from England's Premier League,"
 publishedDateTime: 2022-05-08T22:49:00Z
-originalUrl: "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.com/news/business-61257368?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.com/news/business-61257368.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61257368.amp"
+originalUrl: "https://www.bbc.co.uk/news/business-61257368"
+webUrl: "https://www.bbc.co.uk/news/business-61257368"
+ampWebUrl: "https://www.bbc.co.uk/news/business-61257368.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-61257368.amp"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -29,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "wDyy2XJ+kXf9658W76zTfP5sGFdGIWHBbSBiPADlIOvr5oFf/VGQluQ+YMceLc79zBA0BzM+K2QGYysh+2n/e6yNZAm/8Ieap8tW4nusaQGKmPMREREC8y+54WnMJa/lFLfj0ZZFcg+JamqzhUdCXqiHdikUijvaif7WRuuPcKMhJs0mTKaatiQFypihUm0CaFFQ8IkDucz3dKuv/XhUAAiPYPyRQPPt9LmCQT08hmzekbYmcDtSEAfhE3ic7AzBKktKA4EEmQTAiqlRkqD6dHrV6m9jobepp4huAQ+k9GqgUeD9F/bwBAdj1/SPywzosWCZOnNvv3kffxhLBzLmCEaG54pd4C9zoG/EwjBZv/4=;BNhE+05EdxhLJa8W7ij9GQ=="
+secured: "Odfgt4xgfwAwTfTKvYDaxE5NV5CFF+PDgzFmoBORUKbuDTC2JcNt83GdRoL3vBAKWzYwMg51i3JUdBxSrzwPlG+v5wc4T1Uw5KM+TJHPau06MVesU0d7coAqUdN88dsTtXUnedBRTzIyedICk9PJ31OZV5SxSp0Zuoog+NL0cTDOj9iZmp6AninpjqXvxB4TsQR0vqqwxkI/LTTnNXvyrLRYfMLMISjVl6lJmLK3H1g7ngFiXw+aS37z+DXBsFt4mdRxXnAM5d1jtCJdYtal9tmICuatGGe+nD1ErAbJ2YKV13O7gPKVdNnmAzflGWjtURf6zVTHCgZuKdVzZJvc0bogqGx97urzFcOhblNo87I=;YHzJbu2maIn875zQwt8QwA=="
 ---
 

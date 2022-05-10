@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-he
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: enterprisetalk
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet Nvidia's Huge H100 Chip That's Powering Tomorrow's AI"
-    excerpt: "Exclusive: The new chip helps cement Nvidia's lead in technology that's revolutionizing computing challenges like language and self-driving cars."
-    publishedDateTime: 2022-05-05T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
-    images:
-      - url: "https://www.cnet.com/a/img/resize/65f9eefdcf0ad8ce01d670618abb267863d6977f/2022/05/04/82b87660-6f44-46d8-b887-3097b1e32a95/20220429-nvidia-h100-hopper-ai-gpu-03.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Landing AI joins NVIDIA Metropolis Partner Program to transform industrial inspection with AI"
     excerpt: "Landing AI, a provider of software that makes building and deploying AI solutions in manufacturing fast and easy, today announced it has joined NVIDIA Metropolis, a program designed to nurture and bring to market a new generation of applications and solutions that make the world's most important spaces and operations safer and more efficient with advancements in AI vision."
     publishedDateTime: 2022-05-05T21:50:00Z

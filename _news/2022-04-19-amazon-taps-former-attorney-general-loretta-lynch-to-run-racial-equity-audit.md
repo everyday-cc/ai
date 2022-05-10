@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Amazon taps former Attorney General Loretta Lynch to run racial equity audit"
-excerpt: "related to harassment and discrimination And an independent study of Rekognition, a facial recognition system that Amazon Web Services markets and sells to government and shareholders say is ..."
-publishedDateTime: 2022-04-19T16:51:00Z
-originalUrl: "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/"
-webUrl: "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/"
-ampWebUrl: "https://www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/?amp=1"
+excerpt: "related to harassment and discrimination * And an independent study of Rekognition, a facial recognition system that Amazon Web Services markets and sells to government and shareholders say is \"worse at identifying Black women than white men and misgenders ..."
+publishedDateTime: 2022-04-19T16:07:00Z
+originalUrl: "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html"
+webUrl: "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html"
 type: article
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Finger Lakes Times
+  domain: fltimes.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "/4AXAXC27d9Ers35XFqZy98Hqy0meBo41rGhGDoK9Hnbpl1MobxSatv7ovKfzRXpjFUiFmBSvb3H7TX5Or/anOgqf5/8kN8hFe+djHGJniKc3yqwkmmDFzNDb4q1FI3yzQdsfNnW/DFMBSTXgxd8giqzTq66sLH5u+sRxyWmIR2XKu0U98VFasRuVS0JZwHmCjVpcNgx8ghEe+Okg83i0gRwJnntFxxaZrJeL0NB+s1VfMHvxQ6FNXHnDI589OHznkmy7U+3VuECW3jCzCXsNKObJrtGpIxLbQMzfpRAaDZmh3ffk3JB93rO+tSwBqbLUJ6dTHNdgO2KXfdejaclY+n8OClk883QzU2wIBtS1a4=;F7l0o3Klffx7jeg+iIdQyg=="
+secured: "8lnWquEu9d6tSSevC0idfeaSGAEXx6HnxWMV/a4Q4nLYDlWvV/aIZfv/qGBMsPYkIs5U2n+WwAv8ef/WMZEu/u1NIOV7+3OPOjw7qiAZYaBRPstCqx7EREOtY6iraHGqwc+NcYkpcK4RkopVqT6C4oqhGEd6W4ARgoZ3fMzl3FPbfms63L1uBoj+VkaELeSG8jB2bhClOndeH4ia8BIWYP+L62R/HwoxZHRGgOSTxayhgvLJe+AdXy3ItumJXIRwLYBvO1MrS8oa8GWNLJhOoGQoz2eNnsJBtZ0BQT7Ml80Dk8pGFJ6sWiUKoZBSpVB7YxjC4OMG096QbxGkUIuOuBQaiOSuKuEzSTRDxOTrSr5wusThMXyZ76kM6Dy+mYYB7aEHxz6brYoAisHc2ao3elQF8TfwKzwW02Nc2POj2MGxgOn/lyRASzy6jtoXY3wpUkgJn7i0uDrMUyGhrRQOyoJA56Z2m5a6vS2vdvZXJcmjEGcLFngzcP2/R4ryTIgQR+g8X/Hcb86tSEzVc3rDWw==;7liFbj56saosVfe4OQlIdA=="
 ---
 

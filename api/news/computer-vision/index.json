@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-10-clearview-ai-agrees-to-restrict-us-sales-of-facial-recognition-mostly-to-law-enforcement.md",
-      "title": "Clearview AI agrees to restrict US sales of facial recognition mostly to law enforcement",
-      "excerpt": "Clearview AI, a controversial facial-recognition software company, agreed on Monday that it will not sell its software to most companies in the United States — a decision that will largely restrict its use to law-enforcement agencies in the country.",
+      "path": "_news/2022-05-10-clearview-ai-settles-suit-agrees-to-limit-sales-of-facial-recognition-database.md",
+      "title": "Clearview AI settles suit, agrees to limit sales of facial recognition database.",
+      "excerpt": "Clearview AI, the facial recognition software maker, on Monday settled a lawsuit brought by the American Civil Liberties Union and agreed to limit its face database in the United States primarily to government agencies and not allow most American companies to have access to it.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
-      "originalUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
+      "webUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 357,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220509145253-02-clearview-ai-file-022222-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://static01.nyt.com/images/2022/05/09/business/09clearview-aclu-settlement/merlin_166989159_f077e4a8-2604-45d6-9401-ef7212a8286d-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
-      "publishedDateTime": "2022-05-09T14:59:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html",
+      "publishedDateTime": "2022-05-09T10:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
         "Computer Vision",
+        "AI",
         "AI in Sales"
       ]
     },
@@ -116,7 +115,7 @@
       "originalUrl": "https://gazette.com/premium/debate-continues-in-legislature-over-limits-on-facial-recognition-technology/article_a9b58a4f-9934-59b1-9f6b-dfd1eef35f48.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -180,6 +179,49 @@
       "provider": {
         "name": "theregister",
         "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-computer-vision-as-a-solution-to-safety-challenges-in-industrial-facilities.md",
+      "title": "Computer Vision As A Solution To Safety Challenges In Industrial Facilities",
+      "excerpt": "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ...",
+      "sourceUrl": null,
+      "webUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
+      "originalUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ohsonline.com/-/media/OHS/OHS/Images/2022/05/computer-vision.jpg",
+          "width": 620,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ohsonline.com",
+        "domain": "ohsonline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1325,58 +1367,6 @@
         "name": "Business Insider India",
         "domain": "businessinsider.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027.md",
-      "title": "Global AI in Computer Vision Market Future Demand, Top Leading Players, Competitive Situation, Emerging Trends, And Forecast To 2027",
-      "excerpt": "Apr 21, 2022 (Heraldkeepers) -- Global AI in Computer Vision Market: is expected to reach US$ 77.78 Bn by 2027 from US$ 15.6 Bn in 2020 at a CAGR of 25.8% during the forecast period of 2021-2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

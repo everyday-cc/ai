@@ -125,6 +125,29 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 15
+  - title: "Law enforcement use of facial-recognition technology must be limited: Privacy Commissioner of Canada"
+    excerpt: "Current laws regulating the use of facial recognition software do not offer sufficient protection against the risks the technology creates,” Canada’s Privacy Commissioner said while appearing before Parliament’s Standing Committee on Access to Information,"
+    publishedDateTime: 2022-05-06T21:08:00Z
+    webUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/law-enforcement-use-of-facial-recognition-technology-must-be-limited-privacy-commissioner-of-canada/366432"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 9
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0395_637874680367642289.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Controversial facial recognition firm barred from taking on most private clients, operating in Illinois for 5 years"
+    excerpt: "A settlement filed Monday in Cook County offers a stinging blow to Clearview AI, which has built a facial recognition database with more than 20 billion images ripped from popular websites and apps."
+    publishedDateTime: 2022-05-09T18:09:00Z
+    webUrl: "https://chicago.suntimes.com/business/2022/5/9/23063901/clearview-ai-facial-recognition-illinois-aclu-privacy-data"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 0
 
 secured: "wSPmqM19mYYNQ/TcdPXsa4GAOkR4UjoiTyHwVlOpb6d/QkZf8UC78vDZrL820nRAlJ9gOR7ufxcgIQUusxUluits8A5zJIY7gR9EoC1sQTNhw7CtP9Z4/MEisecbRv6/XoKDi5s+OaTfUfSWXjFsEATJ7HLO3c4MXNrCnga4UflZTdMcFhW69lutjv21VYnnUUtD7rW2uLOaaM0W1H6Jio3f8ou3GDrKQ63C+ssopkdUYYZuhye9uQl+5+NirP60mtxKf1N04+ANWC9WvpHE+A4Tc+zUHVxv83yZ7a38WyGo8OjFbgTi/9II/AMNeMLkp3LY6XVu92ipOl8IIKHCzKNW+z+rNNRUGXgLBwBn/md3upJzzVQb1DVg4qeeTINr9p1GmC84N48HAbRU6eKEk1HjWIFho3FnlADrrDkft6lo9cF4kA9Vyun2S3O9Ojp5wYazrP9Hx2vNcvPtcmvm5jmVZFmybdF1qIH7Sif8LY5kCmxUpDNVYct0V5cx1HGrqME+HDxQGP/sxvAx7BtkoA==;2ulu+2gg2Al4IBe9o1Rr5Q=="
 ---

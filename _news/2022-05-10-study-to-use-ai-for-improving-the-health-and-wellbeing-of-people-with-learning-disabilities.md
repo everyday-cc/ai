@@ -44,22 +44,6 @@ related:
         width: 922
         height: 461
         isCached: true
-  - title: "15 Exciting Ways To Leverage Artificial Intelligence In Marketing And Advertising"
-    excerpt: "In the world of marketing and advertising, the applications for AI are virtually endless—brands come up with new ideas and innovative ways to leverage it every day."
-    publishedDateTime: 2022-05-05T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6272f06d987de7aba1bb66d0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 819
-        isCached: true
 
 secured: "IgjF0W5r2OO7f7iR8eZiQKGc0ywyxOKwpFgvprUDXzIQKxBaJ2v5CKJYUYGU56w6m5XVgfLJnodQzcSp7QY++T+77AWQtdUQwFA9CcZJJ+ItqnnakXkWrXfNhS4UR9NcbK9CYOIxt2Xbx4cXFB4DDw9vi/dkKfaf6Ig/LIKBnX6e0SxoG0Mz82pKQAurqqMD634HYm8YsIfAD92/tITO3tDxvOs8Df9Hk/YiXP4CiwYCeIBjki5YrLELaec37OPjiVU0zgIwOdJTj/7p+MlZdmKkYFxvH6WaEJTtt9wW9ExITs8SwBJoiWQXxReBfvdcmUadoPQyfD8UX9peN6W7rrXgGL/aWeLbR7j7gezB8O8=;GoZQlCpaT7e7E1nUa8rTSQ=="
 ---

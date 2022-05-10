@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-10-clearview-ai-agrees-to-restrict-us-sales-of-facial-recognition-mostly-to-law-enforcement.md",
-      "title": "Clearview AI agrees to restrict US sales of facial recognition mostly to law enforcement",
-      "excerpt": "Clearview AI, a controversial facial-recognition software company, agreed on Monday that it will not sell its software to most companies in the United States — a decision that will largely restrict its use to law-enforcement agencies in the country.",
+      "path": "_news/2022-05-09-nvidia-unveils-new-chip-to-help-ai-understand-users.md",
+      "title": "Nvidia Unveils New Chip to Help AI Understand Users",
+      "excerpt": "Nvidia is unveiling the H100 \"Hopper,\" a new technology that has the ability to speed up Artificial Intelligence applications. It will be an",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
-      "originalUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
+      "webUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220509145253-02-clearview-ai-file-022222-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/Nvidia-Unveils-New-Chip-to-Help-AI-Understand-Users-1024x585.png",
+          "width": 1024,
+          "height": 585,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
-      "publishedDateTime": "2022-05-09T14:59:00-07:00",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/",
+      "publishedDateTime": "2022-05-09T05:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,10 +40,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
         "AI",
-        "Computer Vision",
-        "AI in Sales"
+        "Natural Language Processing"
       ]
     },
     {

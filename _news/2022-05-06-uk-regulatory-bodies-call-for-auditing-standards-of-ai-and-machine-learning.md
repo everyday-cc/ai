@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/uk-government-aims-to-create-ai-stan
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-aims-to-create-ai-standards-2022-5?amp"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "15 Exciting Ways To Leverage Artificial Intelligence In Marketing And Advertising"
-    excerpt: "In the world of marketing and advertising, the applications for AI are virtually endless—brands come up with new ideas and innovative ways to leverage it every day."
-    publishedDateTime: 2022-05-05T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/05/05/15-exciting-ways-to-leverage-artificial-intelligence-in-marketing-and-advertising/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6272f06d987de7aba1bb66d0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 819
-        isCached: true
   - title: "Study to use AI for improving the health and wellbeing of people with learning disabilities"
     excerpt: "it is difficult to provide effective joined-up care between health and social services. For the DECODE (Data-driven machinE-learning aided stratification and management of multiple long-term COnditions in adults with intellectual disabilitiEs) project ..."
     publishedDateTime: 2022-05-09T22:15:00Z

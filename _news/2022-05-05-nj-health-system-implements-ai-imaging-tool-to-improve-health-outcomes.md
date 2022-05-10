@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/nj-health-system-implements-a
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/nj-health-system-implements-ai-imaging-tool-to-improve-health-outcomes"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 480
     height: 309
     isCached: true
-
-related:
-  - title: "Leading HealthTech AI company NuraLogix announces new partnership with LaFiya TeleHealth"
-    excerpt: "TORONTO, May 5, 2022 /PRNewswire/ - NuraLogix, a leading HealthTech AI company, has announced a new partnership with LaFiya TeleHealth, a Nigerian-based telehealth platform which provides 24/7 virtual healthcare services to residents in remote and rural areas."
-    publishedDateTime: 2022-05-05T12:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27017597/leading-healthtech-ai-company-nuralogix-announces-new-partnership-with-lafiya-telehealth"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
 
 secured: "f3QYMzJ82ipK87rRjJ9exN80lEqbG4zoaaeQBaeE216dVTMKg9CfjRYhmDGkEwb15aI51BTw9xwdMyCdKpOlwse/0s4Up/i4QPevrwGF723s5qLnpLs3kS/XsANnADdcmKvgxk4xLHW95WwnsxylcI6EFHMeCz7s+BEy3lnflMCjhjNpU0h73yI17qqsrly4mY0ml1Os+SqyLLUB0UijLTp4GG96huCKdLyEEBKkh6g7OZvdvwDodut5Wm0II5hGtBuRAjKj7A+4i1m9SHY4ykdJAl8TxVRy8XCpT+p8A/Zd8Y6pctGHB9Bx+0Aow/OcDQyX4PFBFx/htR+tiv+WLAl5oQDp6kB7wCujBSa2Rlk=;h0WmLSBUU/wJut8LRlg6qw=="
 ---

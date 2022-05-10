@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "15 Ways To Leverage And Supplement AI In Your Cybersecurity Efforts"
-    excerpt: "With an increasing number of companies shifting to remote and hybrid work models, cybersecurity must remain a top priority."
-    publishedDateTime: 2022-05-05T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/05/15-ways-to-leverage-and-supplement-ai-in-your-cybersecurity-efforts/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Cybersecurity, Music, Industry 4.0 and local authorities: discover the new ActuIA, the artificial intelligence magazine"
     excerpt: "In the new issue of ActuIA, the magazine of artificial intelligence, available on newsstands and by subscription (digital and paper versions), you will find many topics such as the use of AI by local authorities,"
     publishedDateTime: 2022-05-09T11:12:00Z

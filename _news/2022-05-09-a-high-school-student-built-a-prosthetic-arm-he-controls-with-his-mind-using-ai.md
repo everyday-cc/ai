@@ -5,8 +5,10 @@ excerpt: "Benjamin Choi, who is yet to go to college, has used the spare time of
 publishedDateTime: 2022-05-09T13:06:00Z
 originalUrl: "https://interestingengineering.com/student-prosthetic-arm-artificial-intelligence"
 webUrl: "https://interestingengineering.com/student-prosthetic-arm-artificial-intelligence"
+ampWebUrl: "https://amp.interestingengineering.com/student-prosthetic-arm-artificial-intelligence"
+cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/student-prosthetic-arm-artificial-intelligence"
 type: article
-quality: 16
+quality: 56
 heat: -1
 published: false
 
@@ -18,6 +20,12 @@ topics:
   - AI in Robotics
   - AI
   - AI Hardware
+
+images:
+  - url: "https://inteng-storage.s3.amazonaws.com/img/iea/qrwB9k8E65/sizes/arm-1920_resize_md.png"
+    width: 744
+    height: 419
+    isCached: true
 
 related:
   - title: "High School Student Invents A Low-Cost, Mind-Controlled Robotic Arm"
@@ -53,6 +61,6 @@ related:
         height: 804
         isCached: true
 
-secured: "tL7gzR/nZPMlnNIivoQwSTo+UaiOIhIJ4wmXjASdUJJMkQqNbD9eKgR5aMGLKbyIuQpiEYlxDthn7+z/kVHXoELgeO4Dpg7EbNW+oVQgsxKM2c4N3kWESZYfNsFrRfD3ANWVRaZh0ZKtPEfDxpyWXBPhR33Z9BD+Lx1j9u7zF85ruaXnngVBEo0jN77p4CJbiDaGi5y7V4kX8cKgkii3TMT0y4g4pV+gU6PE1ijZcShWMh8kyCf+TO76uUS5lpYx5xHwIHlv21/yKda3krZhw9Sp8/n9h8her+huIU+HrMTG5NraIxVsvQubRlRxvIyxrdX40A+Epe6CEU1dyRO/IMNQdWiP4+7zFOH81RP9FpI=;nEPs/rND53YVrJlirhp1VA=="
+secured: "vuQl0pPEHCAsk5QvkaXb8Vc9VYOtekV1S5Uw3vGmGlMtEHDUiZBNq+GQlAEPv/vSVGMD1YfwbIq1cjK9RAqMgl3/JUr7ZQ0LPZyPLUTfd7kYDJvacq34vhn79o9fLAWXZx1obJSgsw8nojZs7N4cfdaaJ56UoyBF+FMk/xdoQ6QRcDLmYkwLnsVcIHhKlExxc84PgLHLHmgEdl0+afVcgrrSxpJUZ0UREz9msZq6XY1X2RvaEabPPDV+N2+lkTTjl6kSqqir3GjU31uJZSiHFrM3m3vP3+g3HeVBc0VgtmK9uLrd8VE0EIl14cXsSFfEP8RqbtseccUDVRZUCRH6Ma1gnRCEJK5HB2b5NY5XK50=;3FB13Iszx64A2wbe8BGklw=="
 ---
 
