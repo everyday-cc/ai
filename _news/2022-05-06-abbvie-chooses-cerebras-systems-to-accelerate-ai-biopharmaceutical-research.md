@@ -1,22 +1,30 @@
 ---
 category: news
 title: "AbbVie Chooses Cerebras Systems to Accelerate AI Biopharmaceutical Research"
-excerpt: "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption . Cerebras Systems, the pioneer in high performance artificial intelligence (AI)"
-publishedDateTime: 2022-05-05T19:40:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research"
+excerpt: "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, and AbbVie,"
+publishedDateTime: 2022-05-05T17:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research"
+ampWebUrl: "https://www.benzinga.com/amp/content/27030653"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27030653"
 type: article
-quality: 17
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "AbbVie and Cerebras Systems partner to accelerate AI research"
@@ -34,6 +42,6 @@ related:
         height: 460
         isCached: true
 
-secured: "IwY/nmYk+ksZR5cTzyF7YGm7UEStdDdKbZQBEIB3z1R2vo+CUKUdsn3TN1f/VyIrgWv3W3aGQX6ZQvLc4f4q5YvUc9mBfHwZXihj8uL3IQO/eChO6TsHDKamxu8I7vwLMfMXXv9Og6xmBNCjT47FQyDpF+CHbE8PfzhHe8ylm1DH0j86vkMfZISjY7fG0+RoA4aIXpCSPVqx2PF27FHtZbPScaaCbXhhHBJ0s0qJv5PzYzhWAVe/MLSQQvva3maenSMHfxRWVVbjgJ9H2WT9HOtUG4VUvQybaAtDf4Q8XulkAFEgbmQAf8yR6mIlh7cM9k+yEI33crepCxHj3BB5iyOqWnLkbN49mi69KmuAjgg=;tI+kkmXtcikitQ5O6Ny+Gg=="
+secured: "Y7UJ79zR0j0N6qWKMa43j0cVRDr5xXwqNzWZ/1O9tpL4GuF/QYmcUMMV+EXk6N6nffCunvrudCf6V2S2ULIcw7WQKK706cvsxtcR+9pDiDblQObIrW499GdLRLgWor8J01eUf8TMIqc9+v8nYBEMjiWoWrdPK4HWmYfC4zBWdLi/2GzaFpGvwntqUC+YAsLoqHO0N+MfSsQ1bNrMugpiXV2yJbrQ6U3uIotmrSNz/qr5JL6RsFlcAi/jXFpobgAzXyrfyjj4JZ0F41CM1lCQoSaHsjVN7tKCXbTppHcwCJw1li4S1DCcecRya4rgntdJ1Bnz20BHCXotMwaS1+H73Mo9XtcxO9CoUzdhzzNTOBo=;/zeNZIHNntotGY/gtT/96A=="
 ---
 

@@ -59,22 +59,6 @@ related:
         width: 498
         height: 370
         isCached: true
-  - title: "Fintech Startup FREED Secures Investment From Inflection Point Ventures, Others"
-    excerpt: "Fintech startup, FREED has served over 5000 customers, counseled over 24K customers, and settled with over 55 creditors"
-    publishedDateTime: 2022-05-05T08:16:00Z
-    webUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/"
-    ampWebUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 40
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/05/FREED-social.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "06/05 – Weekly Fintech Recap"
     excerpt: "Partnerships Ophelos Partners with Credit Card Startup, Yonder, for Ethical Debt Resolution Ophelos, the technology firm building fairer debt resolution for businesses and their customers, announces its partnership with Yonder,"
     publishedDateTime: 2022-05-06T09:25:00Z

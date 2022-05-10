@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Aible to Participate in the ‘Bake-Off’ Session at Gartner Data and Analytics Summit, May 9-11 in London"
-    excerpt: "Aible, the only enterprise AI solution that guarantees impact in one month, is proud to announce that it will participate in the “Bake-Off” at the Gartner Data & Analytics Summit, held on May 9-11 in London."
-    publishedDateTime: 2022-05-05T08:23:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-science-business-europe-london-a7f0fa00661d7434c1d78e71aab33734"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-
 secured: "cANb2Xh6UUiUbtQSf1m/SFVe2ZjobDBwfTeEIFSgxSMSXSx5+dMGDj4RDZfzWzrqN7rVb6kVmHQdyDnQbkyNIgfKMG3sU7HC6ewK2we6zuiwMOBZqjhxq0Fnkz3M7r6y4QCVjvk/Ntvn+lZrje7+rIoRT2N/pulK3wGrS2XqgTGgsENaxS8CPv84o1JrQIlE5efIzxQKBblQnvSMETPxxRX4lSmmDo9CahSaaU9i/n27bD5BzZxnGQRtdXzI2nHtpR1N6pE408b59a+Y/bz2/ceK9rbgsioJbirjkGnbg9iwcZLt6x5zG5sLBJbkkMZtm+9XG2CvIiWgw0Q/0KiKjYxc0Qbi1sW1MnY76vxOat0=;FNEZCeGOcNg+SYF5q8LYOg=="
 ---
 

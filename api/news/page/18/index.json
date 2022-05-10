@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-04-20-computers-could-revise-past-conclusions-with-ai.md",
+      "title": "Computers could revise past conclusions with AI",
+      "excerpt": "To better automate reasoning, machines should ideally be able to systematically revise the view they have obtained about the world. Timotheus Kampik's dissertation work presents mathematical reasoning approaches that strike a balance between retaining consistency with previously drawn conclusions and rejecting them in face of overwhelming new evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-04-conclusions-ai.html",
+      "originalUrl": "https://techxplore.com/news/2022-04-conclusions-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning.jpg",
+          "width": 1920,
+          "height": 1302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-04-conclusions-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-conclusions-ai.amp",
+      "publishedDateTime": "2022-04-20T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-meet-the-finance-finalists-in-the-2022-itnews-benchmark-awards.md",
       "title": "Meet the finance finalists in the 2022 iTnews Benchmark Awards",
       "excerpt": "Today, we announce the three financial services finalists in the 2022 iTnews Benchmark Awards: Commonwealth Bank’s execution health score using machine learning to assess project health Westpac ...",
@@ -1046,48 +1089,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
-      "title": "Artificial Intelligence Is Creating a New Colonial World Order",
-      "excerpt": "My husband and I love to eat and to learn about history. So shortly after we married, we chose to honeymoon along the southern coast of Spain. The region, historically ruled by Greeks, Romans,",
-      "sourceUrl": null,
-      "webUrl": "https://pulitzercenter.org/fr/node/26547",
-      "originalUrl": "https://pulitzercenter.org/fr/node/26547",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/shutterstock_2122981079.jpg?h=790be497&itok=juXEcP9M",
-          "width": 768,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulitzer Center",
-        "domain": "pulitzercenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

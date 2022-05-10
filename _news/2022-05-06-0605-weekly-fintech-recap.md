@@ -57,22 +57,6 @@ related:
         width: 498
         height: 370
         isCached: true
-  - title: "Fintech Startup FREED Secures Investment From Inflection Point Ventures, Others"
-    excerpt: "Fintech startup, FREED has served over 5000 customers, counseled over 24K customers, and settled with over 55 creditors"
-    publishedDateTime: 2022-05-05T08:16:00Z
-    webUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/"
-    ampWebUrl: "https://inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-freed-secures-investment-from-inflection-point-ventures-others/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 40
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/05/FREED-social.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Czechia looks to regulatory sandbox to boost fintech innovation"
     excerpt: "Czechia is already home to a number of successful fintech start-ups. The launch this week of a project that could lead to the establishment of a regulatory sandbox might foster even more. The Czech Finance Ministry this week launched a project to unlock the potential of fintech applications and the use of data in financial"
     publishedDateTime: 2022-05-06T08:52:00Z

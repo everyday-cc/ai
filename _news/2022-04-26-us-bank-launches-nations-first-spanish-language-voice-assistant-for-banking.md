@@ -3,8 +3,8 @@ category: news
 title: "U.S. Bank Launches Nation’s First Spanish-Language Voice Assistant for Banking"
 excerpt: "U.S. Bank is the first financial institution in the United States to offer an experience Spanish-speaking customers have never had before: the ability to bank via mobile app in their preferred language – just by speaking it."
 publishedDateTime: 2022-04-26T12:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "gnT8Ddyr62whhu0MWFRDoPYOqotY5eI713ZhGH2wbYHcbojO+WYHP0GboG2mz/zWP1DdOte42jBkbLgE/+/i4PkQ6W4oY4SRrqa0a+RXyk8riR/Fv2bzwqx1FnCKqYt+L2b+MhHNTYiTOtEmxstI3rRq/bjsqbVeKSHDgh13J/ndf11qbXQOMlO7zhAMsf60/aCVg1ccVBeu0AL5vbUiWMB0hQ7a3vcaAJK6/5WgKtIm1ZBIXyIFmHYQ5zMVVkCcRqmKie16d5lhXyXp3UBq+zuG6qLP1pWnX6E+VMw5OLAsk110ShFTnUEbQ+GmxLg4Av19XEZi3XnLQlbOIzGcwI8jlOGceS2Z2uJC3hyyCZ8=;ucJMYP81GvcP5m60fbTzjg=="
+secured: "NxxXwX9RZACcNQ+Byg1UfSJUR0FfncZCwS9eH04oM8VH9gXgOuHUSv89a+/UkyU7lwFzVijYatQcYKbG5wWVljuHd3OkNDTyn/allMGa0514F7RFLdbXnmh2eeGK1wXR25W9uui65pfOPB3Z7o5qBTExQa2IGuLnBNE3VtBmJtXdjrPjyce3VI2s5UmSjasF13/oh97hNugUEmeMcFXrFwRcB5lLbMRPqKzp/OS1W0NctFg6wtd0lX50gLTu7iBNSiuZZoAyo4t4roYD13dV7skvD+AXR90XLl44gWMWAQBaH53t4JOCUEzO5iB5QOdk3BzYr+3deU5B7HaRFJ40L6KhaW1NlLt/CO1SQegnWPo=;Q3FFQng5cTTzqb8yHVIV2A=="
 ---
 

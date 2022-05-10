@@ -2,6 +2,58 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-03-18-microsoft-announces-auto-generated-captions-for-images-in-edge.md",
+      "title": "Microsoft announces auto-generated captions for images in Edge",
+      "excerpt": "Microsoft uses Azure Cognitive Services to analyze and describe pictures with missing \"alt text.\" When Edge detects an unlabeled image, it sends it to Microsoft's servers for processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "originalUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1607862765_edgenew_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "publishedDateTime": "2022-03-17T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-how-ai-is-a-great-tool-to-improve-your-business-search-results.md",
       "title": "How AI is a Great Tool to Improve Your Business Search Results",
       "excerpt": "AI can also assist with search engine ranking page analysis, keyword research, and much more. According to statistics, 30 % of businesses that used AI in SEO reported a 6-10% revenue increase after implementing the technology. Notably, AI has significantly ...",
@@ -1050,49 +1102,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-the-most-valuable-use-cases-for-artificial-intelligence-in-web-applications.md",
-      "title": "The most valuable use cases for artificial intelligence in web applications",
-      "excerpt": "Capable of automating manual tasks, AI can lead to smarter decision ... a web application (such as Google Lens or Google Translate). At the moment the big breakthroughs are related to images and language, so web applications processing these are the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
-      "originalUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/03/most-valuable-use-cases-for-artificial-intelligence-in-web-applications.jpeg.optimal.jpeg",
-          "width": 1013,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

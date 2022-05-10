@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethica
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/"
 type: article
 quality: 114
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ethical use of AI in investigations"
-    excerpt: "Ever since laws were first created in ancient cultures, people have been breaking them in increasingly devious ways. This had led to an ongoing cat and mouse game between criminals and those who enforce laws,"
-    publishedDateTime: 2022-05-05T09:08:00Z
-    webUrl: "https://www.techuk.org/resource/ethical-use-of-ai-in-investigations.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 54
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/c7331df0-3b32-4343-bfbf8910480303b1/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Emergency-police-Blue-Light-279456027-web-1500px.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "The advance of artificial intelligence into health care"
     excerpt: "Artificial intelligence is taking hold in medicine. Every sector of the health care system is testing the technology to improve patient outcomes,"
     publishedDateTime: 2022-05-05T22:25:00Z

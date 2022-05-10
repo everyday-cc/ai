@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-09-content-moderation-design-patterns-with-aws-managed-ai-services.md",
-      "title": "Content moderation design patterns with AWS managed AI services",
-      "excerpt": "User-generated content (UGC) grows exponentially, as well as the requirements and the cost to keep content and online communities safe and compliant. Modern web and mobile platforms fuel businesses and drive user engagement through social features, from startups to large organizations. Online community",
+      "path": "_news/2022-05-09-utilize-aws-ai-services-to-automate-content-moderation-and-compliance.md",
+      "title": "Utilize AWS AI services to automate content moderation and compliance",
+      "excerpt": "The daily volume of third-party and user-generated content (UGC) across industries is increasing exponentially. Startups, social media, gaming, and other industries must ensure their customers are protected, while keeping operational costs down. Businesses in the broadcasting and media industries often",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/utilize-aws-ai-services-to-automate-content-moderation-and-compliance/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/utilize-aws-ai-services-to-automate-content-moderation-and-compliance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/09/l300_contentmod_fig1.png",
-          "width": 948,
-          "height": 566,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/19/l200_contentmod_fig1-1126x630.png",
+          "width": 1126,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T09:00:22-07:00",
+      "publishedDateTime": "2022-05-09T09:01:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -250,7 +250,7 @@
       "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {

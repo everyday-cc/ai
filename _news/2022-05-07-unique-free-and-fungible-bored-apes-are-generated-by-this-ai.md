@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/unique-free-and-fungible-bored-apes-are-
 webUrl: "https://bestgamingpro.com/unique-free-and-fungible-bored-apes-are-generated-by-this-ai/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 600
     height: 350
     isCached: true
+
+related:
+  - title: "This AI generates Bored Apes that are unique, free — and totally fungible"
+    excerpt: "Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Writer at Neural by TNW — Thomas covers AI in all its iterations. Likes Werner Herzog films and Arsenal FC. Bored Apes have become symbolic of the NFT craze."
+    publishedDateTime: 2022-05-06T19:49:00Z
+    webUrl: "https://thenextweb.com/news/ai-system-generates-free-bored-apes-nft"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 48
 
 secured: "ooEnTy2G/dGQCiwWU+muzvZqlFcRPy7W29bREvhlnbcS3/JNcgq9B+1ES27bI0sz+/JhjhuUhOtBNSL/1IJB84VRvvopQDLRnnjyPuCDJKjbSvSpHdFbqUTAjarvSBXY5rt3djfpcCSTBCd1VBqeL/Dal3gJm0xrxQTA5rP9+TDvgvDVUW+t3DFuNh36T0BlYUPgZB/DISoDFT0Jo5l5PesNzoopCKLjTG/TRRalp6Nt+7OQg2PxECxF2aVk/WqLiTpXeQy72SOkPlVOW/roSiEeUJs5Lz5qpHevthxcxmlvpFmo2xvIEqOlommzL/xC6nR7jn2EXfbeqEDgJ3Ni6vs5E+vxEEWqBFJ2CP23+yv6cQscFAgfW8iaiWpZNnFT15EDBy1u9C//SqqM15Be+obcl7dhz2NBHIx5PDDOzNnfr/eUuEw+1WoQdSVKs4A/jLcD9BPF3CBwnQ+F9xYPV8Wra5O874nmB0AqGk8hcXPJHxRD33CdNpFe5KbCjs4PW11enVOEfNr3Fp1fJ0T+/g==;luYAgygv8deaNz63CVOLWQ=="
 ---

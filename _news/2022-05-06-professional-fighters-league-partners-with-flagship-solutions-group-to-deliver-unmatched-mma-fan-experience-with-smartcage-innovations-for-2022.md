@@ -1,27 +1,29 @@
 ---
 category: news
 title: "PROFESSIONAL FIGHTERS LEAGUE PARTNERS WITH FLAGSHIP SOLUTIONS GROUP TO DELIVER UNMATCHED MMA FAN EXPERIENCE WITH SMARTCAGE INNOVATIONS FOR 2022 ..."
-excerpt: "The Professional Fighters League, the fastest growing and most innovative sports league, today announced it is partnering with Flagship Solutions Group, an IBM Gold Business Partner, for the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA."
-publishedDateTime: 2022-05-06T03:57:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with/article_95c73abf-2117-5e5b-88fb-fad6ad38f991.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-experience-with/article_95c73abf-2117-5e5b-88fb-fad6ad38f991.html"
+excerpt: "an IBM Gold Business Partner, for the 2022 season to utilize cloud-based products and artificial intelligence to reshape the way fans engage with the sport of MMA. Under the agreement, the league ..."
+publishedDateTime: 2022-05-06T04:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27040688/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-e"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/n27040688/professional-fighters-league-partners-with-flagship-solutions-group-to-deliver-unmatched-mma-fan-e"
+ampWebUrl: "https://www.benzinga.com/amp/content/27040688"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27040688"
 type: article
-quality: 0
-heat: -1
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/c9/2c97f31c-24f8-5931-b09d-8bc4086ab8ab/62749d0dad53b.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8ivD9KQy1OQdWd6K+Fw3tTJqBvHoSn5Yl+IijMwbdJdvFLqpaQ9xxL+pm/t7DaKgeOU+h4Yq8VAnzR8w2STwdA6+O6raC2oLjQxRWqIl/Am39qvRuEgC2MqNoykEdIf5wERmNgU5GgQtE4N9IBd6xSyM+hc5ityR/Rcp2p1rt0LO9IR3NVXYpChFALnVvEgRpLrjAmbMCThIZdH/2O/GjYfr2JZtNfxt/RzoRlLRFbLjdZ7yChD2qv0PTsZjkw0EYtLVL1SIitf61QN9jic6c2HkFgU69kpITeTvVoqogWX8jJH23bAH3cWFAxGO55G6EKwvYm7PKSzvHCCjfvF3Ltb83OvitsRatGCGrFOXc48=;Zaf/Bc3FYqr5KnCMTyPw8A=="
+secured: "XLhn4CTxY7aDRv2M+J9xDUSOAtreAYUCS8JnO8/Xl58dl1SEKOwxRKtVC0QQBYBez5mTtwbOLuYsqe3+CMer37gwdEBeilKqaOqIiTfxebuiD9pBkYjpvveB5f2AdtpTDpgU8N0ZdewELJQfxtGa7S2cNZpf0pS5hzbzE2Yqxljacn69zvIDCBj4P+CRdRzYuJzcqW/dspKbqug1rdx1//vuxqTNpppbX7okc7tNEfdtnI3ZRC9HBYYKODdzDdjy3slNj0oZmop2THhjmSUhhv7aWPnmTPwHirjdzGmyoIZ8a2TMk9MGthTIXc1n1vvLdbmJaRfw7E/IAR5wvj57CwPlG8Tu/OeCAVurYTjigUc=;Cxl+0782O0dM1oCKawGwNg=="
 ---
 

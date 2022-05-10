@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-i
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/dall-e-2-why-the-ai-image-generator-is-a-revolutionary-invention/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Israel's central role in the artificial intelligence revolution"
-    excerpt: "The British-Israeli company, which focuses on distributed machine learning, has developed a platform for training Artificial Intelligence models on end devices that eliminates the need to send data to the cloud."
-    publishedDateTime: 2022-05-05T07:58:00Z
-    webUrl: "https://www.jpost.com/jerusalem-report/article-705919"
-    ampWebUrl: "https://m.jpost.com/jerusalem-report/article-705919/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jerusalem-report/article-705919/amp"
+  - title: "OpenAI's DALL·E 2 generates AI images that are sometimes biased or NSFW"
+    excerpt: "In brief OpenAI's image-generation model DALL·E 2 may be fun to play with but it exhibits common stereotypes, biases, and can create NSFW pictures making it risky to deploy in the real world, experts have warned."
+    publishedDateTime: 2022-05-08T11:51:00Z
+    webUrl: "https://www.theregister.com/2022/05/08/in_brief_ai/?td=amp-keepreading-btm"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/08/in_brief_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/08/in_brief_ai/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
+      name: theregister
+      domain: theregister.com
+    quality: 57
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/504140"
-        width: 640
-        height: 428
+      - url: "https://regmedia.co.uk/2022/05/06/dall-e-2.jpg"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "+VK0IeZMTJxaXDJoCPZSuOAp9vhg3VORxv35+S+XtFMfLE5nQMgwZ3f78O57OarvDofmr+GiBpiEzG7aMJDeG6+/0gwB0H7KhIefwNM2PH6fv6vpAA3vh7iGK8rVO9qJ1ExUhIY68n5Fd8xQqHfpQp8Kh6+M/HYNuG3Pi+0wbSkDJjUwFRjpeWHRGcYrqJpYjlLU8SvbxEsusiXVwd4qU0C7iz+5Uy5ufzDIcpgZqBqcHNW9QeI6HlnoV5WSGEJXQYzvmqZXbICpHmzejX1M7NZT6O2lop8iC0dSMQCz06z0qa2nZz7GzW6U+z2CTSFezqUlKn5TbV2XNeB5+aT7bwrPSpjfniDv+L2huYlDZWvXhCqVZ0BtKqH1NKsIZl6bmU5jBtKdHMUSxNECvXNc2epIpCdFGlgY24CWlsMwu6H3eEPYC+Ug39pHx4euoXCHMZ4QlZ75SXmz1nAKVPGN+RGKAz5WqaymDwtlNtTnm/PYiDScu5lIbG2Ik54oGUBFSXH84IFtHkrHFb059xwEXg==;/R6xnZ+bo4bmrX5p6yAcSw=="

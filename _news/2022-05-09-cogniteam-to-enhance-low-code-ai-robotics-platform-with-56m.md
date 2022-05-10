@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/amp/"
 type: article
 quality: 119
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "Low-code AI Robotics Platform Cogniteam Raises $5.6M"
+    excerpt: "Cogniteam, a robotics development company that recently launched the Nimbus robotics AI operating platform, announced the closing of a $5.6 million"
+    publishedDateTime: 2022-05-10T00:28:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/24729-low-code-ai-robotics-platform-cogniteam-raises-5-6m"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 69
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/e0e94e6968c6377af6ab72185d0cabb0.jpg?t=20220510_002455"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "6PPOHCpm9oSS10TDeK40g8Gs0KmkpdOayjQgzaYSMB9nD/8GjP4H1MUYppczN67UP11aJTrXSV7OBnRARKw9W+c9GOIBuL6E/hOFBilY/SO6AY0Ba37CNHi+bWYmq7eI12sg5PxTxcBUvu7qz04C8GEp45rje5sIfGJYa+eL+kUbNlVsje4PloZM4sFUJ5RoL2vOhEPggqaaIDZrab84+Yp2rzrLUUm/XCyD3EjRDVqZky7llVGe5gddmUSLJyn9iUL9HZaM1r/KVaVVeh48nMTqKSW79lVXUuC69e3S2CiZwdq8w5vWBnylHvQ5aelFhyuwtQa/7YUHSfZKlvMzWiQG0JTrD/x+fNm0+Iou7XAy8ldYC0uJU6xUtSbnZ3EY7CCZhtBVitMQO+VZsgAZD0cK2w5MkpDt1/VdAuR4K2N5/uMJS97QpiS+5VvBE2b2QuU3fEKsHje5ci/l9R9Uhx30etsfin2RXZ+Zr1eVGm5pCCVjHFFIAF3Cy8C29Cyd4kp0yxwkPHIRkwPK1dEqdQ==;E8ThjpLHflbo/bqhSTr7xw=="
 ---
