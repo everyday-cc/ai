@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/future-of-health-new-age-of-virt
 webUrl: "https://www.digitaljournal.com/pr/future-of-health-new-age-of-virtual-reality-vr-in-healthcare-industry"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Robots and the Future of Remote Healthcare"
+    excerpt: "Although the technology has been around for several years, it is crucially important as we start to look toward the future ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that ..."
+    publishedDateTime: 2022-05-10T23:00:00Z
+    webUrl: "https://www.medpagetoday.com/opinion/kevinmd/98634"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 56
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/98xxx/98634.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "JBzShpAoqlgBvZ+3ar8TNYGDc4K7kwOPCb1rz1FzE9fspFT4+czxI5InzBHm5FavWvxXqNS9nBov1SxAruGPxhzRxmbQApIOjGaJXju6vrlZgLBnJ5WYAXrDP9UicEXkEoUI4dti5i/F3OJbz4lfQEjmXyxwmwhuJR41jsjOFZfx3ip5rPK4cGeiZ7BTPdnjWQ7fdx2jkkYpz5aT55gtSXBybkleAEC8KHdeHvH88DZQiowXCGYWj0LO/xkm+TM8Yl1ZGA4GSVOZL0ggFdV7P/DVTk64PJeEoRy8WG0gHzadNOCzRr7vFFWYEBxoHylZHiG0cEiiaO2sLbGYi8IuhcyHlLtr+MeHVo2xXo8qCzY=;MqriRlT+EMKsbDtMZ3DBmg=="
 ---

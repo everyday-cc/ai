@@ -157,7 +157,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://i.insider.com/627972c494a2c10018eea591?width=1200&format=jpeg"
         width: 1200
@@ -178,6 +178,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-05/220510-clearview-mb-0828-4ee5e0.jpg"
         width: 4226
         height: 2817
+        isCached: true
+  - title: "Settlement: Clearview AI to Limit Sales of Biometric Database"
+    excerpt: "After two years of legal proceedings, Clearview AI agreed this week to limit the sale of its facial recognition software to government agencies as part of a settlement reached with the American Civil Liberties Union."
+    publishedDateTime: 2022-05-10T23:06:00Z
+    webUrl: "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database"
+    ampWebUrl: "https://www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/settlement-clearview-ai-to-limit-sales-of-biometric-database?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "Shady AI company agrees to limit sales of facial recognition tech"
     excerpt: "Clearview AI, the controversial facial recognition company, was just crippled by a recent legal settlement. The settlement means that Clearview AI will end sales of its biometric data to private companies and individuals in the United States."

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "MediaTek Unveils New AIoT Platform Stack and Introduces the Genio 1200 AIoT Chip"
-excerpt: "MediaTek Genio is a complete platform stack for the AIoT with powerful and ultra- efficient chipsets, open platform software development kits (SDKs) and a developer portal with co"
-publishedDateTime: 2022-05-10T20:30:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220510HK49834/mediatek-unveils-new-aiot-platform-stack-and-introduces-the-genio-1200-aiot-chip/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220510HK49834/mediatek-unveils-new-aiot-platform-stack-and-introduces-the-genio-1200-aiot-chip/"
+excerpt: "With the MediaTek Genio platform stack, designers and OEMs can bring differentiated and secure intelligent devices to market faster SCOTTSDALE, Ariz., May10, 2022 /PRNewswire/ -- MediaTek today unveiled its new Genio platform for AIoT devices and introduced the first chip in the Genio family,"
+publishedDateTime: 2022-05-10T17:39:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-1c380c87c1dd4c18cc4ba8e453394bde"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-1c380c87c1dd4c18cc4ba8e453394bde"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1812714/MediaTek_Genio_1200_0522.jpg"
-    width: 400
-    height: 352
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "4KSM0euvZ+OjhS16bNnY1CxHBjkqkA83tsHMQngiLHV8M/AcItw9ZgPA8VToeTfVn/4iCDsDTEVER4cqZUGOHBdHPErBkpKrh9dTdzfPQx0Ou2T/KLQ6UqG0I3lQg4K6wCDRGfI4KdM2W4R9xU1qEnmbGftbv5DWjrXEmEvqy07obhjw3lLxVqQK2D+Dz7Y62DCsPEZqPm6QGB52aywupzfz+OqOiCyp7hrtaX8ist9ic4dx05e3moHBr2trpmizy3EklZS1OFt1U1m7CfBLiIoo7ZVwvMwOOxqOoSKHvfVW0utrav8sH1h4+0BV4ZdD3XEGWkjVB4j3ThqkmW3i7U8dQ6JfDHL4na1z+/0l7w8=;0lvw58gv4cj2RZP4glKF1w=="
+secured: "JY0X5v89VoomtjSugDoM80eRm7/j5roJJwTtGf6MwU7IiAe163T5xKn1RxBCFeIS1MBc0trx5pLbfpKXn8/l30O60tRwMYcFeT4gfzkW9VT4rOutwG2oaCbPsuXqQPpppp+yI1YsUCl9t3m9pd3wqp0AwX/bXVKAWD82dutuP5SuJymCNPQRTt4nLHe012i3O1RAJtVSpQ/xFXkxT83JFDTdd/kS5o6hIezBycVE+kAMnmJeRLjQTLvrVxBDIBcQlFJbMPmHmc3xfVJ5IhXcu5RJQAPsKwtUN38IFRDUi4t+A5u4ag/exTyn+pzeZGr/ZWbBkOk0kK77B4T7Qd1MeZVr/bYSzlCZLEuJIE0r9tc=;g/ZMpcGwVrfTmMDk0Hl+Rw=="
 ---
 

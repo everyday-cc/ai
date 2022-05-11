@@ -2,6 +2,95 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-07-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
+      "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27060343",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27060343",
+      "publishedDateTime": "2022-05-07T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-07-india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability.md",
+      "title": "India and Germany in new deal on joint AI for healthcare, sustainability",
+      "excerpt": "Indo-German Science and Technology Centre (IGSTC) is all set to propose a joint “Artificial Intelligence” (‘AI’) initiative on healthcare and - Kenya breaking news | Kenya news today | Capitalfm.co.ke",
+      "sourceUrl": null,
+      "webUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/",
+      "originalUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.capitalfm.co.ke/news/files/2022/05/JITENDRA.jpeg",
+          "width": 1200,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-capitalfm-co-ke.cdn.ampproject.org/c/s/www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/",
+      "publishedDateTime": "2022-05-06T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Capital FM",
+        "domain": "capitalfm.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-07-how-to-master-the-data-lifecycle-for-successful-ai.md",
       "title": "How to master the data lifecycle for successful AI",
       "excerpt": "The AI data lifecycle is ever-changing, and the approaches we take to manage its different components need to be dynamic as well.",
@@ -1093,102 +1182,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai.md",
-      "title": "Meet Nvidia's Huge H100 Chip That's Powering Tomorrow's AI",
-      "excerpt": "Exclusive: The new chip helps cement Nvidia's lead in technology that's revolutionizing computing challenges like language and self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/",
-      "originalUrl": "https://www.cnet.com/tech/computing/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/65f9eefdcf0ad8ce01d670618abb267863d6977f/2022/05/04/82b87660-6f44-46d8-b887-3097b1e32a95/20220429-nvidia-h100-hopper-ai-gpu-03.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai/",
-      "publishedDateTime": "2022-05-05T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-robots-help-reaching-un-goals-of-sustainable-development-ifr-reports.md",
-      "title": "Robots Help Reaching UN Goals Of Sustainable Development – IFR Reports",
-      "excerpt": "The use of robots plays an important role in reaching the sustainable development goals set out by the United Nations (17 SDGs). The International Federation of Robotics identified 13 SDGs, where robots help to create a better planet.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-europe-germany-united-nations-robotics-f09b81bc9e0c44c09c9d5230224f6ad5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-05-10-new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability.md",
-      "title": "New AI study looks to improve healthcare of people with a learning disability",
-      "excerpt": "are using It aims to use machine learning to better understand the interaction between long-term conditions in people with learning disabilities and their care needs so as to provide effective joined-up care between health and social services. About one ...",
+      "path": "_news/2022-05-11-its-never-too-early-to-get-your-ai-ethics-right.md",
+      "title": "It’s never too early to get your AI ethics right",
+      "excerpt": "The Ethical AI Governance Group wants to give startups a framework for avoiding scandals and blunders while deploying new technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.learningdisabilitytoday.co.uk/new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability",
-      "originalUrl": "https://www.learningdisabilitytoday.co.uk/new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability",
+      "webUrl": "https://www.protocol.com/ai-ethics-startups",
+      "originalUrl": "https://www.protocol.com/ai-ethics-startups",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.learningdisabilitytoday.co.uk/media/39199/health-technology-primary.jpg",
-          "width": 824,
-          "height": 354,
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-coinbase-shares-fell-sharply-after-the-company-reported-weaker-than-expected-results-less-than-p-greater-than.png?id=29412744&width=400&coordinates=0%2C186%2C0%2C187&height=711.4285714285714&quality=80",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T06:54:00-07:00",
+      "ampWebUrl": "https://www.protocol.com/amp/ai-ethics-startups-2657296846",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-ethics-startups-2657296846",
+      "publishedDateTime": "2022-05-10T15:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "learningdisabilitytoday.co.uk",
-        "domain": "learningdisabilitytoday.co.uk",
+        "name": "Protocol",
+        "domain": "protocol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,10 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {

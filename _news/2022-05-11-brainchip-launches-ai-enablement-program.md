@@ -1,27 +1,26 @@
 ---
 category: news
 title: "BrainChip Launches AI Enablement Program"
-excerpt: "The AI Enablement Program delivers working prototypes that demonstrate on-chip, in device AI inference and learning. AI/ML projects can be complex, requiring expertise, financial commitment, and time. With the launch of the AI Enablement Program ..."
-publishedDateTime: 2022-05-10T21:34:00Z
-originalUrl: "https://www.digitaljournal.com/pr/brainchip-launches-ai-enablement-program"
-webUrl: "https://www.digitaljournal.com/pr/brainchip-launches-ai-enablement-program"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 10, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, today announced a three-tier AI Enablement Program to support customers ..."
+publishedDateTime: 2022-05-10T21:31:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe"
+webUrl: "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://www.accesswire.com/users/newswire/images/700662/BC-AIEnablement-002-1.jpg"
-    width: 1395
-    height: 758
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -86,6 +85,6 @@ related:
       domain: design-reuse.com
     quality: 10
 
-secured: "KVDtAZAHTV91VT/WhsTwcljShy+Y6xIqSwFOxieH31xlY84XtqLlWniDTpUKZSe2zV93WRZ0vRu2HrYXPYbW0Q13zg6E1D+YtV/XWB/P4k0o18QVeVc7JhqqvVUr7t8/fw2AdEMRilBID9sVxTV4mx9EepjLUfE/XZlxW5NhfrvZABMPWKta49X65C2Kt7dq3gPcBVwWGn5YqGj7JwwFaXgAV2cTCppbiBI35bJCNmPoIuq0gEmc7mBUDhqJpMzGJhNKjZLJn/rFLtDInqukCeFdKtuuf+2LMfxzxu14Fid9dzbz6wrHRujjdlAyYa90qU2/xJtQE8x+8eGguCpb7P2grJhA9jnfZnRgGQ5AtjY=;qiC3ULfw5gT5T5P1wWmQjQ=="
+secured: "JF/wGK5WGvXuGBgBikqBBiaFt/3vjksEVfismpXoUO792rpelRNMRGTpjuKncqasFQ/ki8WV5SG5LC2Z6bmKO2n8XU4WTITGBhJHB+0t1xRF0KS05VwK+BYvIzi8dry1pD0Wf1uuXzf6gC2Ju/gJcQnbR1LrB2T4mcMHafcimdFeZ0GIdF3iMhY1Gr0BoBvJ/RYIyoUAxl8FASojqQgPywKuruz6zUBAIBcmpCmd/8oKw0I2vPGBbkaNwhdgMgyPJLE1TmYu7KOYJ0A0Tq+sLHi5gda0UxiB+GykcU7CCfYrQ2zOlYaovhnTyHON0K2fmM0CMNJqBLkSDw8QmGU1jyvmh70keG3zrRlSQO9FlWc=;XQ3oZLZmMPX+n/uU4QTUZQ=="
 ---
 

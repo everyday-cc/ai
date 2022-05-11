@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
-excerpt: "Point Predictive Inc., the San Diego-based company that provides artificial intelligence (AI) solutions to lenders, announced today its strategic partnership with Provenir, a global leader in AI-powered risk decisioning software for the fintech industry."
-publishedDateTime: 2022-05-10T16:05:00Z
-originalUrl: "https://kdvr.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
-webUrl: "https://kdvr.com/business/press-releases/cision/20220510PH51514/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/"
+excerpt: "a global leader in AI-powered risk decisioning software for the fintech industry. Available through the Provenir Marketplace, Point Predictive's Artificial + Natural Intelligence™ solutions provide Provenir customers with increased underwriting ..."
+publishedDateTime: 2022-05-10T15:19:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/05/AP22127807498518.jpg?w=2000&#038;ssl=1"
-    width: 2000
-    height: 1333
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -43,6 +43,20 @@ related:
         isCached: true
   - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
+    publishedDateTime: 2022-05-10T22:06:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/provenir-joins-visa-ready-bnpl-program-support-ai-risk-decisioning"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 18
+    images:
+      - url: "https://financialit.net/sites/default/files/provenir_5.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Provenir Joins Visa Ready for BNPL Program to Support AI Risk Decisioning for Burgeoning Buy Now Pay Later Sector"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it is part of the Visa Ready for BNPL program, providing lenders offering Buy Now Pay Later (BNPL) services the ability to make data-fueled and AI-powered intelligent decisions."
     publishedDateTime: 2022-05-10T12:26:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-provenir-joins-visa-ready-bnpl-program-support-ai-/2022/05/10/9599082.htm"
     type: article
@@ -51,6 +65,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "4i30BkI9RVvHcKNjCd5ErxCJL5wXv1LHBxwXtbTYfsYDQwW3xlvpxsJJ+aP3WjnF/SoUdi65Gs8opj+XQ64M2kWkFe+Zz1eR7muF1rvARa0ht3v5EApGGzqJVpJfiZA68t3rfgdOHgAZPQSrPMXzhOr6LWjkoWvtUX5N3TqsCCyCnLBrA1MgcscOMA0wGDwvpWGlzD0nQ+RcDoAygTDHLN1ngqFNP7+a6By1MVuKnnxAfgCtCrvbovmP0ezutyw9jIK/oxQ08WVq1BgtY2Qa3Lp4j7kLFUo9V8Uqob7EI1byyIUhkfswF+7x0L2NjrTHAS9HyNXuDLM333pMTQAmDlk44WTDXvKyRwJ+WM0c4Ds=;jAU/59i2UPWBXI+F0Ln2hw=="
+secured: "Mp99L8vef2SyjKqLbHLK/b6ziure4bvhikL+y3beg82XS4SDvXIvtF1Bp3hso21Yjf14MR8Ja50U1m4K/WULiWr9fg86sGAVc4acQul1RTCjpEDKg7xoxeddOyIYKBhztMIgHkbb9koQGIOGgDT2wTb0L3cfQc5gggseNnOpIJTXZYIm4feV0IxJ/vRhr/cEj4BAS6smcRaRmYqDlGqA9DO/A5f11V1qd9Q8rLY7A65dcVCYsVXLL2aNV8fGUfSz1PlRQWMINgHv/jhUQU8TH8ba7ZaBN/1lGHN/5yCoTVkgg2DT9SU4u0FbLc668vbFmDohagO+iHKd58lJ55+mbjaFP+FyDj5lYvLi81nC6RM=;mtTPyqV1XeiSos24RVpa4g=="
 ---
 

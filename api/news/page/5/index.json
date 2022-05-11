@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-04-why-focusing-on-user-centricity-in-ai-is-the-best-move.md",
+      "title": "Why Focusing On User-Centricity In AI Is The Best Move",
+      "excerpt": "If you establish a process of evaluating meaningful insights that work within your organization's context, what can start as surprising consumer sentiments can quickly become opportunities to leverage AI for scalable interventions and results. It's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee37b6f7aa2f00006297975/0x0.jpg?format=jpg&crop=7500,4218,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/amp/",
+      "publishedDateTime": "2022-05-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology.md",
+      "title": "VW Group To Rely On Qualcomm Chips For Its Self-Driving Technology",
+      "excerpt": "All VW Group brands will use this chip starting in 2026 in a deal that runs through to ... Instead, it is also working alongside Argo AI and has already partnered with the company to develop an all-autonomous version of the electric ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
+      "originalUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/05/VW-ID.-Buzz-2a-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
+      "publishedDateTime": "2022-05-04T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-stop-worrying-about-ai-bias-all-the-time-says-deloittes-ai-ethics-lead.md",
       "title": "Stop worrying about AI bias all the time, says Deloitte’s AI ethics lead",
       "excerpt": "AI that discriminates against people is a big problem, but Beena Ammanath, executive director of the Global Deloitte AI Institute and head of Trustworthy AI and Ethical Tech, says AI ethics is about a lot more than bias.",
@@ -41,6 +136,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-space-discoveries-that-will-blow-your-mind.md",
+      "title": "Space discoveries that will blow your mind",
+      "excerpt": "Space discoveries that will blow your mind Since NASA’s inception in 1958, astronauts have landed on the moon, parked a robot-controlled rover on Mars, and discovered thousands of exoplanets—planets that orbit stars outside of this solar system.",
+      "sourceUrl": null,
+      "webUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "originalUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/whatsupnewp.com/wp-content/uploads/2022/04/Screen20Shot202020-10-2620at201.01.4220PM_1.png?fit=1013%2C720&ssl=1",
+          "width": 1013,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "cdnAmpWebUrl": "https://whatsupnewp-com.cdn.ampproject.org/c/s/whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "publishedDateTime": "2022-05-04T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "What'sUpNewp",
+        "domain": "whatsupnewp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -999,159 +1137,6 @@
       "updatedDateTime": null,
       "provider": {
         "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-will-not-replace-assistants.md",
-      "title": "AI Will Not Replace Assistants",
-      "excerpt": "I am not an Artificial Intelligence expert. I am not even a software engineer, for that matter. But I do know one thing: Assistants are going be to among the last jobs in the office to be replaced by technology. This is much more than a hot take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/",
-      "originalUrl": "https://www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626fee9a3da25fb982b8e8a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2022/05/03/ai-will-not-replace-assistants/amp/",
-      "publishedDateTime": "2022-05-03T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-building-the-future-of-ai-powered-retail-starts-with-trust.md",
-      "title": "Building The Future Of AI-Powered Retail Starts With Trust",
-      "excerpt": "This must give you a unique vantage point on data-centric AI, per your recent blog ... At the outset, I always start with the question: do we need machine learning at all to solve this problem, or is there an easier way to fix it that we should implement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62704c8d931d4d3a63b1ef88/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/03/building-the-future-of-ai-powered-retail-starts-with-trust/amp/",
-      "publishedDateTime": "2022-05-03T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-soundcloud-acquires-musiio-an-ai-music-curator-to-improve-discovery.md",
-      "title": "SoundCloud acquires Musiio, an AI music curator, to improve discovery",
-      "excerpt": "An online audio sharing platform and streamer, SoundCloud has acquired Musiio, an AI music curation company. With Musiio’s team and technology, SoundCloud plans to strengthen its music discovery ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
-      "originalUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/soundcloud.jpg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/soundcloud-acquires-musiio-ai-music-discovery/amp/",
-      "publishedDateTime": "2022-05-03T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
         "domain": "techcrunch.com",
         "images": [
           {

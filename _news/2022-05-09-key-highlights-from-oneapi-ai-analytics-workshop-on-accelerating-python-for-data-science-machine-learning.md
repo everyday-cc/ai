@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/key-highlights-from-oneapi-ai-analyt
 webUrl: "https://analyticsindiamag.com/key-highlights-from-oneapi-ai-analytics-workshop-on-accelerating-python-for-data-science-machine-learning/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "AI innovation with oneAPI: Key takeaways from this masterclass by Intel"
-    excerpt: "Intel®, in collaboration with Analytics India Magazine, successfully concluded Intel-Masterclass on AI innovation with oneAPI on April 13, 2022."
-    publishedDateTime: 2022-05-06T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/ai-innovation-with-oneapi-key-takeaways-from-this-masterclass-by-intel/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/image-1-1.png"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Kg+HwlDwyHPuKNFktZJQJnSAL7flfz2sphaaFd2of33/3HXOuALpxc4FC7geeDs3+CpLsJSJCwdrGAlypkqV4kbLZJ1g7VrbZwK5YRJbmLyBjhOWoc+yQN+X/M2xxGhg+FbMQ/s04RuIx8y1/qVHgQiztPXu5K4+LueauH4s4Ee36Is2Ut+EXY51StWUTfOp/syO/QiMjo5HbkxYf1ZjAcCbHZwkxeoJLJbNGOfD8MKxvmJtOK0lLwkkvNCyjWyTSjP0u4aKif3O5U7XngfiWsSemBUF1tLKuoAgZAIpAc8Zt1x/MV5rhojpTNTsD1FUnDddDjLc8AkCrQ2lbunTWlyzdjFBER9PEIGs56nah3+dXYyn0uZGUgJVf+LmPyTrFTsxpt+8OFBoaS/B6VQiwi2kiJadUrpfzveDuIubMW7XOACY1Zoc6ZVtUs2tJKr1DmqzqcowI7OqwwHiou441JdUKvF8cFoNVshRzH+7NdM5CgmVlds2j1nJqKY6f+CRC8ws8dvHyrVYxoQ9ssJY3g==;sJFJgQo7zciHUQTJWnVqzw=="
 ---

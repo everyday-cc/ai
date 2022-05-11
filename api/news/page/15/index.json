@@ -2,6 +2,134 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-04-26-artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely.md",
+      "title": "Artificial Intelligence (AI) Helps Detect Cancer from Patient Data Securely",
+      "excerpt": "Researchers developed a novel way of using artificial intelligence (AI) to predict cancer from patient data without putting personal information at risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-detect-cancer-from-patient-data-securely-206783-1.htm",
+      "publishedDateTime": "2022-04-25T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings.md",
+      "title": "Can Strength in Azure Cloud Aid Microsoft's (MSFT) Q3 Earnings?",
+      "excerpt": "Azure’s revenue growth is likely to reflect continued strength ... Microsoft also completed the acquisition of Nuance Communications, a leader in conversational AI and ambient intelligence across industries like healthcare, financial services, retail ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
+      "originalUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-strength-in-azure-cloud-aid-microsofts-msft-q3-earnings?amp",
+      "publishedDateTime": "2022-04-25T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration.md",
+      "title": "This Climate Fintech Startup Is Paving The Way For Mass Market Adoption Of Land Regeneration",
+      "excerpt": "It’s a little known fact that the hope of the future lies in land regeneration – avoiding meat, air travel, and the rise of electric vehicles have largely captured the headlines and our imagination.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
+      "originalUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266c933d798f8767744041a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 991,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/",
+      "publishedDateTime": "2022-04-25T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-experienced-sales-leader-tyler-norkus-joins-dynamai-as-chief-revenue-officer.md",
       "title": "Experienced Sales Leader Tyler Norkus Joins Dynam.AI as Chief Revenue Officer",
       "excerpt": "Norkus, a sales expert in emerging technologies, has led go-to-market strategy for startups both in the United States and worldwide. SAN DIEGO, April 25, 2022 /PRNewswire-PRWeb/ -- Dynam.AI, an artifi",
@@ -1007,142 +1135,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-24-darpa-seeks-proposals-on-improving-satellite-imagery-technology.md",
-      "title": "DARPA seeks proposals on improving satellite imagery technology",
-      "excerpt": "DARPA issued broad agency announcements for the efforts in February and March focused on improving SAR technology in three areas: automated object recognition; distributed radar image formation; and digital signal processing. Responses for all three are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/battlefield-tech/space/2022/04/22/darpa-seeks-proposals-on-improving-satellite-imagery-technology/",
-      "originalUrl": "https://www.c4isrnet.com/battlefield-tech/space/2022/04/22/darpa-seeks-proposals-on-improving-satellite-imagery-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/FidCxfiWA64sCTyaPFcHoG3-oec=/1024x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/5YR7EOV2KVDZXHUNG4FWBQZCFM.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-23T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-24-dangerous-malware-is-up-86-heres-how-ai-can-help.md",
-      "title": "Dangerous malware is up 86%: Here’s how AI can help",
-      "excerpt": "The need for AI-powered tools is only going to become more urgent as high-severity malware becomes more prevalent.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/23/dangerous-malware-is-up-86-heres-how-ai-can-help/",
-      "originalUrl": "https://venturebeat.com/2022/04/23/dangerous-malware-is-up-86-heres-how-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1202357522.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/23/dangerous-malware-is-up-86-heres-how-ai-can-help/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/23/dangerous-malware-is-up-86-heres-how-ai-can-help/amp/",
-      "publishedDateTime": "2022-04-23T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-24-ponyai-becomes-the-first-autonomous-driving-company-to-receive-a-taxi-license-in-china.md",
-      "title": "Pony.ai Becomes the First Autonomous Driving Company to Receive a Taxi License in China",
-      "excerpt": "Pony.ai, the leading global autonomous driving technology company, announced it is the first and only autonomous driving (AD) company to obtain a taxi license in China. Pony.ai was awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha,",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/pony-ai-becomes-the-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/article_5489106e-0d68-5778-a62e-7031737c4d73.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/pony-ai-becomes-the-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/article_5489106e-0d68-5778-a62e-7031737c4d73.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/3/d7/3d77c38d-5a5e-5ec0-84cd-76d6bb1b90dd/6264ba882bb30.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.valdostadailytimes.com/news/business/pony-ai-becomes-the-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/article_5489106e-0d68-5778-a62e-7031737c4d73.amp.html",
-      "cdnAmpWebUrl": "https://www-valdostadailytimes-com.cdn.ampproject.org/c/s/www.valdostadailytimes.com/news/business/pony-ai-becomes-the-first-autonomous-driving-company-to-receive-a-taxi-license-in-china/article_5489106e-0d68-5778-a62e-7031737c4d73.amp.html",
-      "publishedDateTime": "2022-04-23T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

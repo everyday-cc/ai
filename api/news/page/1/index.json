@@ -2,6 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-11-research-offers-insight-into-patients-views-of-ai-in-healthcare.md",
+      "title": "Research offers insight into patients' views of AI in healthcare",
+      "excerpt": "New research from Yale Cancer Center provides a new understanding of patients' views of artificial intelligence (AI) in healthcare. While comfort level varied by clinical application, most respondents had positive views about AI's ability to improve care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx",
+      "publishedDateTime": "2022-05-10T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-its-never-too-early-to-get-your-ai-ethics-right.md",
+      "title": "It’s never too early to get your AI ethics right",
+      "excerpt": "The Ethical AI Governance Group wants to give startups a framework for avoiding scandals and blunders while deploying new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/ai-ethics-startups",
+      "originalUrl": "https://www.protocol.com/ai-ethics-startups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-coinbase-shares-fell-sharply-after-the-company-reported-weaker-than-expected-results-less-than-p-greater-than.png?id=29412744&width=400&coordinates=0%2C186%2C0%2C187&height=711.4285714285714&quality=80",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/ai-ethics-startups-2657296846",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-ethics-startups-2657296846",
+      "publishedDateTime": "2022-05-10T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-upstart-ceo-defends-increased-loan-balance-says-the-ai-lending-platforms-model-hasnt-changed.md",
+      "title": "Upstart CEO defends increased loan balance, says the AI lending platform's model hasn't changed",
+      "excerpt": "In an interview Tuesday with CNBC's Jim Cramer, Upstart Holdings CEO David Girouard sought to downplay investor concerns about the company's risk exposure. Shares of the artificial intelligence lending platform plunged 56.42% Tuesday, closing at $33.61 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/05/10/upstart-ceo-defends-increased-loan-balance-says-the-ai-lending-platforms-model-hasnt-changed.html",
+      "originalUrl": "https://www.cnbc.com/2022/05/10/upstart-ceo-defends-increased-loan-balance-says-the-ai-lending-platforms-model-hasnt-changed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107059012-1652212858476-gettyimages-497524136-GIROUARD_UPSTART.jpeg?v=1652212977",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/05/10/upstart-ceo-defends-increased-loan-balance-says-the-ai-lending-platforms-model-hasnt-changed.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/10/upstart-ceo-defends-increased-loan-balance-says-the-ai-lending-platforms-model-hasnt-changed.html",
+      "publishedDateTime": "2022-05-10T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-machine-learning-improves-hawaii-rainfall-mapping.md",
       "title": "Machine learning improves Hawai'i rainfall mapping",
       "excerpt": "University of Hawaiʻi and East-West Center researchers have developed more accurate monthly rainfall maps by using machine learning. They used a machine learning technique to detect erroneous ...",
@@ -253,7 +390,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -463,7 +600,7 @@
       "originalUrl": "https://techcrunch.com/2022/05/10/salesforce-acquires-troops-ai-to-make-useful-slack-bots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -618,7 +755,7 @@
       "originalUrl": "https://www.cnet.com/tech/intel-doubles-ai-chip-power-to-expand-the-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -659,51 +796,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability.md",
-      "title": "New AI study looks to improve healthcare of people with a learning disability",
-      "excerpt": "are using It aims to use machine learning to better understand the interaction between long-term conditions in people with learning disabilities and their care needs so as to provide effective joined-up care between health and social services. About one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.learningdisabilitytoday.co.uk/new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability",
-      "originalUrl": "https://www.learningdisabilitytoday.co.uk/new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.learningdisabilitytoday.co.uk/media/39199/health-technology-primary.jpg",
-          "width": 824,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "learningdisabilitytoday.co.uk",
-        "domain": "learningdisabilitytoday.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare",
-        "AI Ethics"
       ]
     },
     {
@@ -1016,7 +1108,7 @@
       "originalUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 446,
+      "heat": 456,
       "tags": null,
       "images": [
         {
@@ -1161,101 +1253,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology.md",
-      "title": "NGO partners Oyo to train public school students on coding, robotics, drone technology",
-      "excerpt": "Oyo State government is partnering Media and Digital Skills Centre Nigeria to train its public school students on Coding, Robotics, Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
-      "originalUrl": "https://businessday.ng/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/drones.jpg?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
-      "publishedDateTime": "2022-05-09T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-apple-director-of-machine-learning-quits-because-of-the-companys-return-to-work-policy-report-says.md",
-      "title": "Apple director of machine learning quits because of the company's return-to-work policy, report says",
-      "excerpt": "\"I believe strongly that more flexibility would have been the best policy for my team,\" Ian Goodfellow told staff, according to reporter Zoe Schiffer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
-      "originalUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6279226b94a2c10018ee8ec7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp",
-      "publishedDateTime": "2022-05-09T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

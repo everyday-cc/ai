@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479.md",
+      "title": "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%",
+      "excerpt": "Industrial robots generate a huge amount of data ... The key players operating in the artificial intelligence in manufacturing market NVIDIA (US), IBM (US), Intel (US), Siemens (Germany), General Electric (US), Google (US), Microsoft Corporation (US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg",
+          "width": 635,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-are-there-robot-proof-jobs.md",
       "title": "Are There Robot-proof Jobs?",
       "excerpt": "Robots work well in perfectly controlled environments, such as factories and warehouses, and not in ad hoc environments like your aunt Sue’s attic. Forest rangers and electricians are a couple of jobs like this that come to mind, but there are many more.",
@@ -1297,49 +1340,6 @@
       "provider": {
         "name": "AZoOptics",
         "domain": "azooptics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-swarm-robotics-expands-the-possibilities-for-mars-exploration.md",
-      "title": "Swarm Robotics Expands the Possibilities for Mars Exploration",
-      "excerpt": "Roboticists from Skoltech have proposed the development of two-wheeled robots controlled through swarm intelligence algorithms that can operate independently or as part of a team to complete mission-critical assignments on the surface of Mars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12887",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12887",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12887_16498379157617531.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12887",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12887",
-      "publishedDateTime": "2022-04-13T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
         "images": null,
         "publishers": null,
         "authors": null

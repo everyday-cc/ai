@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-doubles-ai-chip-power-to-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-doubles-ai-chip-power-to-expand-the-ai-revolution/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Intel launches new AI chips"
+    excerpt: "Intel has launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia. Gaudi2 is the second generation processor by Habana Labs,"
+    publishedDateTime: 2022-05-10T22:12:00Z
+    webUrl: "https://www.itnews.com.au/news/intel-launches-new-ai-chips-579811"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/intel.png"
+        width: 1600
+        height: 1215
         isCached: true
   - title: "Intel Launches New AI Chips, Challenging Nvidia's Market"
     excerpt: "Intel Corp on Tuesday launched a new chip called Gaudi2 focused on artificial intelligence computing, as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp."

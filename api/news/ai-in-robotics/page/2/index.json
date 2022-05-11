@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-28-pittsburgh-welcomes-plus-one-robotics.md",
+      "title": "Pittsburgh welcomes Plus One Robotics",
+      "excerpt": "The logistics robotics company is the latest to join the Pittsburgh technology ecosystem, expanding from its home base in Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
+      "originalUrl": "https://www.therobotreport.com/pittsburgh-welcomes-plus-one-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/plus-one-modex-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-procreating-robots-the-next-big-thing-in-cognitive-automation.md",
       "title": "Procreating Robots: The Next Big Thing In Cognitive Automation?",
       "excerpt": "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence.",
@@ -1340,49 +1384,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479.md",
-      "title": "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%",
-      "excerpt": "Industrial robots generate a huge amount of data ... The key players operating in the artificial intelligence in manufacturing market NVIDIA (US), IBM (US), Intel (US), Siemens (Germany), General Electric (US), Google (US), Microsoft Corporation (US ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg",
-          "width": 635,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

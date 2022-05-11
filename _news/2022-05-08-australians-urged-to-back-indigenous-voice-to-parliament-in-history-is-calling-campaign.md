@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2022/may/09/australians-u
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 620
     height: 413
     isCached: true
+
+related:
+  - title: "How Indigenous recognition could reshape Australia"
+    excerpt: "It's been five years since the Uluru Statement from the Heart called for the creation of an Indigenous Voice to parliament, and the major parties are outlining their plans for recognition ahead of the election."
+    publishedDateTime: 2022-05-10T23:07:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/lifematters/how-indigenous-recognition-could-reshape-australia/13875422"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 24
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13875466-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "nMe7KaGLXTBu08zGAX+TL0ZowgytuyOBniWPtcmpadSU4J+l6UW0JiS7wA5Cj5UGw8fnb7qWJU2+x8KKGn7RsY/eh6WKK0MDXBao4ZT5YIhcT91a/MZ7WBE8sHsJtOYgIccLz7lIq1u5+Xrl6Cc/mzOPLue7VIY1FrvO0HO4lLvuQogpQ6U+Vd/UDGIdJJCJFzlqCooIoyxv88KXKpVdo1iVvF3HydtJTRVtoWG/r0UZVsAjC2Z4JYA52aSFeMCtbhguL7XOTaYrut8PdEUtS6XjWIpDx04o981i+0W9P5Ul9/Dz64xvo3NB2BSCNqrLLRz9hsJEBV1Br7oQKLec0G3UKb0szgqicoHznNXQAoFUWbyfqQUo/Lm89vJlBfDKQ7NJNBIdRjvMowYCUGBeoQJ+FZqgXlAVgWGwOC8GSTXg9KxQ9jBeql41zOnuxteraazhMoFxGf6/zieFrXE3PcbsdmVj8S8WjL0BDcPvq/cdScW1kpWU8gRHoeR1Nceq0fjLXqCSvXp6ogg3PvQ+pQ==;ckzhQuCR5Xxnio6l/jChGw=="
 ---

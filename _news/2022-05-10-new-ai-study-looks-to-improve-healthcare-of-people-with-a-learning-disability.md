@@ -7,8 +7,8 @@ originalUrl: "https://www.learningdisabilitytoday.co.uk/new-ai-study-looks-to-im
 webUrl: "https://www.learningdisabilitytoday.co.uk/new-ai-study-looks-to-improve-healthcare-of-people-with-a-learning-disability"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: learningdisabilitytoday.co.uk
@@ -27,24 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Banking on the digitisation of healthcare: what the industry can learn from financial services?"
-    excerpt: "Sales Engineering, InterSystems As the healthcare industry continues on its digital transformation (DT) journey – which has only accelerated since the start of the pandemic – there is a lot it can learn from other sectors that have trodden a similar path."
-    publishedDateTime: 2022-05-10T18:46:00Z
-    webUrl: "https://www.globalbankingandfinance.com/banking-on-the-digitisation-of-healthcare-what-the-industry-can-learn-from-financial-services/"
+  - title: "Research offers insight into patients' views of AI in healthcare"
+    excerpt: "New research from Yale Cancer Center provides a new understanding of patients' views of artificial intelligence (AI) in healthcare. While comfort level varied by clinical application, most respondents had positive views about AI's ability to improve care."
+    publishedDateTime: 2022-05-10T22:50:00Z
+    webUrl: "https://www.news-medical.net/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220510/Research-offers-insight-into-patients-views-of-AI-in-healthcare.aspx"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-  - title: "AI used to support people with learning disabilities"
-    excerpt: "“We are very excited about this collaboration opportunity, working with clinicians and experts in data science, AI, medical informatics, human factors, design, ethics and qualitative research, as well as those with lived experience of learning ..."
-    publishedDateTime: 2022-05-09T13:08:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/05/ai-might-help-support-people-with-learning-disabilities/"
+      name: News Medical
+      domain: news-medical.net
+    quality: 74
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "AI can predict bone fractures in cancer patients"
+    excerpt: "A team of US researchers has used artificial intelligence (AI) to create a digital twin of a patient’s vertebra that will be able to predict the risk of bone fracture in people who have suffered from cancer. As medicine continues to embrace machine ..."
+    publishedDateTime: 2022-05-06T12:29:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/05/ai-can-predict-bone-fractures-in-cancer-patients/"
     type: article
     provider:
       name: IET
       domain: theiet.org
-    quality: 19
+    quality: 17
 
 secured: "rcy+uQp6iW7ZFqzacJyOJqpqeTuY4dnTJuAShMxpOVgDjiXtbp+E4Un2otIFIczc5OUDrmV9FeMnvWkolfTRoRZlGUPyhwUD//R/x2M0KVYD/TEzciFD3lRp7gNXgUw5qrmmFY0tbvnCSCD0AM7zdQIB5nnqlNai2mR3PJUb9V72hqVD4yj2y09CW91KMugB+DucAbX1IQSHw66JFiNE2Tq0rT3DHwyLpk+OjByXQCf1gryVK0NYqq5QItkS20/6ItfmEwkOrKRzsaZ+Wn0nuGfXASLV4SnNJblwOomqYeHJhWwEVluxWTWTzxodA2MCow8qc53dE08AYeZc5el7lz4UxFbKUr/7v7JOFGmIy+g=;soWsR+qsp+BzuUrTbbJgAg=="
 ---

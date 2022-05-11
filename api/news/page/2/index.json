@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-09-ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology.md",
+      "title": "NGO partners Oyo to train public school students on coding, robotics, drone technology",
+      "excerpt": "Oyo State government is partnering Media and Digital Skills Centre Nigeria to train its public school students on Coding, Robotics, Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "originalUrl": "https://businessday.ng/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/drones.jpg?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "publishedDateTime": "2022-05-09T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-apple-director-of-machine-learning-quits-because-of-the-companys-return-to-work-policy-report-says.md",
+      "title": "Apple director of machine learning quits because of the company's return-to-work policy, report says",
+      "excerpt": "\"I believe strongly that more flexibility would have been the best policy for my team,\" Ian Goodfellow told staff, according to reporter Zoe Schiffer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
+      "originalUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6279226b94a2c10018ee8ec7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp",
+      "publishedDateTime": "2022-05-09T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-cogniteam-to-enhance-low-code-ai-robotics-platform-with-56m.md",
       "title": "Cogniteam to enhance low-code AI robotics platform with $5.6M",
       "excerpt": "However, the rise of digital transformation in AI and robotics begs the question — how far can low-code applications really go? In AI and robotics, designing a system from scratch often requires ...",
@@ -442,7 +537,7 @@
       "originalUrl": "https://www.forbes.com/sites/helenpopkin/2022/05/06/ai-50-2022-north-americas-top-ai-companies-shaping-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1103,95 +1198,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
-      "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27060343",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27060343",
-      "publishedDateTime": "2022-05-07T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability.md",
-      "title": "India and Germany in new deal on joint AI for healthcare, sustainability",
-      "excerpt": "Indo-German Science and Technology Centre (IGSTC) is all set to propose a joint “Artificial Intelligence” (‘AI’) initiative on healthcare and - Kenya breaking news | Kenya news today | Capitalfm.co.ke",
-      "sourceUrl": null,
-      "webUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/",
-      "originalUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.capitalfm.co.ke/news/files/2022/05/JITENDRA.jpeg",
-          "width": 1200,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-capitalfm-co-ke.cdn.ampproject.org/c/s/www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/",
-      "publishedDateTime": "2022-05-06T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Capital FM",
-        "domain": "capitalfm.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-04-19-enova-announces-date-of-first-quarter-2022-financial-results-conference-call.md",
-      "title": "Enova Announces Date of First Quarter 2022 Financial Results Conference Call",
-      "excerpt": "CHICAGO, April 19, 2022 /PRNewswire/ -- Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning and artificial intelligence, today announced the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/enova-announces-date-of-first-quarter-2022-financial-results-conference-call/article_9a167209-c1b9-5388-9def-dccdcece7697.html",
-      "originalUrl": "https://www.news-journal.com/enova-announces-date-of-first-quarter-2022-financial-results-conference-call/article_9a167209-c1b9-5388-9def-dccdcece7697.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-19-fintech-kinara-capital-secures-usd-50-million-in-equity-led-by-nuveen.md",
       "title": "Fintech Kinara Capital Secures USD $50 Million in Equity, Led by Nuveen",
       "excerpt": "Kinara Capital, India’s fast-growing MSME fintech, closed a fresh equity round of USD $50 million led by Nuveen, a leading global investment manager with over $1.3 trillion of assets under management,",
@@ -1286,6 +1252,41 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-machine-learning-as-a-service-market-size-worth-3881-billion-globally-by-2028-at-412-cagr-verified-market-research.md",
+      "title": "Machine Learning As A Service Market size worth $ 38.81 Billion, Globally, by 2028 at 41.2% CAGR: Verified Market Research®",
+      "excerpt": "Verified Market Research recently published a report, \"Machine Learning As A Service Market\" By Component (Services, Software Tools),",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at-41-2-cagr-verified-market-research-r--882059394.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at-41-2-cagr-verified-market-research-r--882059394.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

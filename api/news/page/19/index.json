@@ -2,6 +2,144 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-04-21-post-kyndryl-software-and-consulting-boost-ibm-financials.md",
+      "title": "Post Kyndryl, software and consulting boost IBM financials",
+      "excerpt": "“Harnessing the power of technology such as hybrid cloud and AI remains essential as our clients face ... which will be available from May 31 this year. IBM also shed its Watson Health division this quarter, with CFO James Kavanaugh telling analysts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/697380/post-kyndryl-software-consulting-boost-ibm-financials/",
+      "originalUrl": "https://www.reseller.co.nz/article/697380/post-kyndryl-software-consulting-boost-ibm-financials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines.md",
+      "title": "AMD Targets High-End Signal Processing With New Versal Premium With AI Engines",
+      "excerpt": "When compared to the previous generation Virtex UltraScale+ VU13, the Versal Premium VP2802 ACAP increases performance by 3.3x for RF signal processing, 4.7x for Radar data cube processing, and 5.8x for AI/ML inference processing while reducing the number of FPGAs needed for a design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62607d24b1c8ce336e10875f/0x0.jpg?format=jpg&width=1200",
+          "width": 764,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/amp/",
+      "publishedDateTime": "2022-04-20T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-an-inventor-resurrected-his-imaginary-friend-with-ai-then-it-tried-to-murder-him.md",
+      "title": "An inventor resurrected his imaginary friend with AI — then it tried to murder him",
+      "excerpt": "As a kid, Lucas Rizzotto had an imaginary friend: a talking microwave. As an adult, Rizzotto resurrected his pal — with tragic consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave",
+      "originalUrl": "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-7.jpg&signature=8dc3c8edb07603857914fc06fe201aaf",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas.md",
       "title": "Billionaire CEO’s US Senate run focuses on one issue: Banning ‘self-driving’ Teslas",
       "excerpt": "Dan O’Dowd, the billionaire founder of The Dawn Project and Green Hills Software, is running for U.S. Senate on a single issue. It’s not unemployment or inflation or even education. It’s about making computers safer for humans,",
@@ -987,144 +1125,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-prezentai-secures-20m-to-gamify-deck-presentations.md",
-      "title": "Prezent.ai secures $20M to gamify deck presentations",
-      "excerpt": "Prezent.ai, which is developing a suite of tools to help employees present ostensibly better decks, has raised $20 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/",
-      "originalUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1139933142.jpg?w=724",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/",
-      "publishedDateTime": "2022-04-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-ucl-and-deepmind-improving-representation-in-artificial-intelligence-education.md",
-      "title": "UCL and DeepMind: improving representation in artificial intelligence education",
-      "excerpt": "Global artificial intelligence (AI) company DeepMind is working with UCL to open up scholarships to underrepresented students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
-      "originalUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucl.ac.uk/engineering/sites/engineering/files/case-study/40468779200_8e95b2b30d_c.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UCL",
-        "domain": "ucl.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-people-will-be-able-to-watch-tv-and-check-emails-in-self-driving-cars-in-highway-code-law.md",
-      "title": "People will be able to watch TV and check emails in self-driving cars in Highway Code law",
-      "excerpt": "MOTORISTS will be allowed to watch television or check their emails on built-in screens under proposed updates to the Highway Code when in self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
-      "originalUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 290,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft-1598298.jpg?r=1650441690594",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
-      "publishedDateTime": "2022-04-20T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },
