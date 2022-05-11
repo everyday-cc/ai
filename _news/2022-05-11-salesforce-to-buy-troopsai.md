@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Salesforce acquires Slack-bot maker Troops.ai"
+    excerpt: "Salesforce has announced the acquisition of Troops.ai, a revenue and communications platform that uses Slack and Microsoft Teams bots to surface CRM data from platforms such as Sa"
+    publishedDateTime: 2022-05-11T07:22:00Z
+    webUrl: "https://www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3660079/salesforce-acquires-slack-bot-maker-troops-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/05/slack-2-100888266-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 635
+        isCached: true
   - title: "Salesforce To Take Over Troops.ai For Microsoft Teams, Slack Integration Power"
     excerpt: "Salesforce plans to acquire a company that provides an integration tool for Salesforce subsidiary Slack and rival collaboration application Microsoft Teams. Salesforce, the San Francisco-based provider of customer relationship management (CRM) software,"
     publishedDateTime: 2022-05-10T17:23:00Z

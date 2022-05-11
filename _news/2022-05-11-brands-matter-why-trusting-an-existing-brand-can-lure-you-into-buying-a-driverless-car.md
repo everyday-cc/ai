@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/brands-matter-why-trusting-an-existi
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car-180854"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: The Conversation
@@ -40,6 +40,20 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/Plus’s-Autonomous-Trucks-Powered-by-PlusDrive-1-1.jpg"
         width: 1280
         height: 790
+        isCached: true
+  - title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
+    excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
+    publishedDateTime: 2022-05-11T11:52:00Z
+    webUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 20
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2022/05/SEI_99688536-1200x630-pl-exclusive.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "RIbnzp+yJQMxOi6SYf+qyLbq7IJHH8oA6ua+tssn9OVE7dS1PvY2im8GJli+UbMTuo9y3I8bBgXycKtN8qorhdHc8Ustw0vumZoiHrvBYn03KGAF5DYnQiggRdIY3PiYjHnNslM2HwLfFdpaO/J27cyQdj37eHH07Z9PJs3v+sdFu818G858EcbqL4b0dUyMd52JOkp+KVmhzsW3H/HNlrOMwvsVx0qmgMciNZ40Rb6TY0g8xpBDCaDdQRLrju3TaeYe5LWXaXK/8XRq4AkX+FLLDKTH8SUoVunQzNnZOATvM1sSgVkUw46+Plf7v/RedATu3JOYtae1aXYgOuu/oS11nCny0kiWwVk1szxpPl2yChtNhiMgFyo04EryVAd0M3RcEaG34YA4TYC2e3CzM8/+ll76NzhlPoepGz+F7Y8PUuLJVMsFYolhDofSXL7tQqfS09IOGE0GpsAkSl2hJlZCGj9NyOOAiWo1sZ6E0S8rqaB7q1ntx31/tMyP/2dsnZ4NNnBJAbskLWvPCyBqnQ==;R8AZ1rhvrHHh/NUBNw3kRA=="

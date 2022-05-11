@@ -53,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -441,33 +441,24 @@
     {
       "path": "_news/2022-05-06-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research.md",
       "title": "AbbVie Chooses Cerebras Systems to Accelerate AI Biopharmaceutical Research",
-      "excerpt": "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, and AbbVie,",
+      "excerpt": "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption . Cerebras Systems, the pioneer in high performance artificial intelligence (AI)",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/b27030653/abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27030653",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27030653",
-      "publishedDateTime": "2022-05-05T10:40:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T12:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null

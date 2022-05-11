@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-d
 webUrl: "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/19/l200_contentmod_fig1-1126x630.png"
         width: 1126
         height: 630
+        isCached: true
+  - title: "IBM Signs Strategic Collaboration Agreement with Amazon Web Services to Deliver IBM Software as-a-Service on AWS"
+    excerpt: "Building on IBM Software being available as-a-Service on IBM Cloud, this first-of-its-kind agreement between IBM and AWS will provide clients"
+    publishedDateTime: 2022-05-11T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-signs-strategic-collaboration-agreement-with-amazon-web-services-to-deliver-ibm-software-as-a-service-on-aws-1031447470"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "kbf5BV/KJh4DSTe0v429cvbDOt+Q8lm2MS41hXRa+pnpzpnlQtJZwZu1IGMj5sb2coPUzfm0Y2wA//jaAYbRBA0PBt7eGeQr2z/g6KmN9DAK6l4AAK4LSrW0eFXzj4MkaUymLmnB4iZ/xHMXsqEy+dnCBQGYUe9fekSRoLGgxDkjYYvt6L862fxqX2hnDY13Tzze+aWa5NpaNyoQ8PNubqzwzcjmeys2LfvRYwhAJymCVf177mOdh6ro5EEVg8VwD8/dvrjJuXW8ho8NkwxfkmzfGhvQLgw8GFnluDyjuwUwfthB7y6x4yMN/PypGaIU08n3uit8cMsFoeeNYVOPAl6byT0r5Ix6QZJ31xcV3bs=;p4YQBatF3Bfx0N1NNjudzw=="

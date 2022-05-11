@@ -41,6 +41,20 @@ related:
         width: 320
         height: 240
         isCached: true
+  - title: "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds"
+    excerpt: "They found that the enthusiasm of the technology companies behind driverless cars was considerably ... institute for data science and artificial intelligence. “If fully autonomous vehicles ..."
+    publishedDateTime: 2022-05-11T11:52:00Z
+    webUrl: "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=related_stories"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 20
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2022/05/SEI_99688536-1200x630-pl-exclusive.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ciJYiZwl6AufyHdgjutyyAwI54Og/EKljwodfjP+S5tGWTJD/wW/rrOqUZxq9MBNnpav6ktgsLSYh0IahaAyvMxMhRqZ8/Fe/HLnNAQIXtGMOvXN0XJk/4kLBaEKlacKmdRI1QDcJiQhO9rq9qu9joabayl2l4iKtBe2bK4Ytj9KaPI5c+VB1P+E5W8lcca1BUeklO8Ekzj01vwjWvdZp6TgZXE4WgLZHczRf1eplf6H7qx9PRyC3QiUhw+nvABqK9OYROJsVdxB2pfuR6X5ZHiHLaaJn6CoK/T3P1pQTtSRW0qDJnnYGk/knYv2ZySzZ+46pcDCbGJDRlO7m7thY0m9fBuPiK/1RbB08aGGZHgpzPE53kqxxtACKyk6uoS/uaveLB5Yk6leG6slEZzYQ20+DuiUqi0wLvakPzOWBu0DHSXkgMOVOVcW3biNHYaF+ZvwxoxdBc3N2Rp1UBkNxASQcLl5XBt+2j6PZwXb0R+lYMgldz3diQ0Wm6GK2Owib1iTTrsIb5IZwqUh4Ml8BQ==;Giuq89sl4cXqrlPXM9EyIg=="
 ---

@@ -2,6 +2,155 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-03-07-google-ml-can-help-discover-new-antibodies-enzymes-foods.md",
+      "title": "Google ML can help discover new antibodies, enzymes, foods",
+      "excerpt": "The shape of a protein provides very strong clues as to how the protein machinery can be used, but doesn't completely solve this question.",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods",
+      "originalUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://telanganatoday.com/wp-content/uploads/2022/03/Google-ML-can-help-discover-new-antibodies-enzymes-foods-709x450.jpg",
+          "width": 709,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp",
+      "publishedDateTime": "2022-03-07T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-07-role-of-artificial-intelligence-and-machine-learning-in-stem-education.md",
+      "title": "Role Of Artificial Intelligence And Machine Learning In STEM Education",
+      "excerpt": "Role Of Artificial Intelligence And Machine Learning In STEM Education Artificial intelligence technology is all over the place. Congratulations: you’ve interacted with artificial intelligence technologies if you’ve Googled something,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-machine-learning-stem-education-mori-",
+      "originalUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-machine-learning-stem-education-mori-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHj4DrVqZ5qOA/article-cover_image-shrink_720_1280/0/1646639402873?e=1652313600&v=beta&t=h4D8u_YUUeXrMhxEWYajyLIJI1rnhtY_-OLF43wZr7c",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-06T23:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-03-07-healthcare-artificial-intelligence-market-importunity-size-industry-analysis-statistics-and-forecasts-to-2026.md",
+      "title": "Healthcare Artificial Intelligence Market importunity Size, Industry Analysis, Statistics and Forecasts to 2026",
+      "excerpt": "In terms of application, the overall healthcare artificial intelligence market is classified into virtual assistants, wearables, hospital workflow, therapy planning, drug discovery, medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-importunity-size-industry-analysis-statistics-and-forecasts-to-2026-2022-03-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-importunity-size-industry-analysis-statistics-and-forecasts-to-2026-2022-03-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-06T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others.md",
       "title": "Healthtech startup DeepTek raises $10 million in funding from Tata Capital Healthcare Fund, others",
       "excerpt": "DeepTek said this funding will allow it to invest further in global outreach and also in securing important regulatory approvals.",
@@ -1009,135 +1158,6 @@
         "Facebook AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-7-favorite-fintech-stocks-to-buy-after-the-correction.md",
-      "title": "7 Favorite Fintech Stocks to Buy After the Correction",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/421408",
-      "originalUrl": "https://www.entrepreneur.com/article/421408",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/investorplace/hero-image-investorplace-421408.jpeg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-04T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-ionq-presents-algorithmic-qubits-benchmark-at-quantum-information-processing-qip-conference-2022.md",
-      "title": "IonQ Presents Algorithmic Qubits Benchmark at Quantum Information Processing (QIP) Conference 2022",
-      "excerpt": "Luning Zhao, a Senior Application Engineer with IonQ, will deliver an address describing the performance of IonQ Aria, the company's newest and most advanced quantum computer. Zha",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ionq-presents-algorithmic-qubits-benchmark-quantum-information-processing-/2022/03/04/9557400.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ionq-presents-algorithmic-qubits-benchmark-quantum-information-processing-/2022/03/04/9557400.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-04T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-ai-computer-maker-graphcore-announces-new-3d-chip.md",
-      "title": "AI computer maker Graphcore Announces new 3D chip",
-      "excerpt": "Graphcore, an England-based AI chips and systems maker, has announced a new 3D chip called “Bow”. The new chip will use two stacked",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/AI-computer-maker-Graphcore-Announces-new-3D-chip-01-1-1024x577.jpg",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-computer-maker-graphcore-announces-new-3d-chip/amp/",
-      "publishedDateTime": "2022-03-04T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

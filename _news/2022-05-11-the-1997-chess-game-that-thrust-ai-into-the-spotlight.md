@@ -1,48 +1,44 @@
 ---
 category: news
 title: "The 1997 chess game that thrust AI into the spotlight"
-excerpt: "LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any language into any language in a set of 200 languages\" or \"to have a single neural network that understands 100 languages\"."
-publishedDateTime: 2022-05-11T07:46:00Z
-originalUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
+excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out"
+publishedDateTime: 2022-05-11T03:21:00Z
+originalUrl: "https://www.digitaljournal.com/world/the-1997-chess-game-that-thrust-ai-into-the-spotlight/article"
+webUrl: "https://www.digitaljournal.com/world/the-1997-chess-game-that-thrust-ai-into-the-spotlight/article"
 type: article
-quality: 61
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - Natural Language Processing
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
-    width: 1024
-    height: 682
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/06c11a108d0e6ea1955723c2752aeb35beb7e488.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
-  - title: "On this day: AI arrived into chess spotlight"
-    excerpt: "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer."
-    publishedDateTime: 2022-05-11T06:38:00Z
-    webUrl: "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161"
-    ampWebUrl: "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161?amp"
+  - title: "Man vs. machine: The 1997 chess game that brought AI into view"
+    excerpt: "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally"
+    publishedDateTime: 2022-05-11T10:28:00Z
+    webUrl: "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news"
+    ampWebUrl: "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
+      name: Daily Sabah
+      domain: dailysabah.com
     quality: 61
     images:
-      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/05/11/chess_ai_vs_kasparov.jpg"
-        width: 750
-        height: 393
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/05/11/thumbs/800x531/204611.jpg"
+        width: 1600
+        height: 1061
         isCached: true
   - title: "The 1997 Chess Game With Garry Kasparov That Thrust AI Into Spotlight"
     excerpt: "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally achieved what developers had been promising for decades."
@@ -60,23 +56,7 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "National Technology Day: Five ways in which Artificial Intelligence (AI) has made an impact on our lives"
-    excerpt: "When Artificial Intelligence (AI) came into our lives, it was a novel, interesting and maybe even future-oriented concept. AI, which is intelligence demonstrated by machines,is seen now in our day-to-day lives."
-    publishedDateTime: 2022-05-07T16:17:00Z
-    webUrl: "https://www.freepressjournal.in/technology/national-technology-day-five-ways-in-which-artificial-intelligence-ai-has-made-an-impact-on-our-lives"
-    ampWebUrl: "https://www.freepressjournal.in/amp/technology/national-technology-day-five-ways-in-which-artificial-intelligence-ai-has-made-an-impact-on-our-lives"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/national-technology-day-five-ways-in-which-artificial-intelligence-ai-has-made-an-impact-on-our-lives"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 57
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2022-05/96fea637-b851-418f-8c59-1c9065bbba92/artificial_intelligence_pixabay_may_8.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "PhjPRKjCLLC96zkjkZZWoY8LaOH8GBwvu4fW0XEoaF2ZxsPbmFNa3dpjiFhuKBAC2r61igGy+Y/W4OeXfj89fRkp+vYX8TO3CJr6xhKV98BVfPUy3SCJYqFh0yMUbBUvVHxE5PlU5ciV6eZOexMKvmJLuA3pyyYOdd+EQmlYY7N6LbYdoOBUKsqDehcriICBhYCzi/pccJghJIHJgKBWEzDF2xe6CBlaRt1CtEjSp9hx93/4QnFlS6IcFpMyBasBlj/s13Mzt0FzjsZeS4c5p4c+pB55I5arlG9ge1LQH12YT8fDbWWT2hu/1ijocPdMlcI+GY2OjRzW/C7RPi9I/3Yiz2BkHyvc7mZ7CQerg0rdVsEdowPiyTXgzibh/vim4nhJK2mq3RBCNpND8/6NEAGov3I228NtCQ1FP6bNR2Oai/9yEl9ww6X5CebkcRA2GGNf1M5kTgNJnWfAUsXUj5mOaKSMe9rUinEAUSRdI0cg+NZV/eKghabTjN5aSl1ck+2J0HNurcSM3r9vF6AyCQ==;a4f/9xBJg9bTrTWJ9GnXKA=="
+secured: "nXL9lZARD/zS63NVtueFzOU/zsmWkHmeK3Z27t+bDiUGFvjQBiA0h7CzSyH4dMlECkuSv0Q0Yg4DuZOekjlY3vB/jOGvYZBgapQQmeCOb4f0ttuXAvHwmvixG8rljWWaFreROUl1DOEeCW30Bh9dprYe5BOT0ZHVdg5JPexja8XlzNW0e52miPzUv+GWzz7Mw67CfwTgxr3LjoR4ETkrtRQNWLoZZAqRxMByBy8tqZVNs//U0G9nBRO0SlT2lz2hJtsJrt/+31+rKzhxtM/EfwT0YrS9VM++jW7QQTmdjccMkJeTXN+9Xy4UFTH/pIM3kgALHGoqedgHYHT2vmwu8hiaq744RbY07jvYGQJqalU=;DPe41KvAq/Adh3yfvUxv5A=="
 ---
 

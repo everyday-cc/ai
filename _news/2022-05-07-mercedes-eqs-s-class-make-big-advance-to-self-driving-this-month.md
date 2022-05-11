@@ -24,26 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Mercedes-Benz announces sales launch of DRIVE PILOT self-driving tech"
-    excerpt: "STUTTGART: Mercedes-Benz has released details of the sales launch of DRIVE PILOT in Germany. The system for conditionally automated driving (SAE Level 3) can be ordered from May 17 as an optional extra for the S-Class for €5,000 (RM23,000) and for the ..."
-    publishedDateTime: 2022-05-06T18:16:00Z
-    webUrl: "https://www.carsifu.my/news/mercedes-benz-announces-sales-launch-of-drive-pilot-self-driving-tech"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 21
-  - title: "Mercedes-Benz Says Self-Driving Option Ready to Roll"
-    excerpt: "Mercedes-Benz Cars says it plans to release “Drive Pilot,” a conditionally automated Level 3 system for automated driving in Germany for S-Class and EQS, for sale May 17, making Mercedes the first car manufacturer in the world with self-driving system ..."
-    publishedDateTime: 2022-05-06T18:00:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/05/mercedes-benz-says-self-driving-option-ready-to-roll/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 4
-
 secured: "tnOSMzbLeHDQ3JPVFD9smDQUD2KUN6oDVTZnA5782HcLo85mdHjjwS6oaiBWnfYVMJZtKE9nET8gMmKYOYHKpETKBOE2BrJ5AXVAyElaZ356/yu1SlwSC4VqLyiKtUcbANFYm5ZkxOWktyY0IjfjxPVnoEQe2RPDDkMXZsB1O2wsKI3/Wwn3jhb4lzY4K1a2bM3LAKJmXtg/oNc1bGyqvBHKYLq370FDvam0nCbiWfWTJb6jcLoxz96LqjH7cWG4fIPUkP4ic+q/oDM8KHWZzE1VuGsK8txsLMEDFh42YyGkBI+Y3/p9H6v2AZ0U3PPHQfa7fYgKeHry4tXVLXenqkNbS9/eUI43zMTH0JW5VTALZ2xyHPTtxyRwhOiDZaJD+BYiQCV9i04wkAiipumngVsLqCyK5B0A8pSmQjMaVNMIzwZUMAHafJF85o/LL+7g6jPkzWUlocL9YXbk4tM/gIXV16euyaG9YA5Yw7TafbA9IZNWX8HlSvvoj+puvYB5GQ1ZoVTqBjRxAs23UNYlTQ==;Q/lyuy4ePvBXQ1reFLEA2g=="
 ---
 

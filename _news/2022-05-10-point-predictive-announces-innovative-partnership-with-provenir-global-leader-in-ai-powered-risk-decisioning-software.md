@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software"
-excerpt: "Point Predictive Inc., the San Diego-based company that provides artificial intelligence (AI) solutions to lenders, announced today its strategic partnership with Provenir, a global leader in AI-powered risk decisioning software for the fintech industry."
-publishedDateTime: 2022-05-10T15:54:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-software-san-diego-artificial-intelligence-9212e215fdca0ffc1e37c9c0ab9a5088"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-software-san-diego-artificial-intelligence-9212e215fdca0ffc1e37c9c0ab9a5088"
+excerpt: "a global leader in AI-powered risk decisioning software for the fintech industry. Available through the Provenir Marketplace, Point Predictive's Artificial + Natural Intelligence™ solutions provide Provenir customers with increased underwriting ..."
+publishedDateTime: 2022-05-10T15:19:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software/article_39166c37-7a76-545d-899f-cc98fa9bcad2.html"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -95,6 +95,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "/4y8CKwwaghdRcn07D7RAZtqc8lscr6qlc5g+QO3wtpl5SSlPGxAkXE7bUyUQ5wjz4LppXmLhjVf7GcSMYWmzIcKys/5NwdrlzALVDMMCIXRzriu/VML0fHPIdd2iIdZTjc/hc0DM31sXWujejt2/D5nkks62RTKID4QWZrmEy64gzSLaA3oCEPZ7vYwkr2qcqvNiYnFrMIOZXX1Tyd5APtOL/0dPf6Zw5JtcpgvSn6LBKYXmf2Vp1D8NOisDP+pyUPhP1K+WkFXnOmOgjBn0p4muwSBfsaEKJJe7YHeAqHdVuGMvNsaZ5TVmRAdDZQnJcax0fz0Hsmv8fIiyipT2YaGPsOjWVFqX0Qtt/LrDDo=;umrpckywBor67fmk1sw5XQ=="
+secured: "XxE9BIdjnzeREgVkzjZaivlznlfn5QM7P40co45fbJ7uXIsJ7+cykoPauKFS0PBuR37b5eu/1JbEO0e5ng+CgLbBi+xayOo+fLwqtROWfUnQn/749ulv/VFzB5xnf2VpGtXiWveEPZpV9bRKTdALgkcpdXiojcKQGOY80JAMh3n7OHAVbPV9XO0EmRFyPpCCsv7VRgd8xluZ2+wXf3/sQYNJWurevPBCrHuaMNT1YNYZEDi7YOKEnYLhvsF3ibVId0IuXixWbY9Qkcx43TfVsRjyK/DfbMjAHf3f6kgF6C7S9agLcWlZL4CMSYULYIvcEwegk4DD1dBWSNeRn7AvvjNwflwgSBSRs8k5+PaJcjs=;AnjZPKbc+lrw2rlWLetYkw=="
 ---
 

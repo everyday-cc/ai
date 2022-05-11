@@ -24,17 +24,6 @@ images:
     height: 715
     isCached: true
 
-related:
-  - title: "A Bold New World: GE Healthcare's Pioneering Deep Learning Image Reconstruction Technology Benefits More Than 2 Million Patients Globally"
-    excerpt: "Artificial intelligence (AI) and healthcare access remain key themes at ISMRM as researchers and clinicians seek more efficient and effective solutions in today's resource-constrained environment GE H"
-    publishedDateTime: 2022-05-06T18:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/b27055240/a-bold-new-world-ge-healthcares-pioneering-deep-learning-image-reconstruction-technology-benefits-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
-
 secured: "sMFHoE7U2PiUIDNkzjUaxQg7lip22ZZT8V99Z6SdpC1A9IDqC6GZAK8VfiqebkiNSK7U6cdfpJmY7HABSDXAyFmxncMnqQ3PT86S23rT9FS/7Z5zIYz7tBUbLvsAjKmhsdCdEPGrUUhi7IMc6ySQP5IdZO1BV2EkBNsAmag2BYF9zjP+q2Qh2fMyUsasaauNZEJ0gDaJhUP1W4ebriPB0/9vdNqYhT2iHDG8JcZvTjj+ztRCuPR+jbkRs2iB/JePswGmzRgxsT3zInva/y7eiGSfqyCG3dMa5i9L99v48PXwm8crTEbNwCiXfFPUIub2YSScrmigAEyO7ojfhvsAQ22Y6zWSKveLGvhTjndM+2KnVkZv7D7TWNIbDQPFvgerQCxOuvN4thsHRvUJiWYxFOIXJPwQ0Kn34oEKgYlmXPu+dkHpRPhyYjcnUq64y7uOxiK4DrrrQqiFKT30ijAD47CAwHNCN8hU+UyTbesNjTezuYPLIssGQ+TQNwct2gJGBLy2rjKy4vVLIUOWab5EkA==;MlMUYp8lVxvOvIyDqpJqrA=="
 ---
 

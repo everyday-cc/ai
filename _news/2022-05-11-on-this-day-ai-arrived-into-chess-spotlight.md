@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/sports/chess/news/day-ai-arrived-chess-spotlight-3021161?amp"
 type: article
 quality: 61
-heat: 91
+heat: 71
 published: true
 
 provider:
@@ -28,38 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 1997 chess game that thrust AI into the spotlight"
-    excerpt: "LeCun, one of the founding fathers of modern AI, lists among the achievements of today's computers an ability \"to translate any language into any language in a set of 200 languages\" or \"to have a single neural network that understands 100 languages\"."
-    publishedDateTime: 2022-05-11T07:46:00Z
-    webUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "The 1997 Chess Game With Garry Kasparov That Thrust AI Into Spotlight"
-    excerpt: "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally achieved what developers had been promising for decades."
-    publishedDateTime: 2022-05-11T03:52:00Z
-    webUrl: "https://www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686"
-    ampWebUrl: "https://www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/the-1997-chess-game-with-garry-kasparov-that-thrust-ai-into-spotlight-2964686/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 61
-    images:
-      - url: "https://c.ndtvimg.com/2022-05/3d14dnpo_garry-kasparov_625x300_11_May_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "National Technology Day: Five ways in which Artificial Intelligence (AI) has made an impact on our lives"
     excerpt: "When Artificial Intelligence (AI) came into our lives, it was a novel, interesting and maybe even future-oriented concept. AI, which is intelligence demonstrated by machines,is seen now in our day-to-day lives."
     publishedDateTime: 2022-05-07T16:17:00Z

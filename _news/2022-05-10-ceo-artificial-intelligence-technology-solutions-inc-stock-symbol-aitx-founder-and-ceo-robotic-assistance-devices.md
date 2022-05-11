@@ -25,6 +25,17 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Another Order of 3 Robots from a top ranked global logistics Company for $AITX: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
+    excerpt: "Artificial Intelligence and Robotic Solutions for Multiple Applications. Expanding Sales Including Expectation of Large Orders from Global Small Box Retailer and Casino Operators. Collaboration with Nightingale Security to Complete Autonomous Air ..."
+    publishedDateTime: 2022-05-11T11:18:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-11-another-order-of-3-robots-from-a-top-ranked-global-logistics-company-for-aitx-artificial-intelligence-technology-solutions-stock-symbol-aitx"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+
 secured: "pHBrTzcWlujm/JkIRIq0HERHhmDXjIpJ1cYVwy4it/yuhbsXbT+X5FGLgwidEF8i1eZNM3t0j98gCo13lxly6kK4mSMZn20wVPRLkQtq/JDa/PneVTG6z+W//oQO8kEXRtB273i7uOm8x83KXuiSFkqB3qq5G7WnT/V9jCRrMcV9/TgG/AbgV46M72SWPJWNYXZrOTOjMqJeqXH84eoseWD0WGqWotuwWcQLKd4ox+ZzfzGuOPLOyBJcdMriGMb0yfsE3Nq1L/s1JXYZ6wIBnatp9bQF3sei2e8rdOHSZKSlMvPsa7jzPLt2AMoF5fgrgyFBmgfxsT+/DU+RqJ0KtPkqF8Qb+FEvjIcWTwVV9ndfyQfvPqHpqb2fAlZ3zVhZj+rJZEJ5UiYoMn5gla5iYxC4mExwlTFVPG7FvHujaOnqR8+ZkZgxQWVEMtPR+hd2CYz+NpPBjY9kiX005MUDVecDB7HXOEbfuN9SeSKqXjwLQfsnQNBFI6xTGWFFtOY/3wD836B+LdKA2NYMXISpeg==;l/APNZFsVpYfUQcrk3yynA=="
 ---
 

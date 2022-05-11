@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Bio Pharmaceuticals Research Report 2022 - ResearchAndMarkets.com"
+    excerpt: "AI is regarded by some top executives at big pharma (Novartis ... Microsoft partnered with robotic surgery startup Cmr Surgical on a proof of concept to store clinical data from cmr’s next-generation surgical robot, Versius, into a glass, marking ..."
+    publishedDateTime: 2022-05-11T10:07:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-86f0d638b22a40dda9d8e1b38b8a9e6d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "South Africa IT Market Report 2022 - Key Drivers Include AI, Cloud Computing, Big Data Analytics, 5G and IOT - ResearchAndMarkets.com"
     excerpt: "The “IT Industry in South Africa 2022” report has been added to ResearchAndMarkets.com’s offering. The pandemic has given an enormous boost to digital transformation, and the IT industry. Supply chain issues,"
     publishedDateTime: 2022-05-09T09:59:00Z

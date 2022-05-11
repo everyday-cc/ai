@@ -43,6 +43,20 @@ related:
         width: 948
         height: 566
         isCached: true
+  - title: "IBM Signs Strategic Collaboration Agreement with Amazon Web Services to Deliver IBM Software as-a-Service on AWS"
+    excerpt: "Building on IBM Software being available as-a-Service on IBM Cloud, this first-of-its-kind agreement between IBM and AWS will provide clients"
+    publishedDateTime: 2022-05-11T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-signs-strategic-collaboration-agreement-with-amazon-web-services-to-deliver-ibm-software-as-a-service-on-aws-1031447470"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
 
 secured: "BSG6myY/EQip8ntuI0+52M+wpYS/HOq1LB5nojP0LjghAUTqLeNQs1RhdL/4DeQ0+v5USZ/jCIAsBrZxh7DAIcKGK8LUqjiggJg5ObnfsW3hepgzrfZeC0ZaxezMLoa7V/fBGzMgW9hbZJaVmf2Tt+KcdFFnN2wqZbHDJAM2QwVpXh767oEbVGq/MJQBeRVpEtEv2gJI9HTj7p2xi94hz7lEKHoiHgKbu/G9zy1ueB6ZdfYqmUrwzavJ+s29bwEl88d8u/WDhyVgz+5Wr4fQei68bxmgxmGiNvmJHee6FQigLpI5P3DvVJA3nNWH9bWRTdgM2mOt1v8IzvwPpV/FL+XspyWmiY/IK0Dl1k2At80=;wdHsPFSEUxsW2xUXQuNI5w=="
 ---

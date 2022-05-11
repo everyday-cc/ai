@@ -2,6 +2,134 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-06-how-ai-powers-modern-product-lifecycle-management.md",
+      "title": "How AI powers modern product lifecycle management",
+      "excerpt": "With every step of the product development cycle, there are meaningful contributions from AI-powered product insights platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/",
+      "originalUrl": "https://venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/05/how-ai-powers-modern-product-lifecycle-management/amp/",
+      "publishedDateTime": "2022-05-05T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research.md",
+      "title": "AbbVie Chooses Cerebras Systems to Accelerate AI Biopharmaceutical Research",
+      "excerpt": "Cerebras CS-2 accelerates artificial intelligence work while radically reducing power consumption . Cerebras Systems, the pioneer in high performance artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-abbvie-chooses-cerebras-systems-to-accelerate-ai-biopharmaceutical-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups.md",
+      "title": "AL STOCK TRADES Introduces Efficient Services to Optimize Management and Investment of Money by Low – and Middle-Income Groups",
+      "excerpt": "The company endeavors to democratize financial information and introduce efficient money management and investment services with a view to achieving ... software called BrainMachine and other machine learning algorithms, which will offer relevant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups",
+      "originalUrl": "https://www.digitaljournal.com/pr/al-stock-trades-introduces-efficient-services-to-optimize-management-and-investment-of-money-by-low-and-middle-income-groups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://orders.newsfilecorp.com/files/8404/122911_fb68ff7964363984_001.jpg",
+          "width": 550,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-using-ai-to-predict-bone-fractures-in-cancer-patients.md",
       "title": "Using AI to predict bone fractures in cancer patients",
       "excerpt": "As medicine continues to embrace machine learning, a new study suggests how scientists may use artificial intelligence to predict how cancer may affect the probability of fractures along the spinal column.",
@@ -336,6 +464,50 @@
       ]
     },
     {
+      "path": "_news/2022-05-05-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022.md",
+      "title": "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022",
+      "excerpt": "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-858d088c1dbb4b1ea6502a6cbb2d8075",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-meet-nvidias-huge-h100-chip-thats-powering-tomorrows-ai.md",
       "title": "Meet Nvidia's Huge H100 Chip That's Powering Tomorrow's AI",
       "excerpt": "Exclusive: The new chip helps cement Nvidia's lead in technology that's revolutionizing computing challenges like language and self-driving cars.",
@@ -386,41 +558,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022.md",
-      "title": "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022",
-      "excerpt": "Breakout sessions will cover digital transformation, data and analytics, fraud and financial inclusion, customer onboarding and management, and more. FICO, a leading applied intelligence company, to host 1000+ financial services industry executives at the upcoming FICO ® World conference in Orlando,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-5-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -567,8 +704,8 @@
       "title": "Computer Vision As A Solution To Safety Challenges In Industrial Facilities",
       "excerpt": "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ...",
       "sourceUrl": null,
-      "webUrl": "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1",
-      "originalUrl": "https://ohsonline.com/Articles/2022/05/05/computer-vision.aspx?p=1",
+      "webUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
+      "originalUrl": "https://ohsonline.com/articles/2022/05/05/computer-vision.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -877,15 +1014,15 @@
       "title": "Tailored Cognitive Therapy Helps Black Women Fight Insomnia",
       "excerpt": "WEDNESDAY, May 4, 2022 (HealthDay News) -- A cognitive behavioral therapy (CBT) intervention for insomnia tailored for Black women improves sleep outcomes and intervention engagement, according to ...",
       "sourceUrl": null,
-      "webUrl": "https://billingsgazette.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f48f94f2-8aec-569e-a66b-0980561fdd18.html",
-      "originalUrl": "https://billingsgazette.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f48f94f2-8aec-569e-a66b-0980561fdd18.html",
+      "webUrl": "https://azdailysun.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f67aab5d-46af-5957-a490-f075beb302e2.html",
+      "originalUrl": "https://azdailysun.com/lifestyles/health-med-fit/tailored-cognitive-therapy-helps-black-women-fight-insomnia/article_f67aab5d-46af-5957-a490-f075beb302e2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/2/b9/2b9fde95-caf0-5aa0-a34a-dfbe8a15d144/6272ac68bd4e4.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/8/ef/8ef36d0e-a998-5676-b3dd-de7c7e89b16d/6272ac7d2f28b.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
           "width": 600,
           "height": 315,
           "title": null,
@@ -897,11 +1034,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T09:50:00-07:00",
+      "publishedDateTime": "2022-05-04T09:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Billings Gazette",
-        "domain": "billingsgazette.com",
+        "name": "Arizona Daily Sun",
+        "domain": "azdailysun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1009,143 +1146,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-soundcloud-buys-ai-that-claims-to-predict-hit-songs.md",
-      "title": "SoundCloud buys AI that claims to predict hit songs",
-      "excerpt": "Though a far cry from the smoky clubs and A&R legends of old, AI is becoming an increasingly critical part of finding up-and-coming artists. Music distribution platform Tunecore announced in February that it is partnering with LA-based music startup Fwaygo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits",
-      "originalUrl": "https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/KxExR6HndslDDdlqsMY17wm3MSc=/0x91:2040x1159/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9020373/akrales_170802_1743_0094.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-petuum-unveils-enterprise-mlops-platform.md",
-      "title": "Petuum Unveils Enterprise MLOps Platform",
-      "excerpt": "Tong Wen is an Architect and Director of Engineering at Petuum. Tong joined Petuum from Microsoft where he was a member of the founding team of Azure Machine Learning. Tong has 10+ years of experience in building innovative and high-impact AI/ML and HPC ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-deepminds-flamingo-visual-language-model-demonstrates-sota-few-shot-multimodal-learning-capabilities.md",
-      "title": "DeepMind’s Flamingo Visual Language Model Demonstrates SOTA Few-Shot Multimodal Learning Capabilities",
-      "excerpt": "In the new paper Flamingo: a Visual Language Model for Few-Shot Learning, a DeepMind research team presents Flamingo, a novel family of visual language models (VLMs) that can handle multimodal tasks such as captioning, visual dialogue, classification and ...",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/05/04/deepminds-flamingo-visual-language-model-demonstrates-sota-few-shot-multimodal-learning-capabilities/",
-      "originalUrl": "https://syncedreview.com/2022/05/04/deepminds-flamingo-visual-language-model-demonstrates-sota-few-shot-multimodal-learning-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/05/04/deepminds-flamingo-visual-language-model-demonstrates-sota-few-shot-multimodal-learning-capabilities/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/05/04/deepminds-flamingo-visual-language-model-demonstrates-sota-few-shot-multimodal-learning-capabilities/amp/",
-      "publishedDateTime": "2022-05-04T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

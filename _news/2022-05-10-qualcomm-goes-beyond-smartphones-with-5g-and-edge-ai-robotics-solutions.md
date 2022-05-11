@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/amp/"
 type: article
 quality: 123
-heat: 133
+heat: 135
 published: true
 
 provider:

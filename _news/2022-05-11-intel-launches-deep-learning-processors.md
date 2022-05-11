@@ -39,6 +39,20 @@ related:
         width: 599
         height: 523
         isCached: true
+  - title: "Intel's Habana Labs unveils Gaudi2 and Greco AI processors"
+    excerpt: "Intel's Habana Labs subsidiary has unveiled two new chips for artificial intelligence workloads. The subsidiary - which Intel acquired for $2 billion back in 2019 - debuted the Gaudi2, the second generation deep learning training processor;"
+    publishedDateTime: 2022-05-11T11:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/intels-habana-labs-unveils-gaudi2-and-greco-ai-processors/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/gaudi2-mezzanine-card-719x500.2e16d0ba.fill-1200x630.jpg"
+        width: 719
+        height: 378
+        isCached: true
   - title: "Sequitur Labs Showcases Complete Chip-to-Cloud Software and SaaS Solution at the Embedded Vision Summit"
     excerpt: "May 17 and 18. The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI -enabled products, including embedded systems and mobile applications. The Sequitur Labs Security ..."
     publishedDateTime: 2022-05-10T12:32:00Z

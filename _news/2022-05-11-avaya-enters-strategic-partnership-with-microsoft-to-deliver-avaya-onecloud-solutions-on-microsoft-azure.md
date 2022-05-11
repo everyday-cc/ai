@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Avaya partners with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
+    excerpt: "Avaya and Microsoft Corp. have expanded their global partnership by pairing the industry leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations with more options to increase their productivity and customer engagement with unrivaled reliability,"
+    publishedDateTime: 2022-05-11T09:40:00Z
+    webUrl: "https://www.crn.in/news/avaya-partners-with-microsoft-to-deliver-avaya-onecloud-solutions-on-microsoft-azure/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 47
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2021/08/16173811/CRN_Mergers_05_696.jpg"
+        width: 696
+        height: 465
+        isCached: true
   - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"
     publishedDateTime: 2022-05-10T09:16:00Z
@@ -81,6 +95,6 @@ related:
       domain: stockhouse.com
     quality: 15
 
-secured: "QQFHv8ScYqci5TyU2mO6a3gri655uPuvyv0m8HWeN+IHheeZrX551LQ8bc569hjiNqTJmm1544BAExvywy/glAR38eFZtD8b4oTBzQQ1A8h6p/Z36B9vLyDe3p2zGTT3CFpZmznGHxDzU5mvpiYhNzIst+ZbbbhFRmRZevfEqAAVFlqZwD/T9Tza/scqzR5Wj/biwxO8Recs57C1OjYDRxm4IeOaoiBl8CW/j7PeJOZCVXZku7TmNX1ZuD9aMNm0MpM/gxsi9+ZWE0xxsXnc1Ctz2xtMWphnoi37r2TCqBB7Y05jhgr+gbFoeGKl5ozd9qlY7KUuNqzeI8vePZd1Xtyt03yOhqLZBVTS3vhAuAM=;qbOVRmdAt10SwGOYd6XYEw=="
+secured: "IbCldoJW6FO27QxCTvvG8mJoR7wvCUQ0XIUQsIi54KaJzjDI6s6GssIEp5WfLPA2QN7VAbCJmaHBkqMY5zXffGAqnxso8CFduEWcUEgy6OyeAD6KJFLTaaznzGTCae6XZIz3x4giuM2lJ6IQdDhQFsq9Sp8cHPoRQon66OBfg+v21viDvs67W+TL8lNh6Eje0Tt4yagst389Tt0HQKg/Un2ELyXxplQVAgXTqnXyjaqWLThCkZceRtUaf5ngloF1lQDwknC3NraYlujkodH2NVil7OU49G634ycq4i+ypMDvT15KHy8eRxt/N1QQcNXV/HEfPp5Xx5fkiopqFXllaUuQCcJmUmCdUk+z7R9MgvfZaM7IoN/l7nHVq2JEA2qGRXHXadxuOUb8y1hIO8mT3EaAt6yMI/lYutDWKY/GlEC5PNNH7iQP0Lg28fstdLix76Cl1KLwjAQagR6RSCz12F5cZFdFsxLUQ+AF++x4tIfP83IyUxjPR2b1r+KI8E7aOb4bua5K0vCF9fn3yXVcdA==;Gcd1lDIBApv97OwRYMgivQ=="
 ---
 

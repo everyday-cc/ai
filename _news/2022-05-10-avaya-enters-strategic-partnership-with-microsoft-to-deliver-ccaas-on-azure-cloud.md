@@ -57,6 +57,20 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Avaya partners with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
+    excerpt: "Avaya and Microsoft Corp. have expanded their global partnership by pairing the industry leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations with more options to increase their productivity and customer engagement with unrivaled reliability,"
+    publishedDateTime: 2022-05-11T09:40:00Z
+    webUrl: "https://www.crn.in/news/avaya-partners-with-microsoft-to-deliver-avaya-onecloud-solutions-on-microsoft-azure/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 47
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2021/08/16173811/CRN_Mergers_05_696.jpg"
+        width: 696
+        height: 465
+        isCached: true
   - title: "Avaya enters strategic partnership with Microsoft to deliver Avaya OneCloud Solutions on Microsoft Azure"
     excerpt: "The joint technology and go to market agreement will help customers accelerate their digital transformation initiatives in the cloud"
     publishedDateTime: 2022-05-10T09:16:00Z
